@@ -1,0 +1,8 @@
+# Force LF line endings for all text files so SHA-256 checksums stay reproducible
+# across Windows / macOS / Linux clones.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.pdf binary
+*.epub binary
