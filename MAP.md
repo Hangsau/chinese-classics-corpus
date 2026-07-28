@@ -14,6 +14,8 @@
 | 查某部書在不在清單、為何某部結構特殊 | `scripts/catalog/chinese-classics-ws.json`（73 部，特殊處置寫在該部的 `structure_note` / `coverage_note`） |
 | 抓完驗證 | `PYTHONIOENCODING=utf-8 python scripts/verify.py`；重生索引 `... scripts/build-index.py` |
 | 跑心理學標註 | 先讀 `SCHEMA.md` §3 分流 `text_role`，`reference` 類不進管線 |
+| 標一部新書 | `scripts/make-scaffold.py --slug <slug>` 產骨架 → 讀**全文**填 null 欄位 → 回填 `meta.json` 的 `psych_survey`。**不要手寫 `annotations.json`**（壞錨點都是這樣進來的） |
+| 改段落切分規則 | `scripts/corpus_text.py` 是唯一來源，make-scaffold 與 verify 共用。**動它等於動所有既有錨點** |
 | 記錄「這部書沒東西」 | `SCHEMA.md` §5 `psych_survey`（`domains_hit` + `domains_null` 都要寫） |
 | 接到 knowledge-hub | `SCHEMA.md` §6 + `../knowledge-hub/CLAUDE.md` |
 
@@ -26,8 +28,10 @@ MAP.md             本檔
 SCHEMA.md          資料契約——動 downloader 或標註管線前必讀
 pilots/            方法論驗證紀錄。新增 schema 維度前必須先在這裡驗過
 scripts/catalog/   書目 canonical（只有 *-ws.json；ctext 路線已整條移除）
+scripts/corpus_text.py           段落切分單一來源（make-scaffold 與 verify 共用）
 scripts/download-wikisource.py   下載器，含 --survey 預檢模式
-scripts/verify.py                驗證，push 前必須全綠
+scripts/make-scaffold.py         由本文生成標註骨架（錨點自動產，人只填 null）
+scripts/verify.py                驗證，push 前必須全綠。含錨點漂移偵測
 scripts/build-index.py           由 meta.json 生成索引
 translations/<slug>/
   ├── meta.json         書級 L1 + psych_survey
@@ -37,7 +41,7 @@ translations/<slug>/
 00-overview/       生成物（INDEX.json / INDEX.md），不手改
 ```
 
-`translations/` 已有 68 部（phase 1 全數），`00-overview/` 已生成。`annotations.json` 尚未開始產出。
+`translations/` 已有 68 部（phase 1 全數），`00-overview/` 已生成。`annotations.json` 目前 2 部（`sunzi-bingfa` 91 段、`jiuzhang-suanshu` 720 段），其餘 66 部的 `psych_survey` 仍是 `null`＝未通讀。
 
 ## 下載器結構陷阱（四類已修過，改 downloader 前先看）
 
@@ -63,7 +67,8 @@ translations/<slug>/
 ## 踩雷點
 
 - **不憑書名判斷有無標註價值**。本庫存在的原因就是這個錯誤（兵家 8/13）。
-- **不只記命中**。九章 13 領域只中 1，這個「幾乎全空」本身是資料，不記半年後有人又憑書名重跑。
+- **不只記命中**。九章 720 段有 692 段全空、13 領域只中 3（其中 2 個還在劉徽自序），這個「幾乎全空」本身是資料，不記半年後有人又憑書名重跑。
+- **零命中不等於沒思想**。九章思想密度最高的一段（割圓術）零命中，因為它屬 `Z-wisdom` 支流，而支流依 vocab 不得填進 `psych_domains`。下結論前先分清是「沒有」還是「被 13 領域刻意排除」。
 - **不對 ctext.org 跑批量下載**。明文禁止，違者無預警封鎖；religions-history 已踩過 200/24h。本庫現在完全不碰 ctext。
 - **`expected_chapter_count` 是驗證後凍結的觀測值，不是估計值**。verify 報章數不符＝結構真的變了，要判斷是修好還是弄壞，**不要反射性再同步一次數字**。
 - **不動 `raw/original.txt`**。動了破 SHA-256。

@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-07-28T03:14:13+00:00",
+    "generated_at": "2026-07-28T03:34:25+00:00",
     "text_count": 68,
     "total_bytes": 10553141,
     "by_category": {
@@ -26,23 +26,23 @@
       "original": 66,
       "contested": 2
     },
-    "surveyed_count": 1,
-    "annotated_count": 1,
-    "scaffolded_count": 1,
-    "paras_judged": 91,
-    "paras_pending": 720,
+    "surveyed_count": 2,
+    "annotated_count": 2,
+    "scaffolded_count": 0,
+    "paras_judged": 811,
+    "paras_pending": 0,
     "domain_hit_counts": {
       "II": 1,
       "III": 1,
       "IV": 1,
       "IX": 1,
-      "V": 1,
+      "V": 2,
       "VI": 1,
       "VII": 1,
-      "VIII": 1,
+      "VIII": 2,
       "X": 1,
       "XI": 1,
-      "XII": 1
+      "XII": 2
     }
   },
   "texts": [
@@ -440,11 +440,15 @@
       "size_bytes": 93135,
       "chapter_count": 10,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
+      "surveyed": true,
+      "domains_hit": [
+        "V",
+        "VIII",
+        "XII"
+      ],
       "paras_total": 720,
-      "paras_judged": 0,
-      "annotated": false
+      "paras_judged": 720,
+      "annotated": true
     },
     {
       "slug": "kongcongzi",

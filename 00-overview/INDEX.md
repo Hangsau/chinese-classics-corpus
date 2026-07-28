@@ -1,7 +1,7 @@
 # 索引
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 生成時間 2026-07-28T03:14:13+00:00｜68 部｜10,553,141 bytes｜已通讀 1 部｜已段落標註 1 部（91 段）｜僅有骨架待標 1 部（720 段）
+> 生成時間 2026-07-28T03:34:25+00:00｜68 部｜10,553,141 bytes｜已通讀 2 部｜已段落標註 2 部（811 段）｜僅有骨架待標 0 部（0 段）
 
 ## 分類統計
 
@@ -63,7 +63,7 @@
 | `shangjunshu` | 商君書 | 法家 | original | 25 | 73,476 | — | — |
 | `shenzi` | 慎子 | 法家 | original | 9 | 25,740 | — | — |
 | `haidao-suanjing` | 海島算經 | 算書 | original | 1 | 5,469 | — | — |
-| `jiuzhang-suanshu` | 九章算術 | 算書 | original | 10 | 93,135 | — | 骨架 720 |
+| `jiuzhang-suanshu` | 九章算術 | 算書 | original | 10 | 93,135 | ✓ | 720/720 |
 | `sunzi-suanjing` | 孫子算經 | 算書 | original | 4 | 35,563 | — | — |
 | `zhoubi-suanjing` | 周髀算經 | 算書 | original | 6 | 22,323 | — | — |
 | `chuci` | 楚辭 | 術數 | original | 29 | 60,505 | — | — |

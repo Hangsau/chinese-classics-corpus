@@ -5,18 +5,29 @@
 
 ## 現在在哪
 
-**第一批 68 部全文已入庫並通過驗證。標註一個字都還沒開始。**
+**第一批 68 部全文已入庫。標註管線已跑通，ground truth 兩部完成。**
 
-`verify.py`：68 部、10,660,493 bytes、**0 errors、6 warnings**。索引已由 `build-index.py` 生成。
-`psych_survey` 全部是 `null`——依 SCHEMA §5，`null` 是「未通讀」不是「沒有」。
+`verify.py`：68 部、10,553,141 bytes、**0 errors、6 warnings**。
 
-下一件事是標註管線，不是再擴收書目。
+| 部 | 段數 | 已判讀 | 命中領域 |
+|---|---|---|---|
+| `sunzi-bingfa` | 91 | 91 | 11／13（未命中 I、XIII） |
+| `jiuzhang-suanshu` | 720 | 720 | 3／13（V 26 段、VIII 1 段、XII 1 段） |
+
+其餘 66 部 `psych_survey` 仍是 `null`——依 SCHEMA §5，`null` 是「未通讀」不是「沒有」。
+
+**兩部 ground truth 的意義**：孫子證明方法找得到東西（連自己試點都漏標 3 個領域），九章證明方法說得出「沒有」（692/720 段為空）。方向不同但錯法一致——兩次全文讀都只往「補上漏標」修，沒有一次是試點標了而全文推翻。
+
+下一件事是把探針推到第三部，不是再擴收書目。
 
 ## 已完成
 
 | 項目 | 檔案 | 說明 |
 |---|---|---|
-| 方法論試點 | `pilots/2026-07-28-sunzi-jiuzhang.md` | 孫子兵法 13 領域命中 8；九章算術 13 領域命中 1。雙本對照逼出 `discourse_mode` 維度 |
+| 方法論試點 | `pilots/2026-07-28-sunzi-jiuzhang.md` | §1–5 是試點，**§6／§7 是全文讀後的修訂，以修訂為準**。§7 另記兩個 vocab 層發現（見下方「待使用者決定」） |
+| 段落切分單一來源 | `scripts/corpus_text.py` | `make-scaffold` 產錨點、`verify` 驗錨點都用它。**兩邊算法若分家，para_index 會靜默漂移、每條標註指向錯段** |
+| 標註骨架 | `scripts/make-scaffold.py` | 由本文生成錨點，人只填 null 欄位。手寫 `annotations.json` 是壞錨點的來源 |
+| 標註 | `translations/{sunzi-bingfa,jiuzhang-suanshu}/annotations.json` | 811 段全數判讀完 |
 | 資料契約 | `SCHEMA.md` | 三層標註模型、`discourse_mode` 七值、`text_role: reference`、`annotations.json` 格式、負面結果欄位、跨庫對齊。§1.1 補了段落級的白話說明 |
 | 行為規範 | `CLAUDE.md` | 與 religions-history 的分界、六條工作守則、七條 anti-pattern |
 | 書目 catalog | `scripts/catalog/chinese-classics-ws.json` | **73 部**（phase 1 共 68、phase 2 共 5）。全部走 Wikisource |
@@ -48,13 +59,17 @@
 `dengxizi 2/2`、`gongsun-longzi 6/7`、`kongcongzi 19/19`、`shenjian 5/9`、`fengsu-tongyi 4/85`、`shuijingzhu 18/137` 的章標籤是純數字。
 原因：那些 Wikisource 子頁本身就叫「1」「2」「3」，頁內也沒有篇名標題可切。要修只能人工補篇名對照表——標註那幾部時再處理，不必現在做。
 
+## 待使用者決定（兩條都是九章全文讀之後才浮出來的）
+
+1. **`discourse_mode` 缺「題例／worked instance」值**：九章 491/720 段判不出姿態，全是「今有……問……荅曰……」。既非命題也非規範，而 `formalization` 的定義（連 vocab 舉的例子都是「衰分術、均輸術」）只涵蓋「術曰」那 214 段。vocab 明定「新增值必須先在 pilots/ 驗證過才進本表」，所以現在只記錄、沒動表。**要驗的話，第三部該挑海島算經或孫子算經**（同樣題例密集），一次就能判斷這是九章特有還是算書通例。
+2. **`Z-wisdom` 排除是否照舊**：九章全書思想密度最高的一段（〈方田〉割圓術劉徽注，談極限論證與「學者踵古，習其謬失」）零領域命中，因為它屬 `Z-wisdom` 支流，而 vocab 明文「不是 domain，不得填進 psych_domains」。這條排除本身沒問題，但現在有了實例：**它足以讓一整部書的結論從「有思想但不在 13 領域」被讀成「沒思想」**。判斷要不要在 SCHEMA 補一句提醒，或讓書級 `psych_survey` 多一個 `crosscurrents_hit` 欄位。
+
 ## 下一步
 
-1. **標註管線**：以 human-questions-corpus 400 題當反向探針逐部跑。先做試點過的 2 部（孫子兵法、九章算術）當 ground truth
-2. 產出 `annotations.json`，同時回填書級 `psych_survey`（`domains_hit` **與** `domains_null` 都要寫）
-3. 每完成一批重跑 `build-index.py` 再 commit
-4. phase 2 小學 5 部：等第一批標註管線跑順、有現成探針後，用同一套探針跑一次證否，成本極低
-5. GitHub remote 尚未建立（`Hangsau/chinese-classics-corpus`），目前只有本地 commit
+1. **推到第三部**：以 human-questions-corpus 400 題當反向探針。優先海島算經／孫子算經——同時能結掉上面第 1 條 vocab 問題
+2. 流程固定：`make-scaffold.py` 產骨架 → 讀全文逐段填 → 回填書級 `psych_survey`（`domains_hit` **與** `domains_null` 都要寫）→ `verify.py` → `build-index.py` → commit + push
+3. phase 2 小學 5 部：探針已現成，用同一套跑一次證否，成本極低
+4. 6 個純數字章標籤的警告，等標到那幾部再人工補篇名對照表
 
 ## 已知風險
 
