@@ -17,6 +17,16 @@
   "license": "CC BY-SA 4.0",
   "verified": false,
   "tier": "核心",
-  "psych_survey": null,
+  "psych_survey": {
+    "surveyed_at": "2026-07-28",
+    "method": "全文段落級標註，91 段逐段判讀（annotations.json）",
+    "domains_hit": ["II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII"],
+    "domains_null": ["I", "XIII"],
+    "domain_para_counts": {"II": 7, "III": 1, "IV": 2, "V": 21, "VI": 17, "VII": 15, "VIII": 6, "IX": 1, "X": 4, "XI": 13, "XII": 3},
+    "paras_total": 91,
+    "paras_no_domain": 30,
+    "verdict": "高密度。主軸是 V 群體·權力（21 段）、VI 情緒（17 段）、VII 品格（15 段）、XI 自由·命運（13 段）。VI 的分佈值得注意：情緒不是被勸誡的對象而是被當成可觀測、可操作的變數（〈行軍〉三十餘條徵候、〈軍爭〉四治、〈九地〉兵之情）。未命中的 I 與 XIII 是真空白：全書不問存在意義，也不提供安頓——連〈火攻〉『死者不可以復生』都是拿來論證勿怒興師，不是安慰。III 與 IX 各僅 1 段，屬邊緣命中，不宜當作本書特徵。",
+    "revises_pilot": "試點（pilots/2026-07-28-sunzi-jiuzhang.md）取樣讀判為命中 8、未命中 I/VIII/IX/XI。全文讀後 VIII 與 XI 應改判命中且強度不低——XI 的〈軍形〉『不可勝在己，可勝在敵』與 VIII 的〈軍形〉『無智名，無勇功』都是明確段落；IX 改判命中但僅〈行軍〉『軍無百疾』1 段。I 與 XIII 兩項未命中維持。"
+  },
   "notes": null
 }

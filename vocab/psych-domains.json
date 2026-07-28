@@ -10,7 +10,7 @@
     "method": "由 400 題人問語錄由下而上聚類萃取，非由上而下預設框架"
   },
   "notes": "SCHEMA §6 指定 13 領域屬跨庫共享層。knowledge-hub/vocabularies/ 是設計上的家，但該處目前未版控（非 git repo），把載重契約放進去等於失去歷史；故暫存本庫並以 derived_from.sha256 偵測來源漂移。hub 版控後再遷移，屆時本檔改為指標。",
-  "usage": "annotations.json 的 psych_domains 欄位只能填本表 id。判不出來留 null——null 是「未標」不是「沒有」（SCHEMA §5）。",
+  "usage": "annotations.json 的 psych_domains 欄位只能填本表 id。null =「這段還沒讀」，[] =「讀了，不觸及任何領域」——兩者不可混用，否則書級 domains_null 就沒有段級證據（SCHEMA §5.1）。",
   "domains": [
     {"id": "I", "name_zh": "存在與意義", "gist": "我為何在此、活著有沒有意義、與想不通的問題共處、在歷史洪流中的渺小", "subclusters": ["A", "T", "AU", "AS"]},
     {"id": "II", "name_zh": "自我與認同", "gist": "我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我", "subclusters": ["C", "W", "AA", "AI", "AM", "B"]},

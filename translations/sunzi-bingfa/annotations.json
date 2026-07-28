@@ -5,11 +5,18 @@
       "chapter": "始計第一",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "孫子曰：兵者，國之大事，死生之地，存亡之道，不可不察也。故經之以五事，校之以七計"
+    "psych_domains": [
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": "medium",
+    "note": "「死生之地，存亡之道，不可不察也」把不可逆的重大決定上升為審察義務",
+    "excerpt": "孫子曰：兵者，國之大事，死生之地，存亡之道，不可不察也。故經之以五事，校之以七計",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#01-p02",
@@ -17,11 +24,19 @@
       "chapter": "始計第一",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "道者，令民與上同意，可與之死，可與之生，而不畏危也。天者，陰陽、寒暑、時制也。地"
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "formalization"
+    ],
+    "confidence": "high",
+    "note": "五事七計：「道者，令民與上同意」以認同度為戰力要素；「將者，智信仁勇嚴」是品格清單",
+    "excerpt": "道者，令民與上同意，可與之死，可與之生，而不畏危也。天者，陰陽、寒暑、時制也。地",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#01-p03",
@@ -29,11 +44,18 @@
       "chapter": "始計第一",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "將聽吾計，用之必勝，留之；將不聽吾計，用之必敗，去之。計利以聽，乃為之勢，以佐其"
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": "medium",
+    "note": "「兵者，詭道也」＋詭道十二法：對誠實規範的領域性豁免主張",
+    "excerpt": "將聽吾計，用之必勝，留之；將不聽吾計，用之必敗，去之。計利以聽，乃為之勢，以佐其",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#01-p04",
@@ -41,11 +63,15 @@
       "chapter": "始計第一",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": "high",
     "note": null,
-    "excerpt": "夫未戰而廟算勝者，得算多也；未戰而廟算不勝者，得算少也。多算勝，少算不勝，而況於"
+    "excerpt": "夫未戰而廟算勝者，得算多也；未戰而廟算不勝者，得算少也。多算勝，少算不勝，而況於",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#02-p01",
@@ -53,11 +79,18 @@
       "chapter": "作戰第二",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "孫子曰：凡用兵之法，馳車千駟，革車千乘，帶甲十萬，千里饋糧，則內外之費，賓客之用"
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": "medium",
+    "note": "「不盡知用兵之害者，則不能盡知用兵之利」：只算收益不算代價等於沒算",
+    "excerpt": "孫子曰：凡用兵之法，馳車千駟，革車千乘，帶甲十萬，千里饋糧，則內外之費，賓客之用",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#02-p02",
@@ -65,11 +98,15 @@
       "chapter": "作戰第二",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": "high",
     "note": null,
-    "excerpt": "善用兵者，役不再籍，糧不三載；取用於國，因糧於敵，故軍食可足也。"
+    "excerpt": "善用兵者，役不再籍，糧不三載；取用於國，因糧於敵，故軍食可足也。",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#02-p03",
@@ -77,11 +114,18 @@
       "chapter": "作戰第二",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "國之貧於師者遠輸，遠輸則百姓貧；近師者貴賣，貴賣則百姓財竭，財竭則急於丘役。力屈"
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": "high",
+    "note": "戰爭成本如何落到平民身上：遠輸則百姓貧、百姓之費十去其七",
+    "excerpt": "國之貧於師者遠輸，遠輸則百姓貧；近師者貴賣，貴賣則百姓財竭，財竭則急於丘役。力屈",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#02-p04",
@@ -89,11 +133,15 @@
       "chapter": "作戰第二",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": "medium",
     "note": null,
-    "excerpt": "故智將務食於敵，食敵一鍾，當吾二十鍾；萁稈一石，當吾二十石。"
+    "excerpt": "故智將務食於敵，食敵一鍾，當吾二十鍾；萁稈一石，當吾二十石。",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#02-p05",
@@ -101,11 +149,19 @@
       "chapter": "作戰第二",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "故殺敵者，怒也；取敵之利者，貨也。故車戰，得車十乘以上，賞其先得者，而更其旌旗。"
+    "psych_domains": [
+      "VI",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": "high",
+    "note": "「殺敵者，怒也；取敵之利者，貨也」：憤怒與財貨並列為兩種動機來源",
+    "excerpt": "故殺敵者，怒也；取敵之利者，貨也。故車戰，得車十乘以上，賞其先得者，而更其旌旗。",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#02-p06",
@@ -113,11 +169,17 @@
       "chapter": "作戰第二",
       "para_index": 6
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "故兵貴勝，不貴久。故知兵之將，民之司命，國家安危之主也。"
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": "high",
+    "note": "「知兵之將，民之司命，國家安危之主也」：把民命的責任歸於指揮者",
+    "excerpt": "故兵貴勝，不貴久。故知兵之將，民之司命，國家安危之主也。",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#03-p01",
@@ -125,11 +187,17 @@
       "chapter": "謀攻第三",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "孫子曰：凡用兵之法，全國為上，破國次之；全軍為上，破軍次之；全旅為上，破旅次之；"
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": "medium",
+    "note": "全勝優於破勝、「不戰而屈人之兵」：以不毀壞為最高標準的暴力節制立場",
+    "excerpt": "孫子曰：凡用兵之法，全國為上，破國次之；全軍為上，破軍次之；全旅為上，破旅次之；",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#03-p02",
@@ -137,11 +205,18 @@
       "chapter": "謀攻第三",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "故上兵伐謀，其次伐交，其次伐兵，其下攻城。攻城之法，為不得已。修櫓轒轀，具器械，"
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": "high",
+    "note": "「將不勝其忿，而蟻附之」：把指揮官的情緒失控直接列為戰術災難的原因",
+    "excerpt": "故上兵伐謀，其次伐交，其次伐兵，其下攻城。攻城之法，為不得已。修櫓轒轀，具器械，",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#03-p03",
@@ -149,11 +224,17 @@
       "chapter": "謀攻第三",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": "medium",
     "note": null,
-    "excerpt": "故善用兵者，屈人之兵而非戰也，拔人之城而非攻也，毀人之國而非久也，必以全爭於天下"
+    "excerpt": "故善用兵者，屈人之兵而非戰也，拔人之城而非攻也，毀人之國而非久也，必以全爭於天下",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#03-p04",
@@ -161,11 +242,15 @@
       "chapter": "謀攻第三",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": "high",
     "note": null,
-    "excerpt": "故用兵之法，十則圍之，五則攻之，倍則分之，敵則能戰之，少則能守之，不若則能避之。"
+    "excerpt": "故用兵之法，十則圍之，五則攻之，倍則分之，敵則能戰之，少則能守之，不若則能避之。",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#03-p05",
@@ -173,11 +258,17 @@
       "chapter": "謀攻第三",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": "medium",
     "note": null,
-    "excerpt": "夫將者，國之輔也。輔周則國必強，輔隙則國必弱。"
+    "excerpt": "夫將者，國之輔也。輔周則國必強，輔隙則國必弱。",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#03-p06",
@@ -185,11 +276,18 @@
       "chapter": "謀攻第三",
       "para_index": 6
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "故君之所以患於軍者三：不知軍之不可以進而謂之進，不知軍之不可以退而謂之退，是為縻"
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": "high",
+    "note": "三種君主越權干預的病象（縻軍、軍士惑、軍士疑）：外行指揮內行的機制描述",
+    "excerpt": "故君之所以患於軍者三：不知軍之不可以進而謂之進，不知軍之不可以退而謂之退，是為縻",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#03-p07",
@@ -197,11 +295,18 @@
       "chapter": "謀攻第三",
       "para_index": 7
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "故知勝有五：知可以戰與不可以戰者勝，識衆寡之用者勝，上下同欲者勝，以虞待不虞者勝"
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "formalization"
+    ],
+    "confidence": "high",
+    "note": "知勝五條含「上下同欲者勝」「將能而君不御者勝」：凝聚與授權被列為可檢核的勝因",
+    "excerpt": "故知勝有五：知可以戰與不可以戰者勝，識衆寡之用者勝，上下同欲者勝，以虞待不虞者勝",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#03-p08",
@@ -209,11 +314,17 @@
       "chapter": "謀攻第三",
       "para_index": 8
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "故曰：知彼知己，百戰不殆；不知彼而知己，一勝一負；不知彼不知己，每戰必殆。"
+    "psych_domains": [
+      "II"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": "high",
+    "note": "「知彼知己」：自我認識與認識他人被列為對稱且同等的能力",
+    "excerpt": "故曰：知彼知己，百戰不殆；不知彼而知己，一勝一負；不知彼不知己，每戰必殆。",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#04-p01",
@@ -221,11 +332,17 @@
       "chapter": "軍形第四",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "孫子曰：昔之善戰者，先為不可勝，以待敵之可勝。不可勝在己，可勝在敵。故善戰者，能"
+    "psych_domains": [
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": "high",
+    "note": "「不可勝在己，可勝在敵」「勝可知，而不可為」：明確劃出可致力者與不可強求者的分界",
+    "excerpt": "孫子曰：昔之善戰者，先為不可勝，以待敵之可勝。不可勝在己，可勝在敵。故善戰者，能",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#04-p02",
@@ -233,11 +350,15 @@
       "chapter": "軍形第四",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": "medium",
     "note": null,
-    "excerpt": "不可勝者，守也；可勝者，攻也。守則不足，攻則有餘。善守者，藏於九地之下；善攻者，"
+    "excerpt": "不可勝者，守也；可勝者，攻也。守則不足，攻則有餘。善守者，藏於九地之下；善攻者，",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#04-p03",
@@ -245,11 +366,18 @@
       "chapter": "軍形第四",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "見勝不過衆人之所知，非善之善者也；戰勝而天下曰善，非善之善者也。故舉秋毫不為多力"
+    "psych_domains": [
+      "II",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": "high",
+    "note": "「戰勝而天下曰善，非善之善者也」：可見的成就與眾人的稱許被貶為次級標準",
+    "excerpt": "見勝不過衆人之所知，非善之善者也；戰勝而天下曰善，非善之善者也。故舉秋毫不為多力",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#04-p04",
@@ -257,11 +385,18 @@
       "chapter": "軍形第四",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "古之所謂善戰者，勝於易勝者也。故善戰者之勝也，無智名，無勇功。故其戰勝不忒。不忒"
+    "psych_domains": [
+      "VIII",
+      "II"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": "high",
+    "note": "「無智名，無勇功」：最好的工作不產生可見的功績；勝兵先勝而後求戰",
+    "excerpt": "古之所謂善戰者，勝於易勝者也。故善戰者之勝也，無智名，無勇功。故其戰勝不忒。不忒",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#04-p05",
@@ -269,11 +404,15 @@
       "chapter": "軍形第四",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": "high",
     "note": null,
-    "excerpt": "兵法：一曰度，二曰量，三曰數，四曰稱，五曰勝。地生度，度生量，量生數，數生稱，稱"
+    "excerpt": "兵法：一曰度，二曰量，三曰數，四曰稱，五曰勝。地生度，度生量，量生數，數生稱，稱",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#05-p01",
@@ -281,11 +420,16 @@
       "chapter": "兵勢第五",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "formalization"
+    ],
+    "confidence": "medium",
     "note": null,
-    "excerpt": "孫子曰：凡治衆如治寡，分數是也；鬥衆如鬥寡，形名是也；三軍之衆，可使必受敵而無敗"
+    "excerpt": "孫子曰：凡治衆如治寡，分數是也；鬥衆如鬥寡，形名是也；三軍之衆，可使必受敵而無敗",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#05-p02",
@@ -293,11 +437,15 @@
       "chapter": "兵勢第五",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": "medium",
     "note": null,
-    "excerpt": "凡戰者，以正合，以奇勝。故善出奇者，無窮如天地，不竭如江海。終而復始，日月是也。"
+    "excerpt": "凡戰者，以正合，以奇勝。故善出奇者，無窮如天地，不竭如江海。終而復始，日月是也。",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#05-p03",
@@ -305,11 +453,15 @@
       "chapter": "兵勢第五",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": "high",
     "note": null,
-    "excerpt": "激水之疾，至於漂石者，勢也；鷙鳥之疾，至於毀折者，節也。故善戰者，其勢險，其節短"
+    "excerpt": "激水之疾，至於漂石者，勢也；鷙鳥之疾，至於毀折者，節也。故善戰者，其勢險，其節短",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#05-p04",
@@ -317,11 +469,18 @@
       "chapter": "兵勢第五",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "紛紛紜紜，鬥亂而不可亂也；渾渾沌沌，形圓而不可敗也。亂生於治，怯生於勇，弱生於強"
+    "psych_domains": [
+      "VI",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": "high",
+    "note": "「怯生於勇…勇怯，勢也」：勇與怯被判給處境而非個人品格，全書最強的一則心理歸因命題",
+    "excerpt": "紛紛紜紜，鬥亂而不可亂也；渾渾沌沌，形圓而不可敗也。亂生於治，怯生於勇，弱生於強",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#05-p05",
@@ -329,11 +488,16 @@
       "chapter": "兵勢第五",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": "medium",
     "note": null,
-    "excerpt": "故善動敵者，形之，敵必從之；予之，敵必取之。以利動之，以卒待之。"
+    "excerpt": "故善動敵者，形之，敵必從之；予之，敵必取之。以利動之，以卒待之。",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#05-p06",
@@ -341,11 +505,19 @@
       "chapter": "兵勢第五",
       "para_index": 6
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "故善戰者，求之於勢，不責於人，故能擇人而任勢。任勢者，其戰人也，如轉木石。木石之"
+    "psych_domains": [
+      "V",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": "high",
+    "note": "「求之於勢，不責於人，故能擇人而任勢」：把績效歸因從個人移到結構",
+    "excerpt": "故善戰者，求之於勢，不責於人，故能擇人而任勢。任勢者，其戰人也，如轉木石。木石之",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#06-p01",
@@ -353,11 +525,18 @@
       "chapter": "虛實第六",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "孫子曰：凡先處戰地而待敵者佚，後處戰地而趨戰者勞。故善戰者，致人而不致於人。"
+    "psych_domains": [
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": "medium",
+    "note": "「致人而不致於人」：主動與被動的分界",
+    "excerpt": "孫子曰：凡先處戰地而待敵者佚，後處戰地而趨戰者勞。故善戰者，致人而不致於人。",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#06-p02",
@@ -365,11 +544,15 @@
       "chapter": "虛實第六",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": "high",
     "note": null,
-    "excerpt": "能使敵自至者，利之也；能使敵不得至者，害之也。故敵佚能勞之，飽能饑之，安能動之。"
+    "excerpt": "能使敵自至者，利之也；能使敵不得至者，害之也。故敵佚能勞之，飽能饑之，安能動之。",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#06-p03",
@@ -377,11 +560,15 @@
       "chapter": "虛實第六",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": "medium",
     "note": null,
-    "excerpt": "行千里而不勞者，行於無人之地也。攻而必取者，攻其所不守也；守而必固者，守其所不攻"
+    "excerpt": "行千里而不勞者，行於無人之地也。攻而必取者，攻其所不守也；守而必固者，守其所不攻",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#06-p04",
@@ -389,11 +576,15 @@
       "chapter": "虛實第六",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": "high",
     "note": null,
-    "excerpt": "進而不可禦者，沖其虛也；退而不可追者，速而不可及也。故我欲戰，敵雖高壘深溝，不得"
+    "excerpt": "進而不可禦者，沖其虛也；退而不可追者，速而不可及也。故我欲戰，敵雖高壘深溝，不得",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#06-p05",
@@ -401,11 +592,15 @@
       "chapter": "虛實第六",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "故形人而我無形，則我專而敵分。我專為一，敵分為十，是以十攻其一也，則我衆而敵寡。"
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": "high",
+    "note": "「無所不備，則無所不寡」在原文是兵力分配命題；可延伸為取捨通則，但孫子未作此延伸，故不標領域",
+    "excerpt": "故形人而我無形，則我專而敵分。我專為一，敵分為十，是以十攻其一也，則我衆而敵寡。",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#06-p06",
@@ -413,11 +608,15 @@
       "chapter": "虛實第六",
       "para_index": 6
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": "medium",
     "note": null,
-    "excerpt": "故知戰之地，知戰之日，則可千里而會戰；不知戰之地，不知戰之日，則左不能救右，右不"
+    "excerpt": "故知戰之地，知戰之日，則可千里而會戰；不知戰之地，不知戰之日，則左不能救右，右不",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#06-p07",
@@ -425,11 +624,16 @@
       "chapter": "虛實第六",
       "para_index": 7
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": "medium",
     "note": null,
-    "excerpt": "故策之而知得失之計，作之而知動靜之理，形之而知死生之地，角之而知有餘不足之處。故"
+    "excerpt": "故策之而知得失之計，作之而知動靜之理，形之而知死生之地，角之而知有餘不足之處。故",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#06-p08",
@@ -437,11 +641,18 @@
       "chapter": "虛實第六",
       "para_index": 8
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "夫兵形象水，水之行，避高而趨下；兵之勝，避實而擊虛。水因地而制行，兵因敵而制勝。"
+    "psych_domains": [
+      "X",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": "high",
+    "note": "「兵無成勢，無恒形」「五行無常勝，四時無常位，日有短長，月有死生」：以水與四時立無常論",
+    "excerpt": "夫兵形象水，水之行，避高而趨下；兵之勝，避實而擊虛。水因地而制行，兵因敵而制勝。",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#07-p01",
@@ -449,11 +660,17 @@
       "chapter": "軍爭第七",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "孫子曰：凡用兵之法，將受命於君，合軍聚衆，交和而舍，莫難於軍爭。軍爭之難者，以迂"
+    "psych_domains": [
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": "medium",
+    "note": "「以迂為直，以患為利」：最短路徑不一定最快，繞路與受損可轉為條件",
+    "excerpt": "孫子曰：凡用兵之法，將受命於君，合軍聚衆，交和而舍，莫難於軍爭。軍爭之難者，以迂",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#07-p02",
@@ -461,11 +678,18 @@
       "chapter": "軍爭第七",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "故軍爭為利，軍爭為危。舉軍而爭利，則不及；委軍而爭利，則輜重捐。是故卷甲而趨，日"
+    "psych_domains": [
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "formalization"
+    ],
+    "confidence": "high",
+    "note": "量化爭利的距離代價：百里十一而至、五十里半至、三十里三分之二至",
+    "excerpt": "故軍爭為利，軍爭為危。舉軍而爭利，則不及；委軍而爭利，則輜重捐。是故卷甲而趨，日",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#07-p03",
@@ -473,11 +697,18 @@
       "chapter": "軍爭第七",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "故兵以詐立，以利動，以分合為變者也。故其疾如風，其徐如林，侵掠如火，不動如山，難"
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": "medium",
+    "note": "「兵以詐立，以利動」：再次確認欺敵立場",
+    "excerpt": "故兵以詐立，以利動，以分合為變者也。故其疾如風，其徐如林，侵掠如火，不動如山，難",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#07-p04",
@@ -485,11 +716,19 @@
       "chapter": "軍爭第七",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "《軍政》曰：「言不相聞，故為金鼓；視不相見，故為旌旗。」夫金鼓旌旗者，所以一民之"
+    "psych_domains": [
+      "V",
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": "high",
+    "note": "金鼓旌旗「一民之耳目」使「勇者不得獨進，怯者不得獨退」：以制度抵消個體情緒差異",
+    "excerpt": "《軍政》曰：「言不相聞，故為金鼓；視不相見，故為旌旗。」夫金鼓旌旗者，所以一民之",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#07-p05",
@@ -497,11 +736,18 @@
       "chapter": "軍爭第七",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "三軍可奪氣，將軍可奪心。是故朝氣銳，晝氣惰，暮氣歸。故善用兵者，避其銳氣，擊其惰"
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": "high",
+    "note": "士氣的時間曲線（朝銳、晝惰、暮歸）與四治（治氣、治心、治力、治變）",
+    "excerpt": "三軍可奪氣，將軍可奪心。是故朝氣銳，晝氣惰，暮氣歸。故善用兵者，避其銳氣，擊其惰",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#07-p06",
@@ -509,11 +755,17 @@
       "chapter": "軍爭第七",
       "para_index": 6
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "故用兵之法，高陵勿向，背丘勿逆，佯北勿從，銳卒勿攻，餌兵勿食，歸師勿遏，圍師必闕"
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": "medium",
+    "note": "「圍師必闕，窮寇勿迫」：斷絕退路會激出最強抵抗",
+    "excerpt": "故用兵之法，高陵勿向，背丘勿逆，佯北勿從，銳卒勿攻，餌兵勿食，歸師勿遏，圍師必闕",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#08-p01",
@@ -521,11 +773,17 @@
       "chapter": "九變第八",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "孫子曰：凡用兵之法，將受命於君，合軍聚眾。圮地無舍，衢地合交，絕地無留，圍地則謀"
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": "high",
+    "note": "「君命有所不受」：對上級命令的有條件不服從，寫成明文",
+    "excerpt": "孫子曰：凡用兵之法，將受命於君，合軍聚眾。圮地無舍，衢地合交，絕地無留，圍地則謀",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#08-p02",
@@ -533,11 +791,18 @@
       "chapter": "九變第八",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "是故智者之慮，必雜於利害，雜於利而務可信也，雜於害而患可解也。是故屈諸侯者以害，"
+    "psych_domains": [
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": "medium",
+    "note": "「智者之慮，必雜於利害」：好處與壞處必須同時計入，不分開評估",
+    "excerpt": "是故智者之慮，必雜於利害，雜於利而務可信也，雜於害而患可解也。是故屈諸侯者以害，",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#08-p03",
@@ -545,11 +810,17 @@
       "chapter": "九變第八",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "故用兵之法，無恃其不來，恃吾有以待之；無恃其不攻，恃吾有所不可攻也。"
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": "medium",
+    "note": "「無恃其不來，恃吾有以待之」：不寄望威脅不發生，只寄望自己有準備",
+    "excerpt": "故用兵之法，無恃其不來，恃吾有以待之；無恃其不攻，恃吾有所不可攻也。",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#08-p04",
@@ -557,11 +828,20 @@
       "chapter": "九變第八",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "故將有五危︰必死，可殺也﹔必生，可虜也﹔忿速，可侮也﹔廉潔，可辱也﹔愛民，可煩也"
+    "psych_domains": [
+      "II",
+      "VI",
+      "VII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": "high",
+    "note": "將有五危把美德（廉潔、愛民）與情緒傾向（必死、必生、忿速）同列為可被利用的性格弱點",
+    "excerpt": "故將有五危︰必死，可殺也﹔必生，可虜也﹔忿速，可侮也﹔廉潔，可辱也﹔愛民，可煩也",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#09-p01",
@@ -569,11 +849,16 @@
       "chapter": "行軍第九",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "formalization"
+    ],
+    "confidence": "high",
     "note": null,
-    "excerpt": "孫子曰：凡處軍相敵，絕山依谷，視生處高，戰隆無登，此處山之軍也。絕水必遠水，客絕"
+    "excerpt": "孫子曰：凡處軍相敵，絕山依谷，視生處高，戰隆無登，此處山之軍也。絕水必遠水，客絕",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#09-p02",
@@ -581,11 +866,18 @@
       "chapter": "行軍第九",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "凡軍好高而惡下，貴陽而賤陰，養生而處實，軍無百疾，是謂必勝。丘陵堤防，必處其陽，"
+    "psych_domains": [
+      "IX"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": "medium",
+    "note": "「養生而處實，軍無百疾」：駐地選擇與部隊疾病的關聯",
+    "excerpt": "凡軍好高而惡下，貴陽而賤陰，養生而處實，軍無百疾，是謂必勝。丘陵堤防，必處其陽，",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#09-p03",
@@ -593,11 +885,15 @@
       "chapter": "行軍第九",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": "high",
     "note": null,
-    "excerpt": "凡地有絕澗，遇天井、天牢、天羅、天陷、天隙，必亟去之，勿近也。吾遠之，敵近之；吾"
+    "excerpt": "凡地有絕澗，遇天井、天牢、天羅、天陷、天隙，必亟去之，勿近也。吾遠之，敵近之；吾",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#09-p04",
@@ -605,11 +901,17 @@
       "chapter": "行軍第九",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "敵近而靜者，恃其險也；遠而挑戰者，欲人之進也；其所居易者，利也；衆樹動者，來也；"
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": "high",
+    "note": "三十餘條由外顯行為推斷內在狀態的徵候清單：夜呼者恐、吏怒者倦、數賞者窘、數罰者困、杖而立者饑",
+    "excerpt": "敵近而靜者，恃其險也；遠而挑戰者，欲人之進也；其所居易者，利也；衆樹動者，來也；",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#09-p05",
@@ -617,11 +919,17 @@
       "chapter": "行軍第九",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "故兵非貴益多也一作「益多」，惟無武進，足以併力、料敵、取人而已。夫惟無慮而易敵者"
+    "psych_domains": [
+      "II"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": "medium",
+    "note": "「無慮而易敵者，必擒於人」：輕敵是自我與對手評估的失準",
+    "excerpt": "故兵非貴益多也一作「益多」，惟無武進，足以併力、料敵、取人而已。夫惟無慮而易敵者",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#09-p06",
@@ -629,11 +937,18 @@
       "chapter": "行軍第九",
       "para_index": 6
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "卒未親附而罰之，則不服，不服則難用也。卒已親附而罰不行，則不可用也。故令之以文，"
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": "high",
+    "note": "「卒未親附而罰之，則不服」：懲罰的有效性取決於關係是否先建立；文武並用之令",
+    "excerpt": "卒未親附而罰之，則不服，不服則難用也。卒已親附而罰不行，則不可用也。故令之以文，",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#10-p01",
@@ -641,11 +956,16 @@
       "chapter": "地形第十",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "prescription"
+    ],
+    "confidence": "high",
     "note": null,
-    "excerpt": "孫子曰：凡地形有通者、有掛者、有支者、有隘者、有險者、有遠者。我可以往，彼可以來"
+    "excerpt": "孫子曰：凡地形有通者、有掛者、有支者、有隘者、有險者、有遠者。我可以往，彼可以來",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#10-p02",
@@ -653,11 +973,19 @@
       "chapter": "地形第十",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "故兵有走者、有弛者、有陷者、有崩者、有亂者、有北者。凡此六者，非天之災，將之過也"
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": "high",
+    "note": "六敗（走弛陷崩亂北）「非天之災，將之過也」：排除運氣解釋，全歸因於指揮責任",
+    "excerpt": "故兵有走者、有弛者、有陷者、有崩者、有亂者、有北者。凡此六者，非天之災，將之過也",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#10-p03",
@@ -665,11 +993,20 @@
       "chapter": "地形第十",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "夫地形者，兵之助也。料敵制勝，計險厄遠近，上將之道也。知此而用戰者必勝，不知此而"
+    "psych_domains": [
+      "V",
+      "VII",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": "high",
+    "note": "「進不求名，退不避罪，唯民是保」：以結果而非個人聲譽或自保為行動準繩，含違抗君命的條件",
+    "excerpt": "夫地形者，兵之助也。料敵制勝，計險厄遠近，上將之道也。知此而用戰者必勝，不知此而",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#10-p04",
@@ -677,11 +1014,19 @@
       "chapter": "地形第十",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "視卒如嬰兒，故可以與之赴深溪；視卒如愛子，故可與之俱死。厚而不能使，愛而不能令，"
+    "psych_domains": [
+      "IV",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": "high",
+    "note": "以親子關係比擬將卒關係（視卒如嬰兒、如愛子），並指出溺愛之失（厚而不能使，愛而不能令，譬若驕子）",
+    "excerpt": "視卒如嬰兒，故可以與之赴深溪；視卒如愛子，故可與之俱死。厚而不能使，愛而不能令，",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#10-p05",
@@ -689,11 +1034,17 @@
       "chapter": "地形第十",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "知吾卒之可以擊，而不知敵之不可擊，勝之半也；知敵之可擊，而不知吾卒之不可以擊，勝"
+    "psych_domains": [
+      "II"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": "high",
+    "note": "把「知」分層：知己、知彼、知地形、知天，各層缺一則勝率遞減",
+    "excerpt": "知吾卒之可以擊，而不知敵之不可擊，勝之半也；知敵之可擊，而不知吾卒之不可以擊，勝",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#11-p01",
@@ -701,11 +1052,16 @@
       "chapter": "九地第十一",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "prescription"
+    ],
+    "confidence": "high",
     "note": null,
-    "excerpt": "孫子曰：凡用兵之法，有散地，有輕地，有爭地，有交地，有衢地，有重地，有圮地，有圍"
+    "excerpt": "孫子曰：凡用兵之法，有散地，有輕地，有爭地，有交地，有衢地，有重地，有圮地，有圍",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#11-p02",
@@ -713,11 +1069,18 @@
       "chapter": "九地第十一",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "所謂古之善用兵者，能使敵人前後不相及，衆寡不相恃，貴賤不相救，上下不相收，卒離而"
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": "medium",
+    "note": "瓦解對方群體的連結（上下不相收、卒離而不集）；「先奪其所愛，則聽矣」以對方最在意者為施壓點",
+    "excerpt": "所謂古之善用兵者，能使敵人前後不相及，衆寡不相恃，貴賤不相救，上下不相收，卒離而",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#11-p03",
@@ -725,11 +1088,19 @@
       "chapter": "九地第十一",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "凡為客之道，深入則專，主人不克。掠于饒野，三軍足食。謹養而勿勞，併氣積力，運兵計"
+    "psych_domains": [
+      "VI",
+      "X"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": "high",
+    "note": "死地製造的心理狀態（甚陷則不懼、無所往則固、不得已則鬥）；士卒涕淚被讀成決心而非恐懼",
+    "excerpt": "凡為客之道，深入則專，主人不克。掠于饒野，三軍足食。謹養而勿勞，併氣積力，運兵計",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#11-p04",
@@ -737,11 +1108,17 @@
       "chapter": "九地第十一",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "故善用兵者，譬如率然。率然者，常山之蛇也。擊其首則尾至，擊其尾則首至，擊其中則首"
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": "high",
+    "note": "吳越同舟：共同威脅使敵對群體合作；「齊勇如一，政之道也」把勇歸給制度而非個人",
+    "excerpt": "故善用兵者，譬如率然。率然者，常山之蛇也。擊其首則尾至，擊其尾則首至，擊其中則首",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#11-p05",
@@ -749,11 +1126,19 @@
       "chapter": "九地第十一",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "將軍之事，靜以幽，正以治。能愚士卒之耳目，使之無知；易其事，革其謀，使人無識；易"
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": "high",
+    "note": "「能愚士卒之耳目，使之無知」「如登高而去其梯」：明確主張對己方隱瞞資訊並斷其退路",
+    "excerpt": "將軍之事，靜以幽，正以治。能愚士卒之耳目，使之無知；易其事，革其謀，使人無識；易",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#11-p06",
@@ -761,11 +1146,18 @@
       "chapter": "九地第十一",
       "para_index": 6
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "凡為客之道，深則專，淺則散。去國越境而師者，絕地也；四達者，衢地也；入深者，重地"
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "formalization"
+    ],
+    "confidence": "high",
+    "note": "「兵之情：圍則禦，不得已則鬥，過則從」：把群體在絕境下的反應規律化",
+    "excerpt": "凡為客之道，深則專，淺則散。去國越境而師者，絕地也；四達者，衢地也；入深者，重地",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#11-p07",
@@ -773,11 +1165,20 @@
       "chapter": "九地第十一",
       "para_index": 7
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "是故不知諸侯之謀者，不能豫交；不知山林、險阻、沮澤之形者，不能行軍；不用鄉導者，"
+    "psych_domains": [
+      "V",
+      "VII",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": "high",
+    "note": "「犯之以事，勿告以言；犯之以利，勿告以害」與「投之亡地然後存，陷之死地然後生」：資訊控制加絕境製造動機",
+    "excerpt": "是故不知諸侯之謀者，不能豫交；不知山林、險阻、沮澤之形者，不能行軍；不用鄉導者，",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#11-p08",
@@ -785,11 +1186,15 @@
       "chapter": "九地第十一",
       "para_index": 8
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": "medium",
     "note": null,
-    "excerpt": "是故政舉之日，夷關折符，無通其使；厲於廊廟之上，以誅其事。敵人開闔，必亟入之，先"
+    "excerpt": "是故政舉之日，夷關折符，無通其使；厲於廊廟之上，以誅其事。敵人開闔，必亟入之，先",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#12-p01",
@@ -797,11 +1202,16 @@
       "chapter": "火攻第十二",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "prescription"
+    ],
+    "confidence": "high",
     "note": null,
-    "excerpt": "孫子曰：凡火攻有五：一曰火人，二曰火積，三曰火輜，四曰火庫，五曰火隊。行火必有因"
+    "excerpt": "孫子曰：凡火攻有五：一曰火人，二曰火積，三曰火輜，四曰火庫，五曰火隊。行火必有因",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#12-p02",
@@ -809,11 +1219,16 @@
       "chapter": "火攻第十二",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "formalization"
+    ],
+    "confidence": "high",
     "note": null,
-    "excerpt": "凡火攻，必因五火之變而應之：火發於內，則早應之於外；火發而其兵靜者，待而勿攻，極"
+    "excerpt": "凡火攻，必因五火之變而應之：火發於內，則早應之於外；火發而其兵靜者，待而勿攻，極",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#12-p03",
@@ -821,11 +1236,19 @@
       "chapter": "火攻第十二",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "夫戰勝攻取，而不修其功者凶，命曰「費留」。故曰：明主慮之，良將修之，非利不動，非"
+    "psych_domains": [
+      "VI",
+      "X"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": "high",
+    "note": "「怒可以復喜，慍可以復悅，亡國不可以復存，死者不可以復生」：以情緒可逆、死亡不可逆論證禁止情緒性決策",
+    "excerpt": "夫戰勝攻取，而不修其功者凶，命曰「費留」。故曰：明主慮之，良將修之，非利不動，非",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#13-p01",
@@ -833,11 +1256,18 @@
       "chapter": "用間第十三",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "孫子曰：凡興師十萬，出征千里，百姓之費，公家之奉，日費千金，內外騷動，怠于道路，"
+    "psych_domains": [
+      "VII",
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": "high",
+    "note": "「先知者，不可取於鬼神，不可象於事，不可驗於度，必取於人」明確排除神秘來源；吝爵祿而不求情報判為「不仁之至」",
+    "excerpt": "孫子曰：凡興師十萬，出征千里，百姓之費，公家之奉，日費千金，內外騷動，怠于道路，",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#13-p02",
@@ -845,11 +1275,15 @@
       "chapter": "用間第十三",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": "high",
     "note": null,
-    "excerpt": "故用間有五：有鄉間，有內間，有反間，有死間，有生間。五間俱起，莫知其道，是謂「神"
+    "excerpt": "故用間有五：有鄉間，有內間，有反間，有死間，有生間。五間俱起，莫知其道，是謂「神",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#13-p03",
@@ -857,11 +1291,18 @@
       "chapter": "用間第十三",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "故三軍之事，莫親於間，賞莫厚於間，事莫密於間，非聖智不能用間，非仁義不能使間，非"
+    "psych_domains": [
+      "III",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": "medium",
+    "note": "「三軍之事，莫親於間」「非仁義不能使間」：把最高度的信任關係放在最需要欺瞞的角色上",
+    "excerpt": "故三軍之事，莫親於間，賞莫厚於間，事莫密於間，非聖智不能用間，非仁義不能使間，非",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#13-p04",
@@ -869,11 +1310,16 @@
       "chapter": "用間第十三",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "formalization"
+    ],
+    "confidence": "high",
     "note": null,
-    "excerpt": "凡軍之所欲擊，城之所欲攻，人之所欲殺，必先知其守將、左右、謁者、門者、舍人之姓名"
+    "excerpt": "凡軍之所欲擊，城之所欲攻，人之所欲殺，必先知其守將、左右、謁者、門者、舍人之姓名",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#13-p05",
@@ -881,11 +1327,18 @@
       "chapter": "用間第十三",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "昔殷之興也，伊摯在夏；周之興也，呂牙在殷。故明君賢將，能以上智為間者，必成大功。"
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": "medium",
+    "note": "以伊摯、呂牙為例主張「能以上智為間者，必成大功」：把最高才智配置於情報",
+    "excerpt": "昔殷之興也，伊摯在夏；周之興也，呂牙在殷。故明君賢將，能以上智為間者，必成大功。",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#14-p01",
@@ -893,11 +1346,18 @@
       "chapter": "答話",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "「吳王謂子胥、孫武曰：『始子言郢不可入，今果何如？』二將曰：『夫戰，借勝以成其威"
+    "psych_domains": [
+      "XI",
+      "XII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": "medium",
+    "note": "「十亡一存，而王入郢者，天也，臣不敢必」：將領把已得的勝利歸因於運氣，拒絕保證重演",
+    "excerpt": "「吳王謂子胥、孫武曰：『始子言郢不可入，今果何如？』二將曰：『夫戰，借勝以成其威",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#14-p02",
@@ -905,11 +1365,19 @@
       "chapter": "答話",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "吳王問孫武曰：「散地士卒顧家，不可與戰，則必固守不出。若敵攻我小城，掠吾田野，禁"
+    "psych_domains": [
+      "IV",
+      "VI"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "prescription"
+    ],
+    "confidence": "high",
+    "note": "「散地士卒顧家」「安土懷生」：本土作戰時家庭牽掛被視為戰力弱點",
+    "excerpt": "吳王問孫武曰：「散地士卒顧家，不可與戰，則必固守不出。若敵攻我小城，掠吾田野，禁",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#14-p03",
@@ -917,11 +1385,19 @@
       "chapter": "答話",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "吳王問孫武曰：「吾至輕地，始入敵境，士卒思還，難進易退，未背險阻，三軍恐懼，大將"
+    "psych_domains": [
+      "VI",
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "prescription"
+    ],
+    "confidence": "high",
+    "note": "「士卒思還…三軍恐懼…上下異心」；處置是先取小勝使「三軍見得，進乃不懼」",
+    "excerpt": "吳王問孫武曰：「吾至輕地，始入敵境，士卒思還，難進易退，未背險阻，三軍恐懼，大將",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#14-p04",
@@ -929,11 +1405,18 @@
       "chapter": "答話",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "吳王問孫武曰：「爭地，敵先至，據要保利，簡兵練卒，或出或守，以備我奇，則如之何？"
+    "psych_domains": [
+      "XI"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "prescription"
+    ],
+    "confidence": "medium",
+    "note": "「爭地之法，讓之者得，爭之者失」「人慾我與，人棄吾取」：正面爭奪反而失去",
+    "excerpt": "吳王問孫武曰：「爭地，敵先至，據要保利，簡兵練卒，或出或守，以備我奇，則如之何？",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#14-p05",
@@ -941,11 +1424,16 @@
       "chapter": "答話",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative",
+      "prescription"
+    ],
+    "confidence": "high",
     "note": null,
-    "excerpt": "吳王問孫武曰：「交地，吾將絶敵，令不得來，必全吾邊城，修其所備，深絶通道，固其隘"
+    "excerpt": "吳王問孫武曰：「交地，吾將絶敵，令不得來，必全吾邊城，修其所備，深絶通道，固其隘",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#14-p06",
@@ -953,11 +1441,18 @@
       "chapter": "答話",
       "para_index": 6
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "吳王問孫武曰：「衢地必先，吾道遠，發後，雖馳車驟馬，至不能先，則如之何？」武曰："
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "prescription"
+    ],
+    "confidence": "medium",
+    "note": "「重幣輕使，約和傍國，交親結恩」：以人情與饋贈換取結盟位置",
+    "excerpt": "吳王問孫武曰：「衢地必先，吾道遠，發後，雖馳車驟馬，至不能先，則如之何？」武曰：",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#14-p07",
@@ -965,11 +1460,16 @@
       "chapter": "答話",
       "para_index": 7
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative",
+      "prescription"
+    ],
+    "confidence": "medium",
     "note": null,
-    "excerpt": "吳王問孫武曰：「吾引兵深入重地，多所逾越，糧道絶塞，設欲歸還，勢不可過，欲食於敵"
+    "excerpt": "吳王問孫武曰：「吾引兵深入重地，多所逾越，糧道絶塞，設欲歸還，勢不可過，欲食於敵",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#14-p08",
@@ -977,11 +1477,16 @@
       "chapter": "答話",
       "para_index": 8
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative",
+      "prescription"
+    ],
+    "confidence": "high",
     "note": null,
-    "excerpt": "吳王問孫武曰：「吾入圮地，山川險阻，難從之道，行久卒勞，敵在吾前，而伏吾後，營居"
+    "excerpt": "吳王問孫武曰：「吾入圮地，山川險阻，難從之道，行久卒勞，敵在吾前，而伏吾後，營居",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#14-p09",
@@ -989,11 +1494,19 @@
       "chapter": "答話",
       "para_index": 9
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "吳王問孫武曰：「吾入圍地，前有強敵，後有險難，敵絶糧道，利我走勢，敵鼓噪不進，以"
+    "psych_domains": [
+      "VI",
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "prescription"
+    ],
+    "confidence": "medium",
+    "note": "「告勵士卒，令其奮怒」：刻意誘發憤怒作為戰力，並以「萬人同心」為目標",
+    "excerpt": "吳王問孫武曰：「吾入圍地，前有強敵，後有險難，敵絶糧道，利我走勢，敵鼓噪不進，以",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#14-p10",
@@ -1001,11 +1514,16 @@
       "chapter": "答話",
       "para_index": 10
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative",
+      "prescription"
+    ],
+    "confidence": "high",
     "note": null,
-    "excerpt": "又問曰：「敵在吾圍，伏而深謀，示我以利，縈我以旗，紛紛若亂，不知所之，奈何？」武"
+    "excerpt": "又問曰：「敵在吾圍，伏而深謀，示我以利，縈我以旗，紛紛若亂，不知所之，奈何？」武",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#14-p11",
@@ -1013,11 +1531,18 @@
       "chapter": "答話",
       "para_index": 11
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "又曰：「軍入敵境，敵人固壘不戰，士卒思歸，欲退且難，謂之輕地。當選驍騎伏要路，我"
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "prescription"
+    ],
+    "confidence": "medium",
+    "note": "「士卒思歸，欲退且難」：歸鄉願望被當成可預測的行為變數",
+    "excerpt": "又曰：「軍入敵境，敵人固壘不戰，士卒思歸，欲退且難，謂之輕地。當選驍騎伏要路，我",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#14-p12",
@@ -1025,11 +1550,21 @@
       "chapter": "答話",
       "para_index": 12
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "吳王問孫武曰：「吾師出境，軍於敵人之地，敵人大至，圍我數重。欲突以出，四塞不通，"
+    "psych_domains": [
+      "VI",
+      "X",
+      "XI"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "prescription",
+      "proposition"
+    ],
+    "confidence": "high",
+    "note": "雙向操作求生本能：對己「割發捐冠，絶去生慮…士有死志」，對敵「開其去道，示其走路…必無鬥志」",
+    "excerpt": "吳王問孫武曰：「吾師出境，軍於敵人之地，敵人大至，圍我數重。欲突以出，四塞不通，",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#14-p13",
@@ -1037,11 +1572,19 @@
       "chapter": "答話",
       "para_index": 13
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "吳王問孫武曰：「敵勇不懼，驕而無虞，兵眾而強，圖之奈何？」武曰：「詘而待之，以順"
+    "psych_domains": [
+      "II",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "prescription"
+    ],
+    "confidence": "high",
+    "note": "「攻驕之道，不可爭鋒」：對驕者不正面對抗，而順其意加深其懈怠",
+    "excerpt": "吳王問孫武曰：「敵勇不懼，驕而無虞，兵眾而強，圖之奈何？」武曰：「詘而待之，以順",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#14-p14",
@@ -1049,11 +1592,16 @@
       "chapter": "答話",
       "para_index": 14
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative",
+      "prescription"
+    ],
+    "confidence": "high",
     "note": null,
-    "excerpt": "吳王問孫武曰：「敵人保據山險，擅利而處之，糧食又足，挑之則不出，乘間則侵掠，為之"
+    "excerpt": "吳王問孫武曰：「敵人保據山險，擅利而處之，糧食又足，挑之則不出，乘間則侵掠，為之",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#14-p15",
@@ -1061,11 +1609,19 @@
       "chapter": "答話",
       "para_index": 15
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "孫子曰：「將者︰智也，仁也，敬也，信也，勇也，嚴也。」是故智以折敵，仁以附衆，敬"
+    "psych_domains": [
+      "VII",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "formalization"
+    ],
+    "confidence": "high",
+    "note": "六德（智仁敬信勇嚴）各配一項功能（折敵、附衆、招賢、必賞、益氣、一令）：品格被工具化為指揮效能的組成",
+    "excerpt": "孫子曰：「將者︰智也，仁也，敬也，信也，勇也，嚴也。」是故智以折敵，仁以附衆，敬",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#14-p16",
@@ -1073,11 +1629,18 @@
       "chapter": "答話",
       "para_index": 16
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "《孫子占》曰：「三軍將行，其旌旗從容以向前，是為天送，必亟擊之，得其大將。三軍將"
+    "psych_domains": [
+      "XII"
+    ],
+    "discourse_mode": [
+      "formalization",
+      "prescription"
+    ],
+    "confidence": "high",
+    "note": "《孫子占》軍事占候表，與〈用間〉「先知者不可取於鬼神」直接衝突，是本篇後世附益的內證",
+    "excerpt": "《孫子占》曰：「三軍將行，其旌旗從容以向前，是為天送，必亟擊之，得其大將。三軍將",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   },
   {
     "para_id": "sunzi-bingfa#14-p17",
@@ -1085,10 +1648,16 @@
       "chapter": "答話",
       "para_index": 17
     },
-    "psych_domains": null,
-    "discourse_mode": null,
-    "confidence": null,
-    "note": null,
-    "excerpt": "又按︰《北堂書鈔》引《孫子兵法》云︰「貴之而無驕，委之而不專，扶之而無隱，危之而"
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": "low",
+    "note": "編者校勘按語，非孫子本文；所引「良將之動心，猶璧玉之不可污也」出處存疑（一說諸葛亮《兵要》）",
+    "excerpt": "又按︰《北堂書鈔》引《孫子兵法》云︰「貴之而無驕，委之而不專，扶之而無隱，危之而",
+    "tagged_by": "claude-opus-4-7",
+    "tagged_at": "2026-07-28T00:00:00+08:00"
   }
 ]

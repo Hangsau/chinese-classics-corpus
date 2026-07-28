@@ -9,7 +9,7 @@
     "method": "由 孫子兵法 × 九章算術 雙本試點逼出，見 pilots/2026-07-28-sunzi-jiuzhang.md"
   },
   "notes": "本庫新增的 L3 維度，與 L2 psych_domains 正交（任一領域可搭配任一姿態）。定名不用 stance——stance 在 NLP 已指 stance detection（支持／反對），會誤導。",
-  "usage": "一個段落可多標（常見組合 proposition + prescription）。判不出來留 null。新增值必須先在 pilots/ 驗證過才進本表。",
+  "usage": "一個段落可多標（常見組合 proposition + prescription）。null =「這段還沒讀」，[] =「讀了，判不出任一姿態」（SCHEMA §5.1）。新增值必須先在 pilots/ 驗證過才進本表。",
   "modes": [
     {"id": "observation", "name_zh": "觀察", "definition": "陳述人實際如何", "test": "可被事實否證的描述句", "example": "孫子〈行軍〉徵候清單"},
     {"id": "proposition", "name_zh": "命題", "definition": "主張某個因果或原理", "test": "有「A 故 B」的結構", "example": "孫子〈兵勢〉論勇怯生於勢"},

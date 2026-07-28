@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-07-28T01:18:10+00:00",
+    "generated_at": "2026-07-28T03:07:36+00:00",
     "text_count": 68,
     "total_bytes": 10660493,
     "by_category": {
@@ -26,9 +26,24 @@
       "original": 66,
       "contested": 2
     },
-    "surveyed_count": 0,
-    "annotated_count": 0,
-    "domain_hit_counts": {}
+    "surveyed_count": 1,
+    "annotated_count": 1,
+    "scaffolded_count": 1,
+    "paras_judged": 91,
+    "paras_pending": 885,
+    "domain_hit_counts": {
+      "II": 1,
+      "III": 1,
+      "IV": 1,
+      "IX": 1,
+      "V": 1,
+      "VI": 1,
+      "VII": 1,
+      "VIII": 1,
+      "X": 1,
+      "XI": 1,
+      "XII": 1
+    }
   },
   "texts": [
     {
@@ -47,6 +62,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -65,6 +82,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -83,6 +102,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -101,6 +122,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -119,6 +142,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -137,6 +162,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -155,6 +182,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -173,6 +202,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -191,6 +222,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -209,6 +242,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -227,6 +262,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -245,6 +282,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -263,6 +302,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -281,6 +322,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -299,6 +342,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -317,6 +362,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -335,6 +382,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -353,6 +402,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -371,6 +422,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -389,6 +442,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 885,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -407,6 +462,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -425,6 +482,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -443,6 +502,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -461,6 +522,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -479,6 +542,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -497,6 +562,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -515,6 +582,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -533,6 +602,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -551,6 +622,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -569,6 +642,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -587,6 +662,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -605,6 +682,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -623,6 +702,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -641,6 +722,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -659,6 +742,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -677,6 +762,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -695,6 +782,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -713,6 +802,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -731,6 +822,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -749,6 +842,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -767,6 +862,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -785,6 +882,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -803,6 +902,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -819,9 +920,23 @@
       "size_bytes": 30954,
       "chapter_count": 14,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "paras_total": 91,
+      "paras_judged": 91,
+      "annotated": true
     },
     {
       "slug": "sunzi-suanjing",
@@ -839,6 +954,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -857,6 +974,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -875,6 +994,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -893,6 +1014,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -911,6 +1034,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -929,6 +1054,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -947,6 +1074,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -965,6 +1094,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -983,6 +1114,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -1001,6 +1134,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -1019,6 +1154,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -1037,6 +1174,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -1055,6 +1194,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -1073,6 +1214,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -1091,6 +1234,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -1109,6 +1254,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -1127,6 +1274,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -1145,6 +1294,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -1163,6 +1314,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -1181,6 +1334,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -1199,6 +1354,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -1217,6 +1374,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -1235,6 +1394,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     },
     {
@@ -1253,6 +1414,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "paras_total": 0,
+      "paras_judged": 0,
       "annotated": false
     }
   ]

@@ -1,7 +1,7 @@
 # 索引
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 生成時間 2026-07-28T01:18:10+00:00｜68 部｜10,660,493 bytes｜已通讀 0 部｜已段落標註 0 部
+> 生成時間 2026-07-28T03:07:36+00:00｜68 部｜10,660,493 bytes｜已通讀 1 部｜已段落標註 1 部（91 段）｜僅有骨架待標 1 部（885 段）
 
 ## 分類統計
 
@@ -47,7 +47,7 @@
 | `liutao` | 六韜 | 兵家 | original | 66 | 64,772 | — | — |
 | `san-lue` | 三略 | 兵家 | original | 3 | 14,993 | — | — |
 | `sima-fa` | 司馬法 | 兵家 | original | 5 | 13,094 | — | — |
-| `sunzi-bingfa` | 孫子兵法 | 兵家 | original | 14 | 30,954 | — | — |
+| `sunzi-bingfa` | 孫子兵法 | 兵家 | original | 14 | 30,954 | ✓ | 91/91 |
 | `weiliaozi` | 尉繚子 | 兵家 | original | 20 | 18,149 | — | — |
 | `wuzi` | 吳子 | 兵家 | original | 6 | 18,009 | — | — |
 | `gongsun-longzi` | 公孫龍子 | 名家 | original | 7 | 34,659 | — | — |
@@ -63,7 +63,7 @@
 | `shangjunshu` | 商君書 | 法家 | original | 25 | 73,476 | — | — |
 | `shenzi` | 慎子 | 法家 | original | 9 | 25,740 | — | — |
 | `haidao-suanjing` | 海島算經 | 算書 | original | 1 | 5,469 | — | — |
-| `jiuzhang-suanshu` | 九章算術 | 算書 | original | 10 | 105,779 | — | — |
+| `jiuzhang-suanshu` | 九章算術 | 算書 | original | 10 | 105,779 | — | 骨架 885 |
 | `sunzi-suanjing` | 孫子算經 | 算書 | original | 4 | 35,563 | — | — |
 | `zhoubi-suanjing` | 周髀算經 | 算書 | original | 6 | 22,323 | — | — |
 | `chuci` | 楚辭 | 術數 | original | 29 | 60,505 | — | — |
