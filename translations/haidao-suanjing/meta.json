@@ -17,6 +17,20 @@
   "license": "CC BY-SA 4.0",
   "verified": false,
   "tier": "重要",
-  "psych_survey": null,
+  "psych_survey": {
+    "surveyed_at": "2026-07-28",
+    "method": "全文段落級標註，24 段逐段判讀（annotations.json）",
+    "domains_hit": [],
+    "domains_null": ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII", "XIII"],
+    "domain_para_counts": {},
+    "paras_total": 24,
+    "paras_no_domain": 24,
+    "verdict": "全空。13 領域零命中，24 段無一觸及。九題全是測量題（望海島、望松、望方邑、望深谷、登山望樓、望波口、望清淵、登山望津、登山臨邑），以兩表或重矩之差推不可及之高深廣遠，題面不涉人事、不陳述誰該承擔什麼。與九章的差別在於：九章尚有〈衰分〉〈均輸〉兩卷把賦役分配寫進題目而命中 V 26 段，本書連那一類題目都沒有。此外本 Wikisource 底本不含劉徽自序，九章那兩段落在序跋的 VIII／XII 在此也無對應。",
+    "revises_pilot": "無試點。本部是九章之後刻意挑的同類第三部，目的是判斷九章的 discourse_mode 覆蓋缺口屬算書通例還是九章特有——見 method_findings。",
+    "method_findings": [
+      "discourse_mode 覆蓋缺口在算書是通例，不是九章特有：本書 14/24 段（58%）判不出姿態，比例與九章的 491/720（68%）同一量級，成因完全相同——「今有……問……」題面與「答曰……」答案既非命題也非規範，而 formalization 只涵蓋「術曰」那 10 段。兩部獨立算書給出同一結果，vocab 缺「題例／worked instance」值一事至此可視為已驗證。",
+      "本書是比九章更純的負對照：九章的零命中還可歸因於 Z-wisdom 排除（割圓術那類思想段落被支流吸走），本書則連可被吸走的內容都沒有——底本無序無論，通篇只有題、答、術。這說明「全空」有兩種，一種是思想被 13 領域刻意排除，一種是真的沒有，兩者在 domains_hit 欄位裡長得一模一樣。"
+    ]
+  },
   "notes": null
 }

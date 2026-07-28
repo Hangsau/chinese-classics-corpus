@@ -41,7 +41,7 @@ translations/<slug>/
 00-overview/       生成物（INDEX.json / INDEX.md），不手改
 ```
 
-`translations/` 已有 68 部（phase 1 全數），`00-overview/` 已生成。`annotations.json` 目前 2 部（`sunzi-bingfa` 91 段、`jiuzhang-suanshu` 720 段），其餘 66 部的 `psych_survey` 仍是 `null`＝未通讀。
+`translations/` 已有 68 部（phase 1 全數），`00-overview/` 已生成。`annotations.json` 目前 3 部（`sunzi-bingfa` 91 段、`jiuzhang-suanshu` 720 段、`haidao-suanjing` 24 段），其餘 65 部的 `psych_survey` 仍是 `null`＝未通讀。
 
 ## 下載器結構陷阱（四類已修過，改 downloader 前先看）
 

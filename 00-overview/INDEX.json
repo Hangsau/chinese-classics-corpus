@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-07-28T03:34:25+00:00",
+    "generated_at": "2026-07-28T03:44:31+00:00",
     "text_count": 68,
     "total_bytes": 10553141,
     "by_category": {
@@ -26,10 +26,10 @@
       "original": 66,
       "contested": 2
     },
-    "surveyed_count": 2,
-    "annotated_count": 2,
+    "surveyed_count": 3,
+    "annotated_count": 3,
     "scaffolded_count": 0,
-    "paras_judged": 811,
+    "paras_judged": 835,
     "paras_pending": 0,
     "domain_hit_counts": {
       "II": 1,
@@ -260,11 +260,11 @@
       "size_bytes": 5469,
       "chapter_count": 1,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [],
+      "paras_total": 24,
+      "paras_judged": 24,
+      "annotated": true
     },
     {
       "slug": "hanfeizi",
