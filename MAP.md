@@ -14,7 +14,8 @@
 | 查某部書在不在清單、為何某部結構特殊 | `scripts/catalog/chinese-classics-ws.json`（73 部，特殊處置寫在該部的 `structure_note` / `coverage_note`） |
 | 抓完驗證 | `PYTHONIOENCODING=utf-8 python scripts/verify.py`；重生索引 `... scripts/build-index.py` |
 | 跑心理學標註 | 先讀 `SCHEMA.md` §3 分流 `text_role`，`reference` 類不進管線 |
-| 標一部新書 | `scripts/make-scaffold.py --slug <slug>` 產骨架 → 讀**全文**填 null 欄位 → 回填 `meta.json` 的 `psych_survey`。**不要手寫 `annotations.json`**（壞錨點都是這樣進來的） |
+| 標一部新書 | **照抄本檔 §標註工作流的五步**。核心是不手寫 `annotations.json`，改用 `scripts/annotate.py` 的 `put()`／`span()`＋雙向檢查回填（壞錨點都是手寫進來的） |
+| 查 13 領域怎麼分／`discourse_mode` 七值定義 | `vocab/psych-domains.json`、`vocab/discourse-modes.json`。**友誼在 V 不在 III**；`Z-wisdom` 等 crosscurrents 不得填進 `psych_domains` |
 | 改段落切分規則 | `scripts/corpus_text.py` 是唯一來源，make-scaffold 與 verify 共用。**動它等於動所有既有錨點** |
 | 記錄「這部書沒東西」 | `SCHEMA.md` §5 `psych_survey`（`domains_hit` + `domains_null` 都要寫） |
 | 接到 knowledge-hub | `SCHEMA.md` §6 + `../knowledge-hub/CLAUDE.md` |
@@ -27,10 +28,14 @@ HANDOFF.md         狀態快照（每次工作後改）
 MAP.md             本檔
 SCHEMA.md          資料契約——動 downloader 或標註管線前必讀
 pilots/            方法論驗證紀錄。新增 schema 維度前必須先在這裡驗過
+vocab/             13 人生問題領域（psych-domains.json）與 discourse_mode 七值（discourse-modes.json）
+                   ——標註判準的真相源，與 religions-history 共用，改動要兩邊同步
 scripts/catalog/   書目 canonical（只有 *-ws.json；ctext 路線已整條移除）
 scripts/corpus_text.py           段落切分單一來源（make-scaffold 與 verify 共用）
 scripts/download-wikisource.py   下載器，含 --survey 預檢模式
 scripts/make-scaffold.py         由本文生成標註骨架（錨點自動產，人只填 null）
+scripts/annotate.py              回填工具：put()／span() 寫對照表，apply() 雙向檢查後落盤；
+                                 `annotate.py stats <slug>` 直接吐 psych_survey 要的數字
 scripts/verify.py                驗證，push 前必須全綠。含錨點漂移偵測
 scripts/build-index.py           由 meta.json 生成索引
 translations/<slug>/
@@ -42,6 +47,45 @@ translations/<slug>/
 ```
 
 `translations/` 已有 68 部（phase 1 全數），`00-overview/` 已生成。`annotations.json` 目前 6 部（`sunzi-bingfa` 91 段、`jiuzhang-suanshu` 720 段、`haidao-suanjing` 24 段、`renwuzhi` 229 段、`qianfulun` 268 段、`yantielun` 356 段），共 1,688 段；其餘 62 部的 `psych_survey` 仍是 `null`＝未通讀。
+
+## 標註工作流（標一部書就照這五步走）
+
+```bash
+# 1. 產骨架（錨點自動生成，全欄位 null）
+PYTHONIOENCODING=utf-8 python scripts/make-scaffold.py --slug <slug>
+
+# 2. 先把骨架的章／段索引範圍印出來，當作待標清單的骨幹
+PYTHONIOENCODING=utf-8 python -c "import json,collections;rows=json.load(open('translations/<slug>/annotations.json',encoding='utf-8'));d=collections.Counter(r['anchor']['chapter'] for r in rows);print(len(rows));[print(k,v) for k,v in d.items()]"
+```
+
+3. **讀全文**（`translations/<slug>/raw/original.txt`，用 Read 工具分段讀並帶行號），邊讀邊在心裡對齊步驟 2 的索引，產出「每段 → domains ｜ modes」的完整清單。
+
+4. 建一次性的 `scripts/tmp_ann_<slug>.py`，只放資料：
+
+```python
+from annotate import *
+
+c = "本議第一"
+put(c, 1, ["V"], [NA])
+put(c, 11, ["V"], [FO, P], note="均輸平準的運作機制")
+span(c, 2, 10, ["V"], [P])
+
+apply("<slug>")
+```
+
+跑 `PYTHONIOENCODING=utf-8 python scripts/tmp_ann_<slug>.py`，**跑完把 tmp 檔刪掉**。
+
+5. `PYTHONIOENCODING=utf-8 python scripts/annotate.py stats <slug>` 取數字 → 回填 `meta.json` 的 `psych_survey` → `verify.py` → `build-index.py` → 對齊 HANDOFF／MAP → commit + push。
+
+### 這一步會踩到的環境限制（都踩過）
+
+- **`annotate.py` 的雙向 assert 是唯一的安全網**，別為了讓它過而改對照表以外的東西。骨架有段沒對照＝漏標；對照表有多餘鍵＝章名或索引打錯，兩者都會靜默產生錯位錨點。
+- 章名在 `r["anchor"]["chapter"]`，**不是** `r["chapter"]`。
+- **一次 Write 寫不完三百多段的對照表**（超出單次輸出上限）。先 Write 前幾篇，再用 Edit 逐塊接在後面。
+- **bash heredoc（`cat > x.py <<'EOF'`）在本機會失敗**，一律用 Write／Edit 工具建檔。
+- Bash 輸出超過約 30KB 會被轉存成檔案而不顯示；讀原文用 Read 工具的 `offset`／`limit`，別用 cat。
+- Console 是 cp950，所有 Python 一律 `PYTHONIOENCODING=utf-8 python ...`。
+- commit 時出現 `CRLF will be replaced by LF` 是 `.gitattributes` 正常運作，**不要據此去 `git rm --cached`**（踩過一次，差點誤刪已標檔）。
 
 ## 下載器結構陷阱（四類已修過，改 downloader 前先看）
 

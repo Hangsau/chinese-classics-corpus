@@ -95,7 +95,7 @@
 ## 下一步
 
 1. **`yanshi-jiaxun`（顏氏家訓，123,113 bytes，`人論`）**。挑它的理由是它應該會**打破 V 的壟斷**：已標六部裡 V 從未低於半數（鹽鐵論 88%、潛夫論 65%），而家訓是寫給子孫的私領域訓誡，若 V 仍然壓倒一切，代表 V 這條判準本身過寬、不是文本特徵；若 IV 首次成為主軸（目前 IV 最高是鹽鐵論的 36 段），才證明領域區辨力真的存在。同時它是驗 XIII 的第二個檢驗點——鹽鐵論已推出「XIII 取決於有沒有人替自身處境說話」，家訓通篇是作者對自己一生的交代，若 XIII 仍薄，那條解釋就要修
-2. 流程固定：`make-scaffold.py` 產骨架 → 讀全文逐段填 → 回填書級 `psych_survey`（`domains_hit` **與** `domains_null` 都要寫）→ `verify.py` → `build-index.py` → commit + push
+2. **流程已固定成可照抄的五步，寫在 [`MAP.md` §標註工作流](./MAP.md#標註工作流標一部書就照這五步走)**：`make-scaffold.py` 產骨架 → 印章／段索引當待標清單 → 讀全文產對照表 → 用 `scripts/annotate.py` 的 `put()`／`span()` 寫一次性 `tmp_ann_<slug>.py` 回填（雙向 assert 把關，跑完刪檔）→ `annotate.py stats <slug>` 取數字回填 `psych_survey`（`domains_hit` **與** `domains_null` 都要寫）→ `verify.py` → `build-index.py` → 對齊 HANDOFF／MAP → commit + push。該節同時列了六條環境限制（單次 Write 寫不完、heredoc 失效、`anchor.chapter` 巢狀、CRLF 警告不可誤刪等），都是實際踩過的
 3. phase 2 小學 5 部：探針已現成，用同一套跑一次證否，成本極低
 4. 6 個純數字章標籤的警告，等標到那幾部再人工補篇名對照表
 
