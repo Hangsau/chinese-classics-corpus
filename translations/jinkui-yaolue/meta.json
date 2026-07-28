@@ -1,0 +1,22 @@
+{
+  "slug": "jinkui-yaolue",
+  "name_zh": "金匱要略",
+  "name_en": "Essentials of the Golden Cabinet",
+  "category": "醫家",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "東漢",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/金匱要略",
+  "downloaded_at": "2026-07-28T00:43:15+00:00",
+  "size_bytes": 102687,
+  "checksum_sha256": "9f6487925f80fc1e40bc395016babe3c4fd538772e077c7114c0d70dad12fd81",
+  "chapter_count": 31,
+  "expected_chapter_count": 25,
+  "license": "CC BY-SA 4.0",
+  "verified": false,
+  "tier": "核心",
+  "psych_survey": null,
+  "notes": null
+}

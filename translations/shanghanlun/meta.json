@@ -1,0 +1,22 @@
+{
+  "slug": "shanghanlun",
+  "name_zh": "傷寒論",
+  "name_en": "Treatise on Cold Damage",
+  "category": "醫家",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "東漢",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/傷寒論",
+  "downloaded_at": "2026-07-28T00:22:17+00:00",
+  "size_bytes": 157623,
+  "checksum_sha256": "bb40f9463621d177a1bb47b7e8cb5099152db89fb619f27814dc7b9316c4054e",
+  "chapter_count": 24,
+  "expected_chapter_count": 10,
+  "license": "CC BY-SA 4.0",
+  "verified": false,
+  "tier": "核心",
+  "psych_survey": null,
+  "notes": null
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "shuijingzhu",
+  "name_zh": "水經注",
+  "name_en": "Commentary on the Water Classic",
+  "category": "地理",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "北魏",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/水經注",
+  "downloaded_at": "2026-07-28T01:03:02+00:00",
+  "size_bytes": 1131449,
+  "checksum_sha256": "1f988ba10a530650cb3079bd83d8e1884fd72f7d4b1a2b86451906e369c6491c",
+  "chapter_count": 137,
+  "expected_chapter_count": 40,
+  "license": "CC BY-SA 4.0",
+  "verified": false,
+  "tier": "核心",
+  "psych_survey": null,
+  "notes": null
+}

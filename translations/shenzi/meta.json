@@ -1,0 +1,22 @@
+{
+  "slug": "shenzi",
+  "name_zh": "慎子",
+  "name_en": "Shenzi",
+  "category": "法家",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "戰國",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/慎子",
+  "downloaded_at": "2026-07-28T00:16:12+00:00",
+  "size_bytes": 25740,
+  "checksum_sha256": "202add997935d6cb69986f7d9c52323aed6dd971c2c47a1828483d936133e20a",
+  "chapter_count": 9,
+  "expected_chapter_count": 7,
+  "license": "CC BY-SA 4.0",
+  "verified": false,
+  "tier": "重要",
+  "psych_survey": null,
+  "notes": null
+}

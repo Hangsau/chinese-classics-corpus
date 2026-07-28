@@ -1,0 +1,22 @@
+{
+  "slug": "sunzi-bingfa",
+  "name_zh": "孫子兵法",
+  "name_en": "The Art of War",
+  "category": "兵家",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "春秋末",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/孫子兵法",
+  "downloaded_at": "2026-07-28T00:11:36+00:00",
+  "size_bytes": 30954,
+  "checksum_sha256": "a4860a2b8b43a96614f2ec81c87998d14f99caebf4f20a7c188c368b3597a956",
+  "chapter_count": 14,
+  "expected_chapter_count": 13,
+  "license": "CC BY-SA 4.0",
+  "verified": false,
+  "tier": "核心",
+  "psych_survey": null,
+  "notes": null
+}

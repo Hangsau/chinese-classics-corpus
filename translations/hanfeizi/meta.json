@@ -1,0 +1,22 @@
+{
+  "slug": "hanfeizi",
+  "name_zh": "韓非子",
+  "name_en": "Han Feizi",
+  "category": "法家",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "戰國",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/韓非子",
+  "downloaded_at": "2026-07-28T01:16:08+00:00",
+  "size_bytes": 404007,
+  "checksum_sha256": "20b8c5fff29dd2899df3220d47cfdcf7620e953a3b9fe7830b86c9117f33edf0",
+  "chapter_count": 59,
+  "expected_chapter_count": 55,
+  "license": "CC BY-SA 4.0",
+  "verified": false,
+  "tier": "核心",
+  "psych_survey": null,
+  "notes": null
+}

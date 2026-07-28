@@ -1,0 +1,22 @@
+{
+  "slug": "wenxin-diaolong",
+  "name_zh": "文心雕龍",
+  "name_en": "The Literary Mind and the Carving of Dragons",
+  "category": "文論",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "南朝梁",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/文心雕龍",
+  "downloaded_at": "2026-07-28T01:04:26+00:00",
+  "size_bytes": 148000,
+  "checksum_sha256": "39ae7f0c877a5e78f76262ef71c4b6de9110b29033c4e791622f7dacae337905",
+  "chapter_count": 52,
+  "expected_chapter_count": 50,
+  "license": "CC BY-SA 4.0",
+  "verified": false,
+  "tier": "核心",
+  "psych_survey": null,
+  "notes": null
+}

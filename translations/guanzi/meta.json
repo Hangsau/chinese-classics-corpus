@@ -1,0 +1,22 @@
+{
+  "slug": "guanzi",
+  "name_zh": "管子",
+  "name_en": "Guanzi",
+  "category": "法家",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "戰國–漢",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/管子",
+  "downloaded_at": "2026-07-28T00:55:02+00:00",
+  "size_bytes": 472126,
+  "checksum_sha256": "7d59d7babf950a430aa1982a8a83e6fbc85260870bd7852f22cfc29e27781e19",
+  "chapter_count": 81,
+  "expected_chapter_count": 86,
+  "license": "CC BY-SA 4.0",
+  "verified": false,
+  "tier": "核心",
+  "psych_survey": null,
+  "notes": null
+}

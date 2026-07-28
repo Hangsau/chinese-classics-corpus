@@ -1,0 +1,22 @@
+{
+  "slug": "chuci",
+  "name_zh": "楚辭",
+  "name_en": "Songs of Chu",
+  "category": "術數",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "戰國–漢",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/楚辭",
+  "downloaded_at": "2026-07-28T00:52:31+00:00",
+  "size_bytes": 60505,
+  "checksum_sha256": "73e8e2214b0bb1503d7aefbacea398bc44fb7c9dda3978c37d07ec7f58d6c377",
+  "chapter_count": 29,
+  "expected_chapter_count": 17,
+  "license": "CC BY-SA 4.0",
+  "verified": false,
+  "tier": "核心",
+  "psych_survey": null,
+  "notes": null
+}

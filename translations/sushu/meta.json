@@ -1,0 +1,22 @@
+{
+  "slug": "sushu",
+  "name_zh": "素書",
+  "name_en": "Book of Plain Words",
+  "category": "儒家著述",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "漢（託名）",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/素書",
+  "downloaded_at": "2026-07-28T00:19:53+00:00",
+  "size_bytes": 5094,
+  "checksum_sha256": "689d7b73ad1cd0f3c0e5447b5c2b8f5e00d64b647c32ef2eec1340d5ded6b72e",
+  "chapter_count": 6,
+  "expected_chapter_count": 6,
+  "license": "CC BY-SA 4.0",
+  "verified": false,
+  "tier": "重要",
+  "psych_survey": null,
+  "notes": null
+}

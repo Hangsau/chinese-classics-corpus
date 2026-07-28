@@ -1,0 +1,1443 @@
+[
+  {
+    "slug": "sunzi-bingfa",
+    "name_zh": "孫子兵法",
+    "subpages": 0,
+    "expected": 13,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "wuzi",
+    "name_zh": "吳子",
+    "subpages": 0,
+    "expected": 6,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "liutao",
+    "name_zh": "六韜",
+    "subpages": 0,
+    "expected": 6,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "sima-fa",
+    "name_zh": "司馬法",
+    "subpages": 0,
+    "expected": 5,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "weiliaozi",
+    "name_zh": "尉繚子",
+    "subpages": 0,
+    "expected": 24,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "san-lue",
+    "name_zh": "三略",
+    "subpages": 0,
+    "expected": 3,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "hanfeizi",
+    "name_zh": "韓非子",
+    "subpages": 80,
+    "expected": 55,
+    "flags": [
+      "MIXED numeric=20 named=60",
+      "COUNT got=80 expected=55"
+    ],
+    "labels": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "三守",
+      "主道",
+      "二柄",
+      "五蠹",
+      "亡徵",
+      "人主",
+      "備內",
+      "內儲說上七術",
+      "內儲說下六微",
+      "八奸",
+      "八姦",
+      "八經",
+      "八說",
+      "六反",
+      "初見秦",
+      "制分",
+      "功名",
+      "十過",
+      "南面",
+      "和氏",
+      "問田",
+      "問辯",
+      "喻老",
+      "外儲說",
+      "外儲說右上",
+      "外儲說右下",
+      "外儲說左上",
+      "外儲說左下",
+      "大體",
+      "奸劫弑臣",
+      "存韓",
+      "孤憤",
+      "守道",
+      "安危",
+      "定法",
+      "心度",
+      "忠孝",
+      "忠考",
+      "愛臣",
+      "揚榷",
+      "揚權",
+      "有度",
+      "用人",
+      "觀行",
+      "解老",
+      "詭使",
+      "說林上",
+      "說林下",
+      "說疑",
+      "說難",
+      "難一",
+      "難三",
+      "難二",
+      "難勢",
+      "難四",
+      "難言",
+      "韓非子全文",
+      "顯學",
+      "飭令",
+      "飾邪"
+    ]
+  },
+  {
+    "slug": "shangjunshu",
+    "name_zh": "商君書",
+    "subpages": 5,
+    "expected": 26,
+    "flags": [
+      "COUNT got=5 expected=26"
+    ],
+    "labels": [
+      "卷一",
+      "卷三",
+      "卷二",
+      "卷五",
+      "卷四"
+    ]
+  },
+  {
+    "slug": "guanzi",
+    "name_zh": "管子",
+    "subpages": 88,
+    "expected": 86,
+    "flags": [],
+    "labels": [
+      "七法",
+      "七法/七法",
+      "七法/四傷百匿",
+      "七法/爲兵之數",
+      "七法/選陳",
+      "勢",
+      "第01篇牧民",
+      "第02篇形勢",
+      "第03篇權修",
+      "第03篇權脩",
+      "第04篇立政",
+      "第05篇乘馬",
+      "第06篇七法",
+      "第07篇版法",
+      "第08篇幼官",
+      "第09篇幼官圖",
+      "第10篇五輔",
+      "第11篇宙合",
+      "第12篇樞言",
+      "第13篇八觀",
+      "第14篇法禁",
+      "第15篇重令",
+      "第16篇法法",
+      "第17篇兵法",
+      "第18篇匡君大匡",
+      "第18篇大匡",
+      "第19篇中匡",
+      "第19篇匡君中匡",
+      "第20篇匡君小匡",
+      "第20篇小匡",
+      "第22篇霸形",
+      "第23篇霸言",
+      "第24篇問",
+      "第26篇戒",
+      "第27篇地圖",
+      "第28篇參患",
+      "第29篇制分",
+      "第30篇君臣上",
+      "第31篇君臣下",
+      "第32篇小稱",
+      "第33篇四稱",
+      "第35篇侈靡",
+      "第36篇心術上",
+      "第37篇心術下",
+      "第38篇白心",
+      "第39篇水地",
+      "第40篇四時",
+      "第41篇五行",
+      "第42篇勢",
+      "第43篇正",
+      "第44篇九變",
+      "第45篇任法",
+      "第46篇明法",
+      "第47篇正世",
+      "第48篇治國",
+      "第49篇內業",
+      "第50篇封禪",
+      "第51篇小問",
+      "第52篇七主七臣",
+      "第53篇禁藏",
+      "第54篇入國",
+      "第55篇九守",
+      "第56篇桓公問",
+      "第57篇度地",
+      "第58篇地員",
+      "第59篇弟子職",
+      "第64篇形勢解",
+      "第65篇立政九敗解",
+      "第66篇版法解",
+      "第67篇明法解",
+      "第68篇巨乘馬",
+      "第68篇臣乘馬",
+      "第69篇乘馬數",
+      "第71篇事語",
+      "第72篇海王",
+      "第73篇國蓄",
+      "第74篇山國軌",
+      "第75篇山權數",
+      "第76篇山至數",
+      "第77篇地數"
+    ]
+  },
+  {
+    "slug": "shenzi",
+    "name_zh": "慎子",
+    "subpages": 0,
+    "expected": 7,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "jian-zhu-ke-shu",
+    "name_zh": "諫逐客書",
+    "subpages": 0,
+    "expected": 1,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "gongsun-longzi",
+    "name_zh": "公孫龍子",
+    "subpages": 7,
+    "expected": 6,
+    "flags": [
+      "MIXED numeric=6 named=1"
+    ],
+    "labels": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "原序"
+    ]
+  },
+  {
+    "slug": "lusheng-mobian-zhuxu",
+    "name_zh": "魯勝墨辯注敘",
+    "subpages": 0,
+    "expected": 1,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "lushi-chunqiu",
+    "name_zh": "呂氏春秋",
+    "subpages": 26,
+    "expected": 26,
+    "flags": [],
+    "labels": [
+      "卷一",
+      "卷七",
+      "卷三",
+      "卷九",
+      "卷二",
+      "卷二十",
+      "卷二十一",
+      "卷二十三",
+      "卷二十二",
+      "卷二十五",
+      "卷二十六",
+      "卷二十四",
+      "卷五",
+      "卷八",
+      "卷六",
+      "卷十",
+      "卷十一",
+      "卷十七",
+      "卷十三",
+      "卷十九",
+      "卷十二",
+      "卷十五",
+      "卷十八",
+      "卷十六",
+      "卷十四",
+      "卷四"
+    ]
+  },
+  {
+    "slug": "guiguzi",
+    "name_zh": "鬼谷子",
+    "subpages": 7,
+    "expected": 14,
+    "flags": [
+      "COUNT got=7 expected=14"
+    ],
+    "labels": [
+      "卷01",
+      "卷02",
+      "卷03",
+      "序",
+      "跋",
+      "鬼谷子篇目考",
+      "鬼谷子附録"
+    ]
+  },
+  {
+    "slug": "yinwenzi",
+    "name_zh": "尹文子",
+    "subpages": 4,
+    "expected": 2,
+    "flags": [],
+    "labels": [
+      "佚文",
+      "大道上",
+      "大道下",
+      "序"
+    ]
+  },
+  {
+    "slug": "dengxizi",
+    "name_zh": "鄧析子",
+    "subpages": 2,
+    "expected": 2,
+    "flags": [],
+    "labels": [
+      "1",
+      "2"
+    ]
+  },
+  {
+    "slug": "xinxu",
+    "name_zh": "新序",
+    "subpages": 20,
+    "expected": 10,
+    "flags": [
+      "MIXED numeric=10 named=10",
+      "COUNT got=20 expected=10"
+    ],
+    "labels": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "刺奢",
+      "善謀/卷上",
+      "善謀/卷下",
+      "節士",
+      "義勇",
+      "雜事/卷一",
+      "雜事/卷三",
+      "雜事/卷二",
+      "雜事/卷五",
+      "雜事/卷亖"
+    ]
+  },
+  {
+    "slug": "zhonglun",
+    "name_zh": "中論",
+    "subpages": 0,
+    "expected": 20,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "qianfulun",
+    "name_zh": "潛夫論",
+    "subpages": 14,
+    "expected": 36,
+    "flags": [
+      "COUNT got=14 expected=36"
+    ],
+    "labels": [
+      "卷一",
+      "卷七",
+      "卷三",
+      "卷九",
+      "卷二",
+      "卷五",
+      "卷八",
+      "卷六",
+      "卷十",
+      "卷四",
+      "附錄一",
+      "附錄三",
+      "附錄二",
+      "附錄四"
+    ]
+  },
+  {
+    "slug": "taixuanjing",
+    "name_zh": "太玄經",
+    "subpages": 1,
+    "expected": 10,
+    "flags": [
+      "COUNT got=1 expected=10"
+    ],
+    "labels": [
+      "太玄攡"
+    ]
+  },
+  {
+    "slug": "fengsu-tongyi",
+    "name_zh": "風俗通義",
+    "subpages": 11,
+    "expected": 10,
+    "flags": [
+      "MIXED numeric=10 named=1"
+    ],
+    "labels": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "風俗通義序"
+    ]
+  },
+  {
+    "slug": "kongcongzi",
+    "name_zh": "孔叢子",
+    "subpages": 19,
+    "expected": 23,
+    "flags": [],
+    "labels": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19"
+    ]
+  },
+  {
+    "slug": "shenjian",
+    "name_zh": "申鑒",
+    "subpages": 9,
+    "expected": 5,
+    "flags": [
+      "MIXED numeric=5 named=4",
+      "COUNT got=9 expected=5"
+    ],
+    "labels": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "何孟春序",
+      "注申鑒序",
+      "王鏊序",
+      "跋申鑒注後"
+    ]
+  },
+  {
+    "slug": "zhongjing",
+    "name_zh": "忠經",
+    "subpages": 0,
+    "expected": 18,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "sushu",
+    "name_zh": "素書",
+    "subpages": 0,
+    "expected": 6,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "duduan",
+    "name_zh": "獨斷",
+    "subpages": 0,
+    "expected": 2,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "cai-zhonglang-ji",
+    "name_zh": "蔡中郎集",
+    "subpages": 17,
+    "expected": 10,
+    "flags": [
+      "COUNT got=17 expected=10"
+    ],
+    "labels": [
+      "卷一",
+      "卷七",
+      "卷三",
+      "卷九",
+      "卷二",
+      "卷五",
+      "卷八",
+      "卷六",
+      "卷十",
+      "卷十一",
+      "卷四",
+      "外集卷一",
+      "外集卷三",
+      "外集卷二",
+      "外集卷四",
+      "蔡中郎集卷十",
+      "蔡中郎集外集卷四"
+    ]
+  },
+  {
+    "slug": "heguanzi",
+    "name_zh": "鶡冠子",
+    "subpages": 0,
+    "expected": 19,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "yuzi",
+    "name_zh": "鬻子",
+    "subpages": 2,
+    "expected": 14,
+    "flags": [
+      "COUNT got=2 expected=14"
+    ],
+    "labels": [
+      "卷上",
+      "卷下"
+    ]
+  },
+  {
+    "slug": "shenyijing",
+    "name_zh": "神異經",
+    "subpages": 0,
+    "expected": 9,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "dongmingji",
+    "name_zh": "洞冥記",
+    "subpages": 4,
+    "expected": 4,
+    "flags": [],
+    "labels": [
+      "卷第一",
+      "卷第三",
+      "卷第二",
+      "卷第四"
+    ]
+  },
+  {
+    "slug": "gu-sanfen",
+    "name_zh": "古三墳",
+    "subpages": 0,
+    "expected": 3,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "chuci",
+    "name_zh": "楚辭",
+    "subpages": 14,
+    "expected": 17,
+    "flags": [],
+    "labels": [
+      "七諫",
+      "九懷",
+      "九歌",
+      "九章",
+      "九辯",
+      "卜居",
+      "哀時命",
+      "大招",
+      "惜誓",
+      "招䰟",
+      "招隱士",
+      "招魂",
+      "漁父",
+      "遠遊"
+    ]
+  },
+  {
+    "slug": "shanhaijing",
+    "name_zh": "山海經",
+    "subpages": 19,
+    "expected": 18,
+    "flags": [],
+    "labels": [
+      "中山經",
+      "北山經",
+      "南山經",
+      "大荒北經",
+      "大荒南經",
+      "大荒東經",
+      "大荒西經",
+      "東山經",
+      "海內北經",
+      "海內南經",
+      "海內東經",
+      "海內經",
+      "海內西經",
+      "海外北經",
+      "海外南經",
+      "海外東經",
+      "海外西經",
+      "西山經",
+      "郭璞序"
+    ]
+  },
+  {
+    "slug": "jiaoshi-yilin",
+    "name_zh": "焦氏易林",
+    "subpages": 4,
+    "expected": 16,
+    "flags": [
+      "COUNT got=4 expected=16"
+    ],
+    "labels": [
+      "乾之",
+      "坤之",
+      "屯之",
+      "艮之"
+    ]
+  },
+  {
+    "slug": "jingshi-yizhuan",
+    "name_zh": "京氏易傳",
+    "subpages": 0,
+    "expected": 3,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "nanjing",
+    "name_zh": "難經",
+    "subpages": 0,
+    "expected": 81,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "shanghanlun",
+    "name_zh": "傷寒論",
+    "subpages": 0,
+    "expected": 10,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "jinkui-yaolue",
+    "name_zh": "金匱要略",
+    "subpages": 0,
+    "expected": 25,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "jiuzhang-suanshu",
+    "name_zh": "九章算術",
+    "subpages": 0,
+    "expected": 9,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "zhoubi-suanjing",
+    "name_zh": "周髀算經",
+    "subpages": 0,
+    "expected": 2,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "sunzi-suanjing",
+    "name_zh": "孫子算經",
+    "subpages": 0,
+    "expected": 3,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "haidao-suanjing",
+    "name_zh": "海島算經",
+    "subpages": 0,
+    "expected": 1,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "yanshi-jiaxun",
+    "name_zh": "顏氏家訓",
+    "subpages": 7,
+    "expected": 20,
+    "flags": [
+      "COUNT got=7 expected=20"
+    ],
+    "labels": [
+      "卷第1",
+      "卷第2",
+      "卷第3",
+      "卷第4",
+      "卷第5",
+      "卷第6",
+      "卷第7"
+    ]
+  },
+  {
+    "slug": "renwuzhi",
+    "name_zh": "人物志",
+    "subpages": 13,
+    "expected": 12,
+    "flags": [],
+    "labels": [
+      "七繆",
+      "九徵",
+      "八觀",
+      "利害",
+      "接識",
+      "效難",
+      "材理",
+      "材能",
+      "流業",
+      "自序",
+      "英雄",
+      "釋爭",
+      "體別"
+    ]
+  },
+  {
+    "slug": "shishuo-xinyu",
+    "name_zh": "世說新語",
+    "subpages": 37,
+    "expected": 36,
+    "flags": [],
+    "labels": [
+      "仇隟",
+      "任誕",
+      "企羡",
+      "假譎",
+      "傷逝",
+      "儉嗇",
+      "品藻",
+      "夙惠",
+      "容止",
+      "寵禮",
+      "尤悔",
+      "巧蓺",
+      "序",
+      "德行",
+      "忿狷",
+      "惑溺",
+      "捷悟",
+      "排調",
+      "政事",
+      "文學",
+      "方正",
+      "棲逸",
+      "汰侈",
+      "簡傲",
+      "紕漏",
+      "自新",
+      "術解",
+      "規箴",
+      "言語",
+      "識鑒",
+      "讒險",
+      "豪爽",
+      "賞譽",
+      "賢媛",
+      "輕詆",
+      "雅量",
+      "黜免"
+    ]
+  },
+  {
+    "slug": "jinlouzi",
+    "name_zh": "金樓子",
+    "subpages": 23,
+    "expected": 10,
+    "flags": [
+      "MIXED numeric=15 named=8",
+      "COUNT got=23 expected=10"
+    ],
+    "labels": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "08",
+      "09",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "卷一",
+      "卷三",
+      "卷二",
+      "卷五",
+      "卷六",
+      "卷四",
+      "序",
+      "書後"
+    ]
+  },
+  {
+    "slug": "wenxin-diaolong",
+    "name_zh": "文心雕龍",
+    "subpages": 51,
+    "expected": 50,
+    "flags": [],
+    "labels": [
+      "事類",
+      "原道",
+      "史傳",
+      "哀弔",
+      "夸飾",
+      "奏啟",
+      "宗經",
+      "定勢",
+      "封禪",
+      "序志",
+      "徵聖",
+      "情采",
+      "才略",
+      "指瑕",
+      "明詩",
+      "時序",
+      "書記",
+      "樂府",
+      "檄移",
+      "正緯",
+      "比興",
+      "物色",
+      "知音",
+      "祝盟",
+      "神思",
+      "程器",
+      "章句",
+      "章表",
+      "練字",
+      "總術",
+      "聲律",
+      "詔策",
+      "詮賦",
+      "誄碑",
+      "論說",
+      "諧讔",
+      "諧隱",
+      "諸子",
+      "議對",
+      "辨騷",
+      "通變",
+      "銘箴",
+      "鎔裁",
+      "附會",
+      "隱秀",
+      "雜文",
+      "頌讚",
+      "風骨",
+      "養氣",
+      "體性",
+      "麗辭"
+    ]
+  },
+  {
+    "slug": "shuijingzhu",
+    "name_zh": "水經注",
+    "subpages": 41,
+    "expected": 40,
+    "flags": [
+      "MIXED numeric=40 named=1"
+    ],
+    "labels": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "原序"
+    ]
+  },
+  {
+    "slug": "zhanguoce",
+    "name_zh": "戰國策",
+    "subpages": 45,
+    "expected": 33,
+    "flags": [
+      "COUNT got=45 expected=33"
+    ],
+    "labels": [
+      "劉向書錄",
+      "卷01",
+      "卷02",
+      "卷03",
+      "卷04",
+      "卷05",
+      "卷06",
+      "卷07",
+      "卷08",
+      "卷09",
+      "卷10",
+      "卷11",
+      "卷12",
+      "卷13",
+      "卷14",
+      "卷15",
+      "卷16",
+      "卷17",
+      "卷18",
+      "卷19",
+      "卷20",
+      "卷21",
+      "卷22",
+      "卷23",
+      "卷24",
+      "卷25",
+      "卷26",
+      "卷27",
+      "卷28",
+      "卷29",
+      "卷30",
+      "卷31",
+      "卷32",
+      "卷33",
+      "姚氏校注戰國策後題",
+      "戰國策後序",
+      "戰國策校注序",
+      "戰國策校經序",
+      "戰國策目錄序",
+      "括蒼刊本戰國策序",
+      "書戰國策後",
+      "書閣本戰國策後",
+      "重刻剡川姚氏本戰國策并札記序",
+      "題戰國策",
+      "題戰國策後"
+    ]
+  },
+  {
+    "slug": "yantielun",
+    "name_zh": "鹽鐵論",
+    "subpages": 20,
+    "expected": 60,
+    "flags": [
+      "COUNT got=20 expected=60"
+    ],
+    "labels": [
+      "卷01",
+      "卷02",
+      "卷03",
+      "卷04",
+      "卷05",
+      "卷06",
+      "卷07",
+      "卷08",
+      "卷09",
+      "卷10",
+      "卷一",
+      "卷七",
+      "卷三",
+      "卷九",
+      "卷二",
+      "卷五",
+      "卷八",
+      "卷六",
+      "卷十",
+      "卷四"
+    ]
+  },
+  {
+    "slug": "yanzi-chunqiu",
+    "name_zh": "晏子春秋",
+    "subpages": 8,
+    "expected": 8,
+    "flags": [],
+    "labels": [
+      "卷一",
+      "卷七",
+      "卷三",
+      "卷二",
+      "卷五",
+      "卷八",
+      "卷六",
+      "卷四"
+    ]
+  },
+  {
+    "slug": "lienuzhuan",
+    "name_zh": "列女傳",
+    "subpages": 7,
+    "expected": 8,
+    "flags": [],
+    "labels": [
+      "卷1",
+      "卷2",
+      "卷3",
+      "卷4",
+      "卷5",
+      "卷6",
+      "卷7"
+    ]
+  },
+  {
+    "slug": "wuyue-chunqiu",
+    "name_zh": "吳越春秋",
+    "subpages": 21,
+    "expected": 10,
+    "flags": [
+      "COUNT got=21 expected=10"
+    ],
+    "labels": [
+      "佚文",
+      "勾踐伐吳外傳",
+      "勾踐入臣外傳",
+      "勾踐歸國外傳",
+      "勾踐陰謀外傳",
+      "吳太伯傳",
+      "吳王壽夢傳",
+      "夫差內傳",
+      "王僚使公子光傳",
+      "第001卷",
+      "第002卷",
+      "第003卷",
+      "第004卷",
+      "第005卷",
+      "第006卷",
+      "第007卷",
+      "第008卷",
+      "第009卷",
+      "第010卷",
+      "越王無余外傳",
+      "闔閭內傳"
+    ]
+  },
+  {
+    "slug": "yuejueshu",
+    "name_zh": "越絕書",
+    "subpages": 15,
+    "expected": 15,
+    "flags": [],
+    "labels": [
+      "卷一",
+      "卷七",
+      "卷三",
+      "卷九",
+      "卷二",
+      "卷五",
+      "卷八",
+      "卷六",
+      "卷十",
+      "卷十一",
+      "卷十三",
+      "卷十二",
+      "卷十五",
+      "卷十四",
+      "卷四"
+    ]
+  },
+  {
+    "slug": "zhushu-jinian",
+    "name_zh": "竹書紀年",
+    "subpages": 0,
+    "expected": 2,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "yi-zhoushu",
+    "name_zh": "逸周書",
+    "subpages": 17,
+    "expected": 10,
+    "flags": [
+      "COUNT got=17 expected=10"
+    ],
+    "labels": [
+      "世俘",
+      "卷一",
+      "卷七",
+      "卷三",
+      "卷九",
+      "卷二",
+      "卷二/程寤",
+      "卷五",
+      "卷八",
+      "卷六",
+      "卷十",
+      "卷四",
+      "商誓",
+      "皇門",
+      "祭公",
+      "程寤",
+      "謚法"
+    ]
+  },
+  {
+    "slug": "mu-tianzi-zhuan",
+    "name_zh": "穆天子傳",
+    "subpages": 8,
+    "expected": 6,
+    "flags": [],
+    "labels": [
+      "卷一",
+      "卷三",
+      "卷二",
+      "卷五",
+      "卷六",
+      "卷四",
+      "序一",
+      "序二"
+    ]
+  },
+  {
+    "slug": "yandanzi",
+    "name_zh": "燕丹子",
+    "subpages": 0,
+    "expected": 3,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "xijing-zaji",
+    "name_zh": "西京雜記",
+    "subpages": 6,
+    "expected": 6,
+    "flags": [],
+    "labels": [
+      "卷一",
+      "卷三",
+      "卷二",
+      "卷五",
+      "卷六",
+      "卷四"
+    ]
+  },
+  {
+    "slug": "qunshu-zhiyao",
+    "name_zh": "群書治要",
+    "subpages": 0,
+    "expected": 50,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "yilin",
+    "name_zh": "意林",
+    "subpages": 8,
+    "expected": 5,
+    "flags": [
+      "COUNT got=8 expected=5"
+    ],
+    "labels": [
+      "卷一",
+      "卷三",
+      "卷二",
+      "卷五",
+      "卷六",
+      "卷四",
+      "原序二首",
+      "逸文"
+    ]
+  },
+  {
+    "slug": "qijing",
+    "name_zh": "棋經",
+    "subpages": 0,
+    "expected": 13,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "yulizi",
+    "name_zh": "郁離子",
+    "subpages": 181,
+    "expected": 18,
+    "flags": [
+      "COUNT got=181 expected=18"
+    ],
+    "labels": [
+      "一志",
+      "七出",
+      "不韋不智",
+      "世事翻覆",
+      "世農易業",
+      "主一不亂",
+      "九尾狐",
+      "九難",
+      "九頭鳥",
+      "亂幾",
+      "五丁怒",
+      "井田可復",
+      "任己者術窮",
+      "使貪",
+      "假仁義",
+      "僰人養猴",
+      "八駿",
+      "公孫無人",
+      "刑赦",
+      "割癭",
+      "化鐵之術",
+      "千里馬",
+      "即且",
+      "去蠹",
+      "句章野人",
+      "唐蒙薜荔",
+      "喻治",
+      "噪虎",
+      "噬狗",
+      "城莒",
+      "士蒍諫用虞臣",
+      "多疑不如獨決",
+      "多疑難與共事",
+      "夢騎",
+      "大人不為不情",
+      "大智",
+      "天下貴大同",
+      "天地之盜",
+      "天裂地動",
+      "天道",
+      "好禽諫",
+      "姑蘇圍",
+      "子僑包藏禍心",
+      "子餘知人",
+      "安期生",
+      "宋王偃",
+      "官舟",
+      "寡悔",
+      "射道",
+      "專心",
+      "小人猶膏",
+      "山居夜狸",
+      "岳祠",
+      "巫鬼",
+      "序",
+      "彌子瑕",
+      "待士",
+      "德勝",
+      "德量",
+      "情為欲使",
+      "惜鸛智",
+      "慎爵",
+      "憂時",
+      "應侯止秦伐周",
+      "戚之次且",
+      "招安",
+      "捕鼠",
+      "摶沙",
+      "救虎",
+      "晉靈公好狗",
+      "晚成",
+      "智力",
+      "東都旱",
+      "東陵侯",
+      "枯荷履雪",
+      "枸櫞",
+      "梓棘",
+      "楚巫",
+      "樹怨",
+      "江淮之俗"
+    ]
+  },
+  {
+    "slug": "songjingwen-gong-biji",
+    "name_zh": "宋景文公筆記",
+    "subpages": 0,
+    "expected": 3,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "sanzijing",
+    "name_zh": "三字經",
+    "subpages": 0,
+    "expected": 1,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  },
+  {
+    "slug": "houheixue",
+    "name_zh": "厚黑學",
+    "subpages": 0,
+    "expected": 3,
+    "flags": [
+      "SINGLE-PAGE"
+    ],
+    "labels": []
+  }
+]

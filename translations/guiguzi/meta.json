@@ -1,0 +1,22 @@
+{
+  "slug": "guiguzi",
+  "name_zh": "鬼谷子",
+  "name_en": "Guiguzi",
+  "category": "雜家",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "戰國",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/鬼谷子",
+  "downloaded_at": "2026-07-28T00:55:15+00:00",
+  "size_bytes": 118764,
+  "checksum_sha256": "0241ba4ae90eb464c9138156a373f1a2b21bde55b52c010e52be984400872a2f",
+  "chapter_count": 21,
+  "expected_chapter_count": 14,
+  "license": "CC BY-SA 4.0",
+  "verified": false,
+  "tier": "核心",
+  "psych_survey": null,
+  "notes": null
+}

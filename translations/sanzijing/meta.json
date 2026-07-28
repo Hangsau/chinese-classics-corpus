@@ -1,0 +1,22 @@
+{
+  "slug": "sanzijing",
+  "name_zh": "三字經",
+  "name_en": "Three Character Classic",
+  "category": "雜著",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "南宋",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/新刊三字經",
+  "downloaded_at": "2026-07-28T00:43:08+00:00",
+  "size_bytes": 4256,
+  "checksum_sha256": "28cc811606fce507cba80858022a76bbe1349452afa78908ec55cc68489d34b5",
+  "chapter_count": 1,
+  "expected_chapter_count": 1,
+  "license": "CC BY-SA 4.0",
+  "verified": false,
+  "tier": "重要",
+  "psych_survey": null,
+  "notes": null
+}

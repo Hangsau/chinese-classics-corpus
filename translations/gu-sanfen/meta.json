@@ -1,0 +1,22 @@
+{
+  "slug": "gu-sanfen",
+  "name_zh": "古三墳",
+  "name_en": "Ancient Three Tumuli",
+  "category": "志怪",
+  "text_role": "contested",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "宋（偽託）",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/古三墳",
+  "downloaded_at": "2026-07-28T00:43:10+00:00",
+  "size_bytes": 20377,
+  "checksum_sha256": "162bc08db9037b61dd240a2638ff75c02b518e4127c322ed2186438f96bc2981",
+  "chapter_count": 11,
+  "expected_chapter_count": 3,
+  "license": "CC BY-SA 4.0",
+  "verified": false,
+  "tier": "邊緣",
+  "psych_survey": null,
+  "notes": null
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "yilin",
+  "name_zh": "意林",
+  "name_en": "Forest of Ideas",
+  "category": "類書",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "唐",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/意林",
+  "downloaded_at": "2026-07-28T01:06:20+00:00",
+  "size_bytes": 180522,
+  "checksum_sha256": "40119103f094998ac67109c4216ed4ab3f3c77f02c200d0bdc2ca19ac7a493a1",
+  "chapter_count": 104,
+  "expected_chapter_count": 5,
+  "license": "CC BY-SA 4.0",
+  "verified": false,
+  "tier": "重要",
+  "psych_survey": null,
+  "notes": null
+}

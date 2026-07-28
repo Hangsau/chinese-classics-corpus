@@ -1,0 +1,22 @@
+{
+  "slug": "qijing",
+  "name_zh": "棋經",
+  "name_en": "Classic of Weiqi",
+  "category": "雜著",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "北宋",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/棋經",
+  "downloaded_at": "2026-07-28T00:32:56+00:00",
+  "size_bytes": 8300,
+  "checksum_sha256": "0a85b3808dd2ad5a2a40b7a753b5df9308e698d822c6f8e4e24792cf86f3b7eb",
+  "chapter_count": 15,
+  "expected_chapter_count": 13,
+  "license": "CC BY-SA 4.0",
+  "verified": false,
+  "tier": "重要",
+  "psych_survey": null,
+  "notes": null
+}

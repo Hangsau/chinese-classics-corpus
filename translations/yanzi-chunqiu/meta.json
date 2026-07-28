@@ -1,0 +1,22 @@
+{
+  "slug": "yanzi-chunqiu",
+  "name_zh": "晏子春秋",
+  "name_en": "Annals of Master Yan",
+  "category": "雜史",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "戰國",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/晏子春秋",
+  "downloaded_at": "2026-07-28T01:05:34+00:00",
+  "size_bytes": 168105,
+  "checksum_sha256": "71889b89aa74d4d95a3913e8a58d4ab95bbd8debc434829e2dd41b5b5c439d53",
+  "chapter_count": 215,
+  "expected_chapter_count": 8,
+  "license": "CC BY-SA 4.0",
+  "verified": false,
+  "tier": "核心",
+  "psych_survey": null,
+  "notes": null
+}

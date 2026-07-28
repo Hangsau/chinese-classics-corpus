@@ -1,0 +1,22 @@
+{
+  "slug": "yuejueshu",
+  "name_zh": "越絕書",
+  "name_en": "Lost Records of Yue",
+  "category": "雜史",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "東漢",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/越絕書",
+  "downloaded_at": "2026-07-28T01:06:43+00:00",
+  "size_bytes": 116056,
+  "checksum_sha256": "1926d0145eea096ff35a68ab75ca23a76fca01b05191ede32a26aa8d5e572cec",
+  "chapter_count": 19,
+  "expected_chapter_count": 15,
+  "license": "CC BY-SA 4.0",
+  "verified": false,
+  "tier": "重要",
+  "psych_survey": null,
+  "notes": null
+}

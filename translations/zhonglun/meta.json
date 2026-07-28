@@ -1,0 +1,22 @@
+{
+  "slug": "zhonglun",
+  "name_zh": "中論",
+  "name_en": "Balanced Discourses",
+  "category": "儒家著述",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "東漢",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/中論_(儒家)",
+  "downloaded_at": "2026-07-28T01:13:30+00:00",
+  "size_bytes": 73781,
+  "checksum_sha256": "455310fd0600950423b51b4478a0a484c483d610e0ab9ca1733f986caf4408ba",
+  "chapter_count": 25,
+  "expected_chapter_count": 20,
+  "license": "CC BY-SA 4.0",
+  "verified": false,
+  "tier": "重要",
+  "psych_survey": null,
+  "notes": "同名異書：徐幹《中論》≠ 龍樹《中論》（後者在 religions-history，slug cbeta-T30n1564 / diamond-mulamadhyamaka）。不得合併。"
+}

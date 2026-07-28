@@ -1,0 +1,22 @@
+{
+  "slug": "shanhaijing",
+  "name_zh": "山海經",
+  "name_en": "Classic of Mountains and Seas",
+  "category": "術數",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "戰國–漢",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/山海經",
+  "downloaded_at": "2026-07-28T01:00:39+00:00",
+  "size_bytes": 143349,
+  "checksum_sha256": "d0f2a3232545ed869d0dce644d2d26b4fa7e5779978372e911fde8317d103a59",
+  "chapter_count": 41,
+  "expected_chapter_count": 18,
+  "license": "CC BY-SA 4.0",
+  "verified": false,
+  "tier": "核心",
+  "psych_survey": null,
+  "notes": null
+}
