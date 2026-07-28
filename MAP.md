@@ -41,7 +41,7 @@ translations/<slug>/
 00-overview/       生成物（INDEX.json / INDEX.md），不手改
 ```
 
-`translations/` 已有 68 部（phase 1 全數），`00-overview/` 已生成。`annotations.json` 目前 3 部（`sunzi-bingfa` 91 段、`jiuzhang-suanshu` 720 段、`haidao-suanjing` 24 段），其餘 65 部的 `psych_survey` 仍是 `null`＝未通讀。
+`translations/` 已有 68 部（phase 1 全數），`00-overview/` 已生成。`annotations.json` 目前 4 部（`sunzi-bingfa` 91 段、`jiuzhang-suanshu` 720 段、`haidao-suanjing` 24 段、`renwuzhi` 229 段），其餘 64 部的 `psych_survey` 仍是 `null`＝未通讀。
 
 ## 下載器結構陷阱（四類已修過，改 downloader 前先看）
 
@@ -68,7 +68,9 @@ translations/<slug>/
 
 - **不憑書名判斷有無標註價值**。本庫存在的原因就是這個錯誤（兵家 8/13）。
 - **不只記命中**。九章 720 段有 692 段全空、13 領域只中 3（其中 2 個還在劉徽自序），這個「幾乎全空」本身是資料，不記半年後有人又憑書名重跑。
-- **零命中不等於沒思想**。九章思想密度最高的一段（割圓術）零命中，因為它屬 `Z-wisdom` 支流，而支流依 vocab 不得填進 `psych_domains`。下結論前先分清是「沒有」還是「被 13 領域刻意排除」。
+- **零命中不等於沒思想**。九章思想密度最高的一段（割圓術）零命中，因為它屬 `Z-wisdom` 支流，而支流依 vocab 不得填進 `psych_domains`。下結論前先分清是「沒有」還是「被 13 領域刻意排除」。人物志 25 段空白同因（方法論外殼），所以這不是算書專屬情形，凡帶方法論自覺的書都會踩到。
+- **`domains_hit` 一定要配 `domain_para_counts` 讀**。人物志命中 10／13 看似覆蓋廣，實際上四個領域吃掉絕大部分，IV 與 X 各只 1 段。只看命中數會系統性高估一部書的覆蓋面。
+- **`formalization` 不綁數學**。人物志〈材能〉8 段「某能→某材→某任→某政」對照表判 `formalization`，判準是「規範被寫成可執行程序」，與是否有數字無關。
 - **不對 ctext.org 跑批量下載**。明文禁止，違者無預警封鎖；religions-history 已踩過 200/24h。本庫現在完全不碰 ctext。
 - **`expected_chapter_count` 是驗證後凍結的觀測值，不是估計值**。verify 報章數不符＝結構真的變了，要判斷是修好還是弄壞，**不要反射性再同步一次數字**。
 - **不動 `raw/original.txt`**。動了破 SHA-256。

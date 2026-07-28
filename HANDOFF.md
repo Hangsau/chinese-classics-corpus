@@ -5,7 +5,7 @@
 
 ## 現在在哪
 
-**第一批 68 部全文已入庫。標註管線已跑通，ground truth 兩部完成。**
+**第一批 68 部全文已入庫。標註管線已跑通，已標 4 部（1,064 段）。**
 
 `verify.py`：68 部、10,553,141 bytes、**0 errors、6 warnings**。
 
@@ -14,12 +14,19 @@
 | `sunzi-bingfa` | 91 | 91 | 11／13（未命中 I、XIII） |
 | `jiuzhang-suanshu` | 720 | 720 | 3／13（V 26 段、VIII 1 段、XII 1 段） |
 | `haidao-suanjing` | 24 | 24 | **0／13**（全空） |
+| `renwuzhi` | 229 | 229 | 10／13（未命中 I、IX、XII） |
 
-其餘 65 部 `psych_survey` 仍是 `null`——依 SCHEMA §5，`null` 是「未通讀」不是「沒有」。
+其餘 64 部 `psych_survey` 仍是 `null`——依 SCHEMA §5，`null` 是「未通讀」不是「沒有」。
 
-**三部的意義各不相同**：孫子證明方法找得到東西（連自己試點都漏標 3 個領域）；九章證明方法說得出「沒有」（692/720 段為空）；海島是刻意挑的第三部，用來判斷九章的 `discourse_mode` 缺口是不是算書通例——是（見下方待決事項 1），順帶給出第一個 **0／13 全空**的結果。
+**四部的意義各不相同**：孫子證明方法找得到東西（連自己試點都漏標 3 個領域）；九章證明方法說得出「沒有」（692/720 段為空）；海島是刻意挑的第三部，用來判斷九章的 `discourse_mode` 缺口是不是算書通例——是（見下方待決事項 1），順帶給出第一個 **0／13 全空**的結果；人物志是第一部論說書，用來檢驗判準離開算書語境還切不切得動。
 
-三次全文讀的錯法一致：都只往「補上漏標」修，沒有一次是試點標了而全文推翻。標註偏誤方向是穩定的低估。
+**人物志（229 段）的三個結果**：
+
+1. **10／13 不代表覆蓋廣**。VII 83 段、VIII 81 段、II 64 段、V 57 段吃掉絕大部分，而 IV、X 各只 1 段，XIII 2 段，III、XI 各 4 段。尾巴薄到不能當本書特徵，只能記「有觸及」。往後讀 `domains_hit` 一律要配 `domain_para_counts` 看，光看命中數會高估。
+2. **`formalization` 首次出現在非算書**。〈材能〉4–11 共 8 段是「某能→某材→在朝某任→為國某政」的對照表，把「誰該任什麼職」寫成可查表的程序。判準同 vocab 舉的「儀禮喪服」。這證明該值綁的是「規範被寫成可執行程序」，不綁數學。
+3. **`Z-wisdom` 吸走內容的第二個實例**。25 段 psych_domains 為空，多數不是沒東西，是內容屬「如何察人／察人為何難／辯論技術」的方法論外殼。與九章的差別在本書外殼底下仍有大量對人的實質主張，整體不會被讀成「沒思想」——但這再次支持待決事項 2。
+
+四次全文讀的錯法一致：都只往「補上漏標」修，沒有一次是預期標了而全文推翻。標註偏誤方向是穩定的低估（人物志沒有試點，但 HANDOFF 寫的預期「II／VII／VIII 密集」成立，而完全漏掉了 V 的 57 段）。
 
 ## 已完成
 
@@ -29,7 +36,7 @@
 | vocab 驗證 | `pilots/2026-07-28-discourse-mode-worked-instance.md` | 九章＋海島兩部驗證 `discourse_mode` 覆蓋缺口。含建議定義與邊界，**表未動，等定案** |
 | 段落切分單一來源 | `scripts/corpus_text.py` | `make-scaffold` 產錨點、`verify` 驗錨點都用它。**兩邊算法若分家，para_index 會靜默漂移、每條標註指向錯段** |
 | 標註骨架 | `scripts/make-scaffold.py` | 由本文生成錨點，人只填 null 欄位。手寫 `annotations.json` 是壞錨點的來源 |
-| 標註 | `translations/{sunzi-bingfa,jiuzhang-suanshu,haidao-suanjing}/annotations.json` | 835 段全數判讀完 |
+| 標註 | `translations/{sunzi-bingfa,jiuzhang-suanshu,haidao-suanjing,renwuzhi}/annotations.json` | 1,064 段全數判讀完 |
 | 資料契約 | `SCHEMA.md` | 三層標註模型、`discourse_mode` 七值、`text_role: reference`、`annotations.json` 格式、負面結果欄位、跨庫對齊。§1.1 補了段落級的白話說明 |
 | 行為規範 | `CLAUDE.md` | 與 religions-history 的分界、六條工作守則、七條 anti-pattern |
 | 書目 catalog | `scripts/catalog/chinese-classics-ws.json` | **73 部**（phase 1 共 68、phase 2 共 5）。全部走 Wikisource |
@@ -66,9 +73,11 @@
 1. **`discourse_mode` 加不加「題例／worked instance」值——驗證已做完，只差定案**。九章 491/720 段（68%）判不出姿態，海島算經 14/24 段（58%）同樣判不出，成因完全相同：「今有……問……」題面與「答曰……」答案既非命題也非規範，而 `formalization` 只涵蓋「術曰」那一半。兩部獨立文本同一量級的缺口，vocab 規定的 pilots 驗證已滿足，寫在 [`pilots/2026-07-28-discourse-mode-worked-instance.md`](./pilots/2026-07-28-discourse-mode-worked-instance.md)（含建議定義、與 `formalization` 的分工、以及刻意不涵蓋的三類）。**表尚未動**——這是與 religions-history 共用的詞彙表，加值前要你點頭。
 2. **`Z-wisdom` 排除是否照舊**：九章全書思想密度最高的一段（〈方田〉割圓術劉徽注，談極限論證與「學者踵古，習其謬失」）零領域命中，因為它屬 `Z-wisdom` 支流，而 vocab 明文「不是 domain，不得填進 psych_domains」。這條排除本身沒問題，但現在有了實例：**它足以讓一整部書的結論從「有思想但不在 13 領域」被讀成「沒思想」**。海島算經把問題顯出來了——它同樣全空，但它是**真的**沒有（底本無序無論，通篇只有題答術）。兩種全空在 `domains_hit: []` 裡長得一模一樣。判斷要不要讓書級 `psych_survey` 多一個 `crosscurrents_hit` 欄位把兩者分開。
 
+   **人物志補上第二個實例（2026-07-28）**：229 段裡有 25 段 `psych_domains` 為空，成因同樣是 `Z-wisdom`——那些段講的是「如何察人」「察人為何難」「辯論該怎麼進行」，是方法論外殼不是對人的主張。差別在本書外殼底下另有 204 段實質主張撐著，所以整體不會被誤讀。但這代表 `Z-wisdom` 不是算書專屬的邊角情形，凡是帶方法論自覺的書都會踩到，欄位缺失的代價會隨標註量放大。
+
 ## 下一步
 
-1. **換一類書**。已標的三部有兩部是算書，再標孫子算經只會第三次得到同樣的結論。下一部該挑論說性強、且無試點預期的——`renwuzhi`（人物志，論人才品鑑，預期 II／VII／VIII 密集）或 `qianfulun`（潛夫論，論政俗，預期 V／VII）。挑論說書也才能反過來檢驗「V 只在陳述誰該承擔多少時才標」這條判準在非算書語境是否還切得動
+1. **`qianfulun`（潛夫論，論政俗）**。人物志已證明判準離開算書語境仍切得動，但它是「論人」的書，V 的命中來自官職配置；潛夫論是「論政」的書，V 應該來自對時政的批評——用它檢驗 V 這條判準在**批判性**論述下是否還穩。另一個候選是 `yantielun`（鹽鐵論，60 篇辯論體），它會直接壓測「辯論技術屬 Z-wisdom 不標」這條在人物志立下的子準則
 2. 流程固定：`make-scaffold.py` 產骨架 → 讀全文逐段填 → 回填書級 `psych_survey`（`domains_hit` **與** `domains_null` 都要寫）→ `verify.py` → `build-index.py` → commit + push
 3. phase 2 小學 5 部：探針已現成，用同一套跑一次證否，成本極低
 4. 6 個純數字章標籤的警告，等標到那幾部再人工補篇名對照表

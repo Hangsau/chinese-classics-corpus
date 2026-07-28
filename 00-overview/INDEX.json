@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-07-28T03:44:31+00:00",
+    "generated_at": "2026-07-28T04:02:33+00:00",
     "text_count": 68,
     "total_bytes": 10553141,
     "by_category": {
@@ -26,23 +26,24 @@
       "original": 66,
       "contested": 2
     },
-    "surveyed_count": 3,
-    "annotated_count": 3,
+    "surveyed_count": 4,
+    "annotated_count": 4,
     "scaffolded_count": 0,
-    "paras_judged": 835,
+    "paras_judged": 1064,
     "paras_pending": 0,
     "domain_hit_counts": {
-      "II": 1,
-      "III": 1,
-      "IV": 1,
+      "II": 2,
+      "III": 2,
+      "IV": 2,
       "IX": 1,
-      "V": 2,
-      "VI": 1,
-      "VII": 1,
-      "VIII": 2,
-      "X": 1,
-      "XI": 1,
-      "XII": 2
+      "V": 3,
+      "VI": 2,
+      "VII": 2,
+      "VIII": 3,
+      "X": 2,
+      "XI": 2,
+      "XII": 2,
+      "XIII": 1
     }
   },
   "texts": [
@@ -664,11 +665,22 @@
       "size_bytes": 46355,
       "chapter_count": 13,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "X",
+        "XI",
+        "XIII"
+      ],
+      "paras_total": 229,
+      "paras_judged": 229,
+      "annotated": true
     },
     {
       "slug": "san-lue",
