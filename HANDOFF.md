@@ -5,46 +5,64 @@
 
 ## 現在在哪
 
-**設計期。書目定稿，一個字都還沒抓。**
+**第一批 68 部全文已入庫並通過驗證。標註一個字都還沒開始。**
 
-原因不是進度落後，是刻意的：試點證明既有單軸標籤撐不住（見下），若先抓 74 部再補維度等於全部重標。schema 三個待定案項目經使用者點頭後才開下載器。
+`verify.py`：68 部、10,660,493 bytes、**0 errors、6 warnings**。索引已由 `build-index.py` 生成。
+`psych_survey` 全部是 `null`——依 SCHEMA §5，`null` 是「未通讀」不是「沒有」。
+
+下一件事是標註管線，不是再擴收書目。
 
 ## 已完成
 
 | 項目 | 檔案 | 說明 |
 |---|---|---|
 | 方法論試點 | `pilots/2026-07-28-sunzi-jiuzhang.md` | 孫子兵法 13 領域命中 8；九章算術 13 領域命中 1。雙本對照逼出 `discourse_mode` 維度 |
-| 資料契約 | `SCHEMA.md` | 三層標註模型、`discourse_mode` 七值、`text_role: reference`、`annotations.json` 格式、負面結果欄位、跨庫對齊 |
+| 資料契約 | `SCHEMA.md` | 三層標註模型、`discourse_mode` 七值、`text_role: reference`、`annotations.json` 格式、負面結果欄位、跨庫對齊。§1.1 補了段落級的白話說明 |
 | 行為規範 | `CLAUDE.md` | 與 religions-history 的分界、六條工作守則、七條 anti-pattern |
-| 書目 catalog | `scripts/catalog/chinese-classics-ws.json`（73 部）<br>`scripts/catalog/chinese-classics-ctext.json`（1 部） | 共 **74 部**。全部已打 zh.wikisource API 確認頁面存在（86 部候選逐一查證，只 3 部缺，其中 2 部歸宗教庫） |
+| 書目 catalog | `scripts/catalog/chinese-classics-ws.json` | **73 部**（phase 1 共 68、phase 2 共 5）。全部走 Wikisource |
+| 下載器 | `scripts/download-wikisource.py` | 含 `--survey` 預檢模式（1 請求／部）先掃結構再花內容請求 |
+| 驗證 | `scripts/verify.py` | SHA-256／CRLF／過小檔／章標籤唯一性／同文章節／`psych_survey` 欄位存在 |
+| 索引 | `scripts/build-index.py` → `00-overview/INDEX.{json,md}` | 由資料生成，**不得手改** |
+| 全文 | `translations/`（68 部） | 已 commit |
 
-catalog 已跑過三項驗證：slug 無重複、name_zh 無重複、與 religions-history 4683 部逐一比對無 slug 撞號。唯一同名是徐幹《中論》vs 龍樹《中論》，已在 catalog 內加註不得合併。
+### 使用者已定案的三項
 
-## 待使用者定案（**卡住下載，不是可選項**）
+1. `discourse_mode` 七值 —— 通過
+2. 標註粒度下放段落級 —— 通過（說明已寫進 SCHEMA §1.1）
+3. 小學 5 部 —— **改排 phase 2，不是排除**。理由寫進 SCHEMA §3：排除＝憑書名判定無價值，那正是本庫要修正的錯誤
+4. **ctext 路線整條移除** —— 使用者指示「取得簡單一點」。`chinese-classics-ctext.json` 已刪，申不害不收
 
-1. **`discourse_mode` 七個值**：`observation` / `proposition` / `prescription` / `formalization` / `narrative` / `ritual` / `expression`（定義見 SCHEMA §2）
-2. **標註粒度下放到段落級**：書級只留 L1，L2/L3 全進 `annotations.json`
-3. **`text_role` 新增 `reference`**：小學類 5 部排除在心理學標註管線外
+## 抓取過程修掉的四類真問題（都會毀掉段落級錨點，別再退回去）
 
-三項點頭 → 寫 downloader → 開抓。
+| 問題 | 症狀 | 修法 |
+|---|---|---|
+| 篇名標題被丟棄 | 孫子兵法抓回來只有 1 章 | `extract_main_text` 補收 h2/h3/h4，前綴 `## ` |
+| 平行上傳整卷重複 | 韓非子 864,988 bytes／80 章（實際重了三套） | catalog `subpage_drop_pattern` + 內容雜湊去重 |
+| 卷級子頁沒往下切到篇 | 鹽鐵論只有 10 個「卷N」，60 篇全埋在裡面 | 子頁本文再切一層標題；竹書紀年以 `no_subpage_split` opt-out（698 條逐年紀事切下去全是「元年」互撞） |
+| 重定向對切分後才撞成同文 | 外儲說右上／右上 只差一行標題，前置雜湊擋不住 | 切分**之後**再依本文雜湊去重，保留較具體的標籤 |
 
-## 下一步（定案後照順序）
+另外處理過：6 部抓到消歧義／目錄頁（用 `action=parse&prop=links` 查真正目標後改 catalog 標題）、3 部同頁內標題重複（自動補全形序號）。
 
-1. `scripts/download-wikisource.py`——直接抄 religions-history 同名腳本，改 catalog 路徑即可。爬蟲倫理常數沿用（UA 含 contact、sleep 帶 jitter、每 100 請求長休、429/403/503 指數退避）
-2. 先抓 5 部小批驗格式（建議：孫子兵法、九章算術、人物志、說文解字、厚黑學——涵蓋 original / reference / 高低命中密度）
-3. 驗證 SHA-256 + LF 無誤 → commit + push
-4. 剩餘 68 部分批抓，每批 5–30 部即 commit
-5. 申不害走 ctext 單部補漏：先用 gettext 列目錄拿 leaf URN 再抓，**不得瞎猜 URN**
-6. 建 `00-overview/INDEX.json` 生成腳本
-7. 標註管線：以 human-questions-corpus 400 題當反向探針逐部跑，先做試點過的 2 部做 ground truth
+## 目前剩下的 6 個警告（**不是 bug，是來源限制**）
+
+`dengxizi 2/2`、`gongsun-longzi 6/7`、`kongcongzi 19/19`、`shenjian 5/9`、`fengsu-tongyi 4/85`、`shuijingzhu 18/137` 的章標籤是純數字。
+原因：那些 Wikisource 子頁本身就叫「1」「2」「3」，頁內也沒有篇名標題可切。要修只能人工補篇名對照表——標註那幾部時再處理，不必現在做。
+
+## 下一步
+
+1. **標註管線**：以 human-questions-corpus 400 題當反向探針逐部跑。先做試點過的 2 部（孫子兵法、九章算術）當 ground truth
+2. 產出 `annotations.json`，同時回填書級 `psych_survey`（`domains_hit` **與** `domains_null` 都要寫）
+3. 每完成一批重跑 `build-index.py` 再 commit
+4. phase 2 小學 5 部：等第一批標註管線跑順、有現成探針後，用同一套探針跑一次證否，成本極低
+5. GitHub remote 尚未建立（`Hangsau/chinese-classics-corpus`），目前只有本地 commit
 
 ## 已知風險
 
-- **ctext.org 是紅線**：明文禁自動批量下載，違者無預警封鎖。religions-history 已踩過 200 請求／24h 配額。本庫只留 1 部走 ctext，不得擴充成管線
-- **74 部裡 5 部是 `reference`**：硬跑心理學標註只會產噪音。管線要先讀 `text_role` 分流
-- **`古三墳`、`竹書紀年（今本）`標 `contested`**：偽託／存疑，標註時要記版本立場，不可當先秦原文用
-- **群書治要、水經注、廣韻篇幅大**（40–50 卷），Wikisource 分頁結構可能不規則，第一批不要放
-- **書目未涵蓋的第二批候選**（篇幅過大或需另評估）：藝文類聚、太平廣記、太平御覽、通典、康熙字典、墨子閒詁、墨經校釋
+- **ctext.org 是紅線**：明文禁自動批量下載。本庫現在完全不碰它
+- **`expected_chapter_count` 已從粗估改成驗證後凍結的觀測值**，用途變成回歸護欄。之後若下載器行為改變導致章數變動，verify 會叫——那時要判斷是修好還是弄壞，**不要反射性再同步一次數字**
+- **焦氏易林上游殘缺**：全書 64 卦，Wikisource 只有 4 個。已寫進 catalog `coverage_note`。expected=4 是「來源有多少」不是「全書多大」
+- **`古三墳`、`竹書紀年（今本）`標 `contested`**：偽託／存疑，標註時要記版本立場
+- **未涵蓋的第二批候選**：藝文類聚、太平廣記、太平御覽、通典、康熙字典、墨子閒詁、墨經校釋
 
 ## 已明確排除（不要再問一次）
 
@@ -55,8 +73,9 @@ catalog 已跑過三項驗證：slug 無重複、name_zh 無重複、與 religio
 | 列仙傳、高士傳 | religions-history | 神仙傳記＝道教敘事 |
 | 詩說 | religions-history | 詩經注 |
 | 小說、正史 | 兩庫都不收 | 使用者明確排除 |
+| 申不害 | 不收 | ctext 路線整條移除 |
 | 移轉宗教庫既有文本過來 | 不做 | 會破 SHA-256 鏈、143 部完整三軸標籤、GitHub 歷史，收益近零 |
 
 ## 尚未做、不可當結論的推測
 
-pilots 檔 §5 記了兩條：說文解字 540 部首是否構成一套世界分類、釋名聲訓是否編碼民俗世界觀。**兩者均未讀原文**。第一批進庫後用同一套探針跑一次即可證否。
+pilots 檔 §5 記了兩條：說文解字 540 部首是否構成一套世界分類、釋名聲訓是否編碼民俗世界觀。**兩者均未讀原文**，且這 5 部現在排 phase 2 還沒抓。用第一批的探針跑一次即可證否。
