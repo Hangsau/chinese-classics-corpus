@@ -41,7 +41,7 @@ translations/<slug>/
 00-overview/       生成物（INDEX.json / INDEX.md），不手改
 ```
 
-`translations/` 已有 68 部（phase 1 全數），`00-overview/` 已生成。`annotations.json` 目前 4 部（`sunzi-bingfa` 91 段、`jiuzhang-suanshu` 720 段、`haidao-suanjing` 24 段、`renwuzhi` 229 段），其餘 64 部的 `psych_survey` 仍是 `null`＝未通讀。
+`translations/` 已有 68 部（phase 1 全數），`00-overview/` 已生成。`annotations.json` 目前 5 部（`sunzi-bingfa` 91 段、`jiuzhang-suanshu` 720 段、`haidao-suanjing` 24 段、`renwuzhi` 229 段、`qianfulun` 268 段），其餘 63 部的 `psych_survey` 仍是 `null`＝未通讀。
 
 ## 下載器結構陷阱（四類已修過，改 downloader 前先看）
 
@@ -51,7 +51,7 @@ translations/<slug>/
 |---|---|---|
 | 抽取時丟掉篇名標題 | 一部書只回 1 章 | `extract_main_text` 收 h2/h3/h4 並前綴 `## ` |
 | Wikisource 平行上傳（編號頁＋篇名頁並存） | bytes 與章數同時異常膨脹 | catalog `subpage_drop_pattern` + 抓取時內容雜湊去重 |
-| 卷級子頁沒往下切到篇 | 章標籤全是「卷N」 | 子頁本文再切一層；例外用 `no_subpage_split`（竹書紀年） |
+| 卷級子頁沒往下切到篇 | 章標籤全是「卷N」 | 子頁本文再切一層；例外用 `no_subpage_split`（竹書紀年）。**殘留個案不重抓**：潛夫論 `卷九`／`卷十` 因篇名標題只有 10 字（低於 corpus_text 的 12 字下限）未切出，錨點仍唯一，改在 `psych_survey.structure_notes` 補對照表 |
 | 重定向對只差一行標題 | 切分後才出現同文章節 | 切分**之後**再依本文雜湊去重，保留較具體的標籤 |
 
 其他 catalog 旗標：`force_single_page`（正文在根頁）、`wikisource_subpages_explicit`（正文只在通常被當導航排除的 `/全覽`）。
@@ -69,8 +69,10 @@ translations/<slug>/
 - **不憑書名判斷有無標註價值**。本庫存在的原因就是這個錯誤（兵家 8/13）。
 - **不只記命中**。九章 720 段有 692 段全空、13 領域只中 3（其中 2 個還在劉徽自序），這個「幾乎全空」本身是資料，不記半年後有人又憑書名重跑。
 - **零命中不等於沒思想**。九章思想密度最高的一段（割圓術）零命中，因為它屬 `Z-wisdom` 支流，而支流依 vocab 不得填進 `psych_domains`。下結論前先分清是「沒有」還是「被 13 領域刻意排除」。人物志 25 段空白同因（方法論外殼），所以這不是算書專屬情形，凡帶方法論自覺的書都會踩到。
-- **`domains_hit` 一定要配 `domain_para_counts` 讀**。人物志命中 10／13 看似覆蓋廣，實際上四個領域吃掉絕大部分，IV 與 X 各只 1 段。只看命中數會系統性高估一部書的覆蓋面。
-- **`formalization` 不綁數學**。人物志〈材能〉8 段「某能→某材→某任→某政」對照表判 `formalization`，判準是「規範被寫成可執行程序」，與是否有數字無關。
+- **`domains_hit` 一定要配 `domain_para_counts` 讀**。人物志命中 10／13 看似覆蓋廣，實際上四個領域吃掉絕大部分，IV 與 X 各只 1 段。潛夫論命中 12／13 更廣，但 V 一個領域就吃掉本文的 65%。只看命中數會系統性高估一部書的覆蓋面。
+- **`formalization` 不綁數學，也不綁制度**。人物志〈材能〉的「某能→某材→某任→某政」對照表、潛夫論〈考績〉的貢士賞罰遞加、〈夢列〉的十類夢判讀口訣，三者都判 `formalization`。判準只有一條：規範被寫成可執行程序。
+- **空白段有三種成因，別混為一談**。① 被 `Z-wisdom` 吸走（九章割圓術、人物志方法論外殼）；② 真的沒有（海島算經）；③ 體例摻雜——那些段根本不是同一種文本（潛夫論的姓氏譜系 18 段＋附錄版本層 42 段）。三者在 `psych_domains: []` 裡長得一模一樣。
+- **附錄／序跋／著錄要從分母裡拿掉**。潛夫論 268 段有 52 段（19%）是本傳、清人序跋、歷代著錄、佚文。算領域密度用本文段數，處置寫在該部 `psych_survey.structure_notes`。
 - **不對 ctext.org 跑批量下載**。明文禁止，違者無預警封鎖；religions-history 已踩過 200/24h。本庫現在完全不碰 ctext。
 - **`expected_chapter_count` 是驗證後凍結的觀測值，不是估計值**。verify 報章數不符＝結構真的變了，要判斷是修好還是弄壞，**不要反射性再同步一次數字**。
 - **不動 `raw/original.txt`**。動了破 SHA-256。
