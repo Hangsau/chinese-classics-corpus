@@ -1,0 +1,38 @@
+{
+  "vocab_id": "psych-domains",
+  "version": "0.1",
+  "status": "active",
+  "language": "zh-Hant",
+  "derived_from": {
+    "project": "religions-history",
+    "path": "11-psychology/question-themes.md",
+    "sha256": "393fe19b3649a7423d66a35d5115367a41122954c7111ad35dc79cca9706692e",
+    "method": "由 400 題人問語錄由下而上聚類萃取，非由上而下預設框架"
+  },
+  "notes": "SCHEMA §6 指定 13 領域屬跨庫共享層。knowledge-hub/vocabularies/ 是設計上的家，但該處目前未版控（非 git repo），把載重契約放進去等於失去歷史；故暫存本庫並以 derived_from.sha256 偵測來源漂移。hub 版控後再遷移，屆時本檔改為指標。",
+  "usage": "annotations.json 的 psych_domains 欄位只能填本表 id。判不出來留 null——null 是「未標」不是「沒有」（SCHEMA §5）。",
+  "domains": [
+    {"id": "I", "name_zh": "存在與意義", "gist": "我為何在此、活著有沒有意義、與想不通的問題共處、在歷史洪流中的渺小", "subclusters": ["A", "T", "AU", "AS"]},
+    {"id": "II", "name_zh": "自我與認同", "gist": "我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我", "subclusters": ["C", "W", "AA", "AI", "AM", "B"]},
+    {"id": "III", "name_zh": "愛與親密", "gist": "愛與性、被拒絕、承諾、信任與脆弱、溝通與被理解", "subclusters": ["D", "AH", "AJ"]},
+    {"id": "IV", "name_zh": "家庭與傳承", "gist": "婚姻與家庭、原生家庭的傷、為人父母、記憶與和解、留下什麼給後代", "subclusters": ["E", "F", "AG"]},
+    {"id": "V", "name_zh": "群體·社會·公義", "gist": "孤獨與歸屬、友誼、我群他群與偏見、公義與權力、責任與領導", "subclusters": ["R", "AL", "N", "AK"]},
+    {"id": "VI", "name_zh": "情緒與內在生活", "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡", "subclusters": ["H", "O", "S", "AT"]},
+    {"id": "VII", "name_zh": "善惡·良心·品格", "gist": "罪咎與贖罪、惡與殘忍與同理、誠實與虛偽、勇氣", "subclusters": ["Q", "AQ", "AN", "AO"]},
+    {"id": "VIII", "name_zh": "工作·成就·召喚", "gist": "工作與金錢、成就與意義、天賦與使命", "subclusters": ["G", "AR"]},
+    {"id": "IX", "name_zh": "苦難·疾病·身體", "gist": "疾病與身體、受苦的意義、照顧與被照顧", "subclusters": ["I"]},
+    {"id": "X", "name_zh": "無常·老·死·失去", "gist": "老與時間、失去與哀傷、死亡、耐心與等待", "subclusters": ["J", "K", "L", "AP"]},
+    {"id": "XI", "name_zh": "自由·命運·改變", "gist": "自由意志與命運、選擇與代價、改變與重來", "subclusters": ["P", "AD"]},
+    {"id": "XII", "name_zh": "信仰·神聖·超越", "gist": "神存在嗎、信與疑、敬畏與美、神秘經驗", "subclusters": ["M", "U"]},
+    {"id": "XIII", "name_zh": "安頓·修復·平安", "gist": "靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈", "subclusters": ["V", "AB", "AC", "AF", "AE"]}
+  ],
+  "crosscurrents": {
+    "note": "橫跨多領域、來源另立追蹤的三條支流。**不是 domain，不得填進 psych_domains**；需要時另開欄位。",
+    "items": [
+      {"code": "X-modern", "name_zh": "現代處境", "gist": "科技·注意力·比較文化·FOMO·AI 焦慮", "spans": ["II", "VI", "XIII"]},
+      {"code": "Z-wisdom", "name_zh": "智慧·學習·好奇", "gist": "如何活得明白的元主題", "spans": ["*"]},
+      {"code": "Y-nature", "name_zh": "人在自然萬物中", "gist": "自然·動物·生態", "spans": ["I", "XII", "IX"]}
+    ]
+  },
+  "subcluster_id_warning": "細群代碼與 domain id 的字面會撞：細群 I 是「疾病·身體」而 domain I 是「存在與意義」；支流 X-modern 的舊代碼 X 與 domain X「無常·老·死·失去」相撞。程式一律以 domains[].id 為準，不得用細群代碼做鍵。"
+}

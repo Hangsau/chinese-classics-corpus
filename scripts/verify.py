@@ -24,9 +24,11 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 CATALOG_DIR = ROOT / "scripts" / "catalog"
 TRANSLATIONS_DIR = ROOT / "translations"
+VOCAB_DIR = ROOT / "vocab"
 
 MIN_BYTES = 1500
 CHAPTER_RE = re.compile(r"^=== (\d+) \| (.+) ===$")
+CONFIDENCE_VALUES = {"high", "medium", "low"}
 
 
 def load_catalog() -> dict[str, dict]:
@@ -37,7 +39,76 @@ def load_catalog() -> dict[str, dict]:
     return out
 
 
-def check(slug: str, entry: dict) -> tuple[list[str], list[str], dict]:
+def load_vocab() -> tuple[set[str], set[str]]:
+    d = json.loads((VOCAB_DIR / "psych-domains.json").read_text(encoding="utf-8"))
+    m = json.loads((VOCAB_DIR / "discourse-modes.json").read_text(encoding="utf-8"))
+    return {x["id"] for x in d["domains"]}, {x["id"] for x in m["modes"]}
+
+
+def check_vocab_drift() -> list[str]:
+    """The 13 domains were derived in religions-history; detect silent divergence."""
+    d = json.loads((VOCAB_DIR / "psych-domains.json").read_text(encoding="utf-8"))
+    src = d["derived_from"]
+    p = ROOT.parent / src["project"] / src["path"]
+    if not p.exists():
+        return [f"vocab derived_from source missing: {p}"]
+    actual = hashlib.sha256(p.read_bytes()).hexdigest()
+    if actual != src["sha256"]:
+        return [f"vocab source changed since derivation "
+                f"(now {actual[:12]}, recorded {src['sha256'][:12]}) "
+                f"— re-check the 13 domains, then update derived_from.sha256"]
+    return []
+
+
+def check_annotations(path: Path, labels: list[str], slug: str,
+                      domain_ids: set[str], mode_ids: set[str]) -> list[str]:
+    errors: list[str] = []
+    try:
+        rows = json.loads(path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as e:
+        return [f"annotations.json is not valid JSON: {e}"]
+    if not isinstance(rows, list):
+        return ["annotations.json must be a list of annotation records"]
+
+    label_set = set(labels)
+    seen_ids: set[str] = set()
+    for i, r in enumerate(rows):
+        where = f"annotations[{i}]"
+        pid = r.get("para_id")
+        if not pid:
+            errors.append(f"{where}: para_id missing")
+        elif pid in seen_ids:
+            errors.append(f"{where}: duplicate para_id {pid}")
+        else:
+            seen_ids.add(pid)
+
+        anchor = r.get("anchor") or {}
+        chapter = anchor.get("chapter")
+        if chapter is None:
+            errors.append(f"{where}: anchor.chapter missing")
+        elif chapter not in label_set:
+            errors.append(f"{where}: anchor.chapter '{chapter}' is not a chapter of {slug}")
+        if not isinstance(anchor.get("para_index"), int):
+            errors.append(f"{where}: anchor.para_index must be an integer")
+
+        # null means unannotated and is allowed; a wrong value is not.
+        for field, allowed in (("psych_domains", domain_ids), ("discourse_mode", mode_ids)):
+            v = r.get(field)
+            if v is None:
+                continue
+            if not isinstance(v, list):
+                errors.append(f"{where}: {field} must be a list or null")
+                continue
+            for bad in [x for x in v if x not in allowed]:
+                errors.append(f"{where}: {field} value '{bad}' not in vocab")
+
+        conf = r.get("confidence")
+        if conf is not None and conf not in CONFIDENCE_VALUES:
+            errors.append(f"{where}: confidence '{conf}' not in {sorted(CONFIDENCE_VALUES)}")
+    return errors
+
+
+def check(slug: str, entry: dict, domain_ids: set[str], mode_ids: set[str]) -> tuple[list[str], list[str], dict]:
     errors: list[str] = []
     warnings: list[str] = []
     info: dict = {"slug": slug}
@@ -108,6 +179,13 @@ def check(slug: str, entry: dict) -> tuple[list[str], list[str], dict]:
     if "psych_survey" not in meta:
         errors.append("meta.psych_survey field absent (SCHEMA §5)")
 
+    ann_p = d / "annotations.json"
+    info["annotated"] = ann_p.exists()
+    if ann_p.exists():
+        errors += check_annotations(ann_p, labels, slug, domain_ids, mode_ids)
+    elif meta.get("psych_survey"):
+        warnings.append("psych_survey recorded but no annotations.json")
+
     return errors, warnings, info
 
 
@@ -117,20 +195,25 @@ def main():
     args = p.parse_args()
 
     catalog = load_catalog()
+    domain_ids, mode_ids = load_vocab()
     downloaded = sorted(x.name for x in TRANSLATIONS_DIR.iterdir() if x.is_dir()) \
         if TRANSLATIONS_DIR.exists() else []
+
+    drift = check_vocab_drift()
+    for e in drift:
+        print(f"[ERROR] vocab: {e}")
 
     unknown = [s for s in downloaded if s not in catalog]
     for s in unknown:
         print(f"[ERROR] {s}: directory has no catalog entry")
 
-    n_err = len(unknown)
+    n_err = len(unknown) + len(drift)
     n_warn = 0
     rows = []
     for slug in downloaded:
         if slug in unknown:
             continue
-        errors, warnings, info = check(slug, catalog[slug])
+        errors, warnings, info = check(slug, catalog[slug], domain_ids, mode_ids)
         rows.append(info)
         for e in errors:
             print(f"[ERROR] {slug}: {e}")
