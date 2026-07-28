@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-07-28T04:23:58+00:00",
+    "generated_at": "2026-07-28T08:57:09+00:00",
     "text_count": 68,
     "total_bytes": 10553141,
     "by_category": {
@@ -26,25 +26,25 @@
       "original": 66,
       "contested": 2
     },
-    "surveyed_count": 5,
-    "annotated_count": 5,
+    "surveyed_count": 6,
+    "annotated_count": 6,
     "scaffolded_count": 0,
-    "paras_judged": 1332,
+    "paras_judged": 1688,
     "paras_pending": 0,
     "domain_hit_counts": {
-      "I": 1,
-      "II": 3,
-      "III": 3,
-      "IV": 3,
-      "IX": 2,
-      "V": 4,
-      "VI": 3,
-      "VII": 3,
-      "VIII": 4,
-      "X": 3,
-      "XI": 3,
-      "XII": 3,
-      "XIII": 1
+      "I": 2,
+      "II": 4,
+      "III": 4,
+      "IV": 4,
+      "IX": 3,
+      "V": 5,
+      "VI": 4,
+      "VII": 4,
+      "VIII": 5,
+      "X": 4,
+      "XI": 4,
+      "XII": 4,
+      "XIII": 2
     }
   },
   "texts": [
@@ -1202,11 +1202,25 @@
       "size_bytes": 184615,
       "chapter_count": 60,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII"
+      ],
+      "paras_total": 356,
+      "paras_judged": 356,
+      "annotated": true
     },
     {
       "slug": "yanzi-chunqiu",
