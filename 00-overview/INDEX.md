@@ -1,7 +1,7 @@
 # 索引
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 生成時間 2026-07-28T03:07:36+00:00｜68 部｜10,660,493 bytes｜已通讀 1 部｜已段落標註 1 部（91 段）｜僅有骨架待標 1 部（885 段）
+> 生成時間 2026-07-28T03:14:13+00:00｜68 部｜10,553,141 bytes｜已通讀 1 部｜已段落標註 1 部（91 段）｜僅有骨架待標 1 部（720 段）
 
 ## 分類統計
 
@@ -29,7 +29,7 @@
 
 | slug | 書名 | 類 | text_role | 章數 | bytes | 通讀 | 段落標註 |
 |---|---|---|---|---|---|---|---|
-| `jinlouzi` | 金樓子 | 人論 | original | 18 | 197,566 | — | — |
+| `jinlouzi` | 金樓子 | 人論 | original | 18 | 197,511 | — | — |
 | `renwuzhi` | 人物志 | 人論 | original | 13 | 46,355 | — | — |
 | `shishuo-xinyu` | 世說新語 | 人論 | original | 38 | 597,767 | — | — |
 | `yanshi-jiaxun` | 顏氏家訓 | 人論 | original | 20 | 123,113 | — | — |
@@ -63,17 +63,17 @@
 | `shangjunshu` | 商君書 | 法家 | original | 25 | 73,476 | — | — |
 | `shenzi` | 慎子 | 法家 | original | 9 | 25,740 | — | — |
 | `haidao-suanjing` | 海島算經 | 算書 | original | 1 | 5,469 | — | — |
-| `jiuzhang-suanshu` | 九章算術 | 算書 | original | 10 | 105,779 | — | 骨架 885 |
+| `jiuzhang-suanshu` | 九章算術 | 算書 | original | 10 | 93,135 | — | 骨架 720 |
 | `sunzi-suanjing` | 孫子算經 | 算書 | original | 4 | 35,563 | — | — |
 | `zhoubi-suanjing` | 周髀算經 | 算書 | original | 6 | 22,323 | — | — |
 | `chuci` | 楚辭 | 術數 | original | 29 | 60,505 | — | — |
 | `jiaoshi-yilin` | 焦氏易林 | 術數 | original | 4 | 18,321 | — | — |
-| `jingshi-yizhuan` | 京氏易傳 | 術數 | original | 67 | 152,728 | — | — |
+| `jingshi-yizhuan` | 京氏易傳 | 術數 | original | 67 | 89,424 | — | — |
 | `shanhaijing` | 山海經 | 術數 | original | 41 | 143,349 | — | — |
 | `houheixue` | 厚黑學 | 近代 | original | 22 | 36,610 | — | — |
 | `jinkui-yaolue` | 金匱要略 | 醫家 | original | 31 | 102,687 | — | — |
 | `nanjing` | 難經 | 醫家 | original | 81 | 45,958 | — | — |
-| `shanghanlun` | 傷寒論 | 醫家 | original | 24 | 157,623 | — | — |
+| `shanghanlun` | 傷寒論 | 醫家 | original | 24 | 126,274 | — | — |
 | `lienuzhuan` | 列女傳 | 雜史 | original | 104 | 146,795 | — | — |
 | `mu-tianzi-zhuan` | 穆天子傳 | 雜史 | original | 8 | 49,338 | — | — |
 | `wuyue-chunqiu` | 吳越春秋 | 雜史 | original | 39 | 151,717 | — | — |

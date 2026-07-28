@@ -21,6 +21,8 @@ import re
 import sys
 from pathlib import Path
 
+from corpus_text import split_paragraphs
+
 ROOT = Path(__file__).resolve().parent.parent
 CATALOG_DIR = ROOT / "scripts" / "catalog"
 TRANSLATIONS_DIR = ROOT / "translations"
@@ -61,7 +63,8 @@ def check_vocab_drift() -> list[str]:
 
 
 def check_annotations(path: Path, labels: list[str], slug: str,
-                      domain_ids: set[str], mode_ids: set[str]) -> list[str]:
+                      domain_ids: set[str], mode_ids: set[str],
+                      text: str) -> list[str]:
     errors: list[str] = []
     try:
         rows = json.loads(path.read_text(encoding="utf-8"))
@@ -72,6 +75,14 @@ def check_annotations(path: Path, labels: list[str], slug: str,
 
     label_set = set(labels)
     seen_ids: set[str] = set()
+
+    # Anchors are chapter name + paragraph index, which survives a re-download only
+    # as long as the paragraphs before them do. Re-check each anchor against the
+    # current text so a shifted index is caught instead of silently re-pointing an
+    # annotation at someone else's paragraph.
+    para_at = {(ch_label, idx): body
+               for _, ch_label, idx, body in split_paragraphs(text)}
+    drifted = 0
     for i, r in enumerate(rows):
         where = f"annotations[{i}]"
         pid = r.get("para_id")
@@ -88,8 +99,16 @@ def check_annotations(path: Path, labels: list[str], slug: str,
             errors.append(f"{where}: anchor.chapter missing")
         elif chapter not in label_set:
             errors.append(f"{where}: anchor.chapter '{chapter}' is not a chapter of {slug}")
-        if not isinstance(anchor.get("para_index"), int):
+        idx = anchor.get("para_index")
+        if not isinstance(idx, int):
             errors.append(f"{where}: anchor.para_index must be an integer")
+        elif (excerpt := r.get("excerpt")):
+            body = para_at.get((chapter, idx))
+            if body is None:
+                errors.append(f"{where}: anchor ({chapter}, {idx}) has no paragraph "
+                              f"in the current text")
+            elif not body.startswith(excerpt):
+                drifted += 1
 
         # null means unannotated and is allowed; a wrong value is not.
         for field, allowed in (("psych_domains", domain_ids), ("discourse_mode", mode_ids)):
@@ -105,6 +124,11 @@ def check_annotations(path: Path, labels: list[str], slug: str,
         conf = r.get("confidence")
         if conf is not None and conf not in CONFIDENCE_VALUES:
             errors.append(f"{where}: confidence '{conf}' not in {sorted(CONFIDENCE_VALUES)}")
+
+    if drifted:
+        errors.append(f"{drifted}/{len(rows)} anchors no longer point at the paragraph "
+                      f"they were written against — original.txt changed after "
+                      f"annotation; re-run make-scaffold.py and re-check by hand")
     return errors
 
 
@@ -182,7 +206,7 @@ def check(slug: str, entry: dict, domain_ids: set[str], mode_ids: set[str]) -> t
     ann_p = d / "annotations.json"
     info["annotated"] = ann_p.exists()
     if ann_p.exists():
-        errors += check_annotations(ann_p, labels, slug, domain_ids, mode_ids)
+        errors += check_annotations(ann_p, labels, slug, domain_ids, mode_ids, text)
     elif meta.get("psych_survey"):
         warnings.append("psych_survey recorded but no annotations.json")
 

@@ -18,36 +18,21 @@ Usage:
 
 import argparse
 import json
-import re
 from pathlib import Path
+
+from corpus_text import MIN_CHARS_DEFAULT, split_paragraphs
 
 ROOT = Path(__file__).resolve().parent.parent
 TRANSLATIONS_DIR = ROOT / "translations"
-CHAPTER_RE = re.compile(r"^=== (\d+) \| (.+) ===$")
-
-
-def paragraphs(text: str, min_chars: int) -> list[tuple[int, str, int, str]]:
-    """Yield (chapter_no, chapter_label, para_index, body) for each paragraph."""
-    out = []
-    ch_no, ch_label, idx = 0, None, 0
-    for line in text.split("\n"):
-        m = CHAPTER_RE.match(line)
-        if m:
-            ch_no, ch_label, idx = int(m.group(1)), m.group(2), 0
-            continue
-        body = line.strip()
-        if ch_label is None or len(body) < min_chars:
-            continue
-        idx += 1
-        out.append((ch_no, ch_label, idx, body))
-    return out
 
 
 def main() -> None:
     p = argparse.ArgumentParser()
     p.add_argument("--slug", required=True)
-    p.add_argument("--min-chars", type=int, default=12,
-                   help="skip fragments shorter than this (headings, stray markers)")
+    p.add_argument("--min-chars", type=int, default=MIN_CHARS_DEFAULT,
+                   help="skip fragments shorter than this (headings, stray markers). "
+                        "verify.py checks anchors using the default, so a non-default "
+                        "value here will be reported as anchor drift.")
     args = p.parse_args()
 
     d = TRANSLATIONS_DIR / args.slug
@@ -61,7 +46,7 @@ def main() -> None:
                 done[r["para_id"]] = r
 
     rows = []
-    for ch_no, ch_label, idx, body in paragraphs(text, args.min_chars):
+    for ch_no, ch_label, idx, body in split_paragraphs(text, args.min_chars):
         pid = f"{args.slug}#{ch_no:02d}-p{idx:02d}"
         if pid in done:
             rows.append(done[pid])

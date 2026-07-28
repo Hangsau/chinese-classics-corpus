@@ -167,6 +167,15 @@ def split_by_headings(text: str) -> list[tuple[str, str]] | None:
     return chapters or None
 
 
+def _nested_in_block(el, container, block_tags: list[str]) -> bool:
+    for a in el.parents:
+        if a is container:
+            return False
+        if a.name in block_tags:
+            return True
+    return False
+
+
 def extract_main_text(html: str) -> str:
     soup = BeautifulSoup(html, "html.parser")
     for sel in [
@@ -188,10 +197,15 @@ def extract_main_text(html: str) -> str:
             el.decompose()
     container = soup.select_one("div.mw-parser-output") or soup
 
+    block_tags = ["h2", "h3", "h4", "p", "dt", "dd", "li", "blockquote"]
     parts = []
-    for el in container.find_all(
-        ["h2", "h3", "h4", "p", "dt", "dd", "li", "blockquote"], recursive=True
-    ):
+    for el in container.find_all(block_tags, recursive=True):
+        # 九章算術 nests <dd> inside <dd> 251 times; matching both levels emitted
+        # every 荅曰 twice. Take only outermost blocks — get_text() already
+        # includes the descendants, so nothing is lost, and on pages without
+        # nesting this selects exactly the same set as before.
+        if _nested_in_block(el, container, block_tags):
+            continue
         t = el.get_text(strip=True)
         if not t:
             continue
