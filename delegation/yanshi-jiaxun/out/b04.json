@@ -1,0 +1,306 @@
+{
+  "batch": "b04.md",
+  "rows": [
+    {
+      "chapter": "文章第九",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "由歷代文士恃才輕薄、譏刺取禍的事例，主張文章易激發矜伐進取而使人忽略操守，因而告誡文士防慎自持"
+    },
+    {
+      "chapter": "文章第九",
+      "para_index": 2,
+      "domains": ["II", "VIII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "區分勤學可成與文章須有天才，並敘無才士族受眾人戲讚、妻子泣諫仍不自知，所論是才能是否適任及自我評價失實"
+    },
+    {
+      "chapter": "文章第九",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "規定作文先請親友評裁、達到辭意可觀即可，不可師心求取蓋世之名；核心是寫作與接受評改的方法"
+    },
+    {
+      "chapter": "文章第九",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以改朝換主時替不同君主互作辱罵檄文為戒，論臣下受命作文仍須維持交絕不出惡聲的政治責任與人格操守"
+    },
+    {
+      "chapter": "文章第九",
+      "para_index": 5,
+      "domains": ["II", "VII", "VIII"],
+      "modes": ["proposition"],
+      "reason": "反駁揚雄貶賦為童子之技，並以其諛莽、畏禍及太玄無用揭示盛名與實際德行、才能及著述成就不相稱"
+    },
+    {
+      "chapter": "文章第九",
+      "para_index": 6,
+      "domains": ["VIII"],
+      "modes": ["narrative"],
+      "reason": "敘席毗以常青松木自比宏才、貶文辭為短暫春華，劉逖則反問兩者兼備豈不更佳，承載對才能類型及兼長的判斷"
+    },
+    {
+      "chapter": "文章第九",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "以駕馭駿馬須有銜勒比喻作文雖有逸氣仍須節制，純屬文章收束筆勢的技術規範"
+    },
+    {
+      "chapter": "文章第九",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "提出文章理致、氣調、事義與華麗的本末結構，分析辭勝理伏等弊病並要求去其太甚，屬文體原理與改革主張"
+    },
+    {
+      "chapter": "文章第九",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "比較古文氣格與今文音律、偶對各自的優點，規定以古制為本、今調為末而兩存不偏，純為寫作取法"
+    },
+    {
+      "chapter": "文章第九",
+      "para_index": 10,
+      "domains": ["IV", "VI", "X"],
+      "modes": ["narrative", "expression"],
+      "reason": "自述家世文章不合流俗，兄弟服喪時未及編次便遭火焚而永不傳世，並直接抒發家族文業亡佚後深入心髓的哀恨"
+    },
+    {
+      "chapter": "文章第九",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "引沈約三易之說及邢子才、祖孝徵的評語，主張用事應自然到近似胸中常語，內容只在文章可讀性與用典技術"
+    },
+    {
+      "chapter": "文章第九",
+      "para_index": 12,
+      "domains": ["V"],
+      "modes": ["observation"],
+      "reason": "觀察邢子才與魏收因偏愛不同作家而彼此褒毀，使鄴下文壇分成朋黨，重點是士人群體中的派系歸屬與相爭"
+    },
+    {
+      "chapter": "文章第九",
+      "para_index": 13,
+      "domains": [],
+      "modes": ["observation", "prescription"],
+      "reason": "列舉題名、和詩語、親屬典故及稱謂誤用所造成的忌諱，告誡作文須避不祥或失倫的語詞；親屬只是用典例證，核心仍是修辭技術"
+    },
+    {
+      "chapter": "文章第九",
+      "para_index": 14,
+      "domains": ["IV", "VII"],
+      "modes": ["observation", "prescription"],
+      "reason": "觀察江南容許批評文章而山東忌諱攻難，自述曾因此忤人而悔，進而以汝曹為對象立下不可輕率議人的家訓與言說倫理"
+    },
+    {
+      "chapter": "文章第九",
+      "para_index": 15,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "主張代筆雖應作本人語氣，涉及喪親哀傷卻不可冒充，並以錯置父母、君臣名分的語句說明妄施文字既失德又可能致罪"
+    },
+    {
+      "chapter": "文章第九",
+      "para_index": 16,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "考辨挽歌本為生者悼亡告哀，據此批評陸機改作死者自歎既無詩例又違製作本意，屬文類體制判斷"
+    },
+    {
+      "chapter": "文章第九",
+      "para_index": 17,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "主張詩歌刺箴與美頌各有源流、善惡不可混雜一篇，再以陸機詩篇前後失體為例，純論篇章體裁的一致性"
+    },
+    {
+      "chapter": "文章第九",
+      "para_index": 18,
+      "domains": [],
+      "modes": ["observation", "prescription"],
+      "reason": "逐例核出古今文士混淆典籍、物種與字義的確定錯誤，並說明書籍亡佚時不可輕議，目的在告誡用事須查證"
+    },
+    {
+      "chapter": "文章第九",
+      "para_index": 19,
+      "domains": [],
+      "modes": ["observation", "prescription"],
+      "reason": "指出兩篇詩文所寫地理方向與實際不合，以明珠、美玉微瑕為喻勸作者謹慎，內容是文章地理考據規則"
+    },
+    {
+      "chapter": "文章第九",
+      "para_index": 20,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "記錄江南與鄴下文人對王籍詩句的相反評價，再由詩經注釋說明以聲寫靜的來源；地域人物只是文學鑑賞分歧的載體"
+    },
+    {
+      "chapter": "文章第九",
+      "para_index": 21,
+      "domains": [],
+      "modes": ["observation", "expression"],
+      "reason": "記述時人對蕭愨秋詩評價不一，作者則直接表明喜愛其蕭散、如在目前的審美感受，未越出作品品評"
+    },
+    {
+      "chapter": "文章第九",
+      "para_index": 22,
+      "domains": ["VII"],
+      "modes": ["observation", "narrative"],
+      "reason": "敘劉孝綽因忌何遜而貶句、選集只收兩篇，卻又尊服謝朓，並記文壇互有抑揚，呈現才士嫉妒與不能相讓的品格問題"
+    },
+    {
+      "chapter": "名实第十",
+      "para_index": 1,
+      "domains": ["II", "VII"],
+      "modes": ["proposition"],
+      "reason": "以形影比名實，主張善名應由德藝與慎行自然形成，並區分忘名、立名、靠奸偽竊名三等，直論自我名聲與真實品格"
+    },
+    {
+      "chapter": "名实第十",
+      "para_index": 2,
+      "domains": ["II", "III"],
+      "modes": ["proposition", "expression"],
+      "reason": "以險途無餘地比喻名聲過於單薄時，至誠之言與至潔之行也可能不被相信；作者自述受毀便反求諸己，所論是聲名基礎與獲得信任"
+    },
+    {
+      "chapter": "名实第十",
+      "para_index": 3,
+      "domains": ["II", "VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "主張內心真偽終會見於行跡，以王莽辭政及貴人塗巴豆偽作哀毀為例，說明貪求清名的一次欺偽足以摧毀長久誠信"
+    },
+    {
+      "chapter": "名实第十",
+      "para_index": 4,
+      "domains": ["II", "VIII"],
+      "modes": ["narrative"],
+      "reason": "敘富家鈍士以財物結交名士、被朝廷誤認有文才，終在韓晉明當面命題試作時暴露無能，呈現虛假身分與真實才具的落差"
+    },
+    {
+      "chapter": "名实第十",
+      "para_index": 5,
+      "domains": ["II", "VIII"],
+      "modes": ["proposition"],
+      "reason": "判定替子弟潤飾文章以抬高聲價有兩害：偽裝才名終將敗露，且學者有所依賴便不再精進，兼及名實與能力養成"
+    },
+    {
+      "chapter": "名实第十",
+      "para_index": 6,
+      "domains": ["II", "V", "VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "敘地方官為求聲譽而以送行贈食表演體恤，升官後費用無法持續便露出偽情、損及政績，論公共領導中的名聲、責任與真誠"
+    },
+    {
+      "chapter": "名实第十",
+      "para_index": 7,
+      "domains": ["II", "IV", "VII", "X"],
+      "modes": ["proposition"],
+      "reason": "回應人死形消後聲名何用，主張褒揚典範能勸成後世德行，祖先嘉名亦能庇蔭子孫，使善行如築室樹果般在死後留下家族之澤"
+    },
+    {
+      "chapter": "涉务第十一",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "主張士君子受祿應對世事有用，列舉朝廷、文史、軍旅等六種公共職能，並要求依個人長處守好一職而不必六途全能"
+    },
+    {
+      "chapter": "涉务第十一",
+      "para_index": 2,
+      "domains": ["II", "V", "VIII"],
+      "modes": ["observation", "proposition"],
+      "reason": "觀察士族文士往往能清談而不堪實務，反是熟悉吏用者能辦公受任，據此批評眾人不自量才，誤把按能力用人理解成疏士親小"
+    },
+    {
+      "chapter": "涉务第十一",
+      "para_index": 3,
+      "domains": ["IX", "X"],
+      "modes": ["observation", "narrative"],
+      "reason": "觀察梁代士大夫崇尚車輿扶侍、不騎馬行走，導致身體羸弱、亂中大量猝死，又以王復見馬驚懼的故事呈現身體失能"
+    },
+    {
+      "chapter": "涉务第十一",
+      "para_index": 4,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "從糧食維生與耕作多重勞動論不可輕農貴末，並批評不識農務的朝士既不能治官也不能營家，兼論民生治理與實際勞動能力"
+    },
+    {
+      "chapter": "省事第十二",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以多言多事、多能不成技為戒，並觀察兩名聰悟者因兼營經史文藝諸術而無一精熟，主張減省旁務以成就專長"
+    },
+    {
+      "chapter": "省事第十二",
+      "para_index": 2,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["observation", "proposition"],
+      "reason": "分析上書議政常被用來鬻言求位，既少益於國又可能招禍，並批評今人以空薄小事邀功，兼論政治進言、仕進動機與君子操守"
+    },
+    {
+      "chapter": "省事第十二",
+      "para_index": 3,
+      "domains": ["III", "V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "規定居諫職者必須匡正君失而不可尸位，非其任者則不應越位；又以親疏信任決定勸諫會被接受或被視為誹謗，兼論溝通條件與政治責任"
+    },
+    {
+      "chapter": "省事第十二",
+      "para_index": 4,
+      "domains": ["VII", "VIII", "XI", "XIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "勸君子守道蓄德、未得爵祿時安待天命，不可羞慚競逐；並以求與不求皆可能得失說明仕途受時運限制，人應以靜退自處而非強求"
+    },
+    {
+      "chapter": "省事第十二",
+      "para_index": 5,
+      "domains": ["V", "VII", "VIII", "XIII"],
+      "modes": ["proposition", "expression"],
+      "reason": "指出齊末以財貨女謁求官者因利得位也因利敗家，揭示權力交易的危險；作者則替自己歷仕南北卻不求人論進身、不得通達也無怨的處境表態"
+    },
+    {
+      "chapter": "省事第十二",
+      "para_index": 6,
+      "domains": ["V", "VII", "XIII"],
+      "modes": ["prescription", "expression"],
+      "reason": "規定遠離黨惡而援助投身求救者、危難親友，但拒絕報讎亂逆與無理請託；作者自言曾因此獲罪仍甘心瞑目，以仁義安頓自己的選擇及後果"
+    },
+    {
+      "chapter": "省事第十二",
+      "para_index": 7,
+      "domains": ["II", "VII", "VIII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "自敘因議官不比爭訟者專精而拒斷曆法，反襯禮官為好名強留此事、能力不足又不肯退讓，終受迫蒙辱，論名聲欲望與職務適任"
+    },
+    {
+      "chapter": "止足第十三",
+      "para_index": 1,
+      "domains": ["IV", "VI", "VII", "XIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "主張欲望與志意沒有自然盡頭，須以少欲知足自立界限；又引先祖限制仕宦與婚姻攀附的家戒，並自述終身奉行這套家風"
+    },
+    {
+      "chapter": "止足第十三",
+      "para_index": 2,
+      "domains": ["IV", "VII", "XIII"],
+      "modes": ["prescription", "formalization"],
+      "reason": "以謙損知足免害，並把家計節制落成奴婢二十、良田十頃、財數萬等可執行上限，規定有餘依義散財、不足也不可用非道求取"
+    },
+    {
+      "chapter": "止足第十三",
+      "para_index": 3,
+      "domains": ["VIII", "XI", "XIII"],
+      "modes": ["prescription", "expression"],
+      "reason": "勸仕宦居中品即可免辱避危、位高便應退居私庭；作者以羈旅畏謗而未暇退身的親歷，告誡子孫在驟貴驟敗的時運中知止自處"
+    }
+  ]
+}

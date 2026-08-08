@@ -1,0 +1,215 @@
+{
+  "batch": "b03.md",
+  "rows": [
+    {
+      "chapter": "勉学第八",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "主張人生應有可立身的職業與本領，批評士大夫子弟倚仗家世、終日無事而不肯修習，勸其以數年勤學免去一生無能受辱"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 2,
+      "domains": ["II", "VIII"],
+      "modes": ["observation", "proposition"],
+      "reason": "觀察貴遊子弟在承平時靠門第冒充才士，離亂後失去黨援便暴露名實不副；並以有學藝者隨處可安、無學者只能耕牧，論本領與謀生"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 3,
+      "domains": ["VIII", "X"],
+      "modes": ["proposition", "prescription"],
+      "reason": "指出父兄與鄉國都可能失去，人在流離無庇蔭時須靠自身所學立足，主張讀書是可隨身自資、抵禦失所的技藝"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 4,
+      "domains": ["VIII", "XI"],
+      "modes": ["proposition"],
+      "reason": "藉賓主問答回應有才學者仍可能貧賤的質疑，區分命運的窮達與後天學藝的琢磨，主張不能以祿位成敗否定學習對才能的成全"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 5,
+      "domains": ["V", "VIII"],
+      "modes": ["observation", "proposition"],
+      "reason": "批評世人只憑武器、理財、辦公或守律便自許能任將相、治民與平獄，指出公共職責及各行各業都有更深的專業本領與先達可師"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 6,
+      "domains": ["IV", "V", "VII", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "主張讀書須落實為養親、事君及謙儉好義等德行，並能治民、斷訟與處理實務，故同時涉及家庭責任、公共責任、品格養成與實際才用"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 7,
+      "domains": ["VII"],
+      "modes": ["observation", "proposition"],
+      "reason": "觀察有人稍讀數十卷便自高自大、凌慢長者同列而招人憎惡，判斷這種由學問助長的傲慢反而損害品格"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 8,
+      "domains": ["VII", "VIII"],
+      "modes": ["observation", "proposition"],
+      "reason": "對比古今學者求補己過、利世行道與只求口說、仕進的不同動機，以花實之喻主張學問的成果應是修身、利行而非表面文章"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 9,
+      "domains": ["X", "XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "承認年長後記憶與學習較難，仍以自身經驗及多位晚學有成者證明衰老並不封死改變的可能，勸人不可因年歲自棄"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 10,
+      "domains": ["VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "比較經學在不同時代能否致仕治事，批評空守章句而無實用的專固學風，勸子弟珍惜光陰、博覽要義以成就功業"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["observation", "narrative"],
+      "reason": "敘俗儒因閱讀範圍狹窄而拒信文集、漢書能論證經術，終在查書後認錯；重點是博涉與查證的治學問題，未落入人生問題領域"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 12,
+      "domains": ["VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "逐舉玄學領袖貪權、好勝、厚積、溺情、取禍與受賄等行跡，論其實際品格背離所倡全真去累之道，並判斷清談不足以濟世成俗"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 13,
+      "domains": ["IV", "VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "敘齊孝昭帝侍奉病母、代受灸痛而極盡孝心，卻因無學說出不識忌諱之言，據此主張親子孝德也須經學習修飾"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 14,
+      "domains": ["VIII", "IX"],
+      "modes": ["proposition", "narrative"],
+      "reason": "敘梁元帝幼時患疥、手膝難屈仍忍痛日讀史書二十卷，以帝子尚能如此反問希望自達的庶士，論身體痛苦中仍磨練本領以求成就"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 15,
+      "domains": ["VIII", "IX"],
+      "modes": ["narrative"],
+      "reason": "連敘劉綺、朱詹與臧逢世在貧困中以燃荻、吞紙忍飢、抱犬禦寒或借紙抄書，終憑才學受用，呈現身體困苦與學業成就"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 16,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "敘蠻人出身且位居奴僕的田敬宣靠勤學進位，受俘後又守護國主行蹤至死，藉其忠節反襯齊國將相，兼論身分群體、公共責任、品格與成就"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 17,
+      "domains": ["IV", "VIII", "X", "XIII"],
+      "modes": ["prescription", "expression"],
+      "reason": "亡國後全家被徙且無祿無財，思魯欲棄學勞作以奉養，作者以父親身分分定供養與教學之責，替自己與兒子的失所處境表明寧受粗衣淡食也要承續家學"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 18,
+      "domains": [],
+      "modes": ["proposition", "narrative"],
+      "reason": "先主張求問、交友切磋可免孤陋，後用多起誤釋字義、音讀與典故的故事驗證；核心是治學須互證的認知方法，未形成其他人生領域"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 19,
+      "domains": [],
+      "modes": ["observation", "prescription"],
+      "reason": "規定談說作文援引古事應親自讀本而不可只憑耳聞，並列俗間強飾典故造成的錯用；所論是引文與措辭技術，屬治學問題"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 20,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "觀察讀經、辭賦與史書者多重音義而輕文字本源，主張文字、小學才是典籍根本；內容只在辨治學的枝葉宗系"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 21,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "批評博聞之士詳究制度器物卻忽略文字，連姓名偏旁的來源也不明，並以錯取字形為例；人名只是文字學失誤的例證，換成其他字例論點仍成立"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 22,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "自敘隨齊主行旅時不明兩處地名，後由字書、韻書考出古名並告知撰方志者；全段是以文獻考定地名的治學實例"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 23,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "自敘多年不明古書中螝字音義，查閱爾雅、字詁後才確認它是古虺字；只呈現文字疑義的查解過程"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 24,
+      "domains": [],
+      "modes": ["proposition", "narrative"],
+      "reason": "敘遊趙州見無名淺水，據碑文與說文辨出古字，再推測水名由淺貌而來；內容是字義及地名考證"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 25,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "由書信通稱勿勿而不知來歷的現象，引說文解釋州里旗幟催趣民事的本義及忽遽義來源，純屬詞源考辨"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 26,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "自敘在益州聽見蜀人以逼稱豆粒而不解，經訪問並援引三蒼、說文的字形音訓使眾人明白，所載是方言字義考證"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 27,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "見眾人把青鳥誤稱為鶡，作者依親見的鶡色、辭賦及說文、韻集辨出應是另一鳥名，純為名物考證"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 28,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "敘蔡朗因不學而把蓴誤稱露葵、眾人沿襲，後在梁齊使者問答中顯出名稱混淆；南北人物只是詞義誤傳的載體"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 29,
+      "domains": ["IV"],
+      "modes": ["prescription", "narrative"],
+      "reason": "作者在姻親與諸子同坐時考問孩子辨識同音字，並告誡若不預先研檢便可能受人欺弄，是把文字學要求化為當面傳給子弟的家庭教養"
+    },
+    {
+      "chapter": "勉学第八",
+      "para_index": 30,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "主張校定書籍須遍觀異本，未備見天下書便不可輕下判斷，因各本可能本同末異或同有缺文；純屬版本校勘原則"
+    }
+  ]
+}
