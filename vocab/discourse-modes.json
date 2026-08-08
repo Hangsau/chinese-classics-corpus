@@ -1,6 +1,6 @@
 {
   "vocab_id": "discourse-modes",
-  "version": "0.1",
+  "version": "0.2",
   "status": "active",
   "language": "zh-Hant",
   "derived_from": {
@@ -10,6 +10,9 @@
   },
   "notes": "本庫新增的 L3 維度，與 L2 psych_domains 正交（任一領域可搭配任一姿態）。定名不用 stance——stance 在 NLP 已指 stance detection（支持／反對），會誤導。",
   "usage": "一個段落可多標（常見組合 proposition + prescription）。null =「這段還沒讀」，[] =「讀了，判不出任一姿態」（SCHEMA §5.1）。新增值必須先在 pilots/ 驗證過才進本表。",
+  "changelog": [
+    {"version": "0.2", "date": "2026-08-09", "change": "新增 worked_instance。驗證見 pilots/2026-07-28-discourse-mode-worked-instance.md（九章 491/720 段、海島 14/24 段兩部獨立文本同一缺口）。加值當下 religions-history 尚未引用本表，無既有標註需重判。"}
+  ],
   "modes": [
     {"id": "observation", "name_zh": "觀察", "definition": "陳述人實際如何", "test": "可被事實否證的描述句", "example": "孫子〈行軍〉徵候清單"},
     {"id": "proposition", "name_zh": "命題", "definition": "主張某個因果或原理", "test": "有「A 故 B」的結構", "example": "孫子〈兵勢〉論勇怯生於勢"},
@@ -17,6 +20,7 @@
     {"id": "formalization", "name_zh": "形式化", "definition": "把規範化成可計算程序", "test": "有可執行的算法或制度", "example": "九章衰分術、均輸術；儀禮喪服"},
     {"id": "narrative", "name_zh": "敘事", "definition": "用故事承載", "test": "有人物與情節", "example": "列女傳、福音書"},
     {"id": "ritual", "name_zh": "儀節", "definition": "用儀節承載", "test": "規定動作、時序、器物", "example": "禮記、利未記"},
-    {"id": "expression", "name_zh": "抒發", "definition": "第一人稱抒發而非第三人稱描述", "test": "說話者即當事人", "example": "楚辭、詩篇"}
+    {"id": "expression", "name_zh": "抒發", "definition": "第一人稱抒發而非第三人稱描述", "test": "說話者即當事人", "example": "楚辭、詩篇"},
+    {"id": "worked_instance", "name_zh": "題例", "definition": "以具體數字陳述一個問題實例及其答案，本身不主張命題、不下規範，功能是示範某個程序如何套用", "test": "拿掉數字之後還剩什麼？只剩程序空殼 → worked_instance；還剩一個可爭論的主張 → proposition", "example": "九章算術「今有田廣十五步，從十六步。問：為田幾何？／荅曰：一畝。」；海島算經「今有望海島，立兩表……問島高及去表各幾何？」", "note": "與 formalization 的分工：術是程序，題答是該程序的一次實例。不涵蓋校勘記與版本層陳述（那是關於文本本身而非關於世界），也不涵蓋醫案、判例、公案（實例本身承載可爭論內容時該用 narrative／proposition）。"}
   ]
 }
