@@ -191,10 +191,15 @@ def check(slug: str, entry: dict, domain_ids: set[str], mode_ids: set[str]) -> t
             errors.append(f"chapter '{lab}' has identical text to '{seen[h]}'")
         seen[h] = lab
 
-    numeric = [l for l in labels if re.fullmatch(r"[0-9０-９]+", l)]
+    # 「卷第3」這種只有卷序沒有篇名的標籤，成因通常是卷級子頁只含一篇而篇名被
+    # 丟掉（見 download-wikisource.adopt_sole_heading）。它不是純數字，過去漏網，
+    # 要等標到那部書才發現錨點沒有意義。
+    num = r"[0-9０-９〇一二三四五六七八九十百]+"
+    numeric = [l for l in labels
+               if re.fullmatch(rf"(?:卷第|篇第|第|卷|篇)?{num}(?:卷|篇)?", l)]
     if numeric:
-        warnings.append(f"{len(numeric)}/{len(labels)} chapter labels are bare numbers "
-                        f"— poor anchors for annotations.json")
+        warnings.append(f"{len(numeric)}/{len(labels)} chapter labels carry only an ordinal "
+                        f"({numeric[:3]}) — poor anchors for annotations.json")
     exp = entry.get("expected_chapter_count")
     if exp and labels and abs(len(labels) - exp) > max(2, exp * 0.25):
         warnings.append(f"chapter count {len(labels)} vs catalog expected {exp}")
