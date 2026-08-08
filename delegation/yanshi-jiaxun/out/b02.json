@@ -1,0 +1,334 @@
+{
+  "batch": "b02.md",
+  "rows": [
+    {
+      "chapter": "風操第六",
+      "para_index": 1,
+      "domains": ["IV"],
+      "modes": ["proposition", "expression"],
+      "reason": "自述禮經殘缺、南北見習有別，因子弟生於兵馬間而不熟士大夫風操，故把所見家法記下傳示子孫，核心是家內教養與傳承"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 2,
+      "domains": ["IV", "VI", "X"],
+      "modes": ["prescription", "narrative"],
+      "reason": "規勸聽見先人名諱時可申哀情但不可過度迴避，並以謝舉聞諱必哭、臧逢世因流涕荒廢公事兩例說明親喪之痛仍須有節"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "舉與沈氏交厚者因避諱而在書信中只署名不署姓之例，斥其違反朋友交往的人情，處理社交分寸與待人品格"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "只論避諱時應以同義詞代換，並列舉把煉改作絹、紜改作煙等語義乖謬；重點是詞義替換技術，未落入人生問題領域"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 5,
+      "domains": ["II", "IV"],
+      "modes": ["observation", "prescription"],
+      "reason": "比較古今取名習俗，指出驢駒、豚子等名字會使本人與兄弟難以啟齒，告誡家長不要給子孫留下有辱身分的名字"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 6,
+      "domains": ["IV"],
+      "modes": ["observation", "prescription"],
+      "reason": "觀察今人避諱過急，規勸替孩子命名時須替後代預留餘地，以免常用字成為子孫及交遊者反覆觸犯的家族負擔"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 7,
+      "domains": ["II"],
+      "modes": ["observation", "proposition"],
+      "reason": "列舉仰慕古人而連其姓氏納入己名的做法，判斷藉古人姓名塑造自身名號是一種鄙事，核心是命名與自我標示"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 8,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "由劉文饒不忍以畜產辱罵奴僕，反襯當世以豚犢指人取笑的不可忍受，直接批評以言語貶辱他人的品格"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 9,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "敘議定百官俸祿時士人借陶朱公大兒之名戲謔顯貴、彼此歡笑而不嫌的場景，呈現官場同僚互動中玩笑與冒犯的分寸"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 10,
+      "domains": ["IV"],
+      "modes": ["prescription", "ritual"],
+      "reason": "逐項規定祖父母、伯叔與已嫁或在室女子對外應如何稱說，藉稱謂差等維持親屬尊卑及婚後所屬，是具體家族禮法"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 11,
+      "domains": ["IV"],
+      "modes": ["prescription", "ritual"],
+      "reason": "規定與人談及對方不同等次的祖父母、父母、姑叔時分別加尊或賢字，以稱謂儀節標明親屬輩分與敬意"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 12,
+      "domains": ["IV", "V", "X"],
+      "modes": ["prescription", "ritual"],
+      "reason": "比較南北在節日弔喪、迎送賓客與揖禮上的做法，並明言不取歲日重弔而贊成迎揖，兼涉喪家、社交及失親後的具體儀節"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 13,
+      "domains": ["II", "V"],
+      "modes": ["observation", "ritual"],
+      "reason": "追述王侯、孔子及南北士人自稱的名號差異，贊成以名自稱的古風，處理人在身分階序與交往場合中如何標示自己"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 14,
+      "domains": ["IV", "X"],
+      "modes": ["prescription", "ritual"],
+      "reason": "詳定談到亡祖、亡伯叔與亡兄弟時的稱謂、容色和迴避方式，並以南北誤解一例說明，核心是對亡親的感慕及家族喪稱禮節"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 15,
+      "domains": ["IV", "X"],
+      "modes": ["proposition", "ritual"],
+      "reason": "辨析伯叔、兄子弟子與姪等稱法，特別考量父母亡故的孤者聽聞稱謂時的難堪，據經傳主張以姪稱孤兒較合情理"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 16,
+      "domains": ["IV", "VI"],
+      "modes": ["proposition", "narrative"],
+      "reason": "以梁武帝與弟離別落淚、弟不能流淚反遭責的故事，論親人分離時悲痛未必都能外顯，主張不可強責天生少淚者"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 17,
+      "domains": ["IV"],
+      "modes": ["prescription", "ritual"],
+      "reason": "逐層規定外祖父母、父母的叔伯及遠房長輩應加外字、次第、姓氏或爵位來區別，避免混淆親族世系與內外尊卑"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 18,
+      "domains": ["IV"],
+      "modes": ["observation", "ritual"],
+      "reason": "比較江南、河北對遠房宗親稱尊、兄弟、族人或從伯叔的習俗，並判定不忍稱族的敏答仍不合禮，核心是宗族世系的稱謂規範"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 19,
+      "domains": ["IV"],
+      "modes": ["narrative", "ritual"],
+      "reason": "從詢問周弘讓如何稱父母姊妹的對話起，辨明父系稱某姓姑、母系稱某姓姨等規矩，處理親屬關係的正確命名"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 20,
+      "domains": ["IV"],
+      "modes": ["observation"],
+      "reason": "記齊朝士子把祖僕射稱為祖公且不避重名，甚至當面相戲的家族稱謂習俗，重點仍是如何稱說祖輩"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 21,
+      "domains": ["II", "IV"],
+      "modes": ["observation", "proposition"],
+      "reason": "提出名用以正體、字用以表德的原則，追述古人與南北對名、字避諱的差異，兼及個人名號所表身分及子弟對父名父字的家內避諱"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 22,
+      "domains": ["IV", "VI", "X"],
+      "modes": ["observation", "ritual"],
+      "reason": "引禮經區分各等喪服哭聲的輕重辭節，再比較江南與山東喪哭，處理親喪悲哀如何依親等在儀式中發為聲音"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 23,
+      "domains": ["IV", "V", "X"],
+      "modes": ["observation", "ritual"],
+      "reason": "描述江南友人三日不弔便絕交及不同身分弔客如何執手、另日登門，兼涉喪家失親與朋友、相識者維繫關係的弔唁規矩"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 24,
+      "domains": ["VI", "X", "XII"],
+      "modes": ["proposition", "ritual"],
+      "reason": "駁斥辰日或朔日哭喪會招重喪、減壽的陰陽道書禁忌，主張喪家在感哀更深時不應因求壽而壓抑哭泣，交涉悲痛、死亡與禁忌信仰"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 25,
+      "domains": ["IV", "VII", "X", "XII"],
+      "modes": ["proposition", "ritual"],
+      "reason": "列舉死亡後子孫逃家、畫符厭勝、燃火列灰以斷家鬼等術法，斥為不近人情且應受彈劾，兼論喪家責任、品格與鬼神禁忌"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 26,
+      "domains": ["IV", "VI", "X"],
+      "modes": ["observation", "ritual"],
+      "reason": "規列失父或失母者在歲節拜見仍存的母父、祖輩、舅姨與兄姊時皆會哭泣，視為親喪觸發家族禮節與哀情的自然表現"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 27,
+      "domains": ["IV", "VI", "VII", "X"],
+      "modes": ["observation", "narrative"],
+      "reason": "先述朝臣子孫除服入朝應泣的慣例，再敘梁武帝薄待無哀容者、稱許裴政枯瘦痛哭，藉親喪悲情的真偽評斷人的孝行與品格"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 28,
+      "domains": ["IV", "VI", "X", "XIII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "連敘遺族因父母死因或遺居而終身避室、割物、炙食與飲酒，末以噎死者不可使子女絕食設限；作者替喪親者說明既可存哀，也須避免讓追念封死日常生活"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 29,
+      "domains": ["IV", "X", "XIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "辨明亡父遺書、亡母杯圈等有手口痕跡之物可封存追思，普通書物則不必全廢，教遺族以保存而非棄用一切的方式安放親喪並留傳後世"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 30,
+      "domains": ["IV", "VI", "IX", "X"],
+      "modes": ["narrative"],
+      "reason": "敘三歲喪母的女子見母親舊屏風後伏床痛哭，繼而不能飲食、吐血身亡，完整呈現失母記憶引發的極端悲傷及身體崩潰"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 31,
+      "domains": ["IV", "VI", "VII", "X"],
+      "modes": ["proposition", "prescription"],
+      "reason": "解釋忌日不樂本為感慕亡親而暫停賓客眾務，批評世人深藏室內卻言笑飲食、拒見至交的空殼做法，要求喪祭外儀與真實哀情及品格一致"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 32,
+      "domains": ["IV", "VI", "X"],
+      "modes": ["prescription", "narrative"],
+      "reason": "以王修在母親忌辰悲慟、鄰里為之罷社為例，規定父母亡故後凡再逢相關節日也應感慕，避免宴飲、音樂與遊樂"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 33,
+      "domains": ["IV"],
+      "modes": ["proposition", "prescription"],
+      "reason": "由劉氏兄弟終身避父名昭的同音字出發，主張正字可避而同音異字不可盡避，為子女奉行父諱劃定可行界線"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 34,
+      "domains": ["VII"],
+      "modes": ["prescription", "narrative"],
+      "reason": "敘甲誤以尊侯詢問乙子其父何時到來而被譏笑，藉稱謂失當告誡說話須觸類慎思，不可因輕率而失禮"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 35,
+      "domains": ["IV", "VII", "X"],
+      "modes": ["observation", "ritual"],
+      "reason": "詳述周歲試兒的衣物、器具與宴集，並批評父母已亡者仍在生辰酣飲奏樂，反以梁元帝母亡後停辦為例，論家庭生日禮俗及喪親後應有的感念"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 36,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "主要考辨人在疼痛時所呼禰、侑等字的字義、讀音及南北用法，結論只是兩種鄉音皆可通行，未進一步處理疾病、親子或信仰問題"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 37,
+      "domains": ["IV", "V"],
+      "modes": ["observation", "narrative"],
+      "reason": "描述官員被繫劾後子孫辭官、跣足申冤、結廬官署及家族數世絕交的慣例，再敘到漑因兄弟彈劾友人而泣別，兼涉家族連帶與刑政權力"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 38,
+      "domains": ["IV", "IX", "X"],
+      "modes": ["prescription", "ritual"],
+      "reason": "規定父祖伯叔在軍陣、家居圍城或父母病篤時，親屬應停樂罷宴、去飾戒懼並向醫者涕拜，處理家人在戰死風險與重病前的具體應對"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 39,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "主張結拜兄弟須先審志向與道義是否相當，一旦結交便敬及彼此父母子女，批評不辨是非、只看年貌便草率攀親的交友風氣"
+    },
+    {
+      "chapter": "風操第六",
+      "para_index": 40,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "以周公殷勤接士、晉文公拒客受譏及裴之禮教僕敬客等故事，主張門不停賓是可貴風範，處理主人接納賓客的社交責任與恭敬品格"
+    },
+    {
+      "chapter": "慕賢第七",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "論年少者會在交遊中潛移暗化而染成同伴的言行與操履，故勸人景仰難得賢者、慎選勝己善友，核心是友伴如何塑造品格"
+    },
+    {
+      "chapter": "慕賢第七",
+      "para_index": 2,
+      "domains": ["III", "V"],
+      "modes": ["observation", "narrative"],
+      "reason": "觀察世人重遠名、輕近賢的群體偏見，並以虞君因狎近宮之奇而不納其諫、終至亡國為例，呈現近人價值與忠告不被看見聽見的後果"
+    },
+    {
+      "chapter": "慕賢第七",
+      "para_index": 3,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "規定凡取用他人一言一行都須明示來源、把功勞歸還本人，並把竊取他人之美比作盜財，直接處理誠信與不掠美的品格倫理"
+    },
+    {
+      "chapter": "慕賢第七",
+      "para_index": 4,
+      "domains": ["III", "V", "VIII"],
+      "modes": ["narrative"],
+      "reason": "敘出身平民的丁覘雖精於文章書法，卻因軍府輕賤、名聲不彰而長期不被承認，經蕭子雲稱賞才改觀，呈現階序偏見使才能與成就無法被看見"
+    },
+    {
+      "chapter": "慕賢第七",
+      "para_index": 5,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "敘侯景圍城時羊侃一夜部署完備、使四萬人得以守城百餘日，再以高士讓天下與小人爭小利對照，凸顯個人才幹對群體安危與領導成效的巨大差異"
+    },
+    {
+      "chapter": "慕賢第七",
+      "para_index": 6,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "敘齊文宣委政楊遵彥而天下清謐、楊與斛律明月被殺後政軍衰敗，論證賢能臣將是否獲用直接牽動國家治理與存亡"
+    },
+    {
+      "chapter": "慕賢第七",
+      "para_index": 7,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "敘張延雋鎮邊、備物並愛護百姓，卻遭群小合力調離，繼任後公私擾亂、城鎮先陷，呈現權力排擠能吏如何損害公共治理並開啟亡國之勢"
+    }
+  ]
+}

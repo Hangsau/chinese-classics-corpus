@@ -4,253 +4,439 @@
     {
       "chapter": "序致第一",
       "para_index": 1,
-      "domains": ["IV"],
-      "modes": ["proposition", "expression"],
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "proposition",
+        "expression"
+      ],
       "reason": "自述著書是為整齊門內、提撕子孫，並主張同樣的教誡由親近且信服的人說出才容易施行，核心是家內教養與傳承"
     },
     {
       "chapter": "序致第一",
       "para_index": 2,
-      "domains": ["IV", "VII", "X", "XIII"],
-      "modes": ["proposition", "narrative", "expression"],
+      "domains": [
+        "IV",
+        "VII",
+        "X",
+        "XIII"
+      ],
+      "modes": [
+        "narrative",
+        "expression"
+      ],
       "reason": "自述九歲喪親、家門離散後失於嚴教，以致習氣難改並反覆悔過，最後把無法追回的教養化為留給子孫的二十篇後車之戒，是作者替自身失教與失親處境尋求安頓"
     },
     {
       "chapter": "教子第二",
       "para_index": 1,
-      "domains": ["IV"],
-      "modes": ["observation", "proposition", "prescription", "ritual"],
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
       "reason": "從胎教、嬰幼兒教誨的具體規矩，論證及早立教可使子女形成孝慎習慣，並觀察溺愛失教會使驕慢固著、終至敗德"
     },
     {
       "chapter": "教子第二",
       "para_index": 2,
-      "domains": ["IV"],
-      "modes": ["proposition", "prescription"],
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
       "reason": "以治病必用湯藥鍼艾作譬，主張父母督訓乃不得已的救治而非有意苛虐，規勸不可因不忍責罰而放棄教子"
     },
     {
       "chapter": "教子第二",
       "para_index": 3,
-      "domains": ["IV"],
-      "modes": ["narrative"],
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "narrative"
+      ],
       "reason": "王大司馬母嚴教成子勳業、梁元帝時學士為父所寵而敗，兩故事對舉嚴教與溺愛對子女成人結果的差異"
     },
     {
       "chapter": "教子第二",
       "para_index": 4,
-      "domains": ["IV"],
-      "modes": ["proposition", "prescription", "ritual"],
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
       "reason": "規定父子既不可狎昵而失嚴，也不可疏略而斷愛，並以分居、照料寢具等相處儀節及不親授敏感經文說明親疏分寸"
     },
     {
       "chapter": "教子第二",
       "para_index": 5,
-      "domains": ["IV", "V"],
-      "modes": ["narrative"],
+      "domains": [
+        "IV",
+        "V"
+      ],
+      "modes": [
+        "narrative"
+      ],
       "reason": "敘琅邪王受帝后偏愛、逾越諸王禮分而養成驕恣，終至矯詔斬相、動用軍士並幽死，同時呈現皇室教養失敗與政治權力濫用"
     },
     {
       "chapter": "教子第二",
       "para_index": 6,
-      "domains": ["IV"],
-      "modes": ["observation", "proposition", "prescription"],
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "observation",
+        "proposition"
+      ],
       "reason": "指出父母偏愛自古常見，主張賢愚子女都當憐愛，並以多個覆家亡子的先例論證偏寵看似厚愛、實則招禍"
     },
     {
       "chapter": "教子第二",
       "para_index": 7,
-      "domains": ["IV", "VII", "VIII"],
-      "modes": ["prescription", "narrative"],
+      "domains": [
+        "IV",
+        "VII",
+        "VIII"
+      ],
+      "modes": [
+        "prescription",
+        "narrative"
+      ],
       "reason": "記士大夫教兒以鮮卑語、琵琶取悅公卿求進身，作者明言即使可藉此位至卿相也不願子孫為之，兼論教養、進身之業與人格取捨"
     },
     {
       "chapter": "兄弟第三",
       "para_index": 1,
-      "domains": ["IV"],
-      "modes": ["observation", "proposition", "prescription"],
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "observation",
+        "proposition"
+      ],
       "reason": "論兄弟是家族三親之一，觀察幼時親愛而各自成家後容易轉衰，故勸兄弟之情不可由較疏的妻室左右"
     },
     {
       "chapter": "兄弟第三",
       "para_index": 2,
-      "domains": ["IV"],
-      "modes": ["proposition", "prescription"],
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
       "reason": "規勸父母亡後兄弟更應相依，並以房屋小隙終將傾毀為喻，論證親近者雖易生怨亦易修補，不可任妻子僕妾擴大裂痕"
     },
     {
       "chapter": "兄弟第三",
       "para_index": 3,
-      "domains": ["IV"],
-      "modes": ["proposition"],
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "proposition"
+      ],
       "reason": "提出兄弟失和會逐層造成子侄、群從乃至僮僕相敵的因果，並反詰能結交天下、統率萬人者何以反不能敬兄愛弟"
     },
     {
       "chapter": "兄弟第三",
       "para_index": 4,
-      "domains": ["IV"],
-      "modes": ["observation", "proposition", "prescription"],
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
       "reason": "分析妯娌因在多爭位置上以私情承擔公責而易生嫌隙，並主張能推己及人、把對方子女換作己子撫待即可免患"
     },
     {
       "chapter": "兄弟第三",
       "para_index": 5,
-      "domains": ["IV"],
-      "modes": ["proposition", "prescription", "narrative"],
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "prescription",
+        "narrative"
+      ],
       "reason": "規勸事兄不必比同事父，也不應怨兄愛弟不及愛子，再以劉璡整衣冠後才應兄長的故事示範敬兄分寸"
     },
     {
       "chapter": "兄弟第三",
       "para_index": 6,
-      "domains": ["IV"],
-      "modes": ["narrative"],
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "narrative"
+      ],
       "reason": "以江陵王玄紹兄弟共享珍味、危難時爭相代死並最終同命的故事，承載兄弟友愛相救之義"
     },
     {
       "chapter": "後娶第四",
       "para_index": 1,
-      "domains": ["IV"],
-      "modes": ["prescription", "narrative"],
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "prescription",
+        "narrative"
+      ],
       "reason": "以吉甫、曾參、王駿及後妻離間虐待前子等事為戒，反覆告誡再娶可能破壞父子天性與傷害孤遺"
     },
     {
       "chapter": "後娶第四",
       "para_index": 2,
-      "domains": ["IV", "V"],
-      "modes": ["observation", "proposition", "prescription"],
+      "domains": [
+        "IV",
+        "V"
+      ],
+      "modes": [
+        "observation",
+        "prescription"
+      ],
       "reason": "比較江左、河北續娶與庶出習俗，描述嫡庶貴賤之隔如何在身後化為訴訟、誣辱與兄弟相黜，並警告夫妻與僕婢長期進言足以移易親情"
     },
     {
       "chapter": "後娶第四",
       "para_index": 3,
-      "domains": ["IV"],
-      "modes": ["observation", "proposition"],
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "observation",
+        "proposition"
+      ],
       "reason": "從嫉妒、利益防備與共同生活分析後夫寵前夫孤、後妻虐前妻子的成因，指出兩種偏私都會使父母被怨、兄弟成仇而成門戶之禍"
     },
     {
       "chapter": "後娶第四",
       "para_index": 4,
-      "domains": ["IV"],
-      "modes": ["narrative"],
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "narrative"
+      ],
       "reason": "敘殷外臣成年之子悲慕亡母，使新娶王氏同感悽愴而請退，呈現再娶造成的繼親情感困局"
     },
     {
       "chapter": "後娶第四",
       "para_index": 5,
-      "domains": ["IV", "VII"],
-      "modes": ["narrative"],
+      "domains": [
+        "IV",
+        "VII"
+      ],
+      "modes": [
+        "narrative"
+      ],
       "reason": "完整敘薛包受後母憎逐仍晨昏盡孝、分產讓弟取善而自己取敝、弟破產後再賑給的生平，以家庭逆境承載孝悌、忍讓與恬退品格"
     },
     {
       "chapter": "治家第五",
       "para_index": 1,
-      "domains": ["IV"],
-      "modes": ["proposition"],
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "proposition"
+      ],
       "reason": "主張家內風教由尊長向下施行，父不慈、兄不友、夫不義會相應導致子弟與妻室失其倫常，核心是家庭角色相互塑造"
     },
     {
       "chapter": "治家第五",
       "para_index": 2,
-      "domains": ["IV", "V"],
-      "modes": ["proposition"],
+      "domains": [
+        "IV",
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
       "reason": "把治家寬猛與治國刑罰並舉，主張家中完全不用責罰會顯出子弟過失，國家刑罰失中則使人民無所適從"
     },
     {
       "chapter": "治家第五",
       "para_index": 3,
-      "domains": ["VII"],
-      "modes": ["proposition", "prescription"],
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
       "reason": "辨明儉是合禮省約、吝是困急不救，規勸施與而不奢、節儉而不吝，直接處理個人的節制與仁厚品格"
     },
     {
       "chapter": "治家第五",
       "para_index": 4,
-      "domains": ["V", "VIII"],
-      "modes": ["observation", "proposition"],
+      "domains": [
+        "V",
+        "VIII"
+      ],
+      "modes": [
+        "observation",
+        "proposition"
+      ],
       "reason": "論農桑種殖與守業足以供給衣食居用，處理一家如何靠生產自給，並以北土躬儉、江南奢侈作地域群體風俗比較"
     },
     {
       "chapter": "治家第五",
       "para_index": 5,
-      "domains": ["IV"],
-      "modes": ["narrative"],
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "narrative"
+      ],
       "reason": "以中書舍人治家過度嚴刻，終遭妻妾僱刺客殺害的短故事，呈現家庭治理失度的惡果"
     },
     {
       "chapter": "治家第五",
       "para_index": 6,
-      "domains": ["IV", "V", "VII"],
-      "modes": ["observation", "proposition"],
+      "domains": [
+        "IV",
+        "V",
+        "VII"
+      ],
+      "modes": [
+        "observation",
+        "proposition"
+      ],
       "reason": "批評名士以寬仁自許，卻讓妻子節縮、僮僕侵耗賓客鄉黨來支應饋贈然諾，指出表面施惠若把代價轉嫁家人與他人，正是治家與品格的大害"
     },
     {
       "chapter": "治家第五",
       "para_index": 7,
-      "domains": ["IV", "VII"],
-      "modes": ["narrative"],
+      "domains": [
+        "IV",
+        "VII"
+      ],
+      "modes": [
+        "narrative"
+      ],
       "reason": "敘房文烈在全家斷糧、婢女逃走及奴婢拆屋為薪時仍不嗔打斥責，以具體家務事件呈現其寬厚到近乎無威的性情"
     },
     {
       "chapter": "治家第五",
       "para_index": 8,
-      "domains": ["IV", "V", "VII"],
-      "modes": ["narrative"],
+      "domains": [
+        "IV",
+        "V",
+        "VII"
+      ],
+      "modes": [
+        "narrative"
+      ],
       "reason": "以裴子野與親故同食薄粥、領軍蓄財卻薄待家童客旅、南陽人吝待女婿而諸子爭財相殺三事對照，論家庭與所屬之人間的仁厚、貪積和吝嗇"
     },
     {
       "chapter": "治家第五",
       "para_index": 9,
-      "domains": ["IV", "V"],
-      "modes": ["proposition", "prescription"],
+      "domains": [
+        "IV",
+        "V"
+      ],
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
       "reason": "規定婦人僅主家內酒食衣服，不可干預國政或主持家務，只可輔佐丈夫，直接劃定婚姻家庭與政治權力中的性別角色"
     },
     {
       "chapter": "治家第五",
       "para_index": 10,
-      "domains": ["IV", "V"],
-      "modes": ["observation"],
+      "domains": [
+        "IV",
+        "V"
+      ],
+      "modes": [
+        "observation"
+      ],
       "reason": "比較江東與鄴下婦女在交遊、持門戶、訴訟請託、代夫子求官及內外用度上的習俗，兼涉家庭分工、公共活動與南北群體差異"
     },
     {
       "chapter": "治家第五",
       "para_index": 11,
       "domains": [],
-      "modes": ["observation"],
+      "modes": [
+        "observation"
+      ],
       "reason": "只陳述河北婦女的紡織刺繡技藝優於江東，未進一步處理群體偏見、技藝取捨或人生問題，故領域判空"
     },
     {
       "chapter": "治家第五",
       "para_index": 12,
-      "domains": ["IV", "V", "VII"],
-      "modes": ["observation", "proposition", "prescription", "narrative"],
+      "domains": [
+        "IV",
+        "V",
+        "VII"
+      ],
+      "modes": [
+        "observation",
+        "narrative"
+      ],
       "reason": "先述世人把女兒視為負累，繼而斥責溺殺女嬰是殘害骨肉，又敘親族守候產婦、遇女即抱走而母親號泣之事，兼涉親子、性別不公與善惡良心"
     },
     {
       "chapter": "治家第五",
       "para_index": 13,
-      "domains": ["IV"],
-      "modes": ["observation", "proposition", "prescription"],
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "observation",
+        "proposition"
+      ],
       "reason": "概括母親寵女婿、虐兒媳會分別激起兄弟怨與姊妹讒，指出女兒無論出嫁或留家都因母親偏私得罪家人，並告誡這是常見家弊"
     },
     {
       "chapter": "治家第五",
       "para_index": 14,
-      "domains": ["IV", "VII"],
-      "modes": ["observation", "proposition", "prescription"],
+      "domains": [
+        "IV",
+        "VII"
+      ],
+      "modes": [
+        "observation",
+        "prescription"
+      ],
       "reason": "批評近世婚嫁計較門第財物、賣女買婦如同市井，主張貪圖榮利反會招致羞恥，告誡應慎重處理婚姻與貪欲"
     },
     {
       "chapter": "治家第五",
       "para_index": 15,
-      "domains": ["VII"],
-      "modes": ["proposition", "prescription", "narrative", "expression"],
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "prescription",
+        "narrative"
+      ],
       "reason": "規定借書須愛護修補，以江祿整束卷帙的故事說明惜物使人樂於出借，並自述敬重聖賢文字；重點是守信、敬慎與不累德的品格而非讀書方法"
     },
     {
       "chapter": "治家第五",
       "para_index": 16,
-      "domains": ["XII"],
-      "modes": ["prescription", "expression"],
+      "domains": [
+        "IV",
+        "XII"
+      ],
+      "modes": [
+        "prescription",
+        "expression"
+      ],
       "reason": "自述家中從不從事巫覡禱請、符書章醮，並命子孫勿為妖妄信仰實踐耗費，直接處理家族對神鬼祈禳的立場"
     }
   ]
