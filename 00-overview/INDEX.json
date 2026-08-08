@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-08-08T18:55:10+00:00",
+    "generated_at": "2026-08-08T19:50:42+00:00",
     "text_count": 68,
     "total_bytes": 10553141,
     "by_category": {
@@ -37,10 +37,10 @@
       "III": 4,
       "IV": 4,
       "IX": 3,
-      "V": 5,
+      "V": 4,
       "VI": 4,
       "VII": 4,
-      "VIII": 5,
+      "VIII": 4,
       "X": 4,
       "XI": 4,
       "XII": 4,
@@ -444,8 +444,6 @@
       "verified": false,
       "surveyed": true,
       "domains_hit": [
-        "V",
-        "VIII",
         "XII"
       ],
       "paras_total": 720,

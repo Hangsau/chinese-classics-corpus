@@ -23,17 +23,15 @@
       "chapter": "九章筭術注序",
       "para_index": 2
     },
-    "psych_domains": [
-      "VIII"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "expression"
     ],
     "confidence": "medium",
-    "note": "劉徽第一人稱自述：幼習長覽、「敢竭頑魯」為之作注、歎「當今好之者寡」。全書唯一一段講一個人與其志業的關係。",
+    "note": "2026-08-09 重判撤銷（原標 VIII）：敘述研習《九章》、撰注方法與數學教育，核心是數學求知及傳授；此類智慧學習內容不屬 psych_domains。",
     "excerpt": "徽幼習《九章》，長再詳覽。觀陰陽之割裂，總筭術之根源，探賾之暇，遂悟其意。是以敢",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#01-p03",
@@ -3291,17 +3289,15 @@
       "chapter": "卷第三　衰分",
       "para_index": 2
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": "high",
-    "note": "「欲以爵次分之」——以爵位高低決定獵獲分配比例，把身分等級寫進題設。",
+    "note": "2026-08-09 重判撤銷（原標 V）：爵次可替換成五個中性物件的數值權重，分五鹿的比例題仍完全成立。",
     "excerpt": "〔一〕今有大夫、不更、簪裹、上造、公士，凡五人，共獵得五鹿。欲以爵次分之，問︰各",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#04-p03",
@@ -3341,17 +3337,15 @@
       "chapter": "卷第三　衰分",
       "para_index": 5
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "formalization"
     ],
     "confidence": "high",
-    "note": "「列置爵數，各自為衰」：等級秩序直接當作權重，形式化為可算程序。",
+    "note": "2026-08-09 重判撤銷（原標 V）：把爵數當作權重計算比例份額，換成中性權重後算法不變。",
     "excerpt": "術曰：列置爵數，各自為衰，副并為法。以五鹿乘未并者，各自為實。實如法得一鹿。",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#04-p06",
@@ -3359,17 +3353,15 @@
       "chapter": "卷第三　衰分",
       "para_index": 6
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": "high",
-    "note": "牛馬羊食人苗，按食量比例分攤賠償——責任隨致害程度分配。羊主、馬主的對話只是給出比率的修辭裝置。",
+    "note": "2026-08-09 重判撤銷（原標 V）：苗損賠償可改寫成三類物件按相對耗用量分攤總量，核心是四比二比一的比例題。",
     "excerpt": "〔二〕今有牛、馬、羊食人苗。苗主責之粟五斗。羊主曰：「我羊食半馬。」馬主曰：「我",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#04-p07",
@@ -3425,17 +3417,15 @@
       "chapter": "卷第三　衰分",
       "para_index": 10
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "formalization"
     ],
     "confidence": "high",
-    "note": "牛四、馬二、羊一為列衰，賠償責任的形式化。",
+    "note": "2026-08-09 重判撤銷（原標 V）：以四、二、一為權重分配五斗的純比例算法。",
     "excerpt": "術曰：置牛四、馬二、羊一，各自為列衰，副并為法。以五斗乘未并者各自為實。實如法得",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#04-p11",
@@ -3443,17 +3433,15 @@
       "chapter": "卷第三　衰分",
       "para_index": 11
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": "high",
-    "note": "三人共出關稅百錢，「以錢數多少衰出之」——按財力課稅。",
+    "note": "2026-08-09 重判撤銷（原標 V）：關稅場景可換成三個容器按各自存量分攤固定成本，題意與算法不變。",
     "excerpt": "〔三〕今有甲持錢五百六十，乙持錢三百五十，丙持錢一百八十，凡三人俱出關，關稅百錢",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#04-p12",
@@ -3509,17 +3497,15 @@
       "chapter": "卷第三　衰分",
       "para_index": 15
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "formalization"
     ],
     "confidence": "high",
-    "note": "按財力課稅的形式化。",
+    "note": "2026-08-09 重判撤銷（原標 V）：依三個錢數占總錢數的比例分配百錢，純加權計算。",
     "excerpt": "術曰：各置錢數為列衰，副并為法，以百錢乘未并者，各自為實，實如法得一錢。",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#04-p16",
@@ -3639,17 +3625,15 @@
       "chapter": "卷第三　衰分",
       "para_index": 23
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": "high",
-    "note": "三鄉發傜三百七十八人，「以算數多少衰出之」——按課稅人口分攤徭役。",
+    "note": "2026-08-09 重判撤銷（原標 V）：鄉與徭役可換成三類物件按各自數量分配固定總量，人口場景不影響比例題。",
     "excerpt": "〔五〕今有北鄉算八千七百五十八，西鄉算七千二百三十六，南鄉算八千三百五十六，凡三",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#04-p24",
@@ -3705,17 +3689,15 @@
       "chapter": "卷第三　衰分",
       "para_index": 27
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "formalization"
     ],
     "confidence": "high",
-    "note": "徭役分攤的形式化。",
+    "note": "2026-08-09 重判撤銷（原標 V）：按三個數量權重分配總數的通用比例程序，無人事判斷。",
     "excerpt": "術曰：各置算數為列衰，副并為法，以所發傜人數乘未并者，各自為實，實如法得一人。",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#04-p28",
@@ -3723,17 +3705,15 @@
       "chapter": "卷第三　衰分",
       "para_index": 28
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": "high",
-    "note": "倉無粟，後來大夫應得的五斗由原五人按爵次回吐——短缺時的負擔分配。",
+    "note": "2026-08-09 重判撤銷（原標 V）：爵祿與倉粟可替換成按既定權重補足新增需求的中性分配題，問題仍成立。",
     "excerpt": "〔六〕今有稟粟，大夫、不更、簪裹、上造、公士，凡五人，一十五斗。今有大夫一人後來",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#04-p29",
@@ -3757,17 +3737,15 @@
       "chapter": "卷第三　衰分",
       "para_index": 30
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "formalization"
     ],
     "confidence": "high",
-    "note": "「爵次均之」，短缺分攤的形式化。",
+    "note": "2026-08-09 重判撤銷（原標 V）：以原有配額與新增配額組成權重後分攤五斗，純比例算法。",
     "excerpt": "術曰：各置所稟粟斛斗數，爵次均之，以為列衰，副并而加後來大夫亦五斗，得二十以為法",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#04-p31",
@@ -3775,17 +3753,15 @@
       "chapter": "卷第三　衰分",
       "para_index": 31
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": "low",
-    "note": "「欲令三人得三，二人得二」確實規定了誰得多少，但未給任何理由，是裸比率，故 low。",
+    "note": "2026-08-09 重判撤銷（原標 V）：五人可換成五個中性項目，依三與二兩種權重分配五斛的題目不變。",
     "excerpt": "〔七〕今有稟粟五斛，五人分之，欲令三人得三，二人得二。問︰各幾何？",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#04-p32",
@@ -3825,17 +3801,15 @@
       "chapter": "卷第三　衰分",
       "para_index": 34
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "formalization"
     ],
     "confidence": "low",
-    "note": "同上，裸比率的形式化。",
+    "note": "2026-08-09 重判撤銷（原標 V）：把三個三與兩個二列為權重分配總量，純加權計算。",
     "excerpt": "術曰：置三人，人三；二人，人二，為列衰。副并為法。以五斛乘未并者，各自為實。實如",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#04-p35",
@@ -3859,17 +3833,15 @@
       "chapter": "卷第三　衰分",
       "para_index": 36
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": "high",
-    "note": "「欲令高爵出少，以次漸多」——爵位愈高出錢愈少。本書最直白的特權原則陳述。",
+    "note": "2026-08-09 重判撤銷（原標 V）：爵位只用來排列反向權重，換成五個編號物件按次序遞增分攤後題目不變。",
     "excerpt": "〔八〕今有大夫、不更、簪褭、上造、公士，凡五人，共出百錢。欲令高爵出少，以次漸多",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#04-p37",
@@ -3957,17 +3929,15 @@
       "chapter": "卷第三　衰分",
       "para_index": 42
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "formalization"
     ],
     "confidence": "high",
-    "note": "返衰術把「爵高者少出」變成可算程序：特權的算法化。",
+    "note": "2026-08-09 重判撤銷（原標 V）：把爵數轉成反比例權重再分百錢，換成中性數列後算法完全相同。",
     "excerpt": "術曰：置爵數各自為衰，而返衰之，副并為法。以百錢乘未并者各自為實。實如法得一錢。",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#04-p43",
@@ -6823,17 +6793,15 @@
       "chapter": "卷第六　均輸",
       "para_index": 5
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": "high",
-    "note": "「欲以道里遠近，戶數多少，衰出之」——賦粟按路程與戶數分攤，均輸制的核心公平原則。",
+    "note": "2026-08-09 重判撤銷（原標 V）：要求依路程與戶數分配粟、車；改成依兩項權重分配中性物件仍完全成立，未議論賦役制度。",
     "excerpt": "欲以道里遠近，戶數多少，衰出之。問︰粟、車各幾何？",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#07-p06",
@@ -6905,17 +6873,15 @@
       "chapter": "卷第六　均輸",
       "para_index": 10
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "formalization"
     ],
     "confidence": "high",
-    "note": "均輸術：縣戶數除以行道日數為衰。公平原則的算法化。",
+    "note": "2026-08-09 重判撤銷（原標 V）：均輸術把戶數與行程化為權重，再按總量分配並處理餘數，是純加權算法，沒有對人事發議論。",
     "excerpt": "均輸術曰：令縣戶數，各如其本行道日數而一，以為衰。甲衰一百二十五，乙、丙衰各九十",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#07-p11",
@@ -6987,17 +6953,15 @@
       "chapter": "卷第六　均輸",
       "para_index": 15
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": "high",
-    "note": "徵卒按遠近與戶率分攤。",
+    "note": "2026-08-09 重判撤銷（原標 V）：要求按遠近與人數分攤一千二百人的數量；中性化後仍是加權分配，未判斷徭役是否合理。",
     "excerpt": "凡五縣，賦輸卒一月一千二百人。欲以遠近、戶率，多少衰出之。問︰縣各幾何？",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#07-p16",
@@ -7005,17 +6969,15 @@
       "chapter": "卷第六　均輸",
       "para_index": 16
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "formalization"
     ],
     "confidence": "high",
-    "note": "徵卒分攤的形式化。",
+    "note": "2026-08-09 重判撤銷（原標 V）：把各縣人數、居留及行程折成權重後分配總數，是可套用於中性物件的比例程序。",
     "excerpt": "術曰：令縣卒，各如其居所及行道日數而一，以為衰。甲衰四，乙衰五，丙衰四，丁衰三，",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#07-p17",
@@ -7103,17 +7065,15 @@
       "chapter": "卷第六　均輸",
       "para_index": 22
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": "high",
-    "note": "「令費勞等」——要拉平的是各縣的花費與勞力，不是繳納量。全書最明確的等值正義陳述。",
+    "note": "2026-08-09 重判撤銷（原標 V）：要求在運價、距離與戶數條件下分配粟量使計算成本相等；本質是加權配置，沒有評論賦稅公義。",
     "excerpt": "凡五縣賦，輸粟一萬斛。一車載二十五斛，與僦一里一錢。欲以縣戶輸粟，令費勞等。問︰",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#07-p23",
@@ -7201,17 +7161,15 @@
       "chapter": "卷第六　均輸",
       "para_index": 28
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "formalization"
     ],
     "confidence": "high",
-    "note": "以「致一斛之費」為衰：公平基準取到達成本而非名目數量。",
+    "note": "2026-08-09 重判撤銷（原標 V）：先算單位粟的運送成本，再以戶數除以成本作權重分配，是純成本比例算法。",
     "excerpt": "術曰：以一里僦價，乘至輸所里，以一車二十五斛除之，加一斛粟價，則致一斛之費。各以",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#07-p29",
@@ -7315,17 +7273,15 @@
       "chapter": "卷第六　均輸",
       "para_index": 35
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": "high",
-    "note": "六縣粟價、傭價各異，仍要「令費勞等」；條件差異愈多，等值原則承載愈重。",
+    "note": "2026-08-09 重判撤銷（原標 V）：以載量、速度、距離、價格及工錢分配六萬斛；中性化後是多因素加權題，未評論勞動或制度。",
     "excerpt": "凡六縣賦粟六萬斛，皆輸甲縣。六人共車，車載二十五斛，重車日行五十里，空車日行七十",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#07-p36",
@@ -7429,17 +7385,15 @@
       "chapter": "卷第六　均輸",
       "para_index": 42
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "formalization"
     ],
     "confidence": "high",
-    "note": "空重車速、載輸日數、傭價全折進「致一斛之費」，等值原則的完整形式化。",
+    "note": "2026-08-09 重判撤銷（原標 V）：由空重車速度求日數與人工成本，再形成分配權重，是完整的算術程序，未對人事作評價。",
     "excerpt": "術曰：以車程行空、重相乘為法，并空、重以乘道里，各自為實，實如法得一日。加載輸各",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#07-p43",
@@ -7447,17 +7401,15 @@
       "chapter": "卷第六　均輸",
       "para_index": 43
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": "low",
-    "note": "「三人分舂之……令米數等」規定了三人各取多少粟，是分配規則，但無社會理由，故 low。",
+    "note": "2026-08-09 重判撤銷（原標 V）：要求三種舂米率下各取多少粟才能產量相等；人只是加工率載體，換成三台機器仍成立。",
     "excerpt": "〔五〕今有粟七斗，三人分舂之，一人為糲米，一人為粺米，一人為鑿米，令米數等。問︰",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#07-p44",
@@ -7529,17 +7481,15 @@
       "chapter": "卷第六　均輸",
       "para_index": 48
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "formalization"
     ],
     "confidence": "low",
-    "note": "同上。",
+    "note": "2026-08-09 重判撤銷（原標 V）：以三種出米率的倒數分配原粟並換算成米，是純反比例與產率算法。",
     "excerpt": "術曰：列置糲米三十，粺米二十七，鑿米二十四，而反衰之，副并為法。以七斗乘未并者，",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#07-p49",
@@ -8059,17 +8009,15 @@
       "chapter": "卷第六　均輸",
       "para_index": 81
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": "high",
-    "note": "「令上二人所得與下三人等」——規定上二人與下三人所得相等，是分配規則。",
+    "note": "2026-08-09 重判撤銷（原標 V）：要求五份錢中前兩份之和等於後三份之和；人可換成五個容器，仍是受約束分配題。",
     "excerpt": "〔一八〕今有五人分五錢，令上二人所得與下三人等。問︰各得幾何？",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#07-p82",
@@ -8077,17 +8025,15 @@
       "chapter": "卷第六　均輸",
       "para_index": 82
     },
-    "psych_domains": [
-      "V"
-    ],
+    "psych_domains": [],
     "discourse_mode": [
       "formalization"
     ],
     "confidence": "high",
-    "note": "錐行衰加均，把該規則化為程序。",
+    "note": "2026-08-09 重判撤銷（原標 V）：調整錐形等差權重使兩組和相等，再按總錢分配，是純比例構造。",
     "excerpt": "術曰：置錢錐行衰，并上二人為九，并下三人為六。六少於九，三。以三均加焉，副并為法",
     "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_at": "2026-08-09T03:49:50+08:00"
   },
   {
     "para_id": "jiuzhang-suanshu#07-p83",

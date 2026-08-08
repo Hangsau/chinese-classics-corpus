@@ -15,7 +15,8 @@
 | 抓完驗證 | `PYTHONIOENCODING=utf-8 python scripts/verify.py`；重生索引 `... scripts/build-index.py` |
 | 跑心理學標註 | 先讀 `SCHEMA.md` §3 分流 `text_role`，`reference` 類不進管線 |
 | 標一部新書 | **照抄本檔 §標註工作流的五步**。核心是不手寫 `annotations.json`，改用 `scripts/annotate.py` 的 `put()`／`span()`＋雙向檢查回填（壞錨點都是手寫進來的） |
-| 查 13 領域怎麼分／`discourse_mode` 七值定義 | `vocab/psych-domains.json`、`vocab/discourse-modes.json`。**友誼在 V 不在 III**；`Z-wisdom` 等 crosscurrents 不得填進 `psych_domains` |
+| 查 13 領域怎麼分／`discourse_mode` 八值定義 | `vocab/psych-domains.json`、`vocab/discourse-modes.json`（v0.2）。**友誼在 V 不在 III**；`Z-wisdom` 等 crosscurrents 不得填進 `psych_domains` |
+| 判斷一段該不該給領域 | `CLAUDE.md` §2.1 **中性物件替換測試**。這是 2026-08-09 九章重判（28→1）立下的判準，優先於任何「這段看起來有社會味」的直覺 |
 | 改段落切分規則 | `scripts/corpus_text.py` 是唯一來源，make-scaffold 與 verify 共用。**動它等於動所有既有錨點** |
 | 記錄「這部書沒東西」 | `SCHEMA.md` §5 `psych_survey`（`domains_hit` + `domains_null` 都要寫） |
 | 接到 knowledge-hub | `SCHEMA.md` §6 + `../knowledge-hub/CLAUDE.md` |
@@ -28,7 +29,7 @@ HANDOFF.md         狀態快照（每次工作後改）
 MAP.md             本檔
 SCHEMA.md          資料契約——動 downloader 或標註管線前必讀
 pilots/            方法論驗證紀錄。新增 schema 維度前必須先在這裡驗過
-vocab/             13 人生問題領域（psych-domains.json）與 discourse_mode 七值（discourse-modes.json）
+vocab/             13 人生問題領域（psych-domains.json）與 discourse_mode 八值（discourse-modes.json v0.2）
                    ——標註判準的真相源，與 religions-history 共用，改動要兩邊同步
 scripts/catalog/   書目 canonical（只有 *-ws.json；ctext 路線已整條移除）
 scripts/corpus_text.py           段落切分單一來源（make-scaffold 與 verify 共用）
