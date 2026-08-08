@@ -1,0 +1,334 @@
+{
+  "batch": "b06.md",
+  "rows": [
+    {
+      "chapter": "書證第十七",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "以經注、今物形態與南北俗稱辨定荇菜，河北俗人與博士的誤認只是名物考證材料，未形成獨立的群體命題"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "比對中原與江南苦菜的形態、物候及諸家訓釋，據以駁斥梁代講禮者把龍葵當苦菜，核心仍是名物考證"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 3,
+      "domains": [],
+      "modes": [],
+      "reason": "比對江南、河北版本的字形與音讀，判定杕被改作狄是傳寫錯誤，純屬版本文字校勘"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition", "narrative"],
+      "reason": "記鄴下博士詰難與作者答辯，援毛傳、周禮等論證駉頌當作牝牡之牡；人物與對話只承載經文字義辨析"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["proposition", "narrative"],
+      "reason": "考定荔挺實為馬藺，附幼兒以僧面似馬莧取號、名儒仍沿誤說的故事，敘事服務於名物辨誤"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 6,
+      "domains": [],
+      "modes": [],
+      "reason": "只比較詩句施施在江南、河北舊本中的重文差異並判江南單字本小誤，屬版本校勘"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 7,
+      "domains": [],
+      "modes": [],
+      "reason": "由上下文與班固詩句校定興雲祁祁之雲當作雨，結論只處理一處傳寫異文"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "以犬往返、獸上下木及狐聽冰等行為推求猶豫、狐疑的命名來源，雖涉及遲疑，主體仍是詞源解釋而非內在生活"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 9,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "以瘧疾病理反駁把痎曲解為疥的說法，並斥俗儒為遷就誤字而臆造病因，已由校字轉成對無據妄說之治學品格的批評"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["observation", "prescription"],
+      "reason": "追述景與影字形分化，批評後人據晚出字形改動尚書等古本；規範只屬古籍用字處理，未落入人生領域"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "由陳列之義說明行陳借用陳字，據此主張不可用晚出俗字追改六韜、論語、左傳，純為文字校勘原則"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 12,
+      "domains": [],
+      "modes": [],
+      "reason": "依爾雅叢聚之訓校正灌木異文，並駁近世儒生把似叢的字形改為最，內容止於字形與訓詁"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 13,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "指出河北經傳刪也與俗學任意補也造成的兩類錯誤；雖譏其可笑，主體仍是虛詞校勘，未把品格發展成獨立命題"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 14,
+      "domains": ["V"],
+      "modes": ["observation", "proposition"],
+      "reason": "指出南方學士因一概視晉室南渡後的北方傳記為偽書而不肯閱讀，遂不知蜀才身分，直接呈現南北學風與群體偏見"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 15,
+      "domains": [],
+      "modes": [],
+      "reason": "據禮注與字林判定臝股肱當用揎而非擐，只辨字形、音讀及動作詞義"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 16,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "敘劉顯父子家本、梁元帝問答及作者在江北見本的經過，用具體人物與情節證成田肯異文"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 17,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "記一位名望甚高的學士把紫色蛙聲誤解成王莽外貌聲音，所批只是單一典故的誤讀"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 18,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "列舉形近字傳寫顛倒，再以亥豕、帝虎作反證，說明不可把訛字反當正字音讀，屬文字辨誤"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 19,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "由字形相近、經史用例與漢碑證明虙羲被傳寫成宓羲，所立因果只解釋名稱訛變"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 20,
+      "domains": [],
+      "modes": [],
+      "reason": "依戰國策音義校正雞口牛後為雞尸牛從，只處理史記俗本的兩個傳寫字"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 21,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "由風俗通與射雉賦解釋伎痒本指懷技而欲施，據此判史記徘徊、彷徨為傳寫誤文，核心是詞義校定"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 22,
+      "domains": [],
+      "modes": [],
+      "reason": "匯集史記、漢書、禮記與論衡用例，判妒媚當作同義連用的妒媢，僅屬字義與版本考證"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 23,
+      "domains": [],
+      "modes": ["proposition", "narrative"],
+      "reason": "敘長安出土秦權、作者奉敕與李德林共同寫讀的經過，據實物銘文證明隗林當作隗狀，敘事仍服務於人名校勘"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 24,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "比較河北學士與江南書本對禔字的寫法和文士誤用，主旨只在判定字形、音義"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 25,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "以周禮及字書中省皆可訓察，解釋宮禁因常有禁衛省察而以省代禁，屬稱名來源的推論"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 26,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "由明帝時外戚姓氏、受封年齡與朝祠身分推定四姓小侯所指，身分與立學只是史文字義的考證對象"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 27,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "以鱣、鱔的體型與顏色等可驗特徵，論證鸛雀所銜不可能是巨鱣而應為鱔，屬名物與假借字辨析"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 28,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "以虎豹穴居及不探虎穴的常識駁江南本穴作六，江南學士只是該傳寫錯誤的沿襲者，未形成南北群體關係主張"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 29,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "由削札、柿屑及風角書的轉削解釋風吹削肺，駁斥無證的屏障說，核心仍是字形假借與術語校定"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 30,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "以北方稱物塊為顆、江南稱蒜符的地域用語解釋果顆之誤，地域差異只是方言字義證據"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 31,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "敘訪客詢問魏志生僻字、作者據字書推定其形音的問答，內容止於一字考釋"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 32,
+      "domains": [],
+      "modes": ["proposition", "narrative"],
+      "reason": "敘梁元帝、張纘等傳授濌字音形，再由多種寫本與重沓之義駁玉篇黑旁字，人物評第服務於文字考證"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 33,
+      "domains": ["VII"],
+      "modes": ["observation", "proposition"],
+      "reason": "辨三婦本為兒媳對舅姑奏樂，並譴責近代文士把它寫成多妻並偶而添鄭衛淫辭；親屬稱謂是考據，對文士言說操守的批評則屬品格"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 34,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "以百里奚離別時貧困、拆門牡作薪的情境與字書音義，推定吹扊當作炊扊，純為歌詞校勘"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 35,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "追查通俗文題署、引用年代及目錄著錄而仍不能確定作者，對文義與才華的品評也只服務於書籍歸屬考證"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 36,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "以多部古書出現後世人名地名的例子，主張這些年代矛盾源於典籍久亂與後人羼入，屬文本傳承原理"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 37,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "由吳地方音逐一解釋東宮舊事以祠代鴟等自造字，對張敞不稽古的批評未超出文字訛謬成因"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 38,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "觀察莙草形態與五色絲飾的相似，據以解釋罽帶裝飾的名稱和應用字形，純為名物考釋"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 39,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "敘作者任趙州佐時讀漢碑、辨出巏婺山名並告知魏收採用的經過，地方士族無法定名只是考證故事的一環"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 40,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "由斗柄一夜所歷辰位與冬夏伸縮幅度，解釋一夜分五更及更訓歷經的原因，屬時間稱名原理"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 41,
+      "domains": [],
+      "modes": [],
+      "reason": "據朮葉似薊判定文士為對偶而把薊讀作筋是誤讀，只校正一處名物音義"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 42,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "推測傀儡名郭禿源於前代以禿者形象作滑稽戲調，禿病與嘲笑只被用來說明俗名故實"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 43,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "由少昊之神主秋、秋官司寇掌刑罰的關聯，解釋治獄參軍何以稱長流，官職權力只是名稱來源"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 44,
+      "domains": [],
+      "modes": ["proposition", "narrative"],
+      "reason": "以客主問難論證經典傳寫可誤、說文亦非全然可信而須按體例與證據權衡；對許慎的譏評仍屬校勘方法，未另成品格規範"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 45,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "批評小學者拘守小篆而不通古今，並自述由蚩薄俗字轉為見廣知變、修正舊執，將治字經驗提升為能自省通變的品格要求"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 46,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "列舉拆合字形的數術、戲笑與謎詩，主張此類附會不足以決定文字音讀，純屬辨字方法"
+    },
+    {
+      "chapter": "書證第十七",
+      "para_index": 47,
+      "domains": [],
+      "modes": ["proposition", "narrative"],
+      "reason": "敘邢芳求證日中必曝的解釋、作者援太公六韜與字書辨正而使其笑服，人物情節承載一處字義校定"
+    }
+  ]
+}

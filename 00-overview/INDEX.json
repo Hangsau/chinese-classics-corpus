@@ -1,8 +1,8 @@
 {
   "summary": {
-    "generated_at": "2026-08-08T19:50:42+00:00",
+    "generated_at": "2026-08-08T21:00:48+00:00",
     "text_count": 68,
-    "total_bytes": 10553141,
+    "total_bytes": 10553119,
     "by_category": {
       "儒家著述": 11,
       "雜史": 11,
@@ -26,25 +26,25 @@
       "original": 66,
       "contested": 2
     },
-    "surveyed_count": 6,
-    "annotated_count": 6,
+    "surveyed_count": 7,
+    "annotated_count": 7,
     "scaffolded_count": 0,
-    "paras_judged": 1688,
+    "paras_judged": 1943,
     "paras_pending": 0,
     "domain_hit_counts": {
       "I": 2,
-      "II": 4,
-      "III": 4,
-      "IV": 4,
-      "IX": 3,
-      "V": 4,
-      "VI": 4,
-      "VII": 4,
-      "VIII": 4,
-      "X": 4,
-      "XI": 4,
-      "XII": 4,
-      "XIII": 2
+      "II": 5,
+      "III": 5,
+      "IV": 5,
+      "IX": 4,
+      "V": 5,
+      "VI": 5,
+      "VII": 5,
+      "VIII": 5,
+      "X": 5,
+      "XI": 5,
+      "XII": 5,
+      "XIII": 3
     }
   },
   "texts": [
@@ -1177,14 +1177,27 @@
       "version_date": "北齊",
       "source_platform": "zh.wikisource.org",
       "tier": "核心",
-      "size_bytes": 123113,
+      "size_bytes": 123091,
       "chapter_count": 20,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII"
+      ],
+      "paras_total": 255,
+      "paras_judged": 255,
+      "annotated": true
     },
     {
       "slug": "yantielun",

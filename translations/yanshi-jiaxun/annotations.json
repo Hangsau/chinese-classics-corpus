@@ -5,11 +5,18 @@
       "chapter": "序致第一",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "expression"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "夫聖賢之書，教人誠孝，慎言檢迹，立身揚名，亦已備矣。魏、晉已來，所著諸子，理重事"
+    "note": "自述著書是為整齊門內、提撕子孫，並主張同樣的教誡由親近且信服的人說出才容易施行，核心是家內教養與傳承",
+    "excerpt": "夫聖賢之書，教人誠孝，慎言檢迹，立身揚名，亦已備矣。魏、晉已來，所著諸子，理重事",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#01-p02",
@@ -17,11 +24,21 @@
       "chapter": "序致第一",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VII",
+      "X",
+      "XIII"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "expression"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "吾家風教，素爲整密。昔在齠齔，便蒙誘誨；每從兩兄，曉夕溫凊，規行矩步，安辭定色，"
+    "note": "自述九歲喪親、家門離散後失於嚴教，以致習氣難改並反覆悔過，最後把無法追回的教養化為留給子孫的二十篇後車之戒，是作者替自身失教與失親處境尋求安頓",
+    "excerpt": "吾家風教，素爲整密。昔在齠齔，便蒙誘誨；每從兩兄，曉夕溫凊，規行矩步，安辭定色，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#02-p01",
@@ -29,11 +46,18 @@
       "chapter": "教子第二",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "上智不教而成，下愚雖教無益，中庸之人，不教不知也。古者聖王有胎教之法：懷子三月，"
+    "note": "從胎教、嬰幼兒教誨的具體規矩，論證及早立教可使子女形成孝慎習慣，並觀察溺愛失教會使驕慢固著、終至敗德",
+    "excerpt": "上智不教而成，下愚雖教無益，中庸之人，不教不知也。古者聖王有胎教之法：懷子三月，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#02-p02",
@@ -41,11 +65,18 @@
       "chapter": "教子第二",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "凡人不能教子女者，亦非欲陷其罪惡；但重於訶怒。傷其顏色，不忍楚撻慘其肌膚耳。當以"
+    "note": "以治病必用湯藥鍼艾作譬，主張父母督訓乃不得已的救治而非有意苛虐，規勸不可因不忍責罰而放棄教子",
+    "excerpt": "凡人不能教子女者，亦非欲陷其罪惡；但重於訶怒。傷其顏色，不忍楚撻慘其肌膚耳。當以",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#02-p03",
@@ -53,11 +84,17 @@
       "chapter": "教子第二",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "王大司馬母魏夫人，性甚嚴正；王在湓城時，爲三千人將，年踰四十，少不如意，猶捶撻之"
+    "note": "王大司馬母嚴教成子勳業、梁元帝時學士為父所寵而敗，兩故事對舉嚴教與溺愛對子女成人結果的差異",
+    "excerpt": "王大司馬母魏夫人，性甚嚴正；王在湓城時，爲三千人將，年踰四十，少不如意，猶捶撻之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#02-p04",
@@ -65,11 +102,18 @@
       "chapter": "教子第二",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "父子之嚴，不可以狎；骨肉之愛，不可以簡。簡則慈孝不接，狎則怠慢生焉。由命士以上，"
+    "note": "規定父子既不可狎昵而失嚴，也不可疏略而斷愛，並以分居、照料寢具等相處儀節及不親授敏感經文說明親疏分寸",
+    "excerpt": "父子之嚴，不可以狎；骨肉之愛，不可以簡。簡則慈孝不接，狎則怠慢生焉。由命士以上，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#02-p05",
@@ -77,11 +121,18 @@
       "chapter": "教子第二",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "齊武成帝子琅邪王，太子母弟也，生而聰慧，帝及后並篤愛之，衣服飲食，與東宮相準。帝"
+    "note": "敘琅邪王受帝后偏愛、逾越諸王禮分而養成驕恣，終至矯詔斬相、動用軍士並幽死，同時呈現皇室教養失敗與政治權力濫用",
+    "excerpt": "齊武成帝子琅邪王，太子母弟也，生而聰慧，帝及后並篤愛之，衣服飲食，與東宮相準。帝",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#02-p06",
@@ -89,11 +140,18 @@
       "chapter": "教子第二",
       "para_index": 6
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "人之愛子，罕亦能均；自古及今，此弊多矣。賢俊者自可賞愛，頑魯者亦當矜憐，有偏寵者"
+    "note": "指出父母偏愛自古常見，主張賢愚子女都當憐愛，並以多個覆家亡子的先例論證偏寵看似厚愛、實則招禍",
+    "excerpt": "人之愛子，罕亦能均；自古及今，此弊多矣。賢俊者自可賞愛，頑魯者亦當矜憐，有偏寵者",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#02-p07",
@@ -101,11 +159,20 @@
       "chapter": "教子第二",
       "para_index": 7
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VII",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "齊朝有一士大夫，嘗謂吾曰：「我有一兒，年已十七，頗曉書疏，教其鮮卑語及彈琵琶，稍"
+    "note": "記士大夫教兒以鮮卑語、琵琶取悅公卿求進身，作者明言即使可藉此位至卿相也不願子孫為之，兼論教養、進身之業與人格取捨",
+    "excerpt": "齊朝有一士大夫，嘗謂吾曰：「我有一兒，年已十七，頗曉書疏，教其鮮卑語及彈琵琶，稍",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#03-p01",
@@ -113,11 +180,18 @@
       "chapter": "兄弟第三",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "夫有人民而後有夫婦，有夫婦而後有父子，有父子而後有兄弟：一家之親，此三而已矣。自"
+    "note": "論兄弟是家族三親之一，觀察幼時親愛而各自成家後容易轉衰，故勸兄弟之情不可由較疏的妻室左右",
+    "excerpt": "夫有人民而後有夫婦，有夫婦而後有父子，有父子而後有兄弟：一家之親，此三而已矣。自",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#03-p02",
@@ -125,11 +199,18 @@
       "chapter": "兄弟第三",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "二親既歿，兄弟相顧，當如形之與影，聲之與響；愛先人之遺體，惜己身之分氣，非兄弟何"
+    "note": "規勸父母亡後兄弟更應相依，並以房屋小隙終將傾毀為喻，論證親近者雖易生怨亦易修補，不可任妻子僕妾擴大裂痕",
+    "excerpt": "二親既歿，兄弟相顧，當如形之與影，聲之與響；愛先人之遺體，惜己身之分氣，非兄弟何",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#03-p03",
@@ -137,11 +218,17 @@
       "chapter": "兄弟第三",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "兄弟不睦，則子侄不愛；子侄不愛，則羣從疏薄；羣從疏薄，則僮僕爲讎敵矣。如此，則行"
+    "note": "提出兄弟失和會逐層造成子侄、群從乃至僮僕相敵的因果，並反詰能結交天下、統率萬人者何以反不能敬兄愛弟",
+    "excerpt": "兄弟不睦，則子侄不愛；子侄不愛，則羣從疏薄；羣從疏薄，則僮僕爲讎敵矣。如此，則行",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#03-p04",
@@ -149,11 +236,18 @@
       "chapter": "兄弟第三",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "娣姒者，多争之地也，使骨肉居之，亦不若各歸四海，感霜露而相思，佇日月之相望也。況"
+    "note": "分析妯娌因在多爭位置上以私情承擔公責而易生嫌隙，並主張能推己及人、把對方子女換作己子撫待即可免患",
+    "excerpt": "娣姒者，多争之地也，使骨肉居之，亦不若各歸四海，感霜露而相思，佇日月之相望也。況",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#03-p05",
@@ -161,11 +255,18 @@
       "chapter": "兄弟第三",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "人之事兄，不可同於事父，何怨愛弟不及愛子乎？是反照而不明也。沛國劉璡，嘗與兄瓛連"
+    "note": "規勸事兄不必比同事父，也不應怨兄愛弟不及愛子，再以劉璡整衣冠後才應兄長的故事示範敬兄分寸",
+    "excerpt": "人之事兄，不可同於事父，何怨愛弟不及愛子乎？是反照而不明也。沛國劉璡，嘗與兄瓛連",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#03-p06",
@@ -173,11 +274,17 @@
       "chapter": "兄弟第三",
       "para_index": 6
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "江陵王玄紹，弟孝英、子敏，兄弟三人，特相友愛，所得甘旨新異，非共聚食，必不先嘗，"
+    "note": "以江陵王玄紹兄弟共享珍味、危難時爭相代死並最終同命的故事，承載兄弟友愛相救之義",
+    "excerpt": "江陵王玄紹，弟孝英、子敏，兄弟三人，特相友愛，所得甘旨新異，非共聚食，必不先嘗，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#04-p01",
@@ -185,11 +292,18 @@
       "chapter": "後娶第四",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "吉甫，賢父也，伯奇，孝子也，以賢父御孝子，合得終於天性，而後妻閒之，伯奇遂放。曾"
+    "note": "以吉甫、曾參、王駿及後妻離間虐待前子等事為戒，反覆告誡再娶可能破壞父子天性與傷害孤遺",
+    "excerpt": "吉甫，賢父也，伯奇，孝子也，以賢父御孝子，合得終於天性，而後妻閒之，伯奇遂放。曾",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#04-p02",
@@ -197,11 +311,19 @@
       "chapter": "後娶第四",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "V"
+    ],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "江左不諱庶孽，喪室之後，多以妾媵終家事；疥癬蚊䖟，或未能免，限以大分，故稀鬬鬩之"
+    "note": "比較江左、河北續娶與庶出習俗，描述嫡庶貴賤之隔如何在身後化為訴訟、誣辱與兄弟相黜，並警告夫妻與僕婢長期進言足以移易親情",
+    "excerpt": "江左不諱庶孽，喪室之後，多以妾媵終家事；疥癬蚊䖟，或未能免，限以大分，故稀鬬鬩之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#04-p03",
@@ -209,11 +331,18 @@
       "chapter": "後娶第四",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "凡庸之性，後夫多寵前夫之孤，後妻必虐前妻之子；非唯婦人懷嫉妒之情，丈夫有沈惑之僻"
+    "note": "從嫉妒、利益防備與共同生活分析後夫寵前夫孤、後妻虐前妻子的成因，指出兩種偏私都會使父母被怨、兄弟成仇而成門戶之禍",
+    "excerpt": "凡庸之性，後夫多寵前夫之孤，後妻必虐前妻之子；非唯婦人懷嫉妒之情，丈夫有沈惑之僻",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#04-p04",
@@ -221,11 +350,17 @@
       "chapter": "後娶第四",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "思魯等從舅殷外臣，博達之士也。有子基、諶，皆已成立，而再娶王氏。基每拜見後母，感"
+    "note": "敘殷外臣成年之子悲慕亡母，使新娶王氏同感悽愴而請退，呈現再娶造成的繼親情感困局",
+    "excerpt": "思魯等從舅殷外臣，博達之士也。有子基、諶，皆已成立，而再娶王氏。基每拜見後母，感",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#04-p05",
@@ -233,11 +368,18 @@
       "chapter": "後娶第四",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "《後漢書》曰：「安帝時，汝南薛包孟嘗，好學篤行，喪母，以至孝聞。及父娶後妻而憎包"
+    "note": "完整敘薛包受後母憎逐仍晨昏盡孝、分產讓弟取善而自己取敝、弟破產後再賑給的生平，以家庭逆境承載孝悌、忍讓與恬退品格",
+    "excerpt": "《後漢書》曰：「安帝時，汝南薛包孟嘗，好學篤行，喪母，以至孝聞。及父娶後妻而憎包",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#05-p01",
@@ -245,11 +387,17 @@
       "chapter": "治家第五",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "夫風化者，自上而行於下者也，自先而施於後者也。是以父不慈則子不孝，兄不友則弟不恭"
+    "note": "主張家內風教由尊長向下施行，父不慈、兄不友、夫不義會相應導致子弟與妻室失其倫常，核心是家庭角色相互塑造",
+    "excerpt": "夫風化者，自上而行於下者也，自先而施於後者也。是以父不慈則子不孝，兄不友則弟不恭",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#05-p02",
@@ -257,11 +405,18 @@
       "chapter": "治家第五",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "笞怒廢於家，則豎子之過立見；刑罰不中，則民無所措手足。治家之寬猛，亦猶國焉。"
+    "note": "把治家寬猛與治國刑罰並舉，主張家中完全不用責罰會顯出子弟過失，國家刑罰失中則使人民無所適從",
+    "excerpt": "笞怒廢於家，則豎子之過立見；刑罰不中，則民無所措手足。治家之寬猛，亦猶國焉。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#05-p03",
@@ -269,11 +424,18 @@
       "chapter": "治家第五",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "孔子曰：「奢則不孫，儉則固；與其不孫也，寧固。」又云：「如有周公之才之美，使驕且"
+    "note": "辨明儉是合禮省約、吝是困急不救，規勸施與而不奢、節儉而不吝，直接處理個人的節制與仁厚品格",
+    "excerpt": "孔子曰：「奢則不孫，儉則固；與其不孫也，寧固。」又云：「如有周公之才之美，使驕且",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#05-p04",
@@ -281,11 +443,19 @@
       "chapter": "治家第五",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "生民之本，要當稼穡而食，桑麻以衣。蔬果之畜，園場之所產；雞豚之善，塒圈之所生。爰"
+    "note": "論農桑種殖與守業足以供給衣食居用，處理一家如何靠生產自給，並以北土躬儉、江南奢侈作地域群體風俗比較",
+    "excerpt": "生民之本，要當稼穡而食，桑麻以衣。蔬果之畜，園場之所產；雞豚之善，塒圈之所生。爰",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#05-p05",
@@ -293,11 +463,17 @@
       "chapter": "治家第五",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "梁孝元世，有中書舍人，治家失度，而過嚴刻，妻妾遂共貨刺客，伺醉而殺之。"
+    "note": "以中書舍人治家過度嚴刻，終遭妻妾僱刺客殺害的短故事，呈現家庭治理失度的惡果",
+    "excerpt": "梁孝元世，有中書舍人，治家失度，而過嚴刻，妻妾遂共貨刺客，伺醉而殺之。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#05-p06",
@@ -305,11 +481,20 @@
       "chapter": "治家第五",
       "para_index": 6
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "世間名士，但務寬仁；至於飲食饟饋，僮僕減損，施惠然諾，妻子節量，狎侮賓客，侵耗鄉"
+    "note": "批評名士以寬仁自許，卻讓妻子節縮、僮僕侵耗賓客鄉黨來支應饋贈然諾，指出表面施惠若把代價轉嫁家人與他人，正是治家與品格的大害",
+    "excerpt": "世間名士，但務寬仁；至於飲食饟饋，僮僕減損，施惠然諾，妻子節量，狎侮賓客，侵耗鄉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#05-p07",
@@ -317,11 +502,18 @@
       "chapter": "治家第五",
       "para_index": 7
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "齊吏部侍郎房文烈，未嘗嗔怒，經霖雨絶糧，遣婢糴米，因爾逃竄，三四許日，方復擒之。"
+    "note": "敘房文烈在全家斷糧、婢女逃走及奴婢拆屋為薪時仍不嗔打斥責，以具體家務事件呈現其寬厚到近乎無威的性情",
+    "excerpt": "齊吏部侍郎房文烈，未嘗嗔怒，經霖雨絶糧，遣婢糴米，因爾逃竄，三四許日，方復擒之。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#05-p08",
@@ -329,11 +521,19 @@
       "chapter": "治家第五",
       "para_index": 8
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "裴子野有疎親故屬飢寒不能自濟者，皆收養之；家素清貧，時逢水旱，二石米爲薄粥，僅得"
+    "note": "以裴子野與親故同食薄粥、領軍蓄財卻薄待家童客旅、南陽人吝待女婿而諸子爭財相殺三事對照，論家庭與所屬之人間的仁厚、貪積和吝嗇",
+    "excerpt": "裴子野有疎親故屬飢寒不能自濟者，皆收養之；家素清貧，時逢水旱，二石米爲薄粥，僅得",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#05-p09",
@@ -341,11 +541,19 @@
       "chapter": "治家第五",
       "para_index": 9
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "婦主中饋，惟事酒食衣服之禮耳，國不可使預政，家不可使幹蠱；如有聰明才智，識達古今"
+    "note": "規定婦人僅主家內酒食衣服，不可干預國政或主持家務，只可輔佐丈夫，直接劃定婚姻家庭與政治權力中的性別角色",
+    "excerpt": "婦主中饋，惟事酒食衣服之禮耳，國不可使預政，家不可使幹蠱；如有聰明才智，識達古今",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#05-p10",
@@ -353,11 +561,18 @@
       "chapter": "治家第五",
       "para_index": 10
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "V"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "江東婦女，略無交遊，其婚姻之家，或十數年間，未相識者，惟以信命贈遺，致殷勤焉。鄴"
+    "note": "比較江東與鄴下婦女在交遊、持門戶、訴訟請託、代夫子求官及內外用度上的習俗，兼涉家庭分工、公共活動與南北群體差異",
+    "excerpt": "江東婦女，略無交遊，其婚姻之家，或十數年間，未相識者，惟以信命贈遺，致殷勤焉。鄴",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#05-p11",
@@ -365,11 +580,15 @@
       "chapter": "治家第五",
       "para_index": 11
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "河北婦人，織絍組紃之事，黼黻錦繡羅綺之工，大優於江東也。"
+    "note": "只陳述河北婦女的紡織刺繡技藝優於江東，未進一步處理群體偏見、技藝取捨或人生問題，故領域判空",
+    "excerpt": "河北婦人，織絍組紃之事，黼黻錦繡羅綺之工，大優於江東也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#05-p12",
@@ -377,11 +596,20 @@
       "chapter": "治家第五",
       "para_index": 12
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "太公曰：「養女太多，一費也。」陳蕃曰：「盗不過五女之門。」女之爲累，亦以深矣。然"
+    "note": "先述世人把女兒視為負累，繼而斥責溺殺女嬰是殘害骨肉，又敘親族守候產婦、遇女即抱走而母親號泣之事，兼涉親子、性別不公與善惡良心",
+    "excerpt": "太公曰：「養女太多，一費也。」陳蕃曰：「盗不過五女之門。」女之爲累，亦以深矣。然",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#05-p13",
@@ -389,11 +617,18 @@
       "chapter": "治家第五",
       "para_index": 13
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "婦人之性，率寵子壻而虐兒婦。寵壻，則兄弟之怨生焉；虐婦，則姊妹之讒行焉。然則女之"
+    "note": "概括母親寵女婿、虐兒媳會分別激起兄弟怨與姊妹讒，指出女兒無論出嫁或留家都因母親偏私得罪家人，並告誡這是常見家弊",
+    "excerpt": "婦人之性，率寵子壻而虐兒婦。寵壻，則兄弟之怨生焉；虐婦，則姊妹之讒行焉。然則女之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#05-p14",
@@ -401,11 +636,19 @@
       "chapter": "治家第五",
       "para_index": 14
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "婚姻素對，靖侯成規。近世嫁娶，遂有賣女納財，買婦輸絹，比量父祖，計較錙銖，責多還"
+    "note": "批評近世婚嫁計較門第財物、賣女買婦如同市井，主張貪圖榮利反會招致羞恥，告誡應慎重處理婚姻與貪欲",
+    "excerpt": "婚姻素對，靖侯成規。近世嫁娶，遂有賣女納財，買婦輸絹，比量父祖，計較錙銖，責多還",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#05-p15",
@@ -413,11 +656,18 @@
       "chapter": "治家第五",
       "para_index": 15
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "借人典籍，皆須愛護，先有缺壞，就爲補治，此亦士大夫百行之一也。濟陽江禄，讀書未竟"
+    "note": "規定借書須愛護修補，以江祿整束卷帙的故事說明惜物使人樂於出借，並自述敬重聖賢文字；重點是守信、敬慎與不累德的品格而非讀書方法",
+    "excerpt": "借人典籍，皆須愛護，先有缺壞，就爲補治，此亦士大夫百行之一也。濟陽江禄，讀書未竟",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#05-p16",
@@ -425,11 +675,19 @@
       "chapter": "治家第五",
       "para_index": 16
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "XII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "expression"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "吾家巫覡禱請，絶於言議；符書章醮亦無祈焉，並汝曹所見也。勿爲妖妄之費。"
+    "note": "自述家中從不從事巫覡禱請、符書章醮，並命子孫勿為妖妄信仰實踐耗費，直接處理家族對神鬼祈禳的立場",
+    "excerpt": "吾家巫覡禱請，絶於言議；符書章醮亦無祈焉，並汝曹所見也。勿爲妖妄之費。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p01",
@@ -437,11 +695,18 @@
       "chapter": "風操第六",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "expression"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "吾觀禮經，聖人之教：箕帚匕箸，咳唾唯諾，執燭沃盥，皆有節文，亦爲至矣。但旣殘缺，"
+    "note": "自述禮經殘缺、南北見習有別，因子弟生於兵馬間而不熟士大夫風操，故把所見家法記下傳示子孫，核心是家內教養與傳承",
+    "excerpt": "吾觀禮經，聖人之教：箕帚匕箸，咳唾唯諾，執燭沃盥，皆有節文，亦爲至矣。但旣殘缺，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p02",
@@ -449,11 +714,20 @@
       "chapter": "風操第六",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VI",
+      "X"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "禮曰：「見似目瞿，聞名心瞿。」有所感觸，惻愴心眼；若在從容平常之地，幸須申其情耳"
+    "note": "規勸聽見先人名諱時可申哀情但不可過度迴避，並以謝舉聞諱必哭、臧逢世因流涕荒廢公事兩例說明親喪之痛仍須有節",
+    "excerpt": "禮曰：「見似目瞿，聞名心瞿。」有所感觸，惻愴心眼；若在從容平常之地，幸須申其情耳",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p03",
@@ -461,11 +735,18 @@
       "chapter": "風操第六",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "近在揚都，有一士人諱審，而與沈氏交結周厚，沈與其書，名而不姓，此非人情也。"
+    "note": "舉與沈氏交厚者因避諱而在書信中只署名不署姓之例，斥其違反朋友交往的人情，處理社交分寸與待人品格",
+    "excerpt": "近在揚都，有一士人諱審，而與沈氏交結周厚，沈與其書，名而不姓，此非人情也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p04",
@@ -473,11 +754,16 @@
       "chapter": "風操第六",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "凡避諱者，皆須得其同訓以代換之：桓公名白，博有五皓之稱；厲王名長，琴有修短之目。"
+    "note": "只論避諱時應以同義詞代換，並列舉把煉改作絹、紜改作煙等語義乖謬；重點是詞義替換技術，未落入人生問題領域",
+    "excerpt": "凡避諱者，皆須得其同訓以代換之：桓公名白，博有五皓之稱；厲王名長，琴有修短之目。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p05",
@@ -485,11 +771,19 @@
       "chapter": "風操第六",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "II",
+      "IV"
+    ],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "周公名子曰禽，孔子名兒曰鯉，止在其身，自可無禁。至若衛侯、魏公子、楚太子，皆名蟣"
+    "note": "比較古今取名習俗，指出驢駒、豚子等名字會使本人與兄弟難以啟齒，告誡家長不要給子孫留下有辱身分的名字",
+    "excerpt": "周公名子曰禽，孔子名兒曰鯉，止在其身，自可無禁。至若衛侯、魏公子、楚太子，皆名蟣",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p06",
@@ -497,11 +791,18 @@
       "chapter": "風操第六",
       "para_index": 6
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "今人避諱，更急於古。凡名子者，當爲孫地。吾親識中有諱襄、諱友、諱同、諱清、諱和、"
+    "note": "觀察今人避諱過急，規勸替孩子命名時須替後代預留餘地，以免常用字成為子孫及交遊者反覆觸犯的家族負擔",
+    "excerpt": "今人避諱，更急於古。凡名子者，當爲孫地。吾親識中有諱襄、諱友、諱同、諱清、諱和、",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p07",
@@ -509,11 +810,18 @@
       "chapter": "風操第六",
       "para_index": 7
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "II"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "昔司馬長卿慕藺相如，故名相如，顧元嘆慕蔡邕，故名雍，而後漢有朱倀字孫卿，許暹字顔"
+    "note": "列舉仰慕古人而連其姓氏納入己名的做法，判斷藉古人姓名塑造自身名號是一種鄙事，核心是命名與自我標示",
+    "excerpt": "昔司馬長卿慕藺相如，故名相如，顧元嘆慕蔡邕，故名雍，而後漢有朱倀字孫卿，許暹字顔",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p08",
@@ -521,11 +829,17 @@
       "chapter": "風操第六",
       "para_index": 8
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "昔劉文饒不忍駡奴爲畜産，今世愚人遂以相戲，或有指名爲豚犢者：有識傍觀，猶欲掩耳，"
+    "note": "由劉文饒不忍以畜產辱罵奴僕，反襯當世以豚犢指人取笑的不可忍受，直接批評以言語貶辱他人的品格",
+    "excerpt": "昔劉文饒不忍駡奴爲畜産，今世愚人遂以相戲，或有指名爲豚犢者：有識傍觀，猶欲掩耳，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p09",
@@ -533,11 +847,17 @@
       "chapter": "風操第六",
       "para_index": 9
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "近在議曹，共平章百官秩祿，有一顯貴，當世名臣，意嫌所議過厚。齊朝有一兩士族文學之"
+    "note": "敘議定百官俸祿時士人借陶朱公大兒之名戲謔顯貴、彼此歡笑而不嫌的場景，呈現官場同僚互動中玩笑與冒犯的分寸",
+    "excerpt": "近在議曹，共平章百官秩祿，有一顯貴，當世名臣，意嫌所議過厚。齊朝有一兩士族文學之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p10",
@@ -545,11 +865,18 @@
       "chapter": "風操第六",
       "para_index": 10
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "ritual"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "昔侯霸之子孫，稱其祖父曰家公；陳思王稱其父爲家父，母爲家母；潘尼稱其祖曰家祖：古"
+    "note": "逐項規定祖父母、伯叔與已嫁或在室女子對外應如何稱說，藉稱謂差等維持親屬尊卑及婚後所屬，是具體家族禮法",
+    "excerpt": "昔侯霸之子孫，稱其祖父曰家公；陳思王稱其父爲家父，母爲家母；潘尼稱其祖曰家祖：古",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p11",
@@ -557,11 +884,18 @@
       "chapter": "風操第六",
       "para_index": 11
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "ritual"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "凡與人言，稱彼祖父母、世父母、父母及長姑，皆加尊字，自叔父母已下，則加賢字，尊卑"
+    "note": "規定與人談及對方不同等次的祖父母、父母、姑叔時分別加尊或賢字，以稱謂儀節標明親屬輩分與敬意",
+    "excerpt": "凡與人言，稱彼祖父母、世父母、父母及長姑，皆加尊字，自叔父母已下，則加賢字，尊卑",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p12",
@@ -569,11 +903,20 @@
       "chapter": "風操第六",
       "para_index": 12
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "V",
+      "X"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "ritual"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "南人冬至歲首，不詣喪家；若不修書，則過節束帶以申慰。北人至歲之日，重行弔禮；禮無"
+    "note": "比較南北在節日弔喪、迎送賓客與揖禮上的做法，並明言不取歲日重弔而贊成迎揖，兼涉喪家、社交及失親後的具體儀節",
+    "excerpt": "南人冬至歲首，不詣喪家；若不修書，則過節束帶以申慰。北人至歲之日，重行弔禮；禮無",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p13",
@@ -581,11 +924,19 @@
       "chapter": "風操第六",
       "para_index": 13
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "II",
+      "V"
+    ],
+    "discourse_mode": [
+      "observation",
+      "ritual"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "昔者，王侯自稱孤、寡、不谷，自茲以降，雖孔子聖師，與門人言皆稱名也。後雖有臣僕之"
+    "note": "追述王侯、孔子及南北士人自稱的名號差異，贊成以名自稱的古風，處理人在身分階序與交往場合中如何標示自己",
+    "excerpt": "昔者，王侯自稱孤、寡、不谷，自茲以降，雖孔子聖師，與門人言皆稱名也。後雖有臣僕之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p14",
@@ -593,11 +944,19 @@
       "chapter": "風操第六",
       "para_index": 14
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "X"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "ritual"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "言及先人，理當感慕，古者之所易，今人之所難。江南人事不獲已，須言閥閲，必以文翰，"
+    "note": "詳定談到亡祖、亡伯叔與亡兄弟時的稱謂、容色和迴避方式，並以南北誤解一例說明，核心是對亡親的感慕及家族喪稱禮節",
+    "excerpt": "言及先人，理當感慕，古者之所易，今人之所難。江南人事不獲已，須言閥閲，必以文翰，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p15",
@@ -605,11 +964,19 @@
       "chapter": "風操第六",
       "para_index": 15
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "X"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "ritual"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "古人皆呼伯父叔父，而今世多單呼伯叔。從父兄弟姊妹已孤，而對其前，呼其母爲伯叔母，"
+    "note": "辨析伯叔、兄子弟子與姪等稱法，特別考量父母亡故的孤者聽聞稱謂時的難堪，據經傳主張以姪稱孤兒較合情理",
+    "excerpt": "古人皆呼伯父叔父，而今世多單呼伯叔。從父兄弟姊妹已孤，而對其前，呼其母爲伯叔母，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p16",
@@ -617,11 +984,19 @@
       "chapter": "風操第六",
       "para_index": 16
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "別易會難，古人所重；江南餞送，下泣言離。有王子侯，梁武帝弟，出爲東郡，與武帝別，"
+    "note": "以梁武帝與弟離別落淚、弟不能流淚反遭責的故事，論親人分離時悲痛未必都能外顯，主張不可強責天生少淚者",
+    "excerpt": "別易會難，古人所重；江南餞送，下泣言離。有王子侯，梁武帝弟，出爲東郡，與武帝別，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p17",
@@ -629,11 +1004,18 @@
       "chapter": "風操第六",
       "para_index": 17
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "ritual"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "凡親屬名稱，皆須粉墨，不可濫也。無風教者，其父已孤，呼外祖父母與祖父母同，使人爲"
+    "note": "逐層規定外祖父母、父母的叔伯及遠房長輩應加外字、次第、姓氏或爵位來區別，避免混淆親族世系與內外尊卑",
+    "excerpt": "凡親屬名稱，皆須粉墨，不可濫也。無風教者，其父已孤，呼外祖父母與祖父母同，使人爲",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p18",
@@ -641,11 +1023,18 @@
       "chapter": "風操第六",
       "para_index": 18
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "observation",
+      "ritual"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "凡宗親世數，有從父，有從祖，有族祖。江南風俗，自茲已往，高秩者，通呼爲尊，同昭穆"
+    "note": "比較江南、河北對遠房宗親稱尊、兄弟、族人或從伯叔的習俗，並判定不忍稱族的敏答仍不合禮，核心是宗族世系的稱謂規範",
+    "excerpt": "凡宗親世數，有從父，有從祖，有族祖。江南風俗，自茲已往，高秩者，通呼爲尊，同昭穆",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p19",
@@ -653,11 +1042,18 @@
       "chapter": "風操第六",
       "para_index": 19
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "ritual"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "吾嘗問周弘讓曰：「父母中外姊妹，何以稱之？」周曰：「亦呼爲丈人。」自古未見丈人之"
+    "note": "從詢問周弘讓如何稱父母姊妹的對話起，辨明父系稱某姓姑、母系稱某姓姨等規矩，處理親屬關係的正確命名",
+    "excerpt": "吾嘗問周弘讓曰：「父母中外姊妹，何以稱之？」周曰：「亦呼爲丈人。」自古未見丈人之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p20",
@@ -665,11 +1061,17 @@
       "chapter": "風操第六",
       "para_index": 20
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "齊朝士子，皆呼祖僕射爲祖公，全不嫌有所涉也，乃有對面以相戲者。"
+    "note": "記齊朝士子把祖僕射稱為祖公且不避重名，甚至當面相戲的家族稱謂習俗，重點仍是如何稱說祖輩",
+    "excerpt": "齊朝士子，皆呼祖僕射爲祖公，全不嫌有所涉也，乃有對面以相戲者。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p21",
@@ -677,11 +1079,19 @@
       "chapter": "風操第六",
       "para_index": 21
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "II",
+      "IV"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "古者，名以正體，字以表德，名終則諱之，字乃可以爲孫氏。孔子弟子記事者，皆稱仲尼；"
+    "note": "提出名用以正體、字用以表德的原則，追述古人與南北對名、字避諱的差異，兼及個人名號所表身分及子弟對父名父字的家內避諱",
+    "excerpt": "古者，名以正體，字以表德，名終則諱之，字乃可以爲孫氏。孔子弟子記事者，皆稱仲尼；",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p22",
@@ -689,11 +1099,20 @@
       "chapter": "風操第六",
       "para_index": 22
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VI",
+      "X"
+    ],
+    "discourse_mode": [
+      "observation",
+      "ritual"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "禮閑傳云：「斬縗之哭，若往而不反；齊縗之哭，若往而反；大功之哭，三曲而偯；小功緦"
+    "note": "引禮經區分各等喪服哭聲的輕重辭節，再比較江南與山東喪哭，處理親喪悲哀如何依親等在儀式中發為聲音",
+    "excerpt": "禮閑傳云：「斬縗之哭，若往而不反；齊縗之哭，若往而反；大功之哭，三曲而偯；小功緦",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p23",
@@ -701,11 +1120,20 @@
       "chapter": "風操第六",
       "para_index": 23
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "V",
+      "X"
+    ],
+    "discourse_mode": [
+      "observation",
+      "ritual"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "江南凡遭重喪，若相知者，同在城邑，三日不弔則絶之；除喪，雖相遇則避之，怨其不己憫"
+    "note": "描述江南友人三日不弔便絕交及不同身分弔客如何執手、另日登門，兼涉喪家失親與朋友、相識者維繫關係的弔唁規矩",
+    "excerpt": "江南凡遭重喪，若相知者，同在城邑，三日不弔則絶之；除喪，雖相遇則避之，怨其不己憫",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p24",
@@ -713,11 +1141,20 @@
       "chapter": "風操第六",
       "para_index": 24
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VI",
+      "X",
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "ritual"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "陰陽説云：「辰爲水墓，又爲土墓，故不得哭。」王充論衡云：「辰日不哭，哭則重喪。」"
+    "note": "駁斥辰日或朔日哭喪會招重喪、減壽的陰陽道書禁忌，主張喪家在感哀更深時不應因求壽而壓抑哭泣，交涉悲痛、死亡與禁忌信仰",
+    "excerpt": "陰陽説云：「辰爲水墓，又爲土墓，故不得哭。」王充論衡云：「辰日不哭，哭則重喪。」",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p25",
@@ -725,11 +1162,21 @@
       "chapter": "風操第六",
       "para_index": 25
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VII",
+      "X",
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "ritual"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "偏傍之書，死有歸殺。子孫逃竄，莫肯在家；畫瓦書符，作諸厭勝；喪出之日，門前然火，"
+    "note": "列舉死亡後子孫逃家、畫符厭勝、燃火列灰以斷家鬼等術法，斥為不近人情且應受彈劾，兼論喪家責任、品格與鬼神禁忌",
+    "excerpt": "偏傍之書，死有歸殺。子孫逃竄，莫肯在家；畫瓦書符，作諸厭勝；喪出之日，門前然火，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p26",
@@ -737,11 +1184,20 @@
       "chapter": "風操第六",
       "para_index": 26
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VI",
+      "X"
+    ],
+    "discourse_mode": [
+      "observation",
+      "ritual"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "己孤，而履歲及長至之節，無父，拜母、祖父母、世叔父母、姑、兄、姊，則皆泣；無母，"
+    "note": "規列失父或失母者在歲節拜見仍存的母父、祖輩、舅姨與兄姊時皆會哭泣，視為親喪觸發家族禮節與哀情的自然表現",
+    "excerpt": "己孤，而履歲及長至之節，無父，拜母、祖父母、世叔父母、姑、兄、姊，則皆泣；無母，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p27",
@@ -749,11 +1205,21 @@
       "chapter": "風操第六",
       "para_index": 27
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VI",
+      "VII",
+      "X"
+    ],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "江左朝臣，子孫初釋服，朝見二宮，皆當泣涕；二宮爲之改容。頗有膚色充澤，無哀感者，"
+    "note": "先述朝臣子孫除服入朝應泣的慣例，再敘梁武帝薄待無哀容者、稱許裴政枯瘦痛哭，藉親喪悲情的真偽評斷人的孝行與品格",
+    "excerpt": "江左朝臣，子孫初釋服，朝見二宮，皆當泣涕；二宮爲之改容。頗有膚色充澤，無哀感者，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p28",
@@ -761,11 +1227,21 @@
       "chapter": "風操第六",
       "para_index": 28
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VI",
+      "X",
+      "XIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "二親旣沒，所居齋寢，子與婦弗忍入焉。北朝頓丘李構，母劉氏，夫人亡後，所住之堂，終"
+    "note": "連敘遺族因父母死因或遺居而終身避室、割物、炙食與飲酒，末以噎死者不可使子女絕食設限；作者替喪親者說明既可存哀，也須避免讓追念封死日常生活",
+    "excerpt": "二親旣沒，所居齋寢，子與婦弗忍入焉。北朝頓丘李構，母劉氏，夫人亡後，所住之堂，終",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p29",
@@ -773,11 +1249,20 @@
       "chapter": "風操第六",
       "para_index": 29
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "X",
+      "XIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "禮經：父之遺書，母之杯圈，感其手口之澤，不忍讀用。政爲常所講習，讎校繕寫，及偏加"
+    "note": "辨明亡父遺書、亡母杯圈等有手口痕跡之物可封存追思，普通書物則不必全廢，教遺族以保存而非棄用一切的方式安放親喪並留傳後世",
+    "excerpt": "禮經：父之遺書，母之杯圈，感其手口之澤，不忍讀用。政爲常所講習，讎校繕寫，及偏加",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p30",
@@ -785,11 +1270,20 @@
       "chapter": "風操第六",
       "para_index": 30
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VI",
+      "IX",
+      "X"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "思魯等第四舅母，親吳郡張建女也，有第五妹，三歲喪母。靈牀上屛風，平生舊物，屋漏沾"
+    "note": "敘三歲喪母的女子見母親舊屏風後伏床痛哭，繼而不能飲食、吐血身亡，完整呈現失母記憶引發的極端悲傷及身體崩潰",
+    "excerpt": "思魯等第四舅母，親吳郡張建女也，有第五妹，三歲喪母。靈牀上屛風，平生舊物，屋漏沾",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p31",
@@ -797,11 +1291,21 @@
       "chapter": "風操第六",
       "para_index": 31
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VI",
+      "VII",
+      "X"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "禮云：「忌日不樂。」正以感慕罔極，惻愴無聊，故不接外賓，不理眾務耳。必能悲慘自居"
+    "note": "解釋忌日不樂本為感慕亡親而暫停賓客眾務，批評世人深藏室內卻言笑飲食、拒見至交的空殼做法，要求喪祭外儀與真實哀情及品格一致",
+    "excerpt": "禮云：「忌日不樂。」正以感慕罔極，惻愴無聊，故不接外賓，不理眾務耳。必能悲慘自居",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p32",
@@ -809,11 +1313,20 @@
       "chapter": "風操第六",
       "para_index": 32
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VI",
+      "X"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "魏世王修母以社日亡；來歲社日，修感念哀甚，鄰里聞之，爲之罷社。今二親喪亡，偶値伏"
+    "note": "以王修在母親忌辰悲慟、鄰里為之罷社為例，規定父母亡故後凡再逢相關節日也應感慕，避免宴飲、音樂與遊樂",
+    "excerpt": "魏世王修母以社日亡；來歲社日，修感念哀甚，鄰里聞之，爲之罷社。今二親喪亡，偶値伏",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p33",
@@ -821,11 +1334,18 @@
       "chapter": "風操第六",
       "para_index": 33
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "劉縧、緩、綏，兄弟幷爲名器，其父名昭，一生不爲照字，惟依爾雅火旁作召耳。然凡文與"
+    "note": "由劉氏兄弟終身避父名昭的同音字出發，主張正字可避而同音異字不可盡避，為子女奉行父諱劃定可行界線",
+    "excerpt": "劉縧、緩、綏，兄弟幷爲名器，其父名昭，一生不爲照字，惟依爾雅火旁作召耳。然凡文與",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p34",
@@ -833,11 +1353,18 @@
       "chapter": "風操第六",
       "para_index": 34
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "嘗有甲設燕席，請乙爲賓；而旦於公庭見乙之子，問之曰：「尊侯早晚顧宅？」乙子稱其父"
+    "note": "敘甲誤以尊侯詢問乙子其父何時到來而被譏笑，藉稱謂失當告誡說話須觸類慎思，不可因輕率而失禮",
+    "excerpt": "嘗有甲設燕席，請乙爲賓；而旦於公庭見乙之子，問之曰：「尊侯早晚顧宅？」乙子稱其父",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p35",
@@ -845,11 +1372,20 @@
       "chapter": "風操第六",
       "para_index": 35
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VII",
+      "X"
+    ],
+    "discourse_mode": [
+      "observation",
+      "ritual"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "江南風俗，兒生一期，爲製新衣，盥浴裝飾，男則用弓矢紙筆，女則刀尺針縷，幷加飲食之"
+    "note": "詳述周歲試兒的衣物、器具與宴集，並批評父母已亡者仍在生辰酣飲奏樂，反以梁元帝母亡後停辦為例，論家庭生日禮俗及喪親後應有的感念",
+    "excerpt": "江南風俗，兒生一期，爲製新衣，盥浴裝飾，男則用弓矢紙筆，女則刀尺針縷，幷加飲食之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p36",
@@ -857,11 +1393,16 @@
       "chapter": "風操第六",
       "para_index": 36
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "人有憂疾，則呼天地父母，自古而然。今世諱避，觸途急切。而江東士庶，痛則稱禰。禰是"
+    "note": "主要考辨人在疼痛時所呼禰、侑等字的字義、讀音及南北用法，結論只是兩種鄉音皆可通行，未進一步處理疾病、親子或信仰問題",
+    "excerpt": "人有憂疾，則呼天地父母，自古而然。今世諱避，觸途急切。而江東士庶，痛則稱禰。禰是",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p37",
@@ -869,11 +1410,19 @@
       "chapter": "風操第六",
       "para_index": 37
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "V"
+    ],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "梁世被繫劾者，子孫弟姪，皆詣闕三日，露跣陳謝；子孫有官，自陳解職。子則草屩麤衣，"
+    "note": "描述官員被繫劾後子孫辭官、跣足申冤、結廬官署及家族數世絕交的慣例，再敘到漑因兄弟彈劾友人而泣別，兼涉家族連帶與刑政權力",
+    "excerpt": "梁世被繫劾者，子孫弟姪，皆詣闕三日，露跣陳謝；子孫有官，自陳解職。子則草屩麤衣，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p38",
@@ -881,11 +1430,20 @@
       "chapter": "風操第六",
       "para_index": 38
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "IX",
+      "X"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "ritual"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "兵兇戰危，非安全之道。古者，天子喪服以臨師，將軍鑿兇門而出。父祖伯叔，若在軍陣，"
+    "note": "規定父祖伯叔在軍陣、家居圍城或父母病篤時，親屬應停樂罷宴、去飾戒懼並向醫者涕拜，處理家人在戰死風險與重病前的具體應對",
+    "excerpt": "兵兇戰危，非安全之道。古者，天子喪服以臨師，將軍鑿兇門而出。父祖伯叔，若在軍陣，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p39",
@@ -893,11 +1451,19 @@
       "chapter": "風操第六",
       "para_index": 39
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "四海之人，結爲兄弟，亦何容易。必有志均義敵，令終如始者，方可議之。一爾之後，命子"
+    "note": "主張結拜兄弟須先審志向與道義是否相當，一旦結交便敬及彼此父母子女，批評不辨是非、只看年貌便草率攀親的交友風氣",
+    "excerpt": "四海之人，結爲兄弟，亦何容易。必有志均義敵，令終如始者，方可議之。一爾之後，命子",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p40",
@@ -905,11 +1471,19 @@
       "chapter": "風操第六",
       "para_index": 40
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "昔者，周公一沐三握發，一飯三吐餐，以接白屋之士，一日所見者七十餘人。晉文公以沐辭"
+    "note": "以周公殷勤接士、晉文公拒客受譏及裴之禮教僕敬客等故事，主張門不停賓是可貴風範，處理主人接納賓客的社交責任與恭敬品格",
+    "excerpt": "昔者，周公一沐三握發，一飯三吐餐，以接白屋之士，一日所見者七十餘人。晉文公以沐辭",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#07-p01",
@@ -917,11 +1491,19 @@
       "chapter": "慕賢第七",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "古人云：「千載一聖，猶旦暮也；五百年一賢，猶比髆心。」言聖賢之難得，疏闊如此。儻"
+    "note": "論年少者會在交遊中潛移暗化而染成同伴的言行與操履，故勸人景仰難得賢者、慎選勝己善友，核心是友伴如何塑造品格",
+    "excerpt": "古人云：「千載一聖，猶旦暮也；五百年一賢，猶比髆心。」言聖賢之難得，疏闊如此。儻",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#07-p02",
@@ -929,11 +1511,19 @@
       "chapter": "慕賢第七",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "III",
+      "V"
+    ],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "世人多蔽，貴耳賤目，重遙輕近。少長周旋，如有賢哲，每相狎侮，不加禮敬；他鄉異縣，"
+    "note": "觀察世人重遠名、輕近賢的群體偏見，並以虞君因狎近宮之奇而不納其諫、終至亡國為例，呈現近人價值與忠告不被看見聽見的後果",
+    "excerpt": "世人多蔽，貴耳賤目，重遙輕近。少長周旋，如有賢哲，每相狎侮，不加禮敬；他鄉異縣，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#07-p03",
@@ -941,11 +1531,18 @@
       "chapter": "慕賢第七",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "用其言，棄其身，古人所恥。凡有一言一行，取於人者，皆顯稱之，不可竊人之美，以爲己"
+    "note": "規定凡取用他人一言一行都須明示來源、把功勞歸還本人，並把竊取他人之美比作盜財，直接處理誠信與不掠美的品格倫理",
+    "excerpt": "用其言，棄其身，古人所恥。凡有一言一行，取於人者，皆顯稱之，不可竊人之美，以爲己",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#07-p04",
@@ -953,11 +1550,19 @@
       "chapter": "慕賢第七",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "III",
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "梁孝元前在荆州，有丁覘者，洪亭民耳，頗善屬文，殊工草隸；孝元書記，一皆使之。軍府"
+    "note": "敘出身平民的丁覘雖精於文章書法，卻因軍府輕賤、名聲不彰而長期不被承認，經蕭子雲稱賞才改觀，呈現階序偏見使才能與成就無法被看見",
+    "excerpt": "梁孝元前在荆州，有丁覘者，洪亭民耳，頗善屬文，殊工草隸；孝元書記，一皆使之。軍府",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#07-p05",
@@ -965,11 +1570,19 @@
       "chapter": "慕賢第七",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "侯景初入建業，臺門雖閉，公私草擾，各不自全。太子左衛率羊侃坐東掖門，部分經略，一"
+    "note": "敘侯景圍城時羊侃一夜部署完備、使四萬人得以守城百餘日，再以高士讓天下與小人爭小利對照，凸顯個人才幹對群體安危與領導成效的巨大差異",
+    "excerpt": "侯景初入建業，臺門雖閉，公私草擾，各不自全。太子左衛率羊侃坐東掖門，部分經略，一",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#07-p06",
@@ -977,11 +1590,19 @@
       "chapter": "慕賢第七",
       "para_index": 6
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "齊文宣帝即位數年，便沈湎縱恣，略無綱紀；尙能委政尙書令楊遵彥，內外清謐，朝野晏如"
+    "note": "敘齊文宣委政楊遵彥而天下清謐、楊與斛律明月被殺後政軍衰敗，論證賢能臣將是否獲用直接牽動國家治理與存亡",
+    "excerpt": "齊文宣帝即位數年，便沈湎縱恣，略無綱紀；尙能委政尙書令楊遵彥，內外清謐，朝野晏如",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#07-p07",
@@ -989,11 +1610,19 @@
       "chapter": "慕賢第七",
       "para_index": 7
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "張延雋之爲晉州行臺左丞，匡維主將，鎮撫疆埸，儲積器用，愛活黎民，隱若敵國矣。群小"
+    "note": "敘張延雋鎮邊、備物並愛護百姓，卻遭群小合力調離，繼任後公私擾亂、城鎮先陷，呈現權力排擠能吏如何損害公共治理並開啟亡國之勢",
+    "excerpt": "張延雋之爲晉州行臺左丞，匡維主將，鎮撫疆埸，儲積器用，愛活黎民，隱若敵國矣。群小",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p01",
@@ -1001,11 +1630,18 @@
       "chapter": "勉学第八",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "自古明王圣帝，犹须勤学，况凡庶乎！此事遍于经史，吾亦不能郑重，聊举近世切要，以启"
+    "note": "主張人生應有可立身的職業與本領，批評士大夫子弟倚仗家世、終日無事而不肯修習，勸其以數年勤學免去一生無能受辱",
+    "excerpt": "自古明王圣帝，犹须勤学，况凡庶乎！此事遍于经史，吾亦不能郑重，聊举近世切要，以启",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p02",
@@ -1013,11 +1649,19 @@
       "chapter": "勉学第八",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "II",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "梁朝全盛之时，贵游子弟，多无学术，至于谚云：“上车不落则著作，体中何如则秘书。”"
+    "note": "觀察貴遊子弟在承平時靠門第冒充才士，離亂後失去黨援便暴露名實不副；並以有學藝者隨處可安、無學者只能耕牧，論本領與謀生",
+    "excerpt": "梁朝全盛之时，贵游子弟，多无学术，至于谚云：“上车不落则著作，体中何如则秘书。”",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p03",
@@ -1025,11 +1669,19 @@
       "chapter": "勉学第八",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VIII",
+      "X"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "夫明六经之指，涉百家之书，纵不能增益德行，敦厉风俗，犹为一艺，得以自资。父兄不可"
+    "note": "指出父兄與鄉國都可能失去，人在流離無庇蔭時須靠自身所學立足，主張讀書是可隨身自資、抵禦失所的技藝",
+    "excerpt": "夫明六经之指，涉百家之书，纵不能增益德行，敦厉风俗，犹为一艺，得以自资。父兄不可",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p04",
@@ -1037,11 +1689,18 @@
       "chapter": "勉学第八",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VIII",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "有客难主人曰：“吾见强弩长戟，诛罪安民，以取公侯者有矣；文义习吏，匡时富国，以取"
+    "note": "藉賓主問答回應有才學者仍可能貧賤的質疑，區分命運的窮達與後天學藝的琢磨，主張不能以祿位成敗否定學習對才能的成全",
+    "excerpt": "有客难主人曰：“吾见强弩长戟，诛罪安民，以取公侯者有矣；文义习吏，匡时富国，以取",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p05",
@@ -1049,11 +1708,19 @@
       "chapter": "勉学第八",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "人见邻里亲戚有佳快者，使子弟慕而学之，不知使学古人，何其蔽也哉？世人但见跨马被甲"
+    "note": "批評世人只憑武器、理財、辦公或守律便自許能任將相、治民與平獄，指出公共職責及各行各業都有更深的專業本領與先達可師",
+    "excerpt": "人见邻里亲戚有佳快者，使子弟慕而学之，不知使学古人，何其蔽也哉？世人但见跨马被甲",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p06",
@@ -1061,11 +1728,21 @@
       "chapter": "勉学第八",
       "para_index": 6
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "V",
+      "VII",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "夫所以读书学问，本欲开心明目，利于行耳。未知养亲者，欲其观古人之先意承颜，怡声下"
+    "note": "主張讀書須落實為養親、事君及謙儉好義等德行，並能治民、斷訟與處理實務，故同時涉及家庭責任、公共責任、品格養成與實際才用",
+    "excerpt": "夫所以读书学问，本欲开心明目，利于行耳。未知养亲者，欲其观古人之先意承颜，怡声下",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p07",
@@ -1073,11 +1750,18 @@
       "chapter": "勉学第八",
       "para_index": 7
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "夫学者所以求益耳。见人读数十卷书，便自高大，凌忽长者，轻慢同列；人疾之如雠敌，恶"
+    "note": "觀察有人稍讀數十卷便自高自大、凌慢長者同列而招人憎惡，判斷這種由學問助長的傲慢反而損害品格",
+    "excerpt": "夫学者所以求益耳。见人读数十卷书，便自高大，凌忽长者，轻慢同列；人疾之如雠敌，恶",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p08",
@@ -1085,11 +1769,19 @@
       "chapter": "勉学第八",
       "para_index": 8
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "古之学者为己，以补不足也；今之学者为人，但能说之也。古之学者为人，行道以利世也；"
+    "note": "對比古今學者求補己過、利世行道與只求口說、仕進的不同動機，以花實之喻主張學問的成果應是修身、利行而非表面文章",
+    "excerpt": "古之学者为己，以补不足也；今之学者为人，但能说之也。古之学者为人，行道以利世也；",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p09",
@@ -1097,11 +1789,19 @@
       "chapter": "勉学第八",
       "para_index": 9
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "X",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "人生小幼，精神专利，长成已后，思虑散逸，固须早教，勿失机也。吾七岁时，诵灵光殿赋"
+    "note": "承認年長後記憶與學習較難，仍以自身經驗及多位晚學有成者證明衰老並不封死改變的可能，勸人不可因年歲自棄",
+    "excerpt": "人生小幼，精神专利，长成已后，思虑散逸，固须早教，勿失机也。吾七岁时，诵灵光殿赋",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p10",
@@ -1109,11 +1809,18 @@
       "chapter": "勉学第八",
       "para_index": 10
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "学之兴废，随世轻重。汉时贤俊，皆以一经弘圣人之道，上明天时，下该人事，用此致卿相"
+    "note": "比較經學在不同時代能否致仕治事，批評空守章句而無實用的專固學風，勸子弟珍惜光陰、博覽要義以成就功業",
+    "excerpt": "学之兴废，随世轻重。汉时贤俊，皆以一经弘圣人之道，上明天时，下该人事，用此致卿相",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p11",
@@ -1121,11 +1828,16 @@
       "chapter": "勉学第八",
       "para_index": 11
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "俗间儒士，不涉群书，经纬之外，义疏而已。吾初入邺，与博陵崔文彦交游，尝说王粲集中"
+    "note": "敘俗儒因閱讀範圍狹窄而拒信文集、漢書能論證經術，終在查書後認錯；重點是博涉與查證的治學問題，未落入人生問題領域",
+    "excerpt": "俗间儒士，不涉群书，经纬之外，义疏而已。吾初入邺，与博陵崔文彦交游，尝说王粲集中",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p12",
@@ -1133,11 +1845,18 @@
       "chapter": "勉学第八",
       "para_index": 12
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "夫老、庄之书，盖全真养性，不肯以物累己也。故藏名柱史，终蹈流沙；匿迹漆园，卒辞楚"
+    "note": "逐舉玄學領袖貪權、好勝、厚積、溺情、取禍與受賄等行跡，論其實際品格背離所倡全真去累之道，並判斷清談不足以濟世成俗",
+    "excerpt": "夫老、庄之书，盖全真养性，不肯以物累己也。故藏名柱史，终蹈流沙；匿迹漆园，卒辞楚",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p13",
@@ -1145,11 +1864,19 @@
       "chapter": "勉学第八",
       "para_index": 13
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "齐孝昭帝侍娄太后疾，容色憔悴，服膳减损。徐之才为灸两穴，帝握拳代痛，爪入掌心，血"
+    "note": "敘齊孝昭帝侍奉病母、代受灸痛而極盡孝心，卻因無學說出不識忌諱之言，據此主張親子孝德也須經學習修飾",
+    "excerpt": "齐孝昭帝侍娄太后疾，容色憔悴，服膳减损。徐之才为灸两穴，帝握拳代痛，爪入掌心，血",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p14",
@@ -1157,11 +1884,19 @@
       "chapter": "勉学第八",
       "para_index": 14
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VIII",
+      "IX"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "梁元帝尝为吾说：“昔在会稽，年始十二，便已好学。时又患疥，手不得拳，膝不得屈。闲"
+    "note": "敘梁元帝幼時患疥、手膝難屈仍忍痛日讀史書二十卷，以帝子尚能如此反問希望自達的庶士，論身體痛苦中仍磨練本領以求成就",
+    "excerpt": "梁元帝尝为吾说：“昔在会稽，年始十二，便已好学。时又患疥，手不得拳，膝不得屈。闲",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p15",
@@ -1169,11 +1904,18 @@
       "chapter": "勉学第八",
       "para_index": 15
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VIII",
+      "IX"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "古人勤学，有握锥投斧，照雪聚萤，锄则带经，牧则编简，亦为勤笃。梁世彭城刘绮，交州"
+    "note": "連敘劉綺、朱詹與臧逢世在貧困中以燃荻、吞紙忍飢、抱犬禦寒或借紙抄書，終憑才學受用，呈現身體困苦與學業成就",
+    "excerpt": "古人勤学，有握锥投斧，照雪聚萤，锄则带经，牧则编简，亦为勤笃。梁世彭城刘绮，交州",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p16",
@@ -1181,11 +1923,20 @@
       "chapter": "勉学第八",
       "para_index": 16
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V",
+      "VII",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "齐有宦者内参田鹏鸾，本蛮人也。年十四五，初为阍寺，便知好学，怀袖握书，晓夕讽诵。"
+    "note": "敘蠻人出身且位居奴僕的田敬宣靠勤學進位，受俘後又守護國主行蹤至死，藉其忠節反襯齊國將相，兼論身分群體、公共責任、品格與成就",
+    "excerpt": "齐有宦者内参田鹏鸾，本蛮人也。年十四五，初为阍寺，便知好学，怀袖握书，晓夕讽诵。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p17",
@@ -1193,11 +1944,21 @@
       "chapter": "勉学第八",
       "para_index": 17
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VIII",
+      "X",
+      "XIII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "expression"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "邺平之后，见徙入关。思鲁尝谓吾曰：“朝无禄位，家无积财，当肆筋力，以申供养。每被"
+    "note": "亡國後全家被徙且無祿無財，思魯欲棄學勞作以奉養，作者以父親身分分定供養與教學之責，替自己與兒子的失所處境表明寧受粗衣淡食也要承續家學",
+    "excerpt": "邺平之后，见徙入关。思鲁尝谓吾曰：“朝无禄位，家无积财，当肆筋力，以申供养。每被",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p18",
@@ -1205,11 +1966,16 @@
       "chapter": "勉学第八",
       "para_index": 18
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "书曰：“好问则裕。”礼云：“独学而无友，则孤陋而寡闻。”盖须切磋相起明也。见有闭"
+    "note": "先主張求問、交友切磋可免孤陋，後用多起誤釋字義、音讀與典故的故事驗證；核心是治學須互證的認知方法，未形成其他人生領域",
+    "excerpt": "书曰：“好问则裕。”礼云：“独学而无友，则孤陋而寡闻。”盖须切磋相起明也。见有闭",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p19",
@@ -1217,11 +1983,16 @@
       "chapter": "勉学第八",
       "para_index": 19
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "谈说制文，援引古昔，必须眼学，勿信耳受。江南闾里闲，士大夫或不学问，羞为鄙朴，道"
+    "note": "規定談說作文援引古事應親自讀本而不可只憑耳聞，並列俗間強飾典故造成的錯用；所論是引文與措辭技術，屬治學問題",
+    "excerpt": "谈说制文，援引古昔，必须眼学，勿信耳受。江南闾里闲，士大夫或不学问，羞为鄙朴，道",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p20",
@@ -1229,11 +2000,16 @@
       "chapter": "勉学第八",
       "para_index": 20
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "夫文字者，坟籍根本。世之学徒，多不晓字：读五经者，是徐邈而非许慎；习赋诵者，信褚"
+    "note": "觀察讀經、辭賦與史書者多重音義而輕文字本源，主張文字、小學才是典籍根本；內容只在辨治學的枝葉宗系",
+    "excerpt": "夫文字者，坟籍根本。世之学徒，多不晓字：读五经者，是徐邈而非许慎；习赋诵者，信褚",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p21",
@@ -1241,11 +2017,16 @@
       "chapter": "勉学第八",
       "para_index": 21
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "夫学者贵能博闻也。郡国山川，官位姓族，衣服饮食，器皿制度，皆欲根寻，得其原本；至"
+    "note": "批評博聞之士詳究制度器物卻忽略文字，連姓名偏旁的來源也不明，並以錯取字形為例；人名只是文字學失誤的例證，換成其他字例論點仍成立",
+    "excerpt": "夫学者贵能博闻也。郡国山川，官位姓族，衣服饮食，器皿制度，皆欲根寻，得其原本；至",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p22",
@@ -1253,11 +2034,15 @@
       "chapter": "勉学第八",
       "para_index": 22
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "吾尝从齐主幸幷州，自井陉关入上艾县，东数十里，有猎闾村。后百官受马粮在晋阳东百余"
+    "note": "自敘隨齊主行旅時不明兩處地名，後由字書、韻書考出古名並告知撰方志者；全段是以文獻考定地名的治學實例",
+    "excerpt": "吾尝从齐主幸幷州，自井陉关入上艾县，东数十里，有猎闾村。后百官受马粮在晋阳东百余",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p23",
@@ -1265,11 +2050,15 @@
       "chapter": "勉学第八",
       "para_index": 23
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "吾初读庄子“螝二首”，韩非子曰：“虫有螝者，一身两口，争食相龁，遂相杀也”，茫然"
+    "note": "自敘多年不明古書中螝字音義，查閱爾雅、字詁後才確認它是古虺字；只呈現文字疑義的查解過程",
+    "excerpt": "吾初读庄子“螝二首”，韩非子曰：“虫有螝者，一身两口，争食相龁，遂相杀也”，茫然",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p24",
@@ -1277,11 +2066,16 @@
       "chapter": "勉学第八",
       "para_index": 24
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "尝游赵州，见柏人城北有一小水，土人亦不知名。后读城西门徐整碑云：“(水百)流东指"
+    "note": "敘遊趙州見無名淺水，據碑文與說文辨出古字，再推測水名由淺貌而來；內容是字義及地名考證",
+    "excerpt": "尝游赵州，见柏人城北有一小水，土人亦不知名。后读城西门徐整碑云：“(水百)流东指",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p25",
@@ -1289,11 +2083,16 @@
       "chapter": "勉学第八",
       "para_index": 25
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "世中书翰，多称勿勿，相承如此，不知所由，或有妄言此忽忽之残缺耳。案：说文：“勿者"
+    "note": "由書信通稱勿勿而不知來歷的現象，引說文解釋州里旗幟催趣民事的本義及忽遽義來源，純屬詞源考辨",
+    "excerpt": "世中书翰，多称勿勿，相承如此，不知所由，或有妄言此忽忽之残缺耳。案：说文：“勿者",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p26",
@@ -1301,11 +2100,15 @@
       "chapter": "勉学第八",
       "para_index": 26
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "吾在益州，与数人同坐，初晴日晃，见地上小光，问左右：“此是何物？”有一蜀竖就视，"
+    "note": "自敘在益州聽見蜀人以逼稱豆粒而不解，經訪問並援引三蒼、說文的字形音訓使眾人明白，所載是方言字義考證",
+    "excerpt": "吾在益州，与数人同坐，初晴日晃，见地上小光，问左右：“此是何物？”有一蜀竖就视，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p27",
@@ -1313,11 +2116,15 @@
       "chapter": "勉学第八",
       "para_index": 27
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "愍楚友婿窦如同从河州来，得一青鸟，驯养爱翫，举俗呼之为鹖。吾曰：“鹖出上党，数曾"
+    "note": "見眾人把青鳥誤稱為鶡，作者依親見的鶡色、辭賦及說文、韻集辨出應是另一鳥名，純為名物考證",
+    "excerpt": "愍楚友婿窦如同从河州来，得一青鸟，驯养爱翫，举俗呼之为鹖。吾曰：“鹖出上党，数曾",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p28",
@@ -1325,11 +2132,15 @@
       "chapter": "勉学第八",
       "para_index": 28
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "梁世有蔡朗者讳纯，既不涉学，遂呼莼为露葵。面墙之徒，递相仿效。承圣中，遣一士大夫"
+    "note": "敘蔡朗因不學而把蓴誤稱露葵、眾人沿襲，後在梁齊使者問答中顯出名稱混淆；南北人物只是詞義誤傳的載體",
+    "excerpt": "梁世有蔡朗者讳纯，既不涉学，遂呼莼为露葵。面墙之徒，递相仿效。承圣中，遣一士大夫",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p29",
@@ -1337,11 +2148,18 @@
       "chapter": "勉学第八",
       "para_index": 29
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "思鲁等姨夫彭城刘灵，尝与吾坐，诸子侍焉。吾问儒行、敏行曰：“凡字与谘议名同音者，"
+    "note": "作者在姻親與諸子同坐時考問孩子辨識同音字，並告誡若不預先研檢便可能受人欺弄，是把文字學要求化為當面傳給子弟的家庭教養",
+    "excerpt": "思鲁等姨夫彭城刘灵，尝与吾坐，诸子侍焉。吾问儒行、敏行曰：“凡字与谘议名同音者，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p30",
@@ -1349,11 +2167,16 @@
       "chapter": "勉学第八",
       "para_index": 30
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "校定书籍，亦何容易，自扬雄、刘向，方称此职耳。观天下书未遍，不得妄下雌黄。或彼以"
+    "note": "主張校定書籍須遍觀異本，未備見天下書便不可輕下判斷，因各本可能本同末異或同有缺文；純屬版本校勘原則",
+    "excerpt": "校定书籍，亦何容易，自扬雄、刘向，方称此职耳。观天下书未遍，不得妄下雌黄。或彼以",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p01",
@@ -1361,11 +2184,18 @@
       "chapter": "文章第九",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "夫文章者，原出五经：诏命策檄，生于书者也；序述论议，生于易者也；歌咏赋颂，生于诗"
+    "note": "由歷代文士恃才輕薄、譏刺取禍的事例，主張文章易激發矜伐進取而使人忽略操守，因而告誡文士防慎自持",
+    "excerpt": "夫文章者，原出五经：诏命策檄，生于书者也；序述论议，生于易者也；歌咏赋颂，生于诗",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p02",
@@ -1373,11 +2203,19 @@
       "chapter": "文章第九",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "II",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "学问有利钝，文章有巧拙。钝学累功，不妨精熟；拙文研思，终归蚩鄙。但成学士，自足为"
+    "note": "區分勤學可成與文章須有天才，並敘無才士族受眾人戲讚、妻子泣諫仍不自知，所論是才能是否適任及自我評價失實",
+    "excerpt": "学问有利钝，文章有巧拙。钝学累功，不妨精熟；拙文研思，终归蚩鄙。但成学士，自足为",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p03",
@@ -1385,11 +2223,16 @@
       "chapter": "文章第九",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "学为文章，先谋亲友，得其评裁，知可施行，然后出手；慎勿师心自任，取笑旁人也。自古"
+    "note": "規定作文先請親友評裁、達到辭意可觀即可，不可師心求取蓋世之名；核心是寫作與接受評改的方法",
+    "excerpt": "学为文章，先谋亲友，得其评裁，知可施行，然后出手；慎勿师心自任，取笑旁人也。自古",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p04",
@@ -1397,11 +2240,19 @@
       "chapter": "文章第九",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "不屈二姓，夷、齐之节也；何事非君，伊、箕之义也。自春秋已来，家有奔亡，国有吞灭，"
+    "note": "以改朝換主時替不同君主互作辱罵檄文為戒，論臣下受命作文仍須維持交絕不出惡聲的政治責任與人格操守",
+    "excerpt": "不屈二姓，夷、齐之节也；何事非君，伊、箕之义也。自春秋已来，家有奔亡，国有吞灭，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p05",
@@ -1409,11 +2260,19 @@
       "chapter": "文章第九",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "II",
+      "VII",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "或问扬雄曰：“吾子少而好赋？”雄曰：“然。童子雕虫篆刻，壮夫不为也。”余窃非之曰"
+    "note": "反駁揚雄貶賦為童子之技，並以其諛莽、畏禍及太玄無用揭示盛名與實際德行、才能及著述成就不相稱",
+    "excerpt": "或问扬雄曰：“吾子少而好赋？”雄曰：“然。童子雕虫篆刻，壮夫不为也。”余窃非之曰",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p06",
@@ -1421,11 +2280,17 @@
       "chapter": "文章第九",
       "para_index": 6
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "齐世有席毗者，清干之士，官至行台尚书，嗤鄙文学，嘲刘逖云：“君辈辞藻，譬若荣华，"
+    "note": "敘席毗以常青松木自比宏才、貶文辭為短暫春華，劉逖則反問兩者兼備豈不更佳，承載對才能類型及兼長的判斷",
+    "excerpt": "齐世有席毗者，清干之士，官至行台尚书，嗤鄙文学，嘲刘逖云：“君辈辞藻，譬若荣华，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p07",
@@ -1433,11 +2298,15 @@
       "chapter": "文章第九",
       "para_index": 7
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "凡为文章，犹人乘骐骥，虽有逸气，当以衔勒制之，勿使流乱轨躅，放意填坑岸也。"
+    "note": "以駕馭駿馬須有銜勒比喻作文雖有逸氣仍須節制，純屬文章收束筆勢的技術規範",
+    "excerpt": "凡为文章，犹人乘骐骥，虽有逸气，当以衔勒制之，勿使流乱轨躅，放意填坑岸也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p08",
@@ -1445,11 +2314,16 @@
       "chapter": "文章第九",
       "para_index": 8
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "文章当以理致为心肾，气调为筋骨，事义为皮肤，华丽为冠冕。今世相承，趋本弃末，率多"
+    "note": "提出文章理致、氣調、事義與華麗的本末結構，分析辭勝理伏等弊病並要求去其太甚，屬文體原理與改革主張",
+    "excerpt": "文章当以理致为心肾，气调为筋骨，事义为皮肤，华丽为冠冕。今世相承，趋本弃末，率多",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p09",
@@ -1457,11 +2331,16 @@
       "chapter": "文章第九",
       "para_index": 9
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "古人之文，宏材逸气，体度风格，去今实远；但缉缀疏朴，未为密致耳。今世音律谐靡，章"
+    "note": "比較古文氣格與今文音律、偶對各自的優點，規定以古制為本、今調為末而兩存不偏，純為寫作取法",
+    "excerpt": "古人之文，宏材逸气，体度风格，去今实远；但缉缀疏朴，未为密致耳。今世音律谐靡，章",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p10",
@@ -1469,11 +2348,20 @@
       "chapter": "文章第九",
       "para_index": 10
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VI",
+      "X"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "expression"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "吾家世文章，甚为典正，不从流俗；梁孝元在蕃邸时，撰西府新文，讫无一篇见录者，亦以"
+    "note": "自述家世文章不合流俗，兄弟服喪時未及編次便遭火焚而永不傳世，並直接抒發家族文業亡佚後深入心髓的哀恨",
+    "excerpt": "吾家世文章，甚为典正，不从流俗；梁孝元在蕃邸时，撰西府新文，讫无一篇见录者，亦以",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p11",
@@ -1481,11 +2369,16 @@
       "chapter": "文章第九",
       "para_index": 11
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "沈隐侯曰：“文章当从三易：易见事，一也；易识字，二也；易读诵，三也。”邢子才常曰"
+    "note": "引沈約三易之說及邢子才、祖孝徵的評語，主張用事應自然到近似胸中常語，內容只在文章可讀性與用典技術",
+    "excerpt": "沈隐侯曰：“文章当从三易：易见事，一也；易识字，二也；易读诵，三也。”邢子才常曰",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p12",
@@ -1493,11 +2386,17 @@
       "chapter": "文章第九",
       "para_index": 12
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "邢子才、魏收俱有重名，时俗准的，以为师匠。邢赏服沈约而轻任昉，魏爱慕任昉而毁沈约"
+    "note": "觀察邢子才與魏收因偏愛不同作家而彼此褒毀，使鄴下文壇分成朋黨，重點是士人群體中的派系歸屬與相爭",
+    "excerpt": "邢子才、魏收俱有重名，时俗准的，以为师匠。邢赏服沈约而轻任昉，魏爱慕任昉而毁沈约",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p13",
@@ -1505,11 +2404,16 @@
       "chapter": "文章第九",
       "para_index": 13
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "吴均集有破镜赋。昔者，邑号朝歌，颜渊不舍；里名胜母，曾子敛襟：盖忌夫恶名之伤实也"
+    "note": "列舉題名、和詩語、親屬典故及稱謂誤用所造成的忌諱，告誡作文須避不祥或失倫的語詞；親屬只是用典例證，核心仍是修辭技術",
+    "excerpt": "吴均集有破镜赋。昔者，邑号朝歌，颜渊不舍；里名胜母，曾子敛襟：盖忌夫恶名之伤实也",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p14",
@@ -1517,11 +2421,19 @@
       "chapter": "文章第九",
       "para_index": 14
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "江南文制，欲人弹射，知有病累，随即改之，陈王得之于丁廙也。山东风俗，不通击难。吾"
+    "note": "觀察江南容許批評文章而山東忌諱攻難，自述曾因此忤人而悔，進而以汝曹為對象立下不可輕率議人的家訓與言說倫理",
+    "excerpt": "江南文制，欲人弹射，知有病累，随即改之，陈王得之于丁廙也。山东风俗，不通击难。吾",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p15",
@@ -1529,11 +2441,18 @@
       "chapter": "文章第九",
       "para_index": 15
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "凡代人为文，皆作彼语，理宜然矣。至于哀伤凶祸之辞，不可辄代。蔡邕为胡金盈作母灵表"
+    "note": "主張代筆雖應作本人語氣，涉及喪親哀傷卻不可冒充，並以錯置父母、君臣名分的語句說明妄施文字既失德又可能致罪",
+    "excerpt": "凡代人为文，皆作彼语，理宜然矣。至于哀伤凶祸之辞，不可辄代。蔡邕为胡金盈作母灵表",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p16",
@@ -1541,11 +2460,15 @@
       "chapter": "文章第九",
       "para_index": 16
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "挽歌辞者，或云古者虞殡之歌，或云出自田横之客，皆为生者悼往告哀之意。陆平原多为死"
+    "note": "考辨挽歌本為生者悼亡告哀，據此批評陸機改作死者自歎既無詩例又違製作本意，屬文類體制判斷",
+    "excerpt": "挽歌辞者，或云古者虞殡之歌，或云出自田横之客，皆为生者悼往告哀之意。陆平原多为死",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p17",
@@ -1553,11 +2476,15 @@
       "chapter": "文章第九",
       "para_index": 17
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "凡诗人之作，刺箴美颂，各有源流，未尝混杂，善恶同篇也。陆机为齐讴篇，前叙山川物产"
+    "note": "主張詩歌刺箴與美頌各有源流、善惡不可混雜一篇，再以陸機詩篇前後失體為例，純論篇章體裁的一致性",
+    "excerpt": "凡诗人之作，刺箴美颂，各有源流，未尝混杂，善恶同篇也。陆机为齐讴篇，前叙山川物产",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p18",
@@ -1565,11 +2492,16 @@
       "chapter": "文章第九",
       "para_index": 18
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "自古宏才博学，用事误者有矣；百家杂说，或有不同，书傥湮灭，后人不见，故未敢轻议之"
+    "note": "逐例核出古今文士混淆典籍、物種與字義的確定錯誤，並說明書籍亡佚時不可輕議，目的在告誡用事須查證",
+    "excerpt": "自古宏才博学，用事误者有矣；百家杂说，或有不同，书傥湮灭，后人不见，故未敢轻议之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p19",
@@ -1577,11 +2509,16 @@
       "chapter": "文章第九",
       "para_index": 19
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "文章地理，必须惬当。梁简文雁门太守行乃云：“鹅军攻日逐，燕骑荡康居，大宛归善马，"
+    "note": "指出兩篇詩文所寫地理方向與實際不合，以明珠、美玉微瑕為喻勸作者謹慎，內容是文章地理考據規則",
+    "excerpt": "文章地理，必须惬当。梁简文雁门太守行乃云：“鹅军攻日逐，燕骑荡康居，大宛归善马，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p20",
@@ -1589,11 +2526,16 @@
       "chapter": "文章第九",
       "para_index": 20
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "王籍入若耶溪诗云：“蝉噪林逾静，鸟鸣山更幽。”江南以为文外断绝，物无异议。简文吟"
+    "note": "記錄江南與鄴下文人對王籍詩句的相反評價，再由詩經注釋說明以聲寫靜的來源；地域人物只是文學鑑賞分歧的載體",
+    "excerpt": "王籍入若耶溪诗云：“蝉噪林逾静，鸟鸣山更幽。”江南以为文外断绝，物无异议。简文吟",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p21",
@@ -1601,11 +2543,16 @@
       "chapter": "文章第九",
       "para_index": 21
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "expression"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "兰陵萧悫，梁室上黄侯之子，工于篇什。尝有秋诗云：“芙蓉露下落，杨柳月中疏。”时人"
+    "note": "記述時人對蕭愨秋詩評價不一，作者則直接表明喜愛其蕭散、如在目前的審美感受，未越出作品品評",
+    "excerpt": "兰陵萧悫，梁室上黄侯之子，工于篇什。尝有秋诗云：“芙蓉露下落，杨柳月中疏。”时人",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p22",
@@ -1613,11 +2560,18 @@
       "chapter": "文章第九",
       "para_index": 22
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "何逊诗实为清巧，多形似之言；扬都论者，恨其每病苦辛，饶贫寒气，不及刘孝绰之雍容也"
+    "note": "敘劉孝綽因忌何遜而貶句、選集只收兩篇，卻又尊服謝朓，並記文壇互有抑揚，呈現才士嫉妒與不能相讓的品格問題",
+    "excerpt": "何逊诗实为清巧，多形似之言；扬都论者，恨其每病苦辛，饶贫寒气，不及刘孝绰之雍容也",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#10-p01",
@@ -1625,11 +2579,18 @@
       "chapter": "名实第十",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "II",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "名之与实，犹形之与影也。德艺周厚，则名必善焉；容色姝丽，则影必美焉。今不修身而求"
+    "note": "以形影比名實，主張善名應由德藝與慎行自然形成，並區分忘名、立名、靠奸偽竊名三等，直論自我名聲與真實品格",
+    "excerpt": "名之与实，犹形之与影也。德艺周厚，则名必善焉；容色姝丽，则影必美焉。今不修身而求",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#10-p02",
@@ -1637,11 +2598,19 @@
       "chapter": "名实第十",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "II",
+      "III"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "expression"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "人足所履，不过数寸，然而咫尺之途，必颠蹶于崖岸，拱把之梁，每沈溺于川谷者，何哉？"
+    "note": "以險途無餘地比喻名聲過於單薄時，至誠之言與至潔之行也可能不被相信；作者自述受毀便反求諸己，所論是聲名基礎與獲得信任",
+    "excerpt": "人足所履，不过数寸，然而咫尺之途，必颠蹶于崖岸，拱把之梁，每沈溺于川谷者，何哉？",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#10-p03",
@@ -1649,11 +2618,19 @@
       "chapter": "名实第十",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "II",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "吾见世人，清名登而金贝入，信誉显而然诺亏，不知后之矛戟，毁前之干橹也。虙子贱云："
+    "note": "主張內心真偽終會見於行跡，以王莽辭政及貴人塗巴豆偽作哀毀為例，說明貪求清名的一次欺偽足以摧毀長久誠信",
+    "excerpt": "吾见世人，清名登而金贝入，信誉显而然诺亏，不知后之矛戟，毁前之干橹也。虙子贱云：",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#10-p04",
@@ -1661,11 +2638,18 @@
       "chapter": "名实第十",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "II",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "有一士族，读书不过二三百卷，天才钝拙，而家世殷厚，雅自矜持，多以酒犊珍玩，交诸名"
+    "note": "敘富家鈍士以財物結交名士、被朝廷誤認有文才，終在韓晉明當面命題試作時暴露無能，呈現虛假身分與真實才具的落差",
+    "excerpt": "有一士族，读书不过二三百卷，天才钝拙，而家世殷厚，雅自矜持，多以酒犊珍玩，交诸名",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#10-p05",
@@ -1673,11 +2657,18 @@
       "chapter": "名实第十",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "II",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "治点子弟文章，以为声价，大弊事也。一则不可常继，终露其情；二则学者有凭，益不精励"
+    "note": "判定替子弟潤飾文章以抬高聲價有兩害：偽裝才名終將敗露，且學者有所依賴便不再精進，兼及名實與能力養成",
+    "excerpt": "治点子弟文章，以为声价，大弊事也。一则不可常继，终露其情；二则学者有凭，益不精励",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#10-p06",
@@ -1685,11 +2676,20 @@
       "chapter": "名实第十",
       "para_index": 6
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "II",
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "邺下有一少年，出为襄国令，颇自勉笃。公事经怀，每加抚恤，以求声誉。凡遣兵役，握手"
+    "note": "敘地方官為求聲譽而以送行贈食表演體恤，升官後費用無法持續便露出偽情、損及政績，論公共領導中的名聲、責任與真誠",
+    "excerpt": "邺下有一少年，出为襄国令，颇自勉笃。公事经怀，每加抚恤，以求声誉。凡遣兵役，握手",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#10-p07",
@@ -1697,11 +2697,20 @@
       "chapter": "名实第十",
       "para_index": 7
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "II",
+      "IV",
+      "VII",
+      "X"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "或问曰：“夫神灭形消，遗声余价，亦犹蝉壳蛇皮，兽迒鸟迹耳，何预于死者，而圣人以为"
+    "note": "回應人死形消後聲名何用，主張褒揚典範能勸成後世德行，祖先嘉名亦能庇蔭子孫，使善行如築室樹果般在死後留下家族之澤",
+    "excerpt": "或问曰：“夫神灭形消，遗声余价，亦犹蝉壳蛇皮，兽迒鸟迹耳，何预于死者，而圣人以为",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#11-p01",
@@ -1709,11 +2718,19 @@
       "chapter": "涉务第十一",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "士君子之处世，贵能有益于物耳，不徒高谈虚论，左琴右书，以费人君禄位也。国之用材，"
+    "note": "主張士君子受祿應對世事有用，列舉朝廷、文史、軍旅等六種公共職能，並要求依個人長處守好一職而不必六途全能",
+    "excerpt": "士君子之处世，贵能有益于物耳，不徒高谈虚论，左琴右书，以费人君禄位也。国之用材，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#11-p02",
@@ -1721,11 +2738,20 @@
       "chapter": "涉务第十一",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "II",
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "吾见世中文学之士，品藻古今，若指诸掌，及有试用，多无所堪。居承平之世，不知有丧乱"
+    "note": "觀察士族文士往往能清談而不堪實務，反是熟悉吏用者能辦公受任，據此批評眾人不自量才，誤把按能力用人理解成疏士親小",
+    "excerpt": "吾见世中文学之士，品藻古今，若指诸掌，及有试用，多无所堪。居承平之世，不知有丧乱",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#11-p03",
@@ -1733,11 +2759,19 @@
       "chapter": "涉务第十一",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IX",
+      "X"
+    ],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "梁世士大夫，皆尚褒衣博带，大冠高履，出则车舆，入则扶侍，郊郭之内，无乘马者。周弘"
+    "note": "觀察梁代士大夫崇尚車輿扶侍、不騎馬行走，導致身體羸弱、亂中大量猝死，又以王復見馬驚懼的故事呈現身體失能",
+    "excerpt": "梁世士大夫，皆尚褒衣博带，大冠高履，出则车舆，入则扶侍，郊郭之内，无乘马者。周弘",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#11-p04",
@@ -1745,11 +2779,19 @@
       "chapter": "涉务第十一",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "古人欲知稼穑之艰难，斯盖贵谷务本之道也。夫食为民天，民非食不生矣，三日不粒，父子"
+    "note": "從糧食維生與耕作多重勞動論不可輕農貴末，並批評不識農務的朝士既不能治官也不能營家，兼論民生治理與實際勞動能力",
+    "excerpt": "古人欲知稼穑之艰难，斯盖贵谷务本之道也。夫食为民天，民非食不生矣，三日不粒，父子",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#12-p01",
@@ -1757,11 +2799,18 @@
       "chapter": "省事第十二",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "銘金人云：『無多言，多言多敗；無多事，多事多患。』至哉斯戒也！能走者奪其翼，善飛"
+    "note": "以多言多事、多能不成技為戒，並觀察兩名聰悟者因兼營經史文藝諸術而無一精熟，主張減省旁務以成就專長",
+    "excerpt": "銘金人云：『無多言，多言多敗；無多事，多事多患。』至哉斯戒也！能走者奪其翼，善飛",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#12-p02",
@@ -1769,11 +2818,20 @@
       "chapter": "省事第十二",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V",
+      "VII",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "上書陳事，起自戰國，逮於兩漢，風流彌廣。原其體度：攻人主之長短，諫諍之徒也；訐群"
+    "note": "分析上書議政常被用來鬻言求位，既少益於國又可能招禍，並批評今人以空薄小事邀功，兼論政治進言、仕進動機與君子操守",
+    "excerpt": "上書陳事，起自戰國，逮於兩漢，風流彌廣。原其體度：攻人主之長短，諫諍之徒也；訐群",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#12-p03",
@@ -1781,11 +2839,20 @@
       "chapter": "省事第十二",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "III",
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "諫諍之徒，以正人君之失爾，必在得言之地，當盡匡贊之規，不容茍免偷安，垂頭塞耳；至"
+    "note": "規定居諫職者必須匡正君失而不可尸位，非其任者則不應越位；又以親疏信任決定勸諫會被接受或被視為誹謗，兼論溝通條件與政治責任",
+    "excerpt": "諫諍之徒，以正人君之失爾，必在得言之地，當盡匡贊之規，不容茍免偷安，垂頭塞耳；至",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#12-p04",
@@ -1793,11 +2860,21 @@
       "chapter": "省事第十二",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII",
+      "VIII",
+      "XI",
+      "XIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "君子當守道崇德，蓄價待時，爵祿不登，信由天命。須求趨競，不顧羞慚，比較材能，斟量"
+    "note": "勸君子守道蓄德、未得爵祿時安待天命，不可羞慚競逐；並以求與不求皆可能得失說明仕途受時運限制，人應以靜退自處而非強求",
+    "excerpt": "君子當守道崇德，蓄價待時，爵祿不登，信由天命。須求趨競，不顧羞慚，比較材能，斟量",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#12-p05",
@@ -1805,11 +2882,21 @@
       "chapter": "省事第十二",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V",
+      "VII",
+      "VIII",
+      "XIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "expression"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "齊之季世，多以財貨托附外家，諠動女謁。拜守宰者，印組光華，車騎輝赫，榮兼九族，取"
+    "note": "指出齊末以財貨女謁求官者因利得位也因利敗家，揭示權力交易的危險；作者則替自己歷仕南北卻不求人論進身、不得通達也無怨的處境表態",
+    "excerpt": "齊之季世，多以財貨托附外家，諠動女謁。拜守宰者，印組光華，車騎輝赫，榮兼九族，取",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#12-p06",
@@ -1817,11 +2904,20 @@
       "chapter": "省事第十二",
       "para_index": 6
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V",
+      "VII",
+      "XIII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "expression"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "王子晉云：『佐饔得嘗，佐鬥得傷。』此言為善則預，為惡則去，不欲黨人非義之事也。凡"
+    "note": "規定遠離黨惡而援助投身求救者、危難親友，但拒絕報讎亂逆與無理請託；作者自言曾因此獲罪仍甘心瞑目，以仁義安頓自己的選擇及後果",
+    "excerpt": "王子晉云：『佐饔得嘗，佐鬥得傷。』此言為善則預，為惡則去，不欲黨人非義之事也。凡",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#12-p07",
@@ -1829,11 +2925,20 @@
       "chapter": "省事第十二",
       "para_index": 7
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "II",
+      "VII",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "前在修文令曹，有山東學士與關中太史競歷，凡十餘人，紛紜累歲，內史牒付議官平之。吾"
+    "note": "自敘因議官不比爭訟者專精而拒斷曆法，反襯禮官為好名強留此事、能力不足又不肯退讓，終受迫蒙辱，論名聲欲望與職務適任",
+    "excerpt": "前在修文令曹，有山東學士與關中太史競歷，凡十餘人，紛紜累歲，內史牒付議官平之。吾",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#13-p01",
@@ -1841,11 +2946,21 @@
       "chapter": "止足第十三",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VI",
+      "VII",
+      "XIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "禮云：『欲不可縱，誌不可滿。』宇宙可臻其極，情性不知其窮，唯在少欲知足，為立涯限"
+    "note": "主張欲望與志意沒有自然盡頭，須以少欲知足自立界限；又引先祖限制仕宦與婚姻攀附的家戒，並自述終身奉行這套家風",
+    "excerpt": "禮云：『欲不可縱，誌不可滿。』宇宙可臻其極，情性不知其窮，唯在少欲知足，為立涯限",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#13-p02",
@@ -1853,11 +2968,20 @@
       "chapter": "止足第十三",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VII",
+      "XIII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "formalization"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "天地鬼神之道，皆惡滿盈。謙虛沖損，可以免害。人生衣趣以覆寒露，食趣以塞饑乏耳。形"
+    "note": "以謙損知足免害，並把家計節制落成奴婢二十、良田十頃、財數萬等可執行上限，規定有餘依義散財、不足也不可用非道求取",
+    "excerpt": "天地鬼神之道，皆惡滿盈。謙虛沖損，可以免害。人生衣趣以覆寒露，食趣以塞饑乏耳。形",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#13-p03",
@@ -1865,11 +2989,20 @@
       "chapter": "止足第十三",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VIII",
+      "XI",
+      "XIII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "expression"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "仕宦稱泰，不過處在中品，前望五十人，後顧五十人，足以免恥辱，無傾危也。高此者，便"
+    "note": "勸仕宦居中品即可免辱避危、位高便應退居私庭；作者以羈旅畏謗而未暇退身的親歷，告誡子孫在驟貴驟敗的時運中知止自處",
+    "excerpt": "仕宦稱泰，不過處在中品，前望五十人，後顧五十人，足以免恥辱，無傾危也。高此者，便",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#14-p01",
@@ -1877,11 +3010,20 @@
       "chapter": "誡兵第十四",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VII",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "expression"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "顏氏之先，本乎鄒、魯，或分入齊，世以儒雅為業，遍在書記。仲尼門徒，升堂者七十有二"
+    "note": "由顏氏歷代以儒雅為業而從武者多遭禍敗，反觀今世士大夫恃勇逞強卻不能衛國，作者自述因此不以武力求達並囑子孫記取，兼論家業傳承、操守與職能選擇",
+    "excerpt": "顏氏之先，本乎鄒、魯，或分入齊，世以儒雅為業，遍在書記。仲尼門徒，升堂者七十有二",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#14-p02",
@@ -1889,11 +3031,20 @@
       "chapter": "誡兵第十四",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V",
+      "VII",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "國之興亡，兵之勝敗，博學所至，幸討論之。入帷幄之中，參廟堂之上，不能為主盡規以謀"
+    "note": "主張文士應通曉軍國成敗以盡忠謀國，卻不可憑略讀兵書便在治亂之世煽動逆亂，告誡其辨明職責、能力與品格，免致身族俱滅",
+    "excerpt": "國之興亡，兵之勝敗，博學所至，幸討論之。入帷幄之中，參廟堂之上，不能為主盡規以謀",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#14-p03",
@@ -1901,11 +3052,19 @@
       "chapter": "誡兵第十四",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "II",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "習五兵，便乘騎，正可稱武夫爾。今世士大夫，但不讀書，即稱武夫兒，乃飯囊酒甕也。"
+    "note": "以能習兵器、善騎乘才足稱武夫，反駁不讀書的士大夫自稱武夫，所辨是自我名目與實際職業能力是否相稱",
+    "excerpt": "習五兵，便乘騎，正可稱武夫爾。今世士大夫，但不讀書，即稱武夫兒，乃飯囊酒甕也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#15-p01",
@@ -1913,11 +3072,21 @@
       "chapter": "養生第十五",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IX",
+      "X",
+      "XI",
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "神仙之事，未可全誣；但性命在天，或難鐘值。人生居世，觸途牽縶：幼少之日，既有供養"
+    "note": "辨明成仙既難且仍不能免死，在壽命受天命限制下，仍可用作息、飲食與審慎服藥調護身體、避免夭折；並以有效小術和誤藥致死者告誡不可專精仙術或輕率用藥",
+    "excerpt": "神仙之事，未可全誣；但性命在天，或難鐘值。人生居世，觸途牽縶：幼少之日，既有供養",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#15-p02",
@@ -1925,11 +3094,20 @@
       "chapter": "養生第十五",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII",
+      "IX",
+      "X"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "夫養生者先須慮禍，全身保性，有此生然後養之，勿徒養其無生也。單豹養於內而喪外，張"
+    "note": "主張養生先要避禍全身，並以單豹、張毅及因傲慢受刑、因貪溺取禍者說明只調養內外而不修正品格與行事，仍會喪失生命",
+    "excerpt": "夫養生者先須慮禍，全身保性，有此生然後養之，勿徒養其無生也。單豹養於內而喪外，張",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#15-p03",
@@ -1937,11 +3115,22 @@
       "chapter": "養生第十五",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "V",
+      "VII",
+      "X",
+      "XIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "夫生不可不惜，不可茍惜。涉險畏之途，幹禍難之事，貪欲以傷生，讒慝而致死，此君子之"
+    "note": "區分因貪欲讒慝而枉死與為孝義、保全家族或救國而犧牲，並敘侯景亂中求生仍受辱被殺者及臨死不屈者，替身處無可苟免之亂世者界定如何以操守面對死亡",
+    "excerpt": "夫生不可不惜，不可茍惜。涉險畏之途，幹禍難之事，貪欲以傷生，讒慝而致死，此君子之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#16-p01",
@@ -1949,11 +3138,19 @@
       "chapter": "歸心第十六",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "三世之事，信而有征，家世歸心，勿輕慢也。其間妙旨，具諸經論，不復於此，少能贊述；"
+    "note": "宣稱三世因果可信有驗，並以家族世代歸依為傳承基礎，因憂子孫信心未固而再加勸誘，直接建立家內的信仰立場",
+    "excerpt": "三世之事，信而有征，家世歸心，勿輕慢也。其間妙旨，具諸經論，不復於此，少能贊述；",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#16-p02",
@@ -1961,11 +3158,18 @@
       "chapter": "歸心第十六",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII",
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "原夫四塵五蔭，剖析形有；六舟三駕，運載群生：萬行歸空，千門入善，辯才智惠，豈徒七"
+    "note": "以佛教五戒對應儒家仁義禮智信，主張內外二教本旨相通，且世俗中的軍獵刑宴只是依人性加以節制，據此論證不可尊儒而背佛",
+    "excerpt": "原夫四塵五蔭，剖析形有；六舟三駕，運載群生：萬行歸空，千門入善，辯才智惠，豈徒七",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#16-p03",
@@ -1973,11 +3177,17 @@
       "chapter": "歸心第十六",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "XII"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "俗之謗者，大抵有五：其一，以世界外事及神化無方為迂誕也，其二，以吉凶禍福或未報應"
+    "note": "歸納世俗反對佛教的五類理由，包括超自然難信、報應未見、僧尼不純、耗損國用及前後世非同一人，作為後文逐項答辯的信仰爭點",
+    "excerpt": "俗之謗者，大抵有五：其一，以世界外事及神化無方為迂誕也，其二，以吉凶禍福或未報應",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#16-p04",
@@ -1985,11 +3195,17 @@
       "chapter": "歸心第十六",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "釋一曰：夫遙大之物，寧可度量？今人所知，莫若天地。天為積氣，地為積塊，日為陽精，"
+    "note": "連續質疑儒家對星辰、天地、水勢與分野的常識性解釋，主張人連可見宇宙尚不能窮究，便不能以尋常人事斷然否定世界之外與神化之事",
+    "excerpt": "釋一曰：夫遙大之物，寧可度量？今人所知，莫若天地。天為積氣，地為積塊，日為陽精，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#16-p05",
@@ -1997,11 +3213,18 @@
       "chapter": "歸心第十六",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "XII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "凡人之信，唯耳與目；耳目之外，咸致疑焉。儒家說天，自有數義：或渾或蓋，乍宣乍安。"
+    "note": "觀察凡人只信耳目所及，並以各地之人不信陌生的大魚、巨木、錦與船等實例，論證經驗範圍有限，不能據此否定佛典所說的多重世界與長劫",
+    "excerpt": "凡人之信，唯耳與目；耳目之外，咸致疑焉。儒家說天，自有數義：或渾或蓋，乍宣乍安。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#16-p06",
@@ -2009,11 +3232,17 @@
       "chapter": "歸心第十六",
       "para_index": 6
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "世有祝師及諸幻術，猶能履火蹈刃，種瓜移井，倏忽之間，十變五化。人力所為，尚能如此"
+    "note": "以世間祝師幻術尚能呈現異常變化作類比，推論佛教所說的神通感應與淨土妙塔更不能僅因超出日常經驗便判為不可能",
+    "excerpt": "世有祝師及諸幻術，猶能履火蹈刃，種瓜移井，倏忽之間，十變五化。人力所為，尚能如此",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#16-p07",
@@ -2021,11 +3250,19 @@
       "chapter": "歸心第十六",
       "para_index": 7
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII",
+      "XI",
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "釋二曰：夫信謗之徵，有如影響；耳聞目見，其事已多，或乃精誠不深，業緣未感，時儻差"
+    "note": "主張善惡必有禍福報應，眼前善人受苦、惡人享福可由前業與後生解釋，藉跨世因果調和德行與命運不相稱的疑難並為立身提供信仰依據",
+    "excerpt": "釋二曰：夫信謗之徵，有如影響；耳聞目見，其事已多，或乃精誠不深，業緣未感，時儻差",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#16-p08",
@@ -2033,11 +3270,20 @@
       "chapter": "歸心第十六",
       "para_index": 8
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V",
+      "VII",
+      "XII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "釋三曰：開闢已來，不善人多而善人少，何由悉責其精絜乎？見有名僧高行，棄而不說；若"
+    "note": "指出世人忽略高行名僧、只憑凡僧犯戒便毀謗整個佛教，又以朝臣與儒生同樣難以全守教法反駁雙重標準，兼論群體偏見、個人戒行與信仰評判",
+    "excerpt": "釋三曰：開闢已來，不善人多而善人少，何由悉責其精絜乎？見有名僧高行，棄而不說；若",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#16-p09",
@@ -2045,11 +3291,20 @@
       "chapter": "歸心第十六",
       "para_index": 9
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "V",
+      "VII",
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "釋四曰：內教多途，出家自是其一法耳。若能誠孝在心，仁惠為本，須達、流水，不必剃落"
+    "note": "主張佛道不只出家一途，在家亦可由孝親仁惠實踐；寺院妨農、僧尼耗稅源於為政失節而非佛旨，又正面比較個人求道、安家與國家賦役難以並遂的責任衝突",
+    "excerpt": "釋四曰：內教多途，出家自是其一法耳。若能誠孝在心，仁惠為本，須達、流水，不必剃落",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#16-p10",
@@ -2057,11 +3312,22 @@
       "chapter": "歸心第十六",
       "para_index": 10
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VII",
+      "X",
+      "XI",
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "釋五曰：形體雖死，精神猶存。人生在世，望於後身似不相屬；及其歿後，則與前身似猶老"
+    "note": "論證形體死亡後精神仍延續，今生修行會改變後世處境，並以照顧子孫反證更應為自身後生預作準備；末勸不能離家出家的子孫兼修戒行誦讀，不可虛度難得人生",
+    "excerpt": "釋五曰：形體雖死，精神猶存。人生在世，望於後身似不相屬；及其歿後，則與前身似猶老",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#16-p11",
@@ -2069,11 +3335,20 @@
       "chapter": "歸心第十六",
       "para_index": 11
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII",
+      "X",
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "儒家君子，尚離庖廚，見其生不忍其死，聞其聲不食其肉。高柴、折像，未知內教，皆能不"
+    "note": "由儒家仁者不忍見生物被殺與一切眾生愛命，主張必須勉力戒殺，並以殺生者臨死受報、子孫遭殃申明佛教因果戒律",
+    "excerpt": "儒家君子，尚離庖廚，見其生不忍其死，聞其聲不食其肉。高柴、折像，未知內教，皆能不",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#16-p12",
@@ -2081,11 +3356,19 @@
       "chapter": "歸心第十六",
       "para_index": 12
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII",
+      "X",
+      "XII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "梁世有人，常以雞卵白和沐，云使髮光，每沐輒二三十枚。臨死，髮中但聞啾啾數千雞雛聲"
+    "note": "敘一人長期用大量雞卵沐髮，臨死時髮中傳出眾多雞雛聲，承接上段把故事作為殺生在死亡時獲得超自然報應的例證",
+    "excerpt": "梁世有人，常以雞卵白和沐，云使髮光，每沐輒二三十枚。臨死，髮中但聞啾啾數千雞雛聲",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#16-p13",
@@ -2093,11 +3376,19 @@
       "chapter": "歸心第十六",
       "para_index": 13
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII",
+      "IX",
+      "XII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "江陵劉氏，以賣鱔羹為業。後生一兒頭是鱔，自頸以下，方為人耳。"
+    "note": "敘以販賣鱔羹為業的劉氏生下鱔首人身之子，按戒殺段落的上下文，以後代身體異常承載殺生業報的勸誡",
+    "excerpt": "江陵劉氏，以賣鱔羹為業。後生一兒頭是鱔，自頸以下，方為人耳。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#16-p14",
@@ -2105,11 +3396,20 @@
       "chapter": "歸心第十六",
       "para_index": 14
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII",
+      "IX",
+      "X",
+      "XII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "王克為永嘉郡守，有人餉羊，集賓欲燕。而羊繩解，來投一客，先跪兩拜，便入衣中。此客"
+    "note": "敘羊向賓客跪求而未獲救，賓客食羊後肉塊遍行體內、痛呼作羊鳴而死，以身體折磨與死亡呈現漠視求生、參與殺食的因果報應",
+    "excerpt": "王克為永嘉郡守，有人餉羊，集賓欲燕。而羊繩解，來投一客，先跪兩拜，便入衣中。此客",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#16-p15",
@@ -2117,11 +3417,20 @@
       "chapter": "歸心第十六",
       "para_index": 15
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII",
+      "IX",
+      "X",
+      "XII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "梁孝元在江州時，有人為望蔡縣令，經劉敬躬亂，縣廨被焚，寄寺而住。民將牛酒作禮，縣"
+    "note": "敘縣令在寺中撤除形像、無視牛跪拜仍命宰殺，隨後患癩十餘年而死，把褻瀆、殘酷殺生與疾病死亡連成宗教報應故事",
+    "excerpt": "梁孝元在江州時，有人為望蔡縣令，經劉敬躬亂，縣廨被焚，寄寺而住。民將牛酒作禮，縣",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#16-p16",
@@ -2129,11 +3438,20 @@
       "chapter": "歸心第十六",
       "para_index": 16
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V",
+      "VII",
+      "IX",
+      "XII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "楊思達為西陽郡守，值侯景亂，時復旱儉，饑民盜田中麥。思達遣一部曲守視，所得盜者，"
+    "note": "敘郡守在亂世旱饑中截斷十餘名偷麥饑民的手腕，執行者後來生下無手之子，以統治者濫施刑罰及身體殘害承載跨代業報",
+    "excerpt": "楊思達為西陽郡守，值侯景亂，時復旱儉，饑民盜田中麥。思達遣一部曲守視，所得盜者，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#16-p17",
@@ -2141,11 +3459,20 @@
       "chapter": "歸心第十六",
       "para_index": 17
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII",
+      "IX",
+      "X",
+      "XII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "齊有一奉朝請，家甚豪侈，非手殺牛，噉之不美。年三十許，病篤，大見牛來，舉體如被刀"
+    "note": "敘豪侈官員嗜好親手殺牛，病危時看見群牛並感到全身如遭刀刺而死，以痛苦死亡呈現好殺之行的超自然報驗",
+    "excerpt": "齊有一奉朝請，家甚豪侈，非手殺牛，噉之不美。年三十許，病篤，大見牛來，舉體如被刀",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#16-p18",
@@ -2153,11 +3480,20 @@
       "chapter": "歸心第十六",
       "para_index": 18
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII",
+      "IX",
+      "X",
+      "XII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "江陵高偉，隨吾入齊，凡數年，向幽州澱中捕魚。後病，每見群魚嚙之而死。"
+    "note": "敘高偉捕魚後患病，反覆看見群魚啃咬自己而死，承接戒殺論述，以疾病、幻見與死亡呈現捕殺所得的因果報應",
+    "excerpt": "江陵高偉，隨吾入齊，凡數年，向幽州澱中捕魚。後病，每見群魚嚙之而死。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#16-p19",
@@ -2165,11 +3501,22 @@
       "chapter": "歸心第十六",
       "para_index": 19
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "V",
+      "VII",
+      "XI",
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "世有癡人，不識仁義，不知富貴並由天命。為子娶婦，恨其生資不足，倚作舅姑之尊，蛇虺"
+    "note": "批評舅姑怨媳婦資財不足便虐待辱罵、只愛親生子女而不愛兒婦，指出這會反教媳婦不孝並招致鬼神減壽；又告誡連鄰居朋友都應避開此種不認命且敗德之人",
+    "excerpt": "世有癡人，不識仁義，不知富貴並由天命。為子娶婦，恨其生資不足，倚作舅姑之尊，蛇虺",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p01",
@@ -2177,11 +3524,15 @@
       "chapter": "書證第十七",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "詩云：「參差荇菜。」爾雅云：「荇，接余也。」字或爲莕。先儒解釋皆云：水草，圓葉細"
+    "note": "以經注、今物形態與南北俗稱辨定荇菜，河北俗人與博士的誤認只是名物考證材料，未形成獨立的群體命題",
+    "excerpt": "詩云：「參差荇菜。」爾雅云：「荇，接余也。」字或爲莕。先儒解釋皆云：水草，圓葉細",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p02",
@@ -2189,11 +3540,16 @@
       "chapter": "書證第十七",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "詩云：「誰謂荼苦？」爾雅、毛詩傳並以荼，苦菜也。又禮云：「苦菜秀。案：易統通卦驗"
+    "note": "比對中原與江南苦菜的形態、物候及諸家訓釋，據以駁斥梁代講禮者把龍葵當苦菜，核心仍是名物考證",
+    "excerpt": "詩云：「誰謂荼苦？」爾雅、毛詩傳並以荼，苦菜也。又禮云：「苦菜秀。案：易統通卦驗",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p03",
@@ -2201,11 +3557,13 @@
       "chapter": "書證第十七",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [],
     "confidence": null,
-    "note": null,
-    "excerpt": "詩云：「有杕之杜。」江南本並木傍施大，傳曰：「杕，獨貌也。」徐仙民音徒計反。説文"
+    "note": "比對江南、河北版本的字形與音讀，判定杕被改作狄是傳寫錯誤，純屬版本文字校勘",
+    "excerpt": "詩云：「有杕之杜。」江南本並木傍施大，傳曰：「杕，獨貌也。」徐仙民音徒計反。説文",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p04",
@@ -2213,11 +3571,16 @@
       "chapter": "書證第十七",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "詩云：「駉駉牡馬。」江南書皆作牝牡之牡，河北本悉爲放牧之牧。鄴下博士見難云：「駉"
+    "note": "記鄴下博士詰難與作者答辯，援毛傳、周禮等論證駉頌當作牝牡之牡；人物與對話只承載經文字義辨析",
+    "excerpt": "詩云：「駉駉牡馬。」江南書皆作牝牡之牡，河北本悉爲放牧之牧。鄴下博士見難云：「駉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p05",
@@ -2225,11 +3588,16 @@
       "chapter": "書證第十七",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "月令云：「荔挺出。」鄭玄注云：「荔挺，馬薤也。」説文云：「荔，似蒲而小，根可爲刷"
+    "note": "考定荔挺實為馬藺，附幼兒以僧面似馬莧取號、名儒仍沿誤說的故事，敘事服務於名物辨誤",
+    "excerpt": "月令云：「荔挺出。」鄭玄注云：「荔挺，馬薤也。」説文云：「荔，似蒲而小，根可爲刷",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p06",
@@ -2237,11 +3605,13 @@
       "chapter": "書證第十七",
       "para_index": 6
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [],
     "confidence": null,
-    "note": null,
-    "excerpt": "詩云：「將其來施施。」毛傳云：「施施，難進之意。」鄭箋云：「施施，舒行貌也。」韓"
+    "note": "只比較詩句施施在江南、河北舊本中的重文差異並判江南單字本小誤，屬版本校勘",
+    "excerpt": "詩云：「將其來施施。」毛傳云：「施施，難進之意。」鄭箋云：「施施，舒行貌也。」韓",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p07",
@@ -2249,11 +3619,13 @@
       "chapter": "書證第十七",
       "para_index": 7
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [],
     "confidence": null,
-    "note": null,
-    "excerpt": "詩云：「有渰萋萋，興雲祁祁。」毛傳云：「渰，陰雲貌。萋萋，雲行貌。祁祁，徐貌也。"
+    "note": "由上下文與班固詩句校定興雲祁祁之雲當作雨，結論只處理一處傳寫異文",
+    "excerpt": "詩云：「有渰萋萋，興雲祁祁。」毛傳云：「渰，陰雲貌。萋萋，雲行貌。祁祁，徐貌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p08",
@@ -2261,11 +3633,16 @@
       "chapter": "書證第十七",
       "para_index": 8
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "禮云：「定猶豫，決嫌疑。」離騷曰：「心猶豫而狐疑。」先儒未有釋者。案：尸子曰：「"
+    "note": "以犬往返、獸上下木及狐聽冰等行為推求猶豫、狐疑的命名來源，雖涉及遲疑，主體仍是詞源解釋而非內在生活",
+    "excerpt": "禮云：「定猶豫，決嫌疑。」離騷曰：「心猶豫而狐疑。」先儒未有釋者。案：尸子曰：「",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p09",
@@ -2273,11 +3650,17 @@
       "chapter": "書證第十七",
       "para_index": 9
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "左傳曰：「齊侯痎，遂痁。」説文云：「痎，二日一發之瘧。痁，有熱瘧也。」案：齊侯之"
+    "note": "以瘧疾病理反駁把痎曲解為疥的說法，並斥俗儒為遷就誤字而臆造病因，已由校字轉成對無據妄說之治學品格的批評",
+    "excerpt": "左傳曰：「齊侯痎，遂痁。」説文云：「痎，二日一發之瘧。痁，有熱瘧也。」案：齊侯之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p10",
@@ -2285,11 +3668,16 @@
       "chapter": "書證第十七",
       "para_index": 10
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "尙書曰：「惟影響。」周禮云：「土圭測影，影朝影夕。」孟子曰：「圖影失形。」莊子云"
+    "note": "追述景與影字形分化，批評後人據晚出字形改動尚書等古本；規範只屬古籍用字處理，未落入人生領域",
+    "excerpt": "尙書曰：「惟影響。」周禮云：「土圭測影，影朝影夕。」孟子曰：「圖影失形。」莊子云",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p11",
@@ -2297,11 +3685,16 @@
       "chapter": "書證第十七",
       "para_index": 11
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "太公六韜，有天陳、地陳、人陳、雲鳥之陳。論語曰：「衞靈公問陳於孔子。」左傳：「爲"
+    "note": "由陳列之義說明行陳借用陳字，據此主張不可用晚出俗字追改六韜、論語、左傳，純為文字校勘原則",
+    "excerpt": "太公六韜，有天陳、地陳、人陳、雲鳥之陳。論語曰：「衞靈公問陳於孔子。」左傳：「爲",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p12",
@@ -2309,11 +3702,13 @@
       "chapter": "書證第十七",
       "para_index": 12
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [],
     "confidence": null,
-    "note": null,
-    "excerpt": "詩云：「黃鳥于飛，集於灌木。」傳云：「灌木，叢木也。」此乃爾雅之文，故李巡注曰："
+    "note": "依爾雅叢聚之訓校正灌木異文，並駁近世儒生把似叢的字形改為最，內容止於字形與訓詁",
+    "excerpt": "詩云：「黃鳥于飛，集於灌木。」傳云：「灌木，叢木也。」此乃爾雅之文，故李巡注曰：",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p13",
@@ -2321,11 +3716,15 @@
       "chapter": "書證第十七",
       "para_index": 13
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "「也」是語已及助句之辭，文籍備有之矣。河北經傳，悉略此字，其間字有不可得無者，至"
+    "note": "指出河北經傳刪也與俗學任意補也造成的兩類錯誤；雖譏其可笑，主體仍是虛詞校勘，未把品格發展成獨立命題",
+    "excerpt": "「也」是語已及助句之辭，文籍備有之矣。河北經傳，悉略此字，其間字有不可得無者，至",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p14",
@@ -2333,11 +3732,18 @@
       "chapter": "書證第十七",
       "para_index": 14
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "易有蜀才注，江南學士，遂不知是何人。王儉四部目錄，不言姓名，題云：「王弼後人。」"
+    "note": "指出南方學士因一概視晉室南渡後的北方傳記為偽書而不肯閱讀，遂不知蜀才身分，直接呈現南北學風與群體偏見",
+    "excerpt": "易有蜀才注，江南學士，遂不知是何人。王儉四部目錄，不言姓名，題云：「王弼後人。」",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p15",
@@ -2345,11 +3751,13 @@
       "chapter": "書證第十七",
       "para_index": 15
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [],
     "confidence": null,
-    "note": null,
-    "excerpt": "禮王制云：「臝股肱。」鄭注云：「謂揎衣出其臂脛。」今書皆作擐甲之擐。國子博士蕭該"
+    "note": "據禮注與字林判定臝股肱當用揎而非擐，只辨字形、音讀及動作詞義",
+    "excerpt": "禮王制云：「臝股肱。」鄭注云：「謂揎衣出其臂脛。」今書皆作擐甲之擐。國子博士蕭該",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p16",
@@ -2357,11 +3765,15 @@
       "chapter": "書證第十七",
       "para_index": 16
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "漢書：「田肯賀上。」江南本皆作「宵」字。沛國劉顯，博覽經籍，偏精班漢，梁代謂之漢"
+    "note": "敘劉顯父子家本、梁元帝問答及作者在江北見本的經過，用具體人物與情節證成田肯異文",
+    "excerpt": "漢書：「田肯賀上。」江南本皆作「宵」字。沛國劉顯，博覽經籍，偏精班漢，梁代謂之漢",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p17",
@@ -2369,11 +3781,15 @@
       "chapter": "書證第十七",
       "para_index": 17
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "漢書王莽贊云：「紫色蛙聲，餘分閏位。」蓋謂非玄黃之色，不中律呂之音也。近有學士，"
+    "note": "記一位名望甚高的學士把紫色蛙聲誤解成王莽外貌聲音，所批只是單一典故的誤讀",
+    "excerpt": "漢書王莽贊云：「紫色蛙聲，餘分閏位。」蓋謂非玄黃之色，不中律呂之音也。近有學士，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p18",
@@ -2381,11 +3797,15 @@
       "chapter": "書證第十七",
       "para_index": 18
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "簡策字，竹下施朿，末代隸書，似杞、宋之宋，亦有竹下遂爲夾者；猶如刺字之傍應爲朿，"
+    "note": "列舉形近字傳寫顛倒，再以亥豕、帝虎作反證，說明不可把訛字反當正字音讀，屬文字辨誤",
+    "excerpt": "簡策字，竹下施朿，末代隸書，似杞、宋之宋，亦有竹下遂爲夾者；猶如刺字之傍應爲朿，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p19",
@@ -2393,11 +3813,15 @@
       "chapter": "書證第十七",
       "para_index": 19
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "張揖云：「虙，今伏羲氏也。」孟康漢書古文注亦云：「虙，今伏。」而皇甫謐云：「伏羲"
+    "note": "由字形相近、經史用例與漢碑證明虙羲被傳寫成宓羲，所立因果只解釋名稱訛變",
+    "excerpt": "張揖云：「虙，今伏羲氏也。」孟康漢書古文注亦云：「虙，今伏。」而皇甫謐云：「伏羲",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p20",
@@ -2405,11 +3829,13 @@
       "chapter": "書證第十七",
       "para_index": 20
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [],
     "confidence": null,
-    "note": null,
-    "excerpt": "太史公記曰：「寧爲雞口，無爲牛後。」此是删戰國策耳。案：延篤戰國策音義曰：「尸，"
+    "note": "依戰國策音義校正雞口牛後為雞尸牛從，只處理史記俗本的兩個傳寫字",
+    "excerpt": "太史公記曰：「寧爲雞口，無爲牛後。」此是删戰國策耳。案：延篤戰國策音義曰：「尸，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p21",
@@ -2417,11 +3843,15 @@
       "chapter": "書證第十七",
       "para_index": 21
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "應劭風俗通云：「太史公記：『高漸離變名易姓，爲人庸保，匿作於宋子，久之作苦，聞其"
+    "note": "由風俗通與射雉賦解釋伎痒本指懷技而欲施，據此判史記徘徊、彷徨為傳寫誤文，核心是詞義校定",
+    "excerpt": "應劭風俗通云：「太史公記：『高漸離變名易姓，爲人庸保，匿作於宋子，久之作苦，聞其",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p22",
@@ -2429,11 +3859,13 @@
       "chapter": "書證第十七",
       "para_index": 22
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [],
     "confidence": null,
-    "note": null,
-    "excerpt": "太史公論英布曰：「禍之興自愛姬，生於妒媚，以至滅國。」又漢書外戚傳亦云：「成結寵"
+    "note": "匯集史記、漢書、禮記與論衡用例，判妒媚當作同義連用的妒媢，僅屬字義與版本考證",
+    "excerpt": "太史公論英布曰：「禍之興自愛姬，生於妒媚，以至滅國。」又漢書外戚傳亦云：「成結寵",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p23",
@@ -2441,11 +3873,16 @@
       "chapter": "書證第十七",
       "para_index": 23
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "史記始皇本紀：「二十八年，丞相隗林、丞相王綰等，議於海上。」諸本皆作山林之「林。"
+    "note": "敘長安出土秦權、作者奉敕與李德林共同寫讀的經過，據實物銘文證明隗林當作隗狀，敘事仍服務於人名校勘",
+    "excerpt": "史記始皇本紀：「二十八年，丞相隗林、丞相王綰等，議於海上。」諸本皆作山林之「林。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p24",
@@ -2453,11 +3890,15 @@
       "chapter": "書證第十七",
       "para_index": 24
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "漢書云：「中外禔福。」字當從示。禔，安也，音匙匕之匙，義見蒼雅、方言。河北學士皆"
+    "note": "比較河北學士與江南書本對禔字的寫法和文士誤用，主旨只在判定字形、音義",
+    "excerpt": "漢書云：「中外禔福。」字當從示。禔，安也，音匙匕之匙，義見蒼雅、方言。河北學士皆",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p25",
@@ -2465,11 +3906,15 @@
       "chapter": "書證第十七",
       "para_index": 25
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "或問：「漢書注：『爲元后父名禁，故禁中爲省中。』何故以『省』代『禁』？」答曰：「"
+    "note": "以周禮及字書中省皆可訓察，解釋宮禁因常有禁衛省察而以省代禁，屬稱名來源的推論",
+    "excerpt": "或問：「漢書注：『爲元后父名禁，故禁中爲省中。』何故以『省』代『禁』？」答曰：「",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p26",
@@ -2477,11 +3922,15 @@
       "chapter": "書證第十七",
       "para_index": 26
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "漢明帝紀：「爲四姓小侯立學。」按：桓帝加元服，又賜四姓及梁、鄧小侯帛，是知皆外戚"
+    "note": "由明帝時外戚姓氏、受封年齡與朝祠身分推定四姓小侯所指，身分與立學只是史文字義的考證對象",
+    "excerpt": "漢明帝紀：「爲四姓小侯立學。」按：桓帝加元服，又賜四姓及梁、鄧小侯帛，是知皆外戚",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p27",
@@ -2489,11 +3938,16 @@
       "chapter": "書證第十七",
       "para_index": 27
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "後漢書云：「鸛雀銜三鱔魚。」多假借爲鱣鮪之鱣；俗之學士，因謂之爲鱣魚。案：魏武四"
+    "note": "以鱣、鱔的體型與顏色等可驗特徵，論證鸛雀所銜不可能是巨鱣而應為鱔，屬名物與假借字辨析",
+    "excerpt": "後漢書云：「鸛雀銜三鱔魚。」多假借爲鱣鮪之鱣；俗之學士，因謂之爲鱣魚。案：魏武四",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p28",
@@ -2501,11 +3955,16 @@
       "chapter": "書證第十七",
       "para_index": 28
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "後漢書：「酷吏樊曄爲天水郡守，凉州爲之歌曰：『寧見乳虎穴，不入冀府寺。』」而江南"
+    "note": "以虎豹穴居及不探虎穴的常識駁江南本穴作六，江南學士只是該傳寫錯誤的沿襲者，未形成南北群體關係主張",
+    "excerpt": "後漢書：「酷吏樊曄爲天水郡守，凉州爲之歌曰：『寧見乳虎穴，不入冀府寺。』」而江南",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p29",
@@ -2513,11 +3972,15 @@
       "chapter": "書證第十七",
       "para_index": 29
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "後漢書楊由傳云：「風吹削肺。」此是削札牘之柿耳。古者，書誤則削之，故左傳云「削而"
+    "note": "由削札、柿屑及風角書的轉削解釋風吹削肺，駁斥無證的屏障說，核心仍是字形假借與術語校定",
+    "excerpt": "後漢書楊由傳云：「風吹削肺。」此是削札牘之柿耳。古者，書誤則削之，故左傳云「削而",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p30",
@@ -2525,11 +3988,16 @@
       "chapter": "書證第十七",
       "para_index": 30
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "三輔決錄云：「前隊大夫范仲公，鹽豉蒜果共一筩。」「果」當作魏顆之「顆」。北土通呼"
+    "note": "以北方稱物塊為顆、江南稱蒜符的地域用語解釋果顆之誤，地域差異只是方言字義證據",
+    "excerpt": "三輔決錄云：「前隊大夫范仲公，鹽豉蒜果共一筩。」「果」當作魏顆之「顆」。北土通呼",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p31",
@@ -2537,11 +4005,15 @@
       "chapter": "書證第十七",
       "para_index": 31
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "有人訪吾曰：「魏志蔣濟上書云『弊(支力)之民』，是何字也？」余應之曰：「意爲(支"
+    "note": "敘訪客詢問魏志生僻字、作者據字書推定其形音的問答，內容止於一字考釋",
+    "excerpt": "有人訪吾曰：「魏志蔣濟上書云『弊(支力)之民』，是何字也？」余應之曰：「意爲(支",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p32",
@@ -2549,11 +4021,16 @@
       "chapter": "書證第十七",
       "para_index": 32
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "晉中興書：「太山羊曼，常頽縱任俠，飲酒誕節，兗州號爲濌伯。」此字皆無音訓。梁孝元"
+    "note": "敘梁元帝、張纘等傳授濌字音形，再由多種寫本與重沓之義駁玉篇黑旁字，人物評第服務於文字考證",
+    "excerpt": "晉中興書：「太山羊曼，常頽縱任俠，飲酒誕節，兗州號爲濌伯。」此字皆無音訓。梁孝元",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p33",
@@ -2561,11 +4038,18 @@
       "chapter": "書證第十七",
       "para_index": 33
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "古樂府歌詞，先述三子，次及三婦，婦是對舅姑之稱。其末章云：「丈人且安坐，調弦未遽"
+    "note": "辨三婦本為兒媳對舅姑奏樂，並譴責近代文士把它寫成多妻並偶而添鄭衛淫辭；親屬稱謂是考據，對文士言說操守的批評則屬品格",
+    "excerpt": "古樂府歌詞，先述三子，次及三婦，婦是對舅姑之稱。其末章云：「丈人且安坐，調弦未遽",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p34",
@@ -2573,11 +4057,15 @@
       "chapter": "書證第十七",
       "para_index": 34
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "古樂府歌百里奚詞曰：「百里奚，五羊皮。憶別時，烹伏雌，吹扊(上戸下多)；今日富貴"
+    "note": "以百里奚離別時貧困、拆門牡作薪的情境與字書音義，推定吹扊當作炊扊，純為歌詞校勘",
+    "excerpt": "古樂府歌百里奚詞曰：「百里奚，五羊皮。憶別時，烹伏雌，吹扊(上戸下多)；今日富貴",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p35",
@@ -2585,11 +4073,15 @@
       "chapter": "書證第十七",
       "para_index": 35
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "通俗文，世間題云「河南服虔字子愼造」。虔旣是漢人，其敍乃引蘇林、張揖；蘇、張皆是"
+    "note": "追查通俗文題署、引用年代及目錄著錄而仍不能確定作者，對文義與才華的品評也只服務於書籍歸屬考證",
+    "excerpt": "通俗文，世間題云「河南服虔字子愼造」。虔旣是漢人，其敍乃引蘇林、張揖；蘇、張皆是",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p36",
@@ -2597,11 +4089,15 @@
       "chapter": "書證第十七",
       "para_index": 36
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "或問：「山海經，夏禹及益所記，而有長沙、零陵、桂陽、諸暨，如此郡縣不少，以爲何也"
+    "note": "以多部古書出現後世人名地名的例子，主張這些年代矛盾源於典籍久亂與後人羼入，屬文本傳承原理",
+    "excerpt": "或問：「山海經，夏禹及益所記，而有長沙、零陵、桂陽、諸暨，如此郡縣不少，以爲何也",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p37",
@@ -2609,11 +4105,15 @@
       "chapter": "書證第十七",
       "para_index": 37
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "或問曰：「東宮舊事何以呼鴟尾爲祠尾？」答曰：「張敝者，呉人，不甚稽古，隨宜記注，"
+    "note": "由吳地方音逐一解釋東宮舊事以祠代鴟等自造字，對張敞不稽古的批評未超出文字訛謬成因",
+    "excerpt": "或問曰：「東宮舊事何以呼鴟尾爲祠尾？」答曰：「張敝者，呉人，不甚稽古，隨宜記注，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p38",
@@ -2621,11 +4121,16 @@
       "chapter": "書證第十七",
       "para_index": 38
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "又問：「東宮舊事『六色罽(糹畏)』，是何等物？當作何音？」答曰：「案：説文云：『"
+    "note": "觀察莙草形態與五色絲飾的相似，據以解釋罽帶裝飾的名稱和應用字形，純為名物考釋",
+    "excerpt": "又問：「東宮舊事『六色罽(糹畏)』，是何等物？當作何音？」答曰：「案：説文云：『",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p39",
@@ -2633,11 +4138,15 @@
       "chapter": "書證第十七",
       "para_index": 39
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "柏人城東北有一孤山，古書無載者。唯闞駰十三州志以爲舜納於大麓，即謂此山，其上今猶"
+    "note": "敘作者任趙州佐時讀漢碑、辨出巏婺山名並告知魏收採用的經過，地方士族無法定名只是考證故事的一環",
+    "excerpt": "柏人城東北有一孤山，古書無載者。唯闞駰十三州志以爲舜納於大麓，即謂此山，其上今猶",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p40",
@@ -2645,11 +4154,15 @@
       "chapter": "書證第十七",
       "para_index": 40
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "或問：「一夜何故五更？更何所訓？」答曰：「漢、魏以來，謂爲甲夜、乙夜、丙夜、丁夜"
+    "note": "由斗柄一夜所歷辰位與冬夏伸縮幅度，解釋一夜分五更及更訓歷經的原因，屬時間稱名原理",
+    "excerpt": "或問：「一夜何故五更？更何所訓？」答曰：「漢、魏以來，謂爲甲夜、乙夜、丙夜、丁夜",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p41",
@@ -2657,11 +4170,13 @@
       "chapter": "書證第十七",
       "para_index": 41
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [],
     "confidence": null,
-    "note": null,
-    "excerpt": "爾雅云：「朮，山薊也。」郭璞注云：「今朮似薊而生山中。」案：朮葉其體似薊，近世文"
+    "note": "據朮葉似薊判定文士為對偶而把薊讀作筋是誤讀，只校正一處名物音義",
+    "excerpt": "爾雅云：「朮，山薊也。」郭璞注云：「今朮似薊而生山中。」案：朮葉其體似薊，近世文",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p42",
@@ -2669,11 +4184,15 @@
       "chapter": "書證第十七",
       "para_index": 42
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "或問：「俗名傀儡子爲郭禿，有故實乎？」答曰：「風俗通云：『諸郭皆諱禿。』當是前代"
+    "note": "推測傀儡名郭禿源於前代以禿者形象作滑稽戲調，禿病與嘲笑只被用來說明俗名故實",
+    "excerpt": "或問：「俗名傀儡子爲郭禿，有故實乎？」答曰：「風俗通云：『諸郭皆諱禿。』當是前代",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p43",
@@ -2681,11 +4200,15 @@
       "chapter": "書證第十七",
       "para_index": 43
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "或問曰：「何故名治獄參軍爲長流乎？」答曰：「帝王世紀云：『帝少昊崩，其神降於長流"
+    "note": "由少昊之神主秋、秋官司寇掌刑罰的關聯，解釋治獄參軍何以稱長流，官職權力只是名稱來源",
+    "excerpt": "或問曰：「何故名治獄參軍爲長流乎？」答曰：「帝王世紀云：『帝少昊崩，其神降於長流",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p44",
@@ -2693,11 +4216,16 @@
       "chapter": "書證第十七",
       "para_index": 44
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "客有難主人曰：「今之經典，子皆謂非，説文所言，於皆云是，然則許愼勝孔子乎？」主人"
+    "note": "以客主問難論證經典傳寫可誤、說文亦非全然可信而須按體例與證據權衡；對許慎的譏評仍屬校勘方法，未另成品格規範",
+    "excerpt": "客有難主人曰：「今之經典，子皆謂非，説文所言，於皆云是，然則許愼勝孔子乎？」主人",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p45",
@@ -2705,11 +4233,18 @@
       "chapter": "書證第十七",
       "para_index": 45
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "世間小學者，不通古今，必依小篆，是正書記；凡爾雅、三蒼、説文，豈能悉得蒼頡本指哉"
+    "note": "批評小學者拘守小篆而不通古今，並自述由蚩薄俗字轉為見廣知變、修正舊執，將治字經驗提升為能自省通變的品格要求",
+    "excerpt": "世間小學者，不通古今，必依小篆，是正書記；凡爾雅、三蒼、説文，豈能悉得蒼頡本指哉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p46",
@@ -2717,11 +4252,15 @@
       "chapter": "書證第十七",
       "para_index": 46
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "案：彌亙字從二閑舟，詩云：「亙之秬秠」是也。今之隸書，轉舟爲日；而何法盛中興書乃"
+    "note": "列舉拆合字形的數術、戲笑與謎詩，主張此類附會不足以決定文字音讀，純屬辨字方法",
+    "excerpt": "案：彌亙字從二閑舟，詩云：「亙之秬秠」是也。今之隸書，轉舟爲日；而何法盛中興書乃",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#17-p47",
@@ -2729,11 +4268,16 @@
       "chapter": "書證第十七",
       "para_index": 47
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "河間邢芳語吾云：「賈誼傳云：『日中必(上彗下火)。』注：『(上彗下火)，暴也。』"
+    "note": "敘邢芳求證日中必曝的解釋、作者援太公六韜與字書辨正而使其笑服，人物情節承載一處字義校定",
+    "excerpt": "河間邢芳語吾云：「賈誼傳云：『日中必(上彗下火)。』注：『(上彗下火)，暴也。』",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#18-p01",
@@ -2741,11 +4285,19 @@
       "chapter": "音辭第十八",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "V"
+    ],
+    "discourse_mode": [
+      "observation",
+      "expression"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "夫九州之人，言語不同，生民已來，固常然矣。自春秋標齊言之傳，離騷目楚詞之經，此蓋"
+    "note": "追述音韻源流後比較南北、士庶口音及彼此非笑，並自述自幼督正家中兒女，故兼涉群體辨識與家內教養",
+    "excerpt": "夫九州之人，言語不同，生民已來，固常然矣。自春秋標齊言之傳，離騷目楚詞之經，此蓋",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#18-p02",
@@ -2753,11 +4305,13 @@
       "chapter": "音辭第十八",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [],
     "confidence": null,
-    "note": null,
-    "excerpt": "古今言語，時俗不同；著述之人，楚、夏各異。蒼頡訓詁，反稗為逋賣，反娃為於乖；戰國"
+    "note": "全段以古籍反切、地域讀音與前人音注互校，旨在判定哪些舊音不可沿用，未離開音韻考證而處理人生問題",
+    "excerpt": "古今言語，時俗不同；著述之人，楚、夏各異。蒼頡訓詁，反稗為逋賣，反娃為於乖；戰國",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#18-p03",
@@ -2765,11 +4319,15 @@
       "chapter": "音辭第十八",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "北人之音，多以舉、莒為矩；唯李季節云：「齊桓公與管仲於臺上謀伐莒，東郭牙望見桓公"
+    "note": "借東郭牙從齊桓公口形猜出伐莒之謀的故事證明莒、矩異音，故事只服務於音讀判別而不構成人生領域",
+    "excerpt": "北人之音，多以舉、莒為矩；唯李季節云：「齊桓公與管仲於臺上謀伐莒，東郭牙望見桓公",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#18-p04",
@@ -2777,11 +4335,13 @@
       "chapter": "音辭第十八",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [],
     "confidence": null,
-    "note": null,
-    "excerpt": "夫物體自有精麤，精麤謂之好惡；人心有所去取，去取謂之好惡。此音見於葛洪、徐邈。而"
+    "note": "區分物體精粗與人心去取所對應的兩種好惡讀音，對河北學士的批評仍只在辨析字義音讀",
+    "excerpt": "夫物體自有精麤，精麤謂之好惡；人心有所去取，去取謂之好惡。此音見於葛洪、徐邈。而",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#18-p05",
@@ -2789,11 +4349,13 @@
       "chapter": "音辭第十八",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [],
     "confidence": null,
-    "note": null,
-    "excerpt": "甫者，男子之美稱，古書多假借為父字；北人遂無一人呼為甫者，亦所未喻。唯管仲、范增"
+    "note": "考辨甫字作男子美稱、父字假借及人名號讀法，內容純屬字音字義而沒有延伸到身分或品格問題",
+    "excerpt": "甫者，男子之美稱，古書多假借為父字；北人遂無一人呼為甫者，亦所未喻。唯管仲、范增",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#18-p06",
@@ -2801,11 +4363,15 @@
       "chapter": "音辭第十八",
       "para_index": 6
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "案：諸字書，焉者鳥名，或云語詞，皆音於愆反。自葛洪要用字苑分焉字音訓：若訓何訓安"
+    "note": "依焉字作何安之訓或句末助詞建立分支讀音規則，雖形成可執行的判讀程序，所處理的仍只是音韻",
+    "excerpt": "案：諸字書，焉者鳥名，或云語詞，皆音於愆反。自葛洪要用字苑分焉字音訓：若訓何訓安",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#18-p07",
@@ -2813,11 +4379,13 @@
       "chapter": "音辭第十八",
       "para_index": 7
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [],
     "confidence": null,
-    "note": null,
-    "excerpt": "邪者，未定之詞。左傳曰：「不知天之棄魯邪？抑魯君有罪於鬼神邪？」莊子云：「天邪地"
+    "note": "以典籍例句及設難答辯判定邪為未定語詞並駁斥北音，論題始終是虛詞音義而非人的處境",
+    "excerpt": "邪者，未定之詞。左傳曰：「不知天之棄魯邪？抑魯君有罪於鬼神邪？」莊子云：「天邪地",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#18-p08",
@@ -2825,11 +4393,13 @@
       "chapter": "音辭第十八",
       "para_index": 8
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [],
     "confidence": null,
-    "note": null,
-    "excerpt": "江南學士讀左傳，口相傳述，自為凡例，軍自敗曰敗，打破人軍曰敗。諸記傳未見補敗反，"
+    "note": "檢查江南學士口傳的敗字讀法有無文獻依據並斥為穿鑿，屬讀音考證與治學方法而不落入十三領域",
+    "excerpt": "江南學士讀左傳，口相傳述，自為凡例，軍自敗曰敗，打破人軍曰敗。諸記傳未見補敗反，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#18-p09",
@@ -2837,11 +4407,20 @@
       "chapter": "音辭第十八",
       "para_index": 9
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "古人云：「膏粱難整。」以其為驕奢自足，不能剋勵也。吾見王侯外戚，語多不正，亦由內"
+    "note": "以王侯外戚因驕奢、賤保傅薰染及缺乏良師而語訛為因果，再敘元帝以侯爵失音誡諸子，兼論階層環境、品格自勵與皇室教養",
+    "excerpt": "古人云：「膏粱難整。」以其為驕奢自足，不能剋勵也。吾見王侯外戚，語多不正，亦由內",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#18-p10",
@@ -2849,11 +4428,17 @@
       "chapter": "音辭第十八",
       "para_index": 10
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "河北切攻字為古琮，與工、公、功三字不同，殊為僻也。比世有人名暹，自稱為纖；名琨，"
+    "note": "指出錯讀自己的名字不只造成音韻舛誤，還會使兒孫在家族避諱上紛亂，因而實質觸及代際傳承",
+    "excerpt": "河北切攻字為古琮，與工、公、功三字不同，殊為僻也。比世有人名暹，自稱為纖；名琨，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#19-p01",
@@ -2861,11 +4446,18 @@
       "chapter": "杂艺第十九",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "expression"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "真草书迹，微须留意。江南谚云：“尺牍书疏，千里面目也。”承晋、宋余俗，相与事之，"
+    "note": "自述雖承家學勤習書法仍受天分所限，並主張此藝只須留意而不可過精，以免因技長而長期被人役使",
+    "excerpt": "真草书迹，微须留意。江南谚云：“尺牍书疏，千里面目也。”承晋、宋余俗，相与事之，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#19-p02",
@@ -2873,11 +4465,19 @@
       "chapter": "杂艺第十九",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "II",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "王逸少风流才士，萧散名人，举世惟知其书，翻以能自蔽也。萧子云每叹曰：“吾着齐书，"
+    "note": "以王羲之、蕭子雲、王褒因書名掩才或反受役使的遭遇，告誡不可用書藝自我命名，直指身分認同與才能運用的取捨",
+    "excerpt": "王逸少风流才士，萧散名人，举世惟知其书，翻以能自蔽也。萧子云每叹曰：“吾着齐书，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#19-p03",
@@ -2885,11 +4485,13 @@
       "chapter": "杂艺第十九",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [],
     "confidence": null,
-    "note": null,
-    "excerpt": "梁氏秘阁散逸以来，吾见二王真草多矣，家中尝得十卷；方知陶隐居、阮交州、萧祭酒诸书"
+    "note": "僅據所見法書判定陶弘景、阮研、蕭子雲等人的書體淵源及年代變化，屬技藝源流品評",
+    "excerpt": "梁氏秘阁散逸以来，吾见二王真草多矣，家中尝得十卷；方知陶隐居、阮交州、萧祭酒诸书",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#19-p04",
@@ -2897,11 +4499,13 @@
       "chapter": "杂艺第十九",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [],
     "confidence": null,
-    "note": null,
-    "excerpt": "晋、宋以来，多能书者。故其时俗，递相染尚，所有部帙，楷正可观，不无俗字，非为大损"
+    "note": "按晉宋至北齊的時序描述字體、抄本與俗字的變遷得失，雖批評造字風氣，核心仍是書寫技藝史",
+    "excerpt": "晋、宋以来，多能书者。故其时俗，递相染尚，所有部帙，楷正可观，不无俗字，非为大损",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#19-p05",
@@ -2909,11 +4513,17 @@
       "chapter": "杂艺第十九",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "江南闾里间有画书赋，乃陶隐居弟子杜道士所为；其人未甚识字，轻为轨则，托名贵师，世"
+    "note": "批評不識字者輕率立則又託名名師，並指出世俗盲信會誤導後學，重點是虛假、輕率與求真的品格責任",
+    "excerpt": "江南闾里间有画书赋，乃陶隐居弟子杜道士所为；其人未甚识字，轻为轨则，托名贵师，世",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#19-p06",
@@ -2921,11 +4531,19 @@
       "chapter": "杂艺第十九",
       "para_index": 6
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "II",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "画绘之工，亦为妙矣；自古名士，多或能之。吾家尝有梁元帝手画蝉雀白团扇及马图，亦难"
+    "note": "敘顧庭、劉岳等人因畫藝精絕而被權貴當作工匠役使、蒙受羞恥，論證一項才能如何反過來限制職業處境與身分尊嚴",
+    "excerpt": "画绘之工，亦为妙矣；自古名士，多或能之。吾家尝有梁元帝手画蝉雀白团扇及马图，亦难",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#19-p07",
@@ -2933,11 +4551,20 @@
       "chapter": "杂艺第十九",
       "para_index": 7
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "弧矢之利，以威天下，先王所以观德择贤，亦济身之急务也。江南谓世之常射，以为兵射，"
+    "note": "比較南北士人所習禮射與兵射對選賢、防寇、自救及受賞的效用，最後明言不願子弟以射獵禽獸，兼涉群體公共作用、技藝取捨與家內告誡",
+    "excerpt": "弧矢之利，以威天下，先王所以观德择贤，亦济身之急务也。江南谓世之常射，以为兵射，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#19-p08",
@@ -2945,11 +4572,20 @@
       "chapter": "杂艺第十九",
       "para_index": 8
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VIII",
+      "XI",
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "卜筮者，圣人之业也；但近世无复佳师，多不能中。古者，卜以决疑，今人生疑于卜；何者"
+    "note": "從親學而無驗的經驗論證卜筮雖有超越根據卻難可靠傳承，勸人不可藉此自名或受卦忌束縛，兼論技藝、行動自主與信仰判斷",
+    "excerpt": "卜筮者，圣人之业也；但近世无复佳师，多不能中。古者，卜以决疑，今人生疑于卜；何者",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#19-p09",
@@ -2957,11 +4593,18 @@
       "chapter": "杂艺第十九",
       "para_index": 9
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "算术亦是六艺要事；自古儒士论天道，定律历者，皆学通之。然可以兼明，不可以专业。江"
+    "note": "肯定算術是儒士通天道、定律曆所需的技能，卻規定只能兼通而不可專業，直接處理學藝與職業專精的界線",
+    "excerpt": "算术亦是六艺要事；自古儒士论天道，定律历者，皆学通之。然可以兼明，不可以专业。江",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#19-p10",
@@ -2969,11 +4612,20 @@
       "chapter": "杂艺第十九",
       "para_index": 10
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VIII",
+      "IX"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "医方之事，取妙极难，不劝汝曹以自命也。微解药性，小小和合，居家得以救急，亦为胜事"
+    "note": "因醫術難臻精妙而勸子弟不可自命醫家，只宜略知藥性以供居家救急，兼顧家內照護、職業分寸與疾病救治",
+    "excerpt": "医方之事，取妙极难，不劝汝曹以自命也。微解药性，小小和合，居家得以救急，亦为胜事",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#19-p11",
@@ -2981,11 +4633,20 @@
       "chapter": "杂艺第十九",
       "para_index": 11
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VI",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "礼曰：“君子无故不彻琴瑟。”古来名士，多所爱好。洎于梁初，衣冠子孙，不知琴者，号"
+    "note": "肯定琴樂足以暢達神情，卻告誡子弟不可因琴名而受勳貴役使、取辱下坐，兼論情緒調適、技藝處境與家內傳誡",
+    "excerpt": "礼曰：“君子无故不彻琴瑟。”古来名士，多所爱好。洎于梁初，衣冠子孙，不知琴者，号",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#19-p12",
@@ -2993,11 +4654,19 @@
       "chapter": "杂艺第十九",
       "para_index": 12
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "家语曰：“君子不博，为其兼行恶道故也。”论语云：“不有博弈者乎？为之，犹贤乎已。"
+    "note": "衡量疲倦時偶爾博弈與勤學自持的高下，並警告圍棋易使人沉迷而荒廢正業，處理節制品格及學業時間的取捨",
+    "excerpt": "家语曰：“君子不博，为其兼行恶道故也。”论语云：“不有博弈者乎？为之，犹贤乎已。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#19-p13",
@@ -3005,11 +4674,18 @@
       "chapter": "杂艺第十九",
       "para_index": 13
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "ritual",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "投壶之礼，近世愈精。古者，实以小豆，为其矢之跃也。今则唯欲其骁，益多益喜，乃有倚"
+    "note": "前半以器物、名目與投法描述投壺之禮，末以彈棋能消愁釋憒而主張偶爾為之，使技藝落到內在情緒的調節",
+    "excerpt": "投壶之礼，近世愈精。古者，实以小豆，为其矢之跃也。今则唯欲其骁，益多益喜，乃有倚",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#20-p01",
@@ -3017,11 +4693,21 @@
       "chapter": "终制第二十",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "IX",
+      "X",
+      "XIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "expression"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "死者，人之常分，不可免也。吾年十九，值梁家丧乱，其间与白刃为伍者，亦常数辈；幸承"
+    "note": "作者面對衰年疾病與不可免之死，自述歷經亂世而活至六十餘歲已能坦然，並把素懷寫成給子孫的遺誡，是他替自己的死亡處境說出安頓之道",
+    "excerpt": "死者，人之常分，不可免也。吾年十九，值梁家丧乱，其间与白刃为伍者，亦常数辈；幸承",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#20-p02",
@@ -3029,11 +4715,22 @@
       "chapter": "终制第二十",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "V",
+      "VIII",
+      "X",
+      "XIII"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "expression"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "先君先夫人皆未还建邺旧山，旅葬江陵东郭。承圣末，已启求扬都，欲营迁厝。蒙诏赐银百"
+    "note": "作者自述亡國流離、家貧而終不能遷葬父母，又解釋為保全衰門子弟且受北方政教所迫才仕進，是他替自身無法補救的親喪與仕途處境作出安頓",
+    "excerpt": "先君先夫人皆未还建邺旧山，旅葬江陵东郭。承圣末，已启求扬都，欲营迁厝。蒙诏赐银百",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#20-p03",
@@ -3041,11 +4738,21 @@
       "chapter": "终制第二十",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "X",
+      "XII",
+      "XIII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "ritual"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "今年老疾侵，傥然奄忽，岂求备礼乎？一日放臂，沐浴而已，不劳复魄，殓以常衣。先夫人"
+    "note": "作者以將死父親身分替家貧子孫安排從殮葬、祭奠到佛事的節儉儀程，使他們能在守孝、不殺生與不耗盡生資之間安頓其死後事",
+    "excerpt": "今年老疾侵，傥然奄忽，岂求备礼乎？一日放臂，沐浴而已，不劳复魄，殓以常衣。先夫人",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#20-p04",
@@ -3053,10 +4760,20 @@
       "chapter": "终制第二十",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IV",
+      "VIII",
+      "X",
+      "XIII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "expression"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "孔子之葬亲也，云：“古者，墓而不坟。丘东西南北之人也，不可以弗识也。”于是封之崇"
+    "note": "作者以羈旅無定、未知葬地的自身處境告訴子孫死後即地掩埋，不必留戀朽骨而應傳業揚名，是他替家人面對無法守墓的失所處境指出安頓方向",
+    "excerpt": "孔子之葬亲也，云：“古者，墓而不坟。丘东西南北之人也，不可以弗识也。”于是封之崇",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T04:59:21+08:00"
   }
 ]

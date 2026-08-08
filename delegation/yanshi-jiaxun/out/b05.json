@@ -1,0 +1,180 @@
+{
+  "batch": "b05.md",
+  "rows": [
+    {
+      "chapter": "誡兵第十四",
+      "para_index": 1,
+      "domains": ["IV", "VII", "VIII"],
+      "modes": ["proposition", "expression"],
+      "reason": "由顏氏歷代以儒雅為業而從武者多遭禍敗，反觀今世士大夫恃勇逞強卻不能衛國，作者自述因此不以武力求達並囑子孫記取，兼論家業傳承、操守與職能選擇"
+    },
+    {
+      "chapter": "誡兵第十四",
+      "para_index": 2,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "主張文士應通曉軍國成敗以盡忠謀國，卻不可憑略讀兵書便在治亂之世煽動逆亂，告誡其辨明職責、能力與品格，免致身族俱滅"
+    },
+    {
+      "chapter": "誡兵第十四",
+      "para_index": 3,
+      "domains": ["II", "VIII"],
+      "modes": ["observation", "proposition"],
+      "reason": "以能習兵器、善騎乘才足稱武夫，反駁不讀書的士大夫自稱武夫，所辨是自我名目與實際職業能力是否相稱"
+    },
+    {
+      "chapter": "養生第十五",
+      "para_index": 1,
+      "domains": ["IX", "X", "XI", "XII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "辨明成仙既難且仍不能免死，在壽命受天命限制下，仍可用作息、飲食與審慎服藥調護身體、避免夭折；並以有效小術和誤藥致死者告誡不可專精仙術或輕率用藥"
+    },
+    {
+      "chapter": "養生第十五",
+      "para_index": 2,
+      "domains": ["VII", "IX", "X"],
+      "modes": ["proposition", "prescription"],
+      "reason": "主張養生先要避禍全身，並以單豹、張毅及因傲慢受刑、因貪溺取禍者說明只調養內外而不修正品格與行事，仍會喪失生命"
+    },
+    {
+      "chapter": "養生第十五",
+      "para_index": 3,
+      "domains": ["IV", "V", "VII", "X", "XIII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "區分因貪欲讒慝而枉死與為孝義、保全家族或救國而犧牲，並敘侯景亂中求生仍受辱被殺者及臨死不屈者，替身處無可苟免之亂世者界定如何以操守面對死亡"
+    },
+    {
+      "chapter": "歸心第十六",
+      "para_index": 1,
+      "domains": ["IV", "XII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "宣稱三世因果可信有驗，並以家族世代歸依為傳承基礎，因憂子孫信心未固而再加勸誘，直接建立家內的信仰立場"
+    },
+    {
+      "chapter": "歸心第十六",
+      "para_index": 2,
+      "domains": ["VII", "XII"],
+      "modes": ["proposition"],
+      "reason": "以佛教五戒對應儒家仁義禮智信，主張內外二教本旨相通，且世俗中的軍獵刑宴只是依人性加以節制，據此論證不可尊儒而背佛"
+    },
+    {
+      "chapter": "歸心第十六",
+      "para_index": 3,
+      "domains": ["XII"],
+      "modes": ["observation"],
+      "reason": "歸納世俗反對佛教的五類理由，包括超自然難信、報應未見、僧尼不純、耗損國用及前後世非同一人，作為後文逐項答辯的信仰爭點"
+    },
+    {
+      "chapter": "歸心第十六",
+      "para_index": 4,
+      "domains": ["XII"],
+      "modes": ["proposition"],
+      "reason": "連續質疑儒家對星辰、天地、水勢與分野的常識性解釋，主張人連可見宇宙尚不能窮究，便不能以尋常人事斷然否定世界之外與神化之事"
+    },
+    {
+      "chapter": "歸心第十六",
+      "para_index": 5,
+      "domains": ["XII"],
+      "modes": ["observation", "proposition"],
+      "reason": "觀察凡人只信耳目所及，並以各地之人不信陌生的大魚、巨木、錦與船等實例，論證經驗範圍有限，不能據此否定佛典所說的多重世界與長劫"
+    },
+    {
+      "chapter": "歸心第十六",
+      "para_index": 6,
+      "domains": ["XII"],
+      "modes": ["proposition"],
+      "reason": "以世間祝師幻術尚能呈現異常變化作類比，推論佛教所說的神通感應與淨土妙塔更不能僅因超出日常經驗便判為不可能"
+    },
+    {
+      "chapter": "歸心第十六",
+      "para_index": 7,
+      "domains": ["VII", "XI", "XII"],
+      "modes": ["proposition"],
+      "reason": "主張善惡必有禍福報應，眼前善人受苦、惡人享福可由前業與後生解釋，藉跨世因果調和德行與命運不相稱的疑難並為立身提供信仰依據"
+    },
+    {
+      "chapter": "歸心第十六",
+      "para_index": 8,
+      "domains": ["V", "VII", "XII"],
+      "modes": ["observation", "proposition"],
+      "reason": "指出世人忽略高行名僧、只憑凡僧犯戒便毀謗整個佛教，又以朝臣與儒生同樣難以全守教法反駁雙重標準，兼論群體偏見、個人戒行與信仰評判"
+    },
+    {
+      "chapter": "歸心第十六",
+      "para_index": 9,
+      "domains": ["IV", "V", "VII", "XII"],
+      "modes": ["proposition"],
+      "reason": "主張佛道不只出家一途，在家亦可由孝親仁惠實踐；寺院妨農、僧尼耗稅源於為政失節而非佛旨，又正面比較個人求道、安家與國家賦役難以並遂的責任衝突"
+    },
+    {
+      "chapter": "歸心第十六",
+      "para_index": 10,
+      "domains": ["IV", "VII", "X", "XI", "XII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "論證形體死亡後精神仍延續，今生修行會改變後世處境，並以照顧子孫反證更應為自身後生預作準備；末勸不能離家出家的子孫兼修戒行誦讀，不可虛度難得人生"
+    },
+    {
+      "chapter": "歸心第十六",
+      "para_index": 11,
+      "domains": ["VII", "X", "XII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "由儒家仁者不忍見生物被殺與一切眾生愛命，主張必須勉力戒殺，並以殺生者臨死受報、子孫遭殃申明佛教因果戒律"
+    },
+    {
+      "chapter": "歸心第十六",
+      "para_index": 12,
+      "domains": ["VII", "X", "XII"],
+      "modes": ["narrative"],
+      "reason": "敘一人長期用大量雞卵沐髮，臨死時髮中傳出眾多雞雛聲，承接上段把故事作為殺生在死亡時獲得超自然報應的例證"
+    },
+    {
+      "chapter": "歸心第十六",
+      "para_index": 13,
+      "domains": ["VII", "IX", "XII"],
+      "modes": ["narrative"],
+      "reason": "敘以販賣鱔羹為業的劉氏生下鱔首人身之子，按戒殺段落的上下文，以後代身體異常承載殺生業報的勸誡"
+    },
+    {
+      "chapter": "歸心第十六",
+      "para_index": 14,
+      "domains": ["VII", "IX", "X", "XII"],
+      "modes": ["narrative"],
+      "reason": "敘羊向賓客跪求而未獲救，賓客食羊後肉塊遍行體內、痛呼作羊鳴而死，以身體折磨與死亡呈現漠視求生、參與殺食的因果報應"
+    },
+    {
+      "chapter": "歸心第十六",
+      "para_index": 15,
+      "domains": ["VII", "IX", "X", "XII"],
+      "modes": ["narrative"],
+      "reason": "敘縣令在寺中撤除形像、無視牛跪拜仍命宰殺，隨後患癩十餘年而死，把褻瀆、殘酷殺生與疾病死亡連成宗教報應故事"
+    },
+    {
+      "chapter": "歸心第十六",
+      "para_index": 16,
+      "domains": ["V", "VII", "IX", "XII"],
+      "modes": ["narrative"],
+      "reason": "敘郡守在亂世旱饑中截斷十餘名偷麥饑民的手腕，執行者後來生下無手之子，以統治者濫施刑罰及身體殘害承載跨代業報"
+    },
+    {
+      "chapter": "歸心第十六",
+      "para_index": 17,
+      "domains": ["VII", "IX", "X", "XII"],
+      "modes": ["narrative"],
+      "reason": "敘豪侈官員嗜好親手殺牛，病危時看見群牛並感到全身如遭刀刺而死，以痛苦死亡呈現好殺之行的超自然報驗"
+    },
+    {
+      "chapter": "歸心第十六",
+      "para_index": 18,
+      "domains": ["VII", "IX", "X", "XII"],
+      "modes": ["narrative"],
+      "reason": "敘高偉捕魚後患病，反覆看見群魚啃咬自己而死，承接戒殺論述，以疾病、幻見與死亡呈現捕殺所得的因果報應"
+    },
+    {
+      "chapter": "歸心第十六",
+      "para_index": 19,
+      "domains": ["IV", "V", "VII", "XI", "XII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "批評舅姑怨媳婦資財不足便虐待辱罵、只愛親生子女而不愛兒婦，指出這會反教媳婦不孝並招致鬼神減壽；又告誡連鄰居朋友都應避開此種不認命且敗德之人"
+    }
+  ]
+}
