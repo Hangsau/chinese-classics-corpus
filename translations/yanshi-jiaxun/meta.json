@@ -9,14 +9,14 @@
   "version_date": "北齊",
   "source_platform": "zh.wikisource.org",
   "source_url": "https://zh.wikisource.org/wiki/顏氏家訓",
-  "downloaded_at": "2026-07-28T00:50:49+00:00",
-  "size_bytes": 123113,
-  "checksum_sha256": "9aeaa4a1863321d21ca8d02d42bc2c9e96eeac4f4a9dba23262aaf1ebfc1a046",
+  "downloaded_at": "2026-08-08T19:58:48+00:00",
+  "size_bytes": 123091,
+  "checksum_sha256": "09c2046b5cc0848075ca3e09a5ca20cdad6fbb4fbc575a6e7830ebf352f364f5",
   "chapter_count": 20,
   "expected_chapter_count": 20,
   "license": "CC BY-SA 4.0",
   "verified": false,
   "tier": "核心",
   "psych_survey": null,
-  "notes": null
+  "notes": "上游 Wikisource 繁簡混排：〈勉学第八〉〈文章第九〉〈名实第十〉〈涉务第十一〉〈杂艺第十九〉〈终制第二十〉六篇是簡體（16,893／40,797 字，41%），其餘十四篇為繁體。這是來源本身的狀態，不是抓取錯誤；原文唯讀不作轉換（動了破 SHA-256）。做跨書字詞檢索時要留意這六篇。章標籤沿用來源用字，故 annotations.json 的 anchor.chapter 也是簡體，不得手改。"
 }

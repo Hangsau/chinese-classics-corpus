@@ -167,6 +167,23 @@ def split_by_headings(text: str) -> list[tuple[str, str]] | None:
     return chapters or None
 
 
+def adopt_sole_heading(label: str, body: str) -> tuple[str, str]:
+    """A 卷-level subpage holding exactly one 篇 keeps the 卷 name as its label,
+    because split_by_headings needs two headings before it will split. Take the
+    lone inner heading as the label instead — 卷第3 is a useless annotation anchor
+    when the 篇 is called 勉學第八."""
+    lines = body.split("\n")
+    marks = [i for i, l in enumerate(lines) if l.startswith(HEADING_MARKER)]
+    marks = [i for i in marks if lines[i][len(HEADING_MARKER):].strip() not in NAV_HEADINGS]
+    if len(marks) != 1:
+        return label, body
+    inner = lines[marks[0]][len(HEADING_MARKER):].strip()
+    rest = "\n".join(lines[:marks[0]] + lines[marks[0] + 1:]).strip()
+    if not inner or not rest or inner == label:
+        return label, body
+    return inner, rest
+
+
 def _nested_in_block(el, container, block_tags: list[str]) -> bool:
     for a in el.parents:
         if a is container:
@@ -297,7 +314,10 @@ def download_text(entry: dict) -> dict:
         expanded: list[tuple[str, str]] = []
         for label, body in chapters:
             split = split_by_headings(body)
-            expanded.extend(split if split else [(label, body)])
+            if split:
+                expanded.extend(split)
+            else:
+                expanded.append(adopt_sole_heading(label, body))
         chapters = expanded
 
     # Redirect pairs (外儲說右上 / 右上, 明堂月令諭 / 明堂月令論) differ only by the
