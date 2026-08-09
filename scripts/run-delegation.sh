@@ -60,6 +60,10 @@ PROMPT
 )" 2>&1 | tail -n 5
   clobber=""
   while read -r h f; do
+    # Git Bash 的 sha256sum 走 binary 模式，輸出是 `<hash> *<path>`。不剝掉那個星號，
+    # 回查時就會找不到檔案、hash 取到空字串，於是每一個既存檔案都被判成被改動——
+    # 偵測器無條件誤報等於沒有偵測器。2026-08-09 醫家三部發包時抓到。
+    f=${f#\*}
     [ -z "$f" ] && continue
     [ "$f" = "$out" ] && continue
     now=$(sha256sum "$f" 2>/dev/null | cut -d' ' -f1)
