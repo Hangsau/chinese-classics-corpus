@@ -1,0 +1,26 @@
+{
+  "batch": "b03.md",
+  "rows": [
+    {
+      "chapter": "卷三",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "正文按韻羅列軍伍、器物、婚嫁、身體、農牧等識字用字，詞義雖涉及人事，並未另說人可以怎麼活或人際如何"
+    },
+    {
+      "chapter": "卷四",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "正文按類羅列鳥獸、疾病、醫藥、喪祭、官職與刑獄等識字用字，相關詞目只是字表而非對人生問題的論說"
+    },
+    {
+      "chapter": "急就篇注敘",
+      "para_index": 1,
+      "domains": ["IV", "V", "VIII"],
+      "modes": ["proposition", "expression"],
+      "reason": "既對比窮鄉幼學與膏粱子弟受出身影響的求學處境，又自述承接父親未竟的注釋志業；V、VIII、IV分別記錄階層關係、學問志業與父子傳承，少一項便會漏掉一層"
+    }
+  ]
+}
