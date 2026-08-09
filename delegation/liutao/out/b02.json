@@ -1,0 +1,159 @@
+{
+  "batch": "b02.md",
+  "rows": [
+    {
+      "chapter": "將威第二十二",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "主張殺貴大、賞貴小，使刑上極而賞下通，以賞罰及於貴賤建立將威"
+    },
+    {
+      "chapter": "勵軍第二十三",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "將與士卒共寒暑勞苦饑飽，並明說士非好死而樂傷、是因將知其寒暑饑飽，在解釋人為何願為另一人赴死"
+    },
+    {
+      "chapter": "陰符第二十四",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "八種符信分別規定長度與所報軍情，並規定稽留或洩密者受誅，全段是主將間的通訊協定"
+    },
+    {
+      "chapter": "陰書第二十五",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "分書為三部、三人各操一分而不相知情，全段是通訊協定的操作規定，沒有說到關於人的什麼"
+    },
+    {
+      "chapter": "軍勢第二十六",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "全段說明因敵而變、先見勝機、見利勿疑等用兵原則，猶豫與狐疑只被列為戰術缺陷"
+    },
+    {
+      "chapter": "奇兵第二十七",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "formalization"],
+      "reason": "逐項以地形、裝備、賞罰與將領條件對應破敵用途，是奇正戰術對照表，仁勇智等僅作戰力條件"
+    },
+    {
+      "chapter": "五音第二十八",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation", "formalization"],
+      "reason": "規定夜半持律管候敵，並把管聲與五行方位、敵營聲色逐項配對，是技術性占驗與偵測程序"
+    },
+    {
+      "chapter": "兵徵第二十九",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["observation"],
+      "reason": "以全軍悅懌相喜、敬將命或相恐相惑、不重其將判斷強弱，描述群體士氣與互信的整體狀態，後段則列聲氣等勝敗徵候"
+    },
+    {
+      "chapter": "農器第三十",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "前段把農具對應兵具，末段則主張善為國者安其處所、闢其田野，並以耕田畝數與織紝尺度組織生產人力"
+    },
+    {
+      "chapter": "軍用第三十一",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "逐項列出戰車、弩、矛戟、蒺藜、渡水器具等的尺寸、重量與數量，是三軍器械規格清單"
+    },
+    {
+      "chapter": "三陳第三十二",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把日月星辰、丘陵水泉、車馬文武分列為天陳、地陳、人陳，是陣法分類而非關於人的主張"
+    },
+    {
+      "chapter": "疾戰第三十三",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "以暴用則勝、徐用則敗說明被圍時的疾擊原則，並規定四武衝陣及左右中軍的行動"
+    },
+    {
+      "chapter": "必出第三十四",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "全段規定深陷重圍時的夜行次序、兵種位置、渡越器械與伏擊方式，生死與勇鬥只作突圍手段和後果"
+    },
+    {
+      "chapter": "軍略第三十五",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "formalization"],
+      "reason": "先要求平時備妥並習用器械，再按攻城、守備、越塹與渡水逐項配置軍用器具，是戰備操作清單"
+    },
+    {
+      "chapter": "臨境第三十六",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "分兵固守、積糧、潛襲及以老弱揚塵鼓呼，都是臨境相拒時欺敵與襲擊的戰法處置"
+    },
+    {
+      "chapter": "動靜第三十七",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "規定設伏、增旗鼓、佯走再還擊等步驟以驚亂敵軍，恐懼與心傷只是戰術所欲造成或補救的反應"
+    },
+    {
+      "chapter": "金鼓第三十八",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "以戒為固、以怠為敗，繼而規定守壘號令、分隊追擊與遇伏應對，是警戒和指揮程序"
+    },
+    {
+      "chapter": "絕道第三十九",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "formalization"],
+      "reason": "規定深入敵境時偵察地形、守關梁並按二百里、一百里、五十里配置遠候與踵軍，是防止糧道被絕的戰法"
+    },
+    {
+      "chapter": "略地第四十",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "全段規定圍城、留缺、截糧與處置降者以使敵軍和天下歸服，仁義厚德在此被用作略地取勝手段"
+    },
+    {
+      "chapter": "火戰第四十一",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "規定遭敵縱火時反向燔燒、退守黑地及布置強弩武衝陣，全段是火攻情境的處置方法"
+    },
+    {
+      "chapter": "壘虛第四十二",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation", "prescription"],
+      "reason": "以鼓鐸無聲、飛鳥不驚及士卒往返速度判斷敵壘虛實和陣形混亂，並據此規定出擊時機"
+    },
+    {
+      "chapter": "林戰第四十三",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "規定林中衝陣、兵器內外配置、伐木開道、騎車運用及輪替休戰，是林地作戰程序"
+    }
+  ]
+}
