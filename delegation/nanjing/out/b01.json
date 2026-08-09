@@ -1,0 +1,166 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {"chapter": "第一難", "para_index": 1, "domains": [], "modes": ["proposition"], "reason": "設問為何十二經皆有動脈卻獨取寸口決斷藏府吉凶，是追問脈診原理，未離開診斷技術"},
+    {"chapter": "第一難", "para_index": 2, "domains": [], "modes": ["observation"], "reason": "界定寸口為諸脈大會及手太陰脈動之處，是脈位說明，未觸及人的處境"},
+    {"chapter": "第一難", "para_index": 3, "domains": [], "modes": ["proposition", "formalization"], "reason": "以一日一萬三千五百息推得脈行五十度並據此證成獨取寸口，是可計算的脈行原理，未觸及人的處境"},
+
+    {"chapter": "第二難", "para_index": 1, "domains": [], "modes": ["observation"], "reason": "界定尺與寸為脈氣會聚的重要部位，是脈法名位說明，未觸及人的處境"},
+    {"chapter": "第二難", "para_index": 2, "domains": [], "modes": ["observation"], "reason": "描述關至尺與關至魚際分屬陰陽的脈位，是寸尺部位劃分，未觸及人的處境"},
+    {"chapter": "第二難", "para_index": 3, "domains": [], "modes": ["proposition", "formalization"], "reason": "以一寸與九分的尺寸推分界定陰陽脈位，是可量度的脈法，未觸及人的處境"},
+
+    {"chapter": "第三難", "para_index": 1, "domains": [], "modes": ["observation"], "reason": "列舉太過、不及、相乘、覆溢與關格而設問其義，是脈象分類問題，未觸及人的處境"},
+    {"chapter": "第三難", "para_index": 2, "domains": [], "modes": ["proposition", "formalization"], "reason": "以關前九分及浮脈的增減判太過、不及與陰乘，是量化的脈診判則，未觸及人的處境"},
+    {"chapter": "第三難", "para_index": 3, "domains": [], "modes": ["proposition", "formalization"], "reason": "以關後一寸及沉脈的增減判覆溢、陽乘與死候，是量化的脈診預後，未在談死亡處境"},
+
+    {"chapter": "第四難", "para_index": 1, "domains": [], "modes": ["proposition"], "reason": "把呼出、吸入及其間的脈分配於心肺腎肝脾，是呼吸與藏脈的生理原理，未觸及人的處境"},
+    {"chapter": "第四難", "para_index": 2, "domains": [], "modes": ["proposition"], "reason": "以浮脈屬陽、沉脈屬陰說明脈象陰陽，是脈法分類原理，未觸及人的處境"},
+    {"chapter": "第四難", "para_index": 3, "domains": [], "modes": ["observation"], "reason": "以浮大散與浮短濇分別對應心肺，是藏脈形態的診察描述，未觸及人的處境"},
+    {"chapter": "第四難", "para_index": 4, "domains": [], "modes": ["observation"], "reason": "以牢長及按舉時的濡實分別對應肝腎，是藏脈形態的診察描述，未觸及人的處境"},
+    {"chapter": "第四難", "para_index": 5, "domains": [], "modes": ["proposition"], "reason": "以脾居中州解釋其脈在浮沉之中，是藏象與脈位原理，未觸及人的處境"},
+    {"chapter": "第四難", "para_index": 6, "domains": [], "modes": ["proposition"], "reason": "設問一陰一陽等說法是否表示寸口六脈同動，是追問脈象組合的意義，未觸及人的處境"},
+    {"chapter": "第四難", "para_index": 7, "domains": [], "modes": ["proposition"], "reason": "否定六脈同動並把六脈解作浮沉長短滑濇，是脈象概念辨析，未觸及人的處境"},
+    {"chapter": "第四難", "para_index": 8, "domains": [], "modes": ["observation"], "reason": "把浮滑長列為陽、沉短濇列為陰，是脈象陰陽分類，未觸及人的處境"},
+    {"chapter": "第四難", "para_index": 9, "domains": [], "modes": ["observation"], "reason": "逐一定義一陰一陽至一陰三陽的沉浮滑長組合，是脈象型態說明，未觸及人的處境"},
+    {"chapter": "第四難", "para_index": 10, "domains": [], "modes": ["observation"], "reason": "逐一定義一陽一陰至一陽三陰的浮沉長短濇組合，是脈象型態說明，未觸及人的處境"},
+    {"chapter": "第四難", "para_index": 11, "domains": [], "modes": ["prescription"], "reason": "規定依各經所在判名疾病逆順，是脈診操作規則，未觸及人的處境"},
+
+    {"chapter": "第五難", "para_index": 1, "domains": [], "modes": ["observation", "formalization"], "reason": "以三、六、九、十二菽等按壓重量分辨肺心脾肝腎，是可量度的持脈程序，未觸及人的處境"},
+
+    {"chapter": "第六難", "para_index": 1, "domains": [], "modes": ["observation"], "reason": "設問陰盛陽虛與陽盛陰虛兩種脈象的含義，是脈象分類問題，未觸及人的處境"},
+    {"chapter": "第六難", "para_index": 2, "domains": [], "modes": ["proposition"], "reason": "依浮取與沉取的損小實大判定陰陽盛虛，是脈診判別原理，未觸及人的處境"},
+
+    {"chapter": "第七難", "para_index": 1, "domains": [], "modes": ["observation"], "reason": "列出六經脈形並問其為平脈或病脈，是季候脈象的診斷設題，未觸及人的處境"},
+    {"chapter": "第七難", "para_index": 2, "domains": [], "modes": ["proposition", "formalization"], "reason": "以六個六十日合成三百六十日配置三陰三陽旺時，是可計算的季候脈法，未觸及人的處境"},
+
+    {"chapter": "第八難", "para_index": 1, "domains": [], "modes": ["proposition"], "reason": "設問寸口脈平而仍死亡的原因，是脈診預後原理問題，未在談死亡處境"},
+    {"chapter": "第八難", "para_index": 2, "domains": [], "modes": ["proposition"], "reason": "以生氣之原與樹根莖葉譬喻解釋內在根絕可致死，是經脈生理與預後推論，未在談死亡或神聖"},
+
+    {"chapter": "第九難", "para_index": 1, "domains": [], "modes": ["proposition"], "reason": "由脈數遲與陰陽推定藏府寒熱，建立脈象辨病原理，未觸及人的處境"},
+
+    {"chapter": "第十難", "para_index": 1, "domains": [], "modes": ["proposition"], "reason": "把心脈急大緩濇沉的甚微變化配屬五藏六府邪氣，解釋一脈變十的診斷體系，未觸及人的處境"},
+
+    {"chapter": "第十一難", "para_index": 1, "domains": [], "modes": ["formalization"], "reason": "以五十動前一止作為判問一藏無氣的量化脈候，是脈診計數設題，未觸及人的處境"},
+    {"chapter": "第十一難", "para_index": 2, "domains": [], "modes": ["proposition"], "reason": "由吸氣不能至腎而折返於肝推知腎氣先盡，是呼吸脈候的診斷推論，未觸及人的處境"},
+
+    {"chapter": "第十二難", "para_index": 1, "domains": [], "modes": ["proposition"], "reason": "設問如何分辨藏脈內絕與外絕以免針補相反，是針法辨證問題，未觸及人的處境"},
+    {"chapter": "第十二難", "para_index": 2, "domains": ["VIII"], "modes": ["proposition", "prescription"], "reason": "指出醫者把已絕的一方反補成實實虛虛會造成病人死亡並直稱醫殺，除針補禁忌外也明確追究醫者的職業責任"},
+
+    {"chapter": "第十三難", "para_index": 1, "domains": [], "modes": ["proposition"], "reason": "設問色診與脈診相生相勝時應如何參合，是綜合診斷原理，未觸及人的處境"},
+    {"chapter": "第十三難", "para_index": 2, "domains": ["VIII"], "modes": ["proposition", "formalization"], "reason": "建立五色、脈象與尺膚的參診規則，並以知一至知三及十全六至九分等第評量醫者的專業能力與成效"},
+
+    {"chapter": "第十四難", "para_index": 1, "domains": [], "modes": ["observation", "formalization"], "reason": "按每呼脈至一至六次分列平、離經、奪精、死與命絕，是量化的脈象分級與預後，未在談死亡處境"},
+    {"chapter": "第十四難", "para_index": 2, "domains": [], "modes": ["proposition", "formalization"], "reason": "以一損至五損排列皮毛、血脈、肌肉、筋骨的衰敗次序與死候，是分級病程模型，未把病身寫成人的處境"},
+    {"chapter": "第十四難", "para_index": 3, "domains": [], "modes": ["prescription"], "reason": "逐條規定肺心脾肝腎受損時益氣、調榮衛飲食寒溫等治法，是治療處方，未觸及人的處境"},
+    {"chapter": "第十四難", "para_index": 4, "domains": [], "modes": ["observation", "formalization"], "reason": "列舉每呼吸一至六至等脈率並問如何由此辨病，是量化脈診設題，未觸及人的處境"},
+    {"chapter": "第十四難", "para_index": 5, "domains": [], "modes": ["proposition", "formalization"], "reason": "把呼吸脈至數、脈形與晝夜配成病勢及死生判則，是可執行的脈診預後體系，魂與行尸亦只是診斷術語"},
+
+    {"chapter": "第十五難", "para_index": 1, "domains": [], "modes": ["observation"], "reason": "設問春弦夏鉤秋毛冬石是旺脈或病脈，是四時脈象的診斷問題，未觸及人的處境"},
+    {"chapter": "第十五難", "para_index": 2, "domains": [], "modes": ["proposition"], "reason": "以四時草木生長收藏的形態解釋弦鉤毛石四脈，是季候脈象原理，未觸及人的處境"},
+    {"chapter": "第十五難", "para_index": 3, "domains": [], "modes": ["proposition"], "reason": "依春脈弦的強弱滑勁及胃氣多寡判平病死，是季候脈診與預後規則，未在談死亡處境"},
+    {"chapter": "第十五難", "para_index": 4, "domains": [], "modes": ["proposition"], "reason": "依夏脈鉤的實虛數曲及胃氣多寡判平病死，是季候脈診與預後規則，未在談死亡處境"},
+    {"chapter": "第十五難", "para_index": 5, "domains": [], "modes": ["proposition"], "reason": "依秋脈毛的浮大蕭索及胃氣多寡判平病死，是季候脈診與預後規則，未在談死亡處境"},
+    {"chapter": "第十五難", "para_index": 6, "domains": [], "modes": ["proposition"], "reason": "依冬脈石的濡滑連屬及胃氣多寡判平病死，是季候脈診與預後規則，未在談死亡處境"},
+    {"chapter": "第十五難", "para_index": 7, "domains": [], "modes": ["proposition"], "reason": "以胃受水穀而為四時脈之本解釋脾衰脈候，是藏象脈理與病候判定，未觸及人的處境"},
+
+    {"chapter": "第十六難", "para_index": 1, "domains": [], "modes": ["proposition"], "reason": "面對三部九候等不同脈法而設問如何判別，是診斷方法論問題，未觸及人的處境"},
+    {"chapter": "第十六難", "para_index": 2, "domains": [], "modes": ["proposition"], "reason": "主張疾病有內證與外證並追問其表現，是病證辨析原理，未觸及人的處境"},
+    {"chapter": "第十六難", "para_index": 3, "domains": [], "modes": ["observation", "proposition"], "reason": "列肝脈之外色情志、內部動氣與四肢等症狀，據其有無判肝病，是病證診斷而非情緒生活"},
+    {"chapter": "第十六難", "para_index": 4, "domains": [], "modes": ["observation", "proposition"], "reason": "列心脈之外色喜笑、內部動氣與心掌等症狀，據其有無判心病，是病證診斷而非情緒生活"},
+    {"chapter": "第十六難", "para_index": 5, "domains": [], "modes": ["observation", "proposition"], "reason": "列脾脈之外色思味、內部動氣與腹脹怠臥等症狀，據其有無判脾病，是病證診斷而非情緒生活"},
+    {"chapter": "第十六難", "para_index": 6, "domains": [], "modes": ["observation", "proposition"], "reason": "列肺脈之外色悲哭、內部動氣與喘咳寒熱等症狀，據其有無判肺病，是病證診斷而非情緒生活"},
+    {"chapter": "第十六難", "para_index": 7, "domains": [], "modes": ["observation", "proposition"], "reason": "列腎脈之外色恐欠、內部動氣與小腹足脛等症狀，據其有無判腎病，是病證診斷而非情緒生活"},
+
+    {"chapter": "第十七難", "para_index": 1, "domains": [], "modes": ["proposition"], "reason": "設問疾病死癒久延能否由切脈盡知，是脈診預後能力的問題，未在談病中或死亡處境"},
+    {"chapter": "第十七難", "para_index": 2, "domains": [], "modes": ["proposition"], "reason": "逐條以症狀與應得脈象不相符來判死候，是病證與脈診的預後規則，未在談人的苦難或死亡"},
+
+    {"chapter": "第十八難", "para_index": 1, "domains": [], "modes": ["observation"], "reason": "設問手足經脈如何配置於三部，是脈位與經脈分類問題，未觸及人的處境"},
+    {"chapter": "第十八難", "para_index": 2, "domains": [], "modes": ["proposition"], "reason": "以金生水及水下行解釋手太陰陽明與足少陰太陽居下部，是五行脈位原理，未觸及人的處境"},
+    {"chapter": "第十八難", "para_index": 3, "domains": [], "modes": ["proposition"], "reason": "續以木生火上炎及火生土居中說明上中部配置，是五行經脈生養原理，未觸及人的處境"},
+    {"chapter": "第十八難", "para_index": 4, "domains": [], "modes": ["observation"], "reason": "設問三部九候各自主管何處，是脈診分區問題，未觸及人的處境"},
+    {"chapter": "第十八難", "para_index": 5, "domains": [], "modes": ["formalization", "prescription"], "reason": "把寸關尺與浮中沉組成三部九候並對應身體區域，規定審察後施刺，是結構化的診刺程序"},
+    {"chapter": "第十八難", "para_index": 6, "domains": [], "modes": ["proposition"], "reason": "設問沉滯久積聚能否由切脈得知，是積聚病的脈診推斷問題，未觸及人的處境"},
+    {"chapter": "第十八難", "para_index": 7, "domains": [], "modes": ["proposition"], "reason": "以肺脈結的程度推斷右脅積氣的程度，是積聚病脈診規則，未觸及人的處境"},
+    {"chapter": "第十八難", "para_index": 8, "domains": [], "modes": ["proposition"], "reason": "設問右脅有積氣卻不得肺脈的原因，是病證與脈象不合的診斷問題，未觸及人的處境"},
+    {"chapter": "第十八難", "para_index": 9, "domains": [], "modes": ["observation"], "reason": "指出此時右手脈應呈沉伏，是積聚病的脈候描述，未觸及人的處境"},
+    {"chapter": "第十八難", "para_index": 10, "domains": [], "modes": ["proposition"], "reason": "設問外在痼疾是否沿用積聚的同一脈法，是診斷方法比較，未觸及人的處境"},
+    {"chapter": "第十八難", "para_index": 11, "domains": [], "modes": ["proposition"], "reason": "定義結伏浮脈並以內外病與脈是否相應判死病，是脈診辨證與預後原理，未在談死亡處境"},
+
+    {"chapter": "第十九難", "para_index": 1, "domains": [], "modes": ["observation"], "reason": "設問男女常脈及其逆反的意義，是性別化脈象分類，未在討論認同或社會關係"},
+    {"chapter": "第十九難", "para_index": 2, "domains": [], "modes": ["proposition"], "reason": "以寅申木金陰陽解釋男女關上關下及尺脈強弱，是脈象理論，未在討論性別認同"},
+    {"chapter": "第十九難", "para_index": 3, "domains": [], "modes": ["proposition"], "reason": "按男女反得對方脈及左右位置推病在內或四肢，是脈診判則，未在討論性別認同"},
+
+    {"chapter": "第二十難", "para_index": 1, "domains": [], "modes": ["observation"], "reason": "設問伏匿之脈藏於何處，是脈象位置問題，未觸及人的處境"},
+    {"chapter": "第二十難", "para_index": 2, "domains": [], "modes": ["proposition"], "reason": "以陰陽相乘相伏解釋沉澀浮滑等脈及狂癲見鬼目盲病候，是脈理診斷而非信仰或內在生活"},
+
+    {"chapter": "第二十一難", "para_index": 1, "domains": [], "modes": ["proposition"], "reason": "設問形病脈不病與脈病形不病何以分別主生死，是形脈預後原理，未在談死亡處境"},
+    {"chapter": "第二十一難", "para_index": 2, "domains": [], "modes": ["proposition"], "reason": "以呼吸數與脈數不相應解釋形病脈不病，是脈診總則，未觸及人的處境"},
+
+    {"chapter": "第二十二難", "para_index": 1, "domains": [], "modes": ["proposition"], "reason": "設問一脈何以分成是動與所生兩類病，是經脈病理分類問題，未觸及人的處境"},
+    {"chapter": "第二十二難", "para_index": 2, "domains": [], "modes": ["proposition"], "reason": "以氣主呴、血主濡及氣先血後的次序解釋兩類病，是氣血病理原理，未觸及人的處境"},
+
+    {"chapter": "第二十三難", "para_index": 1, "domains": [], "modes": ["observation", "formalization"], "reason": "逐經列出尺寸並加總十二經、蹻任督為十六丈二尺，是把經脈長度寫成可計算的度量，未觸及人的處境"},
+    {"chapter": "第二十三難", "para_index": 2, "domains": [], "modes": ["observation"], "reason": "設問十二經與十五絡的起點及終點，是經絡循行問題，未觸及人的處境"},
+    {"chapter": "第二十三難", "para_index": 3, "domains": [], "modes": ["proposition"], "reason": "依次說明經脈傳注、絡脈灌溉及會於寸口人迎的循環功能，是經絡運行原理，未觸及人的處境"},
+    {"chapter": "第二十三難", "para_index": 4, "domains": [], "modes": ["proposition"], "reason": "設問明知終始何以能定陰陽，是經脈終始原理問題，未觸及人的處境"},
+    {"chapter": "第二十三難", "para_index": 5, "domains": [], "modes": ["proposition"], "reason": "以寸口人迎循環為始、三陰三陽脈絕為終來界定死候，是經脈終始與預後原理，未在談死亡處境"},
+
+    {"chapter": "第二十四難", "para_index": 1, "domains": [], "modes": ["proposition"], "reason": "設問三陰三陽氣絕後可由哪些徵候知吉凶，是經氣衰絕的診斷預後問題，未在談死亡處境"},
+    {"chapter": "第二十四難", "para_index": 2, "domains": [], "modes": ["proposition"], "reason": "由足少陰氣絕推演骨髓失溫、齒髮枯槁及特定日死，是經氣衰絕的病程與預後，未在談死亡處境"},
+    {"chapter": "第二十四難", "para_index": 3, "domains": [], "modes": ["proposition"], "reason": "由足太陰氣絕推演口唇肌肉失榮及特定日死，是經氣衰絕的病程與預後，未在談死亡處境"},
+    {"chapter": "第二十四難", "para_index": 4, "domains": [], "modes": ["proposition"], "reason": "由足厥陰氣絕推演筋縮、舌卷卵縮及特定日死，是經氣衰絕的病程與預後，未在談死亡處境"},
+    {"chapter": "第二十四難", "para_index": 5, "domains": [], "modes": ["proposition"], "reason": "由手太陰氣絕推演皮毛失榮、津液去及特定日死，是經氣衰絕的病程與預後，未在談死亡處境"},
+    {"chapter": "第二十四難", "para_index": 6, "domains": [], "modes": ["proposition"], "reason": "由手少陰氣絕推演脈血不行、面色變黑及特定日死，是經氣衰絕的病程與預後，未在談死亡處境"},
+    {"chapter": "第二十四難", "para_index": 7, "domains": [], "modes": ["proposition"], "reason": "把三陰氣絕與目眩瞑、失志及死亡相連，是經氣衰絕的病候推論，失志在此不是內在生活書寫"},
+    {"chapter": "第二十四難", "para_index": 8, "domains": [], "modes": ["proposition"], "reason": "把六陽氣絕與絕汗及朝夕死期相連，是經氣衰絕的預後判語，未在談死亡處境"},
+
+    {"chapter": "第二十五難", "para_index": 1, "domains": [], "modes": ["proposition"], "reason": "設問十二經與五藏六府十一數目之間多出的一經為何，是經藏配屬問題，未觸及人的處境"},
+    {"chapter": "第二十五難", "para_index": 2, "domains": [], "modes": ["proposition"], "reason": "以手少陰和心主別脈及三焦表裡解釋第十二經，是經脈配屬原理，未觸及人的處境"},
+
+    {"chapter": "第二十六難", "para_index": 1, "domains": [], "modes": ["observation"], "reason": "設問十二經之外十五絡所多出的三絡為何，是絡脈分類問題，未觸及人的處境"},
+    {"chapter": "第二十六難", "para_index": 2, "domains": [], "modes": ["observation"], "reason": "列出陽絡、陰絡與脾之大絡並界定前兩者為蹻絡，是絡脈名目說明，未觸及人的處境"},
+
+    {"chapter": "第二十七難", "para_index": 1, "domains": [], "modes": ["proposition"], "reason": "設問奇經八脈何以不受十二經拘束，是經絡體系原理問題，未觸及人的處境"},
+    {"chapter": "第二十七難", "para_index": 2, "domains": [], "modes": ["observation"], "reason": "列舉陽陰維蹻、沖督任帶八脈並說明其名義，是奇經分類，未觸及人的處境"},
+    {"chapter": "第二十七難", "para_index": 3, "domains": [], "modes": ["proposition"], "reason": "以十二經十五絡共二十七氣相隨反問奇經何以獨不受拘，是經絡例外原理問題，未觸及人的處境"},
+    {"chapter": "第二十七難", "para_index": 4, "domains": [], "modes": ["proposition"], "reason": "以聖人設溝渠而暴雨滿溢不能拘束的譬喻解釋絡脈外溢，是經絡運行原理，不是人物故事或人生論述"},
+
+    {"chapter": "第二十八難", "para_index": 1, "domains": [], "modes": ["observation"], "reason": "設問奇經八脈各從何處起始並如何連接，是經絡循行問題，未觸及人的處境"},
+    {"chapter": "第二十八難", "para_index": 2, "domains": [], "modes": ["observation", "prescription"], "reason": "逐條描述督任沖帶維蹻的路徑與溢蓄機制，末以砭射治其腫熱，是經絡說明兼針治指示"},
+
+    {"chapter": "第二十九難", "para_index": 1, "domains": [], "modes": ["observation"], "reason": "逐一列出維蹻沖督任帶八脈失調所見的急緩、痛滿與寒熱等病候，是奇經病證描述，未把病身寫成人的處境"},
+
+    {"chapter": "第三十難", "para_index": 1, "domains": [], "modes": ["proposition"], "reason": "設問榮氣運行是否總與衛氣相隨，是榮衛運行原理問題，未觸及人的處境"},
+    {"chapter": "第三十難", "para_index": 2, "domains": [], "modes": ["proposition"], "reason": "由穀氣分清濁及榮內衛外循環推知兩者相隨，是榮衛生理原理，未觸及人的處境"},
+
+    {"chapter": "第三十一難", "para_index": 1, "domains": [], "modes": ["observation"], "reason": "設問三焦所稟所生、起訖及治所，是藏象部位與功能問題，未觸及人的處境"},
+    {"chapter": "第三十一難", "para_index": 2, "domains": [], "modes": ["observation", "formalization"], "reason": "分述上中下焦的水穀功能與膻中、臍旁臍下等治所尺寸，是可定位量度的藏象說明，未觸及人的處境"},
+
+    {"chapter": "第三十二難", "para_index": 1, "domains": [], "modes": ["proposition"], "reason": "設問五藏相等而心肺獨居膈上的原因，是藏象位置原理問題，未觸及人的處境"},
+    {"chapter": "第三十二難", "para_index": 2, "domains": [], "modes": ["proposition"], "reason": "以心血肺氣化為榮衛並循行於外解釋心肺在上，是藏象生理推論，未觸及人的處境"},
+
+    {"chapter": "第三十三難", "para_index": 1, "domains": [], "modes": ["proposition"], "reason": "以肝木肺金遇水沉浮似有相反而設問其義，是五行藏象原理問題，未觸及人的處境"},
+    {"chapter": "第三十三難", "para_index": 2, "domains": [], "modes": ["proposition"], "reason": "以干支陰陽及夫婦譬喻解釋肝肺遇水沉浮，是五行藏象論證，夫婦字樣不是親密或家庭論述"},
+
+    {"chapter": "第三十四難", "para_index": 1, "domains": [], "modes": ["observation"], "reason": "設問五藏各自聲色臭味是否可知，是藏象感官配屬問題，未觸及人的處境"},
+    {"chapter": "第三十四難", "para_index": 2, "domains": [], "modes": ["observation"], "reason": "逐藏列出色臭味聲液的固定配屬，是藏象功能分類，哭泣等詞在此不是內在生活"},
+    {"chapter": "第三十四難", "para_index": 3, "domains": [], "modes": ["observation"], "reason": "設問五藏所藏七神各為何物，是藏象功能問題，不是信仰或超越問題"},
+    {"chapter": "第三十四難", "para_index": 4, "domains": [], "modes": ["observation"], "reason": "把魂魄神意智精志分配為五藏所藏的神氣，是藏象生理定義，不是信仰或神聖論述"},
+
+    {"chapter": "第三十五難", "para_index": 1, "domains": [], "modes": ["proposition"], "reason": "設問五藏與所屬腑多相近而心肺腑獨遠的原因，是藏象位置原理問題，未觸及人的處境"},
+    {"chapter": "第三十五難", "para_index": 2, "domains": [], "modes": ["proposition"], "reason": "以心榮肺衛上行與大小腸傳陰下行解釋彼此相遠，是藏府生理與位置原理，未觸及人的處境"},
+    {"chapter": "第三十五難", "para_index": 3, "domains": [], "modes": ["proposition"], "reason": "設問陽腑本為清淨之處卻受不淨之物的矛盾，是藏府功能原理問題，未觸及人的處境"},
+    {"chapter": "第三十五難", "para_index": 4, "domains": [], "modes": ["proposition"], "reason": "反駁諸腑皆清淨並列其受盛傳瀉水穀津液功能與五藏配屬，是藏府分類論證，未觸及人的處境"},
+
+    {"chapter": "第三十六難", "para_index": 1, "domains": [], "modes": ["proposition"], "reason": "設問諸藏各一而腎獨有二的原因，是藏象數目問題，未觸及人的處境"},
+    {"chapter": "第三十六難", "para_index": 2, "domains": [], "modes": ["proposition"], "reason": "分左為腎、右為命門並以藏精繫胞解釋腎有二，是藏象生理論證，神精與命門不是神聖或命運論述"},
+
+    {"chapter": "第三十七難", "para_index": 1, "domains": [], "modes": ["observation"], "reason": "設問五藏之氣從何發起並通向何處，是藏象與竅道問題，未觸及人的處境"},
+    {"chapter": "第三十七難", "para_index": 2, "domains": [], "modes": ["proposition"], "reason": "由五藏通九竅及藏府不和推演癰、關格與夭死，是藏象病理和預後原理，未在談死亡處境"},
+    {"chapter": "第三十七難", "para_index": 3, "domains": [], "modes": ["proposition"], "reason": "設問經言氣獨行五藏而不營六腑的意義，是經氣運行原理問題，未觸及人的處境"},
+    {"chapter": "第三十七難", "para_index": 4, "domains": [], "modes": ["proposition"], "reason": "以流水與環形譬喻說明陰脈營藏、陽脈營腑並內溫外濡，是經氣循環生理，未觸及人的處境"},
+
+    {"chapter": "第三十八難", "para_index": 1, "domains": [], "modes": ["proposition"], "reason": "設問藏只有五而腑獨有六的原因，是藏府數目原理問題，未觸及人的處境"},
+    {"chapter": "第三十八難", "para_index": 2, "domains": [], "modes": ["proposition"], "reason": "以三焦主持原氣、有名無形且屬手少陽解釋第六腑，是藏象配屬原理，未觸及人的處境"}
+  ]
+}

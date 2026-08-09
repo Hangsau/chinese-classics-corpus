@@ -1,0 +1,3950 @@
+[
+  {
+    "para_id": "nanjing#01-p01",
+    "anchor": {
+      "chapter": "第一難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "設問為何十二經皆有動脈卻獨取寸口決斷藏府吉凶，是追問脈診原理，未離開診斷技術",
+    "excerpt": "十二經皆有動脈，獨取寸口，以決五藏六府死生吉凶之法，何謂也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#01-p02",
+    "anchor": {
+      "chapter": "第一難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "界定寸口為諸脈大會及手太陰脈動之處，是脈位說明，未觸及人的處境",
+    "excerpt": "然: 寸口者，脈之大會，手太陰之脈動也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#01-p03",
+    "anchor": {
+      "chapter": "第一難",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "以一日一萬三千五百息推得脈行五十度並據此證成獨取寸口，是可計算的脈行原理，未觸及人的處境",
+    "excerpt": "人一呼脈行三寸，一吸脈行三寸，呼吸定息，脈行六寸，人一日一夜，凡一萬三千五百息，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#02-p01",
+    "anchor": {
+      "chapter": "第二難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "界定尺與寸為脈氣會聚的重要部位，是脈法名位說明，未觸及人的處境",
+    "excerpt": "然: 尺寸者，脈之大要會也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#02-p02",
+    "anchor": {
+      "chapter": "第二難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "描述關至尺與關至魚際分屬陰陽的脈位，是寸尺部位劃分，未觸及人的處境",
+    "excerpt": "從關至尺是尺內，陰之所治也，從關至魚際是寸口內，陽之所治也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#02-p03",
+    "anchor": {
+      "chapter": "第二難",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "以一寸與九分的尺寸推分界定陰陽脈位，是可量度的脈法，未觸及人的處境",
+    "excerpt": "故分寸為尺，分尺為寸，故陰得尺內一寸，陽得寸內九分，尺寸終始一寸九分，故曰尺寸也",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#03-p01",
+    "anchor": {
+      "chapter": "第三難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "列舉太過、不及、相乘、覆溢與關格而設問其義，是脈象分類問題，未觸及人的處境",
+    "excerpt": "脈有太過，有不及，有陰陽相乘，有覆有溢，有關有格，何謂也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#03-p02",
+    "anchor": {
+      "chapter": "第三難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "以關前九分及浮脈的增減判太過、不及與陰乘，是量化的脈診判則，未觸及人的處境",
+    "excerpt": "然: 關之前者，陽之動也，脈當見九分而浮，過者，法曰太過; 減者，法曰不及。遂上",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#03-p03",
+    "anchor": {
+      "chapter": "第三難",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "以關後一寸及沉脈的增減判覆溢、陽乘與死候，是量化的脈診預後，未在談死亡處境",
+    "excerpt": "關以後者，陰之動也，脈當見一寸而沉，過者，法曰太過; 減者，法曰不及。遂入尺為覆",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#04-p01",
+    "anchor": {
+      "chapter": "第四難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "把呼出、吸入及其間的脈分配於心肺腎肝脾，是呼吸與藏脈的生理原理，未觸及人的處境",
+    "excerpt": "然：呼出心與肺，吸入腎與肝，呼吸之間，脾受穀味也，其脈在中。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#04-p02",
+    "anchor": {
+      "chapter": "第四難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以浮脈屬陽、沉脈屬陰說明脈象陰陽，是脈法分類原理，未觸及人的處境",
+    "excerpt": "浮者陽也，沉者陰也，故曰陰陽也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#04-p03",
+    "anchor": {
+      "chapter": "第四難",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "以浮大散與浮短濇分別對應心肺，是藏脈形態的診察描述，未觸及人的處境",
+    "excerpt": "然：浮而大散者心也，浮而短濇者肺也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#04-p04",
+    "anchor": {
+      "chapter": "第四難",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "以牢長及按舉時的濡實分別對應肝腎，是藏脈形態的診察描述，未觸及人的處境",
+    "excerpt": "然：牢而長者肝也，按之濡，舉指來實者腎也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#04-p05",
+    "anchor": {
+      "chapter": "第四難",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以脾居中州解釋其脈在浮沉之中，是藏象與脈位原理，未觸及人的處境",
+    "excerpt": "脾者中州，故其脈在中，是陰陽之法也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#04-p06",
+    "anchor": {
+      "chapter": "第四難",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "設問一陰一陽等說法是否表示寸口六脈同動，是追問脈象組合的意義，未觸及人的處境",
+    "excerpt": "脈有一陰一陽，一陰二陽，一陰三陽，有一陽一陰，一陽二陰，一陽三陰，如此之言，寸口",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#04-p07",
+    "anchor": {
+      "chapter": "第四難",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "否定六脈同動並把六脈解作浮沉長短滑濇，是脈象概念辨析，未觸及人的處境",
+    "excerpt": "然：此言者，非有六脈俱動也，謂浮，沉，長，短，滑，濇也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#04-p08",
+    "anchor": {
+      "chapter": "第四難",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "把浮滑長列為陽、沉短濇列為陰，是脈象陰陽分類，未觸及人的處境",
+    "excerpt": "浮者陽也，滑者陽也，長者陽也；沉者陰也，短者陰也，澀者陰也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#04-p09",
+    "anchor": {
+      "chapter": "第四難",
+      "para_index": 9
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "逐一定義一陰一陽至一陰三陽的沉浮滑長組合，是脈象型態說明，未觸及人的處境",
+    "excerpt": "所謂一陰一陽者，謂脈來沉而滑也，一陰二陽者，謂脈來沉滑而長也，一陰三陽者，謂脈來",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#04-p10",
+    "anchor": {
+      "chapter": "第四難",
+      "para_index": 10
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "逐一定義一陽一陰至一陽三陰的浮沉長短濇組合，是脈象型態說明，未觸及人的處境",
+    "excerpt": "所謂一陽一陰者，謂脈來浮而濇也，一陽二陰者，謂脈來長而沉濇也，一陽三陰者，謂脈來",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#04-p11",
+    "anchor": {
+      "chapter": "第四難",
+      "para_index": 11
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "規定依各經所在判名疾病逆順，是脈診操作規則，未觸及人的處境",
+    "excerpt": "各以其經所在，名病逆順也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#05-p01",
+    "anchor": {
+      "chapter": "第五難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "以三、六、九、十二菽等按壓重量分辨肺心脾肝腎，是可量度的持脈程序，未觸及人的處境",
+    "excerpt": "然: 初持脈，如三菽之重，與皮毛相得者，肺部也。 如六菽之重，與血脈相得者，心部",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#06-p01",
+    "anchor": {
+      "chapter": "第六難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "設問陰盛陽虛與陽盛陰虛兩種脈象的含義，是脈象分類問題，未觸及人的處境",
+    "excerpt": "脈有陰盛陽虛，陽盛陰虛，何謂也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#06-p02",
+    "anchor": {
+      "chapter": "第六難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "依浮取與沉取的損小實大判定陰陽盛虛，是脈診判別原理，未觸及人的處境",
+    "excerpt": "然: 浮之損小，沉之實大，故曰陰盛陽虛。沉之損小，浮之實大，故曰陽盛陰虛，是陰陽",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#07-p01",
+    "anchor": {
+      "chapter": "第七難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "列出六經脈形並問其為平脈或病脈，是季候脈象的診斷設題，未觸及人的處境",
+    "excerpt": "經言少陽之至，乍大乍小，乍短乍長。 陽明之至，浮大而短。 太陽之至，洪大而長。太",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#07-p02",
+    "anchor": {
+      "chapter": "第七難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "以六個六十日合成三百六十日配置三陰三陽旺時，是可計算的季候脈法，未觸及人的處境",
+    "excerpt": "然: 冬至之後，得甲子少陽王，復得甲子陽明王，復得甲子太陽王，復得甲子太陰王，復",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#08-p01",
+    "anchor": {
+      "chapter": "第八難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "設問寸口脈平而仍死亡的原因，是脈診預後原理問題，未在談死亡處境",
+    "excerpt": "寸口脈平而死者，何謂也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#08-p02",
+    "anchor": {
+      "chapter": "第八難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以生氣之原與樹根莖葉譬喻解釋內在根絕可致死，是經脈生理與預後推論，未在談死亡或神聖",
+    "excerpt": "然: 諸十二經脈者，皆係於生氣之原，所謂生氣之原者，謂十二經之根本也，謂腎間動氣",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#09-p01",
+    "anchor": {
+      "chapter": "第九難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "由脈數遲與陰陽推定藏府寒熱，建立脈象辨病原理，未觸及人的處境",
+    "excerpt": "然: 數者，府也; 遲者，藏也。 數則為熱，遲則為寒。諸陽為熱，諸陰為寒。 故以",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#10-p01",
+    "anchor": {
+      "chapter": "第十難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "把心脈急大緩濇沉的甚微變化配屬五藏六府邪氣，解釋一脈變十的診斷體系，未觸及人的處境",
+    "excerpt": "然: 五邪剛柔相逢之意也。 假令心脈急甚者，肝邪干心也;心脈微急者，膽邪干小腸也",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#11-p01",
+    "anchor": {
+      "chapter": "第十一難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "以五十動前一止作為判問一藏無氣的量化脈候，是脈診計數設題，未觸及人的處境",
+    "excerpt": "經言脈不滿五十動而一止，一藏無氣者，何藏也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#11-p02",
+    "anchor": {
+      "chapter": "第十一難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "由吸氣不能至腎而折返於肝推知腎氣先盡，是呼吸脈候的診斷推論，未觸及人的處境",
+    "excerpt": "然: 人吸者隨陰入，呼者因陽出，今吸不能至腎，至肝而還，故知一藏無氣者，腎氣先盡",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#12-p01",
+    "anchor": {
+      "chapter": "第十二難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "設問如何分辨藏脈內絕與外絕以免針補相反，是針法辨證問題，未觸及人的處境",
+    "excerpt": "經言五藏脈已絕於內，用鍼者反實其外，五藏脈已絕於外，用鍼者反實其內，內外之絕，何",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#12-p02",
+    "anchor": {
+      "chapter": "第十二難",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "指出醫者把已絕的一方反補成實實虛虛會造成病人死亡並直稱醫殺，除針補禁忌外也明確追究醫者的職業責任",
+    "excerpt": "然: 五藏脈已絕於內者，腎肝氣已絕於內也，而醫反補其心肺;五藏脈已絕於外者，其心",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#13-p01",
+    "anchor": {
+      "chapter": "第十三難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "設問色診與脈診相生相勝時應如何參合，是綜合診斷原理，未觸及人的處境",
+    "excerpt": "經言見其色而不得其脈，反得相勝之脈者，即死，得相生之脈者，病即自已，色之與脈當參",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#13-p02",
+    "anchor": {
+      "chapter": "第十三難",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "建立五色、脈象與尺膚的參診規則，並以知一至知三及十全六至九分等第評量醫者的專業能力與成效",
+    "excerpt": "然: 五藏有五色，皆見於面，亦當與寸口尺內相應，假令色青，其脈當弦而急; 色赤，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#14-p01",
+    "anchor": {
+      "chapter": "第十四難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "按每呼脈至一至六次分列平、離經、奪精、死與命絕，是量化的脈象分級與預後，未在談死亡處境",
+    "excerpt": "然: 至之脈，一呼再至曰平，三至曰離經，四至曰奪精，五至曰死，六至曰命絕，此至之",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#14-p02",
+    "anchor": {
+      "chapter": "第十四難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "以一損至五損排列皮毛、血脈、肌肉、筋骨的衰敗次序與死候，是分級病程模型，未把病身寫成人的處境",
+    "excerpt": "然: 一損損於皮毛皮聚而毛落; 二損損於血脈，血脈虛少，不能榮於五藏六府; 三損",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#14-p03",
+    "anchor": {
+      "chapter": "第十四難",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "逐條規定肺心脾肝腎受損時益氣、調榮衛飲食寒溫等治法，是治療處方，未觸及人的處境",
+    "excerpt": "然:損其肺者益其氣; 損其心者，調其榮衛; 損其脾者，調其飲食，適其寒溫; 損其",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#14-p04",
+    "anchor": {
+      "chapter": "第十四難",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "列舉每呼吸一至六至等脈率並問如何由此辨病，是量化脈診設題，未觸及人的處境",
+    "excerpt": "脈有一呼再至，一吸再至; 有一呼三至，一吸三至; 有一呼四至; 一吸四至，有一呼",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#14-p05",
+    "anchor": {
+      "chapter": "第十四難",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "把呼吸脈至數、脈形與晝夜配成病勢及死生判則，是可執行的脈診預後體系，魂與行尸亦只是診斷術語",
+    "excerpt": "然: 脈來一呼再至，一吸再至，不大不小曰平; 一呼三至，一吸三至，為適得病，前大",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#15-p01",
+    "anchor": {
+      "chapter": "第十五難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "設問春弦夏鉤秋毛冬石是旺脈或病脈，是四時脈象的診斷問題，未觸及人的處境",
+    "excerpt": "經言春脈弦，夏脈鉤，秋脈毛，冬脈石，是王脈耶? 將病脈也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#15-p02",
+    "anchor": {
+      "chapter": "第十五難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以四時草木生長收藏的形態解釋弦鉤毛石四脈，是季候脈象原理，未觸及人的處境",
+    "excerpt": "然: 弦鉤毛石者，四時之脈也。 春脈弦者，肝東方木也，萬物始生，未有枝葉，故其脈",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#15-p03",
+    "anchor": {
+      "chapter": "第十五難",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "依春脈弦的強弱滑勁及胃氣多寡判平病死，是季候脈診與預後規則，未在談死亡處境",
+    "excerpt": "然: 春脈弦，反者為病。 何謂反? 然:其氣來實強，是謂太過，病在外; 氣來虛微",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#15-p04",
+    "anchor": {
+      "chapter": "第十五難",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "依夏脈鉤的實虛數曲及胃氣多寡判平病死，是季候脈診與預後規則，未在談死亡處境",
+    "excerpt": "夏脈鉤，反者為病。 何謂反? 然: 其氣來實強，是謂太過，病在外; 氣來虛微，是",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#15-p05",
+    "anchor": {
+      "chapter": "第十五難",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "依秋脈毛的浮大蕭索及胃氣多寡判平病死，是季候脈診與預後規則，未在談死亡處境",
+    "excerpt": "秋脈毛，反者為病。 何謂反? 然: 其氣來實強，是謂太過，病在外; 氣來虛微，是",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#15-p06",
+    "anchor": {
+      "chapter": "第十五難",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "依冬脈石的濡滑連屬及胃氣多寡判平病死，是季候脈診與預後規則，未在談死亡處境",
+    "excerpt": "冬脈石，反者為病。 何謂反? 然: 其氣來實強，是謂太過，病在外;氣來虛微，是謂",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#15-p07",
+    "anchor": {
+      "chapter": "第十五難",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以胃受水穀而為四時脈之本解釋脾衰脈候，是藏象脈理與病候判定，未觸及人的處境",
+    "excerpt": "胃者，水穀之海，主稟四時，皆以胃氣為本，是謂四時之變病，死生之要會也。 脾者，中",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#16-p01",
+    "anchor": {
+      "chapter": "第十六難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "面對三部九候等不同脈法而設問如何判別，是診斷方法論問題，未觸及人的處境",
+    "excerpt": "脈有三部九候，有陰陽，有輕重，有六十首，一脈變為四時，離聖久遠，各自是其法，何以",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#16-p02",
+    "anchor": {
+      "chapter": "第十六難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "主張疾病有內證與外證並追問其表現，是病證辨析原理，未觸及人的處境",
+    "excerpt": "然: 是其病，有內外證。 其病為之奈何?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#16-p03",
+    "anchor": {
+      "chapter": "第十六難",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "列肝脈之外色情志、內部動氣與四肢等症狀，據其有無判肝病，是病證診斷而非情緒生活",
+    "excerpt": "然: 假令得肝脈，其外證善潔，面青善怒，其內證臍左有動氣，按之牢若痛，其病四肢滿",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#16-p04",
+    "anchor": {
+      "chapter": "第十六難",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "列心脈之外色喜笑、內部動氣與心掌等症狀，據其有無判心病，是病證診斷而非情緒生活",
+    "excerpt": "假令得心脈，其外證面赤，口乾，喜笑，其內證臍上有動氣，按之牢若痛，其病煩心，心痛",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#16-p05",
+    "anchor": {
+      "chapter": "第十六難",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "列脾脈之外色思味、內部動氣與腹脹怠臥等症狀，據其有無判脾病，是病證診斷而非情緒生活",
+    "excerpt": "假令得脾脈，其外證面黃，善噫，善思，善味，其內證當臍有動氣，按之牢若痛，其病腹脹",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#16-p06",
+    "anchor": {
+      "chapter": "第十六難",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "列肺脈之外色悲哭、內部動氣與喘咳寒熱等症狀，據其有無判肺病，是病證診斷而非情緒生活",
+    "excerpt": "假令得肺脈，其外證面白，善嚏，悲愁不樂，欲哭，其內證臍右有動氣，按之牢若痛，其病",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#16-p07",
+    "anchor": {
+      "chapter": "第十六難",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "列腎脈之外色恐欠、內部動氣與小腹足脛等症狀，據其有無判腎病，是病證診斷而非情緒生活",
+    "excerpt": "假令得腎脈，其外證面黑，善恐欠，其內證臍下有動氣，按之牢若痛，其病逆氣，小腹急痛",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#17-p01",
+    "anchor": {
+      "chapter": "第十七難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "設問疾病死癒久延能否由切脈盡知，是脈診預後能力的問題，未在談病中或死亡處境",
+    "excerpt": "經言病或有死，或有不治自癒，或連年月不已，其死生存亡，可切脈而知之耶?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#17-p02",
+    "anchor": {
+      "chapter": "第十七難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "逐條以症狀與應得脈象不相符來判死候，是病證與脈診的預後規則，未在談人的苦難或死亡",
+    "excerpt": "然:可盡知也。 診病若閉目不欲見人者，脈當得肝脈，長急而強，而反得肺脈浮短而濇者",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#18-p01",
+    "anchor": {
+      "chapter": "第十八難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "設問手足經脈如何配置於三部，是脈位與經脈分類問題，未觸及人的處境",
+    "excerpt": "脈有三部，部有四經。手有太陰、陽明，足有太陽、少陰，為上下部，何謂也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#18-p02",
+    "anchor": {
+      "chapter": "第十八難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以金生水及水下行解釋手太陰陽明與足少陰太陽居下部，是五行脈位原理，未觸及人的處境",
+    "excerpt": "然。手太陰、陽明金也，足少陰、太陽水也。金生水，水流下行而不能上，故在下部也。足",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#18-p03",
+    "anchor": {
+      "chapter": "第十八難",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "續以木生火上炎及火生土居中說明上中部配置，是五行經脈生養原理，未觸及人的處境",
+    "excerpt": "上部。手心主少陽火，生足太陰陽明土，土主中官，故在中部也。此皆五行子母更相生養者",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#18-p04",
+    "anchor": {
+      "chapter": "第十八難",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "設問三部九候各自主管何處，是脈診分區問題，未觸及人的處境",
+    "excerpt": "脈有三部九候，各何所主之?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#18-p05",
+    "anchor": {
+      "chapter": "第十八難",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "把寸關尺與浮中沉組成三部九候並對應身體區域，規定審察後施刺，是結構化的診刺程序",
+    "excerpt": "然。三部者，寸關尺也；九候者，浮中沉也。上部法天，主胸以上至頭之有疾也；中部法人",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#18-p06",
+    "anchor": {
+      "chapter": "第十八難",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "設問沉滯久積聚能否由切脈得知，是積聚病的脈診推斷問題，未觸及人的處境",
+    "excerpt": "人病有沉滯久積聚，可切脈而知之耶?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#18-p07",
+    "anchor": {
+      "chapter": "第十八難",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以肺脈結的程度推斷右脅積氣的程度，是積聚病脈診規則，未觸及人的處境",
+    "excerpt": "然。診在右脅有積氣，得肺脈結，脈結甚則積甚，結微則氣微。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#18-p08",
+    "anchor": {
+      "chapter": "第十八難",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "設問右脅有積氣卻不得肺脈的原因，是病證與脈象不合的診斷問題，未觸及人的處境",
+    "excerpt": "診不得肺脈，而右脅有積氣者何也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#18-p09",
+    "anchor": {
+      "chapter": "第十八難",
+      "para_index": 9
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "指出此時右手脈應呈沉伏，是積聚病的脈候描述，未觸及人的處境",
+    "excerpt": "然。肺脈雖不見，右手脈當沉伏。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#18-p10",
+    "anchor": {
+      "chapter": "第十八難",
+      "para_index": 10
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "設問外在痼疾是否沿用積聚的同一脈法，是診斷方法比較，未觸及人的處境",
+    "excerpt": "其外痼疾同法耶?將異也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#18-p11",
+    "anchor": {
+      "chapter": "第十八難",
+      "para_index": 11
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "定義結伏浮脈並以內外病與脈是否相應判死病，是脈診辨證與預後原理，未在談死亡處境",
+    "excerpt": "然。結者，脈來去時一止，無常數，名曰結也。伏者，脈行筋下也。浮者，脈在肉上行也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#19-p01",
+    "anchor": {
+      "chapter": "第十九難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "設問男女常脈及其逆反的意義，是性別化脈象分類，未在討論認同或社會關係",
+    "excerpt": "經言脈有逆順，男女有常，而反者，何謂也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#19-p02",
+    "anchor": {
+      "chapter": "第十九難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以寅申木金陰陽解釋男女關上關下及尺脈強弱，是脈象理論，未在討論性別認同",
+    "excerpt": "然。男子生於寅，寅為木，陽也。女子生於申，申為金，陰也。故男脈在關上，女脈在關下",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#19-p03",
+    "anchor": {
+      "chapter": "第十九難",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "按男女反得對方脈及左右位置推病在內或四肢，是脈診判則，未在討論性別認同",
+    "excerpt": "然。男得女脈為不足，病在內，左得之病則在左，右得之病則在右，隨脈言之也。女得男脈",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#20-p01",
+    "anchor": {
+      "chapter": "第二十難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "設問伏匿之脈藏於何處，是脈象位置問題，未觸及人的處境",
+    "excerpt": "經言脈有伏匿，伏匿於何藏，而言伏匿耶?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#20-p02",
+    "anchor": {
+      "chapter": "第二十難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以陰陽相乘相伏解釋沉澀浮滑等脈及狂癲見鬼目盲病候，是脈理診斷而非信仰或內在生活",
+    "excerpt": "然。謂陰陽更相乘，更相伏也。脈居陰部，而反陽脈見者，為陽乘陰也，脈雖時沉澀而短，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#21-p01",
+    "anchor": {
+      "chapter": "第二十一難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "設問形病脈不病與脈病形不病何以分別主生死，是形脈預後原理，未在談死亡處境",
+    "excerpt": "經言人形病脈不病，曰生。脈病形不病，曰死。何謂也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#21-p02",
+    "anchor": {
+      "chapter": "第二十一難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以呼吸數與脈數不相應解釋形病脈不病，是脈診總則，未觸及人的處境",
+    "excerpt": "然。人形病脈不病，非有不病者也，謂息數不應脈數也，此大法。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#22-p01",
+    "anchor": {
+      "chapter": "第二十二難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "設問一脈何以分成是動與所生兩類病，是經脈病理分類問題，未觸及人的處境",
+    "excerpt": "經言脈有是動，有所生病，一脈輒變為二病者，何也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#22-p02",
+    "anchor": {
+      "chapter": "第二十二難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以氣主呴、血主濡及氣先血後的次序解釋兩類病，是氣血病理原理，未觸及人的處境",
+    "excerpt": "然。經言是動者，氣也；所生病者，血也。邪在氣，氣為是動；邪在血，血為所生病。氣主",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#23-p01",
+    "anchor": {
+      "chapter": "第二十三難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "逐經列出尺寸並加總十二經、蹻任督為十六丈二尺，是把經脈長度寫成可計算的度量，未觸及人的處境",
+    "excerpt": "手足三陰三陽,脈之度數，可曉以不?然。手三陽之脈，從手至頭，長五尺，五六合三丈。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#23-p02",
+    "anchor": {
+      "chapter": "第二十三難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "設問十二經與十五絡的起點及終點，是經絡循行問題，未觸及人的處境",
+    "excerpt": "經脈十二，絡脈十五，何始何窮也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#23-p03",
+    "anchor": {
+      "chapter": "第二十三難",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "依次說明經脈傳注、絡脈灌溉及會於寸口人迎的循環功能，是經絡運行原理，未觸及人的處境",
+    "excerpt": "然,經脈者，行血氣，通陰陽，以榮於身者也。其始從中焦，注手太陰、陽明，陽明注足陽",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#23-p04",
+    "anchor": {
+      "chapter": "第二十三難",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "設問明知終始何以能定陰陽，是經脈終始原理問題，未觸及人的處境",
+    "excerpt": "經曰：明知終始，陰陽定矣，何謂也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#23-p05",
+    "anchor": {
+      "chapter": "第二十三難",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以寸口人迎循環為始、三陰三陽脈絕為終來界定死候，是經脈終始與預後原理，未在談死亡處境",
+    "excerpt": "然。終始者，脈之紀也。寸口、人迎，陰陽之氣通於朝，使如環無端，故曰始也。終者，三",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#24-p01",
+    "anchor": {
+      "chapter": "第二十四難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "設問三陰三陽氣絕後可由哪些徵候知吉凶，是經氣衰絕的診斷預後問題，未在談死亡處境",
+    "excerpt": "手足三陰三陽氣已絕，何以為候，可知其吉凶不?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#24-p02",
+    "anchor": {
+      "chapter": "第二十四難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "由足少陰氣絕推演骨髓失溫、齒髮枯槁及特定日死，是經氣衰絕的病程與預後，未在談死亡處境",
+    "excerpt": "然。足少陰氣絕，即骨枯。少陰者，冬脈也，伏行而溫於骨髓。故骨髓不溫，即肉不著骨。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#24-p03",
+    "anchor": {
+      "chapter": "第二十四難",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "由足太陰氣絕推演口唇肌肉失榮及特定日死，是經氣衰絕的病程與預後，未在談死亡處境",
+    "excerpt": "足太陰氣絕，則脈不榮其口唇。口唇者，肌肉之本也。脈不榮則肌肉不滑澤，肌肉不滑澤則",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#24-p04",
+    "anchor": {
+      "chapter": "第二十四難",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "由足厥陰氣絕推演筋縮、舌卷卵縮及特定日死，是經氣衰絕的病程與預後，未在談死亡處境",
+    "excerpt": "足厥陰氣絕，即筋縮引卵與舌卷。厥陰者，肝脈也。肝者，筋之合也。筋者，聚於陰器，而",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#24-p05",
+    "anchor": {
+      "chapter": "第二十四難",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "由手太陰氣絕推演皮毛失榮、津液去及特定日死，是經氣衰絕的病程與預後，未在談死亡處境",
+    "excerpt": "手太陰氣絕，即皮毛焦。太陰者，肺也，行氣溫於皮毛者也。氣弗榮，則皮毛焦。皮毛焦，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#24-p06",
+    "anchor": {
+      "chapter": "第二十四難",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "由手少陰氣絕推演脈血不行、面色變黑及特定日死，是經氣衰絕的病程與預後，未在談死亡處境",
+    "excerpt": "手少陰氣絕，則脈不通，脈不通則血不流，血不流則色澤去，故面色黑如黧[10]，此血",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#24-p07",
+    "anchor": {
+      "chapter": "第二十四難",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "把三陰氣絕與目眩瞑、失志及死亡相連，是經氣衰絕的病候推論，失志在此不是內在生活書寫",
+    "excerpt": "三陰[11]氣俱絕者，則目眩轉、目瞑。目瞑者為失志，失志者，則志先死，死即目瞑也",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#24-p08",
+    "anchor": {
+      "chapter": "第二十四難",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "把六陽氣絕與絕汗及朝夕死期相連，是經氣衰絕的預後判語，未在談死亡處境",
+    "excerpt": "六陽氣俱絕者，則陰與陽相離。陰陽相離，則腠理洩。絕汗乃出，大如貫珠，轉出不流，即",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#25-p01",
+    "anchor": {
+      "chapter": "第二十五難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "設問十二經與五藏六府十一數目之間多出的一經為何，是經藏配屬問題，未觸及人的處境",
+    "excerpt": "有十二經，五藏六府十一耳。其一經者，何等經也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#25-p02",
+    "anchor": {
+      "chapter": "第二十五難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以手少陰和心主別脈及三焦表裡解釋第十二經，是經脈配屬原理，未觸及人的處境",
+    "excerpt": "然。一經者，手少陰與心主別脈也。心主與三焦為表裡，俱有名而無形，故言經有十二也，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#26-p01",
+    "anchor": {
+      "chapter": "第二十六難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "設問十二經之外十五絡所多出的三絡為何，是絡脈分類問題，未觸及人的處境",
+    "excerpt": "經有十二，絡有十五，餘三絡者，是何等絡也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#26-p02",
+    "anchor": {
+      "chapter": "第二十六難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "列出陽絡、陰絡與脾之大絡並界定前兩者為蹻絡，是絡脈名目說明，未觸及人的處境",
+    "excerpt": "然。有陽絡，有陰絡，有脾之大絡。陽絡者，陽蹻之絡也；陰絡者，陰蹻之絡也，故絡有十",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#27-p01",
+    "anchor": {
+      "chapter": "第二十七難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "設問奇經八脈何以不受十二經拘束，是經絡體系原理問題，未觸及人的處境",
+    "excerpt": "脈有奇經八脈者，不拘於十二經，何謂也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#27-p02",
+    "anchor": {
+      "chapter": "第二十七難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "列舉陽陰維蹻、沖督任帶八脈並說明其名義，是奇經分類，未觸及人的處境",
+    "excerpt": "然。有陽維，有陰維，有陽蹻，有陰蹻，有沖，有督，有任，有帶之脈。凡此八脈者，皆不",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#27-p03",
+    "anchor": {
+      "chapter": "第二十七難",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以十二經十五絡共二十七氣相隨反問奇經何以獨不受拘，是經絡例外原理問題，未觸及人的處境",
+    "excerpt": "經有十二，絡有十五。凡二十七氣，相隨上下，何獨不拘於經也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#27-p04",
+    "anchor": {
+      "chapter": "第二十七難",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以聖人設溝渠而暴雨滿溢不能拘束的譬喻解釋絡脈外溢，是經絡運行原理，不是人物故事或人生論述",
+    "excerpt": "然。聖人圖設溝渠，通利水道，以備不虞[12]。天雨降下，溝渠溢滿，當此之時，?霈",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#28-p01",
+    "anchor": {
+      "chapter": "第二十八難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "設問奇經八脈各從何處起始並如何連接，是經絡循行問題，未觸及人的處境",
+    "excerpt": "其奇經八脈者，既不拘於十二經，皆何起何繼也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#28-p02",
+    "anchor": {
+      "chapter": "第二十八難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "逐條描述督任沖帶維蹻的路徑與溢蓄機制，末以砭射治其腫熱，是經絡說明兼針治指示",
+    "excerpt": "然。督脈者，起於下極之俞，並於脊裡，上至風腑，入屬於腦。任脈者，起於中極之下，以",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#29-p01",
+    "anchor": {
+      "chapter": "第二十九難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "逐一列出維蹻沖督任帶八脈失調所見的急緩、痛滿與寒熱等病候，是奇經病證描述，未把病身寫成人的處境",
+    "excerpt": "然。陽維維於陽。陰維維於陰，陰陽不能自相維，則悵然失志，溶溶不能自收持。陰蹻為病",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#30-p01",
+    "anchor": {
+      "chapter": "第三十難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "設問榮氣運行是否總與衛氣相隨，是榮衛運行原理問題，未觸及人的處境",
+    "excerpt": "榮氣之行，常與衛氣相隨不?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#30-p02",
+    "anchor": {
+      "chapter": "第三十難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "由穀氣分清濁及榮內衛外循環推知兩者相隨，是榮衛生理原理，未觸及人的處境",
+    "excerpt": "然。經言：人受氣於穀，穀入於胃，乃傳與五臟六腑，五臟六腑皆受於氣。其清者為榮，濁",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#31-p01",
+    "anchor": {
+      "chapter": "第三十一難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "設問三焦所稟所生、起訖及治所，是藏象部位與功能問題，未觸及人的處境",
+    "excerpt": "三焦者，何稟何生，何始何終，其治常在何許，可曉以不？",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#31-p02",
+    "anchor": {
+      "chapter": "第三十一難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "分述上中下焦的水穀功能與膻中、臍旁臍下等治所尺寸，是可定位量度的藏象說明，未觸及人的處境",
+    "excerpt": "然。三焦者，水穀之道路，氣之所終始也。上焦者，在心下，下膈，在胃上口，主內而不出",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#32-p01",
+    "anchor": {
+      "chapter": "第三十二難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "設問五藏相等而心肺獨居膈上的原因，是藏象位置原理問題，未觸及人的處境",
+    "excerpt": "五臟俱等，而心肺獨在膈上者，何也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#32-p02",
+    "anchor": {
+      "chapter": "第三十二難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以心血肺氣化為榮衛並循行於外解釋心肺在上，是藏象生理推論，未觸及人的處境",
+    "excerpt": "然。心者血，肺者氣，血為榮，氣為衛，相隨上下，謂之榮衛，通行經絡，營周於外，故令",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#33-p01",
+    "anchor": {
+      "chapter": "第三十三難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以肝木肺金遇水沉浮似有相反而設問其義，是五行藏象原理問題，未觸及人的處境",
+    "excerpt": "肝青象木，肺白象金。肝得水而沉，木得水而浮。肺得水而浮，金得水而沉，其意何也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#33-p02",
+    "anchor": {
+      "chapter": "第三十三難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以干支陰陽及夫婦譬喻解釋肝肺遇水沉浮，是五行藏象論證，夫婦字樣不是親密或家庭論述",
+    "excerpt": "然。肝者，非為純木也，乙角也，庚之柔，大言陰與陽，小言夫與婦，釋其微陽，而吸其微",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#34-p01",
+    "anchor": {
+      "chapter": "第三十四難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "設問五藏各自聲色臭味是否可知，是藏象感官配屬問題，未觸及人的處境",
+    "excerpt": "五臟各有聲色臭味，可曉知以不?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#34-p02",
+    "anchor": {
+      "chapter": "第三十四難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "逐藏列出色臭味聲液的固定配屬，是藏象功能分類，哭泣等詞在此不是內在生活",
+    "excerpt": "然。十變言：肝色青，其臭躁，其味酸，其聲呼，其液泣。心色赤，其臭焦，其味苦，其聲",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#34-p03",
+    "anchor": {
+      "chapter": "第三十四難",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "設問五藏所藏七神各為何物，是藏象功能問題，不是信仰或超越問題",
+    "excerpt": "五臟有七神，各何所藏耶?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#34-p04",
+    "anchor": {
+      "chapter": "第三十四難",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "把魂魄神意智精志分配為五藏所藏的神氣，是藏象生理定義，不是信仰或神聖論述",
+    "excerpt": "然。臟者，人之神氣所捨藏也。故肝藏魂，肺藏魄，心藏神，脾藏意與智，腎藏精與志也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#35-p01",
+    "anchor": {
+      "chapter": "第三十五難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "設問五藏與所屬腑多相近而心肺腑獨遠的原因，是藏象位置原理問題，未觸及人的處境",
+    "excerpt": "五臟各有所腑，皆相近，而心肺獨去大腸小腸遠者，何謂也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#35-p02",
+    "anchor": {
+      "chapter": "第三十五難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以心榮肺衛上行與大小腸傳陰下行解釋彼此相遠，是藏府生理與位置原理，未觸及人的處境",
+    "excerpt": "經言：心榮肺衛，通行陽氣，故居在[14]上。大腸小腸，傳陰氣而下，故居在下，所以",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#35-p03",
+    "anchor": {
+      "chapter": "第三十五難",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "設問陽腑本為清淨之處卻受不淨之物的矛盾，是藏府功能原理問題，未觸及人的處境",
+    "excerpt": "又諸腑者，皆陽也，清淨之處。今大腸小腸，胃與膀胱，皆受不淨，其意何也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#35-p04",
+    "anchor": {
+      "chapter": "第三十五難",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "反駁諸腑皆清淨並列其受盛傳瀉水穀津液功能與五藏配屬，是藏府分類論證，未觸及人的處境",
+    "excerpt": "然。諸腑者謂是，非也。經言：小腸者，受盛之腑也；大腸者，傳瀉行道之腑也；膽者，清",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#36-p01",
+    "anchor": {
+      "chapter": "第三十六難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "設問諸藏各一而腎獨有二的原因，是藏象數目問題，未觸及人的處境",
+    "excerpt": "臟各有一耳，腎獨有兩者，何也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#36-p02",
+    "anchor": {
+      "chapter": "第三十六難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "分左為腎、右為命門並以藏精繫胞解釋腎有二，是藏象生理論證，神精與命門不是神聖或命運論述",
+    "excerpt": "然。腎兩者，非皆腎也，其左者為腎，右者為命門。命門者，諸神精之所捨，原氣之所繫也",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#37-p01",
+    "anchor": {
+      "chapter": "第三十七難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "設問五藏之氣從何發起並通向何處，是藏象與竅道問題，未觸及人的處境",
+    "excerpt": "五臟之氣，於何發起，通於何許，可曉以不?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#37-p02",
+    "anchor": {
+      "chapter": "第三十七難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "由五藏通九竅及藏府不和推演癰、關格與夭死，是藏象病理和預後原理，未在談死亡處境",
+    "excerpt": "然。五臟者，當上關於九竅也[15]。故肺氣通於鼻，鼻和則知香臭矣；肝氣通於目，目",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#37-p03",
+    "anchor": {
+      "chapter": "第三十七難",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "設問經言氣獨行五藏而不營六腑的意義，是經氣運行原理問題，未觸及人的處境",
+    "excerpt": "經言：氣獨行於五臟，不營於六腑者，何也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#37-p04",
+    "anchor": {
+      "chapter": "第三十七難",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以流水與環形譬喻說明陰脈營藏、陽脈營腑並內溫外濡，是經氣循環生理，未觸及人的處境",
+    "excerpt": "然。氣之所行也，如水之流不得息也。故陰脈營於五臟，陽脈營於六腑，如環之無端，莫知",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#38-p01",
+    "anchor": {
+      "chapter": "第三十八難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "設問藏只有五而腑獨有六的原因，是藏府數目原理問題，未觸及人的處境",
+    "excerpt": "臟唯有五，腑獨有六者，何也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#38-p02",
+    "anchor": {
+      "chapter": "第三十八難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以三焦主持原氣、有名無形且屬手少陽解釋第六腑，是藏象配屬原理，未觸及人的處境",
+    "excerpt": "然。所以腑有六者，謂二焦也，有原氣之別焉，主持諸氣，有名而無形，其經屬手少陽。此",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#39-p01",
+    "anchor": {
+      "chapter": "第三十九難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "提出五腑與六臟數目何以不一的藏象問題，未觸及人的處境",
+    "excerpt": "經言：腑有五，臟有六者，何也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#39-p02",
+    "anchor": {
+      "chapter": "第三十九難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以腎分左右及命門藏精繫胞的功能解釋六臟之數，精神在此是藏象術語",
+    "excerpt": "然。六腑者，正有五腑也。然。五臟有六臟者，謂腎有兩臟也，其左為腎右為命門。命門者",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#39-p03",
+    "anchor": {
+      "chapter": "第三十九難",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以三焦雖為一腑卻不隸屬五臟解釋五腑之名，是藏象分類",
+    "excerpt": "然。五臟各一腑，三焦亦是一腑，然不屬於五臟，故言腑有五焉。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#40-p01",
+    "anchor": {
+      "chapter": "第四十難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "提出鼻耳感知與肺腎所主不一致的藏象疑問，未論人的內在生活",
+    "excerpt": "經言：肝主色，心主臭，脾主味，肺主聲，腎主液。鼻者肺之候，而反知香臭，耳者腎之候",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#40-p02",
+    "anchor": {
+      "chapter": "第四十難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "用五行生化關係說明鼻知臭與耳聞聲的生理原理",
+    "excerpt": "然。肺者西方金也，金生於巳，巳者南方火也，火舌心，心主臭，故令鼻知香臭。腎者北方",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#41-p01",
+    "anchor": {
+      "chapter": "第四十一難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以肝應東方春木及木葉形態推說肝有兩葉，屬藏象形制解釋",
+    "excerpt": "然。肝者東方木也，木者春也，萬物始生，其尚幼小，意無所親，去太陰尚近，離太陽不遠",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#42-p01",
+    "anchor": {
+      "chapter": "第四十二難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "詢問腸胃長短與容納水穀的實際數量，是身體構造的度量問題",
+    "excerpt": "人腸胃長短，受水穀多少，各幾何?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#42-p02",
+    "anchor": {
+      "chapter": "第四十二難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "逐項量化胃與各段腸道的尺寸容量並合計總數，是可計量的解剖描述",
+    "excerpt": "然。胃大一尺五寸，逕五寸，長二尺六寸，橫屈受水穀三斗五升，其中常留穀二斗，水一斗",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#42-p03",
+    "anchor": {
+      "chapter": "第四十二難",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "以重量、尺寸、曲數及容量系統列出臟腑器官形制，屬量化藏象資料",
+    "excerpt": "肝重四斤四兩，左三葉右四葉，凡七葉，主藏魂。心重十二兩，中有七孔三毛，盛精汁三合",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#43-p01",
+    "anchor": {
+      "chapter": "第四十三難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "詢問斷食飲七日致死的生理原因，是醫學上的存亡機制問題",
+    "excerpt": "人不食飲，七日而死者，何也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#43-p02",
+    "anchor": {
+      "chapter": "第四十三難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "依胃中存量與每日排泄量推算七日水穀津液耗盡而死，是量化生理推論而非死亡處境",
+    "excerpt": "然。人胃中當有留穀二斗，水一斗五升，故平人日再至圊，一行工升半；日中五升，七日五",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#44-p01",
+    "anchor": {
+      "chapter": "第四十四難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "依次命名消化道七處門戶，是身體構造的藏象分類",
+    "excerpt": "然。唇為飛門，齒為戶門，會厭為吸門，胃為賁門，太倉下口為幽門，大腸小腸會為闌門，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#45-p01",
+    "anchor": {
+      "chapter": "第四十五難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "列出腑臟筋髓血骨脈氣八會的位置，並規定內熱病取相應會穴",
+    "excerpt": "然。腑會太倉，臟會季脅，筋會陽陵泉，髓會絕骨，血會鬲俞，骨會大杼，脈會太淵，氣會",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#46-p01",
+    "anchor": {
+      "chapter": "第四十六難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "詢問老人不寐與少壯熟寐的生理差異，未討論老年人的生命處境",
+    "excerpt": "老人臥而不寐，少壯寐而不寤者，何也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#46-p02",
+    "anchor": {
+      "chapter": "第四十六難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以血氣盛衰、肌肉與榮衛通澀解釋年齡所致睡眠差異，屬生理機制",
+    "excerpt": "然。經言：少壯者，血氣盛，肌肉滑，氣道通，榮衛之行，不失於常，故晝日精，夜不寤。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#47-p01",
+    "anchor": {
+      "chapter": "第四十七難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以陽脈會聚頭面解釋面部耐寒，是經脈運行的因果說明",
+    "excerpt": "然。人頭者，諸陽之會也，諸陰脈皆至頸、胸中而還，獨諸陽脈皆上至頭耳，故令面耐寒也",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#48-p01",
+    "anchor": {
+      "chapter": "第四十八難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "按脈象、症狀與內外疼痛列出虛實辨證標誌，是病證診斷分類",
+    "excerpt": "然。有脈之虛實，有病之虛實，有診之虛實也。脈之虛實者，濡者為虛，緊牢者為實。病之",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#49-p01",
+    "anchor": {
+      "chapter": "第四十九難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "詢問如何區別正經自病與五邪所傷，是病因辨別問題",
+    "excerpt": "有正經自病，有五邪所傷，何以別之?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#49-p02",
+    "anchor": {
+      "chapter": "第四十九難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "把憂思、寒飲、怒逆、勞倦與濕水等因素分別連到五臟受傷，是病因學主張而非情緒探討",
+    "excerpt": "然。經言憂愁思慮則傷心，形寒飲冷則傷肺。恚怒氣逆，上而不下則傷肝。飲食勞倦則傷脾",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#49-p03",
+    "anchor": {
+      "chapter": "第四十九難",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "列舉中風、傷暑、勞倦、傷寒與中濕五類外邪，是病因分類",
+    "excerpt": "然。有中風，有傷暑，有飲食勞倦，有傷寒，有中濕，此之謂五邪。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#49-p04",
+    "anchor": {
+      "chapter": "第四十九難",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "設問如何判知心病由中風而得，聚焦病因診斷推理",
+    "excerpt": "假令心病，何以知中風得之?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#49-p05",
+    "anchor": {
+      "chapter": "第四十九難",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以面色、身熱脅痛與脈象推斷肝邪入心，是五邪診斷規則",
+    "excerpt": "然。其色當赤。何以言之?肝主色，自入為青，入心為赤，入脾為黃，入肺為白，入腎為黑",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#49-p06",
+    "anchor": {
+      "chapter": "第四十九難",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以所惡氣味、煩熱心痛與脈象推斷心病傷暑，是病證診斷",
+    "excerpt": "然。當惡臭。何以言之?心主臭，自入為焦臭，入脾為香臭，入肝為臊臭，入腎為腐臭，入",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#49-p07",
+    "anchor": {
+      "chapter": "第四十九難",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以嗜味、食欲、體重嗜臥與脈象推斷脾邪入心，是病證診斷",
+    "excerpt": "然。當喜苦味也。虛為不欲食，實為欲食，何以言之?脾主味，入肝為酸，入心為苦，入肺",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#49-p08",
+    "anchor": {
+      "chapter": "第四十九難",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以譫妄言語、寒熱喘咳與脈象推斷肺邪入心，言語在此只是症候",
+    "excerpt": "然。當譫言妄語。何以言之?肺主聲，入肝為呼，入心為言，入脾為歌，入腎為呻，自入為",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#49-p09",
+    "anchor": {
+      "chapter": "第四十九難",
+      "para_index": 9
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以汗液、腹痛足寒與脈象推斷腎邪入心，是五邪辨證法",
+    "excerpt": "然。當喜汗出不可止。何以言之?腎主液，入肝為泣，入心為汗，人脾為涎[17]，入肺",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#50-p01",
+    "anchor": {
+      "chapter": "第五十難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "詢問虛邪、實邪、賊邪、微邪與正邪的辨別，是病邪分類問題",
+    "excerpt": "病有虛邪，有實邪，有賊邪，有微邪，有正邪，何以別之?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#50-p02",
+    "anchor": {
+      "chapter": "第五十難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "按五行前後勝負關係界定五邪並以心病為例套用，屬病因分類原理",
+    "excerpt": "然。從後來者，為虛邪；從前來者，為實邪；從所不勝來者，為賊邪；從所勝來者，為微邪",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#51-p01",
+    "anchor": {
+      "chapter": "第五十一難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "詢問病人喜寒喜溫及欲見人與否可定位何臟腑，是症候診斷設題",
+    "excerpt": "病有欲得溫者，有欲得寒者，有欲得見人者，有不欲得見人者，而各不同，病在何藏府也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#51-p02",
+    "anchor": {
+      "chapter": "第五十一難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以陰陽屬性把溫寒偏好與見人獨處判作腑病或臟病，社交表現僅作病徵",
+    "excerpt": "然。病欲得寒，而欲見人者，病在府也；病欲得溫，而不欲得見人者，，病在藏也，何以言",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#52-p01",
+    "anchor": {
+      "chapter": "第五十二難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "以疼痛固定或游移及響動特徵區別臟病與腑病，是病證描述",
+    "excerpt": "然。不等也。其不等奈何?然。藏病者，止而不移，其病不離其處。府病者，彷彿賁響，上",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#53-p01",
+    "anchor": {
+      "chapter": "第五十三難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "詢問七傳何以死而間臟何以生，是疾病傳變與預後原理",
+    "excerpt": "經言七傳者死，間藏者生，何謂也?』",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#53-p02",
+    "anchor": {
+      "chapter": "第五十三難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以五臟相勝或相生的傳變次序解釋死生預後，並非討論人的死亡處境",
+    "excerpt": "然。七傳者，傳其所勝也。間藏者，傳其子也。何以言之?假令心病傳肺，肺傳肝，肝傳脾",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#54-p01",
+    "anchor": {
+      "chapter": "第五十四難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "詢問臟病難治而腑病易治的原因，是治療難易的醫學設題",
+    "excerpt": "藏病難治，府病易治，何謂也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#54-p02",
+    "anchor": {
+      "chapter": "第五十四難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以相勝與傳子兩種傳變法解釋臟腑病治療難易",
+    "excerpt": "然。藏病所以難治者，傳其所勝也。府病易治者，傳其子也。與七傳間藏同法也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#55-p01",
+    "anchor": {
+      "chapter": "第五十五難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "依陰陽、發作位置與疼痛是否游移界定積與聚，是病證分類原理",
+    "excerpt": "然。積者，陰氣也，聚者，陽氣也。故陰沉而伏，陽浮而動，氣之所積，名曰積，氣之所聚",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#56-p01",
+    "anchor": {
+      "chapter": "第五十六難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "詢問五臟積病的名稱與得病時日，是病證分類設題",
+    "excerpt": "五臟之積，各有名乎?以何月何日得之?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#56-p02",
+    "anchor": {
+      "chapter": "第五十六難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "描述肝積肥氣的部位症候，並以五行傳變推定得病時日",
+    "excerpt": "然。肝之積，名曰肥氣，在左脅下，如覆杯，有頭足，久不愈，令人發咳逆痎瘧，連歲不已",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#56-p03",
+    "anchor": {
+      "chapter": "第五十六難",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "描述心積伏梁的形狀症候，並以五行傳變解釋秋日成積",
+    "excerpt": "心之積，名曰伏梁，起齊上，大如臂，上至心下，久不愈，令人病煩心，以秋庚辛日得之。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#56-p04",
+    "anchor": {
+      "chapter": "第五十六難",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "描述脾積痞氣的部位症候，並以五行傳變解釋冬日成積",
+    "excerpt": "脾之積，名曰痞氣，在胃皖，覆大如盤，久不愈，令人四肢不收，發黃疸，飲食不為肌膚，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#56-p05",
+    "anchor": {
+      "chapter": "第五十六難",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "描述肺積息賁的部位症候，並以五行傳變解釋春日成積",
+    "excerpt": "肺之積，名曰息賁，在右脅下，覆大如杯，久不已，令人灑淅寒熱，喘咳，發肺癰，以春甲",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#56-p06",
+    "anchor": {
+      "chapter": "第五十六難",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "描述腎積奔豚的發作症候，並以五行傳變解釋夏日成積",
+    "excerpt": "腎之積，名曰奔豚，發於少腹，上至心下，若豚狀，或上或下無時，久不已，令人喘逆，骨",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#57-p01",
+    "anchor": {
+      "chapter": "第五十七難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "按排泄、疼痛與飲食症狀區分五種洩病，是病證定義",
+    "excerpt": "然。洩凡有五，其名不同。有胃瀉，有脾洩，有大腸洩，有小腸洩，有大瘕洩，名曰後重。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#58-p01",
+    "anchor": {
+      "chapter": "第五十八難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "列出中風、傷寒、濕溫、熱病與溫病五類傷寒及其所苦不同",
+    "excerpt": "然。傷寒有五，有中風，有傷寒，有濕溫，有熱病，有溫病，其所苦各不同。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#58-p02",
+    "anchor": {
+      "chapter": "第五十八難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "逐類描述五病脈象，並規定溫病隨受病經脈取治",
+    "excerpt": "中風之脈，陽浮而滑，陰濡而弱；濕溫之脈，陽濡而弱，陰小而急；傷寒之脈，陰陽俱盛而",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#58-p03",
+    "anchor": {
+      "chapter": "第五十八難",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "詢問傷寒施汗法或下法何以有相反生死結果，是治法機理問題",
+    "excerpt": "傷寒有汗出而愈，下之而死者；有汗出而死，下之而愈者，何也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#58-p04",
+    "anchor": {
+      "chapter": "第五十八難",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以陰陽虛盛解釋汗下兩法的愈死差異，死亡僅是治療預後",
+    "excerpt": "然。陽虛陰盛，汗出而愈，下之即死；陽盛陰虛，汗出而死，下之而愈。寒熱之病，候之如",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#58-p05",
+    "anchor": {
+      "chapter": "第五十八難",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "分述皮、肌、骨三類寒熱的疼痛、汗液與外觀症候，是病證辨別",
+    "excerpt": "然。皮寒熱者，皮不可近席，毛髮焦，鼻槁，不得汗；肌寒熱者，皮膚痛，唇舌槁，無汗；",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#59-p01",
+    "anchor": {
+      "chapter": "第五十九難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "列舉狂疾與癲疾初發時的行為、情志與脈象，皆作病證診斷標誌",
+    "excerpt": "然。狂疾之始發，少臥而不饑，自高賢也，自辨智也，自貴倨也，妄笑好歌樂，妄行不休是",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#60-p01",
+    "anchor": {
+      "chapter": "第六十難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "詢問頭痛與心痛中厥痛、真痛的病證區別",
+    "excerpt": "頭心之病，有撅痛，有真痛，何謂也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#60-p02",
+    "anchor": {
+      "chapter": "第六十難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "依風寒留脈、入腦或臟氣相干界定各類疼痛並給出真心痛預後",
+    "excerpt": "然。手三陽之脈，受風寒，伏留而不去者，則名厥頭痛；入連在腦者，名真頭痛。其五臟氣",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#61-p01",
+    "anchor": {
+      "chapter": "第六十一難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "提出望聞問切四種診法何以分稱神聖工巧，這些稱號是診斷技術分級",
+    "excerpt": "經言望而知之，謂之神；聞而知之，謂之聖；問而知之，謂之工；切脈而知之，謂之巧。何",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#61-p02",
+    "anchor": {
+      "chapter": "第六十一難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "逐一說明由五色、五音、五味與寸口脈判病的診斷原理",
+    "excerpt": "然。望而知之者，望見其五色，以知其病；聞而知之者，聞其五音，以別其病；問而知之者",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#62-p01",
+    "anchor": {
+      "chapter": "第六十二難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "詢問臟有五俞而腑有六俞的原因，是俞穴體系設題",
+    "excerpt": "臟井滎有五，腑獨有六者，何謂也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#62-p02",
+    "anchor": {
+      "chapter": "第六十二難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以三焦行於諸陽且另置原穴解釋腑有六俞",
+    "excerpt": "然。腑者，陽也，三焦行於諸陽，故置一俞，名曰原。腑有六者，亦與三焦共一氣也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#63-p01",
+    "anchor": {
+      "chapter": "第六十三難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "詢問五臟六腑滎合何以皆從井穴開始，是俞穴次序問題",
+    "excerpt": "十變言：五臟六腑滎合，皆以井為始者，何也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#63-p02",
+    "anchor": {
+      "chapter": "第六十三難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以春季萬物始生及歲日起始作類比，說明井穴為首的原理",
+    "excerpt": "然。井者，東方春也，萬物之始生，諸蚑行喘息，蜎飛蠕動，當生之物，莫不以春而生。故",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#64-p01",
+    "anchor": {
+      "chapter": "第六十四難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "提出陰陽井滎俞經合各配五行且配置不同的俞穴理論問題",
+    "excerpt": "十變又言：陰井木，陽井金，陰滎火，陽滎水，陰俞土，陽俞木，陰經金，陽經火，陰合水",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#64-p02",
+    "anchor": {
+      "chapter": "第六十四難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "用天干剛柔與五行配屬解釋陰陽井穴的差異，並令其餘類推",
+    "excerpt": "然。是剛柔之事也。陰井乙木，陽井庚金。陽井庚，庚者，乙之剛也。陽井乙，乙者，庚之",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#65-p01",
+    "anchor": {
+      "chapter": "第六十五難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "詢問所出為井、所入為合的俞穴法則所據",
+    "excerpt": "經言：所出為井，所入為合，其法奈何?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#65-p02",
+    "anchor": {
+      "chapter": "第六十五難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以春生冬藏對應氣的出入，說明井穴與合穴的命名原理",
+    "excerpt": "然。所出為井，井者，東方春也，萬物之始生，故言所出為井也。所入為合，合者，北方冬",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#66-p01",
+    "anchor": {
+      "chapter": "第六十六難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "列舉十二經原穴並詢問何以皆以俞為原，是俞穴體系問題",
+    "excerpt": "經言：肺之原，出於太淵；心之原，出於大[18]陵；肝之原，出於太沖；脾之原，出於",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#66-p02",
+    "anchor": {
+      "chapter": "第六十六難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以五臟俞是三焦氣行留止之處解釋原穴關係",
+    "excerpt": "然。五藏俞者，三焦之所行，氣之所留止也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#66-p03",
+    "anchor": {
+      "chapter": "第六十六難",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "續問三焦所行的俞穴何以稱原，仍是俞穴命名設題",
+    "excerpt": "三焦所行之俞為原者，何也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#66-p04",
+    "anchor": {
+      "chapter": "第六十六難",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "以腎間動氣和三焦通行解釋原穴根本，並規定臟腑有病取其原穴",
+    "excerpt": "然。臍下腎間動氣者，人之生命也，十二經之根本也，故名曰原。三焦者，原氣之別使也，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#67-p01",
+    "anchor": {
+      "chapter": "第六十七難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "詢問五臟募穴在陰而俞穴在陽的原因，是穴位配置問題",
+    "excerpt": "五藏募皆在陰，而俞在陽者，何謂也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#67-p02",
+    "anchor": {
+      "chapter": "第六十七難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以陰病行陽、陽病行陰解釋募俞分置陰陽的原理",
+    "excerpt": "然。陰病行陽，陽病行陰，故令募在陰，俞在陽。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#68-p01",
+    "anchor": {
+      "chapter": "第六十八難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "詢問五臟六腑井滎俞經合各自主治何病，是俞穴主治分類",
+    "excerpt": "五藏六府，各有井滎俞經合，皆何所主?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#68-p02",
+    "anchor": {
+      "chapter": "第六十八難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "逐一列出井滎俞經合所主的滿、熱、痛、喘咳與洩等病證",
+    "excerpt": "然。經言：所出為井，所流為滎，所注為俞，所行為經，所入為合。井主心下滿，滎主身熱",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#69-p01",
+    "anchor": {
+      "chapter": "第六十九難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "引述虛補實瀉及不虛不實取本經的治療規則並詢問其義",
+    "excerpt": "經言虛者補之，實者瀉之，不實不虛，以經取之，何謂也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#69-p02",
+    "anchor": {
+      "chapter": "第六十九難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "規定虛補其母、實瀉其子及先補後瀉，並解釋正經自病取本經",
+    "excerpt": "然。虛者補其母，實者瀉其子。當先補之，然後瀉之。不實不虛，以經取之者，是正經自生",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#70-p01",
+    "anchor": {
+      "chapter": "第七十難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "引述春夏淺刺、秋冬深刺的季節針法並詢問依據",
+    "excerpt": "經言春夏刺淺，秋冬刺深者，何謂也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#70-p02",
+    "anchor": {
+      "chapter": "第七十難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "以季節中陽氣與人氣的上下位置說明並規定針刺深淺",
+    "excerpt": "然。春夏者，陽氣在上，人氣亦在上，故當淺取之。秋冬者，陽氣在下，人氣亦在下，故當",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#70-p03",
+    "anchor": {
+      "chapter": "第七十難",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "詢問春夏致一陰、秋冬致一陽這項季節針法的含義",
+    "excerpt": "春夏各致一陰，秋冬各致一陽者，何謂也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#70-p04",
+    "anchor": {
+      "chapter": "第七十難",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "按季節規定下針深淺、得氣後引持推納的程序，並以陰陽說明",
+    "excerpt": "然。春夏溫，必致一陰者，初下針，沉之至腎肝之部，得氣，引持之陰也。秋冬寒，必致一",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#71-p01",
+    "anchor": {
+      "chapter": "第七十一難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "引述刺榮衛不得互傷的針刺規範並詢問做法",
+    "excerpt": "經言刺榮無傷衛，刺衛無傷榮，何謂也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#71-p02",
+    "anchor": {
+      "chapter": "第七十一難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "分別規定刺陽臥針及刺陰先按散氣再進針的操作程序",
+    "excerpt": "然。針陽者，臥針而刺之。刺陰者，先以左手攝按所針滎俞之處，氣散乃內針。是謂刺榮無",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#72-p01",
+    "anchor": {
+      "chapter": "第七十二難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "引述依迎隨與陰陽調氣的針法規則並詢問其義",
+    "excerpt": "經言能知迎隨之氣，可令調之，調氣之方，必在陰陽，何謂也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#72-p02",
+    "anchor": {
+      "chapter": "第七十二難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "以榮衛經脈往來解釋迎隨，並規定按逆順、表裡與陰陽調氣",
+    "excerpt": "然。所謂迎隨者，知榮衛之流行，經脈之往來也，隨其逆順而取之，故曰迎隨。調氣之方，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#73-p01",
+    "anchor": {
+      "chapter": "第七十三難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "指出井穴肌肉淺薄氣少而詢問刺法，屬針刺技術問題",
+    "excerpt": "諸井者，肌肉淺薄，氣少，不足使也，刺之奈何?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#73-p02",
+    "anchor": {
+      "chapter": "第七十三難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "以木火母子關係說明當刺井時改從滎穴瀉治，並申明補瀉不可混用",
+    "excerpt": "然。諸井者，木也，滎者，火也。火者木之子，當刺井者，以滎瀉之。故經言：補者不可以",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#74-p01",
+    "anchor": {
+      "chapter": "第七十四難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "引述四季分刺井滎俞經合的針法規則並詢問原因",
+    "excerpt": "經言春刺井，夏刺滎，季夏刺俞，秋刺經，冬刺合者，何謂也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#74-p02",
+    "anchor": {
+      "chapter": "第七十四難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "把春夏季夏秋冬所刺穴類分別配給肝心脾肺腎之邪",
+    "excerpt": "然。春刺井者，邪在肝；夏刺滎者，邪在心；季夏刺俞者，邪在脾；秋刺經者，邪在肺；冬",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#74-p03",
+    "anchor": {
+      "chapter": "第七十四難",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "詢問五臟何以繫於春夏秋冬，是季節針法的理論設題",
+    "excerpt": "其肝心脾肺腎，而繫於春夏秋冬者，何也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#74-p04",
+    "anchor": {
+      "chapter": "第七十四難",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "列舉肝病色臭味聲液等多種表現，並以四時有限說明統攝病類的針法原理",
+    "excerpt": "然。五藏一病，輒有五也。假令肝病，色青者肝也，躁臭者肝也，喜酸者肝也，喜呼者肝也",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#75-p01",
+    "anchor": {
+      "chapter": "第七十五難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "引述東方實西方虛時瀉南補北的治療規則並詢問其義",
+    "excerpt": "經言東方實，西方虛，瀉南方，補北方，何謂也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#75-p02",
+    "anchor": {
+      "chapter": "第七十五難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "主張五行應相互制衡，並逐項指出各行實時由何行平制",
+    "excerpt": "然。金木水火土，當更相平。東方木也，西方金也。木欲實，金當平之。火欲實，水當平之",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#75-p03",
+    "anchor": {
+      "chapter": "第七十五難",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "以肝實肺虛及五行母子勝制推導瀉火補水的針治法",
+    "excerpt": "東方肝也，則知肝實；西方肺也，則知肺虛。瀉南方火，補北方水，南方火，火者木之子也",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#75-p04",
+    "anchor": {
+      "chapter": "第七十五難",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "以反問告誡先能治虛才談其餘，仍是針治要領而非一般品格論",
+    "excerpt": "不能治其虛，何問其餘，此之謂也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#76-p01",
+    "anchor": {
+      "chapter": "第七十六難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "詢問補瀉時應從何處取氣置氣，是針刺操作設題",
+    "excerpt": "何謂補瀉，當補之時，何所取氣，當瀉之時，何所置氣?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#76-p02",
+    "anchor": {
+      "chapter": "第七十六難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "規定補從衛取氣、瀉從榮置氣及陰陽不足有餘時的先後次序",
+    "excerpt": "然。當補之時，從衛取氣。當瀉之時，從榮置氣。其陽氣不足，陰氣有餘，當先補其陽，而",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#77-p01",
+    "anchor": {
+      "chapter": "第七十七難",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以治未病與治已病區分上工、中工，直接評量醫者的職業能力與成就層次",
+    "excerpt": "經言上工治未病，中工治已病者，何謂也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#77-p02",
+    "anchor": {
+      "chapter": "第七十七難",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "對比上工預見傳變而先防護脾氣與中工不曉傳變只治肝，呈現醫者專業判斷的高下",
+    "excerpt": "然。所謂治未病者，見肝之病，則知肝當傳之與脾，故先實其脾氣，無令得受肝之邪，故曰",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#78-p01",
+    "anchor": {
+      "chapter": "第七十八難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "詳列按穴候氣、進退針與補瀉手法，知針與否只用來區分操作是否得法",
+    "excerpt": "然。補瀉之法，非必呼吸出內針也。然知為針者，信其左；不知為針者，信其右。當刺之時",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#79-p01",
+    "anchor": {
+      "chapter": "第七十九難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "詢問迎隨補瀉及氣感若得若失的含義，是針法原理設題",
+    "excerpt": "經言迎而奪之，安得無虛；隨而濟之，安得無實?虛之與實，若得若失，實之與虛，若有若",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#79-p02",
+    "anchor": {
+      "chapter": "第七十九難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以瀉子補母及心病例解釋迎隨，再用牢濡氣感界定虛實得失",
+    "excerpt": "然。迎而奪之者，瀉其子也，隨而濟之者，補其母也。假令心病，瀉手心主俞，是謂迎而奪",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#80-p01",
+    "anchor": {
+      "chapter": "第八十難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "詢問有見如入、有見如出的進出針規則所指",
+    "excerpt": "經言有見如入，有見如出者，何謂也?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#80-p02",
+    "anchor": {
+      "chapter": "第八十難",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "規定左手察覺氣至才進針、氣盡才出針的操作時機",
+    "excerpt": "然。所謂有見如入者，謂左手見氣來至，乃內針，針人見氣盡，乃出針，是謂有見如入，有",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#81-p01",
+    "anchor": {
+      "chapter": "第八十一難",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "詢問實實虛虛、損不足益有餘所指脈象或病情及其損益原理",
+    "excerpt": "經言無實實虛虛，損不足而益有餘，是寸口脈耶?將病自有虛實耶?其損益奈何?",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#81-p02",
+    "anchor": {
+      "chapter": "第八十一難",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "以肝肺虛實說明正確補瀉，並指出中工誤針反使病情加重所造成的專業傷害",
+    "excerpt": "然。是病非謂寸口脈也，謂病自有虛實也。假令肝實而肺虛，肝者木也，肺者金也，金木當",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#81-p03",
+    "anchor": {
+      "chapter": "第八十一難",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "校勘注說明「浮」原作「沉」及改字所據，不涉及人的處境",
+    "excerpt": "[1]浮：原作沉，據《古本難經闡注》、《難經疏證》等改。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#81-p04",
+    "anchor": {
+      "chapter": "第八十一難",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "校勘注說明「儒」原作「澀」及改字所據，不涉及人的處境",
+    "excerpt": "[2]儒：原作「澀」，據《古本難經闡注》等改。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#81-p05",
+    "anchor": {
+      "chapter": "第八十一難",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "校勘注說明「至」原作「死」及改字所據，死字只是異文記錄",
+    "excerpt": "[3]至：原作「死」，據《難經疏證》等改。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#81-p06",
+    "anchor": {
+      "chapter": "第八十一難",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "校勘注記錄《難經本義》對「至於收病」的文字辨正",
+    "excerpt": "[4]至於收病：《難經本義》滑注「至於收病也，當作至脈之病也」",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#81-p07",
+    "anchor": {
+      "chapter": "第八十一難",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "校勘注說明「再吸一至」的原文異文與改字依據",
+    "excerpt": "[5]再吸一至：原作「呼吸再至」，據《難經疏證》改。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#81-p08",
+    "anchor": {
+      "chapter": "第八十一難",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "版本注說明「譬如」二字在明本文句中的不同位置",
+    "excerpt": "[6]譬如：明本《難經》此二字在「樹之有根」之前。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#81-p09",
+    "anchor": {
+      "chapter": "第八十一難",
+      "para_index": 9
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "校勘注說明「啄」字原缺及補字所據",
+    "excerpt": "[7]啄：原無，據《難經疏證》補。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#81-p10",
+    "anchor": {
+      "chapter": "第八十一難",
+      "para_index": 10
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "校勘注說明「筋」原作「節」及改字所據",
+    "excerpt": "[8]筋：原作「節」，據《古本難經闡注》改。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#81-p11",
+    "anchor": {
+      "chapter": "第八十一難",
+      "para_index": 11
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "異文注記錄「肉滿」在《靈樞·經脈篇》作「人中滿」",
+    "excerpt": "[9]肉滿：《靈樞·經脈篇》作「人中滿」",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#81-p12",
+    "anchor": {
+      "chapter": "第八十一難",
+      "para_index": 12
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "校勘注說明「黧」原作「梨」及改字所據",
+    "excerpt": "[10]黧：原作「梨」，據《古本難經闡注》改。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#81-p13",
+    "anchor": {
+      "chapter": "第八十一難",
+      "para_index": 13
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "異文注記錄「三陰」在《靈樞·經脈篇》作「五陰」",
+    "excerpt": "[11]三陰：《靈樞·經脈篇》作「五陰」。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#81-p14",
+    "anchor": {
+      "chapter": "第八十一難",
+      "para_index": 14
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "校勘注說明「虞」原作「然」及改字所據",
+    "excerpt": "[12]虞：原作「然」，據《脈經》改。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#81-p15",
+    "anchor": {
+      "chapter": "第八十一難",
+      "para_index": 15
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "校勘注說明「盛」原作「聖」及改字所據",
+    "excerpt": "[13]盛：原作「聖」，據《難經疏證》改。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#81-p16",
+    "anchor": {
+      "chapter": "第八十一難",
+      "para_index": 16
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "校勘注說明「在」原作「有」並依上下文改字",
+    "excerpt": "[14]在：原作「有」，據上下文義改。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#81-p17",
+    "anchor": {
+      "chapter": "第八十一難",
+      "para_index": 17
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "異文注記錄「當上關於九竅也」在《靈樞·脈度篇》的不同文句",
+    "excerpt": "[15]當上關於九竅也：《靈樞·脈度篇》作「常內閱於上七竅也」。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#81-p18",
+    "anchor": {
+      "chapter": "第八十一難",
+      "para_index": 18
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "校勘注說明「魄」原作「魂」及改字所據，魂魄只是異文字詞",
+    "excerpt": "[16]魄：原作「魂」，據《難經疏證》改。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#81-p19",
+    "anchor": {
+      "chapter": "第八十一難",
+      "para_index": 19
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "校勘注說明「涎」原作「液」及改字所據",
+    "excerpt": "[17]涎：原作「液」，據《難經疏證》改。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#81-p20",
+    "anchor": {
+      "chapter": "第八十一難",
+      "para_index": 20
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "校勘注說明「大」原作「太」及改字所據",
+    "excerpt": "[18]大：原作「太」，據《靈樞·九針十二原》改。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  },
+  {
+    "para_id": "nanjing#81-p21",
+    "anchor": {
+      "chapter": "第八十一難",
+      "para_index": 21
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "校勘注說明「補」原作「瀉」及改字所據，內容是針法字詞訂正",
+    "excerpt": "[19]補：原作「瀉」，據《古本難經闡注》等改。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-09T14:13:43+08:00"
+  }
+]
