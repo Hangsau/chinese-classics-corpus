@@ -1,299 +1,47 @@
 {
   "batch": "b22.md",
   "rows": [
-    {
-      "chapter": "雅量",
-      "para_index": 1,
-      "domains": ["VI", "X", "XIII"],
-      "modes": ["narrative", "expression"],
-      "reason": "顧雍強抑喪子之痛，事後以禮義自解而散哀，是面對死亡失落時安頓情緒。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 2,
-      "domains": ["X", "XIII"],
-      "modes": ["narrative", "expression"],
-      "reason": "嵇康死期已定仍從容彈琴，只慨嘆樂曲將絕，呈現臨死時的自我安頓。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 3,
-      "domains": ["VI"],
-      "modes": ["narrative"],
-      "reason": "雷擊近身、衣服焦灼而夏侯玄神色不改，寫人在驚懼情境中的情緒穩定。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 4,
-      "domains": [],
-      "modes": ["narrative", "proposition"],
-      "reason": "故事只以道旁李多而推知果苦來記王戎幼時的推理才智，未處理所列人生問題。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 5,
-      "domains": ["VI"],
-      "modes": ["narrative"],
-      "reason": "眾人被虎吼嚇倒而幼年的王戎毫無懼色，核心是人在恐懼中的內在鎮定。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 6,
-      "domains": ["V", "VII"],
-      "modes": ["narrative"],
-      "reason": "王戎拒收地方官餽贈，遭公議與劾奏仍守公私分際，涉及官場公義及廉正品格。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 7,
-      "domains": ["VI"],
-      "modes": ["narrative"],
-      "reason": "裴楷被捕且可能遇害時仍神色自若並從容作書，呈現危難中的情緒自持。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 8,
-      "domains": ["II", "VI"],
-      "modes": ["narrative", "expression"],
-      "reason": "王衍受辱不與人爭，並以自己的風神身分解釋其不計較，兼及自我定位與情緒控制。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 9,
-      "domains": ["VI"],
-      "modes": ["narrative", "expression"],
-      "reason": "裴遐遭人怒曳墜地仍照常弈棋，且親自說明當時心境，主題是受辱時不動怒。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 10,
-      "domains": ["VII"],
-      "modes": ["narrative", "proposition"],
-      "reason": "庾敳不吝巨財，並指出小人以自身尺度猜度君子，直接辨析貪吝與君子品格。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 11,
-      "domains": ["VI"],
-      "modes": ["narrative"],
-      "reason": "裴邈蓄意辱罵以激怒王衍，王衍始終不動聲色，寫面對挑釁時的情緒節制。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 12,
-      "domains": ["II"],
-      "modes": ["narrative"],
-      "reason": "裴頠面對王衍以年齒和稱謂居高臨下仍自全身分，涉及聲望、稱謂與自我定位。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 13,
-      "domains": ["V", "XI"],
-      "modes": ["narrative", "expression"],
-      "reason": "王導以舊交信任回應政治威脅，並自陳寧可退回布衣而不設防，涉及權力關係與自主取捨。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 14,
-      "domains": ["V"],
-      "modes": ["narrative", "prescription"],
-      "reason": "王導勸主簿勿窺察屬員案頭私事，以信任而非監控來維繫上下關係。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 15,
-      "domains": ["VI", "VII"],
-      "modes": ["narrative"],
-      "reason": "祖約因愛財而焦躁遮掩，阮孚愛屐卻神色閒暢，藉對比衡量欲望中的內心與品格。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 16,
-      "domains": ["VI"],
-      "modes": ["narrative"],
-      "reason": "同宿丞相帳中時顧和輾轉難眠而許璪安然鼾睡，對照人在拘束場合能否放鬆自若。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 17,
-      "domains": ["II", "VI"],
-      "modes": ["narrative"],
-      "reason": "庾會受驚仍恬然，讓人以其天性反證庾亮的莊重並非作假，兼及情緒鎮定與名實真偽。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 18,
-      "domains": ["II", "VI"],
-      "modes": ["narrative"],
-      "reason": "褚裒因身分未被認出而受辱、名號揭曉後待遇驟變，他卻始終言色如常，凸顯名實待遇與自持。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 19,
-      "domains": ["II", "IV"],
-      "modes": ["narrative"],
-      "reason": "郗鑒為女擇婿時不取眾人的矜持表演而選坦腹自若的王羲之，涉及婚姻選擇與識別真實人格。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 20,
-      "domains": ["V", "VII"],
-      "modes": ["observation"],
-      "reason": "兩種宴客方式被拿來比較不分貴賤的待人及真率、豐華的價值高下，涉及平等與品格。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 21,
-      "domains": ["II", "VI"],
-      "modes": ["narrative"],
-      "reason": "周嵩因兄長才名而妒怒擲火，周顗則以笑談化解，兼寫名實比較與怒氣應對。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 22,
-      "domains": ["II", "VI"],
-      "modes": ["narrative"],
-      "reason": "顧和在名士注視下仍安然捉蝨，周顗由此判其內在難測且有重臣之才，涉及自持及評人的根據。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 23,
-      "domains": ["V", "VI"],
-      "modes": ["narrative"],
-      "reason": "敗逃途中眾人因舟工中箭而驚散，庾亮以鎮定言語安眾，呈現危局中的情緒穩定與領導責任。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 24,
-      "domains": ["II", "VI"],
-      "modes": ["narrative"],
-      "reason": "庾翼為展示騎術反而墜馬，卻能在聲名與實際表現落差造成的難堪中神色自若。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 25,
-      "domains": ["V", "VI"],
-      "modes": ["narrative"],
-      "reason": "突發鼓譟中簡文帝不受驚擾，桓溫據此認為朝廷仍有賢者，將鎮定連到政治領導資質。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 26,
-      "domains": ["VI"],
-      "modes": ["narrative"],
-      "reason": "正逢政治搜捕時王薈不安欲退、王劭堅坐待消息確定，以對照呈現恐懼中的定力。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 27,
-      "domains": ["V", "VI"],
-      "modes": ["narrative"],
-      "reason": "面對芟除朝臣的權力暴力，王坦之直言名單太多、謝安仍能含笑調侃，兼及公義權力與臨危自持。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 28,
-      "domains": ["V", "VI"],
-      "modes": ["narrative"],
-      "reason": "海上風浪令眾人驚亂時謝安鎮定決斷並使眾人服從，藉危局評其安眾與領導能力。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 29,
-      "domains": ["V", "VI"],
-      "modes": ["narrative"],
-      "reason": "謝安在可能被殺時以晉室存亡自任，保持從容並化解伏兵，呈現政治責任和恐懼控制。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 30,
-      "domains": ["V", "VI"],
-      "modes": ["narrative", "prescription"],
-      "reason": "面對掌握生殺權的郗超，謝安勸王坦之為性命暫忍等候，涉及權力壓力下的忍耐與情緒調節。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 31,
-      "domains": ["V", "VI"],
-      "modes": ["narrative"],
-      "reason": "蔡系因座位把謝萬摔倒，謝萬平靜笑談，二人事後皆不介意，寫人際衝突中的克制與修復。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 32,
-      "domains": ["VII", "XI"],
-      "modes": ["narrative", "proposition"],
-      "reason": "道安以極簡回書面對厚贈，並認為仰賴他人反成煩累，呈現不戀餽贈的品格及擺脫依待的自由。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 33,
-      "domains": ["VI", "VIII"],
-      "modes": ["narrative"],
-      "reason": "謝奉失官後刻意不談此事，也不讓友人安慰，寫職位挫折下如何管理自己的失落。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 34,
-      "domains": ["II", "VI"],
-      "modes": ["narrative"],
-      "reason": "戴逵遭謝安輕視仍無慍色並盡展所長，使謝安改變評價，涉及被低估時的自持與名實辨識。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 35,
-      "domains": ["VI", "XIII"],
-      "modes": ["narrative"],
-      "reason": "謝安面對國家危局及大捷消息皆不改弈棋神色，以平常舉止安頓自己並承受局勢。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 36,
-      "domains": ["VI"],
-      "modes": ["narrative"],
-      "reason": "室內失火時王徽之倉促逃避、王獻之從容而出，藉對照評定二人的恐懼與內在器度。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 37,
-      "domains": ["V"],
-      "modes": ["narrative", "prescription"],
-      "reason": "敵軍逼境時謝安囑王獻之擔當要職、處理此地危局，核心是政治責任與用人。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 38,
-      "domains": ["V", "VI"],
-      "modes": ["narrative"],
-      "reason": "王珉因稱謂動怒並以地域身分辱人，謝玄從容笑答，兼寫群體偏見、人際衝突與情緒控制。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 39,
-      "domains": ["II", "V", "VI"],
-      "modes": ["narrative"],
-      "reason": "桓溫以突騎考驗王珣，從其不動聲色驗證名聲並判定可任公輔，連結評價根據、領導用人與定力。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 40,
-      "domains": ["VI", "X", "XIII"],
-      "modes": ["narrative", "proposition"],
-      "reason": "孝武帝雖畏長星凶兆，仍以自古無萬歲天子直面自身必死，在死亡焦慮中替處境作出安頓。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 41,
-      "domains": ["II", "VI"],
-      "modes": ["narrative"],
-      "reason": "殷仲堪自信新賦有才且笑不可抑，王恭不置好惡便令他悵然，呈現作品評價牽動自我認同與情緒。"
-    },
-    {
-      "chapter": "雅量",
-      "para_index": 42,
-      "domains": ["II", "V", "VI"],
-      "modes": ["narrative"],
-      "reason": "羊孚先因陌生而遭二王排斥，後憑才情被改觀挽留，始終自若且拒留，涉及誤認、歸屬排拒與自持。"
-    }
+    {"chapter": "雅量", "para_index": 1, "domains": ["VI", "X", "XIII"], "modes": ["narrative", "expression"], "reason": "顧雍得知兒子死訊後強抑哀痛，賓客散去才以禮義自解，讓自己從喪子之悲恢復平靜。"},
+    {"chapter": "雅量", "para_index": 2, "domains": ["X", "XIII"], "modes": ["narrative", "expression"], "reason": "死刑已無可挽回，嵇康仍索琴奏曲，並以惋惜絕藝的話安置臨死之心。"},
+    {"chapter": "雅量", "para_index": 3, "domains": ["VI"], "modes": ["narrative"], "reason": "雷霆擊柱並燒焦衣服時，夏侯玄仍不驚亂而照常寫字，呈現人在突發危險中的恐懼調節。"},
+    {"chapter": "雅量", "para_index": 4, "domains": [], "modes": ["narrative", "proposition"], "reason": "只以苦李得到驗證來記王戎幼時善於推理，未觸及本表所列的人生問題領域。"},
+    {"chapter": "雅量", "para_index": 5, "domains": ["VI"], "modes": ["narrative"], "reason": "眾人被猛虎吼聲嚇倒時，幼年的王戎全無懼色，故事集中呈現恐懼與鎮定。"},
+    {"chapter": "雅量", "para_index": 6, "domains": ["V", "VII"], "modes": ["narrative"], "reason": "王戎拒收地方官餽贈，面對公議與皇帝辯護也不求情致謝，涉及公私界線與廉正品格。"},
+    {"chapter": "雅量", "para_index": 7, "domains": ["VI"], "modes": ["narrative"], "reason": "裴楷被捕而仍神色自若，冷靜寫信求援，呈現人在拘押威脅下控制恐懼。"},
+    {"chapter": "雅量", "para_index": 8, "domains": ["II", "VI"], "modes": ["narrative", "expression"], "reason": "王衍遭族人擲物羞辱仍不爭辯，並以眼光自況，兼見其自我定位與受辱時的情緒克制。"},
+    {"chapter": "雅量", "para_index": 9, "domains": ["VI"], "modes": ["narrative", "expression"], "reason": "裴遐被司馬拖倒後仍照常下棋，並親自說明當時何以不動聲色，主題是受辱時的內在鎮定。"},
+    {"chapter": "雅量", "para_index": 10, "domains": ["VII"], "modes": ["narrative", "proposition"], "reason": "庾敳以任取家財挫敗試探，並指出小人常以己心猜度君子，辨明吝嗇與慷慨的品格差別。"},
+    {"chapter": "雅量", "para_index": 11, "domains": ["VI"], "modes": ["narrative"], "reason": "裴邈蓄意辱罵以激怒王衍，王衍始終不動色，故事處理遭挑釁時如何不被怒氣牽動。"},
+    {"chapter": "雅量", "para_index": 12, "domains": ["II", "VI"], "modes": ["narrative"], "reason": "王衍以年長者口吻稱裴頠，裴頠不因名望與禮數受損而動怒，涉及身分定位及情緒自持。"},
+    {"chapter": "雅量", "para_index": 13, "domains": ["V"], "modes": ["narrative", "expression"], "reason": "王導面對庾亮可能來攻的傳言，選擇相信兩人布衣舊交而不設防，處理政治衝突中的友誼與互信。"},
+    {"chapter": "雅量", "para_index": 14, "domains": ["V", "VIII"], "modes": ["narrative", "prescription"], "reason": "王導勸主簿不必查察几案細務，表明領導者如何界定同僚關係與職務重心。"},
+    {"chapter": "雅量", "para_index": 15, "domains": ["VI", "VII"], "modes": ["narrative"], "reason": "祖約藏財而心神不安，阮孚愛屐卻能想到一生所用有限而神色閒暢，藉內在執著辨別品格高下。"},
+    {"chapter": "雅量", "para_index": 16, "domains": ["VI"], "modes": ["narrative"], "reason": "同宿丞相帳中時顧和輾轉難眠而許璪安然鼾睡，呈現人在權貴近側能否自在安定。"},
+    {"chapter": "雅量", "para_index": 17, "domains": ["II", "VI"], "modes": ["narrative"], "reason": "庾亮的莊重被疑為造作，其幼子受驚仍恬然有禮，藉此辨明外在風儀究竟出於假飾還是真性。"},
+    {"chapter": "雅量", "para_index": 18, "domains": ["II", "V", "VI"], "modes": ["narrative"], "reason": "褚裒因身分未被認出而受辱，姓名揭曉後待遇驟變，他卻始終如常，兼涉名實、階序偏見與受辱時的鎮定。"},
+    {"chapter": "雅量", "para_index": 19, "domains": ["II", "IV"], "modes": ["narrative"], "reason": "王家諸郎為婚姻甄選刻意矜持，王羲之坦腹自若反被選中，處理婚配中的家庭選擇與真實自我呈現。"},
+    {"chapter": "雅量", "para_index": 20, "domains": ["V", "VII"], "modes": ["narrative"], "reason": "羊曼設宴依到訪早晚而不分貴賤，時論又以真率勝過終日鋪張，涉及平等待客與真誠品格。"},
+    {"chapter": "雅量", "para_index": 21, "domains": ["II", "VI"], "modes": ["narrative"], "reason": "周嵩因兄長聲名超過才分而發怒擲火，周顗以笑談化解，兼見名實比較與怒氣調節。"},
+    {"chapter": "雅量", "para_index": 22, "domains": ["II", "VI"], "modes": ["narrative"], "reason": "顧和在名士經過時仍若無其事地捉蝨，反使周顗從不矜飾的舉止識出其深藏才能，涉及評人依據與內在自若。"},
+    {"chapter": "雅量", "para_index": 23, "domains": ["V", "VI"], "modes": ["narrative"], "reason": "敗逃途中舟工中箭、眾人驚散，庾亮不動容而一句話使眾人安定，呈現危局中的情緒控制與領導責任。"},
+    {"chapter": "雅量", "para_index": 24, "domains": ["VI"], "modes": ["narrative"], "reason": "庾翼為岳母表演騎術卻墜馬，仍意色自若，故事處理公開失誤後的羞窘與自持。"},
+    {"chapter": "雅量", "para_index": 25, "domains": ["V", "VI"], "modes": ["narrative"], "reason": "桓溫以鼓譟試人，簡文帝在眾人驚亂中清恬不變，並因此被認為足當朝廷賢者，連結鎮定與公共領導資格。"},
+    {"chapter": "雅量", "para_index": 26, "domains": ["VI", "VII"], "modes": ["narrative"], "reason": "正逢庾希家被收捕，王薈不安欲退而王劭冒著牽連風險堅坐，藉恐懼反應衡量勇毅品格。"},
+    {"chapter": "雅量", "para_index": 27, "domains": ["V", "VI"], "modes": ["narrative"], "reason": "桓溫與郗超密謀誅除朝臣，謝安在殺伐權力之前仍以笑語點破帳中共謀者，呈現政治威脅下的鎮定。"},
+    {"chapter": "雅量", "para_index": 28, "domains": ["V", "VI"], "modes": ["narrative"], "reason": "海上風浪使眾人驚亂，謝安先沉著觀勢再決定返航，其鎮定也使眾人服從並被視為足以安定朝野。"},
+    {"chapter": "雅量", "para_index": 29, "domains": ["V", "VI"], "modes": ["narrative"], "reason": "桓溫設伏欲殺王謝，謝安以晉室存亡自任並從容赴席，靠鎮定化解政治暴力。"},
+    {"chapter": "雅量", "para_index": 30, "domains": ["V", "VI"], "modes": ["narrative", "prescription"], "reason": "面對掌握生殺權的郗超，謝安勸王坦之為保性命忍耐片刻，涉及權力壓迫下的耐心與情緒節制。"},
+    {"chapter": "雅量", "para_index": 31, "domains": ["V", "VI"], "modes": ["narrative"], "reason": "蔡系當眾將謝萬擲地，兩人以玩笑回應且事後都不介意，呈現同儕衝突中不積怨的情緒修養。"},
+    {"chapter": "雅量", "para_index": 32, "domains": ["XI"], "modes": ["narrative", "proposition"], "reason": "郗超厚贈長書並期待殷勤回應，道安只作極簡答覆，使人看見依賴回報與人情期待反成束縛。"},
+    {"chapter": "雅量", "para_index": 33, "domains": ["VIII", "XIII"], "modes": ["narrative"], "reason": "謝奉失官已成定局，面對三日慰問始終轉談他事，以不反芻仕途挫折安頓自己。"},
+    {"chapter": "雅量", "para_index": 34, "domains": ["II", "VI"], "modes": ["narrative"], "reason": "戴逵受謝安輕視仍毫無慍色，只以更精妙的琴書談論展現自己，使錯誤評價轉為真正理解。"},
+    {"chapter": "雅量", "para_index": 35, "domains": ["VI", "XIII"], "modes": ["narrative"], "reason": "謝安在國家危局及捷報到來前後都安坐下棋、神色如常，以不隨成敗震盪來安頓自身與局勢。"},
+    {"chapter": "雅量", "para_index": 36, "domains": ["II", "VI"], "modes": ["narrative"], "reason": "室內失火時王徽之倉皇而王獻之從容，世人據危急中的反應評定兩人的真實器度。"},
+    {"chapter": "雅量", "para_index": 37, "domains": ["V", "VIII"], "modes": ["narrative", "prescription"], "reason": "外敵逼近時謝安要王獻之居當軸之位了結局勢，直接處理危機中應由誰承擔政務並發揮才能。"},
+    {"chapter": "雅量", "para_index": 38, "domains": ["V", "VI"], "modes": ["narrative"], "reason": "王珉突然以地域與門第之語辱罵謝玄，謝玄以笑語回敬而不發怒，呈現同儕衝突中的自持。"},
+    {"chapter": "雅量", "para_index": 39, "domains": ["V", "VI", "VIII"], "modes": ["narrative"], "reason": "桓溫以失儀與奔馬兩次考驗王珣，從其臨場不亂判定能成公輔，連結鎮定、才能與領導任用。"},
+    {"chapter": "雅量", "para_index": 40, "domains": ["VI", "X", "XIII"], "modes": ["narrative", "expression"], "reason": "孝武帝雖厭惡長星凶兆，仍舉杯直言自古無萬歲天子，以承認死亡不可免來化解恐懼。"},
+    {"chapter": "雅量", "para_index": 41, "domains": ["II", "VI"], "modes": ["narrative"], "reason": "殷仲堪期待王恭認同自己對文章的賞識，王恭不褒不貶的沉默使他悵然失措，呈現外在認可對自我判斷與情緒的牽動。"},
+    {"chapter": "雅量", "para_index": 42, "domains": ["II", "V", "VI"], "modes": ["narrative", "expression"], "reason": "羊孚初被陌生的王氏兄弟排斥仍自若，獲賞識挽留後又拒絕留下，涉及誤認、群體接納與受冷遇時的自持。"}
   ]
 }
