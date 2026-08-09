@@ -212,6 +212,18 @@ def check(slug: str, entry: dict, domain_ids: set[str], mode_ids: set[str]) -> t
     info["annotated"] = ann_p.exists()
     if ann_p.exists():
         errors += check_annotations(ann_p, labels, slug, domain_ids, mode_ids, text)
+        # 重抓會整份覆寫 meta.json。書級 survey 是讀完全書才生得出來的，被沖掉
+        # 就等於白讀一部，而「欄位存在但為 null」過得了上面那道存在性檢查。
+        if not meta.get("psych_survey"):
+            try:
+                rows = json.loads(ann_p.read_text(encoding="utf-8"))
+                judged = sum(1 for r in rows if r.get("psych_domains") is not None)
+            except (json.JSONDecodeError, TypeError):
+                judged = 0
+            if judged:
+                errors.append(f"{judged} paragraphs are annotated but meta.psych_survey "
+                              f"is null — a re-download likely overwrote it; restore "
+                              f"from git rather than re-deriving")
     elif meta.get("psych_survey"):
         warnings.append("psych_survey recorded but no annotations.json")
 

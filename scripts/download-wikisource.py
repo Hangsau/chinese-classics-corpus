@@ -396,6 +396,20 @@ def download_text(entry: dict) -> dict:
         "psych_survey": None,
         "notes": entry.get("note"),
     }
+
+    # 重抓是整份覆寫 meta.json，人工寫進去的欄位會被沖掉。psych_survey 是全書
+    # 逐段讀完才生得出來的東西，沖掉等於白讀一部書，而 verify 只檢查該欄「存在」
+    # 不檢查是否為 null，所以會靜默丟失（2026-08-09 重抓鹽鐵論踩到，靠 git 撈回）。
+    # 段落數等統計可能因重抓而失準，這裡只負責保住內容，數字由標註流程回填。
+    if meta_path.exists():
+        try:
+            prev = json.loads(meta_path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            prev = {}
+        for field in ("psych_survey", "verified"):
+            if prev.get(field):
+                meta[field] = prev[field]
+
     meta_path.parent.mkdir(parents=True, exist_ok=True)
     meta_path.write_bytes((json.dumps(meta, ensure_ascii=False, indent=2) + "\n").encode("utf-8"))
     print(f"[ok] {slug}: {len(chapters)} chapters (expected {meta['expected_chapter_count']}), {len(original_bytes)} bytes")
