@@ -10,11 +10,12 @@
 | 決定要不要收某部書 | `CLAUDE.md` §1（收錄只看三條：古典漢語／有乾淨全文／公有領域，**不看主題**） |
 | 改標註欄位、加 `discourse_mode` 值 | `SCHEMA.md` §1–§2，改動前先在 `pilots/` 驗證 |
 | 理解為什麼標註要下放到段落級 | `pilots/2026-07-28-sunzi-jiuzhang.md` §3–§4 |
-| 改 downloader | `CLAUDE.md` §4 爬蟲倫理 + 本檔 §下載器結構陷阱（**四類已修過的問題，別退回去**） |
+| 改 downloader | `CLAUDE.md` §4 爬蟲倫理 + 本檔 §下載器結構陷阱（**五類已修過的問題，別退回去**） |
 | 查某部書在不在清單、為何某部結構特殊 | `scripts/catalog/chinese-classics-ws.json`（73 部，特殊處置寫在該部的 `structure_note` / `coverage_note`） |
 | 抓完驗證 | `PYTHONIOENCODING=utf-8 python scripts/verify.py`；重生索引 `... scripts/build-index.py` |
 | 跑心理學標註 | 先讀 `SCHEMA.md` §3 分流 `text_role`，`reference` 類不進管線 |
-| 標一部新書 | **照抄本檔 §標註工作流的五步**。核心是不手寫 `annotations.json`，改用 `scripts/annotate.py` 的 `put()`／`span()`＋雙向檢查回填（壞錨點都是手寫進來的） |
+| 標一部新書 | **預設走發包**，完整八步寫在 `HANDOFF.md` §下一步第 3 條：`make-delegation-input.py` 切批 → 寫 `delegation/<slug>/SPEC.md` → **先發 b01 試點、校準結果補回 spec 才放行其餘批** → `check-delegation-out.py` 檢查 → `apply-delegation.py` 回填。不發包時才用本檔 §標註工作流的手工五步 |
+| 寫發包 spec | 抄 `delegation/yanshi-jiaxun/SPEC.md` 的骨架：**13 領域分流表（哪類內容歸哪格，逐格指定）** ＋ 該書特有的陷阱與例外體例 ＋ 硬規則 ＋ 輸出格式。分流表不寫，領域區辨不會自己發生——顏氏家訓的 IV 86 > V 47 就是這樣拿到的 |
 | 查 13 領域怎麼分／`discourse_mode` 八值定義 | `vocab/psych-domains.json`、`vocab/discourse-modes.json`（v0.2）。**友誼在 V 不在 III**；`Z-wisdom` 等 crosscurrents 不得填進 `psych_domains` |
 | 判斷一段該不該給領域 | `CLAUDE.md` §2.1 **中性物件替換測試**。這是 2026-08-09 九章重判（28→1）立下的判準，優先於任何「這段看起來有社會味」的直覺 |
 | 改段落切分規則 | `scripts/corpus_text.py` 是唯一來源，make-scaffold 與 verify 共用。**動它等於動所有既有錨點** |
@@ -47,7 +48,9 @@ translations/<slug>/
 00-overview/       生成物（INDEX.json / INDEX.md），不手改
 ```
 
-`translations/` 已有 68 部（phase 1 全數），`00-overview/` 已生成。`annotations.json` 目前 6 部（`sunzi-bingfa` 91 段、`jiuzhang-suanshu` 720 段、`haidao-suanjing` 24 段、`renwuzhi` 229 段、`qianfulun` 268 段、`yantielun` 356 段），共 1,688 段；其餘 62 部的 `psych_survey` 仍是 `null`＝未通讀。
+`translations/` 已有 68 部（phase 1 全數），`00-overview/` 已生成。`annotations.json` 目前 7 部（`sunzi-bingfa` 91 段、`jiuzhang-suanshu` 720 段、`haidao-suanjing` 24 段、`renwuzhi` 229 段、`qianfulun` 268 段、`yantielun` 356 段、`yanshi-jiaxun` 255 段），共 1,943 段；其餘 61 部的 `psych_survey` 仍是 `null`＝未通讀。
+
+`delegation/` 是發包工作區，依書分目錄（`jiuzhang/`、`yanshi-jiaxun/`）。每個目錄含 `SPEC.md`（判準）、`bNN.md`（切好的批次輸入）、`MANIFEST.json`（錨點清單，回填時雙向對照）、`out/bNN.json`（外部 agent 的判讀結果）。**這些是過程檔不是 canonical**，canonical 是回填後的 `translations/<slug>/annotations.json`。
 
 ## 標註工作流（標一部書就照這五步走）
 
@@ -88,7 +91,7 @@ apply("<slug>")
 - Console 是 cp950，所有 Python 一律 `PYTHONIOENCODING=utf-8 python ...`。
 - commit 時出現 `CRLF will be replaced by LF` 是 `.gitattributes` 正常運作，**不要據此去 `git rm --cached`**（踩過一次，差點誤刪已標檔）。
 
-## 下載器結構陷阱（四類已修過，改 downloader 前先看）
+## 下載器結構陷阱（五類已修過，改 downloader 前先看）
 
 段落級錨點靠篇名（SCHEMA §4），以下每一類都會把錨點毀掉：
 
@@ -96,8 +99,9 @@ apply("<slug>")
 |---|---|---|
 | 抽取時丟掉篇名標題 | 一部書只回 1 章 | `extract_main_text` 收 h2/h3/h4 並前綴 `## ` |
 | Wikisource 平行上傳（編號頁＋篇名頁並存） | bytes 與章數同時異常膨脹 | catalog `subpage_drop_pattern` + 抓取時內容雜湊去重 |
-| 卷級子頁沒往下切到篇 | 章標籤全是「卷N」 | 子頁本文再切一層；例外用 `no_subpage_split`（竹書紀年）。**殘留個案不重抓**：潛夫論 `卷九`／`卷十` 因篇名標題只有 10 字（低於 corpus_text 的 12 字下限）未切出，錨點仍唯一，改在 `psych_survey.structure_notes` 補對照表 |
+| 卷級子頁沒往下切到篇 | 章標籤全是「卷N」 | 子頁本文再切一層；例外用 `no_subpage_split`（竹書紀年，698 條紀事切下去全是「元年」互撞） |
 | 重定向對只差一行標題 | 切分後才出現同文章節 | 切分**之後**再依本文雜湊去重，保留較具體的標籤 |
+| **獨篇子頁：一卷只含一篇時篇名整個丟掉** | 章標籤是「卷第N」這種只有卷序沒有篇名的字串 | `split_by_headings` 要 ≥2 個標題才肯切，獨篇子頁因此保留卷名。`adopt_sole_heading()`：只有一個內層標題時不切、改拿它當標籤（2026-08-09）。`verify.py` 已加序號型標籤警告，未重抓的 8 部見 HANDOFF |
 
 其他 catalog 旗標：`force_single_page`（正文在根頁）、`wikisource_subpages_explicit`（正文只在通常被當導航排除的 `/全覽`）。
 
