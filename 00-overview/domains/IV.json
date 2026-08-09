@@ -2,10 +2,11 @@
   "domain": "IV",
   "name_zh": "家庭與傳承",
   "gist": "婚姻與家庭、原生家庭的傷、為人父母、記憶與和解、留下什麼給後代",
-  "generated_at": "2026-08-09T08:52:06+00:00",
-  "para_count": 312,
-  "book_count": 12,
+  "generated_at": "2026-08-09T15:20:28+00:00",
+  "para_count": 328,
+  "book_count": 14,
   "surveyed_zero_hit": [
+    "fangyan",
     "haidao-suanjing",
     "jiuzhang-suanshu",
     "nanjing"
@@ -1351,6 +1352,186 @@
       ]
     },
     {
+      "slug": "shiming",
+      "chapter": "釋長幼第十",
+      "para_index": 2,
+      "para_id": "shiming#10-p02",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "女，如也，婦人外成如人也。故三從之義，少如父教，嫁如夫命，老如子言，青徐州曰：娪",
+      "note": "提出女子少從父、嫁從夫、老從子的三從規範，並記女嬰出生不受喜，涉及家庭支配與性別偏見",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋長幼第十",
+      "para_index": 13,
+      "para_id": "shiming#10-p13",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "百年曰期頤；頤，養也，老昏不復知服味善惡。孝子期於盡養，道而巳也。",
+      "note": "說百歲者昏昧失去辨味能力，並把孝子的責任定為盡力奉養，兼論衰老與家人照護",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋親屬第十一",
+      "para_index": 8,
+      "para_id": "shiming#11-p08",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "玄孫之子曰來孫，此在無服之外，其意疏遠呼之乃來也。",
+      "note": "除登錄來孫稱謂外，還說遠親已在喪服關係之外、情意疏遠而須呼才來",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋親屬第十一",
+      "para_index": 9,
+      "para_id": "shiming#11-p09",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "來孫之子曰昆孫；昆，貫也，恩情轉遠，以禮貫連之耳。",
+      "note": "說世代愈遠恩情愈淡，只靠禮把親族關係貫連起來",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋親屬第十一",
+      "para_index": 10,
+      "para_id": "shiming#11-p10",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "昆孫之子曰仍孫，以禮仍有之耳，恩意實遠也。",
+      "note": "明言遠代親族僅由禮延續而恩意其實已遠，超出稱謂登錄",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋親屬第十一",
+      "para_index": 34,
+      "para_id": "shiming#11-p34",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "叔，少也，幼者稱也，叔亦俶也，見嫂俶然卻退也。",
+      "note": "除訓叔為少外，還說幼叔見嫂會遽然退避，呈現姻親間的避嫌秩序",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋親屬第十一",
+      "para_index": 36,
+      "para_id": "shiming#11-p36",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "俗間曰兄章；章，灼也，章灼敬奉之也，又曰兄忪是巳所敬見之怔忡自肅齊也俗或謂舅曰章",
+      "note": "說人對夫兄或舅敬奉，見到時怔忡而自我肅整，寫出家內尊卑引發的畏敬",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋親屬第十一",
+      "para_index": 37,
+      "para_id": "shiming#11-p37",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "少婦謂長婦曰姒，言其先來巳所當法似也。",
+      "note": "主張後來的少婦應取先來的長婦為法而仿效，明定家內次序與品行規範",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋親屬第十一",
+      "para_index": 40,
+      "para_id": "shiming#11-p40",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "兩婿相謂曰亞，言一人取姊，一人取妹，相亞次也，又並來至女氏門姊夫在前妹夫在後亦相",
+      "note": "除互稱聲訓外，還寫兩婿按長幼行禮、相倚完成婚禮並彼此親友",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋親屬第十一",
+      "para_index": 54,
+      "para_id": "shiming#11-p54",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "無父曰孤；孤，顧也，顧望無所瞻見也。",
+      "note": "寫無父者回顧瞻望卻無人可見，呈現失親後失去依歸的處境",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋親屬第十一",
+      "para_index": 55,
+      "para_id": "shiming#11-p55",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "老而無子曰獨；獨，隻獨也，言無所依也。",
+      "note": "不只登錄老而無子稱獨，也指出老人因無後代而無所依靠",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋典藝第二十",
+      "para_index": 20,
+      "para_id": "shiming#20-p20",
+      "modes": [
+        "observation",
+        "narrative"
+      ],
+      "excerpt": "碑被也此本王莽時所設也施其轆轤以繩被其上以引棺也臣子追述君父之功美以書其上後人因",
+      "note": "敘碑由引棺設施變為臣子追述君父功美的沿革，寫出親族對亡者的紀念傳承",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋喪制第二十七",
+      "para_index": 40,
+      "para_id": "shiming#27-p40",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "又祭曰祔祭於祖廟以後死孫祔於祖也",
+      "note": "說祔祭把後死子孫附入祖廟，實寫宗族延續與祖先祭祀",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
       "slug": "shishuo-xinyu",
       "chapter": "仇隟",
       "para_index": 3,
@@ -2689,6 +2870,45 @@
       ],
       "excerpt": "桓公入蜀，至三峽中，部伍中有得猨子者。〈《荊州記》曰：「峽長七百里，兩岸連山，略",
       "note": "猨母因幼子被奪而哀號追船至死，桓溫因其部屬殘害親子而黜之，兼寫親子依戀與對殘忍的品格裁斷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "包部",
+      "para_index": 1,
+      "para_id": "shuowen-jiezi#333-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "包（）：象人褢妊，巳在中，象子未成形也。元气起於子。子，人所生也。男左行三十，女",
+      "note": "除包字的孕體象形外，段落以男女運行、成婚、懷孕十月而生建立因果解釋，涉及婚姻與生育傳承",
+      "co_domains": []
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "屾部",
+      "para_index": 2,
+      "para_id": "shuowen-jiezi#340-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "嵞：會稽山。一曰九江當嵞也。民以辛壬癸甲之日嫁娶。从屾余聲。《虞書》曰：“予娶嵞",
+      "note": "除考釋嵞山並舉書證外，另記當地民眾按辛壬癸甲日嫁娶的習俗，涉及婚姻與家庭形成",
+      "co_domains": []
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "𠫓部",
+      "para_index": 1,
+      "para_id": "shuowen-jiezi#517-p01",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "𠫓：不順忽出也。从到子。《易》曰：“突如其來如。”不孝子突出，不容於内也。凡𠫓之",
+      "note": "除釋字構形外，明言不孝子因不順而不容於家內，實際涉及家庭排斥與品格評判",
       "co_domains": [
         "VII"
       ]

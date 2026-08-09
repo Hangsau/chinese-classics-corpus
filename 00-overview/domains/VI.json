@@ -2,11 +2,12 @@
   "domain": "VI",
   "name_zh": "情緒與內在生活",
   "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡",
-  "generated_at": "2026-08-09T08:52:06+00:00",
-  "para_count": 231,
-  "book_count": 7,
+  "generated_at": "2026-08-09T15:20:28+00:00",
+  "para_count": 255,
+  "book_count": 9,
   "surveyed_zero_hit": [
     "dongmingji",
+    "fangyan",
     "gu-sanfen",
     "haidao-suanjing",
     "jinkui-yaolue",
@@ -658,6 +659,321 @@
       "note": "",
       "co_domains": [
         "VII"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋姿容第九",
+      "para_index": 15,
+      "para_id": "shiming#09-p15",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "聽，靜也，靜然後所聞審也。",
+      "note": "明說先靜下來才能把所聞聽清，已提出內在安靜影響注意與辨識的原理",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋姿容第九",
+      "para_index": 18,
+      "para_id": "shiming#09-p18",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "跽，忌也，見所敬忌不敢自安也。",
+      "note": "說人面對所敬畏者便不敢自安而跽，兼寫社會尊卑關係與敬懼不安",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋長幼第十",
+      "para_index": 4,
+      "para_id": "shiming#10-p04",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "七年曰悼；悼，逃也，如有廉恥隱逃其情也，亦言是時而死可傷悼也。",
+      "note": "斷言七歲已有廉恥而隱藏情感，並說此時死亡可哀悼，兼寫內在情緒與早夭失去",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋親屬第十一",
+      "para_index": 36,
+      "para_id": "shiming#11-p36",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "俗間曰兄章；章，灼也，章灼敬奉之也，又曰兄忪是巳所敬見之怔忡自肅齊也俗或謂舅曰章",
+      "note": "說人對夫兄或舅敬奉，見到時怔忡而自我肅整，寫出家內尊卑引發的畏敬",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋親屬第十一",
+      "para_index": 52,
+      "para_id": "shiming#11-p52",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "無妻曰鰥；鰥，昆也；昆，明也，愁挹不寐目恒鰥鰥然也。故其字從魚魚目𢘆不閉者也。",
+      "note": "以無妻者因失偶而愁抑不眠、雙目常開，具體寫出喪偶後的哀傷內在生活",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋言語第十二",
+      "para_index": 75,
+      "para_id": "shiming#12-p75",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "啜，惙也。心有所念，惙然發此聲也。",
+      "note": "主張心中有所思念會惙然發聲，說明內在念頭轉成聲音的機制",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋言語第十二",
+      "para_index": 76,
+      "para_id": "shiming#12-p76",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "嗟，佐也。言之不足以盡意，故發此聲以自佐也。",
+      "note": "說言語不足以盡意時人會以嗟聲自助，涉及表達受限與內在補償",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋言語第十二",
+      "para_index": 77,
+      "para_id": "shiming#12-p77",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "噫，憶也，憶念之故發此聲意之也。",
+      "note": "主張憶念會引發噫聲，寫出記憶念頭與情緒發聲的連動",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋言語第十二",
+      "para_index": 78,
+      "para_id": "shiming#12-p78",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "嗚，舒也。氣憤滿，故發此聲以舒寫之也。",
+      "note": "說憤氣充滿時以嗚聲舒寫，提出情緒積聚後藉發聲宣洩的機制",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋言語第十二",
+      "para_index": 79,
+      "para_id": "shiming#12-p79",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "念，黏也。意相親愛，心黏著不能忘也。",
+      "note": "說親愛使心黏著而不能忘，描述依戀與持續思念的內在狀態",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋言語第十二",
+      "para_index": 80,
+      "para_id": "shiming#12-p80",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "思，司也。凡有所司捕，必靜思，忖亦然也。",
+      "note": "指出有所搜尋考察時必須安靜思量，提出注意與思考的內在條件",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋言語第十二",
+      "para_index": 81,
+      "para_id": "shiming#12-p81",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "克，刻也。刻物有定處，人所克念，有常心也。",
+      "note": "以刻物有定處比擬克念者有常心，描述念頭持定的內在狀態",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋言語第十二",
+      "para_index": 82,
+      "para_id": "shiming#12-p82",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "慮，旅也；旅，眾也。《易》曰：「一致百慮。」慮及眾物，以一定之也。",
+      "note": "說思慮遍及眾物而以一統定，提出整合多端念頭的心智圖像",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋衣服第十六",
+      "para_index": 37,
+      "para_id": "shiming#16-p37",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "汗衣，近身受汗垢之衣也。《詩》謂之澤，受汗澤也。或曰鄙袒，或曰差袒，作之用六尺。",
+      "note": "除說汗衣、褌的形制外，還明說人因羞恥且鄙棄袒露而穿內衣，呈現羞感與端正規範",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋宮室第十七",
+      "para_index": 40,
+      "para_id": "shiming#17-p40",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "宁，佇也。將見君，所佇立，定氣之處也。",
+      "note": "說見君前須佇立定氣，兼寫權力關係中的朝見程序與內在調整",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋宮室第十七",
+      "para_index": 46,
+      "para_id": "shiming#17-p46",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "罘罳，在門外。罘，復也；罳，思也。臣將入請事，於此復重思之也。",
+      "note": "說臣入門請事前在罘罳處反覆深思，描寫君臣職責情境中的內在審慮",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋書契第十九",
+      "para_index": 25,
+      "para_id": "shiming#19-p25",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "下言上曰表思之於內表施於外也又曰上示之於上也又曰言言其意也",
+      "note": "說下對上陳述是把內在所思表施於外，另論權力關係中的心意表達",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋書契第十九",
+      "para_index": 27,
+      "para_id": "shiming#19-p27",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "謂猶謂也猶得敕不自安謂謂然也",
+      "note": "說人即使已受敕仍不自安而惶惶，直接描寫受命後的內在不安",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋典藝第二十",
+      "para_index": 5,
+      "para_id": "shiming#20-p05",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "詩之也志之所之也興物而作謂之興敷布其義謂之賦事類相似謂之比言王政事謂之雅稱頌成功",
+      "note": "把詩說成志意所向，並以作者之志區分表達形式，明說內在意向如何外化",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋樂器第二十二",
+      "para_index": 14,
+      "para_id": "shiming#22-p14",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "吟嚴也其聲本出於憂愁故其聲嚴肅使人聽之悽歎也",
+      "note": "主張吟聲出自憂愁，其嚴肅聲調又使聽者悽歎，明寫情緒的表達與感染",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋喪制第二十七",
+      "para_index": 22,
+      "para_id": "shiming#27-p22",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "以囊韜其形曰冒覆其形使人勿惡也",
+      "note": "說以囊覆屍形是為免觀看者厭惡，實寫喪儀對人內在嫌惡的處理",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋喪制第二十七",
+      "para_index": 26,
+      "para_id": "shiming#27-p26",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "三日不生生者成服曰縗縗催也言傷催也絰實也",
+      "note": "說三日不復生後生者成服，並以傷痛摧迫解縗，寫出亡故後的哀傷反應",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋喪制第二十七",
+      "para_index": 43,
+      "para_id": "shiming#27-p43",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "間月而禫亦祭名也孝子之意澹然衰思益衰也",
+      "note": "說禫祭時孝子心意轉淡而哀思更衰，直接觀察悲傷隨時序減弱",
+      "co_domains": [
+        "XIII"
       ]
     },
     {
@@ -2596,6 +2912,20 @@
       "note": "殷仲文凝視老槐嘆其「無復生意」，實借槐樹替自己在敗局失勢後的怏然處境發聲",
       "co_domains": [
         "XIII"
+      ]
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "隹部",
+      "para_index": 5,
+      "para_id": "shuowen-jiezi#98-p05",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "巂：周燕也。从隹，屮象其冠也。㕯聲。一曰蜀王望帝，婬其相妻，慙亡去，爲子巂鳥。故",
+      "note": "除釋鳥名外，另載望帝與其相之妻私通、因慚愧出走並化鳥的異說，涉及親密背叛與羞愧",
+      "co_domains": [
+        "III"
       ]
     },
     {

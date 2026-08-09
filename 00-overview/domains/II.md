@@ -1,17 +1,17 @@
 # II 自我與認同
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 349 段命中｜跨 9 部｜生成時間 2026-08-09T08:52:06+00:00
+> 351 段命中｜跨 11 部｜生成時間 2026-08-09T15:20:28+00:00
 
 我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我
 
-姿態分佈：`narrative` 215、`proposition` 139、`expression` 63、`observation` 54、`prescription` 8、`ritual` 1
+姿態分佈：`narrative` 215、`proposition` 139、`expression` 64、`observation` 56、`prescription` 9、`ritual` 1
 
 ## 已通讀但本領域零命中
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`nanjing`（難經）　`shenyijing`（神異經）
+`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`nanjing`（難經）　`shenyijing`（神異經）
 
 ## 世說新語（人論）　229 段
 
@@ -406,3 +406,15 @@
 | 篇 | 段 | 姿態 | 摘句 | 判讀 |
 |---|---|---|---|---|
 | 張仲景原序 | 5 | `expression` `proposition` | 孔子云：生而知之者上，學則亞之。多聞博識，知之次也。余素尚方術，請事斯語。 | 引孔子的知學階序後自陳素尚方術並願依此而行，是作者對自身學習位置與認同的表明 |
+
+## 釋名（小學）　1 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| 釋首飾第十五 | 17 | `observation` `prescription` | 帽，冒也。巾，謹也。二十成人，士冠，庶人巾，當自謹修於四教也。 | ＋VII 在冠巾名稱外明定二十歲成人及不同身分首服，並要求成人自謹、修習四教 |
+
+## 說文解字（小學）　1 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| 15 | 14 | `expression` `observation` | 敘曰：此十四篇五百四十部。九千三百五十三文，重文一千一百六十三，解說凡十三萬三千 | ＋VIII 除統計與編排說明外，作者自敘家世、景仰、欲罷不能、竭才存疑及望後人訂正，呈現自我定位與學術召喚 |

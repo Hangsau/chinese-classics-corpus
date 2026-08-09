@@ -2,11 +2,12 @@
   "domain": "IX",
   "name_zh": "苦難·疾病·身體",
   "gist": "疾病與身體、受苦的意義、照顧與被照顧",
-  "generated_at": "2026-08-09T08:52:06+00:00",
-  "para_count": 71,
-  "book_count": 8,
+  "generated_at": "2026-08-09T15:20:28+00:00",
+  "para_count": 76,
+  "book_count": 10,
   "surveyed_zero_hit": [
     "dongmingji",
+    "fangyan",
     "gu-sanfen",
     "haidao-suanjing",
     "jiuzhang-suanshu",
@@ -324,6 +325,47 @@
       ]
     },
     {
+      "slug": "shiming",
+      "chapter": "釋衣服第十六",
+      "para_index": 49,
+      "para_id": "shiming#16-p49",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "晚，下如寫其下晚晚而危，婦人短者著之可以拜也。",
+      "note": "說身材矮小的婦女藉特製鞋墊高以便完成拜禮，呈現身體限制的具體調適",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋疾病第二十六",
+      "para_index": 21,
+      "para_id": "shiming#26-p21",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "注病一人死一人復得氣相灌注也",
+      "note": "除釋「注病」之名，還明說一人病死後另一人再得其氣的致死傳播",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋疾病第二十六",
+      "para_index": 24,
+      "para_id": "shiming#26-p24",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "酸遜也遜遁在後也言腳疼力少行遁在後以遜遁者也",
+      "note": "不只列「酸」名，還寫腳痛力少使人行走落後的身體限制",
+      "co_domains": []
+    },
+    {
       "slug": "shishuo-xinyu",
       "chapter": "任誕",
       "para_index": 3,
@@ -554,6 +596,32 @@
       "co_domains": [
         "VI"
       ]
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "頁部",
+      "para_index": 46,
+      "para_id": "shuowen-jiezi#313-p46",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "䫏：醜也。从頁其聲。今逐疫有䫏頭。",
+      "note": "除釋「䫏」為醜外，另記當時逐疫使用䫏頭，以儀式回應疫病，涉及疾病處境與驅疫信仰",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "它部",
+      "para_index": 1,
+      "para_id": "shuowen-jiezi#464-p01",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "它：虫也。从虫而長，象冤曲垂尾形。上古艸居患它，故相問無它乎。凡它之屬皆从它。",
+      "note": "字條除釋蛇形與部屬外，追述上古草居者受蛇患而相互問安，觸及人在身體威脅下的生活處境",
+      "co_domains": []
     },
     {
       "slug": "sunzi-bingfa",

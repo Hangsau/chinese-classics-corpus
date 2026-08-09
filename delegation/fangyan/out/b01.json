@@ -1,0 +1,611 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {
+      "chapter": "刻方言序",
+      "para_index": 1,
+      "domains": [
+        "VIII"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "追述古籍流傳、訛誤與重刊經過，並主張治學作文須明白古字的適當用法，談的是學術與寫作實踐"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 1,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "列出「知」在楚及齊宋等地的異稱與注解，只是方言詞彙對照"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 2,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "登錄「慧」在各地的說法、字音與通語情形，沒有另述人的智慧生活"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 3,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "登錄「好」在各地的異稱、注音與地名考訂，沒有評議人的品格或自我價值"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 4,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "列舉表示「餘」的地域異詞並援引書證，屬詞義考訂"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 5,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "只登錄「養」的各地方言、注音與《爾雅》書證，沒有談教養或家庭關係"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 6,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "只登錄表示「愛」的各地方言與注音，沒有描述兩人之間如何相愛"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 7,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "列出「哀」的地域異稱及音義，沒有進一步陳述人的內在經驗"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 8,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "辨別各地對不同哭泣狀態的稱呼與注音，仍是詞語使用說明"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 9,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "登錄「傷」的地域異詞並引《詩》釋義，沒有論述人的受傷經驗"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 10,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "以志願不遂等情形說明「溼」等憂意詞的用法，仍屬方言釋義"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 11,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "區分「思」的多種異稱及各自用法，沒有提出關於心智生活的主張"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 12,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "登錄「大」的眾多方言並說明古今語詞流變，內容仍是語言考訂"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 13,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "列舉表示「至」的地域別語並以古書句例佐證，沒有談人的處境"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 14,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "說明「嫁」等字作「往」義的地域與詞源，是詞義分辨而非婚姻論述"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 15,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "登錄「懼」及怒而噎噫等狀態在各地的稱呼，沒有探討情緒本身"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 16,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "列出「殺」、賊與擊打的地域用詞和注音，沒有作善惡判斷"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 17,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "登錄表示「愛」或相敬愛的各地方言，未描述任何親密關係的互動"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 18,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "列舉「老」的地域異稱並解釋年齡與外貌詞義，沒有談衰老經驗"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 19,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "登錄「長」的各地說法及尺度、年歲等用法，屬詞義分類"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 20,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "列出表示「信」的地域異詞與適用範圍，沒有敘述人際信任如何建立"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 21,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "辨析「大」、言語誇張及稱美壯大之物的方言用法，仍是詞彙登錄"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 22,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "只說明「會」及會合物件在雍梁、秦晉的稱法"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 23,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "登錄「晠」在齊楚的兩種說法並作注音釋義"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 24,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "說明高大土地及使小物張大的地域用詞，內容是物象詞義"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 25,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "辨析表示「續」、出與未及的楚地方言，只是音義記錄"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 26,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "列出「跳」在楚、陳鄭及秦晉的不同稱法和注音"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 27,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "登錄「登」在各地的異稱並附音義，沒有另述人的行動處境"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 28,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "只對照關東、關西表示「迎」的不同詞語"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 29,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "列舉「取」及逆取物件的地域用詞、地名與注音"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 30,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "以相謁時食麥粥或飧飯的情境界定各地「食」字，仍是詞語用法而非人際論述"
+    },
+    {
+      "chapter": "卷一",
+      "para_index": 31,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "登錄「勉」與相勸努力在各地的說法，沒有提出工作或成就方面的勸告"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 1,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "列出「好」在青徐海岱一帶的異稱、注音及通語情形"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 2,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "登錄「豐大」用於人、頭形與圍度時的地域詞語並引書為證"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 3,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "分列外貌、美色與美心等「美」義詞的地域用法，沒有評斷人的認同或品格"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 4,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "只登錄美容之貌在關西及宋衛、陳楚等地的稱法"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 5,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "辨析眼目形貌的各地用詞、注音與《詩》句書證，屬名物訓釋"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 6,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "登錄「細」用於形貌與物件時的秦晉方言及注音"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 7,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "列出表示盛大肥滿及稱美所愛者的地域詞語，沒有描述親密或身體困境"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 8,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "登錄「小」的各類地域用法，引慈母折葼笞子之語只是說明「葼」的書證"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 9,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "以病而不甚說明「殗殜」的詞義與地域，沒有探討疾病或受苦"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 10,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "說明物力相同時「臺敵」等詞的地域用法，屬詞義對照"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 11,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "辨析成耦、奇單及肢體不具等稱法，只是在界定方言詞義"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 12,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "登錄蹇行、體形偏長短及相驚的地域稱呼，沒有論述身體或恐懼經驗"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 13,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "只對照陳潁、周鄭與齊魯表示「來」的不同詞語"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 14,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "分別登錄「黏」與寄居寄食、寄物等詞的地域和用法，未談依附處境"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 15,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "列出「快」的地域異詞並說明反義借用現象，內容是語義考訂"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 16,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "登錄「愧」及見上而面赤的稱法與書證，沒有分析羞愧的內在生活"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 17,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "只記錄陳楚表示「殘」的方言詞及注音"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 18,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "列舉盛怒、小怒與苛責在楚、陳等地的稱法，未探討情緒或人際衝突"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 19,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "登錄「痛」及小痛在秦晉的用詞與注音，沒有敘述受苦經驗"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 20,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "說明選取物件上品所用的秦晉詞語，屬動作詞釋義"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 21,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "列出「猛」在晉魏、韓趙及齊晉的異稱並附書證"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 22,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "登錄「眄視」在各地的不同說法與注音，內容是動作詞對照"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 23,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "列出表示「息」的地域詞語與字音，沒有談人的休息或身體處境"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 24,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "說明裁木製器、裂帛製衣所用的地方詞，屬技術動作的詞義登錄"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 25,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "只登錄晉趙表示鏨刻的「鐫」字及其注音"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 26,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "對照秦晉與吳揚江淮表示「堅」的異詞和字音"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 27,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "列舉蔽物短綃等名物在各地的稱法與注音，屬名物考釋"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 28,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "辨析餘物、未盡薪柴及「俊」的異語，內容只是多義詞登錄"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 29,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "說明舞者用以自蔽之物在楚與關東西的名稱，沒有規定任何儀節"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 30,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "登錄「求」、就室、在道尋求及強取等詞義，沒有對行為作倫理評價"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 31,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "列出表示「遽」的吳揚、陳潁及秦晉方言並作注音"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 32,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "對照東齊、燕地與楚地表示「疾速」的不同詞語"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 33,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "只登錄「讎」在南楚之外及秦晉的不同稱法，沒有描述群體衝突"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 34,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "列舉形容言語既廣又大的荊揚、東甌方言，屬語詞對照"
+    },
+    {
+      "chapter": "卷二",
+      "para_index": 35,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "登錄「獪」在秦晉、楚鄭等地的異稱與音義，沒有描述人的行為或品格養成"
+    }
+  ]
+}

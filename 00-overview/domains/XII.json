@@ -2,11 +2,12 @@
   "domain": "XII",
   "name_zh": "信仰·神聖·超越",
   "gist": "神存在嗎、信與疑、敬畏與美、神秘經驗",
-  "generated_at": "2026-08-09T08:52:06+00:00",
-  "para_count": 105,
-  "book_count": 10,
+  "generated_at": "2026-08-09T15:20:28+00:00",
+  "para_count": 117,
+  "book_count": 12,
   "surveyed_zero_hit": [
     "dongmingji",
+    "fangyan",
     "haidao-suanjing",
     "nanjing",
     "renwuzhi",
@@ -565,6 +566,75 @@
       "co_domains": []
     },
     {
+      "slug": "shiming",
+      "chapter": "釋兵第二十三",
+      "para_index": 24,
+      "para_id": "shiming#23-p24",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "龜蛇爲旐旐兆也龜知氣兆之吉凶建之於後察度事宜之形兆也",
+      "note": "主張龜能知氣兆吉凶並以龜蛇旗察事宜徵兆，實寫占兆信念",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋喪制第二十七",
+      "para_index": 30,
+      "para_id": "shiming#27-p30",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "重死者之資重也含餘米以爲粥投之甕而懸之比葬未作主權以重主其神也",
+      "note": "詳述葬前懸粥甕暫代神主的做法，明寫以物主神的喪祭信念",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋喪制第二十七",
+      "para_index": 38,
+      "para_id": "shiming#27-p38",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "既葬還祭於殯宮曰虞謂虞樂安神使還此也",
+      "note": "說葬後虞祭是為使亡者之神安樂並返回殯宮，明寫安神信仰實踐",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋喪制第二十七",
+      "para_index": 40,
+      "para_id": "shiming#27-p40",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "又祭曰祔祭於祖廟以後死孫祔於祖也",
+      "note": "說祔祭把後死子孫附入祖廟，實寫宗族延續與祖先祭祀",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋喪制第二十七",
+      "para_index": 45,
+      "para_id": "shiming#27-p45",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "過時而不葬曰慢謂慢傲不念早安神也",
+      "note": "把逾時不葬判為慢傲且不念早安其神，兼具品格責難與安神信念",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
       "slug": "shishuo-xinyu",
       "chapter": "假譎",
       "para_index": 11,
@@ -860,6 +930,93 @@
       "co_domains": [
         "XI"
       ]
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "鳥部",
+      "para_index": 43,
+      "para_id": "shuowen-jiezi#108-p43",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "鶾：雉肥鶾音者也。从鳥倝聲。魯郊以丹雞祝曰：“以斯鶾音赤羽，去魯侯之咎。”",
+      "note": "除釋「鶾」的鳥義外，另載魯郊以丹雞祝禱、為魯侯除咎的祭祀實踐",
+      "co_domains": []
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "鼎部",
+      "para_index": 1,
+      "para_id": "shuowen-jiezi#239-p01",
+      "modes": [
+        "observation",
+        "narrative"
+      ],
+      "excerpt": "鼎：三足兩耳，和五味之寶器也。昔禹收九牧之金，鑄鼎荊山之下，入山林川澤，螭魅蝄蜽",
+      "note": "除鼎的形制與構形外，段落敘禹鑄鼎以使螭魅莫能相逢並協承天休，直接寫人藉器物承接天與神靈",
+      "co_domains": []
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "頁部",
+      "para_index": 46,
+      "para_id": "shuowen-jiezi#313-p46",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "䫏：醜也。从頁其聲。今逐疫有䫏頭。",
+      "note": "除釋「䫏」為醜外，另記當時逐疫使用䫏頭，以儀式回應疫病，涉及疾病處境與驅疫信仰",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "勹部",
+      "para_index": 7,
+      "para_id": "shuowen-jiezi#332-p07",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "𠣿：飽也。从勹㲃聲。民祭，祝曰：“厭𠣿。”",
+      "note": "除釋「𠣿」為飽外，另記民祭時祝者所說的祝辭，直接呈現人的祭祀實踐",
+      "co_domains": []
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "馬部",
+      "para_index": 32,
+      "para_id": "shuowen-jiezi#359-p32",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "驁（）：駿馬。以壬申日死，乘馬忌之。从馬敖聲。",
+      "note": "字條除釋「驁」為駿馬外，另記乘馬者避忌壬申日，觸及以曆日禁忌安排行動的信仰實踐",
+      "co_domains": []
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "車部",
+      "para_index": 39,
+      "para_id": "shuowen-jiezi#487-p39",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "軷：出，將有事於道，必先告其神，立壇四通，樹茅以依神，爲軷。旣祭軷，轢於牲而行，",
+      "note": "字條不只點出名稱，還完整記述出行前告神、立壇、祭牲再上路的人神儀節",
+      "co_domains": []
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "酉部",
+      "para_index": 37,
+      "para_id": "shuowen-jiezi#526-p37",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "莤：禮祭，束茅，加于祼圭，而灌鬯酒，是爲莤。象神歆之也。一曰莤，榼上塞也。从酉从",
+      "note": "本條具體記述祭禮束茅、置圭、灌鬯並以神歆解其意，實際呈現人的祭祀實踐與人神關係",
+      "co_domains": []
     },
     {
       "slug": "sunzi-bingfa",

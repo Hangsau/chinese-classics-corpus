@@ -17,6 +17,33 @@
   "license": "CC BY-SA 4.0",
   "verified": false,
   "tier": "重要",
-  "psych_survey": null,
+  "psych_survey": {
+    "surveyed_at": "2026-08-09",
+    "method": "全文段落級標註，385 段逐段判讀（annotations.json）。spec 見 delegation/fangyan/SPEC.md，切 3 批發包 codex（gpt-5.6-sol）。事前點名的陷阱是「地域對照被讀成 V」——結果本文僅 2 段命中 V，陷阱未觸發。",
+    "domains_hit": [
+      "V",
+      "VIII"
+    ],
+    "domains_null": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "VI",
+      "VII",
+      "IX",
+      "X",
+      "XI",
+      "XII",
+      "XIII"
+    ],
+    "domain_para_counts": {
+      "V": 2,
+      "VIII": 3
+    },
+    "paras_total": 385,
+    "paras_no_domain": 380,
+    "verdict": "**385 段中 380 段判空（98.7%），命中 5 段**，且結構特殊：3 段在序跋（VIII，歷代編者自述採集、校補與治學），只有 2 段在本文，都在卷三、都是 V——方言登錄各地稱名時記下農夫、庸役、商人與奴婢被冠以醜稱且視為卑賤，那是實際存在的群體貶抑，不是詞彙聯想。**方言與說文同屬字書而輪廓相近（皆 99% 判空），但與釋名相去甚遠**——三部同為 `reference` 卻分成兩端，再次證實守則 1 在類別內部一樣成立：決定命中的是方法（登錄 vs 聲訓），不是類別。"
+  },
   "notes": null
 }

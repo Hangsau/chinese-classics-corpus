@@ -1,7 +1,7 @@
 # I 存在與意義
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 16 段命中｜跨 5 部｜生成時間 2026-08-09T08:52:06+00:00
+> 16 段命中｜跨 5 部｜生成時間 2026-08-09T15:20:28+00:00
 
 我為何在此、活著有沒有意義、與想不通的問題共處、在歷史洪流中的渺小
 
@@ -11,7 +11,7 @@
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`dongmingji`（洞冥記）　`haidao-suanjing`（海島算經）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`lienuzhuan`（列女傳）　`nanjing`（難經）　`renwuzhi`（人物志）　`shenyijing`（神異經）　`sunzi-bingfa`（孫子兵法）　`yanshi-jiaxun`（顏氏家訓）
+`dongmingji`（洞冥記）　`fangyan`（方言）　`haidao-suanjing`（海島算經）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`lienuzhuan`（列女傳）　`nanjing`（難經）　`renwuzhi`（人物志）　`shenyijing`（神異經）　`shiming`（釋名）　`shuowen-jiezi`（說文解字）　`sunzi-bingfa`（孫子兵法）　`yanshi-jiaxun`（顏氏家訓）
 
 ## 世說新語（人論）　8 段
 

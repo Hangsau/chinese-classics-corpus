@@ -1,29 +1,29 @@
 # 標籤索引：13 個人生問題領域
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 生成時間 2026-08-09T08:52:06+00:00｜3647 筆領域標記｜來自 15 部已標註的書
+> 生成時間 2026-08-09T15:20:28+00:00｜3852 筆領域標記｜來自 18 部已標註的書
 
 書級 `domains_hit` 只能告訴你去哪本書找；這裡直接給段落（SCHEMA §1.1）。
 
 | 領域 | 名稱 | 命中段數 | 命中書數 | 通讀零命中書數 |
 |---|---|---|---|---|
-| [I](./domains/I.md) | 存在與意義 | 16 | 5 | 10 |
-| [II](./domains/II.md) | 自我與認同 | 349 | 9 | 6 |
-| [III](./domains/III.md) | 愛與親密 | 79 | 8 | 7 |
-| [IV](./domains/IV.md) | 家庭與傳承 | 312 | 12 | 3 |
-| [V](./domains/V.md) | 群體·社會·公義 | 1027 | 11 | 4 |
-| [VI](./domains/VI.md) | 情緒與內在生活 | 231 | 7 | 8 |
-| [VII](./domains/VII.md) | 善惡·良心·品格 | 711 | 10 | 5 |
-| [VIII](./domains/VIII.md) | 工作·成就·召喚 | 391 | 11 | 4 |
-| [IX](./domains/IX.md) | 苦難·疾病·身體 | 71 | 8 | 7 |
-| [X](./domains/X.md) | 無常·老·死·失去 | 154 | 9 | 6 |
-| [XI](./domains/XI.md) | 自由·命運·改變 | 148 | 7 | 8 |
-| [XII](./domains/XII.md) | 信仰·神聖·超越 | 105 | 10 | 5 |
-| [XIII](./domains/XIII.md) | 安頓·修復·平安 | 53 | 6 | 9 |
+| [I](./domains/I.md) | 存在與意義 | 16 | 5 | 13 |
+| [II](./domains/II.md) | 自我與認同 | 351 | 11 | 7 |
+| [III](./domains/III.md) | 愛與親密 | 84 | 10 | 8 |
+| [IV](./domains/IV.md) | 家庭與傳承 | 328 | 14 | 4 |
+| [V](./domains/V.md) | 群體·社會·公義 | 1089 | 14 | 4 |
+| [VI](./domains/VI.md) | 情緒與內在生活 | 255 | 9 | 9 |
+| [VII](./domains/VII.md) | 善惡·良心·品格 | 742 | 12 | 6 |
+| [VIII](./domains/VIII.md) | 工作·成就·召喚 | 411 | 14 | 4 |
+| [IX](./domains/IX.md) | 苦難·疾病·身體 | 76 | 10 | 8 |
+| [X](./domains/X.md) | 無常·老·死·失去 | 174 | 11 | 7 |
+| [XI](./domains/XI.md) | 自由·命運·改變 | 150 | 8 | 10 |
+| [XII](./domains/XII.md) | 信仰·神聖·超越 | 117 | 12 | 6 |
+| [XIII](./domains/XIII.md) | 安頓·修復·平安 | 59 | 7 | 11 |
 
 ## 缺口報告
 
-**未標註 57 部**——這些書的領域分佈目前是未知，不是零。上表任何一格的低數字都要先扣掉這批才有意義。
+**未標註 54 部**——這些書的領域分佈目前是未知，不是零。上表任何一格的低數字都要先扣掉這批才有意義。
 
 - `jinlouzi` 金樓子（人論，18 章，197,511 bytes）
 - `cai-zhonglang-ji` 蔡中郎集（儒家著述，170 章，255,990 bytes）
@@ -44,10 +44,7 @@
 - `gongsun-longzi` 公孫龍子（名家，7 章，34,526 bytes）
 - `lusheng-mobian-zhuxu` 魯勝墨辯注敘（名家，1 章，1,091 bytes）
 - `shuijingzhu` 水經注（地理，137 章，1,131,449 bytes）
-- `fangyan` 方言（小學，16 章，63,179 bytes）
 - `jijiupian` 急就篇（小學，5 章，134,675 bytes）
-- `shiming` 釋名（小學，27 章，78,465 bytes）
-- `shuowen-jiezi` 說文解字（小學，530 章，499,538 bytes）
 - `wenxin-diaolong` 文心雕龍（文論，52 章，148,000 bytes）
 - `guanzi` 管子（法家，81 章，472,126 bytes）
 - `hanfeizi` 韓非子（法家，59 章，404,007 bytes）

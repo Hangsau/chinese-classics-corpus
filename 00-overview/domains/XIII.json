@@ -2,10 +2,11 @@
   "domain": "XIII",
   "name_zh": "安頓·修復·平安",
   "gist": "靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈",
-  "generated_at": "2026-08-09T08:52:06+00:00",
-  "para_count": 53,
-  "book_count": 6,
+  "generated_at": "2026-08-09T15:20:28+00:00",
+  "para_count": 59,
+  "book_count": 7,
   "surveyed_zero_hit": [
+    "fangyan",
     "gu-sanfen",
     "haidao-suanjing",
     "jinkui-yaolue",
@@ -14,6 +15,7 @@
     "qianfulun",
     "shanghanlun",
     "shenyijing",
+    "shuowen-jiezi",
     "sunzi-bingfa"
   ],
   "paras": [
@@ -161,6 +163,95 @@
       "note": "",
       "co_domains": [
         "VII"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋衣服第十六",
+      "para_index": 49,
+      "para_id": "shiming#16-p49",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "晚，下如寫其下晚晚而危，婦人短者著之可以拜也。",
+      "note": "說身材矮小的婦女藉特製鞋墊高以便完成拜禮，呈現身體限制的具體調適",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋喪制第二十七",
+      "para_index": 25,
+      "para_id": "shiming#27-p25",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "於西壁下塗之曰殯殯賓也賓客遇之言稍遠也塗曰攢攢木於上而塗之也",
+      "note": "說殯後以賓客相待表示亡者漸遠，直接描寫失去中的關係轉變與安頓",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋喪制第二十七",
+      "para_index": 39,
+      "para_id": "shiming#27-p39",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "又祭曰卒哭卒止也止孝子無時之哭朝夕而巳也",
+      "note": "卒哭禮把孝子無時而哭改為朝夕定時，呈現失去後對哀傷生活的重新安置",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋喪制第二十七",
+      "para_index": 41,
+      "para_id": "shiming#27-p41",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "期而小祥亦祭名也孝子除首絰服練冠也祥善也加小善之飾也",
+      "note": "以一周年小祥除首絰、改服練冠，呈現服喪者逐步恢復常態",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋喪制第二十七",
+      "para_index": 42,
+      "para_id": "shiming#27-p42",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "又期而大祥亦祭名也孝子除縗服服朝服縞冠如大善之飾也",
+      "note": "再一周年大祥除縗改朝服，以儀節推進失去後的復常",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋喪制第二十七",
+      "para_index": 43,
+      "para_id": "shiming#27-p43",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "間月而禫亦祭名也孝子之意澹然衰思益衰也",
+      "note": "說禫祭時孝子心意轉淡而哀思更衰，直接觀察悲傷隨時序減弱",
+      "co_domains": [
+        "VI"
       ]
     },
     {

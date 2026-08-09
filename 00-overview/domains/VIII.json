@@ -2,9 +2,9 @@
   "domain": "VIII",
   "name_zh": "工作·成就·召喚",
   "gist": "工作與金錢、成就與意義、天賦與使命",
-  "generated_at": "2026-08-09T08:52:06+00:00",
-  "para_count": 391,
-  "book_count": 11,
+  "generated_at": "2026-08-09T15:20:28+00:00",
+  "para_count": 411,
+  "book_count": 14,
   "surveyed_zero_hit": [
     "gu-sanfen",
     "haidao-suanjing",
@@ -54,6 +54,44 @@
       "co_domains": [
         "II"
       ]
+    },
+    {
+      "slug": "fangyan",
+      "chapter": "刻方言序",
+      "para_index": 1,
+      "para_id": "fangyan#01-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "西漢氏古書之全者,如《鹽鐵論》、楊子雲《方》言，其存蓋無幾。《鹽鐵論》，前輩每恨",
+      "note": "追述古籍流傳、訛誤與重刊經過，並主張治學作文須明白古字的適當用法，談的是學術與寫作實踐",
+      "co_domains": []
+    },
+    {
+      "slug": "fangyan",
+      "chapter": "方言序",
+      "para_index": 1,
+      "para_id": "fangyan#15-p01",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "蓋聞《方言》之作，出乎輶軒之使，所以巡遊萬國，采覽異言，車軌之所交，人迹之所蹈，",
+      "note": "追述《方言》的採集、散佚與揚雄編纂，並自述研習、作注及補正以益後學，呈現治學投入與成果",
+      "co_domains": []
+    },
+    {
+      "slug": "fangyan",
+      "chapter": "跋李刻方言",
+      "para_index": 1,
+      "para_id": "fangyan#16-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "漢儒訓詁之學惟謹，而楊子雲尤為洽聞。蓋一物不知，君子所耻，博學詳說，將以反約。凡",
+      "note": "批評當時學者捨實徇名、高談性命而輕視訓詁，講的是治學者怎麼走偏",
+      "co_domains": []
     },
     {
       "slug": "jinkui-yaolue",
@@ -2341,6 +2379,101 @@
       "co_domains": []
     },
     {
+      "slug": "shiming",
+      "chapter": "釋道第六",
+      "para_index": 3,
+      "para_id": "shiming#06-p03",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "三達曰劇旁，古者列樹以表道，道有夾溝，以通水潦，恒見修治此道，旁轉多，用功稍劇也",
+      "note": "申說道路需恆常修治且支路越多用功越劇，已提出工作負荷隨複雜度增加",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋姿容第九",
+      "para_index": 41,
+      "para_id": "shiming#09-p41",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "蹇，跛蹇也，病不能作事今託病似此而不宜執事役也。",
+      "note": "除跛病詞義外還評論託病者不宜任事，兼涉及誠信品格與工作責任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋姿容第九",
+      "para_index": 51,
+      "para_id": "shiming#09-p51",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "寢，權假臥之名也。寢，侵也，侵損事功也。",
+      "note": "明說睡眠會侵損事功，已提出休息與工作成就之間的因果判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋長幼第十",
+      "para_index": 8,
+      "para_id": "shiming#10-p08",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "五十曰艾；艾，治也。治事能斷割芟刈無所疑也。",
+      "note": "把五十歲說成能治理裁斷事務而無疑，已評斷年齡增長後的工作能力",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋長幼第十",
+      "para_index": 9,
+      "para_id": "shiming#10-p09",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "六十曰耆；耆，指也。不從力役指事使人也。",
+      "note": "說六十歲不再服力役而改為指揮他人，已描述老化帶來的勞動角色轉換",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋綵帛第十四",
+      "para_index": 13,
+      "para_id": "shiming#14-p13",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "布，布也。布列眾縷為經，以緯橫成之也。又太古衣皮，女工之始始於是。施布其法，使民",
+      "note": "除說布的經緯構造外，還把它寫成女工之始及向民眾傳布的勞作技術",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋兵第二十三",
+      "para_index": 23,
+      "para_id": "shiming#23-p23",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "鳥隼爲旟旟譽也軍吏所建急疾趨事則有稱譽也雜帛爲旆以雜色綴其邊爲翅尾也將帥所建象物",
+      "note": "說軍吏迅速趨事便能獲得稱譽，把公共職責的履行連到工作評價",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
       "slug": "shishuo-xinyu",
       "chapter": "任誕",
       "para_index": 5,
@@ -3639,6 +3772,143 @@
       ],
       "excerpt": "殷仲文既素有名望，自謂必當阿衡朝政。忽作東陽太守，意甚不平。〈《晉安帝紀》曰：「",
       "note": "殷仲文因名望而自認當居宰衡，外放後借孫策自況並終至謀反，寫自我定位與仕途野心受挫",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "竹部",
+      "para_index": 77,
+      "para_id": "shuowen-jiezi#132-p77",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "筭：長六寸。計歷數者。从竹从弄。言常弄乃不誤也。",
+      "note": "字條除說明「筭」是計算曆數的工具與構形外，還說反覆操弄才能避免出錯，提出熟練與工作準確的關係",
+      "co_domains": []
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "欠部",
+      "para_index": 37,
+      "para_id": "shuowen-jiezi#309-p37",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "歈：歌也。从欠俞聲。《切韻》云：“巴歈，歌也。”案：《史記》：渝水之人善歌舞，漢",
+      "note": "除釋「歈」為歌並舉書證外，另述渝水人善歌舞、漢高祖採其聲及後人造字，涉及技藝的展現與流傳",
+      "co_domains": []
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "辰部",
+      "para_index": 2,
+      "para_id": "shuowen-jiezi#521-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "辱：恥也。从寸在辰下。失耕時，於封畺上戮之也。辰者，農之時也。故房星爲辰，田候也",
+      "note": "除釋「辱」與構形外，另述失誤農時者在封疆受戮的制度性處罰，涉及權力與勞作責任",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "酉部",
+      "para_index": 36,
+      "para_id": "shuowen-jiezi#526-p36",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "醫（）：治病工也。殹，惡姿也；醫之性然。得酒而使，从酉。王育說。一曰殹，病聲。酒",
+      "note": "除醫者的職業字義外，本條還概括醫者性情並稱得酒方能使，實際對職業角色作了判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "15",
+      "para_index": 7,
+      "para_id": "shuowen-jiezi#530-p07",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "漢興有草書。尉律：學僮十七以上始試。諷籀書九千字，乃得為史。又以八體試之。郡移太",
+      "note": "列出學僮考試、任官與糾劾程序，並主張停止考課導致小學荒廢，涉及制度責任和專業養成",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "15",
+      "para_index": 8,
+      "para_id": "shuowen-jiezi#530-p08",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孝宣皇帝時，召通《倉頡》讀者，張敞從受之。涼州刺史杜業，沛人爰禮，講學大夫秦近，",
+      "note": "追述通文字者受業、講學、受徵及編纂篇章的經過，重點是學術才能與工作的承傳",
+      "co_domains": []
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "15",
+      "para_index": 11,
+      "para_id": "shuowen-jiezi#530-p11",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "而世人大共非訾，以為好奇者也，故詭更正文，鄉壁虛造不可知之書，變亂常行，以耀於世",
+      "note": "批判俗儒因狹習、無知與炫秘而妄造字說、誤解經律，直指治學品格與專業失職",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "15",
+      "para_index": 12,
+      "para_id": "shuowen-jiezi#530-p12",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "《書》曰：“予欲觀古人之象。”言必遵修舊文而不穿鑿。孔子曰：“吾猶及史之闕文，今",
+      "note": "要求遵修舊文、不知則問，並指出私意與邪說使是非失準、令學者生疑，涉及求真品格與治學責任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "15",
+      "para_index": 13,
+      "para_id": "shuowen-jiezi#530-p13",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "蓋文字者，經藝之本，王政之始。前人所以垂後，後人所以識古。故曰：“本立而道生。”",
+      "note": "主張文字連結經藝、王政與古今傳承，並交代以證據整理群類、解謬而未知則闕的治學方法",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "15",
+      "para_index": 14,
+      "para_id": "shuowen-jiezi#530-p14",
+      "modes": [
+        "expression",
+        "observation"
+      ],
+      "excerpt": "敘曰：此十四篇五百四十部。九千三百五十三文，重文一千一百六十三，解說凡十三萬三千",
+      "note": "除統計與編排說明外，作者自敘家世、景仰、欲罷不能、竭才存疑及望後人訂正，呈現自我定位與學術召喚",
       "co_domains": [
         "II"
       ]

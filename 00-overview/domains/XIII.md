@@ -1,17 +1,17 @@
 # XIII 安頓·修復·平安
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 53 段命中｜跨 6 部｜生成時間 2026-08-09T08:52:06+00:00
+> 59 段命中｜跨 7 部｜生成時間 2026-08-09T15:20:28+00:00
 
 靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈
 
-姿態分佈：`narrative` 35、`expression` 24、`proposition` 22、`prescription` 10、`observation` 3、`formalization` 1、`ritual` 1
+姿態分佈：`narrative` 35、`expression` 24、`proposition` 22、`prescription` 10、`observation` 9、`ritual` 6、`formalization` 1
 
 ## 已通讀但本領域零命中
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`nanjing`（難經）　`qianfulun`（潛夫論）　`shanghanlun`（傷寒論）　`shenyijing`（神異經）　`sunzi-bingfa`（孫子兵法）
+`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`nanjing`（難經）　`qianfulun`（潛夫論）　`shanghanlun`（傷寒論）　`shenyijing`（神異經）　`shuowen-jiezi`（說文解字）　`sunzi-bingfa`（孫子兵法）
 
 ## 世說新語（人論）　25 段
 
@@ -74,6 +74,17 @@
 | 楚老萊妻 | 1 | `narrative` `proposition` | 楚老萊子之妻也。萊子逃世，耕於蒙山之陽。葭牆蓬室，木床蓍席，衣縕食菽，墾山播種。 | ＋XI 老萊妻拒絕官祿所帶來的受制與危患，堅持離去並以簡樸資源另建生活。 |
 | 楚於陵妻 | 1 | `narrative` `proposition` | 楚王聞於陵子終賢，欲以為相，使使者持金百鎰，往聘迎之，於陵子終曰：「僕有箕帚之妾 | ＋VIII 於陵妻衡量為相的富貴與亂世憂患，選擇灌園、琴書和身心自足的生活。 |
 | 楚於陵妻 | 2 | `observation` `proposition` | 頌曰：於陵處楚，王使聘焉，入與妻謀，懼世亂煩，進往遇害，不若身安，左琴右書，為人 | ＋VIII 頌明言進仕遇害不若身安，拿灌園琴書對照高位而評斷職涯選擇。 |
+
+## 釋名（小學）　6 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| 釋衣服第十六 | 49 | `observation` | 晚，下如寫其下晚晚而危，婦人短者著之可以拜也。 | ＋IX 說身材矮小的婦女藉特製鞋墊高以便完成拜禮，呈現身體限制的具體調適 |
+| 釋喪制第二十七 | 25 | `observation` `ritual` | 於西壁下塗之曰殯殯賓也賓客遇之言稍遠也塗曰攢攢木於上而塗之也 | ＋X 說殯後以賓客相待表示亡者漸遠，直接描寫失去中的關係轉變與安頓 |
+| 釋喪制第二十七 | 39 | `observation` `ritual` | 又祭曰卒哭卒止也止孝子無時之哭朝夕而巳也 | ＋X 卒哭禮把孝子無時而哭改為朝夕定時，呈現失去後對哀傷生活的重新安置 |
+| 釋喪制第二十七 | 41 | `observation` `ritual` | 期而小祥亦祭名也孝子除首絰服練冠也祥善也加小善之飾也 | ＋X 以一周年小祥除首絰、改服練冠，呈現服喪者逐步恢復常態 |
+| 釋喪制第二十七 | 42 | `observation` `ritual` | 又期而大祥亦祭名也孝子除縗服服朝服縞冠如大善之飾也 | ＋X 再一周年大祥除縗改朝服，以儀節推進失去後的復常 |
+| 釋喪制第二十七 | 43 | `observation` `ritual` | 間月而禫亦祭名也孝子之意澹然衰思益衰也 | ＋VI 說禫祭時孝子心意轉淡而哀思更衰，直接觀察悲傷隨時序減弱 |
 
 ## 鹽鐵論（雜史）　3 段
 

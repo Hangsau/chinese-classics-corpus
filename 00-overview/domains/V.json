@@ -2,9 +2,9 @@
   "domain": "V",
   "name_zh": "群體·社會·公義",
   "gist": "孤獨與歸屬、友誼、我群他群與偏見、公義與權力、責任與領導",
-  "generated_at": "2026-08-09T08:52:06+00:00",
-  "para_count": 1027,
-  "book_count": 11,
+  "generated_at": "2026-08-09T15:20:28+00:00",
+  "para_count": 1089,
+  "book_count": 14,
   "surveyed_zero_hit": [
     "haidao-suanjing",
     "jinkui-yaolue",
@@ -23,6 +23,30 @@
       ],
       "excerpt": "帝好微行，於長安城西，夜見一螭遊於路。董竭曰：「昔傑媚末喜於膝上，以金簪貫玉褵腹",
       "note": "董竭借妹喜金簪與白龍魚服勸阻帝王微行，重心是臣下規諫及統治者身分責任",
+      "co_domains": []
+    },
+    {
+      "slug": "fangyan",
+      "chapter": "卷三",
+      "para_index": 5,
+      "para_id": "fangyan#04-p05",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "臧、甬、〈音勇。〉侮、獲，奴婢賤稱也。荊淮海岱雜齊之間〈俗不純為雜。〉罵奴曰臧，",
+      "note": "除辨析奴婢稱名外，還明說各地以醜稱辱罵奴婢及輕賤其身分，呈現群體貶抑",
+      "co_domains": []
+    },
+    {
+      "slug": "fangyan",
+      "chapter": "卷三",
+      "para_index": 41,
+      "para_id": "fangyan#04-p41",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "儓、〈音臺。〉𧟵，〈音僰。〉農夫之醜稱也。南楚凡罵庸賤謂之田儓，〈㑣儓，駑鈍㒵。",
+      "note": "除登錄稱名外，還明說農夫、庸役與商人被冠以醜稱並視為卑賤，呈現身分群體的貶抑",
       "co_domains": []
     },
     {
@@ -4700,6 +4724,538 @@
       ]
     },
     {
+      "slug": "shiming",
+      "chapter": "釋丘第五",
+      "para_index": 14,
+      "para_id": "shiming#05-p14",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "道出其右曰畫丘；人尚右，凡有指畫皆用右也。",
+      "note": "由畫丘命名申說人們崇尚右方且指畫皆用右手，已記錄共同的社會習尚",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋州國第七",
+      "para_index": 4,
+      "para_id": "shiming#07-p04",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "荊州，取名於荊山也。必取荊爲名者，荊，警也。南蠻數爲寇逆，其民有道後服，無道先疆",
+      "note": "把南蠻概括為常作寇逆，並以政道有無推論其服叛先後，涉及群體偏見與治理權力",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋州國第七",
+      "para_index": 8,
+      "para_id": "shiming#07-p08",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "冀州，亦取地以爲名也。其地有險有易，帝王所都。亂則冀治，弱則冀彊，荒則冀豐也。",
+      "note": "由亂、弱、荒三種公共困境提出對治、強、豐的政治期望，已在談群體治理",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋州國第七",
+      "para_index": 12,
+      "para_id": "shiming#07-p12",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "宋，送也。地接淮泗而東南傾，以爲殷後，若云滓穢所在，送使隨流東入海也。",
+      "note": "把殷後所在貶作滓穢而想像送入海，已呈現對被征服群體的污名與排斥",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋州國第七",
+      "para_index": 14,
+      "para_id": "shiming#07-p14",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "楚，辛也。其地蠻多，而人性急，數有戰爭；相爭相害，辛楚之禍也。",
+      "note": "把楚人概括為性急並常相爭相害，兼有地域群體成見與品格善惡判斷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋州國第七",
+      "para_index": 17,
+      "para_id": "shiming#07-p17",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "晉，進也。其土在北，有事於中國，則進而南也；又取晉水以爲名，其水迅進也。",
+      "note": "除地名聲訓外還記晉遇中國有事便南進的國際行動，涉及國群關係與權力",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋州國第七",
+      "para_index": 18,
+      "para_id": "shiming#07-p18",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "趙，朝也。本小邑，朝事於大國也。",
+      "note": "說趙本為小邑而朝事大國，呈現大小政體之間的從屬權力關係",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋州國第七",
+      "para_index": 19,
+      "para_id": "shiming#07-p19",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "魯，魯鈍也。國多山水，民性樸魯也。",
+      "note": "把魯地居民整體斷為樸魯，已作地域群體的性格概括",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋州國第七",
+      "para_index": 20,
+      "para_id": "shiming#07-p20",
+      "modes": [
+        "observation",
+        "narrative"
+      ],
+      "excerpt": "衞，衞也。既滅殷，立武庚爲殷後，三監以守衞之也。",
+      "note": "以滅殷、立武庚及三監守衛的事件序列交代征服後的統治安排",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋州國第七",
+      "para_index": 22,
+      "para_id": "shiming#07-p22",
+      "modes": [
+        "observation",
+        "narrative"
+      ],
+      "excerpt": "呉，虞也。太伯讓位而不就歸，封之於此，虞其志也。",
+      "note": "敘太伯讓位離去而受封，兼涉及政治權力的轉讓與辭位品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋州國第七",
+      "para_index": 23,
+      "para_id": "shiming#07-p23",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "越，夷蠻之國也。度越禮義無所拘也。",
+      "note": "稱越為夷蠻且斷言其越禮義而無拘，兼有群體排斥與德行評價",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋州國第七",
+      "para_index": 24,
+      "para_id": "shiming#07-p24",
+      "modes": [
+        "observation",
+        "narrative"
+      ],
+      "excerpt": "此十二國上應列宿，各以其地及於事宜制此名也。至秦改諸侯，置郡縣，隨其所在山川土形",
+      "note": "除總結國名外還依次敘秦改諸侯為郡縣、漢承其制的政治制度變遷",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋州國第七",
+      "para_index": 32,
+      "para_id": "shiming#07-p32",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "大曰邦，邦，封也，封有功於是也。",
+      "note": "說邦源於把土地封給有功者，已呈現統治者分配權力與獎功的制度",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋姿容第九",
+      "para_index": 18,
+      "para_id": "shiming#09-p18",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "跽，忌也，見所敬忌不敢自安也。",
+      "note": "說人面對所敬畏者便不敢自安而跽，兼寫社會尊卑關係與敬懼不安",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋姿容第九",
+      "para_index": 19,
+      "para_id": "shiming#09-p19",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "拜於丈夫為趺；趺然屈折下就地也。於婦人為扶，自抽扶而上下也。",
+      "note": "分述丈夫與婦人拜禮時不同的屈身扶起動作，呈現性別化的社會儀節",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋長幼第十",
+      "para_index": 2,
+      "para_id": "shiming#10-p02",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "女，如也，婦人外成如人也。故三從之義，少如父教，嫁如夫命，老如子言，青徐州曰：娪",
+      "note": "提出女子少從父、嫁從夫、老從子的三從規範，並記女嬰出生不受喜，涉及家庭支配與性別偏見",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋親屬第十一",
+      "para_index": 40,
+      "para_id": "shiming#11-p40",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "兩婿相謂曰亞，言一人取姊，一人取妹，相亞次也，又並來至女氏門姊夫在前妹夫在後亦相",
+      "note": "除互稱聲訓外，還寫兩婿按長幼行禮、相倚完成婚禮並彼此親友",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋親屬第十一",
+      "para_index": 51,
+      "para_id": "shiming#11-p51",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "庶，摭也，拾摭之也，謂拾摭微陋待遇之也。",
+      "note": "除訓庶為摭外，還明說從微賤者中拾取並以低微身分待遇，呈現階序權力",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋言語第十二",
+      "para_index": 47,
+      "para_id": "shiming#12-p47",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "侍，時也。尊者不言，常於時供所當進者也。",
+      "note": "不只訓侍為時，還說尊者無須開口、侍者便須按時供進，呈現尊卑責任關係",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋言語第十二",
+      "para_index": 48,
+      "para_id": "shiming#12-p48",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "御，語也。尊者將有所欲，先語之也。亦言職卑，尊者所勒御，如御牛馬然也。",
+      "note": "明說職卑者受尊者勒制如同御牛馬，寫出身分權力下的支配",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋言語第十二",
+      "para_index": 72,
+      "para_id": "shiming#12-p72",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "助，乍也，乍往相助，非長久也。",
+      "note": "除以乍聲訓助外，還斷言援助只是偶爾往來而不能長久，評述人際支持",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋飲食第十三",
+      "para_index": 43,
+      "para_id": "shiming#13-p43",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "酒，酉也。釀之米麴酉釋，久而味美也。亦言踧也，能否皆彊相踧待飲之也。又入口咽之，",
+      "note": "除酒的釀造聲訓外，還說不論酒量都彼此強迫相勸，呈現群體飲酒壓力",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋首飾第十五",
+      "para_index": 30,
+      "para_id": "shiming#15-p30",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "穿耳施珠曰璫，此本出於蠻夷所為也。蠻夷婦女輕淫好走，故以此琅璫錘之也，今中國人傚",
+      "note": "以蠻夷婦女輕淫好走為由說明用耳珠錘制，呈現對外群體的性別偏見與控制",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋首飾第十五",
+      "para_index": 38,
+      "para_id": "shiming#15-p38",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "以丹注面曰勺，勺，灼也。此本天子諸侯群妾當以次進御，其有月事者止而不御，重以口說",
+      "note": "離開妝飾聲訓詳述群妾按次進御、月事停御並由女史按面記錄的宮廷性秩序",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋宮室第十七",
+      "para_index": 13,
+      "para_id": "shiming#17-p13",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "城上垣曰睥睨，言於其孔中睥睨非常也。亦曰陴，陴，裨也，言裨助城之高也。亦曰女墻，",
+      "note": "解「女牆」時把女子相對丈夫的卑小當成既定類比，另帶出性別權力判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋宮室第十七",
+      "para_index": 40,
+      "para_id": "shiming#17-p40",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "宁，佇也。將見君，所佇立，定氣之處也。",
+      "note": "說見君前須佇立定氣，兼寫權力關係中的朝見程序與內在調整",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋宮室第十七",
+      "para_index": 46,
+      "para_id": "shiming#17-p46",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "罘罳，在門外。罘，復也；罳，思也。臣將入請事，於此復重思之也。",
+      "note": "說臣入門請事前在罘罳處反覆深思，描寫君臣職責情境中的內在審慮",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋書契第十九",
+      "para_index": 25,
+      "para_id": "shiming#19-p25",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "下言上曰表思之於內表施於外也又曰上示之於上也又曰言言其意也",
+      "note": "說下對上陳述是把內在所思表施於外，另論權力關係中的心意表達",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋書契第十九",
+      "para_index": 26,
+      "para_id": "shiming#19-p26",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "約約束之也敕飾也使自警飾不敢廢慢也",
+      "note": "說約敕會使受命者自我警飭而不敢怠慢，主張權力約束如何塑造操守",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋典藝第二十",
+      "para_index": 3,
+      "para_id": "shiming#20-p03",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "九丘丘區也區別九州土氣教化所宜施者也此皆三王以前上古羲皇時書也今皆亡惟堯典存也",
+      "note": "不只解「九丘」區分之名，還說各地土氣不同而教化應各適其宜",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋典藝第二十",
+      "para_index": 7,
+      "para_id": "shiming#20-p07",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "春秋春秋冬夏終而成歲春秋書人事卒歲而究備春秋溫涼中象政和也故舉以爲名也",
+      "note": "除解書名與紀年，還主張春秋溫涼適中象徵政治和諧",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋典藝第二十",
+      "para_index": 11,
+      "para_id": "shiming#20-p11",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "法逼也莫不欲從其志逼正使有所限也",
+      "note": "主張人人欲從己志而法律以強制界限加以矯正，直接論公共權力與自由",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋典藝第二十",
+      "para_index": 12,
+      "para_id": "shiming#20-p12",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "律累也累人心使不得放肆也",
+      "note": "說律法纏束人心使其不得放肆，明寫社會規制對個人自由的限制",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋典藝第二十",
+      "para_index": 13,
+      "para_id": "shiming#20-p13",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "令領也理領之使不得相犯也",
+      "note": "說政令統領人群以免彼此侵犯，提出維持社會秩序的原理",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋典藝第二十",
+      "para_index": 14,
+      "para_id": "shiming#20-p14",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "科課也課其不如法者罪責之也",
+      "note": "說科條對不依法者定罪責罰，實際描述制度權力的運作",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋典藝第二十",
+      "para_index": 15,
+      "para_id": "shiming#20-p15",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "詔書詔昭也人暗不見事宜則有所犯以此示之使昭然知所由也",
+      "note": "主張人不明事宜易於犯罪，而詔示使其知所遵循，兼論治理與行為教化",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋兵第二十三",
+      "para_index": 22,
+      "para_id": "shiming#23-p22",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "交龍爲旂旂倚也畫作兩龍相依倚也通以赤色爲之無文釆諸侯所建也通帛爲旃旃戰也戰戰恭巳",
+      "note": "旗制說明之外又以三孤無事時戰戰恭己為象，提出居高位者的自持品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋兵第二十三",
+      "para_index": 23,
+      "para_id": "shiming#23-p23",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "鳥隼爲旟旟譽也軍吏所建急疾趨事則有稱譽也雜帛爲旆以雜色綴其邊爲翅尾也將帥所建象物",
+      "note": "說軍吏迅速趨事便能獲得稱譽，把公共職責的履行連到工作評價",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋車第二十四",
+      "para_index": 3,
+      "para_id": "shiming#24-p03",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "胡中車胡以罪沒人爲官奴者引之殷所制也",
+      "note": "解胡中車時另記罪沒之人被置為官奴拉車，實際描述刑罰權力與強制身分",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋車第二十四",
+      "para_index": 9,
+      "para_id": "shiming#24-p09",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "容車婦人所載小車也其蓋施帷所以隱蔽其形容也",
+      "note": "說婦人所乘容車必設帷以隱蔽形容，另呈現對女性可見性的社會約束",
+      "co_domains": []
+    },
+    {
       "slug": "shishuo-xinyu",
       "chapter": "仇隟",
       "para_index": 1,
@@ -9082,6 +9638,273 @@
       "note": "簡文面對誅除太宰父子的逼迫，以不忍殺戮和讓位之詔制止桓溫，兼涉政治權力的界限與守德",
       "co_domains": [
         "VII"
+      ]
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "羽部",
+      "para_index": 18,
+      "para_id": "shuowen-jiezi#97-p18",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "翣：棺羽飾也。天子八，諸侯六，大夫四，士二。下垂。从羽妾聲。",
+      "note": "除釋「翣」為棺上羽飾外，另列天子至士所用數量，呈現喪葬安排中的身分等差",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "羊部",
+      "para_index": 19,
+      "para_id": "shuowen-jiezi#103-p19",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "羌：西戎牧羊人也。从人从羊，羊亦聲。南方蠻閩从虫，北方狄从犬，東方貉从豸，西方羌",
+      "note": "除釋「羌」及族稱構形外，另以字形評斷各方族群，稱東夷仁且有君子之風，涉及族群偏見與品格判斷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "刀部",
+      "para_index": 27,
+      "para_id": "shuowen-jiezi#126-p27",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "𠟟：辠之小者。从刀从詈。未以刀有所賊，但持刀罵詈，則應罰。",
+      "note": "字條除說解「𠟟」的字義與構形外，還主張雖未持刀傷人、僅持刀罵詈也應受罰，涉及可罰的侵害與惡行",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "矢部",
+      "para_index": 5,
+      "para_id": "shuowen-jiezi#175-p05",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "矦：春饗所䠶矦也。从人；从厂，象張布；矢在其下。天子䠶熊虎豹，服猛也；諸矦䠶熊豕",
+      "note": "在考釋「矦」之外詳述天子、諸侯、大夫與士的分等射禮及對不朝諸侯的政治警告，呈現等級、權力與責任秩序",
+      "co_domains": []
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "邑部",
+      "para_index": 108,
+      "para_id": "shuowen-jiezi#218-p108",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "郭（）：齊之郭氏虚。善善不能進，惡惡不能退，是以亡國也。从邑𩫏聲。",
+      "note": "除考釋「郭」及其構形外，另以不能進善退惡導致亡國作因果判斷，涉及領導公義與善惡品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "卩部",
+      "para_index": 1,
+      "para_id": "shuowen-jiezi#327-p01",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "卩（）：瑞信也。守國者用玉卪，守都鄙者用角卪，使山邦者用虎卪，士邦者用人卪，澤邦",
+      "note": "除釋「卩」為瑞信外，詳列守國、守都鄙、出使各地與門關道路所用信物，呈現權力與職責的制度分配",
+      "co_domains": []
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "𠨍部",
+      "para_index": 2,
+      "para_id": "shuowen-jiezi#330-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "卿：章也。六卿：天官冢宰、地官司徒、春官宗伯、夏官司馬、秋官司寇、冬官司空。从卯",
+      "note": "除釋「卿」外，詳列六卿及所屬官名，呈現公共治理的職官分工",
+      "co_domains": []
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "馬部",
+      "para_index": 39,
+      "para_id": "shuowen-jiezi#359-p39",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "馼：馬赤鬣縞身，目若黃金，名曰𩢌。吉皇之乘，周文王時，犬戎獻之。从馬从文，文亦聲",
+      "note": "字條除記馬名與構形書證外，還說西伯獻馬給紂以保全自身，呈現權力威脅下的君臣交換",
+      "co_domains": []
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "𢊁部",
+      "para_index": 1,
+      "para_id": "shuowen-jiezi#360-p01",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "𢊁：解𢊁，獸也，似山牛，一角。古者決訟，令觸不直。象形，从豸省。凡𢊁之屬皆从𢊁。",
+      "note": "字條除釋獸形外，另記古人決訟時令其觸擊理曲者，涉及裁判正直與公共司法",
+      "co_domains": []
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "犬部",
+      "para_index": 52,
+      "para_id": "shuowen-jiezi#366-p52",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "狄：赤狄，本犬種。狄之爲言淫辟也。从犬，亦省聲。",
+      "note": "把赤狄貶稱為犬種並斷言其淫辟，呈現對外群體的污名與對其品格的善惡判斷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "虫部",
+      "para_index": 14,
+      "para_id": "shuowen-jiezi#460-p14",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "螟：蟲食穀葉者。吏冥冥犯法卽生螟。从虫从冥，冥亦聲。",
+      "note": "字條除釋「螟」的本義與構形外，另說官吏暗中犯法便生螟蟲，觸及公權力失序",
+      "co_domains": []
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "虫部",
+      "para_index": 15,
+      "para_id": "shuowen-jiezi#460-p15",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "蟘：蟲，食苗葉者。吏乞貸則生蟘。从虫从貸，貸亦聲。《詩》曰：“去其螟蟘。”",
+      "note": "字條除釋「蟘」的本義與書證外，另把官吏乞貸與蟘害發生相連，觸及官吏行為與公共秩序",
+      "co_domains": []
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "蟲部",
+      "para_index": 2,
+      "para_id": "shuowen-jiezi#462-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "𧔨：蟲食艸根者。从蟲，象其形。吏抵冒取民財則生。",
+      "note": "字條除釋食草根之蟲與象形外，另說官吏冒法侵取民財便生此蟲，直接觸及公權力侵奪",
+      "co_domains": []
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "辰部",
+      "para_index": 2,
+      "para_id": "shuowen-jiezi#521-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "辱：恥也。从寸在辰下。失耕時，於封畺上戮之也。辰者，農之時也。故房星爲辰，田候也",
+      "note": "除釋「辱」與構形外，另述失誤農時者在封疆受戮的制度性處罰，涉及權力與勞作責任",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "15",
+      "para_index": 1,
+      "para_id": "shuowen-jiezi#530-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "古者庖羲氏之王天下也，仰則觀象於天，俯則觀法於地，視鳥獸之文與地之宜，近取諸身，",
+      "note": "追述造字因偽飾萌生而起、終使百工與萬品可治可察，並把文字連到王者教化，涉及社會治理與善惡教化",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "15",
+      "para_index": 3,
+      "para_id": "shuowen-jiezi#530-p03",
+      "modes": [
+        "formalization",
+        "observation"
+      ],
+      "excerpt": "《周禮》：八歲入小學，保氏教國子，先以六書。一曰指事。指事者，視而可識，察而見意",
+      "note": "記國子入小學的制度，並把六書各自化為可據定義與例字判別的分類程序，涉及公共教育",
+      "co_domains": []
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "15",
+      "para_index": 5,
+      "para_id": "shuowen-jiezi#530-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "其後諸侯力政，不統於王。惡禮樂之害己，而皆去其典籍。分為七國，田疇異畝，車涂異軌",
+      "note": "敘諸侯因禮樂妨己而毀典、制度文字分裂及秦統一文字，呈現權力運作與自利品格的社會後果",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "15",
+      "para_index": 6,
+      "para_id": "shuowen-jiezi#530-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "是時，秦燒滅經書，滌除舊典。大發吏卒，興戍役。官獄職務繁，初有隸書，以趣約易，而",
+      "note": "敘秦焚書、徵發戍役與繁重官獄促成簡易隸書並使古文斷絕，講國家權力造成的制度與文化後果",
+      "co_domains": []
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "15",
+      "para_index": 7,
+      "para_id": "shuowen-jiezi#530-p07",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "漢興有草書。尉律：學僮十七以上始試。諷籀書九千字，乃得為史。又以八體試之。郡移太",
+      "note": "列出學僮考試、任官與糾劾程序，並主張停止考課導致小學荒廢，涉及制度責任和專業養成",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "15",
+      "para_index": 13,
+      "para_id": "shuowen-jiezi#530-p13",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "蓋文字者，經藝之本，王政之始。前人所以垂後，後人所以識古。故曰：“本立而道生。”",
+      "note": "主張文字連結經藝、王政與古今傳承，並交代以證據整理群類、解謬而未知則闕的治學方法",
+      "co_domains": [
+        "VIII"
       ]
     },
     {

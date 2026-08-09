@@ -2,10 +2,11 @@
   "domain": "X",
   "name_zh": "無常·老·死·失去",
   "gist": "老與時間、失去與哀傷、死亡、耐心與等待",
-  "generated_at": "2026-08-09T08:52:06+00:00",
-  "para_count": 154,
-  "book_count": 9,
+  "generated_at": "2026-08-09T15:20:28+00:00",
+  "para_count": 174,
+  "book_count": 11,
   "surveyed_zero_hit": [
+    "fangyan",
     "gu-sanfen",
     "haidao-suanjing",
     "jinkui-yaolue",
@@ -379,6 +380,247 @@
       "co_domains": [
         "VIII",
         "V"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋長幼第十",
+      "para_index": 4,
+      "para_id": "shiming#10-p04",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "七年曰悼；悼，逃也，如有廉恥隱逃其情也，亦言是時而死可傷悼也。",
+      "note": "斷言七歲已有廉恥而隱藏情感，並說此時死亡可哀悼，兼寫內在情緒與早夭失去",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋長幼第十",
+      "para_index": 8,
+      "para_id": "shiming#10-p08",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "五十曰艾；艾，治也。治事能斷割芟刈無所疑也。",
+      "note": "把五十歲說成能治理裁斷事務而無疑，已評斷年齡增長後的工作能力",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋長幼第十",
+      "para_index": 9,
+      "para_id": "shiming#10-p09",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "六十曰耆；耆，指也。不從力役指事使人也。",
+      "note": "說六十歲不再服力役而改為指揮他人，已描述老化帶來的勞動角色轉換",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋長幼第十",
+      "para_index": 13,
+      "para_id": "shiming#10-p13",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "百年曰期頤；頤，養也，老昏不復知服味善惡。孝子期於盡養，道而巳也。",
+      "note": "說百歲者昏昧失去辨味能力，並把孝子的責任定為盡力奉養，兼論衰老與家人照護",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋親屬第十一",
+      "para_index": 33,
+      "para_id": "shiming#11-p33",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "嫂，叟也，叟老者稱也，叟縮也，人及物老皆縮小於舊也。",
+      "note": "除以叟訓嫂外，另作人與物衰老後都比從前縮小的普遍老化觀察",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋親屬第十一",
+      "para_index": 52,
+      "para_id": "shiming#11-p52",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "無妻曰鰥；鰥，昆也；昆，明也，愁挹不寐目恒鰥鰥然也。故其字從魚魚目𢘆不閉者也。",
+      "note": "以無妻者因失偶而愁抑不眠、雙目常開，具體寫出喪偶後的哀傷內在生活",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋親屬第十一",
+      "para_index": 54,
+      "para_id": "shiming#11-p54",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "無父曰孤；孤，顧也，顧望無所瞻見也。",
+      "note": "寫無父者回顧瞻望卻無人可見，呈現失親後失去依歸的處境",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋親屬第十一",
+      "para_index": 55,
+      "para_id": "shiming#11-p55",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "老而無子曰獨；獨，隻獨也，言無所依也。",
+      "note": "不只登錄老而無子稱獨，也指出老人因無後代而無所依靠",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋綵帛第十四",
+      "para_index": 19,
+      "para_id": "shiming#14-p19",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "綺，欹也。其文欹邪，不順經緯之縱橫也。有杯文，形似杯也。有長命，其綵色相間，皆橫",
+      "note": "除列綺的紋樣外，還說長命紋的造意是讓穿者延長壽命，呈現對死亡的回應",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋宮室第十七",
+      "para_index": 4,
+      "para_id": "shiming#17-p04",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "西北隅曰屋漏，禮，每有親死者，輒撤屋之西北隅薪，以爨竈煑沐，供諸喪用。時若值雨則",
+      "note": "除解「屋漏」之名，還詳述親死後撤薪治沐及祭後毀棄的喪祭程序",
+      "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋典藝第二十",
+      "para_index": 20,
+      "para_id": "shiming#20-p20",
+      "modes": [
+        "observation",
+        "narrative"
+      ],
+      "excerpt": "碑被也此本王莽時所設也施其轆轤以繩被其上以引棺也臣子追述君父之功美以書其上後人因",
+      "note": "敘碑由引棺設施變為臣子追述君父功美的沿革，寫出親族對亡者的紀念傳承",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋疾病第二十六",
+      "para_index": 21,
+      "para_id": "shiming#26-p21",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "注病一人死一人復得氣相灌注也",
+      "note": "除釋「注病」之名，還明說一人病死後另一人再得其氣的致死傳播",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋喪制第二十七",
+      "para_index": 25,
+      "para_id": "shiming#27-p25",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "於西壁下塗之曰殯殯賓也賓客遇之言稍遠也塗曰攢攢木於上而塗之也",
+      "note": "說殯後以賓客相待表示亡者漸遠，直接描寫失去中的關係轉變與安頓",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋喪制第二十七",
+      "para_index": 26,
+      "para_id": "shiming#27-p26",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "三日不生生者成服曰縗縗催也言傷催也絰實也",
+      "note": "說三日不復生後生者成服，並以傷痛摧迫解縗，寫出亡故後的哀傷反應",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋喪制第二十七",
+      "para_index": 39,
+      "para_id": "shiming#27-p39",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "又祭曰卒哭卒止也止孝子無時之哭朝夕而巳也",
+      "note": "卒哭禮把孝子無時而哭改為朝夕定時，呈現失去後對哀傷生活的重新安置",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋喪制第二十七",
+      "para_index": 41,
+      "para_id": "shiming#27-p41",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "期而小祥亦祭名也孝子除首絰服練冠也祥善也加小善之飾也",
+      "note": "以一周年小祥除首絰、改服練冠，呈現服喪者逐步恢復常態",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋喪制第二十七",
+      "para_index": 42,
+      "para_id": "shiming#27-p42",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "又期而大祥亦祭名也孝子除縗服服朝服縞冠如大善之飾也",
+      "note": "再一周年大祥除縗改朝服，以儀節推進失去後的復常",
+      "co_domains": [
+        "XIII"
       ]
     },
     {
@@ -1416,6 +1658,44 @@
         "VI",
         "XIII"
       ]
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "羽部",
+      "para_index": 18,
+      "para_id": "shuowen-jiezi#97-p18",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "翣：棺羽飾也。天子八，諸侯六，大夫四，士二。下垂。从羽妾聲。",
+      "note": "除釋「翣」為棺上羽飾外，另列天子至士所用數量，呈現喪葬安排中的身分等差",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "歺部",
+      "para_index": 8,
+      "para_id": "shuowen-jiezi#120-p08",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "殯：死在棺，將遷葬柩，賓遇之。从歺从賓，賓亦聲。夏后殯於阼階，殷人殯於兩楹之閒，",
+      "note": "除釋「殯」為停柩待葬外，另比較夏、殷、周的停柩位置，呈現人群處理死亡的喪葬安排",
+      "co_domains": []
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "髟部",
+      "para_index": 21,
+      "para_id": "shuowen-jiezi#323-p21",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "髽：喪結。《禮》：女子髽衰，弔則不髽。魯臧武仲與齊戰于狐鮐，魯人迎喪者，始髽。从",
+      "note": "除釋「髽」為喪髻外，另記女子居喪、弔喪規矩及戰後迎喪者始髽的習俗，涉及人群如何處理死亡與喪失",
+      "co_domains": []
     },
     {
       "slug": "sunzi-bingfa",

@@ -1,17 +1,17 @@
 # XI 自由·命運·改變
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 148 段命中｜跨 7 部｜生成時間 2026-08-09T08:52:06+00:00
+> 150 段命中｜跨 8 部｜生成時間 2026-08-09T15:20:28+00:00
 
 自由意志與命運、選擇與代價、改變與重來
 
-姿態分佈：`proposition` 88、`narrative` 77、`expression` 21、`prescription` 20、`observation` 10、`ritual` 1、`formalization` 1
+姿態分佈：`proposition` 90、`narrative` 77、`expression` 21、`prescription` 20、`observation` 12、`ritual` 1、`formalization` 1
 
 ## 已通讀但本領域零命中
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`dongmingji`（洞冥記）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`nanjing`（難經）　`shanghanlun`（傷寒論）　`shenyijing`（神異經）
+`dongmingji`（洞冥記）　`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`nanjing`（難經）　`shanghanlun`（傷寒論）　`shenyijing`（神異經）　`shuowen-jiezi`（說文解字）
 
 ## 世說新語（人論）　75 段
 
@@ -195,3 +195,10 @@
 | 八觀 | 49 | `proposition` | 是故，守業勤學，未必及材；材藝精巧，未必及理；理意晏給，未必及智；智能經事，未必 | ＋VIII 學不及材：後天學習能否補先天材質，屬 XI（改變與重來）。 |
 | 效難 | 6 | `proposition` | 然後乃能知賢否。此又已試，非始相也。所以知質未足以知其略，且天下之人，不可得皆與 | ＋VII 與〈體別〉末段「偏材之性，不可移轉矣」正面衝突。兩處都保留原判，不調和。 |
 | 體別 | 22 | `proposition` | 夫學所以成材也，疏所以推情也；偏材之性，不可移轉矣。雖教之以學，材成而隨之以失； | ＋II／VII 全書最硬的一句：「偏材之性，不可移轉矣。雖教之以學，材成而隨之以失」——教育不能改變材質，是 XI 的核心命題，與〈效難〉正面衝突。 |
+
+## 釋名（小學）　2 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| 釋典藝第二十 | 11 | `observation` `proposition` | 法逼也莫不欲從其志逼正使有所限也 | ＋V 主張人人欲從己志而法律以強制界限加以矯正，直接論公共權力與自由 |
+| 釋典藝第二十 | 12 | `observation` `proposition` | 律累也累人心使不得放肆也 | ＋V 說律法纏束人心使其不得放肆，明寫社會規制對個人自由的限制 |

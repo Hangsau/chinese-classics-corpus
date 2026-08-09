@@ -2,18 +2,20 @@
   "domain": "XI",
   "name_zh": "自由·命運·改變",
   "gist": "自由意志與命運、選擇與代價、改變與重來",
-  "generated_at": "2026-08-09T08:52:06+00:00",
-  "para_count": 148,
-  "book_count": 7,
+  "generated_at": "2026-08-09T15:20:28+00:00",
+  "para_count": 150,
+  "book_count": 8,
   "surveyed_zero_hit": [
     "dongmingji",
+    "fangyan",
     "gu-sanfen",
     "haidao-suanjing",
     "jinkui-yaolue",
     "jiuzhang-suanshu",
     "nanjing",
     "shanghanlun",
-    "shenyijing"
+    "shenyijing",
+    "shuowen-jiezi"
   ],
   "paras": [
     {
@@ -410,6 +412,36 @@
       "co_domains": [
         "II",
         "VII"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋典藝第二十",
+      "para_index": 11,
+      "para_id": "shiming#20-p11",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "法逼也莫不欲從其志逼正使有所限也",
+      "note": "主張人人欲從己志而法律以強制界限加以矯正，直接論公共權力與自由",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋典藝第二十",
+      "para_index": 12,
+      "para_id": "shiming#20-p12",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "律累也累人心使不得放肆也",
+      "note": "說律法纏束人心使其不得放肆，明寫社會規制對個人自由的限制",
+      "co_domains": [
+        "V"
       ]
     },
     {

@@ -2,10 +2,11 @@
   "domain": "II",
   "name_zh": "自我與認同",
   "gist": "我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我",
-  "generated_at": "2026-08-09T08:52:06+00:00",
-  "para_count": 349,
-  "book_count": 9,
+  "generated_at": "2026-08-09T15:20:28+00:00",
+  "para_count": 351,
+  "book_count": 11,
   "surveyed_zero_hit": [
+    "fangyan",
     "gu-sanfen",
     "haidao-suanjing",
     "jinkui-yaolue",
@@ -1150,6 +1151,21 @@
       "excerpt": "孔子云：生而知之者上，學則亞之。多聞博識，知之次也。余素尚方術，請事斯語。",
       "note": "引孔子的知學階序後自陳素尚方術並願依此而行，是作者對自身學習位置與認同的表明",
       "co_domains": []
+    },
+    {
+      "slug": "shiming",
+      "chapter": "釋首飾第十五",
+      "para_index": 17,
+      "para_id": "shiming#15-p17",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "帽，冒也。巾，謹也。二十成人，士冠，庶人巾，當自謹修於四教也。",
+      "note": "在冠巾名稱外明定二十歲成人及不同身分首服，並要求成人自謹、修習四教",
+      "co_domains": [
+        "VII"
+      ]
     },
     {
       "slug": "shishuo-xinyu",
@@ -4274,6 +4290,21 @@
       ],
       "excerpt": "殷仲文既素有名望，自謂必當阿衡朝政。忽作東陽太守，意甚不平。〈《晉安帝紀》曰：「",
       "note": "殷仲文因名望而自認當居宰衡，外放後借孫策自況並終至謀反，寫自我定位與仕途野心受挫",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shuowen-jiezi",
+      "chapter": "15",
+      "para_index": 14,
+      "para_id": "shuowen-jiezi#530-p14",
+      "modes": [
+        "expression",
+        "observation"
+      ],
+      "excerpt": "敘曰：此十四篇五百四十部。九千三百五十三文，重文一千一百六十三，解說凡十三萬三千",
+      "note": "除統計與編排說明外，作者自敘家世、景仰、欲罷不能、竭才存疑及望後人訂正，呈現自我定位與學術召喚",
       "co_domains": [
         "VIII"
       ]

@@ -17,6 +17,41 @@
   "license": "CC BY-SA 4.0",
   "verified": false,
   "tier": "核心",
-  "psych_survey": null,
+  "psych_survey": {
+    "surveyed_at": "2026-08-09",
+    "method": "全文段落級標註，6,070 段逐段判讀（annotations.json）。spec 見 delegation/shuowen-jiezi/SPEC.md，切 18 批發包 codex（gpt-5.6-sol）。試點挑 b18 而非 b01——因為 b18 同時含許慎敘（本書唯一的論述文）與亥部（干支說解，字義聯想的最大陷阱），一批就能看到兩端。試點通過後其餘 17 批沿用同一份 spec，零改版。",
+    "domains_hit": [
+      "II",
+      "III",
+      "IV",
+      "V",
+      "VI",
+      "VII",
+      "VIII",
+      "IX",
+      "X",
+      "XII"
+    ],
+    "domains_null": [
+      "I",
+      "XI",
+      "XIII"
+    ],
+    "domain_para_counts": {
+      "II": 1,
+      "III": 1,
+      "IV": 3,
+      "V": 20,
+      "VI": 1,
+      "VII": 10,
+      "VIII": 10,
+      "IX": 2,
+      "X": 3,
+      "XII": 7
+    },
+    "paras_total": 6070,
+    "paras_no_domain": 6028,
+    "verdict": "**6,070 段中 6,028 段判空（99.3%），命中僅 42 段**——本庫判空率與九章算術同一量級。命中極度集中：許慎敘一篇（章標籤 `15`）就佔 10 段，其餘 32 段散在 30 個部首各 1–3 段。這是字書體裁的直接後果：本文是逐字登錄「這個字怎麼寫、本義是什麼」，論述只發生在序。判空理由清一色是「登錄字義並分析字形，除此之外沒有說關於人的什麼」。姿態 6,063 段 `observation`，再次印證 mode 是體裁指紋而非命中訊號。**這個結果支持 SCHEMA §3 把 `reference` 排除在標註管線外的原判——但只對說文成立，不可推廣（見 shiming）。**"
+  },
   "notes": "缺卷一上 11 部，見 coverage_note。"
 }
