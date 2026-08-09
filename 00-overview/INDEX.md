@@ -1,7 +1,7 @@
 # 索引
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 生成時間 2026-08-09T05:02:48+00:00｜68 部｜10,528,533 bytes｜已通讀 8 部｜已段落標註 8 部（3065 段）｜僅有骨架待標 0 部（0 段）
+> 生成時間 2026-08-09T05:26:47+00:00｜68 部｜10,528,533 bytes｜已通讀 9 部｜已段落標註 9 部（3126 段）｜僅有骨架待標 2 部（141 段）
 
 ## 分類統計
 
@@ -53,9 +53,9 @@
 | `gongsun-longzi` | 公孫龍子 | 名家 | original | 7 | 34,526 | — | — |
 | `lusheng-mobian-zhuxu` | 魯勝墨辯注敘 | 名家 | original | 1 | 1,091 | — | — |
 | `shuijingzhu` | 水經注 | 地理 | original | 137 | 1,131,449 | — | — |
-| `dongmingji` | 洞冥記 | 志怪 | original | 4 | 19,558 | — | — |
-| `gu-sanfen` | 古三墳 | 志怪 | contested | 11 | 20,377 | — | — |
-| `shenyijing` | 神異經 | 志怪 | original | 10 | 15,871 | — | — |
+| `dongmingji` | 洞冥記 | 志怪 | original | 4 | 19,558 | — | 骨架 63 |
+| `gu-sanfen` | 古三墳 | 志怪 | contested | 11 | 20,377 | — | 骨架 78 |
+| `shenyijing` | 神異經 | 志怪 | original | 10 | 15,871 | ✓ | 61/61 |
 | `wenxin-diaolong` | 文心雕龍 | 文論 | original | 52 | 148,000 | — | — |
 | `guanzi` | 管子 | 法家 | original | 81 | 472,126 | — | — |
 | `hanfeizi` | 韓非子 | 法家 | original | 59 | 404,007 | — | — |

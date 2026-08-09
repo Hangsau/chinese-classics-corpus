@@ -1,0 +1,118 @@
+{
+  "slug": "shenyijing",
+  "batches": [
+    {
+      "file": "b01.md",
+      "chapters": [
+        {
+          "chapter": "東荒經九則",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "chapter": "東南荒經五則",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "chapter": "南荒經十則",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "chapter": "西南荒經三則",
+          "para_indexes": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "chapter": "西荒經十則",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "chapter": "西北荒經六則",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "chapter": "北荒經三則",
+          "para_indexes": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "chapter": "東北荒經一則",
+          "para_indexes": [
+            1
+          ]
+        },
+        {
+          "chapter": "中荒經十則",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      ],
+      "paras": 61,
+      "chars": 5295
+    }
+  ]
+}

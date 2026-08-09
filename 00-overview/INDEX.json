@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-08-09T05:02:48+00:00",
+    "generated_at": "2026-08-09T05:26:47+00:00",
     "text_count": 68,
     "total_bytes": 10528533,
     "by_category": {
@@ -26,24 +26,24 @@
       "original": 66,
       "contested": 2
     },
-    "surveyed_count": 8,
-    "annotated_count": 8,
-    "scaffolded_count": 0,
-    "paras_judged": 3065,
-    "paras_pending": 0,
+    "surveyed_count": 9,
+    "annotated_count": 9,
+    "scaffolded_count": 2,
+    "paras_judged": 3126,
+    "paras_pending": 141,
     "domain_hit_counts": {
       "I": 3,
       "II": 6,
       "III": 6,
-      "IV": 6,
+      "IV": 7,
       "IX": 5,
-      "V": 6,
+      "V": 7,
       "VI": 6,
-      "VII": 6,
+      "VII": 7,
       "VIII": 6,
       "X": 6,
       "XI": 6,
-      "XII": 6,
+      "XII": 7,
       "XIII": 4
     }
   },
@@ -124,7 +124,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
-      "paras_total": 0,
+      "paras_total": 63,
       "paras_judged": 0,
       "annotated": false
     },
@@ -204,7 +204,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
-      "paras_total": 0,
+      "paras_total": 78,
       "paras_judged": 0,
       "annotated": false
     },
@@ -828,11 +828,16 @@
       "size_bytes": 15871,
       "chapter_count": 10,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [
+        "IV",
+        "V",
+        "VII",
+        "XII"
+      ],
+      "paras_total": 61,
+      "paras_judged": 61,
+      "annotated": true
     },
     {
       "slug": "shenzi",
