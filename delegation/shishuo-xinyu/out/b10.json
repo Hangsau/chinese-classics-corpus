@@ -1,0 +1,187 @@
+{
+  "batch": "b10.md",
+  "rows": [
+    {
+      "chapter": "政事",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "以忠孝衡量欺假者之罪，並據此決定官府如何處置而不擴大追查"
+    },
+    {
+      "chapter": "政事",
+      "para_index": 2,
+      "domains": ["IV", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "將棄嬰視為骨肉相殘而優先查辦，顯示官府在親子傷害與其他重罪間的取捨"
+    },
+    {
+      "chapter": "政事",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "元方以德仁安撫強弱百姓並取得敬服，說明領導者可以如何使人安定"
+    },
+    {
+      "chapter": "政事",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "賀邵以查辦強族役使官兵與藏匿逃亡者回應輕侮，寫官權整治地方豪強及其阻力"
+    },
+    {
+      "chapter": "政事",
+      "para_index": 5,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative"],
+      "reason": "山濤年逾七十仍掌選任並承受權貴子弟的嘲弄，呈現用人職責及權勢壓力下的勞作"
+    },
+    {
+      "chapter": "政事",
+      "para_index": 6,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "制定律令者請鄭沖參與調整嚴明與寬弘的尺度，處理刑法與公共治理如何成形"
+    },
+    {
+      "chapter": "政事",
+      "para_index": 7,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative"],
+      "reason": "山濤準確判斷陸亮不適任選官而力爭未果，後來受賄敗露印證人職是否相稱關乎用人"
+    },
+    {
+      "chapter": "政事",
+      "para_index": 8,
+      "domains": ["VIII", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "嵇紹在父親被誅後詢問是否出仕，山濤以四時消長說明人的處境會變而可重新選擇職途"
+    },
+    {
+      "chapter": "政事",
+      "para_index": 9,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "王安期以園囿應與眾共享為由不究小吏取魚，提出掌權者如何看待公物與小過"
+    },
+    {
+      "chapter": "政事",
+      "para_index": 10,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "王安期拒絕為樹立威名而鞭打夜歸求學者，明說施罰立威不是治理根本"
+    },
+    {
+      "chapter": "政事",
+      "para_index": 11,
+      "domains": ["V", "X"],
+      "modes": ["narrative", "expression"],
+      "reason": "成帝親見侍臣被殺而哀求返還，事後又在諸公欲徇私宥罪時以這一失去堅持不赦"
+    },
+    {
+      "chapter": "政事",
+      "para_index": 12,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "王導察覺少數賓客尚未融洽並分別設法使其歡悅，呈現領導者如何讓不同來客感到被接納"
+    },
+    {
+      "chapter": "政事",
+      "para_index": 13,
+      "domains": ["V"],
+      "modes": ["narrative", "expression"],
+      "reason": "陸玩自陳面對位望較高者時無法即席直言、事後才改議，點出權勢差距如何妨礙進諫"
+    },
+    {
+      "chapter": "政事",
+      "para_index": 14,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "王導勸庾亮暑月略簡公務而庾亮以遺事仍未允當相拒，呈現治理寬簡與責任追補的拉扯"
+    },
+    {
+      "chapter": "政事",
+      "para_index": 15,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "expression"],
+      "reason": "王導把時人所譏的昏憒重新理解為後人將懷念的寬簡之政，涉及自我評價與領導方式"
+    },
+    {
+      "chapter": "政事",
+      "para_index": 16,
+      "domains": ["VII", "VIII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "陶侃以勤儉、自律與預見保存零料供後用，並明言人應惜時任事而不可遊逸自棄"
+    },
+    {
+      "chapter": "政事",
+      "para_index": 17,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "虞存指出限制訪客必須先有足以識人的守門者，處理公職者的開放接見與把關權如何平衡"
+    },
+    {
+      "chapter": "政事",
+      "para_index": 18,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "何充以眾人的存立有賴自己處理文書回應朋友催談，凸顯公職勞務對群體的責任"
+    },
+    {
+      "chapter": "政事",
+      "para_index": 19,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "expression"],
+      "reason": "桓溫以德化而恥於威刑，連極輕的杖責仍自言嫌重，呈現掌權施罰時的仁厚自持"
+    },
+    {
+      "chapter": "政事",
+      "para_index": 20,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "簡文以一日萬機說明政務繁多難以速決，處理領導決策速度與職務負荷的衝突"
+    },
+    {
+      "chapter": "政事",
+      "para_index": 21,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "王長史主張在前任猛政之後改用和靜治理，提出領導手段應隨百姓所受的政風調整"
+    },
+    {
+      "chapter": "政事",
+      "para_index": 22,
+      "domains": ["V", "VI"],
+      "modes": ["narrative", "expression"],
+      "reason": "劉尹因新刺史嚴厲而天未全晚便收拾離去，自陳不敢夜行，寫權威如何引起戒懼並約束行動"
+    },
+    {
+      "chapter": "政事",
+      "para_index": 23,
+      "domains": ["V", "XIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "謝安替亂離中藏身京都的逃亡兵民說話，以容留而非搜捕使無法返鄉者在既成亂局中有安頓之所"
+    },
+    {
+      "chapter": "政事",
+      "para_index": 24,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "王忱讓王珉改動近半選官名單後欣然採納，呈現公共用人決策可以接受他人校正"
+    },
+    {
+      "chapter": "政事",
+      "para_index": 25,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "答者不知道王忱的地方治理成效，只見他與張玄友情日益深厚，並置公責與私交的評價"
+    },
+    {
+      "chapter": "政事",
+      "para_index": 26,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "殷仲堪以皋陶與孔子為例，論證執掌刑殺公職不必違背仁德本操"
+    }
+  ]
+}
