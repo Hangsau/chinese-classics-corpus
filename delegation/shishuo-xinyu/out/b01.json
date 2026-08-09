@@ -1,0 +1,61 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {
+      "chapter": "仇隟",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "孫秀把求取綠珠受拒與昔日受辱積成私怨，得勢後以公權報復石崇、潘岳等人，寫怨恨如何敗壞品格並化為權力迫害"
+    },
+    {
+      "chapter": "仇隟",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "石崇察覺王愷設局殺害二劉，冒夜入內把朋友救出，寫朋友在危難中的照應與保護"
+    },
+    {
+      "chapter": "仇隟",
+      "para_index": 3,
+      "domains": ["IV", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "母親因仇家門強而多年隱瞞父仇以保護幼子，真相揭開後又使無忌與王胡之的親暱破裂，呈現家族記憶、權勢與友誼的衝突"
+    },
+    {
+      "chapter": "仇隟",
+      "para_index": 4,
+      "domains": ["IV", "VI"],
+      "modes": ["narrative"],
+      "reason": "無忌一聽父親遇害的歸責便奪刀追斫仇家之子，寫父仇如何轉成後代難以節制的報復衝動"
+    },
+    {
+      "chapter": "仇隟",
+      "para_index": 5,
+      "domains": ["II", "VI"],
+      "modes": ["narrative"],
+      "reason": "王羲之因王述聲譽日隆而不平，彼此以弔喪失禮、稽察政務相辱，終至恥憤辭官，主軸是名望競逐與積怨"
+    },
+    {
+      "chapter": "仇隟",
+      "para_index": 6,
+      "domains": ["II", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "王珣受疑為態度莫測，遂以王陵直爭、陳平默從作比，主張評量一個人的操守不能只看眼前姿態而要看最終所成"
+    },
+    {
+      "chapter": "仇隟",
+      "para_index": 7,
+      "domains": ["V", "X"],
+      "modes": ["narrative", "expression"],
+      "reason": "司馬道子面對昔日友人王恭被梟示的首級追問其何以逼迫相殺，寫政治決裂造成的死亡及友誼中未解的責怨"
+    },
+    {
+      "chapter": "仇隟",
+      "para_index": 8,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative", "expression"],
+      "reason": "庾夫人以自己多年養育桓玄、視同骨肉且不忍相殘的心情制止襲殺，寫親族情分如何約束報復與政治暴力"
+    }
+  ]
+}

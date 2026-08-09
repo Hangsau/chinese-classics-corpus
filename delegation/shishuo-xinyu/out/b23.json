@@ -1,0 +1,68 @@
+{
+  "batch": "b23.md",
+  "rows": [
+    {
+      "chapter": "黜免",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "諸葛厷遭族黨讒誣而被遠徙，以「逆當殺、狂何徙」指出罪名與處分矛盾，主軸是權力裁罰的公義"
+    },
+    {
+      "chapter": "黜免",
+      "para_index": 2,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative"],
+      "reason": "猨母因幼子被奪而哀號追船至死，桓溫因其部屬殘害親子而黜之，兼寫親子依戀與對殘忍的品格裁斷"
+    },
+    {
+      "chapter": "黜免",
+      "para_index": 3,
+      "domains": ["VI", "XIII"],
+      "modes": ["narrative", "expression"],
+      "reason": "殷浩被廢遠徙後終日書空「咄咄怪事」，以反覆的驚憤替自己無法挽回的處境發聲"
+    },
+    {
+      "chapter": "黜免",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "桓溫由同盤不肯相助推斷危難時更不足相援並予免官，處理群體互助與用人責任"
+    },
+    {
+      "chapter": "黜免",
+      "para_index": 5,
+      "domains": ["VI", "XIII"],
+      "modes": ["narrative", "expression"],
+      "reason": "殷浩以去梯之喻與送別落淚表達遭棄的怨悲，而夷神委命、雅詠不輟則寫他如何安放被廢流放的處境"
+    },
+    {
+      "chapter": "黜免",
+      "para_index": 6,
+      "domains": ["VI", "XIII"],
+      "modes": ["narrative", "expression"],
+      "reason": "鄧遐以破甑自況，坦承對失官既羞愧又不能釋懷，親自說出如何面對已不可復得的仕途"
+    },
+    {
+      "chapter": "黜免",
+      "para_index": 7,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "簡文面對誅除太宰父子的逼迫，以不忍殺戮和讓位之詔制止桓溫，兼涉政治權力的界限與守德"
+    },
+    {
+      "chapter": "黜免",
+      "para_index": 8,
+      "domains": ["VI", "XIII"],
+      "modes": ["narrative", "expression"],
+      "reason": "殷仲文凝視老槐嘆其「無復生意」，實借槐樹替自己在敗局失勢後的怏然處境發聲"
+    },
+    {
+      "chapter": "黜免",
+      "para_index": 9,
+      "domains": ["II", "VIII"],
+      "modes": ["narrative", "expression"],
+      "reason": "殷仲文因名望而自認當居宰衡，外放後借孫策自況並終至謀反，寫自我定位與仕途野心受挫"
+    }
+  ]
+}
