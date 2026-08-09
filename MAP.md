@@ -13,7 +13,7 @@
 | 改 downloader | `CLAUDE.md` §4 爬蟲倫理 + 本檔 §下載器結構陷阱（**五類已修過的問題，別退回去**） |
 | 查某部書在不在清單、為何某部結構特殊 | `scripts/catalog/chinese-classics-ws.json`（73 條、實收 72 部，特殊處置寫在該部的 `structure_note` / `coverage_note` / `excluded_reason`） |
 | 抓完驗證 | `PYTHONIOENCODING=utf-8 python scripts/verify.py`；重生索引 `... scripts/build-index.py` |
-| 跑心理學標註 | 先讀 `SCHEMA.md` §3 分流 `text_role`，`reference` 類不進管線 |
+| 跑心理學標註 | 先讀 `SCHEMA.md` §3 分流 `text_role`；`reference` 預設不排批次，但**不得憑此宣告沒內容**（§3.1 釋名已證否） |
 | 標一部新書 | **預設走發包**，完整八步寫在 `HANDOFF.md` §下一步第 3 條：`make-delegation-input.py` 切批 → 寫 `delegation/<slug>/SPEC.md` → **先發 b01 試點、校準結果補回 spec 才放行其餘批** → `check-delegation-out.py` 檢查 → `apply-delegation.py` 回填。不發包時才用本檔 §標註工作流的手工五步 |
 | 寫發包 spec | 抄 `delegation/yanshi-jiaxun/SPEC.md` 的骨架：**13 領域分流表（哪類內容歸哪格，逐格指定）** ＋ 該書特有的陷阱與例外體例 ＋ 硬規則 ＋ 輸出格式。分流表不寫，領域區辨不會自己發生——顏氏家訓的 IV 86 > V 47 就是這樣拿到的。**規訓一律帶數字**（「預設一到兩個領域，第三個要寫得出拿掉它少講什麼」）；只寫「不要濫用」不會生效，世說新語 b01 就是這樣疊出 6/8 段三領域 |
 | 串行發包 codex | `bash scripts/run-delegation.sh <slug> b01 b02 ...`（吃 slug 參數，**已取代 `delegation/shishuo-xinyu/run-batches{,2}.sh` 兩支寫死 slug 的版本，不要再逐書複製**）。它的 prompt 內含三條反例：不准先問「確認後開始」、交付物是檔案本身要讀回確認、只准寫自己那一批的 out 檔——**三條都是實際踩過的靜默失效，別精簡掉**（見 `HANDOFF.md` §靜默失效）。**clobber 偵測器 2026-08-09 才真正修好**——在那之前它因 Git Bash 的 `sha256sum` 輸出 `<hash> *<path>` 而無條件誤報，等於沒有偵測器 |
@@ -54,11 +54,11 @@ translations/<slug>/
   └── domains/<id>.{md,json}  每個領域一頁，段級反向索引
 ```
 
-`translations/` 已有 **72 部**（phase 1 共 68 ＋ phase 2 小學 4：`shuowen-jiezi`／`shiming`／`fangyan`／`jijiupian`；`guangyun` 上游殘缺已在 catalog 標 `excluded`），`00-overview/` 已生成。`annotations.json` 目前 **15 部**（`sunzi-bingfa` 91 段、`jiuzhang-suanshu` 720 段、`haidao-suanjing` 24 段、`renwuzhi` 229 段、`qianfulun` 268 段、`yantielun` 346 段、`yanshi-jiaxun` 255 段、`shishuo-xinyu` 1,132 段、`shenyijing` 61 段、`dongmingji` 63 段、`gu-sanfen` 78 段、`nanjing` 243 段、`shanghanlun` 728 段、`jinkui-yaolue` 796 段、`lienuzhuan` 208 段），共 **5,242 段**；其餘 53 部的 `psych_survey` 仍是 `null`＝未通讀。
+`translations/` 已有 **72 部**（phase 1 共 68 ＋ phase 2 小學 4：`shuowen-jiezi`／`shiming`／`fangyan`／`jijiupian`；`guangyun` 上游殘缺已在 catalog 標 `excluded`），`00-overview/` 已生成。`annotations.json` 目前 **18 部**（`sunzi-bingfa` 91 段、`jiuzhang-suanshu` 720 段、`haidao-suanjing` 24 段、`renwuzhi` 229 段、`qianfulun` 268 段、`yantielun` 346 段、`yanshi-jiaxun` 255 段、`shishuo-xinyu` 1,132 段、`shenyijing` 61 段、`dongmingji` 63 段、`gu-sanfen` 78 段、`nanjing` 243 段、`shanghanlun` 728 段、`jinkui-yaolue` 796 段、`lienuzhuan` 208 段、`shuowen-jiezi` 6,070 段、`shiming` 945 段、`fangyan` 385 段），共 **12,642 段**；`jijiupian` 282 段是骨架待標（v1 判讀作廢重跑中）；其餘 53 部的 `psych_survey` 仍是 `null`＝未通讀。
 
-**查一個領域在全庫的段落，看 `00-overview/domains/<id>.md`，不要自己 grep `annotations.json`。**每頁按書分節，欄位是篇名／段序／姿態／摘句／判讀，另附「已通讀但本領域零命中」的書單——命中與零命中放在同一頁，是為了讓零不會被讀成沒人看過（SCHEMA §5）。`DOMAINS.md` 是總表加缺口報告（未標註的 57 部）。三份都由 `build-index.py` 一次生成，不會各自漂移；`verify.py` 每跑一次就對拍一次，過期即 error，所以這頁的數字與 `annotations.json` 不會脫節。
+**查一個領域在全庫的段落，看 `00-overview/domains/<id>.md`，不要自己 grep `annotations.json`。**每頁按書分節，欄位是篇名／段序／姿態／摘句／判讀，另附「已通讀但本領域零命中」的書單——命中與零命中放在同一頁，是為了讓零不會被讀成沒人看過（SCHEMA §5）。`DOMAINS.md` 是總表加缺口報告（未標註的 54 部）。三份都由 `build-index.py` 一次生成，不會各自漂移；`verify.py` 每跑一次就對拍一次，過期即 error，所以這頁的數字與 `annotations.json` 不會脫節。
 
-`delegation/` 是發包工作區，依書分目錄（`jiuzhang/`、`yanshi-jiaxun/`、`shishuo-xinyu/`、`shenyijing/`、`dongmingji/`、`gu-sanfen/`、`nanjing/`、`shanghanlun/`、`jinkui-yaolue/`、`lienuzhuan/`）。每個目錄含 `SPEC.md`（判準）、`bNN.md`（切好的批次輸入）、`MANIFEST.json`（錨點清單，回填時雙向對照）、`out/bNN.json`（外部 agent 的判讀結果）。**這些是過程檔不是 canonical**，canonical 是回填後的 `translations/<slug>/annotations.json`。
+`delegation/` 是發包工作區，依書分目錄（`jiuzhang/`、`yanshi-jiaxun/`、`shishuo-xinyu/`、`shenyijing/`、`dongmingji/`、`gu-sanfen/`、`nanjing/`、`shanghanlun/`、`jinkui-yaolue/`、`lienuzhuan/`、小學四部）。每個目錄含 `SPEC.md`（判準）、`bNN.md`（切好的批次輸入）、`MANIFEST.json`（錨點清單，回填時雙向對照）、`out/bNN.json`（外部 agent 的判讀結果）。**這些是過程檔不是 canonical**，canonical 是回填後的 `translations/<slug>/annotations.json`。
 
 ## 標註工作流（標一部書就照這五步走）
 
@@ -142,7 +142,7 @@ apply("<slug>")
 - **`expected_chapter_count` 是驗證後凍結的觀測值，不是估計值**。verify 報章數不符＝結構真的變了，要判斷是修好還是弄壞，**不要反射性再同步一次數字**。
 - **索引不新鮮 = verify 紅燈，不是待辦**。`verify.py` 每次都把 `00-overview/` 重生到 tempdir 對拍（時間戳行剔除後比對），差一個字就報 error。所以標完一部書忘了跑 `build-index.py`，push 前的關卡會擋下來——**不要手改 `00-overview/` 底下任何檔案讓它「看起來對」**，改了下次對拍照樣紅。
 - **不動 `raw/original.txt`**。動了破 SHA-256。
-- **不把 `reference` 類（字書韻書）丟進心理學標註管線**。真價值在術語正規化。
+- **`reference` 不等於沒內容**。原規則是「字書韻書不進標註管線」，2026-08-09 探針把它打成兩半：說文 99.3% 判空、方言 98.7%，但**釋名 100 段命中、12／13 領域**。差別在方法——登錄式字書只說「這個字是什麼意思」，聲訓必須說「為什麼這樣叫」，而理由就是對人的判斷。可以預設不排批次，但要說「沒有」一樣得通讀。
 - **不用書級單一標籤打發內部異質性高的書**。孫子〈用間〉的認識論與〈九地〉的恐懼悖論掛同一個 `psych_tags` 會互相稀釋。
 - **不把跨文本命題對撞塞進 metadata**。同舟共濟 vs Robbers Cave 是內容產出，歸分析層。
 - **`null` 是「未標」不是「沒有」**。兩者混淆會讓負面結果失效。
