@@ -16,9 +16,11 @@ Usage:
 
 import argparse
 import hashlib
+import importlib.util
 import json
 import re
 import sys
+import tempfile
 from pathlib import Path
 
 from corpus_text import split_paragraphs
@@ -27,10 +29,12 @@ ROOT = Path(__file__).resolve().parent.parent
 CATALOG_DIR = ROOT / "scripts" / "catalog"
 TRANSLATIONS_DIR = ROOT / "translations"
 VOCAB_DIR = ROOT / "vocab"
+OVERVIEW_DIR = ROOT / "00-overview"
 
 MIN_BYTES = 1500
 CHAPTER_RE = re.compile(r"^=== (\d+) \| (.+) ===$")
 CONFIDENCE_VALUES = {"high", "medium", "low"}
+STAMP_RE = re.compile(r"generated_at|生成時間")
 
 
 def load_catalog() -> dict[str, dict]:
@@ -230,6 +234,36 @@ def check(slug: str, entry: dict, domain_ids: set[str], mode_ids: set[str]) -> t
     return errors, warnings, info
 
 
+def check_index_freshness() -> list[str]:
+    """A stale 00-overview/ silently under-reports coverage, and nothing else catches it.
+
+    Regenerate into a tempdir and diff. Timestamps differ on every run by design,
+    so they are stripped before comparing.
+    """
+    spec = importlib.util.spec_from_file_location(
+        "build_index", ROOT / "scripts" / "build-index.py")
+    build_index = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(build_index)
+
+    def norm(path: Path) -> list[str]:
+        return [ln for ln in path.read_text(encoding="utf-8").splitlines()
+                if not STAMP_RE.search(ln)]
+
+    with tempfile.TemporaryDirectory() as tmp:
+        fresh_dir = Path(tmp)
+        build_index.main(fresh_dir, quiet=True)
+        fresh = {p.relative_to(fresh_dir).as_posix() for p in fresh_dir.rglob("*") if p.is_file()}
+        on_disk = {p.relative_to(OVERVIEW_DIR).as_posix()
+                   for p in OVERVIEW_DIR.rglob("*") if p.is_file()} \
+            if OVERVIEW_DIR.exists() else set()
+
+        stale = [f"{rel} missing" for rel in sorted(fresh - on_disk)]
+        stale += [f"{rel} no longer generated" for rel in sorted(on_disk - fresh)]
+        stale += [f"{rel} out of date" for rel in sorted(fresh & on_disk)
+                  if norm(fresh_dir / rel) != norm(OVERVIEW_DIR / rel)]
+    return stale
+
+
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("--strict", action="store_true")
@@ -248,7 +282,11 @@ def main():
     for s in unknown:
         print(f"[ERROR] {s}: directory has no catalog entry")
 
-    n_err = len(unknown) + len(drift)
+    stale = check_index_freshness()
+    for s in stale:
+        print(f"[ERROR] 00-overview/{s} — 跑 scripts/build-index.py 重生")
+
+    n_err = len(unknown) + len(drift) + len(stale)
     n_warn = 0
     rows = []
     for slug in downloaded:

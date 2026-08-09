@@ -178,8 +178,8 @@
 | 行為規範 | `CLAUDE.md` | 與 religions-history 的分界、六條工作守則、七條 anti-pattern |
 | 書目 catalog | `scripts/catalog/chinese-classics-ws.json` | **73 條**（phase 1 共 68、phase 2 共 5），其中 `guangyun` 標 `excluded`，**實收 72 部**。全部走 Wikisource |
 | 下載器 | `scripts/download-wikisource.py` | 含 `--survey` 預檢模式（1 請求／部）先掃結構再花內容請求；`natural_sort_key` 會把「卷篇第部回」後的中文數字轉成阿拉伯數字再排（2026-08-09，見下方第 7 類問題）；`main()` 會過濾 catalog 裡標 `excluded` 的條目 |
-| 驗證 | `scripts/verify.py` | SHA-256／CRLF／過小檔／章標籤唯一性／同文章節／`psych_survey` 欄位存在 |
-| 索引 | `scripts/build-index.py` → `00-overview/INDEX.{json,md}`（書級）＋ `DOMAINS.md`（標籤索引總表 ＋ 缺口報告）＋ `domains/<id>.{md,json}`（段級反向索引，13 頁 3,647 筆） | 由資料生成，**不得手改** |
+| 驗證 | `scripts/verify.py` | SHA-256／CRLF／過小檔／章標籤唯一性／同文章節／`psych_survey` 欄位存在／**索引新鮮度**（重生到 tempdir 對拍，剔除時間戳行，差異即 error） |
+| 索引 | `scripts/build-index.py` → `00-overview/INDEX.{json,md}`（書級）＋ `DOMAINS.md`（標籤索引總表 ＋ 缺口報告）＋ `domains/<id>.{md,json}`（段級反向索引，13 頁 3,647 筆） | 由資料生成，**不得手改**；忘了重生會被 verify 擋下 |
 | 全文 | `translations/`（**72 部**：phase 1 共 68 ＋ phase 2 小學 4） | 已 commit |
 
 ### 使用者已定案的三項

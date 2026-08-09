@@ -133,6 +133,8 @@
 
 **標完一部書就重生索引。**段落級標註的價值只在反向索引裡兌現——書級 `domains_hit` 只能告訴你去哪本書找，那正是 SCHEMA §1.1 說不夠用的東西。索引沒重生，那部書等於還沒進檢索層。
 
+這條不靠記性：`verify.py` 會把 `00-overview/` 重生到 tempdir 對拍，過期就報 error，push 前的關卡自然擋下。**擋下來的正解是跑 `build-index.py`，不是去手改生成物。**
+
 ## 環境
 
 - Windows 11 + Git Bash + Python 3.12

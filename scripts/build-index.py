@@ -25,7 +25,6 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 TRANSLATIONS_DIR = ROOT / "translations"
 OVERVIEW_DIR = ROOT / "00-overview"
-DOMAINS_DIR = OVERVIEW_DIR / "domains"
 VOCAB_PATH = ROOT / "vocab" / "psych-domains.json"
 
 FIELDS = [
@@ -40,9 +39,10 @@ def cell(s: str) -> str:
     return (s or "").replace("|", "｜").replace("\n", " ").strip()
 
 
-def build_domain_index(records: list[dict], annotations: dict[str, list]) -> None:
+def build_domain_index(records: list[dict], annotations: dict[str, list],
+                       overview_dir: Path) -> dict[str, int]:
+    domains_dir = overview_dir / "domains"
     vocab = json.loads(VOCAB_PATH.read_text(encoding="utf-8"))["domains"]
-    order = [d["id"] for d in vocab]
     meta_by_slug = {r["slug"]: r for r in records}
 
     hits: dict[str, list[dict]] = defaultdict(list)
@@ -70,7 +70,7 @@ def build_domain_index(records: list[dict], annotations: dict[str, list]) -> Non
         for d in (r.get("domains_null") or []):
             nulls[d].append(r["slug"])
 
-    DOMAINS_DIR.mkdir(parents=True, exist_ok=True)
+    domains_dir.mkdir(parents=True, exist_ok=True)
     generated_at = datetime.now(timezone.utc).isoformat(timespec="seconds")
     hub_rows = []
 
@@ -80,7 +80,7 @@ def build_domain_index(records: list[dict], annotations: dict[str, list]) -> Non
         mode_count = Counter(m for h in rows for m in h["modes"])
         hub_rows.append((did, d["name_zh"], len(rows), len(by_book), len(nulls.get(did, []))))
 
-        (DOMAINS_DIR / f"{did}.json").write_bytes(
+        (domains_dir / f"{did}.json").write_bytes(
             (json.dumps({
                 "domain": did, "name_zh": d["name_zh"], "gist": d["gist"],
                 "generated_at": generated_at,
@@ -130,7 +130,7 @@ def build_domain_index(records: list[dict], annotations: dict[str, list]) -> Non
                     f"{cell(h['excerpt'])} | {co}{cell(h['note'])} |"
                 )
             out.append("")
-        (DOMAINS_DIR / f"{did}.md").write_bytes("\n".join(out).encode("utf-8"))
+        (domains_dir / f"{did}.md").write_bytes("\n".join(out).encode("utf-8"))
 
     unannotated = [r for r in records if not r["annotated"]]
     hub = [
@@ -160,11 +160,11 @@ def build_domain_index(records: list[dict], annotations: dict[str, list]) -> Non
         hub.append(f"- `{r['slug']}` {r['name_zh']}（{r['category']}，"
                    f"{r['chapter_count']} 章，{r['size_bytes']:,} bytes）")
     hub.append("")
-    (OVERVIEW_DIR / "DOMAINS.md").write_bytes("\n".join(hub).encode("utf-8"))
+    (overview_dir / "DOMAINS.md").write_bytes("\n".join(hub).encode("utf-8"))
     return {did: n for did, _, n, _, _ in hub_rows}
 
 
-def main() -> None:
+def main(overview_dir: Path = OVERVIEW_DIR, quiet: bool = False) -> None:
     records = []
     annotations: dict[str, list] = {}
     for meta_path in sorted(TRANSLATIONS_DIR.glob("*/meta.json")):
@@ -207,9 +207,9 @@ def main() -> None:
         "domain_hit_counts": dict(sorted(domain_count.items())),
     }
 
-    OVERVIEW_DIR.mkdir(exist_ok=True)
-    summary["domain_para_counts"] = build_domain_index(records, annotations)
-    (OVERVIEW_DIR / "INDEX.json").write_bytes(
+    overview_dir.mkdir(parents=True, exist_ok=True)
+    summary["domain_para_counts"] = build_domain_index(records, annotations, overview_dir)
+    (overview_dir / "INDEX.json").write_bytes(
         (json.dumps({"summary": summary, "texts": records}, ensure_ascii=False, indent=2) + "\n")
         .encode("utf-8")
     )
@@ -245,9 +245,10 @@ def main() -> None:
             f"{'✓' if r['surveyed'] else '—'} | {ann} |"
         )
     lines.append("")
-    (OVERVIEW_DIR / "INDEX.md").write_bytes(("\n".join(lines)).encode("utf-8"))
+    (overview_dir / "INDEX.md").write_bytes(("\n".join(lines)).encode("utf-8"))
 
-    print(json.dumps(summary, ensure_ascii=False, indent=2))
+    if not quiet:
+        print(json.dumps(summary, ensure_ascii=False, indent=2))
 
 
 if __name__ == "__main__":
