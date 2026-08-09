@@ -1,7 +1,7 @@
 # 索引
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 生成時間 2026-08-09T06:39:15+00:00｜68 部｜10,528,533 bytes｜已通讀 14 部｜已段落標註 14 部（5034 段）｜僅有骨架待標 0 部（0 段）
+> 生成時間 2026-08-09T07:28:36+00:00｜72 部｜11,304,281 bytes｜已通讀 14 部｜已段落標註 14 部（5034 段）｜僅有骨架待標 0 部（0 段）
 
 ## 分類統計
 
@@ -13,6 +13,7 @@
 | 術數 | 5 |
 | 法家 | 5 |
 | 雜家 | 4 |
+| 小學 | 4 |
 | 算書 | 4 |
 | 人論 | 4 |
 | 雜著 | 4 |
@@ -53,6 +54,10 @@
 | `gongsun-longzi` | 公孫龍子 | 名家 | original | 7 | 34,526 | — | — |
 | `lusheng-mobian-zhuxu` | 魯勝墨辯注敘 | 名家 | original | 1 | 1,091 | — | — |
 | `shuijingzhu` | 水經注 | 地理 | original | 137 | 1,131,449 | — | — |
+| `fangyan` | 方言 | 小學 | reference | 16 | 63,179 | — | — |
+| `jijiupian` | 急就篇 | 小學 | reference | 5 | 134,675 | — | — |
+| `shiming` | 釋名 | 小學 | reference | 27 | 78,465 | — | — |
+| `shuowen-jiezi` | 說文解字 | 小學 | reference | 530 | 499,538 | — | — |
 | `dongmingji` | 洞冥記 | 志怪 | original | 4 | 19,558 | ✓ | 63/63 |
 | `shenyijing` | 神異經 | 志怪 | original | 10 | 15,871 | ✓ | 61/61 |
 | `wenxin-diaolong` | 文心雕龍 | 文論 | original | 52 | 148,000 | — | — |
@@ -82,7 +87,7 @@
 | `yantielun` | 鹽鐵論 | 雜史 | original | 60 | 183,285 | ✓ | 346/346 |
 | `yanzi-chunqiu` | 晏子春秋 | 雜史 | original | 215 | 167,041 | — | — |
 | `yi-zhoushu` | 逸周書 | 雜史 | original | 66 | 170,111 | — | — |
-| `yuejueshu` | 越絕書 | 雜史 | original | 19 | 116,056 | — | — |
+| `yuejueshu` | 越絕書 | 雜史 | original | 19 | 115,947 | — | — |
 | `zhanguoce` | 戰國策 | 雜史 | original | 511 | 1,381,483 | — | — |
 | `zhushu-jinian` | 竹書紀年 | 雜史 | contested | 6 | 52,376 | — | — |
 | `dengxizi` | 鄧析子 | 雜家 | original | 2 | 11,380 | — | — |

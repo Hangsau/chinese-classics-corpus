@@ -84,7 +84,37 @@ def api_get(params: dict) -> dict:
     raise RuntimeError(f"max retries exceeded for {params}")
 
 
+_CN_DIGITS = {"〇": 0, "零": 0, "一": 1, "二": 2, "兩": 2, "三": 3, "四": 4,
+              "五": 5, "六": 6, "七": 7, "八": 8, "九": 9}
+# 只轉「卷／篇／第／部／回」後面緊接的中文數字，不碰書名裡的數字（三國志、六韜）。
+_CN_ORDINAL = re.compile(r"(?<=[卷篇第部回])[〇零一二三四五六七八九十百千兩]+")
+
+
+def _cn_to_int(s: str) -> int | None:
+    total = section = num = 0
+    for ch in s:
+        if ch in _CN_DIGITS:
+            num = _CN_DIGITS[ch]
+        elif ch == "十":
+            section += (num or 1) * 10
+            num = 0
+        elif ch == "百":
+            section += (num or 1) * 100
+            num = 0
+        elif ch == "千":
+            total += (section + (num or 1)) * 1000
+            section = num = 0
+        else:
+            return None
+    return total + section + num
+
+
 def natural_sort_key(s: str) -> tuple:
+    # Wikisource 的卷級子頁多用中文數字（方言/卷一、洞冥記/卷第一）。不先轉成阿拉伯
+    # 數字，就會按 codepoint 排成「一 七 三 九 二」——全書順序整個亂掉，而錨點是
+    # (chapter, para_index) 所以標註仍對得上，錯誤不會被 verify 抓到。2026-08-09 下載
+    # 小學五部時發現，當時已有洞冥記等五部落地。
+    s = _CN_ORDINAL.sub(lambda m: str(_cn_to_int(m.group()) or m.group()), s)
     parts = re.split(r"(\d+)", s)
     return tuple((int(p) if p.isdigit() else p) for p in parts)
 
@@ -438,17 +468,22 @@ def main():
     args = p.parse_args()
 
     entries = load_catalog()
+    # excluded 的條目留在 catalog 裡而不刪除，理由寫在 excluded_reason——刪掉的話
+    # 下一個人只會再抓一次同一份殘本，然後再查一次為什麼只有 6 KB。
+    live = [e for e in entries if not e.get("excluded")]
     if args.slug:
         selected = [e for e in entries if e["slug"] == args.slug]
         if not selected:
             sys.exit(f"slug not in catalog: {args.slug}")
+        if selected[0].get("excluded"):
+            sys.exit(f"{args.slug} 已排除：{selected[0].get('excluded_reason')}")
     elif args.category:
-        selected = [e for e in entries if e["category"] == args.category
+        selected = [e for e in live if e["category"] == args.category
                     and e.get("phase", 1) == args.phase]
         if not selected:
             sys.exit(f"no phase-{args.phase} entries in category: {args.category}")
     elif args.all:
-        selected = [e for e in entries if e.get("phase", 1) == args.phase]
+        selected = [e for e in live if e.get("phase", 1) == args.phase]
     else:
         p.print_help()
         return

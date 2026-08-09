@@ -1,0 +1,22 @@
+{
+  "slug": "fangyan",
+  "name_zh": "方言",
+  "name_en": "Fangyan",
+  "category": "小學",
+  "text_role": "reference",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "西漢",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/方言",
+  "downloaded_at": "2026-08-09T07:22:28+00:00",
+  "size_bytes": 63179,
+  "checksum_sha256": "0d922f498ddec9dcd9227ba30bbda964a1c34b200e10195835396acc98ebd509",
+  "chapter_count": 16,
+  "expected_chapter_count": 13,
+  "license": "CC BY-SA 4.0",
+  "verified": false,
+  "tier": "重要",
+  "psych_survey": null,
+  "notes": null
+}

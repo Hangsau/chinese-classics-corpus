@@ -1,0 +1,22 @@
+{
+  "slug": "jijiupian",
+  "name_zh": "急就篇",
+  "name_en": "Jijiupian",
+  "category": "小學",
+  "text_role": "reference",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "西漢",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/急就篇",
+  "downloaded_at": "2026-08-09T07:22:37+00:00",
+  "size_bytes": 134675,
+  "checksum_sha256": "ec4a106e6ce4b1465ac8ec5eef1255b92f4a8a408289ad891809ef4ea105a895",
+  "chapter_count": 5,
+  "expected_chapter_count": 4,
+  "license": "CC BY-SA 4.0",
+  "verified": false,
+  "tier": "重要",
+  "psych_survey": null,
+  "notes": null
+}

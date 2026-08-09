@@ -557,7 +557,9 @@
       "version": "Wikisource 通行本",
       "version_date": "東漢",
       "tier": "核心",
-      "expected_chapter_count": 15
+      "expected_chapter_count": 540,
+      "coverage_note": "來源 說文解字/01 的卷一上（一部、丄部、示部、三部、王部、玉部、𤤴部、气部、士部、丨部、屮部 共 11 部）用 <table class=\"wikitable\"> 小篆圖表版式排版，抽取器只吃 <dd>/<p>，這 11 部的說解整段取不到、章節因空內容被丟棄。卷一下（艸部）之後改用 <dd>，正常。落地 529 部 + 卷十五敘 = 530 章，缺 11/540（2%）。text_role=reference 不進標註管線，暫不補。2026-08-09 確認。",
+      "note": "缺卷一上 11 部，見 coverage_note。"
     },
     {
       "slug": "shiming",
@@ -571,7 +573,8 @@
       "version": "Wikisource 通行本",
       "version_date": "東漢",
       "tier": "核心",
-      "expected_chapter_count": 8
+      "expected_chapter_count": 27,
+      "structure_note": "釋名 27 篇分繫 8 卷，Wikisource 以篇為子頁，落地章數是 27 不是 8。"
     },
     {
       "slug": "fangyan",
@@ -613,7 +616,9 @@
       "version": "Wikisource 通行本",
       "version_date": "北宋",
       "tier": "核心",
-      "expected_chapter_count": 5
+      "expected_chapter_count": 5,
+      "excluded": true,
+      "excluded_reason": "zh.wikisource 只有 廣韻/上平聲卷 一個殘頁，內容僅上平一東的十個小韻（東同中蟲終忡崇嵩戎弓），6,399 bytes，全書 206 韻缺 196。不符收錄判準第二條「有乾淨全文」。2026-08-09 抓 phase 2 小學類時確認。"
     },
     {
       "slug": "yanshi-jiaxun",

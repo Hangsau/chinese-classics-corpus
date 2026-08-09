@@ -1,0 +1,22 @@
+{
+  "slug": "shiming",
+  "name_zh": "釋名",
+  "name_en": "Shiming",
+  "category": "小學",
+  "text_role": "reference",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "東漢",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/釋名",
+  "downloaded_at": "2026-08-09T07:28:28+00:00",
+  "size_bytes": 78465,
+  "checksum_sha256": "4a36b37ef0cb1a7578d98f08d22f923cc0726bb0cc991d5e1daba251398b400c",
+  "chapter_count": 27,
+  "expected_chapter_count": 27,
+  "license": "CC BY-SA 4.0",
+  "verified": false,
+  "tier": "核心",
+  "psych_survey": null,
+  "notes": null
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "shuowen-jiezi",
+  "name_zh": "說文解字",
+  "name_en": "Shuowen Jiezi",
+  "category": "小學",
+  "text_role": "reference",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "東漢",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/說文解字",
+  "downloaded_at": "2026-08-09T07:27:41+00:00",
+  "size_bytes": 499538,
+  "checksum_sha256": "851211705af8301d9ecd2da200d3af9e8ad8125e49db4f1302945fb285a59d43",
+  "chapter_count": 530,
+  "expected_chapter_count": 540,
+  "license": "CC BY-SA 4.0",
+  "verified": false,
+  "tier": "核心",
+  "psych_survey": null,
+  "notes": "缺卷一上 11 部，見 coverage_note。"
+}
