@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-08-09T05:42:41+00:00",
+    "generated_at": "2026-08-09T06:15:30+00:00",
     "text_count": 68,
     "total_bytes": 10528533,
     "by_category": {
@@ -26,10 +26,10 @@
       "original": 66,
       "contested": 2
     },
-    "surveyed_count": 11,
-    "annotated_count": 11,
+    "surveyed_count": 12,
+    "annotated_count": 12,
     "scaffolded_count": 0,
-    "paras_judged": 3267,
+    "paras_judged": 3510,
     "paras_pending": 0,
     "domain_hit_counts": {
       "I": 4,
@@ -40,7 +40,7 @@
       "V": 9,
       "VI": 6,
       "VII": 7,
-      "VIII": 7,
+      "VIII": 8,
       "X": 7,
       "XI": 6,
       "XII": 8,
@@ -597,11 +597,13 @@
       "size_bytes": 45958,
       "chapter_count": 81,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [
+        "VIII"
+      ],
+      "paras_total": 243,
+      "paras_judged": 243,
+      "annotated": true
     },
     {
       "slug": "qianfulun",

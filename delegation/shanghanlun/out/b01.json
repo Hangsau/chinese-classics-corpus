@@ -1,0 +1,544 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {
+      "chapter": "林億校序",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "僅列王叔和編次與林億校正的署名事實，未談人的處境或人生問題"
+    },
+    {
+      "chapter": "林億校序",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "僅列趙開美校刻與沈琳同校的署名事實，沒有可歸入人生領域的內容"
+    },
+    {
+      "chapter": "林億校序",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "以神農、伊尹、張仲景至王叔和的承襲論證本書醫法淵源，所談仍是醫學體系的傳承而非人的處境"
+    },
+    {
+      "chapter": "林億校序",
+      "para_index": 4,
+      "domains": ["VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "敘述張仲景從師、任官、著述及後世校書者能否修明其學，核心涉及專業才能、成就與知識工作的承續"
+    },
+    {
+      "chapter": "林億校序",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation", "prescription"],
+      "reason": "報告校定卷篇、法方數量並請求頒行，屬書籍編校與行政處置而非人生問題"
+    },
+    {
+      "chapter": "林億校序",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "僅記高保衡的官銜與署名，沒有談人的內在、關係或生命處境"
+    },
+    {
+      "chapter": "林億校序",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "僅記孫奇的官銜與署名，沒有可標註的人生領域"
+    },
+    {
+      "chapter": "林億校序",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "僅記林億的官銜與署名，未形成關於人的處境或價值的論述"
+    },
+    {
+      "chapter": "張仲景原序",
+      "para_index": 1,
+      "domains": ["I", "IX"],
+      "modes": ["expression", "proposition"],
+      "reason": "作者慨嘆世人逐名利而輕忽養生，並以患病後束手失命反問生命所本，兼論人生取向與人在疾病中的身體處境"
+    },
+    {
+      "chapter": "張仲景原序",
+      "para_index": 2,
+      "domains": ["X", "VIII"],
+      "modes": ["expression", "narrative"],
+      "reason": "自陳宗族二百人十年內死去三分之二，因傷橫夭之莫救而勤求古訓著書，是以親歷重大失去說明醫學志業的由來"
+    },
+    {
+      "chapter": "張仲景原序",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "從五行、五臟與陰陽經絡論醫理幽微並列舉古代醫家，內容是醫學知識體系與認知難度，未另談人生處境"
+    },
+    {
+      "chapter": "張仲景原序",
+      "para_index": 4,
+      "domains": ["VIII", "V"],
+      "modes": ["observation", "proposition"],
+      "reason": "批評醫者不求經旨、草率問診即處方，既責其專業實踐，也指出其未盡對病家的照護責任"
+    },
+    {
+      "chapter": "張仲景原序",
+      "para_index": 5,
+      "domains": ["II"],
+      "modes": ["expression", "proposition"],
+      "reason": "引孔子的知學階序後自陳素尚方術並願依此而行，是作者對自身學習位置與認同的表明"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "分類陰陽脈並用以判定病者生死，死亡僅是技術性的預後指標，未書寫人的死亡處境"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "依脈、飲食與排便區分陰結陽結並預測加劇日期，僅在建立病候與病程分類"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "以陰陽脈不足和彼此乘入解釋惡寒發熱，所述是病機推論而非病中人的內在處境"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "由陽脈浮、陰脈弱推至血虛筋急，僅說明脈象與病機的因果關係"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "以浮脈和流珠般出汗辨為衛氣衰，內容只是在識別身體病候"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "說明榮氣微時加燒針會令血行受阻並增熱躁煩，屬治療反應的病機推論"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "用車蓋比喻脈象並命名為陽結，僅是脈象分類"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "用循長竿比喻脈象並命名為陰結，沒有超出診斷分類"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "以羹上浮脂形容脈象並判為陽氣微，只在辨識生理病候"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "以蜘蛛絲形容脈象並判為陽氣衰，未談身體限制對人的意義"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "以瀉漆將絕形容脈象並辨為失血，失血在此只是診斷對象"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "由陰陽相搏推導汗出、發熱與三焦受傷，是對脈象和症狀機理的說明"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 13,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "以陰陽兩部脈同樣浮大而濡定義緩脈，內容僅為脈象分類"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 14,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "分別描述弦脈與緊脈的觸感和比喻，沒有談診斷技術之外的人生問題"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 15,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "以弦大脈推寒虛相搏及男女相應病候，身體與生殖表現均作為技術性病機分類"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 16,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "由浮數而不芤推知本不虛及自解時只汗不戰，屬診斷與病程推論"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 17,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "以曾經汗吐下或亡血、津液不足和陰陽自和解釋不戰不汗而愈，僅論病機"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 18,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "以三處脈象均等作為雖有寒熱而終將痊癒的預後判準，未談患病者的生活處境"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 19,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "用發病時刻與陰陽相得解釋何時痊癒，屬病程時序的原理推演"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 20,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "由趺陽、少陰諸脈推脾胃虛實及下利膿便，通篇是脈證之間的診斷推論"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 21,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "追溯誤下後脈變與便硬、飢渴、惡瘡等症狀的機理，所責仍是技術性的病因與病程"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 22,
+      "domains": [],
+      "modes": ["observation", "prescription"],
+      "reason": "先規定何時攻治及禁汗禁利，後列五臟將絕與死亡徵象，生死皆作臨床處置和預後分類"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 23,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "以脈象推胃虛、噦與衂，並把噦歸因於醫者誤治，仍只判定技術性病因而未展開職業責任"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 24,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "依浮遲脈、面赤戰惕與發熱判汗解遲速及身癢，僅描述病候和預後"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 25,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "從清濁邪入上下焦推演全身症候至命難保的病機鏈，死亡只是病程終點而非人的失去處境"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 26,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "以吐利後脈緊是否解除及能否進食判斷病解未解，屬病程辨識"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 27,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "把脈至、煩躁、目重和眼瞼色澤列為將解徵象，只在判讀預後"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 28,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "以浮滑相搏、脈數和衛氣失度解釋發熱汗出而不治，內容是病機與預後推論"
+    },
+    {
+      "chapter": "辨脉法第一",
+      "para_index": 29,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "由傷寒欬逆、脈散與形損推斷死亡，僅是疾病的技術性死候"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "系統化三部脈、時令循環與各脈所主病因並給出診察路徑，屬可操作的診脈體系而非人生領域"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "以病家來請、醫者到診的具體情境說明如何由相反脈象判定已愈，人物情節只承載診斷推理"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "以腹痛病人坐起和醫者切脈的情境推知病已愈，仍是臨床判別的示例"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "用醫者探視、辨認詐病並告以吐下針灸的情境規定辨詐方法，互動僅服務於診斷程序"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "把欠伸、呻吟、言行姿態逐一配對病與痛處，僅以外在行為作診斷徵象"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "由伏氣和微弱脈推喉痛及將下利，通篇只是在預測隱伏病候"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "只把恐怖配對特定脈形與面白失色，情緒在此是診脈對象而非內在經驗的書寫"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "以不飲者的濇脈和口乾作症候配對，內容限於身體狀態辨識"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "只把羞愧配對浮脈與面色變化，未描述當事人的內在生活或處境"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["formalization", "observation"],
+      "reason": "用三至十二菽及按至骨的力度定位五臟之氣，再依脈見判難治，屬量化診脈程序"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把五行相乘的固定配對編成縱、橫、逆、順四類，是醫理分類矩陣而非人生問題"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "將弦緊浮滑沉濇六脈命名為能致病的殘賊脈，僅作脈象分類"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 13,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "以煎湯送回後病人忽然吐利的情節，推論舊藥延後發作造成病情變異，所述仍是臨床病因"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 14,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "定義心脈及其表裏、汗出、關格與死候，死亡僅是脈診預後項目"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 15,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "以月份、肝肺脈和五行相剋推斷秋死，屬技術性的預後原理而非死亡經驗"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 16,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "按胖瘦者應有的浮沉脈判定反常，身形只作診脈基準"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 17,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "以寸尺脈不到關判陰陽絕並計算死期，僅提供不可治與預後規則"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 18,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "把脈病人不病與人病脈不病分成行尸、內虛並判死困，仍屬脈證分類而未談受苦或死亡處境"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 19,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "分別以亡汗吐、飲冷水和胃虛冷解釋緊脈成因，是病機因果推論"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 20,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "依榮衛盛弱和緩遲的組合命名高、章、綱、惵、卑、損與沉，僅是脈象術語分類"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 21,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "由趺陽滑緊推胃實脾強及相擊自傷，持刃作瘡只是說明病機的比喻"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 22,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "以伏濇脈配對吐逆、食不得入並命名關格，內容限於病候辨識"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 23,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "由弱遲脈推衛微榮寒，再解釋發熱、飢而不能食，僅陳述病機因果"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 24,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "以趺陽大緊預測下利且難治，只是診斷和預後判語"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 25,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "以浮緊相搏推腹滿絞痛、腸鳴氣動與陰腫，通篇為脈證病機推演"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 26,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "由趺陽沉數緊判實、消穀與難治，僅是脈象和預後分類"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 27,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "以衛衰榮不足及根葉比喻解釋面色和寒慄欬逆，所述為生理病機"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 28,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "由衛疏胃實說明穀水化血和三焦絕經所致血崩，是身體運化的病機論述"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 29,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "以微緊脈代表虛寒相搏並推至短氣，僅有病機因果"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 30,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "把少陰弱濇脈分別配對微煩與厥逆，只在列舉診斷徵象"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 31,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "以趺陽脈不出辨脾失升降及身冷膚硬，內容僅是病候判定"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 32,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "由寸微尺緊判虛損多汗與陰在陽絕，只建立脈象和病況的對應"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 33,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "把各類脈象推至亡陽亡血、寒厥及失語戰慄並解釋胃脾原因，通篇是診斷病機"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 34,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "以五臟六腑相乘解釋濡弱脈有十一頭，僅陳述脈理原則"
+    },
+    {
+      "chapter": "平脉法第二",
+      "para_index": 35,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "以陽脈浮數和陰脈遲濇區分乘腑乘臟，內容只作脈象分類"
+    }
+  ]
+}
