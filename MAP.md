@@ -11,7 +11,7 @@
 | 改標註欄位、加 `discourse_mode` 值 | `SCHEMA.md` §1–§2，改動前先在 `pilots/` 驗證 |
 | 理解為什麼標註要下放到段落級 | `pilots/2026-07-28-sunzi-jiuzhang.md` §3–§4 |
 | 改 downloader | `CLAUDE.md` §4 爬蟲倫理 + 本檔 §下載器結構陷阱（**五類已修過的問題，別退回去**） |
-| 查某部書在不在清單、為何某部結構特殊 | `scripts/catalog/chinese-classics-ws.json`（73 部，特殊處置寫在該部的 `structure_note` / `coverage_note`） |
+| 查某部書在不在清單、為何某部結構特殊 | `scripts/catalog/chinese-classics-ws.json`（73 條、實收 72 部，特殊處置寫在該部的 `structure_note` / `coverage_note` / `excluded_reason`） |
 | 抓完驗證 | `PYTHONIOENCODING=utf-8 python scripts/verify.py`；重生索引 `... scripts/build-index.py` |
 | 跑心理學標註 | 先讀 `SCHEMA.md` §3 分流 `text_role`，`reference` 類不進管線 |
 | 標一部新書 | **預設走發包**，完整八步寫在 `HANDOFF.md` §下一步第 3 條：`make-delegation-input.py` 切批 → 寫 `delegation/<slug>/SPEC.md` → **先發 b01 試點、校準結果補回 spec 才放行其餘批** → `check-delegation-out.py` 檢查 → `apply-delegation.py` 回填。不發包時才用本檔 §標註工作流的手工五步 |
@@ -35,7 +35,9 @@ vocab/             13 人生問題領域（psych-domains.json）與 discourse_mo
                    ——標註判準的真相源，與 religions-history 共用，改動要兩邊同步
 scripts/catalog/   書目 canonical（只有 *-ws.json；ctext 路線已整條移除）
 scripts/corpus_text.py           段落切分單一來源（make-scaffold 與 verify 共用）
-scripts/download-wikisource.py   下載器，含 --survey 預檢模式
+scripts/download-wikisource.py   下載器，含 --survey 預檢模式；natural_sort_key 會先把「卷篇第部回」
+                                 後的中文數字轉阿拉伯數字（否則章序按 codepoint 排成一七三九二）；
+                                 會跳過 catalog 裡標 excluded 的條目
 scripts/make-scaffold.py         由本文生成標註骨架（錨點自動產，人只填 null）
 scripts/annotate.py              回填工具：put()／span() 寫對照表，apply() 雙向檢查後落盤；
                                  `annotate.py stats <slug>` 直接吐 psych_survey 要的數字
@@ -49,9 +51,9 @@ translations/<slug>/
 00-overview/       生成物（INDEX.json / INDEX.md），不手改
 ```
 
-`translations/` 已有 68 部（phase 1 全數），`00-overview/` 已生成。`annotations.json` 目前 14 部（`sunzi-bingfa` 91 段、`jiuzhang-suanshu` 720 段、`haidao-suanjing` 24 段、`renwuzhi` 229 段、`qianfulun` 268 段、`yantielun` 346 段、`yanshi-jiaxun` 255 段、`shishuo-xinyu` 1,132 段、`shenyijing` 61 段、`dongmingji` 63 段、`gu-sanfen` 78 段、`nanjing` 243 段、`shanghanlun` 728 段、`jinkui-yaolue` 796 段），共 5,034 段；其餘 54 部的 `psych_survey` 仍是 `null`＝未通讀。
+`translations/` 已有 **72 部**（phase 1 共 68 ＋ phase 2 小學 4：`shuowen-jiezi`／`shiming`／`fangyan`／`jijiupian`；`guangyun` 上游殘缺已在 catalog 標 `excluded`），`00-overview/` 已生成。`annotations.json` 目前 **15 部**（`sunzi-bingfa` 91 段、`jiuzhang-suanshu` 720 段、`haidao-suanjing` 24 段、`renwuzhi` 229 段、`qianfulun` 268 段、`yantielun` 346 段、`yanshi-jiaxun` 255 段、`shishuo-xinyu` 1,132 段、`shenyijing` 61 段、`dongmingji` 63 段、`gu-sanfen` 78 段、`nanjing` 243 段、`shanghanlun` 728 段、`jinkui-yaolue` 796 段、`lienuzhuan` 208 段），共 **5,242 段**；其餘 53 部的 `psych_survey` 仍是 `null`＝未通讀。
 
-`delegation/` 是發包工作區，依書分目錄（`jiuzhang/`、`yanshi-jiaxun/`、`shishuo-xinyu/`、`shenyijing/`、`dongmingji/`、`gu-sanfen/`、`nanjing/`、`shanghanlun/`、`jinkui-yaolue/`）。每個目錄含 `SPEC.md`（判準）、`bNN.md`（切好的批次輸入）、`MANIFEST.json`（錨點清單，回填時雙向對照）、`out/bNN.json`（外部 agent 的判讀結果）。**這些是過程檔不是 canonical**，canonical 是回填後的 `translations/<slug>/annotations.json`。
+`delegation/` 是發包工作區，依書分目錄（`jiuzhang/`、`yanshi-jiaxun/`、`shishuo-xinyu/`、`shenyijing/`、`dongmingji/`、`gu-sanfen/`、`nanjing/`、`shanghanlun/`、`jinkui-yaolue/`、`lienuzhuan/`）。每個目錄含 `SPEC.md`（判準）、`bNN.md`（切好的批次輸入）、`MANIFEST.json`（錨點清單，回填時雙向對照）、`out/bNN.json`（外部 agent 的判讀結果）。**這些是過程檔不是 canonical**，canonical 是回填後的 `translations/<slug>/annotations.json`。
 
 ## 標註工作流（標一部書就照這五步走）
 
@@ -92,7 +94,7 @@ apply("<slug>")
 - Console 是 cp950，所有 Python 一律 `PYTHONIOENCODING=utf-8 python ...`。
 - commit 時出現 `CRLF will be replaced by LF` 是 `.gitattributes` 正常運作，**不要據此去 `git rm --cached`**（踩過一次，差點誤刪已標檔）。
 
-## 下載器結構陷阱（五類已修過，改 downloader 前先看）
+## 下載器結構陷阱（六類已修過，改 downloader 前先看）
 
 段落級錨點靠篇名（SCHEMA §4），以下每一類都會把錨點毀掉：
 
@@ -103,8 +105,9 @@ apply("<slug>")
 | 卷級子頁沒往下切到篇 | 章標籤全是「卷N」 | 子頁本文再切一層；例外用 `no_subpage_split`（竹書紀年，698 條紀事切下去全是「元年」互撞） |
 | 重定向對只差一行標題 | 切分後才出現同文章節 | 切分**之後**再依本文雜湊去重，保留較具體的標籤 |
 | **獨篇子頁：一卷只含一篇時篇名整個丟掉** | 章標籤是「卷第N」這種只有卷序沒有篇名的字串 | `split_by_headings` 要 ≥2 個標題才肯切，獨篇子頁因此保留卷名。`adopt_sole_heading()`：只有一個內層標題時不切、改拿它當標籤（2026-08-09）。`verify.py` 已加序號型標籤警告，未重抓的 8 部見 HANDOFF |
+| **中文數字卷名按 codepoint 排序，全書章序亂掉** | 章序長成「卷第一 卷第三 卷第二 卷第四」 | `natural_sort_key` 原本只認阿拉伯數字。加 `_cn_to_int()` ＋ `_CN_ORDINAL`（只轉「卷篇第部回」後緊接的中文數字，不碰三國志、六韜這種書名數字）。**這一類不會被任何既有檢查抓到**——錨點是 `(chapter, para_index)` 所以標註仍對得上，`verify.py` 也不驗章序。新抓一部書要用眼睛掃一次章標籤順序（2026-08-09，洞冥記等 5 部） |
 
-其他 catalog 旗標：`force_single_page`（正文在根頁）、`wikisource_subpages_explicit`（正文只在通常被當導航排除的 `/全覽`）。
+其他 catalog 旗標：`force_single_page`（正文在根頁）、`wikisource_subpages_explicit`（正文只在通常被當導航排除的 `/全覽`）、`excluded` ＋ `excluded_reason`（上游殘缺到不符收錄判準第二條，如 `guangyun`。**條目留著不刪**，否則下一個人只會再抓一次同一份殘本）。
 
 ## 與其他專案的關係
 
@@ -125,6 +128,9 @@ apply("<slug>")
 - **XIII 的有無取決於「有沒有人替自身處境說話」，不取決於書的體裁**。孫子、潛夫論皆缺，曾據此推測是世俗實務書通例；鹽鐵論命中 3 段推翻了——它的文學／賢良是在野一方，必須替自己的貧賤辯護，才會轉向「人可以如何與之相處」。
 - **對話體會製造第四種空白：對話機制**。鹽鐵論 22 段空白幾乎全是轉場套語與敘事引導，不是 Z-wisdom、不是真的沒有、也不是體例摻雜。另注意同一種場面調度會因字數落在 `corpus_text` 12 字下限兩側而分裂成「佔段落」與「不佔段落」兩類，計數時要當心。
 - **`formalization` 不綁數學，也不綁制度**。人物志〈材能〉的「某能→某材→某任→某政」對照表、潛夫論〈考績〉的貢士賞罰遞加、〈夢列〉的十類夢判讀口訣，加上鹽鐵論的財政機制（〈本議〉均輸平準）、禮制曆法（〈論菑〉月令行刑時序）、判案準則（〈刑德〉春秋論心定罪），已橫跨算術／人事／財政／曆法／司法五類。它是形式**特徵**不是題材類別。判準只有一條：規範被寫成可執行程序。
+- **高判空不等於判準保守，這件事已經被兩端夾住**。九章 99% 判空與列女傳 4% 判空（96% 命中、12／13）出自同一道閘門、同一發包管道、同一模型。**看到連續幾部判空率高時，先問是不是體裁，別急著鬆判準。**
+- **`discourse_mode` 分佈不承載領域訊息**。傷寒論 `observation` 51% ＋ 98% 判空、列女傳 `observation` 53% ＋ 4% 判空；金匱四個 mode 接近均勻卻是本庫最高判空。**mode 是體裁指紋，不是命中訊號。**
+- **試點的驗收條件要事先寫成幾格，不是整體印象**。列女傳只發一批試點就全書放行，依據是事前指定的三格：III 落點逐段回查原文、XII 不得被感生神話觸發、零段疊三領域。「看起來判得不錯」不算驗收。
 - **空白段有三種成因，別混為一談**。① 被 `Z-wisdom` 吸走（九章割圓術、人物志方法論外殼）；② 真的沒有（海島算經）；③ 體例摻雜——那些段根本不是同一種文本（潛夫論的姓氏譜系 18 段＋附錄版本層 42 段）。三者在 `psych_domains: []` 裡長得一模一樣。
 - **附錄／序跋／著錄要從分母裡拿掉**。潛夫論 268 段有 52 段（19%）是本傳、清人序跋、歷代著錄、佚文。算領域密度用本文段數，處置寫在該部 `psych_survey.structure_notes`。
 - **不對 ctext.org 跑批量下載**。明文禁止，違者無預警封鎖；religions-history 已踩過 200/24h。本庫現在完全不碰 ctext。
