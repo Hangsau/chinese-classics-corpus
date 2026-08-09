@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-08-09T07:28:36+00:00",
+    "generated_at": "2026-08-09T08:06:59+00:00",
     "text_count": 72,
     "total_bytes": 11304281,
     "by_category": {
@@ -28,25 +28,25 @@
       "reference": 4,
       "contested": 2
     },
-    "surveyed_count": 14,
-    "annotated_count": 14,
+    "surveyed_count": 15,
+    "annotated_count": 15,
     "scaffolded_count": 0,
-    "paras_judged": 5034,
+    "paras_judged": 5242,
     "paras_pending": 0,
     "domain_hit_counts": {
       "I": 5,
-      "II": 8,
-      "III": 7,
-      "IV": 11,
-      "IX": 7,
-      "V": 10,
-      "VI": 6,
-      "VII": 9,
-      "VIII": 10,
-      "X": 8,
-      "XI": 6,
-      "XII": 9,
-      "XIII": 5
+      "II": 9,
+      "III": 8,
+      "IV": 12,
+      "IX": 8,
+      "V": 11,
+      "VI": 7,
+      "VII": 10,
+      "VIII": 11,
+      "X": 9,
+      "XI": 7,
+      "XII": 10,
+      "XIII": 6
     }
   },
   "texts": [
@@ -545,11 +545,24 @@
       "size_bytes": 146795,
       "chapter_count": 104,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII"
+      ],
+      "paras_total": 208,
+      "paras_judged": 208,
+      "annotated": true
     },
     {
       "slug": "liutao",
