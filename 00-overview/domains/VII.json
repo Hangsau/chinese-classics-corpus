@@ -2,9 +2,9 @@
   "domain": "VII",
   "name_zh": "善惡·良心·品格",
   "gist": "罪咎與贖罪、惡與殘忍與同理、誠實與虛偽、勇氣",
-  "generated_at": "2026-08-09T15:20:28+00:00",
-  "para_count": 742,
-  "book_count": 12,
+  "generated_at": "2026-08-09T22:41:21+00:00",
+  "para_count": 744,
+  "book_count": 13,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -14,6 +14,32 @@
     "nanjing"
   ],
   "paras": [
+    {
+      "slug": "jijiupian",
+      "chapter": "卷一",
+      "para_index": 2,
+      "para_id": "jijiupian#01-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "游，元帝時人也，見《漢書‧蓺文志》。黄門令屬少府。〈補曰︰《後漢‧宦者傳序》︰史",
+      "note": "除記史游的時代與官職外，還直接評其勤心盡忠並有所補益，涉及品格評價",
+      "co_domains": []
+    },
+    {
+      "slug": "jijiupian",
+      "chapter": "卷二",
+      "para_index": 135,
+      "para_id": "jijiupian#02-p135",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "去其本俗，歸於徳義，附化而親近也。〈補曰︰董仲舒曰︰殊方萬里，說徳歸義。〉",
+      "note": "明說外族去除本俗、歸於德義並接受教化而親近，直接呈現群體同化關係及其德義評價",
+      "co_domains": [
+        "V"
+      ]
+    },
     {
       "slug": "jinkui-yaolue",
       "chapter": "臟腑經絡先後病脈證第一",

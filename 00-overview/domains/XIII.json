@@ -2,9 +2,9 @@
   "domain": "XIII",
   "name_zh": "安頓·修復·平安",
   "gist": "靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈",
-  "generated_at": "2026-08-09T15:20:28+00:00",
-  "para_count": 59,
-  "book_count": 7,
+  "generated_at": "2026-08-09T22:41:21+00:00",
+  "para_count": 60,
+  "book_count": 8,
   "surveyed_zero_hit": [
     "fangyan",
     "gu-sanfen",
@@ -31,6 +31,20 @@
       "note": "董謁因好學而在家貧與圖書繁重中以樹葉代簡、荊條作床，寫出求學及因應困境的方法",
       "co_domains": [
         "VIII"
+      ]
+    },
+    {
+      "slug": "jijiupian",
+      "chapter": "卷二",
+      "para_index": 112,
+      "para_id": "jijiupian#02-p112",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "木實曰果，草實曰蓏。言園圃種米，及殖果蓏，貧者食之，以免飢饉，故云助米糧也。〈補",
+      "note": "明說貧者種植並食用園菜果蓏可以補充米糧、免於飢饉，提出對抗飢餓的具體因應",
+      "co_domains": [
+        "IX"
       ]
     },
     {

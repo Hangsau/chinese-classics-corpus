@@ -5,11 +5,18 @@
       "chapter": "卷一",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "formalization"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "每標章首以字數爲斷者，蓋取其程課，學僮簡牘爲便也。以前之卒章，或與後句相躡。〈躡"
+    "note": "說明童蒙課程按字數分章，並記述識字考試、任吏及書寫失誤受劾的制度，涉及學習與職業進路",
+    "excerpt": "每標章首以字數爲斷者，蓋取其程課，學僮簡牘爲便也。以前之卒章，或與後句相躡。〈躡",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p02",
@@ -17,11 +24,17 @@
       "chapter": "卷一",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "游，元帝時人也，見《漢書‧蓺文志》。黄門令屬少府。〈補曰︰《後漢‧宦者傳序》︰史"
+    "note": "除記史游的時代與官職外，還直接評其勤心盡忠並有所補益，涉及品格評價",
+    "excerpt": "游，元帝時人也，見《漢書‧蓺文志》。黄門令屬少府。〈補曰︰《後漢‧宦者傳序》︰史",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p03",
@@ -29,11 +42,15 @@
       "chapter": "卷一",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "急就竒觚與衆異，〈觚，音孤。〉"
+    "note": "正文只列急就、奇觚與眾異等識字材料並附注音，沒有另說關於人的什麼",
+    "excerpt": "急就竒觚與衆異，〈觚，音孤。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p04",
@@ -41,11 +58,18 @@
       "chapter": "卷一",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "觚者，學書之牘，或以記事，削木爲之，蓋簡屬也。孔子歎觚，即此之謂。〈補曰︰《論語"
+    "note": "在考釋觚的形制與書寫用途之外，明言學僮當趕快就此學書，涉及學習與才能養成",
+    "excerpt": "觚者，學書之牘，或以記事，削木爲之，蓋簡屬也。孔子歎觚，即此之謂。〈補曰︰《論語",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p05",
@@ -53,11 +77,19 @@
       "chapter": "卷一",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "II",
+      "IV"
+    ],
+    "discourse_mode": [
+      "observation",
+      "ritual"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "言此衆章列叙萬物之名，及人姓字。〈補曰︰羅，布也。《說文》︰物，萬物也。牛爲大物"
+    "note": "記述父為幼兒命名、男子成年冠字以及姓氏區別婚姻的制度，涉及身分形成與家族婚姻傳承",
+    "excerpt": "言此衆章列叙萬物之名，及人姓字。〈補曰︰羅，布也。《說文》︰物，萬物也。牛爲大物",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p06",
@@ -65,11 +97,15 @@
       "chapter": "卷一",
       "para_index": 6
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "分別部居不雜廁。〈廁，初吏反。〉"
+    "note": "正文只陳述字書分部排列的形式，沒有人的生活斷語",
+    "excerpt": "分別部居不雜廁。〈廁，初吏反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p07",
@@ -77,11 +113,15 @@
       "chapter": "卷一",
       "para_index": 7
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "前後之次，以類相從，種別區分，不相間錯也。〈種，之隴反。間，居莧反。補曰︰《考工"
+    "note": "只是解釋部居、種別與不雜廁等編排術語，屬字書體例訓詁",
+    "excerpt": "前後之次，以類相從，種別區分，不相間錯也。〈種，之隴反。間，居莧反。補曰︰《考工",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p08",
@@ -89,11 +129,17 @@
       "chapter": "卷一",
       "para_index": 8
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "以其詳悉，多所該備，不費功日，而心意開了，故云快意也。《禮‧學記》曰︰師逸而功倍"
+    "note": "主張內容詳備可使學習少費時日而心意開明，並以師逸功倍說明學習成效的因果",
+    "excerpt": "以其詳悉，多所該備，不費功日，而心意開了，故云快意也。《禮‧學記》曰︰師逸而功倍",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p09",
@@ -101,11 +147,15 @@
       "chapter": "卷一",
       "para_index": 9
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "勉力務之必有喜。〈喜，許志反。〉"
+    "note": "雖以勉力務之作勸令，仍是正文識字材料，依本書正文閘門不據此標人生領域",
+    "excerpt": "勉力務之必有喜。〈喜，許志反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p10",
@@ -113,11 +163,18 @@
       "chapter": "卷一",
       "para_index": 10
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "勉令勤習，以致業藝，則能顯逹，可好喜也。〈好，呼報反。補曰︰學在彊勉，用力多者收"
+    "note": "勸人勤習用力，並主張由此可成就業藝、顯達而有所得，直接談學習與成就",
+    "excerpt": "勉令勤習，以致業藝，則能顯逹，可好喜也。〈好，呼報反。補曰︰學在彊勉，用力多者收",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p11",
@@ -125,11 +182,15 @@
       "chapter": "卷一",
       "para_index": 11
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "請道其章。〈此後二句一韻。〉"
+    "note": "只是正文轉入篇章的過渡語與押韻提示，沒有人的領域內容",
+    "excerpt": "請道其章。〈此後二句一韻。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p12",
@@ -137,11 +198,15 @@
       "chapter": "卷一",
       "para_index": 12
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "叙致已訖，乃說之也。〈補曰︰《禮記》注︰道，猶言也。〉"
+    "note": "只說敘致已畢而將開始正文，並訓道為言，屬篇章說明",
+    "excerpt": "叙致已訖，乃說之也。〈補曰︰《禮記》注︰道，猶言也。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p13",
@@ -149,11 +214,16 @@
       "chapter": "卷一",
       "para_index": 13
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "微子，紂之庶兄。周武王克商，封之於宋。其後或以國爲姓，〈補曰︰宋國，今應天府。姓"
+    "note": "考宋氏與延年之義並論證篇中姓名只是識字設例而非真人配屬，屬姓氏、書證與文本辨誤",
+    "excerpt": "微子，紂之庶兄。周武王克商，封之於宋。其後或以國爲姓，〈補曰︰宋國，今應天府。姓",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p14",
@@ -161,11 +231,16 @@
       "chapter": "卷一",
       "para_index": 14
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "鄭桓公友，周厲王之子，宣王母弟也。宣王封之於鄭，〈補曰︰鄭本在西都畿內咸林之地，"
+    "note": "敘鄭氏受封得姓的來歷及子方的姓名義訓，正直之語只是名字釋義",
+    "excerpt": "鄭桓公友，周厲王之子，宣王母弟也。宣王封之於鄭，〈補曰︰鄭本在西都畿內咸林之地，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p15",
@@ -173,11 +248,16 @@
       "chapter": "卷一",
       "para_index": 15
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "衛康叔，周文王之子也。周公旣誅管、蔡而封康叔爲衛侯，其後亦因國爲氏。〈補曰︰《地"
+    "note": "以周公誅管蔡、封康叔的事件考衛氏來源，再訓益壽之名，沒有另談家庭或生死",
+    "excerpt": "衛康叔，周文王之子也。周公旣誅管、蔡而封康叔爲衛侯，其後亦因國爲氏。〈補曰︰《地",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p16",
@@ -185,11 +265,15 @@
       "chapter": "卷一",
       "para_index": 16
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "史氏之先，本周大夫史佚〈音逸。〉之後也。周亦有史籀，〈文救反。〉晉有史黯，〈於減"
+    "note": "羅列史氏人物與步昌的名字用例，昌盛只是姓名義訓",
+    "excerpt": "史氏之先，本周大夫史佚〈音逸。〉之後也。周亦有史籀，〈文救反。〉晉有史黯，〈於減",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p17",
@@ -197,11 +281,15 @@
       "chapter": "卷一",
       "para_index": 17
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "周大夫周桓公、宰周公、周公忌父〈父，讀曰甫。〉繼守官邑，故有周氏。〈補曰︰漢周燕"
+    "note": "考周氏的官邑與宗族來源並解千秋名字，長生之願只用來釋名",
+    "excerpt": "周大夫周桓公、宰周公、周公忌父〈父，讀曰甫。〉繼守官邑，故有周氏。〈補曰︰漢周燕",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p18",
@@ -209,11 +297,15 @@
       "chapter": "卷一",
       "para_index": 18
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "趙孺𡖖。〈𡖖，叶乞郎反，見《楚辭‧大招》。〉"
+    "note": "只有趙孺卿這組正文姓名字與押韻注音，沒有人的內容",
+    "excerpt": "趙孺𡖖。〈𡖖，叶乞郎反，見《楚辭‧大招》。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p19",
@@ -221,11 +313,16 @@
       "chapter": "卷一",
       "para_index": 19
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "造父善御，事周穆王，穆王封之趙城，其後因稱趙氏。晉之趙夙，即其苗裔，遂蕃衍焉。〈"
+    "note": "敘造父事周穆王、受封而成趙氏的姓源，再考孺卿字義與書證，仍是姓名考據",
+    "excerpt": "造父善御，事周穆王，穆王封之趙城，其後因稱趙氏。晉之趙夙，即其苗裔，遂蕃衍焉。〈",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p20",
@@ -233,11 +330,15 @@
       "chapter": "卷一",
       "para_index": 20
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "爰展世，〈展，一作歷。〉"
+    "note": "只有爰展世這組正文姓名及異文，依正文閘門不標領域",
+    "excerpt": "爰展世，〈展，一作歷。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p21",
@@ -245,11 +346,15 @@
       "chapter": "卷一",
       "para_index": 21
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "爰氏之先，本與陳同姓。陳申公生静伯甫，伯甫八世〈一作葉。〉孫爰諸，生爰濤塗，〈濤"
+    "note": "考爰、轅、袁同族的世系與異體並解展世，子孫不絕只是名字釋義",
+    "excerpt": "爰氏之先，本與陳同姓。陳申公生静伯甫，伯甫八世〈一作葉。〉孫爰諸，生爰濤塗，〈濤",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p22",
@@ -257,11 +362,15 @@
       "chapter": "卷一",
       "para_index": 22
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "高辟兵。〈辟音壁。兵，叶晡芒反，見《詩‧擊鼓》、《無衣》、《抑》、《荀子‧佹詩》"
+    "note": "只有高辟兵的正文姓名與音韻考釋，沒有獨立的人生主張",
+    "excerpt": "高辟兵。〈辟音壁。兵，叶晡芒反，見《詩‧擊鼓》、《無衣》、《抑》、《荀子‧佹詩》",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p23",
@@ -269,11 +378,15 @@
       "chapter": "卷一",
       "para_index": 23
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "齊大夫高傒〈音傒。〉者，號高敬仲，本齊之公族也。其後遂稱高氏，大爲著姓。〈補曰︰"
+    "note": "考高氏來源與辟兵名字的書證，弭兵之語僅說明名字意思",
+    "excerpt": "齊大夫高傒〈音傒。〉者，號高敬仲，本齊之公族也。其後遂稱高氏，大爲著姓。〈補曰︰",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p24",
@@ -281,11 +394,15 @@
       "chapter": "卷一",
       "para_index": 24
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "鄧，古國名，本曼姓也，其後稱鄧氏。〈曼，音萬。〉楚有鄧廖，〈音聊。〉鄭有鄧析，〈"
+    "note": "考鄧氏國族來源及萬歲的姓名用例，千秋萬歲只屬釋名",
+    "excerpt": "鄧，古國名，本曼姓也，其後稱鄧氏。〈曼，音萬。〉楚有鄧廖，〈音聊。〉鄭有鄧析，〈",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p25",
@@ -293,11 +410,15 @@
       "chapter": "卷一",
       "para_index": 25
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "秦妙房。〈妙，一作眇。《漢書》：眇，讀曰妙。〉"
+    "note": "只有秦妙房這組正文姓名與異文校勘，沒有領域內容",
+    "excerpt": "秦妙房。〈妙，一作眇。《漢書》：眇，讀曰妙。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p26",
@@ -305,11 +426,15 @@
       "chapter": "卷一",
       "para_index": 26
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "秦本地名，後爲國號，因又命氏。〈補曰︰舜七友，秦不虛。《史記》︰秦之先嬴姓，其後"
+    "note": "考秦氏來源與妙、房二字的姓名義訓，德行語只是構名材料",
+    "excerpt": "秦本地名，後爲國號，因又命氏。〈補曰︰舜七友，秦不虛。《史記》︰秦之先嬴姓，其後",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p27",
@@ -317,11 +442,15 @@
       "chapter": "卷一",
       "para_index": 27
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "郝利親，〈郝，呼各反。〉"
+    "note": "只有郝利親這組正文姓名及反切，依字表閘門判空",
+    "excerpt": "郝利親，〈郝，呼各反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p28",
@@ -329,11 +458,15 @@
       "chapter": "卷一",
       "para_index": 28
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "郝，京兆盩厔郷名也，〈盩，竹留反。厔，竹乙反。〉因地以命氏焉。〈補曰：《唐‧宰相"
+    "note": "考郝氏因地得姓並訓利親為善父母，孝親語僅是名字釋義",
+    "excerpt": "郝，京兆盩厔郷名也，〈盩，竹留反。厔，竹乙反。〉因地以命氏焉。〈補曰：《唐‧宰相",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p29",
@@ -341,11 +474,15 @@
       "chapter": "卷一",
       "para_index": 29
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "馮漢強。〈強，一作彊。〉"
+    "note": "只有馮漢強這組正文姓名與異體，沒有人的斷語",
+    "excerpt": "馮漢強。〈強，一作彊。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p30",
@@ -353,11 +490,15 @@
       "chapter": "卷一",
       "para_index": 30
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "馮氏之先，本歸姓也。鄭大夫有馮簡子，其後遂爲大族。〈補曰︰《廣韻》：畢公高之後，"
+    "note": "考馮氏來源與漢強的姓名含義，忠於本朝只是在解名",
+    "excerpt": "馮氏之先，本歸姓也。鄭大夫有馮簡子，其後遂爲大族。〈補曰︰《廣韻》：畢公高之後，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p31",
@@ -365,11 +506,15 @@
       "chapter": "卷一",
       "para_index": 31
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "戴氏之先，與宋同族。宋戴公生子文，遂稱戴氏。戴惡即其後也。〈補曰︰《孟子》：宋有"
+    "note": "考戴氏世系並解護郡為官名意象，屬姓源、官名與書證",
+    "excerpt": "戴氏之先，與宋同族。宋戴公生子文，遂稱戴氏。戴惡即其後也。〈補曰︰《孟子》：宋有",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p32",
@@ -377,11 +522,15 @@
       "chapter": "卷一",
       "para_index": 32
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "景君明。〈明，叶音芒。《易》︰潜龍勿用，陽氣潜藏，見龍在田，天下文明。《書》︰元"
+    "note": "只有景君明這組正文姓名及經典押韻書證，沒有另述人的生活",
+    "excerpt": "景君明。〈明，叶音芒。《易》︰潜龍勿用，陽氣潜藏，見龍在田，天下文明。《書》︰元",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p33",
@@ -389,11 +538,16 @@
       "chapter": "卷一",
       "para_index": 33
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "景氏，楚之同族，本芈姓也。〈芈，莫尔反，《史記索隱》：弥是反。芈，羊声也。〉漢高"
+    "note": "敘景氏遷徙與分布以考姓源，君明的德與侯爵語仍只是姓名義訓",
+    "excerpt": "景氏，楚之同族，本芈姓也。〈芈，莫尔反，《史記索隱》：弥是反。芈，羊声也。〉漢高",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p34",
@@ -401,11 +555,16 @@
       "chapter": "卷一",
       "para_index": 34
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "董氏之先，本己姓也。飂叔安之裔子曰董父，能擾畜龍，服事帝舜，舜賜之姓曰董。〈己，"
+    "note": "以董父事舜、受姓及辛有之子掌典籍等事件考董氏，奉德的美德語只用於釋名",
+    "excerpt": "董氏之先，本己姓也。飂叔安之裔子曰董父，能擾畜龍，服事帝舜，舜賜之姓曰董。〈己，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p35",
@@ -413,11 +572,15 @@
       "chapter": "卷一",
       "para_index": 35
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "桓賢良。〈桓，一作随。〉"
+    "note": "只有桓賢良這組正文姓名與異文，沒有獨立的品格論述",
+    "excerpt": "桓賢良。〈桓，一作随。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p36",
@@ -425,11 +588,15 @@
       "chapter": "卷一",
       "para_index": 36
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "宋桓公孫鱗矔，宋司徒，號曰桓子，〈矔，工喚反。〉因爲氏焉。向〈式亮反。〉魋〈大回"
+    "note": "考桓氏與隨氏來源並解賢良名字，賢行良善只是姓名字義",
+    "excerpt": "宋桓公孫鱗矔，宋司徒，號曰桓子，〈矔，工喚反。〉因爲氏焉。向〈式亮反。〉魋〈大回",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p37",
@@ -437,11 +604,15 @@
       "chapter": "卷一",
       "para_index": 37
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "周文王母任氏之女，此古姓也。又有任國之君，太皡之後，本風姓也，其後亦爲任氏焉。〈"
+    "note": "考任氏的古姓、國族來源與人物書證，逢時遇太平只是釋名",
+    "excerpt": "周文王母任氏之女，此古姓也。又有任國之君，太皡之後，本風姓也，其後亦爲任氏焉。〈",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p38",
@@ -449,11 +620,15 @@
       "chapter": "卷一",
       "para_index": 38
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "侯氏之先，鄭大夫侯宣多侯羽之後也。魯有侯叔夏、侯犯，齊有侯朝，其後亦皆以爲姓。〈"
+    "note": "考侯氏世系並訓仲與郎的排行官稱，屬姓名制度訓詁",
+    "excerpt": "侯氏之先，鄭大夫侯宣多侯羽之後也。魯有侯叔夏、侯犯，齊有侯朝，其後亦皆以爲姓。〈",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p39",
@@ -461,11 +636,16 @@
       "chapter": "卷一",
       "para_index": 39
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "戎人由余入秦爲相，其後遂稱由氏。楚大夫王孫由于有忠勇之節，楚人亦謂其族爲由氏焉。"
+    "note": "敘由余入秦及王孫由于的事跡以考由氏，再釋廣國之名，仍屬姓源與名字考據",
+    "excerpt": "戎人由余入秦爲相，其後遂稱由氏。楚大夫王孫由于有忠勇之節，楚人亦謂其族爲由氏焉。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p40",
@@ -473,11 +653,15 @@
       "chapter": "卷一",
       "para_index": 40
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "榮惠常。〈榮，一作崇。〉"
+    "note": "只有榮惠常這組正文姓名與異文，依字表閘門不標領域",
+    "excerpt": "榮惠常。〈榮，一作崇。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p41",
@@ -485,11 +669,15 @@
       "chapter": "卷一",
       "para_index": 41
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "周大夫有食采於榮者，因而氏焉。〈補曰︰《論語》：武王有乱臣十人。注︰有榮公。〉《"
+    "note": "羅列榮氏來源與歷代人名並解惠常，仁惠常道之語只是釋名",
+    "excerpt": "周大夫有食采於榮者，因而氏焉。〈補曰︰《論語》：武王有乱臣十人。注︰有榮公。〉《",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p42",
@@ -497,11 +685,15 @@
       "chapter": "卷一",
       "para_index": 42
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "〈崇，國名，在今京兆府鄠縣。崇侯之後，以囯爲氏。〉"
+    "note": "夾注只補考崇國地望與崇氏來源，純屬姓氏源流",
+    "excerpt": "〈崇，國名，在今京兆府鄠縣。崇侯之後，以囯爲氏。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p43",
@@ -509,11 +701,15 @@
       "chapter": "卷一",
       "para_index": 43
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "齊大夫烏餘之後，遂以爲姓。〈補曰︰又有烏枝鳴。〉莒亦有烏存，秦有力士烏獲。承，受"
+    "note": "考烏氏人物並訓承與祿的字義，屬姓名書證與訓詁",
+    "excerpt": "齊大夫烏餘之後，遂以爲姓。〈補曰︰又有烏枝鳴。〉莒亦有烏存，秦有力士烏獲。承，受",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p44",
@@ -521,11 +717,15 @@
       "chapter": "卷一",
       "para_index": 44
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "令狐橫。〈令，力呈反。橫，叶音黄，見《荀子‧佹詩》、《楚辭‧九辨》、魏文帝、曹子"
+    "note": "只有令狐橫這組正文姓名與音韻書證，沒有人的領域內容",
+    "excerpt": "令狐橫。〈令，力呈反。橫，叶音黄，見《荀子‧佹詩》、《楚辭‧九辨》、魏文帝、曹子",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p45",
@@ -533,11 +733,15 @@
       "chapter": "卷一",
       "para_index": 45
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "令狐，晉地名也，在河東。大夫魏顆食邑於此，號令狐顆，因爲氏焉。〈補曰︰《囯語》："
+    "note": "考令狐氏因地得姓並訓橫為充大，純屬姓源與姓名義訓",
+    "excerpt": "令狐，晉地名也，在河東。大夫魏顆食邑於此，號令狐顆，因爲氏焉。〈補曰︰《囯語》：",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p46",
@@ -545,11 +749,16 @@
       "chapter": "卷一",
       "para_index": 46
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "舜臣朱武，〈補曰：當作「朱虎」，顔氏避唐諱。〉其後以爲姓。〈補曰：《後漢‧朱暉傳"
+    "note": "敘朱氏的多種得姓說及列名書證，再解交便之名，人際和善只屬名字釋義",
+    "excerpt": "舜臣朱武，〈補曰：當作「朱虎」，顔氏避唐諱。〉其後以爲姓。〈補曰：《後漢‧朱暉傳",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p47",
@@ -557,11 +766,15 @@
       "chapter": "卷一",
       "para_index": 47
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "孔氏之先，與宋同祖。閔公生弗父何，何曾孫曰正考父，考父生孔父嘉，〈父，皆讀曰甫。"
+    "note": "考孔氏世系、異說與人名書證，何傷無害只是名字含義",
+    "excerpt": "孔氏之先，與宋同祖。閔公生弗父何，何曾孫曰正考父，考父生孔父嘉，〈父，皆讀曰甫。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p48",
@@ -569,11 +782,15 @@
       "chapter": "卷一",
       "para_index": 48
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "師，樂人無目者之稱也。晉有師曠，〈補曰：又有師服。〉魯有師己，〈音紀。補曰：又有"
+    "note": "解師為樂官並考其成姓，又說以猛虎命名的用例，都是詞義與姓名材料",
+    "excerpt": "師，樂人無目者之稱也。晉有師曠，〈補曰：又有師服。〉魯有師己，〈音紀。補曰：又有",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p49",
@@ -581,11 +798,15 @@
       "chapter": "卷一",
       "para_index": 49
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "衛有石碏、〈于弱反。〉石買、石惡，〈補曰：又石駘仲、石祈子。〉鄭有石癸、石楚、石"
+    "note": "羅列石氏人物以證姓源，敢當無敵只是名字義訓",
+    "excerpt": "衛有石碏、〈于弱反。〉石買、石惡，〈補曰：又石駘仲、石祈子。〉鄭有石癸、石楚、石",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p50",
@@ -593,11 +814,15 @@
       "chapter": "卷一",
       "para_index": 50
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "所所，砍木聲也。古有虞衡之官，因主伐木，遂以為姓。〈補曰：《說文》引《詩》︰伐木"
+    "note": "以伐木聲與官職考所氏來源，謹慤不侵的品格語僅用來解名字",
+    "excerpt": "所所，砍木聲也。古有虞衡之官，因主伐木，遂以為姓。〈補曰：《說文》引《詩》︰伐木",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p51",
@@ -605,11 +830,15 @@
       "chapter": "卷一",
       "para_index": 51
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "龍未央。〈央，於良反。〉"
+    "note": "只有龍未央這組正文姓名與反切，依字表閘門判空",
+    "excerpt": "龍未央。〈央，於良反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p52",
@@ -617,11 +846,16 @@
       "chapter": "卷一",
       "para_index": 52
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "龍，舜臣名，命爲納言者也，其後遂以為姓。又董父既賜姓曰董，又易氏曰豢龍，〈豢，音"
+    "note": "敘舜臣龍、豢龍氏與歷代人名以考龍姓，未央長壽只屬姓名義訓",
+    "excerpt": "龍，舜臣名，命爲納言者也，其後遂以為姓。又董父既賜姓曰董，又易氏曰豢龍，〈豢，音",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p53",
@@ -629,11 +863,15 @@
       "chapter": "卷一",
       "para_index": 53
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "伊摯、伊陟，殷之𡖖宰，其後遂為著姓。漢有伊籍。〈補曰：漢御史中丞伊嘉。《儒林傳》"
+    "note": "考伊氏人物及嬰齊的字義與同名書證，潔齊之語只是名字解釋",
+    "excerpt": "伊摯、伊陟，殷之𡖖宰，其後遂為著姓。漢有伊籍。〈補曰：漢御史中丞伊嘉。《儒林傳》",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p54",
@@ -641,11 +879,15 @@
       "chapter": "卷一",
       "para_index": 54
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "翟回慶。〈《廣韻》︰翟音狄。慶，叶音羌。《易》︰乃終有慶。《詩》：農夫之慶，孝孫"
+    "note": "只有翟回慶這組正文姓名與大量押韻校證，沒有人的領域內容",
+    "excerpt": "翟回慶。〈《廣韻》︰翟音狄。慶，叶音羌。《易》︰乃終有慶。《詩》：農夫之慶，孝孫",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p55",
@@ -653,11 +895,15 @@
       "chapter": "卷一",
       "para_index": 55
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "翟氏，本齊翟僂〈力羽反。〉新之後也。魏有翟璜、翟翦，漢有翟公、翟方進。〈補曰：《"
+    "note": "考翟氏人名並訓回慶為福喜將至，情緒字只用於姓名釋義",
+    "excerpt": "翟氏，本齊翟僂〈力羽反。〉新之後也。魏有翟璜、翟翦，漢有翟公、翟方進。〈補曰：《",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p56",
@@ -665,11 +911,15 @@
       "chapter": "卷一",
       "para_index": 56
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "畢稚季，〈稚，直利反。〉"
+    "note": "只有畢稚季這組正文姓名與反切，沒有獨立內容",
+    "excerpt": "畢稚季，〈稚，直利反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p57",
@@ -677,11 +927,15 @@
       "chapter": "卷一",
       "para_index": 57
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "周文王之子有畢公高者，其後以爲姓，晉之畢萬即此族焉。〈補曰：畢囯在長安縣西北。《"
+    "note": "考畢氏來源與稚季的幼少排行，屬姓源、排行訓詁與人名書證",
+    "excerpt": "周文王之子有畢公高者，其後以爲姓，晉之畢萬即此族焉。〈補曰：畢囯在長安縣西北。《",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p58",
@@ -689,11 +943,15 @@
       "chapter": "卷一",
       "para_index": 58
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "昭小兄。〈兄，叶虛王反，見《詩‧鶉之奔奔》、《陟岵》、《皇矣》、《楚辭‧天問》。"
+    "note": "只有昭小兄這組正文姓名與押韻說明，依正文閘門不標家庭領域",
+    "excerpt": "昭小兄。〈兄，叶虛王反，見《詩‧鶉之奔奔》、《陟岵》、《皇矣》、《楚辭‧天問》。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p59",
@@ -701,11 +959,15 @@
       "chapter": "卷一",
       "para_index": 59
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "昭氏，亦楚同姓，共屈、景為三族者也。當戰國時有昭奚恤。〈補曰：三閭大夫掌王族三姓"
+    "note": "考昭氏族源並訓小兄的兄弟排行，家庭關係只是在解名字",
+    "excerpt": "昭氏，亦楚同姓，共屈、景為三族者也。當戰國時有昭奚恤。〈補曰：三閭大夫掌王族三姓",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p60",
@@ -713,11 +975,15 @@
       "chapter": "卷一",
       "para_index": 60
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "魯公子展之後也。〈補曰：《廣韻》：魯孝公子。〉有展禽者，食采於柳下之地，因爲柳氏"
+    "note": "考柳氏來源並解堯舜之名為仿效古帝自警，屬姓名義訓而非獨立勸誡",
+    "excerpt": "魯公子展之後也。〈補曰：《廣韻》：魯孝公子。〉有展禽者，食采於柳下之地，因爲柳氏",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p61",
@@ -725,11 +991,15 @@
       "chapter": "卷一",
       "para_index": 61
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "樂禹湯。〈樂，一作藥。〉"
+    "note": "只有樂禹湯這組正文姓名與異文，沒有另說人的信念或品格",
+    "excerpt": "樂禹湯。〈樂，一作藥。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p62",
@@ -737,11 +1007,15 @@
       "chapter": "卷一",
       "para_index": 62
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "樂氏之先，與宋同姓。戴公生樂父〈讀曰甫。〉衎，〈苦旦反。〉是稱樂氏，樂喜皆其後也"
+    "note": "考樂氏來源與歷代人名，欽慕禹湯、順其法則只是名字解釋",
+    "excerpt": "樂氏之先，與宋同姓。戴公生樂父〈讀曰甫。〉衎，〈苦旦反。〉是稱樂氏，樂喜皆其後也",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p63",
@@ -749,11 +1023,16 @@
       "chapter": "卷一",
       "para_index": 63
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "《春秋》淳于公如曹，度〈徒各反。〉其國危，遂不復。淳于之地，即北海淳于縣是也，後"
+    "note": "敘淳于公見國危而不返及後人因國為姓，用來考姓源與登字訓詁",
+    "excerpt": "《春秋》淳于公如曹，度〈徒各反。〉其國危，遂不復。淳于之地，即北海淳于縣是也，後",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p64",
@@ -761,11 +1040,15 @@
       "chapter": "卷一",
       "para_index": 64
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "費通光。〈費，扶味反，一音祕。〉"
+    "note": "只有費通光這組正文姓名與反切，依字表閘門判空",
+    "excerpt": "費通光。〈費，扶味反，一音祕。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p65",
@@ -773,11 +1056,15 @@
       "chapter": "卷一",
       "para_index": 65
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "費氏，楚大夫費無極之後也。〈補曰︰《史記‧秦紀》：女華生大費，是為柏翳。大費生子"
+    "note": "羅列費氏多種來源與人名書證並訓通光為開明，仍是姓源與釋名",
+    "excerpt": "費氏，楚大夫費無極之後也。〈補曰︰《史記‧秦紀》：女華生大費，是為柏翳。大費生子",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p66",
@@ -785,11 +1072,15 @@
       "chapter": "卷一",
       "para_index": 66
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "柘温舒，〈柘，之夜反。〉"
+    "note": "只有柘溫舒這組正文姓名與反切，沒有人的領域內容",
+    "excerpt": "柘温舒，〈柘，之夜反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p67",
@@ -797,11 +1088,15 @@
       "chapter": "卷一",
       "para_index": 67
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "柘，楚地名也，後更爲縣，時屬淮陽國，所居之人，因而命氏。〈補曰：《灌嬰傳》︰柘公"
+    "note": "考柘氏因地得姓並訓溫舒，安舒和裕只是姓名義訓",
+    "excerpt": "柘，楚地名也，後更爲縣，時屬淮陽國，所居之人，因而命氏。〈補曰：《灌嬰傳》︰柘公",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p68",
@@ -809,11 +1104,15 @@
       "chapter": "卷一",
       "para_index": 68
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "路政陽。〈政，一作正。〉"
+    "note": "只有路政陽這組正文姓名與異文，依正文閘門不標領域",
+    "excerpt": "路政陽。〈政，一作正。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p69",
@@ -821,11 +1120,15 @@
       "chapter": "卷一",
       "para_index": 69
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "路，水名也，又因爲縣，在涿郡界，居者氏焉。〈補曰︰陸終子求言，爲妘姓。路，其後別"
+    "note": "考路氏的水名、國名與人物書證並解政陽，治理能力只是釋名",
+    "excerpt": "路，水名也，又因爲縣，在涿郡界，居者氏焉。〈補曰︰陸終子求言，爲妘姓。路，其後別",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p70",
@@ -833,11 +1136,15 @@
       "chapter": "卷一",
       "para_index": 70
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "周文王之子有霍叔武〈一作處。〉者，其國在河東，今霍邑縣是也。後嗣爲晉獻公所滅，子"
+    "note": "考霍氏受封與亡國後的姓源，再借宮牆典故解聖宮之名，未獨立論學習人生",
+    "excerpt": "周文王之子有霍叔武〈一作處。〉者，其國在河東，今霍邑縣是也。後嗣爲晉獻公所滅，子",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p71",
@@ -845,11 +1152,15 @@
       "chapter": "卷一",
       "para_index": 71
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "顔氏，本出顓頊之後。顓頊生老童，老童生吳回，爲高辛火正，是爲祝融。祝融生陸終，陸"
+    "note": "長列顏氏世系、孔門人物與漢代書證並解文章之名，德行與才學皆服務於姓氏姓名考據",
+    "excerpt": "顔氏，本出顓頊之後。顓頊生老童，老童生吳回，爲高辛火正，是爲祝融。祝融生陸終，陸",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p72",
@@ -857,11 +1168,15 @@
       "chapter": "卷一",
       "para_index": 72
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "管財智，〈管，一作莞。〉"
+    "note": "只有管財智這組正文姓名與異文，沒有獨立談財富或智慧",
+    "excerpt": "管財智，〈管，一作莞。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p73",
@@ -869,11 +1184,15 @@
       "chapter": "卷一",
       "para_index": 73
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "管氏之先，出自周文王，以國命氏也。〈補曰：管國在鄭州管城。《廣韻》：周文子管叔鮮"
+    "note": "考管、筦、莞的姓氏來源與異體，財智或材智只屬名字義訓",
+    "excerpt": "管氏之先，出自周文王，以國命氏也。〈補曰：管國在鄭州管城。《廣韻》：周文子管叔鮮",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p74",
@@ -881,11 +1200,15 @@
       "chapter": "卷一",
       "para_index": 74
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "楚之軍帥，〈所類反。〉使主偏者，因以爲姓也。《司馬法》曰：車十五乗曰偏。《春秋左"
+    "note": "解偏為軍制與姓氏，再以心膂、張大王室考呂張之名，屬制度名物和字源",
+    "excerpt": "楚之軍帥，〈所類反。〉使主偏者，因以爲姓也。《司馬法》曰：車十五乗曰偏。《春秋左",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p75",
@@ -893,11 +1216,15 @@
       "chapter": "卷一",
       "para_index": 75
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "伯禽之後有悼公者，爲楚所滅，子孫以國爲氏。〈補曰：魯國在兖州曲阜縣。《風俗通》云"
+    "note": "考魯氏因國得姓並解賀喜之名，歡喜與賀禮只是字義書證",
+    "excerpt": "伯禽之後有悼公者，爲楚所滅，子孫以國爲氏。〈補曰：魯國在兖州曲阜縣。《風俗通》云",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p76",
@@ -905,11 +1232,15 @@
       "chapter": "卷一",
       "para_index": 76
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "觀宜王。〈觀，工喚反，一作灌。〉"
+    "note": "只有觀宜王這組正文姓名與異文反切，沒有人的領域內容",
+    "excerpt": "觀宜王。〈觀，工喚反，一作灌。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p77",
@@ -917,11 +1248,15 @@
       "chapter": "卷一",
       "para_index": 77
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "觀，夏之同姓諸侯也，國滅之後，因而氏焉。晉有觀武，楚有觀起、觀從，皆其胤也。〈補"
+    "note": "考觀、灌二姓的國族地望與人名，宜王有益王室只是名字釋義",
+    "excerpt": "觀，夏之同姓諸侯也，國滅之後，因而氏焉。晉有觀武，楚有觀起、觀從，皆其胤也。〈補",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p78",
@@ -929,11 +1264,15 @@
       "chapter": "卷一",
       "para_index": 78
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "程氏之先，本重黎之後。周有程伯休父，因姓程焉。〈重，丈龍反。父，讀曰甫。補曰︰雒"
+    "note": "考程氏來源與同名人物，忠信不阿黨及進德之語只用來解名字",
+    "excerpt": "程氏之先，本重黎之後。周有程伯休父，因姓程焉。〈重，丈龍反。父，讀曰甫。補曰︰雒",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p79",
@@ -941,11 +1280,15 @@
       "chapter": "卷一",
       "para_index": 79
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "周大王之子太伯，始封於吳，吳氏即其後也。〈補曰：《廣韻》云：後季札避囯，子孫家于"
+    "note": "考吳氏受封得姓並訓仲、皇的排行字義，純屬姓名考據",
+    "excerpt": "周大王之子太伯，始封於吳，吳氏即其後也。〈補曰：《廣韻》云：後季札避囯，子孫家于",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p80",
@@ -953,11 +1296,15 @@
       "chapter": "卷一",
       "para_index": 80
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "許氏，許由之後也。太嶽之胤有姜姓者，封於許國。〈補曰：《國語》：姜，伯夷之後也。"
+    "note": "考許氏多種來源及終古的常久義與人名用例，無常與長久僅屬釋名",
+    "excerpt": "許氏，許由之後也。太嶽之胤有姜姓者，封於許國。〈補曰：《國語》：姜，伯夷之後也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p81",
@@ -965,11 +1312,15 @@
       "chapter": "卷一",
       "para_index": 81
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "賈，本姬姓國也，晉吞滅之，後稱賈氏。〈補曰︰《廣韻》：周賈伯之後。〉晉有賈華、賈"
+    "note": "考賈氏來源並以尚友古人解友倉之名，友誼典故只是姓名義訓",
+    "excerpt": "賈，本姬姓國也，晉吞滅之，後稱賈氏。〈補曰︰《廣韻》：周賈伯之後。〉晉有賈華、賈",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p82",
@@ -977,11 +1328,15 @@
       "chapter": "卷一",
       "para_index": 82
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "舜後嬀滿，周武王封之於陳，其後爲楚所滅，子孫因姓陳焉。〈補曰：陳囯，今陳州。陳公"
+    "note": "考陳氏因國得姓並訓元始為長子稱謂，屬姓源與排行訓詁",
+    "excerpt": "舜後嬀滿，周武王封之於陳，其後爲楚所滅，子孫因姓陳焉。〈補曰：陳囯，今陳州。陳公",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p83",
@@ -989,11 +1344,16 @@
       "chapter": "卷一",
       "para_index": 83
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "周武王之子封於韓，其後爲晉所滅，因稱韓氏，晉大夫韓萬即其後也。及三家篡晉，侯王相"
+    "note": "敘韓魏唐諸國受封、滅亡與得姓的沿革並考地名，仍是姓氏與姓名來源",
+    "excerpt": "周武王之子封於韓，其後爲晉所滅，因稱韓氏，晉大夫韓萬即其後也。及三家篡晉，侯王相",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p84",
@@ -1001,11 +1361,15 @@
       "chapter": "卷一",
       "para_index": 84
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "液容調，〈液，音亦，一作掖。〉"
+    "note": "只有液容調這組正文姓名與異文反切，依字表閘門判空",
+    "excerpt": "液容調，〈液，音亦，一作掖。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p85",
@@ -1013,11 +1377,15 @@
       "chapter": "卷一",
       "para_index": 85
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "上古道術之士，善於鍊化，能作液湯者，後嗣因以液爲姓。〈補曰：《素問》有《湯液論》"
+    "note": "以古代湯液術士考液姓並訓容調為和諧從容，內在安定語只屬釋名",
+    "excerpt": "上古道術之士，善於鍊化，能作液湯者，後嗣因以液爲姓。〈補曰：《素問》有《湯液論》",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p86",
@@ -1025,11 +1393,15 @@
       "chapter": "卷一",
       "para_index": 86
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "柏杜楊。〈杜，一作度。楊，一作揚。〉"
+    "note": "只有柏杜楊三個正文姓名用字與異文，沒有人的領域內容",
+    "excerpt": "柏杜楊。〈杜，一作度。楊，一作揚。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p87",
@@ -1037,11 +1409,15 @@
       "chapter": "卷一",
       "para_index": 87
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "古帝有柏皇氏，其後稱柏氏焉。一曰：晉伯宗、伯州犂之後。古通用字，柏與伯同，故爲柏"
+    "note": "考柏氏來源並分辨柏、杜、楊等樹名與相關姓氏，純屬名物和姓氏訓詁",
+    "excerpt": "古帝有柏皇氏，其後稱柏氏焉。一曰：晉伯宗、伯州犂之後。古通用字，柏與伯同，故爲柏",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p88",
@@ -1049,11 +1425,15 @@
       "chapter": "卷一",
       "para_index": 88
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "曹氏，即陸終之子安所出也。又周文王之子曰曹叔振鐸，武王封之陶丘，號曰曹伯。其後爲"
+    "note": "考曹氏多種國族來源並解富貴名字，滿而不溢、高而不危只是釋名",
+    "excerpt": "曹氏，即陸終之子安所出也。又周文王之子曰曹叔振鐸，武王封之陶丘，號曰曹伯。其後爲",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p89",
@@ -1061,11 +1441,15 @@
       "chapter": "卷一",
       "para_index": 89
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "尹氏，本周大夫也，後爲官族。〈補曰：周有尹佚、尹吉甫，晉有尹鐸，斉有尹文、尹士，"
+    "note": "考尹氏官族來源及李桑的木名或姓氏異說，純屬姓氏與名物書證",
+    "excerpt": "尹氏，本周大夫也，後爲官族。〈補曰：周有尹佚、尹吉甫，晉有尹鐸，斉有尹文、尹士，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p90",
@@ -1073,11 +1457,15 @@
       "chapter": "卷一",
       "para_index": 90
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "蕭氏，本出殷之六族，成王所用封伯禽也。又有蕭國，其君子姓，宋之附庸，爲楚所滅，亦"
+    "note": "考蕭氏來源並解彭祖名字為慕長年，長壽願望只是姓名釋義",
+    "excerpt": "蕭氏，本出殷之六族，成王所用封伯禽也。又有蕭國，其君子姓，宋之附庸，爲楚所滅，亦",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p91",
@@ -1085,11 +1473,15 @@
       "chapter": "卷一",
       "para_index": 91
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "屈宗談。〈屈，居勿反。談，徒甘反，叶陽韻。〉"
+    "note": "只有屈宗談這組正文姓名與音韻說明，沒有獨立談溝通或成就",
+    "excerpt": "屈宗談。〈屈，居勿反。談，徒甘反，叶陽韻。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p92",
@@ -1097,11 +1489,15 @@
       "chapter": "卷一",
       "para_index": 92
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "屈氏之先，楚同姓也，屈瑕、屈重、屈蕩、屈建、屈平，皆其後焉。〈補曰︰《元和姓纂》"
+    "note": "考屈氏世系、宗談的口辯義及古韻，才辯評語只屬名字訓詁",
+    "excerpt": "屈氏之先，楚同姓也，屈瑕、屈重、屈蕩、屈建、屈平，皆其後焉。〈補曰︰《元和姓纂》",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p93",
@@ -1109,11 +1505,15 @@
       "chapter": "卷一",
       "para_index": 93
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "周大夫仲仙甫，宣王時爲樊侯，遂稱樊氏，樊皮即其後也。〈補曰︰樊邑在東都畿內。殷民"
+    "note": "考樊氏來源並以鬻拳、事君等引文辨愛君之名，忠諫評議只是釋名所引典故",
+    "excerpt": "周大夫仲仙甫，宣王時爲樊侯，遂稱樊氏，樊皮即其後也。〈補曰︰樊邑在東都畿內。殷民",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p94",
@@ -1121,11 +1521,15 @@
       "chapter": "卷一",
       "para_index": 94
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "崔孝讓。〈讓，叶如羊反，見《詩‧角弓》、《楚辭‧大招》、《荀子‧成相》。〉"
+    "note": "只有崔孝讓這組正文姓名與押韻書證，依字表閘門不標家庭或品格",
+    "excerpt": "崔孝讓。〈讓，叶如羊反，見《詩‧角弓》、《楚辭‧大招》、《荀子‧成相》。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p95",
@@ -1133,11 +1537,15 @@
       "chapter": "卷一",
       "para_index": 95
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "崔，齊邑名也。丁公之子於此受封，其後有崔夭。夭之支庶，苗裔盛焉。〈夭，於表反。補"
+    "note": "考崔氏受封得姓並解孝與讓的字義，孝德謙遜只是姓名訓詁",
+    "excerpt": "崔，齊邑名也。丁公之子於此受封，其後有崔夭。夭之支庶，苗裔盛焉。〈夭，於表反。補",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p96",
@@ -1145,11 +1553,15 @@
       "chapter": "卷一",
       "para_index": 96
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "姚，舜姓也。陟方之後，末嗣称焉。鄭有姚句耳，漢有姚平。〈句，音鉤。補曰︰秦有姚賈"
+    "note": "考姚氏來源與人物書證，再解得賜為受君寵錫，純屬姓源與釋名",
+    "excerpt": "姚，舜姓也。陟方之後，末嗣称焉。鄭有姚句耳，漢有姚平。〈句，音鉤。補曰︰秦有姚賈",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p97",
@@ -1157,11 +1569,15 @@
       "chapter": "卷一",
       "para_index": 97
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "燕楚莊。〈燕，烏賢反。〉"
+    "note": "只有燕楚莊這組正文姓名與反切，沒有人的領域內容",
+    "excerpt": "燕楚莊。〈燕，烏賢反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p98",
@@ -1169,11 +1585,15 @@
       "chapter": "卷一",
       "para_index": 98
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "燕邵公奭，〈式亦反。〉本周之同姓，其後以國爲氏云。〈補曰︰南燕姞姓，囯在今滑州。"
+    "note": "考燕氏因國得姓並解楚莊為仰慕古王的名字，屬姓名用例",
+    "excerpt": "燕邵公奭，〈式亦反。〉本周之同姓，其後以國爲氏云。〈補曰︰南燕姞姓，囯在今滑州。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p99",
@@ -1181,11 +1601,15 @@
       "chapter": "卷一",
       "para_index": 99
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "薛勝客，〈薛，私利反。勝，書烝反。〉"
+    "note": "只有薛勝客這組正文姓名與反切，依正文閘門判空",
+    "excerpt": "薛勝客，〈薛，私利反。勝，書烝反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p100",
@@ -1193,11 +1617,16 @@
       "chapter": "卷一",
       "para_index": 100
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "有奚仲者，為夏車正，受封於薛，後遷于邳。而仲虺居薛，為湯左相，〈邳，皮眉反。〉其"
+    "note": "敘奚仲、仲虺受封遷徙與薛國被併以考薛氏，再訓勝客之名，仍是姓名考據",
+    "excerpt": "有奚仲者，為夏車正，受封於薛，後遷于邳。而仲虺居薛，為湯左相，〈邳，皮眉反。〉其",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p101",
@@ -1205,11 +1634,15 @@
       "chapter": "卷一",
       "para_index": 101
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "聶干將。〈聶，女輙反。將，資良反。〉"
+    "note": "只有聶干將這組正文姓名與反切，沒有獨立內容",
+    "excerpt": "聶干將。〈聶，女輙反。將，資良反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p102",
@@ -1217,11 +1650,15 @@
       "chapter": "卷一",
       "para_index": 102
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "聶本地名，因以爲姓也。《春秋》稱「齊師、宋師、曹師次于聶北，救邢」。〈補曰︰聶北"
+    "note": "考聶氏因地得姓及干將是劍或劍師的異說，純屬姓源與名物書證",
+    "excerpt": "聶本地名，因以爲姓也。《春秋》稱「齊師、宋師、曹師次于聶北，救邢」。〈補曰︰聶北",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p103",
@@ -1229,11 +1666,15 @@
       "chapter": "卷一",
       "para_index": 103
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "求氏，本居衛國裘氏之地，故稱裘焉，後又轉為求字。〈補曰︰《礼記》：衞献公與柳莊邑"
+    "note": "考求、裘異體與族源並訓男弟的性別排行，家庭稱謂只是在解名字",
+    "excerpt": "求氏，本居衛國裘氏之地，故稱裘焉，後又轉為求字。〈補曰︰《礼記》：衞献公與柳莊邑",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p104",
@@ -1241,11 +1682,15 @@
       "chapter": "卷一",
       "para_index": 104
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "過說長。〈過，古禾反。說，音恱。〉"
+    "note": "只有過說長這組正文姓名與讀音，依字表閘門不標情緒領域",
+    "excerpt": "過說長。〈過，古禾反。說，音恱。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p105",
@@ -1253,11 +1698,15 @@
       "chapter": "卷一",
       "para_index": 105
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "過者，夏時國名，因爲姓也。〈補曰︰《晉‧地道記》：東萊掖縣有過郷，北有過城，古過"
+    "note": "考過氏國源並以悅樂、長壽書證解說長之名，樂易壽長的引文服務於姓名訓詁",
+    "excerpt": "過者，夏時國名，因爲姓也。〈補曰︰《晉‧地道記》：東萊掖縣有過郷，北有過城，古過",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p106",
@@ -1265,11 +1714,15 @@
       "chapter": "卷一",
       "para_index": 106
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "祝氏，鄭祝聃〈乃甘反。〉之後也。又衛有祝鮀，〈徒何反。〉後嗣傳職，賢而有識，亦稱"
+    "note": "考祝氏的世系與官族來源並解恭敬之名，內外恭敬之辨只屬字義書證",
+    "excerpt": "祝氏，鄭祝聃〈乃甘反。〉之後也。又衛有祝鮀，〈徒何反。〉後嗣傳職，賢而有識，亦稱",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p107",
@@ -1277,11 +1730,15 @@
       "chapter": "卷一",
       "para_index": 107
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "審毋妨。〈毋，音無，一作無。妨，敷方反，害也。〉"
+    "note": "只有審毋妨這組正文姓名、異文與妨字訓，沒有人的領域內容",
+    "excerpt": "審毋妨。〈毋，音無，一作無。妨，敷方反，害也。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p108",
@@ -1289,11 +1746,15 @@
       "chapter": "卷一",
       "para_index": 108
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "審氏之先，爲周司空屬官，主審曲靣勢者也，後因賜族。漢有審食其。〈音異基。補曰︰後"
+    "note": "考審氏官族來源並訓毋妨為勿害，禁止妨害只是在說名字意思",
+    "excerpt": "審氏之先，爲周司空屬官，主審曲靣勢者也，後因賜族。漢有審食其。〈音異基。補曰︰後",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p109",
@@ -1301,11 +1762,15 @@
       "chapter": "卷一",
       "para_index": 109
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "龐賞贛，〈龐，皮江反。贛、貢同。〉"
+    "note": "只有龐賞贛這組正文姓名與字形音讀，依字表閘門判空",
+    "excerpt": "龐賞贛，〈龐，皮江反。贛、貢同。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p110",
@@ -1313,11 +1778,16 @@
       "chapter": "卷一",
       "para_index": 110
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "龐者，高屋之名。龐氏之先，貲産殷富，好爲室屋。郷黨榮慕，謂之龐家，遂以立氏。魏有"
+    "note": "敘龐氏先人富而好建屋、受鄉里稱慕而立氏的傳說，再解賞贛，皆為姓氏姓名來源",
+    "excerpt": "龐者，高屋之名。龐氏之先，貲産殷富，好爲室屋。郷黨榮慕，謂之龐家，遂以立氏。魏有",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p111",
@@ -1325,11 +1795,15 @@
       "chapter": "卷一",
       "para_index": 111
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "來士梁。〈來，一作斄。〉"
+    "note": "只有來士梁這組正文姓名與異文，沒有獨立談工作或品格",
+    "excerpt": "來士梁。〈來，一作斄。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p112",
@@ -1337,11 +1811,15 @@
       "chapter": "卷一",
       "para_index": 112
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "來氏，殷之別族，本子姓。〈補曰︰商之支孫，食采於郲，因以命氏，後單為來。《百官表"
+    "note": "考來、斄二姓來源並訓士梁為士君子棟梁，成就意象只是姓名釋義",
+    "excerpt": "來氏，殷之別族，本子姓。〈補曰︰商之支孫，食采於郲，因以命氏，後單為來。《百官表",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p113",
@@ -1349,11 +1827,15 @@
       "chapter": "卷一",
       "para_index": 113
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "成者，周之采地，𡖖士所食，成肅公、簡公、桓公是也，故稱氏焉。〈補曰︰《史記》：武"
+    "note": "羅列成氏的采地、世系與人物並訓博為多聞好學，學問評語只屬名字解釋",
+    "excerpt": "成者，周之采地，𡖖士所食，成肅公、簡公、桓公是也，故稱氏焉。〈補曰︰《史記》：武",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p114",
@@ -1361,11 +1843,16 @@
       "chapter": "卷一",
       "para_index": 114
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "陶唐氏之後，在夏爲御龍氏，在商爲豕韋氏，在周為唐杜氏。其後杜伯之孫曰士蔿，爲晉司"
+    "note": "敘陶唐後裔歷代官職、食邑而成范氏的沿革，再解建羌之名，屬姓源與功名義訓",
+    "excerpt": "陶唐氏之後，在夏爲御龍氏，在商爲豕韋氏，在周為唐杜氏。其後杜伯之孫曰士蔿，爲晉司",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p115",
@@ -1373,11 +1860,15 @@
       "chapter": "卷一",
       "para_index": 115
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "閻歡欣，〈閻，余廉反。〉"
+    "note": "只有閻歡欣這組正文姓名與反切，依字表閘門不標情緒領域",
+    "excerpt": "閻歡欣，〈閻，余廉反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p116",
@@ -1385,11 +1876,15 @@
       "chapter": "卷一",
       "para_index": 116
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "閻者，里中門也。因其所居，遂以爲姓。晉有閻嘉、閻没，齊有閻職。〈補曰︰閻以邑為氏"
+    "note": "考閻氏因居地或封邑得姓並解歡欣為得人歡心，純屬姓氏姓名訓詁",
+    "excerpt": "閻者，里中門也。因其所居，遂以爲姓。晉有閻嘉、閻没，齊有閻職。〈補曰︰閻以邑為氏",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p117",
@@ -1397,11 +1892,15 @@
       "chapter": "卷一",
       "para_index": 117
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "寧氏與秦同姓。秦襄公曾孫，謚曰寕公，支庶因以爲氏。一曰：寕、寗本一姓，衛大夫寗俞"
+    "note": "考寧、寗姓源與異字並以詩句解可忘之名，善德不可忘只是姓名義訓",
+    "excerpt": "寧氏與秦同姓。秦襄公曾孫，謚曰寕公，支庶因以爲氏。一曰：寕、寗本一姓，衛大夫寗俞",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p118",
@@ -1409,11 +1908,16 @@
       "chapter": "卷一",
       "para_index": 118
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "苟，草名也，所居饒之，因以命氏。漢有苟賔，河內人也。今之河內猶有此姓焉。〈補曰︰"
+    "note": "考苟氏因地或避難改族的來源並訓貞夫，守節與成人稱謂仍服務於釋名",
+    "excerpt": "苟，草名也，所居饒之，因以命氏。漢有苟賔，河內人也。今之河內猶有此姓焉。〈補曰︰",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p119",
@@ -1421,11 +1925,15 @@
       "chapter": "卷一",
       "para_index": 119
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "苖涉臧。〈苗，一作茅。〉"
+    "note": "只有苗涉臧這組正文姓名與異文，沒有人的領域內容",
+    "excerpt": "苖涉臧。〈苗，一作茅。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p120",
@@ -1433,11 +1941,16 @@
       "chapter": "卷一",
       "para_index": 120
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "苗賁皇，本楚人，後奔於晉，其子孫遂為苗氏。〈補曰︰苗，晋邑。《左傳》：若敖之乱，"
+    "note": "敘苗賁皇奔晉及苗、茅二姓來源，再列涉臧的兩種姓名解釋，仍是姓源與釋名",
+    "excerpt": "苗賁皇，本楚人，後奔於晉，其子孫遂為苗氏。〈補曰︰苗，晋邑。《左傳》：若敖之乱，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p121",
@@ -1445,11 +1958,16 @@
       "chapter": "卷一",
       "para_index": 121
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "田氏之先，職賦田者也，因以為姓。晋有田蘇，宋有田景。〈補曰︰《左傳》田丙，以唐諱"
+    "note": "敘田氏職官說及陳完後人篡齊、稱王、亡國遷徙的姓族沿革，細兒則只是名字訓詁",
+    "excerpt": "田氏之先，職賦田者也，因以為姓。晋有田蘇，宋有田景。〈補曰︰《左傳》田丙，以唐諱",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p122",
@@ -1457,11 +1975,15 @@
       "chapter": "卷一",
       "para_index": 122
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "謝，南方國名也。周宣王后父申伯於此作邑，其後以為氏。魯有謝息。〈補曰︰謝在南陽𣗥"
+    "note": "考謝氏國族來源並解內黃為德性或地名，所引按事件命名例皆屬姓名考據",
+    "excerpt": "謝，南方國名也。周宣王后父申伯於此作邑，其後以為氏。魯有謝息。〈補曰︰謝在南陽𣗥",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p123",
@@ -1469,11 +1991,15 @@
       "chapter": "卷一",
       "para_index": 123
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "衛人高柴，爲孔子弟子，後居於魯，末裔以柴爲姓。漢有將軍柴武。桂林者，取其冬生不凋"
+    "note": "考柴氏由高柴後裔得姓並解桂林的常青繁盛意象，純屬姓源與釋名",
+    "excerpt": "衛人高柴，爲孔子弟子，後居於魯，末裔以柴爲姓。漢有將軍柴武。桂林者，取其冬生不凋",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p124",
@@ -1481,11 +2007,15 @@
       "chapter": "卷一",
       "para_index": 124
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "温直衡。〈衡，叶戶郎反，見《詩‧采𦬊》、《韓奕》、《閟宫》、《烈祖》、《長發》、"
+    "note": "只有溫直衡這組正文姓名與押韻書證，沒有獨立談公正品格",
+    "excerpt": "温直衡。〈衡，叶戶郎反，見《詩‧采𦬊》、《韓奕》、《閟宫》、《烈祖》、《長發》、",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p125",
@@ -1493,11 +2023,15 @@
       "chapter": "卷一",
       "para_index": 125
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "温氏之先，出自己姓。〈己，音紀。〉又晉之郤至，食邑河內之温，號曰温季，其後亦爲温"
+    "note": "考溫氏多種國邑來源與人名並訓直衡為正平，品格語只是名字解釋",
+    "excerpt": "温氏之先，出自己姓。〈己，音紀。〉又晉之郤至，食邑河內之温，號曰温季，其後亦爲温",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p126",
@@ -1505,11 +2039,15 @@
       "chapter": "卷一",
       "para_index": 126
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "奚仲旣遷于邳，其後遂稱奚氏。漢有奚涓。〈工玄反。補曰︰又有奚意。〉驕者，父母愛而"
+    "note": "考奚氏來源並解驕為父母愛稱、叔為排行，親子語只用於姓名訓詁",
+    "excerpt": "奚仲旣遷于邳，其後遂稱奚氏。漢有奚涓。〈工玄反。補曰︰又有奚意。〉驕者，父母愛而",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p127",
@@ -1517,11 +2055,15 @@
       "chapter": "卷一",
       "para_index": 127
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "邴勝箱。〈邴，一作祊，音柄，又音丙。勝，書烝反。〉"
+    "note": "只有邴勝箱這組正文姓名、異文與反切，依字表閘門判空",
+    "excerpt": "邴勝箱。〈邴，一作祊，音柄，又音丙。勝，書烝反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p128",
@@ -1529,11 +2071,16 @@
       "chapter": "卷一",
       "para_index": 128
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "祊，泰山下邑也，居之者以爲姓焉。〈朱氏曰︰《春秋》祊字，《公》、《穀》作邴，故顔"
+    "note": "考邴祊異字與姓源，並以缺文推論後人增注有誤；近侍、負重都只是勝箱的釋名",
+    "excerpt": "祊，泰山下邑也，居之者以爲姓焉。〈朱氏曰︰《春秋》祊字，《公》、《穀》作邴，故顔",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p129",
@@ -1541,11 +2088,15 @@
       "chapter": "卷一",
       "para_index": 129
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "雍弘敞，〈雍，於用反。〉"
+    "note": "只有雍弘敞這組正文姓名與反切，沒有人的領域內容",
+    "excerpt": "雍弘敞，〈雍，於用反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p130",
@@ -1553,11 +2104,15 @@
       "chapter": "卷一",
       "para_index": 130
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "雍，國名也，在河內山陽。文王之子所封，其後以爲姓。又宋有雍氏，本姞姓也。〈姞，其"
+    "note": "考雍氏多種國族來源與人名並訓弘敞為大而高明，純屬姓源與釋名",
+    "excerpt": "雍，國名也，在河內山陽。文王之子所封，其後以爲姓。又宋有雍氏，本姞姓也。〈姞，其",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p131",
@@ -1565,11 +2120,16 @@
       "chapter": "卷一",
       "para_index": 131
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "劉氏之先，與范氏同祖。士㑹自秦歸于晉，其族留秦不去者爲劉氏。〈補曰︰陶唐氏旣衰，"
+    "note": "敘士會歸晉而族人留秦等劉氏來源，再以香草解若芳之名，仍是姓源與姓名義訓",
+    "excerpt": "劉氏之先，與范氏同祖。士㑹自秦歸于晉，其族留秦不去者爲劉氏。〈補曰︰陶唐氏旣衰，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p132",
@@ -1577,11 +2137,15 @@
       "chapter": "卷一",
       "para_index": 132
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "文王之子封於毛國，其後以爲姓焉。〈補曰︰《史記》：毛叔鄭。《顧命》：毛公司空。〉"
+    "note": "考毛氏受封與采地來源並解遺羽為自謙輕賤之稱，自我評價只屬姓名字義",
+    "excerpt": "文王之子封於毛國，其後以爲姓焉。〈補曰︰《史記》：毛叔鄭。《顧命》：毛公司空。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p133",
@@ -1589,11 +2153,16 @@
       "chapter": "卷一",
       "para_index": 133
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "造父旣封趙城，其後稱馬氏，葢以善御馬云。又趙將趙奢，克敗秦師，賜號馬服君，其後亦"
+    "note": "敘造父、趙奢與馬氏來源並考以畜類為愛稱的命名習慣，親愛之語仍服務於姓名考據",
+    "excerpt": "造父旣封趙城，其後稱馬氏，葢以善御馬云。又趙將趙奢，克敗秦師，賜號馬服君，其後亦",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p134",
@@ -1601,11 +2170,15 @@
       "chapter": "卷一",
       "para_index": 134
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "吕望爲周武王太師，號尚父，其後或以爲姓。〈補曰︰《戰國䇿》：韓有尚靳。漢有尚但、"
+    "note": "考尚氏來源並訓次為排行、倩為美稱，純屬姓源與姓名字義",
+    "excerpt": "吕望爲周武王太師，號尚父，其後或以爲姓。〈補曰︰《戰國䇿》：韓有尚靳。漢有尚但、",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p135",
@@ -1613,11 +2186,15 @@
       "chapter": "卷一",
       "para_index": 135
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "陳有宛丘，居之者以爲姓。〈補曰︰《風俗通》曰：魯左丘明之後。又齊太公封於營丘，支"
+    "note": "考丘氏因地得姓並解則陽為取法天象的名字，剛德不干時只是姓名義訓",
+    "excerpt": "陳有宛丘，居之者以爲姓。〈補曰︰《風俗通》曰：魯左丘明之後。又齊太公封於營丘，支",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p136",
@@ -1625,11 +2202,15 @@
       "chapter": "卷一",
       "para_index": 136
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "隂，亦周之采地。周大夫隂忌、隂不佞、隂里，其後遂爲姓焉。〈補曰︰《後漢‧隂識傳》"
+    "note": "考陰氏采地與人物來源並解賓上為受君賓禮，君臣關係只是在釋名",
+    "excerpt": "隂，亦周之采地。周大夫隂忌、隂不佞、隂里，其後遂爲姓焉。〈補曰︰《後漢‧隂識傳》",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p137",
@@ -1637,11 +2218,16 @@
       "chapter": "卷一",
       "para_index": 137
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "翠氏，楚景翠之後也。避入𨶚之遷，懷土逃匿，攺姓爲翠。〈補曰︰《廣韻》：翠，姓，引"
+    "note": "敘翠氏避遷改姓的傳說並以匹鳥考鴛鴦之名，仍屬姓氏來源與名物書證",
+    "excerpt": "翠氏，楚景翠之後也。避入𨶚之遷，懷土逃匿，攺姓爲翠。〈補曰︰《廣韻》：翠，姓，引",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p138",
@@ -1649,11 +2235,15 @@
       "chapter": "卷一",
       "para_index": 138
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "庶氏之先，本出衛之公族，以非正嫡，遂號庶氏。《禮記》曰「子思之母死於衛」，庶氏之"
+    "note": "考庶氏由非正嫡或官名得姓並解霸遂之名，嫡庶與霸業只服務於姓名考據",
+    "excerpt": "庶氏之先，本出衛之公族，以非正嫡，遂號庶氏。《禮記》曰「子思之母死於衛」，庶氏之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p139",
@@ -1661,11 +2251,15 @@
       "chapter": "卷一",
       "para_index": 139
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "萭叚𡖖。〈𡖖，叶乞郎反。萭，王矩反；《廣韻》音矩，又音禹。〉"
+    "note": "只有萭叚卿這組正文姓名與音韻訓釋，沒有人的領域內容",
+    "excerpt": "萭叚𡖖。〈𡖖，叶乞郎反。萭，王矩反；《廣韻》音矩，又音禹。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p140",
@@ -1673,11 +2267,15 @@
       "chapter": "卷一",
       "para_index": 140
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "萭亦楀字。楀者木名，因樹以得姓也。《詩》云：楀維師氏。〈楀音同。《漢書》楀作萭。"
+    "note": "考萭楀的字形、草木與姓氏書證並解叚卿為石意象，純屬校勘和姓名訓詁",
+    "excerpt": "萭亦楀字。楀者木名，因樹以得姓也。《詩》云：楀維師氏。〈楀音同。《漢書》楀作萭。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p141",
@@ -1685,11 +2283,15 @@
       "chapter": "卷一",
       "para_index": 141
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "泠幼功，〈泠，一作伶，音零，字從水，亦作伶。〉"
+    "note": "只有泠幼功這組正文姓名與異體音讀，依字表閘門判空",
+    "excerpt": "泠幼功，〈泠，一作伶，音零，字從水，亦作伶。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p142",
@@ -1697,11 +2299,15 @@
       "chapter": "卷一",
       "para_index": 142
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "泠人，掌樂之官也，因爲姓焉。黄帝時有泠倫，〈補曰︰《漢‧律歷志》作綸。〉周有泠州"
+    "note": "考泠氏由世掌樂官而得姓並訓幼、功的字義，職業與立功只屬姓名解釋",
+    "excerpt": "泠人，掌樂之官也，因爲姓焉。黄帝時有泠倫，〈補曰︰《漢‧律歷志》作綸。〉周有泠州",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#01-p143",
@@ -1709,11 +2315,16 @@
       "chapter": "卷一",
       "para_index": 143
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "周大夫武氏子，其後因爲武姓。陳勝之起也，武臣自立爲趙王，項羽之客亦有武涉。〈補曰"
+    "note": "考武氏來源並列武臣起事稱王等人名書證，再解初昌之名，仍是姓氏姓名考據",
+    "excerpt": "周大夫武氏子，其後因爲武姓。陳勝之起也，武臣自立爲趙王，項羽之客亦有武涉。〈補曰",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p01",
@@ -1721,11 +2332,15 @@
       "chapter": "卷二",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "褚囬池，〈褚，丑吕反。〉"
+    "note": "正文只列褚囬池三個人名用字並附反切，是字表",
+    "excerpt": "褚囬池，〈褚，丑吕反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p02",
@@ -1733,11 +2348,15 @@
       "chapter": "卷二",
       "para_index": 2
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "褚師，官名也。衛有褚師定子、聲子及褚師圃，其後因姓褚焉。〈補曰︰《左傳》注：褚師"
+    "note": "考褚氏由官名、地名得姓及囬池字義與異文，是姓氏源流、書證和校勘",
+    "excerpt": "褚師，官名也。衛有褚師定子、聲子及褚師圃，其後因姓褚焉。〈補曰︰《左傳》注：褚師",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p03",
@@ -1745,11 +2364,16 @@
       "chapter": "卷二",
       "para_index": 3
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "鄭穆公本因夢蘭而生，故號公子蘭，其後支庶或爲蘭氏。〈補曰︰《廣韻》：漢有武陵太守"
+    "note": "以鄭穆公夢蘭生子說明蘭氏來源並考偉房用字，是姓源與人名考據",
+    "excerpt": "鄭穆公本因夢蘭而生，故號公子蘭，其後支庶或爲蘭氏。〈補曰︰《廣韻》：漢有武陵太守",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p04",
@@ -1757,11 +2381,15 @@
       "chapter": "卷二",
       "para_index": 4
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "減罷軍，〈罷，薄蟹反，又音疲。〉"
+    "note": "正文只列減罷軍三個人名用字並注音，是字表",
+    "excerpt": "減罷軍，〈罷，薄蟹反，又音疲。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p05",
@@ -1769,11 +2397,16 @@
       "chapter": "卷二",
       "para_index": 5
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "減氏之先，為晉公族大夫。驪姬之難，晉廢公族，因謂其人爲減氏。減者，省也。〈省，所"
+    "note": "以驪姬之難解釋減氏來源並訓罷軍、列舉名例，是姓源與訓詁",
+    "excerpt": "減氏之先，為晉公族大夫。驪姬之難，晉廢公族，因謂其人爲減氏。減者，省也。〈省，所",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p06",
@@ -1781,11 +2414,16 @@
       "chapter": "卷二",
       "para_index": 6
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "黄帝葬於橋山，羣臣追慕，守冢不去者，因爲橋氏。漢有橋庇、〈必寐反。〉橋仁、橋桃。"
+    "note": "以黃帝葬後群臣守冢解橋氏並考竇陽之名，是姓氏源流與人名考據",
+    "excerpt": "黄帝葬於橋山，羣臣追慕，守冢不去者，因爲橋氏。漢有橋庇、〈必寐反。〉橋仁、橋桃。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p07",
@@ -1793,11 +2431,15 @@
       "chapter": "卷二",
       "para_index": 7
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "原輔輻，〈輻，方六反。〉"
+    "note": "正文只列原輔輻三個人名用字並附反切，是字表",
+    "excerpt": "原輔輻，〈輻，方六反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p08",
@@ -1805,11 +2447,16 @@
       "chapter": "卷二",
       "para_index": 8
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "周文王之子封為原伯，其地今在河內。〈補曰︰今孟州濟源縣。〉扵後為晉所滅，遷之于兾"
+    "note": "追述原氏受封、亡國與遷徙的得姓過程，兼訓輔輻並引書證，仍是姓源考據",
+    "excerpt": "周文王之子封為原伯，其地今在河內。〈補曰︰今孟州濟源縣。〉扵後為晉所滅，遷之于兾",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p09",
@@ -1817,11 +2464,16 @@
       "chapter": "卷二",
       "para_index": 9
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "周宣王中興，國人美其徳，故支庶以為氏。〈補曰︰《風俗通》：宋宣公之後，以謚為氏。"
+    "note": "以宣王中興受美解宣氏並訓棄奴為愛而諱，是姓氏來源與名字訓詁",
+    "excerpt": "周宣王中興，國人美其徳，故支庶以為氏。〈補曰︰《風俗通》：宋宣公之後，以謚為氏。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p10",
@@ -1829,11 +2481,15 @@
       "chapter": "卷二",
       "para_index": 10
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "微子，本殷之族，雖封於宋，支庶或称殷氏。〈補曰︰《風俗通》曰：氏扵号，唐、虞、夏"
+    "note": "考殷氏由族屬或居地得姓並解滿息字義，是姓源與人名訓詁",
+    "excerpt": "微子，本殷之族，雖封於宋，支庶或称殷氏。〈補曰︰《風俗通》曰：氏扵号，唐、虞、夏",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p11",
@@ -1841,11 +2497,15 @@
       "chapter": "卷二",
       "para_index": 11
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "充氏，古仙人充尚之後也。〈補曰︰充尚見《史記‧封禪書》。《姓氏辨證》云：出自《周"
+    "note": "考充氏、申屠與信都的族源、官號及名例，是姓氏和語音訓詁",
+    "excerpt": "充氏，古仙人充尚之後也。〈補曰︰充尚見《史記‧封禪書》。《姓氏辨證》云：出自《周",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p12",
@@ -1853,11 +2513,16 @@
       "chapter": "卷二",
       "para_index": 12
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "夏桀為湯所滅，其族遂稱夏氏。又陳宣公之孫御叔之子號夏徵舒、夏齧、夏區〈烏侯反。〉"
+    "note": "追考夏氏兩支族源並解脩俠作為人名的含義，是姓氏與名字考據",
+    "excerpt": "夏桀為湯所滅，其族遂稱夏氏。又陳宣公之孫御叔之子號夏徵舒、夏齧、夏區〈烏侯反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p13",
@@ -1865,11 +2530,15 @@
       "chapter": "卷二",
       "para_index": 13
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "黄帝姓公孫氏，支庻遂以為姓也。又公子之子，皆號公孫。魯公孫敖，鄭公孫閼，〈烏葛反"
+    "note": "分類公孫氏的得姓方式並以書證解都為美稱，是姓源與名字訓詁",
+    "excerpt": "黄帝姓公孫氏，支庻遂以為姓也。又公子之子，皆號公孫。魯公孫敖，鄭公孫閼，〈烏葛反",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p14",
@@ -1877,11 +2546,15 @@
       "chapter": "卷二",
       "para_index": 14
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "慈仁他，〈他，一作化，一作地。〉"
+    "note": "正文只列慈仁他三個人名用字及異文，是字表",
+    "excerpt": "慈仁他，〈他，一作化，一作地。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p15",
@@ -1889,11 +2562,15 @@
       "chapter": "卷二",
       "para_index": 15
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "慈氏，本高陽氏才子之後也。美其宣慈恵和，因以為姓。〈補曰︰高陽，當作高辛。慈氏見"
+    "note": "考慈氏來源並把仁他訓為所愛及遠，僅在解姓氏與名字字義",
+    "excerpt": "慈氏，本高陽氏才子之後也。美其宣慈恵和，因以為姓。〈補曰︰高陽，當作高辛。慈氏見",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p16",
@@ -1901,11 +2578,16 @@
       "chapter": "卷二",
       "para_index": 16
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "虢叔，周王季之子也，受封扵虢，其地今陝州陝縣是也。後為晉所滅，虢公醜奔周，遂姓郭"
+    "note": "以虢國覆亡等史事解郭氏來源並訓破胡之名，是姓源和名例考據",
+    "excerpt": "虢叔，周王季之子也，受封扵虢，其地今陝州陝縣是也。後為晉所滅，虢公醜奔周，遂姓郭",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p17",
@@ -1913,11 +2595,15 @@
       "chapter": "卷二",
       "para_index": 17
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "虞尊偃，〈尊，一作荀。〉"
+    "note": "正文只列虞尊偃三個人名用字及異文，是字表",
+    "excerpt": "虞尊偃，〈尊，一作荀。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p18",
@@ -1925,11 +2611,16 @@
       "chapter": "卷二",
       "para_index": 18
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "帝舜之後，或爲虞姓。又周太伯之弟仲雍，號曰虞仲，嗣太伯之後。武王克商，封虞仲之庻"
+    "note": "追述虞氏受封與亡國的族源並校勘尊偃之名，是姓氏源流和文字考據",
+    "excerpt": "帝舜之後，或爲虞姓。又周太伯之弟仲雍，號曰虞仲，嗣太伯之後。武王克商，封虞仲之庻",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p19",
@@ -1937,11 +2628,15 @@
       "chapter": "卷二",
       "para_index": 19
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "憲氏之先，本為周之布憲，司㓂之屬官也，其後以爲姓焉。義渠，國名也，後為縣，在北地"
+    "note": "解憲氏出自官職、義渠取自國縣並列名例，是姓氏與人名考據",
+    "excerpt": "憲氏之先，本為周之布憲，司㓂之屬官也，其後以爲姓焉。義渠，國名也，後為縣，在北地",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p20",
@@ -1949,11 +2644,16 @@
       "chapter": "卷二",
       "para_index": 20
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "周蔡叔者，文王之子，為周公所誅，而封其子仲扵蔡，是為蔡侯。其後為楚所滅，遂稱蔡氏"
+    "note": "以蔡叔一支受封及亡國解蔡氏並訓游威之名，是姓源與名字考據",
+    "excerpt": "周蔡叔者，文王之子，為周公所誅，而封其子仲扵蔡，是為蔡侯。其後為楚所滅，遂稱蔡氏",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p21",
@@ -1961,11 +2661,15 @@
       "chapter": "卷二",
       "para_index": 21
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "左丘明，本魯之左史，繼守其職，遂為姓焉。又楚左史倚相，〈倚，於綺反。〉末裔亦為左"
+    "note": "考左氏由史官職掌得姓並訓地餘為封邑廣大，是姓氏與人名訓詁",
+    "excerpt": "左丘明，本魯之左史，繼守其職，遂為姓焉。又楚左史倚相，〈倚，於綺反。〉末裔亦為左",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p22",
@@ -1973,11 +2677,15 @@
       "chapter": "卷二",
       "para_index": 22
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "譚平定，〈譚，徒南反。〉"
+    "note": "正文只列譚平定三個人名用字並附反切，是字表",
+    "excerpt": "譚平定，〈譚，徒南反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p23",
@@ -1985,11 +2693,16 @@
       "chapter": "卷二",
       "para_index": 23
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "譚，小國也，〈補曰︰在済南平陵縣西南。〉爲齊所滅。譚子奔莒，因姓譚焉。〈補曰︰周"
+    "note": "以譚國被滅、譚子出奔解譚氏並訓平定之名，是姓源與人名考據",
+    "excerpt": "譚，小國也，〈補曰︰在済南平陵縣西南。〉爲齊所滅。譚子奔莒，因姓譚焉。〈補曰︰周",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p24",
@@ -1997,11 +2710,15 @@
       "chapter": "卷二",
       "para_index": 24
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "魯桓子慶父〈讀曰甫。〉之後，號孟孫氏，其後稱孟氏焉。〈補曰︰有孟公綽、孟之反。《"
+    "note": "考孟氏兩支族源並訓伯、徐作為名字的含義，是姓氏與名字訓詁",
+    "excerpt": "魯桓子慶父〈讀曰甫。〉之後，號孟孫氏，其後稱孟氏焉。〈補曰︰有孟公綽、孟之反。《",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p25",
@@ -2009,11 +2726,15 @@
       "chapter": "卷二",
       "para_index": 25
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "葛轗軻，〈轗，苦感反。軻，枯我反，又音珂。〉"
+    "note": "正文只列葛轗軻三個人名用字並附反切，是字表",
+    "excerpt": "葛轗軻，〈轗，苦感反。軻，枯我反，又音珂。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p26",
@@ -2021,11 +2742,16 @@
       "chapter": "卷二",
       "para_index": 26
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "夏時諸侯有葛伯，為湯所征，遂失其國，因稱葛氏。〈補曰︰陳留寕陵縣，葛伯囯。〉又春"
+    "note": "以葛國失國解葛氏並考轗軻及孟子名、字的由來，是姓源與人名考據",
+    "excerpt": "夏時諸侯有葛伯，為湯所征，遂失其國，因稱葛氏。〈補曰︰陳留寕陵縣，葛伯囯。〉又春",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p27",
@@ -2033,11 +2759,15 @@
       "chapter": "卷二",
       "para_index": 27
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "敦倚蘇。〈敦，都昆反。〉"
+    "note": "正文只列敦倚蘇三個人名用字並附反切，是字表",
+    "excerpt": "敦倚蘇。〈敦，都昆反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p28",
@@ -2045,11 +2775,15 @@
       "chapter": "卷二",
       "para_index": 28
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "敦氏，秦文公時史敦之後也。〈補曰︰《史記‧封禪書》：文公問史敦，扵是作鄜畤。《陳"
+    "note": "考敦氏來源並訓倚蘇這個人名，補注另列錡、蘇姓源，皆屬姓名考據",
+    "excerpt": "敦氏，秦文公時史敦之後也。〈補曰︰《史記‧封禪書》：文公問史敦，扵是作鄜畤。《陳",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p29",
@@ -2057,11 +2791,15 @@
       "chapter": "卷二",
       "para_index": 29
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "耿潘扈，〈耿，古幸反。〉"
+    "note": "正文只列耿潘扈三個人名用字並附反切，是字表",
+    "excerpt": "耿潘扈，〈耿，古幸反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p30",
@@ -2069,11 +2807,15 @@
       "chapter": "卷二",
       "para_index": 30
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "耿，地名也，在河北，祖乙所都。舊居之者，以為姓也。又有耿國，在平陽皮氏，晉獻公滅"
+    "note": "考耿、潘、扈的地名或姓氏說並解名字字義，是姓名與地理訓詁",
+    "excerpt": "耿，地名也，在河北，祖乙所都。舊居之者，以為姓也。又有耿國，在平陽皮氏，晉獻公滅",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p31",
@@ -2081,11 +2823,16 @@
       "chapter": "卷二",
       "para_index": 31
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "武王克殷，封神農之後於焦，末葉因為焦氏。又有姬姓小國，亦謂之焦，為晉所滅，後称焦"
+    "note": "以焦國受封與被滅解焦氏並訓滅胡之名，是姓氏源流與名例考據",
+    "excerpt": "武王克殷，封神農之後於焦，末葉因為焦氏。又有姬姓小國，亦謂之焦，為晉所滅，後称焦",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p32",
@@ -2093,11 +2840,15 @@
       "chapter": "卷二",
       "para_index": 32
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "齊有晏弱，本齊之公族也，號晏桓子。桓子生嬰，曰晏平仲，其後遂為晏氏。又有晏圉、晏"
+    "note": "考晏氏族源並訓奇能為異材，是姓氏和人名用字考據",
+    "excerpt": "齊有晏弱，本齊之公族也，號晏桓子。桓子生嬰，曰晏平仲，其後遂為晏氏。又有晏圉、晏",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p33",
@@ -2105,11 +2856,15 @@
       "chapter": "卷二",
       "para_index": 33
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "邢麗奢。〈奢，叶音都。《荀子‧佹詩》：閭娵子奢。注云：奢，當為都。漢鼂錯對䇿，奢"
+    "note": "正文只列邢麗奢三個人名用字並校注韻讀，是字表",
+    "excerpt": "邢麗奢。〈奢，叶音都。《荀子‧佹詩》：閭娵子奢。注云：奢，當為都。漢鼂錯對䇿，奢",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p34",
@@ -2117,11 +2872,16 @@
       "chapter": "卷二",
       "para_index": 34
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "邢，本姬姓之國，周公之胤也，爲衛所滅，因称邢氏。〈補曰︰邢囯在邢州。晉有邢蒯、邢"
+    "note": "以邢國被滅解邢氏並訓麗奢為美而不陋，是姓源與名字訓詁",
+    "excerpt": "邢，本姬姓之國，周公之胤也，爲衛所滅，因称邢氏。〈補曰︰邢囯在邢州。晉有邢蒯、邢",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p35",
@@ -2129,11 +2889,15 @@
       "chapter": "卷二",
       "para_index": 35
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "邵守實，〈劭，《詩》、《書》、《左傳》、《漢書》作召。〉"
+    "note": "正文只列邵守實三個人名用字並校記邵、召異文，是字表",
+    "excerpt": "邵守實，〈劭，《詩》、《書》、《左傳》、《漢書》作召。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p36",
@@ -2141,11 +2905,15 @@
       "chapter": "卷二",
       "para_index": 36
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "邵穆公，周𡖖士也，繼守其職。邵伯廖、邵武公，皆其後也，〈補曰︰召，采地，扶風雍縣"
+    "note": "考邵氏由世守職位得姓並解守實之名，所述德性只是名字訓義",
+    "excerpt": "邵穆公，周𡖖士也，繼守其職。邵伯廖、邵武公，皆其後也，〈補曰︰召，采地，扶風雍縣",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p37",
@@ -2153,11 +2921,15 @@
       "chapter": "卷二",
       "para_index": 37
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "宰安期。〈期，叶于韻。《楚辭‧九章》，之叶厨。〉"
+    "note": "正文只列宰安期三個人名用字並校注韻讀，是字表",
+    "excerpt": "宰安期。〈期，叶于韻。《楚辭‧九章》，之叶厨。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p38",
@@ -2165,11 +2937,15 @@
       "chapter": "卷二",
       "para_index": 38
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "宰氏，周大夫宰孔之後也。〈補曰︰宰孔，宰周公閱。孔子弟子宰予。《吕氏春秋》：魯有"
+    "note": "考宰氏族源並說安期取古人之名，是姓氏與命名書證",
+    "excerpt": "宰氏，周大夫宰孔之後也。〈補曰︰宰孔，宰周公閱。孔子弟子宰予。《吕氏春秋》：魯有",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p39",
@@ -2177,11 +2953,15 @@
       "chapter": "卷二",
       "para_index": 39
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "俠氏，韓相俠累之後也。〈補曰︰俠累，《戰囯䇿》名隗。俠，古挾反。累，力追反。〉却"
+    "note": "考俠氏來源並把卻敵訓作禦寇能力，僅在說姓氏與人名含義",
+    "excerpt": "俠氏，韓相俠累之後也。〈補曰︰俠累，《戰囯䇿》名隗。俠，古挾反。累，力追反。〉却",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p40",
@@ -2189,11 +2969,15 @@
       "chapter": "卷二",
       "para_index": 40
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "代焉于。〈焉，扵虔反，何也。〉"
+    "note": "正文只列代焉于三個人名用字並訓讀焉字，是字表",
+    "excerpt": "代焉于。〈焉，扵虔反，何也。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p41",
@@ -2201,11 +2985,16 @@
       "chapter": "卷二",
       "para_index": 41
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "代，國名也，在常山之北。代王為趙襄子所滅，其遺族遂稱代氏焉。〈補曰︰代囯在蔚州。"
+    "note": "以代國被滅解代氏並訓焉于為不屈撓之名，是姓源與名字考據",
+    "excerpt": "代，國名也，在常山之北。代王為趙襄子所滅，其遺族遂稱代氏焉。〈補曰︰代囯在蔚州。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p42",
@@ -2213,11 +3002,15 @@
       "chapter": "卷二",
       "para_index": 42
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "司馬襃，〈襃，一作應。〉"
+    "note": "正文只列司馬襃三個人名用字並記異文，是字表",
+    "excerpt": "司馬襃，〈襃，一作應。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p43",
@@ -2225,11 +3018,16 @@
       "chapter": "卷二",
       "para_index": 43
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "程伯休父，周宣王時有平徐方之功，錫以官族，為司馬氏。其後有適晉者，司馬侯、司馬叔"
+    "note": "追述程伯休父因軍功受賜官族而成司馬氏並訓襃字，是姓源與人名考據",
+    "excerpt": "程伯休父，周宣王時有平徐方之功，錫以官族，為司馬氏。其後有適晉者，司馬侯、司馬叔",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p44",
@@ -2237,11 +3035,15 @@
       "chapter": "卷二",
       "para_index": 44
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "前已有尚次倩，今又言尚自扵，一姓再見也。尚，或作掌，葢魯大夫黨氏之後也。黨亦音掌"
+    "note": "校說尚姓重見及掌、黨異讀並訓自於之名，是姓名與文字考據",
+    "excerpt": "前已有尚次倩，今又言尚自扵，一姓再見也。尚，或作掌，葢魯大夫黨氏之後也。黨亦音掌",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p45",
@@ -2249,11 +3051,15 @@
       "chapter": "卷二",
       "para_index": 45
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "陶唐氏之後，或單稱陶。又虞閼〈扵葛反。〉父為周陶正，其後亦稱陶氏。成王封康叔以殷"
+    "note": "列陶氏各支來源並以熊羆為男子祥兆解人名，是姓氏與命名訓詁",
+    "excerpt": "陶唐氏之後，或單稱陶。又虞閼〈扵葛反。〉父為周陶正，其後亦稱陶氏。成王封康叔以殷",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p46",
@@ -2261,11 +3067,15 @@
       "chapter": "卷二",
       "para_index": 46
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "解，地名也，在河東，因地爲姓，故晉國多解氏焉。〈補曰︰《廣韻》：唐叔虞食邑扵解。"
+    "note": "考解氏由地得姓並訓莫如之名、列名例，是姓氏與人名考據",
+    "excerpt": "解，地名也，在河東，因地爲姓，故晉國多解氏焉。〈補曰︰《廣韻》：唐叔虞食邑扵解。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p47",
@@ -2273,11 +3083,15 @@
       "chapter": "卷二",
       "para_index": 47
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "樂氏亦再見也。欣諧，喜扵和合也。〈補曰︰《尓雅》：欣，樂也。諧，和也。〉"
+    "note": "指出樂氏重見並訓欣諧為喜於和合，只是在解姓名字義",
+    "excerpt": "樂氏亦再見也。欣諧，喜扵和合也。〈補曰︰《尓雅》：欣，樂也。諧，和也。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p48",
@@ -2285,11 +3099,15 @@
       "chapter": "卷二",
       "para_index": 48
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "顓頊〈許玉反。〉之子號老童者，其後因以為姓。〈補曰︰《史記》：高陽生稱，稱生卷章"
+    "note": "考童氏出自老童並訓扶疏為盛多，是姓氏源流與名字訓詁",
+    "excerpt": "顓頊〈許玉反。〉之子號老童者，其後因以為姓。〈補曰︰《史記》：高陽生稱，稱生卷章",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p49",
@@ -2297,11 +3115,16 @@
       "chapter": "卷二",
       "para_index": 49
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "痛氏，本盛國之後，實姬姓也。周穆王嬖寵盛姬，早死，穆王哀痛不已，加禮葬之，遂攺其"
+    "note": "敘盛姬早死、穆王哀葬以解痛氏來源，另列無忌名例，仍是姓氏與人名考據",
+    "excerpt": "痛氏，本盛國之後，實姬姓也。周穆王嬖寵盛姬，早死，穆王哀痛不已，加禮葬之，遂攺其",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p50",
@@ -2309,11 +3132,15 @@
       "chapter": "卷二",
       "para_index": 50
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "向夷吾。〈向，式亮反，音餉。〉"
+    "note": "正文只列向夷吾三個人名用字並附反切，是字表",
+    "excerpt": "向夷吾。〈向，式亮反，音餉。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p51",
@@ -2321,11 +3148,15 @@
       "chapter": "卷二",
       "para_index": 51
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "向者，國名，本姜姓也，其後以為氏。〈補曰︰《春秋》：莒人入向。龍亢縣東南有向城。"
+    "note": "考向氏各支族源並說夷吾仿古人之名，是姓氏與命名書證",
+    "excerpt": "向者，國名，本姜姓也，其後以為氏。〈補曰︰《春秋》：莒人入向。龍亢縣東南有向城。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p52",
@@ -2333,11 +3164,15 @@
       "chapter": "卷二",
       "para_index": 52
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "閎并訢，〈閎，一作閣。閎，獲耕反。并，卑盈反。訢，古欣字。〉"
+    "note": "正文只列閎并訢三個人名用字並記異文、反切，是字表",
+    "excerpt": "閎并訢，〈閎，一作閣。閎，獲耕反。并，卑盈反。訢，古欣字。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p53",
@@ -2345,11 +3180,15 @@
       "chapter": "卷二",
       "para_index": 53
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "閎氏之先，本周之閎人。閎，所以止扉，今之門柣〈千結反。〉是也。職典其事，遂為姓焉"
+    "note": "考閎氏與閎字異文並訓并訢為眾人喜悅，是姓氏、校勘和名字訓詁",
+    "excerpt": "閎氏之先，本周之閎人。閎，所以止扉，今之門柣〈千結反。〉是也。職典其事，遂為姓焉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p54",
@@ -2357,11 +3196,15 @@
       "chapter": "卷二",
       "para_index": 54
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "竺諌朝。〈竺，張六反，俗作笁。朝，叶餘韻。《漢書‧叙傳》：昭叶符，驕叶喁。〉"
+    "note": "正文只列竺諫朝三個人名用字並校注音韻，是字表",
+    "excerpt": "竺諌朝。〈竺，張六反，俗作笁。朝，叶餘韻。《漢書‧叙傳》：昭叶符，驕叶喁。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p55",
@@ -2369,11 +3212,16 @@
       "chapter": "卷二",
       "para_index": 55
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "竺氏，本天竺國人也，来歸於漢而稱竺氏。天竺即身毒也，亦謂之捐毒。漢有竺次者，即其"
+    "note": "考竺氏由天竺人來漢得姓並訓諫朝這個名字與韻讀，是姓源和文字考據",
+    "excerpt": "竺氏，本天竺國人也，来歸於漢而稱竺氏。天竺即身毒也，亦謂之捐毒。漢有竺次者，即其",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p56",
@@ -2381,11 +3229,15 @@
       "chapter": "卷二",
       "para_index": 56
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "續氏，晉大夫續簡伯之後也，號狐鞫居，以食續地，更為續氏。〈補曰︰《廣韻》：舜七友"
+    "note": "考續氏由食邑得姓並訓增紀為高年，是姓氏與人名考據",
+    "excerpt": "續氏，晉大夫續簡伯之後也，號狐鞫居，以食續地，更為續氏。〈補曰︰《廣韻》：舜七友",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p57",
@@ -2393,11 +3245,15 @@
       "chapter": "卷二",
       "para_index": 57
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "遺氏，本魯季氏家臣南遺之後也。失餘，言所失之餘，惟此一字〈一作子。〉也。〈補曰︰"
+    "note": "考遺氏來源並解失餘之名及異說，是姓名訓詁",
+    "excerpt": "遺氏，本魯季氏家臣南遺之後也。失餘，言所失之餘，惟此一字〈一作子。〉也。〈補曰︰",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p58",
@@ -2405,11 +3261,15 @@
       "chapter": "卷二",
       "para_index": 58
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "所陳堪為姓名也。訖者，其事略究也。〈補曰︰《尓雅》：訖，止也。〉"
+    "note": "總結前文所陳皆可作姓名並解訖字，是篇章與字義說明",
+    "excerpt": "所陳堪為姓名也。訖者，其事略究也。〈補曰︰《尓雅》：訖，止也。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p59",
@@ -2417,11 +3277,15 @@
       "chapter": "卷二",
       "para_index": 59
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "請言物。〈此後一句一韻。〉"
+    "note": "請言物只是由姓名字表轉入名物字表的過渡句",
+    "excerpt": "請言物。〈此後一句一韻。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p60",
@@ -2429,11 +3293,15 @@
       "chapter": "卷二",
       "para_index": 60
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "次說雜物，并〈一作陳。〉衆品也。〈補曰︰《釋名》曰：書，庶也，紀庶物也。〉"
+    "note": "說明下文將次第列舉雜物眾品，是篇章結構註解",
+    "excerpt": "次說雜物，并〈一作陳。〉衆品也。〈補曰︰《釋名》曰：書，庶也，紀庶物也。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p61",
@@ -2441,11 +3309,15 @@
       "chapter": "卷二",
       "para_index": 61
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "錦繡縵䋃離雲爵，〈縵，莫半反。䋃，亡到反，音耄；一作純，順倫反。〉"
+    "note": "正文只列錦繡與紋樣等名物用字並附反切，是字表",
+    "excerpt": "錦繡縵䋃離雲爵，〈縵，莫半反。䋃，亡到反，音耄；一作純，順倫反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p62",
@@ -2453,11 +3325,15 @@
       "chapter": "卷二",
       "para_index": 62
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "錦，織綵為文也。〈補曰︰《說文》：錦，襄邑織文也。《左傳》：重錦三十两。《釋名》"
+    "note": "逐一訓解錦繡、繒帛和離雲孔爵紋樣並引書證，是織物名物考據",
+    "excerpt": "錦，織綵為文也。〈補曰︰《說文》：錦，襄邑織文也。《左傳》：重錦三十两。《釋名》",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p63",
@@ -2465,11 +3341,15 @@
       "chapter": "卷二",
       "para_index": 63
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "乗風縣鐘華洞樂。〈縣，音玄，一作懸。洞，一作𨽍，音瀆。樂，叶音洛。〉"
+    "note": "正文只列乘風、懸鐘、華洞樂等紋樣用字及異文，是字表",
+    "excerpt": "乗風縣鐘華洞樂。〈縣，音玄，一作懸。洞，一作𨽍，音瀆。樂，叶音洛。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p64",
@@ -2477,11 +3357,15 @@
       "chapter": "卷二",
       "para_index": 64
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "乗風，一名爰居，一名雜縣，蓋海鳥也。言為乗風之狀，作簨虡以懸鐘，又爲華藻〈一作蘂"
+    "note": "解乘風海鳥、鐘架、花藻和樂器圖樣如何構成織文，是紋樣名物訓詁",
+    "excerpt": "乗風，一名爰居，一名雜縣，蓋海鳥也。言為乗風之狀，作簨虡以懸鐘，又爲華藻〈一作蘂",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p65",
@@ -2489,11 +3373,15 @@
       "chapter": "卷二",
       "para_index": 65
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "豹首，𠰥今獸頭錦。〈補曰︰獸，虎也。《洞冥記》有走龍錦、翻鴻錦。〉落莫，謂文綵相"
+    "note": "解豹首、兔與雙鶴等織物紋樣及雙字計數，是名物訓詁",
+    "excerpt": "豹首，𠰥今獸頭錦。〈補曰︰獸，虎也。《洞冥記》有走龍錦、翻鴻錦。〉落莫，謂文綵相",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p66",
@@ -2501,11 +3389,15 @@
       "chapter": "卷二",
       "para_index": 66
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "春草鷄翹鳧翁濯。〈翹，渠遙反，鳥尾。　濯叶鶴。《孟子》注引《詩》：麀鹿濯濯，白鳥"
+    "note": "正文只列春草、雞翹、鳧翁濯等紋樣用字並注音，是字表",
+    "excerpt": "春草鷄翹鳧翁濯。〈翹，渠遙反，鳥尾。　濯叶鶴。《孟子》注引《詩》：麀鹿濯濯，白鳥",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p67",
@@ -2513,11 +3405,15 @@
       "chapter": "卷二",
       "para_index": 67
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "春草，象其初生纎麗之狀也。雞翹，鷄尾之曲垂也。〈補曰︰《漢‧輿服志》：鸞旗者，編"
+    "note": "說明春草、雞尾、水鳥紋樣及相似染色名稱，是織染名物訓詁",
+    "excerpt": "春草，象其初生纎麗之狀也。雞翹，鷄尾之曲垂也。〈補曰︰《漢‧輿服志》：鸞旗者，編",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p68",
@@ -2525,11 +3421,15 @@
       "chapter": "卷二",
       "para_index": 68
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "鬱金半見緗白䋤，〈鬱，於物反。䋤，或作爚，弋𠰥反。《說文》：以灼反。〉"
+    "note": "正文只列鬱金、半見、緗、白䋤等染色用字並注音，是字表",
+    "excerpt": "鬱金半見緗白䋤，〈鬱，於物反。䋤，或作爚，弋𠰥反。《說文》：以灼反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p69",
@@ -2537,11 +3437,15 @@
       "chapter": "卷二",
       "para_index": 69
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "自此已下，皆言染繒之色也。鬱金，染黄也。緗，淺黄也。半見，言在黄白之間，其色半出"
+    "note": "分辨鬱金黃、緗、半見與白䋤等繒色，是染色名物訓詁",
+    "excerpt": "自此已下，皆言染繒之色也。鬱金，染黄也。緗，淺黄也。半見，言在黄白之間，其色半出",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p70",
@@ -2549,11 +3453,15 @@
       "chapter": "卷二",
       "para_index": 70
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "縹綟緑紈皁紫硟。〈縹，敷治反。綟，音戾。紈，音丸。硟，音鮮。〉"
+    "note": "正文只列縹綟綠紈皁紫硟等織染用字並附反切，是字表",
+    "excerpt": "縹綟緑紈皁紫硟。〈縹，敷治反。綟，音戾。紈，音丸。硟，音鮮。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p71",
@@ -2561,11 +3469,15 @@
       "chapter": "卷二",
       "para_index": 71
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "縹，青白色也。〈補曰︰《廣韻》：青黄色。《說文》：青白色。〉綟，蒼艾色也。東海有"
+    "note": "逐一界定多種顏色、細絹和砑繒工序，是織染名物訓詁",
+    "excerpt": "縹，青白色也。〈補曰︰《廣韻》：青黄色。《說文》：青白色。〉綟，蒼艾色也。東海有",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p72",
@@ -2573,11 +3485,15 @@
       "chapter": "卷二",
       "para_index": 72
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "烝栗絹紺縉紅繎，〈絹，吉椽反。紺，古暗反。縉，子燼反。繎，而廷反，音然。〉"
+    "note": "正文只列蒸栗、絹、紺、縉、紅、繎等織染用字，是字表",
+    "excerpt": "烝栗絹紺縉紅繎，〈絹，吉椽反。紺，古暗反。縉，子燼反。繎，而廷反，音然。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p73",
@@ -2585,11 +3501,15 @@
       "chapter": "卷二",
       "para_index": 73
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "烝栗，黄色，𠰥烝孰之栗也。〈補曰︰《文選》注：王逸《正部論》︰或問王符曰︰黄如蒸"
+    "note": "分辨蒸栗色、絹與紺縉紅繎諸色，是織染名物訓詁",
+    "excerpt": "烝栗，黄色，𠰥烝孰之栗也。〈補曰︰《文選》注：王逸《正部論》︰或問王符曰︰黄如蒸",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p74",
@@ -2597,11 +3517,15 @@
       "chapter": "卷二",
       "para_index": 74
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "青綺綾縠靡潤鮮。〈綾，一作羅。綺，去倚反。綾，音淩。縠，胡谷反。〉"
+    "note": "正文只列青、綺、綾、縠及其質感用字並附異文，是字表",
+    "excerpt": "青綺綾縠靡潤鮮。〈綾，一作羅。綺，去倚反。綾，音淩。縠，胡谷反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p75",
@@ -2609,11 +3533,15 @@
       "chapter": "卷二",
       "para_index": 75
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "青，青色也。綺，即今之繒。〈補曰︰《尓雅》︰青謂之葱。《禹貢》：織文錦綺之属。《"
+    "note": "逐一定義青色及綺綾縠的質地與光澤，是織物名物訓詁",
+    "excerpt": "青，青色也。綺，即今之繒。〈補曰︰《尓雅》︰青謂之葱。《禹貢》：織文錦綺之属。《",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p76",
@@ -2621,11 +3549,15 @@
       "chapter": "卷二",
       "para_index": 76
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "綈絡縑練素帛蟬，〈綈，音啼，徒奚反。〉"
+    "note": "正文只列綈絡縑練素帛蟬等織物用字並附反切，是字表",
+    "excerpt": "綈絡縑練素帛蟬，〈綈，音啼，徒奚反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p77",
@@ -2633,11 +3565,15 @@
       "chapter": "卷二",
       "para_index": 77
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "綈，厚繒之滑澤者也，重三斤五兩，今謂之平紬。〈補曰：《范睢傳》：綈袍。注：盖今之"
+    "note": "辨析綈、絡、縑、練、素、帛及蟬翼般薄繒，是織物名物訓詁",
+    "excerpt": "綈，厚繒之滑澤者也，重三斤五兩，今謂之平紬。〈補曰：《范睢傳》：綈袍。注：盖今之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p78",
@@ -2645,11 +3581,15 @@
       "chapter": "卷二",
       "para_index": 78
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "絳緹絓紬絲絮綿。〈緹，音題，又音躰。絓，胡卦反。紬，音儔。〉"
+    "note": "正文只列絳緹絓紬絲絮綿等織物用字並附反切，是字表",
+    "excerpt": "絳緹絓紬絲絮綿。〈緹，音題，又音躰。絓，胡卦反。紬，音儔。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p79",
@@ -2657,11 +3597,15 @@
       "chapter": "卷二",
       "para_index": 79
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "絳，赤色也，古謂之纁。〈音勲，許云反。補曰︰束帛，玄三纁二，玄三法天，纁二法地。"
+    "note": "分辨色名及抽繭、紡織所得的紬絲絮綿，是纖維與織物訓詁",
+    "excerpt": "絳，赤色也，古謂之纁。〈音勲，許云反。補曰︰束帛，玄三纁二，玄三法天，纁二法地。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p80",
@@ -2669,11 +3613,15 @@
       "chapter": "卷二",
       "para_index": 80
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "㠲敝囊橐不直錢，〈㠲，皮鄙反，又并止反，音圯。敝，一作𡚁。橐，他洛反。〉"
+    "note": "正文只列殘帛、敝囊橐與不值錢等用字並附反切，是字表",
+    "excerpt": "㠲敝囊橐不直錢，〈㠲，皮鄙反，又并止反，音圯。敝，一作𡚁。橐，他洛反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p81",
@@ -2681,11 +3629,15 @@
       "chapter": "卷二",
       "para_index": 81
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "㠲者，㡜殘之帛也。〈㡜，音雪。黄氏曰︰㠲，㡜裂也。補曰︰《說文》︰㡜，殘帛也，先"
+    "note": "定義殘帛、敗衣、囊橐並說破敗物無法售出，是名物和詞義訓詁",
+    "excerpt": "㠲者，㡜殘之帛也。〈㡜，音雪。黄氏曰︰㠲，㡜裂也。補曰︰《說文》︰㡜，殘帛也，先",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p82",
@@ -2693,11 +3645,15 @@
       "chapter": "卷二",
       "para_index": 82
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "服𤨏緰㠿與繒連。〈緰，大侯反。㠿，子移反。繒，疾陵反。〉"
+    "note": "正文只列服𤨏、緰㠿與繒等布帛用字並附反切，是字表",
+    "excerpt": "服𤨏緰㠿與繒連。〈緰，大侯反。㠿，子移反。繒，疾陵反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p83",
@@ -2705,11 +3661,15 @@
       "chapter": "卷二",
       "para_index": 83
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "服𤨏，細布織爲連𤨏之文也。〈補曰︰《說文》︰𤨏，玉聲。左思詩︰嬌語𠰥連𤨏。〉緰㠿"
+    "note": "辨析服𤨏、緰㠿與絲織繒帛的質地類屬，是布帛名物訓詁",
+    "excerpt": "服𤨏，細布織爲連𤨏之文也。〈補曰︰《說文》︰𤨏，玉聲。左思詩︰嬌語𠰥連𤨏。〉緰㠿",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p84",
@@ -2717,11 +3677,15 @@
       "chapter": "卷二",
       "para_index": 84
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "貰貸賣買販肆便，〈貰，音世，式制反，又傷夜反。貸，他代反。販，方萬反。便，平聲，"
+    "note": "正文只列貰貸賣買販肆便等商業詞並附反切，是字表",
+    "excerpt": "貰貸賣買販肆便，〈貰，音世，式制反，又傷夜反。貸，他代反。販，方萬反。便，平聲，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p85",
@@ -2729,11 +3693,15 @@
       "chapter": "卷二",
       "para_index": 85
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "貰，賖也。〈賖，音奢。補曰︰《說文》︰貰，貸也。《高帝紀》︰貰酒。注︰貰，賖也。"
+    "note": "逐一定義賒貸、買賣、販與市肆，依卷二閘門只是商業詞義訓詁",
+    "excerpt": "貰，賖也。〈賖，音奢。補曰︰《說文》︰貰，貸也。《高帝紀》︰貰酒。注︰貰，賖也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p86",
@@ -2741,11 +3709,15 @@
       "chapter": "卷二",
       "para_index": 86
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "資貨市贏匹幅全。〈輻，方六反。〉"
+    "note": "正文只列資貨市贏與匹幅等商業、尺度用字，是字表",
+    "excerpt": "資貨市贏匹幅全。〈輻，方六反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p87",
@@ -2753,11 +3725,15 @@
       "chapter": "卷二",
       "para_index": 87
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "市，亦買也。言以資財賄貨，市取贏餘之物。〈補曰︰《漢志》：貨謂布帛金刀龜貝。神農"
+    "note": "解資貨、市贏及匹幅的尺寸和完整性，依卷二閘門是商業詞與尺度訓詁",
+    "excerpt": "市，亦買也。言以資財賄貨，市取贏餘之物。〈補曰︰《漢志》：貨謂布帛金刀龜貝。神農",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p88",
@@ -2765,11 +3741,15 @@
       "chapter": "卷二",
       "para_index": 88
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "綌紵枲緼裹約纏，〈綌，一作𥿭，去逆反；一作絺，敕之反。紵，音佇。枲，絲里反。緼，"
+    "note": "正文只列綌紵枲緼與裹約纏等衣料、動作用字，是字表",
+    "excerpt": "綌紵枲緼裹約纏，〈綌，一作𥿭，去逆反；一作絺，敕之反。紵，音佇。枲，絲里反。緼，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p89",
@@ -2777,11 +3757,15 @@
       "chapter": "卷二",
       "para_index": 89
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "綌，謂葛之麤者。〈補曰︰《詩‧葛覃》：為絺為綌。葛，草名，治之為布。《說文》︰絺"
+    "note": "逐一定義粗葛、紵、麻、緼及裹纏衣被的用途，依本書專門閘門仍是衣料名物訓詁",
+    "excerpt": "綌，謂葛之麤者。〈補曰︰《詩‧葛覃》：為絺為綌。葛，草名，治之為布。《說文》︰絺",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p90",
@@ -2789,11 +3773,15 @@
       "chapter": "卷二",
       "para_index": 90
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "綸組縌綬以高遷。〈綸，古頑反，又音倫。組，音祖。縌，音逆，冝㦸反。綬，音受。〉"
+    "note": "正文只列綸組縌綬與高遷等佩綬用字並附反切，是字表",
+    "excerpt": "綸組縌綬以高遷。〈綸，古頑反，又音倫。組，音祖。縌，音逆，冝㦸反。綬，音受。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p91",
@@ -2801,11 +3789,15 @@
       "chapter": "卷二",
       "para_index": 91
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "綸、紏，〈一無紏字。〉青絲綬也。〈補曰︰《爾雅》注︰綸，今有秩嗇夫所帶。紏，青絲"
+    "note": "詳解綸組縌綬的形制、用途及品秩配色，是服章制度與名物訓詁",
+    "excerpt": "綸、紏，〈一無紏字。〉青絲綬也。〈補曰︰《爾雅》注︰綸，今有秩嗇夫所帶。紏，青絲",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p92",
@@ -2813,11 +3805,15 @@
       "chapter": "卷二",
       "para_index": 92
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "詮，稱也。言量布帛者，則計其丈、尺及寸，稱絲綿者，則數其斤、兩。〈補曰︰《說文》"
+    "note": "說明布帛按丈尺寸量、絲綿按斤兩稱量並列單位，是度量詞義訓詁",
+    "excerpt": "詮，稱也。言量布帛者，則計其丈、尺及寸，稱絲綿者，則數其斤、兩。〈補曰︰《說文》",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p93",
@@ -2825,11 +3821,15 @@
       "chapter": "卷二",
       "para_index": 93
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "取受付予相因縁。〈予，音與。取，一作所。〉"
+    "note": "正文只列取受付予與因緣等交易動作用字，是字表",
+    "excerpt": "取受付予相因縁。〈予，音與。取，一作所。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p94",
@@ -2837,11 +3837,16 @@
       "chapter": "卷二",
       "para_index": 94
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "言以相付及受取領納，皆縁丈尺、斤兩以定其數，故得分明，無虧失也。予，相授予也。〈"
+    "note": "說明授受取納依丈尺斤兩定數即可分明無失，是交易與度量詞的因果性訓解",
+    "excerpt": "言以相付及受取領納，皆縁丈尺、斤兩以定其數，故得分明，無虧失也。予，相授予也。〈",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p95",
@@ -2849,11 +3854,15 @@
       "chapter": "卷二",
       "para_index": 95
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "稻黍秫稷粟麻秔，〈秫，音述。秔，一作稉。秔，古行反，叶古郎反。《詩‧大東》庚叶箱"
+    "note": "正文只列稻黍秫稷粟麻秔等穀物用字並附反切，是字表",
+    "excerpt": "稻黍秫稷粟麻秔，〈秫，音述。秔，一作稉。秔，古行反，叶古郎反。《詩‧大東》庚叶箱",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p96",
@@ -2861,11 +3870,15 @@
       "chapter": "卷二",
       "para_index": 96
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "稻者，有芒之穀揔名也，亦呼為稌。〈音杜，他戶反。補曰︰《詩集傳》：稻，即今南方所"
+    "note": "逐一辨析稻黍秫稷粟麻秔的形性、用途及異名，是穀物名物訓詁",
+    "excerpt": "稻者，有芒之穀揔名也，亦呼為稌。〈音杜，他戶反。補曰︰《詩集傳》：稻，即今南方所",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p97",
@@ -2873,11 +3886,15 @@
       "chapter": "卷二",
       "para_index": 97
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "餅餌麥飯甘豆羹。〈羹，叶音郎，盧當反。一云力當反，見《魯頌》。《楚辭》叶房漿。〉"
+    "note": "正文只列餅餌麥飯與甘豆羹等食物用字並注韻，是字表",
+    "excerpt": "餅餌麥飯甘豆羹。〈羹，叶音郎，盧當反。一云力當反，見《魯頌》。《楚辭》叶房漿。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p98",
@@ -2885,11 +3902,15 @@
       "chapter": "卷二",
       "para_index": 98
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "溲麪而蒸熟之，則爲餅。餅之言并也，相合并也。〈補曰︰《說文》︰餅，麪餈也。麥末謂"
+    "note": "解餅餌麥飯豆羹的製法和食用者，依卷二閘門只是飲食名物訓詁",
+    "excerpt": "溲麪而蒸熟之，則爲餅。餅之言并也，相合并也。〈補曰︰《說文》︰餅，麪餈也。麥末謂",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p99",
@@ -2897,11 +3918,15 @@
       "chapter": "卷二",
       "para_index": 99
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "葵韭葱䪥蓼蘇薑，〈䪥，戶界反，一作薤。〉"
+    "note": "正文只列葵韭葱薤蓼蘇薑等蔬菜用字並附反切，是字表",
+    "excerpt": "葵韭葱䪥蓼蘇薑，〈䪥，戶界反，一作薤。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p100",
@@ -2909,11 +3934,15 @@
       "chapter": "卷二",
       "para_index": 100
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "葵，衛足之菜，傾葉而蔽日者也。〈補曰︰《詩》：七月亨葵。魯漆室女，葵為馬踐。知憂"
+    "note": "逐一說明各種菜蔬的形味、品類和食用書證，是植物與飲食名物訓詁",
+    "excerpt": "葵，衛足之菜，傾葉而蔽日者也。〈補曰︰《詩》：七月亨葵。魯漆室女，葵為馬踐。知憂",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p101",
@@ -2921,11 +3950,15 @@
       "chapter": "卷二",
       "para_index": 101
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "蕪荑塩豉醯酢醬。〈醬，叶音漿。酢，七故反。一作醯醬漿。〉"
+    "note": "正文只列蕪荑、鹽豉、醯酢醬等調味物用字，是字表",
+    "excerpt": "蕪荑塩豉醯酢醬。〈醬，叶音漿。酢，七故反。一作醯醬漿。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p102",
@@ -2933,11 +3966,15 @@
       "chapter": "卷二",
       "para_index": 102
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "蕪荑，無姑之實也。無姑一名橭榆，生於山中。其莢圓厚，剥取樹皮，合漬而乾之，成其辛"
+    "note": "詳解蕪荑、鹽、豉、醯酢與醬的來源和製法，是調味品名物訓詁",
+    "excerpt": "蕪荑，無姑之實也。無姑一名橭榆，生於山中。其莢圓厚，剥取樹皮，合漬而乾之，成其辛",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p103",
@@ -2945,11 +3982,15 @@
       "chapter": "卷二",
       "para_index": 103
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "芸蒜薺芥茱萸香，〈蒜，蘇判反。萕，斉礼反。〉"
+    "note": "正文只列芸蒜薺芥茱萸等香辛植物用字並附反切，是字表",
+    "excerpt": "芸蒜薺芥茱萸香，〈蒜，蘇判反。萕，斉礼反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p104",
@@ -2957,11 +3998,15 @@
       "chapter": "卷二",
       "para_index": 104
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "芸，即今芸蒿也，生熟皆可㗖。〈補曰︰葉似邪蒿，香美可食。《月令》：仲冬，芸始生。"
+    "note": "分辨芸蒜薺芥茱萸的形味、種類及食用書證，是植物名物訓詁",
+    "excerpt": "芸，即今芸蒿也，生熟皆可㗖。〈補曰︰葉似邪蒿，香美可食。《月令》：仲冬，芸始生。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p105",
@@ -2969,11 +4014,15 @@
       "chapter": "卷二",
       "para_index": 105
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "老菁蘘荷冬日藏。〈菁，音精。蘘，音穰。〉"
+    "note": "正文只列老菁、蘘荷與冬藏等植物用字並附反切，是字表",
+    "excerpt": "老菁蘘荷冬日藏。〈菁，音精。蘘，音穰。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p106",
@@ -2981,11 +4030,15 @@
       "chapter": "卷二",
       "para_index": 106
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "菁，蔓菁也，一曰冥青，亦曰蕪菁，又曰芴菁。〈蔓，音万，又莫干反。蕪，音無。芴，音"
+    "note": "辨析蔓菁與蘘荷的異名、形性、用途及冬藏方式，是蔬菜名物訓詁",
+    "excerpt": "菁，蔓菁也，一曰冥青，亦曰蕪菁，又曰芴菁。〈蔓，音万，又莫干反。蕪，音無。芴，音",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p107",
@@ -2993,11 +4046,15 @@
       "chapter": "卷二",
       "para_index": 107
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "棃柹柰桃待露霜，〈柹，音俟。柰，奴帶反。〉"
+    "note": "正文只列梨柿柰桃與露霜等果物用字並附反切，是字表",
+    "excerpt": "棃柹柰桃待露霜，〈柹，音俟。柰，奴帶反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p108",
@@ -3005,11 +4062,15 @@
       "chapter": "卷二",
       "para_index": 108
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "言此四果皆得霜露之氣，乃能成熟。夏則待露，秋則待霜，故揔云待露霜也。棃，一名山樆"
+    "note": "說明四種果物待露霜成熟並考梨的異名，是果物名物訓詁",
+    "excerpt": "言此四果皆得霜露之氣，乃能成熟。夏則待露，秋則待霜，故揔云待露霜也。棃，一名山樆",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p109",
@@ -3017,11 +4078,15 @@
       "chapter": "卷二",
       "para_index": 109
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "棗杏瓜棣饊飴餳。〈餳，叶音唐。饊，思但反。飴，以之反、辭盈反，又音唐。〉"
+    "note": "正文只列棗杏瓜棣及饊飴餳等食物用字並注韻，是字表",
+    "excerpt": "棗杏瓜棣饊飴餳。〈餳，叶音唐。饊，思但反。飴，以之反、辭盈反，又音唐。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p110",
@@ -3029,11 +4094,15 @@
       "chapter": "卷二",
       "para_index": 110
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "因說衆果，遂及口實也。〈補曰︰棗，《爾雅》有十一名，郭氏得九焉。《詩》︰八月剥棗"
+    "note": "逐一解果物及饊飴餳的形性、名稱和製法，是飲食名物訓詁",
+    "excerpt": "因說衆果，遂及口實也。〈補曰︰棗，《爾雅》有十一名，郭氏得九焉。《詩》︰八月剥棗",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p111",
@@ -3041,11 +4110,15 @@
       "chapter": "卷二",
       "para_index": 111
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "園菜果蓏助米糧，〈蓏，郎果反。〉"
+    "note": "正文列園菜果蓏助米糧等農食用字，是名物字表",
+    "excerpt": "園菜果蓏助米糧，〈蓏，郎果反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p112",
@@ -3053,11 +4126,18 @@
       "chapter": "卷二",
       "para_index": 112
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "IX",
+      "XIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "木實曰果，草實曰蓏。言園圃種米，及殖果蓏，貧者食之，以免飢饉，故云助米糧也。〈補"
+    "note": "明說貧者種植並食用園菜果蓏可以補充米糧、免於飢饉，提出對抗飢餓的具體因應",
+    "excerpt": "木實曰果，草實曰蓏。言園圃種米，及殖果蓏，貧者食之，以免飢饉，故云助米糧也。〈補",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p113",
@@ -3065,11 +4145,15 @@
       "chapter": "卷二",
       "para_index": 113
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "甘麮殊美奏諸君。〈麮，丘舉反，又丘據反。甘，一作白。〉"
+    "note": "正文只列甘麮殊美奏諸君等食物與進獻用字並附反切，是字表",
+    "excerpt": "甘麮殊美奏諸君。〈麮，丘舉反，又丘據反。甘，一作白。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p114",
@@ -3077,11 +4161,18 @@
       "chapter": "卷二",
       "para_index": 114
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "甘麮者，煑麥爲甘粥也。麮之言齲也，謂齲爛也。一曰：麮者，糗也。〈音丘柳反。〉麮、"
+    "note": "除解甘麮製法外，明言殊美之食宜進於君上，規定人在尊卑關係中的進獻行為",
+    "excerpt": "甘麮者，煑麥爲甘粥也。麮之言齲也，謂齲爛也。一曰：麮者，糗也。〈音丘柳反。〉麮、",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p115",
@@ -3089,11 +4180,15 @@
       "chapter": "卷二",
       "para_index": 115
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "袍襦表裏曲領帬，〈襦，音孺。帬，音羣。〉"
+    "note": "正文只列袍襦表裏曲領帬等衣服用字並附反切，是字表",
+    "excerpt": "袍襦表裏曲領帬，〈襦，音孺。帬，音羣。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p116",
@@ -3101,11 +4196,15 @@
       "chapter": "卷二",
       "para_index": 116
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "長衣曰袍，下至足跗。〈方于反。補曰︰《淮南子》︰伯余初作衣。《吕氏春秋》：胡曹作"
+    "note": "逐一定義袍襦、表裏、曲領與帬的形制和異名，是衣服名物訓詁",
+    "excerpt": "長衣曰袍，下至足跗。〈方于反。補曰︰《淮南子》︰伯余初作衣。《吕氏春秋》：胡曹作",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p117",
@@ -3113,11 +4212,15 @@
       "chapter": "卷二",
       "para_index": 117
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "襜褕袷複褶袴褌。〈稽，昌瞻反，一尺占反。褕，音踰，一弋朱反。袷，古泠反、方復反。"
+    "note": "正文只列襜褕袷複褶袴褌等衣服用字並注音，是字表",
+    "excerpt": "襜褕袷複褶袴褌。〈稽，昌瞻反，一尺占反。褕，音踰，一弋朱反。袷，古泠反、方復反。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p118",
@@ -3125,11 +4228,15 @@
       "chapter": "卷二",
       "para_index": 118
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "襜褕，直裾襌衣也。〈襌，多安反。〉謂之襜褕者，取其襜襜而寛裕也。〈補曰︰《漢‧何"
+    "note": "詳辨襜褕、袷複、褶袴褌的形制、材料與異說，是衣服名物訓詁",
+    "excerpt": "襜褕，直裾襌衣也。〈襌，多安反。〉謂之襜褕者，取其襜襜而寛裕也。〈補曰︰《漢‧何",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p119",
@@ -3137,11 +4244,15 @@
       "chapter": "卷二",
       "para_index": 119
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "襌衣蔽膝布毋繜，〈襌，音單。繜，或作尊，祖昆反。〉"
+    "note": "正文只列襌衣蔽膝布毋繜等服飾用字並注音，是字表",
+    "excerpt": "襌衣蔽膝布毋繜，〈襌，音單。繜，或作尊，祖昆反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p120",
@@ -3149,11 +4260,15 @@
       "chapter": "卷二",
       "para_index": 120
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "襌衣，似深衣而襃大，亦以其無裏，故呼爲襌衣。〈補曰︰《詩》︰衣錦褧衣。褧，襌也。"
+    "note": "解襌衣、蔽膝和布毋繜的形制及族群服用情形，依卷二閘門是服飾名物訓詁",
+    "excerpt": "襌衣，似深衣而襃大，亦以其無裏，故呼爲襌衣。〈補曰︰《詩》︰衣錦褧衣。褧，襌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p121",
@@ -3161,11 +4276,15 @@
       "chapter": "卷二",
       "para_index": 121
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "鍼縷補縫綻紩縁。〈鍼，一作箴，之林反。縫，符容反。紩，持栗反，音秩。綻，丈莧反，"
+    "note": "正文只列鍼縷補縫綻紩縁等縫衣用字並校注音形，是字表",
+    "excerpt": "鍼縷補縫綻紩縁。〈鍼，一作箴，之林反。縫，符容反。紩，持栗反，音秩。綻，丈莧反，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p122",
@@ -3173,11 +4292,15 @@
       "chapter": "卷二",
       "para_index": 122
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "鍼，所以縫衣也。〈補曰︰《內則》︰箴管線纊。《荀子‧箴賦》。〉縷，線也。脩破謂之"
+    "note": "逐一定義針線、補綻、紩縫與衣緣，是縫紉詞義訓詁",
+    "excerpt": "鍼，所以縫衣也。〈補曰︰《內則》︰箴管線纊。《荀子‧箴賦》。〉縷，線也。脩破謂之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p123",
@@ -3185,11 +4308,15 @@
       "chapter": "卷二",
       "para_index": 123
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "履舄鞜裒䋐縀紃，〈鞜，音踏，他匝反。裒，一作，音璧。䋐，于月反，音越。縀，乎加反"
+    "note": "正文只列履舄鞜裒䋐縀紃等鞋履用字並附反切，是字表",
+    "excerpt": "履舄鞜裒䋐縀紃，〈鞜，音踏，他匝反。裒，一作，音璧。䋐，于月反，音越。縀，乎加反",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p124",
@@ -3197,11 +4324,15 @@
       "chapter": "卷二",
       "para_index": 124
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "單底謂之履，或以絲為之。複底而有木者謂之舄。〈補曰︰《說文》︰履，足所依也。《方"
+    "note": "詳辨各類鞋履、後跟和緣飾的形制材料及書證，是鞋履名物訓詁",
+    "excerpt": "單底謂之履，或以絲為之。複底而有木者謂之舄。〈補曰︰《說文》︰履，足所依也。《方",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p125",
@@ -3209,11 +4340,15 @@
       "chapter": "卷二",
       "para_index": 125
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "靸鞮卬角褐韤巾。〈靸，速沓反。鞮，的齊反。卬，顔當反。韤，勿發反，从韋。俗作韈，"
+    "note": "正文只列靸鞮卬角褐韤巾等鞋服用字並校注字形音讀，是字表",
+    "excerpt": "靸鞮卬角褐韤巾。〈靸，速沓反。鞮，的齊反。卬，顔當反。韤，勿發反，从韋。俗作韈，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p126",
@@ -3221,11 +4356,15 @@
       "chapter": "卷二",
       "para_index": 126
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "靸，〈一作𩎕。〉謂韋履，頭深而兊，平底者也。今俗呼謂之跣子。〈補曰︰孰曰韋，生曰"
+    "note": "逐一定義靸鞮卬角、褐、韤與巾的形制用途，所列族群階層仍只是服飾書證",
+    "excerpt": "靸，〈一作𩎕。〉謂韋履，頭深而兊，平底者也。今俗呼謂之跣子。〈補曰︰孰曰韋，生曰",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p127",
@@ -3233,11 +4372,15 @@
       "chapter": "卷二",
       "para_index": 127
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "裳韋不借爲牧人，〈韋，一作幃。〉"
+    "note": "正文只列裳韋不借為牧人等服飾、職事用字並記異文，是字表",
+    "excerpt": "裳韋不借爲牧人，〈韋，一作幃。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p128",
@@ -3245,11 +4388,15 @@
       "chapter": "卷二",
       "para_index": 128
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "韋，柔皮也。裳韋，以韋為裳也。〈補曰︰《考工記》：攻皮之工有韋氏。《左傳》：裳下"
+    "note": "解韋裳與麻屨的材料、名稱及適合牧事，依卷二閘門仍是職業服飾名物訓詁",
+    "excerpt": "韋，柔皮也。裳韋，以韋為裳也。〈補曰︰《考工記》：攻皮之工有韋氏。《左傳》：裳下",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p129",
@@ -3257,11 +4404,15 @@
       "chapter": "卷二",
       "para_index": 129
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "完堅耐事踰比倫。〈耐，乃代反。〉"
+    "note": "正文只列完堅耐事踰比倫等形容衣履的用字並注音，是字表",
+    "excerpt": "完堅耐事踰比倫。〈耐，乃代反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p130",
@@ -3269,11 +4420,15 @@
       "chapter": "卷二",
       "para_index": 130
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "耐，堪任也。〈補曰︰耐，忍也。《禮運》注︰耐，古能字。《鼂錯傳》：其性能寒。能，"
+    "note": "解耐、比、倫並說衣履須堅韌耐久，仍是在說物品質用字",
+    "excerpt": "耐，堪任也。〈補曰︰耐，忍也。《禮運》注︰耐，古能字。《鼂錯傳》：其性能寒。能，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p131",
@@ -3281,11 +4436,15 @@
       "chapter": "卷二",
       "para_index": 131
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "屐屩𦂌麤羸窶貧，〈屩，居勺反。𦂌，方孔反，一作索，一作素。麤，一作藨，平表反。窶"
+    "note": "正文只列屐屩等鞋履及羸窶貧等用字並校注異文，是字表",
+    "excerpt": "屐屩𦂌麤羸窶貧，〈屩，居勺反。𦂌，方孔反，一作索，一作素。麤，一作藨，平表反。窶",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p132",
@@ -3293,11 +4452,15 @@
       "chapter": "卷二",
       "para_index": 132
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "屐者，以木爲之，而施兩齒，所以踐泥。〈補曰︰《爰盎傳》：屐步行七十里。《莊子》云"
+    "note": "辨析各種鞋履並解羸窶貧人無華飾，依卷二閘門是階層服飾與字義訓詁",
+    "excerpt": "屐者，以木爲之，而施兩齒，所以踐泥。〈補曰︰《爰盎傳》：屐步行七十里。《莊子》云",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p133",
@@ -3305,11 +4468,15 @@
       "chapter": "卷二",
       "para_index": 133
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "旃裘𩌈𩍜蠻夷氏。〈旃，一作氈。𩌈，先各反。𩍜，大合反。〉"
+    "note": "正文只列旃裘、胡履與蠻夷等名物用字並附反切，是字表",
+    "excerpt": "旃裘𩌈𩍜蠻夷氏。〈旃，一作氈。𩌈，先各反。𩍜，大合反。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p134",
@@ -3317,11 +4484,15 @@
       "chapter": "卷二",
       "para_index": 134
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "𩌈𩍜，胡履之缺前雍者也。〈黄氏曰︰音索鐸，胡履也。補曰︰《新唐書‧西域傳》：足曵"
+    "note": "解胡履與氈裘形制並記蠻夷、西羌服飾，依卷二閘門只是族群服飾名物訓詁",
+    "excerpt": "𩌈𩍜，胡履之缺前雍者也。〈黄氏曰︰音索鐸，胡履也。補曰︰《新唐書‧西域傳》：足曵",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p135",
@@ -3329,11 +4500,18 @@
       "chapter": "卷二",
       "para_index": 135
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "去其本俗，歸於徳義，附化而親近也。〈補曰︰董仲舒曰︰殊方萬里，說徳歸義。〉"
+    "note": "明說外族去除本俗、歸於德義並接受教化而親近，直接呈現群體同化關係及其德義評價",
+    "excerpt": "去其本俗，歸於徳義，附化而親近也。〈補曰︰董仲舒曰︰殊方萬里，說徳歸義。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#02-p136",
@@ -3341,11 +4519,18 @@
       "chapter": "卷二",
       "para_index": 136
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "ritual"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "譯，傳言也。導，引也。贊，見也。始来歸義，言語未通，故須傳譯導引進見而拜，依臣妾"
+    "note": "因來歸者語言未通而須翻譯導引，並依臣妾之禮進見下拜，寫跨群體溝通與臣屬儀節",
+    "excerpt": "譯，傳言也。導，引也。贊，見也。始来歸義，言語未通，故須傳譯導引進見而拜，依臣妾",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#03-p01",
@@ -3353,11 +4538,15 @@
       "chapter": "卷三",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "戎伯總閱什伍鄰。稟食縣官帶金銀。鐵鈇鑽錐釜鍑鍪。鍛鑄鉛錫鐙錠鐎。鈐𨬍鉤銍斧鑿鉏。"
+    "note": "全段是卷三正文的識字字表，羅列軍吏、器物、飲食、身體、兵車、屋舍與農畜等用字，沒有超出字詞登錄而說人的生活問題",
+    "excerpt": "戎伯總閱什伍鄰。稟食縣官帶金銀。鐵鈇鑽錐釜鍑鍪。鍛鑄鉛錫鐙錠鐎。鈐𨬍鉤銍斧鑿鉏。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#04-p01",
@@ -3365,11 +4554,15 @@
       "chapter": "卷四",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "鳳爵鴻鵠鴈鶩雉。鷹鷂鴇鴰翳雕尾。鳩鴿鶉鴳中網死。鳶鵲鴟梟驚相視。豹狐距虛豺犀兕。"
+    "note": "全段是卷四正文的識字字表，禽獸、疾病醫藥、祭喪、官獄與郡國等涉及人事的詞仍是成批列字，沒有另作關於人的議論",
+    "excerpt": "鳳爵鴻鵠鴈鶩雉。鷹鷂鴇鴰翳雕尾。鳩鴿鶉鴳中網死。鳶鵲鴟梟驚相視。豹狐距虛豺犀兕。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   },
   {
     "para_id": "jijiupian#05-p01",
@@ -3377,10 +4570,18 @@
       "chapter": "急就篇注敘",
       "para_index": 1
     },
-    "psych_domains": null,
-    "discourse_mode": null,
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "expression"
+    ],
     "confidence": null,
-    "note": null,
-    "excerpt": "《急就篇》者，其源出於小學家。昔在周宣，粵有史籀，〈音冑。〉演暢古文，初著大篆。"
+    "note": "以無良師的窮鄉幼學與以書為恥的膏粱子弟作對比，主張出身與師承會使學問增謬或廢滯，並自述承父志校注以垂後學",
+    "excerpt": "《急就篇》者，其源出於小學家。昔在周宣，粵有史籀，〈音冑。〉演暢古文，初著大篆。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T06:39:46+08:00"
   }
 ]

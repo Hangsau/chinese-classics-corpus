@@ -2,9 +2,9 @@
   "domain": "II",
   "name_zh": "自我與認同",
   "gist": "我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我",
-  "generated_at": "2026-08-09T15:20:28+00:00",
-  "para_count": 351,
-  "book_count": 11,
+  "generated_at": "2026-08-09T22:41:21+00:00",
+  "para_count": 352,
+  "book_count": 12,
   "surveyed_zero_hit": [
     "fangyan",
     "gu-sanfen",
@@ -42,6 +42,21 @@
       "note": "黃安自陳卑猥難處人間，仍在低微役職中執鞭懷荊讀書記數，寫出自我身分與求學實踐",
       "co_domains": [
         "VIII"
+      ]
+    },
+    {
+      "slug": "jijiupian",
+      "chapter": "卷一",
+      "para_index": 5,
+      "para_id": "jijiupian#01-p05",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "言此衆章列叙萬物之名，及人姓字。〈補曰︰羅，布也。《說文》︰物，萬物也。牛爲大物",
+      "note": "記述父為幼兒命名、男子成年冠字以及姓氏區別婚姻的制度，涉及身分形成與家族婚姻傳承",
+      "co_domains": [
+        "IV"
       ]
     },
     {

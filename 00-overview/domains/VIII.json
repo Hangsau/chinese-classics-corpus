@@ -2,9 +2,9 @@
   "domain": "VIII",
   "name_zh": "工作·成就·召喚",
   "gist": "工作與金錢、成就與意義、天賦與使命",
-  "generated_at": "2026-08-09T15:20:28+00:00",
-  "para_count": 411,
-  "book_count": 14,
+  "generated_at": "2026-08-09T22:41:21+00:00",
+  "para_count": 416,
+  "book_count": 15,
   "surveyed_zero_hit": [
     "gu-sanfen",
     "haidao-suanjing",
@@ -92,6 +92,72 @@
       "excerpt": "漢儒訓詁之學惟謹，而楊子雲尤為洽聞。蓋一物不知，君子所耻，博學詳說，將以反約。凡",
       "note": "批評當時學者捨實徇名、高談性命而輕視訓詁，講的是治學者怎麼走偏",
       "co_domains": []
+    },
+    {
+      "slug": "jijiupian",
+      "chapter": "卷一",
+      "para_index": 1,
+      "para_id": "jijiupian#01-p01",
+      "modes": [
+        "observation",
+        "formalization"
+      ],
+      "excerpt": "每標章首以字數爲斷者，蓋取其程課，學僮簡牘爲便也。以前之卒章，或與後句相躡。〈躡",
+      "note": "說明童蒙課程按字數分章，並記述識字考試、任吏及書寫失誤受劾的制度，涉及學習與職業進路",
+      "co_domains": []
+    },
+    {
+      "slug": "jijiupian",
+      "chapter": "卷一",
+      "para_index": 4,
+      "para_id": "jijiupian#01-p04",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "觚者，學書之牘，或以記事，削木爲之，蓋簡屬也。孔子歎觚，即此之謂。〈補曰︰《論語",
+      "note": "在考釋觚的形制與書寫用途之外，明言學僮當趕快就此學書，涉及學習與才能養成",
+      "co_domains": []
+    },
+    {
+      "slug": "jijiupian",
+      "chapter": "卷一",
+      "para_index": 8,
+      "para_id": "jijiupian#01-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "以其詳悉，多所該備，不費功日，而心意開了，故云快意也。《禮‧學記》曰︰師逸而功倍",
+      "note": "主張內容詳備可使學習少費時日而心意開明，並以師逸功倍說明學習成效的因果",
+      "co_domains": []
+    },
+    {
+      "slug": "jijiupian",
+      "chapter": "卷一",
+      "para_index": 10,
+      "para_id": "jijiupian#01-p10",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "勉令勤習，以致業藝，則能顯逹，可好喜也。〈好，呼報反。補曰︰學在彊勉，用力多者收",
+      "note": "勸人勤習用力，並主張由此可成就業藝、顯達而有所得，直接談學習與成就",
+      "co_domains": []
+    },
+    {
+      "slug": "jijiupian",
+      "chapter": "急就篇注敘",
+      "para_index": 1,
+      "para_id": "jijiupian#05-p01",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "《急就篇》者，其源出於小學家。昔在周宣，粵有史籀，〈音冑。〉演暢古文，初著大篆。",
+      "note": "以無良師的窮鄉幼學與以書為恥的膏粱子弟作對比，主張出身與師承會使學問增謬或廢滯，並自述承父志校注以垂後學",
+      "co_domains": [
+        "V"
+      ]
     },
     {
       "slug": "jinkui-yaolue",

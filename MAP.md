@@ -54,9 +54,9 @@ translations/<slug>/
   └── domains/<id>.{md,json}  每個領域一頁，段級反向索引
 ```
 
-`translations/` 已有 **72 部**（phase 1 共 68 ＋ phase 2 小學 4：`shuowen-jiezi`／`shiming`／`fangyan`／`jijiupian`；`guangyun` 上游殘缺已在 catalog 標 `excluded`），`00-overview/` 已生成。`annotations.json` 目前 **18 部**（`sunzi-bingfa` 91 段、`jiuzhang-suanshu` 720 段、`haidao-suanjing` 24 段、`renwuzhi` 229 段、`qianfulun` 268 段、`yantielun` 346 段、`yanshi-jiaxun` 255 段、`shishuo-xinyu` 1,132 段、`shenyijing` 61 段、`dongmingji` 63 段、`gu-sanfen` 78 段、`nanjing` 243 段、`shanghanlun` 728 段、`jinkui-yaolue` 796 段、`lienuzhuan` 208 段、`shuowen-jiezi` 6,070 段、`shiming` 945 段、`fangyan` 385 段），共 **12,642 段**；`jijiupian` 282 段是骨架待標（v1 判讀作廢重跑中）；其餘 53 部的 `psych_survey` 仍是 `null`＝未通讀。
+`translations/` 已有 **72 部**（phase 1 共 68 ＋ phase 2 小學 4：`shuowen-jiezi`／`shiming`／`fangyan`／`jijiupian`；`guangyun` 上游殘缺已在 catalog 標 `excluded`），`00-overview/` 已生成。`annotations.json` 目前 **19 部**（`sunzi-bingfa` 91 段、`jiuzhang-suanshu` 720 段、`haidao-suanjing` 24 段、`renwuzhi` 229 段、`qianfulun` 268 段、`yantielun` 346 段、`yanshi-jiaxun` 255 段、`shishuo-xinyu` 1,132 段、`shenyijing` 61 段、`dongmingji` 63 段、`gu-sanfen` 78 段、`nanjing` 243 段、`shanghanlun` 728 段、`jinkui-yaolue` 796 段、`lienuzhuan` 208 段、`shuowen-jiezi` 6,070 段、`shiming` 945 段、`fangyan` 385 段、`jijiupian` 282 段），共 **12,924 段**；**phase 2 小學四部已全數標完**；其餘 53 部的 `psych_survey` 仍是 `null`＝未通讀。
 
-**查一個領域在全庫的段落，看 `00-overview/domains/<id>.md`，不要自己 grep `annotations.json`。**每頁按書分節，欄位是篇名／段序／姿態／摘句／判讀，另附「已通讀但本領域零命中」的書單——命中與零命中放在同一頁，是為了讓零不會被讀成沒人看過（SCHEMA §5）。`DOMAINS.md` 是總表加缺口報告（未標註的 54 部）。三份都由 `build-index.py` 一次生成，不會各自漂移；`verify.py` 每跑一次就對拍一次，過期即 error，所以這頁的數字與 `annotations.json` 不會脫節。
+**查一個領域在全庫的段落，看 `00-overview/domains/<id>.md`，不要自己 grep `annotations.json`。**每頁按書分節，欄位是篇名／段序／姿態／摘句／判讀，另附「已通讀但本領域零命中」的書單——命中與零命中放在同一頁，是為了讓零不會被讀成沒人看過（SCHEMA §5）。`DOMAINS.md` 是總表加缺口報告（未標註的 53 部）。三份都由 `build-index.py` 一次生成，不會各自漂移；`verify.py` 每跑一次就對拍一次，過期即 error，所以這頁的數字與 `annotations.json` 不會脫節。
 
 `delegation/` 是發包工作區，依書分目錄（`jiuzhang/`、`yanshi-jiaxun/`、`shishuo-xinyu/`、`shenyijing/`、`dongmingji/`、`gu-sanfen/`、`nanjing/`、`shanghanlun/`、`jinkui-yaolue/`、`lienuzhuan/`、小學四部）。每個目錄含 `SPEC.md`（判準）、`bNN.md`（切好的批次輸入）、`MANIFEST.json`（錨點清單，回填時雙向對照）、`out/bNN.json`（外部 agent 的判讀結果）。**這些是過程檔不是 canonical**，canonical 是回填後的 `translations/<slug>/annotations.json`。
 

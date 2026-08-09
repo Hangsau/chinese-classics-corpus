@@ -2,9 +2,9 @@
   "domain": "IX",
   "name_zh": "苦難·疾病·身體",
   "gist": "疾病與身體、受苦的意義、照顧與被照顧",
-  "generated_at": "2026-08-09T15:20:28+00:00",
-  "para_count": 76,
-  "book_count": 10,
+  "generated_at": "2026-08-09T22:41:21+00:00",
+  "para_count": 77,
+  "book_count": 11,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -16,6 +16,20 @@
     "shenyijing"
   ],
   "paras": [
+    {
+      "slug": "jijiupian",
+      "chapter": "卷二",
+      "para_index": 112,
+      "para_id": "jijiupian#02-p112",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "木實曰果，草實曰蓏。言園圃種米，及殖果蓏，貧者食之，以免飢饉，故云助米糧也。〈補",
+      "note": "明說貧者種植並食用園菜果蓏可以補充米糧、免於飢饉，提出對抗飢餓的具體因應",
+      "co_domains": [
+        "XIII"
+      ]
+    },
     {
       "slug": "jinkui-yaolue",
       "chapter": "臟腑經絡先後病脈證第一",

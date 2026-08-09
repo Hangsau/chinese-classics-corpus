@@ -2,9 +2,9 @@
   "domain": "IV",
   "name_zh": "家庭與傳承",
   "gist": "婚姻與家庭、原生家庭的傷、為人父母、記憶與和解、留下什麼給後代",
-  "generated_at": "2026-08-09T15:20:28+00:00",
-  "para_count": 328,
-  "book_count": 14,
+  "generated_at": "2026-08-09T22:41:21+00:00",
+  "para_count": 329,
+  "book_count": 15,
   "surveyed_zero_hit": [
     "fangyan",
     "haidao-suanjing",
@@ -53,6 +53,21 @@
       "note": "提出官民各安職業的正道，並主張善政可使父子夫婦兄弟不背恩情義",
       "co_domains": [
         "V"
+      ]
+    },
+    {
+      "slug": "jijiupian",
+      "chapter": "卷一",
+      "para_index": 5,
+      "para_id": "jijiupian#01-p05",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "言此衆章列叙萬物之名，及人姓字。〈補曰︰羅，布也。《說文》︰物，萬物也。牛爲大物",
+      "note": "記述父為幼兒命名、男子成年冠字以及姓氏區別婚姻的制度，涉及身分形成與家族婚姻傳承",
+      "co_domains": [
+        "II"
       ]
     },
     {

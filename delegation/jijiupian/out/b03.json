@@ -1,0 +1,26 @@
+{
+  "batch": "b03.md",
+  "rows": [
+    {
+      "chapter": "卷三",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "全段是卷三正文的識字字表，羅列軍吏、器物、飲食、身體、兵車、屋舍與農畜等用字，沒有超出字詞登錄而說人的生活問題"
+    },
+    {
+      "chapter": "卷四",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "全段是卷四正文的識字字表，禽獸、疾病醫藥、祭喪、官獄與郡國等涉及人事的詞仍是成批列字，沒有另作關於人的議論"
+    },
+    {
+      "chapter": "急就篇注敘",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "expression"],
+      "reason": "以無良師的窮鄉幼學與以書為恥的膏粱子弟作對比，主張出身與師承會使學問增謬或廢滯，並自述承父志校注以垂後學"
+    }
+  ]
+}

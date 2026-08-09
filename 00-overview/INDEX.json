@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-08-09T15:20:28+00:00",
+    "generated_at": "2026-08-09T22:41:21+00:00",
     "text_count": 72,
     "total_bytes": 11304281,
     "by_category": {
@@ -28,40 +28,40 @@
       "reference": 4,
       "contested": 2
     },
-    "surveyed_count": 18,
-    "annotated_count": 18,
-    "scaffolded_count": 1,
-    "paras_judged": 12642,
-    "paras_pending": 282,
+    "surveyed_count": 19,
+    "annotated_count": 19,
+    "scaffolded_count": 0,
+    "paras_judged": 12924,
+    "paras_pending": 0,
     "domain_hit_counts": {
       "I": 5,
-      "II": 11,
+      "II": 12,
       "III": 10,
-      "IV": 14,
-      "IX": 10,
-      "V": 14,
+      "IV": 15,
+      "IX": 11,
+      "V": 15,
       "VI": 9,
-      "VII": 12,
-      "VIII": 14,
+      "VII": 13,
+      "VIII": 15,
       "X": 11,
       "XI": 8,
       "XII": 12,
-      "XIII": 7
+      "XIII": 8
     },
     "domain_para_counts": {
       "I": 16,
-      "II": 351,
+      "II": 352,
       "III": 84,
-      "IV": 328,
-      "V": 1089,
+      "IV": 329,
+      "V": 1093,
       "VI": 255,
-      "VII": 742,
-      "VIII": 411,
-      "IX": 76,
+      "VII": 744,
+      "VIII": 416,
+      "IX": 77,
       "X": 174,
       "XI": 150,
       "XII": 117,
-      "XIII": 59
+      "XIII": 60
     }
   },
   "texts": [
@@ -495,12 +495,27 @@
       "size_bytes": 134675,
       "chapter_count": 5,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "domains_null": null,
+      "surveyed": true,
+      "domains_hit": [
+        "II",
+        "IV",
+        "V",
+        "VII",
+        "VIII",
+        "IX",
+        "XIII"
+      ],
+      "domains_null": [
+        "I",
+        "III",
+        "VI",
+        "X",
+        "XI",
+        "XII"
+      ],
       "paras_total": 282,
-      "paras_judged": 0,
-      "annotated": false
+      "paras_judged": 282,
+      "annotated": true
     },
     {
       "slug": "jingshi-yizhuan",

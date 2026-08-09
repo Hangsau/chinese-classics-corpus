@@ -1,7 +1,7 @@
 # XI 自由·命運·改變
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 150 段命中｜跨 8 部｜生成時間 2026-08-09T15:20:28+00:00
+> 150 段命中｜跨 8 部｜生成時間 2026-08-09T22:41:21+00:00
 
 自由意志與命運、選擇與代價、改變與重來
 
@@ -11,7 +11,7 @@
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`dongmingji`（洞冥記）　`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`nanjing`（難經）　`shanghanlun`（傷寒論）　`shenyijing`（神異經）　`shuowen-jiezi`（說文解字）
+`dongmingji`（洞冥記）　`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jijiupian`（急就篇）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`nanjing`（難經）　`shanghanlun`（傷寒論）　`shenyijing`（神異經）　`shuowen-jiezi`（說文解字）
 
 ## 世說新語（人論）　75 段
 

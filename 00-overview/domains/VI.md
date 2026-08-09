@@ -1,7 +1,7 @@
 # VI 情緒與內在生活
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 255 段命中｜跨 9 部｜生成時間 2026-08-09T15:20:28+00:00
+> 255 段命中｜跨 9 部｜生成時間 2026-08-09T22:41:21+00:00
 
 七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡
 
@@ -11,7 +11,7 @@
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`dongmingji`（洞冥記）　`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`nanjing`（難經）　`shanghanlun`（傷寒論）　`shenyijing`（神異經）
+`dongmingji`（洞冥記）　`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jijiupian`（急就篇）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`nanjing`（難經）　`shanghanlun`（傷寒論）　`shenyijing`（神異經）
 
 ## 世說新語（人論）　139 段
 

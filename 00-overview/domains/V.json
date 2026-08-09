@@ -2,9 +2,9 @@
   "domain": "V",
   "name_zh": "群體·社會·公義",
   "gist": "孤獨與歸屬、友誼、我群他群與偏見、公義與權力、責任與領導",
-  "generated_at": "2026-08-09T15:20:28+00:00",
-  "para_count": 1089,
-  "book_count": 14,
+  "generated_at": "2026-08-09T22:41:21+00:00",
+  "para_count": 1093,
+  "book_count": 15,
   "surveyed_zero_hit": [
     "haidao-suanjing",
     "jinkui-yaolue",
@@ -491,6 +491,61 @@
       "excerpt": "皇曰：天師俌相五正，百官、士子、農夫、啇人、工技，鹹順我言，終身於休。",
       "note": "要求各級官民工職順從政令，並以終身安樂作為遵行的結果",
       "co_domains": []
+    },
+    {
+      "slug": "jijiupian",
+      "chapter": "卷二",
+      "para_index": 114,
+      "para_id": "jijiupian#02-p114",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "甘麮者，煑麥爲甘粥也。麮之言齲也，謂齲爛也。一曰：麮者，糗也。〈音丘柳反。〉麮、",
+      "note": "除解甘麮製法外，明言殊美之食宜進於君上，規定人在尊卑關係中的進獻行為",
+      "co_domains": []
+    },
+    {
+      "slug": "jijiupian",
+      "chapter": "卷二",
+      "para_index": 135,
+      "para_id": "jijiupian#02-p135",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "去其本俗，歸於徳義，附化而親近也。〈補曰︰董仲舒曰︰殊方萬里，說徳歸義。〉",
+      "note": "明說外族去除本俗、歸於德義並接受教化而親近，直接呈現群體同化關係及其德義評價",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "jijiupian",
+      "chapter": "卷二",
+      "para_index": 136,
+      "para_id": "jijiupian#02-p136",
+      "modes": [
+        "proposition",
+        "ritual"
+      ],
+      "excerpt": "譯，傳言也。導，引也。贊，見也。始来歸義，言語未通，故須傳譯導引進見而拜，依臣妾",
+      "note": "因來歸者語言未通而須翻譯導引，並依臣妾之禮進見下拜，寫跨群體溝通與臣屬儀節",
+      "co_domains": []
+    },
+    {
+      "slug": "jijiupian",
+      "chapter": "急就篇注敘",
+      "para_index": 1,
+      "para_id": "jijiupian#05-p01",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "《急就篇》者，其源出於小學家。昔在周宣，粵有史籀，〈音冑。〉演暢古文，初著大篆。",
+      "note": "以無良師的窮鄉幼學與以書為恥的膏粱子弟作對比，主張出身與師承會使學問增謬或廢滯，並自述承父志校注以垂後學",
+      "co_domains": [
+        "VIII"
+      ]
     },
     {
       "slug": "lienuzhuan",
