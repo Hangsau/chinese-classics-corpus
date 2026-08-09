@@ -2,7 +2,7 @@
   "slug": "gu-sanfen",
   "name_zh": "古三墳",
   "name_en": "Ancient Three Tumuli",
-  "category": "志怪",
+  "category": "術數",
   "text_role": "contested",
   "language": "古典漢語",
   "version": "Wikisource 通行本",
@@ -58,7 +58,7 @@
       "**expression 8 段全來自君臣一問一答**（如共工曰「工居君臣之位，無有勞，君其念哉」），與洞冥記的 expression 10 段（帝與方士自陳）性質不同：這裡是臣屬在職位上的自陳，領域仍判 V；洞冥記那邊是個人替自己的處境發問。**同一個 mode 值在不同體裁承載完全不同的東西，這再次說明 mode 不能拿來推領域。**",
       "**紀年語不改判是事前寫進 spec 才守住的。**皇策辭與兩政典夾雜大量「三十二易草木」「後二十二易草木」的計時語，若無明文交代，容易被當成內容而干擾判讀。全書無一段因此改判。"
     ],
-    "category_issue": "**meta.json 的 category=志怪 與實際內容不符，待改。**本書自稱《左傳》所說的三墳，內容是三種易的卦位方陣加訓詁，再加仿尚書的君臣訓誥與施政條目——沒有任何一條志怪成分。就本庫既有分類，術數（已收焦氏易林、京氏易傳）較貼近。分類修正刻意延到標註完成之後才提，以免影響判讀。真正的修改要動 scripts/catalog/chinese-classics-ws.json（category 的 canonical 來源），見 HANDOFF 待辦。"
+    "category_issue": "**category 已於 2026-08-09 由 志怪 改為 術數。**本書自稱《左傳》所說的三墳，內容是三種易的卦位方陣加訓詁，再加仿尚書的君臣訓誥與施政條目——沒有任何一條志怪成分。就本庫既有分類，術數（已收焦氏易林、京氏易傳兩部易類）最貼近；它的訓誥後半仍與 術數 不合，但另立新類只為一部書不划算。分類修正刻意延到標註完成之後才做，以免影響判讀。已同步改 scripts/catalog/chinese-classics-ws.json（category 的 canonical 來源）與本檔。"
   },
   "notes": null
 }
