@@ -1,7 +1,7 @@
 # 索引
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 生成時間 2026-08-09T08:06:59+00:00｜72 部｜11,304,281 bytes｜已通讀 15 部｜已段落標註 15 部（5242 段）｜僅有骨架待標 0 部（0 段）
+> 生成時間 2026-08-09T08:44:19+00:00｜72 部｜11,304,281 bytes｜已通讀 15 部｜已段落標註 15 部（5242 段）｜僅有骨架待標 4 部（7682 段）
 
 ## 分類統計
 
@@ -54,10 +54,10 @@
 | `gongsun-longzi` | 公孫龍子 | 名家 | original | 7 | 34,526 | — | — |
 | `lusheng-mobian-zhuxu` | 魯勝墨辯注敘 | 名家 | original | 1 | 1,091 | — | — |
 | `shuijingzhu` | 水經注 | 地理 | original | 137 | 1,131,449 | — | — |
-| `fangyan` | 方言 | 小學 | reference | 16 | 63,179 | — | — |
-| `jijiupian` | 急就篇 | 小學 | reference | 5 | 134,675 | — | — |
-| `shiming` | 釋名 | 小學 | reference | 27 | 78,465 | — | — |
-| `shuowen-jiezi` | 說文解字 | 小學 | reference | 530 | 499,538 | — | — |
+| `fangyan` | 方言 | 小學 | reference | 16 | 63,179 | — | 骨架 385 |
+| `jijiupian` | 急就篇 | 小學 | reference | 5 | 134,675 | — | 骨架 282 |
+| `shiming` | 釋名 | 小學 | reference | 27 | 78,465 | — | 骨架 945 |
+| `shuowen-jiezi` | 說文解字 | 小學 | reference | 530 | 499,538 | — | 骨架 6070 |
 | `dongmingji` | 洞冥記 | 志怪 | original | 4 | 19,558 | ✓ | 63/63 |
 | `shenyijing` | 神異經 | 志怪 | original | 10 | 15,871 | ✓ | 61/61 |
 | `wenxin-diaolong` | 文心雕龍 | 文論 | original | 52 | 148,000 | — | — |

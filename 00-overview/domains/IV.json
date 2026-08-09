@@ -1,0 +1,4560 @@
+{
+  "domain": "IV",
+  "name_zh": "家庭與傳承",
+  "gist": "婚姻與家庭、原生家庭的傷、為人父母、記憶與和解、留下什麼給後代",
+  "generated_at": "2026-08-09T08:44:19+00:00",
+  "para_count": 312,
+  "book_count": 12,
+  "surveyed_zero_hit": [
+    "haidao-suanjing",
+    "jiuzhang-suanshu",
+    "nanjing"
+  ],
+  "paras": [
+    {
+      "slug": "dongmingji",
+      "chapter": "卷第一",
+      "para_index": 2,
+      "para_id": "dongmingji#01-p02",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "東方朔，字曼倩。父張夷，字少平，妻田氏女。夷年二百歲，顏如童子。朔生三日，而田氏",
+      "note": "除神異遊歷外，還具體寫鄰母收養東方朔、因久別責打並為傷足包裹的照護關係",
+      "co_domains": []
+    },
+    {
+      "slug": "gu-sanfen",
+      "chapter": "人皇神農氏政典",
+      "para_index": 5,
+      "para_id": "gu-sanfen#08-p05",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "皇曰：嗟爾有官有業，乃子乃父，乃兄乃弟，鹹若我辭，一歸於正。皇曰：君相信任惟正，",
+      "note": "逐項規範君臣官民及父子兄弟夫婦的忠公仁孝義務，兼及朝廷秩序與家內倫理",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "gu-sanfen",
+      "chapter": "地皇軒轅氏政典",
+      "para_index": 1,
+      "para_id": "gu-sanfen#11-p01",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "皇曰：嗟爾天師，俌相正五，百官、士子、農夫、啇人、工技，鹹若我言。政典曰：國無邪",
+      "note": "提出官民各安職業的正道，並主張善政可使父子夫婦兄弟不背恩情義",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "jinkui-yaolue",
+      "chapter": "禽獸魚蟲禁忌並治第二十四",
+      "para_index": 10,
+      "para_id": "jinkui-yaolue#30-p10",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "父母及身本命肉，食之令人神魂不安。",
+      "note": "把父母與自身本命所屬之肉列為禁忌並訴諸神魂不安，兼涉家族關係與本命神魂觀",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "有虞二妃",
+      "para_index": 1,
+      "para_id": "lienuzhuan#01-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "有虞二妃者，帝堯之二女也。長娥皇，次女英。舜父頑母嚚。父號瞽叟，弟曰象，敖游於嫚",
+      "note": "二妃謙恭佐舜應對家內迫害，段末又以德純行篤評其家庭實踐與品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "有虞二妃",
+      "para_index": 2,
+      "para_id": "lienuzhuan#01-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：元始二妃，帝堯之女，嬪列有虞，承舜於下，以尊事卑，終能勞苦，瞽叟和寧，卒享",
+      "note": "頌以尊事卑、甘受勞苦並使瞽叟和寧，明確肯定二妃在家庭中的德行。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "棄母姜嫄",
+      "para_index": 1,
+      "para_id": "lienuzhuan#02-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "棄母姜嫄者，邰侯之女也。當堯之時，行見巨人跡，好而履之，歸而有娠，浸以益大，心怪",
+      "note": "感生異事只是出身敘事，承重的是姜嫄收養並教棄稼穡而被評為清靜有化。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "棄母姜嫄",
+      "para_index": 2,
+      "para_id": "lienuzhuan#02-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：棄母姜嫄，清靜專一，履跡而孕，懼棄於野，鳥獸覆翼，乃復收恤，卒為帝佐，母道",
+      "note": "頌以清靜專一、復收撫育及母道既畢評斷姜嫄的母職與品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "契母簡狄",
+      "para_index": 1,
+      "para_id": "lienuzhuan#03-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "契母簡狄者，有娀氏之長女也。當堯之時，與其妹娣浴於玄丘之水。有玄鳥銜卵，過而墜之",
+      "note": "玄鳥吞卵只是出身情節，段落重點是簡狄以仁禮教契理解秩序並施惠。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "契母簡狄",
+      "para_index": 2,
+      "para_id": "lienuzhuan#03-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：契母簡狄，敦仁勵翼，吞卵產子，遂自脩飾，教以事理，推恩有德，契為帝輔，蓋母",
+      "note": "頌直接以敦仁、自脩、教子事理及推恩有德稱許簡狄。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "啟母塗山",
+      "para_index": 1,
+      "para_id": "lienuzhuan#04-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "啟母者，塗山氏長女也。夏禹娶以為妃。既生啟，辛壬癸甲，啟呱呱泣，禹去而治水，惟荒",
+      "note": "禹三過家門不入而塗山獨任教訓，君子謂其彊於教誨，整則在寫教養如何撐起後嗣。",
+      "co_domains": []
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "啟母塗山",
+      "para_index": 2,
+      "para_id": "lienuzhuan#04-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：啟母塗山，維配帝禹，辛壬癸甲，禹往敷土，啟呱呱泣，母獨論序，教訓以善，卒繼",
+      "note": "頌以母獨論序、教訓以善而使啟繼父，明確主張母親教養的作用。",
+      "co_domains": []
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "湯妃有㜪",
+      "para_index": 1,
+      "para_id": "lienuzhuan#05-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "湯妃有㜪者，有妊氏之女也。殷湯娶以為妃，生仲壬外丙，亦明教訓，致其功。有妊之妃湯",
+      "note": "有㜪統理後宮、消弭妒媢並明於教訓，段末肯定其有序的家內治理與品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "湯妃有㜪",
+      "para_index": 2,
+      "para_id": "lienuzhuan#05-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：湯妃有㜪，質行聰明，媵從伊尹，自夏適殷，勤愨治中，九嬪有行，化訓內外，亦無",
+      "note": "頌以聰明勤愨、整治九嬪並化訓內外評斷有㜪的家內實踐。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "周室三母",
+      "para_index": 1,
+      "para_id": "lienuzhuan#06-p01",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "三母者，大姜、大任、大姒。大姜者，王季之母，有台氏之女。大王娶以為妃。生大伯、仲",
+      "note": "三母以身教、胎教及長期教誨養成子嗣德行，並明列孕育時應守的行為規範。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "周室三母",
+      "para_index": 2,
+      "para_id": "lienuzhuan#06-p02",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "頌曰：周室三母，大姜任姒，文武之興，蓋由斯起。大姒最賢，號曰文母。三姑之德，亦甚",
+      "note": "頌稱三母賢德，並主張文武之興由其教養與德行而起。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "衛姑定姜",
+      "para_index": 2,
+      "para_id": "lienuzhuan#07-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：衛姑定姜，送婦作詩，恩愛慈惠，泣而望之。數諫獻公，得其罪尤。聰明遠識，麗於",
+      "note": "頌既稱其送媳時恩愛慈惠，也稱其屢諫獻公而有政治遠識。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊女傅母",
+      "para_index": 1,
+      "para_id": "lienuzhuan#08-p01",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "傅母者，齊女之傅母也。女為衛莊公夫人，號曰莊姜。姜交好。始往，操行衰惰，有冶容之",
+      "note": "傅母以家世責任與具體自脩要求預防莊姜失行，寫的是教養如何促成品格改變。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊女傅母",
+      "para_index": 2,
+      "para_id": "lienuzhuan#08-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：齊女傅母，防女未然，稱列先祖，莫不尊榮，作詩明指，使無辱先，莊姜姆妹，卒能",
+      "note": "頌肯定傅母防患未然、以詩勸誡並使莊姜脩身而不辱先。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "魯季敬姜",
+      "para_index": 1,
+      "para_id": "lienuzhuan#09-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魯季敬姜者，莒女也。號戴己。魯大夫公父穆伯之妻，文伯之母季康子之從祖叔母也。博達",
+      "note": "敬姜反覆教子謙下、勤勞、敬賓與守禮，並以逸樂生惡等因果說明品格養成。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "魯季敬姜",
+      "para_index": 2,
+      "para_id": "lienuzhuan#09-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：文伯之母，號曰敬姜，通達知禮，德行光明，匡子過失，教以法理，仲尼賢焉，列為",
+      "note": "頌明稱敬姜知禮德明，能匡正兒子並以法理教養。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "楚子發母",
+      "para_index": 1,
+      "para_id": "lienuzhuan#10-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "楚將子發之母也。子發攻秦絕糧，使人請於王，因歸問其母。母問使者曰：「士卒得無恙乎",
+      "note": "母親以將帥應與士卒同甘苦的道理責子，連結親子教誨與公平領導。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "楚子發母",
+      "para_index": 2,
+      "para_id": "lienuzhuan#10-p02",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "頌曰：子發之母，刺子驕泰，將軍稻粱，士卒菽粒，責以無禮，不得人力，君子嘉焉，編於",
+      "note": "頌批評子發獨食稻粱會失去人力，並稱許母親責子無禮的教誨。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "鄒孟軻母",
+      "para_index": 1,
+      "para_id": "lienuzhuan#11-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "鄒孟軻之母也。號孟母。其舍近墓。孟子之少也，嬉遊為墓間之事，踴躍築埋。孟母曰：「",
+      "note": "孟母由擇居、斷織到調解夫妻與放手仕途，持續以因果和禮義塑造兒子的品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "鄒孟軻母",
+      "para_index": 2,
+      "para_id": "lienuzhuan#11-p02",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "頌曰：孟子之母，教化列分，處子擇藝，使從大倫，子學不進，斷機示焉，子遂成德，為當",
+      "note": "頌以擇教與斷機促成孟子精進學業並成為當世之冠，主張教養能成就學業。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "魯之母師",
+      "para_index": 1,
+      "para_id": "lienuzhuan#12-p01",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "母師者，魯九子之寡母也。臘日休作者，歲祀禮事畢，悉召諸子，謂曰：「婦人之義，非有",
+      "note": "母師以自身守約和對媳婦的房戶囑咐示範家內規範，並明說婦人婚前婚後所當遵從。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "魯之母師",
+      "para_index": 2,
+      "para_id": "lienuzhuan#12-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：九子之母，誠知禮經，謁歸還反，不揜人情，德行既備，卒蒙其榮，魯君賢之，號以",
+      "note": "頌以知禮、體察人情和德行具備稱許母師治家的品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "魏芒慈母",
+      "para_index": 1,
+      "para_id": "lienuzhuan#13-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魏芒慈母者，魏孟陽氏之女，芒卯之後妻也。有三子。前妻之子有五人，皆不愛慈母。遇之",
+      "note": "慈母不因繼子拒己而偏愛，援引慈義責任救子並使八子和合成材。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "魏芒慈母",
+      "para_index": 2,
+      "para_id": "lienuzhuan#13-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：芒卯之妻，五子後母，慈惠仁義，扶養假子，雖不吾愛，拳拳若親，繼母若斯，亦誠",
+      "note": "頌以慈惠仁義、視繼子若親而可尊，直接評斷無偏的母愛。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "秦穆公姬",
+      "para_index": 1,
+      "para_id": "lienuzhuan#18-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "穆姬者，秦穆公之夫人，晉獻公之女，太子申生之同母姊，與惠公異母。賢而有義。獻公殺",
+      "note": "穆姬以公族為國本並用自身與子女之死阻止殺弟，交織家族責任與兩國權力。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "秦穆公姬",
+      "para_index": 2,
+      "para_id": "lienuzhuan#18-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：秦穆夫人，晉惠之姊。秦執晉君，夫人流涕，痛不能救，乃將赴死，穆公義之，遂釋",
+      "note": "頌以流涕赴死營救弟弟並感動穆公，肯定她對手足的情義。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "周南之妻",
+      "para_index": 1,
+      "para_id": "lienuzhuan#20-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "周南之妻者，周南大夫之妻也。大夫受命，平治水土。過時不來，妻恐其懈於王事，蓋與其",
+      "note": "妻子勉夫在亂世完成王事又避免使父母受憂，論述家庭奉養與公共責任如何並行。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "周南之妻",
+      "para_index": 2,
+      "para_id": "lienuzhuan#20-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：周大夫妻，夫出治土，維戒無怠，勉為父母，凡事遠周，之在，作詩魴魚，以敕君子",
+      "note": "頌肯定妻子告誡治土的丈夫不可怠惰並應為父母勉力。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "晉趙衰妻",
+      "para_index": 1,
+      "para_id": "lienuzhuan#22-p01",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "晉趙衰妻者，晉文公之女也。號趙姬。初文公為公子時，與趙衰奔狄。狄人入其二女叔隗季",
+      "note": "趙姬要求丈夫勿因新寵忘舊妻，並安排繼妻與諸子名分，處理承諾和重組家庭的公平。",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "晉趙衰妻",
+      "para_index": 2,
+      "para_id": "lienuzhuan#22-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：趙衰姬氏，制行分明，身雖尊貴，不妒偏房，躬事叔隗，子盾為嗣，君子美之，厥行",
+      "note": "頌稱趙姬不妒偏房、親下叔隗並讓盾為嗣，評斷婚姻與繼承中的讓德。",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊靈仲子",
+      "para_index": 1,
+      "para_id": "lienuzhuan#37-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊靈仲子者，宋侯之女，齊靈公之夫人也。初，靈公娶於魯聲姬，生子光，以為太子。夫人",
+      "note": "仲子拒以親子取代既立太子，指出破壞繼承常序會引發政治禍亂。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊靈仲子",
+      "para_index": 2,
+      "para_id": "lienuzhuan#37-p02",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "頌曰：齊靈仲子，仁智顯明，靈公立牙，廢姬子光，仲子強諫，棄適不祥，公既不聽，果有",
+      "note": "頌稱仲子仁智強諫，並以棄嫡不祥與其後禍殃評斷繼承決策。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "晉羊叔姬",
+      "para_index": 1,
+      "para_id": "lienuzhuan#39-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "叔姬者，羊舌子之妻也，叔向、叔魚之母也，一姓楊氏。叔向名肸，叔魚名鮒。羊舌子好正",
+      "note": "叔姬以不義之肉會教壞孩子拒贓，又反覆從貪欲預判子孫禍敗，連結家教與品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "魏曲沃負",
+      "para_index": 1,
+      "para_id": "lienuzhuan#43-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "曲沃負者，魏大夫如耳母也。秦立魏公子政為魏太子，魏哀王使使者為太子納妃而美，王將",
+      "note": "曲沃負以父奪子妃破壞婚姻親屬綱紀會危及國政，勸王改過並恢復秩序。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "魏曲沃負",
+      "para_index": 2,
+      "para_id": "lienuzhuan#43-p02",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "頌曰：魏負聰達，非刺哀王，王子納妃，禮別不明，負款王門，陳列紀綱，王改自脩，卒無",
+      "note": "頌稱其聰達敢刺禮別不明，並把王脩身正綱紀連到國家免兵。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "召南申女",
+      "para_index": 1,
+      "para_id": "lienuzhuan#45-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "召南申女者，申人之女也。既許嫁於酆，夫家禮不備而欲迎之，女與其人言：「以為夫婦者",
+      "note": "申女主張婚禮是承業繼祖之本，寧受獄死也不接受失禮婚姻，凸顯家庭秩序與操守。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "召南申女",
+      "para_index": 2,
+      "para_id": "lienuzhuan#45-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：召南申女，貞一脩容，夫禮不備，終不肯從，要以必死，遂至獄訟，作詩明意，後世",
+      "note": "頌以貞一守禮、至死不從並獲後世稱誦，評斷她面對婚姻要求的品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊孝孟姬",
+      "para_index": 1,
+      "para_id": "lienuzhuan#50-p01",
+      "modes": [
+        "narrative",
+        "ritual"
+      ],
+      "excerpt": "孟姬者，華氏之長女，齊孝公之夫人也。好禮貞壹，過時不嫁。齊中求之，禮不備，終不往",
+      "note": "孟姬從婚迎到乘車、傅母與帷蔽皆按具體儀節自守，段末以好禮評其家內角色與品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊孝孟姬",
+      "para_index": 2,
+      "para_id": "lienuzhuan#50-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：孟姬好禮，執節甚公，避嫌遠別，終不冶容，載不並乘，非禮不從，君子嘉焉，自古",
+      "note": "頌以好禮避嫌、非禮不從並獲君子嘉許，直接評斷孟姬的婚姻規範與操守。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "衛宗二順",
+      "para_index": 1,
+      "para_id": "lienuzhuan#56-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "衛宗二順者，衛宗室靈王之夫人及其傅妾也。秦滅衛君角，封靈王世家，使奉其祀。靈王死",
+      "note": "夫人與傅妾圍繞母子名分、供養及家內位置互讓，主張不因身分變化而改其責任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "衛宗二順",
+      "para_index": 2,
+      "para_id": "lienuzhuan#56-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：衛宗二順，執行咸固，妾子雖代，供養如故，主婦慚讓，請求出舍，終不肯聽，禮甚",
+      "note": "頌稱傅妾供養如故、主婦慚讓且執行咸固，評的是家內照護與相讓品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "陳寡孝婦",
+      "para_index": 1,
+      "para_id": "lienuzhuan#59-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孝婦者，陳之少寡婦也。年十六而嫁，未有子。其夫當行戍，夫且行時，屬孝婦曰：「我生",
+      "note": "她守丈夫所託供養姑母二十八年，反覆主張家內照護須以信義完成",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "陳寡孝婦",
+      "para_index": 2,
+      "para_id": "lienuzhuan#59-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：孝婦處陳，夫死無子，妣將嫁之，終不聽母，專心養姑，一醮不改，聖王嘉之，號曰",
+      "note": "頌以專心養姑、一醮不改及聖王嘉之評斷她的家庭責任與信義",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "魯孝義保",
+      "para_index": 1,
+      "para_id": "lienuzhuan#60-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "孝義保者，魯孝公稱之保母，臧氏之寡也。初，孝公父武公與其二子長子括、中子戲朝周宣",
+      "note": "保母以親子代死而保全受託幼主，文本明確稱許其可託孤的照護與義行",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "魯孝義保",
+      "para_index": 2,
+      "para_id": "lienuzhuan#60-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：伯御作亂，由魯宮起，孝公乳保，臧氏之母，逃匿孝公，易以其子，保母若斯，亦誠",
+      "note": "頌寫保母以子易公子，並以誠足恃直接評斷其照護承諾與可靠品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "魯義姑姊",
+      "para_index": 1,
+      "para_id": "lienuzhuan#65-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魯義姑姊者，魯野之婦人也。齊攻魯至郊，望見一婦人，抱一兒，攜一兒而行，軍且及之，",
+      "note": "親子與姪兒的存亡選擇承載家庭問題，私愛與公義之辨關乎共同體，而持節不私又是品格主張，三者各自承重",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "魯義姑姊",
+      "para_index": 2,
+      "para_id": "lienuzhuan#65-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：齊君攻魯，義姑有節，見軍走山，棄子抱姪，齊將問之，賢其推理，一婦為義，齊兵",
+      "note": "頌明寫棄子抱姪的親屬取捨、以一婦之義止兵的公共效果及齊將賢其推理，三面皆不可刪",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊義繼母",
+      "para_index": 1,
+      "para_id": "lienuzhuan#67-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊義繼母者，齊二子之母也。當宣王時，有人簡死於道者，吏訊之，被一創，二子兄弟立其",
+      "note": "繼母寧捨親子也要守亡夫所託，明論不可用私愛廢公義或背諾，核心是家庭責任與信義",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊義繼母",
+      "para_index": 2,
+      "para_id": "lienuzhuan#67-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：義繼信誠，公正知禮，親假有罪，相讓不已，吏不能決，王以問母，據信行義，卒免",
+      "note": "頌稱繼母信誠、公正知禮並據信行義，使兩子皆免，直接評其家內取捨與品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "魏節乳母",
+      "para_index": 1,
+      "para_id": "lienuzhuan#70-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魏節乳母者，魏公子之乳母。秦攻魏，破之，殺魏王瑕，誅諸公子，而一公子不得，令魏國",
+      "note": "乳母拒賞畏誅仍護養公子並以身蔽箭，文本以慈惠、重義輕財評其照護責任與品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "魏節乳母",
+      "para_index": 2,
+      "para_id": "lienuzhuan#70-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：秦既滅魏，購其子孫，公子乳母，與俱遁逃，守節執事，不為利違，遂死不顧，名號",
+      "note": "頌寫乳母攜公子逃亡而不為利違，並以守節死義及顯名作出照護與品格評斷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "梁節姑姊",
+      "para_index": 1,
+      "para_id": "lienuzhuan#71-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "梁節姑姊者，梁之婦人也。因失火，兄子與己子在內中，欲取兄子，輒得其子，獨不得兄子",
+      "note": "她誤救親子而未救兄子後以死拒受私己之名，文本評其親屬責任與潔而不污",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "梁節姑姊",
+      "para_index": 2,
+      "para_id": "lienuzhuan#71-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：梁節姑姊，據義執理，子姪同內，火大發起，欲出其姪，輒得厥子，火盛自投，明不",
+      "note": "頌重述子姪取捨並以據義執理、明不私己明白評斷她的家庭倫理與品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "珠崖二義",
+      "para_index": 1,
+      "para_id": "lienuzhuan#72-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "二義者，珠崖令之後妻，及前妻之女也。女名初，年十三，珠崖多珠，繼母連大珠以為繫臂",
+      "note": "繼母與前妻女互相認罪求代死，君子以慈孝及相讓爭死評其家人關係與義行",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "珠崖二義",
+      "para_index": 2,
+      "para_id": "lienuzhuan#72-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：珠崖夫人，甚有母恩，假繼相讓，維女亦賢，納珠於關，各自伏愆，二義如此，為世",
+      "note": "頌稱夫人甚有母恩、繼女亦賢且二義為世所傳，直接評斷親情與品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "郃陽友娣",
+      "para_index": 1,
+      "para_id": "lienuzhuan#73-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "友娣者，郃陽邑任延壽之妻也。字季兒，有三子。季兒兄季宗與延壽爭葬父事，延壽與其友",
+      "note": "丈夫殺兄使她陷入殺夫不義與縱兄仇亦不義的親屬兩難，最終以死守其義名",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "郃陽友娣",
+      "para_index": 2,
+      "para_id": "lienuzhuan#73-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：季兒樹義，夫殺其兄，欲復兄讎，義不可行，不留不去，遂以自殃，馮翊表墓，嘉其",
+      "note": "頌以夫殺其兄的家族衝突為核心，並反覆以樹義、義明和嘉墓評其品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "京師節女",
+      "para_index": 1,
+      "para_id": "lienuzhuan#74-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "京師節女者，長安大昌里人之妻也。其夫有仇人，欲報其夫而無道徑，聞其妻之仁孝有義，",
+      "note": "她在救父與保夫的衝突中以身代夫受殺，文本稱此為兼全仁孝恩義的家庭取捨",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "京師節女",
+      "para_index": 2,
+      "para_id": "lienuzhuan#74-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：京師節女，夫讎劫父，要女間之，不敢不許，期處既成，乃易其所，殺身成仁，義冠",
+      "note": "頌寫父被劫、夫受威脅及她以身易所，末以殺身成仁、義冠天下作出評斷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊傷槐女",
+      "para_index": 1,
+      "para_id": "lienuzhuan#78-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊傷槐女者，傷槐衍之女也，名婧。景公有所愛槐，使人守之，植木懸之，下令曰：「犯槐",
+      "note": "女兒為救父論證愛樹殺人是私好害公法，兼寫親屬保護與刑罰、公義及領導責任",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "趙津女娟",
+      "para_index": 1,
+      "para_id": "lienuzhuan#81-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "趙津女娟者，趙河津吏之女，趙簡子之夫人也。初簡子南擊楚，與津吏期，簡子至，津吏醉",
+      "note": "女娟願代父死又指出醉中不知罪而殺之不公，兼承載孝親保護與權力用刑的正當性",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "趙津女娟",
+      "para_index": 2,
+      "para_id": "lienuzhuan#81-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：趙簡渡河，津吏醉荒，將欲加誅，女娟恐惶，操楫進說，父得不喪，維久難蔽，終遂",
+      "note": "頌寫她恐父被誅而操楫進說，並以才德久難遮蔽終得發揚評其孝行與能力",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "趙佛肸母",
+      "para_index": 1,
+      "para_id": "lienuzhuan#82-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "趙佛肸母者，趙之中牟宰佛肸之母也。佛肸以中牟叛。趙之法，以城叛者，身死家收。佛肸",
+      "note": "她區分母親對幼子教養與君主對成人臣屬的責任，迫使襄子承認不應株連遷怒",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "趙佛肸母",
+      "para_index": 2,
+      "para_id": "lienuzhuan#82-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：佛肸既叛，其母任理，將就於論，自言襄子，陳列母職，子長在君，襄子說之，遂釋",
+      "note": "頌以任理、陳列母職及子長在君概括親職界線與君主責任，並寫其說服免罪",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊太倉女",
+      "para_index": 2,
+      "para_id": "lienuzhuan#89-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：緹縈訟父，亦孔有識，推誠上書，文雅甚備，小女之言，乃感聖意，終除肉刑，以免",
+      "note": "頌同時稱小女為父上書、促成除肉刑的公共改革且有識文雅，親情、制度與才具三面均承重",
+      "co_domains": [
+        "V",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "衛宣公姜",
+      "para_index": 1,
+      "para_id": "lienuzhuan#93-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "宣姜者，齊侯之女，衛宣公之夫人也。初，宣公夫人夷姜生伋子，以為太子，又娶於齊，曰",
+      "note": "宣姜為親子爭繼承而謀害太子承載家庭傳承，造成五世政亂關乎權力，詩又斥其德無良，三面各自承重",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "衛宣公姜",
+      "para_index": 2,
+      "para_id": "lienuzhuan#93-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：衛之宣姜，謀危太子，欲立子壽，陰設力士，壽乃俱死，衛果危殆，五世不寧，亂由",
+      "note": "頌寫為立親子而害太子的繼承爭奪、五世不寧的公共後果及亂由姜起的負面歸責，三面皆承重",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "魯莊哀姜",
+      "para_index": 1,
+      "para_id": "lienuzhuan#95-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "哀姜者，齊侯之女，莊公之夫人也。初，哀姜未入時，公數如齊，與哀姜淫。既入，與其弟",
+      "note": "哀姜連謀弒兩位繼承者破壞家族傳承，以私欲奪國關乎權力，且被寫成驕淫好邪，三面各自承重",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "釋難第二十九",
+      "para_index": 3,
+      "para_id": "qianfulun#07-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "庚子曰：「周公知管蔡之惡，以相武庚，使肆厥毒，從而誅之，何不仁也？若其不知，何不",
+      "note": "周公誅管蔡：親屬之情與公義的正面衝突。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "釋難第二十九",
+      "para_index": 4,
+      "para_id": "qianfulun#07-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "庚子曰：「不然。夫桀紂者，無親於天，故天任而弗憂，誅之而弗哀。今管蔡之與周公也，",
+      "note": "同上，桀紂「無親於天」對照管蔡之於周公。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "浮侈第十二",
+      "para_index": 6,
+      "para_id": "qianfulun#09-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今按枿畢之郊，文武之陵，南城之壘，曾皙之塚，周公非不忠也，曾子非不孝也，以為褒君",
+      "note": "「褒君顯父，不在聚財；揚名顯祖，不在車馬」——孝與葬儀脫鉤。",
+      "co_domains": [
+        "V",
+        "X"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "卷九",
+      "para_index": 1,
+      "para_id": "qianfulun#12-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "昔者，聖王觀象於乾坤，考度於神明，探命曆之去就，省群后之德業，而賜姓命氏，因彰德",
+      "note": "「賜姓命氏，因彰德功」——姓氏作為德功的傳承標記，本篇唯一的原理陳述。",
+      "co_domains": []
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "卷九",
+      "para_index": 2,
+      "para_id": "qianfulun#12-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "昔堯賜契姓姬，賜禹姓姒，氏曰有夏，伯夷為姜，氏曰有呂。下及三代，官有世功，則有官",
+      "note": "堯賜契姓姬、官有世功則有官族：氏姓來源的類型。",
+      "co_domains": []
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "卷九",
+      "para_index": 3,
+      "para_id": "qianfulun#12-p03",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "衛侯滅邢，昭公娶同姓，言皆同祖也。近古以來，則不必然。古之賜姓，大諦可用，其餘則",
+      "note": "同姓不婚與「近古以來則不必然」。",
+      "co_domains": []
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "斷訟第十九",
+      "para_index": 4,
+      "para_id": "qianfulun#18-p04",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "夫立法之大要，必令善人勸其德而樂其政，邪人痛其禍而悔其行。諸一女許數家，雖生十子",
+      "note": "全書最尖銳的一段：貞潔寡婦被世叔兄弟「或利其娉幣，或貪其財賄」強中欺嫁，「人有自縊房中，飲藥車上，絕命喪軀，孤捐童孩」。婚姻脅迫(III)、家族逼迫與遺孤(IV)、自殺(X)、逐利無義(VII)。",
+      "co_domains": [
+        "III",
+        "VII",
+        "X"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "實邊第二十四",
+      "para_index": 1,
+      "para_id": "qianfulun#23-p01",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "夫製國者，必照察遠近之情偽，預禍福之所從來，乃能盡群臣之筋力，而保興其邦家。前羌",
+      "note": "將帥「殺民百則言一，殺虜一則言百」(VII)；「或覆宗滅族，絕無種類，或孤婦女，為人奴婢」(X+IV)；「士重遷，戀慕墳墓」(IV)。",
+      "co_domains": [
+        "V",
+        "VII",
+        "X"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "實邊第二十四",
+      "para_index": 2,
+      "para_id": "qianfulun#23-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "民之於徙，甚於伏法，伏法不過家一人死爾。諸亡失財貨，奪土遠移，不習風俗，不便水土",
+      "note": "「民之於徙，甚於伏法」「代馬望北，狐死首丘」「萬民怨痛，泣血叫號」——強制內遷造成的喪失與哀慟。",
+      "co_domains": [
+        "V",
+        "VI",
+        "X"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "交際第三十",
+      "para_index": 1,
+      "para_id": "qianfulun#24-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "語曰：「人惟舊，器惟新。」昆弟世疏，朋友世親，此交際之理，人之情也。今則不然，多",
+      "note": "「昆弟世疏，朋友世親」——血緣與交遊的消長。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "交際第三十",
+      "para_index": 5,
+      "para_id": "qianfulun#24-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "非獨朋友為然，君臣夫婦亦猶是也。當其歡也，父子不能間；及其乖也，怨仇不能先。是故",
+      "note": "「非獨朋友為然，君臣夫婦亦猶是也」——把交際邏輯推及親密關係。",
+      "co_domains": [
+        "III",
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "卷十",
+      "para_index": 34,
+      "para_id": "qianfulun#32-p34",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "君子多識，前言往行，類族變物，古有斯姓，博見同□□□□□□□□□□□□□故敘《誌",
+      "note": "敘〈誌氏姓〉：類族變物，古有斯姓。",
+      "co_domains": []
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "述赦第十六",
+      "para_index": 4,
+      "para_id": "qianfulun#34-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今夫性惡之人，居家不孝悌，出入不恭敬，輕薄慢傲，凶悍無辨，明以威侮侵利為行，以賊",
+      "note": "性惡之人「居家不孝悌，出入不恭敬」；本篇對可塑性給出否定答案，與〈德化〉8「隨鎔製爾」正面衝突，不調和。",
+      "co_domains": [
+        "VII",
+        "XI"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "三式第十七",
+      "para_index": 1,
+      "para_id": "qianfulun#35-p01",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "高祖定漢，與群臣約。自非劉氏不得王，非有武功不得侯。孝文皇帝始封外祖，因為典式，",
+      "note": "非劉氏不王、非武功不侯；孝文始封外祖。血緣與功勳兩條封授軸。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "三式第十七",
+      "para_index": 2,
+      "para_id": "qianfulun#35-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "先王之制，繼體立諸侯，以象賢也。子孫雖有食舊德之義，然封疆立國，不為諸侯；張官置",
+      "note": "「繼體立諸侯，以象賢也」——子孫食舊德，但不當因此得國。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "愛日第十八",
+      "para_index": 2,
+      "para_id": "qianfulun#36-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "詩云：「王事靡盬，不遑將父。」言在古閑暇而得行孝，今迫促不得養也。孔子稱庶則富之",
+      "note": "「王事靡盬，不遑將父」——徭役奪走的是奉養父母的時間。",
+      "co_domains": [
+        "V",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "釋爭",
+      "para_index": 5,
+      "para_id": "renwuzhi#12-p05",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "且兩賢未別，則能讓者為雋矣；爭雋未別，則用力者為憊矣。是故，藺相如以迴車決勝於廉",
+      "note": "IV 只取「使怨讎不延於後嗣」一句，是全書唯一觸及傳承之處。信心不足但留著供覆核；若判定不足，刪 IV 即可。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "shanghanlun",
+      "chapter": "伤寒例第三",
+      "para_index": 21,
+      "para_id": "shanghanlun#05-p21",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "凡人有疾，不時即治，隱忍冀差，以成痼疾。小兒女子，益以滋甚。時氣不和，便當早言，",
+      "note": "批評患病後隱忍盼癒而延誤，要求及早說明求治並以此作為家有患者的備慮，兼及身體照護與家庭應對",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "shenyijing",
+      "chapter": "中荒經十則",
+      "para_index": 10,
+      "para_id": "shenyijing#10-p10",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "不孝鳥，狀如人身，犬毛有齒，猪牙，額上有紋，曰不孝；口下有紋，曰不慈；背上有紋，",
+      "note": "鳥身明列不孝、不慈、不道與愛夫憐婦，並說天以此彰顯忠孝，直接論家庭倫理和德行",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "仇隟",
+      "para_index": 3,
+      "para_id": "shishuo-xinyu#01-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "王大將軍執司馬愍王，夜遣世將載王於車而殺之，當時不盡知也。〈《晉陽秋》曰：「司馬",
+      "note": "母親因仇家門強而多年隱瞞父仇以保護幼子，真相揭開後又使無忌與王胡之的親暱破裂，呈現家族記憶、權勢與友誼的衝突",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "仇隟",
+      "para_index": 4,
+      "para_id": "shishuo-xinyu#01-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "應鎮南作荊州，〈王隱《晉書》曰：「應詹字思遠，汝南南頓人，璩曾孫也。為人弘長有淹",
+      "note": "無忌一聽父親遇害的歸責便奪刀追斫仇家之子，寫父仇如何轉成後代難以節制的報復衝動",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "仇隟",
+      "para_index": 8,
+      "para_id": "shishuo-xinyu#01-p08",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "桓玄將篡，桓脩欲因玄在脩母許襲之。庾夫人云：「汝等近，過我餘年，我養之，不忍見行",
+      "note": "庾夫人以自己多年養育桓玄、視同骨肉且不忍相殘的心情制止襲殺，寫親族情分如何約束報復與政治暴力",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 2,
+      "para_id": "shishuo-xinyu#02-p02",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "阮籍遭母喪，在晉文王坐，進酒肉。司隸何曾亦在坐，〈晉諸公贊曰：「何曾字穎考，陳郡",
+      "note": "何曾主張放逐居喪飲酒的阮籍，文王則以其哀毀與疾病相護，核心是親喪禮法與真實孝德如何衡量。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 15,
+      "para_id": "shishuo-xinyu#02-p15",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "阮仲容先幸姑家鮮卑婢。及居母喪，姑當遠移，初云當留婢，既發，定將去。仲容借客驢箸",
+      "note": "阮咸追還曾親近且將為其生子的婢女，並以人種不可失說明選擇，兼及親密關係與子嗣傳承。",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 33,
+      "para_id": "shishuo-xinyu#02-p33",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王、劉共在杭南，酣宴於桓子野家。〈伊已見。〉謝鎮西往尚書墓還，葬後三日反哭。諸人",
+      "note": "謝尚在父葬後尚著喪服便轉赴宴飲，直到席間才察覺，呈現親喪責任與輕率越禮的品格問題。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 37,
+      "para_id": "shishuo-xinyu#02-p37",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "袁彥道有二妹：一適殷淵源，一適謝仁祖。〈袁氏譜曰：「耽大妹名女皇，適殷浩。小妹名",
+      "note": "袁耽因兩妹已嫁殷浩與謝尚而恨無第三妹可配桓溫，表達以手足婚配締結家族關係的願望。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "假譎",
+      "para_index": 9,
+      "para_id": "shishuo-xinyu#04-p09",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "溫公喪婦，從姑劉氏，家值亂離散，唯有一女，甚有姿慧，姑以屬公覓婚。公密有自婚意，",
+      "note": "溫嶠受姑母所託卻隱瞞自己就是新郎，故事處理家族婚配中伴侶選擇、承諾與知情信任。",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "假譎",
+      "para_index": 10,
+      "para_id": "shishuo-xinyu#04-p10",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "諸葛令女，庾氏婦，既寡，誓云：「不復重出！」此女性甚正彊，無有登車理。〈即庾亮子",
+      "note": "女子誓不再嫁，家人以搬家與滯留之計剝奪其選擇，新夫又設局逼她回應，直指再婚安排與個人自主的衝突。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "假譎",
+      "para_index": 12,
+      "para_id": "shishuo-xinyu#04-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王文度弟阿智，惡乃不翅，當年長而無人與婚。孫興公有一女，亦僻錯，又無嫁娶理。因詣",
+      "note": "孫綽利用兩家子女婚配困難，虛稱阿智不如傳聞、隱去自己女兒實情，婚後才顯出名實落差。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "傷逝",
+      "para_index": 8,
+      "para_id": "shishuo-xinyu#05-p08",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "庾亮兒遭蘇峻難遇害。諸葛道明女為庾兒婦，既寡，將改適，〈亮子會，會妻父彪，並已見",
+      "note": "寡婦改嫁牽動亡夫家庭，庾亮雖同意年少再適，仍因亡兒之念重現初喪之痛。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "儉嗇",
+      "para_index": 5,
+      "para_id": "shishuo-xinyu#06-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王戎女適裴頠，貸錢數萬。女歸，戎色不說。女遽還錢，乃釋然。",
+      "note": "王戎把嫁女所借款項看得重於親情，女兒還錢後才轉怒為喜，處理家庭金錢關係與吝嗇品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "儉嗇",
+      "para_index": 9,
+      "para_id": "shishuo-xinyu#06-p09",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "郗公大聚歛，有錢數千萬。嘉賓意甚不同，常朝旦問訊。郗家法：子弟不坐。因倚語移時，",
+      "note": "郗超不認同父親聚斂，取得庫財後盡分親友，使父子在財富應囤積或分享上正面衝突。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 32,
+      "para_id": "shishuo-xinyu#07-p32",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "時人共論晉武帝出齊王之與立惠帝，其失孰多？〈晉陽秋曰：「齊王攸，字大猷，文帝第二",
+      "note": "眾人爭論立子或傳弟的國家決策，桓溫以父業與家祀的繼承秩序為其辯護",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "夙惠",
+      "para_index": 2,
+      "para_id": "shishuo-xinyu#08-p02",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "何晏年七歲，明惠若神，魏武奇愛之；以晏在宮內，因欲以為子。晏乃畫地令方，自處其中",
+      "note": "何晏以畫出「何氏之廬」拒絕被視作曹氏之子，直接表明自己的家族歸屬與身分認同",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "夙惠",
+      "para_index": 4,
+      "para_id": "shishuo-xinyu#08-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "司空顧和與時賢共清言，張玄之、顧敷是中外孫，年並七歲，〈顧愷之《家傳》曰：「敷字",
+      "note": "顧和由兩名幼孫完整復述清談而說衰落宗族再生珍寶，把幼輩才具視為家族延續的希望",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "夙惠",
+      "para_index": 7,
+      "para_id": "shishuo-xinyu#08-p07",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "桓宣武薨，桓南郡年五歲，服始除，桓車騎與送故文武別，〈《桓沖別傳》曰：「沖字玄叔",
+      "note": "桓玄見亡父舊屬而慟哭，叔父又承諾歸還父位並愛逾親子，兼寫喪父之失與家內承接照護",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "容止",
+      "para_index": 28,
+      "para_id": "shishuo-xinyu#09-p28",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王敬倫風姿似父，作侍中，加授桓公，公服從大門入。桓公望之，曰：「大奴固自有鳳毛。",
+      "note": "桓溫從王劭入門風姿認出其肖父並稱有「鳳毛」，把優異儀態寫成父子間的承傳",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "寵禮",
+      "para_index": 5,
+      "para_id": "shishuo-xinyu#10-p05",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "孝武在西堂會，伏滔預坐。還，下車呼其兒，〈兒，即系也。丘淵之《文章錄》曰：「系字",
+      "note": "伏滔向兒子誇述自己在百人會中先被皇帝點問，又請兒子評他作父如何，把受賞識的自我價值帶入父子身分",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "尤悔",
+      "para_index": 1,
+      "para_id": "shishuo-xinyu#11-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "魏文帝忌弟任城王驍壯。因在卞太后閤共圍棊，並噉棗，文帝以毒置諸棗蔕中。自選可食者",
+      "note": "文帝因猜忌手足而下毒並阻斷母親救援，呈現權力欲對兄弟與親子倫理的敗壞。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "尤悔",
+      "para_index": 2,
+      "para_id": "shishuo-xinyu#11-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "王渾後妻，琅邪顏氏女。王時為徐州刺史，交禮拜訖，王將答拜，觀者咸曰：「王侯州將，",
+      "note": "一次未答拜竟使正妻被視為妾，顏氏又受門第所困，核心是婚姻身分如何被禮制扭曲。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "尤悔",
+      "para_index": 9,
+      "para_id": "shishuo-xinyu#11-p09",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "溫公初受劉司空使勸進，母崔氏固駐之，嶠絕裾而去。〈溫氏譜曰：「嶠父襜，娶清河崔參",
+      "note": "溫嶠違母強行赴命且後來又錯失母喪，仕途成就始終伴隨孝親責任的代價。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "德行",
+      "para_index": 10,
+      "para_id": "shishuo-xinyu#15-p10",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "華歆遇子弟甚整，雖閒室之内，嚴若朝典。〈《魏志》曰：「歆字子魚，平原髙唐人。」《",
+      "note": "華歆嚴整與陳氏柔愛兩種教養都不失家內和諧，呈現不同親子治理方式",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "德行",
+      "para_index": 14,
+      "para_id": "shishuo-xinyu#15-p14",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王祥事後母朱夫人甚謹，〈《晉諸公贊》曰：「祥字休徴，琅邪臨沂人。」《祥世家》曰：",
+      "note": "王祥面對後母苛虐仍盡孝甚至請死，終使後母感悟，兼涉繼親關係與德行",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "德行",
+      "para_index": 24,
+      "para_id": "shishuo-xinyu#15-p24",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "郗公値永嘉喪亂，在鄕里甚窮餒，鄕人以公名德，傳共飴之。公常攜兄子邁及外生周翼二小",
+      "note": "郗鑒在饑亂中分食救活兩名晚輩，周翼後為他守心喪三年，呈現親族照護與知恩守義",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "德行",
+      "para_index": 26,
+      "para_id": "shishuo-xinyu#15-p26",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "祖光祿少孤貧，性至孝，常自爲母炊爨作食。〈王隱《晉書》曰：「祖納字士言，范陽遒人",
+      "note": "祖納親自奉養母親，又以百里奚回應被當作奴僕的戲言，兼涉奉親與不由身價貶低自我",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "德行",
+      "para_index": 28,
+      "para_id": "shishuo-xinyu#15-p28",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "鄧攸始避難，於道中棄己子，全弟子。〈《晉陽秋》曰：「攸字伯道，平陽襄陵人。七歳喪",
+      "note": "鄧攸為保存弟嗣犧牲己子，後誤納外甥女而終身哀恨，處理宗族抉擇及持久內疚",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "德行",
+      "para_index": 29,
+      "para_id": "shishuo-xinyu#15-p29",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王長豫爲人謹順，事親盡色養之孝。〈《中興書》曰：「王悅字長豫，丞相導長子也。仕至",
+      "note": "王悅生前盡孝使父母歡悅，死後父哭送、母不忍開遺物，核心是親子關係與喪子之失",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "德行",
+      "para_index": 36,
+      "para_id": "shishuo-xinyu#15-p36",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "謝公夫人教兒，問太傅：「那得初不見君教兒？」答曰：「我常自教兒。」〈《謝氏譜》曰",
+      "note": "謝安以自身日常行事回答如何教兒，呈現父母用身教傳遞品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "德行",
+      "para_index": 38,
+      "para_id": "shishuo-xinyu#15-p38",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "范宣年八歳，後園挑菜，誤傷指，大啼。人問：「痛邪？」答曰：「非爲痛也；但身體髮膚",
+      "note": "范宣傷指因不敢毀傷父母所予之身而哭，成年又屢拒厚贈，呈現孝親意識與廉潔",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "德行",
+      "para_index": 42,
+      "para_id": "shishuo-xinyu#15-p42",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王僕射在江州，爲殷桓所逐，奔竄豫章，存亡未測。〈徐廣《晉紀》曰：「王愉字茂和，太",
+      "note": "父親被逐且生死未卜時，王綏顯露憂戚並減損飲食起居，呈現子對父安危的焦慮",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "德行",
+      "para_index": 43,
+      "para_id": "shishuo-xinyu#15-p43",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "桓南郡〈玄也〉既破殷荊州，收殷將佐十許人，咨議羅企生亦在焉。〈《玄別傳》曰：「玄",
+      "note": "羅企生寧死不叛故主，臨刑仍求留一弟奉養母親，兼顧忠義品格與家族照護責任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "德行",
+      "para_index": 45,
+      "para_id": "shishuo-xinyu#15-p45",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "呉郡陳遺〈未詳〉，家至孝，母好食鐺底焦飯。遺作郡主簿，恒裝一囊，毎煮食，輒貯録焦",
+      "note": "陳遺為母積存焦飯而意外賴之活命，時人將生還解作純孝之報，兼涉奉親與德行報償",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "惑溺",
+      "para_index": 3,
+      "para_id": "shishuo-xinyu#17-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "賈公閭〈《充別傳》曰：「充父逵，晚有子，故名曰充，字公閭，言後必有充閭之異。」〉",
+      "note": "郭氏把丈夫親近乳母誤作私愛，妒殺乳母又使幼兒哀拒乳而死，寫猜忌摧毀家庭與後嗣",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 8,
+      "para_id": "shishuo-xinyu#19-p08",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王渾與婦鍾氏共坐，見武子從庭過，渾欣然謂婦曰：「生兒如此，足慰人意。」婦笑曰：「",
+      "note": "夫妻藉優秀兒子互相調侃生育者與父系資質，核心是婚配、親子與家族傳承",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 12,
+      "para_id": "shishuo-xinyu#19-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "諸葛令、王丞相共爭姓族先後，王曰：「何不言葛、王，而云王、葛？」令曰：「譬言驢馬",
+      "note": "諸葛恢與王導爭論兩姓先後，實質在爭宗族排序與家門聲望",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 16,
+      "para_id": "shishuo-xinyu#19-p16",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王長豫幼便和令，丞相愛恣甚篤。每共圍棊，丞相欲舉行，長豫按指不聽。丞相笑曰：「詎",
+      "note": "王導縱愛兒子，父子下棋時以瓜葛笑說彼此牽連，呈現親子間的寵愛與親暱互動",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 36,
+      "para_id": "shishuo-xinyu#19-p36",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "袁羊嘗詣劉恢，恢在內眠未起。袁因作詩調之曰：「角枕粲文茵，錦衾爛長筵。」〈唐詩曰",
+      "note": "袁羊以亡偶詩戲弄已尚公主的劉恢，引起公主不平，笑談建立在婚姻身分與家內關係上",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 40,
+      "para_id": "shishuo-xinyu#19-p40",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "張蒼梧是張憑之祖，嘗語憑父曰：「我不如汝。」憑父未解所以。蒼梧曰：「汝有佳兒。」",
+      "note": "祖父因兒子生有佳兒而自稱不如，又被幼孫制止以子戲父，整則圍繞三代親屬的榮耀與次序",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 42,
+      "para_id": "shishuo-xinyu#19-p42",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "桓豹奴是王丹陽外生，形似其舅，桓甚諱之。〈豹奴，桓嗣小字。中興書曰：「嗣字恭祖，",
+      "note": "桓嗣忌諱自己像舅父，桓溫卻把偶爾相似說成神似，觸及家族相貌傳承如何牽動自我形象",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 60,
+      "para_id": "shishuo-xinyu#19-p60",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孝武屬王珣求女壻，曰：「王敦、桓溫，磊砢之流，既不可復得，且小如意，亦好豫人家事",
+      "note": "孝武帝提出女婿條件並由王珣薦定謝混，後又阻止別家議婚，整則處理婚配選擇與家族聯姻",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "政事",
+      "para_index": 2,
+      "para_id": "shishuo-xinyu#20-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "陳仲弓爲太丘長，有劫賊殺財主，主者捕之。未至發所，道聞民有在草不起子者，回車往治",
+      "note": "將棄嬰視為骨肉相殘而優先查辦，顯示官府在親子傷害與其他重罪間的取捨",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 39,
+      "para_id": "shishuo-xinyu#21-p39",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "林道人詣謝公，東陽時始總角，新病起，體未堪勞。與林公講論，遂至相苦。〈東陽，謝朗",
+      "note": "謝朗病後仍被留作苦談，母親以家難後唯此一子而流涕護歸",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 66,
+      "para_id": "shishuo-xinyu#21-p66",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "文帝嘗令東阿王七歩中作詩，不成者行大法。應聲便爲詩曰：「煮豆持作羹，漉菽以爲汁。",
+      "note": "曹植在兄長以死刑相逼時以同根相煎作詩，使文帝羞慚，處理手足倫理與良心",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 71,
+      "para_id": "shishuo-xinyu#21-p71",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "夏侯湛作《周詩》成，〈《文士傳》曰：「湛字孝若，譙國人，魏征西將軍夏侯淵曾孫也。",
+      "note": "夏侯湛詩被讀出孝悌之性並引發《家風詩》，把家族實踐連於德性",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 4,
+      "para_id": "shishuo-xinyu#22-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "郭淮作關中都督，甚得民情，亦屢有戰庸。〈《魏志》曰：「淮字伯濟，太原陽曲人。建安",
+      "note": "郭淮在連坐法令與妻兒存亡之間改變決定，向掌權者申明一家人相互依存",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 10,
+      "para_id": "shishuo-xinyu#22-p10",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "諸葛靚後入晉，除大司馬，召不起。以與晉室有讎，常背洛水而坐。與武帝有舊，帝欲見之",
+      "note": "諸葛靚因父仇拒仕拒見舊友皇帝，流淚申明自己不能忘卻家仇與孝義",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 11,
+      "para_id": "shishuo-xinyu#22-p11",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "武帝語和嶠曰：「我欲先痛罵王武子，然後爵之。」嶠曰：「武子雋爽，恐不可屈。」帝遂",
+      "note": "王濟以兄弟不能相容之恥反諫皇帝，將皇室親情與君主的公共責任相連",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 23,
+      "para_id": "shishuo-xinyu#22-p23",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "元皇帝既登阼，以鄭后之寵，欲舍明帝而立簡文。時議者咸謂：「舍長立少，既於理非倫，",
+      "note": "元帝欲因寵愛改立幼子，群臣以長幼與才能力爭並阻止詔令，處理皇室繼承與政治制衡",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 24,
+      "para_id": "shishuo-xinyu#22-p24",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "王丞相初在江左，欲結援呉人，請婚陸太尉。對曰：「培塿無松柏，薰蕕不同器。〈杜預《",
+      "note": "陸玩以門第與價值不相容拒絕王導求婚，顯出婚姻選擇中的家族界線與群體區隔",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 25,
+      "para_id": "shishuo-xinyu#22-p25",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "諸葛恢大女適太尉庾亮兒，〈《恢別傳》曰：「恢字道明，琅邪陽都人。祖誕，司空。父靚",
+      "note": "諸葛恢諸女的婚配取決於世婚、門第與彼此高下，呈現家族傳承和社會地位的聯動",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 26,
+      "para_id": "shishuo-xinyu#22-p26",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "周叔治作晉陵太守，周侯、仲智往別。叔治以將別，涕泗不止。仲智恚之曰：「斯人乃婦女",
+      "note": "周謨離任時兄弟對哭泣有相反反應，周顗留下流淚撫慰，呈現手足離別的情感",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 27,
+      "para_id": "shishuo-xinyu#22-p27",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "周伯仁爲吏部尚書，在省内夜疾危急。時刁玄亮爲尚書令，營救備親好之至。良久小損。〈",
+      "note": "周嵩在兄長病危時仍斥責他與刁協交好，把對交友品格的判斷置於手足慰問之前",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 41,
+      "para_id": "shishuo-xinyu#22-p41",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "何次道、庾季堅二人並爲元輔。〈《晉陽秋》曰：「庾冰字季堅，太尉亮之弟也。少有檢操",
+      "note": "何充與庾冰爭議由幼子或成年弟弟繼位，事後又如實說明自己並未促成現任皇帝登位",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 58,
+      "para_id": "shishuo-xinyu#22-p58",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "王文度爲桓公長史時，桓爲兒求王女，王許咨藍田。〈王坦之、王述並已見。〉既還，藍田",
+      "note": "王述拒絕因畏桓溫兵威便嫁孫女，呈現婚姻家事如何抵抗外部權勢逼迫",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "紕漏",
+      "para_index": 5,
+      "para_id": "shishuo-xinyu#26-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "謝虎子嘗上屋熏鼠。〈虎子，據小字。據字玄道，尚書褒第二子。年三十三亡。〉胡兒既無",
+      "note": "謝太傅佯稱自己與胡兒之父同犯其過，以共擔過錯開悟因嘲父而羞慚的晚輩，呈現家內德教。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "紕漏",
+      "para_index": 6,
+      "para_id": "shishuo-xinyu#26-p06",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "殷仲堪父病虛悸，聞床下蟻動，謂是牛鬬。〈《殷氏譜》曰：「殷師字師子。祖識、父融，",
+      "note": "殷仲堪因皇帝無心揭出父親心疾而流涕，自陳身為人子的進退困境。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "術解",
+      "para_index": 11,
+      "para_id": "shishuo-xinyu#28-p11",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "殷中軍妙解經脉，中年都廢。有常所給使，忽叩頭流血。浩問其故？云：「有死事，終不可",
+      "note": "給使甘願受死只求殷浩救治百歲病母，至孝打動殷浩破例處方，寫親子照護與自我犧牲的品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "規箴",
+      "para_index": 7,
+      "para_id": "shishuo-xinyu#29-p07",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "晉武帝既不悟太子之愚，必有傳後意。諸名臣亦多獻直言。帝嘗在陵雲臺上坐，衛瓘在側，",
+      "note": "衛瓘以惜座暗諫太子不堪承統，武帝雖領會仍迴避處置，呈現父子傳位與公共領導責任的衝突",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "規箴",
+      "para_index": 8,
+      "para_id": "shishuo-xinyu#29-p08",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王夷甫婦，郭泰寧女，〈晉諸公贊曰：「郭豫字太寧，太原人。仕至相國參軍，知名。早卒",
+      "note": "王夷甫無法直接制止妻子貪聚干政，借她畏懼的李陽之名才稍加收斂，處理婚姻內的規勸與貪欲",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "規箴",
+      "para_index": 10,
+      "para_id": "shishuo-xinyu#29-p10",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王平子年十四、五，見王夷甫妻郭氏貪欲，令婢路上儋糞。平子諫之，並言不可。郭大怒，",
+      "note": "少年王平子規勸郭氏貪欲而遭她以長嫂權威追打，呈現家內責任與糾正貪行的衝突",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 13,
+      "para_id": "shishuo-xinyu#30-p13",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "魏明帝爲外祖母築舘於甄氏。〈《魏本傳》曰：「帝諱叡，字元仲，文帝太子。以其母廢，",
+      "note": "明帝為母族建館並以懷念母親的「渭陽」命名，核心是母系親屬、孝思與家族情感的延續。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 21,
+      "para_id": "shishuo-xinyu#30-p21",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "諸葛靚在呉，於朝堂大會。〈《晉諸公贊》曰：「靚字仲思，琅邪人，司空誕少子也。雅正",
+      "note": "諸葛靚分別說在家思孝、事君思忠、朋友思信，把家內傳承、公共關係與個人品格三種責任並列為行事準則。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 25,
+      "para_id": "shishuo-xinyu#30-p25",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "樂令女適大將軍成都王頴。〈虞預《晉書》曰：「樂廣字彦輔，南陽人。淸夷沖曠，加有理",
+      "note": "樂廣因女兒嫁入敵對王族而受政治猜疑，他以不會拿五子換一女釐清家族婚姻與公共忠誠的界線；神色自若不是另標情緒的理由。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 28,
+      "para_id": "shishuo-xinyu#30-p28",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "崔正熊詣都郡。都郡將姓陳，問正熊：「君去崔杼幾世？」荅曰：「民去崔杼，如明府之去",
+      "note": "郡將以崔杼追問崔豹祖系，崔豹以對方的陳恆祖系回擊，呈現個人身分如何承受家族祖先的污名。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 58,
+      "para_id": "shishuo-xinyu#30-p58",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "桓公入峽，絶壁天懸，騰波迅急。〈《晉陽秋》曰：「温以永和二年，率所領七千餘人伐蜀",
+      "note": "桓溫身涉險峽，感嘆盡忠國事便難保全父母所遺之身，呈現公共忠誠與家庭孝責的衝突。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 65,
+      "para_id": "shishuo-xinyu#30-p65",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "羊秉爲撫軍參軍，少亡，有令譽。夏侯孝若爲之敘，極相讚悼。〈《羊秉敘》曰：「秉字長",
+      "note": "羊秉早亡且無後，親人哀陳其美名雖彰而宗胤已絕，注中又追問行善何以多禍，兼及傳承中斷、死亡與命運。",
+      "co_domains": [
+        "X",
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 92,
+      "para_id": "shishuo-xinyu#30-p92",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "謝太傅問諸子姪：「子弟亦何預人事，而正欲使其佳？」諸人莫有言者，車騎荅曰：〈謝玄",
+      "note": "謝玄以芝蘭玉樹生於庭階說明何以盼子弟成材，核心是家族對下一代及門庭延續的期待。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 100,
+      "para_id": "shishuo-xinyu#30-p100",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "謝景重女適王孝伯兒，二門公甚相愛美。〈《謝女譜》曰：「重女月鏡，適王恭子愔之。」",
+      "note": "謝重因姻親王恭敗亡而被疑同謀，以不會拿五子換一女釐清親家關係與政治忠誠；無懼色只是套語，不另標情緒。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "識鑒",
+      "para_index": 14,
+      "para_id": "shishuo-xinyu#31-p14",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "周伯仁母冬至舉酒賜三子曰：「吾本謂度江託足無所。爾家有相，爾等並羅列吾前，復何憂",
+      "note": "周嵩面對母親因三子在前而安心，自陳並評量兄弟的性格與自全能力，關乎自我認識及家庭存續",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "識鑒",
+      "para_index": 25,
+      "para_id": "shishuo-xinyu#31-p25",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "郗超與傅瑗周旋，瑗見其二子並總髮。超觀之良久，謂瑗曰：「小者才名皆勝，然保卿家，",
+      "note": "郗超比較傅氏兄弟，區分弟弟才名較勝與哥哥能保全家族，呈現個人才名評價和家門延續並非一事",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 11,
+      "para_id": "shishuo-xinyu#34-p11",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "羊長和父繇，與太傅祜同堂相善，仕至車騎掾。蚤卒。長和兄弟五人，幼孤。〈羊氏譜曰：",
+      "note": "羊祜由孤兒的成熟舉止說其父不亡，重點在子嗣如何延續家族人物。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 29,
+      "para_id": "shishuo-xinyu#34-p29",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "林下諸賢，各有雋才子。籍子渾，器量弘曠。〈世語曰：「渾字長成，清虛寡欲，位至太子",
+      "note": "逐一比較竹林諸賢之子是否承續父輩才望，主軸是代際傳承。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 34,
+      "para_id": "shishuo-xinyu#34-p34",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "太傅東海王鎮許昌，以王安期為記室參軍，雅相知重。敕世子毗曰：「夫學之所益者淺，體",
+      "note": "太傅認為孩子親炙人格典範勝過只學禮言，提出家內教養與品格陶成之道。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 52,
+      "para_id": "shishuo-xinyu#34-p52",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "王平子與人書，稱其兒：「風氣日上，足散人懷。」〈永嘉流人名曰：「澄弟四子微。」澄",
+      "note": "父親觀察兒子風氣日進且足以慰懷，呈現對下一代成長的期待。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 74,
+      "para_id": "shishuo-xinyu#34-p74",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "王藍田拜揚州，主簿請諱，教云：「亡祖先君，名播海內，遠近所知。內諱不出於外，〈禮",
+      "note": "王述主張家內名諱不應外施於公署，劃分家族禮俗與公共職責的界線。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 112,
+      "para_id": "shishuo-xinyu#34-p112",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "魏隱兄弟，少有學義，〈魏氏譜曰：「隱字安時，會稽上虞人。歷義興太守、御史中丞。弟",
+      "note": "謝奉見魏氏兄弟成材而說衰落大宗重新有人，重點是宗族才脈復續。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 122,
+      "para_id": "shishuo-xinyu#34-p122",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "謝中郎云：「王脩載樂託之性，出自門風。」〈王氏譜曰：「耆之字修載，琅邪人，荊州刺",
+      "note": "把王耆之樂託的性情明指為出自門風，處理家族氣質的傳承。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 140,
+      "para_id": "shishuo-xinyu#34-p140",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "謝太傅重鄧僕射，常言「天地無知，使伯道無兒」。〈晉陽秋曰：「鄧攸既棄子，遂無復繼",
+      "note": "伯道棄子後終無後嗣的慨嘆，核心是喪子之失與家族傳承斷絕。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 150,
+      "para_id": "shishuo-xinyu#34-p150",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "范豫章謂王荊州〈范甯、王忱並已見。〉：「卿風流雋望，真後來之秀。」王曰：「不有此",
+      "note": "王忱把自己的俊望歸功於舅父，呈現才名與家族上一代的承續。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賢媛",
+      "para_index": 4,
+      "para_id": "shishuo-xinyu#35-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "魏武帝崩，文帝悉取武帝宮人自侍。及帝病困，卞后出看疾。太后入戶，見直侍並是昔日所",
+      "note": "卞后見兒子收納父親宮人，斥其悖亂並拒絕臨喪，寫家庭倫序與道德譴責",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賢媛",
+      "para_index": 8,
+      "para_id": "shishuo-xinyu#35-p08",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "許允為晉景王所誅，門生走入告其婦。婦正在機中，神色不變，曰：「蚤知爾耳！」〈魏志",
+      "note": "丈夫被誅後，阮氏判斷政治追捕風險並教兒子如何應對鍾會，以保全一家",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賢媛",
+      "para_index": 12,
+      "para_id": "shishuo-xinyu#35-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王渾妻鍾氏生女令淑，〈虞預晉書曰：「渾字玄沖，太原晉陽人，魏司徒昶子。仕至司徒。",
+      "note": "鍾氏從出身、才能、形骨與壽命衡量女兒婚配，重點在識人依據與家族婚姻選擇",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賢媛",
+      "para_index": 13,
+      "para_id": "shishuo-xinyu#35-p13",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "賈充前婦，是李豐女。豐被誅，離婚徙邊。〈婦人集曰：「充妻李氏，名婉字淑文。豐誅，",
+      "note": "郭氏挾現妻威儀探訪前妻卻自然屈膝，寫婚姻名位與李氏實際人格分量的落差",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賢媛",
+      "para_index": 14,
+      "para_id": "shishuo-xinyu#35-p14",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "賈充妻李氏作女訓，行於世。李氏女，齊獻王妃，郭氏女，惠帝后。充卒，李、郭女各欲令",
+      "note": "兩女爭各自母親與父親合葬，政治變故才定葬位，主軸是家內名分與身後安排",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賢媛",
+      "para_index": 15,
+      "para_id": "shishuo-xinyu#35-p15",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王汝南少無婚，自求郝普女。〈郝氏譜曰：「普字道匡，太原襄城人。仕至洛陽太守。」〉",
+      "note": "王汝南從取水時始終得體的舉止識出郝女品性，據此自主婚配並驗於後來家風",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賢媛",
+      "para_index": 16,
+      "para_id": "shishuo-xinyu#35-p16",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "王司徒婦，鍾氏女，太傅曾孫，〈王氏譜曰：「夫人，黃門侍郎鍾琰女。」〉亦有俊才女德",
+      "note": "鍾、郝兩妯娌跨越貴賤相互尊重，且各成家內法度，寫家庭關係中的身分平等",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賢媛",
+      "para_index": 18,
+      "para_id": "shishuo-xinyu#35-p18",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "周浚作安東時，行獵，值暴雨，過汝南李氏。李氏富足，而男子不在。有女名絡秀，聞外有",
+      "note": "絡秀自陳屈身作妾是為挽救母族，並要求兒子維繫兩家親屬，使寒門獲得平等對待",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賢媛",
+      "para_index": 19,
+      "para_id": "shishuo-xinyu#35-p19",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "陶公少有大志，家酷貧，與母湛氏同居。同郡范逵素知名，舉孝廉，〈逵未詳。〉投侃宿。",
+      "note": "陶母在極貧中割髮拆物款待名士，藉母親的犧牲與人脈支持兒子踏入仕途",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賢媛",
+      "para_index": 22,
+      "para_id": "shishuo-xinyu#35-p22",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "庾玉臺，希之弟也。希誅，將戮玉臺。〈希已見。玉臺，庾友小字。庾氏譜曰：「友字惠彥",
+      "note": "桓氏女突破門禁向掌權伯父哭請，以親屬身分介入政治誅殺而保全夫家一門",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "輕詆",
+      "para_index": 8,
+      "para_id": "shishuo-xinyu#36-p08",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "王右軍在南，丞相與書，每嘆子姪不令。云：「虎㹠、虎犢，還其所如。」〈虎㹠，王彭之",
+      "note": "王導在家書中反覆憂歎子姪不肖，內容落在宗族長輩對後輩承繼的失望",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "輕詆",
+      "para_index": 17,
+      "para_id": "shishuo-xinyu#36-p17",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孫長樂兄弟就謝公宿，言至款雜。劉夫人在壁後聽之，具聞其語。謝公明日還，問：「昨客",
+      "note": "劉夫人以亡兄家門的賓客反諷丈夫所交，令謝安慚愧，落在婚姻家內評議與羞愧",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "輕詆",
+      "para_index": 18,
+      "para_id": "shishuo-xinyu#36-p18",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "簡文與許玄度共語，許云：「舉君、親以為難。」簡文便不復答。許去後而言曰：「玄度故",
+      "note": "許詢把君父兩難提出為一般倫理困局，核心是親屬義務與良心判斷的衝突",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "輕詆",
+      "para_index": 27,
+      "para_id": "shishuo-xinyu#36-p27",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "殷顗、庾恆並是謝鎮西外孫。〈謝氏譜曰：「尚長女僧要適庾龢，次女僧韶適殷歆。」〉殷",
+      "note": "謝安以殷顗面頰肖似外祖作評，庾恆追問外貌相似能否等於才健，涉及家族承繼與評人依據",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "雅量",
+      "para_index": 19,
+      "para_id": "shishuo-xinyu#37-p19",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "郗太傅在京口，遣門生與王丞相書，求女壻。丞相語郗信：「君往東廂，任意選之。」門生",
+      "note": "王家諸郎為婚姻甄選刻意矜持，王羲之坦腹自若反被選中，處理婚配中的家庭選擇與真實自我呈現。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "黜免",
+      "para_index": 2,
+      "para_id": "shishuo-xinyu#38-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "桓公入蜀，至三峽中，部伍中有得猨子者。〈《荊州記》曰：「峽長七百里，兩岸連山，略",
+      "note": "猨母因幼子被奪而哀號追船至死，桓溫因其部屬殘害親子而黜之，兼寫親子依戀與對殘忍的品格裁斷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "sunzi-bingfa",
+      "chapter": "地形第十",
+      "para_index": 4,
+      "para_id": "sunzi-bingfa#10-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "視卒如嬰兒，故可以與之赴深溪；視卒如愛子，故可與之俱死。厚而不能使，愛而不能令，",
+      "note": "以親子關係比擬將卒關係（視卒如嬰兒、如愛子），並指出溺愛之失（厚而不能使，愛而不能令，譬若驕子）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "sunzi-bingfa",
+      "chapter": "答話",
+      "para_index": 2,
+      "para_id": "sunzi-bingfa#14-p02",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "吳王問孫武曰：「散地士卒顧家，不可與戰，則必固守不出。若敵攻我小城，掠吾田野，禁",
+      "note": "「散地士卒顧家」「安土懷生」：本土作戰時家庭牽掛被視為戰力弱點",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "序致第一",
+      "para_index": 1,
+      "para_id": "yanshi-jiaxun#01-p01",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "夫聖賢之書，教人誠孝，慎言檢迹，立身揚名，亦已備矣。魏、晉已來，所著諸子，理重事",
+      "note": "自述著書是為整齊門內、提撕子孫，並主張同樣的教誡由親近且信服的人說出才容易施行，核心是家內教養與傳承",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "序致第一",
+      "para_index": 2,
+      "para_id": "yanshi-jiaxun#01-p02",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "吾家風教，素爲整密。昔在齠齔，便蒙誘誨；每從兩兄，曉夕溫凊，規行矩步，安辭定色，",
+      "note": "自述九歲喪親、家門離散後失於嚴教，以致習氣難改並反覆悔過，最後把無法追回的教養化為留給子孫的二十篇後車之戒，是作者替自身失教與失親處境尋求安頓",
+      "co_domains": [
+        "VII",
+        "X",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "教子第二",
+      "para_index": 1,
+      "para_id": "yanshi-jiaxun#02-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "上智不教而成，下愚雖教無益，中庸之人，不教不知也。古者聖王有胎教之法：懷子三月，",
+      "note": "從胎教、嬰幼兒教誨的具體規矩，論證及早立教可使子女形成孝慎習慣，並觀察溺愛失教會使驕慢固著、終至敗德",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "教子第二",
+      "para_index": 2,
+      "para_id": "yanshi-jiaxun#02-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡人不能教子女者，亦非欲陷其罪惡；但重於訶怒。傷其顏色，不忍楚撻慘其肌膚耳。當以",
+      "note": "以治病必用湯藥鍼艾作譬，主張父母督訓乃不得已的救治而非有意苛虐，規勸不可因不忍責罰而放棄教子",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "教子第二",
+      "para_index": 3,
+      "para_id": "yanshi-jiaxun#02-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王大司馬母魏夫人，性甚嚴正；王在湓城時，爲三千人將，年踰四十，少不如意，猶捶撻之",
+      "note": "王大司馬母嚴教成子勳業、梁元帝時學士為父所寵而敗，兩故事對舉嚴教與溺愛對子女成人結果的差異",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "教子第二",
+      "para_index": 4,
+      "para_id": "yanshi-jiaxun#02-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "父子之嚴，不可以狎；骨肉之愛，不可以簡。簡則慈孝不接，狎則怠慢生焉。由命士以上，",
+      "note": "規定父子既不可狎昵而失嚴，也不可疏略而斷愛，並以分居、照料寢具等相處儀節及不親授敏感經文說明親疏分寸",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "教子第二",
+      "para_index": 5,
+      "para_id": "yanshi-jiaxun#02-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊武成帝子琅邪王，太子母弟也，生而聰慧，帝及后並篤愛之，衣服飲食，與東宮相準。帝",
+      "note": "敘琅邪王受帝后偏愛、逾越諸王禮分而養成驕恣，終至矯詔斬相、動用軍士並幽死，同時呈現皇室教養失敗與政治權力濫用",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "教子第二",
+      "para_index": 6,
+      "para_id": "yanshi-jiaxun#02-p06",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "人之愛子，罕亦能均；自古及今，此弊多矣。賢俊者自可賞愛，頑魯者亦當矜憐，有偏寵者",
+      "note": "指出父母偏愛自古常見，主張賢愚子女都當憐愛，並以多個覆家亡子的先例論證偏寵看似厚愛、實則招禍",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "教子第二",
+      "para_index": 7,
+      "para_id": "yanshi-jiaxun#02-p07",
+      "modes": [
+        "prescription",
+        "narrative"
+      ],
+      "excerpt": "齊朝有一士大夫，嘗謂吾曰：「我有一兒，年已十七，頗曉書疏，教其鮮卑語及彈琵琶，稍",
+      "note": "記士大夫教兒以鮮卑語、琵琶取悅公卿求進身，作者明言即使可藉此位至卿相也不願子孫為之，兼論教養、進身之業與人格取捨",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "兄弟第三",
+      "para_index": 1,
+      "para_id": "yanshi-jiaxun#03-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "夫有人民而後有夫婦，有夫婦而後有父子，有父子而後有兄弟：一家之親，此三而已矣。自",
+      "note": "論兄弟是家族三親之一，觀察幼時親愛而各自成家後容易轉衰，故勸兄弟之情不可由較疏的妻室左右",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "兄弟第三",
+      "para_index": 2,
+      "para_id": "yanshi-jiaxun#03-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "二親既歿，兄弟相顧，當如形之與影，聲之與響；愛先人之遺體，惜己身之分氣，非兄弟何",
+      "note": "規勸父母亡後兄弟更應相依，並以房屋小隙終將傾毀為喻，論證親近者雖易生怨亦易修補，不可任妻子僕妾擴大裂痕",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "兄弟第三",
+      "para_index": 3,
+      "para_id": "yanshi-jiaxun#03-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "兄弟不睦，則子侄不愛；子侄不愛，則羣從疏薄；羣從疏薄，則僮僕爲讎敵矣。如此，則行",
+      "note": "提出兄弟失和會逐層造成子侄、群從乃至僮僕相敵的因果，並反詰能結交天下、統率萬人者何以反不能敬兄愛弟",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "兄弟第三",
+      "para_index": 4,
+      "para_id": "yanshi-jiaxun#03-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "娣姒者，多争之地也，使骨肉居之，亦不若各歸四海，感霜露而相思，佇日月之相望也。況",
+      "note": "分析妯娌因在多爭位置上以私情承擔公責而易生嫌隙，並主張能推己及人、把對方子女換作己子撫待即可免患",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "兄弟第三",
+      "para_index": 5,
+      "para_id": "yanshi-jiaxun#03-p05",
+      "modes": [
+        "prescription",
+        "narrative"
+      ],
+      "excerpt": "人之事兄，不可同於事父，何怨愛弟不及愛子乎？是反照而不明也。沛國劉璡，嘗與兄瓛連",
+      "note": "規勸事兄不必比同事父，也不應怨兄愛弟不及愛子，再以劉璡整衣冠後才應兄長的故事示範敬兄分寸",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "兄弟第三",
+      "para_index": 6,
+      "para_id": "yanshi-jiaxun#03-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "江陵王玄紹，弟孝英、子敏，兄弟三人，特相友愛，所得甘旨新異，非共聚食，必不先嘗，",
+      "note": "以江陵王玄紹兄弟共享珍味、危難時爭相代死並最終同命的故事，承載兄弟友愛相救之義",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "後娶第四",
+      "para_index": 1,
+      "para_id": "yanshi-jiaxun#04-p01",
+      "modes": [
+        "prescription",
+        "narrative"
+      ],
+      "excerpt": "吉甫，賢父也，伯奇，孝子也，以賢父御孝子，合得終於天性，而後妻閒之，伯奇遂放。曾",
+      "note": "以吉甫、曾參、王駿及後妻離間虐待前子等事為戒，反覆告誡再娶可能破壞父子天性與傷害孤遺",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "後娶第四",
+      "para_index": 2,
+      "para_id": "yanshi-jiaxun#04-p02",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "江左不諱庶孽，喪室之後，多以妾媵終家事；疥癬蚊䖟，或未能免，限以大分，故稀鬬鬩之",
+      "note": "比較江左、河北續娶與庶出習俗，描述嫡庶貴賤之隔如何在身後化為訴訟、誣辱與兄弟相黜，並警告夫妻與僕婢長期進言足以移易親情",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "後娶第四",
+      "para_index": 3,
+      "para_id": "yanshi-jiaxun#04-p03",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "凡庸之性，後夫多寵前夫之孤，後妻必虐前妻之子；非唯婦人懷嫉妒之情，丈夫有沈惑之僻",
+      "note": "從嫉妒、利益防備與共同生活分析後夫寵前夫孤、後妻虐前妻子的成因，指出兩種偏私都會使父母被怨、兄弟成仇而成門戶之禍",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "後娶第四",
+      "para_index": 4,
+      "para_id": "yanshi-jiaxun#04-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "思魯等從舅殷外臣，博達之士也。有子基、諶，皆已成立，而再娶王氏。基每拜見後母，感",
+      "note": "敘殷外臣成年之子悲慕亡母，使新娶王氏同感悽愴而請退，呈現再娶造成的繼親情感困局",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "後娶第四",
+      "para_index": 5,
+      "para_id": "yanshi-jiaxun#04-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "《後漢書》曰：「安帝時，汝南薛包孟嘗，好學篤行，喪母，以至孝聞。及父娶後妻而憎包",
+      "note": "完整敘薛包受後母憎逐仍晨昏盡孝、分產讓弟取善而自己取敝、弟破產後再賑給的生平，以家庭逆境承載孝悌、忍讓與恬退品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "治家第五",
+      "para_index": 1,
+      "para_id": "yanshi-jiaxun#05-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫風化者，自上而行於下者也，自先而施於後者也。是以父不慈則子不孝，兄不友則弟不恭",
+      "note": "主張家內風教由尊長向下施行，父不慈、兄不友、夫不義會相應導致子弟與妻室失其倫常，核心是家庭角色相互塑造",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "治家第五",
+      "para_index": 2,
+      "para_id": "yanshi-jiaxun#05-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "笞怒廢於家，則豎子之過立見；刑罰不中，則民無所措手足。治家之寬猛，亦猶國焉。",
+      "note": "把治家寬猛與治國刑罰並舉，主張家中完全不用責罰會顯出子弟過失，國家刑罰失中則使人民無所適從",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "治家第五",
+      "para_index": 5,
+      "para_id": "yanshi-jiaxun#05-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "梁孝元世，有中書舍人，治家失度，而過嚴刻，妻妾遂共貨刺客，伺醉而殺之。",
+      "note": "以中書舍人治家過度嚴刻，終遭妻妾僱刺客殺害的短故事，呈現家庭治理失度的惡果",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "治家第五",
+      "para_index": 6,
+      "para_id": "yanshi-jiaxun#05-p06",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "世間名士，但務寬仁；至於飲食饟饋，僮僕減損，施惠然諾，妻子節量，狎侮賓客，侵耗鄉",
+      "note": "批評名士以寬仁自許，卻讓妻子節縮、僮僕侵耗賓客鄉黨來支應饋贈然諾，指出表面施惠若把代價轉嫁家人與他人，正是治家與品格的大害",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "治家第五",
+      "para_index": 7,
+      "para_id": "yanshi-jiaxun#05-p07",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊吏部侍郎房文烈，未嘗嗔怒，經霖雨絶糧，遣婢糴米，因爾逃竄，三四許日，方復擒之。",
+      "note": "敘房文烈在全家斷糧、婢女逃走及奴婢拆屋為薪時仍不嗔打斥責，以具體家務事件呈現其寬厚到近乎無威的性情",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "治家第五",
+      "para_index": 8,
+      "para_id": "yanshi-jiaxun#05-p08",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "裴子野有疎親故屬飢寒不能自濟者，皆收養之；家素清貧，時逢水旱，二石米爲薄粥，僅得",
+      "note": "以裴子野與親故同食薄粥、領軍蓄財卻薄待家童客旅、南陽人吝待女婿而諸子爭財相殺三事對照，論家庭與所屬之人間的仁厚、貪積和吝嗇",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "治家第五",
+      "para_index": 9,
+      "para_id": "yanshi-jiaxun#05-p09",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "婦主中饋，惟事酒食衣服之禮耳，國不可使預政，家不可使幹蠱；如有聰明才智，識達古今",
+      "note": "規定婦人僅主家內酒食衣服，不可干預國政或主持家務，只可輔佐丈夫，直接劃定婚姻家庭與政治權力中的性別角色",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "治家第五",
+      "para_index": 10,
+      "para_id": "yanshi-jiaxun#05-p10",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "江東婦女，略無交遊，其婚姻之家，或十數年間，未相識者，惟以信命贈遺，致殷勤焉。鄴",
+      "note": "比較江東與鄴下婦女在交遊、持門戶、訴訟請託、代夫子求官及內外用度上的習俗，兼涉家庭分工、公共活動與南北群體差異",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "治家第五",
+      "para_index": 12,
+      "para_id": "yanshi-jiaxun#05-p12",
+      "modes": [
+        "observation",
+        "narrative"
+      ],
+      "excerpt": "太公曰：「養女太多，一費也。」陳蕃曰：「盗不過五女之門。」女之爲累，亦以深矣。然",
+      "note": "先述世人把女兒視為負累，繼而斥責溺殺女嬰是殘害骨肉，又敘親族守候產婦、遇女即抱走而母親號泣之事，兼涉親子、性別不公與善惡良心",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "治家第五",
+      "para_index": 13,
+      "para_id": "yanshi-jiaxun#05-p13",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "婦人之性，率寵子壻而虐兒婦。寵壻，則兄弟之怨生焉；虐婦，則姊妹之讒行焉。然則女之",
+      "note": "概括母親寵女婿、虐兒媳會分別激起兄弟怨與姊妹讒，指出女兒無論出嫁或留家都因母親偏私得罪家人，並告誡這是常見家弊",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "治家第五",
+      "para_index": 14,
+      "para_id": "yanshi-jiaxun#05-p14",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "婚姻素對，靖侯成規。近世嫁娶，遂有賣女納財，買婦輸絹，比量父祖，計較錙銖，責多還",
+      "note": "批評近世婚嫁計較門第財物、賣女買婦如同市井，主張貪圖榮利反會招致羞恥，告誡應慎重處理婚姻與貪欲",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "治家第五",
+      "para_index": 16,
+      "para_id": "yanshi-jiaxun#05-p16",
+      "modes": [
+        "prescription",
+        "expression"
+      ],
+      "excerpt": "吾家巫覡禱請，絶於言議；符書章醮亦無祈焉，並汝曹所見也。勿爲妖妄之費。",
+      "note": "自述家中從不從事巫覡禱請、符書章醮，並命子孫勿為妖妄信仰實踐耗費，直接處理家族對神鬼祈禳的立場",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 1,
+      "para_id": "yanshi-jiaxun#06-p01",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "吾觀禮經，聖人之教：箕帚匕箸，咳唾唯諾，執燭沃盥，皆有節文，亦爲至矣。但旣殘缺，",
+      "note": "自述禮經殘缺、南北見習有別，因子弟生於兵馬間而不熟士大夫風操，故把所見家法記下傳示子孫，核心是家內教養與傳承",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 2,
+      "para_id": "yanshi-jiaxun#06-p02",
+      "modes": [
+        "prescription",
+        "narrative"
+      ],
+      "excerpt": "禮曰：「見似目瞿，聞名心瞿。」有所感觸，惻愴心眼；若在從容平常之地，幸須申其情耳",
+      "note": "規勸聽見先人名諱時可申哀情但不可過度迴避，並以謝舉聞諱必哭、臧逢世因流涕荒廢公事兩例說明親喪之痛仍須有節",
+      "co_domains": [
+        "VI",
+        "X"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 5,
+      "para_id": "yanshi-jiaxun#06-p05",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "周公名子曰禽，孔子名兒曰鯉，止在其身，自可無禁。至若衛侯、魏公子、楚太子，皆名蟣",
+      "note": "比較古今取名習俗，指出驢駒、豚子等名字會使本人與兄弟難以啟齒，告誡家長不要給子孫留下有辱身分的名字",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 6,
+      "para_id": "yanshi-jiaxun#06-p06",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "今人避諱，更急於古。凡名子者，當爲孫地。吾親識中有諱襄、諱友、諱同、諱清、諱和、",
+      "note": "觀察今人避諱過急，規勸替孩子命名時須替後代預留餘地，以免常用字成為子孫及交遊者反覆觸犯的家族負擔",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 10,
+      "para_id": "yanshi-jiaxun#06-p10",
+      "modes": [
+        "prescription",
+        "ritual"
+      ],
+      "excerpt": "昔侯霸之子孫，稱其祖父曰家公；陳思王稱其父爲家父，母爲家母；潘尼稱其祖曰家祖：古",
+      "note": "逐項規定祖父母、伯叔與已嫁或在室女子對外應如何稱說，藉稱謂差等維持親屬尊卑及婚後所屬，是具體家族禮法",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 11,
+      "para_id": "yanshi-jiaxun#06-p11",
+      "modes": [
+        "prescription",
+        "ritual"
+      ],
+      "excerpt": "凡與人言，稱彼祖父母、世父母、父母及長姑，皆加尊字，自叔父母已下，則加賢字，尊卑",
+      "note": "規定與人談及對方不同等次的祖父母、父母、姑叔時分別加尊或賢字，以稱謂儀節標明親屬輩分與敬意",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 12,
+      "para_id": "yanshi-jiaxun#06-p12",
+      "modes": [
+        "prescription",
+        "ritual"
+      ],
+      "excerpt": "南人冬至歲首，不詣喪家；若不修書，則過節束帶以申慰。北人至歲之日，重行弔禮；禮無",
+      "note": "比較南北在節日弔喪、迎送賓客與揖禮上的做法，並明言不取歲日重弔而贊成迎揖，兼涉喪家、社交及失親後的具體儀節",
+      "co_domains": [
+        "V",
+        "X"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 14,
+      "para_id": "yanshi-jiaxun#06-p14",
+      "modes": [
+        "prescription",
+        "ritual"
+      ],
+      "excerpt": "言及先人，理當感慕，古者之所易，今人之所難。江南人事不獲已，須言閥閲，必以文翰，",
+      "note": "詳定談到亡祖、亡伯叔與亡兄弟時的稱謂、容色和迴避方式，並以南北誤解一例說明，核心是對亡親的感慕及家族喪稱禮節",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 15,
+      "para_id": "yanshi-jiaxun#06-p15",
+      "modes": [
+        "proposition",
+        "ritual"
+      ],
+      "excerpt": "古人皆呼伯父叔父，而今世多單呼伯叔。從父兄弟姊妹已孤，而對其前，呼其母爲伯叔母，",
+      "note": "辨析伯叔、兄子弟子與姪等稱法，特別考量父母亡故的孤者聽聞稱謂時的難堪，據經傳主張以姪稱孤兒較合情理",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 16,
+      "para_id": "yanshi-jiaxun#06-p16",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "別易會難，古人所重；江南餞送，下泣言離。有王子侯，梁武帝弟，出爲東郡，與武帝別，",
+      "note": "以梁武帝與弟離別落淚、弟不能流淚反遭責的故事，論親人分離時悲痛未必都能外顯，主張不可強責天生少淚者",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 17,
+      "para_id": "yanshi-jiaxun#06-p17",
+      "modes": [
+        "prescription",
+        "ritual"
+      ],
+      "excerpt": "凡親屬名稱，皆須粉墨，不可濫也。無風教者，其父已孤，呼外祖父母與祖父母同，使人爲",
+      "note": "逐層規定外祖父母、父母的叔伯及遠房長輩應加外字、次第、姓氏或爵位來區別，避免混淆親族世系與內外尊卑",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 18,
+      "para_id": "yanshi-jiaxun#06-p18",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "凡宗親世數，有從父，有從祖，有族祖。江南風俗，自茲已往，高秩者，通呼爲尊，同昭穆",
+      "note": "比較江南、河北對遠房宗親稱尊、兄弟、族人或從伯叔的習俗，並判定不忍稱族的敏答仍不合禮，核心是宗族世系的稱謂規範",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 19,
+      "para_id": "yanshi-jiaxun#06-p19",
+      "modes": [
+        "narrative",
+        "ritual"
+      ],
+      "excerpt": "吾嘗問周弘讓曰：「父母中外姊妹，何以稱之？」周曰：「亦呼爲丈人。」自古未見丈人之",
+      "note": "從詢問周弘讓如何稱父母姊妹的對話起，辨明父系稱某姓姑、母系稱某姓姨等規矩，處理親屬關係的正確命名",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 20,
+      "para_id": "yanshi-jiaxun#06-p20",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "齊朝士子，皆呼祖僕射爲祖公，全不嫌有所涉也，乃有對面以相戲者。",
+      "note": "記齊朝士子把祖僕射稱為祖公且不避重名，甚至當面相戲的家族稱謂習俗，重點仍是如何稱說祖輩",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 21,
+      "para_id": "yanshi-jiaxun#06-p21",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "古者，名以正體，字以表德，名終則諱之，字乃可以爲孫氏。孔子弟子記事者，皆稱仲尼；",
+      "note": "提出名用以正體、字用以表德的原則，追述古人與南北對名、字避諱的差異，兼及個人名號所表身分及子弟對父名父字的家內避諱",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 22,
+      "para_id": "yanshi-jiaxun#06-p22",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "禮閑傳云：「斬縗之哭，若往而不反；齊縗之哭，若往而反；大功之哭，三曲而偯；小功緦",
+      "note": "引禮經區分各等喪服哭聲的輕重辭節，再比較江南與山東喪哭，處理親喪悲哀如何依親等在儀式中發為聲音",
+      "co_domains": [
+        "VI",
+        "X"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 23,
+      "para_id": "yanshi-jiaxun#06-p23",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "江南凡遭重喪，若相知者，同在城邑，三日不弔則絶之；除喪，雖相遇則避之，怨其不己憫",
+      "note": "描述江南友人三日不弔便絕交及不同身分弔客如何執手、另日登門，兼涉喪家失親與朋友、相識者維繫關係的弔唁規矩",
+      "co_domains": [
+        "V",
+        "X"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 25,
+      "para_id": "yanshi-jiaxun#06-p25",
+      "modes": [
+        "proposition",
+        "ritual"
+      ],
+      "excerpt": "偏傍之書，死有歸殺。子孫逃竄，莫肯在家；畫瓦書符，作諸厭勝；喪出之日，門前然火，",
+      "note": "列舉死亡後子孫逃家、畫符厭勝、燃火列灰以斷家鬼等術法，斥為不近人情且應受彈劾，兼論喪家責任、品格與鬼神禁忌",
+      "co_domains": [
+        "VII",
+        "X",
+        "XII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 26,
+      "para_id": "yanshi-jiaxun#06-p26",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "己孤，而履歲及長至之節，無父，拜母、祖父母、世叔父母、姑、兄、姊，則皆泣；無母，",
+      "note": "規列失父或失母者在歲節拜見仍存的母父、祖輩、舅姨與兄姊時皆會哭泣，視為親喪觸發家族禮節與哀情的自然表現",
+      "co_domains": [
+        "VI",
+        "X"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 27,
+      "para_id": "yanshi-jiaxun#06-p27",
+      "modes": [
+        "observation",
+        "narrative"
+      ],
+      "excerpt": "江左朝臣，子孫初釋服，朝見二宮，皆當泣涕；二宮爲之改容。頗有膚色充澤，無哀感者，",
+      "note": "先述朝臣子孫除服入朝應泣的慣例，再敘梁武帝薄待無哀容者、稱許裴政枯瘦痛哭，藉親喪悲情的真偽評斷人的孝行與品格",
+      "co_domains": [
+        "VI",
+        "VII",
+        "X"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 28,
+      "para_id": "yanshi-jiaxun#06-p28",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "二親旣沒，所居齋寢，子與婦弗忍入焉。北朝頓丘李構，母劉氏，夫人亡後，所住之堂，終",
+      "note": "連敘遺族因父母死因或遺居而終身避室、割物、炙食與飲酒，末以噎死者不可使子女絕食設限；作者替喪親者說明既可存哀，也須避免讓追念封死日常生活",
+      "co_domains": [
+        "VI",
+        "X",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 29,
+      "para_id": "yanshi-jiaxun#06-p29",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "禮經：父之遺書，母之杯圈，感其手口之澤，不忍讀用。政爲常所講習，讎校繕寫，及偏加",
+      "note": "辨明亡父遺書、亡母杯圈等有手口痕跡之物可封存追思，普通書物則不必全廢，教遺族以保存而非棄用一切的方式安放親喪並留傳後世",
+      "co_domains": [
+        "X",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 30,
+      "para_id": "yanshi-jiaxun#06-p30",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "思魯等第四舅母，親吳郡張建女也，有第五妹，三歲喪母。靈牀上屛風，平生舊物，屋漏沾",
+      "note": "敘三歲喪母的女子見母親舊屏風後伏床痛哭，繼而不能飲食、吐血身亡，完整呈現失母記憶引發的極端悲傷及身體崩潰",
+      "co_domains": [
+        "VI",
+        "IX",
+        "X"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 31,
+      "para_id": "yanshi-jiaxun#06-p31",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "禮云：「忌日不樂。」正以感慕罔極，惻愴無聊，故不接外賓，不理眾務耳。必能悲慘自居",
+      "note": "解釋忌日不樂本為感慕亡親而暫停賓客眾務，批評世人深藏室內卻言笑飲食、拒見至交的空殼做法，要求喪祭外儀與真實哀情及品格一致",
+      "co_domains": [
+        "VI",
+        "VII",
+        "X"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 32,
+      "para_id": "yanshi-jiaxun#06-p32",
+      "modes": [
+        "prescription",
+        "narrative"
+      ],
+      "excerpt": "魏世王修母以社日亡；來歲社日，修感念哀甚，鄰里聞之，爲之罷社。今二親喪亡，偶値伏",
+      "note": "以王修在母親忌辰悲慟、鄰里為之罷社為例，規定父母亡故後凡再逢相關節日也應感慕，避免宴飲、音樂與遊樂",
+      "co_domains": [
+        "VI",
+        "X"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 33,
+      "para_id": "yanshi-jiaxun#06-p33",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "劉縧、緩、綏，兄弟幷爲名器，其父名昭，一生不爲照字，惟依爾雅火旁作召耳。然凡文與",
+      "note": "由劉氏兄弟終身避父名昭的同音字出發，主張正字可避而同音異字不可盡避，為子女奉行父諱劃定可行界線",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 35,
+      "para_id": "yanshi-jiaxun#06-p35",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "江南風俗，兒生一期，爲製新衣，盥浴裝飾，男則用弓矢紙筆，女則刀尺針縷，幷加飲食之",
+      "note": "詳述周歲試兒的衣物、器具與宴集，並批評父母已亡者仍在生辰酣飲奏樂，反以梁元帝母亡後停辦為例，論家庭生日禮俗及喪親後應有的感念",
+      "co_domains": [
+        "VII",
+        "X"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 37,
+      "para_id": "yanshi-jiaxun#06-p37",
+      "modes": [
+        "observation",
+        "narrative"
+      ],
+      "excerpt": "梁世被繫劾者，子孫弟姪，皆詣闕三日，露跣陳謝；子孫有官，自陳解職。子則草屩麤衣，",
+      "note": "描述官員被繫劾後子孫辭官、跣足申冤、結廬官署及家族數世絕交的慣例，再敘到漑因兄弟彈劾友人而泣別，兼涉家族連帶與刑政權力",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 38,
+      "para_id": "yanshi-jiaxun#06-p38",
+      "modes": [
+        "prescription",
+        "ritual"
+      ],
+      "excerpt": "兵兇戰危，非安全之道。古者，天子喪服以臨師，將軍鑿兇門而出。父祖伯叔，若在軍陣，",
+      "note": "規定父祖伯叔在軍陣、家居圍城或父母病篤時，親屬應停樂罷宴、去飾戒懼並向醫者涕拜，處理家人在戰死風險與重病前的具體應對",
+      "co_domains": [
+        "IX",
+        "X"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "勉学第八",
+      "para_index": 6,
+      "para_id": "yanshi-jiaxun#08-p06",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫所以读书学问，本欲开心明目，利于行耳。未知养亲者，欲其观古人之先意承颜，怡声下",
+      "note": "主張讀書須落實為養親、事君及謙儉好義等德行，並能治民、斷訟與處理實務，故同時涉及家庭責任、公共責任、品格養成與實際才用",
+      "co_domains": [
+        "V",
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "勉学第八",
+      "para_index": 13,
+      "para_id": "yanshi-jiaxun#08-p13",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "齐孝昭帝侍娄太后疾，容色憔悴，服膳减损。徐之才为灸两穴，帝握拳代痛，爪入掌心，血",
+      "note": "敘齊孝昭帝侍奉病母、代受灸痛而極盡孝心，卻因無學說出不識忌諱之言，據此主張親子孝德也須經學習修飾",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "勉学第八",
+      "para_index": 17,
+      "para_id": "yanshi-jiaxun#08-p17",
+      "modes": [
+        "prescription",
+        "expression"
+      ],
+      "excerpt": "邺平之后，见徙入关。思鲁尝谓吾曰：“朝无禄位，家无积财，当肆筋力，以申供养。每被",
+      "note": "亡國後全家被徙且無祿無財，思魯欲棄學勞作以奉養，作者以父親身分分定供養與教學之責，替自己與兒子的失所處境表明寧受粗衣淡食也要承續家學",
+      "co_domains": [
+        "VIII",
+        "X",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "勉学第八",
+      "para_index": 29,
+      "para_id": "yanshi-jiaxun#08-p29",
+      "modes": [
+        "prescription",
+        "narrative"
+      ],
+      "excerpt": "思鲁等姨夫彭城刘灵，尝与吾坐，诸子侍焉。吾问儒行、敏行曰：“凡字与谘议名同音者，",
+      "note": "作者在姻親與諸子同坐時考問孩子辨識同音字，並告誡若不預先研檢便可能受人欺弄，是把文字學要求化為當面傳給子弟的家庭教養",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "文章第九",
+      "para_index": 10,
+      "para_id": "yanshi-jiaxun#09-p10",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "吾家世文章，甚为典正，不从流俗；梁孝元在蕃邸时，撰西府新文，讫无一篇见录者，亦以",
+      "note": "自述家世文章不合流俗，兄弟服喪時未及編次便遭火焚而永不傳世，並直接抒發家族文業亡佚後深入心髓的哀恨",
+      "co_domains": [
+        "VI",
+        "X"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "文章第九",
+      "para_index": 14,
+      "para_id": "yanshi-jiaxun#09-p14",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "江南文制，欲人弹射，知有病累，随即改之，陈王得之于丁廙也。山东风俗，不通击难。吾",
+      "note": "觀察江南容許批評文章而山東忌諱攻難，自述曾因此忤人而悔，進而以汝曹為對象立下不可輕率議人的家訓與言說倫理",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "名实第十",
+      "para_index": 7,
+      "para_id": "yanshi-jiaxun#10-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或问曰：“夫神灭形消，遗声余价，亦犹蝉壳蛇皮，兽迒鸟迹耳，何预于死者，而圣人以为",
+      "note": "回應人死形消後聲名何用，主張褒揚典範能勸成後世德行，祖先嘉名亦能庇蔭子孫，使善行如築室樹果般在死後留下家族之澤",
+      "co_domains": [
+        "II",
+        "VII",
+        "X"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "止足第十三",
+      "para_index": 1,
+      "para_id": "yanshi-jiaxun#13-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "禮云：『欲不可縱，誌不可滿。』宇宙可臻其極，情性不知其窮，唯在少欲知足，為立涯限",
+      "note": "主張欲望與志意沒有自然盡頭，須以少欲知足自立界限；又引先祖限制仕宦與婚姻攀附的家戒，並自述終身奉行這套家風",
+      "co_domains": [
+        "VI",
+        "VII",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "止足第十三",
+      "para_index": 2,
+      "para_id": "yanshi-jiaxun#13-p02",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "天地鬼神之道，皆惡滿盈。謙虛沖損，可以免害。人生衣趣以覆寒露，食趣以塞饑乏耳。形",
+      "note": "以謙損知足免害，並把家計節制落成奴婢二十、良田十頃、財數萬等可執行上限，規定有餘依義散財、不足也不可用非道求取",
+      "co_domains": [
+        "VII",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "誡兵第十四",
+      "para_index": 1,
+      "para_id": "yanshi-jiaxun#14-p01",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "顏氏之先，本乎鄒、魯，或分入齊，世以儒雅為業，遍在書記。仲尼門徒，升堂者七十有二",
+      "note": "由顏氏歷代以儒雅為業而從武者多遭禍敗，反觀今世士大夫恃勇逞強卻不能衛國，作者自述因此不以武力求達並囑子孫記取，兼論家業傳承、操守與職能選擇",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "養生第十五",
+      "para_index": 3,
+      "para_id": "yanshi-jiaxun#15-p03",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "夫生不可不惜，不可茍惜。涉險畏之途，幹禍難之事，貪欲以傷生，讒慝而致死，此君子之",
+      "note": "區分因貪欲讒慝而枉死與為孝義、保全家族或救國而犧牲，並敘侯景亂中求生仍受辱被殺者及臨死不屈者，替身處無可苟免之亂世者界定如何以操守面對死亡",
+      "co_domains": [
+        "V",
+        "VII",
+        "X",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "歸心第十六",
+      "para_index": 1,
+      "para_id": "yanshi-jiaxun#16-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "三世之事，信而有征，家世歸心，勿輕慢也。其間妙旨，具諸經論，不復於此，少能贊述；",
+      "note": "宣稱三世因果可信有驗，並以家族世代歸依為傳承基礎，因憂子孫信心未固而再加勸誘，直接建立家內的信仰立場",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "歸心第十六",
+      "para_index": 9,
+      "para_id": "yanshi-jiaxun#16-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "釋四曰：內教多途，出家自是其一法耳。若能誠孝在心，仁惠為本，須達、流水，不必剃落",
+      "note": "主張佛道不只出家一途，在家亦可由孝親仁惠實踐；寺院妨農、僧尼耗稅源於為政失節而非佛旨，又正面比較個人求道、安家與國家賦役難以並遂的責任衝突",
+      "co_domains": [
+        "V",
+        "VII",
+        "XII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "歸心第十六",
+      "para_index": 10,
+      "para_id": "yanshi-jiaxun#16-p10",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "釋五曰：形體雖死，精神猶存。人生在世，望於後身似不相屬；及其歿後，則與前身似猶老",
+      "note": "論證形體死亡後精神仍延續，今生修行會改變後世處境，並以照顧子孫反證更應為自身後生預作準備；末勸不能離家出家的子孫兼修戒行誦讀，不可虛度難得人生",
+      "co_domains": [
+        "VII",
+        "X",
+        "XI",
+        "XII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "歸心第十六",
+      "para_index": 19,
+      "para_id": "yanshi-jiaxun#16-p19",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "世有癡人，不識仁義，不知富貴並由天命。為子娶婦，恨其生資不足，倚作舅姑之尊，蛇虺",
+      "note": "批評舅姑怨媳婦資財不足便虐待辱罵、只愛親生子女而不愛兒婦，指出這會反教媳婦不孝並招致鬼神減壽；又告誡連鄰居朋友都應避開此種不認命且敗德之人",
+      "co_domains": [
+        "V",
+        "VII",
+        "XI",
+        "XII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "音辭第十八",
+      "para_index": 1,
+      "para_id": "yanshi-jiaxun#18-p01",
+      "modes": [
+        "observation",
+        "expression"
+      ],
+      "excerpt": "夫九州之人，言語不同，生民已來，固常然矣。自春秋標齊言之傳，離騷目楚詞之經，此蓋",
+      "note": "追述音韻源流後比較南北、士庶口音及彼此非笑，並自述自幼督正家中兒女，故兼涉群體辨識與家內教養",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "音辭第十八",
+      "para_index": 9,
+      "para_id": "yanshi-jiaxun#18-p09",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "古人云：「膏粱難整。」以其為驕奢自足，不能剋勵也。吾見王侯外戚，語多不正，亦由內",
+      "note": "以王侯外戚因驕奢、賤保傅薰染及缺乏良師而語訛為因果，再敘元帝以侯爵失音誡諸子，兼論階層環境、品格自勵與皇室教養",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "音辭第十八",
+      "para_index": 10,
+      "para_id": "yanshi-jiaxun#18-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "河北切攻字為古琮，與工、公、功三字不同，殊為僻也。比世有人名暹，自稱為纖；名琨，",
+      "note": "指出錯讀自己的名字不只造成音韻舛誤，還會使兒孫在家族避諱上紛亂，因而實質觸及代際傳承",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "杂艺第十九",
+      "para_index": 7,
+      "para_id": "yanshi-jiaxun#19-p07",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "弧矢之利，以威天下，先王所以观德择贤，亦济身之急务也。江南谓世之常射，以为兵射，",
+      "note": "比較南北士人所習禮射與兵射對選賢、防寇、自救及受賞的效用，最後明言不願子弟以射獵禽獸，兼涉群體公共作用、技藝取捨與家內告誡",
+      "co_domains": [
+        "V",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "杂艺第十九",
+      "para_index": 10,
+      "para_id": "yanshi-jiaxun#19-p10",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "医方之事，取妙极难，不劝汝曹以自命也。微解药性，小小和合，居家得以救急，亦为胜事",
+      "note": "因醫術難臻精妙而勸子弟不可自命醫家，只宜略知藥性以供居家救急，兼顧家內照護、職業分寸與疾病救治",
+      "co_domains": [
+        "VIII",
+        "IX"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "杂艺第十九",
+      "para_index": 11,
+      "para_id": "yanshi-jiaxun#19-p11",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "礼曰：“君子无故不彻琴瑟。”古来名士，多所爱好。洎于梁初，衣冠子孙，不知琴者，号",
+      "note": "肯定琴樂足以暢達神情，卻告誡子弟不可因琴名而受勳貴役使、取辱下坐，兼論情緒調適、技藝處境與家內傳誡",
+      "co_domains": [
+        "VI",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "终制第二十",
+      "para_index": 1,
+      "para_id": "yanshi-jiaxun#20-p01",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "死者，人之常分，不可免也。吾年十九，值梁家丧乱，其间与白刃为伍者，亦常数辈；幸承",
+      "note": "作者面對衰年疾病與不可免之死，自述歷經亂世而活至六十餘歲已能坦然，並把素懷寫成給子孫的遺誡，是他替自己的死亡處境說出安頓之道",
+      "co_domains": [
+        "IX",
+        "X",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "终制第二十",
+      "para_index": 2,
+      "para_id": "yanshi-jiaxun#20-p02",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "先君先夫人皆未还建邺旧山，旅葬江陵东郭。承圣末，已启求扬都，欲营迁厝。蒙诏赐银百",
+      "note": "作者自述亡國流離、家貧而終不能遷葬父母，又解釋為保全衰門子弟且受北方政教所迫才仕進，是他替自身無法補救的親喪與仕途處境作出安頓",
+      "co_domains": [
+        "V",
+        "VIII",
+        "X",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "终制第二十",
+      "para_index": 3,
+      "para_id": "yanshi-jiaxun#20-p03",
+      "modes": [
+        "prescription",
+        "ritual"
+      ],
+      "excerpt": "今年老疾侵，傥然奄忽，岂求备礼乎？一日放臂，沐浴而已，不劳复魄，殓以常衣。先夫人",
+      "note": "作者以將死父親身分替家貧子孫安排從殮葬、祭奠到佛事的節儉儀程，使他們能在守孝、不殺生與不耗盡生資之間安頓其死後事",
+      "co_domains": [
+        "X",
+        "XII",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "终制第二十",
+      "para_index": 4,
+      "para_id": "yanshi-jiaxun#20-p04",
+      "modes": [
+        "prescription",
+        "expression"
+      ],
+      "excerpt": "孔子之葬亲也，云：“古者，墓而不坟。丘东西南北之人也，不可以弗识也。”于是封之崇",
+      "note": "作者以羈旅無定、未知葬地的自身處境告訴子孫死後即地掩埋，不必留戀朽骨而應傳業揚名，是他替家人面對無法守墓的失所處境指出安頓方向",
+      "co_domains": [
+        "VIII",
+        "X",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "復古第六",
+      "para_index": 1,
+      "para_id": "yantielun#06-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「故扇水都尉彭祖寧歸，言：『鹽、鐵令品，令品甚明。卒徒衣食縣官，作鑄鐵器",
+      "note": "「棄墳墓」",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "備胡第三十八",
+      "para_index": 8,
+      "para_id": "yantielun#08-p08",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "賢良曰：「匈奴之地廣大，而戎馬之足輕利，其勢易騷動也。利則虎曳，病則鳥折，辟鋒銳",
+      "note": "身在胡越而心懷老母／采薇／宋伯姬——全書共情高峰之一",
+      "co_domains": [
+        "III",
+        "V",
+        "VI",
+        "IX"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "執務第三十九",
+      "para_index": 2,
+      "para_id": "yantielun#09-p02",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "賢良曰：「孟子曰：『堯、舜之道，非遠人也，而人不思之耳。』詩云：『求之不得，寤寐",
+      "note": "男女怨曠而相思／一人行而鄉曲恨",
+      "co_domains": [
+        "III",
+        "V",
+        "VI",
+        "IX",
+        "XII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "取下第四十一",
+      "para_index": 2,
+      "para_id": "yantielun#11-p02",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "賢良曰：「古者，上取有量，自養有度，樂歲不盜，年饑則肆，用民之力，不過歲三日，籍",
+      "note": "安者不能恤危、飽者不能食饑——不知老母之憔悴、匹婦之悲恨；共情邊界的總目陳述",
+      "co_domains": [
+        "III",
+        "V",
+        "VI",
+        "VII",
+        "IX"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "輕重第十四",
+      "para_index": 6,
+      "para_id": "yantielun#14-p06",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "文學曰：「邊郡山居谷處，陰陽不和，寒凍裂地，沖風飄鹵，沙石凝積，地勢無所宜。中國",
+      "note": "",
+      "co_domains": [
+        "V",
+        "IX"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "未通第十五",
+      "para_index": 8,
+      "para_id": "yantielun#15-p08",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "文學曰：「十九年已下為殤，未成人也；二十而冠；三十而娶，可以從戎事；五十已上曰艾",
+      "note": "喪三年／養老的年齡分級",
+      "co_domains": [
+        "V",
+        "X"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "繇役第四十九",
+      "para_index": 4,
+      "para_id": "yantielun#16-p04",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "文學曰：「周道衰，王跡熄，諸侯爭強，大小相淩。是以強國務侵，弱國設備。甲士勞戰陣",
+      "note": "長子不還／慕思之積痛於骨髓",
+      "co_domains": [
+        "III",
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "非鞅第七",
+      "para_index": 2,
+      "para_id": "yantielun#22-p02",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "文學曰：「昔文帝之時，無鹽、鐵之利而民富；今有之而百姓困乏，未見利之所利也，而見",
+      "note": "老母號泣，怨女嘆息／利蓄而怨積",
+      "co_domains": [
+        "III",
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "晁錯第八",
+      "para_index": 1,
+      "para_id": "yantielun#23-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「春秋之法，君親無將，將而必誅。故臣罪莫重於弒君，子罪莫重於弒父。日者，",
+      "note": "",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "刺權第九",
+      "para_index": 3,
+      "para_id": "yantielun#24-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「官尊者祿厚，本美者枝茂。故文王德而子孫封，周公相而伯禽富。水廣者魚大，",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "刺權第九",
+      "para_index": 4,
+      "para_id": "yantielun#24-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「禹、稷自布衣，思天下有不得其所者，若己推而納之溝中，故起而佐堯，平治水",
+      "note": "君子之仕，行其義，非樂其勢也",
+      "co_domains": [
+        "V",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "憂邊第十二",
+      "para_index": 1,
+      "para_id": "yantielun#27-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「文學言：『天下不平，庶國不寧，明王之憂也。』故王者之於天下，猶一室之中",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "憂邊第十二",
+      "para_index": 5,
+      "para_id": "yantielun#27-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「吾聞為人臣者盡忠以順職，為人子者致孝以承業。君有非，則臣覆蓋之。父有非",
+      "note": "父有非則子匿逃之",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "憂邊第十二",
+      "para_index": 6,
+      "para_id": "yantielun#27-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「明者因時而變，知者隨世而制。孔子曰：『麻冕，禮也，今也純，儉，吾從眾。",
+      "note": "",
+      "co_domains": [
+        "V",
+        "XI"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "論誹第二十四",
+      "para_index": 7,
+      "para_id": "yantielun#32-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "丞相史曰：「蓋聞士之居世也，衣服足以勝身，食飲足以供親，內足以相恤，外不求於人。",
+      "note": "",
+      "co_domains": [
+        "V",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "孝養第二十五",
+      "para_index": 1,
+      "para_id": "yantielun#33-p01",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "文學曰：「善養者不必芻豢也，善供服者不必錦繡也。以己之所有盡事其親，孝之至也。故",
+      "note": "上孝養誌，其次養色，其次養體——孝的分級程序",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "孝養第二十五",
+      "para_index": 2,
+      "para_id": "yantielun#33-p02",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "丞相史曰：「八十曰耋，七十曰耄。耄，食非肉不飽，衣非帛不暖。故孝子曰甘毳以養口，",
+      "note": "",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "孝養第二十五",
+      "para_index": 3,
+      "para_id": "yantielun#33-p03",
+      "modes": [
+        "proposition",
+        "ritual"
+      ],
+      "excerpt": "文學曰：「周襄王之母非無酒肉也，衣食非不如曾皙也，然而被不孝之名，以其不能事其父",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "孝養第二十五",
+      "para_index": 4,
+      "para_id": "yantielun#33-p04",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "丞相史曰：「孝莫大以天下一國養，次祿養，下以力。故王公人君，上也，卿大夫，次也。",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "孝養第二十五",
+      "para_index": 5,
+      "para_id": "yantielun#33-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「無其能而竊其位，無其功而有其祿，雖有富貴，由跖、蹻之養也。高臺極望，食",
+      "note": "禮菲而養豐非孝也，掠囷而以養非孝也",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "孝養第二十五",
+      "para_index": 6,
+      "para_id": "yantielun#33-p06",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "丞相史曰：「上孝養色，其次安親，其次全身。往者，陳余背漢，斬於泜水；五被邪逆，而",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "孝養第二十五",
+      "para_index": 7,
+      "para_id": "yantielun#33-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「言而不誠，期而不信，臨難不勇，事君不忠，不孝之大者也。孟子曰：『今之世",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "國疾第二十八",
+      "para_index": 6,
+      "para_id": "yantielun#36-p06",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "賢良曰：「夫山東天下之腹心，賢士之戰場也。高皇帝龍飛鳳舉於宋、楚之間，山東子弟蕭",
+      "note": "百姓不保其首領／貧即寡恥，乏即少廉／生不養，死厚送",
+      "co_domains": [
+        "V",
+        "VII",
+        "IX",
+        "X"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "結和第四十三",
+      "para_index": 5,
+      "para_id": "yantielun#37-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「伯翳之始封秦，地為七十里。穆公開霸，孝公廣業。自卑至上，自小至大。故先",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "散不足第二十九",
+      "para_index": 27,
+      "para_id": "yantielun#43-p27",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "「古者，不封不樹，反虞祭於寢，無壇宇之居，廟堂之位。及其後，則封之，庶人之墳半仞",
+      "note": "",
+      "co_domains": [
+        "V",
+        "X"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "散不足第二十九",
+      "para_index": 29,
+      "para_id": "yantielun#43-p29",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "「古者，男女之際尚矣，嫁娶之服，未之以記。及虞、夏之後，蓋表布內絲，骨笄象珥，封",
+      "note": "",
+      "co_domains": [
+        "III",
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "散不足第二十九",
+      "para_index": 30,
+      "para_id": "yantielun#43-p30",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "「古者，事生盡愛，送死盡哀。故聖人為制節，非虛加之。今生不能致其愛敬，死以奢侈相",
+      "note": "生不能致其愛敬，死以奢侈相高…雖無哀戚之心，而稱以為孝",
+      "co_domains": [
+        "VI",
+        "VII",
+        "X"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "散不足第二十九",
+      "para_index": 31,
+      "para_id": "yantielun#43-p31",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "「古者，夫婦之好，一男一女，而成家室之道。及後，士一妾，大夫二，諸侯有侄娣九女而",
+      "note": "夫婦之好，一男一女…女或曠怨失時，男或放死無匹",
+      "co_domains": [
+        "III",
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "授時第三十五",
+      "para_index": 4,
+      "para_id": "yantielun#49-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "賢良曰：「周公之相成王也，百姓饒樂，國無窮人，非代之耕織也。易其田疇，薄其稅斂，",
+      "note": "",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "刑德第五十五",
+      "para_index": 2,
+      "para_id": "yantielun#51-p02",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "文學曰：「道徑眾，人不知所由；法令眾，民不知所辟。故王者之制法，昭乎如日月，故民",
+      "note": "五服／五刑之屬三千",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "申韓第五十六",
+      "para_index": 6,
+      "para_id": "yantielun#52-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「法能刑人而不能使人廉，能殺人而不能使人仁。所貴良醫者，貴其審消息而退邪",
+      "note": "法能刑人而不能使人廉／一人有罪，州裏驚駭，十家奔亡",
+      "co_domains": [
+        "V",
+        "VII",
+        "XI"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "周秦第五十七",
+      "para_index": 1,
+      "para_id": "yantielun#53-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "御史曰：「春秋無名號，謂之雲盜，所以賤刑人而絕之人倫也。故君不臣，士不友，於閭里",
+      "note": "",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "周秦第五十七",
+      "para_index": 2,
+      "para_id": "yantielun#53-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「古者，周其禮而明其教，禮周教明，不從者然後等之以刑，刑罰中，民不怨。故",
+      "note": "刑人非人也／一日下蠶室／子為父隱，父為子隱／首匿相坐之法立，骨肉之恩廢",
+      "co_domains": [
+        "II",
+        "V",
+        "VII",
+        "IX"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "周秦第五十七",
+      "para_index": 3,
+      "para_id": "yantielun#53-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "御史曰：「夫負千鈞之重，以登無極之高，垂峻崖之峭谷，下臨不測之淵，雖有慶忌之捷，",
+      "note": "慈母有敗子／嚴家無悍虜",
+      "co_domains": [
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "周秦第五十七",
+      "para_index": 4,
+      "para_id": "yantielun#53-p04",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "文學曰：「紂為炮烙之刑，而秦有收帑之法，趙高以峻文決罪於內，百官以峭法斷割於外，",
+      "note": "父子相背，兄弟相嫚，至於骨肉相殘",
+      "co_domains": [
+        "V",
+        "VI",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "褒賢第十九",
+      "para_index": 2,
+      "para_id": "yantielun#60-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「蘇秦以從顯於趙，張儀以橫任於秦，方此之時，非不尊貴也，然智士隨而憂之，",
+      "note": "其位彌高而罪彌重，祿滋厚而罪滋多／妻子奔亡無處所",
+      "co_domains": [
+        "VII",
+        "VIII",
+        "X"
+      ]
+    }
+  ]
+}

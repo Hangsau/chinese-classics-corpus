@@ -1,0 +1,4844 @@
+{
+  "domain": "II",
+  "name_zh": "自我與認同",
+  "gist": "我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我",
+  "generated_at": "2026-08-09T08:44:19+00:00",
+  "para_count": 349,
+  "book_count": 9,
+  "surveyed_zero_hit": [
+    "gu-sanfen",
+    "haidao-suanjing",
+    "jinkui-yaolue",
+    "jiuzhang-suanshu",
+    "nanjing",
+    "shenyijing"
+  ],
+  "paras": [
+    {
+      "slug": "dongmingji",
+      "chapter": "卷第二",
+      "para_index": 21,
+      "para_id": "dongmingji#02-p21",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "郭瓊，東郡人也。形貌醜劣，而意度過人。曾宿人家，輒乞薪自照讀書。晝眠，眼不閉，行",
+      "note": "郭瓊外貌醜劣而氣度過人，並借宿乞薪照明讀書，呈現外在評價與內在才度及求學努力的反差",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "dongmingji",
+      "chapter": "卷第二",
+      "para_index": 22,
+      "para_id": "dongmingji#02-p22",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "黃安，代郡人也。為代郡卒。自雲卑猥不獲處人間，執鞭懷荊而讀書。畫地以記數者，夕地",
+      "note": "黃安自陳卑猥難處人間，仍在低微役職中執鞭懷荊讀書記數，寫出自我身分與求學實踐",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊相御妻",
+      "para_index": 1,
+      "para_id": "lienuzhuan#26-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊相晏子僕御之妻也。號曰命婦。晏子將出，命婦窺其夫為相御，擁大蓋，策駟馬，意氣洋",
+      "note": "御妻以丈夫身分低而自滿對照晏子位高而謙下，促他重估自己並養成謙德。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊鍾離春",
+      "para_index": 1,
+      "para_id": "lienuzhuan#84-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "鍾離春者，齊無鹽邑之女，宣王之正后也。其為人極醜無雙，臼頭，深目，長壯，大節，卬",
+      "note": "從因貌被棄仍自薦的自我處境，到診斷四殆的國政責任與展現諫說才具，三面均各自承重",
+      "co_domains": [
+        "V",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊宿瘤女",
+      "para_index": 1,
+      "para_id": "lienuzhuan#85-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "宿瘤女者，齊東郭採桑之女，閔王之后也。項有大瘤，故號曰宿瘤。初，閔王出游，至東郭",
+      "note": "她不因身貌改服呈現自我認同，以節儉勸王關乎治理，又主張習行決定仁義品格，三面各自承重",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊宿瘤女",
+      "para_index": 2,
+      "para_id": "lienuzhuan#85-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：齊女宿瘤，東郭採桑，閔王出遊，不為變常，王召與語，諫辭甚明，卒升后位，名聲",
+      "note": "頌稱她不為王駕改變常態、諫辭甚明而名聲光榮，評出自持與諫說成就",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊孤逐女",
+      "para_index": 1,
+      "para_id": "lienuzhuan#86-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孤逐女者，齊即墨之女，齊相之妻也。初，逐女孤無父母，狀甚醜，三逐於鄉，五逐於里，",
+      "note": "她由孤醜屢逐的身分處境自陳，進而論國相用人與國家安危並展現謀政才具，三面皆承重",
+      "co_domains": [
+        "V",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊孤逐女",
+      "para_index": 2,
+      "para_id": "lienuzhuan#86-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：齊逐孤女，造襄王門，女雖五逐，王猶見焉，談國之政，亦甚有文，與語三日，遂配",
+      "note": "頌同時寫雖五逐而獲接見的身分翻轉、談國政的公共內容及甚有文的才具評斷，三面不可刪",
+      "co_domains": [
+        "V",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "讚學第一",
+      "para_index": 1,
+      "para_id": "qianfulun#01-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天地之所貴者，人也。聖人之所尚者，義也。德義之所成者，智也。明智之所求者，學問也",
+      "note": "「天地之所貴者，人也…雖有至聖不生而智」——人之為人不在天賦而在習得，標 II。學本身屬 Z-wisdom 不填。",
+      "co_domains": []
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "慎微第十三",
+      "para_index": 3,
+      "para_id": "qianfulun#10-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "知己曰明，自勝曰強。夫有不善，未嘗不知，知之未嘗復行，此顏子所以稱庶幾也。詩曰：",
+      "note": "「知己曰明，自勝曰強」——自我認識與自我克服。",
+      "co_domains": [
+        "VII",
+        "XI"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "本訓第三十二",
+      "para_index": 2,
+      "para_id": "qianfulun#26-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "當此之時，正氣所加，非唯於人，百穀草木，禽獸魚鱉，皆口養其氣，聲入於耳，以感於心",
+      "note": "「民之胎，含嘉以成體；及其生也，和以養性」——人性由氣所成，故可由化而變，法令刑賞不足以興大化。",
+      "co_domains": [
+        "XI",
+        "XII"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "德化第三十三",
+      "para_index": 1,
+      "para_id": "qianfulun#27-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人君之治，莫大於道，莫盛於德，莫美於教，莫神於化。道者，所以持之也；德者，所以苞",
+      "note": "民有性有情有化有俗；情性為本、化俗為末，治者先本後末。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "德化第三十三",
+      "para_index": 6,
+      "para_id": "qianfulun#27-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "所謂守者，心也。有度之士，情意精專，心思獨睹，不驅於險墟之俗，不惑於眾多之口。聰",
+      "note": "守：「不惑於眾多之口…獨立不懼，遁世無悶」——自我的不可動搖處。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "德化第三十三",
+      "para_index": 8,
+      "para_id": "qianfulun#27-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "民之胎也，合中和以成；其生也，立方正以長。是以為仁義之心，廉恥之志，骨著脈通，與",
+      "note": "全書 XI 的主段：「中民之生世也，猶鑠金之在壚也…方圓薄厚，隨鎔製爾」「世之善否，俗之薄厚，皆在於君」——人可塑，而塑者是政。",
+      "co_domains": [
+        "V",
+        "XI"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "卜列第二十五",
+      "para_index": 4,
+      "para_id": "qianfulun#29-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "俗工又曰：商家之宅，宜西出門。此複虛矣。五行當出乘其勝，入居其隩，乃安吉。商家向",
+      "note": "斥宅音吉凶，並給出理由：「人之所以為人者，非以此八尺之身也，乃以其有精神也」「人有恐怖死者，非病之所加也」——禁忌本身致病，畏懼可以殺人。",
+      "co_domains": [
+        "VI",
+        "IX",
+        "XII"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "相列第二十七",
+      "para_index": 1,
+      "para_id": "qianfulun#31-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《詩》所謂：「天生烝民，有物有則。」是故人身體形貌皆有象類，骨法角肉各有分部，以",
+      "note": "骨法角肉「以著性命之期，顯貴賤之表」——身體被讀成命運的文本。",
+      "co_domains": [
+        "XI",
+        "XII"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "卷十",
+      "para_index": 1,
+      "para_id": "qianfulun#32-p01",
+      "modes": [
+        "expression",
+        "proposition"
+      ],
+      "excerpt": "夫生於當世，貴能成大功。太上有立德，其下有立言，闒茸而不才，先器能當官。未嘗服斯",
+      "note": "全書自序，第一人稱：「太上有立德，其下有立言，闒茸而不才…未嘗服斯役，無所效其勳。中心時有感，援筆紀數文」——三不朽的次第與自認不才的位置，是全書最清楚的存在與召喚陳述。",
+      "co_domains": [
+        "I",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "七繆",
+      "para_index": 3,
+      "para_id": "renwuzhi#01-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫精欲深微，質欲懿重，志欲弘大，心欲嗛小。精微所以入神妙也，懿重所以崇德宇也，志",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "九徵",
+      "para_index": 1,
+      "para_id": "renwuzhi#02-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "蓋人物之本，出乎情性[1]〈西涼劉昞註：性質稟之自然，情變由於染習，是以觀人察物",
+      "note": "以元一陰陽五行立形上前提，但論旨是人的質性所從來，不因宇宙論措辭改標 XII。",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "九徵",
+      "para_index": 2,
+      "para_id": "renwuzhi#02-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡人之質量，中和最貴矣〈西涼劉昞註：質白受柔，味甘受和，中和者，百行之根本，人情",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "九徵",
+      "para_index": 3,
+      "para_id": "renwuzhi#02-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "聰明者，陰陽之精〈西涼劉昞註：離目坎耳，視聽之所由也〉，陰陽清和，則中叡外明[8",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "九徵",
+      "para_index": 4,
+      "para_id": "renwuzhi#02-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "若量其材質，稽諸五物，五物之徵，亦各著於厥體矣〈西涼劉昞註：筯勇色青，血勇色赤，",
+      "note": "五物在體標 II 不標 IX：vocab 把身體歸在 II（我是誰・身體與性別），IX 的語意重心在疾病與受苦。",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "九徵",
+      "para_index": 5,
+      "para_id": "renwuzhi#02-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是故骨植而柔者，謂之弘毅[13]；弘毅也者，仁之質也〈西涼劉昞註：木則垂蔭，為仁",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "九徵",
+      "para_index": 6,
+      "para_id": "renwuzhi#02-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "五常之別，列為五德。是故溫直而擾毅，木之德也。剛塞而弘毅，金之德也。",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "九徵",
+      "para_index": 7,
+      "para_id": "renwuzhi#02-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "愿恭而理敬，水之德也。寬栗而柔立，土之德也。簡暢而明砭，火之德也。雖體變無窮，猶",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "九徵",
+      "para_index": 8,
+      "para_id": "renwuzhi#02-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故心質亮直，其儀勁固；心質休決，其儀進猛；心質平理，其儀安閑。",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "九徵",
+      "para_index": 9,
+      "para_id": "renwuzhi#02-p09",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "夫儀動成容，各有態度：直容之動，矯矯行行；休容之動，業業蹌蹌；德容之動，顒顒卬卬",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "九徵",
+      "para_index": 10,
+      "para_id": "renwuzhi#02-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫容之動作，發乎心氣；心氣之徵，則聲變是也。夫氣合成聲，聲應律呂：有和平之聲，有",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "九徵",
+      "para_index": 11,
+      "para_id": "renwuzhi#02-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫聲暢於氣，則實存貌色；故誠仁，必有溫柔之色；誠勇，必有矜奮之色；誠智，必有明達",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "九徵",
+      "para_index": 12,
+      "para_id": "renwuzhi#02-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫色見於貌，所謂徵神，徵神見貌，則情發於目。故仁目之精愨然以端；勇膽之精，曄然以",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "九徵",
+      "para_index": 13,
+      "para_id": "renwuzhi#02-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是故中庸之質異於此類。五常既備，包以澹味；五質內充，五精外章，是以目彩五暉之光也",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "九徵",
+      "para_index": 14,
+      "para_id": "renwuzhi#02-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故曰，物生有形，形有神精。能知精神，則窮理盡性。性之所盡，九質之徵也。然則平陂之",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "九徵",
+      "para_index": 15,
+      "para_id": "renwuzhi#02-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "其為人也：質素平澹，中叡外朗，筋勁植固，聲清色懌，儀正容直，則九徵皆至，則純粹之",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "九徵",
+      "para_index": 16,
+      "para_id": "renwuzhi#02-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "三度不同，其德異稱。故偏至之材，以材自名；兼材之人，以德為目；兼德之人，更為美號",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "九徵",
+      "para_index": 17,
+      "para_id": "renwuzhi#02-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是故兼德而至，謂之中庸；中庸也者，聖人之目也。具體而微，謂之德行；德行也者，大雅",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "八觀",
+      "para_index": 23,
+      "para_id": "renwuzhi#03-p23",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡偏材之性，二至以上，則至質相發，而令名生矣。是故，骨直氣清，則休名生焉；氣清力",
+      "note": "",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "八觀",
+      "para_index": 38,
+      "para_id": "renwuzhi#03-p38",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人情皆欲求勝，故悅人之謙；謙所以下之，下有推與之意。是故，人無賢愚，接之以謙，則",
+      "note": "",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "八觀",
+      "para_index": 42,
+      "para_id": "renwuzhi#03-p42",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫偏材之人，皆有所短。故：直之失也訐，剛之失也厲，和之失也懦，介之失也拘。",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "八觀",
+      "para_index": 43,
+      "para_id": "renwuzhi#03-p43",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫直者不訐，無以成其直；既悅其直，不可非其訐；訐也者，直之徵也。",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "八觀",
+      "para_index": 44,
+      "para_id": "renwuzhi#03-p44",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "剛者不厲，無以濟其剛；既悅其剛，不可非其厲；厲也者，剛之徵也。",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "八觀",
+      "para_index": 45,
+      "para_id": "renwuzhi#03-p45",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "和者不懦，無以保其和；既悅其和，不可非其懦；懦也者，和之徵也。",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "八觀",
+      "para_index": 46,
+      "para_id": "renwuzhi#03-p46",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "介者不拘，無以守其介；既悅其介，不可非其拘；拘也者，介之徵也。",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "八觀",
+      "para_index": 47,
+      "para_id": "renwuzhi#03-p47",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "然有短者，未必能長也；有長者必以短為徵。是故，觀其徵之所短，而其材之所長可知也。",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "接識",
+      "para_index": 12,
+      "para_id": "renwuzhi#05-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "然則，何以知其兼偏，而與之言乎？其為人也，務以流數，杼人之所長，而為之名目，如是",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材理",
+      "para_index": 1,
+      "para_id": "renwuzhi#07-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫建事立義，莫不須理而定；及其論難，鮮能定之。夫何故哉？蓋理多品而人異也。夫理多",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材理",
+      "para_index": 4,
+      "para_id": "renwuzhi#07-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "四理不同，其於才也，須明而章，明待質而行。是故，質於理合，合而有明，明足見理，理",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材理",
+      "para_index": 5,
+      "para_id": "renwuzhi#07-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "四家之明既異，而有九偏之情；以性犯明，各有得失：",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材理",
+      "para_index": 6,
+      "para_id": "renwuzhi#07-p06",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "剛略之人，不能理微；故其論大體則弘博而高遠，歷纖理則宕往而疏越。",
+      "note": "九偏：本書第二套人格類型表。",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材理",
+      "para_index": 7,
+      "para_id": "renwuzhi#07-p07",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "抗厲之人，不能迴撓；論法直則括處而公正，說變通則否戾而不入。",
+      "note": "九偏：本書第二套人格類型表。",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材理",
+      "para_index": 8,
+      "para_id": "renwuzhi#07-p08",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "堅勁之人，好攻其事實；指機理則穎灼而徹盡，涉大道則徑露而單持。",
+      "note": "九偏：本書第二套人格類型表。",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材理",
+      "para_index": 9,
+      "para_id": "renwuzhi#07-p09",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "辯給之人，辭煩而意銳；推人事則精識而窮理，即大義則恢愕而不周。",
+      "note": "九偏：本書第二套人格類型表。",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材理",
+      "para_index": 10,
+      "para_id": "renwuzhi#07-p10",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "浮沉之人，不能沉思，序疏數則豁達而傲博，立事要則爁炎而不定。",
+      "note": "九偏：本書第二套人格類型表。",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材理",
+      "para_index": 11,
+      "para_id": "renwuzhi#07-p11",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "淺解之人，不能深難；聽辯說則擬鍔而愉悅，審精理則掉轉而無根。",
+      "note": "九偏：本書第二套人格類型表。",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材理",
+      "para_index": 12,
+      "para_id": "renwuzhi#07-p12",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "寬恕之人，不能速捷；論仁義則弘詳而長雅，趨時務則遲緩而不及。",
+      "note": "九偏：本書第二套人格類型表。",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材理",
+      "para_index": 13,
+      "para_id": "renwuzhi#07-p13",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "溫柔之人，力不休彊；味道則順適而和暢，擬疑難則濡懦而不盡。",
+      "note": "九偏：本書第二套人格類型表。",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材理",
+      "para_index": 14,
+      "para_id": "renwuzhi#07-p14",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "好奇之人，橫逸而求異；造權譎則倜儻而瑰壯，案清道則詭常而恢迂。",
+      "note": "九偏：本書第二套人格類型表。",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材理",
+      "para_index": 15,
+      "para_id": "renwuzhi#07-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "所謂性有九偏，各從其心之所可以為理。",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "英雄",
+      "para_index": 1,
+      "para_id": "renwuzhi#11-p01",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "夫草之精秀者為英，獸之特群者為雄；故人之文武茂異，取名於此。是故，聰明秀出，謂之",
+      "note": "以草木禽獸起興，帶 Y-nature 支流；依 vocab，支流不得填入 psych_domains。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "釋爭",
+      "para_index": 4,
+      "para_id": "renwuzhi#12-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "然原其所由，豈有躬自厚責以致變訟者乎？皆由內恕不足，外望不已：或怨彼輕我，或疾彼",
+      "note": "怨彼輕我、疾彼勝己。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 1,
+      "para_id": "renwuzhi#13-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫中庸之德，其質無名。故鹹而不鹻，淡而不𨣈，質而不縵，文而不繢；能威能懷，能辨能",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 2,
+      "para_id": "renwuzhi#13-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫拘抗違中，故善有所章，而理有所失。是故：",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 3,
+      "para_id": "renwuzhi#13-p03",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "厲直剛毅，材在矯正，失在激訐。　　　柔順安恕，每在寬容，失在少決。",
+      "note": "十二偏材長短對照：性情＝II、失＝VII、材用業能＝VIII。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 4,
+      "para_id": "renwuzhi#13-p04",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "雄悍傑健，任在膽烈，失在多忌。　　　精良畏慎，善在恭謹，失在多疑。",
+      "note": "十二偏材長短對照：性情＝II、失＝VII、材用業能＝VIII。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 5,
+      "para_id": "renwuzhi#13-p05",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "彊楷堅勁，用在楨幹，失在專固。　　　論辨理繹，能在釋結，失在流宕。",
+      "note": "十二偏材長短對照：性情＝II、失＝VII、材用業能＝VIII。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 6,
+      "para_id": "renwuzhi#13-p06",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "普博周給，弘在覆裕，失在溷濁。　　　清介廉潔，節在儉固，失在拘扃。",
+      "note": "十二偏材長短對照：性情＝II、失＝VII、材用業能＝VIII。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 7,
+      "para_id": "renwuzhi#13-p07",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "休動磊落，業在攀躋，失在疏越。　　　沉靜機密，精在玄微，失在遲緩。",
+      "note": "十二偏材長短對照：性情＝II、失＝VII、材用業能＝VIII。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 8,
+      "para_id": "renwuzhi#13-p08",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "樸露徑盡，質在中誠，失在不微。　　　多智韜情，權在譎略，失在依違。",
+      "note": "十二偏材長短對照：性情＝II、失＝VII、材用業能＝VIII。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 9,
+      "para_id": "renwuzhi#13-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "及其進德之日，不止揆中庸，以戒其材之拘抗；而指人之所短，以益其失；猶晉楚帶劍，遞",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 10,
+      "para_id": "renwuzhi#13-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "彊毅之人，狠剛不和，不戒其彊之搪突，而以順為撓，厲其抗；是故，可以立法，難與入微",
+      "note": "「可與X，難與Y」句式。沒指到具體職位，故判 proposition 不判 formalization。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 11,
+      "para_id": "renwuzhi#13-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "柔順之人，緩心寬斷，不戒其事之不攝，而以抗為劌，安其舒；是故，可與循常，難與權疑",
+      "note": "「可與X，難與Y」句式。沒指到具體職位，故判 proposition 不判 formalization。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 12,
+      "para_id": "renwuzhi#13-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "雄悍之人，氣奮勇決，不戒其勇之毀跌，而以順為恇，竭其勢；是故，可與涉難，難與居約",
+      "note": "「可與X，難與Y」句式。沒指到具體職位，故判 proposition 不判 formalization。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 13,
+      "para_id": "renwuzhi#13-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "懼慎之人，畏患多忌，不戒其懦於為義，而以勇為狎，增其疑；是故，可與保全，難與立節",
+      "note": "「可與X，難與Y」句式。沒指到具體職位，故判 proposition 不判 formalization。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 14,
+      "para_id": "renwuzhi#13-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凌楷之人，秉意勁特，不戒其情之固護，而以辨為偽，彊其專；是故，可以持正，難與附眾",
+      "note": "「可與X，難與Y」句式。沒指到具體職位，故判 proposition 不判 formalization。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 15,
+      "para_id": "renwuzhi#13-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "辨博之人，論理贍給，不戒其辭之汎濫，而以楷為繫，遂其流；是故，可與汎序，難與立約",
+      "note": "「可與X，難與Y」句式。沒指到具體職位，故判 proposition 不判 formalization。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 16,
+      "para_id": "renwuzhi#13-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "弘普之人，意愛周洽，不戒其交之溷雜，而以介為狷，廣其濁；是故，可以撫眾，難與厲俗",
+      "note": "「可與X，難與Y」句式。沒指到具體職位，故判 proposition 不判 formalization。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 17,
+      "para_id": "renwuzhi#13-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "狷介之人，砭清激濁，不戒其道之隘狹，而以普為穢，益其拘；是故，可與守節，難以變通",
+      "note": "「可與X，難與Y」句式。沒指到具體職位，故判 proposition 不判 formalization。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 18,
+      "para_id": "renwuzhi#13-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "修動之人，志慕超越，不戒其意之大猥，而以靜為滯，果其銳；是故，可以進趨，難與持後",
+      "note": "「可與X，難與Y」句式。沒指到具體職位，故判 proposition 不判 formalization。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 19,
+      "para_id": "renwuzhi#13-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "沉靜之人，道思迴復，不戒其靜之遲後，而以動為疏，美其懦；是故，可與深慮，難與捷速",
+      "note": "「可與X，難與Y」句式。沒指到具體職位，故判 proposition 不判 formalization。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 20,
+      "para_id": "renwuzhi#13-p20",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "樸露之人，中疑實𥔿，不戒其實之野直，而以譎為誕，露其誠；是故，可與立信，難與消息",
+      "note": "「可與X，難與Y」句式。沒指到具體職位，故判 proposition 不判 formalization。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 21,
+      "para_id": "renwuzhi#13-p21",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "韜譎之人，原度取容，不戒其術之離正，而以盡為愚，貴其虛；是故，可與讚善，難與矯違",
+      "note": "「可與X，難與Y」句式。沒指到具體職位，故判 proposition 不判 formalization。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 22,
+      "para_id": "renwuzhi#13-p22",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫學所以成材也，疏所以推情也；偏材之性，不可移轉矣。雖教之以學，材成而隨之以失；",
+      "note": "全書最硬的一句：「偏材之性，不可移轉矣。雖教之以學，材成而隨之以失」——教育不能改變材質，是 XI 的核心命題，與〈效難〉正面衝突。",
+      "co_domains": [
+        "VII",
+        "XI"
+      ]
+    },
+    {
+      "slug": "shanghanlun",
+      "chapter": "張仲景原序",
+      "para_index": 5,
+      "para_id": "shanghanlun#02-p05",
+      "modes": [
+        "expression",
+        "proposition"
+      ],
+      "excerpt": "孔子云：生而知之者上，學則亞之。多聞博識，知之次也。余素尚方術，請事斯語。",
+      "note": "引孔子的知學階序後自陳素尚方術並願依此而行，是作者對自身學習位置與認同的表明",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "仇隟",
+      "para_index": 5,
+      "para_id": "shishuo-xinyu#01-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王右軍素輕藍田，藍田晚節論譽轉重，右軍尤不平。藍田於會稽丁艱，停山陰治喪。右軍代",
+      "note": "王羲之因王述聲譽日隆而不平，彼此以弔喪失禮、稽察政務相辱，終至恥憤辭官，主軸是名望競逐與積怨",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "仇隟",
+      "para_index": 6,
+      "para_id": "shishuo-xinyu#01-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "王東亭與孝伯語，後漸異。孝伯謂東亭曰：「卿便不可復測！」答曰：「王陵廷爭，陳平從",
+      "note": "王珣受疑為態度莫測，遂以王陵直爭、陳平默從作比，主張評量一個人的操守不能只看眼前姿態而要看最終所成",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 6,
+      "para_id": "shishuo-xinyu#02-p06",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "劉伶恆縱酒放達，或脫衣裸形在屋中，人見譏之。伶曰：「我以天地為棟宇，屋室為㡓衣，",
+      "note": "劉伶把天地說成居室、屋宇說成衣褲，重新界定自己與身體的邊界，以此拒受俗常羞恥拘束。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 13,
+      "para_id": "shishuo-xinyu#02-p13",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "阮渾長成，風氣韻度似父，亦欲作達。步兵曰：「仲容已預之，卿不得復爾。」〈竹林七賢",
+      "note": "阮籍阻止兒子仿作曠達，附論又分辨真正通達與徒然縱恣，處理身分仿效、名實與品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 20,
+      "para_id": "shishuo-xinyu#02-p20",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "張季鷹縱任不拘，時人號為江東步兵。或謂之曰：「卿乃可縱適一時，獨不為身後名邪？」",
+      "note": "張季鷹明言身後名不及眼前一杯酒，直接在當下生活的價值與死後聲名之間作自我定位。",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 25,
+      "para_id": "shishuo-xinyu#02-p25",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "有人譏周僕射：「與親友言戲，穢雜無檢節。」〈鄧粲晉紀曰：「王導與周顗及朝士詣尚書",
+      "note": "周顗把自己的偶發穢行比作長江難免有曲折，為整體名望與具體失德如何並存提出自我辯解。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 27,
+      "para_id": "shishuo-xinyu#02-p27",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "溫公喜慢語，卞令禮法自居。〈卞壼別傳曰：「壼正色立朝，百寮嚴憚，貴遊子弟，莫不祗",
+      "note": "溫嶠滿口鄙穢，庾亮卻反說他終日無鄙言以彰其通達，收束在如何評價越禮言行與人物品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 28,
+      "para_id": "shishuo-xinyu#02-p28",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "周伯仁風德雅重，深達危亂。過江積年，恆大飲酒。嘗經三日不醒，時人謂之「三日僕射」",
+      "note": "周顗原有雅望，晚年屢因縱酒失檢而大損資望，呈現盛名與實際品行衰退之間的落差。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 32,
+      "para_id": "shishuo-xinyu#02-p32",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王長史、謝仁祖同為王公掾。〈王濛別傳曰：「丞相王導辟名士時賢，協贊中興。旌命所加",
+      "note": "謝尚應言起舞後，王導以其神態聯想到王戎，故事收束在藉具體表現辨認與評定人物氣質。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 38,
+      "para_id": "shishuo-xinyu#02-p38",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "桓車騎在荊州，張玄為侍中，使至江陵，路經陽岐村，〈村臨江，去荊州二百里。〉俄見一",
+      "note": "張玄因劉驎之名望追訪攀談，劉卻不留戀名士交接而起身伐荻，呈現外在聲名與本人勞作取向的差距。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 41,
+      "para_id": "shishuo-xinyu#02-p41",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "襄陽羅友有大韻，少時多謂之癡。嘗伺人祠，欲乞食，往太蚤，門未開。主人迎神出見，問",
+      "note": "羅友被視為癡誕而不顧貴賤與羞恥，實則記憶、才學及治郡皆優，整段反覆對照外在評價與真實任事能力。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 53,
+      "para_id": "shishuo-xinyu#02-p53",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "王孝伯言：「名士不必須奇才。但使常得無事，痛飲酒，熟讀離騷，便可稱名士。」",
+      "note": "王孝伯主張無奇才亦可憑閒居、飲酒與讀離騷取得名士之稱，直接質疑名號與真實才能的關係。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "企羡",
+      "para_index": 3,
+      "para_id": "shishuo-xinyu#03-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王右軍得人以《蘭亭集序》方《金谷詩序》，又以已敵石崇，甚有欣色。〈王羲之《臨河敘",
+      "note": "王羲之因作品與自身獲得高位比較而欣喜，顯出外在評價對自我認同與情緒的牽動。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "企羡",
+      "para_index": 5,
+      "para_id": "shishuo-xinyu#03-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "郗嘉賓得人以己比符堅，大喜。",
+      "note": "郗超因被比作苻堅而大喜，呈現他以人物比較定位自身並從認可獲得喜悅。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "假譎",
+      "para_index": 12,
+      "para_id": "shishuo-xinyu#04-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王文度弟阿智，惡乃不翅，當年長而無人與婚。孫興公有一女，亦僻錯，又無嫁娶理。因詣",
+      "note": "孫綽利用兩家子女婚配困難，虛稱阿智不如傳聞、隱去自己女兒實情，婚後才顯出名實落差。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "假譎",
+      "para_index": 13,
+      "para_id": "shishuo-xinyu#04-p13",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "范玄平為人，好用智數，而有時以多數失會。嘗失官居東陽，桓大司馬在南州，故往投之。",
+      "note": "范玄平實為投靠求起用，卻怕趨時損名而以亡兒墓為藉口，結果失去任用，揭示仕途欲望與名聲管理的衝突。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "儉嗇",
+      "para_index": 3,
+      "para_id": "shishuo-xinyu#06-p03",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "司徒王戎，既貴且富，區宅僮牧，膏田水碓之屬，洛下無比。契疏鞅掌，每與夫人燭下散籌",
+      "note": "王戎富甲洛下仍與夫人徹夜算產，諸家評論爭論這是貪財失德還是亂世自晦，核心在行跡、真實動機與品格評價。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "儉嗇",
+      "para_index": 8,
+      "para_id": "shishuo-xinyu#06-p08",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "蘇峻之亂，庾太尉南奔見陶公。陶公雅相賞重。陶性儉吝，及食，噉薤，庾因留白。陶問：",
+      "note": "庾亮在飲食小事保留薤根以便再種，陶侃據此認出他不只有風流還有治理實才，寫評人的證據與實務能力。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 1,
+      "para_id": "shishuo-xinyu#07-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "汝南陳仲舉，潁川李元禮二人，共論其功德，不能定先後。蔡伯喈〈續漢書曰：「蔡伯喈，",
+      "note": "蔡伯喈以犯上較攝下更難來決定二人功德先後，明示評人依據並衡量剛直品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 2,
+      "para_id": "shishuo-xinyu#07-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "龐士元至吳，吳人並友之。〈蜀志曰：「周瑜領南郡，士元為功曹。瑜卒，士元送喪至吳，",
+      "note": "龐統以駑馬僅載一人、駑牛能負重致遠解釋陸顧高下，把惠及多少人作為衡量才用的依據",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 3,
+      "para_id": "shishuo-xinyu#07-p03",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "顧劭嘗與龐士元宿語，問曰：「聞子名知人，吾與足下孰愈？」曰：「陶冶世俗，與時浮沈",
+      "note": "顧劭要求與龐統比較，龐統分別定位二人入世與王霸謀略之長，直接回答自己是何種人",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 5,
+      "para_id": "shishuo-xinyu#07-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "司馬文王問武陔：「陳玄伯何如其父司空？」陔曰：「通雅博暢，能以天下聲教為己任者，",
+      "note": "武陔以承擔天下聲教與實際立功兩種尺度比較陳泰父子，觸及人應如何衡量",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 7,
+      "para_id": "shishuo-xinyu#07-p07",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "冀州刺史楊淮二子喬與髦，俱總角為成器。淮與裴頠、樂廣友善，遣見之。頠性弘方，愛喬",
+      "note": "裴頠與樂廣各重一子，楊淮反以兩種評語判出評者高下，呈現識人尺度本身受評",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 9,
+      "para_id": "shishuo-xinyu#07-p09",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "王夷甫云：「閭丘沖，〈荀綽兗州記曰：「沖字賓卿，高平人，家世二千石。沖清平有鑒識",
+      "note": "閭丘沖名位較後而仍被判為最先達，正文與注語把外在名位和實際品望分開",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 12,
+      "para_id": "shishuo-xinyu#07-p12",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "王大將軍在西朝時，見周侯輒扇障面不得住。〈敦性彊梁，自少及長，季倫斬妓，會無異色",
+      "note": "王敦見周顗便面熱扇面，後來反問是自己進步還是對方退步，兼有畏懼經驗與自我定位",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 13,
+      "para_id": "shishuo-xinyu#07-p13",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "會稽虞𩦎，元皇時與桓宣武同俠，其人有才理勝望。〈虞光祿傳曰：「𩦎字思行，會稽餘姚",
+      "note": "王導分開公才與公望而許虞𩦎兼具，虞卻未及顯達便死，寫出名才關係與未遂成就",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 14,
+      "para_id": "shishuo-xinyu#07-p14",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "明帝問周伯仁：「卿自謂何如郗鑒？」周曰：「鑒方臣，如有功夫。」復問郗。郗曰：「周",
+      "note": "明帝要求周顗、郗鑒各自與對方比較，兩人都在公開回答中定位自己",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 15,
+      "para_id": "shishuo-xinyu#07-p15",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "王大將軍下，庾公問：「卿有四友，何者是？」答曰：「君家中郎，我家太尉、阿平、胡毋",
+      "note": "王敦被追問四友優劣時迂迴暗示自己居首，核心是對自身相對位置的表態",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 17,
+      "para_id": "shishuo-xinyu#07-p17",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "明帝問謝鯤：「君自謂何如庾亮？」答曰：「端委廟堂，使百僚準則，臣不如亮。一丘一壑",
+      "note": "謝鯤自承廟堂才不及庾亮、丘壑之趣則勝，依不同生活位置界定自己",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 19,
+      "para_id": "shishuo-xinyu#07-p19",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "明帝問周侯：「論者以卿比郗鑒，云何？」周曰：「陛下不須牽顗比。」〈按顗死彌年，明",
+      "note": "周顗面對世論把自己與郗鑒相比，直接拒絕被拉入這項定位",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 20,
+      "para_id": "shishuo-xinyu#07-p20",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "王丞相云：「頃下論以我比安期、千里。亦推此二人。唯共推太尉，此君特秀。」〈晉諸公",
+      "note": "王導自陳世論把自己與安期、千里相比，又交代自己接受與另推何人的位置",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 22,
+      "para_id": "shishuo-xinyu#07-p22",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "明帝問周伯仁：「卿自謂何如庾元規？」對曰：「蕭條方外，亮不如臣；從容廊廟，臣不如",
+      "note": "周顗以方外與廊廟兩種位置比較自己和庾亮，明確陳述自我所長與所短",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 25,
+      "para_id": "shishuo-xinyu#07-p25",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "世論溫太真，是過江第二流之高者。時名輩共說人物，第一將盡之間，溫常失色。〈溫氏譜",
+      "note": "溫嶠在名士快列完第一流而未及自己時反覆失色，名次定位及其羞挫反應都是內容",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 29,
+      "para_id": "shishuo-xinyu#07-p29",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "郗司空家有傖奴，知及文章，事事有意。王右軍向劉尹稱之。劉問「何如方回？」〈郗愔別",
+      "note": "傖奴雖有才識仍被拒與士人相比，對答直接暴露身分階序如何限制人的評價",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 33,
+      "para_id": "shishuo-xinyu#07-p33",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "人問殷淵源：「當世王公以卿比裴叔道，云何？」殷曰：「故當以識通暗處。」〈遐與浩並",
+      "note": "殷浩被問如何看待世人把自己比作裴遐，親自說明此一自我定位所據",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 34,
+      "para_id": "shishuo-xinyu#07-p34",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "撫軍問殷浩：「卿定何如裴逸民？」良久答曰：「故當勝耳。」",
+      "note": "殷浩沉吟後仍回答自己勝過裴遐，是直接的自我高下判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 35,
+      "para_id": "shishuo-xinyu#07-p35",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "桓公少與殷侯齊名，常有競心。桓問殷：「卿何如我？」殷云：「我與我周旋久，寧作我。",
+      "note": "殷浩面對桓溫競逐比較，說與自己相處已久而寧願作自己，直接確認自身認同",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 36,
+      "para_id": "shishuo-xinyu#07-p36",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "撫軍問孫興公：「劉真長何如？」曰：「清蔚簡令。」「王仲祖何如？」曰：「溫潤恬和。",
+      "note": "孫綽承認才務不及眾人，卻以寄懷老莊、不受時務牽動為不讓人的自我與自由位置",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 37,
+      "para_id": "shishuo-xinyu#07-p37",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "桓大司馬下都，問真長曰：「聞會稽王語奇進，爾邪？」〈桓溫別傳曰：「興寧九年，以溫",
+      "note": "劉惔把會稽王列為第二流，再明言第一流正是自己一輩，完成群體中的自我定位",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 38,
+      "para_id": "shishuo-xinyu#07-p38",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "殷侯既廢，桓公語諸人曰：「少時與淵源共騎竹馬，我棄去，己輒取之，故當出我下。」〈",
+      "note": "桓溫在殷浩被廢後以童年拾竹馬推論其本來低於自己，藉往事證成相對名次",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 40,
+      "para_id": "shishuo-xinyu#07-p40",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "簡文云：「謝安南清令不如其弟，〈安南，謝奉也。已見。謝氏譜曰：「奉弟聘，字弘遠。",
+      "note": "謝奉雖在清令與學義各有不及卻因任其天真而自勝，指出評人的尺度及真率品格之重",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 45,
+      "para_id": "shishuo-xinyu#07-p45",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公問孔西陽：「安石何如仲文？」〈西陽即孔巖也。〉孔思未對，反問公曰：「何如？」",
+      "note": "桓溫以謝安所居位置不可凌踐為勝出的理由，明說人物高下所據的尺度",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 46,
+      "para_id": "shishuo-xinyu#07-p46",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "謝公與時賢共賞說，遏、胡兒並在坐。公問李弘度曰：「卿家平陽，何如樂令？」〈晉諸公",
+      "note": "李弘度以是否事奉篡逆亂朝的事實比較兩人，既交代評價證據，也衡量雅正節操",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 47,
+      "para_id": "shishuo-xinyu#07-p47",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王脩齡問王長史：「我家臨川，何如卿家宛陵？」長史未答，脩齡曰：「臨川譽貴。」長史",
+      "note": "臨川與宛陵的名望比較連到名父之子任小縣先受疑、後以仕績獲信服，呈現名實與職業成就",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 48,
+      "para_id": "shishuo-xinyu#07-p48",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "劉尹至王長史許清言，時苟子年十三，倚床邊聽。既去，問父曰：「劉尹語何如尊？」長史",
+      "note": "王濛向兒子分別承認自己言辭勝劉惔而切中義理不如，作出有尺度的自我評價",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 53,
+      "para_id": "shishuo-xinyu#07-p53",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "王中郎嘗問劉長沙曰：「我何如苟子？」〈大司馬官屬名曰：「劉奭字文時，彭城人。」劉",
+      "note": "劉奭明分王坦之才不如苟子而成名機會較多，直接揭出才能與名聲可以不相稱",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 54,
+      "para_id": "shishuo-xinyu#07-p54",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "支道林問孫興公：「君何如許掾？」孫曰：「高情遠致，弟子蚤已服膺；一吟一詠，許將北",
+      "note": "孫綽自陳高情遠致服許詢，而吟詠則足使許詢北面，分項定位自己",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 55,
+      "para_id": "shishuo-xinyu#07-p55",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王右軍問許玄度：「卿自言何如安石？」許未答，王因曰：「安石故相為雄，阿萬當裂眼爭",
+      "note": "王羲之要求許詢比較自己與謝氏兄弟，話語核心是被逼出的相對自我位置",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 61,
+      "para_id": "shishuo-xinyu#07-p61",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "孫興公、許玄度皆一時名流。或重許高情，則鄙孫穢行；或愛孫才藻，而無取於許。〈宋明",
+      "note": "時論在許詢高情與孫綽才藻、穢行間分裂，呈現人物評價尺度與才德衝突",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 63,
+      "para_id": "shishuo-xinyu#07-p63",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "庾道季云：「思理倫和，吾愧康伯；志力彊正，吾愧文度。自此以還，吾皆百之。」〈庾龢",
+      "note": "庾龢列出自己思理與志力各不如誰，再自稱勝過其餘眾人，直接劃定自我位置",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 65,
+      "para_id": "shishuo-xinyu#07-p65",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "簡文問孫興公：「袁羊何似？」答曰：「不知者不負其才；知之者無取其體。」〈言其有才",
+      "note": "孫綽以不知與知袁羊者的不同判斷，揭出顯見才華不能掩去為人品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 69,
+      "para_id": "shishuo-xinyu#07-p69",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "衛君長是蕭祖周婦兄，謝公問孫僧奴：〈僧奴，孫騰小字也。晉百官名曰：「騰字伯海，太",
+      "note": "謝安否定把衛君長只看成承襲世業者，改以理義之人定位他，處理身分標籤與實質",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 72,
+      "para_id": "shishuo-xinyu#07-p72",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "有人以王中郎比車騎，車騎聞之曰：「伊窟窟成就。」〈續晉陽秋曰：「坦之雅貴有識量，",
+      "note": "車騎聽見別人把王坦之比作自己後出言回應，呈現被比較者對相對位置的自我定位",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 73,
+      "para_id": "shishuo-xinyu#07-p73",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "謝太傅謂王孝伯：「劉尹亦奇自知，然不言勝長史。」",
+      "note": "謝安稱劉惔有自知且不自稱勝王濛，焦點正是自我評價的界線",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 74,
+      "para_id": "shishuo-xinyu#07-p74",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "王黃門兄弟三人俱詣謝公，子猷、子重多說俗事，〈王氏譜曰：「操之字子重，羲之第六子",
+      "note": "謝安以吉人辭寡、躁人辭多的通則從談話多寡判兄弟優劣，兼涉評人根據與性情品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 75,
+      "para_id": "shishuo-xinyu#07-p75",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "謝公問王子敬：「君書何如君家尊？」答曰：「固當不同。」公曰：「外人論殊不爾。」王",
+      "note": "王獻之被要求比較自己與父親書法，面對外議仍堅稱外人無從知曉，直接處理自評與他評",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 83,
+      "para_id": "shishuo-xinyu#07-p83",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "王珣疾，臨困，問王武岡曰〈中興書曰：「謐字雅遠，丞相導孫，車騎劭子。有才器，襲爵",
+      "note": "王珣臨終因父親名德受短壽所限而嘆人不可無年，直接把聲名評價與早逝失去連在一起",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 87,
+      "para_id": "shishuo-xinyu#07-p87",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓玄問劉太常曰：「我何如謝太傅？」〈劉瑾集敘曰：「瑾字仲璋，南陽人。祖遐，父暢。",
+      "note": "桓玄要求把自己與謝安、王獻之比較，劉瑾以各有其美拒作單一高下，回應自我定位與評量方式",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "夙惠",
+      "para_index": 2,
+      "para_id": "shishuo-xinyu#08-p02",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "何晏年七歲，明惠若神，魏武奇愛之；以晏在宮內，因欲以為子。晏乃畫地令方，自處其中",
+      "note": "何晏以畫出「何氏之廬」拒絕被視作曹氏之子，直接表明自己的家族歸屬與身分認同",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "夙惠",
+      "para_index": 5,
+      "para_id": "shishuo-xinyu#08-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "韓康伯年數歲，家酷貧，至大寒，止得襦。母殷夫人自成之，令康伯捉熨斗，謂康伯曰：「",
+      "note": "母親由韓康伯幼時對衣暖的推理判定他是「國器」，主軸是人物潛質如何被辨識",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "容止",
+      "para_index": 1,
+      "para_id": "shishuo-xinyu#09-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "魏武將見匈奴使，自以形陋，不足雄遠國，〈《魏氏春秋》曰：「武王姿貌短小，而神明英",
+      "note": "魏武因自嫌形陋而使人代坐，匈奴使卻從捉刀人的氣質認出真正英雄，處理外貌、角色與真實身分的落差",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "容止",
+      "para_index": 2,
+      "para_id": "shishuo-xinyu#09-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "何平叔美姿儀，面至白，魏明帝疑其傅粉；正夏月，與熱湯餅。既噉，大汗出，以朱衣自拭",
+      "note": "明帝以熱食出汗驗證何晏的白皙究竟出於天生或傅粉，核心是外在形象之真偽",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "容止",
+      "para_index": 3,
+      "para_id": "shishuo-xinyu#09-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "魏明帝使后弟毛曾與夏侯玄共坐，時人謂「蒹葭倚玉樹」。〈《魏志》曰：「玄為黃門侍郎",
+      "note": "夏侯玄被置於貶抑性的外貌比較中深感羞恥且形於色，寫社會評價如何牽動自我感受",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "容止",
+      "para_index": 14,
+      "para_id": "shishuo-xinyu#09-p14",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "驃騎王武子，是衛玠之舅，雋爽有風姿；見玠，輒嘆曰：「珠玉在側，覺我形穢！」〈《玠",
+      "note": "王濟見衛玠便自言「覺我形穢」，以與外甥比較所生的自我評價為核心",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "容止",
+      "para_index": 21,
+      "para_id": "shishuo-xinyu#09-p21",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "周侯說王長史父：〈《王氏譜》曰：「訥字文開，太原人。祖默，尚書。父祜，散騎常侍。",
+      "note": "周顗從王訥的形貌與器度判斷其若善加持用便可成為多種人才，重點在人物潛能的衡量",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "容止",
+      "para_index": 23,
+      "para_id": "shishuo-xinyu#09-p23",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "石頭事故，朝廷傾覆。〈《晉陽秋》曰：「蘇峻自姑孰至于石頭，逼遷天子。峻以倉屋為宮",
+      "note": "救援朝廷的政治合作原受怨責阻滯，陶侃見庾亮風姿後改變人物判斷並轉而親重，兼涉識人與權力協作",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "容止",
+      "para_index": 24,
+      "para_id": "shishuo-xinyu#09-p24",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "庾太尉在武昌，秋夜氣佳景清，使吏殷浩、王胡之之徒登南樓理詠。音調始遒，聞函道中有",
+      "note": "庾亮以官身加入屬吏夜遊並自陳興致，事後評語又指出其丘壑之性仍存，寫公共身分與內在放逸之間的自我定位",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "容止",
+      "para_index": 25,
+      "para_id": "shishuo-xinyu#09-p25",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王敬豫有美形，問訊王公。王公撫其肩曰：「阿奴恨才不稱！」又云：「敬豫事事似王公。",
+      "note": "王導撫肩指出王恬外形雖美而才不相稱，明確處理外在形象與實際才具的落差",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "容止",
+      "para_index": 29,
+      "para_id": "shishuo-xinyu#09-p29",
+      "modes": [
+        "observation",
+        "expression"
+      ],
+      "excerpt": "林公道王長史：「斂衿作一來，何其軒軒韶舉！」〈《語林》曰：「王仲祖有好儀形，每覽",
+      "note": "除旁人品評王濛儀形外，注文又記他照鏡自賞並談論自己，直接涉及其自我形象與自評",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "容止",
+      "para_index": 31,
+      "para_id": "shishuo-xinyu#09-p31",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王長史嘗病，親疎不通。林公來，守門人遽啟之曰：「一異人在門，不敢不啟。」王笑曰：",
+      "note": "林道人因異貌可被立刻辨認，且旁人欲聞其言卻厭見其面，凸顯人的才識形象與外貌評價相分裂",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "容止",
+      "para_index": 32,
+      "para_id": "shishuo-xinyu#09-p32",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "或以方謝仁祖不乃重者。桓大司馬曰：「諸君莫輕道，仁祖企腳北窗下彈琵琶，故自有天際",
+      "note": "桓溫制止眾人輕估謝尚，並提出其彈琵琶時的超逸氣象作為重新衡量此人的根據",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "容止",
+      "para_index": 34,
+      "para_id": "shishuo-xinyu#09-p34",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "簡文作相王時，與謝公共詣桓宣武。王珣先在內，桓語王：「卿嘗欲見相王，可住帳裏。」",
+      "note": "桓溫讓王珣暗觀相王與謝安，再追問兩人的領袖氣度及誰應居輔位，兼涉人物衡量與政治領導",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "寵禮",
+      "para_index": 5,
+      "para_id": "shishuo-xinyu#10-p05",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "孝武在西堂會，伏滔預坐。還，下車呼其兒，〈兒，即系也。丘淵之《文章錄》曰：「系字",
+      "note": "伏滔向兒子誇述自己在百人會中先被皇帝點問，又請兒子評他作父如何，把受賞識的自我價值帶入父子身分",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "尤悔",
+      "para_index": 2,
+      "para_id": "shishuo-xinyu#11-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "王渾後妻，琅邪顏氏女。王時為徐州刺史，交禮拜訖，王將答拜，觀者咸曰：「王侯州將，",
+      "note": "一次未答拜竟使正妻被視為妾，顏氏又受門第所困，核心是婚姻身分如何被禮制扭曲。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "尤悔",
+      "para_index": 13,
+      "para_id": "shishuo-xinyu#11-p13",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "桓公臥語曰：「作此寂寂，將為文、景所笑！」既而屈起坐曰：「既不能流芳後世，亦不足",
+      "note": "桓溫不甘寂寂，寧以流芳或遺臭確立後世名聲，把自我名價繫於功業與歷史留名。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "巧蓺",
+      "para_index": 11,
+      "para_id": "shishuo-xinyu#12-p11",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "顧長康好寫起人形。〈《續晉陽秋》曰：「愷之圖寫特妙。」〉欲圖殷荊州，殷曰：「我形",
+      "note": "殷仲堪因自覺形貌醜而拒絕入畫，顧愷之則重新界定其可被呈現之處，觸及外貌與自我形象。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "德行",
+      "para_index": 7,
+      "para_id": "shishuo-xinyu#15-p07",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "客有問陳季方〈《海内先賢傳》曰：「陳諶字季方，寔少子也。才識博達，司空掾公車徴，",
+      "note": "客人追問陳寔重名所據，陳諶以譬喻拒絕量列功德，核心在名望與實質如何衡量",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "德行",
+      "para_index": 8,
+      "para_id": "shishuo-xinyu#15-p08",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "陳元方子長文有英才，〈《魏書》曰：「陳群字長文，祖寔，嘗謂宗人曰：『此兒必興吾宗",
+      "note": "兩子爭論各自父親功德而由祖父判為難分高下，核心是人物評價與相對定位",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "德行",
+      "para_index": 12,
+      "para_id": "shishuo-xinyu#15-p12",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "王朗毎以識度推華歆。〈《魏書》曰：「朗字景興，東海郯人，魏司徒。」〉歆蜡日，〈《",
+      "note": "王朗只仿華歆聚族宴飲的外形，張華指出表面模仿反而離其實質更遠，直指名實與自我成為",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "德行",
+      "para_index": 19,
+      "para_id": "shishuo-xinyu#15-p19",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "王戎云：「太保居在正始中，不在能言之流。及與之言，理中淸遠，將無以德掩其言！」〈",
+      "note": "王戎指出王祥的德名遮住其清遠談理之才，處理既有名聲與實際能力的不相稱",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "德行",
+      "para_index": 26,
+      "para_id": "shishuo-xinyu#15-p26",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "祖光祿少孤貧，性至孝，常自爲母炊爨作食。〈王隱《晉書》曰：「祖納字士言，范陽遒人",
+      "note": "祖納親自奉養母親，又以百里奚回應被當作奴僕的戲言，兼涉奉親與不由身價貶低自我",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "德行",
+      "para_index": 40,
+      "para_id": "shishuo-xinyu#15-p40",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "殷仲堪既爲荊州，値水儉，食常五盌，外無餘肴。飯粒脱落盤席閒，輒拾以噉之。雖欲率物",
+      "note": "殷仲堪居高位仍守清素並告誡子弟勿棄貧士本色，兼涉身分一致與節儉操守",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "德行",
+      "para_index": 41,
+      "para_id": "shishuo-xinyu#15-p41",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "初桓南郡、楊廣共説殷荊州，宜奪殷覬南蠻以自樹。〈《桓玄別傳》曰：「玄字敬道，譙國",
+      "note": "殷覬察知官位將被奪便安然離去且無慍，時論據此稱許其人格，核心在行為所支持的人物評價與德性",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "德行",
+      "para_index": 44,
+      "para_id": "shishuo-xinyu#15-p44",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "王恭從會稽還，〈周祗《隆安記》曰：「恭字孝伯，太原晉陽人。祖父濛，司徒左長史，風",
+      "note": "王恭把唯一坐簟送人並自稱作人無長物，兼呈現自我定位與不戀物的慷慨",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 14,
+      "para_id": "shishuo-xinyu#19-p14",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王公與朝士共飲酒，舉瑠璃盌謂伯仁曰：「此盌腹殊空，謂之寶器，何邪？」〈以戲周之無",
+      "note": "王導借空腹寶盌譏周顗無能，周顗把空重新解作清澈，直接回應自己應被如何評量",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 15,
+      "para_id": "shishuo-xinyu#19-p15",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "謝幼輿謂周侯曰：「卿類社樹，遠望之，峨峨拂青天；就而視之，其根則群狐所託，下聚溷",
+      "note": "謝鯤以社樹譏周顗外高內污，周顗則否認他人與環境能玷污自己，爭的是自我名實與品格清濁",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 21,
+      "para_id": "shishuo-xinyu#19-p21",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "康僧淵目深而鼻高，王丞相每調之。僧淵曰：「鼻者面之山，〈管輅別傳曰：「鼻者天中之",
+      "note": "康僧淵被嘲深目高鼻後，把自身相貌解作山高淵清，藉此重定義受貶抑的外貌與自我形象",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 29,
+      "para_id": "shishuo-xinyu#19-p29",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王、劉每不重蔡公。二人嘗詣蔡，語良久，乃問蔡曰：「公自言何如夷甫？」答曰：「身不",
+      "note": "蔡謨被輕視後受迫與王衍相比，先自居不如再以對方沒有惡客回敬，核心是被評者的自我定位",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 32,
+      "para_id": "shishuo-xinyu#19-p32",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "謝公始有東山之志，後嚴命屢臻，勢不獲已，始就桓公司馬。于時人有餉桓公藥草，中有「",
+      "note": "郝隆把謝安由隱居到任司馬說成遠志變小草，揭出原有志向與現任身分、職位之間的落差",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 42,
+      "para_id": "shishuo-xinyu#19-p42",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "桓豹奴是王丹陽外生，形似其舅，桓甚諱之。〈豹奴，桓嗣小字。中興書曰：「嗣字恭祖，",
+      "note": "桓嗣忌諱自己像舅父，桓溫卻把偶爾相似說成神似，觸及家族相貌傳承如何牽動自我形象",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 43,
+      "para_id": "shishuo-xinyu#19-p43",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "王子猷詣謝萬，林公先在坐，瞻矚甚高。王曰：「若林公鬚髮並全，神情當復勝此不？」謝",
+      "note": "鬚髮是否影響神情的嘲評使林公感到受辱，他遂以七尺之軀為自己的形貌與尊嚴發聲",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 44,
+      "para_id": "shishuo-xinyu#19-p44",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "郗司空拜北府，〈南徐州記曰：「舊徐州都督以東為稱。晉氏南遷，徐州刺史王舒加北中郎",
+      "note": "王徽之反覆質疑郗愔不長將略，郗超則把話重解為比擬諸葛亮，爭的是新任者的能力評價與任用資格",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 47,
+      "para_id": "shishuo-xinyu#19-p47",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "劉遵祖少為殷中軍所知，稱之於庾公。庾公甚忻然，便取為佐。既見，坐之獨榻上與語。劉",
+      "note": "劉爰之因盛名獲庾亮延為佐屬，面見卻不副所稱，直接呈現名實落差造成的識人與用人失誤",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 50,
+      "para_id": "shishuo-xinyu#19-p50",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "范啟與郗嘉賓書曰：「子敬舉體無饒縱，掇皮無餘潤。」郗答曰：「舉體無餘潤，何如舉體",
+      "note": "郗超把范啟對他人的形貌譏評反轉為舉體非真，揭露范啟外在矜飾與真實品格不相稱",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 54,
+      "para_id": "shishuo-xinyu#19-p54",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "簡文在殿上行，右軍與孫興公在後。右軍指簡文語孫曰：「此噉名客！」簡文顧曰：「天下",
+      "note": "王羲之稱簡文帝為噉名客，簡文與後人又以利齒回敬，核心是對求名者身分與聲譽欲望的評判",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "政事",
+      "para_index": 15,
+      "para_id": "shishuo-xinyu#20-p15",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "丞相末年，略不復省事，正封籙諾之。自嘆曰：「人言我憒憒，後人當思此憒憒。」〈徐廣",
+      "note": "王導把時人所譏的昏憒重新理解為後人將懷念的寬簡之政，涉及自我評價與領導方式",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 18,
+      "para_id": "shishuo-xinyu#21-p18",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "阮宣子有令聞，太尉王夷甫見而問曰：「《老》《莊》與聖教同異？」對曰：「將無同！」",
+      "note": "阮脩以三語得辟又說名望者可不言而辟，觸及聲名與任用依據",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 36,
+      "para_id": "shishuo-xinyu#21-p36",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王逸少作會稽，初至，支道林在焉。孫興公謂王曰：「支道林拔新領異，胸懷所及，乃自佳",
+      "note": "王羲之先輕視支遁，實聞其說後轉而留連，呈現人物評價由成見轉向實際表現",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 38,
+      "para_id": "shishuo-xinyu#21-p38",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "許掾〈詢也〉年少時，人以比王苟子，〈苟子，王脩小字也。《文字志》曰：「脩字敬仁，",
+      "note": "許詢因被比作王脩而忿爭高下，支遁責其求勝傷人而非求理",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 45,
+      "para_id": "shishuo-xinyu#21-p45",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "于法開始與支公爭名，後情漸歸支，意甚不分，遂遁跡剡下。遣弟子出都，語使過會稽。於",
+      "note": "于法開爭名失勢後仍借弟子挫敗支遁，呈現名位競爭與不甘情緒",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 47,
+      "para_id": "shishuo-xinyu#21-p47",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "康僧淵初過江，未有知者，恆周旋市肆，乞索以自營。忽往殷淵源許，値盛有賓客，殷使坐",
+      "note": "康僧淵在無人識且以乞食自營時，憑實際談吐獲得承認，呈現身分與實才的重新評價",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 53,
+      "para_id": "shishuo-xinyu#21-p53",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "張憑舉孝廉出都，負其才氣，謂必參時彦。欲詣劉尹，鄕里及同舉者共笑之。張遂詣劉。劉",
+      "note": "張憑由被冷落到以實際論辯獲賞並受任，觸及評人與選任的依據",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 68,
+      "para_id": "shishuo-xinyu#21-p68",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "左太沖作《三都賦》初成，〈《思別傳》曰：「思字太沖，齊國臨淄人。父雍起於筆札，多",
+      "note": "左思作品先遭譏、借名士作序後眾人改口，呈現聲名權威左右作品評價",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 79,
+      "para_id": "shishuo-xinyu#21-p79",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "庾仲初作《揚都賦》成，以呈庾亮；亮以親族之懷，大爲其名價云：「可三二京，四三都。",
+      "note": "庾亮以親族抬高作品名價造成競寫，謝安則斥其模仿，呈現名聲與實質不相稱",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 82,
+      "para_id": "shishuo-xinyu#21-p82",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "謝太傅問主簿陸退〈《陸氏譜》曰：「退字黎民，呉郡人。髙祖凱，呉丞相。祖仰，吏部郎",
+      "note": "以男子德行可見、女子美德須靠誄文才顯解釋寫作差異，觸及性別身分與社會偏見",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 88,
+      "para_id": "shishuo-xinyu#21-p88",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "袁虎少貧，〈虎，袁宏小字也。〉嘗爲人傭載運租。謝鎭西經船行，其夜淸風朗月，聞江渚",
+      "note": "袁宏雖貧賤載租，仍因作品本身被謝尚發現賞識，呈現實才突破原有身分評價",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 97,
+      "para_id": "shishuo-xinyu#21-p97",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "袁宏始作《東征賦》，都不道陶公。胡奴誘之狹室中，臨以白刃，〈胡奴，陶範。別見。〉",
+      "note": "陶範以刀威逼袁宏替祖先入賦，顯示權力脅迫如何製造人物名聲",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 98,
+      "para_id": "shishuo-xinyu#21-p98",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "或問顧長康：「君《箏賦》何如嵇康《琴賦》？」顧曰：「不賞者作後出相遺，深識者亦以",
+      "note": "顧愷之以鑒賞者不同迴護自作，附注又明言其自矜過實，處理自我評價與虛榮品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 104,
+      "para_id": "shishuo-xinyu#21-p104",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "桓玄下都，羊孚時爲兗州別駕，從京來詣門，牋云：「自頃世故睽離，心事淪薀。明公啓晨",
+      "note": "羊孚以頌揚桓玄的牋文立即獲任，旁人又稱百口相賴，顯示名聲判斷與權力任用",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 9,
+      "para_id": "shishuo-xinyu#22-p09",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "和嶠爲武帝所親重，語嶠曰：「東宮頃似更成進，卿試往看。」還問「何如？」答云：「皇",
+      "note": "和嶠不迎合武帝而如實評估太子才能未進，關乎繼承者如何被辨識與任用",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 15,
+      "para_id": "shishuo-xinyu#22-p15",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "山公大兒著短帢，車中倚。武帝欲見之，山公不敢辭，問兒，兒不肯行。時論乃云勝山公。",
+      "note": "山濤之子拒絕因皇帝欲見便屈從，時人據此重新評定他與父親的高下",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 17,
+      "para_id": "shishuo-xinyu#22-p17",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊王冏爲大司馬輔政，〈虞預《晉書》曰：「冏字景治，齊王攸子也。少聰惠，及長，謙約",
+      "note": "嵇紹拒以朝臣法服扮演樂工，依身分職分守住自己認為不可混淆的尊嚴與規範",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 18,
+      "para_id": "shishuo-xinyu#22-p18",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "盧志於衆坐，〈《世語》曰：「志字子通，范陽人，尚書珽少子。少知名。起家鄴令，歴成",
+      "note": "陸機以家世反擊盧志的輕慢，而議者又據他的反應判定二陸優劣，主軸在身分與評價",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 20,
+      "para_id": "shishuo-xinyu#22-p20",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "王太尉不與庾子嵩交，〈王夷甫、庾敳。〉庾卿之不置。王曰：「君不得爲爾。」庾曰：「",
+      "note": "庾敳不讓王衍單方面決定兩人的稱謂與交往方式，明說各自依自己的準則定位關係",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 42,
+      "para_id": "shishuo-xinyu#22-p42",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "江僕射年少，王丞相呼與共棊。王手嘗不如兩道許，而欲敵道戲，試以觀之。江不即下。王",
+      "note": "王導用棋局試探江虨，並由他不肯受讓推斷其所勝不只棋藝，呈現由行為衡量人物",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 45,
+      "para_id": "shishuo-xinyu#22-p45",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "後來年少，多有道深公者。深公謂曰：「黃吻年少，勿爲評論宿士。昔嘗與元明二帝、王庾",
+      "note": "竺法深以自己的資歷制止年少者評論宿士，直接爭論評人資格與聲望根據",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 46,
+      "para_id": "shishuo-xinyu#22-p46",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "王中郎年少時，〈坦之，已見。〉江虨爲僕射領選，欲擬之爲尚書郎。有語王者。王曰：「",
+      "note": "王坦之認為尚書郎的品位配不上自己，使擬任作罷，呈現自我定位與職位選擇",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 47,
+      "para_id": "shishuo-xinyu#22-p47",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "王述轉尚書令，事行便拜。文度曰：「故應讓杜許。」藍田云：「汝謂我堪此不？」文度曰",
+      "note": "王述與兒子辯論有能力者是否仍應謙讓官位，處理自我衡量與克讓是否真為美德",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 48,
+      "para_id": "shishuo-xinyu#22-p48",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "孫興公作《庾公誄》，文多託寄之辭。〈《綽集》載誄文曰：「咨予與公，風流同歸。擬量",
+      "note": "庾羲指出孫綽誄文誇大了與先父的親密程度，校正友誼名義與實際關係",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 59,
+      "para_id": "shishuo-xinyu#22-p59",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "王子敬數歳時，嘗看諸門生樗蒲。見有勝負，因曰：「《南風》不競。」〈《春秋傳》曰：",
+      "note": "年幼王獻之受門生輕視後怒目、自比前賢而離去，寫受貶抑時的自我評價與憤怒",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 61,
+      "para_id": "shishuo-xinyu#22-p61",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "王右軍與謝公詣阮公，〈阮思曠也。〉至門語謝：「故當共推主人。」謝曰：「推人正自難",
+      "note": "王羲之提議共同推許主人，謝安卻說推人本就困難，直接點出人物評價之難",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 62,
+      "para_id": "shishuo-xinyu#22-p62",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "太極殿始成，〈徐廣晉紀曰：「孝武寧康二年，尚書令王彪之等啓改作新宮。太元三年二月",
+      "note": "王獻之拒受命題殿額，並由魏臣被迫冒險題榜批評政權不尊重大臣身分",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 63,
+      "para_id": "shishuo-xinyu#22-p63",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "王恭欲請江盧奴爲長史，晨往詣江，江猶在帳中。王坐，不敢即言。良久乃得及，江不應。",
+      "note": "王恭自以為可延江敳任職卻不敢開口，江敳遂嘆人難以自量，連結自我評估與用人",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 64,
+      "para_id": "shishuo-xinyu#22-p64",
+      "modes": [
+        "observation",
+        "expression"
+      ],
+      "excerpt": "孝武問王爽：「卿何如卿兄。」王答曰：「風流秀出，臣不如恭，忠孝亦何可以假人！」〈",
+      "note": "王爽比較兄長與自己時承認才華不如，卻主張自己的忠孝不能由他人代有，兼及自評與德性",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 65,
+      "para_id": "shishuo-xinyu#22-p65",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "王爽與司馬太傅飲酒。太傅醉，呼王爲「小子。」王曰：「亡祖長史，與簡文皇帝爲布衣之",
+      "note": "王爽遭醉中太傅稱小子後列舉家族與皇室關係反駁，藉血統資歷捍衛自身地位",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "棲逸",
+      "para_index": 5,
+      "para_id": "shishuo-xinyu#23-p05",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "何驃騎弟以高情避世，而驃騎勸之令仕。答曰：「予第五之名，何必減驃騎？」〈《中興書",
+      "note": "何準以自己的處士名望對照兄長的驃騎官位，親自表明成就不必由仕宦身分衡量",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "棲逸",
+      "para_index": 13,
+      "para_id": "shishuo-xinyu#23-p13",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "許玄度隱在永興南幽穴中，每致四方諸侯之遺。或謂許曰：「嘗聞箕山人，似不爾耳！」許",
+      "note": "許玄度被質疑隱者卻受餽贈，以天下之寶與小禮相較為自己辯明，觸及隱者名實與操守標準",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "汰侈",
+      "para_index": 8,
+      "para_id": "shishuo-xinyu#24-p08",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "石崇與王愷爭豪，並窮綺麗，以飾輿服。〈《續文章志》曰：「崇資產累巨萬金，宅室輿馬",
+      "note": "石崇與王愷以財物爭勝，王愷因珊瑚被毀先震怒、見對方收藏後惘然自失，寫身分比較與情緒失衡",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "汰侈",
+      "para_index": 10,
+      "para_id": "shishuo-xinyu#24-p10",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "石崇每與王敦入學戲，見顏、原象〈《家語》曰：「顏回字子淵，魯人。少孔子二十九歲，",
+      "note": "石崇把自己比於孔門人物，並主張士人應身名俱泰而拒以貧士相比，處理自我定位與成就標準",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "汰侈",
+      "para_index": 12,
+      "para_id": "shishuo-xinyu#24-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王右軍少時，在周侯末坐，割牛心噉之。於此改觀。〈俗以牛心為貴，故羲之先餐之。〉",
+      "note": "王羲之少年在末座先割食珍貴牛心，使在座者改變對他的看法，收束於人物評價",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "簡傲",
+      "para_index": 5,
+      "para_id": "shishuo-xinyu#25-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "陸士衡初入洛，咨張公所宜詣；劉道真是其一。陸既往，劉尚在哀制中。性嗜酒，禮畢，初",
+      "note": "陸機依名望拜訪服喪中的劉道真，卻只聽到葫蘆種子的詢問而失望，寫預期聲名與實際相見的落差",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "簡傲",
+      "para_index": 8,
+      "para_id": "shishuo-xinyu#25-p08",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "桓宣武作徐州，時謝奕為晉陵。〈中興書曰：「奕自吏部郎，出為晉陵太守。」〉先粗經虛",
+      "note": "謝奕任桓溫司馬後仍以布衣之交相待，醉後不守上下內外界線，凸顯友誼身分與權力角色的衝突",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "簡傲",
+      "para_index": 9,
+      "para_id": "shishuo-xinyu#25-p09",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "謝萬在兄前，欲起索便器。于時阮思曠在坐曰：「新出門戶，篤而無禮。」",
+      "note": "謝萬在兄長與客前索便器，被評為有門第卻無禮，收束在身分聲望與實際舉止不符",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "簡傲",
+      "para_index": 10,
+      "para_id": "shishuo-xinyu#25-p10",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "謝中郎是王藍田女壻，〈謝氏譜曰：「萬取太原王述女，名荃。」〉嘗箸白綸巾，肩輿徑至",
+      "note": "謝萬當面稱王述癡，王述坦然承認此論並以晚令自我定位，直接處理他如何看待自身評價",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "紕漏",
+      "para_index": 4,
+      "para_id": "shishuo-xinyu#26-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "任育長年少時，甚有令名。武帝崩，選百二十挽郎，一時之秀彥，育長亦在其中。王安豐選",
+      "note": "任育長由少時盛名到渡江後失志、言語失常且見棺流涕，透過名實反差評其內在狀態。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "規箴",
+      "para_index": 9,
+      "para_id": "shishuo-xinyu#29-p09",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "王夷甫雅尚玄遠，常嫉其婦貪濁，口未嘗言「錢」字。〈晉陽秋曰：「夷甫善施舍，父時有",
+      "note": "郭氏以錢試探夷甫的清高姿態，注語又質疑富而不言錢便被視為高潔，觸及名實與金錢品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "規箴",
+      "para_index": 17,
+      "para_id": "shishuo-xinyu#29-p17",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "陸玩拜司空，〈玩別傳曰：「是時王導、郗鑒、庾亮相繼薨殂，朝野憂懼，以玩德望，乃拜",
+      "note": "陸玩自認不足任三公，來客又借柱石作祝諷其莫傾棟梁，聚焦官位名實與承擔公共重任的資格",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "規箴",
+      "para_index": 18,
+      "para_id": "shishuo-xinyu#29-p18",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "小庾在荊州，公朝大會，問諸僚佐曰：「我欲為漢高、魏武何如？」〈翼別見。宋明帝文章",
+      "note": "庾翼自比漢高與魏武，江虨勸他只行桓文之事，既校正其自我定位也約束其政治野心",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "規箴",
+      "para_index": 19,
+      "para_id": "shishuo-xinyu#29-p19",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "羅君章為桓宣武從事，〈含別傳曰：「刺史庾亮初命含為部從事，桓溫臨州，轉參軍。」〉",
+      "note": "羅君章以桓溫承認謝尚勝己為據，推論勝者不會行政有失而免查，呈現人物評量如何左右官事判斷",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 6,
+      "para_id": "shishuo-xinyu#30-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "潁川太守髠陳仲弓。〈按，寔之在鄕里，州郡有疑獄不能決者，皆將詣寔，或到而情首，或",
+      "note": "客人以刑罰事實質疑「高明之君」與「忠臣孝子」的稱號，元方則設法維持兩者，直接涉及名實及德性評價。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 15,
+      "para_id": "shishuo-xinyu#30-p15",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "嵇中散語趙景眞：〈嵇紹《趙至敘》曰：「至字景眞，代郡人。漢末，其祖流宕客緱氏。令",
+      "note": "嵇康以外貌判趙至有將才卻器量狹小，趙至則用小器能測大度反駁，討論衡量一個人的依據與自我定位。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 17,
+      "para_id": "shishuo-xinyu#30-p17",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "鄧艾口吃，語稱「艾艾……」〈《魏志》曰：「艾字士載，棘陽人，少爲農人養犢。年十二",
+      "note": "鄧艾的口吃被拿來取笑，他以《鳳兮》巧答而保全自尊，呈現身體限制與受污名時的自我維護。",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 22,
+      "para_id": "shishuo-xinyu#30-p22",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "蔡洪〈《洪集録》曰：「洪字叔開，呉郡人，有才辯，初仕呉朝。太康中，本州從事，舉秀",
+      "note": "蔡洪遭亡國地域出身的貶抑後，主張人才不由產地決定並反擊洛人祖源，涉及身分評價與地域偏見。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 28,
+      "para_id": "shishuo-xinyu#30-p28",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "崔正熊詣都郡。都郡將姓陳，問正熊：「君去崔杼幾世？」荅曰：「民去崔杼，如明府之去",
+      "note": "郡將以崔杼追問崔豹祖系，崔豹以對方的陳恆祖系回擊，呈現個人身分如何承受家族祖先的污名。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 33,
+      "para_id": "shishuo-xinyu#30-p33",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "顧司空未知名，詣王丞相。丞相小極，對之疲睡。顧思所以叩會之，〈《顧和別傳》曰：「",
+      "note": "顧和設法喚起王導注意後，故事以王導判他「珪璋特達、機警有鋒」收束，主軸是人才受到辨識與定評。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 38,
+      "para_id": "shishuo-xinyu#30-p38",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "郗太尉拜司空，語同坐曰：「平生意不在多，値世故紛紜，遂至臺鼎。朱博翰音，實愧於懷",
+      "note": "郗鑒自稱平生無意高位，因亂世登上台鼎反覺名過其實，直接反省官位成就與真實自我是否相稱。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 42,
+      "para_id": "shishuo-xinyu#30-p42",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "摯瞻曾作四郡太守、大將軍戸曹參軍，復出作内史，〈《摯氏世本》曰：「瞻字景游，京兆",
+      "note": "王敦以年齡評摯瞻任二千石太早，摯瞻用更早顯達者反校標準，涉及職業成就的時機與自我衡量。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 46,
+      "para_id": "shishuo-xinyu#30-p46",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "謝仁祖年八歳，謝豫章〈鯤子別見〉將送客，爾時語已神悟，自參上流。諸人咸共嘆之曰：",
+      "note": "謝尚被比作顏回後反問座中既無孔子誰能辨認顏回，直接質疑人物評價所憑的權威與依據。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 50,
+      "para_id": "shishuo-xinyu#30-p50",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孫齊由、齊莊二人，少時詣庾公，公問：「齊由何字？」荅曰：「字齊由。」公曰：「欲何",
+      "note": "孫氏兄弟說明自己欲效法何人，並以天生聖智不可企及劃出成長界線，涉及理想自我與人能改變到何種程度。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 63,
+      "para_id": "shishuo-xinyu#30-p63",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "支道林常養數匹馬。或言，道人畜馬不韻，支曰：「貧道重其神駿。」〈《髙逸沙門傳》曰",
+      "note": "支道林面對道人不宜養馬的角色期待，明言自己重其神駿，以個人趣味重新界定僧人身分。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 66,
+      "para_id": "shishuo-xinyu#30-p66",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "王長史與劉眞長別後相見，〈《王長史別傳》曰：「濛字仲祖，太原晉陽人。其先出自周室",
+      "note": "劉惔被稱長進時反以天本來就高自況，顯示被評者如何以戲謔而自負的方式定位自己。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 69,
+      "para_id": "shishuo-xinyu#30-p69",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "劉眞長爲丹陽尹，許玄度出都就劉宿，〈《續晉陽秋》曰：「許詢字玄度，髙陽人，魏中領",
+      "note": "許詢、劉惔流露對安逸富足的依戀後，被王羲之指出不合巢許式隱者，兩人慚愧，核心是隱士名分與真實品格的落差。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 82,
+      "para_id": "shishuo-xinyu#30-p82",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "謝萬作豫州都督，新拜，當西之都邑，相送累日，謝疲頓。於是髙侍中往，〈《中興書》曰",
+      "note": "高崧以數百語陳述治州形勢，使謝萬振作並被評為有才具，收束在治理人才的辨識與公共任事能力。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 94,
+      "para_id": "shishuo-xinyu#30-p94",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "張天錫爲涼州刺史，稱制西隅。既爲苻堅所禽，用爲侍中。後於壽陽倶敗，至都，〈張資《",
+      "note": "亡國北人張天錫受南朝器重而招嫉，面對貶問以北方物產反刺南人嫉心，涉及移入者身分與地域群體排斥。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 99,
+      "para_id": "shishuo-xinyu#30-p99",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "王中郎甚愛張天錫，問之曰：「卿觀過江諸人經緯，江左軌轍，有何偉異？後來之彦，復何",
+      "note": "張天錫被追問既有知見何以仍戰敗受制，遂以陰陽消長和時運解釋個人成敗，涉及自我評價與命運歸因。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 103,
+      "para_id": "shishuo-xinyu#30-p103",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓玄詣殷荊州，殷在妾房晝眠，左右辭不之通。桓後言及此事，殷云：「初不眠，縱有此，",
+      "note": "殷仲堪被指在妾房睡覺而拒客後，以重賢輕色替自己解圍，呈現自我形象與所宣稱品格是否相符。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 108,
+      "para_id": "shishuo-xinyu#30-p108",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "謝靈運好戴曲柄笠，〈丘淵之《新集録》曰：「靈運，陳郡陽夏人。祖玄，車騎將軍。父渙",
+      "note": "孔淳之質疑謝靈運既慕高遠卻不捨曲柄笠的外貌，謝亦承認尚未忘懷，涉及理想身分與擺脫外在執著的自由。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "識鑒",
+      "para_index": 1,
+      "para_id": "shishuo-xinyu#31-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曹公少時見喬玄，玄謂曰：「天下方亂，群雄虎爭，撥而理之，非君乎？然君實亂世之英雄",
+      "note": "喬玄等人依治世與亂世的不同處境定位曹操的才性，並判斷他能否承擔安定天下的政治角色",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "識鑒",
+      "para_index": 2,
+      "para_id": "shishuo-xinyu#31-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曹公問裴潛曰：「卿昔與劉備共在荊州，卿以備才如何？」潛曰：「使居中國，能亂人，不",
+      "note": "裴潛按中原與邊地兩種位置衡量劉備的才具，區分其擾亂、治理及成為一方之主的能力",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "識鑒",
+      "para_index": 5,
+      "para_id": "shishuo-xinyu#31-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王夷甫父乂爲平北將軍，有公事，使行人論不得。時夷甫在京師，命駕見僕射羊祜、尚書山",
+      "note": "山濤與羊祜由王夷甫少年時的才辯推估其未來名位，卻對他是否會敗俗亂世作出相反的人才判斷",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "識鑒",
+      "para_index": 12,
+      "para_id": "shishuo-xinyu#31-p12",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "王平子素不知眉子，曰：「志大其量，終當死塢壁間。」〈《晉諸公贊》曰：「王玄字眉子",
+      "note": "王平子以志向大於器量判斷王玄，明確指出一個人的自我企圖與實際能力不相稱",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "識鑒",
+      "para_index": 14,
+      "para_id": "shishuo-xinyu#31-p14",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "周伯仁母冬至舉酒賜三子曰：「吾本謂度江託足無所。爾家有相，爾等並羅列吾前，復何憂",
+      "note": "周嵩面對母親因三子在前而安心，自陳並評量兄弟的性格與自全能力，關乎自我認識及家庭存續",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "識鑒",
+      "para_index": 16,
+      "para_id": "shishuo-xinyu#31-p16",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "武昌孟嘉作庾太尉州從事，已知名。褚太傅有知人鑒，罷豫章還，過武昌，問庾曰：「聞孟",
+      "note": "褚裒在滿座中辨認出素未相識的孟嘉，收束又明言眾人讚嘆其識人並欣喜孟嘉獲得賞識",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "識鑒",
+      "para_index": 17,
+      "para_id": "shishuo-xinyu#31-p17",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "戴安道年十餘歳，在瓦官寺畫。王長史見之曰：「此童非徒能畫，〈《續晉陽秋》曰：「逵",
+      "note": "王長史由少年戴逵作畫看出其才能並預見日後成名，兼涉潛能的識別與才能成就",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "識鑒",
+      "para_index": 20,
+      "para_id": "shishuo-xinyu#31-p20",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公將伐蜀，在事諸賢咸以李勢在蜀既久，承藉累葉，且形據上流，三峽未易可克。唯劉尹",
+      "note": "劉尹由桓溫賭博時無必勝便不下注的慣常行為，推知他既決定伐蜀便有取勝把握，以小行為辨識穩定性格",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "識鑒",
+      "para_index": 23,
+      "para_id": "shishuo-xinyu#31-p23",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "韓康伯與謝玄亦無深好。玄北征後，巷議疑其不振。康伯曰：「此人好名，必能戰。」〈《",
+      "note": "韓康伯把謝玄奮戰歸因於好名，謝玄則公開申明自己為君親赴死，焦點是外界評價與自認道義動機的衝突",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "識鑒",
+      "para_index": 25,
+      "para_id": "shishuo-xinyu#31-p25",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "郗超與傅瑗周旋，瑗見其二子並總髮。超觀之良久，謂瑗曰：「小者才名皆勝，然保卿家，",
+      "note": "郗超比較傅氏兄弟，區分弟弟才名較勝與哥哥能保全家族，呈現個人才名評價和家門延續並非一事",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "識鑒",
+      "para_index": 27,
+      "para_id": "shishuo-xinyu#31-p27",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "車胤父作南平郡功曹，太守王胡之避司馬無忌之難，置郡於酆陰。是時胤十餘歳，胡之毎出",
+      "note": "王胡之早識車胤將成家門與高名，父親供其求學而他勤學成材，呈現潛能被辨識並逐步實現",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "識鑒",
+      "para_index": 28,
+      "para_id": "shishuo-xinyu#31-p28",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王忱死，西鎭未定，朝貴人人有望。時殷仲堪在門下，雖居機要，資名輕小，人情未以方嶽",
+      "note": "孝武帝越過資望擢用親近的殷仲堪，王珣又以自身才地推定職位應屬自己，集中呈現資格評價與任命權力",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "讒險",
+      "para_index": 1,
+      "para_id": "shishuo-xinyu#32-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "王平子形甚散朗，內實勁俠。〈鄧粲《晉紀》云：「劉琨嘗謂澄曰：『卿形雖散朗，而內勁",
+      "note": "劉琨指出王平子外表散朗而內心剛狹的名實反差，並把這種處世品性與自取禍害連結起來",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "豪爽",
+      "para_index": 1,
+      "para_id": "shishuo-xinyu#33-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王大將軍年少時，舊有田舍名，語音亦楚。武帝喚時賢，共言伎藝之事，人人皆多有所知；",
+      "note": "王敦原有鄉野之名且不諳眾藝，卻以出眾鼓藝當場發揮，使實際才能改寫滿座對他的評價",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "豪爽",
+      "para_index": 3,
+      "para_id": "shishuo-xinyu#33-p03",
+      "modes": [
+        "observation",
+        "expression"
+      ],
+      "excerpt": "王大將軍自目：「高朗疎率，學通左氏。」〈《晉陽秋》曰：「敦少稱高率通朗，有鑒裁。",
+      "note": "王敦直接以高朗疏率與通曉左氏自我品題，處理的是他如何界定和評價自己",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "豪爽",
+      "para_index": 8,
+      "para_id": "shishuo-xinyu#33-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓宣武平蜀，集參僚置酒於李勢殿，巴、蜀縉紳，莫不來萃。桓既素有雄情爽氣，加爾日音",
+      "note": "桓溫主張國家成敗存亡取決於人與才，席間反應又以王敦作比較來衡量桓溫的器度",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "豪爽",
+      "para_index": 10,
+      "para_id": "shishuo-xinyu#33-p10",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "桓石虔，司空豁之長庶也；〈《豁別傳》曰：「豁字朗子，溫之弟。累遷荊州刺史，贈司空",
+      "note": "桓石虔未被舉用已先有勇名，陷陣救叔的實績再使三軍嘆服，寫名聲如何由真實武勇與才幹坐實",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "豪爽",
+      "para_index": 12,
+      "para_id": "shishuo-xinyu#33-p12",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "王司州在謝公坐，詠「入不言兮出不辭，乘回風兮載雲旗」。〈離騷九歌少司命之辭。〉語",
+      "note": "王司州自述吟詩時覺得滿座彷彿無人，直接呈現凌越眾人的自我定位與當下內在感受",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 9,
+      "para_id": "shishuo-xinyu#34-p09",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "羊公還洛，郭奕為野王令。〈晉諸公贊曰：「奕字泰業，太原陽曲人。累世舊族。奕有才望",
+      "note": "郭奕由自謂不減羊祜轉為承認相去甚遠，呈現自我定位的修正。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 10,
+      "para_id": "shishuo-xinyu#34-p10",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "王戎目山巨源：「如璞玉渾金，人皆欽其寶，莫知名其器。」〈顧愷之畫贊曰：「濤無所標",
+      "note": "山濤如璞玉渾金而眾人莫能名其器，直指真實才具難被準確命名。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 12,
+      "para_id": "shishuo-xinyu#34-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "山公舉阮咸為吏部郎，目曰：「清真寡欲，萬物不能移也。」〈名士傳曰：「咸字仲容，陳",
+      "note": "阮咸外在違禮而內實清真，山濤識其真並薦官，兼及名實與用人。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 17,
+      "para_id": "shishuo-xinyu#34-p17",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王汝南既除所生服，遂停墓所。兄子濟每來拜墓，略不過叔，叔亦不候。濟脫時過，止寒溫",
+      "note": "王濟原把叔父當癡人，經清談與騎術才發現其真才，核心是名實誤判。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 19,
+      "para_id": "shishuo-xinyu#34-p19",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "張華見褚陶，語陸平原曰：「君兄弟龍躍雲津，顧彥先鳳鳴朝陽。謂東南之寶已盡，不意復",
+      "note": "陸機以尚有不鳴不躍者反駁人才已盡，指出可見名聲不足以涵蓋真才。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 21,
+      "para_id": "shishuo-xinyu#34-p21",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "人問王夷甫：「山巨源義理何如？是誰輩？」王曰：「此人初不肯以談自居，然不讀老、莊",
+      "note": "山濤不以善談自居且未讀老莊，言語卻暗合其旨，呈現自居之名與實際傾向的落差。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 25,
+      "para_id": "shishuo-xinyu#34-p25",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "王夷甫自嘆：「我與樂令談，未嘗不覺我言為煩。」〈晉陽秋曰：「樂廣善以約言厭人心，",
+      "note": "王衍自陳每與樂廣談便覺自己言語繁瑣，是明確的自我評價。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 27,
+      "para_id": "shishuo-xinyu#34-p27",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "王平子目太尉：「阿兄形似道，而神鋒太雋。」太尉答曰：「誠不如卿落落穆穆。」〈王隱",
+      "note": "兄弟互評後王衍承認自己不如王澄，核心是相對自我定位。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 31,
+      "para_id": "shishuo-xinyu#34-p31",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "王夷甫語樂令：「名士無多人，故當容平子知。」〈王澄別傳曰：「澄風韻邁達，志氣不群",
+      "note": "王澄的名士標籤在事跡不副後仍沿用，觸及名聲與實際表現的落差。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 40,
+      "para_id": "shishuo-xinyu#34-p40",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "王長史是庾子躬外孫，〈王氏譜曰：「濛父訥，娶潁州庾琮之女，字三壽也。」〉丞相目子",
+      "note": "王導直稱庾琮是自己以上之人，以他人為尺度重新定位自己。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 46,
+      "para_id": "shishuo-xinyu#34-p46",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "王大將軍與元皇表云：「舒風概簡正，允作雅人，自多於邃。〈王舒已見。王邃別傳曰：「",
+      "note": "王敦以自己早識王舒為例，明說常人或捧名過實、或不知而負實。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 62,
+      "para_id": "shishuo-xinyu#34-p62",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "王藍田為人晚成，時人乃謂之痴；〈晉陽秋曰：「述體道清粹，簡貴靜正，怡然自足，不交",
+      "note": "被誤作癡人的王述以不盲從主上顯出真才與正直，推翻名實誤判。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 78,
+      "para_id": "shishuo-xinyu#34-p78",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "謝公稱藍田：「掇皮皆真。」〈徐廣晉紀曰：「述貞審，真意不顯。」〉",
+      "note": "掇皮皆真稱王述表裡皆真，直接以外在呈現是否符合真我為評價。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 81,
+      "para_id": "shishuo-xinyu#34-p81",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "王仲祖稱殷淵源：「非以長勝人，處長亦勝人。」〈晉陽秋曰：「浩善以通和接物也。」〉",
+      "note": "非以長勝而處長亦勝改換單看長處的衡量方式，觸及評價根據。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 82,
+      "para_id": "shishuo-xinyu#34-p82",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "王司州與殷中軍語，嘆云：「己之府奧，蚤已傾寫而見，殷陳勢浩汗，眾源未可得測。」〈",
+      "note": "王胡之自陳己之底蘊已盡而殷浩仍不可測，以比較重新定位自身。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 91,
+      "para_id": "shishuo-xinyu#34-p91",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "簡文道王懷祖：「才既不長，於榮利又不淡；直以真率少許，便足對人多多許。」〈晉陽秋",
+      "note": "以才、榮利之心與真率重新衡量王述，兼及評價標準與品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 95,
+      "para_id": "shishuo-xinyu#34-p95",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "許玄度送母，始出都，人問劉尹：「玄度定稱所聞不？」劉曰：「才情過於所聞。」〈許氏",
+      "note": "問許詢是否副其名聲，回答才情反過其所聞，明確比較名與實。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 109,
+      "para_id": "shishuo-xinyu#34-p109",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "王長史云：「劉尹知我，勝我自知。」〈濛別傳曰：「濛與沛國劉惔齊名，時人以濛比袁曜",
+      "note": "王濛說友人劉惔比自己更懂自己，兼及自我認識與朋友間的相知。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 114,
+      "para_id": "shishuo-xinyu#34-p114",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "初，法汰北來未知名，〈車頻秦書曰：「釋道安為慕容晉所掠，欲投襄陽，行至新野，集眾",
+      "note": "法汰因王洽帶入名流交遊而由無名變得名重，呈現名聲由社會網絡建構。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 146,
+      "para_id": "shishuo-xinyu#34-p146",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "謝車騎問謝公：「真長性至峭，何足乃重？」答曰：「是不見耳！阿見子敬，尚使人不能已",
+      "note": "謝安以未曾親見解釋謝玄低估劉惔，指出人物評價須有相識根據。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 147,
+      "para_id": "shishuo-xinyu#34-p147",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "謝公領中書監，王東亭有事應同上省，王後至，坐促，王、謝雖不通，太傅猶斂厀容之。〈",
+      "note": "謝安雖與王珣不通仍為其神意折服，呈現評價能越過既有關係成見。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 148,
+      "para_id": "shishuo-xinyu#34-p148",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "王子敬語謝公：「公故蕭灑。」謝曰：「身不蕭灑。君道身最得，身正自調暢。」〈續晉陽",
+      "note": "謝安否認別人所稱的蕭灑並改以調暢自況，明確校正自身標籤。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 149,
+      "para_id": "shishuo-xinyu#34-p149",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "謝車騎初見王文度曰：「見文度雖蕭灑相遇，其復愔愔竟夕。」",
+      "note": "初見王坦之覺其外顯蕭灑而整夜愔愔，呈現表象與實際氣質之別。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 152,
+      "para_id": "shishuo-xinyu#34-p152",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "張天錫世雄涼州，以力弱詣京師，雖遠方殊類，亦邊人之桀也。〈天錫已見。〉聞皇京多才",
+      "note": "張天錫因首位訪客悔來，見王珉後轉為驚服，兼寫評價修正與真實情緒。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 155,
+      "para_id": "shishuo-xinyu#34-p155",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "王恭有清辭簡旨，能敘說，而讀書少，頗有重出。〈中興書曰：「恭雖才不多，而清辯過人",
+      "note": "在讀書少且偶有重出的限制下仍肯定其新意，顯示人物衡量不能只看單一缺點。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賢媛",
+      "para_index": 9,
+      "para_id": "shishuo-xinyu#35-p09",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王公淵娶諸葛誕女。入室，言語始交，王謂婦曰：「新婦神色卑下，殊不似公休！」婦曰：",
+      "note": "新婚丈夫以父輩貶低妻子，妻也以先人反問丈夫，揭出親密關係中的身分比較與尊重",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賢媛",
+      "para_index": 11,
+      "para_id": "shishuo-xinyu#35-p11",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "山公與嵇、阮一面，契若金蘭。山妻韓氏，覺公與二人異於常交，問公。公曰：「我當年可",
+      "note": "韓氏辨出丈夫與嵇、阮才致不同而識度相契，寫如何衡量一個人及友誼如何互補",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賢媛",
+      "para_index": 12,
+      "para_id": "shishuo-xinyu#35-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王渾妻鍾氏生女令淑，〈虞預晉書曰：「渾字玄沖，太原晉陽人，魏司徒昶子。仕至司徒。",
+      "note": "鍾氏從出身、才能、形骨與壽命衡量女兒婚配，重點在識人依據與家族婚姻選擇",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賢媛",
+      "para_index": 13,
+      "para_id": "shishuo-xinyu#35-p13",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "賈充前婦，是李豐女。豐被誅，離婚徙邊。〈婦人集曰：「充妻李氏，名婉字淑文。豐誅，",
+      "note": "郭氏挾現妻威儀探訪前妻卻自然屈膝，寫婚姻名位與李氏實際人格分量的落差",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賢媛",
+      "para_index": 15,
+      "para_id": "shishuo-xinyu#35-p15",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王汝南少無婚，自求郝普女。〈郝氏譜曰：「普字道匡，太原襄城人。仕至洛陽太守。」〉",
+      "note": "王汝南從取水時始終得體的舉止識出郝女品性，據此自主婚配並驗於後來家風",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賢媛",
+      "para_index": 17,
+      "para_id": "shishuo-xinyu#35-p17",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "李平陽，秦州子，〈李重已見。永嘉流人名曰：「康字玄冑，江夏人，魏秦州刺史。」〉中",
+      "note": "女兒一見密疏即懂致命含意，父親平日也常向她諮詢，收束在對其才識的辨認",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賢媛",
+      "para_index": 26,
+      "para_id": "shishuo-xinyu#35-p26",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "王凝之謝夫人既往王氏，大薄凝之。既還謝家，意大不說。太傅慰釋之曰：「王郎，逸少之",
+      "note": "謝夫人以娘家人才為尺度直陳對丈夫的強烈失望，寫配偶評價與婚姻不滿",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "輕詆",
+      "para_index": 1,
+      "para_id": "shishuo-xinyu#36-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王太尉問眉子：「汝叔名士，何以不相推重？」〈眉子已見。叔，王澄也。〉眉子曰：「何",
+      "note": "以「名士」之名反問終日妄語之實，主軸是名號與實際言行是否相稱",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "輕詆",
+      "para_index": 2,
+      "para_id": "shishuo-xinyu#36-p02",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "庾元規語周伯仁：「諸人皆以君方樂。」周曰：「何樂？謂樂毅邪？」〈史記曰：「樂毅，",
+      "note": "周伯仁把自己比作無鹽、把樂廣比作西子，藉自我貶抑回應他人對兩人的比較",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "輕詆",
+      "para_index": 3,
+      "para_id": "shishuo-xinyu#36-p03",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "深公云：「人謂庾元規名士，胷中柴棘三斗許。」",
+      "note": "世人所稱「名士」與「胸中柴棘」相對，明指庾亮聲名和內在質地不相稱",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "輕詆",
+      "para_index": 6,
+      "para_id": "shishuo-xinyu#36-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王丞相輕蔡公，曰：「我與安期、千里共遊洛水邊，何處聞有蔡充兒？」〈晉諸公贊曰：「",
+      "note": "蔡謔王使其大愧，王隨後以否認蔡的聲名回敬，呈現受辱情緒如何牽動人物評價",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "輕詆",
+      "para_index": 7,
+      "para_id": "shishuo-xinyu#36-p07",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "褚太傅初渡江，嘗入東，至金昌亭。吳中豪右，燕集亭中。〈謝歆《金昌亭詩敘》曰：「余",
+      "note": "眾人因不識褚裒而怠慢，得知名號後驚散，顯出身分聲望支配群體待遇",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "輕詆",
+      "para_index": 12,
+      "para_id": "shishuo-xinyu#36-p12",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "袁虎、伏滔同在桓公府。桓公每遊燕，輒命袁、伏，袁甚恥之，恆嘆曰：「公之厚意，未足",
+      "note": "袁宏自視國士，因與伏滔並列而羞恥，呈現自我身分建立在社會比較及榮辱感上",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "輕詆",
+      "para_index": 13,
+      "para_id": "shishuo-xinyu#36-p13",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "高柔在東，甚為謝仁祖所重。既出，不為王、劉所知。仁祖曰：「近見高柔，大自敷奏，然",
+      "note": "高柔是否被王劉賞識及是否仍被邀入遊燕，圍繞名望認可與士人圈層的接納",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "輕詆",
+      "para_index": 22,
+      "para_id": "shishuo-xinyu#36-p22",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "孫長樂作王長史誄云：「余與夫子，交非勢利，心猶澄水，同此玄味。」〈禮記曰：「君子",
+      "note": "孫綽自稱與王濛之交不為勢利，王恭卻否認祖父會與他往來，所爭是友情真實及交往身價",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "輕詆",
+      "para_index": 27,
+      "para_id": "shishuo-xinyu#36-p27",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "殷顗、庾恆並是謝鎮西外孫。〈謝氏譜曰：「尚長女僧要適庾龢，次女僧韶適殷歆。」〉殷",
+      "note": "謝安以殷顗面頰肖似外祖作評，庾恆追問外貌相似能否等於才健，涉及家族承繼與評人依據",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "輕詆",
+      "para_index": 29,
+      "para_id": "shishuo-xinyu#36-p29",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "符宏叛來歸國。謝太傅每加接引，宏自以有才，多好上人，坐上無折之者。適王子猷來，太",
+      "note": "符宏自恃有才且凌人，王徽之一句視為常人使其大慚，核心是膨脹的自我評價遭社會評判擊破",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "雅量",
+      "para_index": 8,
+      "para_id": "shishuo-xinyu#37-p08",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "王夷甫嘗屬族人事，經時未行，遇於一處飲燕，因語之曰：「近屬尊事，那得不行？」族人",
+      "note": "王衍遭族人擲物羞辱仍不爭辯，並以眼光自況，兼見其自我定位與受辱時的情緒克制。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "雅量",
+      "para_index": 12,
+      "para_id": "shishuo-xinyu#37-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王夷甫長裴成公四歳，不與相知。時共集一處，皆當時名士，謂王曰：「裴令令望何足計！",
+      "note": "王衍以年長者口吻稱裴頠，裴頠不因名望與禮數受損而動怒，涉及身分定位及情緒自持。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "雅量",
+      "para_index": 17,
+      "para_id": "shishuo-xinyu#37-p17",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "庾太尉風儀偉長，不輕舉止，時人皆以爲假。亮有大兒數歳，雅重之質，便自如此，人知是",
+      "note": "庾亮的莊重被疑為造作，其幼子受驚仍恬然有禮，藉此辨明外在風儀究竟出於假飾還是真性。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "雅量",
+      "para_index": 18,
+      "para_id": "shishuo-xinyu#37-p18",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "褚公於章安令遷太尉記室參軍，〈按，庾亮《啓參佐名》：「裒時直爲參軍，不掌記室也。",
+      "note": "褚裒因身分未被認出而受辱，姓名揭曉後待遇驟變，他卻始終如常，兼涉名實、階序偏見與受辱時的鎮定。",
+      "co_domains": [
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "雅量",
+      "para_index": 19,
+      "para_id": "shishuo-xinyu#37-p19",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "郗太傅在京口，遣門生與王丞相書，求女壻。丞相語郗信：「君往東廂，任意選之。」門生",
+      "note": "王家諸郎為婚姻甄選刻意矜持，王羲之坦腹自若反被選中，處理婚配中的家庭選擇與真實自我呈現。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "雅量",
+      "para_index": 21,
+      "para_id": "shishuo-xinyu#37-p21",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "周仲智飲酒醉，瞋目還面謂伯仁曰：「君才不如弟，而橫得重名！」須臾，舉蠟燭火擲伯仁",
+      "note": "周嵩因兄長聲名超過才分而發怒擲火，周顗以笑談化解，兼見名實比較與怒氣調節。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "雅量",
+      "para_index": 22,
+      "para_id": "shishuo-xinyu#37-p22",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "顧和始爲揚州從事。月旦當朝，未入頃，停車州門外。周侯詣丞相，歴和車邊。〈《語林》",
+      "note": "顧和在名士經過時仍若無其事地捉蝨，反使周顗從不矜飾的舉止識出其深藏才能，涉及評人依據與內在自若。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "雅量",
+      "para_index": 34,
+      "para_id": "shishuo-xinyu#37-p34",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "戴公從東出，謝太傅往看之。謝本輕戴，見但與論琴書。戴既無吝色，而談琴書愈妙。謝悠",
+      "note": "戴逵受謝安輕視仍毫無慍色，只以更精妙的琴書談論展現自己，使錯誤評價轉為真正理解。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "雅量",
+      "para_index": 36,
+      "para_id": "shishuo-xinyu#37-p36",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王子猷、子敬曾倶坐一室，上忽發火，子猷遽走避，不惶取屐；〈《晉百官名》曰：「王徽",
+      "note": "室內失火時王徽之倉皇而王獻之從容，世人據危急中的反應評定兩人的真實器度。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "雅量",
+      "para_index": 41,
+      "para_id": "shishuo-xinyu#37-p41",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "殷荊州有所識，作賦，是束皙慢戲之流。〈《文士傳》曰：「晳字廣微，陽平元城人，漢太",
+      "note": "殷仲堪期待王恭認同自己對文章的賞識，王恭不褒不貶的沉默使他悵然失措，呈現外在認可對自我判斷與情緒的牽動。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "雅量",
+      "para_index": 42,
+      "para_id": "shishuo-xinyu#37-p42",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "羊綏第二子孚，少有雋才，與謝益壽相好，〈益壽，謝混小字也。〉嘗蚤往謝許，未食。俄",
+      "note": "羊孚初被陌生的王氏兄弟排斥仍自若，獲賞識挽留後又拒絕留下，涉及誤認、群體接納與受冷遇時的自持。",
+      "co_domains": [
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "黜免",
+      "para_index": 9,
+      "para_id": "shishuo-xinyu#38-p09",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "殷仲文既素有名望，自謂必當阿衡朝政。忽作東陽太守，意甚不平。〈《晉安帝紀》曰：「",
+      "note": "殷仲文因名望而自認當居宰衡，外放後借孫策自況並終至謀反，寫自我定位與仕途野心受挫",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "sunzi-bingfa",
+      "chapter": "謀攻第三",
+      "para_index": 8,
+      "para_id": "sunzi-bingfa#03-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故曰：知彼知己，百戰不殆；不知彼而知己，一勝一負；不知彼不知己，每戰必殆。",
+      "note": "「知彼知己」：自我認識與認識他人被列為對稱且同等的能力",
+      "co_domains": []
+    },
+    {
+      "slug": "sunzi-bingfa",
+      "chapter": "軍形第四",
+      "para_index": 3,
+      "para_id": "sunzi-bingfa#04-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "見勝不過衆人之所知，非善之善者也；戰勝而天下曰善，非善之善者也。故舉秋毫不為多力",
+      "note": "「戰勝而天下曰善，非善之善者也」：可見的成就與眾人的稱許被貶為次級標準",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "sunzi-bingfa",
+      "chapter": "軍形第四",
+      "para_index": 4,
+      "para_id": "sunzi-bingfa#04-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古之所謂善戰者，勝於易勝者也。故善戰者之勝也，無智名，無勇功。故其戰勝不忒。不忒",
+      "note": "「無智名，無勇功」：最好的工作不產生可見的功績；勝兵先勝而後求戰",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "sunzi-bingfa",
+      "chapter": "九變第八",
+      "para_index": 4,
+      "para_id": "sunzi-bingfa#08-p04",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "故將有五危︰必死，可殺也﹔必生，可虜也﹔忿速，可侮也﹔廉潔，可辱也﹔愛民，可煩也",
+      "note": "將有五危把美德（廉潔、愛民）與情緒傾向（必死、必生、忿速）同列為可被利用的性格弱點",
+      "co_domains": [
+        "VI",
+        "VII"
+      ]
+    },
+    {
+      "slug": "sunzi-bingfa",
+      "chapter": "行軍第九",
+      "para_index": 5,
+      "para_id": "sunzi-bingfa#09-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故兵非貴益多也一作「益多」，惟無武進，足以併力、料敵、取人而已。夫惟無慮而易敵者",
+      "note": "「無慮而易敵者，必擒於人」：輕敵是自我與對手評估的失準",
+      "co_domains": []
+    },
+    {
+      "slug": "sunzi-bingfa",
+      "chapter": "地形第十",
+      "para_index": 5,
+      "para_id": "sunzi-bingfa#10-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "知吾卒之可以擊，而不知敵之不可擊，勝之半也；知敵之可擊，而不知吾卒之不可以擊，勝",
+      "note": "把「知」分層：知己、知彼、知地形、知天，各層缺一則勝率遞減",
+      "co_domains": []
+    },
+    {
+      "slug": "sunzi-bingfa",
+      "chapter": "答話",
+      "para_index": 13,
+      "para_id": "sunzi-bingfa#14-p13",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "吳王問孫武曰：「敵勇不懼，驕而無虞，兵眾而強，圖之奈何？」武曰：「詘而待之，以順",
+      "note": "「攻驕之道，不可爭鋒」：對驕者不正面對抗，而順其意加深其懈怠",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 5,
+      "para_id": "yanshi-jiaxun#06-p05",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "周公名子曰禽，孔子名兒曰鯉，止在其身，自可無禁。至若衛侯、魏公子、楚太子，皆名蟣",
+      "note": "比較古今取名習俗，指出驢駒、豚子等名字會使本人與兄弟難以啟齒，告誡家長不要給子孫留下有辱身分的名字",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 7,
+      "para_id": "yanshi-jiaxun#06-p07",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "昔司馬長卿慕藺相如，故名相如，顧元嘆慕蔡邕，故名雍，而後漢有朱倀字孫卿，許暹字顔",
+      "note": "列舉仰慕古人而連其姓氏納入己名的做法，判斷藉古人姓名塑造自身名號是一種鄙事，核心是命名與自我標示",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 13,
+      "para_id": "yanshi-jiaxun#06-p13",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "昔者，王侯自稱孤、寡、不谷，自茲以降，雖孔子聖師，與門人言皆稱名也。後雖有臣僕之",
+      "note": "追述王侯、孔子及南北士人自稱的名號差異，贊成以名自稱的古風，處理人在身分階序與交往場合中如何標示自己",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 21,
+      "para_id": "yanshi-jiaxun#06-p21",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "古者，名以正體，字以表德，名終則諱之，字乃可以爲孫氏。孔子弟子記事者，皆稱仲尼；",
+      "note": "提出名用以正體、字用以表德的原則，追述古人與南北對名、字避諱的差異，兼及個人名號所表身分及子弟對父名父字的家內避諱",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "勉学第八",
+      "para_index": 2,
+      "para_id": "yanshi-jiaxun#08-p02",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "梁朝全盛之时，贵游子弟，多无学术，至于谚云：“上车不落则著作，体中何如则秘书。”",
+      "note": "觀察貴遊子弟在承平時靠門第冒充才士，離亂後失去黨援便暴露名實不副；並以有學藝者隨處可安、無學者只能耕牧，論本領與謀生",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "文章第九",
+      "para_index": 2,
+      "para_id": "yanshi-jiaxun#09-p02",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "学问有利钝，文章有巧拙。钝学累功，不妨精熟；拙文研思，终归蚩鄙。但成学士，自足为",
+      "note": "區分勤學可成與文章須有天才，並敘無才士族受眾人戲讚、妻子泣諫仍不自知，所論是才能是否適任及自我評價失實",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "文章第九",
+      "para_index": 5,
+      "para_id": "yanshi-jiaxun#09-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或问扬雄曰：“吾子少而好赋？”雄曰：“然。童子雕虫篆刻，壮夫不为也。”余窃非之曰",
+      "note": "反駁揚雄貶賦為童子之技，並以其諛莽、畏禍及太玄無用揭示盛名與實際德行、才能及著述成就不相稱",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "名实第十",
+      "para_index": 1,
+      "para_id": "yanshi-jiaxun#10-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "名之与实，犹形之与影也。德艺周厚，则名必善焉；容色姝丽，则影必美焉。今不修身而求",
+      "note": "以形影比名實，主張善名應由德藝與慎行自然形成，並區分忘名、立名、靠奸偽竊名三等，直論自我名聲與真實品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "名实第十",
+      "para_index": 2,
+      "para_id": "yanshi-jiaxun#10-p02",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "人足所履，不过数寸，然而咫尺之途，必颠蹶于崖岸，拱把之梁，每沈溺于川谷者，何哉？",
+      "note": "以險途無餘地比喻名聲過於單薄時，至誠之言與至潔之行也可能不被相信；作者自述受毀便反求諸己，所論是聲名基礎與獲得信任",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "名实第十",
+      "para_index": 3,
+      "para_id": "yanshi-jiaxun#10-p03",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "吾见世人，清名登而金贝入，信誉显而然诺亏，不知后之矛戟，毁前之干橹也。虙子贱云：",
+      "note": "主張內心真偽終會見於行跡，以王莽辭政及貴人塗巴豆偽作哀毀為例，說明貪求清名的一次欺偽足以摧毀長久誠信",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "名实第十",
+      "para_index": 4,
+      "para_id": "yanshi-jiaxun#10-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "有一士族，读书不过二三百卷，天才钝拙，而家世殷厚，雅自矜持，多以酒犊珍玩，交诸名",
+      "note": "敘富家鈍士以財物結交名士、被朝廷誤認有文才，終在韓晉明當面命題試作時暴露無能，呈現虛假身分與真實才具的落差",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "名实第十",
+      "para_index": 5,
+      "para_id": "yanshi-jiaxun#10-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "治点子弟文章，以为声价，大弊事也。一则不可常继，终露其情；二则学者有凭，益不精励",
+      "note": "判定替子弟潤飾文章以抬高聲價有兩害：偽裝才名終將敗露，且學者有所依賴便不再精進，兼及名實與能力養成",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "名实第十",
+      "para_index": 6,
+      "para_id": "yanshi-jiaxun#10-p06",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "邺下有一少年，出为襄国令，颇自勉笃。公事经怀，每加抚恤，以求声誉。凡遣兵役，握手",
+      "note": "敘地方官為求聲譽而以送行贈食表演體恤，升官後費用無法持續便露出偽情、損及政績，論公共領導中的名聲、責任與真誠",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "名实第十",
+      "para_index": 7,
+      "para_id": "yanshi-jiaxun#10-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或问曰：“夫神灭形消，遗声余价，亦犹蝉壳蛇皮，兽迒鸟迹耳，何预于死者，而圣人以为",
+      "note": "回應人死形消後聲名何用，主張褒揚典範能勸成後世德行，祖先嘉名亦能庇蔭子孫，使善行如築室樹果般在死後留下家族之澤",
+      "co_domains": [
+        "IV",
+        "VII",
+        "X"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "涉务第十一",
+      "para_index": 2,
+      "para_id": "yanshi-jiaxun#11-p02",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "吾见世中文学之士，品藻古今，若指诸掌，及有试用，多无所堪。居承平之世，不知有丧乱",
+      "note": "觀察士族文士往往能清談而不堪實務，反是熟悉吏用者能辦公受任，據此批評眾人不自量才，誤把按能力用人理解成疏士親小",
+      "co_domains": [
+        "V",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "省事第十二",
+      "para_index": 7,
+      "para_id": "yanshi-jiaxun#12-p07",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "前在修文令曹，有山東學士與關中太史競歷，凡十餘人，紛紜累歲，內史牒付議官平之。吾",
+      "note": "自敘因議官不比爭訟者專精而拒斷曆法，反襯禮官為好名強留此事、能力不足又不肯退讓，終受迫蒙辱，論名聲欲望與職務適任",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "誡兵第十四",
+      "para_index": 3,
+      "para_id": "yanshi-jiaxun#14-p03",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "習五兵，便乘騎，正可稱武夫爾。今世士大夫，但不讀書，即稱武夫兒，乃飯囊酒甕也。",
+      "note": "以能習兵器、善騎乘才足稱武夫，反駁不讀書的士大夫自稱武夫，所辨是自我名目與實際職業能力是否相稱",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "杂艺第十九",
+      "para_index": 2,
+      "para_id": "yanshi-jiaxun#19-p02",
+      "modes": [
+        "prescription",
+        "narrative"
+      ],
+      "excerpt": "王逸少风流才士，萧散名人，举世惟知其书，翻以能自蔽也。萧子云每叹曰：“吾着齐书，",
+      "note": "以王羲之、蕭子雲、王褒因書名掩才或反受役使的遭遇，告誡不可用書藝自我命名，直指身分認同與才能運用的取捨",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "杂艺第十九",
+      "para_index": 6,
+      "para_id": "yanshi-jiaxun#19-p06",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "画绘之工，亦为妙矣；自古名士，多或能之。吾家尝有梁元帝手画蝉雀白团扇及马图，亦难",
+      "note": "敘顧庭、劉岳等人因畫藝精絕而被權貴當作工匠役使、蒙受羞恥，論證一項才能如何反過來限制職業處境與身分尊嚴",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "論儒第十一",
+      "para_index": 4,
+      "para_id": "yantielun#26-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「伊尹之於湯，知聖主也。百里之歸秦，知明君也。二君之能知霸主，其冊素形於",
+      "note": "",
+      "co_domains": [
+        "V",
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "殊路第二十一",
+      "para_index": 3,
+      "para_id": "yantielun#29-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「至美素璞，物莫能飾也。至賢保真，偽文莫能增也。故金玉不琢，美珠不畫。今",
+      "note": "大夫方：材質不可改",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "殊路第二十一",
+      "para_index": 4,
+      "para_id": "yantielun#29-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「非學無以治身，非禮無以輔德。和氏之璞，天下之美寶也、待礛諸之工而後明。",
+      "note": "文學方：可學而成",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "殊路第二十一",
+      "para_index": 5,
+      "para_id": "yantielun#29-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「性有剛柔，形有好惡，聖人能因而不能改。孔子外變二三子之服，而不能革其心",
+      "note": "性有剛柔…聖人能因而不能改／畫脂鏤冰",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "殊路第二十一",
+      "para_index": 6,
+      "para_id": "yantielun#29-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「西子蒙以不潔，鄙夫掩鼻；惡人盛飾，可以宗祀上帝。使二人不涉聖人之門，不",
+      "note": "砥所以致於刃，學所以盡其才",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "訟賢第二十二",
+      "para_index": 1,
+      "para_id": "yantielun#30-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「剛者折，柔者卷。故季由以強梁死，宰我以柔弱殺。使二子不學，未必不得其死",
+      "note": "",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "疾貪第三十三",
+      "para_index": 3,
+      "para_id": "yantielun#47-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「賢不肖有質，而貪鄙有性，君子內潔己而不能純教於彼。故周公非不正管、蔡之",
+      "note": "賢不肖有質，而貪鄙有性…不能化——不可改側",
+      "co_domains": [
+        "V",
+        "VII",
+        "XI"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "周秦第五十七",
+      "para_index": 2,
+      "para_id": "yantielun#53-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「古者，周其禮而明其教，禮周教明，不從者然後等之以刑，刑罰中，民不怨。故",
+      "note": "刑人非人也／一日下蠶室／子為父隱，父為子隱／首匿相坐之法立，骨肉之恩廢",
+      "co_domains": [
+        "IV",
+        "V",
+        "VII",
+        "IX"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "大論第五十九",
+      "para_index": 2,
+      "para_id": "yantielun#55-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「文王興而民好善，幽、厲興而民好暴，非性之殊，風俗使然也。故商、周之所以",
+      "note": "非性之殊，風俗使然也／治亂不在於民",
+      "co_domains": [
+        "V",
+        "XI"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "地廣第十六",
+      "para_index": 6,
+      "para_id": "yantielun#57-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「夫賤不害智，貧不妨行。顏淵屢空，不為不賢。孔子不容，不為不聖。必將以貌",
+      "note": "賤不害智，貧不妨行／不為窮變節／回也不改其樂／惟仁者能處約樂",
+      "co_domains": [
+        "VII",
+        "VIII",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "貧富第十七",
+      "para_index": 1,
+      "para_id": "yantielun#58-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「余結髮束修年十三，幸得宿衛，給事輦轂之下，以至卿大夫之位，獲祿受賜，六",
+      "note": "桑弘羊自述：余結髮束修年十三…六十有餘年矣——全書罕見的第一人稱生平",
+      "co_domains": [
+        "V",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "貧富第十七",
+      "para_index": 6,
+      "para_id": "yantielun#58-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「孔子云：『富而可求，雖執鞭之事，吾亦為之；如不可求，從吾所好。』君子求",
+      "note": "君子求義，非茍富也／不遇，退而樂道／富貴不能榮，謗毀不能傷",
+      "co_domains": [
+        "VII",
+        "VIII",
+        "XIII"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "domain": "I",
+  "name_zh": "存在與意義",
+  "gist": "我為何在此、活著有沒有意義、與想不通的問題共處、在歷史洪流中的渺小",
+  "generated_at": "2026-08-09T08:44:19+00:00",
+  "para_count": 16,
+  "book_count": 5,
+  "surveyed_zero_hit": [
+    "dongmingji",
+    "haidao-suanjing",
+    "jinkui-yaolue",
+    "jiuzhang-suanshu",
+    "lienuzhuan",
+    "nanjing",
+    "renwuzhi",
+    "shenyijing",
+    "sunzi-bingfa",
+    "yanshi-jiaxun"
+  ],
+  "paras": [
+    {
+      "slug": "gu-sanfen",
+      "chapter": "太古河圖代姓紀",
+      "para_index": 1,
+      "para_id": "gu-sanfen#04-p01",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "清氣未升，濁氣未沉，遊神未靈，五色未分。中有其物，冥冥而性存，謂之混沌，混沌為太",
+      "note": "由混沌、太始、太極與兩儀推演天地萬物及生民的根源，並以世系敘事續寫人類之始",
+      "co_domains": []
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "本訓第三十二",
+      "para_index": 1,
+      "para_id": "qianfulun#26-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "上古之世，太素之時，元氣窈冥，未有形兆。萬精合並，混而為一，莫製莫禦，若斯久之，",
+      "note": "元氣—陰陽—天地人三才的生成論，並定人之職分：「三才異務，相待而成」「天功，人其代之」「人行之動天地，譬猶車上御駟馬」。這是全書唯一正面回答「人在天地間是什麼」的段。",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "卷十",
+      "para_index": 1,
+      "para_id": "qianfulun#32-p01",
+      "modes": [
+        "expression",
+        "proposition"
+      ],
+      "excerpt": "夫生於當世，貴能成大功。太上有立德，其下有立言，闒茸而不才，先器能當官。未嘗服斯",
+      "note": "全書自序，第一人稱：「太上有立德，其下有立言，闒茸而不才…未嘗服斯役，無所效其勳。中心時有感，援筆紀數文」——三不朽的次第與自認不才的位置，是全書最清楚的存在與召喚陳述。",
+      "co_domains": [
+        "II",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "卷十",
+      "para_index": 31,
+      "para_id": "qianfulun#32-p31",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人天情通，氣感相和，善惡相征，異端變化。聖人運之，若禦舟車，作民精神，莫能含嘉，",
+      "note": "敘〈本訓〉：人天情通，氣感相和。",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "附錄二",
+      "para_index": 7,
+      "para_id": "qianfulun#39-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "易曰：“潛之為言也，隱而未見，行而未成，是以君子弗用也。”然觀樂行憂危，則知龍德",
+      "note": "「雖終其身不求聞達，而本立德以立言，自可與立功者並垂於不朽」——三不朽中以立言抵立功。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "附錄二",
+      "para_index": 14,
+      "para_id": "qianfulun#39-p14",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "一日，陳子東為告以因可書久成，已為代謀剞劂，因視之書而屬之敘。受而讀之，竊悲因可",
+      "note": "「竊悲因可豐於學，嗇於年，又喜其能以書自延其年」——以著書延年，對早逝的回應。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shanghanlun",
+      "chapter": "張仲景原序",
+      "para_index": 1,
+      "para_id": "shanghanlun#02-p01",
+      "modes": [
+        "expression",
+        "proposition"
+      ],
+      "excerpt": "論曰：余每覽越人入虢之診，望齊侯之色，未嘗不慨然嘆其才秀也。怪當今居世之士，曾不",
+      "note": "作者慨嘆世人逐名利而輕忽養生，並以患病後束手失命反問生命所本，兼論人生取向與人在疾病中的身體處境",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 20,
+      "para_id": "shishuo-xinyu#02-p20",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "張季鷹縱任不拘，時人號為江東步兵。或謂之曰：「卿乃可縱適一時，獨不為身後名邪？」",
+      "note": "張季鷹明言身後名不及眼前一杯酒，直接在當下生活的價值與死後聲名之間作自我定位。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 21,
+      "para_id": "shishuo-xinyu#02-p21",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "畢茂世云：「一手持蟹螯，一手持酒桮，拍浮酒池中，便足了一生。」〈晉中興書曰：「畢",
+      "note": "畢卓把持蟹飲酒視為足以了結一生的生活，直接提出何種享受能使一生對自己已然足夠。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 30,
+      "para_id": "shishuo-xinyu#02-p30",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "蘇峻亂，諸庾逃散。庾冰時為吳郡，單身奔亡，民吏皆去。唯郡卒獨以小船載冰出錢塘口，",
+      "note": "郡卒冒死護送庾冰並在受報時拒絕名位，只求餘年酒足，兼寫忠誠回報與何種生活對自己已足。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 8,
+      "para_id": "shishuo-xinyu#21-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "王輔嗣弱冠詣裴徽，〈《永嘉流人名》曰：「徽字文季，河東聞喜人，太常潛少弟也。仕至",
+      "note": "王弼以無為萬物所資並說明聖人何以言有，直接討論有無本末",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 16,
+      "para_id": "shishuo-xinyu#21-p16",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "客問樂令旨「不至」者，樂亦不復剖析文句，直以麈尾柄确几曰：「至不？」客曰：「至！",
+      "note": "樂廣以麈尾演示至與去不能固著，提出生滅流變中到達是否真實的存在問題",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 35,
+      "para_id": "shishuo-xinyu#21-p35",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "支道林造《即色論》，〈支道林《集妙觀章》云：「夫色之性也，不自有色。色不自有，雖",
+      "note": "《即色論》主張色不自有而色即是空，直接討論現象存在的本體根據",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 61,
+      "para_id": "shishuo-xinyu#21-p61",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "殷荊州曾問遠公：〈《張野遠法師銘》曰：「沙門釋惠遠，鴈門樓煩人。本姓賈氏，世爲冠",
+      "note": "以感應為《易》的本體並舉山崩鐘應，追問變化世界的根本原理",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "棲逸",
+      "para_index": 1,
+      "para_id": "shishuo-xinyu#23-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "阮步兵嘯，聞數百步。蘇門山中，忽有真人，樵伐者咸共傳說。阮籍往觀，見其人擁厀巖側",
+      "note": "阮籍以無為、盛衰窮達之問叩隱者，兩人終以長嘯相契，呈現對生命本末與超越之道的追索",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "刑德第五十五",
+      "para_index": 4,
+      "para_id": "yantielun#51-p04",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "文學曰：「詩云：『周道如砥，其直如矢。』言其易也。『君子所履，小人所視。』言其明",
+      "note": "凡生之物，莫貴於人／賤畜而重人／法者緣人情而制／春秋之治獄，論心定罪",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5593 @@
+{
+  "domain": "VIII",
+  "name_zh": "工作·成就·召喚",
+  "gist": "工作與金錢、成就與意義、天賦與使命",
+  "generated_at": "2026-08-09T08:44:19+00:00",
+  "para_count": 391,
+  "book_count": 11,
+  "surveyed_zero_hit": [
+    "gu-sanfen",
+    "haidao-suanjing",
+    "jiuzhang-suanshu",
+    "shenyijing"
+  ],
+  "paras": [
+    {
+      "slug": "dongmingji",
+      "chapter": "卷第一",
+      "para_index": 8,
+      "para_id": "dongmingji#01-p08",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "董謁，字仲玄，武都郁邑人也。少好學，嘗遊山澤，負挾圖書，患其繁重。家貧，拾樹葉以",
+      "note": "董謁因好學而在家貧與圖書繁重中以樹葉代簡、荊條作床，寫出求學及因應困境的方法",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "dongmingji",
+      "chapter": "卷第二",
+      "para_index": 21,
+      "para_id": "dongmingji#02-p21",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "郭瓊，東郡人也。形貌醜劣，而意度過人。曾宿人家，輒乞薪自照讀書。晝眠，眼不閉，行",
+      "note": "郭瓊外貌醜劣而氣度過人，並借宿乞薪照明讀書，呈現外在評價與內在才度及求學努力的反差",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "dongmingji",
+      "chapter": "卷第二",
+      "para_index": 22,
+      "para_id": "dongmingji#02-p22",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "黃安，代郡人也。為代郡卒。自雲卑猥不獲處人間，執鞭懷荊而讀書。畫地以記數者，夕地",
+      "note": "黃安自陳卑猥難處人間，仍在低微役職中執鞭懷荊讀書記數，寫出自我身分與求學實踐",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "jinkui-yaolue",
+      "chapter": "臟腑經絡先後病脈證第一",
+      "para_index": 1,
+      "para_id": "jinkui-yaolue#01-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "問曰：上工治未病，何也？師曰：夫治未病者，見肝之病，知肝傳脾，當先實脾，四季脾旺",
+      "note": "以能否預知傳變並先實脾區分上工與中工，既提出醫理和治法，也評判醫者的專業能力高下",
+      "co_domains": []
+    },
+    {
+      "slug": "jinkui-yaolue",
+      "chapter": "雜療方第二十三",
+      "para_index": 29,
+      "para_id": "jinkui-yaolue#29-p29",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "上療自縊溺暍之法并出自張仲景為之，其意殊絕，殆非常情所及，本草所能關，實救人之大",
+      "note": "明言自縊溺暍救法意旨超常且為救人大術，評斷醫療技藝的職業價值，並接列筋骨損方的定量組成",
+      "co_domains": []
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "鄒孟軻母",
+      "para_index": 2,
+      "para_id": "lienuzhuan#11-p02",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "頌曰：孟子之母，教化列分，處子擇藝，使從大倫，子學不進，斷機示焉，子遂成德，為當",
+      "note": "頌以擇教與斷機促成孟子精進學業並成為當世之冠，主張教養能成就學業。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "晉文齊姜",
+      "para_index": 1,
+      "para_id": "lienuzhuan#17-p01",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "齊姜，齊桓公之宗女，晉文公之夫人也。初文公父獻公，納驪姬，譖殺太子申生。文公號公",
+      "note": "齊姜勸重耳放棄安逸、承擔復國機會並強使其啟程，寫的是召喚與主動改變。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "晉文齊姜",
+      "para_index": 2,
+      "para_id": "lienuzhuan#17-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：齊姜公正，言行不怠，勸勉晉文，反國無疑，公子不聽，姜與犯謀，醉而載之，卒成",
+      "note": "頌肯定齊姜勸勉並推動重耳返國，最終成就霸業。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "周南之妻",
+      "para_index": 2,
+      "para_id": "lienuzhuan#20-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：周大夫妻，夫出治土，維戒無怠，勉為父母，凡事遠周，之在，作詩魴魚，以敕君子",
+      "note": "頌肯定妻子告誡治土的丈夫不可怠惰並應為父母勉力。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "柳下惠妻",
+      "para_index": 2,
+      "para_id": "lienuzhuan#24-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：下惠之妻，賢明有文，柳下既死，門人必存，將誄下惠，妻為之辭，陳列其文，莫能",
+      "note": "頌明稱其妻賢明有文，且所作誄辭無人能改，肯定品格與文才。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "楚於陵妻",
+      "para_index": 1,
+      "para_id": "lienuzhuan#29-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "楚王聞於陵子終賢，欲以為相，使使者持金百鎰，往聘迎之，於陵子終曰：「僕有箕帚之妾",
+      "note": "於陵妻衡量為相的富貴與亂世憂患，選擇灌園、琴書和身心自足的生活。",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "楚於陵妻",
+      "para_index": 2,
+      "para_id": "lienuzhuan#29-p02",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "頌曰：於陵處楚，王使聘焉，入與妻謀，懼世亂煩，進往遇害，不若身安，左琴右書，為人",
+      "note": "頌明言進仕遇害不若身安，拿灌園琴書對照高位而評斷職涯選擇。",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊管妾婧",
+      "para_index": 1,
+      "para_id": "lienuzhuan#75-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "妾婧者，齊相管仲之妾也。甯戚欲見桓公，道無從，乃為人僕。將車宿齊東門之外，桓公因",
+      "note": "妾婧解出甯戚求仕之意並勸勿以老賤少弱輕人，使人才獲用而國治，兼寫用人與才智",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊管妾婧",
+      "para_index": 2,
+      "para_id": "lienuzhuan#75-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：桓遇甯戚，命管迎之，甯戚白水，管仲憂疑，妾進問焉，為說其詩，管嘉報公，齊得",
+      "note": "頌以妾解詩、管仲嘉之並使齊得以治，評出她的識才能力及其公共成效",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "楚江乙母",
+      "para_index": 1,
+      "para_id": "lienuzhuan#76-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "楚大夫江乙之母也。當恭王之時，乙為郢大夫。有入王宮中盜者，令尹以罪乙，請於王而絀",
+      "note": "乙母借失布責令尹與君王同負治亂之責，並以微喻和拒賞展現有效的公共諫說",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "楚江乙母",
+      "para_index": 2,
+      "para_id": "lienuzhuan#76-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：江乙失位，乙母動心，既歸家處，亡布八尋，指責令尹，辭甚有度，王復用乙，賜母",
+      "note": "頌寫她指責令尹而令王復用江乙，並以辭甚有度評其公共諫說才具",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "晉弓工妻",
+      "para_index": 1,
+      "para_id": "lienuzhuan#77-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "弓工妻者，晉繁人之女也。當平公之時，使其夫為弓，三年乃成。平公引弓而射，不穿一札",
+      "note": "妻子指出君王把射術失誤歸罪工匠不公，詳辨製弓材料、勞動與射法以救夫",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "楚野辨女",
+      "para_index": 1,
+      "para_id": "lienuzhuan#79-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "楚野辨女者，昭氏之妻也。鄭簡公使大夫聘於荊，至於狹路，有一婦人乘車，與大夫遇，轂",
+      "note": "她揭出大夫遷怒僕失而欺侮弱者的不公，並憑有理有序的辭說免於受鞭",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "楚野辨女",
+      "para_index": 2,
+      "para_id": "lienuzhuan#79-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：辨女獨乘，遇鄭使者，鄭使折軸，執女忿怒，女陳其冤，亦有其序，鄭使慚去，不敢",
+      "note": "頌寫弱女陳冤使強勢大夫慚退，並以言辭有序評其自辯能力",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "趙津女娟",
+      "para_index": 2,
+      "para_id": "lienuzhuan#81-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：趙簡渡河，津吏醉荒，將欲加誅，女娟恐惶，操楫進說，父得不喪，維久難蔽，終遂",
+      "note": "頌寫她恐父被誅而操楫進說，並以才德久難遮蔽終得發揚評其孝行與能力",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊鍾離春",
+      "para_index": 1,
+      "para_id": "lienuzhuan#84-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "鍾離春者，齊無鹽邑之女，宣王之正后也。其為人極醜無雙，臼頭，深目，長壯，大節，卬",
+      "note": "從因貌被棄仍自薦的自我處境，到診斷四殆的國政責任與展現諫說才具，三面均各自承重",
+      "co_domains": [
+        "II",
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊宿瘤女",
+      "para_index": 2,
+      "para_id": "lienuzhuan#85-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：齊女宿瘤，東郭採桑，閔王出遊，不為變常，王召與語，諫辭甚明，卒升后位，名聲",
+      "note": "頌稱她不為王駕改變常態、諫辭甚明而名聲光榮，評出自持與諫說成就",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊孤逐女",
+      "para_index": 1,
+      "para_id": "lienuzhuan#86-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孤逐女者，齊即墨之女，齊相之妻也。初，逐女孤無父母，狀甚醜，三逐於鄉，五逐於里，",
+      "note": "她由孤醜屢逐的身分處境自陳，進而論國相用人與國家安危並展現謀政才具，三面皆承重",
+      "co_domains": [
+        "II",
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊孤逐女",
+      "para_index": 2,
+      "para_id": "lienuzhuan#86-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：齊逐孤女，造襄王門，女雖五逐，王猶見焉，談國之政，亦甚有文，與語三日，遂配",
+      "note": "頌同時寫雖五逐而獲接見的身分翻轉、談國政的公共內容及甚有文的才具評斷，三面不可刪",
+      "co_domains": [
+        "II",
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "楚處莊姪",
+      "para_index": 1,
+      "para_id": "lienuzhuan#87-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "楚處莊姪者，楚頃襄王之夫人，縣邑之女也。初，頃襄王好臺榭，出入不時，行年四十，不",
+      "note": "十二歲莊姪以三難五患剖析奢政、蔽諫與外患，成功勸王返國，寫的是治理責任與諫說能力",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "楚處莊姪",
+      "para_index": 2,
+      "para_id": "lienuzhuan#87-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：楚處莊姪，雖為女童，以幟見王，陳國禍凶，設王三難，五患累重，王載以歸，終卒",
+      "note": "頌稱女童陳國禍、設三難五患而終有功，評其政治洞察與成就",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊女徐吾",
+      "para_index": 1,
+      "para_id": "lienuzhuan#88-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊女徐吾者，齊東海上貧婦人也。與鄰婦李吾之屬會燭，相從夜績。徐吾最貧，而燭數不屬",
+      "note": "徐吾以自己早作晚息的貢獻和餘光不損論證不應排斥窮者，兼寫群體包容與勞動價值",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊女徐吾",
+      "para_index": 2,
+      "para_id": "lienuzhuan#88-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：齊女徐吾，會績獨貧，夜託燭明，李吾絕焉，徐吾自列，辭語甚分，卒得容入，終沒",
+      "note": "頌寫她因貧被拒而憑分明辭語重新獲容，評的是群體接納與自我辯護能力",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊太倉女",
+      "para_index": 2,
+      "para_id": "lienuzhuan#89-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：緹縈訟父，亦孔有識，推誠上書，文雅甚備，小女之言，乃感聖意，終除肉刑，以免",
+      "note": "頌同時稱小女為父上書、促成除肉刑的公共改革且有識文雅，親情、制度與才具三面均承重",
+      "co_domains": [
+        "IV",
+        "V"
+      ]
+    },
+    {
+      "slug": "nanjing",
+      "chapter": "第十二難",
+      "para_index": 2,
+      "para_id": "nanjing#12-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "然: 五藏脈已絕於內者，腎肝氣已絕於內也，而醫反補其心肺;五藏脈已絕於外者，其心",
+      "note": "指出醫者把已絕的一方反補成實實虛虛會造成病人死亡並直稱醫殺，除針補禁忌外也明確追究醫者的職業責任",
+      "co_domains": []
+    },
+    {
+      "slug": "nanjing",
+      "chapter": "第十三難",
+      "para_index": 2,
+      "para_id": "nanjing#13-p02",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "然: 五藏有五色，皆見於面，亦當與寸口尺內相應，假令色青，其脈當弦而急; 色赤，",
+      "note": "建立五色、脈象與尺膚的參診規則，並以知一至知三及十全六至九分等第評量醫者的專業能力與成效",
+      "co_domains": []
+    },
+    {
+      "slug": "nanjing",
+      "chapter": "第七十七難",
+      "para_index": 1,
+      "para_id": "nanjing#77-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "經言上工治未病，中工治已病者，何謂也?",
+      "note": "以治未病與治已病區分上工、中工，直接評量醫者的職業能力與成就層次",
+      "co_domains": []
+    },
+    {
+      "slug": "nanjing",
+      "chapter": "第七十七難",
+      "para_index": 2,
+      "para_id": "nanjing#77-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "然。所謂治未病者，見肝之病，則知肝當傳之與脾，故先實其脾氣，無令得受肝之邪，故曰",
+      "note": "對比上工預見傳變而先防護脾氣與中工不曉傳變只治肝，呈現醫者專業判斷的高下",
+      "co_domains": []
+    },
+    {
+      "slug": "nanjing",
+      "chapter": "第八十一難",
+      "para_index": 2,
+      "para_id": "nanjing#81-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "然。是病非謂寸口脈也，謂病自有虛實也。假令肝實而肺虛，肝者木也，肺者金也，金木當",
+      "note": "以肝肺虛實說明正確補瀉，並指出中工誤針反使病情加重所造成的專業傷害",
+      "co_domains": []
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "讚學第一",
+      "para_index": 4,
+      "para_id": "qianfulun#01-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孔子曰： 「吾嘗終日不食，終夜不寢，以思無益，不如學也。」「耕也，餒在其中；學也",
+      "note": "「耕也餒在其中；學也祿在其中」——學與生計／職業的關係。",
+      "co_domains": []
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "讚學第一",
+      "para_index": 5,
+      "para_id": "qianfulun#01-p05",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "夫道成於學而藏於書，學進於振而廢於窮。是故董仲舒終身不問家事，景君明經年不出戶庭",
+      "note": "董仲舒終身不問家事、景君明經年不出戶庭：對召喚的全時投入。",
+      "co_domains": []
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "讚學第一",
+      "para_index": 11,
+      "para_id": "qianfulun#01-p11",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "《詩》云：「高山仰止，景行行止。」「日就月將，學有緝熙於光明。」是故凡欲顯勳績揚",
+      "note": "「凡欲顯勳績揚光烈者莫良於學」——指向功業。",
+      "co_domains": []
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "務本第二",
+      "para_index": 3,
+      "para_id": "qianfulun#02-p03",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "今學問之士，好語虛無之事，爭著雕麗之文，以求見異於世。品人鮮識，從而高之，此傷道",
+      "note": "士人「好語虛無之事，爭著雕麗之文，以求見異於世」——虛華與求名。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "論榮第四",
+      "para_index": 1,
+      "para_id": "qianfulun#04-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "所謂賢人君子者，非必高位厚祿富貴榮華之謂也。此則君子之所宜有，而非其所以為君子者",
+      "note": "賢人君子不等於高位厚祿——品格與地位脫鉤。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "賢難第五",
+      "para_index": 1,
+      "para_id": "qianfulun#05-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "世之所以不治者，由賢難也。所謂賢難者，非直體聰明服德義之謂也。此則求賢之難得爾，",
+      "note": "「賢難者非賢難得，乃賢之見容難」——本篇總綱。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "賢難第五",
+      "para_index": 6,
+      "para_id": "qianfulun#05-p06",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "今世主之於士也，目見賢則不敢用，耳聞賢則恨不及，雖自有知也，猶不能取，必更待群司",
+      "note": "世主目見賢則不敢用。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "釋難第二十九",
+      "para_index": 5,
+      "para_id": "qianfulun#07-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "秦子問於潛夫曰：「耕種，生之本也；學問，業之末也。老聃有言：『大丈夫處其實，不居",
+      "note": "耕種為本、學問為末？——職業價值的排序。",
+      "co_domains": []
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "忠貴第十一",
+      "para_index": 2,
+      "para_id": "qianfulun#08-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "周公東征，後世追思；召公甘棠，人不忍伐。見愛如是，豈欲私害之者哉？此其後之封君多",
+      "note": "周公東征、召公甘棠：德政的身後之名。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "實貢第十四",
+      "para_index": 2,
+      "para_id": "qianfulun#11-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫十步之間，必有茂草；十室之邑，必有俊士。賢材之生，日月相屬，未嘗乏絕，是故亂殷",
+      "note": "「十室之邑，必有俊士」——賢材從不匱乏，匱乏的是取用。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "實貢第十四",
+      "para_index": 3,
+      "para_id": "qianfulun#11-p03",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "夫志道者少友，逐俗者多儔，是以舉世多黨而用私競，比質而行趨華。貢士者，非復依其質",
+      "note": "「志道者少友，逐俗者多儔」——舉世多黨用私，貢士不依其質。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "實貢第十四",
+      "para_index": 4,
+      "para_id": "qianfulun#11-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫聖人純，賢者駁，周公不求備，四肢不相兼，況末世乎？是故高祖所輔佐，光武所將相，",
+      "note": "聖人純、賢者駁，周公不求備：用人不可求全。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "考績第七",
+      "para_index": 1,
+      "para_id": "qianfulun#14-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "凡南面之大務，莫急於知賢；知賢之近途，莫急於考功。功誠考則治亂暴而明，善惡信則直",
+      "note": "知賢莫急於考功。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "考績第七",
+      "para_index": 3,
+      "para_id": "qianfulun#14-p03",
+      "modes": [
+        "formalization"
+      ],
+      "excerpt": "古者諸侯貢士，一適謂之好德，載適謂之尚賢，三適謂之有功，則加之賞。其不貢士也，一",
+      "note": "貢士考課的可執行程序：一適／載適／三適加賞，不貢士則遞加罰。與人物志〈材能〉同型——規範被寫成可查表的程序。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "思賢第八",
+      "para_index": 4,
+      "para_id": "qianfulun#15-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫治世不得真賢，譬猶治疾不得良醫也。治疾當真人蔘，反得支羅服；當得麥門冬，反烝橫",
+      "note": "治世不得真賢猶治疾不得良醫，人蔘與支羅服之喻。",
+      "co_domains": [
+        "V",
+        "IX"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "思賢第八",
+      "para_index": 5,
+      "para_id": "qianfulun#15-p05",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "《書》曰：「人之有能，使循其行，國乃其昌。」是故先王為官擇人，必得其材，功加於人",
+      "note": "為官擇人必得其材。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "思賢第八",
+      "para_index": 6,
+      "para_id": "qianfulun#15-p06",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "先王之制，官民必論其材，論定而後爵之，位定然後祿之。人君也此君不察，而苟以親戚邑",
+      "note": "「論其材—論定而後爵之—位定然後祿之」：任官的定序程序。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "本政第九",
+      "para_index": 3,
+      "para_id": "qianfulun#16-p03",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "由此觀之，苟得其人，不患貧賤；苟得其材，不嫌名跡。遠跡漢元以來，驕貴之臣，每受罪",
+      "note": "「苟得其人，不患貧賤；苟得其材，不嫌名跡」。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "本政第九",
+      "para_index": 4,
+      "para_id": "qianfulun#16-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孔子曰：「國有道，貧且賤焉，恥也；國無道，富且貴焉，恥也。」《詩殤》「皎皎白駒，",
+      "note": "「邦有道，貧且賤焉恥也；邦無道，富且貴焉恥也」——處境決定榮辱歸屬。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "潛歎第十",
+      "para_index": 1,
+      "para_id": "qianfulun#17-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡有國之君者，未嘗不欲治也；而治不世見者，所任不賢故也；世未嘗無賢也，而賢不得用",
+      "note": "「世未嘗無賢也，而賢不得用」——書名所自。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "潛歎第十",
+      "para_index": 5,
+      "para_id": "qianfulun#17-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫在位者之好蔽賢而務進黨也，自古而然。昔唐堯之大聖也，聰明宣昭；虞舜之大聖也，德",
+      "note": "在位者好蔽賢而務進黨，堯舜亦不免。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "勸將第二十一",
+      "para_index": 2,
+      "para_id": "qianfulun#20-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫服重上阪，出馳千里，馬之禍也。然節馬樂之者，以王良足為盡力也。先登陷陣，赴死嚴",
+      "note": "馬為王良盡力、士為明賞赴死——賞罰與捨命的交換。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "勸將第二十一",
+      "para_index": 3,
+      "para_id": "qianfulun#20-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孫子曰：「將者，智也，仁也，敬也，信也，勇也，嚴也。」是故智以折敵，仁以附眾，敬",
+      "note": "引孫子將之六德（智仁敬信勇嚴）逐項配用。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "勸將第二十一",
+      "para_index": 5,
+      "para_id": "qianfulun#20-p05",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "夫世有非常之人，然後定非常之事。必道非常之失，然後見。是故選諸有兵之長吏，宜踔躒",
+      "note": "「世有非常之人，然後定非常之事」——選將宜踔躒不次。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "邊議第二十三",
+      "para_index": 3,
+      "para_id": "qianfulun#22-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫以小民，受天永命，竊願聖主深惟國基之傷病，遠慮禍福之所生。且夫物有盛衰，時有推",
+      "note": "「傳子孫者思安萬世，寄其身者各取一闋」——任期心態決定政策視野。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "實邊第二十四",
+      "para_index": 3,
+      "para_id": "qianfulun#23-p03",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "夫土地者，民之本也，誠不可久荒，以開墾。且扁鵲之治病也，審閉結而通鬱，虛者補之，",
+      "note": "扁鵲通鬱補虛之喻；以舉孝廉、募民耕邊拜爵為實邊之術。",
+      "co_domains": [
+        "V",
+        "IX"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "相列第二十七",
+      "para_index": 3,
+      "para_id": "qianfulun#31-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "雖然，人之有骨法也，猶萬物之有種類，材木之有常宜。巧匠因象，各有所授。曲者宜為輿",
+      "note": "「相者能期其所極，不能使之必至」「千里之馬，骨法雖具，弗策不致」「士而弗仕，不成於位」——命定與作為的分工，本篇的結論。",
+      "co_domains": [
+        "VII",
+        "XI"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "卷十",
+      "para_index": 1,
+      "para_id": "qianfulun#32-p01",
+      "modes": [
+        "expression",
+        "proposition"
+      ],
+      "excerpt": "夫生於當世，貴能成大功。太上有立德，其下有立言，闒茸而不才，先器能當官。未嘗服斯",
+      "note": "全書自序，第一人稱：「太上有立德，其下有立言，闒茸而不才…未嘗服斯役，無所效其勳。中心時有感，援筆紀數文」——三不朽的次第與自認不才的位置，是全書最清楚的存在與召喚陳述。",
+      "co_domains": [
+        "I",
+        "II"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "卷十",
+      "para_index": 2,
+      "para_id": "qianfulun#32-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡士之學，貴本賤末，大人不華，君子務實。禮雖媒紹，必載於贄，時俗趨末，懼毀術，故",
+      "note": "敘〈務本〉。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "卷十",
+      "para_index": 3,
+      "para_id": "qianfulun#32-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人皆智德，苦為利昏，行汙求榮，戴盆望天。為仁不富，為富不仁，將修德行，必慎其原，",
+      "note": "敘〈遏利〉：為仁不富，為富不仁。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "卷十",
+      "para_index": 7,
+      "para_id": "qianfulun#32-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人君選士，鹹求賢能，君司貢薦，競進下材。憎是掊克，何官能治，買藥得雁，難以為醫，",
+      "note": "敘〈思賢〉：買藥得雁，難以為醫。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "卷十",
+      "para_index": 14,
+      "para_id": "qianfulun#32-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "聖人養賢，以及萬民，先王之製，皆足代耕。增爵損祿，必程以傾，先益吏俸，乃可致平，",
+      "note": "敘〈班祿〉：先王之製，皆足代耕。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "卷十",
+      "para_index": 17,
+      "para_id": "qianfulun#32-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "民為國基，穀為民命，日力不暇，穀何由盛。公卿師尹，卒勞百姓，輕奪民時，誠可憤諍，",
+      "note": "敘〈愛日〉：民為國基，穀為民命。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "班祿第十五",
+      "para_index": 3,
+      "para_id": "qianfulun#33-p03",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "乃惟慎貢選，明必黜陟，官得其人，人任其職。欽若昊天，敬授民時。同我婦子，饁彼南畝",
+      "note": "慎貢選、明黜陟、官得其人、人任其職。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "愛日第十八",
+      "para_index": 1,
+      "para_id": "qianfulun#36-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "國之所以為國者，以有民也；民之所以為民者，以有穀也；穀之所以豐殖者，以有人功也；",
+      "note": "國—民—穀—人功—日力的遞推：民的時間是國的基礎。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "愛日第十八",
+      "para_index": 2,
+      "para_id": "qianfulun#36-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "詩云：「王事靡盬，不遑將父。」言在古閑暇而得行孝，今迫促不得養也。孔子稱庶則富之",
+      "note": "「王事靡盬，不遑將父」——徭役奪走的是奉養父母的時間。",
+      "co_domains": [
+        "IV",
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "附錄一",
+      "para_index": 1,
+      "para_id": "qianfulun#37-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王符，字節信，安定臨涇人也。少好學，有誌操，與馬融、竇章、張衡、崔瑗等友善。安定",
+      "note": "後漢書王符傳：「以鄉人賤之…遂不得升進」，志士不遇的傳記證言。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "附錄一",
+      "para_index": 2,
+      "para_id": "qianfulun#37-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "後度遼將軍皇甫規解官歸安定，鄉人有以貨得雁門太守者，亦去職還家，書刺謁規，規臥不",
+      "note": "皇甫規倒屣迎符：「徒見二千石，不如一縫掖」，評價的翻轉。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "附錄一",
+      "para_index": 3,
+      "para_id": "qianfulun#37-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王符節信，安定臨涇。好學有誌，為鄉人所輕。憤世著論，潛夫是名。述赦之篇，以赦為賊",
+      "note": "韓愈《後漢三賢贊》：憤世著論，潛夫是名。",
+      "co_domains": []
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "附錄三",
+      "para_index": 7,
+      "para_id": "qianfulun#38-p07",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "右後漢王符撰。在和、安之世，耿介不同於俗，遂不得進，隱居著書二十餘篇，以譏當時失",
+      "note": "郡齋讀書誌：「耿介不同於俗，遂不得進，隱居著書」。",
+      "co_domains": []
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "附錄三",
+      "para_index": 11,
+      "para_id": "qianfulun#38-p11",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "漢王符撰符字節信，安定臨涇人。後漢書本傳稱：“和、安之後，世務遊宦，當塗者更相薦",
+      "note": "四庫提要引本傳：「世務遊宦，當塗者更相薦引，而符獨耿介不同於俗」。",
+      "co_domains": []
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "附錄三",
+      "para_index": 17,
+      "para_id": "qianfulun#38-p17",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "漢王符撰。凡三十五篇，又敘錄一篇。符遭逢亂世，以耿介忤俗，發憤著書。然明達治體，",
+      "note": "四庫簡明目錄：「遭逢亂世，以耿介忤俗，發憤著書」。",
+      "co_domains": []
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "附錄二",
+      "para_index": 4,
+      "para_id": "qianfulun#39-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫先生一布衣耳，而又丁漢室之衰，非有豐功偉烈，足以耀當時而垂後世也。而度遼一迎，",
+      "note": "「先生一布衣耳…非有豐功偉烈足以耀當時而垂後世也」而終得名炳儒林——不由功業而由著述得名。",
+      "co_domains": []
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "附錄二",
+      "para_index": 7,
+      "para_id": "qianfulun#39-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "易曰：“潛之為言也，隱而未見，行而未成，是以君子弗用也。”然觀樂行憂危，則知龍德",
+      "note": "「雖終其身不求聞達，而本立德以立言，自可與立功者並垂於不朽」——三不朽中以立言抵立功。",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "七繆",
+      "para_index": 4,
+      "para_id": "renwuzhi#01-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫人材不同，成有早晚：有早智速成者，有晚智而晚成者，有少無智而終無所成者，有少有",
+      "note": "「終無所成」是材質上限的硬主張，與〈體別〉末段同一命題。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "八觀",
+      "para_index": 23,
+      "para_id": "renwuzhi#03-p23",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡偏材之性，二至以上，則至質相發，而令名生矣。是故，骨直氣清，則休名生焉；氣清力",
+      "note": "",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "八觀",
+      "para_index": 34,
+      "para_id": "renwuzhi#03-p34",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫人情莫不欲遂其志，故：烈士樂奮力之功，善士樂督政之訓，能士樂治亂之事，術士樂計",
+      "note": "",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "八觀",
+      "para_index": 36,
+      "para_id": "renwuzhi#03-p36",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "若不杼其所能，則不獲其志，不獲其志則戚。是故：功力不建則烈士奮，德行不訓則正人哀",
+      "note": "",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "八觀",
+      "para_index": 49,
+      "para_id": "renwuzhi#03-p49",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是故，守業勤學，未必及材；材藝精巧，未必及理；理意晏給，未必及智；智能經事，未必",
+      "note": "學不及材：後天學習能否補先天材質，屬 XI（改變與重來）。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "八觀",
+      "para_index": 51,
+      "para_id": "renwuzhi#03-p51",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "然則，苟無聰明，無以能遂。故好聲而實不克則恢，好辯而禮不至則煩，好法而思不深則刻",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "八觀",
+      "para_index": 52,
+      "para_id": "renwuzhi#03-p52",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是故，鈞材而好學，明者為師；比力而爭，智者為雄；等德而齊，達者稱聖，聖之為稱，明",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "利害",
+      "para_index": 1,
+      "para_id": "renwuzhi#04-p01",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "夫清節之業，著于儀容，發於德行；未用而章，其道順而有化。故其未達也，為眾人之所進",
+      "note": "〈利害〉全篇是本書 VIII（工作・成就・召喚）最集中處。",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "利害",
+      "para_index": 2,
+      "para_id": "renwuzhi#04-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "法家之業，本于制度，待乎成功而效。其道前口而後治，嚴而為眾。故其未達也，為眾人之",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "利害",
+      "para_index": 3,
+      "para_id": "renwuzhi#04-p03",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "術家之業，出於聰思，待於謀得而章。其道先微而後著，精而且玄。其未達也，為眾人之所",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "利害",
+      "para_index": 4,
+      "para_id": "renwuzhi#04-p04",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "智意之業，本於度原，其道順而不忤。故其未達也，為眾人之所容矣；已達也，為寵愛之所",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "利害",
+      "para_index": 5,
+      "para_id": "renwuzhi#04-p05",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "臧否之業，本乎是非，其道廉而且砭。故其未達也，為眾人之所識；已達也，為眾人之所稱",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "利害",
+      "para_index": 6,
+      "para_id": "renwuzhi#04-p06",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "伎倆之業，本于事能，其道辨而且速。其未達也，為眾人之所異；已達也，為官司之所任。",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "接識",
+      "para_index": 11,
+      "para_id": "renwuzhi#05-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡此之類，皆謂一流之材也。若二至已上，亦隨其所兼，以及異數。故一流之人，能識一流",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "效難",
+      "para_index": 4,
+      "para_id": "renwuzhi#06-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "猶聽有聲之類，名隨其音。夫名非實，用之不效，故曰：名猶口進，而實從事退。中情之人",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "效難",
+      "para_index": 7,
+      "para_id": "renwuzhi#06-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "何謂無由得效之難？上材已莫知，或所識在幼賤之中，未達而喪；或所識者，未拔而先沒；",
+      "note": "懷才不遇。X 取「未達而喪」「未拔而先沒」。",
+      "co_domains": [
+        "V",
+        "X"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材理",
+      "para_index": 34,
+      "para_id": "renwuzhi#07-p34",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "聰能聽序，謂之名物之材。",
+      "note": "八能材名定義。信心低，供覆核。",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材理",
+      "para_index": 35,
+      "para_id": "renwuzhi#07-p35",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "思能造端，謂之構架之材。",
+      "note": "八能材名定義。信心低，供覆核。",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材理",
+      "para_index": 36,
+      "para_id": "renwuzhi#07-p36",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "明能見機，謂之達識之材。",
+      "note": "八能材名定義。信心低，供覆核。",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材理",
+      "para_index": 37,
+      "para_id": "renwuzhi#07-p37",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "辭能辯意，謂之贍給之材。",
+      "note": "八能材名定義。信心低，供覆核。",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材理",
+      "para_index": 38,
+      "para_id": "renwuzhi#07-p38",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "捷能攝失，謂之權捷之材。",
+      "note": "八能材名定義。信心低，供覆核。",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材理",
+      "para_index": 39,
+      "para_id": "renwuzhi#07-p39",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "守能待攻，謂之持論之材。",
+      "note": "八能材名定義。信心低，供覆核。",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材理",
+      "para_index": 40,
+      "para_id": "renwuzhi#07-p40",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "攻能奪守，謂之推徹之材。",
+      "note": "八能材名定義。信心低，供覆核。",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材理",
+      "para_index": 41,
+      "para_id": "renwuzhi#07-p41",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "奪能易予，謂之貿說之材。",
+      "note": "八能材名定義。信心低，供覆核。",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材能",
+      "para_index": 1,
+      "para_id": "renwuzhi#08-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或曰：人材有能大而不能小，猶函牛之鼎不可以烹雞；愚以為此非名也。夫能之為言，已定",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材能",
+      "para_index": 2,
+      "para_id": "renwuzhi#08-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "夫人材不同，能各有異：有自任之能，有立法使人之能，有消息辨護之能，以德教師人之能",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材能",
+      "para_index": 3,
+      "para_id": "renwuzhi#08-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫能出於材，材不同量；材能既殊，任政亦異。是故：",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材能",
+      "para_index": 4,
+      "para_id": "renwuzhi#08-p04",
+      "modes": [
+        "formalization"
+      ],
+      "excerpt": "自任之能，清節之材也，故在朝也，則冢宰之任；為國，則矯直之政。",
+      "note": "材→官→政的對照表，把「誰該任什麼職」化成可查表的程序。判 formalization 的理由同 vocab 舉的「儀禮喪服」。這是本書最出乎意料的姿態：一部人論書用了形式化。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材能",
+      "para_index": 5,
+      "para_id": "renwuzhi#08-p05",
+      "modes": [
+        "formalization"
+      ],
+      "excerpt": "立法之能，治家之材也，故在朝也，則司寇之任；為國，則公正之政。",
+      "note": "材→官→政的對照表，把「誰該任什麼職」化成可查表的程序。判 formalization 的理由同 vocab 舉的「儀禮喪服」。這是本書最出乎意料的姿態：一部人論書用了形式化。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材能",
+      "para_index": 6,
+      "para_id": "renwuzhi#08-p06",
+      "modes": [
+        "formalization"
+      ],
+      "excerpt": "計策之能，術家之材也，故在朝也，則三孤之任；為國，則變化之政。",
+      "note": "材→官→政的對照表，把「誰該任什麼職」化成可查表的程序。判 formalization 的理由同 vocab 舉的「儀禮喪服」。這是本書最出乎意料的姿態：一部人論書用了形式化。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材能",
+      "para_index": 7,
+      "para_id": "renwuzhi#08-p07",
+      "modes": [
+        "formalization"
+      ],
+      "excerpt": "人事之能，智意之材也，故在朝也，則冢宰之佐；為國，則諧合之政。",
+      "note": "材→官→政的對照表，把「誰該任什麼職」化成可查表的程序。判 formalization 的理由同 vocab 舉的「儀禮喪服」。這是本書最出乎意料的姿態：一部人論書用了形式化。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材能",
+      "para_index": 8,
+      "para_id": "renwuzhi#08-p08",
+      "modes": [
+        "formalization"
+      ],
+      "excerpt": "行事之能，譴讓之材也，故在朝也，則司寇之佐；為國，則督責之政。",
+      "note": "材→官→政的對照表，把「誰該任什麼職」化成可查表的程序。判 formalization 的理由同 vocab 舉的「儀禮喪服」。這是本書最出乎意料的姿態：一部人論書用了形式化。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材能",
+      "para_index": 9,
+      "para_id": "renwuzhi#08-p09",
+      "modes": [
+        "formalization"
+      ],
+      "excerpt": "權奇之能，伎倆之材也，故在朝也，則司空之任；為國，則藝事之政。",
+      "note": "材→官→政的對照表，把「誰該任什麼職」化成可查表的程序。判 formalization 的理由同 vocab 舉的「儀禮喪服」。這是本書最出乎意料的姿態：一部人論書用了形式化。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材能",
+      "para_index": 10,
+      "para_id": "renwuzhi#08-p10",
+      "modes": [
+        "formalization"
+      ],
+      "excerpt": "司察之能，臧否之材也，故在朝也，則師氏之佐；為國，則刻削之政。",
+      "note": "材→官→政的對照表，把「誰該任什麼職」化成可查表的程序。判 formalization 的理由同 vocab 舉的「儀禮喪服」。這是本書最出乎意料的姿態：一部人論書用了形式化。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材能",
+      "para_index": 11,
+      "para_id": "renwuzhi#08-p11",
+      "modes": [
+        "formalization"
+      ],
+      "excerpt": "威猛之能，豪傑之材也，故在朝也，則將帥之任；為國，則嚴厲之政。",
+      "note": "材→官→政的對照表，把「誰該任什麼職」化成可查表的程序。判 formalization 的理由同 vocab 舉的「儀禮喪服」。這是本書最出乎意料的姿態：一部人論書用了形式化。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材能",
+      "para_index": 12,
+      "para_id": "renwuzhi#08-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡偏材之人，皆一味之美；故長於辦一官，而短於為一國。何者？夫一官之任，以一味協五",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材能",
+      "para_index": 21,
+      "para_id": "renwuzhi#08-p21",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "故量能授官，不可不審也。",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材能",
+      "para_index": 22,
+      "para_id": "renwuzhi#08-p22",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡此之能，皆偏材之人也。故或能言而不能行，或能行而不能言；至於國體之人，能言能行",
+      "note": "臣以自任為能，君以用人為能。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "流業",
+      "para_index": 1,
+      "para_id": "renwuzhi#09-p01",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "蓋人流之業，十有二焉：有清節家，有法家，有術家，有國體，有器能，有臧否，有伎倆，",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "流業",
+      "para_index": 2,
+      "para_id": "renwuzhi#09-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "若夫德行高妙，容止可法，是謂清節之家，延陵、晏嬰是也。",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "流業",
+      "para_index": 3,
+      "para_id": "renwuzhi#09-p03",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "建法立制，彊國富人，是謂法家，管仲、商鞅是也。",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "流業",
+      "para_index": 4,
+      "para_id": "renwuzhi#09-p04",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "思通道化，策謀奇妙，是謂術家，范蠡、張良是也。",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "流業",
+      "para_index": 5,
+      "para_id": "renwuzhi#09-p05",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "兼有三材，三材皆備，其德足以厲風俗，其法足以正天下，其術足以謀廟勝，是謂國體，伊",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "流業",
+      "para_index": 6,
+      "para_id": "renwuzhi#09-p06",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "兼有三材，三材皆微，其德足以率一國，其法足以正鄉邑，其術足以權事宜，是謂器能，子",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "流業",
+      "para_index": 7,
+      "para_id": "renwuzhi#09-p07",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "兼有三材之別，各有一流。",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "流業",
+      "para_index": 8,
+      "para_id": "renwuzhi#09-p08",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "清節之流，不能弘恕，好尚譏訶，分別是非，是謂臧否，子夏之徒是也。",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "流業",
+      "para_index": 9,
+      "para_id": "renwuzhi#09-p09",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "法家之流，不能創思圖遠，而能受一官之任，錯意施巧，是謂伎倆，張敞、趙廣漢是也。",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "流業",
+      "para_index": 10,
+      "para_id": "renwuzhi#09-p10",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "術家之流，不能創制垂則，而能遭變用權，權智有餘，公正不足，是謂智意，陳平、韓安國",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "流業",
+      "para_index": 11,
+      "para_id": "renwuzhi#09-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡此八業，皆以三材為本。故雖波流分別，皆為輕事之材也。",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "流業",
+      "para_index": 12,
+      "para_id": "renwuzhi#09-p12",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "能屬文著述，是謂文章，司馬遷、班固是也。",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "流業",
+      "para_index": 13,
+      "para_id": "renwuzhi#09-p13",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "能傳聖人之業，而不能幹事施政，是謂儒學，毛公、貫公是也。",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "流業",
+      "para_index": 14,
+      "para_id": "renwuzhi#09-p14",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "辯不入道，而應對資給，是謂口辯，樂毅、曹丘生是也。",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "流業",
+      "para_index": 15,
+      "para_id": "renwuzhi#09-p15",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "膽力絕眾，才略過人，是謂驍雄，白起、韓信是也。",
+      "note": "",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "流業",
+      "para_index": 16,
+      "para_id": "renwuzhi#09-p16",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "凡此十二材，皆人臣之任也。",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "流業",
+      "para_index": 17,
+      "para_id": "renwuzhi#09-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "主德不預焉？主德者，聰明平淡，達眾材而不以事自任者也。",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "流業",
+      "para_index": 18,
+      "para_id": "renwuzhi#09-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是故，主道立，則十二材各得其任也：",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "流業",
+      "para_index": 19,
+      "para_id": "renwuzhi#09-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是謂主道得而臣道序，官不易方，而太平用成。若道不平淡，與一材同好，則一材處權，而",
+      "note": "「一材處權，而眾材失任」是本書對 V（公義與權力）最直接的一句。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "自序",
+      "para_index": 1,
+      "para_id": "renwuzhi#10-p01",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "夫聖賢之所美，莫美乎聰明；〈天以三光著其象，人以聰明邵其度。〉聰明之所貴，莫貴乎",
+      "note": "標 expression 因「是以敢依聖訓，志序人物」為第一人稱表態。考慮過 XII 但不標——「繼天成物」「天功既成」是政治語彙的天，與九章劉徽自序「以通神明之德」不同層。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "英雄",
+      "para_index": 1,
+      "para_id": "renwuzhi#11-p01",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "夫草之精秀者為英，獸之特群者為雄；故人之文武茂異，取名於此。是故，聰明秀出，謂之",
+      "note": "以草木禽獸起興，帶 Y-nature 支流；依 vocab，支流不得填入 psych_domains。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "英雄",
+      "para_index": 2,
+      "para_id": "renwuzhi#11-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "若校其分數，則牙則須，各以二分，取彼一分，然後乃成。何以論其然？夫聰明者，英之分",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "英雄",
+      "para_index": 3,
+      "para_id": "renwuzhi#11-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "若聰能謀始，而明不見機，乃可以坐論，而不可以處事。聰能謀始，明能見機，而勇不能行",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "英雄",
+      "para_index": 4,
+      "para_id": "renwuzhi#11-p04",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "體分不同，以多為目，故英雄異名。然皆偏至之材，人臣之任也。故英可以為相，雄可以為",
+      "note": "全書唯一以史事推論：項羽不用范增、陳平之徒亡歸高祖。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "英雄",
+      "para_index": 5,
+      "para_id": "renwuzhi#11-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "然則英雄多少，能自勝之數也。徒英而不雄，則雄材不服也；徒雄而不英，則智者不歸往也",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 3,
+      "para_id": "renwuzhi#13-p03",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "厲直剛毅，材在矯正，失在激訐。　　　柔順安恕，每在寬容，失在少決。",
+      "note": "十二偏材長短對照：性情＝II、失＝VII、材用業能＝VIII。",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 4,
+      "para_id": "renwuzhi#13-p04",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "雄悍傑健，任在膽烈，失在多忌。　　　精良畏慎，善在恭謹，失在多疑。",
+      "note": "十二偏材長短對照：性情＝II、失＝VII、材用業能＝VIII。",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 5,
+      "para_id": "renwuzhi#13-p05",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "彊楷堅勁，用在楨幹，失在專固。　　　論辨理繹，能在釋結，失在流宕。",
+      "note": "十二偏材長短對照：性情＝II、失＝VII、材用業能＝VIII。",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 6,
+      "para_id": "renwuzhi#13-p06",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "普博周給，弘在覆裕，失在溷濁。　　　清介廉潔，節在儉固，失在拘扃。",
+      "note": "十二偏材長短對照：性情＝II、失＝VII、材用業能＝VIII。",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 7,
+      "para_id": "renwuzhi#13-p07",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "休動磊落，業在攀躋，失在疏越。　　　沉靜機密，精在玄微，失在遲緩。",
+      "note": "十二偏材長短對照：性情＝II、失＝VII、材用業能＝VIII。",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 8,
+      "para_id": "renwuzhi#13-p08",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "樸露徑盡，質在中誠，失在不微。　　　多智韜情，權在譎略，失在依違。",
+      "note": "十二偏材長短對照：性情＝II、失＝VII、材用業能＝VIII。",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 10,
+      "para_id": "renwuzhi#13-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "彊毅之人，狠剛不和，不戒其彊之搪突，而以順為撓，厲其抗；是故，可以立法，難與入微",
+      "note": "「可與X，難與Y」句式。沒指到具體職位，故判 proposition 不判 formalization。",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 11,
+      "para_id": "renwuzhi#13-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "柔順之人，緩心寬斷，不戒其事之不攝，而以抗為劌，安其舒；是故，可與循常，難與權疑",
+      "note": "「可與X，難與Y」句式。沒指到具體職位，故判 proposition 不判 formalization。",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 12,
+      "para_id": "renwuzhi#13-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "雄悍之人，氣奮勇決，不戒其勇之毀跌，而以順為恇，竭其勢；是故，可與涉難，難與居約",
+      "note": "「可與X，難與Y」句式。沒指到具體職位，故判 proposition 不判 formalization。",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 13,
+      "para_id": "renwuzhi#13-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "懼慎之人，畏患多忌，不戒其懦於為義，而以勇為狎，增其疑；是故，可與保全，難與立節",
+      "note": "「可與X，難與Y」句式。沒指到具體職位，故判 proposition 不判 formalization。",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 14,
+      "para_id": "renwuzhi#13-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凌楷之人，秉意勁特，不戒其情之固護，而以辨為偽，彊其專；是故，可以持正，難與附眾",
+      "note": "「可與X，難與Y」句式。沒指到具體職位，故判 proposition 不判 formalization。",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 15,
+      "para_id": "renwuzhi#13-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "辨博之人，論理贍給，不戒其辭之汎濫，而以楷為繫，遂其流；是故，可與汎序，難與立約",
+      "note": "「可與X，難與Y」句式。沒指到具體職位，故判 proposition 不判 formalization。",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 16,
+      "para_id": "renwuzhi#13-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "弘普之人，意愛周洽，不戒其交之溷雜，而以介為狷，廣其濁；是故，可以撫眾，難與厲俗",
+      "note": "「可與X，難與Y」句式。沒指到具體職位，故判 proposition 不判 formalization。",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 17,
+      "para_id": "renwuzhi#13-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "狷介之人，砭清激濁，不戒其道之隘狹，而以普為穢，益其拘；是故，可與守節，難以變通",
+      "note": "「可與X，難與Y」句式。沒指到具體職位，故判 proposition 不判 formalization。",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 18,
+      "para_id": "renwuzhi#13-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "修動之人，志慕超越，不戒其意之大猥，而以靜為滯，果其銳；是故，可以進趨，難與持後",
+      "note": "「可與X，難與Y」句式。沒指到具體職位，故判 proposition 不判 formalization。",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 19,
+      "para_id": "renwuzhi#13-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "沉靜之人，道思迴復，不戒其靜之遲後，而以動為疏，美其懦；是故，可與深慮，難與捷速",
+      "note": "「可與X，難與Y」句式。沒指到具體職位，故判 proposition 不判 formalization。",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 20,
+      "para_id": "renwuzhi#13-p20",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "樸露之人，中疑實𥔿，不戒其實之野直，而以譎為誕，露其誠；是故，可與立信，難與消息",
+      "note": "「可與X，難與Y」句式。沒指到具體職位，故判 proposition 不判 formalization。",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "體別",
+      "para_index": 21,
+      "para_id": "renwuzhi#13-p21",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "韜譎之人，原度取容，不戒其術之離正，而以盡為愚，貴其虛；是故，可與讚善，難與矯違",
+      "note": "「可與X，難與Y」句式。沒指到具體職位，故判 proposition 不判 formalization。",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "shanghanlun",
+      "chapter": "林億校序",
+      "para_index": 4,
+      "para_id": "shanghanlun#01-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "張仲景《漢書》無傳。見《名醫錄》云：南陽人，名機，仲景乃其字也。舉孝廉，官至長沙",
+      "note": "敘述張仲景從師、任官、著述及後世校書者能否修明其學，核心涉及專業才能、成就與知識工作的承續",
+      "co_domains": []
+    },
+    {
+      "slug": "shanghanlun",
+      "chapter": "張仲景原序",
+      "para_index": 2,
+      "para_id": "shanghanlun#02-p02",
+      "modes": [
+        "expression",
+        "narrative"
+      ],
+      "excerpt": "余宗族素多，向餘二百。建安紀年以來，猶未十稔，其死亡者，三分有二，傷寒十居其七。",
+      "note": "自陳宗族二百人十年內死去三分之二，因傷橫夭之莫救而勤求古訓著書，是以親歷重大失去說明醫學志業的由來",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shanghanlun",
+      "chapter": "張仲景原序",
+      "para_index": 4,
+      "para_id": "shanghanlun#02-p04",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "觀今之醫，不念思求經旨，以演其所知；各承家技，終始順舊。省病問疾，務在口給；相對",
+      "note": "批評醫者不求經旨、草率問診即處方，既責其專業實踐，也指出其未盡對病家的照護責任",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shanghanlun",
+      "chapter": "伤寒例第三",
+      "para_index": 10,
+      "para_id": "shanghanlun#05-p10",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "傷寒之病，逐日淺深，以施方治。今世人傷寒，或始不早治，或治不對病，或日數久淹，困",
+      "note": "既責人拖延就醫而使病勢困重，也責醫者不循次第施治並提出臨證制方，兼談病中自處與行醫職責",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "shanghanlun",
+      "chapter": "伤寒例第三",
+      "para_index": 11,
+      "para_id": "shanghanlun#05-p11",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "又土地溫涼，高下不同，物性剛柔，飡居亦異。是黃帝興四方之問，岐伯舉四治之能，以訓",
+      "note": "由地域、物性與飲居差異要求臨病之工兼審環境與病人，是對醫者專業判斷的規範",
+      "co_domains": []
+    },
+    {
+      "slug": "shanghanlun",
+      "chapter": "伤寒例第三",
+      "para_index": 22,
+      "para_id": "shanghanlun#05-p22",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "凡作湯藥，不可避晨夜，覺病須臾，即宜便治，不等早晚，則易愈矣。若或差遲，病即傳變",
+      "note": "要求覺病即治、不避晨夜並依師法服藥，又規定醫者如何面對故意違囑者，兼談病人自護與行醫取捨",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "shanghanlun",
+      "chapter": "伤寒例第三",
+      "para_index": 24,
+      "para_id": "shanghanlun#05-p24",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫陽盛陰虛，汗之則死，下之則愈；陽虛陰盛，汗之則愈，下之則死。夫如是，則神丹安可",
+      "note": "由陰陽誤治論醫術淺狹者使病家殞歿的責任，並以冤魂死屍表達對死亡的痛惜；去掉 VIII、V 或 X 都會分別抹去職業、對病家、公然死亡三層明說內容",
+      "co_domains": [
+        "V",
+        "X"
+      ]
+    },
+    {
+      "slug": "shanghanlun",
+      "chapter": "伤寒例第三",
+      "para_index": 25,
+      "para_id": "shanghanlun#05-p25",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡兩感病俱作，治有先後，發表攻裏，本自不同，而執迷妄意者，乃云神丹、甘遂合而飲之",
+      "note": "以兩感病誤治要求行醫審慎，以智愚對舉評論品格，又斥世人逐榮忘身而勸明者護本；三個領域分別承載職業、德性與護身內容",
+      "co_domains": [
+        "VII",
+        "IX"
+      ]
+    },
+    {
+      "slug": "shanghanlun",
+      "chapter": "辨不可下病脈證並治第二十",
+      "para_index": 12,
+      "para_id": "shanghanlun#22-p12",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "脈濡而緊，濡則衛氣微，緊則榮中寒。陽微衛中風，發熱而惡寒；榮緊胃氣冷，微嘔心內煩",
+      "note": "連續敘寫醫者誤認大熱、發汗致虛、不知胃冷而汲水灌身，最後延誤補救，重點越出病候而涉及行醫判斷與職業能力。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 5,
+      "para_id": "shishuo-xinyu#02-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "步兵校尉缺，廚中有貯酒數百斛，阮籍乃求為步兵校尉。〈文士傳曰：「籍放誕有傲世情，",
+      "note": "阮籍因官署藏酒而求任校尉，附注又寫其不樂仕宦，直接呈現他如何看待職位與任職目的。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 36,
+      "para_id": "shishuo-xinyu#02-p36",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "劉尹云：「孫承公狂士，每至一處，賞翫累日，或回至半路卻返。」〈中興書曰：「承公少",
+      "note": "孫綽隨興遊賞甚至半路折返，任縣職又遺心細務，寫個人任性自由與職務投入之間的張力。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 38,
+      "para_id": "shishuo-xinyu#02-p38",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "桓車騎在荊州，張玄為侍中，使至江陵，路經陽岐村，〈村臨江，去荊州二百里。〉俄見一",
+      "note": "張玄因劉驎之名望追訪攀談，劉卻不留戀名士交接而起身伐荻，呈現外在聲名與本人勞作取向的差距。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 41,
+      "para_id": "shishuo-xinyu#02-p41",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "襄陽羅友有大韻，少時多謂之癡。嘗伺人祠，欲乞食，往太蚤，門未開。主人迎神出見，問",
+      "note": "羅友被視為癡誕而不顧貴賤與羞恥，實則記憶、才學及治郡皆優，整段反覆對照外在評價與真實任事能力。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 49,
+      "para_id": "shishuo-xinyu#02-p49",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王子猷出都，尚在渚下。舊聞桓子野善吹笛，〈續晉陽秋曰：「左將軍桓伊善音樂，孝武飲",
+      "note": "王子猷與已顯貴的桓子野素不相識，卻由笛藝相請相應且不交一言，寫跨越身分的交接與才能展現。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 53,
+      "para_id": "shishuo-xinyu#02-p53",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "王孝伯言：「名士不必須奇才。但使常得無事，痛飲酒，熟讀離騷，便可稱名士。」",
+      "note": "王孝伯主張無奇才亦可憑閒居、飲酒與讀離騷取得名士之稱，直接質疑名號與真實才能的關係。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "假譎",
+      "para_index": 13,
+      "para_id": "shishuo-xinyu#04-p13",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "范玄平為人，好用智數，而有時以多數失會。嘗失官居東陽，桓大司馬在南州，故往投之。",
+      "note": "范玄平實為投靠求起用，卻怕趨時損名而以亡兒墓為藉口，結果失去任用，揭示仕途欲望與名聲管理的衝突。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "儉嗇",
+      "para_index": 8,
+      "para_id": "shishuo-xinyu#06-p08",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "蘇峻之亂，庾太尉南奔見陶公。陶公雅相賞重。陶性儉吝，及食，噉薤，庾因留白。陶問：",
+      "note": "庾亮在飲食小事保留薤根以便再種，陶侃據此認出他不只有風流還有治理實才，寫評人的證據與實務能力。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 13,
+      "para_id": "shishuo-xinyu#07-p13",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "會稽虞𩦎，元皇時與桓宣武同俠，其人有才理勝望。〈虞光祿傳曰：「𩦎字思行，會稽餘姚",
+      "note": "王導分開公才與公望而許虞𩦎兼具，虞卻未及顯達便死，寫出名才關係與未遂成就",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 47,
+      "para_id": "shishuo-xinyu#07-p47",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王脩齡問王長史：「我家臨川，何如卿家宛陵？」長史未答，脩齡曰：「臨川譽貴。」長史",
+      "note": "臨川與宛陵的名望比較連到名父之子任小縣先受疑、後以仕績獲信服，呈現名實與職業成就",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "品藻",
+      "para_index": 79,
+      "para_id": "shishuo-xinyu#07-p79",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "袁彥伯為吏部郎，子敬與郗嘉賓書曰：「彥伯已入，殊足頓興往之氣。故知捶撻自難為人，",
+      "note": "王獻之因袁宏任吏部郎談入仕之氣受挫並盼其稍退後改善，焦點落在仕途處境與任職意願",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "尤悔",
+      "para_index": 4,
+      "para_id": "shishuo-xinyu#11-p04",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "劉琨善能招延，而拙於撫御。一日雖有數千人歸投，其逃散而去亦復如此。所以卒無所建。",
+      "note": "劉琨能招人卻不能撫御，部眾旋聚旋散而終無所成，說明領導失當如何妨礙功業。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "尤悔",
+      "para_index": 9,
+      "para_id": "shishuo-xinyu#11-p09",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "溫公初受劉司空使勸進，母崔氏固駐之，嶠絕裾而去。〈溫氏譜曰：「嶠父襜，娶清河崔參",
+      "note": "溫嶠違母強行赴命且後來又錯失母喪，仕途成就始終伴隨孝親責任的代價。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "尤悔",
+      "para_index": 10,
+      "para_id": "shishuo-xinyu#11-p10",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "庾公欲起周子南，子南執辭愈固。庾每詣周，庾從南門入，周從後門出。庾嘗一往奄至，周",
+      "note": "周子南反覆避仕仍被推引入官，身居高位卻悔恨失去原先選擇，寫隱仕取捨與自主。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "尤悔",
+      "para_index": 13,
+      "para_id": "shishuo-xinyu#11-p13",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "桓公臥語曰：「作此寂寂，將為文、景所笑！」既而屈起坐曰：「既不能流芳後世，亦不足",
+      "note": "桓溫不甘寂寂，寧以流芳或遺臭確立後世名聲，把自我名價繫於功業與歷史留名。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "巧蓺",
+      "para_index": 3,
+      "para_id": "shishuo-xinyu#12-p03",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "韋仲將能書。魏明帝起殿，欲安榜，使仲將登梯題之。既下，頭鬢皓然，因敕兒孫：「勿復",
+      "note": "書藝使韋誕被迫登高題榜，恐懼至鬢白而告誡子孫勿再學，寫才能帶來的職業代價。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "巧蓺",
+      "para_index": 6,
+      "para_id": "shishuo-xinyu#12-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "戴安道就范宣學，〈《中興書》曰：「逵不遠千里，往豫章詣范宣，宣見逵，異之，以兄女",
+      "note": "戴逵以作品扭轉范宣對繪畫無用的判斷，呈現被輕視的才能如何證成自身價值。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "德行",
+      "para_index": 4,
+      "para_id": "shishuo-xinyu#15-p04",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "李元禮風格秀整，髙自標持，欲以天下名教是非爲己任。〈薛瑩《後漢書》曰：「李膺字元",
+      "note": "李膺把天下名教是非視為己任且成為後進標竿，兼具道德自持與召喚感",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "德行",
+      "para_index": 22,
+      "para_id": "shishuo-xinyu#15-p22",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "劉道眞嘗爲徒，〈《晉百官名》曰：「劉寶字道眞，髙平人。」徒，罪役作者。〉扶風王駿",
+      "note": "扶風王把服罪勞役者贖出並任為屬官，呈現權力者給人重返群體與工作的機會",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "忿狷",
+      "para_index": 1,
+      "para_id": "shishuo-xinyu#16-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "魏武有一妓，聲最清高，而情性酷惡。欲殺則愛才，欲置則不堪。於是選百人一時俱教。少",
+      "note": "才藝使性情酷惡者暫被容留，待有同等歌聲可替代便遭殺，寫才與品性被權衡",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 7,
+      "para_id": "shishuo-xinyu#19-p07",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "頭責秦子羽云：〈子羽未詳。〉「子曾不如太原溫顒、潁川荀㝢、〈溫顒已見。荀氏譜曰：",
+      "note": "擬人之頭列舉入仕、遊說、恬淡與隱遁等成身路徑，責子羽把天性與畏禍當作無所成就的藉口",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 22,
+      "para_id": "shishuo-xinyu#19-p22",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "何次道往瓦官寺禮拜甚勤。〈充崇釋氏，甚加敬也。〉阮思曠語之曰：「卿志大宇宙，〈尹",
+      "note": "阮裕把何充勤於禮佛戲稱為圖作佛，明確將宗教實踐與世俗求官並置為兩種追求",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 23,
+      "para_id": "shishuo-xinyu#19-p23",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "庾征西大舉征胡，既成行，止鎮襄陽。〈晉陽秋曰：「翼率眾入沔，將謀伐狄。既至襄陽，",
+      "note": "北伐受阻後，庾翼以仍要修好折角如意來回應譏刺，表明功業挫敗後仍欲整治再用",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 24,
+      "para_id": "shishuo-xinyu#19-p24",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓大司馬乘雪欲獵，先過王、劉諸人許。真長見其裝束單急，問：「老賊欲持此何作？」桓",
+      "note": "桓溫主張自己的軍事行動才使清談者得以安坐，將個人功業與群體秩序的維持連成因果",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 25,
+      "para_id": "shishuo-xinyu#19-p25",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "褚季野問孫盛：「卿國史何當成？」孫云：「久應竟，在公無暇，故至今日。」褚曰：「古",
+      "note": "孫盛以公務繁忙解釋國史未成，褚裒則用司馬遷反諷，核心是工作受阻與完成著述的責任",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 26,
+      "para_id": "shishuo-xinyu#19-p26",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "謝公在東山，朝命屢降而不動。後出為桓宣武司馬，將發新亭，朝士咸出瞻送。高靈時為中",
+      "note": "謝安從屢拒朝命到出任司馬，眾人以蒼生彼此相問，處理的是個人出仕與公共責任",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 27,
+      "para_id": "shishuo-xinyu#19-p27",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "初，謝安在東山居，布衣，時兄弟已有富貴者，翕集家門，傾動人物。劉夫人戲謂安曰：「",
+      "note": "面對家人以富貴相激，隱居中的謝安自言恐怕終究不能免於出仕，說出召喚與自主選擇的拉扯",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 28,
+      "para_id": "shishuo-xinyu#19-p28",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "支道林因人就深公買印山，深公答曰：「未聞巢、由買山而隱。」〈逸士傳曰：「巢父者，",
+      "note": "深公以古代隱士不買山反問支道林，質疑靠置產取得隱居身分是否算真正選擇退隱",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 32,
+      "para_id": "shishuo-xinyu#19-p32",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "謝公始有東山之志，後嚴命屢臻，勢不獲已，始就桓公司馬。于時人有餉桓公藥草，中有「",
+      "note": "郝隆把謝安由隱居到任司馬說成遠志變小草，揭出原有志向與現任身分、職位之間的落差",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 35,
+      "para_id": "shishuo-xinyu#19-p35",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "郝隆為桓公南蠻參軍，三月三日會，作詩。不能者，罰酒三升。隆初以不能受罰，既飲，攬",
+      "note": "郝隆以蠻語作詩並自陳遠來投效卻只得南蠻參軍，借笑語說出對所任職位的處境感受",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 53,
+      "para_id": "shishuo-xinyu#19-p53",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "范榮期見郗超俗情不淡，戲之曰：「夷、齊、巢、許，一詣垂名。何必勞神苦形，支策據梧",
+      "note": "范啟針對郗超俗念未淡，以古代隱者垂名反問何必勞形，諷刺他在入世求名與退隱之間的選擇",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "政事",
+      "para_index": 5,
+      "para_id": "shishuo-xinyu#20-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "山公以器重朝望，年踰七十，猶知管時任。〈虞預《晉書》曰：「山濤字巨源，河内懷人。",
+      "note": "山濤年逾七十仍掌選任並承受權貴子弟的嘲弄，呈現用人職責及權勢壓力下的勞作",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "政事",
+      "para_index": 7,
+      "para_id": "shishuo-xinyu#20-p07",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "山司徒前後選，殆周遍百官，舉無失才。凡所題目，皆如其言。唯用陸亮，是詔所用，與公",
+      "note": "山濤準確判斷陸亮不適任選官而力爭未果，後來受賄敗露印證人職是否相稱關乎用人",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "政事",
+      "para_index": 8,
+      "para_id": "shishuo-xinyu#20-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "嵇康被誅後，山公舉康子紹爲祕書丞。〈《山公啓事》曰：「詔選祕書丞。濤薦曰：『紹平",
+      "note": "嵇紹在父親被誅後詢問是否出仕，山濤以四時消長說明人的處境會變而可重新選擇職途",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "政事",
+      "para_index": 16,
+      "para_id": "shishuo-xinyu#20-p16",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "陶公性檢厲，勤於事。〈《晉陽秋》曰：「侃練核庶事，勤務稼穡，雖戎陳武士，皆勸厲之",
+      "note": "陶侃以勤儉、自律與預見保存零料供後用，並明言人應惜時任事而不可遊逸自棄",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "政事",
+      "para_index": 18,
+      "para_id": "shishuo-xinyu#20-p18",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "王劉與深公共看何驃騎，驃騎看文書不顧之。〈《晉陽秋》曰：「何充與王濛、劉惔好尚不",
+      "note": "何充以眾人的存立有賴自己處理文書回應朋友催談，凸顯公職勞務對群體的責任",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "政事",
+      "para_index": 20,
+      "para_id": "shishuo-xinyu#20-p20",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "簡文爲相，事動經年，然後得過。桓公甚患其遲，常加勸免。太宗曰：「一日萬機，那得速",
+      "note": "簡文以一日萬機說明政務繁多難以速決，處理領導決策速度與職務負荷的衝突",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 70,
+      "para_id": "shishuo-xinyu#21-p70",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "樂令善於淸言，而不長於手筆。將讓河南尹，請潘岳爲表。〈《晉陽秋》曰：「岳字安仁，",
+      "note": "樂廣提供辭職本意、潘岳整合作文，明說兩種才能合作才完成佳作",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 91,
+      "para_id": "shishuo-xinyu#21-p91",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "謝萬作《八賢論》，與孫興公往反，小有利鈍。〈《中興書》曰：「萬善屬文，能談論。」",
+      "note": "謝萬與孫綽爭論隱與仕何者為優及通達者能否出處同歸，處理職志選擇與自由",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 37,
+      "para_id": "shishuo-xinyu#22-p37",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "蘇子髙事平，〈《靈鬼志謠徴》曰：「明帝初，有謠曰：『髙山崩，石自破。』髙山，峻也",
+      "note": "孔坦不滿朝廷平日疏遠、危難後卻把艱鉅職務先推給他，拒絕不公平的用人安排",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 46,
+      "para_id": "shishuo-xinyu#22-p46",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "王中郎年少時，〈坦之，已見。〉江虨爲僕射領選，欲擬之爲尚書郎。有語王者。王曰：「",
+      "note": "王坦之認為尚書郎的品位配不上自己，使擬任作罷，呈現自我定位與職位選擇",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 49,
+      "para_id": "shishuo-xinyu#22-p49",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "王長史求東陽，撫軍不用。〈簡文〉後疾篤，臨終，撫軍哀嘆曰：「吾將負仲祖於此，命用",
+      "note": "簡文直到臨終才悔恨未任用王濛，王濛直斥其遲來決定，寫領導者延誤用人的後果",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 50,
+      "para_id": "shishuo-xinyu#22-p50",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "劉簡作桓宣武別駕，後爲東曹參軍，〈《劉氏譜》曰：「簡字仲約，南陽人。祖喬，豫州刺",
+      "note": "劉簡因剛直被疏，在會議中明說意見不會被採用所以不發言，呈現上下權力與工作建言",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "方正",
+      "para_index": 60,
+      "para_id": "shishuo-xinyu#22-p60",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "謝公聞羊綏佳，致意令來，終不肯詣。〈《羊氏譜》曰：「綏字仲彦，太山人。父楷，尚書",
+      "note": "謝安聞羊綏有才而延請未果，實際接觸後立即任為主簿，呈現識才與用人",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "棲逸",
+      "para_index": 2,
+      "para_id": "shishuo-xinyu#23-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "嵇康遊於汲郡山中，遇道士孫登，遂與之遊。康臨去，登曰：「君才則高矣，保身之道不足",
+      "note": "孫登指出才高而不識世情會危及保身，嵇康未納其戒而後悔，處理才能如何運用及人能否改變結局",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "棲逸",
+      "para_index": 3,
+      "para_id": "shishuo-xinyu#23-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "山公將去選曹，欲舉嵇康；康與書告絕。〈《康別傳》曰：「山巨源為吏部郎，遷散騎常侍",
+      "note": "嵇康以絕交書拒絕山濤薦官，藉公開決裂守住不仕的職業選擇與自主",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "棲逸",
+      "para_index": 4,
+      "para_id": "shishuo-xinyu#23-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "李廞是茂曾第五子，清貞有遠操，而少羸病，不肯婚宦。居在臨海，住兄侍中墓下。既有高",
+      "note": "李廞不以疾病與徵辟改志，並譏爵位不足以動人，主軸是拒絕仕途與保有選擇自主",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "棲逸",
+      "para_index": 5,
+      "para_id": "shishuo-xinyu#23-p05",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "何驃騎弟以高情避世，而驃騎勸之令仕。答曰：「予第五之名，何必減驃騎？」〈《中興書",
+      "note": "何準以自己的處士名望對照兄長的驃騎官位，親自表明成就不必由仕宦身分衡量",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "棲逸",
+      "para_index": 7,
+      "para_id": "shishuo-xinyu#23-p07",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔車騎少有嘉遁意，年四十餘，始應安東命。未仕宦時，常獨寢，歌吹自箴誨，自稱孔郎，",
+      "note": "孔愉由早年的嘉遁、自箴與山遊，到四十餘歲始應命出仕，呈現隱仕選擇的改變",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "棲逸",
+      "para_index": 12,
+      "para_id": "shishuo-xinyu#23-p12",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "戴安道既厲操東山，〈《續晉陽秋》曰：「逵不樂當世，以琴書自娛，隱會稽剡山，國子博",
+      "note": "戴氏兄弟分以建功與山居為志，戴逵用憂與樂說明彼此不同的志業選擇",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "棲逸",
+      "para_index": 14,
+      "para_id": "shishuo-xinyu#23-p14",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "范宣未嘗入公門。韓康伯與同載，遂誘俱入郡。范便於車後趨下。〈《續晉陽秋》曰：「宣",
+      "note": "范宣受誘進郡門便下車逃離，以行動守住不入公門、不就仕途的選擇",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "汰侈",
+      "para_index": 10,
+      "para_id": "shishuo-xinyu#24-p10",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "石崇每與王敦入學戲，見顏、原象〈《家語》曰：「顏回字子淵，魯人。少孔子二十九歲，",
+      "note": "石崇把自己比於孔門人物，並主張士人應身名俱泰而拒以貧士相比，處理自我定位與成就標準",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "簡傲",
+      "para_index": 11,
+      "para_id": "shishuo-xinyu#25-p11",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王子猷作桓車騎騎兵參軍，桓問曰：「卿何署？」答曰：「不知何署，時見牽馬來，似是馬",
+      "note": "王徽之連所屬部門、馬匹數量與死亡都不知，只以經語戲答，寫對職務與公共責任的疏離",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "簡傲",
+      "para_index": 13,
+      "para_id": "shishuo-xinyu#25-p13",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王子猷作桓車騎參軍。桓謂王曰：「卿在府久，比當相料理。」初不答，直高視，以手版拄",
+      "note": "王徽之受命料理府務卻不答，只凝望西山爽氣，呈現對職責的拒斥與自主轉向",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "紕漏",
+      "para_index": 8,
+      "para_id": "shishuo-xinyu#26-p08",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王大喪後，朝論或云「國寶應作荊州」。〈《晉安帝紀》曰：「王忱死，會稽王欲以國寶代",
+      "note": "國寶因誤聞獲任荊州便大喜籌畫，寫仕進欲望使人未核實任命即信以為真。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 8,
+      "para_id": "shishuo-xinyu#30-p08",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "禰衡被魏武謫爲鼓吏，正月半試鼓。衡揚枹爲漁陽摻撾，淵淵有金石聲，四坐爲之改容。〈",
+      "note": "曹操以鼓吏身分羞辱禰衡，禰衡以才藝反制，孔融又促使掌權者承認並釋放被壓抑的人才。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 9,
+      "para_id": "shishuo-xinyu#30-p09",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "南郡龐士元聞司馬德操在潁川，故二千里候之。至，遇德操采桑，士元從車中謂曰：「吾聞",
+      "note": "司馬徽反駁處世必須顯仕富貴，主張隱耕與貧居也可成其為人，處理仕隱道路及職業價值的自主選擇。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 18,
+      "para_id": "shishuo-xinyu#30-p18",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "嵇中散既被誅，向子期舉郡計入洛，文王引進，問曰：「聞君有箕山之志，何以在此？」對",
+      "note": "嵇康死後向秀由隱逸轉而入仕，並公開重釋自己不再慕隱的理由，處理危局下改變志向與職業道路。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 35,
+      "para_id": "shishuo-xinyu#30-p35",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "劉琨雖隔閡寇戎，志存本朝，〈王隱《晉書》曰：「琨字越石，中山魏昌人。祖邁，有經國",
+      "note": "劉琨與溫嶠以復興晉室為共同使命，分派河北立功與江南建譽的工作，處理公共領導及個人召喚。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 38,
+      "para_id": "shishuo-xinyu#30-p38",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "郗太尉拜司空，語同坐曰：「平生意不在多，値世故紛紜，遂至臺鼎。朱博翰音，實愧於懷",
+      "note": "郗鑒自稱平生無意高位，因亂世登上台鼎反覺名過其實，直接反省官位成就與真實自我是否相稱。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 42,
+      "para_id": "shishuo-xinyu#30-p42",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "摯瞻曾作四郡太守、大將軍戸曹參軍，復出作内史，〈《摯氏世本》曰：「瞻字景游，京兆",
+      "note": "王敦以年齡評摯瞻任二千石太早，摯瞻用更早顯達者反校標準，涉及職業成就的時機與自我衡量。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 53,
+      "para_id": "shishuo-xinyu#30-p53",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "庾穉恭爲荊州，〈《庾翼別傳》曰：「翼字穉恭，潁川鄢陵人也。少有大度、時論以經略許",
+      "note": "劉劭用譬喻替庾翼的舊扇證成品質，庾翼遂判定此才適合在君主左右，涉及識才用人與職位適配。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 70,
+      "para_id": "shishuo-xinyu#30-p70",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "王右軍與謝太傅共登冶城。〈《揚州記》曰：「冶城，呉時鼓鑄之所。呉平，猶不廢。王茂",
+      "note": "王羲之要求亂世中的士人以實際工作盡公共責任，並與謝安爭論清談是否誤國，涉及治理責任及行動與空談的取捨。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 80,
+      "para_id": "shishuo-xinyu#30-p80",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "李弘度常嘆不被遇。〈《中興書》曰：「李充字弘度，江夏郢人也。祖康、父矩，皆有美名",
+      "note": "李充長久不遇且家貧，只得屈志接受小縣職務，自比窮猿無暇擇木，呈現生計壓力下受限的職業選擇。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 84,
+      "para_id": "shishuo-xinyu#30-p84",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孫綽賦《遂初》，築室畎川，自言見止足之分。〈《中興書》曰：「綽字興公，太原中都人",
+      "note": "孫綽退居並自言知足，又以合抱之木未必有用反駁棟梁標準，處理自主生活道路及成就是否只以功用衡量。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "識鑒",
+      "para_index": 10,
+      "para_id": "shishuo-xinyu#31-p10",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "張季鷹辟齊王東曹掾，在洛見秋風起，因思呉中菰菜羹、鱸魚膾，曰：「人生貴得適意爾，",
+      "note": "張季鷹以人生應得適意為由，主動放棄羈旅求取名爵的仕途，呈現職業取捨與自主改變處境",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "識鑒",
+      "para_index": 13,
+      "para_id": "shishuo-xinyu#31-p13",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王大將軍始下，楊朗苦諫不從，遂爲王致力，乘「中鳴雲露車」逕前曰：「聽下官鼓音，一",
+      "note": "楊朗任官時選用數十名尚無聲名的人而後皆受知遇，主軸是識才用人及使人才獲得發展",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "識鑒",
+      "para_index": 17,
+      "para_id": "shishuo-xinyu#31-p17",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "戴安道年十餘歳，在瓦官寺畫。王長史見之曰：「此童非徒能畫，〈《續晉陽秋》曰：「逵",
+      "note": "王長史由少年戴逵作畫看出其才能並預見日後成名，兼涉潛能的識別與才能成就",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "識鑒",
+      "para_index": 18,
+      "para_id": "shishuo-xinyu#31-p18",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王仲祖、謝仁祖、劉眞長倶至丹陽墓所省殷揚州，殊有確然之志。〈《中興書》曰：「浩棲",
+      "note": "眾人憂慮殷浩堅不出仕將使百姓無所寄望，核心是個人退隱選擇與承擔公共職責之間的張力",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "識鑒",
+      "para_index": 21,
+      "para_id": "shishuo-xinyu#31-p21",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "謝公在東山畜妓，簡文曰：「安石必出。既與人同樂，亦不得不與人同憂。」〈宋明帝《文",
+      "note": "簡文認為既與眾人共享歡樂便不能拒絕同憂，據此判斷謝安終會由退隱轉而承擔公共職分",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "識鑒",
+      "para_index": 27,
+      "para_id": "shishuo-xinyu#31-p27",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "車胤父作南平郡功曹，太守王胡之避司馬無忌之難，置郡於酆陰。是時胤十餘歳，胡之毎出",
+      "note": "王胡之早識車胤將成家門與高名，父親供其求學而他勤學成材，呈現潛能被辨識並逐步實現",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "豪爽",
+      "para_index": 1,
+      "para_id": "shishuo-xinyu#33-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王大將軍年少時，舊有田舍名，語音亦楚。武帝喚時賢，共言伎藝之事，人人皆多有所知；",
+      "note": "王敦原有鄉野之名且不諳眾藝，卻以出眾鼓藝當場發揮，使實際才能改寫滿座對他的評價",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "豪爽",
+      "para_index": 4,
+      "para_id": "shishuo-xinyu#33-p04",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "王處仲每酒後，輒詠「老驥伏櫪，志在千里；烈士暮年，壯心不已」，〈魏武帝《樂府詩》",
+      "note": "王敦反覆借老驥與烈士之歌抒發暮年仍不止息的壯志，將衰老與成就抱負直接相連",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "豪爽",
+      "para_index": 7,
+      "para_id": "shishuo-xinyu#33-p07",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "庾稚恭既常有中原之志，文康時權重，未在己。及季堅作相，忌兵畏禍，與稚恭歷同異者久",
+      "note": "庾翼以復中原報國為志，在爭議與風險中動員大軍並親自激勵士氣，兼寫公共領導與自許的事業召喚",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "豪爽",
+      "para_index": 10,
+      "para_id": "shishuo-xinyu#33-p10",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "桓石虔，司空豁之長庶也；〈《豁別傳》曰：「豁字朗子，溫之弟。累遷荊州刺史，贈司空",
+      "note": "桓石虔未被舉用已先有勇名，陷陣救叔的實績再使三軍嘆服，寫名聲如何由真實武勇與才幹坐實",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 6,
+      "para_id": "shishuo-xinyu#34-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王濬沖、裴叔則二人，總角詣鍾士季。須臾去後，客問鍾曰：「向二童何如？」鍾曰：「裴",
+      "note": "鍾會預見二童將任吏部並盼天下無滯才，兼及用人制度與才業發揮。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 15,
+      "para_id": "shishuo-xinyu#34-p15",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "庾子嵩目和嶠：「森森如千丈松，雖磊砢有節目，施之大廈，有棟梁之用。」〈晉諸公贊曰",
+      "note": "以大廈棟梁明說和嶠的才具可被施用，重點在才能的用途。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 28,
+      "para_id": "shishuo-xinyu#34-p28",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "太傅府有三才：劉慶孫長才，〈晉陽秋曰：「太傅將召劉輿，或曰：『輿猶膩也，近將汙人",
+      "note": "把府中三人分為長才、大才、清才，呈現不同工作才具及其發揮。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 43,
+      "para_id": "shishuo-xinyu#34-p43",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "劉琨稱祖車騎為朗詣，曰：「少為王敦所嘆。」〈虞預晉書曰：「逖字士稚，范陽遒人。豁",
+      "note": "祖逖把收復中原視為己任並實際北伐，兼具公共責任與人生志業。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 63,
+      "para_id": "shishuo-xinyu#34-p63",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "世目楊朗：「沈審經斷。」蔡司徒云：「若使中朝不亂，楊氏作公方未已。」謝公云：「朗",
+      "note": "以中朝不亂為條件推想楊氏本可屢至公位，焦點是受時局阻斷的仕業潛能。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 67,
+      "para_id": "shishuo-xinyu#34-p67",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "何次道嘗送東人，瞻望見賈寧在後輪中，曰：「此人不死，終為諸侯上客。」〈晉陽秋曰：",
+      "note": "何充由一瞥預見賈寧將成諸侯上客，焦點是其未來仕途與社會成就。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 69,
+      "para_id": "shishuo-xinyu#34-p69",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "世稱「庾文康為豐年玉，稺恭為荒年穀」。庾家論云是文康稱「恭為荒年穀，庾長仁為豐年",
+      "note": "豐年玉、荒年穀區分人才在不同情境的用途，主題是才能適配。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 77,
+      "para_id": "shishuo-xinyu#34-p77",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王右軍語劉尹：「故當共推安石。」劉尹曰：「若安石東山志立，當與天下共推之。」〈續",
+      "note": "劉惔把天下共推謝安繫於其出山立志，兼及公共承擔與仕途召喚。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 101,
+      "para_id": "shishuo-xinyu#34-p101",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "謝太傅為桓公司馬，〈續晉陽秋曰：「初，安優游山水，以敷文析理自娛。桓溫在西蕃，欽",
+      "note": "謝安因世道未平而由山林起家志在匡濟，將仕業選擇連於公共責任。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 117,
+      "para_id": "shishuo-xinyu#34-p117",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "桓公語嘉賓：「阿源有德有言，向使作令僕，足以儀刑百揆。朝廷用違其才耳。」〈嘉賓，",
+      "note": "桓溫直言朝廷用殷浩違其才，處理職位配置與才能發揮的失配。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賢媛",
+      "para_index": 19,
+      "para_id": "shishuo-xinyu#35-p19",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "陶公少有大志，家酷貧，與母湛氏同居。同郡范逵素知名，舉孝廉，〈逵未詳。〉投侃宿。",
+      "note": "陶母在極貧中割髮拆物款待名士，藉母親的犧牲與人脈支持兒子踏入仕途",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賢媛",
+      "para_index": 28,
+      "para_id": "shishuo-xinyu#35-p28",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "王江州夫人語謝遏曰：「汝何以都不復進，〈夫人，玄之妹。〉為是塵務經心，天分有限。",
+      "note": "王夫人追問謝遏停滯不進究竟因俗務分心或天分有限，聚焦才能發揮與進展",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "雅量",
+      "para_index": 14,
+      "para_id": "shishuo-xinyu#37-p14",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "王丞相主簿欲檢校帳下，公語主簿，欲與主簿周旋，無爲知人几案間事。",
+      "note": "王導勸主簿不必查察几案細務，表明領導者如何界定同僚關係與職務重心。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "雅量",
+      "para_index": 33,
+      "para_id": "shishuo-xinyu#37-p33",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "謝安南免吏部尚書還東，〈《晉百官名》曰：「謝奉字弘道，會稽山陰人。」《謝氏譜》曰",
+      "note": "謝奉失官已成定局，面對三日慰問始終轉談他事，以不反芻仕途挫折安頓自己。",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "雅量",
+      "para_index": 37,
+      "para_id": "shishuo-xinyu#37-p37",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "苻堅遊魂近境，〈堅，別見。〉謝太傅謂子敬曰：「可將當軸，了其此處。」",
+      "note": "外敵逼近時謝安要王獻之居當軸之位了結局勢，直接處理危機中應由誰承擔政務並發揮才能。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "雅量",
+      "para_index": 39,
+      "para_id": "shishuo-xinyu#37-p39",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王東亭爲桓宣武主簿，既承藉，有美譽，公甚欲其人地爲一府之望。初，見謝失儀，而神色",
+      "note": "桓溫以失儀與奔馬兩次考驗王珣，從其臨場不亂判定能成公輔，連結鎮定、才能與領導任用。",
+      "co_domains": [
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "黜免",
+      "para_index": 9,
+      "para_id": "shishuo-xinyu#38-p09",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "殷仲文既素有名望，自謂必當阿衡朝政。忽作東陽太守，意甚不平。〈《晉安帝紀》曰：「",
+      "note": "殷仲文因名望而自認當居宰衡，外放後借孫策自況並終至謀反，寫自我定位與仕途野心受挫",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "sunzi-bingfa",
+      "chapter": "作戰第二",
+      "para_index": 1,
+      "para_id": "sunzi-bingfa#02-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "孫子曰：凡用兵之法，馳車千駟，革車千乘，帶甲十萬，千里饋糧，則內外之費，賓客之用",
+      "note": "「不盡知用兵之害者，則不能盡知用兵之利」：只算收益不算代價等於沒算",
+      "co_domains": []
+    },
+    {
+      "slug": "sunzi-bingfa",
+      "chapter": "作戰第二",
+      "para_index": 5,
+      "para_id": "sunzi-bingfa#02-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "故殺敵者，怒也；取敵之利者，貨也。故車戰，得車十乘以上，賞其先得者，而更其旌旗。",
+      "note": "「殺敵者，怒也；取敵之利者，貨也」：憤怒與財貨並列為兩種動機來源",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "sunzi-bingfa",
+      "chapter": "軍形第四",
+      "para_index": 3,
+      "para_id": "sunzi-bingfa#04-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "見勝不過衆人之所知，非善之善者也；戰勝而天下曰善，非善之善者也。故舉秋毫不為多力",
+      "note": "「戰勝而天下曰善，非善之善者也」：可見的成就與眾人的稱許被貶為次級標準",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "sunzi-bingfa",
+      "chapter": "軍形第四",
+      "para_index": 4,
+      "para_id": "sunzi-bingfa#04-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古之所謂善戰者，勝於易勝者也。故善戰者之勝也，無智名，無勇功。故其戰勝不忒。不忒",
+      "note": "「無智名，無勇功」：最好的工作不產生可見的功績；勝兵先勝而後求戰",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "sunzi-bingfa",
+      "chapter": "地形第十",
+      "para_index": 3,
+      "para_id": "sunzi-bingfa#10-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫地形者，兵之助也。料敵制勝，計險厄遠近，上將之道也。知此而用戰者必勝，不知此而",
+      "note": "「進不求名，退不避罪，唯民是保」：以結果而非個人聲譽或自保為行動準繩，含違抗君命的條件",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "sunzi-bingfa",
+      "chapter": "用間第十三",
+      "para_index": 5,
+      "para_id": "sunzi-bingfa#13-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "昔殷之興也，伊摯在夏；周之興也，呂牙在殷。故明君賢將，能以上智為間者，必成大功。",
+      "note": "以伊摯、呂牙為例主張「能以上智為間者，必成大功」：把最高才智配置於情報",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "教子第二",
+      "para_index": 7,
+      "para_id": "yanshi-jiaxun#02-p07",
+      "modes": [
+        "prescription",
+        "narrative"
+      ],
+      "excerpt": "齊朝有一士大夫，嘗謂吾曰：「我有一兒，年已十七，頗曉書疏，教其鮮卑語及彈琵琶，稍",
+      "note": "記士大夫教兒以鮮卑語、琵琶取悅公卿求進身，作者明言即使可藉此位至卿相也不願子孫為之，兼論教養、進身之業與人格取捨",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "治家第五",
+      "para_index": 4,
+      "para_id": "yanshi-jiaxun#05-p04",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "生民之本，要當稼穡而食，桑麻以衣。蔬果之畜，園場之所產；雞豚之善，塒圈之所生。爰",
+      "note": "論農桑種殖與守業足以供給衣食居用，處理一家如何靠生產自給，並以北土躬儉、江南奢侈作地域群體風俗比較",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "慕賢第七",
+      "para_index": 4,
+      "para_id": "yanshi-jiaxun#07-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "梁孝元前在荆州，有丁覘者，洪亭民耳，頗善屬文，殊工草隸；孝元書記，一皆使之。軍府",
+      "note": "敘出身平民的丁覘雖精於文章書法，卻因軍府輕賤、名聲不彰而長期不被承認，經蕭子雲稱賞才改觀，呈現階序偏見使才能與成就無法被看見",
+      "co_domains": [
+        "III",
+        "V"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "慕賢第七",
+      "para_index": 5,
+      "para_id": "yanshi-jiaxun#07-p05",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "侯景初入建業，臺門雖閉，公私草擾，各不自全。太子左衛率羊侃坐東掖門，部分經略，一",
+      "note": "敘侯景圍城時羊侃一夜部署完備、使四萬人得以守城百餘日，再以高士讓天下與小人爭小利對照，凸顯個人才幹對群體安危與領導成效的巨大差異",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "慕賢第七",
+      "para_index": 6,
+      "para_id": "yanshi-jiaxun#07-p06",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "齊文宣帝即位數年，便沈湎縱恣，略無綱紀；尙能委政尙書令楊遵彥，內外清謐，朝野晏如",
+      "note": "敘齊文宣委政楊遵彥而天下清謐、楊與斛律明月被殺後政軍衰敗，論證賢能臣將是否獲用直接牽動國家治理與存亡",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "慕賢第七",
+      "para_index": 7,
+      "para_id": "yanshi-jiaxun#07-p07",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "張延雋之爲晉州行臺左丞，匡維主將，鎮撫疆埸，儲積器用，愛活黎民，隱若敵國矣。群小",
+      "note": "敘張延雋鎮邊、備物並愛護百姓，卻遭群小合力調離，繼任後公私擾亂、城鎮先陷，呈現權力排擠能吏如何損害公共治理並開啟亡國之勢",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "勉学第八",
+      "para_index": 1,
+      "para_id": "yanshi-jiaxun#08-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "自古明王圣帝，犹须勤学，况凡庶乎！此事遍于经史，吾亦不能郑重，聊举近世切要，以启",
+      "note": "主張人生應有可立身的職業與本領，批評士大夫子弟倚仗家世、終日無事而不肯修習，勸其以數年勤學免去一生無能受辱",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "勉学第八",
+      "para_index": 2,
+      "para_id": "yanshi-jiaxun#08-p02",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "梁朝全盛之时，贵游子弟，多无学术，至于谚云：“上车不落则著作，体中何如则秘书。”",
+      "note": "觀察貴遊子弟在承平時靠門第冒充才士，離亂後失去黨援便暴露名實不副；並以有學藝者隨處可安、無學者只能耕牧，論本領與謀生",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "勉学第八",
+      "para_index": 3,
+      "para_id": "yanshi-jiaxun#08-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫明六经之指，涉百家之书，纵不能增益德行，敦厉风俗，犹为一艺，得以自资。父兄不可",
+      "note": "指出父兄與鄉國都可能失去，人在流離無庇蔭時須靠自身所學立足，主張讀書是可隨身自資、抵禦失所的技藝",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "勉学第八",
+      "para_index": 4,
+      "para_id": "yanshi-jiaxun#08-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "有客难主人曰：“吾见强弩长戟，诛罪安民，以取公侯者有矣；文义习吏，匡时富国，以取",
+      "note": "藉賓主問答回應有才學者仍可能貧賤的質疑，區分命運的窮達與後天學藝的琢磨，主張不能以祿位成敗否定學習對才能的成全",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "勉学第八",
+      "para_index": 5,
+      "para_id": "yanshi-jiaxun#08-p05",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "人见邻里亲戚有佳快者，使子弟慕而学之，不知使学古人，何其蔽也哉？世人但见跨马被甲",
+      "note": "批評世人只憑武器、理財、辦公或守律便自許能任將相、治民與平獄，指出公共職責及各行各業都有更深的專業本領與先達可師",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "勉学第八",
+      "para_index": 6,
+      "para_id": "yanshi-jiaxun#08-p06",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫所以读书学问，本欲开心明目，利于行耳。未知养亲者，欲其观古人之先意承颜，怡声下",
+      "note": "主張讀書須落實為養親、事君及謙儉好義等德行，並能治民、斷訟與處理實務，故同時涉及家庭責任、公共責任、品格養成與實際才用",
+      "co_domains": [
+        "IV",
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "勉学第八",
+      "para_index": 8,
+      "para_id": "yanshi-jiaxun#08-p08",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "古之学者为己，以补不足也；今之学者为人，但能说之也。古之学者为人，行道以利世也；",
+      "note": "對比古今學者求補己過、利世行道與只求口說、仕進的不同動機，以花實之喻主張學問的成果應是修身、利行而非表面文章",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "勉学第八",
+      "para_index": 10,
+      "para_id": "yanshi-jiaxun#08-p10",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "学之兴废，随世轻重。汉时贤俊，皆以一经弘圣人之道，上明天时，下该人事，用此致卿相",
+      "note": "比較經學在不同時代能否致仕治事，批評空守章句而無實用的專固學風，勸子弟珍惜光陰、博覽要義以成就功業",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "勉学第八",
+      "para_index": 14,
+      "para_id": "yanshi-jiaxun#08-p14",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "梁元帝尝为吾说：“昔在会稽，年始十二，便已好学。时又患疥，手不得拳，膝不得屈。闲",
+      "note": "敘梁元帝幼時患疥、手膝難屈仍忍痛日讀史書二十卷，以帝子尚能如此反問希望自達的庶士，論身體痛苦中仍磨練本領以求成就",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "勉学第八",
+      "para_index": 15,
+      "para_id": "yanshi-jiaxun#08-p15",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "古人勤学，有握锥投斧，照雪聚萤，锄则带经，牧则编简，亦为勤笃。梁世彭城刘绮，交州",
+      "note": "連敘劉綺、朱詹與臧逢世在貧困中以燃荻、吞紙忍飢、抱犬禦寒或借紙抄書，終憑才學受用，呈現身體困苦與學業成就",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "勉学第八",
+      "para_index": 16,
+      "para_id": "yanshi-jiaxun#08-p16",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "齐有宦者内参田鹏鸾，本蛮人也。年十四五，初为阍寺，便知好学，怀袖握书，晓夕讽诵。",
+      "note": "敘蠻人出身且位居奴僕的田敬宣靠勤學進位，受俘後又守護國主行蹤至死，藉其忠節反襯齊國將相，兼論身分群體、公共責任、品格與成就",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "勉学第八",
+      "para_index": 17,
+      "para_id": "yanshi-jiaxun#08-p17",
+      "modes": [
+        "prescription",
+        "expression"
+      ],
+      "excerpt": "邺平之后，见徙入关。思鲁尝谓吾曰：“朝无禄位，家无积财，当肆筋力，以申供养。每被",
+      "note": "亡國後全家被徙且無祿無財，思魯欲棄學勞作以奉養，作者以父親身分分定供養與教學之責，替自己與兒子的失所處境表明寧受粗衣淡食也要承續家學",
+      "co_domains": [
+        "IV",
+        "X",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "文章第九",
+      "para_index": 2,
+      "para_id": "yanshi-jiaxun#09-p02",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "学问有利钝，文章有巧拙。钝学累功，不妨精熟；拙文研思，终归蚩鄙。但成学士，自足为",
+      "note": "區分勤學可成與文章須有天才，並敘無才士族受眾人戲讚、妻子泣諫仍不自知，所論是才能是否適任及自我評價失實",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "文章第九",
+      "para_index": 5,
+      "para_id": "yanshi-jiaxun#09-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或问扬雄曰：“吾子少而好赋？”雄曰：“然。童子雕虫篆刻，壮夫不为也。”余窃非之曰",
+      "note": "反駁揚雄貶賦為童子之技，並以其諛莽、畏禍及太玄無用揭示盛名與實際德行、才能及著述成就不相稱",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "文章第九",
+      "para_index": 6,
+      "para_id": "yanshi-jiaxun#09-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齐世有席毗者，清干之士，官至行台尚书，嗤鄙文学，嘲刘逖云：“君辈辞藻，譬若荣华，",
+      "note": "敘席毗以常青松木自比宏才、貶文辭為短暫春華，劉逖則反問兩者兼備豈不更佳，承載對才能類型及兼長的判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "名实第十",
+      "para_index": 4,
+      "para_id": "yanshi-jiaxun#10-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "有一士族，读书不过二三百卷，天才钝拙，而家世殷厚，雅自矜持，多以酒犊珍玩，交诸名",
+      "note": "敘富家鈍士以財物結交名士、被朝廷誤認有文才，終在韓晉明當面命題試作時暴露無能，呈現虛假身分與真實才具的落差",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "名实第十",
+      "para_index": 5,
+      "para_id": "yanshi-jiaxun#10-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "治点子弟文章，以为声价，大弊事也。一则不可常继，终露其情；二则学者有凭，益不精励",
+      "note": "判定替子弟潤飾文章以抬高聲價有兩害：偽裝才名終將敗露，且學者有所依賴便不再精進，兼及名實與能力養成",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "涉务第十一",
+      "para_index": 1,
+      "para_id": "yanshi-jiaxun#11-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "士君子之处世，贵能有益于物耳，不徒高谈虚论，左琴右书，以费人君禄位也。国之用材，",
+      "note": "主張士君子受祿應對世事有用，列舉朝廷、文史、軍旅等六種公共職能，並要求依個人長處守好一職而不必六途全能",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "涉务第十一",
+      "para_index": 2,
+      "para_id": "yanshi-jiaxun#11-p02",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "吾见世中文学之士，品藻古今，若指诸掌，及有试用，多无所堪。居承平之世，不知有丧乱",
+      "note": "觀察士族文士往往能清談而不堪實務，反是熟悉吏用者能辦公受任，據此批評眾人不自量才，誤把按能力用人理解成疏士親小",
+      "co_domains": [
+        "II",
+        "V"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "涉务第十一",
+      "para_index": 4,
+      "para_id": "yanshi-jiaxun#11-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "古人欲知稼穑之艰难，斯盖贵谷务本之道也。夫食为民天，民非食不生矣，三日不粒，父子",
+      "note": "從糧食維生與耕作多重勞動論不可輕農貴末，並批評不識農務的朝士既不能治官也不能營家，兼論民生治理與實際勞動能力",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "省事第十二",
+      "para_index": 1,
+      "para_id": "yanshi-jiaxun#12-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "銘金人云：『無多言，多言多敗；無多事，多事多患。』至哉斯戒也！能走者奪其翼，善飛",
+      "note": "以多言多事、多能不成技為戒，並觀察兩名聰悟者因兼營經史文藝諸術而無一精熟，主張減省旁務以成就專長",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "省事第十二",
+      "para_index": 2,
+      "para_id": "yanshi-jiaxun#12-p02",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "上書陳事，起自戰國，逮於兩漢，風流彌廣。原其體度：攻人主之長短，諫諍之徒也；訐群",
+      "note": "分析上書議政常被用來鬻言求位，既少益於國又可能招禍，並批評今人以空薄小事邀功，兼論政治進言、仕進動機與君子操守",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "省事第十二",
+      "para_index": 4,
+      "para_id": "yanshi-jiaxun#12-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "君子當守道崇德，蓄價待時，爵祿不登，信由天命。須求趨競，不顧羞慚，比較材能，斟量",
+      "note": "勸君子守道蓄德、未得爵祿時安待天命，不可羞慚競逐；並以求與不求皆可能得失說明仕途受時運限制，人應以靜退自處而非強求",
+      "co_domains": [
+        "VII",
+        "XI",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "省事第十二",
+      "para_index": 5,
+      "para_id": "yanshi-jiaxun#12-p05",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "齊之季世，多以財貨托附外家，諠動女謁。拜守宰者，印組光華，車騎輝赫，榮兼九族，取",
+      "note": "指出齊末以財貨女謁求官者因利得位也因利敗家，揭示權力交易的危險；作者則替自己歷仕南北卻不求人論進身、不得通達也無怨的處境表態",
+      "co_domains": [
+        "V",
+        "VII",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "省事第十二",
+      "para_index": 7,
+      "para_id": "yanshi-jiaxun#12-p07",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "前在修文令曹，有山東學士與關中太史競歷，凡十餘人，紛紜累歲，內史牒付議官平之。吾",
+      "note": "自敘因議官不比爭訟者專精而拒斷曆法，反襯禮官為好名強留此事、能力不足又不肯退讓，終受迫蒙辱，論名聲欲望與職務適任",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "止足第十三",
+      "para_index": 3,
+      "para_id": "yanshi-jiaxun#13-p03",
+      "modes": [
+        "prescription",
+        "expression"
+      ],
+      "excerpt": "仕宦稱泰，不過處在中品，前望五十人，後顧五十人，足以免恥辱，無傾危也。高此者，便",
+      "note": "勸仕宦居中品即可免辱避危、位高便應退居私庭；作者以羈旅畏謗而未暇退身的親歷，告誡子孫在驟貴驟敗的時運中知止自處",
+      "co_domains": [
+        "XI",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "誡兵第十四",
+      "para_index": 1,
+      "para_id": "yanshi-jiaxun#14-p01",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "顏氏之先，本乎鄒、魯，或分入齊，世以儒雅為業，遍在書記。仲尼門徒，升堂者七十有二",
+      "note": "由顏氏歷代以儒雅為業而從武者多遭禍敗，反觀今世士大夫恃勇逞強卻不能衛國，作者自述因此不以武力求達並囑子孫記取，兼論家業傳承、操守與職能選擇",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "誡兵第十四",
+      "para_index": 2,
+      "para_id": "yanshi-jiaxun#14-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "國之興亡，兵之勝敗，博學所至，幸討論之。入帷幄之中，參廟堂之上，不能為主盡規以謀",
+      "note": "主張文士應通曉軍國成敗以盡忠謀國，卻不可憑略讀兵書便在治亂之世煽動逆亂，告誡其辨明職責、能力與品格，免致身族俱滅",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "誡兵第十四",
+      "para_index": 3,
+      "para_id": "yanshi-jiaxun#14-p03",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "習五兵，便乘騎，正可稱武夫爾。今世士大夫，但不讀書，即稱武夫兒，乃飯囊酒甕也。",
+      "note": "以能習兵器、善騎乘才足稱武夫，反駁不讀書的士大夫自稱武夫，所辨是自我名目與實際職業能力是否相稱",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "杂艺第十九",
+      "para_index": 1,
+      "para_id": "yanshi-jiaxun#19-p01",
+      "modes": [
+        "prescription",
+        "expression"
+      ],
+      "excerpt": "真草书迹，微须留意。江南谚云：“尺牍书疏，千里面目也。”承晋、宋余俗，相与事之，",
+      "note": "自述雖承家學勤習書法仍受天分所限，並主張此藝只須留意而不可過精，以免因技長而長期被人役使",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "杂艺第十九",
+      "para_index": 2,
+      "para_id": "yanshi-jiaxun#19-p02",
+      "modes": [
+        "prescription",
+        "narrative"
+      ],
+      "excerpt": "王逸少风流才士，萧散名人，举世惟知其书，翻以能自蔽也。萧子云每叹曰：“吾着齐书，",
+      "note": "以王羲之、蕭子雲、王褒因書名掩才或反受役使的遭遇，告誡不可用書藝自我命名，直指身分認同與才能運用的取捨",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "杂艺第十九",
+      "para_index": 6,
+      "para_id": "yanshi-jiaxun#19-p06",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "画绘之工，亦为妙矣；自古名士，多或能之。吾家尝有梁元帝手画蝉雀白团扇及马图，亦难",
+      "note": "敘顧庭、劉岳等人因畫藝精絕而被權貴當作工匠役使、蒙受羞恥，論證一項才能如何反過來限制職業處境與身分尊嚴",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "杂艺第十九",
+      "para_index": 7,
+      "para_id": "yanshi-jiaxun#19-p07",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "弧矢之利，以威天下，先王所以观德择贤，亦济身之急务也。江南谓世之常射，以为兵射，",
+      "note": "比較南北士人所習禮射與兵射對選賢、防寇、自救及受賞的效用，最後明言不願子弟以射獵禽獸，兼涉群體公共作用、技藝取捨與家內告誡",
+      "co_domains": [
+        "IV",
+        "V"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "杂艺第十九",
+      "para_index": 8,
+      "para_id": "yanshi-jiaxun#19-p08",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "卜筮者，圣人之业也；但近世无复佳师，多不能中。古者，卜以决疑，今人生疑于卜；何者",
+      "note": "從親學而無驗的經驗論證卜筮雖有超越根據卻難可靠傳承，勸人不可藉此自名或受卦忌束縛，兼論技藝、行動自主與信仰判斷",
+      "co_domains": [
+        "XI",
+        "XII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "杂艺第十九",
+      "para_index": 9,
+      "para_id": "yanshi-jiaxun#19-p09",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "算术亦是六艺要事；自古儒士论天道，定律历者，皆学通之。然可以兼明，不可以专业。江",
+      "note": "肯定算術是儒士通天道、定律曆所需的技能，卻規定只能兼通而不可專業，直接處理學藝與職業專精的界線",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "杂艺第十九",
+      "para_index": 10,
+      "para_id": "yanshi-jiaxun#19-p10",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "医方之事，取妙极难，不劝汝曹以自命也。微解药性，小小和合，居家得以救急，亦为胜事",
+      "note": "因醫術難臻精妙而勸子弟不可自命醫家，只宜略知藥性以供居家救急，兼顧家內照護、職業分寸與疾病救治",
+      "co_domains": [
+        "IV",
+        "IX"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "杂艺第十九",
+      "para_index": 11,
+      "para_id": "yanshi-jiaxun#19-p11",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "礼曰：“君子无故不彻琴瑟。”古来名士，多所爱好。洎于梁初，衣冠子孙，不知琴者，号",
+      "note": "肯定琴樂足以暢達神情，卻告誡子弟不可因琴名而受勳貴役使、取辱下坐，兼論情緒調適、技藝處境與家內傳誡",
+      "co_domains": [
+        "IV",
+        "VI"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "杂艺第十九",
+      "para_index": 12,
+      "para_id": "yanshi-jiaxun#19-p12",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "家语曰：“君子不博，为其兼行恶道故也。”论语云：“不有博弈者乎？为之，犹贤乎已。",
+      "note": "衡量疲倦時偶爾博弈與勤學自持的高下，並警告圍棋易使人沉迷而荒廢正業，處理節制品格及學業時間的取捨",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "终制第二十",
+      "para_index": 2,
+      "para_id": "yanshi-jiaxun#20-p02",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "先君先夫人皆未还建邺旧山，旅葬江陵东郭。承圣末，已启求扬都，欲营迁厝。蒙诏赐银百",
+      "note": "作者自述亡國流離、家貧而終不能遷葬父母，又解釋為保全衰門子弟且受北方政教所迫才仕進，是他替自身無法補救的親喪與仕途處境作出安頓",
+      "co_domains": [
+        "IV",
+        "V",
+        "X",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "终制第二十",
+      "para_index": 4,
+      "para_id": "yanshi-jiaxun#20-p04",
+      "modes": [
+        "prescription",
+        "expression"
+      ],
+      "excerpt": "孔子之葬亲也，云：“古者，墓而不坟。丘东西南北之人也，不可以弗识也。”于是封之崇",
+      "note": "作者以羈旅無定、未知葬地的自身處境告訴子孫死後即地掩埋，不必留戀朽骨而應傳業揚名，是他替家人面對無法守墓的失所處境指出安頓方向",
+      "co_domains": [
+        "IV",
+        "X",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "力耕第二",
+      "para_index": 6,
+      "para_id": "yantielun#02-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「洪水滔天，而有禹之績，河水泛濫，而有宣房之功。商紂暴虐，而有孟津之謀，",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "通有第三",
+      "para_index": 1,
+      "para_id": "yantielun#03-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「燕之涿、薊，趙之邯鄲，魏之溫軹，韓之滎陽，齊之臨淄，楚之宛、陳，鄭之陽",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "禁耕第五",
+      "para_index": 4,
+      "para_id": "yantielun#05-p04",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "文學曰：「山海者，財用之寶路也。鐵器者，農夫之死士也。死士用，則仇讎滅，仇讎滅，",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "崇禮第三十七",
+      "para_index": 4,
+      "para_id": "yantielun#07-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "賢良曰：「管仲去魯入齊，齊霸魯削，非持其眾而歸齊也。伍子胥挾弓干闔閭，破楚入郢，",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "擊之第四十二",
+      "para_index": 4,
+      "para_id": "yantielun#12-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「昔夏后底洪水之災，百姓孔勤，罷於籠臿，及至其後，咸享其功。先帝之時，郡",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "園池第十三",
+      "para_index": 2,
+      "para_id": "yantielun#13-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「古者，制地足以養民，民足以承其上。千乘之國，百里之地，公侯伯子男，各充",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "園池第十三",
+      "para_index": 3,
+      "para_id": "yantielun#13-p03",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "，可賦歸之於民，縣官租稅而已。假稅殊名，其實一也。夫如是，匹夫之力，盡於南畝，匹",
+      "note": "孤段：本篇缺對造發言",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "非鞅第七",
+      "para_index": 6,
+      "para_id": "yantielun#22-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「商鞅之開塞，非不行也；蒙恬卻胡千里，非無功也；威震天下，非不強也；諸侯",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "非鞅第七",
+      "para_index": 7,
+      "para_id": "yantielun#22-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「淑好之人，戚施之所妒也；賢知之士，阘茸之所惡也。是以上官大夫短屈原於頃",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "非鞅第七",
+      "para_index": 8,
+      "para_id": "yantielun#22-p08",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "文學曰：「君子進必以道，退不失義，高而勿矜，勞而不伐，位尊而行恭，功大而理順；故",
+      "note": "",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "非鞅第七",
+      "para_index": 9,
+      "para_id": "yantielun#22-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「縞素不能自分於緇墨，賢聖不能自理於亂世。是以箕子執囚，比干被刑。伍員相",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "非鞅第七",
+      "para_index": 10,
+      "para_id": "yantielun#22-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「比干剖心，子胥鴟夷，非輕犯君以危身，強諫以干名也。憯怛之忠誠，心動於內",
+      "note": "比干剖心／斯人自殺非人殺之也",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "刺權第九",
+      "para_index": 2,
+      "para_id": "yantielun#24-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "文學曰：「有司之慮遠，而權家之利近；令意所禁微，而僭奢之道著。自利害之設，三業之",
+      "note": "權家奢侈的清單式陳述",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "刺權第九",
+      "para_index": 4,
+      "para_id": "yantielun#24-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「禹、稷自布衣，思天下有不得其所者，若己推而納之溝中，故起而佐堯，平治水",
+      "note": "君子之仕，行其義，非樂其勢也",
+      "co_domains": [
+        "IV",
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "刺復第十",
+      "para_index": 1,
+      "para_id": "yantielun#25-p01",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "大夫曰為色矜而心不懌，曰：「但居者不知負載之勞，從旁議者與當局者異憂。方今為天下",
+      "note": "",
+      "co_domains": [
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "刺復第十",
+      "para_index": 2,
+      "para_id": "yantielun#25-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「輸子之制材木也，正其規矩而鑿枘調。師曠之諧五音也，正其六律而宮商調。當",
+      "note": "君子勞於求賢／蔽賢妒能",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "刺復第十",
+      "para_index": 4,
+      "para_id": "yantielun#25-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "御史進曰：「太公相文、武以王天下，管仲相桓公以霸諸侯。故賢者得位，猶龍得水，騰蛇",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "刺復第十",
+      "para_index": 5,
+      "para_id": "yantielun#25-p05",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "文學曰：「冰炭不同器，日月不並明。當公孫弘之時，人主方設謀垂意於四夷，故權譎之謀",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "論儒第十一",
+      "para_index": 1,
+      "para_id": "yantielun#26-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "御史曰：「文學祖述仲尼，稱誦其德，以為自古及今，未之有也。然孔子修道魯、衛之間，",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "論儒第十一",
+      "para_index": 2,
+      "para_id": "yantielun#26-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「無鞭策，雖造父不能調駟馬。無勢位，雖舜、禹不能治萬民。孔子曰：「鳳鳥不",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "論儒第十一",
+      "para_index": 3,
+      "para_id": "yantielun#26-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "御史曰：「伊尹以割烹事湯，百里以飯牛要穆公，始為茍合，信然與之霸王。如此，何言不",
+      "note": "",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "論儒第十一",
+      "para_index": 4,
+      "para_id": "yantielun#26-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「伊尹之於湯，知聖主也。百里之歸秦，知明君也。二君之能知霸主，其冊素形於",
+      "note": "",
+      "co_domains": [
+        "II",
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "論儒第十一",
+      "para_index": 6,
+      "para_id": "yantielun#26-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「天下不平，庶國不寧，明王之憂也。上無天子，下無方伯，天下煩亂，賢聖之憂",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "相刺第二十",
+      "para_index": 1,
+      "para_id": "yantielun#28-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「古者，經井田，制廛里，丈夫治其田疇，女子治其麻枲，無曠地，無遊人。故非",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "相刺第二十",
+      "para_index": 2,
+      "para_id": "yantielun#28-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「禹戚洪水，身親其勞，澤行路宿，過門不入。當此之時，簪墮不掇，冠掛不顧，",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "相刺第二十",
+      "para_index": 4,
+      "para_id": "yantielun#28-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「虞不用百里奚之謀而滅，秦穆用之以至霸焉。夫不用賢則亡，而不削何可得乎？",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "相刺第二十",
+      "para_index": 6,
+      "para_id": "yantielun#28-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「扁鵲不能治不受針藥之疾，賢聖不能正不食諫諍之君。故桀有關龍逄而夏亡，紂",
+      "note": "扁鵲不能治不受針藥之疾——進言不被接受",
+      "co_domains": [
+        "III",
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "相刺第二十",
+      "para_index": 8,
+      "para_id": "yantielun#28-p08",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "文學曰：「日月之光，而盲者不能見，雷電之聲，而聾人不能聞。夫為不知音者言，若語於",
+      "note": "荊和抱璞而泣血／屈原行吟澤畔——不被理解",
+      "co_domains": [
+        "III",
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "相刺第二十",
+      "para_index": 10,
+      "para_id": "yantielun#28-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「天設三光以照記，天子立公卿以明治。故曰：公卿者，四海之表儀，神化之丹青",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "殊路第二十一",
+      "para_index": 1,
+      "para_id": "yantielun#29-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「七十子躬受聖人之術，有名列於孔子之門，皆諸侯卿相之才，可南面者數人云。",
+      "note": "",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "訟賢第二十二",
+      "para_index": 1,
+      "para_id": "yantielun#30-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「剛者折，柔者卷。故季由以強梁死，宰我以柔弱殺。使二子不學，未必不得其死",
+      "note": "",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "訟賢第二十二",
+      "para_index": 2,
+      "para_id": "yantielun#30-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「騏驥之挽鹽車垂頭於太行之阪，屠者持刀而睨之。太公之窮困，負販於朝歌也，",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "訟賢第二十二",
+      "para_index": 3,
+      "para_id": "yantielun#30-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「今之學者，無太公之能，騏驥之才，有以蜂蠆介毒而自害也。東海成颙，河東胡",
+      "note": "",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "訟賢第二十二",
+      "para_index": 4,
+      "para_id": "yantielun#30-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「二公懷精白之心，行忠正之道，直己以事上，竭力以徇公，奉法推理，不避強禦",
+      "note": "",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "遵道第二十三",
+      "para_index": 5,
+      "para_id": "yantielun#31-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「君子多聞闕疑，述而不作，聖達而謀大，叡智而事寡。是以功成而不隳，名立而",
+      "note": "",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "論誹第二十四",
+      "para_index": 4,
+      "para_id": "yantielun#32-p04",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "文學曰：「臯陶對舜：『在知人，惟帝其難之。』洪水之災，堯獨愁悴而不能治，得舜、禹",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "論誹第二十四",
+      "para_index": 7,
+      "para_id": "yantielun#32-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "丞相史曰：「蓋聞士之居世也，衣服足以勝身，食飲足以供親，內足以相恤，外不求於人。",
+      "note": "",
+      "co_domains": [
+        "IV",
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "孝養第二十五",
+      "para_index": 5,
+      "para_id": "yantielun#33-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「無其能而竊其位，無其功而有其祿，雖有富貴，由跖、蹻之養也。高臺極望，食",
+      "note": "禮菲而養豐非孝也，掠囷而以養非孝也",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "利議第二十七",
+      "para_index": 5,
+      "para_id": "yantielun#35-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「能言之，能行之者，湯、武也。能言，不能行者，有司也。文學竊周公之服，有",
+      "note": "",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "國疾第二十八",
+      "para_index": 1,
+      "para_id": "yantielun#36-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「國有賢士而不用，非士之過，有國者之恥。孔子大聖也，諸侯莫能用，當小位於",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "散不足第二十九",
+      "para_index": 2,
+      "para_id": "yantielun#43-p02",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "賢良曰：「孔子讀史記，喟然而嘆，傷正德之廢，君臣之危也。夫賢人君子，以天下為任者",
+      "note": "",
+      "co_domains": [
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "散不足第二十九",
+      "para_index": 8,
+      "para_id": "yantielun#43-p08",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "「古者，諸侯不秣馬，天子有命，以車就牧。庶人之乘馬者，足以代其勞而已。故行則服桅",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "散不足第二十九",
+      "para_index": 15,
+      "para_id": "yantielun#43-p15",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "「古者，庶人春夏耕耘，秋冬收藏，昏晨力作，夜以繼日。詩云：『晝爾於茅，宵爾索绹，",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "散不足第二十九",
+      "para_index": 19,
+      "para_id": "yantielun#43-p19",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "「古者，君子夙夜孳孳思其德；小人晨昏孜孜思其力。故君子不素餐，小人不空食。今世俗",
+      "note": "",
+      "co_domains": [
+        "VII",
+        "XII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "散不足第二十九",
+      "para_index": 20,
+      "para_id": "yantielun#43-p20",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "健舌，或以成業致富，故憚事之人，釋本相學。是以街巷有巫，閭里有祝。",
+      "note": "街巷有巫，閭里有祝；孤段",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "散不足第二十九",
+      "para_index": 32,
+      "para_id": "yantielun#43-p32",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "「古者，凶年不備，豐年補敗，仍舊貫而不改作。今工異變而吏殊心，壞敗成功，以匿厥意",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "散不足第二十九",
+      "para_index": 34,
+      "para_id": "yantielun#43-p34",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "「古者，人君敬事愛下，使民以時，天子以天下為家，臣妾各以其時供公職，古今之通義也",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "散不足第二十九",
+      "para_index": 38,
+      "para_id": "yantielun#43-p38",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「宮室奢侈，林木之蠹也。器械雕琢，財用之蠹也。衣服靡麗，布帛之蠹也。狗馬食人之食",
+      "note": "國病聚不足即政怠，人病聚不足則身危",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "箴石第三十一",
+      "para_index": 2,
+      "para_id": "yantielun#45-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "賢良曰：「賈生有言：『懇言則辭淺而不入，深言則逆耳而失指。』故曰：『談何容易。』",
+      "note": "懇言則辭淺而不入，深言則逆耳而失指——談被誤解，依人物志子準則標 III",
+      "co_domains": [
+        "III",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "除狹第三十二",
+      "para_index": 1,
+      "para_id": "yantielun#46-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「賢者處大林，遭風雷而不迷。愚者雖處平敞大路，猶暗惑焉。今守、相親剖符贊",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "除狹第三十二",
+      "para_index": 2,
+      "para_id": "yantielun#46-p02",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "賢良曰：「古之進士也，鄉擇而裏選，論其才能，然後官之，勝職任然後爵而祿之。故士修",
+      "note": "鄉擇而裏選→論其才能→然後官之→勝職任然後爵而祿之",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "疾貪第三十三",
+      "para_index": 2,
+      "para_id": "yantielun#47-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "賢良曰：「古之制爵祿也，卿大夫足以潤賢厚士，士足以優身及黨，庶人為官者，足以代其",
+      "note": "貪鄙在率不在下",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "授時第三十五",
+      "para_index": 6,
+      "para_id": "yantielun#49-p06",
+      "modes": [
+        "prescription",
+        "ritual"
+      ],
+      "excerpt": "賢良曰：「古者，春省耕以補不足，秋省斂以助不給。民勤於財則貢賦省，民勤於力則功築",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "水旱第三十六",
+      "para_index": 4,
+      "para_id": "yantielun#50-p04",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "賢良曰：「農，天下之大業也，鐵器，民之大用也。器用便利，則用力少而得作多，農夫樂",
+      "note": "割草不痛——官作器物不為己用",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "水旱第三十六",
+      "para_index": 5,
+      "para_id": "yantielun#50-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「卒徒工匠，以縣官日作公事，財用饒，器用備。家人合會，褊於日而勤於用，鐵",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "水旱第三十六",
+      "para_index": 6,
+      "para_id": "yantielun#50-p06",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "賢良曰：「卒徒工匠！故民得占租鼓鑄、煮鹽之時，鹽與五穀同賈，器和利而中用。今縣官",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "刑德第五十五",
+      "para_index": 6,
+      "para_id": "yantielun#51-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「轡銜者，御之具也，得良工而調。法勢者，治之具也，得賢人而化。執轡非其人",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "大論第五十九",
+      "para_index": 5,
+      "para_id": "yantielun#55-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「文學所稱聖知者，孔子也，治魯不遂，見逐於齊，不用於衛，遇圍於匡，困於陳",
+      "note": "",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "大論第五十九",
+      "para_index": 6,
+      "para_id": "yantielun#55-p06",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "文學曰：「孔子生於亂世，思堯、舜之道，東西南北，灼頭濡足，庶幾世主之悟。悠悠者皆",
+      "note": "悼痛天下之禍，猶慈母之伏死子也，知其不可如何",
+      "co_domains": [
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "雜論第六十",
+      "para_index": 2,
+      "para_id": "yantielun#56-p02",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "「異哉吾所聞。周、秦粲然，皆有天下而南面焉，然安危長久殊世。始汝南朱子伯為予言：",
+      "note": "桓寬跋：中山劉子雍／九江祝生／桑大夫博物通士／車丞相括囊不言，容身而去／處非其位，行非其道，果隕其性",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "地廣第十六",
+      "para_index": 5,
+      "para_id": "yantielun#57-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「挾管仲之智者，非為廝役之使也。懷陶朱之慮者，不居貧困之處。文學能言而不",
+      "note": "",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "地廣第十六",
+      "para_index": 6,
+      "para_id": "yantielun#57-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「夫賤不害智，貧不妨行。顏淵屢空，不為不賢。孔子不容，不為不聖。必將以貌",
+      "note": "賤不害智，貧不妨行／不為窮變節／回也不改其樂／惟仁者能處約樂",
+      "co_domains": [
+        "II",
+        "VII",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "貧富第十七",
+      "para_index": 1,
+      "para_id": "yantielun#58-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「余結髮束修年十三，幸得宿衛，給事輦轂之下，以至卿大夫之位，獲祿受賜，六",
+      "note": "桑弘羊自述：余結髮束修年十三…六十有餘年矣——全書罕見的第一人稱生平",
+      "co_domains": [
+        "II",
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "貧富第十七",
+      "para_index": 2,
+      "para_id": "yantielun#58-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「古者，事業不二，利祿不兼，然諸業不相遠，而貧富不相懸也。夫乘爵祿以謙讓",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "貧富第十七",
+      "para_index": 3,
+      "para_id": "yantielun#58-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「山嶽有饒，然後百姓贍焉。河、海有潤，然後民取足焉。夫尋常之汙，不能溉陂",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "貧富第十七",
+      "para_index": 4,
+      "para_id": "yantielun#58-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「行遠道者假於車，濟江、海者因於舟。故賢士之立功成名，因於資而假物者也。",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "貧富第十七",
+      "para_index": 5,
+      "para_id": "yantielun#58-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「道懸於天，物布於地，智者以衍，愚者以困。子貢以著積顯於諸侯、陶朱公以貨",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "貧富第十七",
+      "para_index": 6,
+      "para_id": "yantielun#58-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「孔子云：『富而可求，雖執鞭之事，吾亦為之；如不可求，從吾所好。』君子求",
+      "note": "君子求義，非茍富也／不遇，退而樂道／富貴不能榮，謗毀不能傷",
+      "co_domains": [
+        "II",
+        "VII",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "毀學第十八",
+      "para_index": 1,
+      "para_id": "yantielun#59-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「夫懷枉而言正，自托於無欲而實不從，此非士之情也？昔李斯與包丘子俱事荀卿",
+      "note": "",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "毀學第十八",
+      "para_index": 2,
+      "para_id": "yantielun#59-p02",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "文學曰：「方李斯之相秦也，始皇任之，人臣無貳，然而荀卿謂之不食，睹其罹不測之禍也",
+      "note": "包丘子…樂其志，無赫赫之勢，亦無戚戚之憂",
+      "co_domains": [
+        "VII",
+        "X",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "毀學第十八",
+      "para_index": 4,
+      "para_id": "yantielun#59-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「聖主設官以授任，能者處之；分祿以任賢，能者受之。義貴無高，義取無多。故",
+      "note": "",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "毀學第十八",
+      "para_index": 5,
+      "para_id": "yantielun#59-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「司馬子言：『天下穰穰，皆為利往。』趙女不擇醜好，鄭嫗不擇遠近，商人不媿",
+      "note": "",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "毀學第十八",
+      "para_index": 6,
+      "para_id": "yantielun#59-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「君子懷德，小人懷土。賢士徇名，貪夫死利。李斯貪其所欲，致其所惡。孫叔敖",
+      "note": "",
+      "co_domains": [
+        "VII",
+        "X"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "毀學第十八",
+      "para_index": 7,
+      "para_id": "yantielun#59-p07",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "年，衣之文繡，以入廟堂，太宰執其鸞刀，以啟其毛；方此之時，願任重而上峻阪，不可得",
+      "note": "郊祭之牛／李斯車裂於雲陽之市，亦願負薪入東門，不可得也；孤段",
+      "co_domains": [
+        "VII",
+        "X"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "褒賢第十九",
+      "para_index": 1,
+      "para_id": "yantielun#60-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「伯夷以廉饑，尾生以信死。由小器而虧大體，匹夫匹婦之為諒也，經於溝瀆而莫",
+      "note": "",
+      "co_domains": [
+        "VII",
+        "X"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "褒賢第十九",
+      "para_index": 2,
+      "para_id": "yantielun#60-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「蘇秦以從顯於趙，張儀以橫任於秦，方此之時，非不尊貴也，然智士隨而憂之，",
+      "note": "其位彌高而罪彌重，祿滋厚而罪滋多／妻子奔亡無處所",
+      "co_domains": [
+        "IV",
+        "VII",
+        "X"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "褒賢第十九",
+      "para_index": 3,
+      "para_id": "yantielun#60-p03",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "大夫曰：「文學高行，矯然若不可卷；盛節絜言，皦然若不可涅。然戍卒陳勝釋挽輅，首為",
+      "note": "",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "褒賢第十九",
+      "para_index": 4,
+      "para_id": "yantielun#60-p04",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "文學曰：「周室衰，禮樂壞，不能統理，天下諸侯交爭，相滅亡，幷為六國，兵革不休，民",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "褒賢第十九",
+      "para_index": 6,
+      "para_id": "yantielun#60-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「誌善者忘惡，謹小者致大。俎豆之間足以觀禮，閨門之內足以論行。夫服古之服",
+      "note": "",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    }
+  ]
+}

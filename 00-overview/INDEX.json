@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-08-09T08:06:59+00:00",
+    "generated_at": "2026-08-09T08:44:19+00:00",
     "text_count": 72,
     "total_bytes": 11304281,
     "by_category": {
@@ -30,9 +30,9 @@
     },
     "surveyed_count": 15,
     "annotated_count": 15,
-    "scaffolded_count": 0,
+    "scaffolded_count": 4,
     "paras_judged": 5242,
-    "paras_pending": 0,
+    "paras_pending": 7682,
     "domain_hit_counts": {
       "I": 5,
       "II": 9,
@@ -47,6 +47,21 @@
       "XI": 7,
       "XII": 10,
       "XIII": 6
+    },
+    "domain_para_counts": {
+      "I": 16,
+      "II": 349,
+      "III": 79,
+      "IV": 312,
+      "V": 1027,
+      "VI": 231,
+      "VII": 711,
+      "VIII": 391,
+      "IX": 71,
+      "X": 154,
+      "XI": 148,
+      "XII": 105,
+      "XIII": 53
     }
   },
   "texts": [
@@ -66,6 +81,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -86,6 +102,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -106,6 +123,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -134,6 +152,14 @@
         "X",
         "XIII"
       ],
+      "domains_null": [
+        "I",
+        "VI",
+        "VII",
+        "IX",
+        "XI",
+        "XII"
+      ],
       "paras_total": 63,
       "paras_judged": 63,
       "annotated": true
@@ -154,6 +180,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -174,7 +201,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
-      "paras_total": 0,
+      "domains_null": null,
+      "paras_total": 385,
       "paras_judged": 0,
       "annotated": false
     },
@@ -194,6 +222,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -214,6 +243,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -239,6 +269,17 @@
         "V",
         "XII"
       ],
+      "domains_null": [
+        "II",
+        "III",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XIII"
+      ],
       "paras_total": 78,
       "paras_judged": 78,
       "annotated": true
@@ -259,6 +300,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -279,6 +321,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -299,6 +342,21 @@
       "verified": false,
       "surveyed": true,
       "domains_hit": [],
+      "domains_null": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII"
+      ],
       "paras_total": 24,
       "paras_judged": 24,
       "annotated": true
@@ -319,6 +377,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -339,6 +398,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -359,6 +419,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -379,6 +440,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -399,6 +461,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -419,7 +482,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
-      "paras_total": 0,
+      "domains_null": null,
+      "paras_total": 282,
       "paras_judged": 0,
       "annotated": false
     },
@@ -439,6 +503,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -465,6 +530,16 @@
         "IX",
         "XII"
       ],
+      "domains_null": [
+        "I",
+        "II",
+        "III",
+        "V",
+        "VI",
+        "X",
+        "XI",
+        "XIII"
+      ],
       "paras_total": 796,
       "paras_judged": 796,
       "annotated": true
@@ -485,6 +560,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -507,6 +583,20 @@
       "domains_hit": [
         "XII"
       ],
+      "domains_null": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XIII"
+      ],
       "paras_total": 720,
       "paras_judged": 720,
       "annotated": true
@@ -527,6 +617,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -560,6 +651,9 @@
         "XII",
         "XIII"
       ],
+      "domains_null": [
+        "I"
+      ],
       "paras_total": 208,
       "paras_judged": 208,
       "annotated": true
@@ -580,6 +674,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -600,6 +695,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -620,6 +716,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -640,6 +737,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -661,6 +759,20 @@
       "surveyed": true,
       "domains_hit": [
         "VIII"
+      ],
+      "domains_null": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII"
       ],
       "paras_total": 243,
       "paras_judged": 243,
@@ -695,6 +807,9 @@
         "XI",
         "XII"
       ],
+      "domains_null": [
+        "XIII"
+      ],
       "paras_total": 268,
       "paras_judged": 268,
       "annotated": true
@@ -715,6 +830,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -735,6 +851,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -766,6 +883,11 @@
         "XI",
         "XIII"
       ],
+      "domains_null": [
+        "I",
+        "IX",
+        "XII"
+      ],
       "paras_total": 229,
       "paras_judged": 229,
       "annotated": true
@@ -786,6 +908,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -806,6 +929,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -835,6 +959,13 @@
         "IX",
         "X"
       ],
+      "domains_null": [
+        "III",
+        "VI",
+        "XI",
+        "XII",
+        "XIII"
+      ],
       "paras_total": 728,
       "paras_judged": 728,
       "annotated": true
@@ -855,6 +986,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -875,6 +1007,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -895,6 +1028,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -920,6 +1054,17 @@
         "VII",
         "XII"
       ],
+      "domains_null": [
+        "I",
+        "II",
+        "III",
+        "VI",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XIII"
+      ],
       "paras_total": 61,
       "paras_judged": 61,
       "annotated": true
@@ -940,6 +1085,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -960,7 +1106,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
-      "paras_total": 0,
+      "domains_null": null,
+      "paras_total": 945,
       "paras_judged": 0,
       "annotated": false
     },
@@ -994,6 +1141,7 @@
         "XII",
         "XIII"
       ],
+      "domains_null": [],
       "paras_total": 1132,
       "paras_judged": 1132,
       "annotated": true
@@ -1014,6 +1162,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -1034,7 +1183,8 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
-      "paras_total": 0,
+      "domains_null": null,
+      "paras_total": 6070,
       "paras_judged": 0,
       "annotated": false
     },
@@ -1054,6 +1204,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -1074,6 +1225,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -1106,6 +1258,10 @@
         "XI",
         "XII"
       ],
+      "domains_null": [
+        "I",
+        "XIII"
+      ],
       "paras_total": 91,
       "paras_judged": 91,
       "annotated": true
@@ -1126,6 +1282,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -1146,6 +1303,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -1166,6 +1324,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -1186,6 +1345,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -1206,6 +1366,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -1226,6 +1387,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -1246,6 +1408,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -1266,6 +1429,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -1286,6 +1450,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -1306,6 +1471,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -1338,6 +1504,9 @@
         "XI",
         "XII",
         "XIII"
+      ],
+      "domains_null": [
+        "I"
       ],
       "paras_total": 255,
       "paras_judged": 255,
@@ -1373,6 +1542,7 @@
         "XII",
         "XIII"
       ],
+      "domains_null": [],
       "paras_total": 346,
       "paras_judged": 346,
       "annotated": true
@@ -1393,6 +1563,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -1413,6 +1584,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -1433,6 +1605,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -1453,6 +1626,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -1473,6 +1647,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -1493,6 +1668,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -1513,6 +1689,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -1533,6 +1710,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -1553,6 +1731,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -1573,6 +1752,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -1593,6 +1773,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false
@@ -1613,6 +1794,7 @@
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
+      "domains_null": null,
       "paras_total": 0,
       "paras_judged": 0,
       "annotated": false

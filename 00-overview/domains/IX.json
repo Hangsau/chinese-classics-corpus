@@ -1,0 +1,1071 @@
+{
+  "domain": "IX",
+  "name_zh": "苦難·疾病·身體",
+  "gist": "疾病與身體、受苦的意義、照顧與被照顧",
+  "generated_at": "2026-08-09T08:44:19+00:00",
+  "para_count": 71,
+  "book_count": 8,
+  "surveyed_zero_hit": [
+    "dongmingji",
+    "gu-sanfen",
+    "haidao-suanjing",
+    "jiuzhang-suanshu",
+    "nanjing",
+    "renwuzhi",
+    "shenyijing"
+  ],
+  "paras": [
+    {
+      "slug": "jinkui-yaolue",
+      "chapter": "臟腑經絡先後病脈證第一",
+      "para_index": 3,
+      "para_id": "jinkui-yaolue#01-p03",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "若人能養慎，不令邪風干忤經絡；適中經絡，未流傳臟腑，即醫治之。四肢才覺重滯，即導",
+      "note": "要求養慎守法、節制房室飲食並及早照護身體，從病法延伸為有品格約束的生活自持與身體保全",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "jinkui-yaolue",
+      "chapter": "禽獸魚蟲禁忌並治第二十四",
+      "para_index": 1,
+      "para_id": "jinkui-yaolue#30-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡飲食滋味以養於生，食之有妨，反能為害，自非服藥煉液、焉能不飲食乎？切見時人，不",
+      "note": "由飲食可養生亦可致病，進而勸人懂得調攝以保全生命，已在談人如何照料自身身體與生命",
+      "co_domains": []
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "蔡人之妻",
+      "para_index": 1,
+      "para_id": "lienuzhuan#48-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "蔡人之妻者，宋人之女也。既嫁於蔡，而夫有惡疾。其母將改嫁之，女曰：「夫不幸，乃妾",
+      "note": "宋女把丈夫惡疾視為共同不幸，主張婚姻承諾不應因疾病而撤回。",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "蔡人之妻",
+      "para_index": 2,
+      "para_id": "lienuzhuan#48-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "頌曰：宋女專愨，持心不願，夫有惡疾，意猶一精，母勸去歸，作詩不聽，後人美之，以為",
+      "note": "頌稱她在丈夫惡疾後仍專一不去，明確肯定疾病中的伴侶承諾。",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "lienuzhuan",
+      "chapter": "齊太倉女",
+      "para_index": 1,
+      "para_id": "lienuzhuan#89-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊太倉女者，漢太倉令淳于公之少女也，名緹縈。淳于公無男，有女五人。孝文皇帝時，淳",
+      "note": "緹縈促成刑罰改革關乎公義，詔書直陳斷體刻膚之苦，並主張刑後仍須保留改過自新的可能，三面各自承重",
+      "co_domains": [
+        "V",
+        "XI"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "夢列第二十八",
+      "para_index": 1,
+      "para_id": "qianfulun#06-p01",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "凡夢，有直、有象、有精、有想、有人、有感、有時、有反、有病、有性。在昔武王，邑薑",
+      "note": "十類夢的分類法（直象精想人感時反病性）＋判別口訣「觀其所疾察其所夢謂之病」，是可套用的判讀程序，判 formalization。含「有憂即夢其事」(VI)、「陰病夢寒陽病夢熱」(IX)、占夢 (XII)。",
+      "co_domains": [
+        "VI",
+        "XII"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "浮侈第十二",
+      "para_index": 2,
+      "para_id": "qianfulun#09-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "夫貧生於富，弱生於強，亂生於治，危生於安。是故明王之養民也，憂之勞之，教之誨之，",
+      "note": "全書對民間信仰最直接的否定：「起學巫祝，鼓舞事神，以欺誣細民」「婦女羸弱，疾病之家，懷憂憒憒，皆易恐懼」「或棄醫藥，更往事神，故至於死亡」——恐懼(VI)、疾病與致死(IX)、神事(XII)三者扣在一起。",
+      "co_domains": [
+        "VI",
+        "XII"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "思賢第八",
+      "para_index": 2,
+      "para_id": "qianfulun#15-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫與死人同病者，不可生也；與亡國同行者，不可存也。豈虛言哉！何以知人且病也？以其",
+      "note": "「與死人同病者不可生」——以病理推國事。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "思賢第八",
+      "para_index": 3,
+      "para_id": "qianfulun#15-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "上醫醫國，其次下醫醫疾。夫人治國，固治身之象。疾者身之病，亂者國之病也。身之病待",
+      "note": "「上醫醫國，其次下醫醫疾」「治國固治身之象」。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "思賢第八",
+      "para_index": 4,
+      "para_id": "qianfulun#15-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫治世不得真賢，譬猶治疾不得良醫也。治疾當真人蔘，反得支羅服；當得麥門冬，反烝橫",
+      "note": "治世不得真賢猶治疾不得良醫，人蔘與支羅服之喻。",
+      "co_domains": [
+        "V",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "實邊第二十四",
+      "para_index": 3,
+      "para_id": "qianfulun#23-p03",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "夫土地者，民之本也，誠不可久荒，以開墾。且扁鵲之治病也，審閉結而通鬱，虛者補之，",
+      "note": "扁鵲通鬱補虛之喻；以舉孝廉、募民耕邊拜爵為實邊之術。",
+      "co_domains": [
+        "V",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "德化第三十三",
+      "para_index": 2,
+      "para_id": "qianfulun#27-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫化變民心也，猶政變民體也。德政加於民，則多滌暢姣好，堅強考壽；惡政加於民，則多",
+      "note": "「德政加於民，則多滌暢姣好，堅強考壽；惡政加於民，則多罷癃尢病，夭昏紥瘥」「國有傷明之政，則民多病目」——政治直接寫進身體。",
+      "co_domains": [
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "卜列第二十五",
+      "para_index": 4,
+      "para_id": "qianfulun#29-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "俗工又曰：商家之宅，宜西出門。此複虛矣。五行當出乘其勝，入居其隩，乃安吉。商家向",
+      "note": "斥宅音吉凶，並給出理由：「人之所以為人者，非以此八尺之身也，乃以其有精神也」「人有恐怖死者，非病之所加也」——禁忌本身致病，畏懼可以殺人。",
+      "co_domains": [
+        "II",
+        "VI",
+        "XII"
+      ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "述赦第十六",
+      "para_index": 1,
+      "para_id": "qianfulun#34-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡治病者，必先知脈之虛實，氣之所結，然後為之方，故疾可愈而壽可長也。為國者，必先",
+      "note": "先知脈之虛實再為方；為國同理。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shanghanlun",
+      "chapter": "張仲景原序",
+      "para_index": 1,
+      "para_id": "shanghanlun#02-p01",
+      "modes": [
+        "expression",
+        "proposition"
+      ],
+      "excerpt": "論曰：余每覽越人入虢之診，望齊侯之色，未嘗不慨然嘆其才秀也。怪當今居世之士，曾不",
+      "note": "作者慨嘆世人逐名利而輕忽養生，並以患病後束手失命反問生命所本，兼論人生取向與人在疾病中的身體處境",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "shanghanlun",
+      "chapter": "伤寒例第三",
+      "para_index": 1,
+      "para_id": "shanghanlun#05-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《陰陽大論》云：春氣溫和，夏氣暑熱，秋氣清涼，冬氣冷冽，此則四時正氣之序也。冬時",
+      "note": "以四時正氣為背景，明說君子在嚴寒中固密護身便可免傷寒，已超出病名而談人如何保護身體",
+      "co_domains": []
+    },
+    {
+      "slug": "shanghanlun",
+      "chapter": "伤寒例第三",
+      "para_index": 9,
+      "para_id": "shanghanlun#05-p09",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "陰陽交易，人變病焉。此君子春夏養陽，秋冬養陰，順天地之剛柔也。小人觸冒，必嬰暴疹",
+      "note": "以君子順天地而春夏養陽、秋冬養陰對照小人觸冒得病，直接主張人應如何護養身體",
+      "co_domains": []
+    },
+    {
+      "slug": "shanghanlun",
+      "chapter": "伤寒例第三",
+      "para_index": 10,
+      "para_id": "shanghanlun#05-p10",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "傷寒之病，逐日淺深，以施方治。今世人傷寒，或始不早治，或治不對病，或日數久淹，困",
+      "note": "既責人拖延就醫而使病勢困重，也責醫者不循次第施治並提出臨證制方，兼談病中自處與行醫職責",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shanghanlun",
+      "chapter": "伤寒例第三",
+      "para_index": 21,
+      "para_id": "shanghanlun#05-p21",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "凡人有疾，不時即治，隱忍冀差，以成痼疾。小兒女子，益以滋甚。時氣不和，便當早言，",
+      "note": "批評患病後隱忍盼癒而延誤，要求及早說明求治並以此作為家有患者的備慮，兼及身體照護與家庭應對",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shanghanlun",
+      "chapter": "伤寒例第三",
+      "para_index": 22,
+      "para_id": "shanghanlun#05-p22",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "凡作湯藥，不可避晨夜，覺病須臾，即宜便治，不等早晚，則易愈矣。若或差遲，病即傳變",
+      "note": "要求覺病即治、不避晨夜並依師法服藥，又規定醫者如何面對故意違囑者，兼談病人自護與行醫取捨",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shanghanlun",
+      "chapter": "伤寒例第三",
+      "para_index": 25,
+      "para_id": "shanghanlun#05-p25",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡兩感病俱作，治有先後，發表攻裏，本自不同，而執迷妄意者，乃云神丹、甘遂合而飲之",
+      "note": "以兩感病誤治要求行醫審慎，以智愚對舉評論品格，又斥世人逐榮忘身而勸明者護本；三個領域分別承載職業、德性與護身內容",
+      "co_domains": [
+        "VIII",
+        "VII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 3,
+      "para_id": "shishuo-xinyu#02-p03",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "劉伶病酒，渴甚，從婦求酒。婦捐酒毀器，涕泣諫曰：「君飲太過，非攝生之道，必宜斷之",
+      "note": "妻子因飲酒傷身勸劉伶戒斷，他卻以不能自禁為辭設計續飲，寫身體依賴與人能否自制改變。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 24,
+      "para_id": "shishuo-xinyu#02-p24",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "鴻臚卿孔群好飲酒。王丞相語云：「卿何為恆飲酒？不見酒家覆瓿布，日月糜爛？」群曰：",
+      "note": "孔群面對久飲會使人敗壞的質疑，以糟肉反證酒能保存身體，雖屬戲答仍在處理飲酒與身體損益。",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "任誕",
+      "para_index": 52,
+      "para_id": "shishuo-xinyu#02-p52",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "王佛大嘆言：「三日不飲酒，覺形神不復相親。」〈晉安帝紀曰：「忱少慕達，好酒，在荊",
+      "note": "王忱自述三日不飲便覺形體與精神疏離，附注又記其嗜酒而死，呈現依賴的身心經驗。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "假譎",
+      "para_index": 2,
+      "para_id": "shishuo-xinyu#04-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魏武行役，失汲道，軍皆渴，乃令曰：「前有大梅林，饒子，甘酸，可以解渴。」士卒聞之",
+      "note": "曹操以梅林之說引發士卒口中生津，使受渴軍隊撐到水源，連結領導手段與身體困苦的緩解。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "夙惠",
+      "para_index": 6,
+      "para_id": "shishuo-xinyu#08-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "晉孝武年十二，時冬天，晝日不箸複衣，但箸單練衫五六重，夜則累茵褥。謝公諫曰：「聖",
+      "note": "謝安與孝武帝討論晝夜衣被冷熱及攝養，並以動靜差異解釋身體如何調適寒暖",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "容止",
+      "para_index": 10,
+      "para_id": "shishuo-xinyu#09-p10",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "裴令公有儁容姿，一旦有疾至困，惠帝使王夷甫往看，裴方向壁臥，聞王使至，強回視之。",
+      "note": "裴楷病重困臥仍勉強回視來客，王衍由眼神辨認其精神尚存，主軸是疾病中身體與精神的狀態",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "容止",
+      "para_index": 16,
+      "para_id": "shishuo-xinyu#09-p16",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "王丞相見衛洗馬曰：「居然有羸形，雖復終日調暢，若不堪羅綺。」〈《玠別傳》曰：「玠",
+      "note": "王導所說羸形不堪羅綺及注文所載宿疾，都直接指向衛玠長期的身體羸弱",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "容止",
+      "para_index": 19,
+      "para_id": "shishuo-xinyu#09-p19",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "衛玠從豫章至下都，人久聞其名，觀者如堵牆。玠先有羸疾，體不堪勞，遂成病而死。時人",
+      "note": "衛玠原有羸疾又因觀者擁堵而勞病致死，疾病、身體負荷與死亡本身共同構成故事收束",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "排調",
+      "para_index": 10,
+      "para_id": "shishuo-xinyu#19-p10",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "陸太尉詣王丞相，〈陸玩已見。〉王公食以酪。陸還遂病。明日與王牋云：「昨食酪小過，",
+      "note": "陸玩吃酪後整夜病困，次日以幾成北人之鬼自述身體對異地食物的不適",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 14,
+      "para_id": "shishuo-xinyu#21-p14",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "衞玠總角時問樂令「夢」，樂云：「是想。」衞曰：「形神所不接，而夢豈是想邪？」樂云",
+      "note": "衞玠因連日鑽研夢因而成病，經樂廣剖析後稍癒，核心是心智勞耗與身體病況",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 20,
+      "para_id": "shishuo-xinyu#21-p20",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "衞玠始度江，見王大將軍。〈《敦別傳》曰：「敦字處仲，琅邪臨沂人。少有名理，累遷靑",
+      "note": "衞玠不顧羸疾與謝鯤徹夜清談，病勢轉篤而亡，主軸是身體限制被過度耗損",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 39,
+      "para_id": "shishuo-xinyu#21-p39",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "林道人詣謝公，東陽時始總角，新病起，體未堪勞。與林公講論，遂至相苦。〈東陽，謝朗",
+      "note": "謝朗病後仍被留作苦談，母親以家難後唯此一子而流涕護歸",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "術解",
+      "para_index": 10,
+      "para_id": "shishuo-xinyu#28-p10",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "郗愔信道，甚精勤。常患腹內惡，諸醫不可療，聞于法開有名，往迎之。既來，便脈云：「",
+      "note": "郗愔精進過度、吞符累積而患腹病，法開診出信仰實踐與身體病痛的因果並將其治癒。",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 14,
+      "para_id": "shishuo-xinyu#30-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "何平叔云：「服五石散，非唯治病，亦覺神明開朗。」〈《魏略》曰：「何晏字平叔，南陽",
+      "note": "何晏主張五石散既能治病又使心神開朗，同時提出身體療效與主觀精神感受。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 17,
+      "para_id": "shishuo-xinyu#30-p17",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "鄧艾口吃，語稱「艾艾……」〈《魏志》曰：「艾字士載，棘陽人，少爲農人養犢。年十二",
+      "note": "鄧艾的口吃被拿來取笑，他以《鳳兮》巧答而保全自尊，呈現身體限制與受污名時的自我維護。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 57,
+      "para_id": "shishuo-xinyu#30-p57",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "顧悅與簡文同年，而髮蚤白。〈《中興書》曰：「悅字君叔，晉陵人。初爲殷浩揚州別駕。",
+      "note": "顧悅以蒲柳早衰自況，說明自己同齡而先白是體質與受命不同，兼及身體限制及提早衰老。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "賞譽",
+      "para_index": 68,
+      "para_id": "shishuo-xinyu#34-p68",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "杜弘治墓崩，哀容不稱。庾公顧謂諸客曰：「弘治至羸，不可以致哀。」〈晉陽秋曰：「杜",
+      "note": "杜乂因羸弱而哭貌不足致哀，直接呈現悲傷表達受身體條件限制。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "sunzi-bingfa",
+      "chapter": "行軍第九",
+      "para_index": 2,
+      "para_id": "sunzi-bingfa#09-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡軍好高而惡下，貴陽而賤陰，養生而處實，軍無百疾，是謂必勝。丘陵堤防，必處其陽，",
+      "note": "「養生而處實，軍無百疾」：駐地選擇與部隊疾病的關聯",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 30,
+      "para_id": "yanshi-jiaxun#06-p30",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "思魯等第四舅母，親吳郡張建女也，有第五妹，三歲喪母。靈牀上屛風，平生舊物，屋漏沾",
+      "note": "敘三歲喪母的女子見母親舊屏風後伏床痛哭，繼而不能飲食、吐血身亡，完整呈現失母記憶引發的極端悲傷及身體崩潰",
+      "co_domains": [
+        "IV",
+        "VI",
+        "X"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 38,
+      "para_id": "yanshi-jiaxun#06-p38",
+      "modes": [
+        "prescription",
+        "ritual"
+      ],
+      "excerpt": "兵兇戰危，非安全之道。古者，天子喪服以臨師，將軍鑿兇門而出。父祖伯叔，若在軍陣，",
+      "note": "規定父祖伯叔在軍陣、家居圍城或父母病篤時，親屬應停樂罷宴、去飾戒懼並向醫者涕拜，處理家人在戰死風險與重病前的具體應對",
+      "co_domains": [
+        "IV",
+        "X"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "勉学第八",
+      "para_index": 14,
+      "para_id": "yanshi-jiaxun#08-p14",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "梁元帝尝为吾说：“昔在会稽，年始十二，便已好学。时又患疥，手不得拳，膝不得屈。闲",
+      "note": "敘梁元帝幼時患疥、手膝難屈仍忍痛日讀史書二十卷，以帝子尚能如此反問希望自達的庶士，論身體痛苦中仍磨練本領以求成就",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "勉学第八",
+      "para_index": 15,
+      "para_id": "yanshi-jiaxun#08-p15",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "古人勤学，有握锥投斧，照雪聚萤，锄则带经，牧则编简，亦为勤笃。梁世彭城刘绮，交州",
+      "note": "連敘劉綺、朱詹與臧逢世在貧困中以燃荻、吞紙忍飢、抱犬禦寒或借紙抄書，終憑才學受用，呈現身體困苦與學業成就",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "涉务第十一",
+      "para_index": 3,
+      "para_id": "yanshi-jiaxun#11-p03",
+      "modes": [
+        "observation",
+        "narrative"
+      ],
+      "excerpt": "梁世士大夫，皆尚褒衣博带，大冠高履，出则车舆，入则扶侍，郊郭之内，无乘马者。周弘",
+      "note": "觀察梁代士大夫崇尚車輿扶侍、不騎馬行走，導致身體羸弱、亂中大量猝死，又以王復見馬驚懼的故事呈現身體失能",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "養生第十五",
+      "para_index": 1,
+      "para_id": "yanshi-jiaxun#15-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "神仙之事，未可全誣；但性命在天，或難鐘值。人生居世，觸途牽縶：幼少之日，既有供養",
+      "note": "辨明成仙既難且仍不能免死，在壽命受天命限制下，仍可用作息、飲食與審慎服藥調護身體、避免夭折；並以有效小術和誤藥致死者告誡不可專精仙術或輕率用藥",
+      "co_domains": [
+        "X",
+        "XI",
+        "XII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "養生第十五",
+      "para_index": 2,
+      "para_id": "yanshi-jiaxun#15-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫養生者先須慮禍，全身保性，有此生然後養之，勿徒養其無生也。單豹養於內而喪外，張",
+      "note": "主張養生先要避禍全身，並以單豹、張毅及因傲慢受刑、因貪溺取禍者說明只調養內外而不修正品格與行事，仍會喪失生命",
+      "co_domains": [
+        "VII",
+        "X"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "歸心第十六",
+      "para_index": 13,
+      "para_id": "yanshi-jiaxun#16-p13",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "江陵劉氏，以賣鱔羹為業。後生一兒頭是鱔，自頸以下，方為人耳。",
+      "note": "敘以販賣鱔羹為業的劉氏生下鱔首人身之子，按戒殺段落的上下文，以後代身體異常承載殺生業報的勸誡",
+      "co_domains": [
+        "VII",
+        "XII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "歸心第十六",
+      "para_index": 14,
+      "para_id": "yanshi-jiaxun#16-p14",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王克為永嘉郡守，有人餉羊，集賓欲燕。而羊繩解，來投一客，先跪兩拜，便入衣中。此客",
+      "note": "敘羊向賓客跪求而未獲救，賓客食羊後肉塊遍行體內、痛呼作羊鳴而死，以身體折磨與死亡呈現漠視求生、參與殺食的因果報應",
+      "co_domains": [
+        "VII",
+        "X",
+        "XII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "歸心第十六",
+      "para_index": 15,
+      "para_id": "yanshi-jiaxun#16-p15",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "梁孝元在江州時，有人為望蔡縣令，經劉敬躬亂，縣廨被焚，寄寺而住。民將牛酒作禮，縣",
+      "note": "敘縣令在寺中撤除形像、無視牛跪拜仍命宰殺，隨後患癩十餘年而死，把褻瀆、殘酷殺生與疾病死亡連成宗教報應故事",
+      "co_domains": [
+        "VII",
+        "X",
+        "XII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "歸心第十六",
+      "para_index": 16,
+      "para_id": "yanshi-jiaxun#16-p16",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "楊思達為西陽郡守，值侯景亂，時復旱儉，饑民盜田中麥。思達遣一部曲守視，所得盜者，",
+      "note": "敘郡守在亂世旱饑中截斷十餘名偷麥饑民的手腕，執行者後來生下無手之子，以統治者濫施刑罰及身體殘害承載跨代業報",
+      "co_domains": [
+        "V",
+        "VII",
+        "XII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "歸心第十六",
+      "para_index": 17,
+      "para_id": "yanshi-jiaxun#16-p17",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊有一奉朝請，家甚豪侈，非手殺牛，噉之不美。年三十許，病篤，大見牛來，舉體如被刀",
+      "note": "敘豪侈官員嗜好親手殺牛，病危時看見群牛並感到全身如遭刀刺而死，以痛苦死亡呈現好殺之行的超自然報驗",
+      "co_domains": [
+        "VII",
+        "X",
+        "XII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "歸心第十六",
+      "para_index": 18,
+      "para_id": "yanshi-jiaxun#16-p18",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "江陵高偉，隨吾入齊，凡數年，向幽州澱中捕魚。後病，每見群魚嚙之而死。",
+      "note": "敘高偉捕魚後患病，反覆看見群魚啃咬自己而死，承接戒殺論述，以疾病、幻見與死亡呈現捕殺所得的因果報應",
+      "co_domains": [
+        "VII",
+        "X",
+        "XII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "杂艺第十九",
+      "para_index": 10,
+      "para_id": "yanshi-jiaxun#19-p10",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "医方之事，取妙极难，不劝汝曹以自命也。微解药性，小小和合，居家得以救急，亦为胜事",
+      "note": "因醫術難臻精妙而勸子弟不可自命醫家，只宜略知藥性以供居家救急，兼顧家內照護、職業分寸與疾病救治",
+      "co_domains": [
+        "IV",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "终制第二十",
+      "para_index": 1,
+      "para_id": "yanshi-jiaxun#20-p01",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "死者，人之常分，不可免也。吾年十九，值梁家丧乱，其间与白刃为伍者，亦常数辈；幸承",
+      "note": "作者面對衰年疾病與不可免之死，自述歷經亂世而活至六十餘歲已能坦然，並把素懷寫成給子孫的遺誡，是他替自己的死亡處境說出安頓之道",
+      "co_domains": [
+        "IV",
+        "X",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "本議第一",
+      "para_index": 3,
+      "para_id": "yantielun#01-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「匈奴背叛不臣，數為寇暴於邊鄙，備之則勞中國之士，不備則侵盜不止。先帝哀",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "本議第一",
+      "para_index": 6,
+      "para_id": "yantielun#01-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「古者，貴以德而賤用兵。孔子曰：『遠人不服，則修文德以來之。既來之，則安",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "力耕第二",
+      "para_index": 1,
+      "para_id": "yantielun#02-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "大夫曰：「王者塞天財，禁關市，執準守時，以輕重御民。豐年歲登，則儲積以備乏絕；凶",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "備胡第三十八",
+      "para_index": 8,
+      "para_id": "yantielun#08-p08",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "賢良曰：「匈奴之地廣大，而戎馬之足輕利，其勢易騷動也。利則虎曳，病則鳥折，辟鋒銳",
+      "note": "身在胡越而心懷老母／采薇／宋伯姬——全書共情高峰之一",
+      "co_domains": [
+        "III",
+        "IV",
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "執務第三十九",
+      "para_index": 2,
+      "para_id": "yantielun#09-p02",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "賢良曰：「孟子曰：『堯、舜之道，非遠人也，而人不思之耳。』詩云：『求之不得，寤寐",
+      "note": "男女怨曠而相思／一人行而鄉曲恨",
+      "co_domains": [
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "XII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "取下第四十一",
+      "para_index": 2,
+      "para_id": "yantielun#11-p02",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "賢良曰：「古者，上取有量，自養有度，樂歲不盜，年饑則肆，用民之力，不過歲三日，籍",
+      "note": "安者不能恤危、飽者不能食饑——不知老母之憔悴、匹婦之悲恨；共情邊界的總目陳述",
+      "co_domains": [
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "擊之第四十二",
+      "para_index": 3,
+      "para_id": "yantielun#12-p03",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "文學曰：「異時，縣官修輕賦，公用饒，人富給。其後，保胡、越，通四夷，費用不足。於",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "輕重第十四",
+      "para_index": 6,
+      "para_id": "yantielun#14-p06",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "文學曰：「邊郡山居谷處，陰陽不和，寒凍裂地，沖風飄鹵，沙石凝積，地勢無所宜。中國",
+      "note": "",
+      "co_domains": [
+        "IV",
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "國疾第二十八",
+      "para_index": 6,
+      "para_id": "yantielun#36-p06",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "賢良曰：「夫山東天下之腹心，賢士之戰場也。高皇帝龍飛鳳舉於宋、楚之間，山東子弟蕭",
+      "note": "百姓不保其首領／貧即寡恥，乏即少廉／生不養，死厚送",
+      "co_domains": [
+        "IV",
+        "V",
+        "VII",
+        "X"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "和親第四十八",
+      "para_index": 2,
+      "para_id": "yantielun#42-p02",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "文學曰：「往者，通關梁，交有無，自單于以下，皆親漢內附，往來長城之下。其後，王恢",
+      "note": "",
+      "co_domains": [
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "散不足第二十九",
+      "para_index": 33,
+      "para_id": "yantielun#43-p33",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "「古者，不以人力徇於禽獸，不奪民財以養狗馬，是以財衍而力有餘。今猛獸奇蟲不可以耕",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "水旱第三十六",
+      "para_index": 2,
+      "para_id": "yantielun#50-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "賢良曰：「古者，政有德，則陰陽調，星辰理，風雨時。故行修於內，聲聞於外，為善於下",
+      "note": "政有德則陰陽調",
+      "co_domains": [
+        "V",
+        "XII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "申韓第五十六",
+      "para_index": 3,
+      "para_id": "yantielun#52-p03",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "御史曰：「衣缺不補，則日以甚，防漏不塞，則日益滋。大河之始決於瓠子也，涓涓爾，及",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "周秦第五十七",
+      "para_index": 2,
+      "para_id": "yantielun#53-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「古者，周其禮而明其教，禮周教明，不從者然後等之以刑，刑罰中，民不怨。故",
+      "note": "刑人非人也／一日下蠶室／子為父隱，父為子隱／首匿相坐之法立，骨肉之恩廢",
+      "co_domains": [
+        "II",
+        "IV",
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "詔聖第五十八",
+      "para_index": 4,
+      "para_id": "yantielun#54-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「古者，明其仁義之誓，使民不踰；不教而殺，是虐民也。與其刑不可踰，不若義",
+      "note": "窮鼠齧貍，匹夫奔萬乘",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "地廣第十六",
+      "para_index": 1,
+      "para_id": "yantielun#57-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫曰：「王者包含幷覆，普愛無私，不為近重施，不為遠遺恩。今俱是民也，俱是臣也，",
+      "note": "邊民百戰，而中國恬臥者",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yantielun",
+      "chapter": "地廣第十六",
+      "para_index": 2,
+      "para_id": "yantielun#57-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文學曰：「古者，天子之立於天下之中，縣內方不過千里，諸侯列國，不及不食之地，禹貢",
+      "note": "",
+      "co_domains": [
+        "V"
+      ]
+    }
+  ]
+}

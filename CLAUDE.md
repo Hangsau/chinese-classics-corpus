@@ -129,7 +129,9 @@
 
 ### 6. 文件對齊
 
-結構性改動後主動更新 `HANDOFF.md`、`MAP.md`、`SCHEMA.md`、`00-overview/INDEX.md`，不等使用者問。
+結構性改動後主動更新 `HANDOFF.md`、`MAP.md`、`SCHEMA.md`，並跑 `build-index.py` 重生 `00-overview/`（`INDEX` ＋ `DOMAINS` ＋ `domains/`），不等使用者問。
+
+**標完一部書就重生索引。**段落級標註的價值只在反向索引裡兌現——書級 `domains_hit` 只能告訴你去哪本書找，那正是 SCHEMA §1.1 說不夠用的東西。索引沒重生，那部書等於還沒進檢索層。
 
 ## 環境
 
