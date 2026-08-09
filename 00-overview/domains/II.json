@@ -2,9 +2,9 @@
   "domain": "II",
   "name_zh": "自我與認同",
   "gist": "我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我",
-  "generated_at": "2026-08-09T22:41:21+00:00",
-  "para_count": 352,
-  "book_count": 12,
+  "generated_at": "2026-08-09T23:23:58+00:00",
+  "para_count": 355,
+  "book_count": 13,
   "surveyed_zero_hit": [
     "fangyan",
     "gu-sanfen",
@@ -148,6 +148,50 @@
       "note": "頌同時寫雖五逐而獲接見的身分翻轉、談國政的公共內容及甚有文的才具評斷，三面不可刪",
       "co_domains": [
         "V",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "舉賢第十",
+      "para_index": 1,
+      "para_id": "liutao#11-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "文王問太公曰：「君務舉賢，而不能獲其功。世亂愈甚，以致危亡者，何也？」太公曰：「",
+      "note": "指出舉賢不用是有名無實，並要求按名督實、選才考能，使職名、實際能力與任用相符",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "選將第二十",
+      "para_index": 1,
+      "para_id": "liutao#23-p01",
+      "modes": [
+        "observation",
+        "formalization"
+      ],
+      "excerpt": "武王問太公曰：「王者舉兵，欲簡練英雄，知士之高下，為之奈何？」太公曰：「夫士外貌",
+      "note": "先列十五種外貌與中情不相應的人，再以言辭、財、色、患難與酒等八徵辨其誠廉貞勇及真實品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "練士第五十三",
+      "para_index": 1,
+      "para_id": "liutao#59-p01",
+      "modes": [
+        "formalization"
+      ],
+      "excerpt": "武王問太公曰：「練士之道奈何？」太公曰：「軍中有大勇力，敢死樂傷者，聚為一卒，名",
+      "note": "按勇力、失勢求復功、為將報仇、貧窮快志、逃恥及材技等身分、動機與才具分類編伍，既涉及名譽身分，也依能力與動機安排軍事用途",
+      "co_domains": [
         "VIII"
       ]
     },

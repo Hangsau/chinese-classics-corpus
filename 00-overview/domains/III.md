@@ -1,7 +1,7 @@
 # III 愛與親密
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 84 段命中｜跨 10 部｜生成時間 2026-08-09T22:41:21+00:00
+> 84 段命中｜跨 10 部｜生成時間 2026-08-09T23:23:58+00:00
 
 愛與性、被拒絕、承諾、信任與脆弱、溝通與被理解
 
@@ -11,7 +11,7 @@
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jijiupian`（急就篇）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`nanjing`（難經）　`shanghanlun`（傷寒論）　`shenyijing`（神異經）
+`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jijiupian`（急就篇）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`shanghanlun`（傷寒論）　`shenyijing`（神異經）
 
 ## 列女傳（雜史）　31 段
 

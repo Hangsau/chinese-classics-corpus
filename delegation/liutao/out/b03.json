@@ -1,0 +1,172 @@
+{
+  "batch": "b03.md",
+  "rows": [
+    {
+      "chapter": "突戰第四十四",
+      "para_index": 1,
+      "domains": [],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "全段針對敵軍深入或分兵侵掠，規定設壘、伏兵、弩門及前後夾擊，是戰法處置；士卒恐懼只作為敵情，沒有另談人的內在生活"
+    },
+    {
+      "chapter": "敵強第四十五",
+      "para_index": 1,
+      "domains": [],
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "reason": "面對敵強我弱與軍伍潰亂，本文規定前後夾擊及炬火、鼓音、微號相應的作戰通訊程序，沒有另論人的品格或情緒"
+    },
+    {
+      "chapter": "敵武第四十六",
+      "para_index": 1,
+      "domains": [],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "本文只規定遭強敵追擊時如何配置伏弩、車騎並衝擊敵軍前後左右，三軍震動與逃走都是待處置的戰場反應"
+    },
+    {
+      "chapter": "烏雲山兵第四十七",
+      "para_index": 1,
+      "domains": [],
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "reason": "依山之陰陽左右配置兵力、車騎、衝陣與旌旂，形成可執行的山地布陣程序，沒有超出地形戰法而談人"
+    },
+    {
+      "chapter": "烏雲澤兵第四十八",
+      "para_index": 1,
+      "domains": [],
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "reason": "本文針對臨水缺糧與退敗情勢，規定衝陣、伏兵、強弩及烏雲之陣的配置與發動次序，屬水澤戰法程序"
+    },
+    {
+      "chapter": "少眾第四十九",
+      "para_index": 1,
+      "domains": [],
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "reason": "本文主張少擊眾須借暮色隘路、弱擊強須借外援，並規定誘敵與求援之法，交往辭幣在此只是取勝手段"
+    },
+    {
+      "chapter": "分險第五十",
+      "para_index": 1,
+      "domains": [],
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "reason": "全段規定山水險地中的渡軍、武衝、強弩、三千人一屯及輪戰輪息配置，是具數量與方位的作戰程序"
+    },
+    {
+      "chapter": "分合第五十一",
+      "para_index": 1,
+      "domains": [],
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "reason": "本文把戰地戰日、移檄期會、漏刻校時及遲早賞斬編成三軍分合協定，賞罰服務於準時會戰而非公義論述"
+    },
+    {
+      "chapter": "武鋒第五十二",
+      "para_index": 1,
+      "domains": [],
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "reason": "列出敵軍新集、未食、疲勞、行亂、心怖等十四個可擊條件，形成判定出擊時機的戰術檢核表"
+    },
+    {
+      "chapter": "練士第五十三",
+      "para_index": 1,
+      "domains": [
+        "II",
+        "VIII"
+      ],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "按勇力、失勢求復功、為將報仇、貧窮快志、逃恥及材技等身分、動機與才具分類編伍，既涉及名譽身分，也依能力與動機安排軍事用途"
+    },
+    {
+      "chapter": "教戰第五十四",
+      "para_index": 1,
+      "domains": [],
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "reason": "以一人、十人、百人、千人、萬人逐級合練到三軍，規定金鼓旌旂與操兵的規模化訓練程序，沒有另談人的生活問題"
+    },
+    {
+      "chapter": "均兵第五十五",
+      "para_index": 1,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "全段量化車、騎、步的戰力比例、吏將編制、隊列距離與屯聚數目，是兵種配置規格表"
+    },
+    {
+      "chapter": "武車士第五十六",
+      "para_index": 1,
+      "domains": [],
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "reason": "以年齡、身高、追馬乘車、操旗與彀弩等體能門檻界定何人可任武車之士，是選人規格表，與王翼的編制表同類，沒有另說關於人的什麼"
+    },
+    {
+      "chapter": "武騎士第五十七",
+      "para_index": 1,
+      "domains": [],
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "reason": "以年齡、身高、騎射、越險等體能門檻界定何人可任武騎之士，是選人規格表，與王翼的編制表同類，沒有另說關於人的什麼"
+    },
+    {
+      "chapter": "戰車第五十八",
+      "para_index": 1,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "十種死地與八種勝地都是戰車地形及敵陣狀態的分類檢核表，疑怯恐懼只被列作可乘之戰機"
+    },
+    {
+      "chapter": "戰騎第五十九",
+      "para_index": 1,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "以敵陣、地勢、糧道和騎兵進退條件列成十勝九敗的戰術分類，士卒恐駭只作勝負徵候"
+    },
+    {
+      "chapter": "戰步第六十",
+      "para_index": 1,
+      "domains": [],
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "reason": "本文規定步兵對車騎時的長短兵位置、行馬蒺藜、四武衝陣與五尺壕溝配置，是可執行的兵種戰法"
+    }
+  ]
+}

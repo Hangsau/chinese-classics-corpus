@@ -2,9 +2,9 @@
   "domain": "XI",
   "name_zh": "自由·命運·改變",
   "gist": "自由意志與命運、選擇與代價、改變與重來",
-  "generated_at": "2026-08-09T22:41:21+00:00",
-  "para_count": 150,
-  "book_count": 8,
+  "generated_at": "2026-08-09T23:23:58+00:00",
+  "para_count": 151,
+  "book_count": 9,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -151,6 +151,20 @@
       "co_domains": [
         "V",
         "IX"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "盈虛第二",
+      "para_index": 1,
+      "para_id": "liutao#03-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文王問太公曰：「天下熙熙，一盈一虛，一治一亂，所以然者，何也？其君賢、不肖不等乎",
+      "note": "明言禍福在君不在天時，並以堯薄自奉、寡賦役、賞罰不私及存養孤弱說明君主治理如何使萬民富樂",
+      "co_domains": [
+        "V"
       ]
     },
     {

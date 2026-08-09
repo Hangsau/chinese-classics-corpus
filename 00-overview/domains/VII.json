@@ -2,9 +2,9 @@
   "domain": "VII",
   "name_zh": "善惡·良心·品格",
   "gist": "罪咎與贖罪、惡與殘忍與同理、誠實與虛偽、勇氣",
-  "generated_at": "2026-08-09T22:41:21+00:00",
-  "para_count": 744,
-  "book_count": 13,
+  "generated_at": "2026-08-09T23:23:58+00:00",
+  "para_count": 754,
+  "book_count": 14,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -2172,6 +2172,152 @@
       "note": "頌用「貪叨無足」「執詐不愨」等語明斥貪欲欺詐，並把受賂、亡趙與身死列作其公共後果",
       "co_domains": [
         "V"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "文師第一",
+      "para_index": 1,
+      "para_id": "liutao#02-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "文王將田，史編布卜，曰：「田於渭陽，將大得焉。非龍非彲，非虎非羆，兆得公侯，天遺",
+      "note": "以文王得太公的情節承載議論，並由「天下非一人之天下」及與人共利、救患濟急、同憂同樂界定仁德義，談公共利益與品格",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "大禮第四",
+      "para_index": 1,
+      "para_id": "liutao#05-p01",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "文王問太公曰：「君臣之禮如何？」太公曰：「為上惟臨，為下惟沉。臨而無遠，沉而無隱",
+      "note": "分說君臣上下的角色與主位、主聽、主明之道，要求居上者安靜虛心、正待事物並兼聽天下",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "明傳第五",
+      "para_index": 1,
+      "para_id": "liutao#06-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文王寢疾，召太公望，太子發在側。曰：「嗚呼！天將棄予。周之社稷，將以屬汝。今予欲",
+      "note": "以見善而怠、知非而處說明道何以止，並把義與欲、敬與怠的內在勝負連到昌亡吉滅",
+      "co_domains": []
+    },
+    {
+      "slug": "liutao",
+      "chapter": "六守第六",
+      "para_index": 1,
+      "para_id": "liutao#07-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "文王問太公曰：「君國主民者，其所以失之者何也？」太公曰：「不謹所與也。人君有六守",
+      "note": "列仁義忠信勇謀六種品性及富、貴、付、使、危、事六種考驗，用人在處境中的表現判斷能否受任",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "上賢第九",
+      "para_index": 1,
+      "para_id": "liutao#10-p01",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "文王問太公曰：「王人者，何上何下，何取何去，何禁何止？」太公曰：「上賢，下不肖。",
+      "note": "用六賊七害逐項辨出結黨蔽賢、有名無實、偽飾求利等敗壞品格，並規定統治者應去取禁止哪些人",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "發啟第十二",
+      "para_index": 1,
+      "para_id": "liutao#14-p01",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "文王在豐，召太公曰：「嗚呼！商王虐極，罪殺不辜，公尚助予憂民，如何？」太公曰：「",
+      "note": "要求修德下賢、惠民並與人同病相救，且以利天下或害天下、邪曲或正直說明德性與共同利益如何決定歸附",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "文啟第十三",
+      "para_index": 1,
+      "para_id": "liutao#15-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "文王問太公曰：「聖人何守？」太公曰：「何憂何嗇，萬物皆得；何嗇何憂，萬物皆遒。政",
+      "note": "由聖人不自明、務靜與賢人務正談品格，再以刑繁民憂流亡及與天下共其生說明治理責任",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "順啟第十五",
+      "para_index": 1,
+      "para_id": "liutao#17-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文王問太公曰：「何如而可為天下？」太公曰：「大蓋天下，然後能容天下。信蓋天下，然",
+      "note": "以包容、信、仁、恩等品格為治理天下的條件，並用利害、生殺、安危如何招致擁戴或仇視說明公共責任",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "論將第十九",
+      "para_index": 1,
+      "para_id": "liutao#22-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "武王問太公曰：「論將之道奈何？」太公曰：「將有五材十過。」武王曰：「敢問其目？」",
+      "note": "以勇智仁信忠五材及輕死、心速、貪利、自用等十過分類將領品格，並說明各弱點如何影響其勝任",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "選將第二十",
+      "para_index": 1,
+      "para_id": "liutao#23-p01",
+      "modes": [
+        "observation",
+        "formalization"
+      ],
+      "excerpt": "武王問太公曰：「王者舉兵，欲簡練英雄，知士之高下，為之奈何？」太公曰：「夫士外貌",
+      "note": "先列十五種外貌與中情不相應的人，再以言辭、財、色、患難與酒等八徵辨其誠廉貞勇及真實品格",
+      "co_domains": [
+        "II"
       ]
     },
     {

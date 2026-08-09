@@ -1,7 +1,7 @@
 # XIII 安頓·修復·平安
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 60 段命中｜跨 8 部｜生成時間 2026-08-09T22:41:21+00:00
+> 60 段命中｜跨 8 部｜生成時間 2026-08-09T23:23:58+00:00
 
 靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈
 
@@ -11,7 +11,7 @@
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`nanjing`（難經）　`qianfulun`（潛夫論）　`shanghanlun`（傷寒論）　`shenyijing`（神異經）　`shuowen-jiezi`（說文解字）　`sunzi-bingfa`（孫子兵法）
+`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`qianfulun`（潛夫論）　`shanghanlun`（傷寒論）　`shenyijing`（神異經）　`shuowen-jiezi`（說文解字）　`sunzi-bingfa`（孫子兵法）
 
 ## 世說新語（人論）　25 段
 

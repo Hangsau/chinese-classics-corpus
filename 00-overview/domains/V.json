@@ -2,9 +2,9 @@
   "domain": "V",
   "name_zh": "群體·社會·公義",
   "gist": "孤獨與歸屬、友誼、我群他群與偏見、公義與權力、責任與領導",
-  "generated_at": "2026-08-09T22:41:21+00:00",
-  "para_count": 1093,
-  "book_count": 15,
+  "generated_at": "2026-08-09T23:23:58+00:00",
+  "para_count": 1109,
+  "book_count": 16,
   "surveyed_zero_hit": [
     "haidao-suanjing",
     "jinkui-yaolue",
@@ -2010,6 +2010,226 @@
       "note": "頌用「貪叨無足」「執詐不愨」等語明斥貪欲欺詐，並把受賂、亡趙與身死列作其公共後果",
       "co_domains": [
         "VII"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "文師第一",
+      "para_index": 1,
+      "para_id": "liutao#02-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "文王將田，史編布卜，曰：「田於渭陽，將大得焉。非龍非彲，非虎非羆，兆得公侯，天遺",
+      "note": "以文王得太公的情節承載議論，並由「天下非一人之天下」及與人共利、救患濟急、同憂同樂界定仁德義，談公共利益與品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "盈虛第二",
+      "para_index": 1,
+      "para_id": "liutao#03-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文王問太公曰：「天下熙熙，一盈一虛，一治一亂，所以然者，何也？其君賢、不肖不等乎",
+      "note": "明言禍福在君不在天時，並以堯薄自奉、寡賦役、賞罰不私及存養孤弱說明君主治理如何使萬民富樂",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "國務第三",
+      "para_index": 1,
+      "para_id": "liutao#04-p01",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "文王問太公曰：「願聞為國之務，欲使主尊人安，為之奈何？」太公曰：「愛民而已。」文",
+      "note": "以勿害、勿奪、薄賦、省刑等規定解釋愛民，並要求治理者見民饑寒勞苦如父母兄長般憂悲",
+      "co_domains": []
+    },
+    {
+      "slug": "liutao",
+      "chapter": "大禮第四",
+      "para_index": 1,
+      "para_id": "liutao#05-p01",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "文王問太公曰：「君臣之禮如何？」太公曰：「為上惟臨，為下惟沉。臨而無遠，沉而無隱",
+      "note": "分說君臣上下的角色與主位、主聽、主明之道，要求居上者安靜虛心、正待事物並兼聽天下",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "守土第七",
+      "para_index": 1,
+      "para_id": "liutao#08-p01",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "文王問太公曰：「守土奈何？」太公曰：「無疏其親，無怠其眾，撫其左右，御其四旁。無",
+      "note": "反覆規定君主不可把國柄威權借人，並以敬眾、合親及施惠說明權力、責任與群體和合",
+      "co_domains": []
+    },
+    {
+      "slug": "liutao",
+      "chapter": "守國第八",
+      "para_index": 1,
+      "para_id": "liutao#09-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文王問太公曰：「守國奈何？」太公曰：「齋，將語君天地之經，四時所生，仁聖之道，民",
+      "note": "以聖人牧民、順常則民安及先倡而天下和之，主張治理者應如何使群體免於得失相爭",
+      "co_domains": []
+    },
+    {
+      "slug": "liutao",
+      "chapter": "上賢第九",
+      "para_index": 1,
+      "para_id": "liutao#10-p01",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "文王問太公曰：「王人者，何上何下，何取何去，何禁何止？」太公曰：「上賢，下不肖。",
+      "note": "用六賊七害逐項辨出結黨蔽賢、有名無實、偽飾求利等敗壞品格，並規定統治者應去取禁止哪些人",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "賞罰第十一",
+      "para_index": 1,
+      "para_id": "liutao#12-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "文王問太公曰：「賞所以存勸，罰所以示懲。吾欲賞一以勸百，罰一以懲眾，為之奈何？」",
+      "note": "主張賞必可信、罰必實行且須讓人耳聞目見，以此說明公共賞罰如何勸善懲眾並建立信服",
+      "co_domains": []
+    },
+    {
+      "slug": "liutao",
+      "chapter": "發啟第十二",
+      "para_index": 1,
+      "para_id": "liutao#14-p01",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "文王在豐，召太公曰：「嗚呼！商王虐極，罪殺不辜，公尚助予憂民，如何？」太公曰：「",
+      "note": "要求修德下賢、惠民並與人同病相救，且以利天下或害天下、邪曲或正直說明德性與共同利益如何決定歸附",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "文啟第十三",
+      "para_index": 1,
+      "para_id": "liutao#15-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "文王問太公曰：「聖人何守？」太公曰：「何憂何嗇，萬物皆得；何嗇何憂，萬物皆遒。政",
+      "note": "由聖人不自明、務靜與賢人務正談品格，再以刑繁民憂流亡及與天下共其生說明治理責任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "順啟第十五",
+      "para_index": 1,
+      "para_id": "liutao#17-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文王問太公曰：「何如而可為天下？」太公曰：「大蓋天下，然後能容天下。信蓋天下，然",
+      "note": "以包容、信、仁、恩等品格為治理天下的條件，並用利害、生殺、安危如何招致擁戴或仇視說明公共責任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "立將第二十一",
+      "para_index": 1,
+      "para_id": "liutao#24-p01",
+      "modes": [
+        "ritual",
+        "prescription"
+      ],
+      "excerpt": "武王問太公曰：「立將之道奈何？」太公曰：「凡國有難，君避正殿，召將而詔之曰：『社",
+      "note": "以授斧鉞儀節確立君將權責，並要求將與士卒同坐食寒暑、君不從中御軍，核心是領導責任與信任邊界",
+      "co_domains": []
+    },
+    {
+      "slug": "liutao",
+      "chapter": "將威第二十二",
+      "para_index": 1,
+      "para_id": "liutao#25-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "武王問曰：「將何以為威？何以為明？何以禁止而令行？」太公曰：「將以誅大為威，以賞",
+      "note": "主張殺貴大、賞貴小，使刑上極而賞下通，以賞罰及於貴賤建立將威",
+      "co_domains": []
+    },
+    {
+      "slug": "liutao",
+      "chapter": "勵軍第二十三",
+      "para_index": 1,
+      "para_id": "liutao#26-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "武王問太公曰：「吾欲三軍之眾，攻城爭先登，野戰爭先赴，聞金聲而怒，聞鼓聲而喜，為",
+      "note": "將與士卒共寒暑勞苦饑飽，並明說士非好死而樂傷、是因將知其寒暑饑飽，在解釋人為何願為另一人赴死",
+      "co_domains": []
+    },
+    {
+      "slug": "liutao",
+      "chapter": "兵徵第二十九",
+      "para_index": 1,
+      "para_id": "liutao#32-p01",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "武王問太公曰：「吾欲未戰先知敵人之強弱，預見勝敗之徵，為之奈何？」太公曰：「勝敗",
+      "note": "以全軍悅懌相喜、敬將命或相恐相惑、不重其將判斷強弱，描述群體士氣與互信的整體狀態，後段則列聲氣等勝敗徵候",
+      "co_domains": []
+    },
+    {
+      "slug": "liutao",
+      "chapter": "農器第三十",
+      "para_index": 1,
+      "para_id": "liutao#33-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "武王問太公曰：「天下安定，國家無事。戰攻之具，可無修乎？守禦之備，可無設乎？」太",
+      "note": "前段把農具對應兵具，末段則主張善為國者安其處所、闢其田野，並以耕田畝數與織紝尺度組織生產人力",
+      "co_domains": [
+        "VIII"
       ]
     },
     {

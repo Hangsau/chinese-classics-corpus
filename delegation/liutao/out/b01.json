@@ -1,0 +1,152 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {
+      "chapter": "文師第一",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "以文王得太公的情節承載議論，並由「天下非一人之天下」及與人共利、救患濟急、同憂同樂界定仁德義，談公共利益與品格"
+    },
+    {
+      "chapter": "盈虛第二",
+      "para_index": 1,
+      "domains": ["V", "XI"],
+      "modes": ["proposition"],
+      "reason": "明言禍福在君不在天時，並以堯薄自奉、寡賦役、賞罰不私及存養孤弱說明君主治理如何使萬民富樂"
+    },
+    {
+      "chapter": "國務第三",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["prescription", "proposition"],
+      "reason": "以勿害、勿奪、薄賦、省刑等規定解釋愛民，並要求治理者見民饑寒勞苦如父母兄長般憂悲"
+    },
+    {
+      "chapter": "大禮第四",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "分說君臣上下的角色與主位、主聽、主明之道，要求居上者安靜虛心、正待事物並兼聽天下"
+    },
+    {
+      "chapter": "明傳第五",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "以見善而怠、知非而處說明道何以止，並把義與欲、敬與怠的內在勝負連到昌亡吉滅"
+    },
+    {
+      "chapter": "六守第六",
+      "para_index": 1,
+      "domains": ["VII", "VIII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "列仁義忠信勇謀六種品性及富、貴、付、使、危、事六種考驗，用人在處境中的表現判斷能否受任"
+    },
+    {
+      "chapter": "守土第七",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["prescription", "proposition"],
+      "reason": "反覆規定君主不可把國柄威權借人，並以敬眾、合親及施惠說明權力、責任與群體和合"
+    },
+    {
+      "chapter": "守國第八",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "以聖人牧民、順常則民安及先倡而天下和之，主張治理者應如何使群體免於得失相爭"
+    },
+    {
+      "chapter": "上賢第九",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["formalization", "prescription"],
+      "reason": "用六賊七害逐項辨出結黨蔽賢、有名無實、偽飾求利等敗壞品格，並規定統治者應去取禁止哪些人"
+    },
+    {
+      "chapter": "舉賢第十",
+      "para_index": 1,
+      "domains": ["II", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "指出舉賢不用是有名無實，並要求按名督實、選才考能，使職名、實際能力與任用相符"
+    },
+    {
+      "chapter": "賞罰第十一",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "主張賞必可信、罰必實行且須讓人耳聞目見，以此說明公共賞罰如何勸善懲眾並建立信服"
+    },
+    {
+      "chapter": "發啟第十二",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "要求修德下賢、惠民並與人同病相救，且以利天下或害天下、邪曲或正直說明德性與共同利益如何決定歸附"
+    },
+    {
+      "chapter": "文啟第十三",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "由聖人不自明、務靜與賢人務正談品格，再以刑繁民憂流亡及與天下共其生說明治理責任"
+    },
+    {
+      "chapter": "文伐第十四",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "全段把順志、賂左右、離忠臣、誘豪傑等編成十二節瓦解敵國的操作程序，沒有另說關於人的人生問題"
+    },
+    {
+      "chapter": "順啟第十五",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "以包容、信、仁、恩等品格為治理天下的條件，並用利害、生殺、安危如何招致擁戴或仇視說明公共責任"
+    },
+    {
+      "chapter": "兵道第十六",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "全段說明用兵之機勢、隱蔽實情與聲東擊西等取勝方法，存亡禍殃只作軍事戒備原則而未另談人的問題"
+    },
+    {
+      "chapter": "三疑第十七",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "全段是以財色利益扶養其強、離間親信、收攬民眾以攻強散眾的權謀手冊，對人的描述都服務於操作"
+    },
+    {
+      "chapter": "王翼第十八",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "逐項列出腹心一人、謀士五人、天文三人等七十二人的職數與職掌，是幕府編制表而非人的人生議論"
+    },
+    {
+      "chapter": "論將第十九",
+      "para_index": 1,
+      "domains": ["VII", "VIII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "以勇智仁信忠五材及輕死、心速、貪利、自用等十過分類將領品格，並說明各弱點如何影響其勝任"
+    },
+    {
+      "chapter": "選將第二十",
+      "para_index": 1,
+      "domains": ["II", "VII"],
+      "modes": ["observation", "formalization"],
+      "reason": "先列十五種外貌與中情不相應的人，再以言辭、財、色、患難與酒等八徵辨其誠廉貞勇及真實品格"
+    },
+    {
+      "chapter": "立將第二十一",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["ritual", "prescription"],
+      "reason": "以授斧鉞儀節確立君將權責，並要求將與士卒同坐食寒暑、君不從中御軍，核心是領導責任與信任邊界"
+    }
+  ]
+}

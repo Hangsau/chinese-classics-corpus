@@ -2,9 +2,9 @@
   "domain": "VIII",
   "name_zh": "工作·成就·召喚",
   "gist": "工作與金錢、成就與意義、天賦與使命",
-  "generated_at": "2026-08-09T22:41:21+00:00",
-  "para_count": 416,
-  "book_count": 15,
+  "generated_at": "2026-08-09T23:23:58+00:00",
+  "para_count": 421,
+  "book_count": 16,
   "surveyed_zero_hit": [
     "gu-sanfen",
     "haidao-suanjing",
@@ -535,6 +535,80 @@
       "co_domains": [
         "IV",
         "V"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "六守第六",
+      "para_index": 1,
+      "para_id": "liutao#07-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "文王問太公曰：「君國主民者，其所以失之者何也？」太公曰：「不謹所與也。人君有六守",
+      "note": "列仁義忠信勇謀六種品性及富、貴、付、使、危、事六種考驗，用人在處境中的表現判斷能否受任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "舉賢第十",
+      "para_index": 1,
+      "para_id": "liutao#11-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "文王問太公曰：「君務舉賢，而不能獲其功。世亂愈甚，以致危亡者，何也？」太公曰：「",
+      "note": "指出舉賢不用是有名無實，並要求按名督實、選才考能，使職名、實際能力與任用相符",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "論將第十九",
+      "para_index": 1,
+      "para_id": "liutao#22-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "武王問太公曰：「論將之道奈何？」太公曰：「將有五材十過。」武王曰：「敢問其目？」",
+      "note": "以勇智仁信忠五材及輕死、心速、貪利、自用等十過分類將領品格，並說明各弱點如何影響其勝任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "農器第三十",
+      "para_index": 1,
+      "para_id": "liutao#33-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "武王問太公曰：「天下安定，國家無事。戰攻之具，可無修乎？守禦之備，可無設乎？」太",
+      "note": "前段把農具對應兵具，末段則主張善為國者安其處所、闢其田野，並以耕田畝數與織紝尺度組織生產人力",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "liutao",
+      "chapter": "練士第五十三",
+      "para_index": 1,
+      "para_id": "liutao#59-p01",
+      "modes": [
+        "formalization"
+      ],
+      "excerpt": "武王問太公曰：「練士之道奈何？」太公曰：「軍中有大勇力，敢死樂傷者，聚為一卒，名",
+      "note": "按勇力、失勢求復功、為將報仇、貧窮快志、逃恥及材技等身分、動機與才具分類編伍，既涉及名譽身分，也依能力與動機安排軍事用途",
+      "co_domains": [
+        "II"
       ]
     },
     {

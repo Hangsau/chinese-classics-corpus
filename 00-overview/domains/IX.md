@@ -1,7 +1,7 @@
 # IX 苦難·疾病·身體
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 77 段命中｜跨 11 部｜生成時間 2026-08-09T22:41:21+00:00
+> 77 段命中｜跨 11 部｜生成時間 2026-08-09T23:23:58+00:00
 
 疾病與身體、受苦的意義、照顧與被照顧
 
@@ -11,7 +11,7 @@
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`dongmingji`（洞冥記）　`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jiuzhang-suanshu`（九章算術）　`nanjing`（難經）　`renwuzhi`（人物志）　`shenyijing`（神異經）
+`dongmingji`（洞冥記）　`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`renwuzhi`（人物志）　`shenyijing`（神異經）
 
 ## 世說新語（人論）　17 段
 

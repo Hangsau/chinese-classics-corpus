@@ -1,0 +1,1057 @@
+[
+  {
+    "para_id": "liutao#02-p01",
+    "anchor": {
+      "chapter": "文師第一",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以文王得太公的情節承載議論，並由「天下非一人之天下」及與人共利、救患濟急、同憂同樂界定仁德義，談公共利益與品格",
+    "excerpt": "文王將田，史編布卜，曰：「田於渭陽，將大得焉。非龍非彲，非虎非羆，兆得公侯，天遺",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#03-p01",
+    "anchor": {
+      "chapter": "盈虛第二",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "明言禍福在君不在天時，並以堯薄自奉、寡賦役、賞罰不私及存養孤弱說明君主治理如何使萬民富樂",
+    "excerpt": "文王問太公曰：「天下熙熙，一盈一虛，一治一亂，所以然者，何也？其君賢、不肖不等乎",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#04-p01",
+    "anchor": {
+      "chapter": "國務第三",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以勿害、勿奪、薄賦、省刑等規定解釋愛民，並要求治理者見民饑寒勞苦如父母兄長般憂悲",
+    "excerpt": "文王問太公曰：「願聞為國之務，欲使主尊人安，為之奈何？」太公曰：「愛民而已。」文",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#05-p01",
+    "anchor": {
+      "chapter": "大禮第四",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "分說君臣上下的角色與主位、主聽、主明之道，要求居上者安靜虛心、正待事物並兼聽天下",
+    "excerpt": "文王問太公曰：「君臣之禮如何？」太公曰：「為上惟臨，為下惟沉。臨而無遠，沉而無隱",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#06-p01",
+    "anchor": {
+      "chapter": "明傳第五",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以見善而怠、知非而處說明道何以止，並把義與欲、敬與怠的內在勝負連到昌亡吉滅",
+    "excerpt": "文王寢疾，召太公望，太子發在側。曰：「嗚呼！天將棄予。周之社稷，將以屬汝。今予欲",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#07-p01",
+    "anchor": {
+      "chapter": "六守第六",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VII",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "formalization",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "列仁義忠信勇謀六種品性及富、貴、付、使、危、事六種考驗，用人在處境中的表現判斷能否受任",
+    "excerpt": "文王問太公曰：「君國主民者，其所以失之者何也？」太公曰：「不謹所與也。人君有六守",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#08-p01",
+    "anchor": {
+      "chapter": "守土第七",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "反覆規定君主不可把國柄威權借人，並以敬眾、合親及施惠說明權力、責任與群體和合",
+    "excerpt": "文王問太公曰：「守土奈何？」太公曰：「無疏其親，無怠其眾，撫其左右，御其四旁。無",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#09-p01",
+    "anchor": {
+      "chapter": "守國第八",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以聖人牧民、順常則民安及先倡而天下和之，主張治理者應如何使群體免於得失相爭",
+    "excerpt": "文王問太公曰：「守國奈何？」太公曰：「齋，將語君天地之經，四時所生，仁聖之道，民",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#10-p01",
+    "anchor": {
+      "chapter": "上賢第九",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "formalization",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "用六賊七害逐項辨出結黨蔽賢、有名無實、偽飾求利等敗壞品格，並規定統治者應去取禁止哪些人",
+    "excerpt": "文王問太公曰：「王人者，何上何下，何取何去，何禁何止？」太公曰：「上賢，下不肖。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#11-p01",
+    "anchor": {
+      "chapter": "舉賢第十",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "II",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "指出舉賢不用是有名無實，並要求按名督實、選才考能，使職名、實際能力與任用相符",
+    "excerpt": "文王問太公曰：「君務舉賢，而不能獲其功。世亂愈甚，以致危亡者，何也？」太公曰：「",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#12-p01",
+    "anchor": {
+      "chapter": "賞罰第十一",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "主張賞必可信、罰必實行且須讓人耳聞目見，以此說明公共賞罰如何勸善懲眾並建立信服",
+    "excerpt": "文王問太公曰：「賞所以存勸，罰所以示懲。吾欲賞一以勸百，罰一以懲眾，為之奈何？」",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#14-p01",
+    "anchor": {
+      "chapter": "發啟第十二",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "要求修德下賢、惠民並與人同病相救，且以利天下或害天下、邪曲或正直說明德性與共同利益如何決定歸附",
+    "excerpt": "文王在豐，召太公曰：「嗚呼！商王虐極，罪殺不辜，公尚助予憂民，如何？」太公曰：「",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#15-p01",
+    "anchor": {
+      "chapter": "文啟第十三",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "由聖人不自明、務靜與賢人務正談品格，再以刑繁民憂流亡及與天下共其生說明治理責任",
+    "excerpt": "文王問太公曰：「聖人何守？」太公曰：「何憂何嗇，萬物皆得；何嗇何憂，萬物皆遒。政",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#16-p01",
+    "anchor": {
+      "chapter": "文伐第十四",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "全段把順志、賂左右、離忠臣、誘豪傑等編成十二節瓦解敵國的操作程序，沒有另說關於人的人生問題",
+    "excerpt": "文王問太公曰：「文伐之法奈何？」太公曰：「凡文伐有十二節：一曰：「因其所喜，以順",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#17-p01",
+    "anchor": {
+      "chapter": "順啟第十五",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以包容、信、仁、恩等品格為治理天下的條件，並用利害、生殺、安危如何招致擁戴或仇視說明公共責任",
+    "excerpt": "文王問太公曰：「何如而可為天下？」太公曰：「大蓋天下，然後能容天下。信蓋天下，然",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#18-p01",
+    "anchor": {
+      "chapter": "兵道第十六",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "全段說明用兵之機勢、隱蔽實情與聲東擊西等取勝方法，存亡禍殃只作軍事戒備原則而未另談人的問題",
+    "excerpt": "武王問太公曰：「兵道何如？」太公曰：「凡兵之道，莫過於一。一者能獨往獨來。黃帝曰",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#19-p01",
+    "anchor": {
+      "chapter": "三疑第十七",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "全段是以財色利益扶養其強、離間親信、收攬民眾以攻強散眾的權謀手冊，對人的描述都服務於操作",
+    "excerpt": "武王問太公曰：「予欲立功，有三疑：恐力不能攻強，離親，散眾，為之奈何？」太公曰：",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#21-p01",
+    "anchor": {
+      "chapter": "王翼第十八",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "逐項列出腹心一人、謀士五人、天文三人等七十二人的職數與職掌，是幕府編制表而非人的人生議論",
+    "excerpt": "武王問太公曰：「王者帥師，必有股肱羽翼，以成威神，為之奈何？」太公曰：「凡舉兵帥",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#22-p01",
+    "anchor": {
+      "chapter": "論將第十九",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VII",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "formalization",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以勇智仁信忠五材及輕死、心速、貪利、自用等十過分類將領品格，並說明各弱點如何影響其勝任",
+    "excerpt": "武王問太公曰：「論將之道奈何？」太公曰：「將有五材十過。」武王曰：「敢問其目？」",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#23-p01",
+    "anchor": {
+      "chapter": "選將第二十",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "II",
+      "VII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "先列十五種外貌與中情不相應的人，再以言辭、財、色、患難與酒等八徵辨其誠廉貞勇及真實品格",
+    "excerpt": "武王問太公曰：「王者舉兵，欲簡練英雄，知士之高下，為之奈何？」太公曰：「夫士外貌",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#24-p01",
+    "anchor": {
+      "chapter": "立將第二十一",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "ritual",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "以授斧鉞儀節確立君將權責，並要求將與士卒同坐食寒暑、君不從中御軍，核心是領導責任與信任邊界",
+    "excerpt": "武王問太公曰：「立將之道奈何？」太公曰：「凡國有難，君避正殿，召將而詔之曰：『社",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#25-p01",
+    "anchor": {
+      "chapter": "將威第二十二",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "主張殺貴大、賞貴小，使刑上極而賞下通，以賞罰及於貴賤建立將威",
+    "excerpt": "武王問曰：「將何以為威？何以為明？何以禁止而令行？」太公曰：「將以誅大為威，以賞",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#26-p01",
+    "anchor": {
+      "chapter": "勵軍第二十三",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "將與士卒共寒暑勞苦饑飽，並明說士非好死而樂傷、是因將知其寒暑饑飽，在解釋人為何願為另一人赴死",
+    "excerpt": "武王問太公曰：「吾欲三軍之眾，攻城爭先登，野戰爭先赴，聞金聲而怒，聞鼓聲而喜，為",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#27-p01",
+    "anchor": {
+      "chapter": "陰符第二十四",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "八種符信分別規定長度與所報軍情，並規定稽留或洩密者受誅，全段是主將間的通訊協定",
+    "excerpt": "武王問太公曰：「引兵深入諸侯之地，三軍卒有緩急，或利或害。吾將以近通遠，從中應外",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#28-p01",
+    "anchor": {
+      "chapter": "陰書第二十五",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "分書為三部、三人各操一分而不相知情，全段是通訊協定的操作規定，沒有說到關於人的什麼",
+    "excerpt": "武王問太公曰：「引兵深入諸侯之地，主將欲合兵，行無窮之變，圖不測之利。其事煩多，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#29-p01",
+    "anchor": {
+      "chapter": "軍勢第二十六",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "全段說明因敵而變、先見勝機、見利勿疑等用兵原則，猶豫與狐疑只被列為戰術缺陷",
+    "excerpt": "武王問太公曰：「攻伐之道奈何？」太公曰：「勢因敵之動，變生於兩陳之間，奇正發於無",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#30-p01",
+    "anchor": {
+      "chapter": "奇兵第二十七",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "逐項以地形、裝備、賞罰與將領條件對應破敵用途，是奇正戰術對照表，仁勇智等僅作戰力條件",
+    "excerpt": "武王問太公曰：「凡用兵之法，大要何如？」太公曰：「古之善戰者，非能戰於天上，非能",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#31-p01",
+    "anchor": {
+      "chapter": "五音第二十八",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "規定夜半持律管候敵，並把管聲與五行方位、敵營聲色逐項配對，是技術性占驗與偵測程序",
+    "excerpt": "武王問太公曰：「律音之聲，可以知三軍之消息，勝負之決乎？」太公曰：「深哉！王之問",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#32-p01",
+    "anchor": {
+      "chapter": "兵徵第二十九",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "以全軍悅懌相喜、敬將命或相恐相惑、不重其將判斷強弱，描述群體士氣與互信的整體狀態，後段則列聲氣等勝敗徵候",
+    "excerpt": "武王問太公曰：「吾欲未戰先知敵人之強弱，預見勝敗之徵，為之奈何？」太公曰：「勝敗",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#33-p01",
+    "anchor": {
+      "chapter": "農器第三十",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "前段把農具對應兵具，末段則主張善為國者安其處所、闢其田野，並以耕田畝數與織紝尺度組織生產人力",
+    "excerpt": "武王問太公曰：「天下安定，國家無事。戰攻之具，可無修乎？守禦之備，可無設乎？」太",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#35-p01",
+    "anchor": {
+      "chapter": "軍用第三十一",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "逐項列出戰車、弩、矛戟、蒺藜、渡水器具等的尺寸、重量與數量，是三軍器械規格清單",
+    "excerpt": "武王問太公曰：「王者舉兵，三軍器用，攻守之具，科品眾寡，豈有法乎？」太公曰：「大",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#36-p01",
+    "anchor": {
+      "chapter": "三陳第三十二",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "把日月星辰、丘陵水泉、車馬文武分列為天陳、地陳、人陳，是陣法分類而非關於人的主張",
+    "excerpt": "武王問太公曰：「凡用兵爲天陳、地陳、人陳，奈何？」太公曰：「日月、星辰、斗柄，一",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#37-p01",
+    "anchor": {
+      "chapter": "疾戰第三十三",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "以暴用則勝、徐用則敗說明被圍時的疾擊原則，並規定四武衝陣及左右中軍的行動",
+    "excerpt": "武王問太公曰：「敵人圍我，斷我前後，絕我糧道，為之奈何？」太公曰：「此天下之困兵",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#38-p01",
+    "anchor": {
+      "chapter": "必出第三十四",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "全段規定深陷重圍時的夜行次序、兵種位置、渡越器械與伏擊方式，生死與勇鬥只作突圍手段和後果",
+    "excerpt": "武王問太公曰：「引兵深入諸侯之地，敵人四合而圍我，斷我歸道，絕我糧食。敵人既眾，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#39-p01",
+    "anchor": {
+      "chapter": "軍略第三十五",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "先要求平時備妥並習用器械，再按攻城、守備、越塹與渡水逐項配置軍用器具，是戰備操作清單",
+    "excerpt": "武王問太公曰：「引兵深入諸侯之地，遇深谿大谷險阻之水。吾三軍未得畢濟，而天暴雨，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#40-p01",
+    "anchor": {
+      "chapter": "臨境第三十六",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "分兵固守、積糧、潛襲及以老弱揚塵鼓呼，都是臨境相拒時欺敵與襲擊的戰法處置",
+    "excerpt": "武王問太公曰：「吾與敵人臨境相拒，彼可以來，我可以往，陣皆堅固，莫敢先舉。我欲往",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#41-p01",
+    "anchor": {
+      "chapter": "動靜第三十七",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "規定設伏、增旗鼓、佯走再還擊等步驟以驚亂敵軍，恐懼與心傷只是戰術所欲造成或補救的反應",
+    "excerpt": "武王問太公曰：「引兵深入諸侯之地，與敵人之軍相當。兩陣相望，眾寡強弱相等，不敢先",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#42-p01",
+    "anchor": {
+      "chapter": "金鼓第三十八",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "以戒為固、以怠為敗，繼而規定守壘號令、分隊追擊與遇伏應對，是警戒和指揮程序",
+    "excerpt": "武王問太公曰：「引兵深入諸侯之地，與敵相當。而天大寒甚暑，日夜霖雨，旬日不止。溝",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#43-p01",
+    "anchor": {
+      "chapter": "絕道第三十九",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "規定深入敵境時偵察地形、守關梁並按二百里、一百里、五十里配置遠候與踵軍，是防止糧道被絕的戰法",
+    "excerpt": "武王問太公曰：「引兵深入諸侯之地，與敵相守。敵人絕我糧道，又越我前後。吾欲戰則不",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#44-p01",
+    "anchor": {
+      "chapter": "略地第四十",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "全段規定圍城、留缺、截糧與處置降者以使敵軍和天下歸服，仁義厚德在此被用作略地取勝手段",
+    "excerpt": "武王問太公曰：「戰勝深入，略其地，有大城不可下。其別軍守險阻，與我相拒。我欲攻城",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#45-p01",
+    "anchor": {
+      "chapter": "火戰第四十一",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "規定遭敵縱火時反向燔燒、退守黑地及布置強弩武衝陣，全段是火攻情境的處置方法",
+    "excerpt": "武王問太公曰：「引兵深入諸侯之地，遇深草蓊穢，周吾軍前後左右。三軍行數百里，人馬",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#46-p01",
+    "anchor": {
+      "chapter": "壘虛第四十二",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "以鼓鐸無聲、飛鳥不驚及士卒往返速度判斷敵壘虛實和陣形混亂，並據此規定出擊時機",
+    "excerpt": "武王問太公曰：「何以知敵壘之虛實，自來自去？」太公曰：「將必上知天道，下知地利，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#48-p01",
+    "anchor": {
+      "chapter": "林戰第四十三",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "規定林中衝陣、兵器內外配置、伐木開道、騎車運用及輪替休戰，是林地作戰程序",
+    "excerpt": "武王問太公曰：「引兵深入諸侯之地，遇大林，與敵人分林相拒。吾欲以守則固，以戰則勝",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#49-p01",
+    "anchor": {
+      "chapter": "突戰第四十四",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "全段針對敵軍深入或分兵侵掠，規定設壘、伏兵、弩門及前後夾擊，是戰法處置；士卒恐懼只作為敵情，沒有另談人的內在生活",
+    "excerpt": "武王問太公曰：「敵人深入長驅，侵掠我地，驅我牛馬，其三軍大至，薄我城下。吾士卒大",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#50-p01",
+    "anchor": {
+      "chapter": "敵強第四十五",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "面對敵強我弱與軍伍潰亂，本文規定前後夾擊及炬火、鼓音、微號相應的作戰通訊程序，沒有另論人的品格或情緒",
+    "excerpt": "武王問太公曰：「引兵深入諸侯之地，與敵人衝軍相當。敵眾我寡，敵強我弱。敵人夜來，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#51-p01",
+    "anchor": {
+      "chapter": "敵武第四十六",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "本文只規定遭強敵追擊時如何配置伏弩、車騎並衝擊敵軍前後左右，三軍震動與逃走都是待處置的戰場反應",
+    "excerpt": "武王問太公曰：「引兵深入諸侯之地，猝遇敵人，甚眾且武。武車驍騎，繞我左右。吾三軍",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#52-p01",
+    "anchor": {
+      "chapter": "烏雲山兵第四十七",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "依山之陰陽左右配置兵力、車騎、衝陣與旌旂，形成可執行的山地布陣程序，沒有超出地形戰法而談人",
+    "excerpt": "武王問太公曰：「引兵深入諸侯之地，遇高山盤石，其上亭亭，無有草木，四面受敵。吾三",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#53-p01",
+    "anchor": {
+      "chapter": "烏雲澤兵第四十八",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "本文針對臨水缺糧與退敗情勢，規定衝陣、伏兵、強弩及烏雲之陣的配置與發動次序，屬水澤戰法程序",
+    "excerpt": "武王問太公曰：「引兵深入諸侯之地，與敵人臨水相拒。敵富而眾，我貧而寡。踰水擊之，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#54-p01",
+    "anchor": {
+      "chapter": "少眾第四十九",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "本文主張少擊眾須借暮色隘路、弱擊強須借外援，並規定誘敵與求援之法，交往辭幣在此只是取勝手段",
+    "excerpt": "武王問太公曰：「吾欲以少擊眾，以弱擊強，為之奈何？」太公曰：「以少擊眾者，必以日",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#55-p01",
+    "anchor": {
+      "chapter": "分險第五十",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "全段規定山水險地中的渡軍、武衝、強弩、三千人一屯及輪戰輪息配置，是具數量與方位的作戰程序",
+    "excerpt": "武王問太公曰：「引兵深入諸侯之地，與敵人相遇於險阨之中。吾左山而右水；敵右山而左",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#57-p01",
+    "anchor": {
+      "chapter": "分合第五十一",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "本文把戰地戰日、移檄期會、漏刻校時及遲早賞斬編成三軍分合協定，賞罰服務於準時會戰而非公義論述",
+    "excerpt": "武王問太公曰：「王者帥師，三軍分為數處，將欲期會合戰，約誓賞罰，為之奈何？」太公",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#58-p01",
+    "anchor": {
+      "chapter": "武鋒第五十二",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "列出敵軍新集、未食、疲勞、行亂、心怖等十四個可擊條件，形成判定出擊時機的戰術檢核表",
+    "excerpt": "武王問太公曰：「凡用兵之要，必有武車驍騎，馳陣選鋒，見可則擊之。如何而可擊？」太",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#59-p01",
+    "anchor": {
+      "chapter": "練士第五十三",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "II",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "按勇力、失勢求復功、為將報仇、貧窮快志、逃恥及材技等身分、動機與才具分類編伍，既涉及名譽身分，也依能力與動機安排軍事用途",
+    "excerpt": "武王問太公曰：「練士之道奈何？」太公曰：「軍中有大勇力，敢死樂傷者，聚為一卒，名",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#60-p01",
+    "anchor": {
+      "chapter": "教戰第五十四",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "以一人、十人、百人、千人、萬人逐級合練到三軍，規定金鼓旌旂與操兵的規模化訓練程序，沒有另談人的生活問題",
+    "excerpt": "武王問太公曰：「合三軍之眾。欲令士卒服習教戰之道，奈何？」太公曰：「凡領三軍，必",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#61-p01",
+    "anchor": {
+      "chapter": "均兵第五十五",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "全段量化車、騎、步的戰力比例、吏將編制、隊列距離與屯聚數目，是兵種配置規格表",
+    "excerpt": "武王問太公曰：「以車與步卒戰，一車當幾步卒，幾步卒當一車？以騎與步卒戰，一騎當幾",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#62-p01",
+    "anchor": {
+      "chapter": "武車士第五十六",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "以年齡、身高、追馬乘車、操旗與彀弩等體能門檻界定何人可任武車之士，是選人規格表，與王翼的編制表同類，沒有另說關於人的什麼",
+    "excerpt": "武王問太公曰：「選車士奈何？」太公曰：「選車士之法，取年四十以下，長七尺五寸以上",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#63-p01",
+    "anchor": {
+      "chapter": "武騎士第五十七",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "以年齡、身高、騎射、越險等體能門檻界定何人可任武騎之士，是選人規格表，與王翼的編制表同類，沒有另說關於人的什麼",
+    "excerpt": "武王問太公曰：「選騎士奈何？」太公曰：「選騎士之法，取年四十以下，長七尺五寸以上",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#64-p01",
+    "anchor": {
+      "chapter": "戰車第五十八",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "十種死地與八種勝地都是戰車地形及敵陣狀態的分類檢核表，疑怯恐懼只被列作可乘之戰機",
+    "excerpt": "武王問太公曰：「戰車奈何？」太公曰：「步貴知變動，車貴知地形，騎貴知別徑奇道，三",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#65-p01",
+    "anchor": {
+      "chapter": "戰騎第五十九",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "以敵陣、地勢、糧道和騎兵進退條件列成十勝九敗的戰術分類，士卒恐駭只作勝負徵候",
+    "excerpt": "武王問太公曰：「戰騎奈何？」太公曰：「騎有十勝九敗。」武王曰：「十勝奈何？」太公",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  },
+  {
+    "para_id": "liutao#66-p01",
+    "anchor": {
+      "chapter": "戰步第六十",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "本文規定步兵對車騎時的長短兵位置、行馬蒺藜、四武衝陣與五尺壕溝配置，是可執行的兵種戰法",
+    "excerpt": "武王問太公曰：「步兵與車騎戰奈何？」太公曰：「步兵與車騎戰者，必依丘陵險阻，長兵",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T07:21:28+08:00"
+  }
+]
