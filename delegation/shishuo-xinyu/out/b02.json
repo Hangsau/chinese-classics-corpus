@@ -1,0 +1,383 @@
+{
+  "batch": "b02.md",
+  "rows": [
+    {
+      "chapter": "任誕",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "七人因意氣相契而常聚竹林酣飲，並形成共同名號，寫同道交遊與群體歸屬。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 2,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "何曾主張放逐居喪飲酒的阮籍，文王則以其哀毀與疾病相護，核心是親喪禮法與真實孝德如何衡量。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 3,
+      "domains": ["IX", "XI"],
+      "modes": ["narrative", "prescription"],
+      "reason": "妻子因飲酒傷身勸劉伶戒斷，他卻以不能自禁為辭設計續飲，寫身體依賴與人能否自制改變。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "劉公榮以勝己、不如己與同輩都不可拒飲為理，藉酒席消解交往中的等級與排斥。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 5,
+      "domains": ["VIII"],
+      "modes": ["narrative"],
+      "reason": "阮籍因官署藏酒而求任校尉，附注又寫其不樂仕宦，直接呈現他如何看待職位與任職目的。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 6,
+      "domains": ["II", "XI"],
+      "modes": ["narrative", "expression"],
+      "reason": "劉伶把天地說成居室、屋宇說成衣褲，重新界定自己與身體的邊界，以此拒受俗常羞恥拘束。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 7,
+      "domains": ["VII", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "阮籍面對叔嫂不得通問的禮制，反問禮是否為自己這類人而設，處理規範效力與個人自由。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 8,
+      "domains": ["III"],
+      "modes": ["narrative"],
+      "reason": "阮籍醉臥酒家婦人身旁引起丈夫猜疑，察看後證實並無他意，重點在親密界線、信任與意圖。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 9,
+      "domains": ["VI", "X"],
+      "modes": ["narrative", "expression"],
+      "reason": "阮籍在母親下葬時一號吐血、久而廢頓，直接呈現喪親失去所引發的極端哀慟。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 10,
+      "domains": ["XIII"],
+      "modes": ["narrative", "expression"],
+      "reason": "阮咸在貧族無錦衣可曬的窘境中掛出犢鼻褌自嘲，親自替無法與富族相比的處境找到安頓方式。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 11,
+      "domains": ["VII", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "裴楷說阮籍是方外人而自己是俗中人，故各依不同方式面對弔禮，主張德行與禮制可容納不同自處。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只記諸阮改用大甕聚飲且與豬共飲的奇行，沒有進一步處理自由、德性或內在處境。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 13,
+      "domains": ["II", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "阮籍阻止兒子仿作曠達，附論又分辨真正通達與徒然縱恣，處理身分仿效、名實與品格。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 14,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只記王戎突然到訪時女兒女婿分床迎客而神色無異，未形成家庭關係或情緒處境的討論。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 15,
+      "domains": ["III", "IV"],
+      "modes": ["narrative", "proposition"],
+      "reason": "阮咸追還曾親近且將為其生子的婢女，並以人種不可失說明選擇，兼及親密關係與子嗣傳承。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 16,
+      "domains": ["V", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "旁人追問為何不救失勢自毀的任愷，和嶠以一木不能支將壞之門作答，處理同僚責任與改變他人的限度。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 17,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "劉道真記住老嫗昔日供食之恩，任官後擢用其子又拒絕回禮，寫跨越時日與身分的報恩及互惠。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 18,
+      "domains": ["XI"],
+      "modes": ["narrative"],
+      "reason": "阮宣子寧可帶錢獨赴酒家，也不肯拜訪當世權貴，呈現不讓身分勢力支配交遊選擇的自主。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 19,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只記山簡反覆醉遊高陽池及民歌稱詠的生活事實，沒有呈現內在衝突或人生判斷。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 20,
+      "domains": ["I", "II"],
+      "modes": ["narrative", "expression"],
+      "reason": "張季鷹明言身後名不及眼前一杯酒，直接在當下生活的價值與死後聲名之間作自我定位。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 21,
+      "domains": ["I"],
+      "modes": ["narrative", "expression"],
+      "reason": "畢卓把持蟹飲酒視為足以了結一生的生活，直接提出何種享受能使一生對自己已然足夠。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 22,
+      "domains": ["V", "XI"],
+      "modes": ["narrative"],
+      "reason": "賀司空與張季鷹由琴聲結識便相知同行，張季鷹甚至未告家人即動身，寫友誼的猝然生成與乘興自主。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 23,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "祖逖在饑乏中縱容部眾劫掠並加以庇護，官吏亦不追問，核心是亂世權力責任與侵奪財物的品格判斷。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 24,
+      "domains": ["IX"],
+      "modes": ["narrative", "proposition"],
+      "reason": "孔群面對久飲會使人敗壞的質疑，以糟肉反證酒能保存身體，雖屬戲答仍在處理飲酒與身體損益。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 25,
+      "domains": ["II", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "周顗把自己的偶發穢行比作長江難免有曲折，為整體名望與具體失德如何並存提出自我辯解。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 26,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "溫嶠屢因賭輸受困而呼友人庾亮出資贖回，寫反覆失檢以及朋友如何承擔援助。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 27,
+      "domains": ["II", "VII"],
+      "modes": ["narrative"],
+      "reason": "溫嶠滿口鄙穢，庾亮卻反說他終日無鄙言以彰其通達，收束在如何評價越禮言行與人物品格。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 28,
+      "domains": ["II", "VII"],
+      "modes": ["narrative"],
+      "reason": "周顗原有雅望，晚年屢因縱酒失檢而大損資望，呈現盛名與實際品行衰退之間的落差。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 29,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "衛永與溫嶠彼此隨意攜酒相訪、對坐終日，重點是無拘形式且相互對等的友誼。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 30,
+      "domains": ["I", "V"],
+      "modes": ["narrative", "expression"],
+      "reason": "郡卒冒死護送庾冰並在受報時拒絕名位，只求餘年酒足，兼寫忠誠回報與何種生活對自己已足。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 31,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "殷羨接受眾人託書後卻全部投水，公開拒當送信者，處理受託責任、信任與任性毀約。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 32,
+      "domains": ["II"],
+      "modes": ["narrative"],
+      "reason": "謝尚應言起舞後，王導以其神態聯想到王戎，故事收束在藉具體表現辨認與評定人物氣質。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 33,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative"],
+      "reason": "謝尚在父葬後尚著喪服便轉赴宴飲，直到席間才察覺，呈現親喪責任與輕率越禮的品格問題。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 34,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "袁耽在居喪中仍毫不遲疑替負債的桓溫出場豪賭解困，突出朋友援助與不計嫌疑的豪邁品格。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 35,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "王蘊概括說酒會使人人自行疏遠，直接提出嗜酒造成社交隔離的因果判斷。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 36,
+      "domains": ["VIII", "XI"],
+      "modes": ["observation"],
+      "reason": "孫綽隨興遊賞甚至半路折返，任縣職又遺心細務，寫個人任性自由與職務投入之間的張力。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 37,
+      "domains": ["IV"],
+      "modes": ["expression"],
+      "reason": "袁耽因兩妹已嫁殷浩與謝尚而恨無第三妹可配桓溫，表達以手足婚配締結家族關係的願望。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 38,
+      "domains": ["II", "VIII"],
+      "modes": ["narrative"],
+      "reason": "張玄因劉驎之名望追訪攀談，劉卻不留戀名士交接而起身伐荻，呈現外在聲名與本人勞作取向的差距。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 39,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "王徽之擅取郗恢坐毯又以戲言遮掩，郗恢不怒，寫朋友間的容讓以及對財物界線的漠視。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 40,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "謝安失去車牛步行回家，劉惔先問其是否受傷並載他返回，呈現遇困時的關切與援助。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 41,
+      "domains": ["II", "VIII"],
+      "modes": ["narrative"],
+      "reason": "羅友被視為癡誕而不顧貴賤與羞恥，實則記憶、才學及治郡皆優，整段反覆對照外在評價與真實任事能力。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 42,
+      "domains": ["VI"],
+      "modes": ["observation"],
+      "reason": "桓子野每聞清歌便情不自已地呼喊，謝安據此評其一往深情，直接觀察音樂引發的內在情感。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 43,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "只列張湛種松與袁山松出遊奏挽歌的嗜好及時人戲稱，未把死亡、哀傷或人生取捨本身當作問題。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 44,
+      "domains": ["XI"],
+      "modes": ["narrative", "expression"],
+      "reason": "羅友坦言出席只為一嘗羊肉且全無羞色，呈現不受身分禮貌與他人眼光拘束的行動選擇。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 45,
+      "domains": ["VI", "X"],
+      "modes": ["narrative", "proposition"],
+      "reason": "張湛酒後唱挽歌極其悽苦，附論又追問送葬歌如何寄託哀音，處理死亡儀式中的哀傷表達。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 46,
+      "domains": ["VI"],
+      "modes": ["narrative", "expression"],
+      "reason": "王子猷即使暫居仍堅持種竹，並直言不可一日無竹，表露審美陪伴對其內在生活不可或缺。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 47,
+      "domains": ["VI", "XI"],
+      "modes": ["narrative", "expression"],
+      "reason": "王子猷因雪夜興起遠訪戴安道，至門前又因興盡而返，直接說明內在興致如何主導自由行止。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 48,
+      "domains": ["VI"],
+      "modes": ["proposition"],
+      "reason": "王薈說酒會把人引到勝境，概括飲酒所造成的主觀心境轉變。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 49,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative"],
+      "reason": "王子猷與已顯貴的桓子野素不相識，卻由笛藝相請相應且不交一言，寫跨越身分的交接與才能展現。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 50,
+      "domains": ["VI", "X"],
+      "modes": ["narrative", "expression"],
+      "reason": "亡父名諱被無意觸及使桓玄流淚，他卻說自家忌諱不該牽連來客，呈現喪親記憶與情緒發作。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 51,
+      "domains": ["VI"],
+      "modes": ["proposition"],
+      "reason": "王大以阮籍胸中有鬱結所以須借酒澆解，明確提出飲酒行為源自內在苦悶的解釋。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 52,
+      "domains": ["VI", "IX"],
+      "modes": ["expression"],
+      "reason": "王忱自述三日不飲便覺形體與精神疏離，附注又記其嗜酒而死，呈現依賴的身心經驗。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 53,
+      "domains": ["II", "VIII"],
+      "modes": ["proposition"],
+      "reason": "王孝伯主張無奇才亦可憑閒居、飲酒與讀離騷取得名士之稱，直接質疑名號與真實才能的關係。"
+    },
+    {
+      "chapter": "任誕",
+      "para_index": 54,
+      "domains": ["VI", "X"],
+      "modes": ["narrative", "expression"],
+      "reason": "王伯輿登山大哭並自言終將為情而死，把自己的強烈情感與死亡命運直接連結。"
+    }
+  ]
+}
