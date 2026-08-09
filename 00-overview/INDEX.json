@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-08-09T06:36:48+00:00",
+    "generated_at": "2026-08-09T06:39:15+00:00",
     "text_count": 68,
     "total_bytes": 10528533,
     "by_category": {
@@ -26,24 +26,24 @@
       "original": 66,
       "contested": 2
     },
-    "surveyed_count": 13,
-    "annotated_count": 13,
+    "surveyed_count": 14,
+    "annotated_count": 14,
     "scaffolded_count": 0,
-    "paras_judged": 4238,
+    "paras_judged": 5034,
     "paras_pending": 0,
     "domain_hit_counts": {
       "I": 5,
       "II": 8,
       "III": 7,
-      "IV": 10,
-      "IX": 6,
+      "IV": 11,
+      "IX": 7,
       "V": 10,
       "VI": 6,
-      "VII": 8,
-      "VIII": 9,
+      "VII": 9,
+      "VIII": 10,
       "X": 8,
       "XI": 6,
-      "XII": 8,
+      "XII": 9,
       "XIII": 5
     }
   },
@@ -415,11 +415,17 @@
       "size_bytes": 102687,
       "chapter_count": 31,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [
+        "IV",
+        "VII",
+        "VIII",
+        "IX",
+        "XII"
+      ],
+      "paras_total": 796,
+      "paras_judged": 796,
+      "annotated": true
     },
     {
       "slug": "jinlouzi",
