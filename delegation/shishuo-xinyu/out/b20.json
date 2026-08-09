@@ -1,0 +1,229 @@
+{
+  "batch": "b20.md",
+  "rows": [
+    {
+      "chapter": "賢媛",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["narrative", "prescription"],
+      "reason": "陳母勸兒不居亂世首領而把兵交人，以降低權力成敗的責任與禍患"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "明君拒絕賄賂而遭畫工歪曲，終被君權按假圖遠嫁，寫操守在腐敗制度中受害"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 3,
+      "domains": ["VII", "XII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "班婕妤以命與天、鬼神有知無知的推論，說明為善與邪訴的倫理及信仰判斷"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 4,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative"],
+      "reason": "卞后見兒子收納父親宮人，斥其悖亂並拒絕臨喪，寫家庭倫序與道德譴責"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 5,
+      "domains": ["VII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "母親以「好尚不可為，其況惡」訓女，直接追問善惡行為的界線"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 6,
+      "domains": ["III", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "許允因妻貌醜而拒近，妻以德為百行之首反詰，使婚姻由嫌棄轉為敬重"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 7,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "阮氏主張明主可用理說服，教許允以任官是否稱職接受查驗，處理權力問責與用人"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 8,
+      "domains": ["IV", "V"],
+      "modes": ["narrative", "prescription"],
+      "reason": "丈夫被誅後，阮氏判斷政治追捕風險並教兒子如何應對鍾會，以保全一家"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 9,
+      "domains": ["II", "III"],
+      "modes": ["narrative"],
+      "reason": "新婚丈夫以父輩貶低妻子，妻也以先人反問丈夫，揭出親密關係中的身分比較與尊重"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 10,
+      "domains": ["VII", "X", "XIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "母子臨刑，以忠孝判定死亡是否得其所，並以「何恨」安頓不可改的共死；少了忠孝、死亡或自處任一面都失其收束"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 11,
+      "domains": ["II", "V"],
+      "modes": ["narrative"],
+      "reason": "韓氏辨出丈夫與嵇、阮才致不同而識度相契，寫如何衡量一個人及友誼如何互補"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 12,
+      "domains": ["II", "IV"],
+      "modes": ["narrative"],
+      "reason": "鍾氏從出身、才能、形骨與壽命衡量女兒婚配，重點在識人依據與家族婚姻選擇"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 13,
+      "domains": ["II", "IV"],
+      "modes": ["narrative"],
+      "reason": "郭氏挾現妻威儀探訪前妻卻自然屈膝，寫婚姻名位與李氏實際人格分量的落差"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 14,
+      "domains": ["IV"],
+      "modes": ["narrative"],
+      "reason": "兩女爭各自母親與父親合葬，政治變故才定葬位，主軸是家內名分與身後安排"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 15,
+      "domains": ["II", "IV"],
+      "modes": ["narrative"],
+      "reason": "王汝南從取水時始終得體的舉止識出郝女品性，據此自主婚配並驗於後來家風"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 16,
+      "domains": ["IV", "V"],
+      "modes": ["observation"],
+      "reason": "鍾、郝兩妯娌跨越貴賤相互尊重，且各成家內法度，寫家庭關係中的身分平等"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 17,
+      "domains": ["II"],
+      "modes": ["narrative"],
+      "reason": "女兒一見密疏即懂致命含意，父親平日也常向她諮詢，收束在對其才識的辨認"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 18,
+      "domains": ["IV", "V"],
+      "modes": ["narrative", "expression"],
+      "reason": "絡秀自陳屈身作妾是為挽救母族，並要求兒子維繫兩家親屬，使寒門獲得平等對待"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 19,
+      "domains": ["IV", "VIII"],
+      "modes": ["narrative"],
+      "reason": "陶母在極貧中割髮拆物款待名士，藉母親的犧牲與人脈支持兒子踏入仕途"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 20,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "陶母退回兒子送來的官物並責其徒增憂患，明定公職責任與廉潔界線"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 21,
+      "domains": ["X", "XIII"],
+      "modes": ["narrative", "expression"],
+      "reason": "李氏親言國破家亡且身不由己，面對必死威脅以願死表明如何安頓無可挽回的失落"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 22,
+      "domains": ["IV", "V"],
+      "modes": ["narrative"],
+      "reason": "桓氏女突破門禁向掌權伯父哭請，以親屬身分介入政治誅殺而保全夫家一門"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 23,
+      "domains": ["III", "VII"],
+      "modes": ["narrative"],
+      "reason": "夫人阻止丈夫反覆觀看婢女表演，以夫妻間的界線維護其品德與自制"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 24,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只記妻以「新衣方能變舊」的機鋒逗笑丈夫，重點是語言機智而非婚姻關係或內在處境"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 25,
+      "domains": ["V"],
+      "modes": ["observation", "prescription"],
+      "reason": "郗夫人指出王家厚待謝氏而冷待自己兄弟，勸他們不必再去，處理交遊中的差別接納"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 26,
+      "domains": ["II", "III"],
+      "modes": ["narrative", "expression"],
+      "reason": "謝夫人以娘家人才為尺度直陳對丈夫的強烈失望，寫配偶評價與婚姻不滿"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 27,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只記老婦借古几毀壞作機鋒，讓外孫得見古物，未處理衰老、家庭或其他人生問題"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 28,
+      "domains": ["VIII"],
+      "modes": ["observation"],
+      "reason": "王夫人追問謝遏停滯不進究竟因俗務分心或天分有限，聚焦才能發揮與進展"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 29,
+      "domains": ["III", "X"],
+      "modes": ["narrative", "expression"],
+      "reason": "郗超死後妻子拒回娘家，親言生未同室也要死後同穴，以喪偶中的承諾表達親密關係"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 30,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "只用「林下風氣」與「閨房之秀」分別品題兩人，未討論評價根據或人生處境"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 31,
+      "domains": ["X", "XIII"],
+      "modes": ["narrative", "expression"],
+      "reason": "老婦區分形骸衰老與眼耳所關的神明，替自己的高齡處境說話並拒絕與人隔絕"
+    },
+    {
+      "chapter": "賢媛",
+      "para_index": 32,
+      "domains": ["V", "X"],
+      "modes": ["narrative", "proposition"],
+      "reason": "殷氏以父親聞召即發對照孫兒久留不動，將政治亂局中的遲疑判為遭殺之因並撫屍哀悼"
+    }
+  ]
+}

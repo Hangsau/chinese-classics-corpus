@@ -1,0 +1,152 @@
+{
+  "batch": "b14.md",
+  "rows": [
+    {
+      "chapter": "紕漏",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只記王敦初入公主家不識廁具與澡豆而受婢女竊笑的失誤，未觸及人生問題。"
+    },
+    {
+      "chapter": "紕漏",
+      "para_index": 2,
+      "domains": ["VI", "X"],
+      "modes": ["narrative", "expression"],
+      "reason": "賀司空被問及慘死的父親而流涕，自陳創痛深重，寫喪親之痛及元帝誤觸傷口後的羞慚。"
+    },
+    {
+      "chapter": "紕漏",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只記蔡謨誤認彭蜞為蟹、誤食後吐下及謝尚譏其讀書不熟的笑談，身體不適只是知識失誤的後果。"
+    },
+    {
+      "chapter": "紕漏",
+      "para_index": 4,
+      "domains": ["II", "VI"],
+      "modes": ["narrative"],
+      "reason": "任育長由少時盛名到渡江後失志、言語失常且見棺流涕，透過名實反差評其內在狀態。"
+    },
+    {
+      "chapter": "紕漏",
+      "para_index": 5,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative"],
+      "reason": "謝太傅佯稱自己與胡兒之父同犯其過，以共擔過錯開悟因嘲父而羞慚的晚輩，呈現家內德教。"
+    },
+    {
+      "chapter": "紕漏",
+      "para_index": 6,
+      "domains": ["IV", "VI"],
+      "modes": ["narrative", "expression"],
+      "reason": "殷仲堪因皇帝無心揭出父親心疾而流涕，自陳身為人子的進退困境。"
+    },
+    {
+      "chapter": "紕漏",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只記虞嘯父把職責上的獻替誤解為進獻海產而引帝發笑的語義失誤。"
+    },
+    {
+      "chapter": "紕漏",
+      "para_index": 8,
+      "domains": ["VIII"],
+      "modes": ["narrative"],
+      "reason": "國寶因誤聞獲任荊州便大喜籌畫，寫仕進欲望使人未核實任命即信以為真。"
+    },
+    {
+      "chapter": "自新",
+      "para_index": 1,
+      "domains": ["VII", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "周處得知鄉人以為他死而相慶，因而立志改過並成為忠臣孝子，直寫品格可以自我改變。"
+    },
+    {
+      "chapter": "自新",
+      "para_index": 2,
+      "domains": ["VII", "XI"],
+      "modes": ["narrative"],
+      "reason": "戴淵受陸機以其才質問為何行劫後投劍歸附，從惡行轉為受薦任官，寫人能改變品格與道路。"
+    },
+    {
+      "chapter": "術解",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "荀勖因忌阮咸指出音律不調而將其外放，直至古尺驗證才服其識見，寫忌才品格造成權力與用人的不公。"
+    },
+    {
+      "chapter": "術解",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只記荀勖從飯筍滋味辨出以舊車腳為薪的感官識別本領。"
+    },
+    {
+      "chapter": "術解",
+      "para_index": 3,
+      "domains": ["XI"],
+      "modes": ["narrative"],
+      "reason": "羊祜試圖掘墓破壞預言之勢，折臂而位至三公的改判仍應驗，寫人的行動未能逃開命定。"
+    },
+    {
+      "chapter": "術解",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只記王武子判知馬因愛惜障泥而不渡水並據此解決的相馬本領，觀察對象不是人的人生問題。"
+    },
+    {
+      "chapter": "術解",
+      "para_index": 5,
+      "domains": ["X", "XIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "郭璞哀哭亡友又以其免逢後來之亂說死未必非福，為不可挽回的死亡與失去另作安頓。"
+    },
+    {
+      "chapter": "術解",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只記郭璞借葬地說法使微服皇帝親自來問的術數預言與機鋒。"
+    },
+    {
+      "chapter": "術解",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只記郭璞預言近水墓地終將成陸而後果應驗，重點是地勢預測而非死亡或家族問題。"
+    },
+    {
+      "chapter": "術解",
+      "para_index": 8,
+      "domains": ["XI", "XII"],
+      "modes": ["narrative", "ritual"],
+      "reason": "郭璞以占卦指出雷厄並給出柏木替身儀式，王依其法轉移雷擊，寫人藉超越性實踐改變命定災禍。"
+    },
+    {
+      "chapter": "術解",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "只述主簿辨酒優劣並以青州從事、平原督郵作雙關命名的慣例，屬品酒與語言巧思。"
+    },
+    {
+      "chapter": "術解",
+      "para_index": 10,
+      "domains": ["IX", "XII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "郗愔精進過度、吞符累積而患腹病，法開診出信仰實踐與身體病痛的因果並將其治癒。"
+    },
+    {
+      "chapter": "術解",
+      "para_index": 11,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative", "expression"],
+      "reason": "給使甘願受死只求殷浩救治百歲病母，至孝打動殷浩破例處方，寫親子照護與自我犧牲的品格。"
+    }
+  ]
+}
