@@ -1,0 +1,551 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {
+      "chapter": "序",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "敘述得書、借錄與辨偽經過並論證其可信，主題是文獻來源而非人生問題領域"
+    },
+    {
+      "chapter": "山墳·連山易",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "以君為首項排列臣民物陰陽兵象的配位，只構成卦位方陣而未評論君臣人事"
+    },
+    {
+      "chapter": "山墳·連山易",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "以臣為首項列出侯土龜子父卒股等對應，只排列表格而未對關係提出主張"
+    },
+    {
+      "chapter": "山墳·連山易",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "以民為首項建立食力貨妻夫器體的對照，只有方陣配位而無人事判斷"
+    },
+    {
+      "chapter": "山墳·連山易",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把物與金木土水火軌春逐格配對，是體系表列而未談人的處境或規範"
+    },
+    {
+      "chapter": "山墳·連山易",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把陰與土野鬼獸樂妖冬排成對照方陣，沒有就死亡、信仰或人事作獨立論述"
+    },
+    {
+      "chapter": "山墳·連山易",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把陽與天幹神禽禮譴夏等逐格配位，僅建構分類體系而未處理人生領域"
+    },
+    {
+      "chapter": "山墳·連山易",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把兵與帥佐軍材謀陣秋作方陣對照，未對戰爭、責任或權力下判斷"
+    },
+    {
+      "chapter": "山墳·連山易",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把象與日月星雲夜晝兵氣排列成表，只有分類位置而沒有命題或人生問題"
+    },
+    {
+      "chapter": "傳（1）",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "逐格說明君系方陣各項何以相配，主體仍是體系訓詁而非治理或家庭主張"
+    },
+    {
+      "chapter": "傳（1）",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "逐格以象徵和字義解釋臣系配位，父子等詞僅屬方陣訓詁而未形成獨立倫理論述"
+    },
+    {
+      "chapter": "傳（1）",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "逐格解釋民系的食力貨妻夫器體配位，零星家國語句未改變整段訓詁方陣的主體"
+    },
+    {
+      "chapter": "傳（1）",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "以五行性質和季節發生逐格說明物系對應，只在解釋分類體系"
+    },
+    {
+      "chapter": "傳（1）",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "以地野鬼獸樂妖冬解說陰系配位，死亡與妖異只是分類項而非人生或信仰論述"
+    },
+    {
+      "chapter": "傳（1）",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "逐格說明天幹神禽禮譴夏何以屬陽，整段仍是象類訓詁"
+    },
+    {
+      "chapter": "傳（1）",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "逐格解說兵系的帥佐軍材謀陣秋對應，沒有離開方陣提出戰爭或領導規範"
+    },
+    {
+      "chapter": "傳（1）",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "以日月星雲與夜景說明象系前七格，只有分類訓詁而無人生問題判斷"
+    },
+    {
+      "chapter": "傳（1）",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "補釋晝與妖異之氣在象系的位置，仍是兩格訓詁而沒有獨立人事主張"
+    },
+    {
+      "chapter": "太古河圖代姓紀",
+      "para_index": 1,
+      "domains": ["I"],
+      "modes": ["proposition", "narrative"],
+      "reason": "由混沌、太始、太極與兩儀推演天地萬物及生民的根源，並以世系敘事續寫人類之始"
+    },
+    {
+      "chapter": "太古河圖代姓紀",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "按紀年記錄伏羲世系、河圖出現及各項創制，屬譜系事功記事而未提出人生領域命題"
+    },
+    {
+      "chapter": "天皇伏羲氏《皇策辭》",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "記天皇居君位並向將、相與民眾諮詢後頒辭，呈現治理者的諮詢與領導程序"
+    },
+    {
+      "chapter": "天皇伏羲氏《皇策辭》",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["expression", "narrative"],
+      "reason": "天皇自述面對人眾互害而畫八卦使眾人安居，是治理者對社會失序及其處置的親身敘說"
+    },
+    {
+      "chapter": "天皇伏羲氏《皇策辭》",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["prescription", "expression"],
+      "reason": "命朱襄掌圖文、廣泛諮詢且不得徇私，並以君臣答語承載公正履職的規範"
+    },
+    {
+      "chapter": "天皇伏羲氏《皇策辭》",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["prescription", "expression"],
+      "reason": "命昊英掌曆法並向四方查詢以免差錯，君臣對答規定官員職責"
+    },
+    {
+      "chapter": "天皇伏羲氏《皇策辭》",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["ritual", "narrative"],
+      "reason": "依特定日辰召集生民、登台並安排各官方位，以儀節化場景建立統治秩序"
+    },
+    {
+      "chapter": "天皇伏羲氏《皇策辭》",
+      "para_index": 6,
+      "domains": ["V"],
+      "modes": ["prescription", "expression"],
+      "reason": "命上相扶持正道、向民眾告知曆時且不得怠惰，並由共工以當事人口吻回應"
+    },
+    {
+      "chapter": "天皇伏羲氏《皇策辭》",
+      "para_index": 7,
+      "domains": ["V"],
+      "modes": ["prescription", "expression"],
+      "reason": "分派下相撫民教曆及水官養草木、通泉道的責任，臣屬以第一人稱承諾盡力"
+    },
+    {
+      "chapter": "天皇伏羲氏《皇策辭》",
+      "para_index": 8,
+      "domains": ["V"],
+      "modes": ["prescription", "expression"],
+      "reason": "命大庭查訪無居所者並協力建屋免其受凍，是公共照護職責的指派與回應"
+    },
+    {
+      "chapter": "天皇伏羲氏《皇策辭》",
+      "para_index": 9,
+      "domains": ["V"],
+      "modes": ["prescription", "expression"],
+      "reason": "命陰康安置水邊居民、防止漂流並勤通水道，是民生治理規範與臣屬答語"
+    },
+    {
+      "chapter": "天皇伏羲氏《皇策辭》",
+      "para_index": 10,
+      "domains": ["V"],
+      "modes": ["prescription", "expression"],
+      "reason": "命官員保護民眾，使野獸及強者不得傷害驅逐弱者，並以臣答承擔兵事"
+    },
+    {
+      "chapter": "天皇伏羲氏《皇策辭》",
+      "para_index": 11,
+      "domains": ["V"],
+      "modes": ["prescription", "proposition"],
+      "reason": "要求四方之君順辭愛民，並主張如此可使世無害且君位不危"
+    },
+    {
+      "chapter": "天皇伏羲氏《皇策辭》",
+      "para_index": 12,
+      "domains": ["V"],
+      "modes": ["prescription", "proposition"],
+      "reason": "告誡統治者勿貪自身安逸而應安民，並提出民之安危決定君之安危"
+    },
+    {
+      "chapter": "氣墳·歸藏易",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把歸與藏生動長育止殺逐格配對成氣墳方陣，未就魂、兄或降等詞另作人事主張"
+    },
+    {
+      "chapter": "氣墳·歸藏易",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把藏與歸生動長育止殺的詞項排成對照表，沒有對家庭、犯罪或社會下判斷"
+    },
+    {
+      "chapter": "氣墳·歸藏易",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把生與其餘七氣配成孕害勳陽元胎澤性相克，只建立方陣而不論人生問題"
+    },
+    {
+      "chapter": "氣墳·歸藏易",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把動與乘軒受種機風源戒虐逐格配位，僅是體系化表列"
+    },
+    {
+      "chapter": "氣墳·歸藏易",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把長與從師從夫等詞排入八格，師夫等關係詞未被展開為人際或家庭論述"
+    },
+    {
+      "chapter": "氣墳·歸藏易",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把育與流海愛漁苗養畜配對，只給分類位置而未陳述愛、工作或照養的主張"
+    },
+    {
+      "chapter": "氣墳·歸藏易",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把止與約淵貌濟植物潤寬宥排列成方陣，沒有獨立的倫理或修復命題"
+    },
+    {
+      "chapter": "氣墳·歸藏易",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把殺與屍基無忍干戈戰無傷止動逐格對照，未因死亡戰爭詞項而形成領域論述"
+    },
+    {
+      "chapter": "傳（2）",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "逐格把歸系詞項解作聖人的相應用途，主體仍是方陣訓詁而未集中提出獨立人事主張"
+    },
+    {
+      "chapter": "傳（2）",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "以八種聖人用途逐格說明藏系配位，防佞與防亂仍附屬於分類表的訓詁"
+    },
+    {
+      "chapter": "傳（2）",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "逐格把生系配位連到仁政、生產、天時等用途，整段仍在解釋方陣而未另立完整議題"
+    },
+    {
+      "chapter": "傳（2）",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把動系八格分別配上號令、車輪、播種與戒伐等用途，仍是逐格體系化訓詁"
+    },
+    {
+      "chapter": "傳（2）",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把長系八格解為長幼、師教、夫道與均平等用途，家庭和治理語句未脫離方陣註解"
+    },
+    {
+      "chapter": "傳（2）",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "逐格將育系連到議政、恤民、農漁及孝養等用途，主體仍是八格對應體系"
+    },
+    {
+      "chapter": "傳（2）",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "逐格列出止系在治國、器用、草藥與河渠上的用途，未離開方陣形成單一人事論述"
+    },
+    {
+      "chapter": "傳（2）",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "逐格以喪葬、兵伍與刑伐等用途解說殺系配位，仍屬分類訓詁而非死亡或公義專論"
+    },
+    {
+      "chapter": "人皇神農氏政典",
+      "para_index": 1,
+      "domains": ["V", "XII"],
+      "modes": ["proposition"],
+      "reason": "主張君奉天而將民食、喪祭、衣服與教化統歸於政，把神聖秩序連到統治責任"
+    },
+    {
+      "chapter": "人皇神農氏政典",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["narrative", "prescription"],
+      "reason": "追述結繩、交易、八卦與文教的治政沿革，並要求各級角色勿亂政而依古道立政"
+    },
+    {
+      "chapter": "人皇神農氏政典",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以民為邦本、食為民天說明農食與民業的因果，並規定因時地厚民教農"
+    },
+    {
+      "chapter": "人皇神農氏政典",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["formalization", "proposition"],
+      "reason": "把時氣官民及道刑祿禮樂等列成正與過的制度表，主張過度會使政治轉為亂私奢僭"
+    },
+    {
+      "chapter": "人皇神農氏政典",
+      "para_index": 5,
+      "domains": ["V", "IV"],
+      "modes": ["prescription", "formalization"],
+      "reason": "逐項規範君臣官民及父子兄弟夫婦的忠公仁孝義務，兼及朝廷秩序與家內倫理"
+    },
+    {
+      "chapter": "形坟·乾坤易",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把天與地日月山川雲氣排成形墳方陣，僅列自然象類而未提出人生主張"
+    },
+    {
+      "chapter": "形坟·乾坤易",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把地與天日月山川雲氣的形貌逐格配對，只是自然分類表"
+    },
+    {
+      "chapter": "形坟·乾坤易",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把日與天地月山川雲氣的光象逐格配位，沒有涉及人的生活問題"
+    },
+    {
+      "chapter": "形坟·乾坤易",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把月與天地日山川雲氣的明暗形態列成方陣，僅作象類整理"
+    },
+    {
+      "chapter": "形坟·乾坤易",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把山與天地日月川雲氣的地貌名稱相配，只建立分類體系"
+    },
+    {
+      "chapter": "形坟·乾坤易",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把川與天地日月山雲氣的水體名稱逐格對照，未談人事"
+    },
+    {
+      "chapter": "形坟·乾坤易",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把雲與天地日月山川氣的色象排成方陣，只有自然象類配位"
+    },
+    {
+      "chapter": "形坟·乾坤易",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把氣與天地日月山川雲的氤氳光霞逐格配對，沒有形成任何人生領域論述"
+    },
+    {
+      "chapter": "傳（3）",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["prescription", "formalization"],
+      "reason": "把八種天象逐格化為正歲年、求諫、察姦佞與澤蔭庶物等治理者職責"
+    },
+    {
+      "chapter": "傳（3）",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["prescription", "formalization"],
+      "reason": "把地系各象轉成辨方、祭祀、正疆界、通道路及設溝洫等公共治理規範"
+    },
+    {
+      "chapter": "傳（3）",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["prescription", "formalization"],
+      "reason": "逐格規定求賢、德教化民、思賢繼治、察左右與修國政等領導責任"
+    },
+    {
+      "chapter": "傳（3）",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["prescription", "formalization"],
+      "reason": "以月系八格規定任相代政、求隱賢、統治內政及慎防群小等用人治政措施"
+    },
+    {
+      "chapter": "傳（3）",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["prescription", "formalization"],
+      "reason": "把山系各象化為固基業、防僭越、振財祿賢與慎危覆等統治者規範"
+    },
+    {
+      "chapter": "傳（3）",
+      "para_index": 6,
+      "domains": ["V"],
+      "modes": ["prescription", "formalization"],
+      "reason": "以川系配位規定設法、聚財養士、教民漁作、通江海與求隱逸等治理事項"
+    },
+    {
+      "chapter": "傳（3）",
+      "para_index": 7,
+      "domains": ["V"],
+      "modes": ["prescription", "formalization"],
+      "reason": "把雲象逐格轉為紀官、推曆、防災、占治亂及決兵勝敗的統治決策規範"
+    },
+    {
+      "chapter": "傳（3）",
+      "para_index": 8,
+      "domains": ["V"],
+      "modes": ["prescription", "formalization"],
+      "reason": "把氣象逐格轉成決亂、辨時、防災變、取資源與辨異象等治理者職責"
+    },
+    {
+      "chapter": "地皇軒轅氏政典",
+      "para_index": 1,
+      "domains": ["V", "IV"],
+      "modes": ["prescription", "proposition"],
+      "reason": "提出官民各安職業的正道，並主張善政可使父子夫婦兄弟不背恩情義"
+    },
+    {
+      "chapter": "地皇軒轅氏政典",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["formalization", "proposition"],
+      "reason": "以由財智賢道到仁義禮信德政化的連鎖程序說明聖人治天下及保民之理"
+    },
+    {
+      "chapter": "地皇軒轅氏政典",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["prescription"],
+      "reason": "命岐伯精確掌理天文曆數並以死刑警戒失時，是嚴格的官員職掌規範"
+    },
+    {
+      "chapter": "地皇軒轅氏政典",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["prescription"],
+      "reason": "命後土掌察山川生物並維持田制、避免田訟，是土地治理責任的指派"
+    },
+    {
+      "chapter": "地皇軒轅氏政典",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["prescription"],
+      "reason": "命龍東正分配爵祿並戒其勿壓抑賢才或徇私賞惡，規範用人與分配權力"
+    },
+    {
+      "chapter": "地皇軒轅氏政典",
+      "para_index": 6,
+      "domains": ["V", "XII"],
+      "modes": ["prescription", "ritual"],
+      "reason": "命融南正掌禮服祭祀、禁止僭制及怠廢祀事，兼具官職責任與神聖儀節規範"
+    },
+    {
+      "chapter": "地皇軒轅氏政典",
+      "para_index": 7,
+      "domains": ["V"],
+      "modes": ["prescription"],
+      "reason": "命太封西正公平掌理兵器與刑法，是司法及武力權責的直接規定"
+    },
+    {
+      "chapter": "地皇軒轅氏政典",
+      "para_index": 8,
+      "domains": ["V"],
+      "modes": ["prescription"],
+      "reason": "命太常北正管理田制民事、訓勉百工並圖察山川，要求其勤勉履行公共職掌"
+    },
+    {
+      "chapter": "地皇軒轅氏政典",
+      "para_index": 9,
+      "domains": ["V"],
+      "modes": ["prescription", "proposition"],
+      "reason": "要求各級官民工職順從政令，並以終身安樂作為遵行的結果"
+    }
+  ]
+}

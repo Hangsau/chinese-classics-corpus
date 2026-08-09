@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-08-09T05:34:14+00:00",
+    "generated_at": "2026-08-09T05:41:14+00:00",
     "text_count": 68,
     "total_bytes": 10528533,
     "by_category": {
@@ -26,24 +26,24 @@
       "original": 66,
       "contested": 2
     },
-    "surveyed_count": 10,
-    "annotated_count": 10,
-    "scaffolded_count": 1,
-    "paras_judged": 3189,
-    "paras_pending": 78,
+    "surveyed_count": 11,
+    "annotated_count": 11,
+    "scaffolded_count": 0,
+    "paras_judged": 3267,
+    "paras_pending": 0,
     "domain_hit_counts": {
-      "I": 3,
+      "I": 4,
       "II": 7,
       "III": 7,
-      "IV": 8,
+      "IV": 9,
       "IX": 5,
-      "V": 8,
+      "V": 9,
       "VI": 6,
       "VII": 7,
       "VIII": 7,
       "X": 7,
       "XI": 6,
-      "XII": 7,
+      "XII": 8,
       "XIII": 5
     }
   },
@@ -210,11 +210,16 @@
       "size_bytes": 20377,
       "chapter_count": 11,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
+      "surveyed": true,
+      "domains_hit": [
+        "I",
+        "IV",
+        "V",
+        "XII"
+      ],
       "paras_total": 78,
-      "paras_judged": 0,
-      "annotated": false
+      "paras_judged": 78,
+      "annotated": true
     },
     {
       "slug": "guanzi",
