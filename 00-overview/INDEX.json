@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-08-09T05:26:47+00:00",
+    "generated_at": "2026-08-09T05:34:14+00:00",
     "text_count": 68,
     "total_bytes": 10528533,
     "by_category": {
@@ -26,25 +26,25 @@
       "original": 66,
       "contested": 2
     },
-    "surveyed_count": 9,
-    "annotated_count": 9,
-    "scaffolded_count": 2,
-    "paras_judged": 3126,
-    "paras_pending": 141,
+    "surveyed_count": 10,
+    "annotated_count": 10,
+    "scaffolded_count": 1,
+    "paras_judged": 3189,
+    "paras_pending": 78,
     "domain_hit_counts": {
       "I": 3,
-      "II": 6,
-      "III": 6,
-      "IV": 7,
+      "II": 7,
+      "III": 7,
+      "IV": 8,
       "IX": 5,
-      "V": 7,
+      "V": 8,
       "VI": 6,
       "VII": 7,
-      "VIII": 6,
-      "X": 6,
+      "VIII": 7,
+      "X": 7,
       "XI": 6,
       "XII": 7,
-      "XIII": 4
+      "XIII": 5
     }
   },
   "texts": [
@@ -122,11 +122,19 @@
       "size_bytes": 19558,
       "chapter_count": 4,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
+      "surveyed": true,
+      "domains_hit": [
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VIII",
+        "X",
+        "XIII"
+      ],
       "paras_total": 63,
-      "paras_judged": 0,
-      "annotated": false
+      "paras_judged": 63,
+      "annotated": true
     },
     {
       "slug": "duduan",

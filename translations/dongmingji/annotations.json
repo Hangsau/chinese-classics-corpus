@@ -1,0 +1,1043 @@
+[
+  {
+    "para_id": "dongmingji#01-p01",
+    "anchor": {
+      "chapter": "卷第一",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "敘述武帝誕生前後的夢兆與宮門改名，重心是祥異事件，未論人的命運或親子關係",
+    "excerpt": "漢武帝未誕之時，景帝夢一赤彘從雲中直下，入崇蘭閣。帝覺而坐於閣上，果見赤氣如煙霧",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#01-p02",
+    "anchor": {
+      "chapter": "卷第一",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "expression"
+    ],
+    "confidence": null,
+    "note": "除神異遊歷外，還具體寫鄰母收養東方朔、因久別責打並為傷足包裹的照護關係",
+    "excerpt": "東方朔，字曼倩。父張夷，字少平，妻田氏女。夷年二百歲，顏如童子。朔生三日，而田氏",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#01-p03",
+    "anchor": {
+      "chapter": "卷第一",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative",
+      "expression"
+    ],
+    "confidence": null,
+    "note": "東方朔向帝自述遠遊所得並列舉臺池舟器，內容仍是遠方異物見聞，未提出人生問題",
+    "excerpt": "建元二年，帝起騰光臺，以望四遠。於臺上撞碧玉之鐘，掛懸黎之磬，吹霜條之篪，唱來雲",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#01-p04",
+    "anchor": {
+      "chapter": "卷第一",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記釣影山水草、宮室與照妖金鏡的形制效驗，未談人如何生活或面對恐懼",
+    "excerpt": "釣影山去昭河三萬里，有雲氣，望之如山影。丹藿生於影中，葉浮水上。有紫河萬里，深十",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#01-p05",
+    "anchor": {
+      "chapter": "卷第一",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "只記都夷香使人不飢及入水膨大的效驗，奇物對人的作用不構成人生領域",
+    "excerpt": "都夷香如棗核，食一片，則歷月不飢。以粒如粟米許，投水中，俄而滿大盂也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#01-p06",
+    "anchor": {
+      "chapter": "卷第一",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記宮殿陳設、異物燈光與侍者驅蛾，雖言帝耽靈怪，仍未展開人的信仰或內在處境",
+    "excerpt": "甘泉宮南昆明池中，有靈波殿七間。皆以桂為柱，風來自香。帝既耽於靈怪，常得丹豹之髓",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#01-p07",
+    "anchor": {
+      "chapter": "卷第一",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "敘壽靈壇上聽見西王母歌聲及草木感動的異事，沒有進一步寫人如何求道或回應神聖",
+    "excerpt": "元光中，帝起壽靈壇。壇上列植垂龍之木，似青梧，高十丈，有朱露，色如丹汁，灑其葉，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#01-p08",
+    "anchor": {
+      "chapter": "卷第一",
+      "para_index": 8
+    },
+    "psych_domains": [
+      "VIII",
+      "XIII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "董謁因好學而在家貧與圖書繁重中以樹葉代簡、荊條作床，寫出求學及因應困境的方法",
+    "excerpt": "董謁，字仲玄，武都郁邑人也。少好學，嘗遊山澤，負挾圖書，患其繁重。家貧，拾樹葉以",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#01-p09",
+    "anchor": {
+      "chapter": "卷第一",
+      "para_index": 9
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "只述神精香草的形制、織布用途與留香效驗，未談人的身體或親密關係本身",
+    "excerpt": "波祗國，亦名波弋國。獻神精香草，亦名荃蘼，亦名春蕪。一根百條，其間如竹節柔軟，其",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#01-p10",
+    "anchor": {
+      "chapter": "卷第一",
+      "para_index": 10
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "敘飛骸獸死後骨骸飛去的異事，帝的惋惜僅服務於奇獸情節，未形成失去之主題",
+    "excerpt": "翕韓國獻飛骸獸，狀如鹿，青色。以寒青之絲為繩繫之。及死，帝惜之而不瘞，掛於苑門。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#01-p11",
+    "anchor": {
+      "chapter": "卷第一",
+      "para_index": 11
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記池中水草、禽鳥、舟船及帝遊宴，屬景物宮苑條，未說關於人的生活抉擇",
+    "excerpt": "旦露池西有靈池，方四百步。有連錢荇、浮根菱、倒枝藻。連錢荇，荇如錢文；浮根菱，根",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#02-p01",
+    "anchor": {
+      "chapter": "卷第三",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative",
+      "expression"
+    ],
+    "confidence": null,
+    "note": "帝召方士後東方朔自述遠國仙草及其效驗，重心仍是異物見聞，未真正討論求道",
+    "excerpt": "天漢二年，帝升蒼龍閣，思仙術，召諸方士言遠國遐方之事。唯東方朔下席，操筆跪而進，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#02-p02",
+    "anchor": {
+      "chapter": "卷第三",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "III",
+      "X"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "武帝因思念不可再得的李夫人而藉草入夢，奇草在此承載親密眷戀與失去",
+    "excerpt": "有夢草，似蒲，色紅。晝縮入地，夜則出，亦名懷莫。懷其葉，則知夢之吉兇，立驗也。帝",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#02-p03",
+    "anchor": {
+      "chapter": "卷第三",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記鳳葵草、黃蛇珠及仙人食草後的效驗，屬物產與仙藥傳聞，未談超越實踐本身",
+    "excerpt": "有鳳葵草，色丹，葉長四寸，味甘，久食令人身輕肌滑。赤松子餌之三歲，乘黃蛇入水，得",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#02-p04",
+    "anchor": {
+      "chapter": "卷第三",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記五味草的味變、卻睡效驗及小人國衣食住居，沒有把睡眠或身體當成人生處境來談",
+    "excerpt": "有五味草，初生味甘，花時味酸，食之使人不眠，名曰卻睡草。末多國獻此草。此國人長四",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#02-p05",
+    "anchor": {
+      "chapter": "卷第三",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "只述龍爪薤製丸後千歲不飢的藥效，延壽字眼仍是本草式效驗而非老死議題",
+    "excerpt": "鳥哀國，有龍爪薤，長九尺，色如玉。煎之有膏，以和紫桂為丸，服一粒，千歲不飢，故語",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#02-p06",
+    "anchor": {
+      "chapter": "卷第三",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記掌中芥的栽種條件與食後凌空效驗，未涉及人的自由、改變或超越追求",
+    "excerpt": "有掌中芥，葉如松子。取其子置掌中，吹之而生，一吹長一尺，至三尺而止，然後可移於地",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#02-p07",
+    "anchor": {
+      "chapter": "卷第三",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "敘東方朔以星木使彗星消失及獸鳴異象，僅為星占異事，沒有可標的人生領域",
+    "excerpt": "帝常見彗星，東方朔折指星之木以授帝。帝以木指彗星，星尋則沒也。星出之夜，野獸皆鳴",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#02-p08",
+    "anchor": {
+      "chapter": "卷第三",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "只記紫柰的大小、味色與染衣效用，純屬物產描述",
+    "excerpt": "有紫柰，大如鬥，甜如蜜。核紫，花青，研之有汁如漆，可染衣。其汁著衣，不可湔浣。亦",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#02-p09",
+    "anchor": {
+      "chapter": "卷第三",
+      "para_index": 9
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記龍肝瓜形味、仙人食後不渴及封禪賞賜，效驗與儀典都未轉為人的苦樂問題",
+    "excerpt": "有龍肝瓜，長一尺，花紅葉素，生於冰谷。所謂冰谷素葉之瓜。仙人瑕丘仲採藥，得此瓜，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#02-p10",
+    "anchor": {
+      "chapter": "卷第三",
+      "para_index": 10
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "敘寶刀來歷及武帝臨崩時刀化赤鵲飛去，死亡只是異物變形的時點而非段落主題",
+    "excerpt": "帝解鳴鴻之刀，以賜朔。刀長三尺，朔曰：「此刀黃帝採首山之金鑄之，雄已飛去，雌者猶",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#02-p11",
+    "anchor": {
+      "chapter": "卷第三",
+      "para_index": 11
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "只陳述鵲銜火後化龍的變形異事，沒有人的處境或關係可標",
+    "excerpt": "有鵲銜火於清溪之上，鵲化成龍。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#02-p12",
+    "anchor": {
+      "chapter": "卷第三",
+      "para_index": 12
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "敘黃鵠童子顯為東方朔而眾人驚異其神化年歲，重心是異人變化而非自我認同或衰老",
+    "excerpt": "西域獻虎龍，高七尺，映日看之，光如聚炬火。有童子遙見有黃鵠，白首，鼓翅於帝前，即",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#02-p13",
+    "anchor": {
+      "chapter": "卷第三",
+      "para_index": 13
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "只記百足蟹的尺寸形態與殼膠用途，純屬異物條",
+    "excerpt": "善苑國嘗貢一蟹，長九尺，有百足四螯，因名百足蟹。煮其殼，勝於黃膠，亦謂之螯膠，勝",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#02-p14",
+    "anchor": {
+      "chapter": "卷第三",
+      "para_index": 14
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "敘白鵠化神女歌舞並附發日樹物性，重心是神異景象，未寫人如何與神聖建立關係",
+    "excerpt": "帝常夕望，東邊有青雲起，俄而，見雙白鵠集臺之上，倏忽變為二神女，舞於臺，握鳳管之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#02-p15",
+    "anchor": {
+      "chapter": "卷第三",
+      "para_index": 15
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記翠水菱及仙人食後骨輕生羽的效驗，屬仙藥物產而非身體或超越議題",
+    "excerpt": "有玄都翠水，水中有菱，碧色，狀如雞飛，亦名翔雞菱。仙人鳧伯子常遊翠水之涯，採菱而",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#02-p16",
+    "anchor": {
+      "chapter": "卷第三",
+      "para_index": 16
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記遠飛雞習性、桂實釀酒及異雞孵養，內容是禽物與酒效，未談人的生活問題",
+    "excerpt": "有遠飛雞，夕則還依人，曉則絕飛四海，朝往夕還，常銜桂枝之實，歸於南山，或落地而生",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#02-p17",
+    "anchor": {
+      "chapter": "卷第三",
+      "para_index": 17
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記俯月臺、影娥池與宴飲草果，屬宮苑陳設，望仙弄月不等於信仰實踐",
+    "excerpt": "帝於望鵠臺西起俯月臺，臺下穿池，廣千尺，登臺以眺月，影入池中，使仙人乘舟弄月影，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#02-p18",
+    "anchor": {
+      "chapter": "卷第三",
+      "para_index": 18
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "只述池中諸船及石脈製成繩布的性質用途，沒有人的處境或價值主張",
+    "excerpt": "影娥池中有遊月船、觸月船、鴻毛船、遠見船，載數百人。或以青桂之枝為棹，或以木蘭之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#02-p19",
+    "anchor": {
+      "chapter": "卷第三",
+      "para_index": 19
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記池龜群聚景象與相關俗語，並未藉此討論等待、命運或其他人生問題",
+    "excerpt": "影娥池中有鼊龜，望其群出岸上，如連璧弄於沙岸也。故語曰：夜未央，待龜黃。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#02-p20",
+    "anchor": {
+      "chapter": "卷第三",
+      "para_index": 20
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "只記鳴禽苑中生金樹的皮屑色澤，純屬宮苑物產條",
+    "excerpt": "影娥池北作鳴禽之苑，有生金樹，破之，皮間有屑如金，而色青，亦名青金樹。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#02-p21",
+    "anchor": {
+      "chapter": "卷第三",
+      "para_index": 21
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "只述司夜雞按更鼓報時的習性，未形成可計算制度或人的生活領域",
+    "excerpt": "有司夜雞，隨鼓節而鳴不息，從夜至曉，一更為一聲，五更為五聲，亦曰五時雞。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#02-p22",
+    "anchor": {
+      "chapter": "卷第三",
+      "para_index": 22
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "只述喜日鵝在日出時起舞的習性，沒有人的情緒或信仰內容",
+    "excerpt": "有喜日鵝，至日出時銜翅而舞，又名曰舞日鵝。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#02-p23",
+    "anchor": {
+      "chapter": "卷第三",
+      "para_index": 23
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "只記升蕖鴨的顏色、棲處與飲食習性，純屬禽物描述",
+    "excerpt": "有升蕖鴨，赤色，每止於芙蕖上，不食五穀，唯咂葉上垂露，因名垂露鴨，亦曰丹毛鳧。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#02-p24",
+    "anchor": {
+      "chapter": "卷第三",
+      "para_index": 24
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "只記女香樹可供婦人佩帶且香氣終年不減，奇物效用未觸及親密或身分問題",
+    "excerpt": "有女香樹，細枝葉，婦人帶之，香終年不減。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#03-p01",
+    "anchor": {
+      "chapter": "卷第二",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "記招仙閣陳設、神女贈釵及釵化白燕，人物往來服務於奇物來歷，未展開信仰或親密關係",
+    "excerpt": "元鼎元年，起招仙閣於甘泉宮西。編翠羽麟毫為簾，青琉璃為扇，懸黎火齊為床，其上懸浮",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#03-p02",
+    "anchor": {
+      "chapter": "卷第二",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative",
+      "expression"
+    ],
+    "confidence": null,
+    "note": "馬肝石效驗與東方朔自述五德祥雲都屬異物和占瑞知識，沒有談人的老病或命運處境",
+    "excerpt": "元鼎五年，郅支國貢馬肝石百斤。常以水銀養之，內玉櫃中，金泥封其上。國人長四尺，惟",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#03-p03",
+    "anchor": {
+      "chapter": "卷第二",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "只記方山像、諸種異香與青楂燈的製法照度，召見方士未帶出人的信仰實踐",
+    "excerpt": "元封中，起方山像，招諸靈異，召東方朔言其秘奧。乃燒天下異香，有沈光香、精祗香、明",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#03-p04",
+    "anchor": {
+      "chapter": "卷第二",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記神明臺席具與仙眾飲食，純為宮室宴饗陳設，未說人如何求道",
+    "excerpt": "起神明臺，上有九天道金床、象席，虎珀鎮雜玉為簟。帝坐良久，設甜水之冰，以備洪濯酌",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#03-p05",
+    "anchor": {
+      "chapter": "卷第二",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記文犀形制、產地居民取寶及蛟人泣珠，眼淚只是異珠來源，未處理情緒或苦難",
+    "excerpt": "吠勒國貢文犀四頭，狀如水兕。角表有光，因名明犀。置暗中，有光影，亦曰影犀。織以為",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#03-p06",
+    "anchor": {
+      "chapter": "卷第二",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "只記甜溪水被獻入井及洗沐效驗，奇水對身體的作用不構成身體人生議題",
+    "excerpt": "甜水去虞淵八十里，有甜溪，水味如蜜。東方朔遊此水，得數斛以獻帝。投水於井，井水常",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#03-p07",
+    "anchor": {
+      "chapter": "卷第二",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "只記碧草釀酒使人久醉及甜水解酒的效驗，未討論人的選擇或內在狀態",
+    "excerpt": "瑤琨，去玉門九萬里，有碧草如麥，割之以釀酒，則味如醇酎，飲一合，三旬不醒。但飲甜",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#03-p08",
+    "anchor": {
+      "chapter": "卷第二",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "只述塗山紫梨的大小、顏色與花期，純屬物產條",
+    "excerpt": "塗山之背，梨大如升，或云斗。紫色，千年一花，亦曰紫輕梨。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#03-p09",
+    "anchor": {
+      "chapter": "卷第二",
+      "para_index": 9
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "只述玉葉李的產地、色味、成熟期與別名來歷，仙人食果不等於求道主題",
+    "excerpt": "琳國去長安九千里，生玉葉李，色如碧玉，數十年一熟，味酸。昔韓終常餌此李，因名韓終",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#03-p10",
+    "anchor": {
+      "chapter": "卷第二",
+      "para_index": 10
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "敘花蹄牛運石建宮及龍鐘石陷地的來歷，核心是異獸異石，未論勞動、權力或無常",
+    "excerpt": "元封三年，大秦國貢花蹄牛。其色駁，高六尺，尾環繞其身，角端有肉，蹄如蓮花，善走，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#03-p11",
+    "anchor": {
+      "chapter": "卷第二",
+      "para_index": 11
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "expression"
+    ],
+    "confidence": null,
+    "note": "董竭借妹喜金簪與白龍魚服勸阻帝王微行，重心是臣下規諫及統治者身分責任",
+    "excerpt": "帝好微行，於長安城西，夜見一螭遊於路。董竭曰：「昔傑媚末喜於膝上，以金簪貫玉褵腹",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#03-p12",
+    "anchor": {
+      "chapter": "卷第二",
+      "para_index": 12
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "只記駁騾的尺寸斑紋及帝所用飼養器物，未談照護倫理或人際關係",
+    "excerpt": "元封四年，修彌國獻駁騾，高十尺，毛色赤斑，皆有日月之象。帝以金𤥻為鎖絆，以寶器盛",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#03-p13",
+    "anchor": {
+      "chapter": "卷第二",
+      "para_index": 13
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "敘細鳥入宮、消失再現及鳥皮媚人的效驗，宮妃受寵仍由奇物作用串起，未實質討論親密關係",
+    "excerpt": "元封五年，勒畢國貢細鳥，以方尺之玉籠盛數百頭，形如大蠅，狀似鸚鵡，聲聞數里之間，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#03-p14",
+    "anchor": {
+      "chapter": "卷第二",
+      "para_index": 14
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "只記勒畢國小人有翼、戲笑曝日與飲露的習性，未談群體歸屬或人生處境",
+    "excerpt": "勒畢國，人長三寸，有翼，善言語戲笑，因名善語國。常群飛往日下自曝，身熱乃歸。飲丹",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#03-p15",
+    "anchor": {
+      "chapter": "卷第二",
+      "para_index": 15
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative",
+      "expression"
+    ],
+    "confidence": null,
+    "note": "聲風木的吉凶徵候、長生人物與東方朔自述都在說異木占驗，沒有轉成死亡或命運的反思",
+    "excerpt": "太初二年，東方朔從西那汗國歸，得聲風木十枝獻帝。長九尺，大如指。此木臨因桓之水，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#03-p16",
+    "anchor": {
+      "chapter": "卷第二",
+      "para_index": 16
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "只記望風臺所得照月珠及其賞賜盛具，屬宮室異寶記載",
+    "excerpt": "太初三年，起甘泉望風臺。臺上得白珠如花一枝，帝以錦蓋覆之，如照月矣。因名照月珠，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#03-p17",
+    "anchor": {
+      "chapter": "卷第二",
+      "para_index": 17
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "只述支提國人的形貌、能力、衣著與遊戲，沒有探討差異、偏見或群體生活",
+    "excerpt": "太初四年，東方朔從支提國來。國人長三丈二尺，三手三足，各三指，多力，善走，國內小",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#03-p18",
+    "anchor": {
+      "chapter": "卷第二",
+      "para_index": 18
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative",
+      "expression"
+    ],
+    "confidence": null,
+    "note": "東方朔自述神馬、吉雲草與取露療老病的奇遇，老少病癒皆是異物效驗而非人生議題",
+    "excerpt": "東方朔遊吉雲之地，得神馬一匹，高九尺。帝問朔：「是何獸也？」朔曰：「昔西王母乘靈",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#03-p19",
+    "anchor": {
+      "chapter": "卷第二",
+      "para_index": 19
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative",
+      "expression"
+    ],
+    "confidence": null,
+    "note": "只記李充自報高齡、負圖來朝及受號，重心是異人身分來歷，未展開成就或信仰問題",
+    "excerpt": "李充，馮翊人也。自言三百歲，荷草畚，負《五嶽真圖》而至。帝禮待之，亦號負圖先生也",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#03-p20",
+    "anchor": {
+      "chapter": "卷第二",
+      "para_index": 20
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "記孟岐長壽、周初舊事、珍藏玉笏及來謁，仍是異人小傳，未把懷舊或求仙寫成人生問題",
+    "excerpt": "孟岐，河清之逸人也。年可七百歲。語及周初事，了然如目前。岐侍周公升壇上，岐以手摩",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#03-p21",
+    "anchor": {
+      "chapter": "卷第二",
+      "para_index": 21
+    },
+    "psych_domains": [
+      "II",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "郭瓊外貌醜劣而氣度過人，並借宿乞薪照明讀書，呈現外在評價與內在才度及求學努力的反差",
+    "excerpt": "郭瓊，東郡人也。形貌醜劣，而意度過人。曾宿人家，輒乞薪自照讀書。晝眠，眼不閉，行",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#03-p22",
+    "anchor": {
+      "chapter": "卷第二",
+      "para_index": 22
+    },
+    "psych_domains": [
+      "II",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "expression"
+    ],
+    "confidence": null,
+    "note": "黃安自陳卑猥難處人間，仍在低微役職中執鞭懷荊讀書記數，寫出自我身分與求學實踐",
+    "excerpt": "黃安，代郡人也。為代郡卒。自雲卑猥不獲處人間，執鞭懷荊而讀書。畫地以記數者，夕地",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#04-p01",
+    "anchor": {
+      "chapter": "卷第四",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "X"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "expression"
+    ],
+    "confidence": null,
+    "note": "武帝暮年親自追問不老是否可得，是替自身衰老發問，後列仙草奇物仍由此問題引出",
+    "excerpt": "武帝暮年，彌好仙術，與東方朔狎暱，帝曰：「朕所好甚者不老，其可得乎？」朔曰：「臣",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#04-p02",
+    "anchor": {
+      "chapter": "卷第四",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "III"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "帝因寵愛麗娟而怕衣纓、塵垢與風傷及其身體，重心是親密關係中近乎禁錮的保護方式",
+    "excerpt": "帝所幸宮人，名麗娟，年十四，玉膚柔軟，吹氣勝蘭。不欲衣纓拂之，恐體痕也。每歌，李",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#04-p03",
+    "anchor": {
+      "chapter": "卷第四",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "記丹蝦形貌及蝦鬚杖被棄後飛化為丹，人物行動只交代異物變形，沒有人的人生處境",
+    "excerpt": "有丹蝦，長十丈，鬚長八尺，有兩翅，其鼻如鋸。載紫桂之林，以鬚纏身急流，以為棲息之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#04-p04",
+    "anchor": {
+      "chapter": "卷第四",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "敘青鴨化童子並留下輕影錢的異事，帝的喜悅未被展開為情緒或關係主題",
+    "excerpt": "帝升望月臺，時暝，望南端有三青鴨群飛，俄而止於臺上，帝悅之。至夕，鴨宿於臺端，日",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#04-p05",
+    "anchor": {
+      "chapter": "卷第四",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "記能言龜的飲養安置方法及占卜必中，內容只是異物照護與占驗，未談人如何面對命運",
+    "excerpt": "元封三年，數過國獻能言龜一頭，長一尺二寸，盛以青玉匣，廣一尺九寸，匣上豁一孔以通",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  },
+  {
+    "para_id": "dongmingji#04-p06",
+    "anchor": {
+      "chapter": "卷第四",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "III"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "巨靈是帝所愛悅並在帝前嬉戲的女子，她受東方朔注目後離去化鳥，異變之外仍寫到親密依戀",
+    "excerpt": "唯有一女人愛悅於帝，名曰巨靈。帝傍有青珉唾壺，巨靈乍出入其中，或戲笑帝前。東方朔",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-09T13:32:56+08:00"
+  }
+]
