@@ -1,0 +1,453 @@
+{
+  "batch": "b07.md",
+  "rows": [
+    {
+      "chapter": "辨不可下病脈證並治第二十",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "由濡弱微澀之脈推論陽氣與血分不足並規定不可下，只在建立病機及治療禁忌，未談病者如何面對身體處境。"
+    },
+    {
+      "chapter": "辨不可下病脈證並治第二十",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "規定動氣在右者不可下並列出誤下後津液枯竭等後果，內容限於治療禁忌與病候因果。"
+    },
+    {
+      "chapter": "辨不可下病脈證並治第二十",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "以腹急、食不下與動氣加劇說明動氣在左不可下，仍是辨證和誤治後果而非人的生活處境。"
+    },
+    {
+      "chapter": "辨不可下病脈證並治第二十",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "規定動氣在上不可下並預測誤下後的熱煩、浮冷與汗泄，只處理臨床禁忌。"
+    },
+    {
+      "chapter": "辨不可下病脈證並治第二十",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "用腹脹、頭眩、下清穀等結果支持動氣在下不可下，病在此只是技術判斷的對象。"
+    },
+    {
+      "chapter": "辨不可下病脈證並治第二十",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "列舉咽中閉寒誤下後的飲食不下、身痛與頻利以申明禁下，沒有超出病候及治法。"
+    },
+    {
+      "chapter": "辨不可下病脈證並治第二十",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "規定外實者不可下並描述誤下後微熱、脈厥與臍熱，是治療禁忌的條件式說明。"
+    },
+    {
+      "chapter": "辨不可下病脈證並治第二十",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "以求水或惡水判別誤下後的輕重，核心仍是虛證禁下與預後，未書寫人的受苦處境。"
+    },
+    {
+      "chapter": "辨不可下病脈證並治第二十",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "解釋弦微脈所示的上下虛實與陰寒並判定虛者不可下，只是在形式化辨證原理。"
+    },
+    {
+      "chapter": "辨不可下病脈證並治第二十",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "從微脈、咳吐涎一路推演誤下後利不止及除中的成套病候，雖症狀劇烈仍只是臨床因果描述。"
+    },
+    {
+      "chapter": "辨不可下病脈證並治第二十",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "以脈象界定陽虛、無血與痛寒，再說明誤下導致狂走見鬼等症候，沒有把情緒或信仰當作人的議題。"
+    },
+    {
+      "chapter": "辨不可下病脈證並治第二十",
+      "para_index": 12,
+      "domains": ["VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "連續敘寫醫者誤認大熱、發汗致虛、不知胃冷而汲水灌身，最後延誤補救，重點越出病候而涉及行醫判斷與職業能力。"
+    },
+    {
+      "chapter": "辨不可下病脈證並治第二十",
+      "para_index": 13,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "由浮大脈推演血液津榮耗竭及再攻胃後的死亡預後，死在此是誤治結果而非人的死亡處境。"
+    },
+    {
+      "chapter": "辨不可下病脈證並治第二十",
+      "para_index": 14,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "說明久數之脈的邪正結聚機理並規定不可下，煩與利不止只是禁忌依據。"
+    },
+    {
+      "chapter": "辨不可下病脈證並治第二十",
+      "para_index": 15,
+      "domains": [],
+      "modes": ["prescription", "observation"],
+      "reason": "依浮大脈規定應發汗並把反下判為大逆，評斷的是具體治法正誤而非職業倫理。"
+    },
+    {
+      "chapter": "辨不可下病脈證並治第二十",
+      "para_index": 16,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "規定嘔多者即使具陽明證也不可攻下，僅是治療禁忌。"
+    },
+    {
+      "chapter": "辨不可下病脈證並治第二十",
+      "para_index": 17,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "規定太陽病外證未解時不可下並稱誤下為逆，沒有另談人的處境。"
+    },
+    {
+      "chapter": "辨不可下病脈證並治第二十",
+      "para_index": 18,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "提出陽多而熱之病施下法會轉硬的條件因果，只是病機與治療反應。"
+    },
+    {
+      "chapter": "辨不可下病脈證並治第二十",
+      "para_index": 19,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "說明無陽陰強而便硬者誤下必清穀腹滿，內容局限於誤治後病候。"
+    },
+    {
+      "chapter": "辨不可下病脈證並治第二十",
+      "para_index": 20,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "逐項列出發汗、熏、下及溫針對傷寒患者造成的症狀後果，是治法風險的技術推演。"
+    },
+    {
+      "chapter": "辨不可下病脈證並治第二十",
+      "para_index": 21,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "定義脈厥之候並比較發汗、再下、熏熨後的病變及可救與危殆預後，未把死亡危險轉成存在議題。"
+    },
+    {
+      "chapter": "辨不可下病脈證並治第二十",
+      "para_index": 22,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "依貪水、惡水及手足溫等條件推演下法或汗法的不同後果，全文都在辨病與評估誤治。"
+    },
+    {
+      "chapter": "辨不可下病脈證並治第二十",
+      "para_index": 23,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "以強下解釋下利脈大，並據浮革腸鳴指定當歸四逆湯，屬病因判定與處方指派。"
+    },
+    {
+      "chapter": "辨可下病脈證並治第二十一",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "規定下藥宜用湯、藥效中病即停而不必盡劑，是用藥操作原則，未涉及人的生命態度。"
+    },
+    {
+      "chapter": "辨可下病脈證並治第二十一",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation", "prescription"],
+      "reason": "以三部脈平而心下硬辨為應急下之證並指定大承氣湯，只是在辨證處方。"
+    },
+    {
+      "chapter": "辨可下病脈證並治第二十一",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "從下利而脈遲滑推知內實並規定下法與方劑，內容限於診斷及治療。"
+    },
+    {
+      "chapter": "辨可下病脈證並治第二十一",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "問答以寸尺脈象推知宿食並指定攻下方，展示的是辨別疾病的技術推論。"
+    },
+    {
+      "chapter": "辨可下病脈證並治第二十一",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "以不欲食推斷宿食後規定使用大承氣湯，沒有超出病因和治法。"
+    },
+    {
+      "chapter": "辨可下病脈證並治第二十一",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "把定期復發歸因於病邪未盡並規定攻下，屬復發機理與處方指派。"
+    },
+    {
+      "chapter": "辨可下病脈證並治第二十一",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "由下利脈滑判定體內有所當去並主張下之乃愈，只談治療因果。"
+    },
+    {
+      "chapter": "辨可下病脈證並治第二十一",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["observation", "prescription"],
+      "reason": "把腹中滿痛辨為實證並規定當下，病痛在此是處方依據而非苦難經驗。"
+    },
+    {
+      "chapter": "辨可下病脈證並治第二十一",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["observation", "prescription"],
+      "reason": "依傷寒後脈沉判定內實並指定大柴胡湯下解，是簡要的辨證治法。"
+    },
+    {
+      "chapter": "辨可下病脈證並治第二十一",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "由雙弦遲及大緊之脈推知心下硬與陽中有陰，再判定可下並指定方劑。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "交代卷篇次序、證候數量及其已載於前三陰三陽篇，純屬篇章編排資訊。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "因既有加減說明不明且不便檢閱而說明重新校勘列方的理由，只處理文本整理。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "完整列出桂枝加葛根湯的藥味、劑量、煮取次序與服量，是可執行的方劑程序。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "規定在桂枝湯內加入厚朴與杏仁的數量並沿用前法，屬方劑加減程序。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "列明桂枝加附子湯及朮附湯的增刪藥味、炮製和份量，是兩套可操作方程。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "以桂枝湯為基式規定去除芍藥而其餘依前法，純為方劑變式。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "規定桂枝湯去芍藥、加炮附子一枚並沿用前法，是可執行的配方加減。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "逐味列出桂枝麻黃各半湯的劑量、處理、煮取及服用量，內容全是製服程序。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "給出桂枝二麻黃一湯各味銖數、水量、煎法、服量及頻次，是精確的方劑算法。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "規定白虎湯中增添人參三兩並依原法製服，僅是方劑變式。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "規定桂枝湯去桂、加茯苓白朮的份量與煎服法，末附小便利則愈的療效判準，仍屬技術程序。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "說明以上九方的病證均見第二卷，只提供卷內索引。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 13,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "規定葛根湯加入半夏半升並依原法製服，是方劑加減程序。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 14,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "以桂枝湯為基礎增加芍藥、生薑與人參的明確份量並依原法服用，屬配方操作。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 15,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "規定梔子豉湯加入甘草二兩並以得吐作為停服條件，是可執行的加減與停止程序。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 16,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "規定梔子豉湯加入生薑五兩並在得吐後停服，內容為方劑和服法步驟。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 17,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "規定小柴胡湯加芒硝六兩以及初服不解時再服，是配方與重服程序。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 18,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "規定桂枝湯再加桂二兩至共五兩且沿用前法，純為方劑數量調整。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 19,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "指出以上六方的病證均收於第三卷，只是編排索引。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 20,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "列出柴胡桂枝湯九味藥的份量、水量、煮取量與溫服法，是完整製劑程序。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 21,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "詳定附子瀉心湯四味藥的炮製、分煮、浸漬、混合及分服方式，屬可計算程序。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 22,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "列明生薑瀉心湯八味藥的劑量、二次煎煮量與每日服次，內容全為方劑程序。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 23,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "列明甘草瀉心湯六味藥的份量、煮取和再煎數值及服用頻次，是精確製服法。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 24,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "規定黃芩湯加入半夏與生薑的份量、依原法服用並附卷次索引，主體是方劑加減。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 25,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "逐味列出桂枝加大黃湯的劑量、水量、煮取量和每日服次，屬可執行方程。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 26,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "規定在桂枝湯中增加芍藥三兩至共六兩並依原法，純為方劑調整。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 27,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "列明九味藥及水酒比例、煮取量、分服次數和異方數值，是完整的製服算法。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 28,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "指出以上三方的病證均在第六卷，僅作交叉索引。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 29,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "規定四逆湯加入人參一兩並依原法服用，是方劑加減程序。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 30,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "規定四逆湯加入豬膽汁半合及缺料時以羊膽替代，屬配方操作與替代規則。"
+    },
+    {
+      "chapter": "辨發汗吐下後脈證並治第二十二",
+      "para_index": 31,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "說明以上二方的病證均在第七卷，只提供篇卷定位。"
+    }
+  ]
+}
