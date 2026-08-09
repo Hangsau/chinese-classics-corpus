@@ -16,9 +16,9 @@
 | 跑心理學標註 | 先讀 `SCHEMA.md` §3 分流 `text_role`，`reference` 類不進管線 |
 | 標一部新書 | **預設走發包**，完整八步寫在 `HANDOFF.md` §下一步第 3 條：`make-delegation-input.py` 切批 → 寫 `delegation/<slug>/SPEC.md` → **先發 b01 試點、校準結果補回 spec 才放行其餘批** → `check-delegation-out.py` 檢查 → `apply-delegation.py` 回填。不發包時才用本檔 §標註工作流的手工五步 |
 | 寫發包 spec | 抄 `delegation/yanshi-jiaxun/SPEC.md` 的骨架：**13 領域分流表（哪類內容歸哪格，逐格指定）** ＋ 該書特有的陷阱與例外體例 ＋ 硬規則 ＋ 輸出格式。分流表不寫，領域區辨不會自己發生——顏氏家訓的 IV 86 > V 47 就是這樣拿到的。**規訓一律帶數字**（「預設一到兩個領域，第三個要寫得出拿掉它少講什麼」）；只寫「不要濫用」不會生效，世說新語 b01 就是這樣疊出 6/8 段三領域 |
-| 串行／並行發包 codex | 複製 `delegation/shishuo-xinyu/run-batches2.sh`（**不是同目錄的 v1**，理由見 `HANDOFF.md` §靜默失效）。prompt 必含三條反例：不准先問「確認後開始」、交付物是檔案本身要讀回確認、只准寫自己那一批的 out 檔 |
+| 串行發包 codex | `bash scripts/run-delegation.sh <slug> b01 b02 ...`（吃 slug 參數，**已取代 `delegation/shishuo-xinyu/run-batches{,2}.sh` 兩支寫死 slug 的版本，不要再逐書複製**）。它的 prompt 內含三條反例：不准先問「確認後開始」、交付物是檔案本身要讀回確認、只准寫自己那一批的 out 檔——**三條都是實際踩過的靜默失效，別精簡掉**（見 `HANDOFF.md` §靜默失效） |
 | 查 13 領域怎麼分／`discourse_mode` 八值定義 | `vocab/psych-domains.json`、`vocab/discourse-modes.json`（v0.2）。**友誼在 V 不在 III**；`Z-wisdom` 等 crosscurrents 不得填進 `psych_domains` |
-| 判斷一段該不該給領域 | 論說／算書走 `CLAUDE.md` §2.1 **中性物件替換測試**（2026-08-09 九章重判 28→1 立下）；**敘事體走 §2.2「刪掉這一則，讀者少知道了什麼」閘門**（替換測試在軼事上失效，世說新語 1,132 段立下）。兩者都優先於「這段看起來有社會味」的直覺 |
+| 判斷一段該不該給領域 | 論說／算書走 `CLAUDE.md` §2.1 **中性物件替換測試**（2026-08-09 九章重判 28→1 立下）；**敘事體走 §2.2「刪掉這一則，讀者少知道了什麼」閘門**（替換測試在軼事上失效，世說新語 1,132 段立下）；**博物誌／志怪走 §2.3「除了登錄一件東西之外還說了關於人的什麼」閘門**（神異經 61 段、洞冥記 63 段立下）。三者都優先於「這段看起來有社會味」的直覺 |
 | 改段落切分規則 | `scripts/corpus_text.py` 是唯一來源，make-scaffold 與 verify 共用。**動它等於動所有既有錨點** |
 | 記錄「這部書沒東西」 | `SCHEMA.md` §5 `psych_survey`（`domains_hit` + `domains_null` 都要寫） |
 | 接到 knowledge-hub | `SCHEMA.md` §6 + `../knowledge-hub/CLAUDE.md` |
@@ -49,9 +49,9 @@ translations/<slug>/
 00-overview/       生成物（INDEX.json / INDEX.md），不手改
 ```
 
-`translations/` 已有 68 部（phase 1 全數），`00-overview/` 已生成。`annotations.json` 目前 8 部（`sunzi-bingfa` 91 段、`jiuzhang-suanshu` 720 段、`haidao-suanjing` 24 段、`renwuzhi` 229 段、`qianfulun` 268 段、`yantielun` 346 段、`yanshi-jiaxun` 255 段、`shishuo-xinyu` 1,132 段），共 3,065 段；其餘 60 部的 `psych_survey` 仍是 `null`＝未通讀。
+`translations/` 已有 68 部（phase 1 全數），`00-overview/` 已生成。`annotations.json` 目前 11 部（`sunzi-bingfa` 91 段、`jiuzhang-suanshu` 720 段、`haidao-suanjing` 24 段、`renwuzhi` 229 段、`qianfulun` 268 段、`yantielun` 346 段、`yanshi-jiaxun` 255 段、`shishuo-xinyu` 1,132 段、`shenyijing` 61 段、`dongmingji` 63 段、`gu-sanfen` 78 段），共 3,267 段；其餘 57 部的 `psych_survey` 仍是 `null`＝未通讀。
 
-`delegation/` 是發包工作區，依書分目錄（`jiuzhang/`、`yanshi-jiaxun/`、`shishuo-xinyu/`）。每個目錄含 `SPEC.md`（判準）、`bNN.md`（切好的批次輸入）、`MANIFEST.json`（錨點清單，回填時雙向對照）、`out/bNN.json`（外部 agent 的判讀結果）。**這些是過程檔不是 canonical**，canonical 是回填後的 `translations/<slug>/annotations.json`。
+`delegation/` 是發包工作區，依書分目錄（`jiuzhang/`、`yanshi-jiaxun/`、`shishuo-xinyu/`、`shenyijing/`、`dongmingji/`、`gu-sanfen/`）。每個目錄含 `SPEC.md`（判準）、`bNN.md`（切好的批次輸入）、`MANIFEST.json`（錨點清單，回填時雙向對照）、`out/bNN.json`（外部 agent 的判讀結果）。**這些是過程檔不是 canonical**，canonical 是回填後的 `translations/<slug>/annotations.json`。
 
 ## 標註工作流（標一部書就照這五步走）
 
