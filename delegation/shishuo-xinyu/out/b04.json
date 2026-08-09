@@ -1,0 +1,621 @@
+{
+  "batch": "b04.md",
+  "rows": [
+    {
+      "chapter": "品藻",
+      "para_index": 1,
+      "domains": ["II", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "蔡伯喈以犯上較攝下更難來決定二人功德先後，明示評人依據並衡量剛直品格"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 2,
+      "domains": ["II"],
+      "modes": ["narrative", "proposition"],
+      "reason": "龐統以駑馬僅載一人、駑牛能負重致遠解釋陸顧高下，把惠及多少人作為衡量才用的依據"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 3,
+      "domains": ["II"],
+      "modes": ["narrative", "expression"],
+      "reason": "顧劭要求與龐統比較，龐統分別定位二人入世與王霸謀略之長，直接回答自己是何種人"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "只羅列諸葛三人的龍虎狗稱目、齊名與聲望，未討論評價根據或人生問題"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 5,
+      "domains": ["II"],
+      "modes": ["narrative"],
+      "reason": "武陔以承擔天下聲教與實際立功兩種尺度比較陳泰父子，觸及人應如何衡量"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "只記五荀對五陳、八裴對八王的比論名單與傳記資料，沒有提出評價本身的問題"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 7,
+      "domains": ["II"],
+      "modes": ["narrative"],
+      "reason": "裴頠與樂廣各重一子，楊淮反以兩種評語判出評者高下，呈現識人尺度本身受評"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "劉納入洛後逐一品評名士長短，只留下若干人物評語，未追問名實或評價根據"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 9,
+      "domains": ["II"],
+      "modes": ["observation"],
+      "reason": "閭丘沖名位較後而仍被判為最先達，正文與注語把外在名位和實際品望分開"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "只記王承被比作樂廣及碑文沿用此評，沒有觸及名實或衡量標準"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "只說庾敳與王澄並列及附記舊日人物次序，屬人物品第史料"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 12,
+      "domains": ["II", "VI"],
+      "modes": ["narrative", "expression"],
+      "reason": "王敦見周顗便面熱扇面，後來反問是自己進步還是對方退步，兼有畏懼經驗與自我定位"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 13,
+      "domains": ["II", "VIII"],
+      "modes": ["narrative"],
+      "reason": "王導分開公才與公望而許虞𩦎兼具，虞卻未及顯達便死，寫出名才關係與未遂成就"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 14,
+      "domains": ["II"],
+      "modes": ["narrative", "expression"],
+      "reason": "明帝要求周顗、郗鑒各自與對方比較，兩人都在公開回答中定位自己"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 15,
+      "domains": ["II"],
+      "modes": ["narrative", "expression"],
+      "reason": "王敦被追問四友優劣時迂迴暗示自己居首，核心是對自身相對位置的表態"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 16,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "一問一答只以嵯櫱品題周顗，沒有說明評價根據或名實問題"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 17,
+      "domains": ["II"],
+      "modes": ["narrative", "expression"],
+      "reason": "謝鯤自承廟堂才不及庾亮、丘壑之趣則勝，依不同生活位置界定自己"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 18,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "只記王導二弟未過江、各被比作何人及所任官職，屬人物比附史料"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 19,
+      "domains": ["II"],
+      "modes": ["narrative", "expression"],
+      "reason": "周顗面對世論把自己與郗鑒相比，直接拒絕被拉入這項定位"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 20,
+      "domains": ["II"],
+      "modes": ["expression"],
+      "reason": "王導自陳世論把自己與安期、千里相比，又交代自己接受與另推何人的位置"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 21,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "宋褘先後歸屬二人只是比較容貌風致的情境，答語仍是單純人物品題"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 22,
+      "domains": ["II"],
+      "modes": ["narrative", "expression"],
+      "reason": "周顗以方外與廊廟兩種位置比較自己和庾亮，明確陳述自我所長與所短"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 23,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "王導已辟王述為掾，庾亮追問其器度，回答正圍繞所任用者是否具有相應條件"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 24,
+      "domains": ["VII"],
+      "modes": ["observation"],
+      "reason": "卞壼列出郗鑒正直卻喜諂、清貞卻計較、好學卻惡人學的品格矛盾"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 25,
+      "domains": ["II", "VI"],
+      "modes": ["narrative"],
+      "reason": "溫嶠在名士快列完第一流而未及自己時反覆失色，名次定位及其羞挫反應都是內容"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 26,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "王導分別以向上與指地形容和兩人交談的感受，只留下個別人物評語"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 27,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "眾人質疑宰相用人，阮裕又以布衣驟居宰相為可恨，核心是公職任用與權位正當性"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 28,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "只記王導稱少年王羲之不下劉綏的一句比較，沒有評價問題的展開"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 29,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "傖奴雖有才識仍被拒與士人相比，對答直接暴露身分階序如何限制人的評價"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 30,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "時人只逐項比較阮裕與數人的風貌才思，再稱其兼美，屬人物品題"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 31,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "簡文指出機巧會累害真理、俊才會傷害所行之道，主張才能也可能反損人格取向"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 32,
+      "domains": ["IV", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "眾人爭論立子或傳弟的國家決策，桓溫以父業與家祀的繼承秩序為其辯護"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 33,
+      "domains": ["II"],
+      "modes": ["narrative", "expression"],
+      "reason": "殷浩被問如何看待世人把自己比作裴遐，親自說明此一自我定位所據"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 34,
+      "domains": ["II"],
+      "modes": ["narrative", "expression"],
+      "reason": "殷浩沉吟後仍回答自己勝過裴遐，是直接的自我高下判斷"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 35,
+      "domains": ["II"],
+      "modes": ["narrative", "expression"],
+      "reason": "殷浩面對桓溫競逐比較，說與自己相處已久而寧願作自己，直接確認自身認同"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 36,
+      "domains": ["II", "XI"],
+      "modes": ["narrative", "expression"],
+      "reason": "孫綽承認才務不及眾人，卻以寄懷老莊、不受時務牽動為不讓人的自我與自由位置"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 37,
+      "domains": ["II"],
+      "modes": ["narrative", "expression"],
+      "reason": "劉惔把會稽王列為第二流，再明言第一流正是自己一輩，完成群體中的自我定位"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 38,
+      "domains": ["II"],
+      "modes": ["narrative", "proposition"],
+      "reason": "桓溫在殷浩被廢後以童年拾竹馬推論其本來低於自己，藉往事證成相對名次"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 39,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "一問一答只評殷浩清談能否勝人、能否應付眾心，屬清談技術品第"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 40,
+      "domains": ["II", "VII"],
+      "modes": ["observation", "proposition"],
+      "reason": "謝奉雖在清令與學義各有不及卻因任其天真而自勝，指出評人的尺度及真率品格之重"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 41,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "王元琳以箕子、比干、管仲的政治行動追問何者為仁且可取，處理公義角色中的品格選擇"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 42,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "眾人聚會比較杜弘治與衛玠，桓伊給出風貌評語而旁人稱善，沒有越出人物品題"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 43,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "劉惔撫背說王濛較王導只多美好修長，僅是當面人物比較"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 44,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只記王濛酒酣起舞後被比作向秀，任率風貌未被展開成人生問題"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 45,
+      "domains": ["II"],
+      "modes": ["narrative", "proposition"],
+      "reason": "桓溫以謝安所居位置不可凌踐為勝出的理由，明說人物高下所據的尺度"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 46,
+      "domains": ["II", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "李弘度以是否事奉篡逆亂朝的事實比較兩人，既交代評價證據，也衡量雅正節操"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 47,
+      "domains": ["II", "VIII"],
+      "modes": ["narrative"],
+      "reason": "臨川與宛陵的名望比較連到名父之子任小縣先受疑、後以仕績獲信服，呈現名實與職業成就"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 48,
+      "domains": ["II"],
+      "modes": ["narrative", "expression"],
+      "reason": "王濛向兒子分別承認自己言辭勝劉惔而切中義理不如，作出有尺度的自我評價"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 49,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "謝萬兵敗後被追問為何盡失士卒之心，回答把領導性格與群體離散連成因果"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 50,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "劉惔以孔門角色說明兩位朋友如何使門人親近、替自己擋惡言，核心是友誼在群體中的作用"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 51,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "世人把殷浩思理比作羊祜，注者另以燭光日月反駁，仍只是人物高下品題"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 52,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "桓溫因問者愛傳話而中止人物評論，寫出交往中對守密與可信任程度的界線"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 53,
+      "domains": ["II"],
+      "modes": ["narrative", "proposition"],
+      "reason": "劉奭明分王坦之才不如苟子而成名機會較多，直接揭出才能與名聲可以不相稱"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 54,
+      "domains": ["II"],
+      "modes": ["narrative", "expression"],
+      "reason": "孫綽自陳高情遠致服許詢，而吟詠則足使許詢北面，分項定位自己"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 55,
+      "domains": ["II"],
+      "modes": ["narrative"],
+      "reason": "王羲之要求許詢比較自己與謝氏兄弟，話語核心是被逼出的相對自我位置"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 56,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "只以田舍與田宅屯作江虨的稱目和語義戲謔，沒有處理身分或名實問題"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 57,
+      "domains": ["X"],
+      "modes": ["narrative", "expression"],
+      "reason": "所引金谷詩序直陳感嘆生命不永、畏懼凋落無期，因而記名錄詩留待後人"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 58,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "劉惔只用是否近似道來品題庾敳言談，屬清談風格比較"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 59,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "只以比無奕更清、比林道更潤評謝安，沒有評價問題的展開"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 60,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "一問一答只把王胡之排在謝安、謝萬之間，屬人物次第品評"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 61,
+      "domains": ["II", "VII"],
+      "modes": ["observation"],
+      "reason": "時論在許詢高情與孫綽才藻、穢行間分裂，呈現人物評價尺度與才德衝突"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 62,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "郗超校正謝安與王羲之清談造詣的用語與等第，仍屬清談技術品評"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 63,
+      "domains": ["II"],
+      "modes": ["expression"],
+      "reason": "庾龢列出自己思理與志力各不如誰，再自稱勝過其餘眾人，直接劃定自我位置"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 64,
+      "domains": ["VII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "王述以勿學兄長制止王禕之輕視支遁，勸阻仿效傲慢貶人的品格"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 65,
+      "domains": ["II", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "孫綽以不知與知袁羊者的不同判斷，揭出顯見才華不能掩去為人品格"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 66,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "只以無骨榦而仍膚立形容韓伯的風貌，沒有觸及評價根據或人生問題"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 67,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "問答只比較支遁、嵇康、殷浩的清談努力、超拔與辯才，屬智慧技術品第"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 68,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "庾龢假設人人質樸無姦便可簡治、卻也可能無才自存，討論品性與社會秩序的兩面後果"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 69,
+      "domains": ["II"],
+      "modes": ["narrative"],
+      "reason": "謝安否定把衛君長只看成承襲世業者，改以理義之人定位他，處理身分標籤與實質"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 70,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "謝安拒受林公與庾公並比後仍只給出高下結論，沒有交代評價所據"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 71,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只記眾人品第竹林七賢及謝安否認前輩褒貶的說法，未形成領域問題"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 72,
+      "domains": ["II"],
+      "modes": ["narrative", "expression"],
+      "reason": "車騎聽見別人把王坦之比作自己後出言回應，呈現被比較者對相對位置的自我定位"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 73,
+      "domains": ["II"],
+      "modes": ["observation"],
+      "reason": "謝安稱劉惔有自知且不自稱勝王濛，焦點正是自我評價的界線"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 74,
+      "domains": ["II", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "謝安以吉人辭寡、躁人辭多的通則從談話多寡判兄弟優劣，兼涉評人根據與性情品格"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 75,
+      "domains": ["II"],
+      "modes": ["narrative", "expression"],
+      "reason": "王獻之被要求比較自己與父親書法，面對外議仍堅稱外人無從知曉，直接處理自評與他評"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 76,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "連續問答只排定支遁、王濛與劉惔的清談風貌高下，謝安也只說是個人意見"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 77,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只問王獻之可比哪位前輩並以兼撮王劉風標作答，屬人物比附"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 78,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "謝安與王孝伯只就祖父是否及得上劉惔作語義機鋒，沒有展開人生問題"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 79,
+      "domains": ["VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "王獻之因袁宏任吏部郎談入仕之氣受挫並盼其稍退後改善，焦點落在仕途處境與任職意願"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 80,
+      "domains": ["VII", "XI"],
+      "modes": ["narrative"],
+      "reason": "兄弟分賞井丹不交權貴的高潔與相如越禮避官的慢世，對照品格操守與擺脫世俗拘束的活法"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 81,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只比較殷仲堪與韓伯的義理成就及門庭風流，末引誄文仍是人物風格品題"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 82,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "一問一答只排定郗超與庾龢的清談悟解高下，屬智慧技術評比"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 83,
+      "domains": ["II", "X"],
+      "modes": ["narrative", "proposition"],
+      "reason": "王珣臨終因父親名德受短壽所限而嘆人不可無年，直接把聲名評價與早逝失去連在一起"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 84,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "只以濃、虛、秀、融數語品題謝安、王濛與劉惔，沒有評價問題的展開"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 85,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "問答只給出王羲之勝支遁、支遁又在王胡之前的次第，沒有說明人生問題"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 86,
+      "domains": ["V", "VI"],
+      "modes": ["narrative"],
+      "reason": "桓玄在滿朝前逼王楨之比較，眾人屏息而在圓融奉承後歡然，寫出權勢壓力下的恐懼與釋然"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 87,
+      "domains": ["II"],
+      "modes": ["narrative", "proposition"],
+      "reason": "桓玄要求把自己與謝安、王獻之比較，劉瑾以各有其美拒作單一高下，回應自我定位與評量方式"
+    },
+    {
+      "chapter": "品藻",
+      "para_index": 88,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只記舊日把桓謙比殷仲文及桓玄見人後改判高下，仍是人物品次史料"
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "batch": "b07.md",
+  "rows": [
+    {
+      "chapter": "德行",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["narrative"],
+      "reason": "陳蕃以澄清天下自任，任官先訪賢者並以禮賢自辯，呈現以言行為世範的品格"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 2,
+      "domains": ["VII"],
+      "modes": ["expression"],
+      "reason": "周子居自陳久不見黃憲便再生鄙吝之心，指出德者交往對自身品格的涵養"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只以停留久暫和水澤譬喻記錄郭泰對兩人的個別品題，未討論評價根據或其他人生問題"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 4,
+      "domains": ["VII", "VIII"],
+      "modes": ["observation"],
+      "reason": "李膺把天下名教是非視為己任且成為後進標竿，兼具道德自持與召喚感"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 5,
+      "domains": ["VII"],
+      "modes": ["observation"],
+      "reason": "李膺明指荀淑清識難及、鍾皓至德可師，評的是可效法的德性"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只鋪陳陳、荀兩家同行會面的盛況與太史祥瑞之說，未展開家庭傳承或信仰實踐問題"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 7,
+      "domains": ["II"],
+      "modes": ["narrative"],
+      "reason": "客人追問陳寔重名所據，陳諶以譬喻拒絕量列功德，核心在名望與實質如何衡量"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 8,
+      "domains": ["II"],
+      "modes": ["narrative"],
+      "reason": "兩子爭論各自父親功德而由祖父判為難分高下，核心是人物評價與相對定位"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 9,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "荀巨伯不肯棄病友求生並願代死，故事同時處理友誼責任與守義品格"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 10,
+      "domains": ["IV"],
+      "modes": ["observation"],
+      "reason": "華歆嚴整與陳氏柔愛兩種教養都不失家內和諧，呈現不同親子治理方式"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 11,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "管寧從華歆對金錢與權勢的反應判定價值不合而絕交，兼涉友誼界線與品格判準"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 12,
+      "domains": ["II"],
+      "modes": ["narrative", "proposition"],
+      "reason": "王朗只仿華歆聚族宴飲的外形，張華指出表面模仿反而離其實質更遠，直指名實與自我成為"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 13,
+      "domains": ["VII"],
+      "modes": ["narrative"],
+      "reason": "華歆既接受他人託付便拒絕在危急時遺棄，以前後一致的承諾行動呈現守義品格"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 14,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative"],
+      "reason": "王祥面對後母苛虐仍盡孝甚至請死，終使後母感悟，兼涉繼親關係與德行"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 15,
+      "domains": ["VII"],
+      "modes": ["observation"],
+      "reason": "阮籍以不議時事人物保持言語審慎，司馬昭所稱許的是自我節制的品格"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 16,
+      "domains": ["VI"],
+      "modes": ["observation"],
+      "reason": "王戎以二十年相處證稱嵇康從不形露喜怒，正文確實以情緒表現為觀察對象"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 17,
+      "domains": ["VI", "X"],
+      "modes": ["narrative"],
+      "reason": "王戎與和嶠的喪親反應被比較為內在哀毀與外在禮數之別，處理悲痛及死亡失落"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 18,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "裴楷向富貴宗王取租以救貧親，並主張損餘補不足，兼涉分配公義與仁惠品格"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 19,
+      "domains": ["II"],
+      "modes": ["observation"],
+      "reason": "王戎指出王祥的德名遮住其清遠談理之才，處理既有名聲與實際能力的不相稱"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 20,
+      "domains": ["VI", "X"],
+      "modes": ["narrative"],
+      "reason": "裴楷從王戎一慟可能傷身判斷其哀痛將至滅性，直接處理喪失中的情緒與自我耗損"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 21,
+      "domains": ["VII"],
+      "modes": ["narrative"],
+      "reason": "王戎拒收父親故吏因德惠送來的巨額賻贈，以不因喪事受利呈現操守"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 22,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative"],
+      "reason": "扶風王把服罪勞役者贖出並任為屬官，呈現權力者給人重返群體與工作的機會"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 23,
+      "domains": ["XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "樂廣反駁以裸放為通達，主張名教之內亦有樂地，處理自由是否必須以越軌實現"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 24,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative"],
+      "reason": "郗鑒在饑亂中分食救活兩名晚輩，周翼後為他守心喪三年，呈現親族照護與知恩守義"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 25,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "顧榮體恤執炙僕役而分食，受惠者其後在危難中護救他，呈現跨身分的恩義互報"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 26,
+      "domains": ["II", "IV"],
+      "modes": ["narrative"],
+      "reason": "祖納親自奉養母親，又以百里奚回應被當作奴僕的戲言，兼涉奉親與不由身價貶低自我"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 27,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "周鎮漏舟窘況使王導認出其清廉並薦任郡守，兼涉操守與依品格識人用人"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 28,
+      "domains": ["IV", "VI"],
+      "modes": ["narrative"],
+      "reason": "鄧攸為保存弟嗣犧牲己子，後誤納外甥女而終身哀恨，處理宗族抉擇及持久內疚"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 29,
+      "domains": ["IV", "X"],
+      "modes": ["narrative"],
+      "reason": "王悅生前盡孝使父母歡悅，死後父哭送、母不忍開遺物，核心是親子關係與喪子之失"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 30,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "桓彝因深公受前輩稱許且是父親故交而勸人勿妄議，呈現交誼責任與敬慎品格"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 31,
+      "domains": ["VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "庾亮拒賣凶馬以免把風險轉嫁買者，並以為後人除害自況，主軸是不損他人的道德責任"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 32,
+      "domains": ["VII"],
+      "modes": ["narrative"],
+      "reason": "阮裕因有人不敢借車而焚去愛車，表明財物若妨礙助人便不值得保有"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 33,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "謝安幼年憐犯法老翁受罰過甚而勸兄釋放，兼涉掌權者量刑與憐憫品格"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 34,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "只記謝安以四時之氣譬喻褚裒的個別雅評，未提出名實判準或可辨認的人生問題"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 35,
+      "domains": ["VII", "XII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "劉惔臨終禁止淫祀與殺牛祭神，並以平生行誼視為已禱，兼涉信仰實踐與道德操守"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 36,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "謝安以自身日常行事回答如何教兒，呈現父母用身教傳遞品格"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 37,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "簡文帝不願因鼠被殺再懲處參軍，將憐憫落實為掌權時避免擴大傷害的公正"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 38,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative", "expression"],
+      "reason": "范宣傷指因不敢毀傷父母所予之身而哭，成年又屢拒厚贈，呈現孝親意識與廉潔"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 39,
+      "domains": ["III", "VII"],
+      "modes": ["narrative", "expression"],
+      "reason": "王獻之臨終省過只記得與郗氏離婚，把婚姻破裂視為良心未安之事"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 40,
+      "domains": ["II", "VII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "殷仲堪居高位仍守清素並告誡子弟勿棄貧士本色，兼涉身分一致與節儉操守"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 41,
+      "domains": ["II", "VII"],
+      "modes": ["narrative"],
+      "reason": "殷覬察知官位將被奪便安然離去且無慍，時論據此稱許其人格，核心在行為所支持的人物評價與德性"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 42,
+      "domains": ["IV", "VI"],
+      "modes": ["narrative"],
+      "reason": "父親被逐且生死未卜時，王綏顯露憂戚並減損飲食起居，呈現子對父安危的焦慮"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 43,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative", "expression"],
+      "reason": "羅企生寧死不叛故主，臨刑仍求留一弟奉養母親，兼顧忠義品格與家族照護責任"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 44,
+      "domains": ["II", "VII"],
+      "modes": ["narrative", "expression"],
+      "reason": "王恭把唯一坐簟送人並自稱作人無長物，兼呈現自我定位與不戀物的慷慨"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 45,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "陳遺為母積存焦飯而意外賴之活命，時人將生還解作純孝之報，兼涉奉親與德行報償"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 46,
+      "domains": ["VI", "X"],
+      "modes": ["narrative"],
+      "reason": "孔安國在所侍君主葬禮終日涕泣，記述的核心是面對死亡失落所顯出的哀痛"
+    },
+    {
+      "chapter": "德行",
+      "para_index": 47,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "吳氏兄弟哀母的至性使韓母薦其任官而後果獲用，主軸是孝行品格成為識人用人的依據"
+    }
+  ]
+}

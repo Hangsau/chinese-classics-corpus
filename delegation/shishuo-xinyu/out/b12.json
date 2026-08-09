@@ -1,0 +1,467 @@
+{
+  "batch": "b12.md",
+  "rows": [
+    {
+      "chapter": "方正",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "元方以守約與尊親兩項準則指出客人無信無禮，示範依品格規範評斷行為"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "expression"],
+      "reason": "宗世林在曹操掌權前後都拒絕交往，寧受政治疏抑也不改自己的操守"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 3,
+      "domains": ["VI", "VII"],
+      "modes": ["narrative", "expression"],
+      "reason": "陳群在改朝換代時雖接受新朝仍為舊朝顯出哀戚，以內在感受呈現忠義衝突"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 4,
+      "domains": ["IV", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "郭淮在連坐法令與妻兒存亡之間改變決定，向掌權者申明一家人相互依存"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "辛毗以朝廷授權制止司馬懿因挑釁出戰，寫統兵者仍須受政治權責約束"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 6,
+      "domains": ["VII", "XIII"],
+      "modes": ["narrative"],
+      "reason": "夏侯玄被囚受刑且知不免時仍拒絕屈身攀交、受拷不言，以尊嚴在絕境中自處"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 7,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "夏侯玄以可同而不可雜劃出交往界線，處理人際接納與群體邊界"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 8,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "陳泰面對弒君後的權力者只肯提出誅賈充謝天下，堅持公共問責而不接受掩飾"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 9,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "observation"],
+      "reason": "和嶠不迎合武帝而如實評估太子才能未進，關乎繼承者如何被辨識與任用"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 10,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative", "expression"],
+      "reason": "諸葛靚因父仇拒仕拒見舊友皇帝，流淚申明自己不能忘卻家仇與孝義"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 11,
+      "domains": ["IV", "V"],
+      "modes": ["narrative", "expression"],
+      "reason": "王濟以兄弟不能相容之恥反諫皇帝，將皇室親情與君主的公共責任相連"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 12,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "楊濟以離席表達對杜預的輕視，和嶠看懂其意並帶他返回，寫社交排斥與調解"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 13,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "羊琇因杜預的合榻待客方式離去，又經裴楷追回，處理名士交往中的尊重與修復"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 14,
+      "domains": ["VII"],
+      "modes": ["narrative"],
+      "reason": "和嶠厭惡荀勗諂諛而拒絕同車，以具體行動表明不與失德者相容"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 15,
+      "domains": ["II"],
+      "modes": ["narrative", "observation"],
+      "reason": "山濤之子拒絕因皇帝欲見便屈從，時人據此重新評定他與父親的高下"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 16,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "向雄拒絕與曾任意杖責自己的舊上司復好，主張掌權者進退人都應合乎禮義"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 17,
+      "domains": ["II", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "嵇紹拒以朝臣法服扮演樂工，依身分職分守住自己認為不可混淆的尊嚴與規範"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 18,
+      "domains": ["II"],
+      "modes": ["narrative", "observation"],
+      "reason": "陸機以家世反擊盧志的輕慢，而議者又據他的反應判定二陸優劣，主軸在身分與評價"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 19,
+      "domains": ["V", "XI"],
+      "modes": ["narrative"],
+      "reason": "羊忱不願被趙王倫強納入政治禍局，冒險逃離追捕以保有選擇自身去向的自由"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 20,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "expression"],
+      "reason": "庾敳不讓王衍單方面決定兩人的稱謂與交往方式，明說各自依自己的準則定位關係"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 21,
+      "domains": ["XII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "阮修以伐樹後社或亡或移的推論，直接追問神社的神聖性究竟繫於樹還是所在"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 22,
+      "domains": ["X", "XII"],
+      "modes": ["proposition"],
+      "reason": "阮修由衣服不可能有鬼反駁人死為鬼，正面處理死亡之後是否仍有神靈存在"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 23,
+      "domains": ["IV", "V"],
+      "modes": ["narrative"],
+      "reason": "元帝欲因寵愛改立幼子，群臣以長幼與才能力爭並阻止詔令，處理皇室繼承與政治制衡"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 24,
+      "domains": ["IV", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "陸玩以門第與價值不相容拒絕王導求婚，顯出婚姻選擇中的家族界線與群體區隔"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 25,
+      "domains": ["IV", "V"],
+      "modes": ["narrative"],
+      "reason": "諸葛恢諸女的婚配取決於世婚、門第與彼此高下，呈現家族傳承和社會地位的聯動"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 26,
+      "domains": ["IV", "VI"],
+      "modes": ["narrative"],
+      "reason": "周謨離任時兄弟對哭泣有相反反應，周顗留下流淚撫慰，呈現手足離別的情感"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 27,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative"],
+      "reason": "周嵩在兄長病危時仍斥責他與刁協交好，把對交友品格的判斷置於手足慰問之前"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 28,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "何充在王敦權威與眾人附和之下仍揭穿王含貪濁，展現對公共真實與正直的堅持"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 29,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "顧孟著用棟梁之語化解周顗拒酒，周顗因被理解而與他結為知交，寫友誼如何建立"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 30,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "周顗直言當朝不能比堯舜，面對君怒仍以罪刑不相當判斷自己不該被殺"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 31,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "周顗主張君主雖會犯錯，人臣仍不得舉兵犯朝廷，以忠誠原則辨明政治反叛"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 32,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "溫嶠拒絕在王敦威逼下配合誣稱太子不孝，以如實作證抵抗廢立陰謀"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 33,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "expression"],
+      "reason": "周顗在叛軍首領面前仍自認負有率軍保朝廷之責，將未能擊敗對方說成自己的辜負"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 34,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "鍾雅拒絕棄君逃難，認為國亂君危而只求自免會背棄臣職與後世良心評判"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 35,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "鍾雅追問國家崩亂由誰負責，庾亮則要求以克復成效補救失敗，核心是領導問責"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 36,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "孔群拒絕與曾逼迫自己的人和解，認為外表轉善仍不足消除對其品性的戒心"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 37,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "expression"],
+      "reason": "孔坦不滿朝廷平日疏遠、危難後卻把艱鉅職務先推給他，拒絕不公平的用人安排"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 38,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "孔群公開重申匡術本性難改而招致殺身之怒，寫舊怨、品格判斷與人際衝突"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 39,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "expression"],
+      "reason": "陶侃以自己的權力報答梅頤舊恩並抗衡王導，梅頤也以只此一跪表明不屈的自尊"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 40,
+      "domains": ["VII"],
+      "modes": ["narrative"],
+      "reason": "蔡謨見王導設女伎床席便不悅離去，以退出表明自己對宴樂與操守的界線"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 41,
+      "domains": ["IV", "V"],
+      "modes": ["narrative", "expression"],
+      "reason": "何充與庾冰爭議由幼子或成年弟弟繼位，事後又如實說明自己並未促成現任皇帝登位"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 42,
+      "domains": ["II"],
+      "modes": ["narrative", "observation"],
+      "reason": "王導用棋局試探江虨，並由他不肯受讓推斷其所勝不只棋藝，呈現由行為衡量人物"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 43,
+      "domains": ["V", "X"],
+      "modes": ["narrative", "prescription"],
+      "reason": "孔坦臨終拒絕只受兒女式慰問，要求改談安國寧家的方法，以公共責任面對死亡"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 44,
+      "domains": ["V", "VI"],
+      "modes": ["narrative"],
+      "reason": "桓溫以彈丸逼擾臥中的劉惔，劉怒而反問、桓又含恨，寫權勢侵逼下的人際憤怒"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 45,
+      "domains": ["II"],
+      "modes": ["narrative", "prescription"],
+      "reason": "竺法深以自己的資歷制止年少者評論宿士，直接爭論評人資格與聲望根據"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 46,
+      "domains": ["II", "VIII"],
+      "modes": ["narrative", "expression"],
+      "reason": "王坦之認為尚書郎的品位配不上自己，使擬任作罷，呈現自我定位與職位選擇"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 47,
+      "domains": ["II", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "王述與兒子辯論有能力者是否仍應謙讓官位，處理自我衡量與克讓是否真為美德"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 48,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "observation"],
+      "reason": "庾羲指出孫綽誄文誇大了與先父的親密程度，校正友誼名義與實際關係"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 49,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "expression"],
+      "reason": "簡文直到臨終才悔恨未任用王濛，王濛直斥其遲來決定，寫領導者延誤用人的後果"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 50,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "expression"],
+      "reason": "劉簡因剛直被疏，在會議中明說意見不會被採用所以不發言，呈現上下權力與工作建言"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 51,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "劉惔寧可挨餓也不受所謂小人飲食，將交往界線建立在對他人品性的判斷上"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 52,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "expression"],
+      "reason": "王胡之貧餓仍拒陶範贈米，只肯向自己認可的人求食，以困乏中的選擇守住關係與自尊"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 53,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "阮裕刻意避開殷浩、劉惔等名流並疾行脫身，呈現個人對交遊圈的主動疏離"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 54,
+      "domains": ["V"],
+      "modes": ["narrative", "prescription"],
+      "reason": "劉惔酒後以腳加桓溫頸上，王濛事後提醒他不可憑親暱凌越他人的尊嚴界線"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 55,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "桓溫追問謝安未進諫的原因並否定畏人難犯之說，處理臣僚勸諫責任與道德勇氣"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 56,
+      "domains": ["V"],
+      "modes": ["narrative", "expression"],
+      "reason": "羅含以相識已多拒絕再與座客攀談，明白表達自己限制社交連結的選擇"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 57,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "韓伯看見謝氏富貴車馬充塞道路而比作王莽宗族，批評權勢集中於一門"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 58,
+      "domains": ["IV", "V"],
+      "modes": ["narrative", "expression"],
+      "reason": "王述拒絕因畏桓溫兵威便嫁孫女，呈現婚姻家事如何抵抗外部權勢逼迫"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 59,
+      "domains": ["II", "VI"],
+      "modes": ["narrative", "expression"],
+      "reason": "年幼王獻之受門生輕視後怒目、自比前賢而離去，寫受貶抑時的自我評價與憤怒"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 60,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative"],
+      "reason": "謝安聞羊綏有才而延請未果，實際接觸後立即任為主簿，呈現識才與用人"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 61,
+      "domains": ["II"],
+      "modes": ["narrative", "proposition"],
+      "reason": "王羲之提議共同推許主人，謝安卻說推人本就困難，直接點出人物評價之難"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 62,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "王獻之拒受命題殿額，並由魏臣被迫冒險題榜批評政權不尊重大臣身分"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 63,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "王恭自以為可延江敳任職卻不敢開口，江敳遂嘆人難以自量，連結自我評估與用人"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 64,
+      "domains": ["II", "VII"],
+      "modes": ["observation", "expression"],
+      "reason": "王爽比較兄長與自己時承認才華不如，卻主張自己的忠孝不能由他人代有，兼及自評與德性"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 65,
+      "domains": ["II"],
+      "modes": ["narrative", "expression"],
+      "reason": "王爽遭醉中太傅稱小子後列舉家族與皇室關係反駁，藉血統資歷捍衛自身地位"
+    },
+    {
+      "chapter": "方正",
+      "para_index": 66,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "張玄與王忱由彼此等待對方先登門到終於相訪暢談，呈現結交時的身分禮數與和解"
+    }
+  ]
+}
