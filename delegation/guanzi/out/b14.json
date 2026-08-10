@@ -1,0 +1,180 @@
+{
+  "batch": "b14.md",
+  "rows": [
+    {
+      "chapter": "第45篇任法",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「民舍事而好譽」「民離法而妄行」直說任說任私會改變民眾取向並滋生群臣姦詐，以任公守道作領導與品格的對照"
+    },
+    {
+      "chapter": "第45篇任法",
+      "para_index": 2,
+      "domains": ["V", "XI"],
+      "modes": ["proposition"],
+      "reason": "以堯時之民隨引推使禁而動、黃帝時之民安於既定之法作對照，明說人民行為可受治理方式塑造"
+    },
+    {
+      "chapter": "第45篇任法",
+      "para_index": 3,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition"],
+      "reason": "「仁義禮樂者，皆出於法」直接主張人的德行規範由法形成，並說君臣上下皆受法所定"
+    },
+    {
+      "chapter": "第45篇任法",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "博學者以智亂法、富貴者以威犯法、大臣以私附民的敘述，明說私欲與權勢如何破壞公共秩序，並要求君臣皆守法"
+    },
+    {
+      "chapter": "第45篇任法",
+      "para_index": 5,
+      "domains": ["V", "VI"],
+      "modes": ["formalization", "proposition"],
+      "reason": "以愛惡是否造成私賞私罰區分三等人主，並斷言過度愛惡會使君主失德失威，直指情感偏私與領導公正"
+    },
+    {
+      "chapter": "第45篇任法",
+      "para_index": 6,
+      "domains": ["V", "VI"],
+      "modes": ["formalization", "proposition"],
+      "reason": "六柄四位的權力分類之外，又明說君主會受貴富親美所動、臣民因僥倖得失而侵主或生怨，涉及權力與情緒反應"
+    },
+    {
+      "chapter": "第45篇任法",
+      "para_index": 7,
+      "domains": ["V", "VI"],
+      "modes": ["formalization", "proposition"],
+      "reason": "逐列貴富賤近美五種私情如何左右君主，並以「私視、私聽、私慮」造成不見不聞不知，說明偏私對判斷與公法的壅蔽"
+    },
+    {
+      "chapter": "第45篇任法",
+      "para_index": 8,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以臣下如影隨形規定上下責任，並斷言使人各慮利害、依私心行動會毀壞法制，直說公私取向與政治關係"
+    },
+    {
+      "chapter": "第46篇明法",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["formalization", "proposition"],
+      "reason": "「尊君卑臣，非計親也，以埶勝也；百官識，非惠也，刑罰必也」明說上下關係與官吏行為繫於權勢和必罰而非親惠"
+    },
+    {
+      "chapter": "第46篇明法",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "文本明說以毀譽賞罰會使臣下結黨營私、重家輕國，並以法擇人量功對治，涉及公共責任與公私品格"
+    },
+    {
+      "chapter": "第47篇正世",
+      "para_index": 1,
+      "domains": ["V", "VI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "末句直斷民眾見利而用、畏威而從、得安而靜，前文亦以勞困、躁私和畏利說明賞禁須隨民情調整"
+    },
+    {
+      "chapter": "第47篇正世",
+      "para_index": 2,
+      "domains": ["V", "VI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「彊劫弱，衆暴寡」與民迫則窘、過緩則縱的因果，直說不公權力和治理鬆緊如何造成憂患、不安及私行"
+    },
+    {
+      "chapter": "第47篇正世",
+      "para_index": 3,
+      "domains": ["V", "XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "聖人「與時變，與俗化」，且民須心服體從方能受禮義之教，主張領導須因時改變並以認同促成教化"
+    },
+    {
+      "chapter": "第48篇治國",
+      "para_index": 1,
+      "domains": ["IV", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "民富則安鄉重家、敬上畏罪，民貧則危鄉輕家、陵上犯禁，明說物質處境如何影響家園依附與社會服從"
+    },
+    {
+      "chapter": "第48篇治國",
+      "para_index": 2,
+      "domains": ["VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以末作一日可食五日、農夫終歲不足自食解釋民眾為何棄農從工，明說報酬差異左右人的職業與勞動選擇"
+    },
+    {
+      "chapter": "第48篇治國",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "在徵貸、產粟與四民收益的計算外，文本明說人因利害歸去、農工商收益失衡會使農民逃徙，涉及勞動處境與政治歸附"
+    },
+    {
+      "chapter": "第49篇內業",
+      "para_index": 1,
+      "domains": ["VII", "XIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "精氣藏於胸中可成聖人，且須以德安之、敬守勿失而成德生智，直接論內在安頓與品格修養"
+    },
+    {
+      "chapter": "第49篇內業",
+      "para_index": 2,
+      "domains": ["VI", "XIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "心因憂樂喜怒欲利而失，去除煩亂便可反濟成和，明說情緒欲求與寧靜安頓心靈的關係"
+    },
+    {
+      "chapter": "第49篇內業",
+      "para_index": 3,
+      "domains": ["X", "XIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "修心靜音、正形可使道止於心，而人得之以生、失之以死，將內在修養直接連到生死得失"
+    },
+    {
+      "chapter": "第49篇內業",
+      "para_index": 4,
+      "domains": ["VII", "XIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "反覆以正靜、治心、心安與守一說明內在安頓，又以不為物使、敬慎不忒、日新其德明定修養所得的品格"
+    },
+    {
+      "chapter": "第49篇內業",
+      "para_index": 5,
+      "domains": ["XI", "XIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "文本要求全心守善、由己反覆思求，並明言通達「非鬼神之力也，精氣之極也」，把吉凶之知歸於人的內在修養"
+    },
+    {
+      "chapter": "第49篇內業",
+      "para_index": 6,
+      "domains": ["VI", "IX"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「暴傲生怨，憂鬱生疾，疾困乃死」及節欲息怒、飲食適度之說，直接連結情緒失衡與身體疾病"
+    },
+    {
+      "chapter": "第49篇內業",
+      "para_index": 7,
+      "domains": ["VI", "IX"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以詩樂禮敬靜調節怒憂喜樂，又詳述過飽過飢如何傷形枯骨、阻氣竭身，兼論情緒與身體養護"
+    },
+    {
+      "chapter": "第49篇內業",
+      "para_index": 8,
+      "domains": ["VI", "XIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "憂怒使人失紀端、躁使道失，而靜欲正亂、執靜節欲可使道定且萬物不害，直論情緒調節與內在安頓"
+    },
+    {
+      "chapter": "第50篇封禪",
+      "para_index": 1,
+      "domains": ["V", "XII"],
+      "modes": ["narrative", "ritual"],
+      "reason": "桓公以霸業自比受命之王，管仲則以祭物祥瑞否定其封禪資格，藉故事討論領袖功業、受命與神聖儀式的正當性"
+    }
+  ]
+}
