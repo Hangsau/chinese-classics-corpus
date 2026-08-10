@@ -1,7 +1,7 @@
 # X 無常·老·死·失去
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 175 段命中｜跨 12 部｜生成時間 2026-08-10T01:09:07+00:00
+> 175 段命中｜跨 12 部｜生成時間 2026-08-10T01:34:46+00:00
 
 老與時間、失去與哀傷、死亡、耐心與等待
 
@@ -11,7 +11,7 @@
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jijiupian`（急就篇）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`san-lue`（三略）　`shenyijing`（神異經）　`sima-fa`（司馬法）　`weiliaozi`（尉繚子）　`wuzi`（吳子）
+`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jijiupian`（急就篇）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`san-lue`（三略）　`shangjunshu`（商君書）　`shenyijing`（神異經）　`sima-fa`（司馬法）　`weiliaozi`（尉繚子）　`wuzi`（吳子）
 
 ## 世說新語（人論）　70 段
 

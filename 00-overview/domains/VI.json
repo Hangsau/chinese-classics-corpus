@@ -2,9 +2,9 @@
   "domain": "VI",
   "name_zh": "情緒與內在生活",
   "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡",
-  "generated_at": "2026-08-10T01:09:07+00:00",
-  "para_count": 260,
-  "book_count": 12,
+  "generated_at": "2026-08-10T01:34:46+00:00",
+  "para_count": 267,
+  "book_count": 13,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -664,6 +664,103 @@
       "note": "",
       "co_domains": [
         "VII"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "更法第一",
+      "para_index": 2,
+      "para_id": "shangjunshu#01-p02",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "君曰：「代立不忘社稷，君之道也；錯法務明主長，臣之行也。今吾欲變法以治，更禮以教",
+      "note": "孝公親自說出「恐天下之議我」，呈現變法者面對公議時的憂懼",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "更法第一",
+      "para_index": 8,
+      "para_id": "shangjunshu#01-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孝公曰：「善。吾聞窮巷多怪，曲學多辨。愚者之笑，智者哀焉；狂夫之樂，賢者憂焉。拘",
+      "note": "以愚者與智者、狂夫與賢者相對，分別寫其笑、哀、樂、憂的品性與情緒反應",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "錯法第九",
+      "para_index": 2,
+      "para_id": "shangjunshu#06-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "同列而相臣妾者，貧富之謂也。同實而相并兼者，彊弱之謂也。有地而君或彊或弱者，治亂",
+      "note": "直言「人情而有好惡」且好爵祿、惡刑罰，並把這種內在趨避作為君主御民的根據",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "兵守第十二",
+      "para_index": 2,
+      "para_id": "shangjunshu#09-p02",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "守有城之邑，不如以死人之力，與客生力戰。其城難拔者，死人之力也；客不盡夷城，客無",
+      "note": "除三軍編制外，末尾明說老弱會使壯強者悲憐、更慮，並使勇怯之民失去戰意",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "說民第五",
+      "para_index": 5,
+      "para_id": "shangjunshu#12-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "民勇，則賞之以其所欲；民怯，則刑之以其所惡。故怯民使之以刑，則勇；勇民使之以賞，",
+      "note": "以人民所欲與所惡分別驅動勇者、怯者，並斷言賞刑可翻轉其勇怯，直接處理欲惡與恐懼",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "說民第五",
+      "para_index": 6,
+      "para_id": "shangjunshu#12-p06",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "刑生力，力生彊，彊生威，威生德，德生於刑。故刑多則賞重，賞少則刑重。民之有欲有惡",
+      "note": "明說「民之有欲有惡」且所欲萬端，再以六淫、四難及單一利門替人的欲望與厭惡建模",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "算地第六",
+      "para_index": 3,
+      "para_id": "shangjunshu#13-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫治國者能盡地力而致民死者，名與利交至。民之生，饑而求食，勞而求佚，苦則索樂，辱",
+      "note": "明列饑求食、勞求佚、苦索樂、辱求榮，並以利與名解釋盜賊和上世之士相反的人生選擇",
+      "co_domains": [
+        "VIII"
       ]
     },
     {

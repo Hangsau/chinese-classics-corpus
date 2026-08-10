@@ -2,9 +2,9 @@
   "domain": "IX",
   "name_zh": "苦難·疾病·身體",
   "gist": "疾病與身體、受苦的意義、照顧與被照顧",
-  "generated_at": "2026-08-10T01:09:07+00:00",
-  "para_count": 79,
-  "book_count": 13,
+  "generated_at": "2026-08-10T01:34:46+00:00",
+  "para_count": 80,
+  "book_count": 14,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -341,6 +341,20 @@
       "co_domains": [
         "VIII",
         "VII"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "外內第二十二",
+      "para_index": 2,
+      "para_id": "shangjunshu#18-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "民之內事，莫苦於農，故輕治不可以使之。奚謂輕治？其農貧而商富，故其食賤者錢重。食",
+      "note": "明說「農之用力最苦，不如商賈技巧之人」，既比較生計選擇，也直接寫出農作出力之苦",
+      "co_domains": [
+        "VIII"
       ]
     },
     {

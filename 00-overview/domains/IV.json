@@ -2,9 +2,9 @@
   "domain": "IV",
   "name_zh": "家庭與傳承",
   "gist": "婚姻與家庭、原生家庭的傷、為人父母、記憶與和解、留下什麼給後代",
-  "generated_at": "2026-08-10T01:09:07+00:00",
-  "para_count": 334,
-  "book_count": 17,
+  "generated_at": "2026-08-10T01:34:46+00:00",
+  "para_count": 338,
+  "book_count": 18,
   "surveyed_zero_hit": [
     "fangyan",
     "haidao-suanjing",
@@ -1354,6 +1354,65 @@
       "note": "批評患病後隱忍盼癒而延誤，要求及早說明求治並以此作為家有患者的備慮，兼及身體照護與家庭應對",
       "co_domains": [
         "IX"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "禁使第二十四",
+      "para_index": 2,
+      "para_id": "shangjunshu#20-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或曰：「人主執虛後以應，則物應稽驗，稽驗則姦得。」臣以為不然。夫吏專制決事於千里",
+      "note": "以夫妻、朋友、父子及君臣為例，推論利異便不能相隱、利合惡同便必相蔽，直接處理利害結構中的家庭與社會關係",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "賞刑第十七",
+      "para_index": 3,
+      "para_id": "shangjunshu#24-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "所謂壹刑者，刑無等級。自卿相將軍以至大夫庶人，有不從王令，犯國禁，亂上制者，罪死",
+      "note": "顛頡受寵仍被刑使晉士皆懼，周公處罰管叔、霍叔則使天下相信連親昆仲也不例外，說明人因何信服無等級之刑",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "畫策第十八",
+      "para_index": 2,
+      "para_id": "shangjunshu#25-p02",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "昔之能制天下者，必先制其民者也；能勝彊敵者，必先勝其民者也。故勝民之本在制民，若",
+      "note": "把制民比作冶金陶土、人民見戰比作餓狼見肉，並寫父子、兄弟、夫妻以「不得，無返」彼此驅赴戰場，明說權力如何塑造群體及家人關係",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "畫策第十八",
+      "para_index": 5,
+      "para_id": "shangjunshu#25-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "明主不濫富貴其臣。所謂富者，非粟米珠玉也；所謂貴者，非爵位官職也，廢法作私爵祿之",
+      "note": "明說人主的德行、智慧與勇力並不過人而權威來自法，又以「治主無忠臣，慈父無孝子」斷言制度及父子關係如何影響德行",
+      "co_domains": [
+        "V"
       ]
     },
     {

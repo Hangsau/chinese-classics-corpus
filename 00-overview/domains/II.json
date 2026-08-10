@@ -2,9 +2,9 @@
   "domain": "II",
   "name_zh": "自我與認同",
   "gist": "我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我",
-  "generated_at": "2026-08-10T01:09:07+00:00",
-  "para_count": 363,
-  "book_count": 16,
+  "generated_at": "2026-08-10T01:34:46+00:00",
+  "para_count": 370,
+  "book_count": 17,
   "surveyed_zero_hit": [
     "fangyan",
     "gu-sanfen",
@@ -1213,6 +1213,107 @@
       "excerpt": "孔子云：生而知之者上，學則亞之。多聞博識，知之次也。余素尚方術，請事斯語。",
       "note": "引孔子的知學階序後自陳素尚方術並願依此而行，是作者對自身學習位置與認同的表明",
       "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "更法第一",
+      "para_index": 3,
+      "para_id": "shangjunshu#01-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "公孫鞅曰：「臣聞之，『疑行無成，疑事無功，』君亟定變法之慮，殆無顧天下之議之也。",
+      "note": "以「愚者闇於成事，知者見於未萌」區分人的理解能力，又說獨知者會遭民眾訾議",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "更法第一",
+      "para_index": 5,
+      "para_id": "shangjunshu#01-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "公孫鞅曰：「子之所言，世俗之言也。夫常人安於故習，學者溺於所聞。此兩者所以居官守",
+      "note": "明說常人安於故習、學者溺於所聞，並以知愚賢不肖說明人面對變革的差異",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "錯法第九",
+      "para_index": 4,
+      "para_id": "shangjunshu#06-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故凡明君之治也，任其力不任其德，是以不憂不勞而功可立也。度數已立，而法可修。故人",
+      "note": "以離朱之明與烏獲之力不能轉給他人，斷言個人的卓越體性不可互易",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "弱民第二十",
+      "para_index": 3,
+      "para_id": "shangjunshu#16-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主之使其臣也，用必加於功，賞必盡其勞。人主使其民信如日月，此無敵矣。今離婁見秋",
+      "note": "以離婁之明目、烏獲之多力說明個人卓越不能轉移，又用楚民齊疾而戰敗論族群能力仍受法制支配",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "慎法第二十五",
+      "para_index": 1,
+      "para_id": "shangjunshu#21-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡世莫不以其所以亂者治。故小治而小亂，大治而大亂。人主莫能世治其民，世無不亂之國",
+      "note": "明說世所謂賢者的正言由黨人互相證成，解釋「賢能」名聲如何由私黨製造並轉成政治勢力",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "定分第二十六",
+      "para_index": 5,
+      "para_id": "shangjunshu#22-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫微妙意志之言，上智之所難也。夫不待法令繩墨而無不正者，千萬之一也，故聖人以千萬",
+      "note": "明說微妙之言連上智也難、無繩墨而全正者千萬中僅一，且「民不盡智」「民不盡賢」，據人的能力差異主張法令須明白易知",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "畫策第十八",
+      "para_index": 6,
+      "para_id": "shangjunshu#25-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "所謂明者，無所不見，則群臣不敢為姦，百姓不敢為非。是以人主處匡床之上，聽絲竹之聲",
+      "note": "以「自恃」「自得」「自勝」作為得天下與勝強敵的前提，把內在自我掌握視為關鍵品性",
+      "co_domains": [
+        "VII"
+      ]
     },
     {
       "slug": "shenzi",

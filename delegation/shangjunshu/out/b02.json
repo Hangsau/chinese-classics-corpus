@@ -1,0 +1,257 @@
+{
+  "batch": "b02.md",
+  "rows": [
+    {
+      "chapter": "靳令第十三",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "從法定不革、任功授爵到農不怠皆是制度槓桿與國勢後果，未把人的性情另立為論據"
+    },
+    {
+      "chapter": "靳令第十三",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "所列榮辱、憂羞都接在六蝨任官與賞罰制度的結果鏈上，全文只比較政策如何使國強弱"
+    },
+    {
+      "chapter": "靳令第十三",
+      "para_index": 3,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "把禮樂、修善、孝弟、誠信、貞廉、仁義等德目列為妨害農戰的六蝨，明確否定其品格價值"
+    },
+    {
+      "chapter": "靳令第十三",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "重刑少賞、利出一空與以刑去刑構成賞罰制度的因果格言，未另說人為何如此"
+    },
+    {
+      "chapter": "靳令第十三",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "明說聖君治人必先「得其心」才能用其力，把民心與統治者動員人民的關係當成立論依據"
+    },
+    {
+      "chapter": "修權第十四",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "法、信、權及賞厚刑必都是君主守法用權的制度原則，民信賞刑的反應也只在政策鏈中出現"
+    },
+    {
+      "chapter": "修權第十四",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "以權衡尺寸比法度並規定依程賞誅，末尾忠臣不進、戰士不用仍只是授官賞祿失當的制度後果"
+    },
+    {
+      "chapter": "修權第十四",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "明說人臣多隨君主所好而改變事君方式，並以公私之分解釋賢者受用或私利危國"
+    },
+    {
+      "chapter": "修權第十四",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "描寫姦臣鬻權、大臣爭私不顧其民、官吏隱下漁民，直接論權力關係中的自利與侵害"
+    },
+    {
+      "chapter": "說民第五",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "把辯慧、禮樂、慈仁與任譽分別說成亂、淫佚、過與姦的根源，明確否定這些德性的價值"
+    },
+    {
+      "chapter": "說民第五",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "以「民親其親」與「民親其制」對照，斷言人的親附對象會隨用善或任姦的制度而改變"
+    },
+    {
+      "chapter": "說民第五",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "以難攻或易攻、用力或用言只是在比較兩套國法與兵用的成敗鏈，沒有另立人的一般性主張"
+    },
+    {
+      "chapter": "說民第五",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "全段用輕重刑的先後推導刑去事成或刑至事生，「民之情也治」仍服務於這套治刑程序"
+    },
+    {
+      "chapter": "說民第五",
+      "para_index": 5,
+      "domains": ["VI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以人民所欲與所惡分別驅動勇者、怯者，並斷言賞刑可翻轉其勇怯，直接處理欲惡與恐懼"
+    },
+    {
+      "chapter": "說民第五",
+      "para_index": 6,
+      "domains": ["VI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "明說「民之有欲有惡」且所欲萬端，再以六淫、四難及單一利門替人的欲望與厭惡建模"
+    },
+    {
+      "chapter": "說民第五",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "家斷、官斷、君斷及五里十里的對舉是行政裁斷層級與治亂結果的公式，未說人是什麼樣的"
+    },
+    {
+      "chapter": "算地第六",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "山陵、藪澤、谿谷、都邑、惡田與良田的什一至什四是土地比例及兵役承載的計量表"
+    },
+    {
+      "chapter": "算地第六",
+      "para_index": 2,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition"],
+      "reason": "以「夫民之情」明說樸會生勞而易力、窮會生知而權利，斷言處境能塑造人的品性與取向"
+    },
+    {
+      "chapter": "算地第六",
+      "para_index": 3,
+      "domains": ["VIII", "VI"],
+      "modes": ["proposition"],
+      "reason": "明列饑求食、勞求佚、苦索樂、辱求榮，並以利與名解釋盜賊和上世之士相反的人生選擇"
+    },
+    {
+      "chapter": "算地第六",
+      "para_index": 4,
+      "domains": ["VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "說農是民之所苦、戰是民之所危，又斷言「民生則計利，死則慮名」，以名利解釋勞作與赴戰"
+    },
+    {
+      "chapter": "算地第六",
+      "para_index": 5,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "把談說、處士、勇士、技藝與商賈之士依靠口、意、氣、手、身維生分成五類，直接論職業資本"
+    },
+    {
+      "chapter": "算地第六",
+      "para_index": 6,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以「民之性」斷言人會度長、稱重、權衡而求利，並用這種逐利取向作為立法依據"
+    },
+    {
+      "chapter": "算地第六",
+      "para_index": 7,
+      "domains": ["VII", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "明說人民厭惡羞辱勞苦、追求顯榮佚樂，並論刑人居位如何使君子退位、小人冀利"
+    },
+    {
+      "chapter": "開塞第七",
+      "para_index": 1,
+      "domains": ["V", "XI"],
+      "modes": ["proposition"],
+      "reason": "從上世親親愛私、中世上賢說仁到下世尊官，建構民所重與社會秩序隨世事變化的演變論"
+    },
+    {
+      "chapter": "開塞第七",
+      "para_index": 2,
+      "domains": ["V", "XI"],
+      "modes": ["proposition"],
+      "reason": "明說民愚與世知各有不同的知力條件，且「不知則學，力盡而服」，據此主張治道須隨時勢改變"
+    },
+    {
+      "chapter": "開塞第七",
+      "para_index": 3,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition"],
+      "reason": "斷言古民樸厚、今民巧偽，又以憂樂改變思佚來重定義義與暴，兼論品性及其古今變化"
+    },
+    {
+      "chapter": "開塞第七",
+      "para_index": 4,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "除賞刑配置外，末尾明言刑與德相反而義與暴相合，對德與義的價值關係作出直接主張"
+    },
+    {
+      "chapter": "開塞第七",
+      "para_index": 5,
+      "domains": ["V", "XI"],
+      "modes": ["proposition"],
+      "reason": "以古民群處而亂、因而求有上來解釋君主與秩序的起源，並主張人民以有君為樂是為求治"
+    },
+    {
+      "chapter": "境內第十九",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "登記生死、有爵者配置庶子及每月役使六日都是身分與役事條文，不是在談生死或人際處境"
+    },
+    {
+      "chapter": "境內第十九",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "軍爵公爵、五人一伍、百人一將、斬首數與短兵配額構成可執行的軍功編制表"
+    },
+    {
+      "chapter": "境內第十九",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "攻城野戰斬首門檻、爵級遞升及益田宅數目是軍功爵賞的計算條文"
+    },
+    {
+      "chapter": "境內第十九",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "按爵級規定隸僕、犯罪貶免、墓樹數量，是刑爵與墓制的級別表而非人的生命處境"
+    },
+    {
+      "chapter": "境內第十九",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "分地積尺、先後等第、陷隊人數、斬首賞爵與黥劓處分組成攻城程序和配額法條"
+    },
+    {
+      "chapter": "弱民第二十",
+      "para_index": 1,
+      "domains": ["V", "XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "明言民強與國強彼此消長、治國務在弱民，又主張貧辱與刑賞能改變人民對爵官和赴戰的取向"
+    },
+    {
+      "chapter": "弱民第二十",
+      "para_index": 2,
+      "domains": ["V", "XI"],
+      "modes": ["proposition"],
+      "reason": "反覆斷言「民弱國強，民強國弱」，並說政令投合或違逆民之好惡可以使人民由強轉弱或由弱轉強"
+    },
+    {
+      "chapter": "弱民第二十",
+      "para_index": 3,
+      "domains": ["II", "V"],
+      "modes": ["proposition"],
+      "reason": "以離婁之明目、烏獲之多力說明個人卓越不能轉移，又用楚民齊疾而戰敗論族群能力仍受法制支配"
+    }
+  ]
+}

@@ -1,0 +1,390 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {
+      "chapter": "更法第一",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只敘孝公與三大夫議論變法的場景與目的，尚未提出關於人的主張"
+    },
+    {
+      "chapter": "更法第一",
+      "para_index": 2,
+      "domains": ["VI"],
+      "modes": ["narrative", "expression"],
+      "reason": "孝公親自說出「恐天下之議我」，呈現變法者面對公議時的憂懼"
+    },
+    {
+      "chapter": "更法第一",
+      "para_index": 3,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "以「愚者闇於成事，知者見於未萌」區分人的理解能力，又說獨知者會遭民眾訾議"
+    },
+    {
+      "chapter": "更法第一",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "主張因民施教、據舊法而治可使吏習民安，重點仍是是否變法的治術因果"
+    },
+    {
+      "chapter": "更法第一",
+      "para_index": 5,
+      "domains": ["II", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "明說常人安於故習、學者溺於所聞，並以知愚賢不肖說明人面對變革的差異"
+    },
+    {
+      "chapter": "更法第一",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "以利益與功效的門檻反對變法，所論是改革決策原則，未另說人是什麼樣的"
+    },
+    {
+      "chapter": "更法第一",
+      "para_index": 7,
+      "domains": ["XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "以歷代禮法隨時勢而異，主張治世無固定一道且不必受古法拘束"
+    },
+    {
+      "chapter": "更法第一",
+      "para_index": 8,
+      "domains": ["VI", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "以愚者與智者、狂夫與賢者相對，分別寫其笑、哀、樂、憂的品性與情緒反應"
+    },
+    {
+      "chapter": "墾令第二",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "取消隔宿辦公以阻邪官牟私並增加農時，只是一條通往墾草的制度因果鏈"
+    },
+    {
+      "chapter": "墾令第二",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "按粟估價徵稅後逐層推到壯民務農、少民仿效，未解釋人為何有此反應"
+    },
+    {
+      "chapter": "墾令第二",
+      "para_index": 3,
+      "domains": ["V", "XI"],
+      "modes": ["prescription", "proposition"],
+      "reason": "明說使民不貴學便會變愚、斷絕外交而專農，把改造人的知識狀態當成治理手段"
+    },
+    {
+      "chapter": "墾令第二",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "按食口加賦使游惰者無食而轉農，是政策壓力導向耕作的推論"
+    },
+    {
+      "chapter": "墾令第二",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "禁商糴農糶以迫使惰農勤作、商人轉農，仍是政策槓桿的行為鏈"
+    },
+    {
+      "chapter": "墾令第二",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "禁絕聲色流通後推到意壹氣不淫再到墾草，未把人的內在狀態另作論題"
+    },
+    {
+      "chapter": "墾令第二",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "禁止僱工使愛子、惰民與庸民不得惰食而務農，是制度施壓的連鎖效果"
+    },
+    {
+      "chapter": "墾令第二",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "廢逆旅使若干類民無處求食而必農，只列政策的受制對象與結果"
+    },
+    {
+      "chapter": "墾令第二",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "收歸山澤使惡農慢惰者無食而轉農，沒有說明這些人的性情如何形成"
+    },
+    {
+      "chapter": "墾令第二",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "提高酒肉價格與租稅以抑酣飲荒飽並促墾，是一串政策效果推論"
+    },
+    {
+      "chapter": "墾令第二",
+      "para_index": 11,
+      "domains": ["VII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "按褊急、很剛、怠惰、費資、巧諛惡心五種品性明確分類並合稱「五民」"
+    },
+    {
+      "chapter": "墾令第二",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "禁止擅徙以迫使被稱為愚亂躁欲者安靜務農，只列管制對象與預期效果"
+    },
+    {
+      "chapter": "墾令第二",
+      "para_index": 13,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "規定餘子的使役與解舍，使其不能游事他人而必農，屬行政手段的因果鏈"
+    },
+    {
+      "chapter": "墾令第二",
+      "para_index": 14,
+      "domains": ["V", "XI"],
+      "modes": ["prescription", "proposition"],
+      "reason": "禁止博聞辯慧者傳播見聞，使農民守故業且愚而不好學，明示以控制知識塑造人"
+    },
+    {
+      "chapter": "墾令第二",
+      "para_index": 15,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "規定軍市、甲兵與糧運以杜絕姦謀游惰並保農，主體是軍政管理鏈"
+    },
+    {
+      "chapter": "墾令第二",
+      "para_index": 16,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "統一百縣治理格式以減邪官、徵役與農民負擔，仍是制度通往墾草的推論"
+    },
+    {
+      "chapter": "墾令第二",
+      "para_index": 17,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "加重關市賦稅後直接推到農惡商、商疑惰與墾草，沒有提出獨立的人性依據"
+    },
+    {
+      "chapter": "墾令第二",
+      "para_index": 18,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "按商人口派重役以使農逸商勞並促進農事，是政策配置的連鎖結果"
+    },
+    {
+      "chapter": "墾令第二",
+      "para_index": 19,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "規範送糧的僱值與車牛登記以免妨農，內容只是運輸制度及其效果"
+    },
+    {
+      "chapter": "墾令第二",
+      "para_index": 20,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "禁止為罪人請託供食以斷姦民依靠並保農，是治理措施的逐層推論"
+    },
+    {
+      "chapter": "農戰第三",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "指出當時人民求官爵不靠農戰而靠巧言虛道，直接描述其求取成就與職位的途徑"
+    },
+    {
+      "chapter": "農戰第三",
+      "para_index": 2,
+      "domains": ["VIII", "V"],
+      "modes": ["proposition"],
+      "reason": "說民眾因見農戰可避而官爵可得，便改業學詩書、從外權、經商或從事技藝"
+    },
+    {
+      "chapter": "農戰第三",
+      "para_index": 3,
+      "domains": ["VIII", "V"],
+      "modes": ["proposition", "expression"],
+      "reason": "以百姓與下官的第一人稱盤算，說明人為爵祿、貨利與養家而選擇鑽營或棄農索官"
+    },
+    {
+      "chapter": "農戰第三",
+      "para_index": 4,
+      "domains": ["VIII", "V"],
+      "modes": ["proposition"],
+      "reason": "主張少數詩書辯慧或技藝者會使整群農戰之民怠業，並把此歸因於上好言、官失常"
+    },
+    {
+      "chapter": "農戰第三",
+      "para_index": 5,
+      "domains": ["VII", "V"],
+      "modes": ["proposition"],
+      "reason": "一面說知慧者會揣摩主上好惡，一面明列詩書禮樂善修仁廉辯慧為妨害守戰之物"
+    },
+    {
+      "chapter": "農戰第三",
+      "para_index": 6,
+      "domains": ["VII", "VIII"],
+      "modes": ["proposition"],
+      "reason": "否定詩書與游食的價值，將一人耕而百人食者比作螟螣，並按職業選擇評斷其品性"
+    },
+    {
+      "chapter": "農戰第三",
+      "para_index": 7,
+      "domains": ["VIII", "V"],
+      "modes": ["proposition"],
+      "reason": "明說民眾看到游士能尊身、商賈能富家、技藝能餬口的便利後必選擇避農"
+    },
+    {
+      "chapter": "農戰第三",
+      "para_index": 8,
+      "domains": ["VIII", "V"],
+      "modes": ["proposition"],
+      "reason": "描述人民見談說可接近權貴便群起仿效，形成游食群體並使農者怠業離上"
+    },
+    {
+      "chapter": "去彊第四",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "全段以對舉格言宣告治法、國力與興兵的關係，沒有另述人的性情或處境"
+    },
+    {
+      "chapter": "去彊第四",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "列農商官與蝨官後反覆推論制度如何使國強弱，主體仍是國力因果"
+    },
+    {
+      "chapter": "去彊第四",
+      "para_index": 3,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "明列禮樂詩書善修孝弟廉辯並主張有此十者必亡，直接否定一組德目與學問的價值"
+    },
+    {
+      "chapter": "去彊第四",
+      "para_index": 4,
+      "domains": ["XI", "V"],
+      "modes": ["proposition"],
+      "reason": "斷言賞罰能使怯民變勇、勇民赴死，也能翻轉人的貧富，主張人的狀態可由權力安排改造"
+    },
+    {
+      "chapter": "去彊第四",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "以作壹年數、刑殺能力與治理距離推演國家強弱，屬制度和國力格言串"
+    },
+    {
+      "chapter": "去彊第四",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "從刑去刑一路推到力、強、威、惠與勇戰，只有賞刑治術的因果鏈"
+    },
+    {
+      "chapter": "去彊第四",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["proposition", "formalization"],
+      "reason": "以金粟換算與「十三數」清單衡量強國條件，是國力計量和制度推演而非人的主張"
+    },
+    {
+      "chapter": "壹言第八",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "規定制度、治法與賞罰如何使民務農樂戰並富國，仍是立法到行為的政策鏈"
+    },
+    {
+      "chapter": "壹言第八",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "反覆推演摶力、殺力、壹務與農戰如何造成國家強亡，沒有另立人性依據"
+    },
+    {
+      "chapter": "壹言第八",
+      "para_index": 3,
+      "domains": ["XI", "V"],
+      "modes": ["proposition"],
+      "reason": "指出世主因安於舊習、不察世俗之變而致亂，並主張治法須隨時勢民情而改變"
+    },
+    {
+      "chapter": "錯法第九",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "從法明、功分與爵祿配置推到民競功和兵強，是賞功制度的連鎖效果"
+    },
+    {
+      "chapter": "錯法第九",
+      "para_index": 2,
+      "domains": ["VI", "V"],
+      "modes": ["proposition"],
+      "reason": "直言「人情而有好惡」且好爵祿、惡刑罰，並把這種內在趨避作為君主御民的根據"
+    },
+    {
+      "chapter": "錯法第九",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "說請謁先於功力、利祿無須犯難等制度會削弱國家，主體是任官賞祿的政策因果"
+    },
+    {
+      "chapter": "錯法第九",
+      "para_index": 4,
+      "domains": ["II", "XI"],
+      "modes": ["proposition"],
+      "reason": "以離朱之明與烏獲之力不能轉給他人，斷言個人的卓越體性不可互易"
+    },
+    {
+      "chapter": "戰法第十",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "從政勝推到作戰紀律並規定追擊距離、察敵與交戰條件，主體是用兵原則"
+    },
+    {
+      "chapter": "戰法第十",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "勝不驕敗不怨只作為軍事勝術的一環，全段在列將政、地形與整軍的勝敗條件"
+    },
+    {
+      "chapter": "立本第十一",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "以法、勢、治、富、強的格言串說明用兵根本，未提出獨立的人的主張"
+    },
+    {
+      "chapter": "兵守第十二",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "依四戰或負海地勢規定國家應守戰或攻戰，內容是戰略原則"
+    },
+    {
+      "chapter": "兵守第十二",
+      "para_index": 2,
+      "domains": ["VI", "V"],
+      "modes": ["formalization", "proposition"],
+      "reason": "除三軍編制外，末尾明說老弱會使壯強者悲憐、更慮，並使勇怯之民失去戰意"
+    }
+  ]
+}

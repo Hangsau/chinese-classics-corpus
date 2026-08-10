@@ -1,0 +1,2240 @@
+[
+  {
+    "para_id": "shangjunshu#01-p01",
+    "anchor": {
+      "chapter": "更法第一",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "只敘孝公與三大夫議論變法的場景與目的，尚未提出關於人的主張",
+    "excerpt": "孝公平畫，公孫鞅、甘龍、杜摯三大夫御於君，慮世事之變，討正法之本，求使民之道。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#01-p02",
+    "anchor": {
+      "chapter": "更法第一",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "expression"
+    ],
+    "confidence": null,
+    "note": "孝公親自說出「恐天下之議我」，呈現變法者面對公議時的憂懼",
+    "excerpt": "君曰：「代立不忘社稷，君之道也；錯法務明主長，臣之行也。今吾欲變法以治，更禮以教",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#01-p03",
+    "anchor": {
+      "chapter": "更法第一",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "II",
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以「愚者闇於成事，知者見於未萌」區分人的理解能力，又說獨知者會遭民眾訾議",
+    "excerpt": "公孫鞅曰：「臣聞之，『疑行無成，疑事無功，』君亟定變法之慮，殆無顧天下之議之也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#01-p04",
+    "anchor": {
+      "chapter": "更法第一",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "主張因民施教、據舊法而治可使吏習民安，重點仍是是否變法的治術因果",
+    "excerpt": "甘龍曰：「不然。臣聞之，聖人不易民而教，知者不變法而治。因民而教者，不勞而功成；",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#01-p05",
+    "anchor": {
+      "chapter": "更法第一",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "II",
+      "XI"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "明說常人安於故習、學者溺於所聞，並以知愚賢不肖說明人面對變革的差異",
+    "excerpt": "公孫鞅曰：「子之所言，世俗之言也。夫常人安於故習，學者溺於所聞。此兩者所以居官守",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#01-p06",
+    "anchor": {
+      "chapter": "更法第一",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以利益與功效的門檻反對變法，所論是改革決策原則，未另說人是什麼樣的",
+    "excerpt": "杜摯曰：「臣聞之，利不百，不變法；功不十，不易器。臣聞法古無過，循禮無邪。君其圖",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#01-p07",
+    "anchor": {
+      "chapter": "更法第一",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "XI"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以歷代禮法隨時勢而異，主張治世無固定一道且不必受古法拘束",
+    "excerpt": "公孫鞅曰：「前世不同教，何古之法？帝王不相復，何禮之循？伏羲神農教而不誅，黃帝堯",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#01-p08",
+    "anchor": {
+      "chapter": "更法第一",
+      "para_index": 8
+    },
+    "psych_domains": [
+      "VI",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以愚者與智者、狂夫與賢者相對，分別寫其笑、哀、樂、憂的品性與情緒反應",
+    "excerpt": "孝公曰：「善。吾聞窮巷多怪，曲學多辨。愚者之笑，智者哀焉；狂夫之樂，賢者憂焉。拘",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#02-p01",
+    "anchor": {
+      "chapter": "墾令第二",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "取消隔宿辦公以阻邪官牟私並增加農時，只是一條通往墾草的制度因果鏈",
+    "excerpt": "無宿治，則邪官不及為私利於民，而百官之情不相稽。百官之情不相稽，則農有餘日。邪官",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#02-p02",
+    "anchor": {
+      "chapter": "墾令第二",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "按粟估價徵稅後逐層推到壯民務農、少民仿效，未解釋人為何有此反應",
+    "excerpt": "訾粟而稅，則上壹而民平。上壹則信，信則官不敢為邪。民平則慎，慎則難變。上信而官不",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#02-p03",
+    "anchor": {
+      "chapter": "墾令第二",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V",
+      "XI"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "明說使民不貴學便會變愚、斷絕外交而專農，把改造人的知識狀態當成治理手段",
+    "excerpt": "無以外權任爵與官，則民不貴學問，又不賤農。民不貴學則愚，愚則無外交，無外交則勉農",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#02-p04",
+    "anchor": {
+      "chapter": "墾令第二",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "按食口加賦使游惰者無食而轉農，是政策壓力導向耕作的推論",
+    "excerpt": "祿厚而稅多，食口眾者，敗農者也；則以其食口之數，賦而重使之，則辟淫游惰之民無所於",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#02-p05",
+    "anchor": {
+      "chapter": "墾令第二",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "禁商糴農糶以迫使惰農勤作、商人轉農，仍是政策槓桿的行為鏈",
+    "excerpt": "使商無得糴，農無得糶。農無得糶，則窳惰之農勉疾。商無得糴，則多歲不加樂；多歲不加",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#02-p06",
+    "anchor": {
+      "chapter": "墾令第二",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "禁絕聲色流通後推到意壹氣不淫再到墾草，未把人的內在狀態另作論題",
+    "excerpt": "聲服無通於百縣，則民行作不顧，休居不聽。休居不聽，則氣不淫；行作不顧，則意必壹。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#02-p07",
+    "anchor": {
+      "chapter": "墾令第二",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "禁止僱工使愛子、惰民與庸民不得惰食而務農，是制度施壓的連鎖效果",
+    "excerpt": "無得取庸，則大夫家長不建繕。愛子不惰食，惰民不窳，而庸民無所於食，是必農。大夫家",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#02-p08",
+    "anchor": {
+      "chapter": "墾令第二",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "廢逆旅使若干類民無處求食而必農，只列政策的受制對象與結果",
+    "excerpt": "廢逆旅，則姦偽躁心私交疑農之民不行。逆旅之民無所於食，則必農，農則草必墾矣。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#02-p09",
+    "anchor": {
+      "chapter": "墾令第二",
+      "para_index": 9
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "收歸山澤使惡農慢惰者無食而轉農，沒有說明這些人的性情如何形成",
+    "excerpt": "壹山澤，則惡農慢惰倍欲之民無所於食；無所於食則必農，農則草必墾矣。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#02-p10",
+    "anchor": {
+      "chapter": "墾令第二",
+      "para_index": 10
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "提高酒肉價格與租稅以抑酣飲荒飽並促墾，是一串政策效果推論",
+    "excerpt": "貴酒肉之價，重其租，令十倍其樸。然則商酤少，民不能喜酣奭，大臣不為荒飽。商酤少，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#02-p11",
+    "anchor": {
+      "chapter": "墾令第二",
+      "para_index": 11
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "按褊急、很剛、怠惰、費資、巧諛惡心五種品性明確分類並合稱「五民」",
+    "excerpt": "重刑而連其罪，則褊急之民不鬥，很剛之民不訟，怠惰之民不游，費資之民不作，巧諛惡心",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#02-p12",
+    "anchor": {
+      "chapter": "墾令第二",
+      "para_index": 12
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "禁止擅徙以迫使被稱為愚亂躁欲者安靜務農，只列管制對象與預期效果",
+    "excerpt": "使民無得擅徙，則誅愚亂農之民無所於食而必農。愚心躁欲之民壹意，則農民必靜。農靜，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#02-p13",
+    "anchor": {
+      "chapter": "墾令第二",
+      "para_index": 13
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "規定餘子的使役與解舍，使其不能游事他人而必農，屬行政手段的因果鏈",
+    "excerpt": "均出餘子之使令，以世使之，又高其解舍，令有甬，官食槩，不可以辟役。而大官未可必得",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#02-p14",
+    "anchor": {
+      "chapter": "墾令第二",
+      "para_index": 14
+    },
+    "psych_domains": [
+      "V",
+      "XI"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "禁止博聞辯慧者傳播見聞，使農民守故業且愚而不好學，明示以控制知識塑造人",
+    "excerpt": "國之大臣諸大夫，博聞辨慧游居之事，皆無得為；無得居游於百縣，則農民無所聞變見方。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#02-p15",
+    "anchor": {
+      "chapter": "墾令第二",
+      "para_index": 15
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "規定軍市、甲兵與糧運以杜絕姦謀游惰並保農，主體是軍政管理鏈",
+    "excerpt": "令軍市無有女子，而命其商；令人自給甲兵，使視軍興。又使軍市無得私輸糧者，則姦謀無",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#02-p16",
+    "anchor": {
+      "chapter": "墾令第二",
+      "para_index": 16
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "統一百縣治理格式以減邪官、徵役與農民負擔，仍是制度通往墾草的推論",
+    "excerpt": "百縣之治一形，則迂者不飾，代者不敢更其制，過而廢者不能匿其舉。過舉不匿，則官無邪",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#02-p17",
+    "anchor": {
+      "chapter": "墾令第二",
+      "para_index": 17
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "加重關市賦稅後直接推到農惡商、商疑惰與墾草，沒有提出獨立的人性依據",
+    "excerpt": "重關市之賦，則農惡商，商有疑惰之心。農惡商，商疑惰，則草必墾矣。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#02-p18",
+    "anchor": {
+      "chapter": "墾令第二",
+      "para_index": 18
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "按商人口派重役以使農逸商勞並促進農事，是政策配置的連鎖結果",
+    "excerpt": "以商之口數使商，令之廝輿徒重者必當名，則農逸而商勞。農逸則良田不荒，商勞則去來賷",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#02-p19",
+    "anchor": {
+      "chapter": "墾令第二",
+      "para_index": 19
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "規範送糧的僱值與車牛登記以免妨農，內容只是運輸制度及其效果",
+    "excerpt": "令送糧無得取僦，無得反庸；車牛輿重設，必當名。然則往速徠疾，則業不敗農。業不敗農",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#02-p20",
+    "anchor": {
+      "chapter": "墾令第二",
+      "para_index": 20
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "禁止為罪人請託供食以斷姦民依靠並保農，是治理措施的逐層推論",
+    "excerpt": "無得為罪人請於吏而饟食之，則姦民無主。姦民無主，則為姦不勉。為姦不勉，則姦民無樸",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#03-p01",
+    "anchor": {
+      "chapter": "農戰第三",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "指出當時人民求官爵不靠農戰而靠巧言虛道，直接描述其求取成就與職位的途徑",
+    "excerpt": "凡人主之所以勸民者，官爵也；國之所以興者，農戰也。今民求官爵，皆不以農戰，而以巧",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#03-p02",
+    "anchor": {
+      "chapter": "農戰第三",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VIII",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "說民眾因見農戰可避而官爵可得，便改業學詩書、從外權、經商或從事技藝",
+    "excerpt": "善為國者，其教民也，皆從壹空而得官爵。是故不以農戰，則無官爵。國去言則民樸，民樸",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#03-p03",
+    "anchor": {
+      "chapter": "農戰第三",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "VIII",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "expression"
+    ],
+    "confidence": null,
+    "note": "以百姓與下官的第一人稱盤算，說明人為爵祿、貨利與養家而選擇鑽營或棄農索官",
+    "excerpt": "善為國者，倉廩雖滿，不偷於農；國大民眾，不淫於言，則民樸一。民樸一，則官爵不可巧",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#03-p04",
+    "anchor": {
+      "chapter": "農戰第三",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "VIII",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "主張少數詩書辯慧或技藝者會使整群農戰之民怠業，並把此歸因於上好言、官失常",
+    "excerpt": "善為國者，官法明，故不任知慮；上作壹，故民不偷淫，則國力搏。國力搏者彊，國好言談",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#03-p05",
+    "anchor": {
+      "chapter": "農戰第三",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "VII",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "一面說知慧者會揣摩主上好惡，一面明列詩書禮樂善修仁廉辯慧為妨害守戰之物",
+    "excerpt": "今上論材能知慧而任之，則知慧之人希主好惡使官制物，以適主心。是以官無常，國亂而不",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#03-p06",
+    "anchor": {
+      "chapter": "農戰第三",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "VII",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "否定詩書與游食的價值，將一人耕而百人食者比作螟螣，並按職業選擇評斷其品性",
+    "excerpt": "今為國者多無要。朝廷之言治也，紛紛焉務相易也。是以其君惛於說，其官亂於言，其民惰",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#03-p07",
+    "anchor": {
+      "chapter": "農戰第三",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "VIII",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "明說民眾看到游士能尊身、商賈能富家、技藝能餬口的便利後必選擇避農",
+    "excerpt": "夫民之親上死制也，以其旦暮從事於農。夫民之不可用也，見言談游士事君之可以尊身也，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#03-p08",
+    "anchor": {
+      "chapter": "農戰第三",
+      "para_index": 8
+    },
+    "psych_domains": [
+      "VIII",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "描述人民見談說可接近權貴便群起仿效，形成游食群體並使農者怠業離上",
+    "excerpt": "今世主皆憂其國之危而兵之弱也，而彊聽說者。說者成伍，煩言飾辭，而無實用。主好其辯",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#04-p01",
+    "anchor": {
+      "chapter": "去彊第四",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "全段以對舉格言宣告治法、國力與興兵的關係，沒有另述人的性情或處境",
+    "excerpt": "以彊去弱者，弱；以弱去彊者，彊。國為善，姦必多。國富而貧，治曰重富，重富者彊。國",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#04-p02",
+    "anchor": {
+      "chapter": "去彊第四",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "列農商官與蝨官後反覆推論制度如何使國強弱，主體仍是國力因果",
+    "excerpt": "農、商、官三者，國之常官也。三官者生蝨官者六：曰歲，曰食，曰美，曰好，曰志，曰行",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#04-p03",
+    "anchor": {
+      "chapter": "去彊第四",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "明列禮樂詩書善修孝弟廉辯並主張有此十者必亡，直接否定一組德目與學問的價值",
+    "excerpt": "國有禮有樂，有詩有書，有善有修，有孝有弟，有廉有辯──國有十者，上無使戰，必削至",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#04-p04",
+    "anchor": {
+      "chapter": "去彊第四",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "XI",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "斷言賞罰能使怯民變勇、勇民赴死，也能翻轉人的貧富，主張人的狀態可由權力安排改造",
+    "excerpt": "重罰輕賞，則上愛民，民死上；重賞輕罰，則上不愛民，民不死上。興國，行罰，民利且畏",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#04-p05",
+    "anchor": {
+      "chapter": "去彊第四",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以作壹年數、刑殺能力與治理距離推演國家強弱，屬制度和國力格言串",
+    "excerpt": "國作壹一歲，十歲彊；作壹十歲，百歲彊；作壹百歲，千歲彊，千歲彊者王。威以一取十，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#04-p06",
+    "anchor": {
+      "chapter": "去彊第四",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "從刑去刑一路推到力、強、威、惠與勇戰，只有賞刑治術的因果鏈",
+    "excerpt": "以刑去刑，國治；以刑致刑，國亂。故曰：行刑重輕，刑去事成，國彊；重重而輕輕，刑至",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#04-p07",
+    "anchor": {
+      "chapter": "去彊第四",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "以金粟換算與「十三數」清單衡量強國條件，是國力計量和制度推演而非人的主張",
+    "excerpt": "金生而粟死，粟生而金死。本物賤，事者眾，買者少，農困而姦勸；其兵弱，國必削至亡。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#05-p01",
+    "anchor": {
+      "chapter": "壹言第八",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "規定制度、治法與賞罰如何使民務農樂戰並富國，仍是立法到行為的政策鏈",
+    "excerpt": "凡將立國，制度不可不時也，治法不可不慎也，國務不可不謹也，事本不可不摶也。制度時",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#05-p02",
+    "anchor": {
+      "chapter": "壹言第八",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "反覆推演摶力、殺力、壹務與農戰如何造成國家強亡，沒有另立人性依據",
+    "excerpt": "夫聖人之治國也，能摶力，能殺力。制度察則民力摶，摶而不化則不行，行而無富則生亂。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#05-p03",
+    "anchor": {
+      "chapter": "壹言第八",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "XI",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "指出世主因安於舊習、不察世俗之變而致亂，並主張治法須隨時勢民情而改變",
+    "excerpt": "夫民之不治者，君道卑也；法之不明者，君長亂也。故明君不道卑，不長亂，秉權而立，垂",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#06-p01",
+    "anchor": {
+      "chapter": "錯法第九",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "從法明、功分與爵祿配置推到民競功和兵強，是賞功制度的連鎖效果",
+    "excerpt": "臣聞古之明君，錯法而民無邪，舉事而材自練，行賞而兵彊，此三者治之本也。夫錯法而民",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#06-p02",
+    "anchor": {
+      "chapter": "錯法第九",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VI",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "直言「人情而有好惡」且好爵祿、惡刑罰，並把這種內在趨避作為君主御民的根據",
+    "excerpt": "同列而相臣妾者，貧富之謂也。同實而相并兼者，彊弱之謂也。有地而君或彊或弱者，治亂",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#06-p03",
+    "anchor": {
+      "chapter": "錯法第九",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "說請謁先於功力、利祿無須犯難等制度會削弱國家，主體是任官賞祿的政策因果",
+    "excerpt": "人君有爵行而兵弱者，有祿行而國貧者，有法立而治亂者，此三者，國之患也。故人君者先",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#06-p04",
+    "anchor": {
+      "chapter": "錯法第九",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "II",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以離朱之明與烏獲之力不能轉給他人，斷言個人的卓越體性不可互易",
+    "excerpt": "故凡明君之治也，任其力不任其德，是以不憂不勞而功可立也。度數已立，而法可修。故人",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#07-p01",
+    "anchor": {
+      "chapter": "戰法第十",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "從政勝推到作戰紀律並規定追擊距離、察敵與交戰條件，主體是用兵原則",
+    "excerpt": "凡戰法必本於政勝，則其民不爭；不爭則無以私意，以上為意。故王者之政，使民怯於邑鬥",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#07-p02",
+    "anchor": {
+      "chapter": "戰法第十",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "勝不驕敗不怨只作為軍事勝術的一環，全段在列將政、地形與整軍的勝敗條件",
+    "excerpt": "王者之兵，勝而不驕，敗而不怨。勝而不驕者，術明也；敗而不怨者，知所失也。若兵敵彊",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#08-p01",
+    "anchor": {
+      "chapter": "立本第十一",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以法、勢、治、富、強的格言串說明用兵根本，未提出獨立的人的主張",
+    "excerpt": "凡用兵，勝有三等：若兵未起而錯法，錯法而俗成，俗成而用具。此三者必行於境內，而後",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#09-p01",
+    "anchor": {
+      "chapter": "兵守第十二",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "依四戰或負海地勢規定國家應守戰或攻戰，內容是戰略原則",
+    "excerpt": "四戰之國，貴守戰；負海之國，貴攻戰。四戰之國，好舉興兵，以距四鄰者，國危。四鄰之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#09-p02",
+    "anchor": {
+      "chapter": "兵守第十二",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VI",
+      "V"
+    ],
+    "discourse_mode": [
+      "formalization",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "除三軍編制外，末尾明說老弱會使壯強者悲憐、更慮，並使勇怯之民失去戰意",
+    "excerpt": "守有城之邑，不如以死人之力，與客生力戰。其城難拔者，死人之力也；客不盡夷城，客無",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#10-p01",
+    "anchor": {
+      "chapter": "靳令第十三",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "從法定不革、任功授爵到農不怠皆是制度槓桿與國勢後果，未把人的性情另立為論據",
+    "excerpt": "靳令則治不留，法平則吏無姦。法已定矣，不以善言害法。任功則民少言，任善則民多言。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#10-p02",
+    "anchor": {
+      "chapter": "靳令第十三",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "所列榮辱、憂羞都接在六蝨任官與賞罰制度的結果鏈上，全文只比較政策如何使國強弱",
+    "excerpt": "國貧而務戰，毒輸於敵，無六蝨，必彊。國富而不戰，偷生於內，有六蝨，必弱。國以功授",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#10-p03",
+    "anchor": {
+      "chapter": "靳令第十三",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "把禮樂、修善、孝弟、誠信、貞廉、仁義等德目列為妨害農戰的六蝨，明確否定其品格價值",
+    "excerpt": "六蝨：曰禮樂，曰詩書，曰修善，曰孝弟，曰誠信，曰貞廉，曰仁義，曰非兵，曰羞戰。國",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#10-p04",
+    "anchor": {
+      "chapter": "靳令第十三",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "重刑少賞、利出一空與以刑去刑構成賞罰制度的因果格言，未另說人為何如此",
+    "excerpt": "重刑少賞，上愛民，民死上；重賞輕刑，上不愛民，民不死上。利出一空者，其國無敵；利",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#10-p05",
+    "anchor": {
+      "chapter": "靳令第十三",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "明說聖君治人必先「得其心」才能用其力，把民心與統治者動員人民的關係當成立論依據",
+    "excerpt": "聖君知物之要，故其治民有至要。故執賞罰以壹輔仁者，心之續也。聖君之治人也，必得其",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#11-p01",
+    "anchor": {
+      "chapter": "修權第十四",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "法、信、權及賞厚刑必都是君主守法用權的制度原則，民信賞刑的反應也只在政策鏈中出現",
+    "excerpt": "國之所以治者三：一曰法，二曰信，三曰權。法者，君臣之所共操也；信者，君臣之所共立",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#11-p02",
+    "anchor": {
+      "chapter": "修權第十四",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以權衡尺寸比法度並規定依程賞誅，末尾忠臣不進、戰士不用仍只是授官賞祿失當的制度後果",
+    "excerpt": "世之為治者，多釋法而任私議，此國之所以亂也。先王縣權衡，立尺寸，而至今法之，其分",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#11-p03",
+    "anchor": {
+      "chapter": "修權第十四",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "明說人臣多隨君主所好而改變事君方式，並以公私之分解釋賢者受用或私利危國",
+    "excerpt": "凡人臣之事君也，多以主所好事君。君好法，則臣以法事君；君好言，則臣以言事君。君好",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#11-p04",
+    "anchor": {
+      "chapter": "修權第十四",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "描寫姦臣鬻權、大臣爭私不顧其民、官吏隱下漁民，直接論權力關係中的自利與侵害",
+    "excerpt": "夫廢法度而好私議，則姦臣鬻權以約祿，秩官之吏隱下而漁民。諺曰：「蠹眾而木折，隙大",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#12-p01",
+    "anchor": {
+      "chapter": "說民第五",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "把辯慧、禮樂、慈仁與任譽分別說成亂、淫佚、過與姦的根源，明確否定這些德性的價值",
+    "excerpt": "辯慧，亂之贊也；禮樂，淫佚之徵也；慈仁，過之母也；任譽，姦之鼠也。亂有贊則行，淫",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#12-p02",
+    "anchor": {
+      "chapter": "說民第五",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以「民親其親」與「民親其制」對照，斷言人的親附對象會隨用善或任姦的制度而改變",
+    "excerpt": "用善，則民親其親；任姦，則民親其制。合而復之者，善也；別而規之者，姦也。章善則過",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#12-p03",
+    "anchor": {
+      "chapter": "說民第五",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以難攻或易攻、用力或用言只是在比較兩套國法與兵用的成敗鏈，沒有另立人的一般性主張",
+    "excerpt": "國以難攻，起一取十；國以易攻，起十亡百。國好力，曰：「以難攻」；國好言，曰：「以",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#12-p04",
+    "anchor": {
+      "chapter": "說民第五",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "全段用輕重刑的先後推導刑去事成或刑至事生，「民之情也治」仍服務於這套治刑程序",
+    "excerpt": "罰重，爵尊；賞輕，刑威。爵尊，上愛民；刑威，民死上。故興國行罰則民利，用賞則上重",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#12-p05",
+    "anchor": {
+      "chapter": "說民第五",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "以人民所欲與所惡分別驅動勇者、怯者，並斷言賞刑可翻轉其勇怯，直接處理欲惡與恐懼",
+    "excerpt": "民勇，則賞之以其所欲；民怯，則刑之以其所惡。故怯民使之以刑，則勇；勇民使之以賞，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#12-p06",
+    "anchor": {
+      "chapter": "說民第五",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "明說「民之有欲有惡」且所欲萬端，再以六淫、四難及單一利門替人的欲望與厭惡建模",
+    "excerpt": "刑生力，力生彊，彊生威，威生德，德生於刑。故刑多則賞重，賞少則刑重。民之有欲有惡",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#12-p07",
+    "anchor": {
+      "chapter": "說民第五",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "家斷、官斷、君斷及五里十里的對舉是行政裁斷層級與治亂結果的公式，未說人是什麼樣的",
+    "excerpt": "國治：斷家王，斷官彊，斷君弱。重輕刑去，常官則治。省刑要保，賞不可倍也。有姦必告",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#13-p01",
+    "anchor": {
+      "chapter": "算地第六",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "山陵、藪澤、谿谷、都邑、惡田與良田的什一至什四是土地比例及兵役承載的計量表",
+    "excerpt": "凡世主之患，用兵者不量力，治草萊者不度地。故有地狹而民眾者，民勝其地；地廣而民少",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#13-p02",
+    "anchor": {
+      "chapter": "算地第六",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VII",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以「夫民之情」明說樸會生勞而易力、窮會生知而權利，斷言處境能塑造人的品性與取向",
+    "excerpt": "今世主有地方數千里，食不足以待役實倉，而兵為鄰敵臣，故為世主患之。夫地大而不墾者",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#13-p03",
+    "anchor": {
+      "chapter": "算地第六",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "VIII",
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "明列饑求食、勞求佚、苦索樂、辱求榮，並以利與名解釋盜賊和上世之士相反的人生選擇",
+    "excerpt": "夫治國者能盡地力而致民死者，名與利交至。民之生，饑而求食，勞而求佚，苦則索樂，辱",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#13-p04",
+    "anchor": {
+      "chapter": "算地第六",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "說農是民之所苦、戰是民之所危，又斷言「民生則計利，死則慮名」，以名利解釋勞作與赴戰",
+    "excerpt": "主操名利之柄，而能致功名者，數也。聖人審權以操柄，審數以使民。數者臣主之術，而國",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#13-p05",
+    "anchor": {
+      "chapter": "算地第六",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "把談說、處士、勇士、技藝與商賈之士依靠口、意、氣、手、身維生分成五類，直接論職業資本",
+    "excerpt": "今則不然。世主之所以加務者，皆非國之急也。身有堯舜之行，而功不及湯武之略者，此執",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#13-p06",
+    "anchor": {
+      "chapter": "算地第六",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "以「民之性」斷言人會度長、稱重、權衡而求利，並用這種逐利取向作為立法依據",
+    "excerpt": "民之性，度而取長，稱而取重，權而索利。明君慎觀三者，則國治可立，而民能可得。國之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#13-p07",
+    "anchor": {
+      "chapter": "算地第六",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "VII",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "明說人民厭惡羞辱勞苦、追求顯榮佚樂，並論刑人居位如何使君子退位、小人冀利",
+    "excerpt": "夫刑者所以禁邪也；而賞者，所以助禁也。羞辱勞苦者，民之所惡也；顯榮佚樂者，民之所",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#14-p01",
+    "anchor": {
+      "chapter": "開塞第七",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "從上世親親愛私、中世上賢說仁到下世尊官，建構民所重與社會秩序隨世事變化的演變論",
+    "excerpt": "天地設，而民生之。當此之時也，民知其母而不知其父，其道親親而愛私。親親則別，愛私",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#14-p02",
+    "anchor": {
+      "chapter": "開塞第七",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "明說民愚與世知各有不同的知力條件，且「不知則學，力盡而服」，據此主張治道須隨時勢改變",
+    "excerpt": "夫王道一端，而臣道一端；所道則異，而所繩則一也。故曰：「民愚，則知可以王；世知，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#14-p03",
+    "anchor": {
+      "chapter": "開塞第七",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "VII",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "斷言古民樸厚、今民巧偽，又以憂樂改變思佚來重定義義與暴，兼論品性及其古今變化",
+    "excerpt": "古之民樸以厚，今之民巧以偽。故效於古者，先德而治；效於今者，前刑而法；此世之所惑",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#14-p04",
+    "anchor": {
+      "chapter": "開塞第七",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "除賞刑配置外，末尾明言刑與德相反而義與暴相合，對德與義的價值關係作出直接主張",
+    "excerpt": "治國刑多而賞少，亂國賞多而刑少。故王者刑九而賞一，削國賞九而刑一。夫過有厚薄，則",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#14-p05",
+    "anchor": {
+      "chapter": "開塞第七",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "V",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以古民群處而亂、因而求有上來解釋君主與秩序的起源，並主張人民以有君為樂是為求治",
+    "excerpt": "古者民藂生而群處亂，故求有上也。然則天下之樂有上也，將以為治也。今有主而無法，其",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#15-p01",
+    "anchor": {
+      "chapter": "境內第十九",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "登記生死、有爵者配置庶子及每月役使六日都是身分與役事條文，不是在談生死或人際處境",
+    "excerpt": "四境之內，丈夫女子皆有名於上，生者著，死者削。其有爵者乞無爵者以為庶子，級乞一人",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#15-p02",
+    "anchor": {
+      "chapter": "境內第十九",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "軍爵公爵、五人一伍、百人一將、斬首數與短兵配額構成可執行的軍功編制表",
+    "excerpt": "軍爵，自一級已下至小夫，命曰校徒操士。公爵，自二級已上至不更，命曰卒。其戰也，五",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#15-p03",
+    "anchor": {
+      "chapter": "境內第十九",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "攻城野戰斬首門檻、爵級遞升及益田宅數目是軍功爵賞的計算條文",
+    "excerpt": "能攻城圍邑斬首八千已上，則盈論；野戰斬首二千，則盈論。吏自操及校以上大將，盡賞行",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#15-p04",
+    "anchor": {
+      "chapter": "境內第十九",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "按爵級規定隸僕、犯罪貶免、墓樹數量，是刑爵與墓制的級別表而非人的生命處境",
+    "excerpt": "其獄法：高爵訾下爵級。高爵能，無給有爵人隸僕。爵自二級以上，有刑罪則貶。爵自一級",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#15-p05",
+    "anchor": {
+      "chapter": "境內第十九",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "分地積尺、先後等第、陷隊人數、斬首賞爵與黥劓處分組成攻城程序和配額法條",
+    "excerpt": "其攻城圍邑也，國司空訾其城之廣厚之數；國尉分地以徒校分積尺而攻之，為期曰：「先已",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#16-p01",
+    "anchor": {
+      "chapter": "弱民第二十",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "明言民強與國強彼此消長、治國務在弱民，又主張貧辱與刑賞能改變人民對爵官和赴戰的取向",
+    "excerpt": "民弱國強，民強國弱，故有道之國，務在弱民。樸則強，淫則弱；弱則軌，淫則越志；弱則",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#16-p02",
+    "anchor": {
+      "chapter": "弱民第二十",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "反覆斷言「民弱國強，民強國弱」，並說政令投合或違逆民之好惡可以使人民由強轉弱或由弱轉強",
+    "excerpt": "農商官三者，國之常官也。農闢地，商致物，官治民。三官生蝨六；曰歲，曰食，曰美，曰",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#16-p03",
+    "anchor": {
+      "chapter": "弱民第二十",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "II",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以離婁之明目、烏獲之多力說明個人卓越不能轉移，又用楚民齊疾而戰敗論族群能力仍受法制支配",
+    "excerpt": "明主之使其臣也，用必加於功，賞必盡其勞。人主使其民信如日月，此無敵矣。今離婁見秋",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#18-p01",
+    "anchor": {
+      "chapter": "外內第二十二",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "明說「民之外事，莫難於戰」，並以「見戰賞之多則忘死、見不戰之辱則苦生」說明人在賞威下對戰與不戰的取捨",
+    "excerpt": "民之外事，莫難於戰，故輕法不可以備之。奚謂輕法？其賞少而威薄，淫道不塞之謂也。何",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#18-p02",
+    "anchor": {
+      "chapter": "外內第二十二",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VIII",
+      "IX"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "明說「農之用力最苦，不如商賈技巧之人」，既比較生計選擇，也直接寫出農作出力之苦",
+    "excerpt": "民之內事，莫苦於農，故輕治不可以使之。奚謂輕治？其農貧而商富，故其食賤者錢重。食",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#18-p03",
+    "anchor": {
+      "chapter": "外內第二十二",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "只以邊利歸兵、市利歸農推導國家彊富，是制度與國力的因果格言，未另說人是什麼樣的",
+    "excerpt": "故為國者，邊利盡歸於兵，市利盡歸於農。邊利盡歸於兵者，彊；市利盡歸於農者，富。故",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#19-p01",
+    "anchor": {
+      "chapter": "君臣第二十三",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "從未有君臣上下而民亂，敘述聖人別貴賤、立名號與法制的秩序起源，並明說「民眾而姦邪生」",
+    "excerpt": "古者未有君臣上下之時，民亂而不治。是以聖人別貴賤，制爵位，立名號，以別君臣上下之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#19-p02",
+    "anchor": {
+      "chapter": "君臣第二十三",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VII",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以「民之於利也，若水於下也，四旁無擇也」斷言民趨利無所選擇，並說上位者給利之途會改變民的群體行向",
+    "excerpt": "今世君不然。釋法而以知，背功而以譽。故軍士不戰，而農民流徙。臣聞道民之門，在上所",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#19-p03",
+    "anchor": {
+      "chapter": "君臣第二十三",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "規定言、行、事是否中法時應聽、高、為或不為，並接續國治兵彊的制度效果，沒有另立人的樣態",
+    "excerpt": "故明主慎法制。言不中法者，不聽也；行不中法者，不高也；事不中法者，不為也。言中法",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#20-p01",
+    "anchor": {
+      "chapter": "禁使第二十四",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以「其勢難匿者，雖跖不為非焉」主張處境使作惡無法隱匿時，連盜跖也不作非，明指品行受勢所制",
+    "excerpt": "人主之所以禁使者，賞罰也。賞隨功，罰隨罪，故論功察罪，不可不審也。夫賞高罰下，而",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#20-p02",
+    "anchor": {
+      "chapter": "禁使第二十四",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "IV"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以夫妻、朋友、父子及君臣為例，推論利異便不能相隱、利合惡同便必相蔽，直接處理利害結構中的家庭與社會關係",
+    "excerpt": "或曰：「人主執虛後以應，則物應稽驗，稽驗則姦得。」臣以為不然。夫吏專制決事於千里",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#21-p01",
+    "anchor": {
+      "chapter": "慎法第二十五",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "II",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "明說世所謂賢者的正言由黨人互相證成，解釋「賢能」名聲如何由私黨製造並轉成政治勢力",
+    "excerpt": "凡世莫不以其所以亂者治。故小治而小亂，大治而大亂。人主莫能世治其民，世無不亂之國",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#21-p02",
+    "anchor": {
+      "chapter": "慎法第二十五",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "主張依法以數相舉能使相譽相訾不能益損，因而「愛人者不阿，憎人者不害」，說明制度如何約束愛憎中的品行",
+    "excerpt": "故有明主忠臣產於今世，而能領其國者，不可以須臾忘於法。破勝黨任，節去言談，任法而",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#21-p03",
+    "anchor": {
+      "chapter": "慎法第二十五",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "說耕戰連孝子忠臣都難做到，先王之民肯蹈白刃被矢石並非喜好，而是為避害，據此把利害設為務農作戰的動機",
+    "excerpt": "千乘能以守者，自存也；萬乘能以戰者，自完也；雖桀為主，不肯詘半辭以下其敵。外不能",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#22-p01",
+    "anchor": {
+      "chapter": "定分第二十六",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "秦公只向公孫鞅提出如何令天下吏民一致知法用法的制度問題，尚未對人的樣態作出主張",
+    "excerpt": "公問於公孫鞅曰：「法令以當時立之者，明旦欲使天下之吏民，皆明知而用之如一而無私，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#22-p02",
+    "anchor": {
+      "chapter": "定分第二十六",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "公孫鞅在問答中逐項規定法令官吏、學習程式、問法、尺六寸符、左右券與封印保管，是可執行的行政程序",
+    "excerpt": "公孫鞅曰：為法令置官置吏樸足以知法令之謂，以為天下正者，則奏天子；天子名，則主法",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#22-p03",
+    "anchor": {
+      "chapter": "定分第二十六",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "主體是法令副本、禁室鍵印、三級法官與吏民問法的配置程序，末尾仍只收束法明必行所生的制度效果",
+    "excerpt": "法令皆副置：一副天子之殿中，為法令為禁室，有鍵鑰為禁而以封之，內藏法令，一副禁室",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#22-p04",
+    "anchor": {
+      "chapter": "定分第二十六",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以一兔百人逐、市貨無人盜對比名分未定與已定，明說連堯舜在名分未定時也會爭，而名分既定可使貪盜不取",
+    "excerpt": "法令者，民之命也，為治之本也，所以備民也。為治而去法令，猶欲無饑而去食也，欲無寒",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#22-p05",
+    "anchor": {
+      "chapter": "定分第二十六",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "II",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "明說微妙之言連上智也難、無繩墨而全正者千萬中僅一，且「民不盡智」「民不盡賢」，據人的能力差異主張法令須明白易知",
+    "excerpt": "夫微妙意志之言，上智之所難也。夫不待法令繩墨而無不正者，千萬之一也，故聖人以千萬",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#23-p01",
+    "anchor": {
+      "chapter": "徠民第十五",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "按山陵、藪澤、谿谷、都市、惡田、良田列出什一至什四的土地比例與作夫數，是土地配置表",
+    "excerpt": "地，方百里者：山陵處什一，藪澤處什一，谿谷流水處什一，都市蹊道處什一，惡田處什二",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#23-p02",
+    "anchor": {
+      "chapter": "徠民第十五",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "直言「意民之情，其所欲者，田宅也」，並以三晉無田宅、秦有餘來解釋人的安居與生計選擇",
+    "excerpt": "今秦之地，方千里者五，而穀土不能處什二，田數不滿百萬，其藪澤谿谷名山大川之材物貨",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#23-p03",
+    "anchor": {
+      "chapter": "徠民第十五",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "引述並反駁以爵復解釋秦晉強弱的官吏說法，結論落在秦能取地卻不能奪民的軍政成效，未另立人性判斷",
+    "excerpt": "臣竊以王吏之明為過見，此其所以弱。不奪三晉民者，愛爵而重復也。其說曰：「三晉之所",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#23-p04",
+    "anchor": {
+      "chapter": "徠民第十五",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "VIII",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "重申民所欲為田宅，並主張給其所欲、不使行其所惡即可招民西來，把生活欲求作為人口政策依據",
+    "excerpt": "今王發明惠，諸侯之士來歸義者，今使復之三世，無知軍事。秦四境之內，陵阪丘隰不起十",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#23-p05",
+    "anchor": {
+      "chapter": "徠民第十五",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "安排故秦兵作戰、新民供芻食，並按四季破壞敵國農作，是軍事與農政的策略鏈，沒有說人為何如此",
+    "excerpt": "夫秦之所患者，興兵而伐，則國家貧；安居而農，則敵得休息，此王所不能兩成也。故四世",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#23-p06",
+    "anchor": {
+      "chapter": "徠民第十五",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "東郭敞欲以萬金求封而不賙其徒，致其徒怒而離去，並明說「無益於愛也，故不如與之利也」，以情節論愛與利如何維繫人",
+    "excerpt": "周軍之勝，華軍之勝，秦斬首而東之。東之，無益亦明矣；而吏猶以為大功，為其損敵也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#24-p01",
+    "anchor": {
+      "chapter": "賞刑第十七",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "只總列壹賞、壹刑、壹教及其兵敵、令行、下聽的治理效果，是制度綱目，未另說人是什麼樣的",
+    "excerpt": "聖人之為國也：壹賞，壹刑，壹教。壹賞則兵無敵，壹刑則令行，壹教則下聽上。夫明賞不",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#24-p02",
+    "anchor": {
+      "chapter": "賞刑第十七",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VIII",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "按知愚、貴賤、勇怯、賢不肖分類，主張由兵事獨出爵祿可使各類人盡知竭力，並以湯武封賞史事承載此說",
+    "excerpt": "所謂壹賞者，利祿官爵，摶出於兵，無有異施也。夫固知愚，貴賤，勇怯，賢不肖，皆盡其",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#24-p03",
+    "anchor": {
+      "chapter": "賞刑第十七",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V",
+      "IV"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "顛頡受寵仍被刑使晉士皆懼，周公處罰管叔、霍叔則使天下相信連親昆仲也不例外，說明人因何信服無等級之刑",
+    "excerpt": "所謂壹刑者，刑無等級。自卿相將軍以至大夫庶人，有不從王令，犯國禁，亂上制者，罪死",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#24-p04",
+    "anchor": {
+      "chapter": "賞刑第十七",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "明說「民之欲富貴也，共闔棺而後止」，並描述富貴只出於戰時，民便以戰為日常努力與歌謠的中心",
+    "excerpt": "所謂壹教者，博聞辯慧，信廉禮樂，修行群黨，任譽清瘺，不可以富貴，不可以評刑，不可",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#24-p05",
+    "anchor": {
+      "chapter": "賞刑第十七",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "收束聖人舉要、按功授官、不赦過刑的治國原則，殺賞仁暴也只依國法界定，沒有另說人的樣態",
+    "excerpt": "此臣之所謂參教也。聖人惟能知萬物之要也，故其治國，舉要以致萬物。故寡教而多功。聖",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#25-p01",
+    "anchor": {
+      "chapter": "畫策第十八",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "XI",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以「事不同，皆王者，時異也」說制度須隨時代改變，並主張以戰、殺、刑消除其自身時可以採用",
+    "excerpt": "昔者昊英之世，以伐木殺獸，人民少而木獸多。黃帝之世，不麛不卵，官無供備之民，死不",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#25-p02",
+    "anchor": {
+      "chapter": "畫策第十八",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "IV"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "expression"
+    ],
+    "confidence": null,
+    "note": "把制民比作冶金陶土、人民見戰比作餓狼見肉，並寫父子、兄弟、夫妻以「不得，無返」彼此驅赴戰場，明說權力如何塑造群體及家人關係",
+    "excerpt": "昔之能制天下者，必先制其民者也；能勝彊敵者，必先勝其民者也。故勝民之本在制民，若",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#25-p03",
+    "anchor": {
+      "chapter": "畫策第十八",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "VII",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以「勢不能為姦，雖跖可信；勢得為姦，雖伯夷可疑」斷言人的善惡品性會隨處境而變",
+    "excerpt": "國之亂也，非其法亂也，非法不用也。國皆有法，而無使法必行之法。國皆有禁姦邪刑盜賊",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#25-p04",
+    "anchor": {
+      "chapter": "畫策第十八",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「重治／重亂」「重彊／重弱」只是四組國政與兵勢定義，民欲戰與否僅作分類條件，未另解釋人的性情或生活問題",
+    "excerpt": "國或重治，或重亂。明主在上，所舉必賢，則法可在賢；法可在賢，則法在下，不肖不敢為",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#25-p05",
+    "anchor": {
+      "chapter": "畫策第十八",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "V",
+      "IV"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "明說人主的德行、智慧與勇力並不過人而權威來自法，又以「治主無忠臣，慈父無孝子」斷言制度及父子關係如何影響德行",
+    "excerpt": "明主不濫富貴其臣。所謂富者，非粟米珠玉也；所謂貴者，非爵位官職也，廢法作私爵祿之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#25-p06",
+    "anchor": {
+      "chapter": "畫策第十八",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "II",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以「自恃」「自得」「自勝」作為得天下與勝強敵的前提，把內在自我掌握視為關鍵品性",
+    "excerpt": "所謂明者，無所不見，則群臣不敢為姦，百姓不敢為非。是以人主處匡床之上，聽絲竹之聲",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  },
+  {
+    "para_id": "shangjunshu#25-p07",
+    "anchor": {
+      "chapter": "畫策第十八",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "VII",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "界定仁義忠孝禮別及不苟食生的德目，並明說仁義不能使他人仁愛、不足以治天下，故聖王應貴法而不貴義",
+    "excerpt": "聖人知必然之理，必為之時勢；故為必治之政，戰必勇之民，行必聽之令。是以兵出而無敵",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:33:32+08:00"
+  }
+]

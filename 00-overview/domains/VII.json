@@ -2,9 +2,9 @@
   "domain": "VII",
   "name_zh": "善惡·良心·品格",
   "gist": "罪咎與贖罪、惡與殘忍與同理、誠實與虛偽、勇氣",
-  "generated_at": "2026-08-10T01:09:07+00:00",
-  "para_count": 802,
-  "book_count": 19,
+  "generated_at": "2026-08-10T01:34:46+00:00",
+  "para_count": 822,
+  "book_count": 20,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -4494,6 +4494,279 @@
       "co_domains": [
         "VIII",
         "IX"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "更法第一",
+      "para_index": 8,
+      "para_id": "shangjunshu#01-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孝公曰：「善。吾聞窮巷多怪，曲學多辨。愚者之笑，智者哀焉；狂夫之樂，賢者憂焉。拘",
+      "note": "以愚者與智者、狂夫與賢者相對，分別寫其笑、哀、樂、憂的品性與情緒反應",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "墾令第二",
+      "para_index": 11,
+      "para_id": "shangjunshu#02-p11",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "重刑而連其罪，則褊急之民不鬥，很剛之民不訟，怠惰之民不游，費資之民不作，巧諛惡心",
+      "note": "按褊急、很剛、怠惰、費資、巧諛惡心五種品性明確分類並合稱「五民」",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "農戰第三",
+      "para_index": 5,
+      "para_id": "shangjunshu#03-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今上論材能知慧而任之，則知慧之人希主好惡使官制物，以適主心。是以官無常，國亂而不",
+      "note": "一面說知慧者會揣摩主上好惡，一面明列詩書禮樂善修仁廉辯慧為妨害守戰之物",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "農戰第三",
+      "para_index": 6,
+      "para_id": "shangjunshu#03-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今為國者多無要。朝廷之言治也，紛紛焉務相易也。是以其君惛於說，其官亂於言，其民惰",
+      "note": "否定詩書與游食的價值，將一人耕而百人食者比作螟螣，並按職業選擇評斷其品性",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "去彊第四",
+      "para_index": 3,
+      "para_id": "shangjunshu#04-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "國有禮有樂，有詩有書，有善有修，有孝有弟，有廉有辯──國有十者，上無使戰，必削至",
+      "note": "明列禮樂詩書善修孝弟廉辯並主張有此十者必亡，直接否定一組德目與學問的價值",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "靳令第十三",
+      "para_index": 3,
+      "para_id": "shangjunshu#10-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "六蝨：曰禮樂，曰詩書，曰修善，曰孝弟，曰誠信，曰貞廉，曰仁義，曰非兵，曰羞戰。國",
+      "note": "把禮樂、修善、孝弟、誠信、貞廉、仁義等德目列為妨害農戰的六蝨，明確否定其品格價值",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "說民第五",
+      "para_index": 1,
+      "para_id": "shangjunshu#12-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "辯慧，亂之贊也；禮樂，淫佚之徵也；慈仁，過之母也；任譽，姦之鼠也。亂有贊則行，淫",
+      "note": "把辯慧、禮樂、慈仁與任譽分別說成亂、淫佚、過與姦的根源，明確否定這些德性的價值",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "算地第六",
+      "para_index": 2,
+      "para_id": "shangjunshu#13-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今世主有地方數千里，食不足以待役實倉，而兵為鄰敵臣，故為世主患之。夫地大而不墾者",
+      "note": "以「夫民之情」明說樸會生勞而易力、窮會生知而權利，斷言處境能塑造人的品性與取向",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "算地第六",
+      "para_index": 6,
+      "para_id": "shangjunshu#13-p06",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "民之性，度而取長，稱而取重，權而索利。明君慎觀三者，則國治可立，而民能可得。國之",
+      "note": "以「民之性」斷言人會度長、稱重、權衡而求利，並用這種逐利取向作為立法依據",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "算地第六",
+      "para_index": 7,
+      "para_id": "shangjunshu#13-p07",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫刑者所以禁邪也；而賞者，所以助禁也。羞辱勞苦者，民之所惡也；顯榮佚樂者，民之所",
+      "note": "明說人民厭惡羞辱勞苦、追求顯榮佚樂，並論刑人居位如何使君子退位、小人冀利",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "開塞第七",
+      "para_index": 3,
+      "para_id": "shangjunshu#14-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古之民樸以厚，今之民巧以偽。故效於古者，先德而治；效於今者，前刑而法；此世之所惑",
+      "note": "斷言古民樸厚、今民巧偽，又以憂樂改變思佚來重定義義與暴，兼論品性及其古今變化",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "開塞第七",
+      "para_index": 4,
+      "para_id": "shangjunshu#14-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "治國刑多而賞少，亂國賞多而刑少。故王者刑九而賞一，削國賞九而刑一。夫過有厚薄，則",
+      "note": "除賞刑配置外，末尾明言刑與德相反而義與暴相合，對德與義的價值關係作出直接主張",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "君臣第二十三",
+      "para_index": 2,
+      "para_id": "shangjunshu#19-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今世君不然。釋法而以知，背功而以譽。故軍士不戰，而農民流徙。臣聞道民之門，在上所",
+      "note": "以「民之於利也，若水於下也，四旁無擇也」斷言民趨利無所選擇，並說上位者給利之途會改變民的群體行向",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "禁使第二十四",
+      "para_index": 1,
+      "para_id": "shangjunshu#20-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人主之所以禁使者，賞罰也。賞隨功，罰隨罪，故論功察罪，不可不審也。夫賞高罰下，而",
+      "note": "以「其勢難匿者，雖跖不為非焉」主張處境使作惡無法隱匿時，連盜跖也不作非，明指品行受勢所制",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "慎法第二十五",
+      "para_index": 2,
+      "para_id": "shangjunshu#21-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故有明主忠臣產於今世，而能領其國者，不可以須臾忘於法。破勝黨任，節去言談，任法而",
+      "note": "主張依法以數相舉能使相譽相訾不能益損，因而「愛人者不阿，憎人者不害」，說明制度如何約束愛憎中的品行",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "定分第二十六",
+      "para_index": 4,
+      "para_id": "shangjunshu#22-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "法令者，民之命也，為治之本也，所以備民也。為治而去法令，猶欲無饑而去食也，欲無寒",
+      "note": "以一兔百人逐、市貨無人盜對比名分未定與已定，明說連堯舜在名分未定時也會爭，而名分既定可使貪盜不取",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "徠民第十五",
+      "para_index": 6,
+      "para_id": "shangjunshu#23-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "周軍之勝，華軍之勝，秦斬首而東之。東之，無益亦明矣；而吏猶以為大功，為其損敵也。",
+      "note": "東郭敞欲以萬金求封而不賙其徒，致其徒怒而離去，並明說「無益於愛也，故不如與之利也」，以情節論愛與利如何維繫人",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "畫策第十八",
+      "para_index": 3,
+      "para_id": "shangjunshu#25-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "國之亂也，非其法亂也，非法不用也。國皆有法，而無使法必行之法。國皆有禁姦邪刑盜賊",
+      "note": "以「勢不能為姦，雖跖可信；勢得為姦，雖伯夷可疑」斷言人的善惡品性會隨處境而變",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "畫策第十八",
+      "para_index": 6,
+      "para_id": "shangjunshu#25-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "所謂明者，無所不見，則群臣不敢為姦，百姓不敢為非。是以人主處匡床之上，聽絲竹之聲",
+      "note": "以「自恃」「自得」「自勝」作為得天下與勝強敵的前提，把內在自我掌握視為關鍵品性",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "畫策第十八",
+      "para_index": 7,
+      "para_id": "shangjunshu#25-p07",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "聖人知必然之理，必為之時勢；故為必治之政，戰必勇之民，行必聽之令。是以兵出而無敵",
+      "note": "界定仁義忠孝禮別及不苟食生的德目，並明說仁義不能使他人仁愛、不足以治天下，故聖王應貴法而不貴義",
+      "co_domains": [
+        "V"
       ]
     },
     {
