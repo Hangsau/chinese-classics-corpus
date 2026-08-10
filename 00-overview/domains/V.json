@@ -2,9 +2,9 @@
   "domain": "V",
   "name_zh": "群體·社會·公義",
   "gist": "孤獨與歸屬、友誼、我群他群與偏見、公義與權力、責任與領導",
-  "generated_at": "2026-08-10T00:24:17+00:00",
-  "para_count": 1223,
-  "book_count": 20,
+  "generated_at": "2026-08-10T01:09:07+00:00",
+  "para_count": 1250,
+  "book_count": 22,
   "surveyed_zero_hit": [
     "haidao-suanjing",
     "jinkui-yaolue",
@@ -490,6 +490,47 @@
       ],
       "excerpt": "皇曰：天師俌相五正，百官、士子、農夫、啇人、工技，鹹順我言，終身於休。",
       "note": "要求各級官民工職順從政令，並以終身安樂作為遵行的結果",
+      "co_domains": []
+    },
+    {
+      "slug": "jian-zhu-ke-shu",
+      "chapter": "諫逐客書",
+      "para_index": 2,
+      "para_id": "jian-zhu-ke-shu#01-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "臣聞吏議逐客，竊以為過矣。昔穆公[3]求士，西取由余[4]於戎，東得百里奚[5]",
+      "note": "列舉四君任用不產於秦之客而富國強秦，並以「客何負於秦」「疏士而不用」主張出身不應遮蔽士人的功用",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "jian-zhu-ke-shu",
+      "chapter": "諫逐客書",
+      "para_index": 3,
+      "para_id": "jian-zhu-ke-shu#01-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今陛下致崑山之玉[24]，有隨、和之寶[25]，垂明月[26]之珠，服太阿[27",
+      "note": "以取異國物樂卻逐異國之人作對比，明說取人「不問可否，不論曲直」且「所輕者在乎人民」，指出按出身取人的雙重標準",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "jian-zhu-ke-shu",
+      "chapter": "諫逐客書",
+      "para_index": 4,
+      "para_id": "jian-zhu-ke-shu#01-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "臣聞地廣者粟多，國大者人衆，兵疆者則士勇；是以泰山不讓土壤，故能成其大；河海不擇",
+      "note": "以泰山河海不拒土壤細流譬喻王者不卻眾庶，立「地無四方，民無異國」之原則，並論逐客反會資敵自危",
       "co_domains": []
     },
     {
@@ -5594,6 +5635,319 @@
       "note": "以貪財、恃強奪取老弱、畏眾欺單界定饕餮之惡，兼涉貪婪品格與強凌弱的不公",
       "co_domains": [
         "VII"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "威德",
+      "para_index": 1,
+      "para_id": "shenzi#01-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天有明，不憂人之暗也；〈○原刻脫「也」字，依《治要》補。下句同。〉地有財，不憂人",
+      "note": "以「聖人處上，能無害人，不能使人無己害」及天下為受而非取，說明統治者與百姓之間的權力與責任關係。",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "威德",
+      "para_index": 2,
+      "para_id": "shenzi#01-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "毛嬙、西施，〈○《文選‧神女賦》注、《四子講德論》注引此文，並作「先」。按︰二字",
+      "note": "明說賢者可能因權輕而屈、不肖者可能因位尊而使人服從，指出賢不賢的身分評價與實際權勢之間的落差。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "威德",
+      "para_index": 4,
+      "para_id": "shenzi#01-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古者立天子而貴之者，〈○原刻脫「之」字，依《治要》補，與《御覽》七十六引此文合。",
+      "note": "反覆主張天子、國君與官長之位皆為天下、國與官而立，不是以群體供一人之利。",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "威德",
+      "para_index": 5,
+      "para_id": "shenzi#01-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫投鉤以分財，投策以分馬，非鉤、策爲均也。〈○《御覽》四百二十九引此文，「非」下",
+      "note": "以投鉤投策使得美者無所德、得惡者無所怨，說明公器如何排除私意、平息怨望，並規定賞財行德皆應由法禮。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "民雜",
+      "para_index": 1,
+      "para_id": "shenzi#03-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "民雜處而各有所能，所能者不同，〈○原刻「所能」二字不重，依《治要》補。〉此民之情",
+      "note": "明說民眾各有所能且能力不同是「民之情」，並主張居上者應因各人之能而兼容任用。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "民雜",
+      "para_index": 2,
+      "para_id": "shenzi#03-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "君臣之道：臣事事，〈○原刻作「有事」，依《治要》改。《治要》又有注云︰「言事其所",
+      "note": "指出君若親自爭先為善，臣下便不敢爭先且會藏匿所知，說明權力結構如何改變臣下的任事行為。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "民雜",
+      "para_index": 3,
+      "para_id": "shenzi#03-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "君之智，未必最賢於衆也，以未最賢而欲以善盡被下，〈○原刻「欲」下脫「以」字，依《",
+      "note": "指出君主未必比眾人最賢，即使最賢也會因一人包辦而勞倦衰退，說明領導者的才智與任事限度。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "民雜",
+      "para_index": 4,
+      "para_id": "shenzi#03-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "是以人君自任而躬事，則臣不事事，是君臣易位也，謂之倒逆，倒逆則亂矣。人君苟任臣而",
+      "note": "主張君主親自任事會使臣下不任事，任臣而不親躬則臣皆任事，並要求辨察這種君臣互動。",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "知忠〈此篇原刻全脫，依《治要》補。〉",
+      "para_index": 1,
+      "para_id": "shenzi#04-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "亂世之中，亡國之臣，非獨無忠臣也；治國之中，顯君之臣，非獨能盡忠也。治國之人，忠",
+      "note": "以「忠未足以救亂世」及「忠盈天下，害及其國」重估忠的價值，並把治亂歸於眾人任職而非一人的忠或罪。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "德立",
+      "para_index": 1,
+      "para_id": "shenzi#05-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "立天子者，不使諸侯疑焉；〈○原刻脫「者」字、「焉」字，依《治要》補。下三句並同。",
+      "note": "以「兩則爭，雜則相傷」說明並立會引發爭害，並分別落實於臣位的國家關係與嫡庶的家庭繼承。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "君人",
+      "para_index": 1,
+      "para_id": "shenzi#06-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "君人者，舍法而以身治，則誅賞予奪，從君心出矣。〈○原刻脫「矣」字，依《治要》補。",
+      "note": "指出受賞者望多、受罰者望輕以及同功異賞會生怨，並主張以法定分來去私塞怨、使上下和。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 3,
+      "para_id": "shenzi#08-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "諺云：不聰不明，不能爲王；不瞽不聾，不能爲公。海與山爭水，海必得之。〈○《意林》",
+      "note": "把能否為王公同聰明或瞽聾直接相聯，是對居權位者應如何處事的主張",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 5,
+      "para_id": "shenzi#08-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "法之功，莫大使私不行；君之功，莫大使民不爭。今立法而行私，是私與法爭，其亂甚於無",
+      "note": "明說私與法爭、賢與君爭都會致亂，主張群體秩序須由君與法排除私人競逐",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 8,
+      "para_id": "shenzi#08-p08",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "有虞之誅，以幪巾當墨，〈○《書鈔》四十四引作「畫跪當黥」。〉以草纓當劓，以菲履當",
+      "note": "以象徵性之戮能使上世民不犯、重刑反使當世民不從作對比，直接斷言不同時代民眾對刑戮的反應",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 21,
+      "para_id": "shenzi#08-p21",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "一兔走街，百人追之，貪人具存，人莫之非者，以兔爲未定分也。積兔滿市，過而不顧，非",
+      "note": "以未定分之兔眾人競逐、定分後雖鄙不爭，直接解釋產權名分如何引發或止息群體爭奪",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 23,
+      "para_id": "shenzi#08-p23",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "勁而害能，則亂也；云能而害無能，則亂也。〈○《荀子‧非十二子篇》注。〉",
+      "note": "明說「勁而害能」與「云能而害無能」都會致亂，把不同能力者相害視為群體失序的原因",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 24,
+      "para_id": "shenzi#08-p24",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "弃道術，舍度量，以求一人之識識天下，誰子之識能足焉？〈○《荀子‧王霸篇》注。〉",
+      "note": "反問以一人之識識天下誰能足，直接斷言治理不能只倚賴單一人的認知能力",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 34,
+      "para_id": "shenzi#08-p34",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "昔周室之衰也，厲王擾亂天下，諸侯力政，人欲獨行以相兼。〈○《文選》東方朔《答客難",
+      "note": "在周室衰亂背景中明說人欲獨行以相兼，描述失序下人群彼此兼併的傾向",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 37,
+      "para_id": "shenzi#08-p37",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "兩貴不相事，兩賤不相使。〈○《意林》。〉",
+      "note": "斷言同貴者不相事、同賤者不相使，直接說明地位對人際支配關係的限制",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 39,
+      "para_id": "shenzi#08-p39",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "藏甲之國，必有兵遁，市人可驅而戰；安國之兵，不由忿起。〈○《意林》。〉",
+      "note": "明說市人可被驅使而戰、安國之兵不由忿起，主張戰爭動員取決於群體秩序而非個人憤怒",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 44,
+      "para_id": "shenzi#08-p44",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "桀、紂之有天下也，四海之內皆亂，關龍逢、王子比干不與焉，而謂之皆亂，其亂者衆也。",
+      "note": "以亂世中有不亂者、治世中有不治者說明天下治亂依多數而定，直接處理群體評價與個別例外",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 46,
+      "para_id": "shenzi#08-p46",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "王者，有易政而無易國，有易君而無易民。湯、武非得伯夷之民以治，桀、紂非得蹠、蹻之",
+      "note": "明說可改的是政與君而非國與民，人民治亂繫於上與政，將社會改變的根源置於政治條件",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 51,
+      "para_id": "shenzi#08-p51",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "法非從天下，非從地出，發於人間，合乎人心而已。治水者，茨防決塞，九州四海，〈○按",
+      "note": "明說法發於人間且合乎人心，並主張治水學水不學禹，將公共法度奠基於人心與可循的共同規律",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 60,
+      "para_id": "shenzi#08-p60",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "周成王問鬻子曰：「寡人聞聖人在上位，使民富且壽。若夫富，則可爲也；若夫壽，則在天",
+      "note": "藉成王與鬻子問答把壽命由天命轉為無戰、無飢、無刑殺與節用等政治條件，主張民壽可以由治理改變",
+      "co_domains": [
+        "XI"
       ]
     },
     {

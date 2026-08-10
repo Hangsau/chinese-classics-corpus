@@ -2,13 +2,14 @@
   "domain": "I",
   "name_zh": "存在與意義",
   "gist": "我為何在此、活著有沒有意義、與想不通的問題共處、在歷史洪流中的渺小",
-  "generated_at": "2026-08-10T00:24:17+00:00",
-  "para_count": 17,
-  "book_count": 6,
+  "generated_at": "2026-08-10T01:09:07+00:00",
+  "para_count": 18,
+  "book_count": 7,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
     "haidao-suanjing",
+    "jian-zhu-ke-shu",
     "jijiupian",
     "jinkui-yaolue",
     "jiuzhang-suanshu",
@@ -136,6 +137,20 @@
       "note": "作者慨嘆世人逐名利而輕忽養生，並以患病後束手失命反問生命所本，兼論人生取向與人在疾病中的身體處境",
       "co_domains": [
         "IX"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 58,
+      "para_id": "shenzi#08-p58",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "始吾未生之時，焉知生之爲樂也？今吾未死，又焉知死之爲不樂也？故生不足以使之，利何",
+      "note": "從未知生樂死不樂出發，主張明死生之分便不受利害恐動，甚至可捨生以成仁，直接處理死亡與生命意義",
+      "co_domains": [
+        "X"
       ]
     },
     {

@@ -1,0 +1,33 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {
+      "chapter": "諫逐客書",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只交代鄭國來間秦而事覺、宗室請一切逐客及李斯亦在逐中的事件經過"
+    },
+    {
+      "chapter": "諫逐客書",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "列舉四君任用不產於秦之客而富國強秦，並以「客何負於秦」「疏士而不用」主張出身不應遮蔽士人的功用"
+    },
+    {
+      "chapter": "諫逐客書",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "以取異國物樂卻逐異國之人作對比，明說取人「不問可否，不論曲直」且「所輕者在乎人民」，指出按出身取人的雙重標準"
+    },
+    {
+      "chapter": "諫逐客書",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "以泰山河海不拒土壤細流譬喻王者不卻眾庶，立「地無四方，民無異國」之原則，並論逐客反會資敵自危"
+    }
+  ]
+}

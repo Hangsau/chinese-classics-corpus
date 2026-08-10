@@ -1,17 +1,17 @@
 # XIII 安頓·修復·平安
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 61 段命中｜跨 9 部｜生成時間 2026-08-10T00:24:17+00:00
+> 64 段命中｜跨 10 部｜生成時間 2026-08-10T01:09:07+00:00
 
 靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈
 
-姿態分佈：`narrative` 35、`proposition` 24、`expression` 24、`prescription` 10、`observation` 9、`ritual` 6、`formalization` 1
+姿態分佈：`narrative` 35、`proposition` 27、`expression` 24、`prescription` 10、`observation` 9、`ritual` 6、`formalization` 1
 
 ## 已通讀但本領域零命中
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`qianfulun`（潛夫論）　`shanghanlun`（傷寒論）　`shenyijing`（神異經）　`shuowen-jiezi`（說文解字）　`sima-fa`（司馬法）　`sunzi-bingfa`（孫子兵法）　`weiliaozi`（尉繚子）　`wuzi`（吳子）
+`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`qianfulun`（潛夫論）　`shanghanlun`（傷寒論）　`shenyijing`（神異經）　`shuowen-jiezi`（說文解字）　`sima-fa`（司馬法）　`sunzi-bingfa`（孫子兵法）　`weiliaozi`（尉繚子）　`wuzi`（吳子）
 
 ## 世說新語（人論）　25 段
 
@@ -85,6 +85,14 @@
 | 釋喪制第二十七 | 41 | `observation` `ritual` | 期而小祥亦祭名也孝子除首絰服練冠也祥善也加小善之飾也 | ＋X 以一周年小祥除首絰、改服練冠，呈現服喪者逐步恢復常態 |
 | 釋喪制第二十七 | 42 | `observation` `ritual` | 又期而大祥亦祭名也孝子除縗服服朝服縞冠如大善之飾也 | ＋X 再一周年大祥除縗改朝服，以儀節推進失去後的復常 |
 | 釋喪制第二十七 | 43 | `observation` `ritual` | 間月而禫亦祭名也孝子之意澹然衰思益衰也 | ＋VI 說禫祭時孝子心意轉淡而哀思更衰，直接觀察悲傷隨時序減弱 |
+
+## 慎子（法家）　3 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| 愼子逸文 | 28 | `proposition` | 夫德，精微而不見，聰明而不發，是故外物不累其內。〈○《文選》沈休文《遊沈道士館詩 | 把德之精微不發同外物不累其內相連，主張內在不為外物牽累的安頓狀態 |
+| 愼子逸文 | 52 | `proposition` | 古之全大體者，望天地，觀江海，因山谷，日月所照，四時所行，雲布風動；不以智累心， | ＋VII 主張不以智私累心己、依道法自然且把榮辱之責歸己，並以心無結怨、福久於安描寫內在安頓與自持 |
+| 愼子逸文 | 59 | `proposition` | 鳥飛於空，魚游於淵，非術也。故爲鳥、爲魚者，亦不自知其能飛、能游。苟知之，立心以 | ＋XI 以鳥魚與人手足耳目的自然作用說明刻意立心反致墮溺疲憊，主張任自然、得其常才能久而濟 |
 
 ## 鹽鐵論（雜史）　3 段
 

@@ -1,0 +1,170 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {
+      "chapter": "威德",
+      "para_index": 1,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "以「聖人處上，能無害人，不能使人無己害」及天下為受而非取，說明統治者與百姓之間的權力與責任關係。"
+    },
+    {
+      "chapter": "威德",
+      "para_index": 2,
+      "domains": [
+        "V",
+        "II"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "明說賢者可能因權輕而屈、不肖者可能因位尊而使人服從，指出賢不賢的身分評價與實際權勢之間的落差。"
+    },
+    {
+      "chapter": "威德",
+      "para_index": 3,
+      "domains": [
+        "VIII",
+        "XI"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "以「百工之子不學而能者，非生巧也，言有常事也」斷言職業能力並非天生，而由長期固定從事一事形成。"
+    },
+    {
+      "chapter": "威德",
+      "para_index": 4,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "反覆主張天子、國君與官長之位皆為天下、國與官而立，不是以群體供一人之利。"
+    },
+    {
+      "chapter": "威德",
+      "para_index": 5,
+      "domains": [
+        "V",
+        "VI"
+      ],
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "reason": "以投鉤投策使得美者無所德、得惡者無所怨，說明公器如何排除私意、平息怨望，並規定賞財行德皆應由法禮。"
+    },
+    {
+      "chapter": "因循",
+      "para_index": 1,
+      "domains": [
+        "VII",
+        "VIII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "明說「人莫不自爲也」，並據此主張用人之自為而不用人之為我，是對人性及用人方式的直接斷言。"
+    },
+    {
+      "chapter": "民雜",
+      "para_index": 1,
+      "domains": [
+        "VIII",
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "明說民眾各有所能且能力不同是「民之情」，並主張居上者應因各人之能而兼容任用。"
+    },
+    {
+      "chapter": "民雜",
+      "para_index": 2,
+      "domains": [
+        "V",
+        "VIII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "指出君若親自爭先為善，臣下便不敢爭先且會藏匿所知，說明權力結構如何改變臣下的任事行為。"
+    },
+    {
+      "chapter": "民雜",
+      "para_index": 3,
+      "domains": [
+        "V",
+        "VIII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "指出君主未必比眾人最賢，即使最賢也會因一人包辦而勞倦衰退，說明領導者的才智與任事限度。"
+    },
+    {
+      "chapter": "民雜",
+      "para_index": 4,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "reason": "主張君主親自任事會使臣下不任事，任臣而不親躬則臣皆任事，並要求辨察這種君臣互動。"
+    },
+    {
+      "chapter": "知忠〈此篇原刻全脫，依《治要》補。〉",
+      "para_index": 1,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "以「忠未足以救亂世」及「忠盈天下，害及其國」重估忠的價值，並把治亂歸於眾人任職而非一人的忠或罪。"
+    },
+    {
+      "chapter": "德立",
+      "para_index": 1,
+      "domains": [
+        "V",
+        "IV"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "以「兩則爭，雜則相傷」說明並立會引發爭害，並分別落實於臣位的國家關係與嫡庶的家庭繼承。"
+    },
+    {
+      "chapter": "君人",
+      "para_index": 1,
+      "domains": [
+        "V",
+        "VI"
+      ],
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "reason": "指出受賞者望多、受罰者望輕以及同功異賞會生怨，並主張以法定分來去私塞怨、使上下和。"
+    },
+    {
+      "chapter": "君臣〈此篇原刻全脫，依《治要》補。〉",
+      "para_index": 1,
+      "domains": [],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "通篇規定人君據法倚數、官不私親與法不遺愛，只給施政操作原則，未說人是什麼樣的。"
+    }
+  ]
+}

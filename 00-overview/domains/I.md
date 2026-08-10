@@ -1,17 +1,17 @@
 # I 存在與意義
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 17 段命中｜跨 6 部｜生成時間 2026-08-10T00:24:17+00:00
+> 18 段命中｜跨 7 部｜生成時間 2026-08-10T01:09:07+00:00
 
 我為何在此、活著有沒有意義、與想不通的問題共處、在歷史洪流中的渺小
 
-姿態分佈：`proposition` 13、`narrative` 9、`expression` 6、`formalization` 1
+姿態分佈：`proposition` 14、`narrative` 9、`expression` 6、`formalization` 1
 
 ## 已通讀但本領域零命中
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`dongmingji`（洞冥記）　`fangyan`（方言）　`haidao-suanjing`（海島算經）　`jijiupian`（急就篇）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`lienuzhuan`（列女傳）　`liutao`（六韜）　`nanjing`（難經）　`renwuzhi`（人物志）　`shenyijing`（神異經）　`shiming`（釋名）　`shuowen-jiezi`（說文解字）　`sima-fa`（司馬法）　`sunzi-bingfa`（孫子兵法）　`weiliaozi`（尉繚子）　`wuzi`（吳子）　`yanshi-jiaxun`（顏氏家訓）
+`dongmingji`（洞冥記）　`fangyan`（方言）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jijiupian`（急就篇）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`lienuzhuan`（列女傳）　`liutao`（六韜）　`nanjing`（難經）　`renwuzhi`（人物志）　`shenyijing`（神異經）　`shiming`（釋名）　`shuowen-jiezi`（說文解字）　`sima-fa`（司馬法）　`sunzi-bingfa`（孫子兵法）　`weiliaozi`（尉繚子）　`wuzi`（吳子）　`yanshi-jiaxun`（顏氏家訓）
 
 ## 世說新語（人論）　8 段
 
@@ -53,6 +53,12 @@
 | 篇 | 段 | 姿態 | 摘句 | 判讀 |
 |---|---|---|---|---|
 | 張仲景原序 | 1 | `expression` `proposition` | 論曰：余每覽越人入虢之診，望齊侯之色，未嘗不慨然嘆其才秀也。怪當今居世之士，曾不 | ＋IX 作者慨嘆世人逐名利而輕忽養生，並以患病後束手失命反問生命所本，兼論人生取向與人在疾病中的身體處境 |
+
+## 慎子（法家）　1 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| 愼子逸文 | 58 | `proposition` | 始吾未生之時，焉知生之爲樂也？今吾未死，又焉知死之爲不樂也？故生不足以使之，利何 | ＋X 從未知生樂死不樂出發，主張明死生之分便不受利害恐動，甚至可捨生以成仁，直接處理死亡與生命意義 |
 
 ## 鹽鐵論（雜史）　1 段
 

@@ -2,14 +2,15 @@
   "domain": "XI",
   "name_zh": "自由·命運·改變",
   "gist": "自由意志與命運、選擇與代價、改變與重來",
-  "generated_at": "2026-08-10T00:24:17+00:00",
-  "para_count": 158,
-  "book_count": 12,
+  "generated_at": "2026-08-10T01:09:07+00:00",
+  "para_count": 163,
+  "book_count": 13,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
     "gu-sanfen",
     "haidao-suanjing",
+    "jian-zhu-ke-shu",
     "jijiupian",
     "jinkui-yaolue",
     "jiuzhang-suanshu",
@@ -455,6 +456,75 @@
       "excerpt": "《軍讖》曰：「能柔能剛，其國彌光；能弱能強，其國彌彰。純柔純弱，其國必削；純剛純",
       "note": "以能在柔剛弱強之間調節則國彰、偏守一端則國削亡，主張因勢改變而非固著一端",
       "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "威德",
+      "para_index": 3,
+      "para_id": "shenzi#01-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古者工不兼事，士不兼官。工不兼事，則事省；事省，則易勝。〈○原刻脫此句。「事」字",
+      "note": "以「百工之子不學而能者，非生巧也，言有常事也」斷言職業能力並非天生，而由長期固定從事一事形成。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 10,
+      "para_id": "shenzi#08-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "離朱之明，察秋毫之末於百步之外；下於水尺，而不能見淺深。非目不明也，其勢難覩也。",
+      "note": "離朱目明仍因水勢難覩淺深，明說能力受所處情勢限制而非本人不明",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 46,
+      "para_id": "shenzi#08-p46",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "王者，有易政而無易國，有易君而無易民。湯、武非得伯夷之民以治，桀、紂非得蹠、蹻之",
+      "note": "明說可改的是政與君而非國與民，人民治亂繫於上與政，將社會改變的根源置於政治條件",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 59,
+      "para_id": "shenzi#08-p59",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "鳥飛於空，魚游於淵，非術也。故爲鳥、爲魚者，亦不自知其能飛、能游。苟知之，立心以",
+      "note": "以鳥魚與人手足耳目的自然作用說明刻意立心反致墮溺疲憊，主張任自然、得其常才能久而濟",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 60,
+      "para_id": "shenzi#08-p60",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "周成王問鬻子曰：「寡人聞聖人在上位，使民富且壽。若夫富，則可爲也；若夫壽，則在天",
+      "note": "藉成王與鬻子問答把壽命由天命轉為無戰、無飢、無刑殺與節用等政治條件，主張民壽可以由治理改變",
+      "co_domains": [
+        "V"
+      ]
     },
     {
       "slug": "shiming",

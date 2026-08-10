@@ -2,14 +2,15 @@
   "domain": "IX",
   "name_zh": "苦難·疾病·身體",
   "gist": "疾病與身體、受苦的意義、照顧與被照顧",
-  "generated_at": "2026-08-10T00:24:17+00:00",
-  "para_count": 78,
-  "book_count": 12,
+  "generated_at": "2026-08-10T01:09:07+00:00",
+  "para_count": 79,
+  "book_count": 13,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
     "gu-sanfen",
     "haidao-suanjing",
+    "jian-zhu-ke-shu",
     "jiuzhang-suanshu",
     "liutao",
     "nanjing",
@@ -341,6 +342,19 @@
         "VIII",
         "VII"
       ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 47,
+      "para_id": "shenzi#08-p47",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "《夏箴》曰：「小人無兼年之食，遇天饑，妻子非其有也；大夫無兼年之食，遇天饑，臣妾",
+      "note": "以天饑時無兼年之食將失妻子或臣妾輿馬作告誡，直接處理饑荒造成的生存困境與失去",
+      "co_domains": []
     },
     {
       "slug": "shiming",

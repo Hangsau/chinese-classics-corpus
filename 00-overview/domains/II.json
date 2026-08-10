@@ -2,13 +2,14 @@
   "domain": "II",
   "name_zh": "自我與認同",
   "gist": "我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我",
-  "generated_at": "2026-08-10T00:24:17+00:00",
-  "para_count": 358,
-  "book_count": 15,
+  "generated_at": "2026-08-10T01:09:07+00:00",
+  "para_count": 363,
+  "book_count": 16,
   "surveyed_zero_hit": [
     "fangyan",
     "gu-sanfen",
     "haidao-suanjing",
+    "jian-zhu-ke-shu",
     "jinkui-yaolue",
     "jiuzhang-suanshu",
     "nanjing",
@@ -1211,6 +1212,68 @@
       ],
       "excerpt": "孔子云：生而知之者上，學則亞之。多聞博識，知之次也。余素尚方術，請事斯語。",
       "note": "引孔子的知學階序後自陳素尚方術並願依此而行，是作者對自身學習位置與認同的表明",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "威德",
+      "para_index": 2,
+      "para_id": "shenzi#01-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "毛嬙、西施，〈○《文選‧神女賦》注、《四子講德論》注引此文，並作「先」。按︰二字",
+      "note": "明說賢者可能因權輕而屈、不肖者可能因位尊而使人服從，指出賢不賢的身分評價與實際權勢之間的落差。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 29,
+      "para_id": "shenzi#08-p29",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫道，所以使賢無奈不肖何也，所以使智無奈愚何也。若此，則謂之道勝矣。〈○《文選》",
+      "note": "說道能使賢者無奈不肖、智者無奈愚者，主張賢不肖與智愚的身分優劣不能轉成支配",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 30,
+      "para_id": "shenzi#08-p30",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "道勝，則名不彰。〈○《文選》張景陽《雜詩》注。〉",
+      "note": "明說「道勝」時個人之名不彰，是對名聲與實際秩序關係的直接主張",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 33,
+      "para_id": "shenzi#08-p33",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "久處無過之地，則世俗聽矣。〈○《文選》吳季重《答魏太子牋》注。〉",
+      "note": "明說久處無過之地便能使世俗聽從，把他人認可繫於長期無過的社會評價",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 55,
+      "para_id": "shenzi#08-p55",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "不肖者不自謂不肖也，而不肖見於行，雖自謂賢，人猶謂之不肖也；愚者不自謂愚也，而愚",
+      "note": "不肖與愚者自認賢智仍由行言顯露並被他人判為不肖愚，直接處理自我評價與他人評價的落差",
       "co_domains": []
     },
     {

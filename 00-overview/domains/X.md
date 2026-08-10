@@ -1,17 +1,17 @@
 # X 無常·老·死·失去
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 174 段命中｜跨 11 部｜生成時間 2026-08-10T00:24:17+00:00
+> 175 段命中｜跨 12 部｜生成時間 2026-08-10T01:09:07+00:00
 
 老與時間、失去與哀傷、死亡、耐心與等待
 
-姿態分佈：`narrative` 95、`proposition` 55、`expression` 48、`observation` 44、`prescription` 26、`ritual` 19、`formalization` 3
+姿態分佈：`narrative` 95、`proposition` 56、`expression` 48、`observation` 44、`prescription` 26、`ritual` 19、`formalization` 3
 
 ## 已通讀但本領域零命中
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jijiupian`（急就篇）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`san-lue`（三略）　`shenyijing`（神異經）　`sima-fa`（司馬法）　`weiliaozi`（尉繚子）　`wuzi`（吳子）
+`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jijiupian`（急就篇）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`san-lue`（三略）　`shenyijing`（神異經）　`sima-fa`（司馬法）　`weiliaozi`（尉繚子）　`wuzi`（吳子）
 
 ## 世說新語（人論）　70 段
 
@@ -241,3 +241,9 @@
 | 篇 | 段 | 姿態 | 摘句 | 判讀 |
 |---|---|---|---|---|
 | 效難 | 7 | `proposition` | 何謂無由得效之難？上材已莫知，或所識在幼賤之中，未達而喪；或所識者，未拔而先沒； | ＋V／VIII 懷才不遇。X 取「未達而喪」「未拔而先沒」。 |
+
+## 慎子（法家）　1 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| 愼子逸文 | 58 | `proposition` | 始吾未生之時，焉知生之爲樂也？今吾未死，又焉知死之爲不樂也？故生不足以使之，利何 | ＋I 從未知生樂死不樂出發，主張明死生之分便不受利害恐動，甚至可捨生以成仁，直接處理死亡與生命意義 |

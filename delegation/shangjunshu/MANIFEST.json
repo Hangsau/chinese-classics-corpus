@@ -1,0 +1,278 @@
+{
+  "slug": "shangjunshu",
+  "batches": [
+    {
+      "file": "b01.md",
+      "chapters": [
+        {
+          "chapter": "更法第一",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "chapter": "墾令第二",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "chapter": "農戰第三",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "chapter": "去彊第四",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "chapter": "壹言第八",
+          "para_indexes": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "chapter": "錯法第九",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "chapter": "戰法第十",
+          "para_indexes": [
+            1,
+            2
+          ]
+        },
+        {
+          "chapter": "立本第十一",
+          "para_indexes": [
+            1
+          ]
+        },
+        {
+          "chapter": "兵守第十二",
+          "para_indexes": [
+            1,
+            2
+          ]
+        }
+      ],
+      "paras": 55,
+      "chars": 7868
+    },
+    {
+      "file": "b02.md",
+      "chapters": [
+        {
+          "chapter": "靳令第十三",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "chapter": "修權第十四",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "chapter": "說民第五",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "chapter": "算地第六",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "chapter": "開塞第七",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "chapter": "境內第十九",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "chapter": "弱民第二十",
+          "para_indexes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "paras": 36,
+      "chars": 7989
+    },
+    {
+      "file": "b03.md",
+      "chapters": [
+        {
+          "chapter": "外內第二十二",
+          "para_indexes": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "chapter": "君臣第二十三",
+          "para_indexes": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "chapter": "禁使第二十四",
+          "para_indexes": [
+            1,
+            2
+          ]
+        },
+        {
+          "chapter": "慎法第二十五",
+          "para_indexes": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "chapter": "定分第二十六",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "chapter": "徠民第十五",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "chapter": "賞刑第十七",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ],
+      "paras": 27,
+      "chars": 6650
+    },
+    {
+      "file": "b04.md",
+      "chapters": [
+        {
+          "chapter": "畫策第十八",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ],
+      "paras": 7,
+      "chars": 1677
+    }
+  ]
+}

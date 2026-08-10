@@ -2,14 +2,15 @@
   "domain": "VII",
   "name_zh": "善惡·良心·品格",
   "gist": "罪咎與贖罪、惡與殘忍與同理、誠實與虛偽、勇氣",
-  "generated_at": "2026-08-10T00:24:17+00:00",
-  "para_count": 792,
-  "book_count": 18,
+  "generated_at": "2026-08-10T01:09:07+00:00",
+  "para_count": 802,
+  "book_count": 19,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
     "gu-sanfen",
     "haidao-suanjing",
+    "jian-zhu-ke-shu",
     "jiuzhang-suanshu",
     "nanjing"
   ],
@@ -4661,6 +4662,134 @@
       "co_domains": [
         "IV"
       ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "因循",
+      "para_index": 1,
+      "para_id": "shenzi#02-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天道因則大，化則細。因也者，因人之情也。人莫不自爲也，化而使之爲我，則莫可得而用",
+      "note": "明說「人莫不自爲也」，並據此主張用人之自為而不用人之為我，是對人性及用人方式的直接斷言。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "知忠〈此篇原刻全脫，依《治要》補。〉",
+      "para_index": 1,
+      "para_id": "shenzi#04-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "亂世之中，亡國之臣，非獨無忠臣也；治國之中，顯君之臣，非獨能盡忠也。治國之人，忠",
+      "note": "以「忠未足以救亂世」及「忠盈天下，害及其國」重估忠的價值，並把治亂歸於眾人任職而非一人的忠或罪。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 19,
+      "para_id": "shenzi#08-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "飲過度者生水，食過度者生貪。〈○《御覽》八百四十九。〉",
+      "note": "把飲食過度同生水、生貪相連，直接提出失度欲求會形成貪的品格後果",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 26,
+      "para_id": "shenzi#08-p26",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "匠人成棺，不憎人死，利之所在，忘其醜也。〈○《意林》。又《御覽》五百五十一引作「",
+      "note": "以匠人成棺不憎人死說明利之所在會使人忘其醜，直接斷言利益對品性的牽引",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 45,
+      "para_id": "shenzi#08-p45",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "君明臣直，國之福也；父慈子孝，夫信妻貞，家之福也。故比干忠而不能存殷，申生孝而不",
+      "note": "以君明臣直、父慈子孝、夫信妻貞及比干申生之例，主張忠孝等品格須有相應的君父與家庭關係承接",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 48,
+      "para_id": "shenzi#08-p48",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "與天下於人，大事也，煦煦者以爲惠，而堯、舜無德色；取天下於人，大嫌也，潔潔者以爲",
+      "note": "堯舜讓天下無德色、湯武取天下無愧容皆以義為準，主張行為的品格評價取決於義而非得失表象",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 49,
+      "para_id": "shenzi#08-p49",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "日月爲天下眼目，人不知德；山川爲天下衣食，人不能感。〈○《御覽》三以此四句爲《任",
+      "note": "以人不知日月山川之德且有勇不用於怒便與怯相同，直接評論感恩與勇的品格是否顯現",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 52,
+      "para_id": "shenzi#08-p52",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古之全大體者，望天地，觀江海，因山谷，日月所照，四時所行，雲布風動；不以智累心，",
+      "note": "主張不以智私累心己、依道法自然且把榮辱之責歸己，並以心無結怨、福久於安描寫內在安頓與自持",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 54,
+      "para_id": "shenzi#08-p54",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "能辭萬鐘之祿於朝陛，不能不拾一金於無人之地；能謹百節之禮於廟宇，不能不弛一容於獨",
+      "note": "以朝陛廟宇能守節而無人獨居時失守，明說人情容易狎於私處，是對品格在公私情境中變化的斷言",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 57,
+      "para_id": "shenzi#08-p57",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "善爲國者，移謀身之心而謀國，移富國之術而富民，移保子孫之志而保治，移求爵祿之意而",
+      "note": "要求把謀身、保子孫與求爵祿之心轉為謀國、保治與求義，主張由私利轉向公義的品格取向",
+      "co_domains": []
     },
     {
       "slug": "shiming",

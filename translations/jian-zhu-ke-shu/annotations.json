@@ -1,0 +1,75 @@
+[
+  {
+    "para_id": "jian-zhu-ke-shu#01-p01",
+    "anchor": {
+      "chapter": "諫逐客書",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "只交代鄭國來間秦而事覺、宗室請一切逐客及李斯亦在逐中的事件經過",
+    "excerpt": "會韓人鄭國來間秦，以作注溉渠，已而覺。秦宗室大臣皆言秦王曰：「諸侯人來事秦者，大",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:06:21+08:00"
+  },
+  {
+    "para_id": "jian-zhu-ke-shu#01-p02",
+    "anchor": {
+      "chapter": "諫逐客書",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "列舉四君任用不產於秦之客而富國強秦，並以「客何負於秦」「疏士而不用」主張出身不應遮蔽士人的功用",
+    "excerpt": "臣聞吏議逐客，竊以為過矣。昔穆公[3]求士，西取由余[4]於戎，東得百里奚[5]",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:06:21+08:00"
+  },
+  {
+    "para_id": "jian-zhu-ke-shu#01-p03",
+    "anchor": {
+      "chapter": "諫逐客書",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以取異國物樂卻逐異國之人作對比，明說取人「不問可否，不論曲直」且「所輕者在乎人民」，指出按出身取人的雙重標準",
+    "excerpt": "今陛下致崑山之玉[24]，有隨、和之寶[25]，垂明月[26]之珠，服太阿[27",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:06:21+08:00"
+  },
+  {
+    "para_id": "jian-zhu-ke-shu#01-p04",
+    "anchor": {
+      "chapter": "諫逐客書",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以泰山河海不拒土壤細流譬喻王者不卻眾庶，立「地無四方，民無異國」之原則，並論逐客反會資敵自危",
+    "excerpt": "臣聞地廣者粟多，國大者人衆，兵疆者則士勇；是以泰山不讓土壤，故能成其大；河海不擇",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T09:06:21+08:00"
+  }
+]

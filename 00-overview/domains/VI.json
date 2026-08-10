@@ -2,14 +2,15 @@
   "domain": "VI",
   "name_zh": "情緒與內在生活",
   "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡",
-  "generated_at": "2026-08-10T00:24:17+00:00",
-  "para_count": 257,
-  "book_count": 11,
+  "generated_at": "2026-08-10T01:09:07+00:00",
+  "para_count": 260,
+  "book_count": 12,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
     "gu-sanfen",
     "haidao-suanjing",
+    "jian-zhu-ke-shu",
     "jijiupian",
     "jinkui-yaolue",
     "jiuzhang-suanshu",
@@ -664,6 +665,49 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "威德",
+      "para_index": 5,
+      "para_id": "shenzi#01-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫投鉤以分財，投策以分馬，非鉤、策爲均也。〈○《御覽》四百二十九引此文，「非」下",
+      "note": "以投鉤投策使得美者無所德、得惡者無所怨，說明公器如何排除私意、平息怨望，並規定賞財行德皆應由法禮。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "君人",
+      "para_index": 1,
+      "para_id": "shenzi#06-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "君人者，舍法而以身治，則誅賞予奪，從君心出矣。〈○原刻脫「矣」字，依《治要》補。",
+      "note": "指出受賞者望多、受罰者望輕以及同功異賞會生怨，並主張以法定分來去私塞怨、使上下和。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 56,
+      "para_id": "shenzi#08-p56",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "法者，所以齊天下之動，至公大定之制也。故智者不得越法而肆謀，辯者不得越法而肆議，",
+      "note": "在法不可離的主張中明說自己的喜可以抑、忿可以窒，直接提出個人情緒須受抑制的內在要求",
+      "co_domains": []
     },
     {
       "slug": "shiming",

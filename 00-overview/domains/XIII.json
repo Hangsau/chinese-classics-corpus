@@ -2,13 +2,14 @@
   "domain": "XIII",
   "name_zh": "安頓·修復·平安",
   "gist": "靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈",
-  "generated_at": "2026-08-10T00:24:17+00:00",
-  "para_count": 61,
-  "book_count": 9,
+  "generated_at": "2026-08-10T01:09:07+00:00",
+  "para_count": 64,
+  "book_count": 10,
   "surveyed_zero_hit": [
     "fangyan",
     "gu-sanfen",
     "haidao-suanjing",
+    "jian-zhu-ke-shu",
     "jinkui-yaolue",
     "jiuzhang-suanshu",
     "liutao",
@@ -195,6 +196,46 @@
       "note": "把樂重新界定為人安樂於家、族、業、都邑、政令與道德，並以有德之君樂人或無德之君樂身判斷政權久亡，兼論生活安頓與公共領導",
       "co_domains": [
         "V"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 28,
+      "para_id": "shenzi#08-p28",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫德，精微而不見，聰明而不發，是故外物不累其內。〈○《文選》沈休文《遊沈道士館詩",
+      "note": "把德之精微不發同外物不累其內相連，主張內在不為外物牽累的安頓狀態",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 52,
+      "para_id": "shenzi#08-p52",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古之全大體者，望天地，觀江海，因山谷，日月所照，四時所行，雲布風動；不以智累心，",
+      "note": "主張不以智私累心己、依道法自然且把榮辱之責歸己，並以心無結怨、福久於安描寫內在安頓與自持",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 59,
+      "para_id": "shenzi#08-p59",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "鳥飛於空，魚游於淵，非術也。故爲鳥、爲魚者，亦不自知其能飛、能游。苟知之，立心以",
+      "note": "以鳥魚與人手足耳目的自然作用說明刻意立心反致墮溺疲憊，主張任自然、得其常才能久而濟",
+      "co_domains": [
+        "XI"
       ]
     },
     {

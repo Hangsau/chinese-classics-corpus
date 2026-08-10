@@ -2,9 +2,9 @@
   "domain": "VIII",
   "name_zh": "工作·成就·召喚",
   "gist": "工作與金錢、成就與意義、天賦與使命",
-  "generated_at": "2026-08-10T00:24:17+00:00",
-  "para_count": 450,
-  "book_count": 19,
+  "generated_at": "2026-08-10T01:09:07+00:00",
+  "para_count": 459,
+  "book_count": 21,
   "surveyed_zero_hit": [
     "gu-sanfen",
     "haidao-suanjing",
@@ -93,6 +93,35 @@
       "excerpt": "漢儒訓詁之學惟謹，而楊子雲尤為洽聞。蓋一物不知，君子所耻，博學詳說，將以反約。凡",
       "note": "批評當時學者捨實徇名、高談性命而輕視訓詁，講的是治學者怎麼走偏",
       "co_domains": []
+    },
+    {
+      "slug": "jian-zhu-ke-shu",
+      "chapter": "諫逐客書",
+      "para_index": 2,
+      "para_id": "jian-zhu-ke-shu#01-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "臣聞吏議逐客，竊以為過矣。昔穆公[3]求士，西取由余[4]於戎，東得百里奚[5]",
+      "note": "列舉四君任用不產於秦之客而富國強秦，並以「客何負於秦」「疏士而不用」主張出身不應遮蔽士人的功用",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "jian-zhu-ke-shu",
+      "chapter": "諫逐客書",
+      "para_index": 3,
+      "para_id": "jian-zhu-ke-shu#01-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今陛下致崑山之玉[24]，有隨、和之寶[25]，垂明月[26]之珠，服太阿[27",
+      "note": "以取異國物樂卻逐異國之人作對比，明說取人「不問可否，不論曲直」且「所輕者在乎人民」，指出按出身取人的雙重標準",
+      "co_domains": [
+        "V"
+      ]
     },
     {
       "slug": "jijiupian",
@@ -2714,6 +2743,100 @@
       ],
       "excerpt": "脈濡而緊，濡則衛氣微，緊則榮中寒。陽微衛中風，發熱而惡寒；榮緊胃氣冷，微嘔心內煩",
       "note": "連續敘寫醫者誤認大熱、發汗致虛、不知胃冷而汲水灌身，最後延誤補救，重點越出病候而涉及行醫判斷與職業能力。",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "威德",
+      "para_index": 3,
+      "para_id": "shenzi#01-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古者工不兼事，士不兼官。工不兼事，則事省；事省，則易勝。〈○原刻脫此句。「事」字",
+      "note": "以「百工之子不學而能者，非生巧也，言有常事也」斷言職業能力並非天生，而由長期固定從事一事形成。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "因循",
+      "para_index": 1,
+      "para_id": "shenzi#02-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天道因則大，化則細。因也者，因人之情也。人莫不自爲也，化而使之爲我，則莫可得而用",
+      "note": "明說「人莫不自爲也」，並據此主張用人之自為而不用人之為我，是對人性及用人方式的直接斷言。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "民雜",
+      "para_index": 1,
+      "para_id": "shenzi#03-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "民雜處而各有所能，所能者不同，〈○原刻「所能」二字不重，依《治要》補。〉此民之情",
+      "note": "明說民眾各有所能且能力不同是「民之情」，並主張居上者應因各人之能而兼容任用。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "民雜",
+      "para_index": 2,
+      "para_id": "shenzi#03-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "君臣之道：臣事事，〈○原刻作「有事」，依《治要》改。《治要》又有注云︰「言事其所",
+      "note": "指出君若親自爭先為善，臣下便不敢爭先且會藏匿所知，說明權力結構如何改變臣下的任事行為。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "民雜",
+      "para_index": 3,
+      "para_id": "shenzi#03-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "君之智，未必最賢於衆也，以未最賢而欲以善盡被下，〈○原刻「欲」下脫「以」字，依《",
+      "note": "指出君主未必比眾人最賢，即使最賢也會因一人包辦而勞倦衰退，說明領導者的才智與任事限度。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 15,
+      "para_id": "shenzi#08-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孔子曰：「邱少而好學，晚而聞道，以此博矣。」〈○《御覽》六百七。〉",
+      "note": "孔子以少而好學、晚而聞道解釋何以能博，直接連結長期學習與學識成就",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 50,
+      "para_id": "shenzi#08-p50",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "小人食於力，君子食於道，〈○二句又見《意林》及《御覽》八百四十九。〉先王之訓也。",
+      "note": "比較一人耕織不能飽暖天下與傳道能治國修行，為不耕不織而食衣的知識工作及其成就辯護",
       "co_domains": []
     },
     {

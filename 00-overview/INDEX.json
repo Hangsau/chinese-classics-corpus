@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-08-10T00:24:17+00:00",
+    "generated_at": "2026-08-10T01:09:07+00:00",
     "text_count": 72,
     "total_bytes": 11304281,
     "by_category": {
@@ -28,40 +28,40 @@
       "reference": 4,
       "contested": 2
     },
-    "surveyed_count": 24,
-    "annotated_count": 24,
+    "surveyed_count": 26,
+    "annotated_count": 26,
     "scaffolded_count": 0,
-    "paras_judged": 13243,
+    "paras_judged": 13322,
     "paras_pending": 0,
     "domain_hit_counts": {
-      "I": 6,
-      "II": 15,
+      "I": 7,
+      "II": 16,
       "III": 10,
-      "IV": 16,
-      "IX": 12,
-      "V": 20,
-      "VI": 11,
-      "VII": 18,
-      "VIII": 19,
-      "X": 11,
-      "XI": 12,
+      "IV": 17,
+      "IX": 13,
+      "V": 22,
+      "VI": 12,
+      "VII": 19,
+      "VIII": 21,
+      "X": 12,
+      "XI": 13,
       "XII": 12,
-      "XIII": 9
+      "XIII": 10
     },
     "domain_para_counts": {
-      "I": 17,
-      "II": 358,
+      "I": 18,
+      "II": 363,
       "III": 84,
-      "IV": 331,
-      "V": 1223,
-      "VI": 257,
-      "VII": 792,
-      "VIII": 450,
-      "IX": 78,
-      "X": 174,
-      "XI": 158,
+      "IV": 334,
+      "V": 1250,
+      "VI": 260,
+      "VII": 802,
+      "VIII": 459,
+      "IX": 79,
+      "X": 175,
+      "XI": 163,
       "XII": 117,
-      "XIII": 61
+      "XIII": 64
     }
   },
   "texts": [
@@ -453,12 +453,27 @@
       "size_bytes": 2989,
       "chapter_count": 1,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "domains_null": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [
+        "V",
+        "VIII"
+      ],
+      "domains_null": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "VI",
+        "VII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII"
+      ],
+      "paras_total": 4,
+      "paras_judged": 4,
+      "annotated": true
     },
     {
       "slug": "jiaoshi-yilin",
@@ -1143,12 +1158,27 @@
       "size_bytes": 25740,
       "chapter_count": 9,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "domains_null": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [
+        "I",
+        "II",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XIII"
+      ],
+      "domains_null": [
+        "III",
+        "XII"
+      ],
+      "paras_total": 75,
+      "paras_judged": 75,
+      "annotated": true
     },
     {
       "slug": "shiming",

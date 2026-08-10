@@ -1,17 +1,17 @@
 # VI 情緒與內在生活
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 257 段命中｜跨 11 部｜生成時間 2026-08-10T00:24:17+00:00
+> 260 段命中｜跨 12 部｜生成時間 2026-08-10T01:09:07+00:00
 
 七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡
 
-姿態分佈：`narrative` 143、`proposition` 88、`expression` 56、`observation` 52、`prescription` 23、`ritual` 9、`formalization` 2
+姿態分佈：`narrative` 143、`proposition` 91、`expression` 56、`observation` 52、`prescription` 26、`ritual` 9、`formalization` 2
 
 ## 已通讀但本領域零命中
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`dongmingji`（洞冥記）　`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jijiupian`（急就篇）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`san-lue`（三略）　`shanghanlun`（傷寒論）　`shenyijing`（神異經）　`wuzi`（吳子）
+`dongmingji`（洞冥記）　`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jijiupian`（急就篇）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`san-lue`（三略）　`shanghanlun`（傷寒論）　`shenyijing`（神異經）　`wuzi`（吳子）
 
 ## 世說新語（人論）　139 段
 
@@ -306,6 +306,14 @@
 | 魯漆室女 | 1 | `narrative` `proposition` | 漆室女者，魯漆室邑之女也。過時未適人。當穆公時，君老，太子幼。女倚柱而嘯，旁人聞 | ＋V 漆室女的悲嘯源於對國亂殃民的憂慮，並以禍患擴散論證婦人也承受公共政治。 |
 | 魯漆室女 | 2 | `narrative` `observation` | 頌曰：漆室之女，計慮甚妙，維魯且亂，倚柱而嘯，君老嗣幼，愚悖姦生，魯果擾亂，齊伐 | ＋V 頌稱其計慮甚妙並記倚柱悲嘯，把內在憂懼連到國亂與民眾受害。 |
 | 魯寡陶嬰 | 1 | `narrative` `observation` | 陶嬰者，魯陶門之女也。少寡，養幼孤，無強昆弟，紡績為產。魯人或聞其義，將求焉。嬰 | ＋III／VII 歌中兼有對亡夫不忘的承諾、早寡悲泣的內在經驗及終不重行的貞壹評斷，三面各自承重 |
+
+## 慎子（法家）　3 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| 威德 | 5 | `proposition` `prescription` | 夫投鉤以分財，投策以分馬，非鉤、策爲均也。〈○《御覽》四百二十九引此文，「非」下 | ＋V 以投鉤投策使得美者無所德、得惡者無所怨，說明公器如何排除私意、平息怨望，並規定賞財行德皆應由法禮。 |
+| 君人 | 1 | `proposition` `prescription` | 君人者，舍法而以身治，則誅賞予奪，從君心出矣。〈○原刻脫「矣」字，依《治要》補。 | ＋V 指出受賞者望多、受罰者望輕以及同功異賞會生怨，並主張以法定分來去私塞怨、使上下和。 |
+| 愼子逸文 | 56 | `prescription` `proposition` | 法者，所以齊天下之動，至公大定之制也。故智者不得越法而肆謀，辯者不得越法而肆議， | 在法不可離的主張中明說自己的喜可以抑、忿可以窒，直接提出個人情緒須受抑制的內在要求 |
 
 ## 說文解字（小學）　1 段
 

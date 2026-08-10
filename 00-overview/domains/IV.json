@@ -2,12 +2,13 @@
   "domain": "IV",
   "name_zh": "家庭與傳承",
   "gist": "婚姻與家庭、原生家庭的傷、為人父母、記憶與和解、留下什麼給後代",
-  "generated_at": "2026-08-10T00:24:17+00:00",
-  "para_count": 331,
-  "book_count": 16,
+  "generated_at": "2026-08-10T01:09:07+00:00",
+  "para_count": 334,
+  "book_count": 17,
   "surveyed_zero_hit": [
     "fangyan",
     "haidao-suanjing",
+    "jian-zhu-ke-shu",
     "jiuzhang-suanshu",
     "liutao",
     "nanjing",
@@ -1366,6 +1367,46 @@
       ],
       "excerpt": "不孝鳥，狀如人身，犬毛有齒，猪牙，額上有紋，曰不孝；口下有紋，曰不慈；背上有紋，",
       "note": "鳥身明列不孝、不慈、不道與愛夫憐婦，並說天以此彰顯忠孝，直接論家庭倫理和德行",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "德立",
+      "para_index": 1,
+      "para_id": "shenzi#05-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "立天子者，不使諸侯疑焉；〈○原刻脫「者」字、「焉」字，依《治要》補。下三句並同。",
+      "note": "以「兩則爭，雜則相傷」說明並立會引發爭害，並分別落實於臣位的國家關係與嫡庶的家庭繼承。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 38,
+      "para_id": "shenzi#08-p38",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "家富則疎族聚，家貧則兄弟離，非不相愛，利不足相容也。〈○《意林》。〉",
+      "note": "明說家富使疎族聚、家貧使兄弟離，且原因不是不相愛而是利益不足相容，直接論家庭關係的物質條件",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 45,
+      "para_id": "shenzi#08-p45",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "君明臣直，國之福也；父慈子孝，夫信妻貞，家之福也。故比干忠而不能存殷，申生孝而不",
+      "note": "以君明臣直、父慈子孝、夫信妻貞及比干申生之例，主張忠孝等品格須有相應的君父與家庭關係承接",
       "co_domains": [
         "VII"
       ]

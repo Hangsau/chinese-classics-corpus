@@ -1,7 +1,7 @@
 # 索引
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 生成時間 2026-08-10T00:24:17+00:00｜72 部｜11,304,281 bytes｜已通讀 24 部｜已段落標註 24 部（13243 段）｜僅有骨架待標 0 部（0 段）
+> 生成時間 2026-08-10T01:09:07+00:00｜72 部｜11,304,281 bytes｜已通讀 26 部｜已段落標註 26 部（13322 段）｜僅有骨架待標 0 部（0 段）
 
 ## 分類統計
 
@@ -63,9 +63,9 @@
 | `wenxin-diaolong` | 文心雕龍 | 文論 | original | 52 | 148,000 | — | — |
 | `guanzi` | 管子 | 法家 | original | 81 | 472,126 | — | — |
 | `hanfeizi` | 韓非子 | 法家 | original | 59 | 404,007 | — | — |
-| `jian-zhu-ke-shu` | 諫逐客書 | 法家 | original | 1 | 2,989 | — | — |
+| `jian-zhu-ke-shu` | 諫逐客書 | 法家 | original | 1 | 2,989 | ✓ | 4/4 |
 | `shangjunshu` | 商君書 | 法家 | original | 25 | 73,476 | — | — |
-| `shenzi` | 慎子 | 法家 | original | 9 | 25,740 | — | — |
+| `shenzi` | 慎子 | 法家 | original | 9 | 25,740 | ✓ | 75/75 |
 | `haidao-suanjing` | 海島算經 | 算書 | original | 1 | 5,469 | ✓ | 24/24 |
 | `jiuzhang-suanshu` | 九章算術 | 算書 | original | 10 | 93,135 | ✓ | 720/720 |
 | `sunzi-suanjing` | 孫子算經 | 算書 | original | 4 | 35,563 | — | — |

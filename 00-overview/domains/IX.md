@@ -1,17 +1,17 @@
 # IX 苦難·疾病·身體
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 78 段命中｜跨 12 部｜生成時間 2026-08-10T00:24:17+00:00
+> 79 段命中｜跨 13 部｜生成時間 2026-08-10T01:09:07+00:00
 
 疾病與身體、受苦的意義、照顧與被照顧
 
-姿態分佈：`proposition` 41、`narrative` 26、`observation` 18、`prescription` 15、`expression` 8、`formalization` 1、`ritual` 1
+姿態分佈：`proposition` 42、`narrative` 26、`observation` 18、`prescription` 16、`expression` 8、`formalization` 1、`ritual` 1
 
 ## 已通讀但本領域零命中
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`dongmingji`（洞冥記）　`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`renwuzhi`（人物志）　`san-lue`（三略）　`shenyijing`（神異經）　`sima-fa`（司馬法）　`wuzi`（吳子）
+`dongmingji`（洞冥記）　`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`renwuzhi`（人物志）　`san-lue`（三略）　`shenyijing`（神異經）　`sima-fa`（司馬法）　`wuzi`（吳子）
 
 ## 世說新語（人論）　17 段
 
@@ -138,6 +138,12 @@
 | 篇 | 段 | 姿態 | 摘句 | 判讀 |
 |---|---|---|---|---|
 | 卷二 | 112 | `proposition` | 木實曰果，草實曰蓏。言園圃種米，及殖果蓏，貧者食之，以免飢饉，故云助米糧也。〈補 | ＋XIII 明說貧者種植並食用園菜果蓏可以補充米糧、免於飢饉，提出對抗飢餓的具體因應 |
+
+## 慎子（法家）　1 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| 愼子逸文 | 47 | `proposition` `prescription` | 《夏箴》曰：「小人無兼年之食，遇天饑，妻子非其有也；大夫無兼年之食，遇天饑，臣妾 | 以天饑時無兼年之食將失妻子或臣妾輿馬作告誡，直接處理饑荒造成的生存困境與失去 |
 
 ## 孫子兵法（兵家）　1 段
 

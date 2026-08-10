@@ -2,13 +2,14 @@
   "domain": "X",
   "name_zh": "無常·老·死·失去",
   "gist": "老與時間、失去與哀傷、死亡、耐心與等待",
-  "generated_at": "2026-08-10T00:24:17+00:00",
-  "para_count": 174,
-  "book_count": 11,
+  "generated_at": "2026-08-10T01:09:07+00:00",
+  "para_count": 175,
+  "book_count": 12,
   "surveyed_zero_hit": [
     "fangyan",
     "gu-sanfen",
     "haidao-suanjing",
+    "jian-zhu-ke-shu",
     "jijiupian",
     "jinkui-yaolue",
     "jiuzhang-suanshu",
@@ -386,6 +387,20 @@
       "co_domains": [
         "VIII",
         "V"
+      ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 58,
+      "para_id": "shenzi#08-p58",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "始吾未生之時，焉知生之爲樂也？今吾未死，又焉知死之爲不樂也？故生不足以使之，利何",
+      "note": "從未知生樂死不樂出發，主張明死生之分便不受利害恐動，甚至可捨生以成仁，直接處理死亡與生命意義",
+      "co_domains": [
+        "I"
       ]
     },
     {
