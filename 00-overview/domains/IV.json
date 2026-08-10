@@ -2,9 +2,9 @@
   "domain": "IV",
   "name_zh": "家庭與傳承",
   "gist": "婚姻與家庭、原生家庭的傷、為人父母、記憶與和解、留下什麼給後代",
-  "generated_at": "2026-08-10T01:34:46+00:00",
-  "para_count": 338,
-  "book_count": 18,
+  "generated_at": "2026-08-10T06:16:28+00:00",
+  "para_count": 386,
+  "book_count": 19,
   "surveyed_zero_hit": [
     "fangyan",
     "haidao-suanjing",
@@ -56,6 +56,699 @@
       ],
       "excerpt": "皇曰：嗟爾天師，俌相正五，百官、士子、農夫、啇人、工技，鹹若我言。政典曰：國無邪",
       "note": "提出官民各安職業的正道，並主張善政可使父子夫婦兄弟不背恩情義",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "五蠹",
+      "para_index": 3,
+      "para_id": "hanfeizi#04-p03",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "堯之王天下也，茅茨不翦，采椽不斵；糲粢之食，䔧藿之羹；冬日麑裘，夏日葛衣，雖監門",
+      "note": "以饑歲幼弟不饟、穰歲疏客必食揭示骨肉取捨受資源多少左右，並辨明易財、爭奪、辭讓不等於仁、鄙、高、下",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "五蠹",
+      "para_index": 5,
+      "para_id": "hanfeizi#04-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫古今異俗，新故異備。如欲以寛緩之政，治急世之民，猶無轡策而御駻馬，此不知之患也",
+      "note": "父母厚愛子女仍未必使其不亂，並以君之垂泣對照不得不行刑，明說親子教養與仁愛品格的限度",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "五蠹",
+      "para_index": 7,
+      "para_id": "hanfeizi#04-p07",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "今有不才之子，父母怒之弗爲改，鄉人譙之弗爲動，師長教之弗爲變。夫以父母之愛、鄉人",
+      "note": "父母之愛不能使不才之子改行，州部嚴刑卻使其恐懼而「變其節，易其行」，並概括民驕於愛、聽於威",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "五蠹",
+      "para_index": 9,
+      "para_id": "hanfeizi#04-p09",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "儒以文亂法，俠以武犯禁，而人主兼禮之，此所以亂也。夫離法者罪，而諸先生以文學取；",
+      "note": "直告父罪者為君之直臣卻成父之暴子，養老父而退戰者為孝子卻成背臣，明說忠孝品格在家庭與君臣利益間衝突",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "備內",
+      "para_index": 1,
+      "para_id": "hanfeizi#07-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人主之患在於信人。信人，則制於人。人臣之於其君，非有骨肉之親也，縛於勢而不得不事",
+      "note": "明言君臣非骨肉而係於勢、人臣窺君心，又以妻、子皆可被姦臣利用說明家內親信亦不可盡信",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "備內",
+      "para_index": 2,
+      "para_id": "hanfeizi#07-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "且萬乘之主，千乘之君，后妃、夫人適子爲太子者，或有欲其君之蚤死者。何以知其然？夫",
+      "note": "以「愛則親，不愛則疏」與美衰好色解釋夫妻親疏，以母后子主說家內繼承，並以眾人所利在君死說宮廷權勢與防備，三者各是本段獨立主張",
+      "co_domains": [
+        "III",
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說上七術",
+      "para_index": 37,
+      "para_id": "hanfeizi#08-p37",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "宋崇門之巷人服喪而毁甚瘠，上以爲慈愛於親，舉以爲官師。明年，人之所以毁死者歲十餘",
+      "note": "親喪者原因愛親而哀毀，受官爵表揚後竟多人毀死，說明家庭情愛也會被公共獎賞加劇",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說下六微",
+      "para_index": 45,
+      "para_id": "hanfeizi#09-p45",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "五。晉獻公之時，驪姬貴，擬於后妻，而欲以其子奚齊代太子申生，因患申生於君而殺之，",
+      "note": "驪姬因受寵而欲使親子取代太子，遂害死申生並改立奚齊，寫家庭繼承與宮廷權力相互爭奪",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說下六微",
+      "para_index": 46,
+      "para_id": "hanfeizi#09-p46",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "鄭君已立太子矣，而有所愛美女欲以其子爲後，夫人恐，因用毒藥賊君殺之。",
+      "note": "夫人害怕寵姬之子取代既立太子，因恐懼而毒殺鄭君，寫繼承威脅下的家庭情緒與暴力",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說下六微",
+      "para_index": 48,
+      "para_id": "hanfeizi#09-p48",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "公子朝，周太子也，弟公子根甚有寵於君。君死，遂以東周叛，分爲兩國。",
+      "note": "弟弟公子根因受君寵愛，在君死後與太子爭位而使東周分裂，寫偏愛引發的家族繼承與權力衝突",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說下六微",
+      "para_index": 49,
+      "para_id": "hanfeizi#09-p49",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "楚成王以商臣爲太子，既而又欲置公子職。商臣作亂，遂攻殺成王。",
+      "note": "成王欲改立公子職後，原太子商臣起亂殺父，寫父子繼承承諾改變所引發的奪權",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說下六微",
+      "para_index": 50,
+      "para_id": "hanfeizi#09-p50",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "一曰：楚成王以商臣爲太子，既欲置公子職。商臣聞之，未察也，乃謂其傅潘崇曰：「柰何",
+      "note": "商臣確認父王欲廢己後拒絕事父與出走，選擇舉兵逼父自殺，寫親子繼承衝突壓倒家庭關係",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說下六微",
+      "para_index": 54,
+      "para_id": "hanfeizi#09-p54",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "狐突曰：「國君好内則太子危，好外則相室危。」",
+      "note": "狐突概括君主偏愛內寵會危及太子、偏愛外臣會危及相室，指出寵愛改變繼承與權力安全",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說下六微",
+      "para_index": 55,
+      "para_id": "hanfeizi#09-p55",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "鄭君問鄭昭曰：「太子亦何如？」對曰：「太子未生也。」君曰：「太子已置而曰『未生』",
+      "note": "鄭昭說君主好色不止便會再愛寵姬之子並欲立後，所以當前太子的繼承地位仍不確定",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "八說",
+      "para_index": 6,
+      "para_id": "hanfeizi#13-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "慈母之於弱子也，愛不可爲前。然而弱子有僻行，使之随師；有惡病，使之事醫。不随師則",
+      "note": "慈母愛子不足免刑救死，且仁者慈惠不忍、暴者心毅易誅而皆使臣民失序，同時論親子之愛與兩種品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "六反",
+      "para_index": 2,
+      "para_id": "hanfeizi#14-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古者有諺曰：「爲政猶沐也，雖有弃髮，必爲之。」愛弃髮之費而忘長髮之利，不知權者也",
+      "note": "明言父母生男賀、生女殺而以長利計算親子，又以君臣各挾大利說權力關係，並斷言不靠仁忠也能成霸王以重評德目",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "六反",
+      "para_index": 3,
+      "para_id": "hanfeizi#14-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫姦必知則備，必誅則止；不知則肆，不誅則行。夫陳輕貨於幽隱，雖曾、史可疑也；懸百",
+      "note": "以曾史見幽貨亦可疑說清廉受情境左右，又比較母愛父嚴而斷言厚愛子多敗、薄愛笞教子多善，論親子教養與品格形成",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "六反",
+      "para_index": 5,
+      "para_id": "hanfeizi#14-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今學者皆道書筴之頌語，不察當世之實事，曰：「上不愛民，賦斂常重，則用不足而下怨上",
+      "note": "以家長厚愛使子侈泰、驕恣、行暴，並斷言財用足則怠於用力、上治懦則肆於為非，說明溺愛與寬弛如何敗壞品行",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "十過",
+      "para_index": 9,
+      "para_id": "hanfeizi#18-p09",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "奚謂過而不聽於忠臣？昔者齊桓公九合諸侯，一匡天下，爲五伯長，管仲佐之。管仲老，不",
+      "note": "段中以人皆愛身、親父母、愛子說明親情底線，以剛愎或廉信等品格判人，並據此決定誰能受任輔主，三者缺一便少了相應論旨",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "喻老",
+      "para_index": 6,
+      "para_id": "hanfeizi#23-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "楚莊王既勝，狩于河雍，歸而賞孫叔敖。孫叔敖請漢間之地，沙石之處。楚邦之法，禄臣再",
+      "note": "孫叔敖選取瘠地，使封地九世仍存且子孫祭祀不絕，重點在家族承傳的長久安排",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左上",
+      "para_index": 3,
+      "para_id": "hanfeizi#24-p03",
+      "modes": [
+        "formalization"
+      ],
+      "excerpt": "三。挾夫相爲則責望，自爲則事行。故父子或怨譙，取庸作者進美羮。說在文公之先宣言與",
+      "note": "第三項雖以「其說在」編列後文，仍直接以父子互怨與雇工、主人各求自身利益並論，分別說明家庭期待和勞動交換的利害底層",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左上",
+      "para_index": 26,
+      "para_id": "hanfeizi#24-p26",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "三。人爲嬰兒也，父母養之簡，子長而怨；子盛壯成人，其供養薄，父母怒而誚之。子、父",
+      "note": "父母與子女會因彼此供養不周而怨，主人和雇工則各為美食、錢布與耕作成效用力，明說家庭關係和勞動交換皆受自身利益支配",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左上",
+      "para_index": 30,
+      "para_id": "hanfeizi#24-p30",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "吳起爲魏將而攻中山。軍人有病疽者，吳起跪而自吮其膿。傷者之母立泣，人問曰：「將軍",
+      "note": "傷兵之母因吳起昔日吮父創後其父戰死，如今又吮其子之膿而預見兒子也將死，所寫是親子哀懼與死亡失去的重演",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左上",
+      "para_index": 64,
+      "para_id": "hanfeizi#24-p64",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曾子之妻之市，其子隨之而泣。其母曰：「女還，顧反爲女殺彘。」適市來，曾子欲捕彘殺",
+      "note": "曾子認為幼兒仰賴父母學習，母親欺子就是教子欺騙並破壞孩子對母親的信任，直接論親子教養與誠信品格的形成",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左下",
+      "para_index": 44,
+      "para_id": "hanfeizi#25-p44",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "六。范文子喜直言，武子撃之以杖：「夫直議者不爲人所容，無所容則危身。非徒危身，又",
+      "note": "武子因直議者不為人所容而杖責喜直言的兒子，並說此舉不只危己也危父，兼及群體排斥與父子連帶",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左下",
+      "para_index": 45,
+      "para_id": "hanfeizi#25-p45",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子産者，子國之子也。子産忠於鄭君，子國譙怒之曰：「夫介異於人臣，而獨忠於主。主賢",
+      "note": "子國以父身勸誡忠於君的子產，直言獨忠會離於群臣，既必危自身又危父，兼論忠德、群體排斥與父子連帶",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左下",
+      "para_index": 46,
+      "para_id": "hanfeizi#25-p46",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "梁車新爲鄴令，其姊往看之，暮而後，門閉，因踰郭而入。車遂刖其足。趙成侯以爲不慈，",
+      "note": "梁車為守法而刖越門入城的姊姊，成侯則以不慈免其官，直接衝突手足關係與慈愛品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說右上",
+      "para_index": 33,
+      "para_id": "hanfeizi#26-p33",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "衛嗣君謂薄疑曰：「子小寡人之國以爲不足仕，則寡人力能仕子，請進爵以子爲上卿。」乃",
+      "note": "薄疑說母親雖親愛信任自己仍會聽蔡嫗，人主與臣既不及母子之親又受行私重人左右，明比家內信任與權力牽制",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說右上",
+      "para_index": 34,
+      "para_id": "hanfeizi#26-p34",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "一曰：衛君之晉，謂薄疑曰：「吾欲與子皆行。」薄疑曰：「媪也在中，請歸與媪計之。」",
+      "note": "薄疑以母親愛賢自己勝過衛君卻仍讓蔡嫗復決家事，推知君臣之議更會被親信推翻，對照母子信任與政治依附",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說右下",
+      "para_index": 39,
+      "para_id": "hanfeizi#27-p39",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊桓公微服以巡民家，人有年老而自養者，桓公問其故。對曰：「臣有子三人，家貧無以妻",
+      "note": "老人因三子家貧無以娶妻且傭作未返，管仲又把民饑與無妻連到上層積財及宮女閒置，連結家庭形成與資源分配",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說右下",
+      "para_index": 40,
+      "para_id": "hanfeizi#27-p40",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "一曰：桓公微服而行於民間，有鹿門稷者，行年七十而無妻。桓公問管仲曰：「有民老而無",
+      "note": "七十歲無妻與宮中怨女被歸因於上積財、下匱乏，並以遣嫁宮女和婚齡令處理婚配及社會資源失衡",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "奸劫弑臣",
+      "para_index": 6,
+      "para_id": "hanfeizi#29-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "處非道之位，被衆口之譖，溺於當世之言，而欲當嚴天子而求安，幾不亦難哉！此夫智士所",
+      "note": "余以詐言使春申君棄妻殺子，文本據此斷言父愛亦可被毀言所害，且君臣更無父子之親而賢者易遭讒害",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "忠孝",
+      "para_index": 1,
+      "para_id": "hanfeizi#36-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "天下皆以孝悌忠順之道爲是也，而莫知察孝悌忠順之道而審行之，是以天下亂。皆以堯舜之",
+      "note": "以父子夫妻秩序談家庭傳承，以君臣定位談權力責任，並重新評斷孝悌忠順、賢與不肖等品格",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "忠孝",
+      "para_index": 2,
+      "para_id": "hanfeizi#36-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "記曰：「舜見瞽瞍，其容造焉。孔子曰：『當是時也，危哉，天下岌岌！有道者，父固不得",
+      "note": "以孝子養親界定家庭責任，以忠臣事君界定君臣責任，並重評仁義、忠孝與烈士等品格",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "忠考",
+      "para_index": 1,
+      "para_id": "hanfeizi#37-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "天下皆以孝悌忠順之道為是也，而莫知察孝悌忠順之道而審行之，是以天下亂。皆以堯舜之",
+      "note": "以父子夫妻秩序談家庭傳承，以君臣定位談權力責任，並重新評斷孝悌忠順、賢與不肖等品格",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "忠考",
+      "para_index": 2,
+      "para_id": "hanfeizi#37-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "記曰：「舜見瞽瞍，其容造焉。孔子曰：『當是時也，危哉！天下岌岌！有道者，父固不得",
+      "note": "以孝子養親界定家庭責任，以忠臣事君界定君臣責任，並重評仁義、忠孝與烈士等品格",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "愛臣",
+      "para_index": 1,
+      "para_id": "hanfeizi#38-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "愛臣太親，必危其身；人臣太貴，必易主位；主妾無等，必危嫡子；兄弟不服，必危社稷。",
+      "note": "斷言寵臣權重會危及主位，又以妾嫡失序與兄弟不服說明家內繼承如何牽動政權",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "揚榷",
+      "para_index": 9,
+      "para_id": "hanfeizi#39-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "毋弛而弓，一棲兩雄，其鬥顏顏豺狼在牢，其羊不繁。一家二貴，事乃無功。夫妻持政",
+      "note": "以一家二貴與夫妻同時持政使子女無所適從，直接論家庭權威及子女遵從問題",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "揚權",
+      "para_index": 9,
+      "para_id": "hanfeizi#40-p09",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "毋㢮而弓，一棲兩雄。一棲兩雄，其鬬㘖㘖。犲狼在牢，其羊不繁。一家二貴，事乃無功。",
+      "note": "以一處不能有兩雄說明權力不可並立，並指出夫妻同時掌政會使子女無所適從",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 32,
+      "para_id": "hanfeizi#44-p32",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "愛子者慈於子，重生者慈於身，貴功者慈於事。慈母之於弱子也，務致其福；務致其福，則",
+      "note": "以慈母為弱子熟慮除禍說明照顧之愛，並把由慈而生的明斷不疑界定為勇",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林上",
+      "para_index": 22,
+      "para_id": "hanfeizi#46-p22",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "樂羊爲魏將而攻中山，其子在中山。中山之君烹其子而遺之羮，樂羊坐於幕下而啜之，盡一",
+      "note": "樂羊食子與秦西巴不忍麑形成親子照護的對照，明言巧詐不如拙誠，並寫君主據此疑信臣下及決定託子",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林上",
+      "para_index": 32,
+      "para_id": "hanfeizi#46-p32",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "衞人嫁其子而教之曰：「必私積聚。爲人婦而出，常也；其成居，幸也。」其子因私積聚，",
+      "note": "父親教出嫁女私積而使她被姑逐回，事後只見獲利而不認教女之非，並明言居官人臣皆同此類，兼涉家教、自私品格與公職責任",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林下",
+      "para_index": 20,
+      "para_id": "hanfeizi#47-p20",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "公孫弘斷髪而爲越王騎，公孫喜使人絶之，曰：「吾不與子爲昆弟矣。」公孫弘曰：「我斷",
+      "note": "公孫喜因兄弟斷髮服越而絕昆弟，公孫弘反問其為人用兵斷頸，凸顯家族關係中身分榮辱標準的衝突",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林下",
+      "para_index": 37,
+      "para_id": "hanfeizi#47-p37",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "鄭人有一子，將宦，謂其家曰：「必築壞墻，是不善，人將竊。」其巷人亦云。不時築，而",
+      "note": "兒子與鄰人同樣預言牆壞招盜，失竊後家人卻智其子而疑鄰人，顯示親疏關係左右信任判斷",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說難",
+      "para_index": 4,
+      "para_id": "hanfeizi#49-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "昔者鄭武公欲伐胡，故先以其女妻胡君以娛其意。因問於群臣：「吾欲用兵，誰可伐者？」",
+      "note": "鄭以婚親使胡君信而不備，富家又智其子而疑同言的鄰父，兩例都顯示親疏位置會改變信任及正確言語的後果",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "難一",
+      "para_index": 5,
+      "para_id": "hanfeizi#50-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "管仲有病，桓公往問之，曰：「仲父病，不幸卒於大命，將奚以告寡人？」管仲曰：「微君",
+      "note": "管仲以人情莫不愛子、愛身以及開方棄母，推論違逆親情與自愛者對君主的愛也不可信",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "難三",
+      "para_index": 1,
+      "para_id": "hanfeizi#51-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "魯穆公問於子思曰：「吾聞龐𥼴氏之子不孝，其行奚如？」子思對曰：「君子尊賢以崇德，",
+      "note": "穆公問龐氏子不孝，子思以君子尊賢崇德、不識細人過行作答，故事直接評判孝行、德行與揭過者",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "難三",
+      "para_index": 6,
+      "para_id": "hanfeizi#51-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或曰：管仲之射隱，不得也。士之用不在近遠，而俳優侏儒固人主之所與燕也，則近優而遠",
+      "note": "反駁管仲三難後，改以臣下借勢侵主、貴妾並后與愛庶危嫡為真正難題，直論權力及家內繼承關係",
       "co_domains": [
         "V"
       ]

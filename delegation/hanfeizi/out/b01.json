@@ -1,0 +1,187 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {
+      "chapter": "三守",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "洩漏人臣議論會使欲進言者迎合近習、端言直道者不得見而忠直日疏，明說權力環境如何排斥忠直品格"
+    },
+    {
+      "chapter": "三守",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "逆大臣者必有禍、順者必有福，遂使羣臣持祿養交、行私道而不效公忠，明說權勢利害如何改變臣下品行"
+    },
+    {
+      "chapter": "主道",
+      "para_index": 1,
+      "domains": ["II", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "君主顯露所欲所意，臣便「雕琢」「自表異」，去好去惡才會「見素」，明說臣下依君主偏好塑造外在表現"
+    },
+    {
+      "chapter": "主道",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["formalization", "prescription"],
+      "reason": "不掩情事會使近側成姦、結黨弒主且「人莫不與」，並列五壅說明權力洩露如何聚成背叛關係"
+    },
+    {
+      "chapter": "主道",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "偷賞赦罰會使功臣墮業、姦臣易為非，疏賤必賞近愛必誅則前者不怠後者不驕，明說賞罰如何塑造品行"
+    },
+    {
+      "chapter": "二柄",
+      "para_index": 1,
+      "domains": ["V", "VI"],
+      "modes": ["formalization", "proposition"],
+      "reason": "人臣「畏誅罰而利慶賞」，民喜賞賜而惡刑罰，並會歸附掌握刑德者，明說情感趨避與權力歸屬"
+    },
+    {
+      "chapter": "二柄",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization", "narrative"],
+      "reason": "刑名核驗與守官責職是可執行程序，韓昭侯罪典衣典冠只示範侵官之害，未另斷言人是什麼樣的"
+    },
+    {
+      "chapter": "二柄",
+      "para_index": 3,
+      "domains": ["II", "V"],
+      "modes": ["proposition", "narrative"],
+      "reason": "君主顯露好惡會使羣臣「飾行」「誣能」，而人臣未必愛君、實因重利，說明偽飾自我與君臣利害關係"
+    },
+    {
+      "chapter": "五蠹",
+      "para_index": 1,
+      "domains": ["XI"],
+      "modes": ["proposition", "narrative"],
+      "reason": "守株故事與「聖人不期脩古，不法常可」主張人須按世事變化改變應對，不能把舊法固定重演"
+    },
+    {
+      "chapter": "五蠹",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["observation", "proposition"],
+      "reason": "人民少而財有餘則不爭，人口多財貨寡且事力勞、供養薄則爭，明說資源與勞動條件改變群體行為"
+    },
+    {
+      "chapter": "五蠹",
+      "para_index": 3,
+      "domains": ["II", "IV", "VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "以饑歲幼弟不饟、穰歲疏客必食揭示骨肉取捨受資源多少左右，並辨明易財、爭奪、辭讓不等於仁、鄙、高、下"
+    },
+    {
+      "chapter": "五蠹",
+      "para_index": 4,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition", "narrative"],
+      "reason": "文王與偃王同樣行仁義而成敗不同，又稱上古競道德、中世逐智謀、當今爭氣力，主張德目效用隨世而變"
+    },
+    {
+      "chapter": "五蠹",
+      "para_index": 5,
+      "domains": ["IV", "VII"],
+      "modes": ["proposition"],
+      "reason": "父母厚愛子女仍未必使其不亂，並以君之垂泣對照不得不行刑，明說親子教養與仁愛品格的限度"
+    },
+    {
+      "chapter": "五蠹",
+      "para_index": 6,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "民固服於勢而寡能懷義，且貴仁者寡、能義者難，明說多數人對權勢與仁義的不同反應"
+    },
+    {
+      "chapter": "五蠹",
+      "para_index": 7,
+      "domains": ["IV", "V", "VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "父母之愛不能使不才之子改行，州部嚴刑卻使其恐懼而「變其節，易其行」，並概括民驕於愛、聽於威"
+    },
+    {
+      "chapter": "五蠹",
+      "para_index": 8,
+      "domains": ["II", "V", "VII"],
+      "modes": ["proposition"],
+      "reason": "兄弟知友受辱而報仇被稱廉貞，實會犯上法；無事力戰功而得衣食尊位又被稱賢能，明說德目名譽與公法功實相悖"
+    },
+    {
+      "chapter": "五蠹",
+      "para_index": 9,
+      "domains": ["IV", "V", "VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "直告父罪者為君之直臣卻成父之暴子，養老父而退戰者為孝子卻成背臣，明說忠孝品格在家庭與君臣利益間衝突"
+    },
+    {
+      "chapter": "五蠹",
+      "para_index": 10,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["proposition"],
+      "reason": "匹夫修行義、習文學即可見信受事而顯榮，致使服事者簡業、游學者日衆，且慈惠廉愛等私行與國之公利相背"
+    },
+    {
+      "chapter": "五蠹",
+      "para_index": 11,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "貞信之士不足供百官，布衣因無厚利威勢才求不欺者，而有重賞嚴誅則姦臣不敢欺，說明信德與權勢條件的關係"
+    },
+    {
+      "chapter": "五蠹",
+      "para_index": 12,
+      "domains": ["II", "VII", "VIII"],
+      "modes": ["proposition", "observation"],
+      "reason": "談仁義、競為高卻不合於功，顯出品格聲名與實效不符；文學言談又能免耕戰勞危而得富貴，驅使百人事智而一人用力"
+    },
+    {
+      "chapter": "五蠹",
+      "para_index": 13,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "規定以法為教、以吏為師，並把言談、行動、勇力導入法、功、軍，只有治國操作鏈而未解釋人為何如此"
+    },
+    {
+      "chapter": "五蠹",
+      "para_index": 14,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "游說臣下無論成敗皆可先得爵祿、成功增權而失敗帶富退處，故為私利編浮說求徼倖，明說公私權力與投機品行"
+    },
+    {
+      "chapter": "五蠹",
+      "para_index": 15,
+      "domains": ["II", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "秦謀者屢變少失、燕謀者一變少得並非前者必智後者必愚，而因治亂之資不同，指出智愚評價與謀略成效取決於所憑資源"
+    },
+    {
+      "chapter": "五蠹",
+      "para_index": 16,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "民皆趨安利避危窮，面對進死敵、退死誅與家困便避戰，私門賄賂能得安利便趨附，明說恐危求安如何改變公私歸屬"
+    },
+    {
+      "chapter": "五蠹",
+      "para_index": 17,
+      "domains": ["II", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "官爵可買使商工不卑，聚斂厚利又使商賈尊於耕戰之士，於是耿介者寡而商賈者多，明說職業身分與選擇受名位收益塑造"
+    },
+    {
+      "chapter": "五蠹",
+      "para_index": 18,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["formalization", "prescription"],
+      "reason": "列出學者、言談者、帶劒者、患御者與商工五類，分別以疑法、營私、犯禁、行賄、逐利為業，明說群體職業、品行與公私衝突"
+    }
+  ]
+}

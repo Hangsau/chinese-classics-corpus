@@ -1,0 +1,383 @@
+{
+  "batch": "b20.md",
+  "rows": [
+    {
+      "chapter": "難二",
+      "para_index": 1,
+      "domains": ["V", "IX"],
+      "modes": ["narrative"],
+      "reason": "晏子以踴因刑多而貴點出刖刑造成的身體傷害，景公聞後自認暴虐而減刑"
+    },
+    {
+      "chapter": "難二",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "主張寬刑行惠會利姦邪而傷良民，並以刑罰是否合當而非多少作為公正治理的準則"
+    },
+    {
+      "chapter": "難二",
+      "para_index": 3,
+      "domains": ["V", "VI"],
+      "modes": ["narrative"],
+      "reason": "桓公因遺冠羞恥而三日不朝，施惠釋罪後百姓歌頌，寫出羞恥如何推動政治行動及民眾反應"
+    },
+    {
+      "chapter": "難二",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "指出須待遺冠才行義反顯平日失義，且賞無功、赦有過會使民眾僥倖而易於為非"
+    },
+    {
+      "chapter": "難二",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "文王輕千里之地以解除炮烙而獲天下人心，仲尼據此稱許其仁與智"
+    },
+    {
+      "chapter": "難二",
+      "para_index": 6,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition"],
+      "reason": "界定智者應辨識禍難而避開，並說文王再收人心反會加深紂的猜疑而使自身受患"
+    },
+    {
+      "chapter": "難二",
+      "para_index": 7,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative"],
+      "reason": "叔向與師曠分別把霸業歸於臣的製作之能與君的採用之權，爭論領導者和臣下對成就的責任"
+    },
+    {
+      "chapter": "難二",
+      "para_index": 8,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "以多組君臣成敗說明霸業既非專靠君也非專靠臣，而必須君臣共同出力"
+    },
+    {
+      "chapter": "難二",
+      "para_index": 9,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative"],
+      "reason": "桓公說為君之勞在尋得人才，而既得管仲後便可安於用人，呈現領導與委任人才的分工"
+    },
+    {
+      "chapter": "難二",
+      "para_index": 10,
+      "domains": ["VII", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "稱賢者因憂世急而甘受羞辱求見君上，並主張以官爵招才、以度量刑名考核其工作與功效"
+    },
+    {
+      "chapter": "難二",
+      "para_index": 11,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "由管仲背故主而事其讎質疑其忠誠，並指出君主不能辨臣欺與不欺卻專任一臣會陷於危亂"
+    },
+    {
+      "chapter": "難二",
+      "para_index": 12,
+      "domains": ["VII"],
+      "modes": ["narrative"],
+      "reason": "李克以君子不聽不合義的悅耳之言、不受來路可疑的財貨，表明言行與取財的品格準則"
+    },
+    {
+      "chapter": "難二",
+      "para_index": 13,
+      "domains": ["VIII", "XI"],
+      "modes": ["proposition"],
+      "reason": "列舉耕織、畜養、技術、商貿與節用皆能由人力增加收入，並另辨風雨寒溫等天功"
+    },
+    {
+      "chapter": "難二",
+      "para_index": 14,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative"],
+      "reason": "燭過以同一批士卒隨不同君主而敗霸說明領導作用，簡子親臨矢石後士卒奮戰獲勝"
+    },
+    {
+      "chapter": "難二",
+      "para_index": 15,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "斷言好利惡害、喜利畏罪是人人共有的傾向，統眾應據此用厚賞重刑而非期待罕見的孝子之行"
+    },
+    {
+      "chapter": "難勢",
+      "para_index": 1,
+      "domains": ["V", "XI"],
+      "modes": ["proposition"],
+      "reason": "以堯桀身分轉換的效果主張個人賢智不足以服眾，權位之勢才決定命令能否施行"
+    },
+    {
+      "chapter": "難勢",
+      "para_index": 2,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition"],
+      "reason": "反駁權勢足以為治，指出同有雲霧或天子之勢，能否善用仍取決於自身材質賢劣"
+    },
+    {
+      "chapter": "難勢",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "主張人性中賢者少而不肖者多，威勢落入不肖者手中會滋養虎狼之心並放大對人民的暴害"
+    },
+    {
+      "chapter": "難勢",
+      "para_index": 4,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "以同一車馬由巧拙不同者駕御而成果懸殊，主張治理也須任用有才能者才能進利除害"
+    },
+    {
+      "chapter": "難勢",
+      "para_index": 5,
+      "domains": ["V", "XI"],
+      "modes": ["proposition"],
+      "reason": "區分不可設置的自然之勢與人能設置的權勢，主張所論制度之勢不必等待賢者才能成立"
+    },
+    {
+      "chapter": "難勢",
+      "para_index": 6,
+      "domains": ["V", "XI"],
+      "modes": ["proposition"],
+      "reason": "指出世間多是介於堯舜與桀紂之間的中人，抱法處勢即可常治，等待罕見聖賢反使千世多亂"
+    },
+    {
+      "chapter": "難勢",
+      "para_index": 7,
+      "domains": ["V", "XI"],
+      "modes": ["proposition"],
+      "reason": "以待粱肉救飢、待越人救溺為喻，主張治理不應寄望古代卓絕之才，中等人憑可用條件也能達成"
+    },
+    {
+      "chapter": "難四",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "孫文子越過君臣位次且有過不悛，穆子把不守臣分與不知悔改判為敗亡的品格根源"
+    },
+    {
+      "chapter": "難四",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "以失道之君可被討伐反駁臣伐君必亡，並辨孫子在衛為君、在魯非臣的政治身分與責任"
+    },
+    {
+      "chapter": "難四",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "主張超越本分強取會被眾人奪回，辭讓所得反受民眾擁戴，倒義逆德則聚怨而敗亡"
+    },
+    {
+      "chapter": "難四",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "鮑文子由陽虎貪圖季氏之富而背叛，推知他面對更富強的齊君仍會行詐，寫出貪與背信的延續"
+    },
+    {
+      "chapter": "難四",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "斷言群臣皆可能因大利生劫殺之心，且其忠詐隨君主明嚴或懦闇而改變"
+    },
+    {
+      "chapter": "難四",
+      "para_index": 6,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "以仁與貪不同心反對把所有人視同桓公，並主張明罰陽虎可威懾有姦心者而促成臣忠"
+    },
+    {
+      "chapter": "難四",
+      "para_index": 7,
+      "domains": ["V", "VI"],
+      "modes": ["narrative"],
+      "reason": "昭公早已厭惡高渠彌卻未阻其任卿，高渠彌因懼怕被殺而弑君，呈現嫌惡與恐懼在權力關係中的後果"
+    },
+    {
+      "chapter": "難四",
+      "para_index": 8,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "主張君主懸怒不決會使含憎懼死的罪臣乘機行計，能見危險卻不能決斷同樣危及自身"
+    },
+    {
+      "chapter": "難四",
+      "para_index": 9,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "指出以大誅報小罪會因仇敵眾多而生禍，未有罪便顯怒與懷誅心會使自己與天下為讎"
+    },
+    {
+      "chapter": "難四",
+      "para_index": 10,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "侏儒以一人蔽竈使後人不得見比喻寵臣壅蔽君主，說明權力入口被一人壟斷的關係"
+    },
+    {
+      "chapter": "難四",
+      "para_index": 11,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "指出去所愛而專用所賢仍可能受一人壅蔽，且賢者壅主比不肖者更難被明主察覺而尤其危險"
+    },
+    {
+      "chapter": "難四",
+      "para_index": 12,
+      "domains": ["II", "V"],
+      "modes": ["proposition"],
+      "reason": "以所味不必美、所賢不必賢說明評價與實質可能不符，並辨君主察知壅蔽後改用人的風險"
+    },
+    {
+      "chapter": "難言",
+      "para_index": 1,
+      "domains": ["II"],
+      "modes": ["observation", "expression"],
+      "reason": "韓非自陳各種言說風格都會被看成華而不實、諛上或鄙陋等相反形象，因名實錯置而以進言為重患"
+    },
+    {
+      "chapter": "難言",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "以多位仁賢忠良遭闇主囚戮說明賢言未必獲聽，並把能否容納逆耳之言歸於聽者的賢愚與權力"
+    },
+    {
+      "chapter": "韓非子全文",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "卷目次，非正文"
+    },
+    {
+      "chapter": "韓非子全文",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "卷目次，非正文"
+    },
+    {
+      "chapter": "韓非子全文",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "卷目次，非正文"
+    },
+    {
+      "chapter": "韓非子全文",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "卷目次，非正文"
+    },
+    {
+      "chapter": "韓非子全文",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "卷目次，非正文"
+    },
+    {
+      "chapter": "韓非子全文",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "卷目次，非正文"
+    },
+    {
+      "chapter": "韓非子全文",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "卷目次，非正文"
+    },
+    {
+      "chapter": "韓非子全文",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "卷目次，非正文"
+    },
+    {
+      "chapter": "韓非子全文",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "卷目次，非正文"
+    },
+    {
+      "chapter": "韓非子全文",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "卷目次，非正文"
+    },
+    {
+      "chapter": "韓非子全文",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "卷目次，非正文"
+    },
+    {
+      "chapter": "韓非子全文",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "卷目次，非正文"
+    },
+    {
+      "chapter": "韓非子全文",
+      "para_index": 13,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "卷目次，非正文"
+    },
+    {
+      "chapter": "韓非子全文",
+      "para_index": 14,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "卷目次，非正文"
+    },
+    {
+      "chapter": "韓非子全文",
+      "para_index": 15,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "卷目次，非正文"
+    },
+    {
+      "chapter": "韓非子全文",
+      "para_index": 16,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "卷目次，非正文"
+    },
+    {
+      "chapter": "韓非子全文",
+      "para_index": 17,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "卷目次，非正文"
+    },
+    {
+      "chapter": "韓非子全文",
+      "para_index": 18,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "卷目次，非正文"
+    }
+  ]
+}

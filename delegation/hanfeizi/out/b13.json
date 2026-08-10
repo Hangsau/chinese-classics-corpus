@@ -1,0 +1,180 @@
+{
+  "batch": "b13.md",
+  "rows": [
+    {
+      "chapter": "奸劫弑臣",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "以「取舍同者相是、異者相非」說人因好惡相合而信任，並說姦臣順主心、藉毀譽欺主成私"
+    },
+    {
+      "chapter": "奸劫弑臣",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "明言人情就安利、去危害，故忠廉者受困而行私者富貴時，官吏轉向朋黨廢法，形成主孤臣黨"
+    },
+    {
+      "chapter": "奸劫弑臣",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "以僞詐貪汙必危、清廉奉法可安的利害，說明臣吏因安危改行而得以盡忠守職"
+    },
+    {
+      "chapter": "奸劫弑臣",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "明言君臣無骨肉親，正直能得利則盡力、不能得安則行私，並以秦民由輕犯新法轉為莫犯說明利害塑造行為"
+    },
+    {
+      "chapter": "奸劫弑臣",
+      "para_index": 5,
+      "domains": ["II", "VII"],
+      "modes": ["proposition"],
+      "reason": "以世之愚學與有術之士「談說之名」相同而實相去甚遠，並說愚者欲治卻厭惡治因、惡危卻喜危因"
+    },
+    {
+      "chapter": "奸劫弑臣",
+      "para_index": 6,
+      "domains": ["IV", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "余以詐言使春申君棄妻殺子，文本據此斷言父愛亦可被毀言所害，且君臣更無父子之親而賢者易遭讒害"
+    },
+    {
+      "chapter": "奸劫弑臣",
+      "para_index": 7,
+      "domains": ["II", "V", "VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "既辨世稱仁義、忠臣之名與治效之實，又說民受賞罰利害驅動，並以豫讓與伯夷評忠節德行；三者分別關乎名實、君臣治理與品格評價"
+    },
+    {
+      "chapter": "奸劫弑臣",
+      "para_index": 8,
+      "domains": ["VI", "IX"],
+      "modes": ["narrative", "proposition"],
+      "reason": "以多位君主被絞頸、射股、饑死、擢筋的事例，斷言劫殺死亡之君心中憂懼、形體苦痛比癕腫疕瘍更甚"
+    },
+    {
+      "chapter": "存韓",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["observation", "proposition"],
+      "reason": "以韓長期事秦而怨歸天下、功歸強秦，並以趙為免諸侯滅宗廟而圖弱秦，說明國際群體的利益與權力關係"
+    },
+    {
+      "chapter": "存韓",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "以韓君臣長期同憂、受攻的弱國將結盟抗秦，說明共同危害如何形成群體聯合與強弱權勢變化"
+    },
+    {
+      "chapter": "存韓",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以兵為凶器、計以定事，反覆要求君主審察用兵，並說一戰失敗或使諸侯生敵意皆不可悔"
+    },
+    {
+      "chapter": "存韓",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "明言韓不服秦之義而服於強，局勢轉向齊趙時便會反秦，將秦韓關係解作強力、信任與利害所維繫"
+    },
+    {
+      "chapter": "存韓",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "認為韓非以辯辭掩飾詐謀，藉秦韓交親提高自身分量、從秦取利，直指政治關係中的自便與欺詐"
+    },
+    {
+      "chapter": "存韓",
+      "para_index": 6,
+      "domains": ["V", "VI"],
+      "modes": ["prescription", "proposition"],
+      "reason": "設計以扣留韓王、陳兵示威使齊人懼從、趙氏破膽、荊人狐疑，明說權力威懾會引發各方恐懼疑慮"
+    },
+    {
+      "chapter": "存韓",
+      "para_index": 7,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "回述秦韓合作、韓背秦而受侵，並把韓衰弱歸因於聽姦臣浮說、不權事實，連結邦國權力關係與聽信姦說、不察事實的行為"
+    },
+    {
+      "chapter": "存韓",
+      "para_index": 8,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以脣亡齒寒說秦韓同憂，又反覆以斷交、攻韓與亡地之患催促韓王接見，核心在兩國互賴、信任與領導抉擇"
+    },
+    {
+      "chapter": "孤憤",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "界定智術之士須遠見明察、能法之士須強毅勁直，又界定重人為擅令虧法利私，並說兩類人在權力場中不能兩存"
+    },
+    {
+      "chapter": "孤憤",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "說諸侯、百官、郎中、學士為求辦事、進業、近主與厚祿而依附當塗者，四助遂替邪臣自飾並壅蔽人主"
+    },
+    {
+      "chapter": "孤憤",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "比較親信習故與疏遠孤特者的五勝五不勝，並說朋黨以誣殺、曲言便私、官爵和外權排除法術之士，使私門日尊"
+    },
+    {
+      "chapter": "孤憤",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "以齊、晉雖城地仍在而政權旁落為亡國之實，斷言人主不收大臣專權而仍求安存不可得"
+    },
+    {
+      "chapter": "孤憤",
+      "para_index": 5,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["proposition"],
+      "reason": "指出賢智官吏被愚人不肖者裁量會受辱，清廉者因不賄賂而遭近習毀誣，終使無能愚汙者居官，分別涉及權力把關、品格與才能任用"
+    },
+    {
+      "chapter": "孤憤",
+      "para_index": 6,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "明言君臣之利相異：臣欲無能得事、無功富貴並以朋黨用私，且說智者畏死、賢者羞姦而不從重臣，餘黨非愚即汙"
+    },
+    {
+      "chapter": "守道",
+      "para_index": 1,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["proposition"],
+      "reason": "說賞威使上下相得、善生惡死，並使臣民以功受位賞、盡力立名且成勇毅死節之士，分別落在領導關係、品格與成就勞作"
+    },
+    {
+      "chapter": "守道",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "主張以重禁輕可使君子小人俱正、暴者守愿邪者反正，因勇者與貪盜都會衡量生命、勇名與利益，終至公平"
+    },
+    {
+      "chapter": "守道",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以世無伯夷而姦人不絕說明法能防強凌弱、眾暴寡，並使庸主制盜跖、眾人不相謾、忠臣盡力死節"
+    }
+  ]
+}

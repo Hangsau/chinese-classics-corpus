@@ -1,0 +1,264 @@
+{
+  "batch": "b19.md",
+  "rows": [
+    {
+      "chapter": "難一",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "舅犯主張戰陣可詐敵，雍季則說欺民只能取一時而將失去後續信任，文公以忠信與長久之利評功"
+    },
+    {
+      "chapter": "難一",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "以國安身定為長久利益的前提，區分詐敵與欺民，並以愛下、不欺民和實際戰功重定忠信與賞功"
+    },
+    {
+      "chapter": "難一",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "舜親自耕漁製陶後使侵畔者正界、爭坻者讓長、苦窳者器牢，明說人的品行會受仁德示範而改變"
+    },
+    {
+      "chapter": "難一",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "以舜逐年躬親德化對比賞罰十日可行，主張個人德行化民有限、憑權勢矯正群下較易"
+    },
+    {
+      "chapter": "難一",
+      "para_index": 5,
+      "domains": ["IV", "V"],
+      "modes": ["narrative"],
+      "reason": "管仲以人情莫不愛子、愛身以及開方棄母，推論違逆親情與自愛者對君主的愛也不可信"
+    },
+    {
+      "chapter": "難一",
+      "para_index": 6,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "明說君臣並非父子之親而是計數交易，且制度有道則臣盡力而奸不生、無道則臣蔽主成私"
+    },
+    {
+      "chapter": "難一",
+      "para_index": 7,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "襄子把危難中仍守君臣之禮的高赫列為賞首，仲尼認為此賞會使天下人臣不敢失禮"
+    },
+    {
+      "chapter": "難一",
+      "para_index": 8,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "以驕侮者未罰、無功者受賞批評襄子，主張守禮與立功須分辨且賞罰不得越過功罪"
+    },
+    {
+      "chapter": "難一",
+      "para_index": 9,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "expression"],
+      "reason": "平公喟嘆為君之樂在無人違言，師曠以撞琴指斥此非君人之言，平公遂接受其戒諫"
+    },
+    {
+      "chapter": "難一",
+      "para_index": 10,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "分辨君臣職分，規定臣見君過應進諫、不聽則輕爵祿遠身，並指師曠越位與平公縱容皆失其禮"
+    },
+    {
+      "chapter": "難一",
+      "para_index": 11,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "桓公認為布衣之士不輕爵祿而君主須好仁義、能下士，遂五次往見小臣稷"
+    },
+    {
+      "chapter": "難一",
+      "para_index": 12,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "把仁義界定為憂天下之害、赴一國之患而不避卑辱，並以忘民、驕矜和失臣禮否定小臣的仁義之名"
+    },
+    {
+      "chapter": "難一",
+      "para_index": 13,
+      "domains": ["II", "VII"],
+      "modes": ["narrative"],
+      "reason": "郄子原欲救人，既斬後又要求徇尸以分謗，呈現其用追加舉動處理自身聲名與責任"
+    },
+    {
+      "chapter": "難一",
+      "para_index": 14,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "逐一論證救罪人會敗法、徇無辜會加害，且郄子的作法使民絕望於上又使韓子不知其過"
+    },
+    {
+      "chapter": "難一",
+      "para_index": 15,
+      "domains": ["II", "V"],
+      "modes": ["narrative"],
+      "reason": "管仲以卑不能治貴、貧不能治富、疏不能治親請求爵祿與親位，霄略辨其表面似貪而實為便治"
+    },
+    {
+      "chapter": "難一",
+      "para_index": 16,
+      "domains": ["II", "V"],
+      "modes": ["proposition"],
+      "reason": "主張命令的效力來自主威與合法性而非傳令者的尊卑，並據此揭破管仲以增寵益爵求權威的名實錯置"
+    },
+    {
+      "chapter": "難一",
+      "para_index": 17,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "樛留用魏楚兩臣爭事外市的往例勸韓宣王勿並用公仲、公叔，斷言權力並列會引發競爭與外結"
+    },
+    {
+      "chapter": "難一",
+      "para_index": 18,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "以雙臣成霸與單臣劫弒的反例主張禍患不在人數，而在君主有無術以防競爭、專制與挾持"
+    },
+    {
+      "chapter": "難三",
+      "para_index": 1,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative"],
+      "reason": "穆公問龐氏子不孝，子思以君子尊賢崇德、不識細人過行作答，故事直接評判孝行、德行與揭過者"
+    },
+    {
+      "chapter": "難三",
+      "para_index": 2,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "明言人情皆喜貴而惡賤，故穆公貴匿過者、賤告奸者會使臣下為保榮避辱而不報亂情"
+    },
+    {
+      "chapter": "難三",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "寺人披以君令不二說明自己先後追殺文公皆是奉命，文公則以桓公忘射鉤之怨用管仲為例接見他"
+    },
+    {
+      "chapter": "難三",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "辨析寬容舊怨會讓不忠之臣借賢者自解，並以惠公死後立即改事文公質疑寺人所稱的不二與貞忠"
+    },
+    {
+      "chapter": "難三",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "以射隱問答列出近優遠士、離國與晚立太子三項國君風險並促成立儲，只示範政治診斷與決策"
+    },
+    {
+      "chapter": "難三",
+      "para_index": 6,
+      "domains": ["IV", "V"],
+      "modes": ["proposition"],
+      "reason": "反駁管仲三難後，改以臣下借勢侵主、貴妾並后與愛庶危嫡為真正難題，直論權力及家內繼承關係"
+    },
+    {
+      "chapter": "難三",
+      "para_index": 7,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "仲尼依葉民背心、魯臣結黨愚君與齊君濫賜三種權力處境，分別提出來遠、選賢與節財之策"
+    },
+    {
+      "chapter": "難三",
+      "para_index": 8,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "主張以恩惠爭民會使無功受賞、有罪免責，而賞罰歸於本人功罪才會使民眾逐利於業而不感私恩"
+    },
+    {
+      "chapter": "難三",
+      "para_index": 9,
+      "domains": ["II", "V"],
+      "modes": ["proposition"],
+      "reason": "以燕噲、夫差錯認賢愚說明主觀選賢的名實誤判，主張由任事與功績驗證人臣而消除私進隱賢"
+    },
+    {
+      "chapter": "難三",
+      "para_index": 10,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "把國患從君主個人儉侈轉到臣民公私，斷言禁私、賞盡力、誅污穢能使忠臣盡忠而百官精勤"
+    },
+    {
+      "chapter": "難三",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "以知下、禁微、散黨、分公私、明賞罰串成免患的治術鏈，未另說明人為何如此或某種關係的本質"
+    },
+    {
+      "chapter": "難三",
+      "para_index": 12,
+      "domains": ["VI", "X"],
+      "modes": ["narrative"],
+      "reason": "子產明說人對親愛者始病則憂、臨死則懼、死後則哀，並由婦人只有懼而無哀識破其殺夫"
+    },
+    {
+      "chapter": "難三",
+      "para_index": 13,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "直言物眾而智寡、君主不能遍知眾臣，因而主張借制度與他人察奸，揭示領導者的認知限度與治眾關係"
+    },
+    {
+      "chapter": "難三",
+      "para_index": 14,
+      "domains": ["II", "V"],
+      "modes": ["narrative"],
+      "reason": "昭王以己強敵弱自料天下，中期用知伯恃強激成韓魏暗盟而覆亡的往事指出其自我估量有誤"
+    },
+    {
+      "chapter": "難三",
+      "para_index": 15,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "把安危歸於君主能否自恃其勢，並以左右諂諛、中期越官妄言和知伯無度評判臣下操守及君臣職分"
+    },
+    {
+      "chapter": "難三",
+      "para_index": 16,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "只以眼前賞罰是否可信推演未見之行為能否禁止，是賞罰操作的因果規則，未提出其他人的主張"
+    },
+    {
+      "chapter": "難三",
+      "para_index": 17,
+      "domains": ["II", "VII"],
+      "modes": ["proposition"],
+      "reason": "明說眾人在廣廷嚴肅而獨處時懈怠，臣下又會在君前飾行藏奸，因此所見外表不等於真實品行"
+    },
+    {
+      "chapter": "難三",
+      "para_index": 18,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "僅以言於室滿室、言於堂滿堂界定天下王的傳令效果，沒有說明人的性情、品格或關係本質"
+    },
+    {
+      "chapter": "難三",
+      "para_index": 19,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "以法應公開、術須隱藏反駁滿室滿堂之說，內容全在區分法術的發布方式，未另作人的斷言"
+    }
+  ]
+}

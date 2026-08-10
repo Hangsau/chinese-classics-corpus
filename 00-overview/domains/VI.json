@@ -2,9 +2,9 @@
   "domain": "VI",
   "name_zh": "情緒與內在生活",
   "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡",
-  "generated_at": "2026-08-10T01:34:46+00:00",
-  "para_count": 267,
-  "book_count": 13,
+  "generated_at": "2026-08-10T06:16:28+00:00",
+  "para_count": 346,
+  "book_count": 14,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -22,6 +22,1134 @@
     "wuzi"
   ],
   "paras": [
+    {
+      "slug": "hanfeizi",
+      "chapter": "二柄",
+      "para_index": 1,
+      "para_id": "hanfeizi#03-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "明主之所導制其臣者，二柄而已矣。二柄者，刑德也。何謂刑德？曰：殺戮之謂刑，慶賞之",
+      "note": "人臣「畏誅罰而利慶賞」，民喜賞賜而惡刑罰，並會歸附掌握刑德者，明說情感趨避與權力歸屬",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "五蠹",
+      "para_index": 16,
+      "para_id": "hanfeizi#04-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "民之政計，皆就安利如辟危窮。今爲之攻戰，進則死於敵，退則死於誅，則危矣。弃私家之",
+      "note": "民皆趨安利避危窮，面對進死敵、退死誅與家困便避戰，私門賄賂能得安利便趨附，明說恐危求安如何改變公私歸屬",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說上七術",
+      "para_index": 22,
+      "para_id": "hanfeizi#08-p22",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "殷之法，刑弃灰於街者。子貢以爲重，問之仲尼。仲尼曰：「知治之道也。夫弃灰於街必掩",
+      "note": "仲尼說棄灰掩人會引發憤怒、爭鬥乃至三族相殘，並以人厭惡重罰解釋禁令的作用",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說上七術",
+      "para_index": 41,
+      "para_id": "hanfeizi#08-p41",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "鱣似蛇，蠶似蠋。人見蛇則驚駭，見蠋則毛起。然而婦人拾蠶，漁者握鱣，利之所在，則忘",
+      "note": "人見蛇與蠋會驚駭毛起，但婦人與漁者能因利益忘卻厭惡，明說利可壓過恐懼反應",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說上七術",
+      "para_index": 46,
+      "para_id": "hanfeizi#08-p46",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "三國兵至韓，秦王謂樓緩曰：「三國之兵深矣！寡人欲割河東而講，何如？」對曰：「夫割",
+      "note": "公子汜預言割地與不割地都會令秦王後悔，秦王遂選擇失城之悔而避開亡國之危",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說下六微",
+      "para_index": 31,
+      "para_id": "hanfeizi#09-p31",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "一曰：魏王遺荆王美人，荆王甚悅之。夫人鄭袖知王悅愛之也，亦悅愛之，甚於王。衣服玩",
+      "note": "鄭袖先以過度悅愛新人解除王對妬意的疑心，再利用信任誣害新人，寫親密競逐中嫉妬的偽裝",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說下六微",
+      "para_index": 46,
+      "para_id": "hanfeizi#09-p46",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "鄭君已立太子矣，而有所愛美女欲以其子爲後，夫人恐，因用毒藥賊君殺之。",
+      "note": "夫人害怕寵姬之子取代既立太子，因恐懼而毒殺鄭君，寫繼承威脅下的家庭情緒與暴力",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說下六微",
+      "para_index": 58,
+      "para_id": "hanfeizi#09-p58",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "仲尼爲政於魯，道不拾遺，齊景公患之。黎且謂景公曰：「去仲尼猶吹毛耳。君何不迎之以",
+      "note": "黎且以重祿高位與女樂驕榮哀公之意，哀公果因享樂怠政並拒聽進諫，寫欲樂如何侵蝕領導責任",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說下六微",
+      "para_index": 61,
+      "para_id": "hanfeizi#09-p61",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "晉獻公伐虞、虢，乃遺之屈産之乘，垂棘之璧，女樂六，以榮其意而亂其政。",
+      "note": "獻公以名馬、寶璧與女樂榮耀虞虢君主之意並擾亂其政，明寫虛榮享樂可使領導失守",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "八經",
+      "para_index": 1,
+      "para_id": "hanfeizi#12-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "一。凡治天下，必因人情。人情者，有好惡，故賞罰可用；賞罰可用，則禁令可立而治道具",
+      "note": "明言「人情者，有好惡」，又說民會逐厚賞、美譽而畏重誅、惡毀，將人的好惡與賞罰效力連起來",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "八經",
+      "para_index": 3,
+      "para_id": "hanfeizi#12-p03",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "三。知臣主之異利者王，以爲同者劫，與共事者殺。故明主審公私之分，審利害之地，姦乃",
+      "note": "明說臣主利益相異，且人會因所畏所愛而求得與聽言，據此分類內外因與制臣方法",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "八經",
+      "para_index": 6,
+      "para_id": "hanfeizi#12-p06",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "六。聽不參，則無以責下；言不督乎用，則邪說當上。言之爲物也以多信，不然之物，十人",
+      "note": "指出眾口重複與善辯會增加可信感，君主自己的喜怒也會影響毀譽判斷，揭示群體說服與情緒偏向",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "八說",
+      "para_index": 10,
+      "para_id": "hanfeizi#13-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "使人不衣不食而不饑不寒，又不惡死，則無事上之意。意欲不宰於君，則不可使也。今生殺",
+      "note": "以人會饑寒、惡死且受利害欲求驅使為服事之由，主張不能利人害人便無法使人畏重自己",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "六反",
+      "para_index": 4,
+      "para_id": "hanfeizi#14-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "今家人之治産也，相忍以饑寒，相強以勞苦，雖犯軍旅之難，饑饉之患，温衣美食者，必是",
+      "note": "明說人欲利必惡害，因厚賞慕業、重刑畏罪，並以法前苦長利、仁偷樂後窮評斷仁與法所養成的行為",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "六反",
+      "para_index": 6,
+      "para_id": "hanfeizi#14-p06",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "老聃有言曰：「知足不辱，知止不殆。」夫以殆辱之故而不求於足之外者，老聃也。今以爲",
+      "note": "以老聃知足與桀富貴仍不足相對，斷言一般人的欲望不能靠給足止息，因而以利害賞罰安排君民關係",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "制分",
+      "para_index": 1,
+      "para_id": "hanfeizi#16-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫凡國博君尊者，未嘗非法重而可以至乎令行禁止於天下者也。是以君人者分爵制禄，則法",
+      "note": "明說民皆盡力求其所欲、好利祿而惡刑罰，並主張君上以賞罰掌握其好惡，兼論人的內在動機與權力治理",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "制分",
+      "para_index": 2,
+      "para_id": "hanfeizi#16-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "故治亂之理，宜務分刑賞爲急。治國者莫不有法，然而有存有亡；亡者，其制刑賞不分也。",
+      "note": "主張刑賞分明會使民重法畏禁、願不抵罪而自行從事，明說恐懼與避罪心如何形成群體服從",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "制分",
+      "para_index": 3,
+      "para_id": "hanfeizi#16-p03",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "是故夫至治之國，善以止姦爲務。是何也？其法通乎人情，關乎治理也。然則去微姦之道奈",
+      "note": "設計連坐、告過與失姦受刑的相闚程序，並以人人惟恐不能免罪解釋恐懼如何驅動互相監視",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "南面",
+      "para_index": 3,
+      "para_id": "hanfeizi#19-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "人臣爲主設事而恐其非也，則先出說設言曰：「議是事者，妬事者也。」人主藏是言，不更",
+      "note": "臣先誣議事者為妒，會使君主拒聽而群臣因畏懼不敢議論，明說恐懼如何造成噤聲及權力壟斷",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "和氏",
+      "para_index": 1,
+      "para_id": "hanfeizi#20-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "楚人和氏得玉璞楚山中，奉而獻之厲王。厲王使玉人相之。玉人曰：「石也。」王以和爲誑",
+      "note": "和氏明言所悲不是刖足，而是寶玉被題為石、貞士被名為誑，核心是名實遭誤認所引發的深切悲痛",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "喻老",
+      "para_index": 2,
+      "para_id": "hanfeizi#23-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "翟人有獻豐狐、玄豹之皮於晉文公。文公受客皮而歎曰：「此以皮之美自爲罪。」夫治國者",
+      "note": "由狐豹因皮美招罪推及名號、城地因可欲而招禍，揭示人的欲求如何形成爭奪與政治危害",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "喻老",
+      "para_index": 3,
+      "para_id": "hanfeizi#23-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "智伯兼范、中行而攻趙不已，韓、魏反之，軍敗晉陽，身死高梁之東，遂卒被分，漆其首以",
+      "note": "智伯兼併後仍攻趙不止而身死國分，以不知足明指欲望無厭的品格會招致大禍",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "喻老",
+      "para_index": 4,
+      "para_id": "hanfeizi#23-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "虞君欲屈産之乘與垂棘之璧，不聽宫之奇，故邦亡身死。故曰：「咎莫憯於欲得。」",
+      "note": "虞君貪求良馬美璧而不聽勸，終至邦亡身死，以欲得說明貪求與咎患",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "喻老",
+      "para_index": 5,
+      "para_id": "hanfeizi#23-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "邦以存爲常，霸王其可也；身以生爲常，富貴其可也。不以欲自害，則邦不亡，身不死。故",
+      "note": "明言不以欲望自害即可使邦不亡、身不死，將知足與節欲連到生命的保全",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "喻老",
+      "para_index": 12,
+      "para_id": "hanfeizi#23-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "昔者紂爲象箸而箕子怖，以爲象箸必不加於土鉶，必將犀玉之杯；象箸玉杯必不羮菽藿，必",
+      "note": "箕子由象箸推見享欲會逐步擴張至奢虐亡國，既寫欲望的增長，也以見始知卒表明識微的品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "喻老",
+      "para_index": 13,
+      "para_id": "hanfeizi#23-p13",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "勾踐入宦於吳，身執干戈爲吴王洗馬，故能殺夫差於姑蘇。文王見詈於王門，顔色不變，而",
+      "note": "勾踐忍受臣僕之辱、文王受詈而顏色不變，藉守柔說明面對屈辱時的內在穩定與自處",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "喻老",
+      "para_index": 14,
+      "para_id": "hanfeizi#23-p14",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "宋之鄙人得璞玉而獻之子罕，子罕不受。鄙人曰：「此寶也，宜爲君子器，不宜爲細人用。",
+      "note": "子罕以第一人稱表明自己以不受玉為寶，將欲玉與不欲玉對照為克制欲望的品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "喻老",
+      "para_index": 17,
+      "para_id": "hanfeizi#23-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "空竅者，神明之户牗也。耳目竭於聲色，精神竭于外貌，故中無主。中無主，則禍福雖如丘",
+      "note": "指出耳目逐聲色、精神逐外貌便會中無主而不能識禍福，主張守住內在中心以保持明察",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "喻老",
+      "para_index": 18,
+      "para_id": "hanfeizi#23-p18",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "趙襄王學御於王子於期，俄而與於期逐，三易馬而三後。襄王曰：「子之教我御，術未盡也",
+      "note": "襄王競逐時心皆在對手而不能調馬，白公思遠而不覺面頰流血，說明注意外馳會遺忘眼前並損害明智",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "喻老",
+      "para_index": 21,
+      "para_id": "hanfeizi#23-p21",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "子夏見曾子。曾子曰：「何肥也？」對曰：「戰勝，故肥也。」曾子曰：「何謂也？」子夏",
+      "note": "子夏自述義與富貴之樂交戰於胸中，終以先王之義取勝，呈現內在衝突與自我克制",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左上",
+      "para_index": 47,
+      "para_id": "hanfeizi#24-p47",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "鄭縣人有屈公者，聞敵，恐，因死；恐已，因生。",
+      "note": "屈公聞敵即因恐懼而死、恐懼消退又復生，寓言把恐懼及其劇烈內在作用本身作為重點",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說右上",
+      "para_index": 39,
+      "para_id": "hanfeizi#26-p39",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "晉文公問於狐偃曰：「寡人甘肥周於堂，巵酒豆肉集於宫，壺酒不清，生肉不布，殺一牛遍",
+      "note": "狐偃說民因保全生產才從君而不願迎死，文公又斬所愛顛頡使百姓恐懼服法，明寫民眾動機、恐懼與領導權威",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說右上",
+      "para_index": 40,
+      "para_id": "hanfeizi#26-p40",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫痤疽之痛也，非刺骨髓，則煩心不可支也；非如是，不能使人以半寸砥石彈之。今人主之",
+      "note": "痤疽刺骨與砥石彈治寫身體之痛，人主又因親愛重臣而難下誅，藉忍受痛苦說明處置權臣的內在與權力困局",
+      "co_domains": [
+        "V",
+        "IX"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說右下",
+      "para_index": 41,
+      "para_id": "hanfeizi#27-p41",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "延陵卓子乘蒼龍挑文之乘，鉤飾在前，錯錣在後，馬欲進則鉤飾禁之，欲退則錯錣貫之，馬",
+      "note": "賞罰同時夾帶相反的毀譽，使民眾中立而不知所由，明寫矛盾權力訊號造成群體迷惘",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說右下",
+      "para_index": 42,
+      "para_id": "hanfeizi#27-p42",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "一曰：延陵卓子乘蒼龍與翟文之乘，前則有錯飾，後則有利錣，進則引之，退則筴之。馬前",
+      "note": "君主進譽清潔公正者卻又因其不合左右、不肯聽從而退廢，呈現權力對品格的矛盾要求，並明寫民眾因而恐懼迷惘",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "大體",
+      "para_index": 1,
+      "para_id": "hanfeizi#28-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "古之全大體者：望天地，觀江海，因山谷，日月所照，四時所行，雲布風動；不以智累心，",
+      "note": "段落以法與自然保全萬民、免於戰禍來論秩序，又以心無結怨、澹然閒靜寫內在狀態，並明言「福莫久於安」作長久安頓",
+      "co_domains": [
+        "V",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "大體",
+      "para_index": 2,
+      "para_id": "hanfeizi#28-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "上不天則下不遍覆，心不地則物不必載。太山不立好惡，故能成其高；江海不擇小助，故能",
+      "note": "以領導者不立好惡、包容眾助換得上無忿怒、下無伏怨，說明領導關係如何形成群體的情緒和平",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "奸劫弑臣",
+      "para_index": 8,
+      "para_id": "hanfeizi#29-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "諺曰：「厲憐王。」此不恭之言也。雖然，古無虚諺，不可不察也。此謂劫殺死亡之主言也",
+      "note": "以多位君主被絞頸、射股、饑死、擢筋的事例，斷言劫殺死亡之君心中憂懼、形體苦痛比癕腫疕瘍更甚",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "存韓",
+      "para_index": 6,
+      "para_id": "hanfeizi#30-p06",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "臣視非之言，文其淫說靡辯，才甚。臣恐陛下淫非之辯而聽其盜心，因不詳察事情。今以臣",
+      "note": "設計以扣留韓王、陳兵示威使齊人懼從、趙氏破膽、荊人狐疑，明說權力威懾會引發各方恐懼疑慮",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "安危",
+      "para_index": 5,
+      "para_id": "hanfeizi#33-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人主不自刻以堯而責人臣以子胥，是幸殷人之盡如比干；盡如比干，則上不失、下不亡。不",
+      "note": "斷言逼人捨其所長、守其所短，會使人不能憑所長立功，且憂其所短而不樂其生",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "揚榷",
+      "para_index": 1,
+      "para_id": "hanfeizi#39-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "天有大命，人有大命。夫香美脆味，厚酒肥肉，甘口而疾形；曼理皓齒，說情而捐精。故去",
+      "note": "指出美味厚酒與美色雖悅情甘口卻傷形捐精，主張節制過度欲樂以免身體受害",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "揚榷",
+      "para_index": 6,
+      "para_id": "hanfeizi#39-p06",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "凡聽之道，以其所出，反以為之入。故審名以定位，明分以辯類。聽言之道，溶若甚醉。脣",
+      "note": "斷言喜好會滋生多事、厭惡會引起怨恨，因而要求去喜去惡、虛心靜聽並交叉查驗",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "揚權",
+      "para_index": 4,
+      "para_id": "hanfeizi#40-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "謹脩所事，待命於天。毋失其要，乃爲聖人。聖人之道，去智與巧。智巧不去，難以爲常。",
+      "note": "主張去除智巧並保持虛靜、不任己意，且明言人若運用智巧便多遭禍殃",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "揚權",
+      "para_index": 6,
+      "para_id": "hanfeizi#40-p06",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "凡聽之道，以其所出，反以爲之入。故審名以定位，明分以辯類。聽言之道，溶若甚醉。脣",
+      "note": "提出反聽、參伍與按行賞刑的聽治程序，並指出喜好會多事、憎惡會生怨而應去喜去惡、虛心自持",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "用人",
+      "para_index": 3,
+      "para_id": "hanfeizi#42-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "明主立可爲之賞，設可避之罰。故賢者勸賞而不見子胥之禍，不肖者少罪而不見傴剖背，盲",
+      "note": "明言人心難知且喜怒難以揣中，君主若任難測私心便會使上積怒、下積怨，故應建立易見易知的規則",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "用人",
+      "para_index": 4,
+      "para_id": "hanfeizi#42-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "聞之曰：「舉事無患者，堯不得也。」而世未嘗無事也。君人者不輕爵禄，不易富貴，不可",
+      "note": "以介子推不顧爵祿而行義割肌為仁說明廉恥仁義，並明言人主與人臣各有樂苦，主張調和雙方利害以免怨禍",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "用人",
+      "para_index": 5,
+      "para_id": "hanfeizi#42-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人主立難爲而罪不及，則私怨生；人臣失所長而奉難給，則伏怨結。勞苦不撫循，憂悲不哀",
+      "note": "指出臣下被迫承擔不合所長且難以完成的職務，又在勞苦憂悲中不受撫恤，會積結私怨並終至叛主",
+      "co_domains": [
+        "V",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "用人",
+      "para_index": 7,
+      "para_id": "hanfeizi#42-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "釋儀的而妄發，雖中小不巧；釋法制而妄怒，雖殺戮而姦人不恐。罪生甲，禍歸乙，伏怨乃",
+      "note": "指出任意發怒施刑會使罪禍錯置而積成怨恨，賞罰合宜則君臣都能免於受害並安於職事",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 2,
+      "para_id": "hanfeizi#44-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "所以貴無爲無思爲虚者，謂其意無所制也。夫無術者，故以無爲無思爲虚也。夫故以無爲無",
+      "note": "指出刻意守著虛反使意念受制，唯有不把無為固定化才能心虛而德盛",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 3,
+      "para_id": "hanfeizi#44-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "仁者，謂其中心欣然愛人也；其喜人之有福，而惡人之有禍也；生心之所不能已也，非求其",
+      "note": "把仁界定為由衷愛人、喜其得福而惡其受禍且不求回報，兼說內在情感與品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 5,
+      "para_id": "hanfeizi#44-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "禮者，所以貌情也，群義之文章也，君臣父子之交也，貴賤賢不肖之所以别也。中心懷而不",
+      "note": "說禮以外在動作言辭表明內情，並以眾人易衰與聖人恭敬不衰對照不同品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 8,
+      "para_id": "hanfeizi#44-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "先物行先理動之謂前識。前識者，無緣而妄意度也。何以論之？詹何坐，弟子侍，牛鳴於門",
+      "note": "以詹何辨牛的故事說無緣妄度會苦心傷神，且所得不過與童子目見相同",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 10,
+      "para_id": "hanfeizi#44-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人有禍，則心畏恐；心畏恐，則行端直；行端直，則思慮熟；思慮熟，則得事理。行端直，",
+      "note": "說遭禍使人畏懼而端正熟慮，終能避害、成功並全壽，揭示人如何由禍轉福",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 11,
+      "para_id": "hanfeizi#44-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人有福，則富貴至；富貴至，則衣食美；衣食美，則驕心生；驕心生，則行邪僻而動弃理。",
+      "note": "說富貴美食會生驕心，驕心再使行為邪僻、背理而招致夭敗，連結情緒與品格敗壞",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 16,
+      "para_id": "hanfeizi#44-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "衆人之用神也躁，躁則多費，多費之謂侈。聖人之用神也靜，靜則少費，少費之謂嗇。嗇之",
+      "note": "以眾人躁而耗神、聖人靜而少費相對，主張在禍形未見前即安靜守理以遠患",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 17,
+      "para_id": "hanfeizi#44-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "知治人者，其思慮靜；知事天者，其孔竅虚。思慮靜，故德不去；孔竅虚，則和氣日入。故",
+      "note": "說思慮靜、孔竅虛能使舊德不去而和氣日入，積德遂使精神安靜、計慮得當",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 24,
+      "para_id": "hanfeizi#44-p24",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "人有欲則計會亂，計會亂而有欲甚，有欲甚則邪心勝，邪心勝則事經絶，事經絶則禍難生。",
+      "note": "說欲望使計慮混亂、邪心勝而良民為姦，因而主張聖人明君遠離聲色玩好",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 25,
+      "para_id": "hanfeizi#44-p25",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人無毛羽，不衣則不犯寒；上不屬天而下不著地，以腸胃爲根本，不食則不能活。是以不免",
+      "note": "從衣食的身體需要說明逐利欲望難免，並以聖人知足無憂對照眾人終身憂求不解",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 26,
+      "para_id": "hanfeizi#44-p26",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故欲利甚於憂，憂則疾生，疾生而智慧衰；智慧衰，則失度量；失度量，則妄舉動；妄舉動",
+      "note": "把貪利、憂慮、智慧衰退、妄動、疾病苦痛與事後自咎串成一條身心傷害因果鏈",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 28,
+      "para_id": "hanfeizi#44-p28",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人希見生象也，而得死象之骨，案其圖以想其生也，故諸人之所以意想者皆謂之「象」也。",
+      "note": "以人由死象之骨想像生象為例，明說人會從可見痕跡形成對不可見事物的心中意象",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 37,
+      "para_id": "hanfeizi#44-p37",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "人無愚智，莫不有趨舍。恬淡平安，莫不知禍福之所由來。得於好惡，怵於淫物，而後變乱",
+      "note": "指出人人本知趨舍禍福卻易受外物玩好擾亂，並以聖人定志不動說明如何使精神與生活安穩",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林上",
+      "para_index": 24,
+      "para_id": "hanfeizi#46-p24",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "紂爲象箸而箕子怖，以爲象箸必不盛羹於土鉶，則必犀王之杯；玉柸象箸必不盛菽藿，則必",
+      "note": "箕子從象箸推見享用會層層升高直至天下不足，既論欲望擴張的內在動力，也以聖人見微知末彰顯節制與識見",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林下",
+      "para_index": 4,
+      "para_id": "hanfeizi#47-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "鱣似蛇，蠶似蠋。人見蛇則驚駭，見蠋則毛起。漁者持鱣，婦人拾蠶，利之所在，皆爲賁、",
+      "note": "人見蛇蠋驚駭毛起，卻因利而能持相似的鱣蠶，主張利益可壓過恐懼並使人如賁、諸般勇猛",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林下",
+      "para_index": 9,
+      "para_id": "hanfeizi#47-p09",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "楊朱之弟楊布衣素衣而出。天雨，解素衣，衣緇衣而反，其狗不知而吠之。楊布怒，將擊之",
+      "note": "楊布因狗不識換衣而怒，楊朱要他設想白狗變黑時自己也會怪，說明驚疑與怒氣可由換位反省節制",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林下",
+      "para_index": 10,
+      "para_id": "hanfeizi#47-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "惠子曰：「羿執決持扞，操弓關機，越人爭爲持旳。弱子扜弓，慈母入室閉户。」故曰：「",
+      "note": "越人肯為善射的羿持旳而慈母躲避弱子之弓，說明可信賴的能力會改變疑懼反應",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林下",
+      "para_index": 11,
+      "para_id": "hanfeizi#47-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "桓公問管仲：「富有涯乎？」答曰：「水之以涯，其無水者也；富之以涯，其富已足者也。",
+      "note": "管仲說財富的界限在於知足，而人不能自止於足，直接論欲求無厭與知足自制",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林下",
+      "para_index": 13,
+      "para_id": "hanfeizi#47-p13",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "有欲以御見荆王者，衆騶妬之。因曰：「臣能撽鹿。」見王。王爲禦，不及鹿；自御，及之",
+      "note": "御者遭眾騶妒忌，藉逐鹿讓荊王親見其駕御之能，呈現嫉妒與才能證成",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林下",
+      "para_index": 19,
+      "para_id": "hanfeizi#47-p19",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "公子糾將爲亂，桓公使使者視之。使者報曰：「笑不樂，視不見，必爲亂。」乃使魯人殺之",
+      "note": "使者從公子糾「笑不樂，視不見」判其將亂，呈現內在意圖由神情顯露",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林下",
+      "para_index": 28,
+      "para_id": "hanfeizi#47-p28",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "知伯將伐仇由而道難不通，乃鑄大鐘遺仇由之君。仇由之君大說，除道將内之。赤章曼枝曰",
+      "note": "仇由君因受大鐘而「大說」、不聽大國送禮後必有兵隨的警告，顯示喜悅使領導者忽略權力威脅",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說難",
+      "para_index": 1,
+      "para_id": "hanfeizi#49-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡說之難，非吾知之有以說之之難也，又非吾辯之能明吾意之難也，又非吾敢横失而能盡之",
+      "note": "說者須辨對方求名、求利或陽名陰利之心，因錯配名利會被鄙棄或暗疏，明寫自我形象與內在欲求的落差",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說難",
+      "para_index": 2,
+      "para_id": "hanfeizi#49-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫事以密成，語以泄敗。未必其身泄之也，而語及所匿之事，如此者身危。彼顯有所出事，",
+      "note": "段落逐列言語觸及隱事、功過、所愛所憎時如何招致貴人猜疑，說明權力關係中的疑懼使進言者身危",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說難",
+      "para_index": 5,
+      "para_id": "hanfeizi#49-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "昔者彌子瑕有寵於衛君。衛國之法：竊駕君車者罪刖。彌子瑕母病，人間往夜告彌子，彌子",
+      "note": "彌子瑕與衛君的寵愛關係是親密層面；衛君愛憎由盛轉衰是內在情緒；同一行為隨君權由見賢轉為獲罪則是權力後果",
+      "co_domains": [
+        "III",
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說難",
+      "para_index": 6,
+      "para_id": "hanfeizi#49-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫龍之爲虫也，柔可狎而騎也；然其喉下有逆鱗徑尺，若人有嬰之者，則必殺人。人主亦有",
+      "note": "以龍被觸逆鱗必殺人比人主也有不可觸犯之處，說明進說者須辨識掌權者的暴怒界線",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "難三",
+      "para_index": 2,
+      "para_id": "hanfeizi#51-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或曰：魯之公室，三世劫於季氏，不亦宜乎？明君求善而賞之，求姦而誅之，其得之一也。",
+      "note": "明言人情皆喜貴而惡賤，故穆公貴匿過者、賤告奸者會使臣下為保榮避辱而不報亂情",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "難三",
+      "para_index": 12,
+      "para_id": "hanfeizi#51-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "鄭子産晨出，過東匠之閭，聞婦人之哭，撫其御之手而聽之。有間，遣吏執而問之，則手絞",
+      "note": "子產明說人對親愛者始病則憂、臨死則懼、死後則哀，並由婦人只有懼而無哀識破其殺夫",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "難二",
+      "para_index": 3,
+      "para_id": "hanfeizi#52-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊桓公飲酒醉，遺其冠，恥之，三日不朝。管仲曰：「此有國之恥也，公胡其不雪之以政？",
+      "note": "桓公因遺冠羞恥而三日不朝，施惠釋罪後百姓歌頌，寫出羞恥如何推動政治行動及民眾反應",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "難四",
+      "para_index": 7,
+      "para_id": "hanfeizi#54-p07",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "鄭伯將以高渠彌爲卿，昭公惡之，固諫不聽。及昭公即位，懼其殺己也，辛卯，弑昭公而立",
+      "note": "昭公早已厭惡高渠彌卻未阻其任卿，高渠彌因懼怕被殺而弑君，呈現嫌惡與恐懼在權力關係中的後果",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "難四",
+      "para_index": 8,
+      "para_id": "hanfeizi#54-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或曰：公子圉之言也，不亦反乎？昭公之及於難者，報惡晚也。然則高伯之晚於死者，報惡",
+      "note": "主張君主懸怒不決會使含憎懼死的罪臣乘機行計，能見危險卻不能決斷同樣危及自身",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "難四",
+      "para_index": 9,
+      "para_id": "hanfeizi#54-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或曰：報惡甚者，大誅報小罪。大誅報小罪也者，獄之至也。獄之患，故非在所以誅也，以",
+      "note": "指出以大誅報小罪會因仇敵眾多而生禍，未有罪便顯怒與懷誅心會使自己與天下為讎",
+      "co_domains": [
+        "V"
+      ]
+    },
     {
       "slug": "lienuzhuan",
       "chapter": "齊桓衛姬",

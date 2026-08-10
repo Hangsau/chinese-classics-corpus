@@ -1,0 +1,145 @@
+{
+  "batch": "b21.md",
+  "rows": [
+    {
+      "chapter": "顯學",
+      "para_index": 1,
+      "domains": ["II", "VII"],
+      "modes": ["observation", "proposition"],
+      "reason": "儒分八、墨離三而取舍相反，卻各自稱真孔墨；把無參驗而仍斷定者判為愚、不能斷定卻據以立說者判為誣，兼論真偽身分與品格。"
+    },
+    {
+      "chapter": "顯學",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "儒墨對葬禮與品行的孝戾侈儉、廉寬等評價彼此相反，君主兼禮兼聽，使士人言行無常而政亂。"
+    },
+    {
+      "chapter": "顯學",
+      "para_index": 3,
+      "domains": ["VII", "VIII"],
+      "modes": ["proposition"],
+      "reason": "在處境相若時，力而儉者富、侈而墯者貧，並指出奪前者所得以施後者會使民不再疾作節用，直論品性與勞動。"
+    },
+    {
+      "chapter": "顯學",
+      "para_index": 4,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "君主一面尊養避危重生、談說與私鬥者，一面要求人民赴死、耕作與公戰；所養非所用，使公共秩序與各類職分的獎勵相反。"
+    },
+    {
+      "chapter": "顯學",
+      "para_index": 5,
+      "domains": ["II", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "孔子因容貌言辭錯認子羽與宰予，鍛劍駕馬也須以實作驗證，故人才應以官職功效而非外觀辯說判定。"
+    },
+    {
+      "chapter": "顯學",
+      "para_index": 6,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "商工技藝不墾而食、儒俠無軍勞而顯榮，被比作不生粟的磐石與不能禦敵的象人，評斷各群體職分與公共貢獻。"
+    },
+    {
+      "chapter": "顯學",
+      "para_index": 7,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "力多使他國來朝、威勢能禁暴，而慈母厚德不足防敗子止亂，明說權力約束與德性教化對行為的不同作用。"
+    },
+    {
+      "chapter": "顯學",
+      "para_index": 8,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "境內自發為善者不到十分之一，治理應使眾人不得為非而不寄望偶然自善，主張人的善惡須由法與賞罰約束。"
+    },
+    {
+      "chapter": "顯學",
+      "para_index": 9,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition"],
+      "reason": "智由性、壽由命而不能向人學得，仁義教化也被比作強求人必智必壽，明說能力與品格教育的可改變界限。"
+    },
+    {
+      "chapter": "顯學",
+      "para_index": 10,
+      "domains": ["II", "VII"],
+      "modes": ["proposition"],
+      "reason": "祝人千秋萬歲雖悅耳卻不能增一日壽命，儒者以飾辭許諾霸王亦無實事，批評言辭名聲與實效不符及用虛言立說。"
+    },
+    {
+      "chapter": "顯學",
+      "para_index": 11,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "人民如嬰兒只見眼前小苦，會把增產、禁邪、備荒與禦敵等長遠利益誤作酷貪暴，故民智不足作為治理準則。"
+    },
+    {
+      "chapter": "飭令",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "formalization"],
+      "reason": "全段只規定法令固定、任功與依法斷治的制度效果及里數標準，未另說人為何如此。"
+    },
+    {
+      "chapter": "飭令",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["prescription", "formalization"],
+      "reason": "逐項規定刑賞、農粟出爵、按功授官與攻取的制度程序及數量效果，只是做甲得乙的治國鏈條。"
+    },
+    {
+      "chapter": "飭令",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["prescription", "formalization"],
+      "reason": "按重刑少賞、利出一二十空與加重輕罪分列刑賞規則及國勢結果，沒有把人的性情作為依據說出。"
+    },
+    {
+      "chapter": "飾邪",
+      "para_index": 1,
+      "domains": ["XI"],
+      "modes": ["observation", "proposition"],
+      "reason": "趙、燕、魏在大吉占兆與星位下仍有相反成敗，據此斷言龜筴鬼神不能決勝、依恃占候最愚，把成敗從天兆移回實事。"
+    },
+    {
+      "chapter": "飾邪",
+      "para_index": 2,
+      "domains": ["V", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "勾踐棄龜明法而復國，曹、邢、許、鄭與韓依賴外國反亡，主張國勢取決於明法親民而非鬼神或外援。"
+    },
+    {
+      "chapter": "飾邪",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "賞罰失度使臣徒取偷幸，無功受賞又使財匱民怨而不盡力，說明公共獎懲的公平如何改變功勞與勞動投入。"
+    },
+    {
+      "chapter": "飾邪",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "穀陽出於忠愛進酒，卻使嗜酒不能自制的子反誤戰受誅，故事據此主張私人的小忠會傷害面向國事的大忠。"
+    },
+    {
+      "chapter": "飾邪",
+      "para_index": 5,
+      "domains": ["II", "V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "本段既以魏趙燕說常法決定國家強弱，又說名譽巧說使稱賢明與暴亂失其類，並說請謁上交排擠有功材臣而使民勞無功，三項分別涉及公權、名實與功業。"
+    },
+    {
+      "chapter": "飾邪",
+      "para_index": 6,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "段落明分人臣公義與私心，並斷言君臣以利害計合、臣不肯害身利國，只有明賞嚴刑才會盡力死事，說明公私關係與品格如何受制度改變。"
+    }
+  ]
+}

@@ -2,9 +2,9 @@
   "domain": "III",
   "name_zh": "愛與親密",
   "gist": "愛與性、被拒絕、承諾、信任與脆弱、溝通與被理解",
-  "generated_at": "2026-08-10T01:34:46+00:00",
-  "para_count": 84,
-  "book_count": 10,
+  "generated_at": "2026-08-10T06:16:28+00:00",
+  "para_count": 92,
+  "book_count": 11,
   "surveyed_zero_hit": [
     "fangyan",
     "gu-sanfen",
@@ -62,6 +62,116 @@
       "excerpt": "唯有一女人愛悅於帝，名曰巨靈。帝傍有青珉唾壺，巨靈乍出入其中，或戲笑帝前。東方朔",
       "note": "巨靈是帝所愛悅並在帝前嬉戲的女子，她受東方朔注目後離去化鳥，異變之外仍寫到親密依戀",
       "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "備內",
+      "para_index": 2,
+      "para_id": "hanfeizi#07-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "且萬乘之主，千乘之君，后妃、夫人適子爲太子者，或有欲其君之蚤死者。何以知其然？夫",
+      "note": "以「愛則親，不愛則疏」與美衰好色解釋夫妻親疏，以母后子主說家內繼承，並以眾人所利在君死說宮廷權勢與防備，三者各是本段獨立主張",
+      "co_domains": [
+        "IV",
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說下六微",
+      "para_index": 14,
+      "para_id": "hanfeizi#09-p14",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "燕人無惑，故浴狗矢。燕人，其妻有私通於士，其夫早自外而來，士適出。夫曰：「何客也",
+      "note": "妻子私通後與左右同口欺瞞丈夫，甚至使他以狗矢沐浴，寫親密關係中的背叛與合謀欺騙",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說下六微",
+      "para_index": 15,
+      "para_id": "hanfeizi#09-p15",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "一曰：燕人李季好遠出，其妻私有通於士，季突至，士在内中，妻患之。其室婦曰：「令公",
+      "note": "李季之妻與家人共同佯裝不見私通者，使丈夫相信所見是鬼並依言沐浴，寫伴侶信任遭集體利用",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說下六微",
+      "para_index": 16,
+      "para_id": "hanfeizi#09-p16",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "二。衛人有夫妻禱者，而祝曰：「使我無故，得百束布。」其夫曰：「何少也？」對曰：「",
+      "note": "妻子只求百束布，直言所得再多丈夫便會買妾，顯示夫妻對財利與伴侶承諾的盤算",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說下六微",
+      "para_index": 31,
+      "para_id": "hanfeizi#09-p31",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "一曰：魏王遺荆王美人，荆王甚悅之。夫人鄭袖知王悅愛之也，亦悅愛之，甚於王。衣服玩",
+      "note": "鄭袖先以過度悅愛新人解除王對妬意的疑心，再利用信任誣害新人，寫親密競逐中嫉妬的偽裝",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說下六微",
+      "para_index": 55,
+      "para_id": "hanfeizi#09-p55",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "鄭君問鄭昭曰：「太子亦何如？」對曰：「太子未生也。」君曰：「太子已置而曰『未生』",
+      "note": "鄭昭說君主好色不止便會再愛寵姬之子並欲立後，所以當前太子的繼承地位仍不確定",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左上",
+      "para_index": 62,
+      "para_id": "hanfeizi#24-p62",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "吳起出，遇故人而止之食。故人曰：「諾，今返而御。」吳子曰：「待公而食。」故人至暮",
+      "note": "吳起與故人相約共食，對方至暮未返仍不先吃，次日尋得後才同食，以對朋友承諾的堅守呈現關係信任與守信品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說難",
+      "para_index": 5,
+      "para_id": "hanfeizi#49-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "昔者彌子瑕有寵於衛君。衛國之法：竊駕君車者罪刖。彌子瑕母病，人間往夜告彌子，彌子",
+      "note": "彌子瑕與衛君的寵愛關係是親密層面；衛君愛憎由盛轉衰是內在情緒；同一行為隨君權由見賢轉為獲罪則是權力後果",
+      "co_domains": [
+        "V",
+        "VI"
+      ]
     },
     {
       "slug": "lienuzhuan",

@@ -1,0 +1,138 @@
+{
+  "batch": "b07.md",
+  "rows": [
+    {
+      "chapter": "十過",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["formalization"],
+      "reason": "以十條綱目把小忠、貪利、剛愎、自用與耽樂等品性列為招致敗亡的過失，是對品格的明確評斷"
+    },
+    {
+      "chapter": "十過",
+      "para_index": 2,
+      "domains": ["VII"],
+      "modes": ["narrative"],
+      "reason": "穀陽本出於忠愛而進酒，子反又嗜酒不能自止，結果小忠反而害死所愛之人，所論是忠愛與自制的品格偏失"
+    },
+    {
+      "chapter": "十過",
+      "para_index": 3,
+      "domains": ["VII"],
+      "modes": ["narrative"],
+      "reason": "虞公貪圖璧馬而不慮亡國之害，故事明言愛小利而不顧大害的貪短品性"
+    },
+    {
+      "chapter": "十過",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "楚靈王對諸侯無禮、拒聽勸諫而獨行其意，終至群臣劫持與身亡，同時說明領導關係及自用失德的後果"
+    },
+    {
+      "chapter": "十過",
+      "para_index": 5,
+      "domains": ["VII", "XII"],
+      "modes": ["narrative"],
+      "reason": "晉平公明知自己德薄仍耽於亡國之聲，並在鬼神、玄鶴與風雨等超越徵象前執意不止，所寫兼及放縱品性與人面對神異禁戒"
+    },
+    {
+      "chapter": "十過",
+      "para_index": 6,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "智伯被反覆直指為好利驁愎、陽親陰疏而拒絕防備盟友，終因貪利少親失去韓魏並敗亡，兼論權力結盟與品格"
+    },
+    {
+      "chapter": "十過",
+      "para_index": 7,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "由余以儉得國、以奢失國立論，戎王耽女樂而疏遠諫臣終致亡國，明說領導責任與儉奢品格的關係"
+    },
+    {
+      "chapter": "十過",
+      "para_index": 8,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "顏涿聚冒死直諫並明言為國而非為身，景公聽諫返國才保住政權，呈現臣子的忠勇與君臣責任"
+    },
+    {
+      "chapter": "十過",
+      "para_index": 9,
+      "domains": ["IV", "V", "VII"],
+      "modes": ["narrative"],
+      "reason": "段中以人皆愛身、親父母、愛子說明親情底線，以剛愎或廉信等品格判人，並據此決定誰能受任輔主，三者缺一便少了相應論旨"
+    },
+    {
+      "chapter": "十過",
+      "para_index": 10,
+      "domains": ["II", "V"],
+      "modes": ["narrative"],
+      "reason": "韓君把楚國名義上的救援當真而忽視秦國實際威脅，呈現名實誤判如何破壞結盟與領導決策"
+    },
+    {
+      "chapter": "十過",
+      "para_index": 11,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "曹君無禮招致重耳報復，釐負羈先以禮相助則獲保全且眾人歸附，故事以互惠後果說明待人之禮與群體關係"
+    },
+    {
+      "chapter": "南面",
+      "para_index": 1,
+      "domains": ["II", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "人臣以名譽請謁求進、假託忠信避禁，相愛相憎者又結黨互相譽非，明說名實偽飾與朋黨權力如何使君主受惑"
+    },
+    {
+      "chapter": "南面",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "本段界定人臣先少索資而以事誣主的誘事手法，並規定如何用前後言責及賞罰制止，是駕馭程序而未解釋人何以如此"
+    },
+    {
+      "chapter": "南面",
+      "para_index": 3,
+      "domains": ["V", "VI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "臣先誣議事者為妒，會使君主拒聽而群臣因畏懼不敢議論，明說恐懼如何造成噤聲及權力壟斷"
+    },
+    {
+      "chapter": "南面",
+      "para_index": 4,
+      "domains": ["II", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "惑主只計所得而不計支出，遂使名得而實亡並縱容臣下以大費成小功，所論是名實錯置與領導決策失責"
+    },
+    {
+      "chapter": "南面",
+      "para_index": 5,
+      "domains": ["V", "XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "本段明說人難變古是憚於改變既有安逸，民眾又苦小費而忘大利，並要求人主即使拂民也推行改革，兼論改變與領導"
+    },
+    {
+      "chapter": "和氏",
+      "para_index": 1,
+      "domains": ["II", "VI"],
+      "modes": ["narrative"],
+      "reason": "和氏明言所悲不是刖足，而是寶玉被題為石、貞士被名為誑，核心是名實遭誤認所引發的深切悲痛"
+    },
+    {
+      "chapter": "和氏",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "法術會禁絕大臣近習與士民的私利，因而被各群體視為禍害，使法術之士可能至死而道不被採納，所論是既得利益對權力改革的壓制"
+    },
+    {
+      "chapter": "和氏",
+      "para_index": 3,
+      "domains": ["V", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "吳起、商君推行改革而遭權勢者殺害，末段又明言大臣貪重、細民安亂，說明既得利益與安於舊亂如何阻礙改變"
+    }
+  ]
+}

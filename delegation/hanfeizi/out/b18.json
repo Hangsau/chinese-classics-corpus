@@ -1,0 +1,383 @@
+{
+  "batch": "b18.md",
+  "rows": [
+    {
+      "chapter": "說林下",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["narrative"],
+      "reason": "伯樂門人由踶馬腫膝不能任前，推至「勢不便，非所以逞能」，說明才能能否施展受條件限制"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 2,
+      "domains": ["V", "XI"],
+      "modes": ["narrative"],
+      "reason": "文子認為無論把他視為君子或暴人都不應失敬，並把曾子未遭戮歸於命，兼論待人之道與命運"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 3,
+      "domains": ["XIII"],
+      "modes": ["narrative"],
+      "reason": "重首屈尾之鳥銜羽方能飲水，並推說人有所不足便須尋求可補其缺的「羽」"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 4,
+      "domains": ["VI", "VII"],
+      "modes": ["proposition"],
+      "reason": "人見蛇蠋驚駭毛起，卻因利而能持相似的鱣蠶，主張利益可壓過恐懼並使人如賁、諸般勇猛"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 5,
+      "domains": ["VIII"],
+      "modes": ["narrative"],
+      "reason": "伯樂把日售而利急的駑馬之相授給所愛者、把利緩的千里馬之相授給所憎者，以收益緩急衡量技能的實用價值"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 6,
+      "domains": ["XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "桓赫以鼻可削小、目可增大為喻，主張做事應選日後可以回復者以減少失敗"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 7,
+      "domains": ["VII"],
+      "modes": ["narrative"],
+      "reason": "崇侯等只知心不知事、比干等只知事不知心且未料己死，以此反襯聖人須具周備之知"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "季子依梁子警告改用尊主輕國的說辭避開太宰之害，只示範進說策略，未另說人的品性或關係本質"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 9,
+      "domains": ["VI", "VII"],
+      "modes": ["narrative"],
+      "reason": "楊布因狗不識換衣而怒，楊朱要他設想白狗變黑時自己也會怪，說明驚疑與怒氣可由換位反省節制"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 10,
+      "domains": ["VI", "VIII"],
+      "modes": ["proposition"],
+      "reason": "越人肯為善射的羿持旳而慈母躲避弱子之弓，說明可信賴的能力會改變疑懼反應"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 11,
+      "domains": ["VI", "VII"],
+      "modes": ["proposition"],
+      "reason": "管仲說財富的界限在於知足，而人不能自止於足，直接論欲求無厭與知足自制"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 12,
+      "domains": ["VIII"],
+      "modes": ["narrative"],
+      "reason": "富賈故意毀璞、承擔百金而修瑕得千溢，說明行事一時似敗也可能勝過不行動"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 13,
+      "domains": ["VI", "VIII"],
+      "modes": ["narrative"],
+      "reason": "御者遭眾騶妒忌，藉逐鹿讓荊王親見其駕御之能，呈現嫉妒與才能證成"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 14,
+      "domains": ["VII", "VIII"],
+      "modes": ["narrative"],
+      "reason": "丈人以勾踐十年艱難反諷公子輕言破晉，揭示自負輕敵與成事所需的長期努力"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 15,
+      "domains": ["II", "VII"],
+      "modes": ["narrative"],
+      "reason": "許由已棄天下而家人仍藏皮冠，文本明說家人「不知許由」，凸顯外界對其淡於利益品格的誤認"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 16,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "三虱由爭肥饒轉而合力食彘使其不被殺，說明停止內爭、共同應對危機才能保全群體"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 17,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "兩口之蟲爭食相齕而自殺，並明比人臣爭事亡國，直指內鬥會毀掉共同體"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 18,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "以宮堊器滌比「行身」，主張人的行止也須去污而減少過失"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 19,
+      "domains": ["VI"],
+      "modes": ["narrative"],
+      "reason": "使者從公子糾「笑不樂，視不見」判其將亂，呈現內在意圖由神情顯露"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 20,
+      "domains": ["II", "IV"],
+      "modes": ["narrative"],
+      "reason": "公孫喜因兄弟斷髮服越而絕昆弟，公孫弘反問其為人用兵斷頸，凸顯家族關係中身分榮辱標準的衝突"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 21,
+      "domains": ["XI"],
+      "modes": ["narrative"],
+      "reason": "賣宅者不等悍鄰惡貫將滿，因怕自己成為最後受害者而先離開，主張臨近轉折時不可拖延"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 22,
+      "domains": ["II", "VII"],
+      "modes": ["narrative"],
+      "reason": "子西釣名且終不免，結語「直於行者曲於欲」明辨外在正直之名與內在欲望品格不一"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 23,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "文子由故人以琴環投其所好、助長其過，推知此人也會向別人求容，說明逢迎者的品格及其關係不可信"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 24,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "宮他判斷齊王不會資助看似「無魏」者、反會倚重能使魏聽命者，說明權力觀感如何左右結盟選擇"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 25,
+      "domains": ["II", "V"],
+      "modes": ["narrative"],
+      "reason": "白圭抓住少主「務名」，建議藉荊國賀孝使其保留並敬重大尹，呈現名聲欲望如何影響用人與權位"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 26,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative"],
+      "reason": "管仲雖有聖才仍待鮑叔相助，且以士自譽辯而不信作結，說明才能成事依賴他人薦信而非自譽"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 27,
+      "domains": ["V", "X"],
+      "modes": ["narrative"],
+      "reason": "吳使以「殺一臣而存一國」說明個人赴死與國家存亡的取捨，並辯死後有知無知時釁鼓皆無益"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 28,
+      "domains": ["V", "VI"],
+      "modes": ["narrative"],
+      "reason": "仇由君因受大鐘而「大說」、不聽大國送禮後必有兵隨的警告，顯示喜悅使領導者忽略權力威脅"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 29,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "荊、越依兵力虛實決定出師、止戰與割地，只示範外交軍事判斷，未另說人的品性或關係本質"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 30,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "左史依雨勢、甲兵與吳軍往返後的休食時機設伏取勝，只示範戰場推算與操作"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 31,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "韓趙求兵皆遭魏文侯以兄弟之義拒絕，先怒而後皆朝魏，呈現中立拒援使對立雙方改變對魏的態度"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 32,
+      "domains": ["II", "VII"],
+      "modes": ["narrative"],
+      "reason": "樂正子春以「臣亦愛臣之信」拒替魯君證偽鼎，明寫他珍惜自身信譽並守信不欺的品格"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 33,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "綦毋恢設計韓咎之弟立與不立時都能自圓其說的送行方案，只示範兩面避險之術"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 34,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "客以大魚失水為喻勸靖郭君保齊而勿城薛，只處理封地與國勢孰重的政治決策"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 35,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "叔向以築壺丘為籌碼迫秦放出荊王之弟，只示範借第三國施壓的外交操作"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 36,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "子胥以溺人不可使其休息為喻勸闔廬乘勝追擊，只示範如何完成軍事打擊"
+    },
+    {
+      "chapter": "說林下",
+      "para_index": 37,
+      "domains": ["IV", "V"],
+      "modes": ["narrative"],
+      "reason": "兒子與鄰人同樣預言牆壞招盜，失竊後家人卻智其子而疑鄰人，顯示親疏關係左右信任判斷"
+    },
+    {
+      "chapter": "說疑",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "文本反稱仁義智能也會卑主危國，主張明主遠去這些德目而以法禁姦，兼論品格評價與統治秩序"
+    },
+    {
+      "chapter": "說疑",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "六種亡國之臣內險外謹、倒置是非並迎合君好，說明近臣品格可使同一「得人」之名導向安危，故人主須辨賢不肖"
+    },
+    {
+      "chapter": "說疑",
+      "para_index": 3,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition"],
+      "reason": "十二人見利不喜、臨難不恐，寧受饑餓沉溺也不受賞刑驅使，直接刻畫其品格與不受強制支配的選擇"
+    },
+    {
+      "chapter": "說疑",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "六名強諫之臣一言不聽便陵主，且甘受身死家破而不退，刻畫君臣衝突與其不妥協的品格"
+    },
+    {
+      "chapter": "說疑",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "九名臣下朋黨比周、隱正行私、援外親下以謀上，直接論其私曲品格與顛覆君臣秩序的關係"
+    },
+    {
+      "chapter": "說疑",
+      "para_index": 6,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "十五名臣下夙興夜寐、卑身不伐功，甚至破家殺身以安主，明寫自謙盡忠的品格及其君臣責任"
+    },
+    {
+      "chapter": "說疑",
+      "para_index": 7,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "十二名臣下思小利、忘法義、蔽賢逢欲，乃至破國殺眾，文本以其貪利諂諛品格解釋君臣共亡"
+    },
+    {
+      "chapter": "說疑",
+      "para_index": 8,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "明君任人不避親讎，親屬害國敗法則誅、卑賤者能明法利民則舉，主張領導應以公正才行而非親疏取人"
+    },
+    {
+      "chapter": "說疑",
+      "para_index": 9,
+      "domains": ["II", "V", "VII"],
+      "modes": ["proposition"],
+      "reason": "亂主以眾譽判賢而姦臣製造賢名，明寫名實欺罔；其結黨、借諸侯之權劫君是權力機制；其貪利譎詐、隱正道行私曲則是品格判斷"
+    },
+    {
+      "chapter": "說疑",
+      "para_index": 10,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "敬侯縱欲無度卻因明於任臣而國存，子噲勤儉憂民卻因不明任臣而亡，主張私德苦身不足替代識人領導"
+    },
+    {
+      "chapter": "說疑",
+      "para_index": 11,
+      "domains": ["V", "VII"],
+      "modes": ["prescription", "formalization"],
+      "reason": "段落列五姦與四擬，規定禁絕以財取譽、朋黨眩民及妾子臣下僭擬，使臣修身任力並維持上下秩序"
+    },
+    {
+      "chapter": "說難",
+      "para_index": 1,
+      "domains": ["II", "VI"],
+      "modes": ["proposition"],
+      "reason": "說者須辨對方求名、求利或陽名陰利之心，因錯配名利會被鄙棄或暗疏，明寫自我形象與內在欲求的落差"
+    },
+    {
+      "chapter": "說難",
+      "para_index": 2,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "段落逐列言語觸及隱事、功過、所愛所憎時如何招致貴人猜疑，說明權力關係中的疑懼使進言者身危"
+    },
+    {
+      "chapter": "說難",
+      "para_index": 3,
+      "domains": ["II", "V"],
+      "modes": ["prescription", "proposition"],
+      "reason": "文本要求順著對方所矜所恥，把私急飾為公義並維護其自智自勇，再待親信後直陳，論自我形象如何制約進說關係"
+    },
+    {
+      "chapter": "說難",
+      "para_index": 4,
+      "domains": ["IV", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "鄭以婚親使胡君信而不備，富家又智其子而疑同言的鄰父，兩例都顯示親疏位置會改變信任及正確言語的後果"
+    },
+    {
+      "chapter": "說難",
+      "para_index": 5,
+      "domains": ["III", "V", "VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "彌子瑕與衛君的寵愛關係是親密層面；衛君愛憎由盛轉衰是內在情緒；同一行為隨君權由見賢轉為獲罪則是權力後果"
+    },
+    {
+      "chapter": "說難",
+      "para_index": 6,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "以龍被觸逆鱗必殺人比人主也有不可觸犯之處，說明進說者須辨識掌權者的暴怒界線"
+    }
+  ]
+}

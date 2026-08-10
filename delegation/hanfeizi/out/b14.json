@@ -1,0 +1,48 @@
+{
+  "batch": "b14.md",
+  "rows": [
+    {"chapter": "安危", "para_index": 1, "domains": [], "modes": ["formalization"], "reason": "以「一曰」至「七曰」列舉賞罰、法度與用人準則，是安國術目而未說明人為何如此"},
+    {"chapter": "安危", "para_index": 2, "domains": ["I", "X"], "modes": ["formalization", "proposition"], "reason": "列舉七項危道，並斷言它們使人失去樂生與重死的理由，進而不尊主、不從令"},
+    {"chapter": "安危", "para_index": 3, "domains": ["VII", "IX"], "modes": ["proposition"], "reason": "以安則智廉、危則爭鄙說明品性隨處境而生，並以饑而食、寒而衣指出不可違的身體需要"},
+    {"chapter": "安危", "para_index": 4, "domains": ["IX"], "modes": ["proposition"], "reason": "以扁鵲刺骨治病說明甚病之人須忍受一時身痛以換取身體的長久利益"},
+    {"chapter": "安危", "para_index": 5, "domains": ["VIII", "VI"], "modes": ["proposition"], "reason": "斷言逼人捨其所長、守其所短，會使人不能憑所長立功，且憂其所短而不樂其生"},
+    {"chapter": "安危", "para_index": 6, "domains": ["V", "VII"], "modes": ["proposition"], "reason": "以無功者受賞、無罪者受誅及詐偽反被尊貴，說明公正與品格標準顛倒會使臣奪主"},
+    {"chapter": "安危", "para_index": 7, "domains": [], "modes": ["proposition"], "reason": "以周奪殷為例主張先鞏固朝內方能免於外失，只是守國權術的因果規則"},
+    {"chapter": "安危", "para_index": 8, "domains": ["V", "VII"], "modes": ["proposition"], "reason": "以忠法忠心、在位能治而離去仍被思念界定明主的領導品格及其長久德澤"},
+
+    {"chapter": "定法", "para_index": 1, "domains": [], "modes": [], "reason": "只提出申不害之術與公孫鞅之法何者更急的問題，尚未作出關於人的斷言"},
+    {"chapter": "定法", "para_index": 2, "domains": ["IX"], "modes": ["proposition"], "reason": "以人不食十日即死、大寒不衣亦死指出身體的生存限制，再類比法與術皆不可少"},
+    {"chapter": "定法", "para_index": 3, "domains": [], "modes": [], "reason": "只追問單用術或單用法有何不可，未提出答案或關於人的主張"},
+    {"chapter": "定法", "para_index": 4, "domains": ["V", "VII"], "modes": ["proposition", "narrative"], "reason": "以韓秦史事說明臣下會依私利選用相反法令、譎辭欺上，並借國家戰功擴張私權"},
+    {"chapter": "定法", "para_index": 5, "domains": [], "modes": [], "reason": "只詢問君主用申子之術而官府行商君之法是否可行，沒有給出人的判斷"},
+    {"chapter": "定法", "para_index": 6, "domains": ["VIII"], "modes": ["proposition", "formalization"], "reason": "以斬首按級授官的制度為例，區分勇力、治官智能、工匠手巧與醫者調藥等不同才能"},
+
+    {"chapter": "心度", "para_index": 1, "domains": ["VII", "V"], "modes": ["proposition", "prescription"], "reason": "明言民性喜亂而不親法，並主張以賞刑統一民心、舉公抑私，兼論品性與公共秩序"},
+    {"chapter": "心度", "para_index": 2, "domains": ["VIII", "XI"], "modes": ["proposition", "prescription"], "reason": "斷言民性惡勞而樂佚，並以民由樸至智、能力隨世而變說明制度須因時改變"},
+    {"chapter": "心度", "para_index": 3, "domains": [], "modes": ["proposition", "prescription"], "reason": "只鋪陳如何動員民力、配置爵位並封閉私學的強國政策鏈，未解釋人為何如此"},
+
+    {"chapter": "忠孝", "para_index": 1, "domains": ["IV", "V", "VII"], "modes": ["proposition", "prescription"], "reason": "以父子夫妻秩序談家庭傳承，以君臣定位談權力責任，並重新評斷孝悌忠順、賢與不肖等品格"},
+    {"chapter": "忠孝", "para_index": 2, "domains": ["IV", "V", "VII"], "modes": ["proposition", "prescription"], "reason": "以孝子養親界定家庭責任，以忠臣事君界定君臣責任，並重評仁義、忠孝與烈士等品格"},
+    {"chapter": "忠孝", "para_index": 3, "domains": ["XI", "VII"], "modes": ["proposition"], "reason": "對比古民惷愚與今民智慧自用的變化，並區分可受賞罰驅動的常人與兩端異常之士"},
+    {"chapter": "忠孝", "para_index": 4, "domains": [], "modes": ["observation", "proposition"], "reason": "觀察當世多談從橫並以其無功論證虛言不能成治，結論仍只是內治勝於離合的國策"},
+
+    {"chapter": "忠考", "para_index": 1, "domains": ["IV", "V", "VII"], "modes": ["proposition", "prescription"], "reason": "以父子夫妻秩序談家庭傳承，以君臣定位談權力責任，並重新評斷孝悌忠順、賢與不肖等品格"},
+    {"chapter": "忠考", "para_index": 2, "domains": ["IV", "V", "VII"], "modes": ["proposition", "prescription"], "reason": "以孝子養親界定家庭責任，以忠臣事君界定君臣責任，並重評仁義、忠孝與烈士等品格"},
+    {"chapter": "忠考", "para_index": 3, "domains": ["XI", "VII"], "modes": ["proposition"], "reason": "對比古民惷愚與今民智慧自用的變化，並區分可受賞罰驅動的常人與兩端異常之士"},
+    {"chapter": "忠考", "para_index": 4, "domains": [], "modes": ["observation", "proposition"], "reason": "觀察當世多談從橫並以其無功論證虛言不能成治，結論仍只是內治勝於離合的國策"},
+
+    {"chapter": "愛臣", "para_index": 1, "domains": ["V", "IV"], "modes": ["proposition", "prescription"], "reason": "斷言寵臣權重會危及主位，又以妾嫡失序與兄弟不服說明家內繼承如何牽動政權"},
+    {"chapter": "愛臣", "para_index": 2, "domains": [], "modes": ["proposition", "prescription"], "reason": "由諸侯大臣勢盛致亂的史例轉列限權、禁私交與武器管制條文，是防臣權的操作規則"},
+
+    {"chapter": "揚榷", "para_index": 1, "domains": ["VI", "IX"], "modes": ["proposition", "prescription"], "reason": "指出美味厚酒與美色雖悅情甘口卻傷形捐精，主張節制過度欲樂以免身體受害"},
+    {"chapter": "揚榷", "para_index": 2, "domains": ["VIII", "VII"], "modes": ["proposition"], "reason": "以雞司夜、狸捕鼠主張才能各得其用，又指出上位者矜能好辯的品性會被臣下利用欺騙"},
+    {"chapter": "揚榷", "para_index": 3, "domains": [], "modes": ["prescription"], "reason": "規定君主如何循名任事、比較形名以考核臣下，是名實考課程序而非自我認同主張"},
+    {"chapter": "揚榷", "para_index": 4, "domains": ["VII"], "modes": ["proposition", "prescription"], "reason": "把去除智巧、虛靜不用己見界定為聖人之道，並斷言逞用智巧會殃身危國"},
+    {"chapter": "揚榷", "para_index": 5, "domains": [], "modes": ["proposition"], "reason": "以道、德及衡繩等物的差異類比君臣異道與形名參同，仍在說明治術結構"},
+    {"chapter": "揚榷", "para_index": 6, "domains": ["VI"], "modes": ["prescription", "formalization"], "reason": "斷言喜好會滋生多事、厭惡會引起怨恨，因而要求去喜去惡、虛心靜聽並交叉查驗"},
+    {"chapter": "揚榷", "para_index": 7, "domains": ["V"], "modes": ["proposition", "prescription"], "reason": "以疏親、專信一人與大臣聚眾為戒，主張君臣信任及權力失衡會使臣反噬其主"},
+    {"chapter": "揚榷", "para_index": 8, "domains": ["V"], "modes": ["proposition", "prescription"], "reason": "明言上下每日爭鬥、臣匿私心試上，且臣不弒君只因黨與未具，揭示君臣關係的利害本質"},
+    {"chapter": "揚榷", "para_index": 9, "domains": ["IV"], "modes": ["proposition"], "reason": "以一家二貴與夫妻同時持政使子女無所適從，直接論家庭權威及子女遵從問題"},
+    {"chapter": "揚榷", "para_index": 10, "domains": [], "modes": ["prescription"], "reason": "反覆以披木剪枝作比，規定君主如何削弱宗室與黨與以防私門壅主，是控權操作"}
+  ]
+}

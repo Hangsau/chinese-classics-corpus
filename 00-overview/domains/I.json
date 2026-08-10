@@ -2,9 +2,9 @@
   "domain": "I",
   "name_zh": "存在與意義",
   "gist": "我為何在此、活著有沒有意義、與想不通的問題共處、在歷史洪流中的渺小",
-  "generated_at": "2026-08-10T01:34:46+00:00",
-  "para_count": 18,
-  "book_count": 7,
+  "generated_at": "2026-08-10T06:16:28+00:00",
+  "para_count": 20,
+  "book_count": 8,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -40,6 +40,35 @@
       "excerpt": "清氣未升，濁氣未沉，遊神未靈，五色未分。中有其物，冥冥而性存，謂之混沌，混沌為太",
       "note": "由混沌、太始、太極與兩儀推演天地萬物及生民的根源，並以世系敘事續寫人類之始",
       "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "安危",
+      "para_index": 2,
+      "para_id": "hanfeizi#33-p02",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "危道：一曰斵削於繩之内，二曰斷割於法之外，三曰利人之所害，四曰樂人之所禍，五曰危",
+      "note": "列舉七項危道，並斷言它們使人失去樂生與重死的理由，進而不尊主、不從令",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 13,
+      "para_id": "hanfeizi#44-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人莫不欲富貴全壽，而未有能免於貧賤死夭之禍也。心欲富貴全壽，而今貧賤死夭，是不能",
+      "note": "指出人人以富貴全壽為所欲至，卻因失路妄行而長久不能抵達，直論人生所求與改變困境的失敗",
+      "co_domains": [
+        "XI"
+      ]
     },
     {
       "slug": "qianfulun",

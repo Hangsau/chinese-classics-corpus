@@ -2,9 +2,9 @@
   "domain": "XII",
   "name_zh": "信仰·神聖·超越",
   "gist": "神存在嗎、信與疑、敬畏與美、神秘經驗",
-  "generated_at": "2026-08-10T01:34:46+00:00",
-  "para_count": 117,
-  "book_count": 12,
+  "generated_at": "2026-08-10T06:16:28+00:00",
+  "para_count": 119,
+  "book_count": 13,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -48,6 +48,34 @@
       ],
       "excerpt": "皇曰：融南正，爾平禮服、祭祀，爾正惟，無亂國制以僭上，無廢祀事以簡恭，爾惟念哉。",
       "note": "命融南正掌禮服祭祀、禁止僭制及怠廢祀事，兼具官職責任與神聖儀節規範",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "十過",
+      "para_index": 5,
+      "para_id": "hanfeizi#18-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "奚謂好音？昔者衛靈公將之晉，至濮水之上，稅車而放馬，設舍以宿。夜分，而聞鼓新聲者",
+      "note": "晉平公明知自己德薄仍耽於亡國之聲，並在鬼神、玄鶴與風雨等超越徵象前執意不止，所寫兼及放縱品性與人面對神異禁戒",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 21,
+      "para_id": "hanfeizi#44-p21",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人處疾則貴醫，有禍則畏鬼。聖人在上，則民少欲；民少欲，則血氣治而舉動理；舉動理，",
+      "note": "以人鬼與上下皆兩不相傷解釋有道之治，確實同時處理人對鬼神的畏逐和君民間的刑害關係",
       "co_domains": [
         "V"
       ]

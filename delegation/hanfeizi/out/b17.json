@@ -1,0 +1,285 @@
+{
+  "batch": "b17.md",
+  "rows": [
+    {
+      "chapter": "詭使",
+      "para_index": 1,
+      "domains": ["II", "V"],
+      "modes": ["proposition", "formalization"],
+      "reason": "以利、威、名三項說明民之從化與上下共同準則，又指出現行政理與名不相當，兼論名實及統治關係"
+    },
+    {
+      "chapter": "詭使",
+      "para_index": 2,
+      "domains": ["II", "V", "VII"],
+      "modes": ["proposition"],
+      "reason": "逐項指出世俗所稱高、賢、忠、烈士、勇夫與行實顛倒，既評議品格與名實，也說上下所欲相詭而致世不治"
+    },
+    {
+      "chapter": "詭使",
+      "para_index": 3,
+      "domains": ["II", "VII"],
+      "modes": ["observation"],
+      "reason": "列舉惇慤、守法、敬上等行實反被稱為窶、愚、怯、陋，直指品格與社會名目不符"
+    },
+    {
+      "chapter": "詭使",
+      "para_index": 4,
+      "domains": ["II", "V", "VII"],
+      "modes": ["observation", "prescription"],
+      "reason": "列出正、廉、仁、聖等名號所指的實際行徑以評議名實與品格，並主張上位者禁絕尊崇亂上者以維持秩序"
+    },
+    {
+      "chapter": "詭使",
+      "para_index": 5,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["observation", "proposition"],
+      "reason": "反覆對照私義諂佞與廉恥等品格、官權法令的失序，以及農戰有功者和末作無功者的職業報酬倒置"
+    },
+    {
+      "chapter": "詭使",
+      "para_index": 6,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "主張尊崇二心私學會使人造辭誹法、結群求富，並以賢姦私欲說明品格如何受上位者獎勵而危及公法秩序"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 1,
+      "domains": ["II", "X"],
+      "modes": ["narrative"],
+      "reason": "湯因怕天下以貪名之而設局轉嫁惡聲，務光遂投河，呈現名聲壓力左右身分評價與生死選擇"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 2,
+      "domains": ["VIII"],
+      "modes": ["narrative"],
+      "reason": "孟卯依甘茂所長在使人而勸其選僕職，以便兼掌行事，重點是才能與職位的配置"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 3,
+      "domains": ["II", "V"],
+      "modes": ["narrative"],
+      "reason": "子圉怕孔子受君重視而使自己顯得微小，遂以同樣的地位威脅阻止太宰引見，呈現身分比較與權位競逐"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只以大小國對立的利害推演如何阻止魏王復立天子，是結盟策略，未另作人的品性或關係本質主張"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "鮑叔勸桓公晚救而坐視邢亡，以換取齊利與存亡之德的美名，呈現領導者在利益、德名與救援責任間的取捨"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只示範子胥以誣指邊候吞珠作威脅而脫身的權宜手段，沒有進一步斷言人是什麼樣的"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 7,
+      "domains": ["VII", "XI"],
+      "modes": ["narrative"],
+      "reason": "族人指出慶封若不改變作亂之心，逃得再遠也不能安身，明說品性改變才是處境能否轉變的關鍵"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 8,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "任章以智伯貪欲無厭必至驕矜輕敵、鄰國因恐懼而相親為據，說明品格缺陷如何改變群國關係並致敗亡"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "以饑、疾、勞、亂判斷荊軍可能襲秦並部署東邊，重點是軍事預警程序而非疾病痛苦或人的品性"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 10,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "臧孫子從荊王異常欣喜看出其假意許援、實欲使宋堅守而齊疲敝，揭示國與國交往中的自利與欺罔"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只逐步計算借道後魏勝敗各自如何使趙得利，並教趙隱藏所得，是國策推演而未解釋人的本性"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 12,
+      "domains": ["II", "V"],
+      "modes": ["narrative"],
+      "reason": "子皮以涸澤二蛇互相負載令人誤認神君為喻，安排美惡二人的主客身分以改變旅舍主人敬意，顯示外觀身分左右社會判斷"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 13,
+      "domains": ["II", "V"],
+      "modes": ["narrative"],
+      "reason": "溫人援引天下皆王臣，重新界定自己不是客而是主人並獲釋，所論是政治歸屬與身分名目的關係"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 14,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "樛留以多力者內樹黨、寡力者外借權說明並用兩臣會形成黨爭、削地並危及君權，直論權力關係的運作"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 15,
+      "domains": ["VII"],
+      "modes": ["narrative"],
+      "reason": "以紹績昧醉失裘與桀醉失天下相連，主張常飲使天子失國、匹夫失身，重點在飲酒無節的品格後果"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 16,
+      "domains": ["VII"],
+      "modes": ["narrative"],
+      "reason": "管仲、隰朋在不知時不恥師於老馬與蟻，末句反責愚者不肯師聖人之智，彰顯承認無知與受教的品格"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 17,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "中射之士利用不死之藥與王命殺人的矛盾辯解以免罪，故事重點是脫刑話術而非對死亡或人的品性作主張"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 18,
+      "domains": ["VII", "XI"],
+      "modes": ["narrative"],
+      "reason": "惠子把田駟慣於欺人比作瞽者不能不䀹目，將欺罔視為難以自止的固定品性，兼涉品格與能否改變"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 19,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "以越人救溺與海水救火比喻遠國不能應付近患，只在評估外援距離，沒有把溺水或人際關係本身作為主題"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 20,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只提出行刺韓傀以嫁禍嚴遂的具體計策，人物仇怨是施術條件，未進一步說明人的品性或關係本質"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 21,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative"],
+      "reason": "張譴比較無正重法畏上與公子食我得民兩種任職條件，君主據此選相，內容涉及領導關係及職位才能評估"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 22,
+      "domains": ["IV", "V", "VII"],
+      "modes": ["narrative"],
+      "reason": "樂羊食子與秦西巴不忍麑形成親子照護的對照，明言巧詐不如拙誠，並寫君主據此疑信臣下及決定託子"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 23,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "衞君判定曾從子請刺吳王不是為義而是為利，並因強富弱貧恐其反噬，直論義利品格與政治信任"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 24,
+      "domains": ["VI", "VII"],
+      "modes": ["narrative"],
+      "reason": "箕子從象箸推見享用會層層升高直至天下不足，既論欲望擴張的內在動力，也以聖人見微知末彰顯節制與識見"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 25,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只示範先制服眾小國以威劫大國的攻伐次序，是具體戰略而沒有人的品性主張"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 26,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "箕子認為君主與全國皆失日而自己獨知會招致危險，遂佯稱醉而不知，呈現臣下在危險權力關係中的自保"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 27,
+      "domains": ["VIII"],
+      "modes": ["narrative"],
+      "reason": "魯人夫妻雖長於織屨織縞，遷往不用鞋冠的越地便必窮，明說專長能否發揮取決於工作環境的需要"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 28,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "以十人種楊不敵一人拔楊比喻陳軫雖善自樹於王、仍會因眾人欲去之而危，說明權位依賴周邊支持關係"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 29,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "以死者尚未化土比喻季孫弒君之事方起、後果未定，吳起因而離去，重點是人在政治暴力未定時的自保"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 30,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "隰斯彌怕顯露自己知道田成子未言之意會獲罪，寧停伐無罪之樹，揭示臣下洞察權勢者祕意所承受的危險"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 31,
+      "domains": ["II", "VII"],
+      "modes": ["narrative"],
+      "reason": "美妾自以為美反失寵、惡妾自知其惡反受貴，楊子遂教人行賢而去自賢之心，兼論自我評價與謙抑品格"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 32,
+      "domains": ["IV", "V", "VII"],
+      "modes": ["narrative"],
+      "reason": "父親教出嫁女私積而使她被姑逐回，事後只見獲利而不認教女之非，並明言居官人臣皆同此類，兼涉家教、自私品格與公職責任"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 33,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "魯丹見君主因左右之言而善待自己，便預見君主也會因人言而罪己，揭示權力者受近臣言論左右所造成的信任不穩"
+    },
+    {
+      "chapter": "說林上",
+      "para_index": 34,
+      "domains": ["II", "VII"],
+      "modes": ["narrative"],
+      "reason": "以同樣好士、自刑、東走卻各有不同目的為例，主張不可按外在同事判人，所辨正是行實表象與內在動機品格"
+    }
+  ]
+}

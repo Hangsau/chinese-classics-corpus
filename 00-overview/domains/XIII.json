@@ -2,9 +2,9 @@
   "domain": "XIII",
   "name_zh": "安頓·修復·平安",
   "gist": "靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈",
-  "generated_at": "2026-08-10T01:34:46+00:00",
-  "para_count": 64,
-  "book_count": 10,
+  "generated_at": "2026-08-10T06:16:28+00:00",
+  "para_count": 77,
+  "book_count": 11,
   "surveyed_zero_hit": [
     "fangyan",
     "gu-sanfen",
@@ -38,6 +38,192 @@
       "co_domains": [
         "VIII"
       ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "喻老",
+      "para_index": 13,
+      "para_id": "hanfeizi#23-p13",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "勾踐入宦於吳，身執干戈爲吴王洗馬，故能殺夫差於姑蘇。文王見詈於王門，顔色不變，而",
+      "note": "勾踐忍受臣僕之辱、文王受詈而顏色不變，藉守柔說明面對屈辱時的內在穩定與自處",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "喻老",
+      "para_index": 17,
+      "para_id": "hanfeizi#23-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "空竅者，神明之户牗也。耳目竭於聲色，精神竭于外貌，故中無主。中無主，則禍福雖如丘",
+      "note": "指出耳目逐聲色、精神逐外貌便會中無主而不能識禍福，主張守住內在中心以保持明察",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "大體",
+      "para_index": 1,
+      "para_id": "hanfeizi#28-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "古之全大體者：望天地，觀江海，因山谷，日月所照，四時所行，雲布風動；不以智累心，",
+      "note": "段落以法與自然保全萬民、免於戰禍來論秩序，又以心無結怨、澹然閒靜寫內在狀態，並明言「福莫久於安」作長久安頓",
+      "co_domains": [
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "揚權",
+      "para_index": 1,
+      "para_id": "hanfeizi#40-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "天有大命，人有大命。夫香美脆味，厚酒肥肉，甘口而疾形；曼理皓齒，說情而捐精。故去",
+      "note": "美味厚酒肥肉雖甘口卻傷身，美色雖悅情卻損精，因而主張去除過甚奢泰以保身無害",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 1,
+      "para_id": "hanfeizi#44-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "德者，内也；得者，外也。「上德不德」，言其神不淫於外也。神不淫於外則身全，身全之",
+      "note": "以神不淫於外、無為無欲使身全而成德，主張德性建立在內在收攝與安定上",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 10,
+      "para_id": "hanfeizi#44-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人有禍，則心畏恐；心畏恐，則行端直；行端直，則思慮熟；思慮熟，則得事理。行端直，",
+      "note": "說遭禍使人畏懼而端正熟慮，終能避害、成功並全壽，揭示人如何由禍轉福",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 15,
+      "para_id": "hanfeizi#44-p15",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "聰明睿智，天也；動靜思慮，人也。人也者，乘於天明以視，寄於天聰以聽，託於天智以思",
+      "note": "說過度視聽思慮會造成盲聾悖狂，因而主張節制動靜、愛惜精神以保全身心",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 16,
+      "para_id": "hanfeizi#44-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "衆人之用神也躁，躁則多費，多費之謂侈。聖人之用神也靜，靜則少費，少費之謂嗇。嗇之",
+      "note": "以眾人躁而耗神、聖人靜而少費相對，主張在禍形未見前即安靜守理以遠患",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 25,
+      "para_id": "hanfeizi#44-p25",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人無毛羽，不衣則不犯寒；上不屬天而下不著地，以腸胃爲根本，不食則不能活。是以不免",
+      "note": "從衣食的身體需要說明逐利欲望難免，並以聖人知足無憂對照眾人終身憂求不解",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 31,
+      "para_id": "hanfeizi#44-p31",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "是以聖人愛精神而貴處靜，不愛精神、不貴處靜，此甚大於兕虎之害。夫兕虎有域，動靜有",
+      "note": "列舉氣候、刑法、爭鬥與嗜欲等害源，主張愛惜精神、處靜且無害人之心以避開死地而善攝生",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 35,
+      "para_id": "hanfeizi#44-p35",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "慈於子者不敢絶衣食，慈於身者不敢離法度，慈於方圓者不敢舍規矩。故臨兵而慈於士吏則",
+      "note": "把慈推及自身、士吏與萬事，主張以慈護持並隨萬物之理便能自全而所舉得當",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 37,
+      "para_id": "hanfeizi#44-p37",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "人無愚智，莫不有趨舍。恬淡平安，莫不知禍福之所由來。得於好惡，怵於淫物，而後變乱",
+      "note": "指出人人本知趨舍禍福卻易受外物玩好擾亂，並以聖人定志不動說明如何使精神與生活安穩",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林下",
+      "para_index": 3,
+      "para_id": "hanfeizi#47-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "鳥有翢翢者，重首而屈尾，將欲飲於河，則必顛，乃銜其羽而飲之。人之所有飲不足者，不",
+      "note": "重首屈尾之鳥銜羽方能飲水，並推說人有所不足便須尋求可補其缺的「羽」",
+      "co_domains": []
     },
     {
       "slug": "jijiupian",

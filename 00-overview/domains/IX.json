@@ -2,9 +2,9 @@
   "domain": "IX",
   "name_zh": "苦難·疾病·身體",
   "gist": "疾病與身體、受苦的意義、照顧與被照顧",
-  "generated_at": "2026-08-10T01:34:46+00:00",
-  "para_count": 80,
-  "book_count": 14,
+  "generated_at": "2026-08-10T06:16:28+00:00",
+  "para_count": 94,
+  "book_count": 15,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -21,6 +21,205 @@
     "wuzi"
   ],
   "paras": [
+    {
+      "slug": "hanfeizi",
+      "chapter": "喻老",
+      "para_index": 10,
+      "para_id": "hanfeizi#23-p10",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "有形之類，大必起於小；行久之物，族必起於少。故曰：「天下之難事必作於易，天下之大",
+      "note": "扁鵲逐層說明疾病由腠理深入骨髓而終至桓侯體痛身死，直接處理疾病惡化與死亡",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說右上",
+      "para_index": 6,
+      "para_id": "hanfeizi#26-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "景公與晏子遊於少海，登栢寢之臺而還望其國，曰：「美哉！泱泱乎，堂堂乎！後世將孰有",
+      "note": "晏子說田成氏以厚施救活饑民而使「民德歸之」，同時寫出大饑、餓死與貧窮者受救的處境",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說右上",
+      "para_index": 40,
+      "para_id": "hanfeizi#26-p40",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫痤疽之痛也，非刺骨髓，則煩心不可支也；非如是，不能使人以半寸砥石彈之。今人主之",
+      "note": "痤疽刺骨與砥石彈治寫身體之痛，人主又因親愛重臣而難下誅，藉忍受痛苦說明處置權臣的內在與權力困局",
+      "co_domains": [
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "奸劫弑臣",
+      "para_index": 8,
+      "para_id": "hanfeizi#29-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "諺曰：「厲憐王。」此不恭之言也。雖然，古無虚諺，不可不察也。此謂劫殺死亡之主言也",
+      "note": "以多位君主被絞頸、射股、饑死、擢筋的事例，斷言劫殺死亡之君心中憂懼、形體苦痛比癕腫疕瘍更甚",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "安危",
+      "para_index": 3,
+      "para_id": "hanfeizi#33-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "使天下皆極智能於儀表，盡力於權衡，以動則勝，以靜則安。治世使人樂生於爲是，愛身於",
+      "note": "以安則智廉、危則爭鄙說明品性隨處境而生，並以饑而食、寒而衣指出不可違的身體需要",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "安危",
+      "para_index": 4,
+      "para_id": "hanfeizi#33-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "聞古扁鵲之治其病也，以刀刺骨；聖人之救危國也，以忠拂耳。刺骨，故小痛在體而長利在",
+      "note": "以扁鵲刺骨治病說明甚病之人須忍受一時身痛以換取身體的長久利益",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "定法",
+      "para_index": 2,
+      "para_id": "hanfeizi#34-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "應之曰：「是不可程也。人不食，十日則死；大寒之隆，不衣亦死。謂之衣食孰急於人，則",
+      "note": "以人不食十日即死、大寒不衣亦死指出身體的生存限制，再類比法與術皆不可少",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "揚榷",
+      "para_index": 1,
+      "para_id": "hanfeizi#39-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "天有大命，人有大命。夫香美脆味，厚酒肥肉，甘口而疾形；曼理皓齒，說情而捐精。故去",
+      "note": "指出美味厚酒與美色雖悅情甘口卻傷形捐精，主張節制過度欲樂以免身體受害",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "揚權",
+      "para_index": 1,
+      "para_id": "hanfeizi#40-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "天有大命，人有大命。夫香美脆味，厚酒肥肉，甘口而疾形；曼理皓齒，說情而捐精。故去",
+      "note": "美味厚酒肥肉雖甘口卻傷身，美色雖悅情卻損精，因而主張去除過甚奢泰以保身無害",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 8,
+      "para_id": "hanfeizi#44-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "先物行先理動之謂前識。前識者，無緣而妄意度也。何以論之？詹何坐，弟子侍，牛鳴於門",
+      "note": "以詹何辨牛的故事說無緣妄度會苦心傷神，且所得不過與童子目見相同",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 15,
+      "para_id": "hanfeizi#44-p15",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "聰明睿智，天也；動靜思慮，人也。人也者，乘於天明以視，寄於天聰以聽，託於天智以思",
+      "note": "說過度視聽思慮會造成盲聾悖狂，因而主張節制動靜、愛惜精神以保全身心",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 26,
+      "para_id": "hanfeizi#44-p26",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故欲利甚於憂，憂則疾生，疾生而智慧衰；智慧衰，則失度量；失度量，則妄舉動；妄舉動",
+      "note": "把貪利、憂慮、智慧衰退、妄動、疾病苦痛與事後自咎串成一條身心傷害因果鏈",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 30,
+      "para_id": "hanfeizi#44-p30",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人始於生而卒於死。始之謂出，卒之謂入。故曰：「出生入死。」人之身三百六十節，四肢",
+      "note": "明說人始於生而終於死，並以四肢九竅的動耗解釋身體如何逐步走向生命耗盡",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "難二",
+      "para_index": 1,
+      "para_id": "hanfeizi#52-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "景公過晏子，曰：「子宫小，近市，請徙子家豫章之圃。」晏子再拜而辭曰：「且嬰家貧，",
+      "note": "晏子以踴因刑多而貴點出刖刑造成的身體傷害，景公聞後自認暴虐而減刑",
+      "co_domains": [
+        "V"
+      ]
+    },
     {
       "slug": "jijiupian",
       "chapter": "卷二",

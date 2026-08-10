@@ -2,9 +2,9 @@
   "domain": "X",
   "name_zh": "無常·老·死·失去",
   "gist": "老與時間、失去與哀傷、死亡、耐心與等待",
-  "generated_at": "2026-08-10T01:34:46+00:00",
-  "para_count": 175,
-  "book_count": 12,
+  "generated_at": "2026-08-10T06:16:28+00:00",
+  "para_count": 191,
+  "book_count": 13,
   "surveyed_zero_hit": [
     "fangyan",
     "gu-sanfen",
@@ -49,6 +49,229 @@
       "excerpt": "武帝暮年，彌好仙術，與東方朔狎暱，帝曰：「朕所好甚者不老，其可得乎？」朔曰：「臣",
       "note": "武帝暮年親自追問不老是否可得，是替自身衰老發問，後列仙草奇物仍由此問題引出",
       "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說上七術",
+      "para_index": 27,
+      "para_id": "hanfeizi#08-p27",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "荆南之地，麗水之中生金，人多竊采金。采金之禁：得而輒辜磔於市。甚衆，壅離其水也，",
+      "note": "麗水竊金不止被歸因於未必被捕，並以庸人寧棄天下之大利也不接受必死說明人對死亡風險的取捨",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "喻老",
+      "para_index": 5,
+      "para_id": "hanfeizi#23-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "邦以存爲常，霸王其可也；身以生爲常，富貴其可也。不以欲自害，則邦不亡，身不死。故",
+      "note": "明言不以欲望自害即可使邦不亡、身不死，將知足與節欲連到生命的保全",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "喻老",
+      "para_index": 10,
+      "para_id": "hanfeizi#23-p10",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "有形之類，大必起於小；行久之物，族必起於少。故曰：「天下之難事必作於易，天下之大",
+      "note": "扁鵲逐層說明疾病由腠理深入骨髓而終至桓侯體痛身死，直接處理疾病惡化與死亡",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左上",
+      "para_index": 16,
+      "para_id": "hanfeizi#24-p16",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "客有教燕王爲不死之道者，王使人學之，所使學者未及學而客死。王大怒，誅之。王不知客",
+      "note": "燕王相信不死之術並錯殺無罪學者，議論又以教術者連自身死亡都不能免來駁斥長生妄想，兼論不察之失與死亡不可迴避",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左上",
+      "para_index": 30,
+      "para_id": "hanfeizi#24-p30",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "吳起爲魏將而攻中山。軍人有病疽者，吳起跪而自吮其膿。傷者之母立泣，人問曰：「將軍",
+      "note": "傷兵之母因吳起昔日吮父創後其父戰死，如今又吮其子之膿而預見兒子也將死，所寫是親子哀懼與死亡失去的重演",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左上",
+      "para_index": 54,
+      "para_id": "hanfeizi#24-p54",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊景公遊少海，傳騎從中來謁曰：「嬰疾甚，且死，恐公後之。」景公遽起，傳騎又至。景",
+      "note": "景公得知晏嬰病重將死、恐怕趕不及相見，急至嫌車夫與馬皆慢而棄車奔跑，敘事核心由迫近的死亡與失去推動",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "安危",
+      "para_index": 2,
+      "para_id": "hanfeizi#33-p02",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "危道：一曰斵削於繩之内，二曰斷割於法之外，三曰利人之所害，四曰樂人之所禍，五曰危",
+      "note": "列舉七項危道，並斷言它們使人失去樂生與重死的理由，進而不尊主、不從令",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 18,
+      "para_id": "hanfeizi#44-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡有國而後亡之，有身而後殃之，不可謂能有其國、能保其身。夫能有其國，必能安其社禝",
+      "note": "把能保其身界定為終其天年，也把安社稷與深智遠慮列為真正保身有國的條件",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 19,
+      "para_id": "hanfeizi#44-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "所謂「有國之母」：母者，道也；道也者，生於所以有國之術；所以有國之術，故謂之「有",
+      "note": "以根柢為喻，明說德是人建立生命的根基，體道固柢則能長生久視",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 27,
+      "para_id": "hanfeizi#44-p27",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "道者，萬物之所然也，萬理之所稽也。理者，成物之文也；道者，萬物之所以成也。故曰：",
+      "note": "主張道隨理而化、無常操，同一事物亦能因人運用而導向死生與成敗，兼論無常和結果的可變",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 29,
+      "para_id": "hanfeizi#44-p29",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡理者，方圓、短長、麤靡、堅脆之分也，故理定而後可得道也。故定理有存亡，有死生，",
+      "note": "以事物有存亡死生盛衰而不可稱常，直接提出生命與萬物皆會衰變的無常",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 30,
+      "para_id": "hanfeizi#44-p30",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人始於生而卒於死。始之謂出，卒之謂入。故曰：「出生入死。」人之身三百六十節，四肢",
+      "note": "明說人始於生而終於死，並以四肢九竅的動耗解釋身體如何逐步走向生命耗盡",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 31,
+      "para_id": "hanfeizi#44-p31",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "是以聖人愛精神而貴處靜，不愛精神、不貴處靜，此甚大於兕虎之害。夫兕虎有域，動靜有",
+      "note": "列舉氣候、刑法、爭鬥與嗜欲等害源，主張愛惜精神、處靜且無害人之心以避開死地而善攝生",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林上",
+      "para_index": 1,
+      "para_id": "hanfeizi#46-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "湯以伐桀，而恐天下言己爲貪也，因乃讓天下於務光；而恐務光之受之也，乃使人說務光曰",
+      "note": "湯因怕天下以貪名之而設局轉嫁惡聲，務光遂投河，呈現名聲壓力左右身分評價與生死選擇",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林下",
+      "para_index": 27,
+      "para_id": "hanfeizi#47-p27",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "荆王伐吳，吳使沮衛、蹷融犒於荆師，而將軍曰：「縛之，殺以釁鼓。」問之曰：「汝來，",
+      "note": "吳使以「殺一臣而存一國」說明個人赴死與國家存亡的取捨，並辯死後有知無知時釁鼓皆無益",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "難三",
+      "para_index": 12,
+      "para_id": "hanfeizi#51-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "鄭子産晨出，過東匠之閭，聞婦人之哭，撫其御之手而聽之。有間，遣吏執而問之，則手絞",
+      "note": "子產明說人對親愛者始病則憂、臨死則懼、死後則哀，並由婦人只有懼而無哀識破其殺夫",
+      "co_domains": [
+        "VI"
+      ]
     },
     {
       "slug": "lienuzhuan",

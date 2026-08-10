@@ -1,0 +1,194 @@
+{
+  "batch": "b05.md",
+  "rows": [
+    {
+      "chapter": "八經",
+      "para_index": 1,
+      "domains": ["V", "VI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "明言「人情者，有好惡」，又說民會逐厚賞、美譽而畏重誅、惡毀，將人的好惡與賞罰效力連起來"
+    },
+    {
+      "chapter": "八經",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "formalization"],
+      "reason": "斷言一人之力不能敵眾、智不能盡物，並以匯集眾智、按功驗能說明領導與才能運用"
+    },
+    {
+      "chapter": "八經",
+      "para_index": 3,
+      "domains": ["V", "VI"],
+      "modes": ["proposition", "formalization"],
+      "reason": "明說臣主利益相異，且人會因所畏所愛而求得與聽言，據此分類內外因與制臣方法"
+    },
+    {
+      "chapter": "八經",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "逐項列出參伍察驗、離間朋黨與由下約上的操作術，未另說明人為何如此"
+    },
+    {
+      "chapter": "八經",
+      "para_index": 5,
+      "domains": ["II", "V"],
+      "modes": ["proposition", "formalization"],
+      "reason": "以尊卑相畏於法、相誨於利及「民之性」的名實反應，說明制度如何藉名利約束群體"
+    },
+    {
+      "chapter": "八經",
+      "para_index": 6,
+      "domains": ["V", "VI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "指出眾口重複與善辯會增加可信感，君主自己的喜怒也會影響毀譽判斷，揭示群體說服與情緒偏向"
+    },
+    {
+      "chapter": "八經",
+      "para_index": 7,
+      "domains": ["II", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "明說民同樣重名與賞，受譏的賞不足勸、受譽的罰不足禁，名聲與法制共同塑造行為"
+    },
+    {
+      "chapter": "八經",
+      "para_index": 8,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "把行義、慈仁受聽說成威分法毀，並主張臣的榮名必出官法，直接評斷德目與私名對權力秩序的作用"
+    },
+    {
+      "chapter": "八說",
+      "para_index": 1,
+      "domains": ["II", "V", "VII"],
+      "modes": ["proposition"],
+      "reason": "把徇私等行為命名為「仁人」「君子」呈現名實倒置，又直接評斷仁、行、俠等品格，並以匹夫私譽損害社稷公利說明公私衝突"
+    },
+    {
+      "chapter": "八說",
+      "para_index": 2,
+      "domains": ["VII", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "指出智者未必誠信而可能欺君、修潔者未必有智而可能亂事，主張以課功程能區分品格與任事能力"
+    },
+    {
+      "chapter": "八說",
+      "para_index": 3,
+      "domains": ["VII", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "明說民不盡能察也不盡賢，並以孔墨不耕、曾史不戰批評只尊文學修行而不重生產功勞"
+    },
+    {
+      "chapter": "八說",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["observation", "proposition"],
+      "reason": "由古時人寡物多而相親、輕利易讓，推論時勢改變後慈惠仁厚不再適用於大爭之世"
+    },
+    {
+      "chapter": "八說",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以衡石不受請託說人不行賄不是因貞廉而是無利可求，將品格行為歸於制度能否杜絕私利"
+    },
+    {
+      "chapter": "八說",
+      "para_index": 6,
+      "domains": ["IV", "VII"],
+      "modes": ["proposition"],
+      "reason": "慈母愛子不足免刑救死，且仁者慈惠不忍、暴者心毅易誅而皆使臣民失序，同時論親子之愛與兩種品格"
+    },
+    {
+      "chapter": "八說",
+      "para_index": 7,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "以不能闢草生粟卻勸人施賞作比，批評學者不務本作而以虛說游說，重點在生產勞動與空談的落差"
+    },
+    {
+      "chapter": "八說",
+      "para_index": 8,
+      "domains": ["VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "區分智者才能完成的盡思揣得失與愚者易做的援引前言責後功，主張制度不應依賴高難度智慮"
+    },
+    {
+      "chapter": "八說",
+      "para_index": 9,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "指出君主把味聲與政事判斷交給宰尹、樂正、寵人，會使下屬輕君重中介，說明裁決權如何改變權力關係"
+    },
+    {
+      "chapter": "八說",
+      "para_index": 10,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "以人會饑寒、惡死且受利害欲求驅使為服事之由，主張不能利人害人便無法使人畏重自己"
+    },
+    {
+      "chapter": "八說",
+      "para_index": 11,
+      "domains": ["II", "V"],
+      "modes": ["proposition"],
+      "reason": "同一肆意陳欲與輕慢行為，因人臣或人主身分而被稱為俠驕或亂暴，揭示名實評價受權位左右"
+    },
+    {
+      "chapter": "八說",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "只界定貴臣與重臣並規定按功遷官、誅罰偽言，是官制與用臣條文，未另說人是什麼樣"
+    },
+    {
+      "chapter": "六反",
+      "para_index": 1,
+      "domains": ["II", "V", "VII"],
+      "modes": ["proposition"],
+      "reason": "把畏死、離法、辯智等行為的世俗美名與實際公害相對，直接褒貶各類品格，並以私譽妨害公共賞罰說明群體公私衝突"
+    },
+    {
+      "chapter": "六反",
+      "para_index": 2,
+      "domains": ["IV", "V", "VII"],
+      "modes": ["proposition"],
+      "reason": "明言父母生男賀、生女殺而以長利計算親子，又以君臣各挾大利說權力關係，並斷言不靠仁忠也能成霸王以重評德目"
+    },
+    {
+      "chapter": "六反",
+      "para_index": 3,
+      "domains": ["IV", "VII"],
+      "modes": ["proposition"],
+      "reason": "以曾史見幽貨亦可疑說清廉受情境左右，又比較母愛父嚴而斷言厚愛子多敗、薄愛笞教子多善，論親子教養與品格形成"
+    },
+    {
+      "chapter": "六反",
+      "para_index": 4,
+      "domains": ["VI", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "明說人欲利必惡害，因厚賞慕業、重刑畏罪，並以法前苦長利、仁偷樂後窮評斷仁與法所養成的行為"
+    },
+    {
+      "chapter": "六反",
+      "para_index": 5,
+      "domains": ["IV", "VII"],
+      "modes": ["proposition"],
+      "reason": "以家長厚愛使子侈泰、驕恣、行暴，並斷言財用足則怠於用力、上治懦則肆於為非，說明溺愛與寬弛如何敗壞品行"
+    },
+    {
+      "chapter": "六反",
+      "para_index": 6,
+      "domains": ["V", "VI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以老聃知足與桀富貴仍不足相對，斷言一般人的欲望不能靠給足止息，因而以利害賞罰安排君民關係"
+    },
+    {
+      "chapter": "六反",
+      "para_index": 7,
+      "domains": ["II", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以視聽答問與舉鼎任事檢驗真實能力，指出無術不肖者會以辯與高自飾，處理自我呈現和任職才能的落差"
+    }
+  ]
+}

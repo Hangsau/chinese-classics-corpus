@@ -1,0 +1,180 @@
+{
+  "batch": "b15.md",
+  "rows": [
+    {
+      "chapter": "揚權",
+      "para_index": 1,
+      "domains": ["IX", "XIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "美味厚酒肥肉雖甘口卻傷身，美色雖悅情卻損精，因而主張去除過甚奢泰以保身無害"
+    },
+    {
+      "chapter": "揚權",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "主張各種才智能力都應各得其用，並指出居上者矜能好辯會受臣下欺乘而造成上下職分倒置"
+    },
+    {
+      "chapter": "揚權",
+      "para_index": 3,
+      "domains": ["II", "V"],
+      "modes": ["formalization", "prescription"],
+      "reason": "以名正物定、形名參同規定君主按名核實臣下所行，直論名實相符與君臣職責的關係"
+    },
+    {
+      "chapter": "揚權",
+      "para_index": 4,
+      "domains": ["VI", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "主張去除智巧並保持虛靜、不任己意，且明言人若運用智巧便多遭禍殃"
+    },
+    {
+      "chapter": "揚權",
+      "para_index": 5,
+      "domains": ["II", "V"],
+      "modes": ["proposition", "formalization"],
+      "reason": "明言君臣職分之道不同，並以君操其名、臣效其形及形名參同說明上下如何和調"
+    },
+    {
+      "chapter": "揚權",
+      "para_index": 6,
+      "domains": ["V", "VI"],
+      "modes": ["formalization", "prescription"],
+      "reason": "提出反聽、參伍與按行賞刑的聽治程序，並指出喜好會多事、憎惡會生怨而應去喜去惡、虛心自持"
+    },
+    {
+      "chapter": "揚權",
+      "para_index": 7,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "把權臣結黨逼主比作成群之虎，並主張可信的法刑能使其由姦邪復反常態，直論權力關係與品性約束"
+    },
+    {
+      "chapter": "揚權",
+      "para_index": 8,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "明言上下每日相戰、臣下藏私試上，臣之所以不弑君只是黨與未具，據此要求防止臣下聚眾增勢"
+    },
+    {
+      "chapter": "揚權",
+      "para_index": 9,
+      "domains": ["IV", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以一處不能有兩雄說明權力不可並立，並指出夫妻同時掌政會使子女無所適從"
+    },
+    {
+      "chapter": "揚權",
+      "para_index": 10,
+      "domains": ["V"],
+      "modes": ["prescription", "proposition"],
+      "reason": "以枝幹比公子宗室與黨羽，指出私人勢力繁盛會充實私門、壅塞公庭並逼迫君主"
+    },
+    {
+      "chapter": "有度",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["observation", "proposition"],
+      "reason": "藉諸國盛衰指出群臣官吏若只務私利、棄法求亂，便會使國家由強轉為亂弱"
+    },
+    {
+      "chapter": "有度",
+      "para_index": 2,
+      "domains": ["II", "V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "指出以聲譽朋黨進人會使忠臣受害、姦邪得利而群臣徇私，且人主可能僅有其名、實權卻寄於臣家，分別直論名實、權力公私與忠姦品格"
+    },
+    {
+      "chapter": "有度",
+      "para_index": 3,
+      "domains": ["II", "V", "VII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "規定臣下應奉公守職，並逐項否定世人以廉、忠、仁、義、智稱呼徇私逆法之行，直論君臣責任、品格與名實辨別"
+    },
+    {
+      "chapter": "有度",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "指出君主耳目思慮與精力有限時，臣下會飾觀飾聲、繁辭行詐，故應捨己能而憑法勢約束奸佞"
+    },
+    {
+      "chapter": "有度",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "明言臣下侵奪君權是逐漸發生而使人主不自知，並以法律不避權貴來維持上下分際與公共秩序"
+    },
+    {
+      "chapter": "用人",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["prescription", "formalization"],
+      "reason": "主張依能力授官、使人各勝其任且職事不相干涉，以避免兼官、爭訟、怨亂與彼此傷害"
+    },
+    {
+      "chapter": "用人",
+      "para_index": 2,
+      "domains": ["VIII", "XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以堯與巧匠離開法術規矩仍不能成功、平庸者守規矩反能少失，說明個人才能的限度及條件對成事能力的改變"
+    },
+    {
+      "chapter": "用人",
+      "para_index": 3,
+      "domains": ["V", "VI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "明言人心難知且喜怒難以揣中，君主若任難測私心便會使上積怒、下積怨，故應建立易見易知的規則"
+    },
+    {
+      "chapter": "用人",
+      "para_index": 4,
+      "domains": ["V", "VI", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以介子推不顧爵祿而行義割肌為仁說明廉恥仁義，並明言人主與人臣各有樂苦，主張調和雙方利害以免怨禍"
+    },
+    {
+      "chapter": "用人",
+      "para_index": 5,
+      "domains": ["V", "VI", "VIII"],
+      "modes": ["proposition"],
+      "reason": "指出臣下被迫承擔不合所長且難以完成的職務，又在勞苦憂悲中不受撫恤，會積結私怨並終至叛主"
+    },
+    {
+      "chapter": "用人",
+      "para_index": 6,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "以燕王憎本國之民而愛魯人為例，指出被疏斥者不肯盡力、外人又不會改事他主，終使臣離而主孤"
+    },
+    {
+      "chapter": "用人",
+      "para_index": 7,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "指出任意發怒施刑會使罪禍錯置而積成怨恨，賞罰合宜則君臣都能免於受害並安於職事"
+    },
+    {
+      "chapter": "用人",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "以補牆防風作比，規定君主須先防近禍、用近謀而不可仰賴遠方援助，是治術指令，未斷言人的品性或處境"
+    },
+    {
+      "chapter": "觀行",
+      "para_index": 1,
+      "domains": ["II", "XI"],
+      "modes": ["proposition", "narrative"],
+      "reason": "指出人的智慧不足以自知，並以西門豹佩韋緩急、董安于佩弦自急說明人可辨認自身偏性而補其不足"
+    },
+    {
+      "chapter": "觀行",
+      "para_index": 2,
+      "domains": ["VIII", "XI"],
+      "modes": ["formalization", "proposition"],
+      "reason": "列出智、力、強各有不能，並以堯須眾助、烏獲不能自舉、離朱不能自見說明能力與成事受情勢和方法限制"
+    }
+  ]
+}

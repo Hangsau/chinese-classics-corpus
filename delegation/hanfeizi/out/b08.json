@@ -1,0 +1,194 @@
+{
+  "batch": "b08.md",
+  "rows": [
+    {
+      "chapter": "問田",
+      "para_index": 1,
+      "domains": ["II", "V"],
+      "modes": ["proposition", "narrative"],
+      "reason": "以宋觚、馮離因聲詞辯說使君主眩惑而亡國為證，主張任人須經屯伯、州部之試以辨名實"
+    },
+    {
+      "chapter": "問田",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "expression"],
+      "reason": "韓子把冒身死之患而求利民視為仁智，把避死而不見民利視為貪鄙，明辨公共責任與品格取捨"
+    },
+    {
+      "chapter": "問辯",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "直接斷言辯說之所以產生在於居上者不明，把公共言論問題歸因於領導者的判斷"
+    },
+    {
+      "chapter": "問辯",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": [],
+      "reason": "追問何以上位者不明便會生辯，所問正是領導判斷與公共言論秩序的關係"
+    },
+    {
+      "chapter": "問辯",
+      "para_index": 3,
+      "domains": ["II", "V"],
+      "modes": ["proposition"],
+      "reason": "以法令與功用為言行準的，並指出亂世把難知、博文、離群、犯上誤稱為察、辯、賢、抗，論及名實評價與公共秩序"
+    },
+    {
+      "chapter": "喻老",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "以天下有道則安靜無急患、無道則攻擊不休而士兵不歸，說明公共秩序與戰亂狀態"
+    },
+    {
+      "chapter": "喻老",
+      "para_index": 2,
+      "domains": ["V", "VI"],
+      "modes": ["narrative"],
+      "reason": "由狐豹因皮美招罪推及名號、城地因可欲而招禍，揭示人的欲求如何形成爭奪與政治危害"
+    },
+    {
+      "chapter": "喻老",
+      "para_index": 3,
+      "domains": ["VI", "VII"],
+      "modes": ["narrative"],
+      "reason": "智伯兼併後仍攻趙不止而身死國分，以不知足明指欲望無厭的品格會招致大禍"
+    },
+    {
+      "chapter": "喻老",
+      "para_index": 4,
+      "domains": ["VI", "VII"],
+      "modes": ["narrative"],
+      "reason": "虞君貪求良馬美璧而不聽勸，終至邦亡身死，以欲得說明貪求與咎患"
+    },
+    {
+      "chapter": "喻老",
+      "para_index": 5,
+      "domains": ["VI", "X"],
+      "modes": ["proposition"],
+      "reason": "明言不以欲望自害即可使邦不亡、身不死，將知足與節欲連到生命的保全"
+    },
+    {
+      "chapter": "喻老",
+      "para_index": 6,
+      "domains": ["IV"],
+      "modes": ["narrative"],
+      "reason": "孫叔敖選取瘠地，使封地九世仍存且子孫祭祀不絕，重點在家族承傳的長久安排"
+    },
+    {
+      "chapter": "喻老",
+      "para_index": 7,
+      "domains": ["V"],
+      "modes": ["proposition", "narrative"],
+      "reason": "以主父生前傳國、離位失勢而幽死為戒，主張領導者的權位一失便會失臣失君"
+    },
+    {
+      "chapter": "喻老",
+      "para_index": 8,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "指出賞罰若落入臣手，臣便藉之增減以收德威，明說君臣權力關係如何因勢的轉移而逆轉"
+    },
+    {
+      "chapter": "喻老",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "各例只示範欲翕先張、欲弱先強、欲取先與的隱微操作，未另行斷言人為何如此"
+    },
+    {
+      "chapter": "喻老",
+      "para_index": 10,
+      "domains": ["IX", "X"],
+      "modes": ["proposition", "narrative"],
+      "reason": "扁鵲逐層說明疾病由腠理深入骨髓而終至桓侯體痛身死，直接處理疾病惡化與死亡"
+    },
+    {
+      "chapter": "喻老",
+      "para_index": 11,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "鄭君與虞君皆不聽臣下在禍患未兆時的勸告而亡國，說明領導者及早納諫與決斷的重要"
+    },
+    {
+      "chapter": "喻老",
+      "para_index": 12,
+      "domains": ["VI", "VII"],
+      "modes": ["narrative"],
+      "reason": "箕子由象箸推見享欲會逐步擴張至奢虐亡國，既寫欲望的增長，也以見始知卒表明識微的品格"
+    },
+    {
+      "chapter": "喻老",
+      "para_index": 13,
+      "domains": ["VI", "XIII"],
+      "modes": ["narrative"],
+      "reason": "勾踐忍受臣僕之辱、文王受詈而顏色不變，藉守柔說明面對屈辱時的內在穩定與自處"
+    },
+    {
+      "chapter": "喻老",
+      "para_index": 14,
+      "domains": ["VI", "VII"],
+      "modes": ["narrative", "expression"],
+      "reason": "子罕以第一人稱表明自己以不受玉為寶，將欲玉與不欲玉對照為克制欲望的品格"
+    },
+    {
+      "chapter": "喻老",
+      "para_index": 15,
+      "domains": ["VII", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "徐馮說知者無常事、言知不藏書，王壽遂焚書，主張智慧在隨時改變並能復歸所學之弊"
+    },
+    {
+      "chapter": "喻老",
+      "para_index": 16,
+      "domains": ["VIII", "XI"],
+      "modes": ["proposition", "narrative"],
+      "reason": "以人造楮葉三年方成及冬耕、豐年的反差，說明個人技力的限度與順應自然條件對成事的作用"
+    },
+    {
+      "chapter": "喻老",
+      "para_index": 17,
+      "domains": ["VI", "XIII"],
+      "modes": ["proposition"],
+      "reason": "指出耳目逐聲色、精神逐外貌便會中無主而不能識禍福，主張守住內在中心以保持明察"
+    },
+    {
+      "chapter": "喻老",
+      "para_index": 18,
+      "domains": ["VI", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "襄王競逐時心皆在對手而不能調馬，白公思遠而不覺面頰流血，說明注意外馳會遺忘眼前並損害明智"
+    },
+    {
+      "chapter": "喻老",
+      "para_index": 19,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative"],
+      "reason": "楚莊王先沉默觀察而後整頓政事、建立大功，將領導上的延遲顯露連到成就與聲名"
+    },
+    {
+      "chapter": "喻老",
+      "para_index": 20,
+      "domains": ["II", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "杜子以眼能見遠而不能見睫勸止伐越，結論明說知人易而自見難，核心是自我認識與明智"
+    },
+    {
+      "chapter": "喻老",
+      "para_index": 21,
+      "domains": ["VI", "VII"],
+      "modes": ["narrative", "expression"],
+      "reason": "子夏自述義與富貴之樂交戰於胸中，終以先王之義取勝，呈現內在衝突與自我克制"
+    },
+    {
+      "chapter": "喻老",
+      "para_index": 22,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "文王依膠鬲之賢與費仲之無道而分別拒予、資予，說明辨識人物品格後如何決定扶持或阻抑"
+    }
+  ]
+}

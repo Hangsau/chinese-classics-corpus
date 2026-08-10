@@ -1,0 +1,54 @@
+{
+  "batch": "b02.md",
+  "rows": [
+    {
+      "chapter": "亡徵",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "逐項主張君主饕貪、柔懦、自信等品性，以及私門壓過公功、臣重主輕等權力失序，都使國家可亡，兼論品格與政治秩序"
+    },
+    {
+      "chapter": "亡徵",
+      "para_index": 2,
+      "domains": ["V", "XI"],
+      "modes": ["proposition"],
+      "reason": "明言亡徵並非必亡，亡王繫於治亂強弱相踦及蠹木逢風、隙牆逢雨，並說能服術行法者可改變局勢"
+    },
+    {
+      "chapter": "人主",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "以馬之筋力、虎豹之爪牙比喻人主威勢，主張大臣擅權會使人主失力，終至身死國亡"
+    },
+    {
+      "chapter": "人主",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "指出法術士與當途臣勢不兩立，並主張按功授祿、稱能任官，否則賢智能者會受不肖近臣壅蔽而不得進用"
+    },
+    {
+      "chapter": "備內",
+      "para_index": 1,
+      "domains": ["IV", "V"],
+      "modes": ["proposition"],
+      "reason": "明言君臣非骨肉而係於勢、人臣窺君心，又以妻、子皆可被姦臣利用說明家內親信亦不可盡信"
+    },
+    {
+      "chapter": "備內",
+      "para_index": 2,
+      "domains": ["III", "IV", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以「愛則親，不愛則疏」與美衰好色解釋夫妻親疏，以母后子主說家內繼承，並以眾人所利在君死說宮廷權勢與防備，三者各是本段獨立主張"
+    },
+    {
+      "chapter": "備內",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "以徭役多導致民苦、貴人富，並指出大臣比周蔽上、專法行權會使上下易位，主張權勢失衡損害百姓與君權"
+    }
+  ]
+}

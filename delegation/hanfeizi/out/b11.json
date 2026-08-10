@@ -1,0 +1,285 @@
+{
+  "batch": "b11.md",
+  "rows": [
+    {
+      "chapter": "外儲說右上",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "列出除患與持勢的第一項綱要，並以「說在畜烏」等語索引後文故事，屬術目索引而非人的主張"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "彙列人主隱藏好惡與獨斷的第二項術目，並用「說在」「患在」「明之以」指向後文例證"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "以酒狗、社鼠、再誅、揆歌與忍痛串列第三項術治提要，是後文故事的綱目索引"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "規定賞譽罰毀皆不能使之改變時便加以除去，只給處置門檻而未解釋人何以如此"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "景公見二弟因富貴而得民心，遂賑貧賜孤寡與之爭民，寫民眾歸附與政治恩惠相連"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 6,
+      "domains": ["V", "IX"],
+      "modes": ["narrative"],
+      "reason": "晏子說田成氏以厚施救活饑民而使「民德歸之」，同時寫出大饑、餓死與貧窮者受救的處境"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 7,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "以臧獲乘良馬也能及獸論證權勢勝於個人才力，並明指君主捨勢而以德厚爭民不能除患"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 8,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "由臣弒君、子弒父皆漸積而成，推論姦勢會因久行而增長，故主張君主及早斷絕其萌芽"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 9,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "子路稱仁義是與天下同利，孔子則以禮限定各身分所愛並把越分私惠判為侵奪君民，兼論德目與權力界線"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 10,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "太公望認為不受爵祿刑罰、雖賢而不為君用者既不可役使也不得稱忠，直接重定賢忠與臣服的關係"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 11,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "狂矞雖被稱為天下賢者，卻因主張不臣天子、不友諸侯而被視為亂法易教，呈現賢名與服從秩序的衝突"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 12,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative"],
+      "reason": "衛嗣公以馬能為人用而鹿不能作比，認定如耳雖有萬乘之相的辯智、心不在衛便不宜任職"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 13,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "欒子見薛公使支持者必得利、反對者必受害，便因利害而競相轉為支持，明寫權勢如何改變政治歸附"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 14,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以斷烏下翎使其恃人而食為喻，主張令臣下仰賴君祿與上名便不得不服從"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 15,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "申子斷言君主一旦顯露見知與欲望，人便會防備、迷惑、矯飾、隱匿或設餌，直說權力關係中的欺飾反應"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 16,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "申子以慎言行、有無知見分述他人跟隨、隱匿、猜度或蒙蔽的反應，將人的欺飾作為無為察臣的依據"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 17,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "田子方把弋者謹守遮蔽物的方法移用於治國，鄭長者再以虛無無見補足該術，只示範隱蔽之法"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 18,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "宣王指出人主以二目視一國而一國以萬目視人主，明說統治者與眾人彼此監視的不對稱關係"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 19,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "國羊得知鄭君厭惡自己後請君指出過錯以便改免死罪，只是顯露好惡會被臣下利用的一則術治例證"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 20,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "左右見宣王喜悅太息便搶先告知說客以邀德，僅示範臣下如何利用君主外露的反應"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 21,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "靖郭君在王后死後以獻玉珥探知齊王欲立何人，內容只是試探君意的操作實例"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 22,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "薛公製作十枚玉珥並特別美化其一，翌日據佩戴者判知王意，只示範探測偏好的術"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 23,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "甘茂利用穴聽所得的密語佯賀犀首為相，使秦王誤認犀首泄密而逐之，是離間術的操作故事"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 24,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "樗里疾鑿穴竊聽後散布出兵消息並嫁禍犀首，整段示範竊密與構陷競爭者的手段"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 25,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "堂谿公以無底玉巵不能盛水比喻君主泄露群臣之語，昭侯遂以獨寢防夢言，重點是保密術"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 26,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "以有底瓦巵勝過無底白玉巵說明泄語之患，並以昭侯獨臥防妻妾聽見夢言示範保密操作"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 27,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "把獨視、獨聽、獨斷界定為明主的治術條件，只規定君主如何掌握資訊與決斷"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 28,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "以猛狗阻客與社鼠難除說明權臣結黨欺君、為己者牟利而害異己，直陳私心腐化權力關係"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 29,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "酒家猛狗與國中社鼠的故事被用來說明左右欺君亂法、掌權者利己害人，兼及權力與奸欺品性"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 30,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "堯為傳位舜而誅殺反對者，仲尼把不讓疑慮敗壞已察之見判為真正困難，寫領導決斷與堅持所察"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 31,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "莊王拒絕為太子誅守法廷理，認為越法會失威危位，並使太子請罪，彰顯公共法令與守法品格高於私親"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 32,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "廷理不因當前老主或未來儲主而屈法，楚王反為其加爵並警告太子，寫不徇身分的守法品格與公權界線"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 33,
+      "domains": ["IV", "V"],
+      "modes": ["narrative"],
+      "reason": "薄疑說母親雖親愛信任自己仍會聽蔡嫗，人主與臣既不及母子之親又受行私重人左右，明比家內信任與權力牽制"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 34,
+      "domains": ["IV", "V"],
+      "modes": ["narrative"],
+      "reason": "薄疑以母親愛賢自己勝過衛君卻仍讓蔡嫗復決家事，推知君臣之議更會被親信推翻，對照母子信任與政治依附"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 35,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "規定教歌前先使學者呼聲受抑，待其聲反為清徵才教，是一項能力篩選程序而未論人的生活領域"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 36,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "以疾呼中宮、徐呼中徵及不中則不可教列成試聲標準，是可執行的教歌檢核程序"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 37,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "吳起因妻織組不中法度而出之，妻兄解釋立法致功者必先在妻妾身上踐行，寫執法者公私一致的品格"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 38,
+      "domains": ["VII"],
+      "modes": ["narrative"],
+      "reason": "妻子雖把織組做得更好卻違背吳起所言而被遣歸，吳起以「起家無虛言」表明言令必踐的品格"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 39,
+      "domains": ["V", "VI"],
+      "modes": ["narrative"],
+      "reason": "狐偃說民因保全生產才從君而不願迎死，文公又斬所愛顛頡使百姓恐懼服法，明寫民眾動機、恐懼與領導權威"
+    },
+    {
+      "chapter": "外儲說右上",
+      "para_index": 40,
+      "domains": ["V", "VI", "IX"],
+      "modes": ["proposition"],
+      "reason": "痤疽刺骨與砥石彈治寫身體之痛，人主又因親愛重臣而難下誅，藉忍受痛苦說明處置權臣的內在與權力困局"
+    }
+  ]
+}

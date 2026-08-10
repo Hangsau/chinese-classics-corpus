@@ -2,9 +2,9 @@
   "domain": "II",
   "name_zh": "自我與認同",
   "gist": "我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我",
-  "generated_at": "2026-08-10T01:34:46+00:00",
-  "para_count": 370,
-  "book_count": 17,
+  "generated_at": "2026-08-10T06:16:28+00:00",
+  "para_count": 456,
+  "book_count": 18,
   "surveyed_zero_hit": [
     "fangyan",
     "gu-sanfen",
@@ -44,6 +44,1220 @@
       "excerpt": "黃安，代郡人也。為代郡卒。自雲卑猥不獲處人間，執鞭懷荊而讀書。畫地以記數者，夕地",
       "note": "黃安自陳卑猥難處人間，仍在低微役職中執鞭懷荊讀書記數，寫出自我身分與求學實踐",
       "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "主道",
+      "para_index": 1,
+      "para_id": "hanfeizi#02-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "道者，萬物之始，是非之紀也。是以明君守始以知萬物之源，治紀以知善敗之端。故虚静以",
+      "note": "君主顯露所欲所意，臣便「雕琢」「自表異」，去好去惡才會「見素」，明說臣下依君主偏好塑造外在表現",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "二柄",
+      "para_index": 3,
+      "para_id": "hanfeizi#03-p03",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "人主有二患：任賢，則臣將乘於賢以劫其君；妄舉，則事沮不勝。故人主好賢，則羣臣飾行",
+      "note": "君主顯露好惡會使羣臣「飾行」「誣能」，而人臣未必愛君、實因重利，說明偽飾自我與君臣利害關係",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "五蠹",
+      "para_index": 3,
+      "para_id": "hanfeizi#04-p03",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "堯之王天下也，茅茨不翦，采椽不斵；糲粢之食，䔧藿之羹；冬日麑裘，夏日葛衣，雖監門",
+      "note": "以饑歲幼弟不饟、穰歲疏客必食揭示骨肉取捨受資源多少左右，並辨明易財、爭奪、辭讓不等於仁、鄙、高、下",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "五蠹",
+      "para_index": 8,
+      "para_id": "hanfeizi#04-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今則不然，以其有功也爵之，而卑其士官也；以其耕作也賞之，而少其家業也；以其不收也",
+      "note": "兄弟知友受辱而報仇被稱廉貞，實會犯上法；無事力戰功而得衣食尊位又被稱賢能，明說德目名譽與公法功實相悖",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "五蠹",
+      "para_index": 12,
+      "para_id": "hanfeizi#04-p12",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "今人主之於言也，說其辯而不求其當焉；其用於行也，美其聲而不責其功。是以天下之衆，",
+      "note": "談仁義、競為高卻不合於功，顯出品格聲名與實效不符；文學言談又能免耕戰勞危而得富貴，驅使百人事智而一人用力",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "五蠹",
+      "para_index": 15,
+      "para_id": "hanfeizi#04-p15",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "鄙諺曰：「長袖善舞，多錢善賈。」此言多資之易爲工也。故治强易爲謀，弱乱難爲計。故",
+      "note": "秦謀者屢變少失、燕謀者一變少得並非前者必智後者必愚，而因治亂之資不同，指出智愚評價與謀略成效取決於所憑資源",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "五蠹",
+      "para_index": 17,
+      "para_id": "hanfeizi#04-p17",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫明王治國之政，使其商工游食之民少而名卑，以寡趣本務而趨末作。今世近習之請行，則",
+      "note": "官爵可買使商工不卑，聚斂厚利又使商賈尊於耕戰之士，於是耿介者寡而商賈者多，明說職業身分與選擇受名位收益塑造",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說上七術",
+      "para_index": 31,
+      "para_id": "hanfeizi#08-p31",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊國好厚葬，布帛盡於衣衾，材木盡於棺椁。桓公患之，以告管仲曰：「布帛盡則無以爲蔽",
+      "note": "管仲明言凡人的作為不是求名便是求利，並以斷絕名利動機制止厚葬",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說上七術",
+      "para_index": 38,
+      "para_id": "hanfeizi#08-p38",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "越王慮伐吳，欲人之輕死也，出見怒鼃，乃爲之式。從者曰：「奚敬於此？」王曰：「爲其",
+      "note": "越王禮敬怒蛙以表揚勇氣，人民為求此種聲譽而以頭獻王，末句直言稱譽足以使人赴死",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說上七術",
+      "para_index": 39,
+      "para_id": "hanfeizi#08-p39",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "一曰：越王勾踐見怒鼃而式之。御者曰：「何爲式？」王曰：「鼃有氣如此，可無爲式乎？",
+      "note": "士人因越王禮敬怒蛙而以勇者自期，後文又說賞在火、水、兵便能使人冒死前赴",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說上七術",
+      "para_index": 43,
+      "para_id": "hanfeizi#08-p43",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊宣王使人吹竽，必三百人。南郭處士請爲王吹竽，宣王說之，廪食以數百人。宣王死，湣",
+      "note": "南郭處士以吹竽者身分混在三百人中領食，遇到逐一聽奏便逃，顯出名分與真實技能不符",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "八經",
+      "para_index": 5,
+      "para_id": "hanfeizi#12-p05",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "五。明主，其務在周密。是以喜見則德償，怒見則威分。故明王之言隔塞而不通，周密而不",
+      "note": "以尊卑相畏於法、相誨於利及「民之性」的名實反應，說明制度如何藉名利約束群體",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "八經",
+      "para_index": 7,
+      "para_id": "hanfeizi#12-p07",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "七。官之重也，毋法也；法之息也，上闇也。上闇無度，則官擅爲；官擅爲，故奉重無前；",
+      "note": "明說民同樣重名與賞，受譏的賞不足勸、受譽的罰不足禁，名聲與法制共同塑造行為",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "八說",
+      "para_index": 1,
+      "para_id": "hanfeizi#13-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "爲故人行私謂之「不弃」，以公財分施謂之「仁人」，輕禄重身謂之「君子」，枉法曲親謂",
+      "note": "把徇私等行為命名為「仁人」「君子」呈現名實倒置，又直接評斷仁、行、俠等品格，並以匹夫私譽損害社稷公利說明公私衝突",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "八說",
+      "para_index": 11,
+      "para_id": "hanfeizi#13-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人臣肆意陳欲曰俠，人主肆意陳欲曰乱；人臣輕上曰驕，人主輕下曰暴。行理同實，下以受",
+      "note": "同一肆意陳欲與輕慢行為，因人臣或人主身分而被稱為俠驕或亂暴，揭示名實評價受權位左右",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "六反",
+      "para_index": 1,
+      "para_id": "hanfeizi#14-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "畏死遠難，降北之民也，而世尊之曰「貴生之士」。學道立方，離法之民也，而世尊之曰「",
+      "note": "把畏死、離法、辯智等行為的世俗美名與實際公害相對，直接褒貶各類品格，並以私譽妨害公共賞罰說明群體公私衝突",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "六反",
+      "para_index": 7,
+      "para_id": "hanfeizi#14-p07",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "人皆寐，則盲者不知；皆嘿，則喑者不知。覺而使之視，問而使之對，則喑盲者窮矣。不聽",
+      "note": "以視聽答問與舉鼎任事檢驗真實能力，指出無術不肖者會以辯與高自飾，處理自我呈現和任職才能的落差",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "制分",
+      "para_index": 5,
+      "para_id": "hanfeizi#16-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡畸功之循約者難知，過刑之於言者難見也，是以刑賞惑乎貳。所謂循約難知者，姦功也；",
+      "note": "指出虛功難辨會使虛士立名，愚、怯、勇、慧等品性遂以虛道混同而容於世，直接涉及名實錯置與品格辨識",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "功名",
+      "para_index": 2,
+      "para_id": "hanfeizi#17-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫有材而無勢，雖賢不能制不肖。故立尺材於高山之上，則臨千仞之谿，材非長也，位高也",
+      "note": "以有材無勢、君臣分工及眾人助力說明權位協作如何成就功業，又明言「名實相持」與「名不稱實」，少掉 II 便會漏掉本段獨立的名實議題",
+      "co_domains": [
+        "V",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "十過",
+      "para_index": 10,
+      "para_id": "hanfeizi#18-p10",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "奚謂内不量力？昔者秦之攻宜陽，韓氏急。公仲朋謂韓君曰：「與國不可恃也，豈如因張儀",
+      "note": "韓君把楚國名義上的救援當真而忽視秦國實際威脅，呈現名實誤判如何破壞結盟與領導決策",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "南面",
+      "para_index": 1,
+      "para_id": "hanfeizi#19-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "人主之過，在已任臣矣，又必反與其所不任者備之，此其說必與其所任者爲讎，而主反制於",
+      "note": "人臣以名譽請謁求進、假託忠信避禁，相愛相憎者又結黨互相譽非，明說名實偽飾與朋黨權力如何使君主受惑",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "南面",
+      "para_index": 4,
+      "para_id": "hanfeizi#19-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "人主欲爲事，不通其端末，而以明其欲，有爲之者，其爲不得利，必以害反。知此者，任理",
+      "note": "惑主只計所得而不計支出，遂使名得而實亡並縱容臣下以大費成小功，所論是名實錯置與領導決策失責",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "和氏",
+      "para_index": 1,
+      "para_id": "hanfeizi#20-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "楚人和氏得玉璞楚山中，奉而獻之厲王。厲王使玉人相之。玉人曰：「石也。」王以和爲誑",
+      "note": "和氏明言所悲不是刖足，而是寶玉被題為石、貞士被名為誑，核心是名實遭誤認所引發的深切悲痛",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "問田",
+      "para_index": 1,
+      "para_id": "hanfeizi#21-p01",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "徐渠問田鳩曰：「臣聞智士不襲下而遇君，聖人不見功而接上。今陽成義渠，明將也，而措",
+      "note": "以宋觚、馮離因聲詞辯說使君主眩惑而亡國為證，主張任人須經屯伯、州部之試以辨名實",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "問辯",
+      "para_index": 3,
+      "para_id": "hanfeizi#22-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "對曰：「明主之國，令者，言最貴者也；法者，事最適者也。言無二貴，法不兩適，故言行",
+      "note": "以法令與功用為言行準的，並指出亂世把難知、博文、離群、犯上誤稱為察、辯、賢、抗，論及名實評價與公共秩序",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "喻老",
+      "para_index": 20,
+      "para_id": "hanfeizi#23-p20",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "楚莊王欲伐越，杜子諫曰：「王之伐越，何也？」曰：「政亂兵弱。」杜子曰：「臣愚患之",
+      "note": "杜子以眼能見遠而不能見睫勸止伐越，結論明說知人易而自見難，核心是自我認識與明智",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左上",
+      "para_index": 2,
+      "para_id": "hanfeizi#24-p02",
+      "modes": [
+        "formalization"
+      ],
+      "excerpt": "二。人主之聽言也，不以功用爲的，則說者多「棘刺」「白馬」之說；不以儀的爲關，則射",
+      "note": "第二項以多組人名與故事作索引，並明說不以功用與準的考核就會滋生「棘刺」「白馬」等虛說，所論是言行名目與實效的脫節",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左上",
+      "para_index": 8,
+      "para_id": "hanfeizi#24-p08",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "楚王謂田鳩曰：「墨子者，顯斈也。其身體則可，其言多而不辯，何也？」曰：「昔秦伯嫁",
+      "note": "田鳩以陪嫁之飾使人賤公女、珠櫝之美使人還珠，說明華麗文辭會使人忘記直意與實用，重點在外在形式掩蓋實質",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左上",
+      "para_index": 12,
+      "para_id": "hanfeizi#24-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "二。宋人有請爲燕王以棘刺之端爲母猴者，必三月齋然後能觀之。燕王因以三乘養之。右御",
+      "note": "說者利用燕王不能久齋而虛稱能刻棘刺母猴，冶工以工具尺度揭穿其妄，並總結無度量就會多有此類虛說",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左上",
+      "para_index": 14,
+      "para_id": "hanfeizi#24-p14",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "兒說，宋人，善辯者也，持「白馬非馬也」服齊稷下之辯者。乘白馬而過關，則顧白馬之賦",
+      "note": "兒說以「白馬非馬」在辯場取勝，過關時卻仍須繳白馬之賦，結語明辨虛辭之名能勝而按形考實即不能欺人",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左上",
+      "para_index": 15,
+      "para_id": "hanfeizi#24-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫新砥礪殺矢，彀弩而射，雖冥而妄發，其端未嘗不中秋毫也，然而莫能復其處，不可謂善",
+      "note": "有固定標的才能區分真射藝與偶然命中，也能以功考言而抑制妄說，分別處理名實判定與才能成效的衡量",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左上",
+      "para_index": 24,
+      "para_id": "hanfeizi#24-p24",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "范且、虞慶之言，皆文辯辭勝而反事之情。人主說而不禁，此所以敗也。夫不謀治强之功，",
+      "note": "本段明說范且、虞慶以文辭勝而違反事情實況，致工匠與知治者不能施展技巧，兼論虛名壓倒實情及專業工作受阻",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左上",
+      "para_index": 29,
+      "para_id": "hanfeizi#24-p29",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "蔡女爲桓公妻，桓公與之乘舟，夫人蕩舟，桓公大懼，禁之不止，怒而出之。乃且復召之，",
+      "note": "仲父把桓公因蔡女改嫁而起的私怨包裝成替天子伐楚、再以不從為名襲蔡，原文明說這是「義於名而利於實」",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左上",
+      "para_index": 31,
+      "para_id": "hanfeizi#24-p31",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "趙主父令工施鈎梯而緣播吾，刻踈人迹其上，廣三尺，長五尺，而勒之曰：「主父常遊於此",
+      "note": "趙主父命工匠製作巨大假足跡並刻稱自己曾遊此地，是以人造痕跡虛構自身事蹟，直接呈現名聲形象與事實不符",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左上",
+      "para_index": 32,
+      "para_id": "hanfeizi#24-p32",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "秦昭王令工施鈎梯而上華山，以松栢之心爲博，箭長八尺，棊長八寸，而勒之曰：「昭王嘗",
+      "note": "秦昭王命工匠在華山造棋具並刻稱自己曾與天神對弈，是藉造物虛構個人事蹟，重點在自我形象與實情不符而非信仰實踐",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左上",
+      "para_index": 35,
+      "para_id": "hanfeizi#24-p35",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "鄭縣人有得車軛者，而不知其名，問人曰：「此何種也？」對曰：「此車軛也。」俄又復得",
+      "note": "鄭人不懂兩件同類物皆名車軛，反認為重複回答者欺騙自己而爭鬥，故事直接圍繞名稱與實物類別的錯置",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左上",
+      "para_index": 42,
+      "para_id": "hanfeizi#24-p42",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "書曰：「既雕既琢，還歸其樸。」梁人有治者，動作言學，舉事於文，曰：「難之。」顧失",
+      "note": "梁人依「既雕既琢，還歸其樸」刻意使言行繁難有文，結果反而失其實，明寫外在學樣與真實內容的背離",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左上",
+      "para_index": 43,
+      "para_id": "hanfeizi#24-p43",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "郢人有遺燕相國書者，夜書，火不明，因謂持燭者曰：「舉燭。」云而過書「舉燭」。舉燭",
+      "note": "燕相把郢人誤寫的「舉燭」解成尚明舉賢，雖使國治卻非原書意，並說今世學者多如此，所論是言辭意義與附會解釋不符",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左上",
+      "para_index": 44,
+      "para_id": "hanfeizi#24-p44",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "鄭人有且置履者，先自度其足而置之其坐，至之市而忘操之。已得履，乃曰：「吾忘持度。",
+      "note": "鄭人寧信預先量得的尺寸也不肯用自己的腳試鞋，因而錯失買履，直接寫他捨棄自身判斷而依附外在尺度",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左下",
+      "para_index": 12,
+      "para_id": "hanfeizi#25-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "一曰：少室周爲襄主驂乘，至晉陽，有力士牛子耕，與角力而不勝。周言於主曰：「主之所",
+      "note": "少室周明言自己受用只因多力，角力不勝牛子耕後即承認能力差距並願進用勝己者，涉及自我評估與才能力任",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左下",
+      "para_index": 17,
+      "para_id": "hanfeizi#25-p17",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "一曰：哀公問於孔子曰：「吾聞䕫一足，信乎？」曰：「䕫，人也，何故一足？彼其無他異",
+      "note": "孔子釐清䕫並非只有一足，而是以獨通音聲之才一人即足，辨明稱說之實與個人專長",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左下",
+      "para_index": 28,
+      "para_id": "hanfeizi#25-p28",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊有狗盜之子與刖危子戲而相誇。盜子曰：「吾父之裘獨有尾。」刖危子曰：「吾父獨冬不",
+      "note": "狗盜之子與刖者之子把父親可恥或受刑的處境轉說成可誇之事，呈現自我評價與是非榮辱的倒置",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左下",
+      "para_index": 31,
+      "para_id": "hanfeizi#25-p31",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "韓宣子曰：「吾馬菽粟多矣，甚臞，何也？寡人患之。」周市對曰：「使騶盡粟以食，雖無",
+      "note": "周市以馬雖名為所得菽粟多而實際所得少，指出宣子不審情實只信名目，核心在名與實的落差",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說左下",
+      "para_index": 32,
+      "para_id": "hanfeizi#25-p32",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "桓公問置吏於管仲，管仲曰：「辯察於辭，清潔於貨，習人情，夷吾不如絃商，請立以爲大",
+      "note": "管仲逐項承認自己在辭獄、禮賓、農事、軍事與諫爭上不如五人，又明定自己的霸王之才，呈現自我評估與才能分工",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說右下",
+      "para_index": 21,
+      "para_id": "hanfeizi#27-p21",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "潘壽謂燕王曰：「王不如以國讓子之。人所以謂堯賢者，以其讓天下於許由，許由必不受也",
+      "note": "潘壽以假讓國可得堯之名而實不失天下誘燕王，核心明辨讓賢名聲與實際權力並不相符",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說右下",
+      "para_index": 23,
+      "para_id": "hanfeizi#27-p23",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "一曰：燕王欲傳國於子之也，問之潘壽，對曰：「禹愛益而任天下於益，已而以啓人爲吏。",
+      "note": "以禹名傳益而權勢實在啟、終由啟黨奪國，說明名義繼承與實際權力分離且黨羽左右承位結果",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說右下",
+      "para_index": 25,
+      "para_id": "hanfeizi#27-p25",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "吳章謂韓宣王曰：「人主不可佯愛人，一日不可復憎；不可以佯憎人，一日不可復愛也。故",
+      "note": "佯愛佯憎一露徵象，諛者便據以毀譽而使君主無法收回，明寫假意表態與名聲操弄如何受權力利用",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說右下",
+      "para_index": 27,
+      "para_id": "hanfeizi#27-p27",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "衛君入朝於周，周行人問其號，對曰：「諸侯辟彊。」周行人却之曰：「諸侯不得與天子同",
+      "note": "周行人不許衛君與天子同號，仲尼更由虛名不可借推及實權，明寫身分名號與權力的界線",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "奸劫弑臣",
+      "para_index": 5,
+      "para_id": "hanfeizi#29-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "且夫世之愚學，皆不知治亂之情，讘䛟多誦先古之書，以亂當世之治；智慮不足以避穽井之",
+      "note": "以世之愚學與有術之士「談說之名」相同而實相去甚遠，並說愚者欲治卻厭惡治因、惡危卻喜危因",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "奸劫弑臣",
+      "para_index": 7,
+      "para_id": "hanfeizi#29-p07",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "世之學者說人主，不曰「乘威嚴之勢以困姦衺之臣」，而皆曰「仁義惠愛而已矣」。世主美",
+      "note": "既辨世稱仁義、忠臣之名與治效之實，又說民受賞罰利害驅動，並以豫讓與伯夷評忠節德行；三者分別關乎名實、君臣治理與品格評價",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "揚權",
+      "para_index": 3,
+      "para_id": "hanfeizi#40-p03",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "用一之道，以名爲首。名正物定，名倚物徙。故聖人執一以靜，使名自命，令事自定。不見",
+      "note": "以名正物定、形名參同規定君主按名核實臣下所行，直論名實相符與君臣職責的關係",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "揚權",
+      "para_index": 5,
+      "para_id": "hanfeizi#40-p05",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "夫道者，弘大而無形；德者，覈理而普至。至於羣生，斟酌用之，萬物皆盛，而不與其寧。",
+      "note": "明言君臣職分之道不同，並以君操其名、臣效其形及形名參同說明上下如何和調",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "有度",
+      "para_index": 2,
+      "para_id": "hanfeizi#41-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "故當今之時，能去私曲就公法者，民安而國治；能去私行行公法者，則兵强而敵弱。故審得",
+      "note": "指出以聲譽朋黨進人會使忠臣受害、姦邪得利而群臣徇私，且人主可能僅有其名、實權卻寄於臣家，分別直論名實、權力公私與忠姦品格",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "有度",
+      "para_index": 3,
+      "para_id": "hanfeizi#41-p03",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "賢者之爲人臣，北面委質，無有二心。朝廷不敢辭賤，軍旅不敢辭難；順上之爲，從主之法",
+      "note": "規定臣下應奉公守職，並逐項否定世人以廉、忠、仁、義、智稱呼徇私逆法之行，直論君臣責任、品格與名實辨別",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "觀行",
+      "para_index": 1,
+      "para_id": "hanfeizi#43-p01",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "古之人目短於自見，故以鏡觀面；智短於自知，故以道正己。故鏡無見疵之罪，道無明過之",
+      "note": "指出人的智慧不足以自知，並以西門豹佩韋緩急、董安于佩弦自急說明人可辨認自身偏性而補其不足",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "解老",
+      "para_index": 9,
+      "para_id": "hanfeizi#44-p09",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "所謂「大丈夫」者，謂其智之大也。所謂「處其厚不處其薄」者，行情實而去禮貌也。所謂",
+      "note": "重新界定大丈夫為大智之人，並主張去禮貌浮華而取情實、循理，兼涉身分之名實與品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "詭使",
+      "para_index": 1,
+      "para_id": "hanfeizi#45-p01",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "聖人之所以爲治道者三：一曰「利」，二曰「威」，三曰「名」。夫利者，所以得民也；威",
+      "note": "以利、威、名三項說明民之從化與上下共同準則，又指出現行政理與名不相當，兼論名實及統治關係",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "詭使",
+      "para_index": 2,
+      "para_id": "hanfeizi#45-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫立名號，所以爲尊也；今有賤名輕實者，世謂之「高」。設爵位，所以爲賤貴基也；而簡",
+      "note": "逐項指出世俗所稱高、賢、忠、烈士、勇夫與行實顛倒，既評議品格與名實，也說上下所欲相詭而致世不治",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "詭使",
+      "para_index": 3,
+      "para_id": "hanfeizi#45-p03",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "今下而聽其上，上之所急也。而惇慤純信，用心怯言，則謂之「窶」。守法固，聽令審，則",
+      "note": "列舉惇慤、守法、敬上等行實反被稱為窶、愚、怯、陋，直指品格與社會名目不符",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "詭使",
+      "para_index": 4,
+      "para_id": "hanfeizi#45-p04",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "難致謂之「正」，難予謂之「廉」，難禁謂之「齊」，有令不聽從謂之「勇」，無利於上謂",
+      "note": "列出正、廉、仁、聖等名號所指的實際行徑以評議名實與品格，並主張上位者禁絕尊崇亂上者以維持秩序",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林上",
+      "para_index": 1,
+      "para_id": "hanfeizi#46-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "湯以伐桀，而恐天下言己爲貪也，因乃讓天下於務光；而恐務光之受之也，乃使人說務光曰",
+      "note": "湯因怕天下以貪名之而設局轉嫁惡聲，務光遂投河，呈現名聲壓力左右身分評價與生死選擇",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林上",
+      "para_index": 3,
+      "para_id": "hanfeizi#46-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子圉見孔子於商太宰。孔子出，子圉入，請問客。太宰曰：「吾已見孔子，則視子猶蚤虱之",
+      "note": "子圉怕孔子受君重視而使自己顯得微小，遂以同樣的地位威脅阻止太宰引見，呈現身分比較與權位競逐",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林上",
+      "para_index": 12,
+      "para_id": "hanfeizi#46-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "鴟夷子皮事田成子。田成子去齊，走而之燕，鴟夷子皮負傳而從。至望邑，子皮曰：「子獨",
+      "note": "子皮以涸澤二蛇互相負載令人誤認神君為喻，安排美惡二人的主客身分以改變旅舍主人敬意，顯示外觀身分左右社會判斷",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林上",
+      "para_index": 13,
+      "para_id": "hanfeizi#46-p13",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "温人之周，周不納客。問之曰：「客耶？」對曰：「主人。」問其巷人而不知也，吏因囚之",
+      "note": "溫人援引天下皆王臣，重新界定自己不是客而是主人並獲釋，所論是政治歸屬與身分名目的關係",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林上",
+      "para_index": 31,
+      "para_id": "hanfeizi#46-p31",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "楊子過於宋東之逆旅。有妾二人，其惡者貴，美者賤。楊子問其故。逆旅之父荅曰：「美者",
+      "note": "美妾自以為美反失寵、惡妾自知其惡反受貴，楊子遂教人行賢而去自賢之心，兼論自我評價與謙抑品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林上",
+      "para_index": 34,
+      "para_id": "hanfeizi#46-p34",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "田伯鼎好士而存其君，白公好士而亂荆。其好士則同，其所以爲則異。公孫友自刖而尊百里",
+      "note": "以同樣好士、自刑、東走卻各有不同目的為例，主張不可按外在同事判人，所辨正是行實表象與內在動機品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林下",
+      "para_index": 15,
+      "para_id": "hanfeizi#47-p15",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "堯以天下讓許由，許由逃之，舍於家人，家人藏其皮冠。夫弃天下而家人藏其皮冠，是不知",
+      "note": "許由已棄天下而家人仍藏皮冠，文本明說家人「不知許由」，凸顯外界對其淡於利益品格的誤認",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林下",
+      "para_index": 20,
+      "para_id": "hanfeizi#47-p20",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "公孫弘斷髪而爲越王騎，公孫喜使人絶之，曰：「吾不與子爲昆弟矣。」公孫弘曰：「我斷",
+      "note": "公孫喜因兄弟斷髮服越而絕昆弟，公孫弘反問其為人用兵斷頸，凸顯家族關係中身分榮辱標準的衝突",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林下",
+      "para_index": 22,
+      "para_id": "hanfeizi#47-p22",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子謂弟子曰：「孰能導子西之釣名也？」子貢曰：「賜也能。」乃導之，不復疑也。孔子",
+      "note": "子西釣名且終不免，結語「直於行者曲於欲」明辨外在正直之名與內在欲望品格不一",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林下",
+      "para_index": 25,
+      "para_id": "hanfeizi#47-p25",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "白圭爲宋大尹曰：「君長自知政，公無事矣。今君少主也而務名，不如令荆賀君之孝也，則",
+      "note": "白圭抓住少主「務名」，建議藉荊國賀孝使其保留並敬重大尹，呈現名聲欲望如何影響用人與權位",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說林下",
+      "para_index": 32,
+      "para_id": "hanfeizi#47-p32",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊伐魯，索讒鼎，魯以其鴈往。齊人曰：「鴈也。」魯人曰：「真也。」齊曰：「使樂正子",
+      "note": "樂正子春以「臣亦愛臣之信」拒替魯君證偽鼎，明寫他珍惜自身信譽並守信不欺的品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說疑",
+      "para_index": 9,
+      "para_id": "hanfeizi#48-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "亂主則不然，不知其臣之意行，而任之以國，故小之名卑地削，大之國亡身死，不明於用臣",
+      "note": "亂主以眾譽判賢而姦臣製造賢名，明寫名實欺罔；其結黨、借諸侯之權劫君是權力機制；其貪利譎詐、隱正道行私曲則是品格判斷",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說難",
+      "para_index": 1,
+      "para_id": "hanfeizi#49-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡說之難，非吾知之有以說之之難也，又非吾辯之能明吾意之難也，又非吾敢横失而能盡之",
+      "note": "說者須辨對方求名、求利或陽名陰利之心，因錯配名利會被鄙棄或暗疏，明寫自我形象與內在欲求的落差",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "說難",
+      "para_index": 3,
+      "para_id": "hanfeizi#49-p03",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "凡說之務，在知飾所說之所矜而滅其所恥。彼有私急也，必以公義示而强之。其意有下也，",
+      "note": "文本要求順著對方所矜所恥，把私急飾為公義並維護其自智自勇，再待親信後直陳，論自我形象如何制約進說關係",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "難一",
+      "para_index": 13,
+      "para_id": "hanfeizi#50-p13",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "靡笄之役，韓獻子將斬人。郄獻子聞之，駕往救之。比至，則已斬之矣。郄子因曰：「胡不",
+      "note": "郄子原欲救人，既斬後又要求徇尸以分謗，呈現其用追加舉動處理自身聲名與責任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "難一",
+      "para_index": 15,
+      "para_id": "hanfeizi#50-p15",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "桓公解管仲之束縛而相之。管仲曰：「臣有寵矣，然而臣卑。」公曰：「使子立高、國之上",
+      "note": "管仲以卑不能治貴、貧不能治富、疏不能治親請求爵祿與親位，霄略辨其表面似貪而實為便治",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "難一",
+      "para_index": 16,
+      "para_id": "hanfeizi#50-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或曰：今使臧獲奉君令詔卿相，莫敢不聽，非卿相卑而臧獲尊也，主令所加，莫敢不從也。",
+      "note": "主張命令的效力來自主威與合法性而非傳令者的尊卑，並據此揭破管仲以增寵益爵求權威的名實錯置",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "難三",
+      "para_index": 9,
+      "para_id": "hanfeizi#51-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "哀公有臣外障距内比周以愚其君，而說之以「選賢」，此非功伐之論也，選其心之所謂賢者",
+      "note": "以燕噲、夫差錯認賢愚說明主觀選賢的名實誤判，主張由任事與功績驗證人臣而消除私進隱賢",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "難三",
+      "para_index": 14,
+      "para_id": "hanfeizi#51-p14",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "秦昭王問於左右曰：「今時韓、魏孰與始強？」左右對曰：「弱於始也。」「今之如耳、魏",
+      "note": "昭王以己強敵弱自料天下，中期用知伯恃強激成韓魏暗盟而覆亡的往事指出其自我估量有誤",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "難三",
+      "para_index": 17,
+      "para_id": "hanfeizi#51-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或曰：廣廷嚴居，衆人之所肅也；宴室獨處，曾、史之所僈也。觀人之所肅，非行情也。且",
+      "note": "明說眾人在廣廷嚴肅而獨處時懈怠，臣下又會在君前飾行藏奸，因此所見外表不等於真實品行",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "難四",
+      "para_index": 12,
+      "para_id": "hanfeizi#54-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或曰：屈到嗜芰，文王嗜菖蒲葅，非正味也，而二賢尚之，所味不必美。晉靈侯說參無恤，",
+      "note": "以所味不必美、所賢不必賢說明評價與實質可能不符，並辨君主察知壅蔽後改用人的風險",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "難言",
+      "para_index": 1,
+      "para_id": "hanfeizi#55-p01",
+      "modes": [
+        "observation",
+        "expression"
+      ],
+      "excerpt": "臣非非難言也，所以難言者，言順比滑澤，洋洋纚纚然，則見以爲華而不實；敦祗恭厚，鯁",
+      "note": "韓非自陳各種言說風格都會被看成華而不實、諛上或鄙陋等相反形象，因名實錯置而以進言為重患",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "顯學",
+      "para_index": 1,
+      "para_id": "hanfeizi#57-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "世之顯學，儒、墨也。儒之所至，孔丘也；墨之所至，墨翟也。自孔子之死也，有子張之儒",
+      "note": "儒分八、墨離三而取舍相反，卻各自稱真孔墨；把無參驗而仍斷定者判為愚、不能斷定卻據以立說者判為誣，兼論真偽身分與品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "顯學",
+      "para_index": 5,
+      "para_id": "hanfeizi#57-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "澹臺子羽，君子之容也，仲尼幾而取之，與處久而行不稱其貌。宰予之辭，雅而文也，仲尼",
+      "note": "孔子因容貌言辭錯認子羽與宰予，鍛劍駕馬也須以實作驗證，故人才應以官職功效而非外觀辯說判定。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "顯學",
+      "para_index": 10,
+      "para_id": "hanfeizi#57-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今巫祝之祝人曰：「使若千秋萬歲。」千秋萬歲之聲括耳，而一日之壽無徵於人，此人所以",
+      "note": "祝人千秋萬歲雖悅耳卻不能增一日壽命，儒者以飾辭許諾霸王亦無實事，批評言辭名聲與實效不符及用虛言立說。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "飾邪",
+      "para_index": 5,
+      "para_id": "hanfeizi#59-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "當魏之方明《立辟》、從憲令之時，有功者必賞，有罪者必誅，强匡天下，威行四隣；及法",
+      "note": "本段既以魏趙燕說常法決定國家強弱，又說名譽巧說使稱賢明與暴亂失其類，並說請謁上交排擠有功材臣而使民勞無功，三項分別涉及公權、名實與功業。",
+      "co_domains": [
+        "V",
         "VIII"
       ]
     },
