@@ -1,0 +1,32 @@
+{
+  "batch": "b23.md",
+  "rows": [
+    {"chapter": "第81篇輕重乙", "para_index": 1, "domains": ["V", "VI"], "modes": ["proposition", "formalization"], "reason": "「遠者疏，疾怨上」直說距離與徵籍使遠民疏離、怨恨君上，並以此作為重列封域的依據"},
+    {"chapter": "第81篇輕重乙", "para_index": 2, "domains": [], "modes": ["narrative", "formalization"], "reason": "本段以珠玉、黃金、刀布分作上中下幣並調節高下，所述賀獻與給養只是財政問題的前提，未另斷言人的樣態"},
+    {"chapter": "第81篇輕重乙", "para_index": 3, "domains": ["V", "VI"], "modes": ["proposition", "formalization"], "reason": "「發民，則下疾怨上」且有兵時民將懷怨不戰，直說強制作役如何造成怨恨與拒絕服從"},
+    {"chapter": "第81篇輕重乙", "para_index": 4, "domains": ["V", "VI"], "modes": ["proposition", "formalization"], "reason": "「民，奪之則怒，予之則喜。民情固然」明言民眾受取予支配而喜怒，並由此解釋上下怨懟與政令不行"},
+    {"chapter": "第81篇輕重乙", "para_index": 5, "domains": ["V", "XI"], "modes": ["proposition"], "reason": "「家足其所者，不從聖人」直說自足使人不受支配，並主張以奪予、高下操控天下，涉及權力與人的自主"},
+    {"chapter": "第81篇輕重乙", "para_index": 6, "domains": [], "modes": ["narrative", "formalization"], "reason": "紀氏亡國的事例用來說明強本節用不足恃、仍須操縱天下物價高下多寡，未另說明人的品性或生活狀態"},
+    {"chapter": "第81篇輕重乙", "para_index": 7, "domains": [], "modes": ["narrative", "formalization"], "reason": "本段按水勢、播種與收穫時日設計開地程序，只有農政與疆土計算，未斷言人是什麼樣的"},
+    {"chapter": "第81篇輕重乙", "para_index": 8, "domains": ["IV", "V", "VII"], "modes": ["narrative", "proposition"], "reason": "以鄉里名望使士爭名、以厚賞使士報德，又寫父兄妻子相勸赴戰，分別說出社會榮譽、家庭勸勉與報德不退的品格動機"},
+    {"chapter": "第81篇輕重乙", "para_index": 9, "domains": [], "modes": ["narrative", "formalization"], "reason": "令商賈按符配馬、藉馬價上漲籌措戰費，是價格調控程序，未說明人的樣態"},
+    {"chapter": "第81篇輕重乙", "para_index": 10, "domains": [], "modes": ["narrative", "formalization"], "reason": "本段以屯籍顯出囷窌數量，再按平價收糧並依有兵無兵分配，屬可執行的徵糧程序而未提出人性依據"},
+    {"chapter": "第81篇輕重乙", "para_index": 11, "domains": [], "modes": ["proposition", "formalization"], "reason": "提高本國粟價以號令吸引滕魯糧食流入，只呈現價格與流通的政策鏈，未斷言人的樣態"},
+    {"chapter": "第81篇輕重乙", "para_index": 12, "domains": [], "modes": ["narrative", "formalization"], "reason": "重定粟價並按官爵與商賈等級規定藏粟數量，以農商利潤變化作政策結果，未說人為何如此"},
+    {"chapter": "第81篇輕重乙", "para_index": 13, "domains": [], "modes": ["narrative", "formalization"], "reason": "本段界定衡為使物價無常固，依四時配置農具、絲纊與商旅客舍，通篇是季節性價格調節程序"},
+    {"chapter": "第83篇輕重丁", "para_index": 1, "domains": [], "modes": ["narrative", "formalization"], "reason": "陰里之謀以石璧尺寸定價並設入朝條件，使天下財物流齊，只有財政操作與結果，未斷言人的樣態"},
+    {"chapter": "第83篇輕重丁", "para_index": 2, "domains": [], "modes": ["formalization", "ritual"], "reason": "本段把封禪所需菁茅的器物與參與條件編成聚金程序，借用的是祭儀規格，未討論人與神聖者的關係或人的樣態"},
+    {"chapter": "第83篇輕重丁", "para_index": 3, "domains": ["V", "VIII"], "modes": ["narrative", "formalization"], "reason": "四方貧萌各靠漁獵、伐木、織葛、煮鹽為生卻受重息支配，而君解其債後父兄相勸墾田，明說債權權力與勞作動機"},
+    {"chapter": "第83篇輕重丁", "para_index": 4, "domains": [], "modes": ["narrative", "proposition"], "reason": "萊人染業轉向馬匹的事例只用來證成順勢調準、因天下以制天下的經濟原理，未另斷言人的樣態"},
+    {"chapter": "第83篇輕重丁", "para_index": 5, "domains": [], "modes": ["narrative", "formalization"], "reason": "以東西粟價差調糧救飢，再按四時守候不同物資，是賑給與國準的調控程序，未解釋人為何如此"},
+    {"chapter": "第83篇輕重丁", "para_index": 6, "domains": ["V", "XI"], "modes": ["narrative", "proposition"], "reason": "「智者役使鬼神，而愚者信之」把天使與彗星之兆明定為人所造作和利用的統治工具，直說信從、操控與人的能動性"},
+    {"chapter": "第83篇輕重丁", "para_index": 7, "domains": ["IV", "V", "VII"], "modes": ["narrative", "proposition"], "reason": "以城陽大夫奢侈而親族飢寒反襯骨肉責任，又寫功臣分財救貧病孤老及桓公推仁立義，分別呈現家庭義務、社會救助與仁義品格"},
+    {"chapter": "第83篇輕重丁", "para_index": 8, "domains": ["V", "VII"], "modes": ["narrative", "proposition"], "reason": "稱貸者助貧萌給國急而被稱為「民之父母」，受禮遇後折券散財振貧，呈現公共照顧與慷慨報德的品格"},
+    {"chapter": "第83篇輕重丁", "para_index": 9, "domains": ["VI", "VIII"], "modes": ["narrative", "proposition"], "reason": "商賈被「水上之樂」吸引而離市遊飲，遂賤賣貴買，明說娛樂欲望如何使人荒廢交易並改變勞作成果"},
+    {"chapter": "第83篇輕重丁", "para_index": 10, "domains": ["III", "VIII"], "modes": ["narrative", "proposition"], "reason": "男女相好者在樹下談笑終日不歸，連帶使耕播與紡績俱廢，直說親密交往如何牽動人的工作投入"},
+    {"chapter": "第83篇輕重丁", "para_index": 11, "domains": ["II", "VIII"], "modes": ["narrative", "proposition"], "reason": "萬民見造囷者受聘顯名便捨業仿效，文本以「功立而名成」「名實俱在」明說名望與成就對行動的驅力"},
+    {"chapter": "第83篇輕重丁", "para_index": 12, "domains": [], "modes": ["observation", "formalization"], "reason": "本段只列正月穀始、日至百日黍秫始與九月斂實平麥始的物候時序，未涉及人的樣態"},
+    {"chapter": "第83篇輕重丁", "para_index": 13, "domains": [], "modes": ["narrative", "formalization"], "reason": "本段計算齊地可生穀比例，區分山澤斥地並設麻、布、穀、六畜的價格控制，屬國計程序而未斷言人的樣態"},
+    {"chapter": "第83篇輕重丁", "para_index": 14, "domains": ["XI"], "modes": ["proposition", "formalization"], "reason": "從「無可以為有、貧可以為富」問到「源泉有竭，鬼神有歇」而以人為的數術守物終始，明說改變貧富依靠人的調度而非鬼神"}
+  ]
+}
