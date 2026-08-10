@@ -2,9 +2,9 @@
   "domain": "VI",
   "name_zh": "情緒與內在生活",
   "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡",
-  "generated_at": "2026-08-09T23:23:58+00:00",
-  "para_count": 255,
-  "book_count": 9,
+  "generated_at": "2026-08-10T00:24:17+00:00",
+  "para_count": 257,
+  "book_count": 11,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -15,8 +15,10 @@
     "jiuzhang-suanshu",
     "liutao",
     "nanjing",
+    "san-lue",
     "shanghanlun",
-    "shenyijing"
+    "shenyijing",
+    "wuzi"
   ],
   "paras": [
     {
@@ -2931,6 +2933,18 @@
       ]
     },
     {
+      "slug": "sima-fa",
+      "chapter": "嚴位",
+      "para_index": 2,
+      "para_id": "sima-fa#04-p02",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "凡戰之道：等道義；立卒伍；定行列；正縱橫；察名實。立進俯；坐進跪。畏則密；危則坐",
+      "note": "前段雖是隊形號令，末尾卻特別規定對恐懼太甚者不可殺戮，而要示以顏色、告以所生並省察其職",
+      "co_domains": []
+    },
+    {
       "slug": "sunzi-bingfa",
       "chapter": "作戰第二",
       "para_index": 5,
@@ -3169,6 +3183,18 @@
         "X",
         "XI"
       ]
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "守權",
+      "para_index": 2,
+      "para_id": "weiliaozi#06-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "攻者不下十餘萬之眾，其有必救之軍者，則有必守之城；無必救之軍者，則無必守之城。若",
+      "note": "對照救援可信時人人血戰與救援不實時愚夫蠢婦守城落淚，且明言這是人之常情，直接描寫內在情緒反應。",
+      "co_domains": []
     },
     {
       "slug": "yanshi-jiaxun",

@@ -1,17 +1,17 @@
 # I 存在與意義
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 16 段命中｜跨 5 部｜生成時間 2026-08-09T23:23:58+00:00
+> 17 段命中｜跨 6 部｜生成時間 2026-08-10T00:24:17+00:00
 
 我為何在此、活著有沒有意義、與想不通的問題共處、在歷史洪流中的渺小
 
-姿態分佈：`proposition` 12、`narrative` 9、`expression` 6、`formalization` 1
+姿態分佈：`proposition` 13、`narrative` 9、`expression` 6、`formalization` 1
 
 ## 已通讀但本領域零命中
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`dongmingji`（洞冥記）　`fangyan`（方言）　`haidao-suanjing`（海島算經）　`jijiupian`（急就篇）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`lienuzhuan`（列女傳）　`liutao`（六韜）　`nanjing`（難經）　`renwuzhi`（人物志）　`shenyijing`（神異經）　`shiming`（釋名）　`shuowen-jiezi`（說文解字）　`sunzi-bingfa`（孫子兵法）　`yanshi-jiaxun`（顏氏家訓）
+`dongmingji`（洞冥記）　`fangyan`（方言）　`haidao-suanjing`（海島算經）　`jijiupian`（急就篇）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`lienuzhuan`（列女傳）　`liutao`（六韜）　`nanjing`（難經）　`renwuzhi`（人物志）　`shenyijing`（神異經）　`shiming`（釋名）　`shuowen-jiezi`（說文解字）　`sima-fa`（司馬法）　`sunzi-bingfa`（孫子兵法）　`weiliaozi`（尉繚子）　`wuzi`（吳子）　`yanshi-jiaxun`（顏氏家訓）
 
 ## 世說新語（人論）　8 段
 
@@ -41,6 +41,12 @@
 | 篇 | 段 | 姿態 | 摘句 | 判讀 |
 |---|---|---|---|---|
 | 太古河圖代姓紀 | 1 | `proposition` `narrative` | 清氣未升，濁氣未沉，遊神未靈，五色未分。中有其物，冥冥而性存，謂之混沌，混沌為太 | 由混沌、太始、太極與兩儀推演天地萬物及生民的根源，並以世系敘事續寫人類之始 |
+
+## 三略（兵家）　1 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| 下略 | 14 | `proposition` | 夫人之在道，若魚之在水；得水而生，失水而死。故君子者常畏懼而不敢失道。 | 以人在道中如魚在水、得之則生失之則死的比喻，直接主張人賴以生存與安立的根本是道 |
 
 ## 傷寒論（醫家）　1 段
 

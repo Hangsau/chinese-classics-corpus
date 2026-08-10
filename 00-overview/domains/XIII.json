@@ -2,9 +2,9 @@
   "domain": "XIII",
   "name_zh": "安頓·修復·平安",
   "gist": "靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈",
-  "generated_at": "2026-08-09T23:23:58+00:00",
-  "para_count": 60,
-  "book_count": 8,
+  "generated_at": "2026-08-10T00:24:17+00:00",
+  "para_count": 61,
+  "book_count": 9,
   "surveyed_zero_hit": [
     "fangyan",
     "gu-sanfen",
@@ -17,7 +17,10 @@
     "shanghanlun",
     "shenyijing",
     "shuowen-jiezi",
-    "sunzi-bingfa"
+    "sima-fa",
+    "sunzi-bingfa",
+    "weiliaozi",
+    "wuzi"
   ],
   "paras": [
     {
@@ -178,6 +181,20 @@
       "note": "",
       "co_domains": [
         "VII"
+      ]
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "下略",
+      "para_index": 2,
+      "para_id": "san-lue#03-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "賢人之政，降人以體；聖人之政，降人以心。體降可以圖始，心降可以保終。降體以禮，降",
+      "note": "把樂重新界定為人安樂於家、族、業、都邑、政令與道德，並以有德之君樂人或無德之君樂身判斷政權久亡，兼論生活安頓與公共領導",
+      "co_domains": [
+        "V"
       ]
     },
     {

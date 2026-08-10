@@ -1,17 +1,17 @@
 # IX 苦難·疾病·身體
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 77 段命中｜跨 11 部｜生成時間 2026-08-09T23:23:58+00:00
+> 78 段命中｜跨 12 部｜生成時間 2026-08-10T00:24:17+00:00
 
 疾病與身體、受苦的意義、照顧與被照顧
 
-姿態分佈：`proposition` 40、`narrative` 26、`observation` 18、`prescription` 15、`expression` 8、`formalization` 1、`ritual` 1
+姿態分佈：`proposition` 41、`narrative` 26、`observation` 18、`prescription` 15、`expression` 8、`formalization` 1、`ritual` 1
 
 ## 已通讀但本領域零命中
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`dongmingji`（洞冥記）　`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`renwuzhi`（人物志）　`shenyijing`（神異經）
+`dongmingji`（洞冥記）　`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`renwuzhi`（人物志）　`san-lue`（三略）　`shenyijing`（神異經）　`sima-fa`（司馬法）　`wuzi`（吳子）
 
 ## 世說新語（人論）　17 段
 
@@ -144,3 +144,9 @@
 | 篇 | 段 | 姿態 | 摘句 | 判讀 |
 |---|---|---|---|---|
 | 行軍第九 | 2 | `proposition` `prescription` | 凡軍好高而惡下，貴陽而賤陰，養生而處實，軍無百疾，是謂必勝。丘陵堤防，必處其陽， | 「養生而處實，軍無百疾」：駐地選擇與部隊疾病的關聯 |
+
+## 尉繚子（兵家）　1 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| 將理 | 3 | `proposition` | 笞人之背，灼人之脅，束人之指，而訊囚之情，雖國士有不勝其酷，而自誣矣。 | ＋V 明列笞背、灼脅、束指造成連國士也承受不住酷痛而自誣，兼指刑訊不公與身體承受的極限。 |

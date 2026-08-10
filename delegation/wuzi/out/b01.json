@@ -1,0 +1,306 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {
+      "chapter": "圖國第一",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "只敘吳起以儒服進見及文侯表示不好軍旅，尚未提出關於人的主張。"
+    },
+    {
+      "chapter": "圖國第一",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["proposition", "narrative"],
+      "reason": "以承桑氏廢武、有扈氏恃眾好勇而亡為鑑，主張明主須兼修文德與武備，所論是治國者姿態及其代價。"
+    },
+    {
+      "chapter": "圖國第一",
+      "para_index": 3,
+      "domains": ["VIII"],
+      "modes": ["narrative", "observation"],
+      "reason": "敘文侯任吳起為大將及其勝戰拓地並歸功於吳起，承載的是受任與功業成就。"
+    },
+    {
+      "chapter": "圖國第一",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["proposition", "ritual"],
+      "reason": "主張君主先教民親民、使國與軍和合並愛惜民命，人民因而以赴難為榮，另載告廟問龜與三讓的出師儀節。"
+    },
+    {
+      "chapter": "圖國第一",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "formalization"],
+      "reason": "分述道義謀要並以道義禮仁四德論治國，明言修德則興、廢德則衰，兼及治理與品格。"
+    },
+    {
+      "chapter": "圖國第一",
+      "para_index": 6,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "formalization"],
+      "reason": "主張以禮義教民而養成羞恥心，並用勝戰次數分列國家興亡後果，兼論治理與品格養成。"
+    },
+    {
+      "chapter": "圖國第一",
+      "para_index": 7,
+      "domains": ["V"],
+      "modes": ["formalization", "prescription"],
+      "reason": "把戰爭起因分為爭名、爭利、積惡、內亂與饑荒，又依暴力的名義與權力姿態分類並提出相應處置。"
+    },
+    {
+      "chapter": "圖國第一",
+      "para_index": 8,
+      "domains": ["II", "VIII"],
+      "modes": ["formalization", "prescription"],
+      "reason": "編伍不只按體能，也按失位者欲立功、失城者欲雪恥等身分自評與成就欲望分類，據此選募任用。"
+    },
+    {
+      "chapter": "圖國第一",
+      "para_index": 9,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "把賢者居上、人民安居並親近官吏、百姓認同其君列為陣定守固戰勝的社會治理基礎。"
+    },
+    {
+      "chapter": "圖國第一",
+      "para_index": 10,
+      "domains": ["II", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "以楚莊王因群臣莫及而憂、武侯反喜終至慚愧的故事，指出得意時的自我評價與謙抑品格。"
+    },
+    {
+      "chapter": "料敵第二",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "只陳述魏國遭六國從各方逼臨的敵勢並詢問應對，尚無關於人的獨立主張。"
+    },
+    {
+      "chapter": "料敵第二",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以六國君臣政俗與集體性情解釋各軍行為，又主張選拔能者、加爵厚養以任用人才，兼及群體治理與才能配置。"
+    },
+    {
+      "chapter": "料敵第二",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "全段把可擊八種與應避六種敵情列成判斷清單，目的只是決定進戰或退避。"
+    },
+    {
+      "chapter": "料敵第二",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "由敵軍旗亂、人馬回顧、君臣未和等外在跡象推斷可擊時機，屬敵情判斷與作戰處置。"
+    },
+    {
+      "chapter": "料敵第二",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "逐項列出敵軍初至、未備、疲勞、半渡與陣亂等可擊條件，並規定選銳急攻。"
+    },
+    {
+      "chapter": "治兵第三",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "四輕、二重、一信是地形、車馬器械與軍中賞刑的作戰規格，只服務於軍隊可用與取勝。"
+    },
+    {
+      "chapter": "治兵第三",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "以法令、賞罰、金鼓、進退節度說明軍隊靠整治而非人數取勝，所述仍是軍隊操控與作戰效能。"
+    },
+    {
+      "chapter": "治兵第三",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "規定行軍進止、飲食與人馬勞力的節度，並說明失度會令軍令廢而戰敗，屬行軍宿營規格。"
+    },
+    {
+      "chapter": "治兵第三",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "必死則生與猶豫狐疑之害都被用來說明臨敵決斷的技術條件，並非在探討死亡、憤怒或內在情緒。"
+    },
+    {
+      "chapter": "治兵第三",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "以一人教十人逐級推至三軍並反覆操練方圓進退等變化，是可執行的教戰程序。"
+    },
+    {
+      "chapter": "治兵第三",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "按身材與能力分派兵器職務，並以五次鼓聲規定整兵至出發的次序，純屬編制與號令程序。"
+    },
+    {
+      "chapter": "治兵第三",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "青龍白虎朱雀玄武是布陣方位，並配合風向規定迎戰方式，屬行軍布陣術而非神聖信仰。"
+    },
+    {
+      "chapter": "治兵第三",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "全段是馬的處所水草飢飽鞍勒銜轡的照料規格，屬牲口養護不觸及人。"
+    },
+    {
+      "chapter": "論將第四",
+      "para_index": 1,
+      "domains": ["VII", "VIII"],
+      "modes": ["proposition", "formalization"],
+      "reason": "指出勇只是將才一端，並以理、備、果、戒、約及受命之禮界定將領勝任所需的能力與品格。"
+    },
+    {
+      "chapter": "論將第四",
+      "para_index": 2,
+      "domains": ["VII", "VIII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "列出氣地事力四機為將領能力，又以威德仁勇及率下安眾界定良將的品格與職責。"
+    },
+    {
+      "chapter": "論將第四",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "把鼙鼓、旌旗與刑令分作威耳、威目、威心三套傳令控制規格，目的僅在使軍眾服從作戰。"
+    },
+    {
+      "chapter": "論將第四",
+      "para_index": 4,
+      "domains": ["VII"],
+      "modes": ["formalization", "prescription"],
+      "reason": "逐項指出輕信、貪利、驕傲、多疑與懈怠等性格弱點及其可被利用的後果，性格判斷本身承擔了論述。"
+    },
+    {
+      "chapter": "論將第四",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["prescription", "formalization"],
+      "reason": "規定以輕銳佯敗試探敵將，再按隊伍進退與見利反應辨其智愚，屬可執行的敵將偵察程序。"
+    },
+    {
+      "chapter": "應變第五",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "以晝旗夜鼓及吹奏次數規定進止聚合，並以軍刑確保服令，純屬戰場傳令程序。"
+    },
+    {
+      "chapter": "應變第五",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "按一對十、十對百、千對萬的兵力比例配置阨險阻等地形，是眾寡不等時的戰術規則。"
+    },
+    {
+      "chapter": "應變第五",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "面對強敵時分五軍五路、用間、佯退與左右夾襲的連續步驟，完整內容都是擊強戰法。"
+    },
+    {
+      "chapter": "應變第五",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "只依敵我眾寡分成兩種追擊與分乘方案，處理的是近敵無退路的戰術分支。"
+    },
+    {
+      "chapter": "應變第五",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "規定在丘陵林谷與高山深谷遭敵時速離、鼓譟、射虜及察亂而擊，純屬地形應戰處置。"
+    },
+    {
+      "chapter": "應變第五",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "以募材士、隱車騎、出旌旗與輪番挑戰處理狹谷遭敵，所述全是谷戰部署。"
+    },
+    {
+      "chapter": "應變第五",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "規定水澤陷車時棄用車騎、登高察水並乘敵半渡而擊，是水戰操作方法。"
+    },
+    {
+      "chapter": "應變第五",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "只說連雨濕地中車輛何時停起、應走何處及如何循敵跡，屬車戰與地況處置。"
+    },
+    {
+      "chapter": "應變第五",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "由暴寇暮退時負重、恐懼與隊伍脫節推定追擊時機，目的只是敵情預測與反擊。"
+    },
+    {
+      "chapter": "應變第五",
+      "para_index": 10,
+      "domains": ["V"],
+      "modes": ["prescription"],
+      "reason": "明定破城後不得毀屋奪糧、殺畜焚積，並須接納安置請降者，是掌權者對百姓與降者的交戰規範。"
+    },
+    {
+      "chapter": "勵士第六",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "formalization"],
+      "reason": "把人樂聞號令、樂戰與樂死列為人主所恃，直接論述統治者如何形成群體赴戰的動機。"
+    },
+    {
+      "chapter": "勵士第六",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["prescription"],
+      "reason": "承接如何使人樂戰之問，主張進饗有功者並勉勵無功者，以差別對待驅動群體。"
+    },
+    {
+      "chapter": "勵士第六",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["prescription", "ritual"],
+      "reason": "饗士按功分三牢並頒賜有功者父母妻子、歲勞死事之家，賞罰穿過戰場延伸到家人，是賞施用範圍的正當性。"
+    },
+    {
+      "chapter": "勵士第六",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["proposition", "narrative"],
+      "reason": "以死賊能使千人戒懼說明一人投命可震懾眾人，再敘五萬無功者破強敵，所論是群體動員與人在特定狀態下的力量。"
+    },
+    {
+      "chapter": "勵士第六",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["prescription", "observation"],
+      "reason": "命車騎步兵各自迎擊同類兵種並以此計功，末述號令效果，整段仍是戰場任務與軍功判定。"
+    }
+  ]
+}

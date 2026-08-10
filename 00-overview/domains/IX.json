@@ -2,9 +2,9 @@
   "domain": "IX",
   "name_zh": "苦難·疾病·身體",
   "gist": "疾病與身體、受苦的意義、照顧與被照顧",
-  "generated_at": "2026-08-09T23:23:58+00:00",
-  "para_count": 77,
-  "book_count": 11,
+  "generated_at": "2026-08-10T00:24:17+00:00",
+  "para_count": 78,
+  "book_count": 12,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -14,7 +14,10 @@
     "liutao",
     "nanjing",
     "renwuzhi",
-    "shenyijing"
+    "san-lue",
+    "shenyijing",
+    "sima-fa",
+    "wuzi"
   ],
   "paras": [
     {
@@ -650,6 +653,20 @@
       "excerpt": "凡軍好高而惡下，貴陽而賤陰，養生而處實，軍無百疾，是謂必勝。丘陵堤防，必處其陽，",
       "note": "「養生而處實，軍無百疾」：駐地選擇與部隊疾病的關聯",
       "co_domains": []
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "將理",
+      "para_index": 3,
+      "para_id": "weiliaozi#09-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "笞人之背，灼人之脅，束人之指，而訊囚之情，雖國士有不勝其酷，而自誣矣。",
+      "note": "明列笞背、灼脅、束指造成連國士也承受不住酷痛而自誣，兼指刑訊不公與身體承受的極限。",
+      "co_domains": [
+        "V"
+      ]
     },
     {
       "slug": "yanshi-jiaxun",

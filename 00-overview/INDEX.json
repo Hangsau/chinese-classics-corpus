@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-08-09T23:23:58+00:00",
+    "generated_at": "2026-08-10T00:24:17+00:00",
     "text_count": 72,
     "total_bytes": 11304281,
     "by_category": {
@@ -28,40 +28,40 @@
       "reference": 4,
       "contested": 2
     },
-    "surveyed_count": 20,
-    "annotated_count": 20,
+    "surveyed_count": 24,
+    "annotated_count": 24,
     "scaffolded_count": 0,
-    "paras_judged": 12984,
+    "paras_judged": 13243,
     "paras_pending": 0,
     "domain_hit_counts": {
-      "I": 5,
-      "II": 13,
+      "I": 6,
+      "II": 15,
       "III": 10,
-      "IV": 15,
-      "IX": 11,
-      "V": 16,
-      "VI": 9,
-      "VII": 14,
-      "VIII": 16,
+      "IV": 16,
+      "IX": 12,
+      "V": 20,
+      "VI": 11,
+      "VII": 18,
+      "VIII": 19,
       "X": 11,
-      "XI": 9,
+      "XI": 12,
       "XII": 12,
-      "XIII": 8
+      "XIII": 9
     },
     "domain_para_counts": {
-      "I": 16,
-      "II": 355,
+      "I": 17,
+      "II": 358,
       "III": 84,
-      "IV": 329,
-      "V": 1109,
-      "VI": 255,
-      "VII": 754,
-      "VIII": 421,
-      "IX": 77,
+      "IV": 331,
+      "V": 1223,
+      "VI": 257,
+      "VII": 792,
+      "VIII": 450,
+      "IX": 78,
       "X": 174,
-      "XI": 151,
+      "XI": 158,
       "XII": 117,
-      "XIII": 60
+      "XIII": 61
     }
   },
   "texts": [
@@ -951,12 +951,27 @@
       "size_bytes": 14860,
       "chapter_count": 3,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "domains_null": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [
+        "I",
+        "V",
+        "VII",
+        "VIII",
+        "XI",
+        "XIII"
+      ],
+      "domains_null": [
+        "II",
+        "III",
+        "IV",
+        "VI",
+        "IX",
+        "X",
+        "XII"
+      ],
+      "paras_total": 65,
+      "paras_judged": 65,
+      "annotated": true
     },
     {
       "slug": "sanzijing",
@@ -1277,12 +1292,27 @@
       "size_bytes": 13094,
       "chapter_count": 5,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "domains_null": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [
+        "V",
+        "VI",
+        "VII",
+        "XI"
+      ],
+      "domains_null": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "VIII",
+        "IX",
+        "X",
+        "XII",
+        "XIII"
+      ],
+      "paras_total": 67,
+      "paras_judged": 67,
+      "annotated": true
     },
     {
       "slug": "songjingwen-gong-biji",
@@ -1418,12 +1448,27 @@
       "size_bytes": 18016,
       "chapter_count": 20,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "domains_null": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [
+        "II",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "XI"
+      ],
+      "domains_null": [
+        "I",
+        "III",
+        "X",
+        "XII",
+        "XIII"
+      ],
+      "paras_total": 84,
+      "paras_judged": 84,
+      "annotated": true
     },
     {
       "slug": "wenxin-diaolong",
@@ -1481,12 +1526,27 @@
       "size_bytes": 18009,
       "chapter_count": 6,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "domains_null": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [
+        "II",
+        "V",
+        "VII",
+        "VIII"
+      ],
+      "domains_null": [
+        "I",
+        "III",
+        "IV",
+        "VI",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII"
+      ],
+      "paras_total": 43,
+      "paras_judged": 43,
+      "annotated": true
     },
     {
       "slug": "xijing-zaji",

@@ -2,15 +2,18 @@
   "domain": "IV",
   "name_zh": "家庭與傳承",
   "gist": "婚姻與家庭、原生家庭的傷、為人父母、記憶與和解、留下什麼給後代",
-  "generated_at": "2026-08-09T23:23:58+00:00",
-  "para_count": 329,
-  "book_count": 15,
+  "generated_at": "2026-08-10T00:24:17+00:00",
+  "para_count": 331,
+  "book_count": 16,
   "surveyed_zero_hit": [
     "fangyan",
     "haidao-suanjing",
     "jiuzhang-suanshu",
     "liutao",
-    "nanjing"
+    "nanjing",
+    "san-lue",
+    "sima-fa",
+    "wuzi"
   ],
   "paras": [
     {
@@ -2957,6 +2960,36 @@
       "note": "「散地士卒顧家」「安土懷生」：本土作戰時家庭牽掛被視為戰力弱點",
       "co_domains": [
         "VI"
+      ]
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "武議",
+      "para_index": 5,
+      "para_id": "weiliaozi#08-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "吳起與秦戰，舍不平隴畝[14]，樸樕蓋之[15]，以蔽霜露。如此何也？不自高人故",
+      "note": "以吳起與秦戰的言行說明將領職責不在一劍之任，並明列受命、宿野、臨戰時忘家忘親忘身的職責代價。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "兵教下",
+      "para_index": 1,
+      "para_id": "weiliaozi#18-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "兵有五致：為將忘家，踰垠忘親，指敵忘身，必死則生，急勝為下。",
+      "note": "以五致綱目要求將領任事時忘家、越境忘親、臨敵忘身，兼論職責承擔及為此割捨的家庭關係。",
+      "co_domains": [
+        "VIII"
       ]
     },
     {

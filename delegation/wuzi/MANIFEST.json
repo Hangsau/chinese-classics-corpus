@@ -1,0 +1,85 @@
+{
+  "slug": "wuzi",
+  "batches": [
+    {
+      "file": "b01.md",
+      "chapters": [
+        {
+          "chapter": "圖國第一",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "chapter": "料敵第二",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "chapter": "治兵第三",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "chapter": "論將第四",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "chapter": "應變第五",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "chapter": "勵士第六",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ],
+      "paras": 43,
+      "chars": 5937
+    }
+  ]
+}

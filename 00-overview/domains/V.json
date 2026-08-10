@@ -2,9 +2,9 @@
   "domain": "V",
   "name_zh": "群體·社會·公義",
   "gist": "孤獨與歸屬、友誼、我群他群與偏見、公義與權力、責任與領導",
-  "generated_at": "2026-08-09T23:23:58+00:00",
-  "para_count": 1109,
-  "book_count": 16,
+  "generated_at": "2026-08-10T00:24:17+00:00",
+  "para_count": 1223,
+  "book_count": 20,
   "surveyed_zero_hit": [
     "haidao-suanjing",
     "jinkui-yaolue",
@@ -4923,6 +4923,604 @@
         "IV",
         "VII"
       ]
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "上略",
+      "para_index": 1,
+      "para_id": "san-lue#01-p01",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "夫主將之法，務攬英雄之心，賞祿有功，通志于眾。故與眾同好，靡不成；與眾同惡，靡不",
+      "note": "主將須攬英雄之心、賞有功並與眾同好惡，且以得人或失人解釋國家安亡，直接論領導者與群眾的關係",
+      "co_domains": []
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "上略",
+      "para_index": 6,
+      "para_id": "san-lue#01-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫為國之道，恃賢與民，信賢如腹心，使民如四肢，則策無遣。所適如肢體相隨，骨節相救",
+      "note": "以信賢如腹心、使民如四肢說明國家依靠賢者與人民時應有的信任、協作與相互救援",
+      "co_domains": []
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "上略",
+      "para_index": 7,
+      "para_id": "san-lue#01-p07",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "軍國之要，察眾心，施百務。危者，安之；懼者，歡之；叛者，還之；怨者，原之；訴者，",
+      "note": "逐項命名危、懼、叛、怨、卑、貪等群眾處境並規定相應處置，承認治理者面對不同人的社會位置與需要應有不同回應",
+      "co_domains": []
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "上略",
+      "para_index": 8,
+      "para_id": "san-lue#01-p08",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "世能祖祖，鮮能下下。祖祖為親，下下為君。下下者，務耕桑，不奪其時；薄賦斂，不匱其",
+      "note": "要求不奪耕桑之時、薄賦罕役以使國富家娛，再選士治理，兼論公共權力如何保障生計與安排任事者",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "上略",
+      "para_index": 9,
+      "para_id": "san-lue#01-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫所謂士者，英雄也。故曰羅其英雄，則敵國窮。英雄者，國之幹；庶民者，國之本。得其",
+      "note": "把英雄視為國之幹、庶民視為國之本，並主張網羅英雄、收納人民才能使政行無怨，兼論社會根基與人才延攬",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "上略",
+      "para_index": 10,
+      "para_id": "san-lue#01-p10",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "夫用兵之要，在崇禮而重祿。禮崇則智士至，祿重則義士輕死。故祿賢不愛財，賞功不逾時",
+      "note": "主張以爵祿、財賞、禮義延攬並激勵智士義士，說明領導者與任事者之間的回報關係及用人方式",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "上略",
+      "para_index": 11,
+      "para_id": "san-lue#01-p11",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "夫將帥者，必與士卒同滋味，而共安危，敵乃可加，故兵有全勝，敵有全因。昔者，良將之",
+      "note": "投醪於河的故事明說一簞之醪不能味一河之水，而士卒願致死是因滋味及己，在解釋士卒為何回應將領的同甘共苦",
+      "co_domains": []
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "上略",
+      "para_index": 12,
+      "para_id": "san-lue#01-p12",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "《軍讖》曰：「軍井未達，將不言渴。軍幕未辦，將不言倦。軍灶未炊，將不言飢。冬不服",
+      "note": "將領在井、幕、灶未備時與士卒同受渴倦飢寒，並以素蓄恩、素合謀解釋眾人何以可合而不離",
+      "co_domains": []
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "上略",
+      "para_index": 15,
+      "para_id": "san-lue#01-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《軍讖》曰：「良將之統軍也，恕己而治人，推惠施恩，士力日新。戰如風發，攻如河決。",
+      "note": "以恕己治人、推惠施恩、身先於人及賞罰分明建立將帥與士卒的關係，又以官人得、所任賢強調適當任用人才",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "上略",
+      "para_index": 17,
+      "para_id": "san-lue#01-p17",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "《軍讖》曰：「將能清，能靜，能平，能整，能受諫，能聽訟，能納人，能採言，能知國俗",
+      "note": "要求將領受諫納言並聽取負薪之言，又列拒諫、自伐、信讒、貪財如何使人才離散與部屬失功，兼論領導關係與品格敗壞",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "上略",
+      "para_index": 21,
+      "para_id": "san-lue#01-p21",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "《軍讖》曰：「香餌之下，必有死魚；重賞之下，必有勇夫。」故禮者，士之所歸；賞者，",
+      "note": "以香餌必有死魚比喻重賞必有勇夫，並說禮是士所歸、賞是士所死，明確斷言領導者用禮賞與士建立歸附關係",
+      "co_domains": []
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "上略",
+      "para_index": 22,
+      "para_id": "san-lue#01-p22",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "《軍讖》曰：「興師之國，務先隆恩；攻取之國，務先養民。」以寡勝眾者，恩也；以弱勝",
+      "note": "要求興師先隆恩、攻取先養民，並說良將養士如己可使三軍如一心，將勝利建立在照顧與群體凝聚上",
+      "co_domains": []
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "上略",
+      "para_index": 23,
+      "para_id": "san-lue#01-p23",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "《軍讖》曰：「用兵之要，必先察敵情，視其倉庫，度其糧食，卜其強弱，察其天地，伺其",
+      "note": "在察敵與糧運之外，具體指出國虛使民貧、上下不親並使人民在內盜亂，論及戰爭負擔如何破壞社會關係",
+      "co_domains": []
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "上略",
+      "para_index": 24,
+      "para_id": "san-lue#01-p24",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《軍讖》曰：「上行虐，則下急刻；賦重斂數，刑罰無極，民相殘賊；是謂亡國。」",
+      "note": "指出上位者施虐會使下位者急刻，重賦與無度刑罰又使人民相殘，直接描述權力不義如何造成社會敗亡",
+      "co_domains": []
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "上略",
+      "para_index": 25,
+      "para_id": "san-lue#01-p25",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《軍讖》曰：「內貪外廉，詐譽取名；竊公為恩，令上下昏；飾躬正顏，以獲高官；是謂盜",
+      "note": "列舉內貪外廉、詐譽取名、竊公市恩與矯飾求官，兼指公共權力的侵占與虛偽貪婪的品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "上略",
+      "para_index": 26,
+      "para_id": "san-lue#01-p26",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《軍讖》曰：「群吏朋黨，各進所親；招舉姦枉，抑挫仁賢；背公立私，同位相訕；是謂亂",
+      "note": "群吏結黨進親、扶姦抑賢、背公立私並互相訕謗，被界定為亂源，兼論權力結黨與背公品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "上略",
+      "para_index": 27,
+      "para_id": "san-lue#01-p27",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《軍讖》曰：「強宗聚姦，無位而尊；威而不震，葛藟相連；種德立恩，奪在位權；侵侮下",
+      "note": "強宗串連姦人、奪取在位者權力、侵侮下民而臣下蔽情不報，核心是非正式權勢壓迫人民的政治病理",
+      "co_domains": []
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "上略",
+      "para_index": 28,
+      "para_id": "san-lue#01-p28",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《軍讖》曰：「世世作姦，侵盜縣官，進退求便，委曲弄文，以危其君；是謂國姦。」",
+      "note": "世代作姦、侵盜官府並曲弄文書以危其君，被稱為國姦，兼具公共權力受侵害與姦詐品格的判斷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "上略",
+      "para_index": 29,
+      "para_id": "san-lue#01-p29",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《軍讖》曰：「吏多民寡，尊卑相若，強弱相虜；莫適禁禦，延及君子，國受其咎。」",
+      "note": "吏多民寡、尊卑失別、強者掠奪弱者又無人禁禦，描述制度失序與強弱不公如何使國家受害",
+      "co_domains": []
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "上略",
+      "para_index": 30,
+      "para_id": "san-lue#01-p30",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《軍讖》曰：「善善不進，惡惡不退；賢者隱蔽，不肖在位；國受其害。」",
+      "note": "不進善、不退惡使賢者隱蔽而不肖者居位，直接把國家受害連到人才升退與公共職位配置失當",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "上略",
+      "para_index": 31,
+      "para_id": "san-lue#01-p31",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《軍讖》曰：「枝葉強大，比周居勢；卑賤陵貴，久而益大；上不忍廢，國受其敗。」",
+      "note": "枝葉勢大、朋黨據權而卑賤者凌駕尊貴者，上位者又不忍罷黜，所論是權力結構失衡導致國敗",
+      "co_domains": []
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "上略",
+      "para_index": 32,
+      "para_id": "san-lue#01-p32",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《軍讖》曰：「佞臣在上，一軍皆訟；引威自與，動違于眾；無進無退，苟然取容；專任自",
+      "note": "佞臣專任己意、攘功、謗德、壅命並造苛政，既描寫掌權者破壞公共治理，也集中刻畫取容、自專與誹謗的惡劣品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "上略",
+      "para_index": 33,
+      "para_id": "san-lue#01-p33",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "《軍讖》曰：「姦雄相稱，障蔽主明；毀譽並興，壅塞主聰；各阿所私，令主失忠。」故主",
+      "note": "先寫姦雄互譽、蔽主塞忠的權力病理，再要求君主察言、聘賢、任舊齒、訪巖穴並詢及負薪者，兼論公共治理與人才延攬",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "中略",
+      "para_index": 1,
+      "para_id": "san-lue#02-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫三皇無言而化流四海，故天下無所歸功。帝者，體天則地，有言有令，而天下太平；群臣",
+      "note": "以皇帝王霸的差等比較君臣讓功、互信、義退，以及霸者靠權、信、賞維繫士眾，核心是統治者與臣民的權力關係",
+      "co_domains": []
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "中略",
+      "para_index": 2,
+      "para_id": "san-lue#02-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "《軍勢》曰：「出軍行師，將在自專；進退內禦，則功難成。」",
+      "note": "主張出軍後將領必須能自專，而內部牽制其進退會使功業難成，所論是君主向將領授權及責任邊界",
+      "co_domains": []
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "中略",
+      "para_index": 6,
+      "para_id": "san-lue#02-p06",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "《軍勢》曰：「使義士不以財。故義者，不為不仁者死，智者不為暗主謀。」",
+      "note": "義者不為不仁者死、智者不為昏暗之主謀，斷言有德性者會拒絕不義領導者，兼論品格底線與主從關係",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "中略",
+      "para_index": 7,
+      "para_id": "san-lue#02-p07",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "主，不可以無德，無德則臣叛；不可以無威，無威則失權。臣，不可以無德，無德則無以事",
+      "note": "分別要求君臣具有德與威，並說君失德則臣叛、臣威過多則身蹶，兼論角色品格與君臣權力平衡",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "中略",
+      "para_index": 8,
+      "para_id": "san-lue#02-p08",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "故聖王禦世，觀盛衰，度得失，而為之制；故諸侯二師，方伯三師，天子六師。世亂，則叛",
+      "note": "以王澤枯竭導致叛逆與盟誓相攻說明政治秩序的合法性，又列諸侯、方伯、天子的軍隊編制數量",
+      "co_domains": []
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "中略",
+      "para_index": 9,
+      "para_id": "san-lue#02-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "德同勢敵，無以相傾，乃攬英雄之心，與眾同好惡，然後加之以權變。故非計策，無以決嫌",
+      "note": "在權變陰謀之前先主張攬英雄之心、與眾同好惡才能形成力量，承載的是領導者取得群眾認同的關係原理",
+      "co_domains": []
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "中略",
+      "para_index": 11,
+      "para_id": "san-lue#02-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人臣深曉《中略》，則能全功保身。夫高鳥死，良弓藏；敵國滅，謀臣亡。亡者，非喪其身",
+      "note": "以高鳥死良弓藏說功成後謀臣會被奪威廢權，再列封位、富家與珍玩悅心的安置方式，所論是君主如何處置功臣權力",
+      "co_domains": []
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "中略",
+      "para_index": 12,
+      "para_id": "san-lue#02-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫人眾壹合而不可卒離，威權壹與而不可卒移。還師罷軍，存亡之階。故弱之以位，奪之以",
+      "note": "指出群眾一旦合一難以驟離、威權一旦授予難以驟移，並以削位奪國處理還師後的君臣權力風險",
+      "co_domains": []
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "下略",
+      "para_index": 1,
+      "para_id": "san-lue#03-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫能扶天下之危者，則據天下之安；能除天下之憂者，則享天下之樂；能救天下之禍者，則",
+      "note": "把解天下危憂禍、施澤於民與賢聖歸附連結起來，又主張以德與道求致賢聖，兼論公共責任與人才延攬",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "下略",
+      "para_index": 2,
+      "para_id": "san-lue#03-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "賢人之政，降人以體；聖人之政，降人以心。體降可以圖始，心降可以保終。降體以禮，降",
+      "note": "把樂重新界定為人安樂於家、族、業、都邑、政令與道德，並以有德之君樂人或無德之君樂身判斷政權久亡，兼論生活安頓與公共領導",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "下略",
+      "para_index": 3,
+      "para_id": "san-lue#03-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "釋近謀遠者，勞而無功；釋遠謀近者，佚而有終。佚政多忠臣，勞政多怨民。故曰，務廣地",
+      "note": "以勞政生怨、廣德則強、貪人所有則殘及過度制度必敗，兼論施政對人民的負擔與貪奪的品格問題",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "下略",
+      "para_index": 4,
+      "para_id": "san-lue#03-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "舍己而教人者逆，正己而化人者順。逆者，亂之招；順者，治之要。",
+      "note": "舍己而教人會招逆亂、先正己才能化人得治，既要求自我端正，也說明以身作則如何影響他人",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "下略",
+      "para_index": 6,
+      "para_id": "san-lue#03-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "出君下臣，名曰命；施於竹帛，名曰令；奉而行之，名曰政。夫命失，則令不行；令不行，",
+      "note": "界定君命、成文之令與奉行之政的關係，並說命令失效會使邪臣得勢、君權受傷，核心是公共權威的運作與失序",
+      "co_domains": []
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "下略",
+      "para_index": 8,
+      "para_id": "san-lue#03-p08",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "廢壹善，則眾善衰。賞壹惡，則眾惡歸。善者得其祐，惡者受其誅，則國安而眾善至。眾疑",
+      "note": "廢善賞惡會使惡聚善衰，善者受祐、惡者受誅才使國安令行，兼論善惡判準及公共賞罰秩序",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "下略",
+      "para_index": 9,
+      "para_id": "san-lue#03-p09",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "使怨治怨，是謂逆天；使仇治仇，其禍不救。治民使平，致平以清，則民得其所，而天下寧",
+      "note": "反對以怨治怨、以仇治仇，主張以平與清治理使人民各得其所、天下安寧，直接處理公正治理與社會修復",
+      "co_domains": []
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "下略",
+      "para_index": 10,
+      "para_id": "san-lue#03-p10",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "犯上者尊，貪鄙者富，雖有聖王，不能致其治。犯上者誅，貪鄙者拘，則化行而眾惡消。",
+      "note": "犯上者反受尊、貪鄙者反致富會破壞治理，而懲治這些行為才使眾惡消退，所論是公共獎懲秩序",
+      "co_domains": []
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "下略",
+      "para_index": 13,
+      "para_id": "san-lue#03-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "聖王之用兵，非樂之也，將以誅暴討亂也。夫以義誅不義，若決江河而溉爝火，臨不測而擠",
+      "note": "把用兵限於誅暴討亂與不得已，並以重傷人物為不進的理由，核心是戰爭的公共傷害及正當性；天道語彙未另行展開人與超越者的關係",
+      "co_domains": []
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "下略",
+      "para_index": 15,
+      "para_id": "san-lue#03-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "豪傑秉職，國威乃弱；殺生在豪傑，國勢乃竭；豪傑低首，國乃可久；殺生在君，國乃可安",
+      "note": "比較豪傑掌職與掌生殺、君主收回生殺權，以及四民被過度役用或用度充足對國勢的影響，核心是權力與民生配置",
+      "co_domains": []
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "下略",
+      "para_index": 16,
+      "para_id": "san-lue#03-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "賢臣內，則邪臣外；邪臣內，則賢臣斃。內外失宜，禍亂傳世。",
+      "note": "賢臣在內則邪臣在外，反之賢臣受害，直接把國家禍亂連到哪些人被置於核心職位及其權力後果",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "下略",
+      "para_index": 17,
+      "para_id": "san-lue#03-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大臣疑主，眾奸集聚。臣當君尊，上下乃昏；君當臣處，上下失序。",
+      "note": "大臣疑主會招聚眾奸，臣與君同尊或君反居臣位又使上下昏亂，所論是君臣信任與權力秩序",
+      "co_domains": []
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "下略",
+      "para_index": 18,
+      "para_id": "san-lue#03-p18",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "傷賢者，殃及三世；蔽賢者，身受其害；嫉賢者，其名不全；進賢者，福流子孫。故君子急",
+      "note": "傷害、遮蔽、嫉妒賢者會害身敗名，進賢則福及子孫，因而要求君子急於推舉賢者，兼論公正待才與人才晉用",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "下略",
+      "para_index": 19,
+      "para_id": "san-lue#03-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "利壹害百，民去城郭；利壹害萬，國乃思散。去壹利百，人乃慕澤；去壹利萬，政乃不亂。",
+      "note": "只利一人而害百萬會使人民離城、國人離散，捨一人之利而利眾則人慕其澤，直接以多數人的福祉衡量公共政策",
+      "co_domains": []
     },
     {
       "slug": "shanghanlun",
@@ -10183,6 +10781,237 @@
       ]
     },
     {
+      "slug": "sima-fa",
+      "chapter": "仁本",
+      "para_index": 1,
+      "para_id": "sima-fa#01-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古者以仁為本，以義治之，治之為正。正不獲意則權。權出於戰，不出於仁也。是故殺人安",
+      "note": "以「殺人安人」「攻其國，愛其民」界定戰爭與殺伐何時可被允許，主題是權力行使的正當性",
+      "co_domains": []
+    },
+    {
+      "slug": "sima-fa",
+      "chapter": "仁本",
+      "para_index": 2,
+      "para_id": "sima-fa#01-p02",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "戰道：不違時，不歷民病，所以愛吾民也。不加喪，不因凶，所以愛夫其民也；冬夏不興師",
+      "note": "以不乘喪凶、不歷民病等限制說明對本國與敵國百姓的責任，並主張好戰必亡、忘戰必危",
+      "co_domains": []
+    },
+    {
+      "slug": "sima-fa",
+      "chapter": "仁本",
+      "para_index": 5,
+      "para_id": "sima-fa#01-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "先王之治，順天之道；設地之宜；官民之德；而正名治物；立國辨職，以爵分祿。諸侯說懷",
+      "note": "以辨職、分祿、弭獄息兵描述先王建立政治秩序及其結果，涉及治理者的權責與公共秩序",
+      "co_domains": []
+    },
+    {
+      "slug": "sima-fa",
+      "chapter": "仁本",
+      "para_index": 6,
+      "para_id": "sima-fa#01-p06",
+      "modes": [
+        "ritual"
+      ],
+      "excerpt": "其次，賢王制禮樂法度，乃作五刑，興甲兵，以討不義。巡狩者方，會諸侯，考不同。其有",
+      "note": "先向諸侯彰明罪狀再徵師正刑，觸及公開問罪的權力正當性；告天禱地則只是出師儀節",
+      "co_domains": []
+    },
+    {
+      "slug": "sima-fa",
+      "chapter": "仁本",
+      "para_index": 7,
+      "para_id": "sima-fa#01-p07",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "冢宰與百官布令於軍曰：“入罪人之地，無暴神祇，無行田獵，無毀土功，無燔牆屋，無伐",
+      "note": "明令不得毀屋取物或傷害老幼，並須醫治送還受傷敵人，直接規定征伐者對非戰鬥者與傷者的責任",
+      "co_domains": []
+    },
+    {
+      "slug": "sima-fa",
+      "chapter": "仁本",
+      "para_index": 8,
+      "para_id": "sima-fa#01-p08",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "既誅有罪，王及諸侯修正其國，舉賢立明，正復厥職。",
+      "note": "誅罪之後要求修正其國、舉賢復職，主張征伐者負有重建政治秩序的責任",
+      "co_domains": []
+    },
+    {
+      "slug": "sima-fa",
+      "chapter": "仁本",
+      "para_index": 10,
+      "para_id": "sima-fa#01-p10",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "會之以發禁者九：憑弱犯寡則眚之；賊賢害民則伐之；暴內陵外則壇之；野荒民散則削之；",
+      "note": "九條規則按欺弱、害民、弒君等罪行分配眚、伐、正、殘等處置，直接處理罪責與公權制裁",
+      "co_domains": []
+    },
+    {
+      "slug": "sima-fa",
+      "chapter": "天子之義",
+      "para_index": 1,
+      "para_id": "sima-fa#02-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天子之義，必純取灋天地，而觀於先聖。士庶之義，必奉於父母，而正於君長。故雖有明君",
+      "note": "把天子、士庶各自應遵循的義以及士受教後方可任用相連，主題是身分所承擔的社會義務",
+      "co_domains": []
+    },
+    {
+      "slug": "sima-fa",
+      "chapter": "天子之義",
+      "para_index": 2,
+      "para_id": "sima-fa#02-p02",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "古之教民：必立貴賤之倫經，使不相陵；德義不相踰；材技不相掩；勇力不相犯。故力同而",
+      "note": "主張以貴賤倫序使德義、材技與勇力互不侵犯，並以此形成力同意和的群體秩序",
+      "co_domains": []
+    },
+    {
+      "slug": "sima-fa",
+      "chapter": "天子之義",
+      "para_index": 3,
+      "para_id": "sima-fa#02-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "古者，國容不入軍，軍容不入國，故德義不相踰。上貴不伐之士，不伐之士，上之器也。茍",
+      "note": "以「不伐則無求，無求則不爭」解釋不自誇的品格，並以賞戮與軍國規矩維持群體分際",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "sima-fa",
+      "chapter": "天子之義",
+      "para_index": 6,
+      "para_id": "sima-fa#02-p06",
+      "modes": [
+        "ritual",
+        "proposition"
+      ],
+      "excerpt": "有虞氏戒於國中，欲民體其命也。夏后氏誓於軍中，欲民先成其慮也。殷誓於軍門之外，欲",
+      "note": "比較三代誓師與賞戮場所，並以貴善、威不善、勸君子、懼小人解釋制度背後的治理假設",
+      "co_domains": []
+    },
+    {
+      "slug": "sima-fa",
+      "chapter": "天子之義",
+      "para_index": 11,
+      "para_id": "sima-fa#02-p11",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "師多務威則民詘，少威則民不勝。上使民不得其義，百姓不得其敘，技用不得其利，牛馬不",
+      "note": "逐項說明上位者任詐慝、貴暴行或使民失序如何令百姓受屈失力，主題是權力使用與領導責任",
+      "co_domains": []
+    },
+    {
+      "slug": "sima-fa",
+      "chapter": "天子之義",
+      "para_index": 12,
+      "para_id": "sima-fa#02-p12",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "古者，國容不入軍，軍容不入國。軍容入國則民德廢，國容入軍則民德弱。故在國言文而語",
+      "note": "區分國中與軍中各自的言行規矩，並主張混用會使民德廢弱，所論是身分情境與公共規範的分際",
+      "co_domains": []
+    },
+    {
+      "slug": "sima-fa",
+      "chapter": "天子之義",
+      "para_index": 13,
+      "para_id": "sima-fa#02-p13",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "古者，賢王明民之德，盡民之善，故無廢德，無簡民，賞無所生，罰無所試。有虞氏不賞不",
+      "note": "以勝而不伐善、敗而各歸過於己說明謙讓品格，並討論賞罰如何促善避惡及形成上下關係",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "sima-fa",
+      "chapter": "天子之義",
+      "para_index": 14,
+      "para_id": "sima-fa#02-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古者戍兵三年不興，覩民之勞也。上下相報，若此，和之至也。",
+      "note": "因看見民眾戍守之勞而三年不再興兵，並以「上下相報」說明治理者與人民互相回應的和諧",
+      "co_domains": []
+    },
+    {
+      "slug": "sima-fa",
+      "chapter": "定爵",
+      "para_index": 13,
+      "para_id": "sima-fa#03-p13",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡人之形，由眾之求，試以名行，必善行之。若行不行，身以將之，若行而行，因使勿忘，",
+      "note": "由「眾之求」到試行、反覆成章並稱為法，直接說明公共規範如何從群體需要及實行中形成",
+      "co_domains": []
+    },
+    {
+      "slug": "sima-fa",
+      "chapter": "嚴位",
+      "para_index": 18,
+      "para_id": "sima-fa#04-p18",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "凡戰：勝則與眾分善；若將復戰，則重賞罰；若使不勝，取過在己；復戰則誓以居前，無復",
+      "note": "規定勝則與眾分善、敗則將領取過在己並居前再戰，直接論領導者如何分配功責",
+      "co_domains": []
+    },
+    {
+      "slug": "sima-fa",
+      "chapter": "嚴位",
+      "para_index": 19,
+      "para_id": "sima-fa#04-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡民：以仁救；以義戰；以智决；以勇鬬；以信專；以利勸；以功勝。故心中仁，行中義，",
+      "note": "逐項界定仁義智勇信的內涵與作用，又以謙讓帶來和洽、人悅其心而效力說明德性如何形成群體關係",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
       "slug": "sunzi-bingfa",
       "chapter": "始計第一",
       "para_index": 2,
@@ -10474,6 +11303,680 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "天官",
+      "para_index": 1,
+      "para_id": "weiliaozi#01-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "昔梁惠王問尉繚曰：「吾聞黃帝有刑德，可以百戰百勝，其有之乎？」尉繚曰：「不然。黃",
+      "note": "以梁惠王問答否定天官時日陰陽之說，並把黃帝的刑伐德守重新歸為人事，兼及人為選擇與治理。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "兵談",
+      "para_index": 2,
+      "para_id": "weiliaozi#02-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "治兵者，若秘於地，若邃於天，生於無，故關之。大不窕，小不恢，明乎禁舍開塞，民流者",
+      "note": "主張善任土地、節制眾民可使國家富治，並把不動兵而制天下歸於朝廷治理。",
+      "co_domains": []
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "制談",
+      "para_index": 1,
+      "para_id": "weiliaozi#03-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡兵，制必先定，制先定則士不亂，士不亂則形乃明。金鼓所指，則百人盡鬥。陷行亂陣，",
+      "note": "主張制度預先確定可使士卒不亂，並讓號令由百人至萬人形成一致行動，說明制度如何組織群體。",
+      "co_domains": []
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "制談",
+      "para_index": 4,
+      "para_id": "weiliaozi#03-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "民非樂死而惡生也，號令明，法制審，故能使之前。明賞於前，決罰於後，是以發能中利一",
+      "note": "明說人民並非樂死惡生，而是因號令法制清楚及賞罰確定才肯向前，解釋權威制度如何改變行為。",
+      "co_domains": []
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "制談",
+      "para_index": 5,
+      "para_id": "weiliaozi#03-p05",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "令一作「今」百人一卒，千人一司馬，萬人一將，以少誅眾，以弱誅強。試聽臣言，其術足",
+      "note": "用卒、司馬、將的層級設計少制眾、弱制強，並稱其能使父子也不敢相互藏匿，觸及制度對群體與親屬行為的約束。",
+      "co_domains": []
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "制談",
+      "para_index": 6,
+      "para_id": "weiliaozi#03-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "一賊仗劍擊於市，萬人無不避之者，臣謂：「非一人之獨勇，萬人皆不肖也」。何則？「必",
+      "note": "以一名必死之賊使萬人退避，說明人在必死與必生條件下的行為差異及制度如何聚合敢死之眾。",
+      "co_domains": []
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "制談",
+      "para_index": 8,
+      "para_id": "weiliaozi#03-p08",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "今國被患者，以重幣出聘，以愛子出質，以地界出割，得天下助，卒名為十萬，其實不過數",
+      "note": "描述受患國以重幣、愛子與土地換取援助，卻因援軍各欲不居人下而不能協同作戰，揭示結盟中的權力關係。",
+      "co_domains": []
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "制談",
+      "para_index": 9,
+      "para_id": "weiliaozi#03-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "量吾境內之民，無伍莫能正矣。經制十萬之眾，而王必能使之衣吾衣，食吾食。戰不勝，守",
+      "note": "主張本國既能供養編制之民，戰敗守失便非人民之罪而是內部制度自致，明確把責任歸於治理者。",
+      "co_domains": []
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "制談",
+      "para_index": 10,
+      "para_id": "weiliaozi#03-p10",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "吾用天下之用為用，吾制天下之制為制，修吾號令，明吾刑賞，使天下非農所得食，非戰無",
+      "note": "規定以號令、刑賞及農戰爵食制度驅使人民爭相農戰，說明國家獎懲如何塑造群體行為。",
+      "co_domains": []
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "制談",
+      "para_index": 12,
+      "para_id": "weiliaozi#03-p12",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "視人之地而有之，分人之民而畜之，必能內有其賢者也。不能內有其賢，而欲有天下，必覆",
+      "note": "主張取得他國土地人民後必須容納其賢者，否則制度敗壞而使國弱民貧，兼論治理與用才。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "戰威",
+      "para_index": 1,
+      "para_id": "weiliaozi#04-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫將之所以戰者，民也；民之所以戰者，氣也。氣實則鬥，氣奪則走。",
+      "note": "把將領能戰繫於人民，並以氣之實奪解釋人民何以戰鬥或逃走，是群體動員的因果主張。",
+      "co_domains": []
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "戰威",
+      "para_index": 3,
+      "para_id": "weiliaozi#04-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古率民者，未有不能得其心，而能得其力者也；未有不能得其力，而能致其死者也。",
+      "note": "主張率民者必先得人心才能得其力，進而使人效死，直接說明領導與群體投入的關係。",
+      "co_domains": []
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "戰威",
+      "para_index": 4,
+      "para_id": "weiliaozi#04-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "故國必有禮、信、親、愛之義，而後民以飢易飽[6]；國必有孝、慈、廉、恥之俗，而後",
+      "note": "主張國家先培養禮信親愛與孝慈廉恥，人民才肯承受飢死，並規定德教應先於爵祿刑罰。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "戰威",
+      "para_index": 5,
+      "para_id": "weiliaozi#04-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "地所以養民也，城所以守地也，戰所以守城也。故務耕者，其民不飢；務守者，其地不危；",
+      "note": "把土地養民、耕作免飢與守戰保全國土連成公共治理責任，也明說農作維持人民生計。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "戰威",
+      "para_index": 6,
+      "para_id": "weiliaozi#04-p06",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "王國富民，霸國富士，僅存之國富大夫，亡國富倉府，是謂上溢而下漏，故患無所救。故曰",
+      "note": "以財富流向區分國家盛衰並主張舉賢、明法、養勞，最後否定時日卜筮禱祠而把成敗歸於人事。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "攻權",
+      "para_index": 1,
+      "para_id": "weiliaozi#05-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "將帥者，心也；群下者，支節也[7]。其心動以誠，則支節必力；其心動以疑，則支節必",
+      "note": "以心與肢節比喻將帥群下，主張將帥誠信可使部屬盡力、疑心則使其背離，說明上下關係。",
+      "co_domains": []
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "攻權",
+      "para_index": 2,
+      "para_id": "weiliaozi#05-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫民無兩畏也，畏我侮敵，畏敵侮我。見侮者敗，立威者勝。凡將能其道者，吏畏其將也；",
+      "note": "以將、吏、民、敵逐層相畏的權力鏈解釋威信如何傳導並決定群體服從。",
+      "co_domains": []
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "攻權",
+      "para_index": 3,
+      "para_id": "weiliaozi#05-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫不愛悅其心者，不我用也；不嚴畏其心者，不我舉也。愛在下順，威在上立；愛故不二，",
+      "note": "主張部屬須同時感受愛悅與嚴威才肯效用且不違犯，將領導歸結為愛與威的平衡。",
+      "co_domains": []
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "攻權",
+      "para_index": 4,
+      "para_id": "weiliaozi#05-p04",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "戰不必勝，不可以言戰；攻不必拔，不可以言攻。不然，雖刑賞不足信也。信在期前，事在",
+      "note": "要求未有必勝把握便不言戰攻，否則刑賞失信，將軍事決策與領導者對眾人的信用相連。",
+      "co_domains": []
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "攻權",
+      "para_index": 5,
+      "para_id": "weiliaozi#05-p05",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "凡挾義而戰者，貴從我起；爭私結怨，貴以不得已。怨結難起，待之貴後。故爭必當待之，",
+      "note": "區分挾義而戰與因私怨爭鬥，並規定後者須出於不得已，兼論群體衝突的正當性與動機。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "十二陵",
+      "para_index": 1,
+      "para_id": "weiliaozi#07-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "威在于不变，惠在于因时，机在于应事，战在于治气，攻在于意表，守在于外饰，无过在于",
+      "note": "以不變、應時、豫備、畏小、敢斷與下人等條目定義威惠慎智及得眾，兼論領導品格與群體關係。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "十二陵",
+      "para_index": 2,
+      "para_id": "weiliaozi#07-p02",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "悔在于任疑，孽在于屠戮，偏在于多私，不祥在于恶闻己过，不度在于竭民财，不明在于受",
+      "note": "把多私、惡聞過、好利、離賢與親小人等品格缺失逐項連到禍害，也涉及屠戮、竭民財與號令等治理敗壞。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "武議",
+      "para_index": 1,
+      "para_id": "weiliaozi#08-p01",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "凡兵不攻無過之城，不殺無罪之人。夫殺人之父兄，利人之貨財，臣妾人之子女，此皆盜也",
+      "note": "禁止攻無過之城與殺無罪之人，並把掠財役人定為盜，兼論戰爭正義與行為善惡。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "武議",
+      "para_index": 3,
+      "para_id": "weiliaozi#08-p03",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "凡誅賞者，所以明武也。殺一人而三軍震者，殺之；賞一人而萬人喜者，賞之。殺之貴大，",
+      "note": "主張當殺者雖尊貴也須受刑、賞賜則下及牛童馬圉，明說賞罰應穿透身分高下。",
+      "co_domains": []
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "將理",
+      "para_index": 1,
+      "para_id": "weiliaozi#09-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡將，理官也，萬物之主也，不私於一人。夫能無私於一人，故萬物至而制之，萬物至而命",
+      "note": "把治獄官視為裁理萬事者，並以不偏私任何一人作為其行使裁斷權的前提。",
+      "co_domains": []
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "將理",
+      "para_index": 2,
+      "para_id": "weiliaozi#09-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "君子不救囚於五步之外，雖鉤兵射之，弗追也。故善審囚之情，不待菙楚，而囚之情可畢矣",
+      "note": "主張善審囚情不必使用箠楚即可查明案情，觸及治獄方式與司法公正。",
+      "co_domains": []
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "將理",
+      "para_index": 3,
+      "para_id": "weiliaozi#09-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "笞人之背，灼人之脅，束人之指，而訊囚之情，雖國士有不勝其酷，而自誣矣。",
+      "note": "明列笞背、灼脅、束指造成連國士也承受不住酷痛而自誣，兼指刑訊不公與身體承受的極限。",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "將理",
+      "para_index": 4,
+      "para_id": "weiliaozi#09-p04",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "今世諺云：『千金不死，百金不刑。』試聽臣之術，雖有堯、舜之智，不能關一言；雖有萬",
+      "note": "引千金免死、百金免刑的時諺描述財力左右司法，並主張應使智謀與金錢都不能干預裁判。",
+      "co_domains": []
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "將理",
+      "para_index": 5,
+      "para_id": "weiliaozi#09-p05",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "今夫決獄，小圄不下數十，中圄不下數百，大圄不下數千。十人聯百人之事，百人聯千人之",
+      "note": "用監獄與牽連人數層級說明親族故舊及各業良民被大規模繫獄，並指出治理者不能察省所造成的公共危險。",
+      "co_domains": []
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "原官",
+      "para_index": 6,
+      "para_id": "weiliaozi#10-p06",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "諸侯有謹天子之禮，君臣繼世，承王之命也。更造易常，違王明德，故禮得以伐之。官無事",
+      "note": "以諸侯守禮承命、違德可伐及君王垂聽上達來界定政治秩序與統治正當性。",
+      "co_domains": []
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "治本",
+      "para_index": 1,
+      "para_id": "weiliaozi#11-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古者，土無肥墝，人無勤惰。古人何得，而今人何失耶？耕有不終畝，織有日斷機，而奈何",
+      "note": "以今人耕織中斷而寒飢對照古人，將勞作與生計的失敗歸因於治理中止而非人的勤惰。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "治本",
+      "para_index": 2,
+      "para_id": "weiliaozi#11-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "民相輕佻，則欲心興，爭奪之患起矣。",
+      "note": "主張人民彼此輕佻會使欲心興起並引發爭奪，連結人際秩序、欲望與品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "治本",
+      "para_index": 3,
+      "para_id": "weiliaozi#11-p03",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "蒼蒼之天，莫知其極；霸王之君，誰為法則？往世不可及，來世不可待，能明其世者，謂之",
+      "note": "把能明白自身時世者定為天子，再列神明、垂光、洪敘、無敵四項職事，所論是政治領導的勝任而非神聖信仰。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "治本",
+      "para_index": 4,
+      "para_id": "weiliaozi#11-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "野物不為犧牲，雜學不為通儒。今說者曰：「百里之海，不能飲一夫；三尺之泉，足止三軍",
+      "note": "以泉海之喻主張欲望源於沒有節度、邪行源於沒有禁制，兼論個人欲念與公共規範。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "治本",
+      "para_index": 5,
+      "para_id": "weiliaozi#11-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫禁必以武而成，賞必以文而成。",
+      "note": "主張禁令須靠武力成就、賞勸須靠文治成就，是國家施行約束與獎勵的權力原理。",
+      "co_domains": []
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "重刑令",
+      "para_index": 1,
+      "para_id": "weiliaozi#13-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "使民內重刑，則外輕敵。故先王明制度於前，重威刑於後。刑重則內畏，內畏則外輕矣。",
+      "note": "明說制度與重刑造成人民對內畏懼、對外輕敵，直接解釋國家刑威如何改變群體行為。",
+      "co_domains": []
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "兵教上",
+      "para_index": 9,
+      "para_id": "weiliaozi#17-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "令民背國門之限，決生死之分，教之死而不疑者，有以也。令守者必固，戰者必鬥，姦謀不",
+      "note": "主張分明舉功別德並施以教令可使人民決死不疑、服從如四肢應心，解釋權威如何形成群體服從。",
+      "co_domains": []
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "兵令上",
+      "para_index": 1,
+      "para_id": "weiliaozi#19-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "兵者，凶器逆德；爭者，事之末也。王者所以伐暴亂，而定仁義也。戰國所以立威侵敵也，",
+      "note": "把兵與爭定為凶器逆德及末事，並以伐暴亂、定仁義區分用兵目的，明確評議戰爭的社會正當性與善惡。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "兵令下",
+      "para_index": 1,
+      "para_id": "weiliaozi#20-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "百萬之眾而不戰，不如萬人之尸；萬人而不死，不如百人之鬼。賞罰如日月、信比四時，令",
+      "note": "主張賞罰如日月四時般可信且號令嚴厲時士卒便會效死，解釋制度威信如何支配群體行為，而非討論死亡本身。",
+      "co_domains": []
+    },
+    {
+      "slug": "wuzi",
+      "chapter": "圖國第一",
+      "para_index": 2,
+      "para_id": "wuzi#01-p02",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "起曰：「臣以見占隱，以往察來，主君何言與心違？今君四時使斬離皮革，掩以朱漆，畫以",
+      "note": "以承桑氏廢武、有扈氏恃眾好勇而亡為鑑，主張明主須兼修文德與武備，所論是治國者姿態及其代價。",
+      "co_domains": []
+    },
+    {
+      "slug": "wuzi",
+      "chapter": "圖國第一",
+      "para_index": 4,
+      "para_id": "wuzi#01-p04",
+      "modes": [
+        "proposition",
+        "ritual"
+      ],
+      "excerpt": "吳子曰：「昔之圖國家者，必先教百姓而親萬民。有四不和：不和於國，不可以出軍；不和",
+      "note": "主張君主先教民親民、使國與軍和合並愛惜民命，人民因而以赴難為榮，另載告廟問龜與三讓的出師儀節。",
+      "co_domains": []
+    },
+    {
+      "slug": "wuzi",
+      "chapter": "圖國第一",
+      "para_index": 5,
+      "para_id": "wuzi#01-p05",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "吳子曰：「夫道者，所以反本復始；義者，所以行事立功；謀者，所以違害就利；要者，所",
+      "note": "分述道義謀要並以道義禮仁四德論治國，明言修德則興、廢德則衰，兼及治理與品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "wuzi",
+      "chapter": "圖國第一",
+      "para_index": 6,
+      "para_id": "wuzi#01-p06",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "吳子曰：「凡制國治軍，必教之以禮，勵之以義，使有恥也。夫人有恥，在大足以戰，在小",
+      "note": "主張以禮義教民而養成羞恥心，並用勝戰次數分列國家興亡後果，兼論治理與品格養成。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "wuzi",
+      "chapter": "圖國第一",
+      "para_index": 7,
+      "para_id": "wuzi#01-p07",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "吳子曰：「凡兵之所起者有五：一曰爭名，二曰爭利，三曰積惡，四曰內亂，五曰因饑。其",
+      "note": "把戰爭起因分為爭名、爭利、積惡、內亂與饑荒，又依暴力的名義與權力姿態分類並提出相應處置。",
+      "co_domains": []
+    },
+    {
+      "slug": "wuzi",
+      "chapter": "圖國第一",
+      "para_index": 9,
+      "para_id": "wuzi#01-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "武侯問曰：「願聞陳必定、守必固、戰必勝之道。」起對曰：「立見且可，豈直聞乎？君能",
+      "note": "把賢者居上、人民安居並親近官吏、百姓認同其君列為陣定守固戰勝的社會治理基礎。",
+      "co_domains": []
+    },
+    {
+      "slug": "wuzi",
+      "chapter": "料敵第二",
+      "para_index": 2,
+      "para_id": "wuzi#02-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "起對曰：「夫安國家之道，先戒為寶，今君已戒，禍其遠矣。臣請論六國之俗：夫齊陳重而",
+      "note": "以六國君臣政俗與集體性情解釋各軍行為，又主張選拔能者、加爵厚養以任用人才，兼及群體治理與才能配置。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "wuzi",
+      "chapter": "應變第五",
+      "para_index": 10,
+      "para_id": "wuzi#05-p10",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "吳子曰：「凡攻敵圍城之道，城邑既破，各入其宮，御其祿秩，收其器物。軍之所至，無刊",
+      "note": "明定破城後不得毀屋奪糧、殺畜焚積，並須接納安置請降者，是掌權者對百姓與降者的交戰規範。",
+      "co_domains": []
+    },
+    {
+      "slug": "wuzi",
+      "chapter": "勵士第六",
+      "para_index": 1,
+      "para_id": "wuzi#06-p01",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "武侯問曰：「嚴刑明賞，足以勝乎？」起對曰：「嚴明之事，臣不能悉。雖然，非所恃也。",
+      "note": "把人樂聞號令、樂戰與樂死列為人主所恃，直接論述統治者如何形成群體赴戰的動機。",
+      "co_domains": []
+    },
+    {
+      "slug": "wuzi",
+      "chapter": "勵士第六",
+      "para_index": 2,
+      "para_id": "wuzi#06-p02",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "武侯曰：「致之奈何？」對曰：「君舉有功而進饗之，無功而勵之。」",
+      "note": "承接如何使人樂戰之問，主張進饗有功者並勉勵無功者，以差別對待驅動群體。",
+      "co_domains": []
+    },
+    {
+      "slug": "wuzi",
+      "chapter": "勵士第六",
+      "para_index": 3,
+      "para_id": "wuzi#06-p03",
+      "modes": [
+        "prescription",
+        "ritual"
+      ],
+      "excerpt": "於是武侯設坐廟廷，為三行，饗士大夫。上功坐前行，餚席兼重器、上牢；次功坐中行，餚",
+      "note": "饗士按功分三牢並頒賜有功者父母妻子、歲勞死事之家，賞罰穿過戰場延伸到家人，是賞施用範圍的正當性。",
+      "co_domains": []
+    },
+    {
+      "slug": "wuzi",
+      "chapter": "勵士第六",
+      "para_index": 4,
+      "para_id": "wuzi#06-p04",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "武侯召吳起而謂曰：「子前日之教行矣。」起對曰：「臣聞人有短長，氣有盛衰。君試發無",
+      "note": "以死賊能使千人戒懼說明一人投命可震懾眾人，再敘五萬無功者破強敵，所論是群體動員與人在特定狀態下的力量。",
+      "co_domains": []
     },
     {
       "slug": "yanshi-jiaxun",

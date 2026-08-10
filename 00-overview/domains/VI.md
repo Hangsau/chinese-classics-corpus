@@ -1,17 +1,17 @@
 # VI 情緒與內在生活
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 255 段命中｜跨 9 部｜生成時間 2026-08-09T23:23:58+00:00
+> 257 段命中｜跨 11 部｜生成時間 2026-08-10T00:24:17+00:00
 
 七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡
 
-姿態分佈：`narrative` 143、`proposition` 87、`expression` 56、`observation` 52、`prescription` 22、`ritual` 9、`formalization` 2
+姿態分佈：`narrative` 143、`proposition` 88、`expression` 56、`observation` 52、`prescription` 23、`ritual` 9、`formalization` 2
 
 ## 已通讀但本領域零命中
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`dongmingji`（洞冥記）　`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jijiupian`（急就篇）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`shanghanlun`（傷寒論）　`shenyijing`（神異經）
+`dongmingji`（洞冥記）　`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jijiupian`（急就篇）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`san-lue`（三略）　`shanghanlun`（傷寒論）　`shenyijing`（神異經）　`wuzi`（吳子）
 
 ## 世說新語（人論）　139 段
 
@@ -312,3 +312,15 @@
 | 篇 | 段 | 姿態 | 摘句 | 判讀 |
 |---|---|---|---|---|
 | 隹部 | 5 | `observation` | 巂：周燕也。从隹，屮象其冠也。㕯聲。一曰蜀王望帝，婬其相妻，慙亡去，爲子巂鳥。故 | ＋III 除釋鳥名外，另載望帝與其相之妻私通、因慚愧出走並化鳥的異說，涉及親密背叛與羞愧 |
+
+## 司馬法（兵家）　1 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| 嚴位 | 2 | `prescription` | 凡戰之道：等道義；立卒伍；定行列；正縱橫；察名實。立進俯；坐進跪。畏則密；危則坐 | 前段雖是隊形號令，末尾卻特別規定對恐懼太甚者不可殺戮，而要示以顏色、告以所生並省察其職 |
+
+## 尉繚子（兵家）　1 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| 守權 | 2 | `proposition` | 攻者不下十餘萬之眾，其有必救之軍者，則有必守之城；無必救之軍者，則無必守之城。若 | 對照救援可信時人人血戰與救援不實時愚夫蠢婦守城落淚，且明言這是人之常情，直接描寫內在情緒反應。 |

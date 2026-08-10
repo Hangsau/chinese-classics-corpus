@@ -2,9 +2,9 @@
   "domain": "II",
   "name_zh": "自我與認同",
   "gist": "我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我",
-  "generated_at": "2026-08-09T23:23:58+00:00",
-  "para_count": 355,
-  "book_count": 13,
+  "generated_at": "2026-08-10T00:24:17+00:00",
+  "para_count": 358,
+  "book_count": 15,
   "surveyed_zero_hit": [
     "fangyan",
     "gu-sanfen",
@@ -12,7 +12,9 @@
     "jinkui-yaolue",
     "jiuzhang-suanshu",
     "nanjing",
-    "shenyijing"
+    "san-lue",
+    "shenyijing",
+    "sima-fa"
   ],
   "paras": [
     {
@@ -4459,6 +4461,50 @@
       ],
       "excerpt": "吳王問孫武曰：「敵勇不懼，驕而無虞，兵眾而強，圖之奈何？」武曰：「詘而待之，以順",
       "note": "「攻驕之道，不可爭鋒」：對驕者不正面對抗，而順其意加深其懈怠",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "制談",
+      "para_index": 11,
+      "para_id": "weiliaozi#03-p11",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "民言有可以勝敵者，毋許其空言，必試其能戰也。",
+      "note": "要求把自稱能勝敵者的言語付諸實戰驗證，兼及名實是否相符與能力是否足以任事。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "wuzi",
+      "chapter": "圖國第一",
+      "para_index": 8,
+      "para_id": "wuzi#01-p08",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "武侯問曰：「願聞治兵、料人、固國之道。」起對曰：「古之明王，必謹君臣之禮，飾上下",
+      "note": "編伍不只按體能，也按失位者欲立功、失城者欲雪恥等身分自評與成就欲望分類，據此選募任用。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "wuzi",
+      "chapter": "圖國第一",
+      "para_index": 10,
+      "para_id": "wuzi#01-p10",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "武侯嘗謀事，群臣莫能及，罷朝而有喜色。起進曰：「昔楚莊王嘗謀事，群臣莫能及，罷朝",
+      "note": "以楚莊王因群臣莫及而憂、武侯反喜終至慚愧的故事，指出得意時的自我評價與謙抑品格。",
       "co_domains": [
         "VII"
       ]

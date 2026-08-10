@@ -2,9 +2,9 @@
   "domain": "I",
   "name_zh": "存在與意義",
   "gist": "我為何在此、活著有沒有意義、與想不通的問題共處、在歷史洪流中的渺小",
-  "generated_at": "2026-08-09T23:23:58+00:00",
-  "para_count": 16,
-  "book_count": 5,
+  "generated_at": "2026-08-10T00:24:17+00:00",
+  "para_count": 17,
+  "book_count": 6,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -19,7 +19,10 @@
     "shenyijing",
     "shiming",
     "shuowen-jiezi",
+    "sima-fa",
     "sunzi-bingfa",
+    "weiliaozi",
+    "wuzi",
     "yanshi-jiaxun"
   ],
   "paras": [
@@ -107,6 +110,18 @@
       "co_domains": [
         "X"
       ]
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "下略",
+      "para_index": 14,
+      "para_id": "san-lue#03-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫人之在道，若魚之在水；得水而生，失水而死。故君子者常畏懼而不敢失道。",
+      "note": "以人在道中如魚在水、得之則生失之則死的比喻，直接主張人賴以生存與安立的根本是道",
+      "co_domains": []
     },
     {
       "slug": "shanghanlun",

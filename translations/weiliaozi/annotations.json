@@ -1,0 +1,1489 @@
+[
+  {
+    "para_id": "weiliaozi#01-p01",
+    "anchor": {
+      "chapter": "天官",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "XI",
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以梁惠王問答否定天官時日陰陽之說，並把黃帝的刑伐德守重新歸為人事，兼及人為選擇與治理。",
+    "excerpt": "昔梁惠王問尉繚曰：「吾聞黃帝有刑德，可以百戰百勝，其有之乎？」尉繚曰：「不然。黃",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#01-p02",
+    "anchor": {
+      "chapter": "天官",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以城高池深、戰備與謀守解釋四面皆不可取，明言時日不如人的籌備與作為。",
+    "excerpt": "今有城於此，從其東西攻之，不能取；從其南北攻之，不能取。此四者，豈不得順時乘利者",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#02-p01",
+    "anchor": {
+      "chapter": "兵談",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "按土地、城邑、人口與糧食相稱來推算攻守能力，是國土城防的配置公式。",
+    "excerpt": "量土地肥墝[1]而立邑，建城稱地，以城稱人，以人稱粟。三相稱[2]，則內可以固守",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#02-p02",
+    "anchor": {
+      "chapter": "兵談",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "主張善任土地、節制眾民可使國家富治，並把不動兵而制天下歸於朝廷治理。",
+    "excerpt": "治兵者，若秘於地，若邃於天，生於無，故關之。大不窕，小不恢，明乎禁舍開塞，民流者",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#02-p03",
+    "anchor": {
+      "chapter": "兵談",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "規定不可因忿怒興兵而須見勝才行動，並依患難距離限定用兵期限，觸及決策者克制忿怒的品格。",
+    "excerpt": "兵起，非可以忿也。見勝則興，不見勝則止。患在百里之內，不起一日之師；患在千里之內",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#02-p04",
+    "anchor": {
+      "chapter": "兵談",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "VII",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "列出將領不受外在牽制、不因激怒而怒且不受財貨收買的品性，並指出狂盲聾者難以率人。",
+    "excerpt": "將者，上不制於天，下不制於地，中不制於人。寬不可激而怒，清不可事以財。夫心狂、目",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#02-p05",
+    "anchor": {
+      "chapter": "兵談",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "全段以地形、陣勢與器械譬喻軍隊聚散進退及壓制效果，只論戰法效力。",
+    "excerpt": "兵之所及，羊腸亦勝，鋸齒亦勝，緣山亦勝，入谷亦勝，方亦勝，員亦勝。重者如山、如林",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#03-p01",
+    "anchor": {
+      "chapter": "制談",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "主張制度預先確定可使士卒不亂，並讓號令由百人至萬人形成一致行動，說明制度如何組織群體。",
+    "excerpt": "凡兵，制必先定，制先定則士不亂，士不亂則形乃明。金鼓所指，則百人盡鬥。陷行亂陣，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#03-p02",
+    "anchor": {
+      "chapter": "制談",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "陳述古代什伍車列中率先登陣與赴死者多是有力國士，指出高風險任務所用的人才。",
+    "excerpt": "古者，士有什伍，車有偏列，鼓鳴旂麾，先登者未嘗非多力國士也，先死者亦未嘗非多力國",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#03-p03",
+    "anchor": {
+      "chapter": "制談",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "逐項列舉傷亡失衡、逃歸、兵器施用失序與隊列潰散四種軍事失敗及其後果。",
+    "excerpt": "損敵一人，而損我百人，此資敵而傷甚焉，世將不能禁。征役分軍而逃歸，或臨戰自北，則",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#03-p04",
+    "anchor": {
+      "chapter": "制談",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "明說人民並非樂死惡生，而是因號令法制清楚及賞罰確定才肯向前，解釋權威制度如何改變行為。",
+    "excerpt": "民非樂死而惡生也，號令明，法制審，故能使之前。明賞於前，決罰於後，是以發能中利一",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#03-p05",
+    "anchor": {
+      "chapter": "制談",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "formalization",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "用卒、司馬、將的層級設計少制眾、弱制強，並稱其能使父子也不敢相互藏匿，觸及制度對群體與親屬行為的約束。",
+    "excerpt": "令一作「今」百人一卒，千人一司馬，萬人一將，以少誅眾，以弱誅強。試聽臣言，其術足",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#03-p06",
+    "anchor": {
+      "chapter": "制談",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以一名必死之賊使萬人退避，說明人在必死與必生條件下的行為差異及制度如何聚合敢死之眾。",
+    "excerpt": "一賊仗劍擊於市，萬人無不避之者，臣謂：「非一人之獨勇，萬人皆不肖也」。何則？「必",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#03-p07",
+    "anchor": {
+      "chapter": "制談",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "formalization",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以桓公、吳起等人的統軍成果對照當世將領，主張成就不在兵多而在明白禁舍開塞及能逐級放大能力。",
+    "excerpt": "有提九萬之眾，而天下莫能當者，誰？曰：「桓公也。」有提七萬之眾，而天下莫敢當者，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#03-p08",
+    "anchor": {
+      "chapter": "制談",
+      "para_index": 8
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "描述受患國以重幣、愛子與土地換取援助，卻因援軍各欲不居人下而不能協同作戰，揭示結盟中的權力關係。",
+    "excerpt": "今國被患者，以重幣出聘，以愛子出質，以地界出割，得天下助，卒名為十萬，其實不過數",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#03-p09",
+    "anchor": {
+      "chapter": "制談",
+      "para_index": 9
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "主張本國既能供養編制之民，戰敗守失便非人民之罪而是內部制度自致，明確把責任歸於治理者。",
+    "excerpt": "量吾境內之民，無伍莫能正矣。經制十萬之眾，而王必能使之衣吾衣，食吾食。戰不勝，守",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#03-p10",
+    "anchor": {
+      "chapter": "制談",
+      "para_index": 10
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "規定以號令、刑賞及農戰爵食制度驅使人民爭相農戰，說明國家獎懲如何塑造群體行為。",
+    "excerpt": "吾用天下之用為用，吾制天下之制為制，修吾號令，明吾刑賞，使天下非農所得食，非戰無",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#03-p11",
+    "anchor": {
+      "chapter": "制談",
+      "para_index": 11
+    },
+    "psych_domains": [
+      "II",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "要求把自稱能勝敵者的言語付諸實戰驗證，兼及名實是否相符與能力是否足以任事。",
+    "excerpt": "民言有可以勝敵者，毋許其空言，必試其能戰也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#03-p12",
+    "anchor": {
+      "chapter": "制談",
+      "para_index": 12
+    },
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "主張取得他國土地人民後必須容納其賢者，否則制度敗壞而使國弱民貧，兼論治理與用才。",
+    "excerpt": "視人之地而有之，分人之民而畜之，必能內有其賢者也。不能內有其賢，而欲有天下，必覆",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#04-p01",
+    "anchor": {
+      "chapter": "戰威",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "把將領能戰繫於人民，並以氣之實奪解釋人民何以戰鬥或逃走，是群體動員的因果主張。",
+    "excerpt": "夫將之所以戰者，民也；民之所以戰者，氣也。氣實則鬥，氣奪則走。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#04-p02",
+    "anchor": {
+      "chapter": "戰威",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "把奪取或保有心機說成用兵者取得先機的方法，主導內容仍是戰場制敵原理。",
+    "excerpt": "善用兵者，能奪人而不奪於人。奪者，心之機也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#04-p03",
+    "anchor": {
+      "chapter": "戰威",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "主張率民者必先得人心才能得其力，進而使人效死，直接說明領導與群體投入的關係。",
+    "excerpt": "古率民者，未有不能得其心，而能得其力者也；未有不能得其力，而能致其死者也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#04-p04",
+    "anchor": {
+      "chapter": "戰威",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "主張國家先培養禮信親愛與孝慈廉恥，人民才肯承受飢死，並規定德教應先於爵祿刑罰。",
+    "excerpt": "故國必有禮、信、親、愛之義，而後民以飢易飽[6]；國必有孝、慈、廉、恥之俗，而後",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#04-p05",
+    "anchor": {
+      "chapter": "戰威",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "把土地養民、耕作免飢與守戰保全國土連成公共治理責任，也明說農作維持人民生計。",
+    "excerpt": "地所以養民也，城所以守地也，戰所以守城也。故務耕者，其民不飢；務守者，其地不危；",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#04-p06",
+    "anchor": {
+      "chapter": "戰威",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "V",
+      "XI"
+    ],
+    "discourse_mode": [
+      "formalization",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以財富流向區分國家盛衰並主張舉賢、明法、養勞，最後否定時日卜筮禱祠而把成敗歸於人事。",
+    "excerpt": "王國富民，霸國富士，僅存之國富大夫，亡國富倉府，是謂上溢而下漏，故患無所救。故曰",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#05-p01",
+    "anchor": {
+      "chapter": "攻權",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以心與肢節比喻將帥群下，主張將帥誠信可使部屬盡力、疑心則使其背離，說明上下關係。",
+    "excerpt": "將帥者，心也；群下者，支節也[7]。其心動以誠，則支節必力；其心動以疑，則支節必",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#05-p02",
+    "anchor": {
+      "chapter": "攻權",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以將、吏、民、敵逐層相畏的權力鏈解釋威信如何傳導並決定群體服從。",
+    "excerpt": "夫民無兩畏也，畏我侮敵，畏敵侮我。見侮者敗，立威者勝。凡將能其道者，吏畏其將也；",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#05-p03",
+    "anchor": {
+      "chapter": "攻權",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "主張部屬須同時感受愛悅與嚴威才肯效用且不違犯，將領導歸結為愛與威的平衡。",
+    "excerpt": "夫不愛悅其心者，不我用也；不嚴畏其心者，不我舉也。愛在下順，威在上立；愛故不二，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#05-p04",
+    "anchor": {
+      "chapter": "攻權",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "要求未有必勝把握便不言戰攻，否則刑賞失信，將軍事決策與領導者對眾人的信用相連。",
+    "excerpt": "戰不必勝，不可以言戰；攻不必拔，不可以言攻。不然，雖刑賞不足信也。信在期前，事在",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#05-p05",
+    "anchor": {
+      "chapter": "攻權",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "區分挾義而戰與因私怨爭鬥，並規定後者須出於不得已，兼論群體衝突的正當性與動機。",
+    "excerpt": "凡挾義而戰者，貴從我起；爭私結怨，貴以不得已。怨結難起，待之貴後。故爭必當待之，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#06-p01",
+    "anchor": {
+      "chapter": "守權",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "規定每丈城牆配置十名守者及一當十的守城比例，全段是城防人數規格。",
+    "excerpt": "夫守者，不失險者也。守法：城一丈，十人守之，工食不與焉。出者不守，守者不出。一而",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#06-p02",
+    "anchor": {
+      "chapter": "守權",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "對照救援可信時人人血戰與救援不實時愚夫蠢婦守城落淚，且明言這是人之常情，直接描寫內在情緒反應。",
+    "excerpt": "攻者不下十餘萬之眾，其有必救之軍者，則有必守之城；無必救之軍者，則無必守之城。若",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#07-p01",
+    "anchor": {
+      "chapter": "十二陵",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VII",
+      "V"
+    ],
+    "discourse_mode": [
+      "formalization",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以不變、應時、豫備、畏小、敢斷與下人等條目定義威惠慎智及得眾，兼論領導品格與群體關係。",
+    "excerpt": "威在于不变，惠在于因时，机在于应事，战在于治气，攻在于意表，守在于外饰，无过在于",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#07-p02",
+    "anchor": {
+      "chapter": "十二陵",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VII",
+      "V"
+    ],
+    "discourse_mode": [
+      "formalization",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "把多私、惡聞過、好利、離賢與親小人等品格缺失逐項連到禍害，也涉及屠戮、竭民財與號令等治理敗壞。",
+    "excerpt": "悔在于任疑，孽在于屠戮，偏在于多私，不祥在于恶闻己过，不度在于竭民财，不明在于受",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#08-p01",
+    "anchor": {
+      "chapter": "武議",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "禁止攻無過之城與殺無罪之人，並把掠財役人定為盜，兼論戰爭正義與行為善惡。",
+    "excerpt": "凡兵不攻無過之城，不殺無罪之人。夫殺人之父兄，利人之貨財，臣妾人之子女，此皆盜也",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#08-p02",
+    "anchor": {
+      "chapter": "武議",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "依萬乘、千乘、百乘分配農戰、救守、事養及市場供給功能，是國家戰守資源的配置表。",
+    "excerpt": "萬乘農戰，千乘救守[10]，百乘事養。農戰不外索權，救守不外索助，事養不外索資。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#08-p03",
+    "anchor": {
+      "chapter": "武議",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "主張當殺者雖尊貴也須受刑、賞賜則下及牛童馬圉，明說賞罰應穿透身分高下。",
+    "excerpt": "凡誅賞者，所以明武也。殺一人而三軍震者，殺之；賞一人而萬人喜者，賞之。殺之貴大，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#08-p04",
+    "anchor": {
+      "chapter": "武議",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以水觸丘陵為喻說明兵力專一，再列兵器甲冑與奇正配合的制勝效力，只論戰法。",
+    "excerpt": "勝兵似水。夫水，至柔弱者也。然所觸，丘陵必為之崩；無異也，性專而觸誠也。今以莫邪",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#08-p05",
+    "anchor": {
+      "chapter": "武議",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "VIII",
+      "IV"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以吳起與秦戰的言行說明將領職責不在一劍之任，並明列受命、宿野、臨戰時忘家忘親忘身的職責代價。",
+    "excerpt": "吳起與秦戰，舍不平隴畝[14]，樸樕蓋之[15]，以蔽霜露。如此何也？不自高人故",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#08-p06",
+    "anchor": {
+      "chapter": "武議",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "敘述吳起因材士未奉軍令而將其斬首，只是一次違令處置的軍法事例，未另立關於人的通則。",
+    "excerpt": "吳起與秦戰，未合，一夫不勝其勇，前獲雙首而還。吳起立命斬之。軍吏諫曰：「此材士也",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#09-p01",
+    "anchor": {
+      "chapter": "將理",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "把治獄官視為裁理萬事者，並以不偏私任何一人作為其行使裁斷權的前提。",
+    "excerpt": "凡將，理官也，萬物之主也，不私於一人。夫能無私於一人，故萬物至而制之，萬物至而命",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#09-p02",
+    "anchor": {
+      "chapter": "將理",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "主張善審囚情不必使用箠楚即可查明案情，觸及治獄方式與司法公正。",
+    "excerpt": "君子不救囚於五步之外，雖鉤兵射之，弗追也。故善審囚之情，不待菙楚，而囚之情可畢矣",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#09-p03",
+    "anchor": {
+      "chapter": "將理",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V",
+      "IX"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "明列笞背、灼脅、束指造成連國士也承受不住酷痛而自誣，兼指刑訊不公與身體承受的極限。",
+    "excerpt": "笞人之背，灼人之脅，束人之指，而訊囚之情，雖國士有不勝其酷，而自誣矣。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#09-p04",
+    "anchor": {
+      "chapter": "將理",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "引千金免死、百金免刑的時諺描述財力左右司法，並主張應使智謀與金錢都不能干預裁判。",
+    "excerpt": "今世諺云：『千金不死，百金不刑。』試聽臣之術，雖有堯、舜之智，不能關一言；雖有萬",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#09-p05",
+    "anchor": {
+      "chapter": "將理",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "formalization",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "用監獄與牽連人數層級說明親族故舊及各業良民被大規模繫獄，並指出治理者不能察省所造成的公共危險。",
+    "excerpt": "今夫決獄，小圄不下數十，中圄不下數百，大圄不下數千。十人聯百人之事，百人聯千人之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#10-p01",
+    "anchor": {
+      "chapter": "原官",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "定義官、制、爵祿在職掌分民與尊卑體制中的功能，是官制綱目。",
+    "excerpt": "官者，事之所主，為治之本也。制者，職分四民，治之分也。貴爵富祿必稱，尊卑之體也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#10-p02",
+    "anchor": {
+      "chapter": "原官",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "逐項配置刑法會計、井地賦斂、工匠器用與邊地禁令等行政職掌。",
+    "excerpt": "好善罰惡，正比法，會計民之具也。均井地，節賦斂，取予之度也。程工人，備器用，匠工",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#10-p03",
+    "anchor": {
+      "chapter": "原官",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "把守法稽驗、賞賜誅責與開塞之政分列為君臣操守及行政方法，主導內容是官制職掌。",
+    "excerpt": "守法稽斷，臣下之節也。明法稽驗，主上之操也。明主守，等輕重，臣主之權也。明賞賚[",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#10-p04",
+    "anchor": {
+      "chapter": "原官",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "列舉上下資訊、國家資源及敵方強弱動靜的掌握方式，是決策情報綱目。",
+    "excerpt": "下達上通，至聰之聽也。知國有無之數，用其仂也。知彼弱者，強之體也。知彼動者，靜之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#10-p05",
+    "anchor": {
+      "chapter": "原官",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "分列文武官職、會禮制度及阻絕遊說間諜的辦法，仍是制度職掌清單。",
+    "excerpt": "官分文武，惟王之二術也。俎豆同制，天子之會也。遊說間諜無自入，正議之術也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#10-p06",
+    "anchor": {
+      "chapter": "原官",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "formalization",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以諸侯守禮承命、違德可伐及君王垂聽上達來界定政治秩序與統治正當性。",
+    "excerpt": "諸侯有謹天子之禮，君臣繼世，承王之命也。更造易常，違王明德，故禮得以伐之。官無事",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#11-p01",
+    "anchor": {
+      "chapter": "治本",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以今人耕織中斷而寒飢對照古人，將勞作與生計的失敗歸因於治理中止而非人的勤惰。",
+    "excerpt": "古者，土無肥墝，人無勤惰。古人何得，而今人何失耶？耕有不終畝，織有日斷機，而奈何",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#11-p02",
+    "anchor": {
+      "chapter": "治本",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "主張人民彼此輕佻會使欲心興起並引發爭奪，連結人際秩序、欲望與品格。",
+    "excerpt": "民相輕佻，則欲心興，爭奪之患起矣。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#11-p03",
+    "anchor": {
+      "chapter": "治本",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "formalization",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "把能明白自身時世者定為天子，再列神明、垂光、洪敘、無敵四項職事，所論是政治領導的勝任而非神聖信仰。",
+    "excerpt": "蒼蒼之天，莫知其極；霸王之君，誰為法則？往世不可及，來世不可待，能明其世者，謂之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#11-p04",
+    "anchor": {
+      "chapter": "治本",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "VII",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以泉海之喻主張欲望源於沒有節度、邪行源於沒有禁制，兼論個人欲念與公共規範。",
+    "excerpt": "野物不為犧牲，雜學不為通儒。今說者曰：「百里之海，不能飲一夫；三尺之泉，足止三軍",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#11-p05",
+    "anchor": {
+      "chapter": "治本",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "主張禁令須靠武力成就、賞勸須靠文治成就，是國家施行約束與獎勵的權力原理。",
+    "excerpt": "夫禁必以武而成，賞必以文而成。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#12-p01",
+    "anchor": {
+      "chapter": "戰權",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以千人成權、萬人成武及先加於敵推演勝敗，只是兵力規模與先制戰法的公式。",
+    "excerpt": "兵法曰：「千人而成權，萬人而成武。權先加人者，敵不力交；武先加人者，敵無威接。」",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#13-p01",
+    "anchor": {
+      "chapter": "重刑令",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "明說制度與重刑造成人民對內畏懼、對外輕敵，直接解釋國家刑威如何改變群體行為。",
+    "excerpt": "使民內重刑，則外輕敵。故先王明制度於前，重威刑於後。刑重則內畏，內畏則外輕矣。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#14-p01",
+    "anchor": {
+      "chapter": "勒卒令",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "規定敵在山淵都須追隨不疑，並以求亡子作比，只是在下達追敵戰術。",
+    "excerpt": "敵在山，緣而從之[22]；敵在淵，沒而從之[23]。求敵如求亡子，從之無疑，故能",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#14-p02",
+    "anchor": {
+      "chapter": "勒卒令",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "列明計策早定、正奇先後及三種疑信遲疾之累，是用兵決策與進退程序。",
+    "excerpt": "夫蚤決[24]先定，若計不先定，慮不蚤決，則進退不定，疑生必敗。故正兵貴先，奇兵",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#15-p01",
+    "anchor": {
+      "chapter": "將令",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "規定三軍分職及越級請示、二令、留令、失令的死刑條款，是軍令體系。",
+    "excerpt": "左、右、中軍，皆有分職，若踰分而上請者，死。軍無二令；二令者誅，留令者誅，失令者",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#16-p01",
+    "anchor": {
+      "chapter": "踵軍令",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "規定踵軍距大軍百里、三日熟食、會地與起軍饗士次序，是行軍日程規格。",
+    "excerpt": "所謂踵軍者，去大軍百里，期於會地，為三日熟食，前軍而行，為戰合之表。合表，乃起踵",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#16-p02",
+    "anchor": {
+      "chapter": "踵軍令",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "規定興軍與踵軍的倍程、百里距離、六日糧食、據險追北及誅還者，是後備軍程序。",
+    "excerpt": "興軍者，前踵軍而行，合表乃起，去大軍一倍其道，去踵軍百里，期於會地，為六日熟食，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#16-p03",
+    "anchor": {
+      "chapter": "踵軍令",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "規定什伍分合、預派職守、會師表記、糧食戰具及違令處置，是集結編制程序。",
+    "excerpt": "兵有什伍，有分有合，豫為之職，守要塞關梁而分居之。戰合表起，即皆會也。大軍為計日",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#16-p04",
+    "anchor": {
+      "chapter": "踵軍令",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "規定大軍出動後封境、符節授權、順職吏通行與擅行者誅，是戰前內部管制條文。",
+    "excerpt": "凡稱分塞者，四境之內，當興軍踵軍既行，則四境之民，無得行者。奉王之軍命，授持符節",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#17-p01",
+    "anchor": {
+      "chapter": "兵教上",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "規定分營進退訓練、五人教舉、甲首賞罰與伍內互揭，是軍事教練及連坐程序。",
+    "excerpt": "兵之教，令分營居陳，有非令而進退者，加犯教之罪。前行者前行教之，後行者後行教之，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#17-p02",
+    "anchor": {
+      "chapter": "兵教上",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "按伍、什至裨將逐級規定臨陣不進、逃亡與教者同罪，是軍法責任條款。",
+    "excerpt": "凡伍臨陳，若一人有不進死於敵，則教者如犯法之罪。凡什保什，若亡一人，而九人不盡死",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#17-p03",
+    "anchor": {
+      "chapter": "兵教上",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "只規定軍中刑罰與勸賞須依兵教之法，未另行論證賞罰的社會正當性。",
+    "excerpt": "凡明刑罰，正勸賞，必在乎兵教之法。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#17-p04",
+    "anchor": {
+      "chapter": "兵教上",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "規定將卒旗章、左右中軍佩章位置、姓名及尊卑次序，是軍隊識別規格。",
+    "excerpt": "將異其旂，卒異其章，左軍章左肩，右軍章右肩，中軍章胸前。書其章曰：某甲、某士。前",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#17-p05",
+    "anchor": {
+      "chapter": "兵教上",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "把板鼓、瓦金、竿旗各自對應進退趨坐與左右動作，是伍長操演號令表。",
+    "excerpt": "伍長教其四人，以板為鼓，以瓦為金，以竿為旂。擊鼓而進，低旂則趨，擊金而退。麾而左",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#17-p06",
+    "anchor": {
+      "chapter": "兵教上",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "由伍長逐級合訓至大將，並規定三百步設表及百步各段操演，是可執行的訓練流程。",
+    "excerpt": "伍長教成，合之什長。什長教成，合之卒長。卒長教成，合之伯長。伯長教成，合之兵尉。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#17-p07",
+    "anchor": {
+      "chapter": "兵教上",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "規定尉吏以下皆有旗，戰勝取旗後按所獲爵級給賞，是軍功賞格。",
+    "excerpt": "自尉吏而下，盡有旂。戰勝得旂者，各視所得之爵，以明賞勸之心。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#17-p08",
+    "anchor": {
+      "chapter": "兵教上",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "把戰勝依次繫於立威、戮力、正罰與明賞，只是在概括軍事制勝鏈條。",
+    "excerpt": "戰勝在乎立威，立威在乎戮力，戮力在乎正罰，正罰者所以明賞也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#17-p09",
+    "anchor": {
+      "chapter": "兵教上",
+      "para_index": 9
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "主張分明舉功別德並施以教令可使人民決死不疑、服從如四肢應心，解釋權威如何形成群體服從。",
+    "excerpt": "令民背國門之限，決生死之分，教之死而不疑者，有以也。令守者必固，戰者必鬥，姦謀不",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#17-p10",
+    "anchor": {
+      "chapter": "兵教上",
+      "para_index": 10
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "說明前軍整隊破陣及兵教開疆守國的軍事用途，未提出戰法以外的人的主張。",
+    "excerpt": "前軍絕行亂陳，破堅如潰者，有以也。此謂之兵教。所以開封疆，守社稷，除患害，成武德",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#18-p01",
+    "anchor": {
+      "chapter": "兵教下",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VIII",
+      "IV"
+    ],
+    "discourse_mode": [
+      "formalization",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以五致綱目要求將領任事時忘家、越境忘親、臨敵忘身，兼論職責承擔及為此割捨的家庭關係。",
+    "excerpt": "兵有五致：為將忘家，踰垠忘親，指敵忘身，必死則生，急勝為下。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#18-p02",
+    "anchor": {
+      "chapter": "兵教下",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "以問答列出賞罰尺度、禁私語及請改賞罰者死等軍法條款，主導內容是用人管制規格。",
+    "excerpt": "武王問太公望曰：「吾欲少間[25]而極用人之要[26]」望對曰：「賞如山，罰如谿",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#18-p03",
+    "anchor": {
+      "chapter": "兵教下",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "要求出兵前核查內外權勢、兵備糧食與道路，純屬興師前的後勤檢核。",
+    "excerpt": "凡興師，必審內外之權，以計其去。兵有備闕[28]，糧食有餘不足，校[29]所出入",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#18-p04",
+    "anchor": {
+      "chapter": "兵教下",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "依土地、城邑與人口的大小疏密決定收地、攻城、斷隘或築堙，是攻城算法。",
+    "excerpt": "地大而城小者，必先收其地；城大而地窄者，必先攻其城。地廣而人寡者，則絕其阨；地狹",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#19-p01",
+    "anchor": {
+      "chapter": "兵令上",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "把兵與爭定為凶器逆德及末事，並以伐暴亂、定仁義區分用兵目的，明確評議戰爭的社會正當性與善惡。",
+    "excerpt": "兵者，凶器逆德；爭者，事之末也。王者所以伐暴亂，而定仁義也。戰國所以立威侵敵也，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#19-p02",
+    "anchor": {
+      "chapter": "兵令上",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "用棟植、表裏、內外三組對應說明武文在攻守與判斷利害中的軍事功能。",
+    "excerpt": "兵者，以武為棟[32]，以文為植[33]；以武為表，以文為裏；以武為外，以文為內",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#19-p03",
+    "anchor": {
+      "chapter": "兵令上",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以士卒畏將或畏敵及將敵權衡預測勝敗，只是辨識戰果的軍事心理指標。",
+    "excerpt": "卒畏將甚於敵者，戰勝；卒畏敵甚於將者，戰敗。未戰，所以知勝敗者，固稱將於敵也，敵",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#19-p04",
+    "anchor": {
+      "chapter": "兵令上",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "規定正兵先交鋒再加扼制，是單一禦敵戰術。",
+    "excerpt": "善禦敵者，正兵先合，而後扼之，此必勝之術也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  },
+  {
+    "para_id": "weiliaozi#20-p01",
+    "anchor": {
+      "chapter": "兵令下",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "主張賞罰如日月四時般可信且號令嚴厲時士卒便會效死，解釋制度威信如何支配群體行為，而非討論死亡本身。",
+    "excerpt": "百萬之眾而不戰，不如萬人之尸；萬人而不死，不如百人之鬼。賞罰如日月、信比四時，令",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-10T08:20:58+08:00"
+  }
+]

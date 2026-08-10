@@ -1,7 +1,7 @@
 # XII 信仰·神聖·超越
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 117 段命中｜跨 12 部｜生成時間 2026-08-09T23:23:58+00:00
+> 117 段命中｜跨 12 部｜生成時間 2026-08-10T00:24:17+00:00
 
 神存在嗎、信與疑、敬畏與美、神秘經驗
 
@@ -11,7 +11,7 @@
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`dongmingji`（洞冥記）　`fangyan`（方言）　`haidao-suanjing`（海島算經）　`jijiupian`（急就篇）　`liutao`（六韜）　`nanjing`（難經）　`renwuzhi`（人物志）　`shanghanlun`（傷寒論）
+`dongmingji`（洞冥記）　`fangyan`（方言）　`haidao-suanjing`（海島算經）　`jijiupian`（急就篇）　`liutao`（六韜）　`nanjing`（難經）　`renwuzhi`（人物志）　`san-lue`（三略）　`shanghanlun`（傷寒論）　`sima-fa`（司馬法）　`weiliaozi`（尉繚子）　`wuzi`（吳子）
 
 ## 潛夫論（儒家著述）　32 段
 

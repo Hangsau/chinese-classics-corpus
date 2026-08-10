@@ -1,0 +1,593 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {
+      "chapter": "天官",
+      "para_index": 1,
+      "domains": ["XI", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "以梁惠王問答否定天官時日陰陽之說，並把黃帝的刑伐德守重新歸為人事，兼及人為選擇與治理。"
+    },
+    {
+      "chapter": "天官",
+      "para_index": 2,
+      "domains": ["XI"],
+      "modes": ["proposition"],
+      "reason": "以城高池深、戰備與謀守解釋四面皆不可取，明言時日不如人的籌備與作為。"
+    },
+    {
+      "chapter": "兵談",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "按土地、城邑、人口與糧食相稱來推算攻守能力，是國土城防的配置公式。"
+    },
+    {
+      "chapter": "兵談",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "主張善任土地、節制眾民可使國家富治，並把不動兵而制天下歸於朝廷治理。"
+    },
+    {
+      "chapter": "兵談",
+      "para_index": 3,
+      "domains": ["VII"],
+      "modes": ["prescription", "formalization"],
+      "reason": "規定不可因忿怒興兵而須見勝才行動，並依患難距離限定用兵期限，觸及決策者克制忿怒的品格。"
+    },
+    {
+      "chapter": "兵談",
+      "para_index": 4,
+      "domains": ["VII", "VIII"],
+      "modes": ["proposition"],
+      "reason": "列出將領不受外在牽制、不因激怒而怒且不受財貨收買的品性，並指出狂盲聾者難以率人。"
+    },
+    {
+      "chapter": "兵談",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "全段以地形、陣勢與器械譬喻軍隊聚散進退及壓制效果，只論戰法效力。"
+    },
+    {
+      "chapter": "制談",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "主張制度預先確定可使士卒不亂，並讓號令由百人至萬人形成一致行動，說明制度如何組織群體。"
+    },
+    {
+      "chapter": "制談",
+      "para_index": 2,
+      "domains": ["VIII"],
+      "modes": ["observation"],
+      "reason": "陳述古代什伍車列中率先登陣與赴死者多是有力國士，指出高風險任務所用的人才。"
+    },
+    {
+      "chapter": "制談",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "逐項列舉傷亡失衡、逃歸、兵器施用失序與隊列潰散四種軍事失敗及其後果。"
+    },
+    {
+      "chapter": "制談",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "明說人民並非樂死惡生，而是因號令法制清楚及賞罰確定才肯向前，解釋權威制度如何改變行為。"
+    },
+    {
+      "chapter": "制談",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["formalization", "proposition"],
+      "reason": "用卒、司馬、將的層級設計少制眾、弱制強，並稱其能使父子也不敢相互藏匿，觸及制度對群體與親屬行為的約束。"
+    },
+    {
+      "chapter": "制談",
+      "para_index": 6,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "以一名必死之賊使萬人退避，說明人在必死與必生條件下的行為差異及制度如何聚合敢死之眾。"
+    },
+    {
+      "chapter": "制談",
+      "para_index": 7,
+      "domains": ["VIII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "以桓公、吳起等人的統軍成果對照當世將領，主張成就不在兵多而在明白禁舍開塞及能逐級放大能力。"
+    },
+    {
+      "chapter": "制談",
+      "para_index": 8,
+      "domains": ["V"],
+      "modes": ["observation", "proposition"],
+      "reason": "描述受患國以重幣、愛子與土地換取援助，卻因援軍各欲不居人下而不能協同作戰，揭示結盟中的權力關係。"
+    },
+    {
+      "chapter": "制談",
+      "para_index": 9,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "主張本國既能供養編制之民，戰敗守失便非人民之罪而是內部制度自致，明確把責任歸於治理者。"
+    },
+    {
+      "chapter": "制談",
+      "para_index": 10,
+      "domains": ["V"],
+      "modes": ["prescription", "proposition"],
+      "reason": "規定以號令、刑賞及農戰爵食制度驅使人民爭相農戰，說明國家獎懲如何塑造群體行為。"
+    },
+    {
+      "chapter": "制談",
+      "para_index": 11,
+      "domains": ["II", "VIII"],
+      "modes": ["prescription"],
+      "reason": "要求把自稱能勝敵者的言語付諸實戰驗證，兼及名實是否相符與能力是否足以任事。"
+    },
+    {
+      "chapter": "制談",
+      "para_index": 12,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "主張取得他國土地人民後必須容納其賢者，否則制度敗壞而使國弱民貧，兼論治理與用才。"
+    },
+    {
+      "chapter": "戰威",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "把將領能戰繫於人民，並以氣之實奪解釋人民何以戰鬥或逃走，是群體動員的因果主張。"
+    },
+    {
+      "chapter": "戰威",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "把奪取或保有心機說成用兵者取得先機的方法，主導內容仍是戰場制敵原理。"
+    },
+    {
+      "chapter": "戰威",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "主張率民者必先得人心才能得其力，進而使人效死，直接說明領導與群體投入的關係。"
+    },
+    {
+      "chapter": "戰威",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "主張國家先培養禮信親愛與孝慈廉恥，人民才肯承受飢死，並規定德教應先於爵祿刑罰。"
+    },
+    {
+      "chapter": "戰威",
+      "para_index": 5,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "把土地養民、耕作免飢與守戰保全國土連成公共治理責任，也明說農作維持人民生計。"
+    },
+    {
+      "chapter": "戰威",
+      "para_index": 6,
+      "domains": ["V", "XI"],
+      "modes": ["formalization", "proposition"],
+      "reason": "以財富流向區分國家盛衰並主張舉賢、明法、養勞，最後否定時日卜筮禱祠而把成敗歸於人事。"
+    },
+    {
+      "chapter": "攻權",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "以心與肢節比喻將帥群下，主張將帥誠信可使部屬盡力、疑心則使其背離，說明上下關係。"
+    },
+    {
+      "chapter": "攻權",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "以將、吏、民、敵逐層相畏的權力鏈解釋威信如何傳導並決定群體服從。"
+    },
+    {
+      "chapter": "攻權",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "主張部屬須同時感受愛悅與嚴威才肯效用且不違犯，將領導歸結為愛與威的平衡。"
+    },
+    {
+      "chapter": "攻權",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["prescription", "proposition"],
+      "reason": "要求未有必勝把握便不言戰攻，否則刑賞失信，將軍事決策與領導者對眾人的信用相連。"
+    },
+    {
+      "chapter": "攻權",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "區分挾義而戰與因私怨爭鬥，並規定後者須出於不得已，兼論群體衝突的正當性與動機。"
+    },
+    {
+      "chapter": "守權",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "規定每丈城牆配置十名守者及一當十的守城比例，全段是城防人數規格。"
+    },
+    {
+      "chapter": "守權",
+      "para_index": 2,
+      "domains": ["VI"],
+      "modes": ["proposition"],
+      "reason": "對照救援可信時人人血戰與救援不實時愚夫蠢婦守城落淚，且明言這是人之常情，直接描寫內在情緒反應。"
+    },
+    {
+      "chapter": "十二陵",
+      "para_index": 1,
+      "domains": ["VII", "V"],
+      "modes": ["formalization", "proposition"],
+      "reason": "以不變、應時、豫備、畏小、敢斷與下人等條目定義威惠慎智及得眾，兼論領導品格與群體關係。"
+    },
+    {
+      "chapter": "十二陵",
+      "para_index": 2,
+      "domains": ["VII", "V"],
+      "modes": ["formalization", "proposition"],
+      "reason": "把多私、惡聞過、好利、離賢與親小人等品格缺失逐項連到禍害，也涉及屠戮、竭民財與號令等治理敗壞。"
+    },
+    {
+      "chapter": "武議",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "禁止攻無過之城與殺無罪之人，並把掠財役人定為盜，兼論戰爭正義與行為善惡。"
+    },
+    {
+      "chapter": "武議",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "依萬乘、千乘、百乘分配農戰、救守、事養及市場供給功能，是國家戰守資源的配置表。"
+    },
+    {
+      "chapter": "武議",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["prescription", "proposition"],
+      "reason": "主張當殺者雖尊貴也須受刑、賞賜則下及牛童馬圉，明說賞罰應穿透身分高下。"
+    },
+    {
+      "chapter": "武議",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "以水觸丘陵為喻說明兵力專一，再列兵器甲冑與奇正配合的制勝效力，只論戰法。"
+    },
+    {
+      "chapter": "武議",
+      "para_index": 5,
+      "domains": ["VIII", "IV"],
+      "modes": ["narrative", "proposition"],
+      "reason": "以吳起與秦戰的言行說明將領職責不在一劍之任，並明列受命、宿野、臨戰時忘家忘親忘身的職責代價。"
+    },
+    {
+      "chapter": "武議",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "敘述吳起因材士未奉軍令而將其斬首，只是一次違令處置的軍法事例，未另立關於人的通則。"
+    },
+    {
+      "chapter": "將理",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "把治獄官視為裁理萬事者，並以不偏私任何一人作為其行使裁斷權的前提。"
+    },
+    {
+      "chapter": "將理",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "主張善審囚情不必使用箠楚即可查明案情，觸及治獄方式與司法公正。"
+    },
+    {
+      "chapter": "將理",
+      "para_index": 3,
+      "domains": ["V", "IX"],
+      "modes": ["proposition"],
+      "reason": "明列笞背、灼脅、束指造成連國士也承受不住酷痛而自誣，兼指刑訊不公與身體承受的極限。"
+    },
+    {
+      "chapter": "將理",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["observation", "proposition"],
+      "reason": "引千金免死、百金免刑的時諺描述財力左右司法，並主張應使智謀與金錢都不能干預裁判。"
+    },
+    {
+      "chapter": "將理",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["formalization", "proposition"],
+      "reason": "用監獄與牽連人數層級說明親族故舊及各業良民被大規模繫獄，並指出治理者不能察省所造成的公共危險。"
+    },
+    {
+      "chapter": "原官",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "定義官、制、爵祿在職掌分民與尊卑體制中的功能，是官制綱目。"
+    },
+    {
+      "chapter": "原官",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "逐項配置刑法會計、井地賦斂、工匠器用與邊地禁令等行政職掌。"
+    },
+    {
+      "chapter": "原官",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把守法稽驗、賞賜誅責與開塞之政分列為君臣操守及行政方法，主導內容是官制職掌。"
+    },
+    {
+      "chapter": "原官",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "列舉上下資訊、國家資源及敵方強弱動靜的掌握方式，是決策情報綱目。"
+    },
+    {
+      "chapter": "原官",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "分列文武官職、會禮制度及阻絕遊說間諜的辦法，仍是制度職掌清單。"
+    },
+    {
+      "chapter": "原官",
+      "para_index": 6,
+      "domains": ["V"],
+      "modes": ["formalization", "proposition"],
+      "reason": "以諸侯守禮承命、違德可伐及君王垂聽上達來界定政治秩序與統治正當性。"
+    },
+    {
+      "chapter": "治本",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "以今人耕織中斷而寒飢對照古人，將勞作與生計的失敗歸因於治理中止而非人的勤惰。"
+    },
+    {
+      "chapter": "治本",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "主張人民彼此輕佻會使欲心興起並引發爭奪，連結人際秩序、欲望與品格。"
+    },
+    {
+      "chapter": "治本",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "把能明白自身時世者定為天子，再列神明、垂光、洪敘、無敵四項職事，所論是政治領導的勝任而非神聖信仰。"
+    },
+    {
+      "chapter": "治本",
+      "para_index": 4,
+      "domains": ["VII", "V"],
+      "modes": ["proposition"],
+      "reason": "以泉海之喻主張欲望源於沒有節度、邪行源於沒有禁制，兼論個人欲念與公共規範。"
+    },
+    {
+      "chapter": "治本",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "主張禁令須靠武力成就、賞勸須靠文治成就，是國家施行約束與獎勵的權力原理。"
+    },
+    {
+      "chapter": "戰權",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "以千人成權、萬人成武及先加於敵推演勝敗，只是兵力規模與先制戰法的公式。"
+    },
+    {
+      "chapter": "重刑令",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "明說制度與重刑造成人民對內畏懼、對外輕敵，直接解釋國家刑威如何改變群體行為。"
+    },
+    {
+      "chapter": "勒卒令",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "規定敵在山淵都須追隨不疑，並以求亡子作比，只是在下達追敵戰術。"
+    },
+    {
+      "chapter": "勒卒令",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "列明計策早定、正奇先後及三種疑信遲疾之累，是用兵決策與進退程序。"
+    },
+    {
+      "chapter": "將令",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "規定三軍分職及越級請示、二令、留令、失令的死刑條款，是軍令體系。"
+    },
+    {
+      "chapter": "踵軍令",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "規定踵軍距大軍百里、三日熟食、會地與起軍饗士次序，是行軍日程規格。"
+    },
+    {
+      "chapter": "踵軍令",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "規定興軍與踵軍的倍程、百里距離、六日糧食、據險追北及誅還者，是後備軍程序。"
+    },
+    {
+      "chapter": "踵軍令",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "規定什伍分合、預派職守、會師表記、糧食戰具及違令處置，是集結編制程序。"
+    },
+    {
+      "chapter": "踵軍令",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "規定大軍出動後封境、符節授權、順職吏通行與擅行者誅，是戰前內部管制條文。"
+    },
+    {
+      "chapter": "兵教上",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "規定分營進退訓練、五人教舉、甲首賞罰與伍內互揭，是軍事教練及連坐程序。"
+    },
+    {
+      "chapter": "兵教上",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "按伍、什至裨將逐級規定臨陣不進、逃亡與教者同罪，是軍法責任條款。"
+    },
+    {
+      "chapter": "兵教上",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "只規定軍中刑罰與勸賞須依兵教之法，未另行論證賞罰的社會正當性。"
+    },
+    {
+      "chapter": "兵教上",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "規定將卒旗章、左右中軍佩章位置、姓名及尊卑次序，是軍隊識別規格。"
+    },
+    {
+      "chapter": "兵教上",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把板鼓、瓦金、竿旗各自對應進退趨坐與左右動作，是伍長操演號令表。"
+    },
+    {
+      "chapter": "兵教上",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "由伍長逐級合訓至大將，並規定三百步設表及百步各段操演，是可執行的訓練流程。"
+    },
+    {
+      "chapter": "兵教上",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "規定尉吏以下皆有旗，戰勝取旗後按所獲爵級給賞，是軍功賞格。"
+    },
+    {
+      "chapter": "兵教上",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "把戰勝依次繫於立威、戮力、正罰與明賞，只是在概括軍事制勝鏈條。"
+    },
+    {
+      "chapter": "兵教上",
+      "para_index": 9,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "主張分明舉功別德並施以教令可使人民決死不疑、服從如四肢應心，解釋權威如何形成群體服從。"
+    },
+    {
+      "chapter": "兵教上",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "說明前軍整隊破陣及兵教開疆守國的軍事用途，未提出戰法以外的人的主張。"
+    },
+    {
+      "chapter": "兵教下",
+      "para_index": 1,
+      "domains": ["VIII", "IV"],
+      "modes": ["formalization", "proposition"],
+      "reason": "以五致綱目要求將領任事時忘家、越境忘親、臨敵忘身，兼論職責承擔及為此割捨的家庭關係。"
+    },
+    {
+      "chapter": "兵教下",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "以問答列出賞罰尺度、禁私語及請改賞罰者死等軍法條款，主導內容是用人管制規格。"
+    },
+    {
+      "chapter": "兵教下",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "要求出兵前核查內外權勢、兵備糧食與道路，純屬興師前的後勤檢核。"
+    },
+    {
+      "chapter": "兵教下",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "依土地、城邑與人口的大小疏密決定收地、攻城、斷隘或築堙，是攻城算法。"
+    },
+    {
+      "chapter": "兵令上",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "把兵與爭定為凶器逆德及末事，並以伐暴亂、定仁義區分用兵目的，明確評議戰爭的社會正當性與善惡。"
+    },
+    {
+      "chapter": "兵令上",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "用棟植、表裏、內外三組對應說明武文在攻守與判斷利害中的軍事功能。"
+    },
+    {
+      "chapter": "兵令上",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "以士卒畏將或畏敵及將敵權衡預測勝敗，只是辨識戰果的軍事心理指標。"
+    },
+    {
+      "chapter": "兵令上",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "規定正兵先交鋒再加扼制，是單一禦敵戰術。"
+    },
+    {
+      "chapter": "兵令下",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "主張賞罰如日月四時般可信且號令嚴厲時士卒便會效死，解釋制度威信如何支配群體行為，而非討論死亡本身。"
+    }
+  ]
+}

@@ -1,17 +1,17 @@
 # IV 家庭與傳承
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 329 段命中｜跨 15 部｜生成時間 2026-08-09T23:23:58+00:00
+> 331 段命中｜跨 16 部｜生成時間 2026-08-10T00:24:17+00:00
 
 婚姻與家庭、原生家庭的傷、為人父母、記憶與和解、留下什麼給後代
 
-姿態分佈：`narrative` 154、`proposition` 127、`observation` 103、`prescription` 57、`expression` 36、`ritual` 20、`formalization` 8
+姿態分佈：`narrative` 155、`proposition` 129、`observation` 103、`prescription` 57、`expression` 36、`ritual` 20、`formalization` 9
 
 ## 已通讀但本領域零命中
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`fangyan`（方言）　`haidao-suanjing`（海島算經）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）
+`fangyan`（方言）　`haidao-suanjing`（海島算經）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`san-lue`（三略）　`sima-fa`（司馬法）　`wuzi`（吳子）
 
 ## 世說新語（人論）　96 段
 
@@ -380,6 +380,13 @@
 |---|---|---|---|---|
 | 地形第十 | 4 | `proposition` `prescription` | 視卒如嬰兒，故可以與之赴深溪；視卒如愛子，故可與之俱死。厚而不能使，愛而不能令， | ＋V 以親子關係比擬將卒關係（視卒如嬰兒、如愛子），並指出溺愛之失（厚而不能使，愛而不能令，譬若驕子） |
 | 答話 | 2 | `narrative` `prescription` | 吳王問孫武曰：「散地士卒顧家，不可與戰，則必固守不出。若敵攻我小城，掠吾田野，禁 | ＋VI 「散地士卒顧家」「安土懷生」：本土作戰時家庭牽掛被視為戰力弱點 |
+
+## 尉繚子（兵家）　2 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| 武議 | 5 | `narrative` `proposition` | 吳起與秦戰，舍不平隴畝[14]，樸樕蓋之[15]，以蔽霜露。如此何也？不自高人故 | ＋VIII 以吳起與秦戰的言行說明將領職責不在一劍之任，並明列受命、宿野、臨戰時忘家忘親忘身的職責代價。 |
+| 兵教下 | 1 | `formalization` `proposition` | 兵有五致：為將忘家，踰垠忘親，指敵忘身，必死則生，急勝為下。 | ＋VIII 以五致綱目要求將領任事時忘家、越境忘親、臨敵忘身，兼論職責承擔及為此割捨的家庭關係。 |
 
 ## 洞冥記（志怪）　1 段
 

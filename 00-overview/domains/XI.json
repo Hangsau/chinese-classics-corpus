@@ -2,9 +2,9 @@
   "domain": "XI",
   "name_zh": "自由·命運·改變",
   "gist": "自由意志與命運、選擇與代價、改變與重來",
-  "generated_at": "2026-08-09T23:23:58+00:00",
-  "para_count": 151,
-  "book_count": 9,
+  "generated_at": "2026-08-10T00:24:17+00:00",
+  "para_count": 158,
+  "book_count": 12,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -16,7 +16,8 @@
     "nanjing",
     "shanghanlun",
     "shenyijing",
-    "shuowen-jiezi"
+    "shuowen-jiezi",
+    "wuzi"
   ],
   "paras": [
     {
@@ -428,6 +429,32 @@
         "II",
         "VII"
       ]
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "上略",
+      "para_index": 4,
+      "para_id": "san-lue#01-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故曰：「莫不貪強，鮮能守微；若能守微，乃保其生。聖人存之，以應事機。舒之彌四海，",
+      "note": "指出人多貪強而少能守微，並以聖人能守微、伸卷應機說明克制貪強及順勢改變的可能",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "san-lue",
+      "chapter": "上略",
+      "para_index": 5,
+      "para_id": "san-lue#01-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《軍讖》曰：「能柔能剛，其國彌光；能弱能強，其國彌彰。純柔純弱，其國必削；純剛純",
+      "note": "以能在柔剛弱強之間調節則國彰、偏守一端則國削亡，主張因勢改變而非固著一端",
+      "co_domains": []
     },
     {
       "slug": "shiming",
@@ -1530,6 +1557,31 @@
       "co_domains": []
     },
     {
+      "slug": "sima-fa",
+      "chapter": "天子之義",
+      "para_index": 4,
+      "para_id": "sima-fa#02-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "既致教其民，然後謹選而使之。事極修則百官給矣。教極省則民興良矣。習貫成則民體俗矣",
+      "note": "「習貫成則民體俗」主張教導與習慣能使民眾趨良並形成風俗，直接談人如何被教化改變",
+      "co_domains": []
+    },
+    {
+      "slug": "sima-fa",
+      "chapter": "嚴位",
+      "para_index": 16,
+      "para_id": "sima-fa#04-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡戰：非陳之難，使人可陳難；非使可陳難，使人可用難；非知之難，行之難。人方有性，",
+      "note": "明言人的性情因地域而異，教化能形成並改變風俗，直接討論人的差異及可改變性",
+      "co_domains": []
+    },
+    {
       "slug": "sunzi-bingfa",
       "chapter": "始計第一",
       "para_index": 1,
@@ -1706,6 +1758,48 @@
       "co_domains": [
         "VI",
         "X"
+      ]
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "天官",
+      "para_index": 1,
+      "para_id": "weiliaozi#01-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "昔梁惠王問尉繚曰：「吾聞黃帝有刑德，可以百戰百勝，其有之乎？」尉繚曰：「不然。黃",
+      "note": "以梁惠王問答否定天官時日陰陽之說，並把黃帝的刑伐德守重新歸為人事，兼及人為選擇與治理。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "天官",
+      "para_index": 2,
+      "para_id": "weiliaozi#01-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今有城於此，從其東西攻之，不能取；從其南北攻之，不能取。此四者，豈不得順時乘利者",
+      "note": "以城高池深、戰備與謀守解釋四面皆不可取，明言時日不如人的籌備與作為。",
+      "co_domains": []
+    },
+    {
+      "slug": "weiliaozi",
+      "chapter": "戰威",
+      "para_index": 6,
+      "para_id": "weiliaozi#04-p06",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "王國富民，霸國富士，僅存之國富大夫，亡國富倉府，是謂上溢而下漏，故患無所救。故曰",
+      "note": "以財富流向區分國家盛衰並主張舉賢、明法、養勞，最後否定時日卜筮禱祠而把成敗歸於人事。",
+      "co_domains": [
+        "V"
       ]
     },
     {

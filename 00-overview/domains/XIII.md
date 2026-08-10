@@ -1,17 +1,17 @@
 # XIII 安頓·修復·平安
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 60 段命中｜跨 8 部｜生成時間 2026-08-09T23:23:58+00:00
+> 61 段命中｜跨 9 部｜生成時間 2026-08-10T00:24:17+00:00
 
 靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈
 
-姿態分佈：`narrative` 35、`expression` 24、`proposition` 23、`prescription` 10、`observation` 9、`ritual` 6、`formalization` 1
+姿態分佈：`narrative` 35、`proposition` 24、`expression` 24、`prescription` 10、`observation` 9、`ritual` 6、`formalization` 1
 
 ## 已通讀但本領域零命中
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`qianfulun`（潛夫論）　`shanghanlun`（傷寒論）　`shenyijing`（神異經）　`shuowen-jiezi`（說文解字）　`sunzi-bingfa`（孫子兵法）
+`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`qianfulun`（潛夫論）　`shanghanlun`（傷寒論）　`shenyijing`（神異經）　`shuowen-jiezi`（說文解字）　`sima-fa`（司馬法）　`sunzi-bingfa`（孫子兵法）　`weiliaozi`（尉繚子）　`wuzi`（吳子）
 
 ## 世說新語（人論）　25 段
 
@@ -112,3 +112,9 @@
 | 篇 | 段 | 姿態 | 摘句 | 判讀 |
 |---|---|---|---|---|
 | 卷二 | 112 | `proposition` | 木實曰果，草實曰蓏。言園圃種米，及殖果蓏，貧者食之，以免飢饉，故云助米糧也。〈補 | ＋IX 明說貧者種植並食用園菜果蓏可以補充米糧、免於飢饉，提出對抗飢餓的具體因應 |
+
+## 三略（兵家）　1 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| 下略 | 2 | `proposition` | 賢人之政，降人以體；聖人之政，降人以心。體降可以圖始，心降可以保終。降體以禮，降 | ＋V 把樂重新界定為人安樂於家、族、業、都邑、政令與道德，並以有德之君樂人或無德之君樂身判斷政權久亡，兼論生活安頓與公共領導 |
