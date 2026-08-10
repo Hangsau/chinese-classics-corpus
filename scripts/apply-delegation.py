@@ -21,17 +21,38 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--slug", required=True)
     ap.add_argument("--tagged-by", required=True, help="實際下判斷的模型")
+    ap.add_argument("--tagged-by-batch", action="append", default=[],
+                    metavar="bNN=model",
+                    help="某幾批換人判時逐批覆寫，可重複。一部書中途換判讀者要據實記錄，"
+                         "否則日後重判時無從判斷該信任哪些既有標記")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
+
+    overrides = {}
+    for item in args.tagged_by_batch:
+        b, _, model = item.partition("=")
+        if not model:
+            print(f"[FAIL] --tagged-by-batch 格式應為 bNN=model，收到 {item!r}")
+            return 1
+        overrides[b] = model
 
     base = ROOT / "delegation" / args.slug
     manifest = json.loads((base / "MANIFEST.json").read_text(encoding="utf-8"))
 
     verdicts: dict[tuple[str, int], dict] = {}
+    tagger: dict[tuple[str, int], str] = {}
     for batch in manifest["batches"]:
-        out = base / "out" / batch["file"].replace(".md", ".json")
+        stem = batch["file"].replace(".md", "")
+        out = base / "out" / f"{stem}.json"
         for row in json.loads(out.read_text(encoding="utf-8"))["rows"]:
-            verdicts[(row["chapter"], row["para_index"])] = row
+            key = (row["chapter"], row["para_index"])
+            verdicts[key] = row
+            tagger[key] = overrides.get(stem, args.tagged_by)
+
+    unknown = set(overrides) - {b["file"].replace(".md", "") for b in manifest["batches"]}
+    if unknown:
+        print(f"[FAIL] --tagged-by-batch 指定了不存在的批次：{sorted(unknown)}")
+        return 1
 
     ann_path = ROOT / "translations" / args.slug / "annotations.json"
     ann = json.loads(ann_path.read_text(encoding="utf-8"))
@@ -52,7 +73,7 @@ def main() -> int:
         r["psych_domains"] = v["domains"]
         r["discourse_mode"] = v["modes"]
         r["note"] = v.get("reason") or None
-        r["tagged_by"] = args.tagged_by
+        r["tagged_by"] = tagger[(r["anchor"]["chapter"], r["anchor"]["para_index"])]
         r["tagged_at"] = now
 
     if args.dry_run:
