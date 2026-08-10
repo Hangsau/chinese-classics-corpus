@@ -1,0 +1,145 @@
+{
+  "batch": "b20.md",
+  "rows": [
+    {
+      "chapter": "第73篇國蓄",
+      "para_index": 1,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "「夫民者信親而死利」與「民予則喜，奪則怒，民情皆然」把親信逐利及受予奪時的喜怒明言為普遍民情，並作為君主施政的依據"
+    },
+    {
+      "chapter": "第73篇國蓄",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "以利出一至四孔推演國勢，再把予奪貧富集中於君以使民親上，是經濟控制的政策鏈，未另說人為何如此"
+    },
+    {
+      "chapter": "第73篇國蓄",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「彊者能守」「智者能收」及富者不可祿使、貧者不可罰威，明說才能與貧富差異如何造成成就和治理關係的差別"
+    },
+    {
+      "chapter": "第73篇國蓄",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "以田糧與錢幣總量推算供用，再以積藏并利解釋不足，核心是散積聚、鈞羨不足的調配程序，民下相役只是政策鏈後果"
+    },
+    {
+      "chapter": "第73篇國蓄",
+      "para_index": 5,
+      "domains": ["V", "VI"],
+      "modes": ["formalization", "proposition"],
+      "reason": "「民有餘則輕之，民不足則重之」直接斷言民眾隨有餘或不足而改變重視程度，並把這種心理作為收散財物的依據"
+    },
+    {
+      "chapter": "第73篇國蓄",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "按萬室、千室設定穀幣儲量並安排春夏貸斂，是平準與季節供給程序，大賈不得豪奪及民無廢事只是預期政策效果"
+    },
+    {
+      "chapter": "第73篇國蓄",
+      "para_index": 7,
+      "domains": ["V", "VI"],
+      "modes": ["formalization", "proposition"],
+      "reason": "「以正人籍，謂之離情」直說按人徵籍會離散民情與上下關係，這一句在其餘穀價、口糧和徵籍算法之外另有人的樣態"
+    },
+    {
+      "chapter": "第73篇國蓄",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "前半以多寡聚散調節物價，後半分類抵國、距國、衢國並計算兵賞與國用，都是經濟及國勢程序，未提出獨立的人性依據"
+    },
+    {
+      "chapter": "第73篇國蓄",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "說明三幣因運輸難度而設，並按徵求期限計算物價跌幅，是貨幣與號令的調控算法，未斷言人的樣態"
+    },
+    {
+      "chapter": "第74篇山國軌",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "formalization"],
+      "reason": "桓公與管子問答逐項盤點田、人事、穀幣、女功及四類土地，是建立國軌的統計程序，未另說人是什麼樣的"
+    },
+    {
+      "chapter": "第74篇山國軌",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "formalization"],
+      "reason": "問答以各鄉人口、田食、織帛和公幣為參數，逐步推演穀幣進退與國家收斂萬物，是完整的平準算法"
+    },
+    {
+      "chapter": "第74篇山國軌",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["narrative", "formalization"],
+      "reason": "「此民之所以相并兼之時也」明說四時物用高下會形成民眾彼此兼并的關係，並以此作為君守四務的依據"
+    },
+    {
+      "chapter": "第74篇山國軌",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative", "formalization"],
+      "reason": "桓公與管子問答以鹽鐵、金幣、三類土地及牛馬換粟設計軌官財源，是可執行的財政徵調程序"
+    },
+    {
+      "chapter": "第74篇山國軌",
+      "para_index": 5,
+      "domains": ["IV", "V"],
+      "modes": ["narrative", "formalization"],
+      "reason": "「巨家重葬其親」「小家菲葬其親」直接按貧富區分人對親屬喪葬的作法，明說階層處境與家庭傳承實踐的關聯"
+    },
+    {
+      "chapter": "第75篇山權數",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "formalization"],
+      "reason": "湯禹贖回災民及按年藏糧，是以儲備對待旱水的政策算法，賣子、乞請與農夫力作皆為鏈中後果而非獨立的人性依據"
+    },
+    {
+      "chapter": "第75篇山權數",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "formalization"],
+      "reason": "問答以幣穀輕重、豐阨藏分及一化十的筴數安排三權，民之貧富與下相求隸都是調控鏈中的結果"
+    },
+    {
+      "chapter": "第75篇山權數",
+      "para_index": 3,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative", "formalization"],
+      "reason": "「君不高慈孝，則民簡其親而輕過」直接斷言領袖不尊崇仁慈孝道會使民眾輕忽親屬與過失，涉及家庭關係和品格"
+    },
+    {
+      "chapter": "第75篇山權數",
+      "para_index": 4,
+      "domains": ["VIII"],
+      "modes": ["narrative", "formalization"],
+      "reason": "逐類列出能農事、蕃畜、樹藝、治病、知時與蠶桑者的專長及待遇，明確討論人的技能、工作與才能任用"
+    },
+    {
+      "chapter": "第75篇山權數",
+      "para_index": 5,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "formalization"],
+      "reason": "「智者，民之輔也」與「量人力而舉功」明說有智者的社會作用及人的能力應與所舉之功相稱"
+    },
+    {
+      "chapter": "第75篇山權數",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["narrative", "formalization"],
+      "reason": "北郭得龜、丁氏輸粟的故事用來示範製造寶值、借糧與貢制流通，龜祭也是財政工具，未談人與神聖者的關係"
+    }
+  ]
+}
