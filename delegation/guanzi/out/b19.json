@@ -1,0 +1,320 @@
+{
+  "batch": "b19.md",
+  "rows": [
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「貴臣不得蔽賤，近者不得塞遠，孤寡老弱不失其所職」以明主的辨察約束權勢者，明說領導與群體公正的關係"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「人主孤特而獨立，人臣羣黨而成朋」直說私術盛行時君臣權力失衡及臣下結黨的群體樣態"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 3,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "「非愛主也，以畏主之威勢也」明言臣民服從源於畏懼而非愛戴，並以此說明上下權力關係"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 4,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "「非以愛主也，且以就利而避害也」把官民奉命的動機明說為趨利、避害與畏罰，並置於統治關係中"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "本段分類界定主道、臣道並推論上下無分則亂，只在規定君臣名分與職掌，未另說人的樣態"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 6,
+      "domains": ["VI", "X"],
+      "modes": ["proposition"],
+      "reason": "「畏恐而謹事主者，以欲生而惡死也」直接以畏懼及好生惡死解釋臣下服從的內在動機"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "本段只推演君令不行、權勢被奪至國亡的制度失效鏈，沒有提出人為何如此的人性依據"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "本段規定上下通達、功罪可見與賞罰不差的行政資訊程序，未在程序之外斷言人的樣態"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 9,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「人臣之所以乘而爲姦者，擅主也」直說奸臣藉權蔽塞消息、使君主迷惑的權力操弄與欺罔品行"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 10,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "本段以兼聽使下得明上來防欺，並對舉邪枉專國、忠臣不得進，明說權力開放與忠邪品行的關係"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "本段僅以法令賞罰是否得當推演治亂、壅塞與劫殺的政策因果鏈，未說明人的內在樣態"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 12,
+      "domains": ["VI", "VII"],
+      "modes": ["proposition"],
+      "reason": "「心之所愛而無功者不賞，心之所憎而無罪者弗罰」明說領導者須克制愛憎並保持無私公正"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 13,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「使民偷幸而望於上」「使民輕上而易爲非」直說私惠養成僥倖、輕慢與為非的政治心理和品行"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 14,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "「貧者非不欲奪富者財」「强者非不能暴弱也」明說欲奪與恃強的衝動，以及因畏法而自制的權力心理"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 15,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "「威勢獨在於主則羣臣畏敬」把臣民的畏敬、服從明確繫於威勢所在，論及情緒與上下權力"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 16,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "「民就死而不怨」「民受賞而無德」明說依法賞罰會改變民眾的怨懟與感德，並以公平權力為依據"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 17,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「民以法與吏相距」明說百姓可憑法抗拒無據之令，並使詐偽、嫉妒、讒諛者不能施其奸心"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 18,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "「非心惡利也」「人知事權衡之無益，故不事也」直接把人的行動解釋為逐利與利害計算，並用於防止賄吏"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 19,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "本段以尺寸尋丈作公平測量標準，說富貴貧賤皆不能改變長短，仍只是標準化操作而未斷言人的樣態"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 20,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「羣臣以虛譽進其黨」「務多其佼，而不爲主用」明說臣下以虛名、黨援和交結牟取官位的群體與品行問題"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 21,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「功多而無賞，則臣不務盡力」「行正而有罰，則賢聖無從竭能」明說不公賞罰如何破壞工作動機與才能發揮"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 22,
+      "domains": ["VI", "VII"],
+      "modes": ["proposition"],
+      "reason": "「喜賞惡罰之人」為求譽、避刑、受祿而傷害無私之吏，明說好賞惡罰的動機及離公行私的品行"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 23,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "本段直說奸臣以結黨、買譽、譽黨毀人逐步迷惑君主，使群臣忘主趨私的權力操弄與不忠品行"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 24,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「羣臣易欺之」「百姓輕爲非」及奸人廣置耳目，明說失去法術制衡時欺蔽、為非與朋黨支配的樣態"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 25,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "本段分辨忠臣日夜佐主與奸臣因私利仇害方正者，明說政治關係中的忠邪品格和排擠機制"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 26,
+      "domains": ["VI", "VII"],
+      "modes": ["proposition"],
+      "reason": "「人主莫不欲」「人主莫不惡」列明君主對富強安定與蔽欺亡國的共同欲惡，並指出臣下重私輕公"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 27,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「羣臣皆務其黨重臣而忘其主」直說私賞私罰使臣下依附權門、結黨忘公的權力關係與品行"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 28,
+      "domains": ["VII", "VIII"],
+      "modes": ["proposition"],
+      "reason": "本段對舉任職得當則群臣竭能盡力，任職失序則官員只圖權利、掠民富家的工作動機與公私品行"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 29,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "勇力與聖智之士被大臣私有而不能奉主治國，明說權力私占如何阻斷人才投入與能力發揮"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 30,
+      "domains": ["IV", "V"],
+      "modes": ["proposition"],
+      "reason": "「羣臣得務益其家」「家與家務相益」明說君臣分位不清時官員轉而經營家門、相互抬舉的公私衝突"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 31,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「養所與佼，而不以官爲務」直說官吏以俸祿豢養私交而怠忽職責，造成公共任用與工作失能"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 32,
+      "domains": ["VIII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "以軍功試勇、以官治試智，主張從實際成效辨別勇怯愚智，直接論及才能的辨識與任用"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 33,
+      "domains": ["V", "VIII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "本段分軍士、吏、臣界定何謂功，將保民免患、抑強暴寡及匡救君過列為各職分的成就與責任"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 34,
+      "domains": ["V", "VIII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "按言行實績賞黜使能者不受嫉蔽、不肖者不能蒙飾，明說公平評核與人才升退、成效之間的關係"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 35,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "「立民所欲」「立民所惡」明說民眾的欲惡是賞罰激勵的依據，並以功罪防止譽進誹退的不公權力"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 36,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "本段逐項劃分君臣的生殺、威勢、服從等名分並推論分明則易治，沒有在名分制度外另說人的樣態"
+    },
+    {
+      "chapter": "第67篇明法解",
+      "para_index": 37,
+      "domains": ["VIII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "使智者效計、能者進功，再以前言核驗後事並賞罰，直接論及才智能力的施展與工作成效考核"
+    },
+    {
+      "chapter": "第68篇巨乘馬",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "formalization"],
+      "reason": "桓公與管子的問答以二十五日農時、徭役人數和穀稅比例推演農地荒廢至盜暴的政策鏈，未另立人的樣態為依據"
+    },
+    {
+      "chapter": "第68篇巨乘馬",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "formalization"],
+      "reason": "本段在問答中計算農時、穀價、幣穀折算與器械供給，「士輕祿，民簡賞」只是政策鏈中的反應而非人性主張"
+    },
+    {
+      "chapter": "第69篇乘馬數",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "formalization"],
+      "reason": "本段以歲藏加數、災年工程、物價輕重及耕食比例構成筴乘馬政策鏈，民賣子、乞請與不從皆是鏈中後果而非獨立的人性依據"
+    },
+    {
+      "chapter": "第69篇乘馬數",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "formalization"],
+      "reason": "問答內容是財物定價、土壤分級、穀價調節與補足下壤的經濟程序，「下樂上」僅為政策結果，未直說人的樣態"
+    },
+    {
+      "chapter": "第71篇事語",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "formalization"],
+      "reason": "本段藉問答比較土地尺度、禮制消費、男女生產與積蓄勸下的國用方案，只列政策條件而未提出人的內在依據"
+    },
+    {
+      "chapter": "第71篇事語",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "formalization"],
+      "reason": "本段用歲藏公式與「十勝」條列表達富國制勝條件，勇智義等只作成功要件，未展開為關於人的主張"
+    },
+    {
+      "chapter": "第72篇海王",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "formalization"],
+      "reason": "桓公與管子的問答逐級計算各戶食鹽、加價與國家收入，民眾「囂號」只是徵籍政策反應，未說人為何如此"
+    },
+    {
+      "chapter": "第72篇海王",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "formalization"],
+      "reason": "本段按針刀農具的必需量設計鐵籍並說明跨國官鹽定價，純屬可計算的財政策略，沒有人的樣態主張"
+    }
+  ]
+}
