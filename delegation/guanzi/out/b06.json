@@ -1,0 +1,124 @@
+{
+  "batch": "b06.md",
+  "rows": [
+    {
+      "chapter": "第17篇兵法",
+      "para_index": 1,
+      "domains": ["V", "VI"],
+      "modes": ["proposition", "formalization"],
+      "reason": "「官無常則下怨上，賞罰不明則民輕其產」把制度失當引發下怨與輕產明說為用兵依據，直接論及政治關係和情緒反應"
+    },
+    {
+      "chapter": "第17篇兵法",
+      "para_index": 2,
+      "domains": ["VII", "XI"],
+      "modes": ["formalization", "proposition"],
+      "reason": "三官、五教、九章雖是軍令綱目，但「五教各習，而士負以勇矣」明言訓練能使士卒養成勇的品格"
+    },
+    {
+      "chapter": "第17篇兵法",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「畜之以道則民和，養之以德則民合」直說以道德涵養人民會形成和合、同心的群體狀態"
+    },
+    {
+      "chapter": "第17篇兵法",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "「數勝則君驕」指出勝利使君主驕縱，「士自脩則同心同力」又明言士卒修身與群體齊心的關係"
+    },
+    {
+      "chapter": "第18篇匡君大匡",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "召忽以「奉所立而不濟」為義，管仲則只為社稷宗廟之滅而死，對照了臣子的忠義品格與公共責任"
+    },
+    {
+      "chapter": "第18篇匡君大匡",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「事君者無二心」及竪曼所論死忠、長慮與諛行，明確評判臣子在君臣關係中的忠誠、智慧和品行"
+    },
+    {
+      "chapter": "第18篇匡君大匡",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "本段只記公子出奔、乾時交戰、桓公即位與公子糺被殺的史事，未提出對人的樣態或生活方式的看法"
+    },
+    {
+      "chapter": "第18篇匡君大匡",
+      "para_index": 4,
+      "domains": ["I", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "召忽以「死者成行，生者成名」區分死臣與生臣，並由君子評管仲之生、召忽之死，直論生命抉擇與忠義品格"
+    },
+    {
+      "chapter": "第18篇匡君大匡",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「智人不得作內事，朋友不能相合摎，而國乃可圖」明說賢智者的作用、朋友協作與國家安危相連，鮑叔之誓亦呈現忠勇品格"
+    },
+    {
+      "chapter": "第18篇匡君大匡",
+      "para_index": 6,
+      "domains": ["VII", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "管仲說自己不死是為定社稷，若不能完成此事便不敢受齊國之祿，明示任官的使命與不苟受祿的操守"
+    },
+    {
+      "chapter": "第18篇匡君大匡",
+      "para_index": 7,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「外犯諸侯，民多怨」及義士不入、不仕與貪民爭祿，直接描述失政造成的群體離心和人的義貪之別"
+    },
+    {
+      "chapter": "第18篇匡君大匡",
+      "para_index": 8,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「不勤於兵，不忌於辱，不輔其過」與其反面被列為社稷安危之因，明言領袖節制、受辱心態及對過錯的態度"
+    },
+    {
+      "chapter": "第18篇匡君大匡",
+      "para_index": 9,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「君不競於德，而競於兵」批評領袖捨德逐兵，並說示弱會使諸侯生貪，直論領導品格與國際權力關係"
+    },
+    {
+      "chapter": "第18篇匡君大匡",
+      "para_index": 10,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「貪於土」被推演為勤兵、病民、多詐、不信而內亂，明確主張領袖貪欲和人民失信如何破壞政治共同體"
+    },
+    {
+      "chapter": "第18篇匡君大匡",
+      "para_index": 11,
+      "domains": ["VII", "VIII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "本段逐一評隰朋、賓胥無、開方、季友與蒙孫的聰慧、持久、恭敬及信義，並依其品格才具安排職任"
+    },
+    {
+      "chapter": "第18篇匡君大匡",
+      "para_index": 12,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "「毋專立妾以爲妻」「毋專棄妻」及孝、愛弟、敬老的賞罰規定，把婚家關係與孝悌品格列為明確行為準則"
+    },
+    {
+      "chapter": "第18篇匡君大匡",
+      "para_index": 13,
+      "domains": ["VII", "VIII"],
+      "modes": ["formalization", "prescription"],
+      "reason": "本段按從政能力、處世不華、敬老守禮、務農用力與承事恭敬分級薦舉，將職業才幹和品格化為賞罰程序"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {
+      "chapter": "七法",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "以「則、象、法、化、決塞、心術、計數」分類並列治民與用兵的制度工具，未另行斷言人的樣態"
+    },
+    {
+      "chapter": "七法",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "以「論功計勞未嘗失法律」及不因親貴增功、卑賤忘勞，斷言公正賞罰會使有罪者不怨、愛賞者不貪，並使士卒輕死安難"
+    },
+    {
+      "chapter": "七法",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "以聚財、論工、制器、選士等八項條件編排用兵制勝程序，「理義」僅作成功制勝條件，未說人本身如何"
+    },
+    {
+      "chapter": "七法",
+      "para_index": 4,
+      "domains": ["V", "VI"],
+      "modes": ["formalization", "proposition"],
+      "reason": "「官無常，下怨上」與「賞罰不明，則民幸生」直說制度失序會造成怨懟與僥倖心，並影響勇士是否受勸"
+    },
+    {
+      "chapter": "七法/七法",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "以「則、象、法、化、決塞、心術、計數」分類定義管治制度，未另行斷言人的樣態"
+    },
+    {
+      "chapter": "七法/四傷百匿",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "不因親貴增功、也不忘卑賤者之勞的公平論功，會使有罪者不怨、愛賞者不貪並使士卒安難，明說公正領導與人的品行反應"
+    },
+    {
+      "chapter": "七法/爲兵之數",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "以聚財、論工、制器、選士等八項條件編排用兵制勝程序，「禮義」僅作制勝條件，未說人本身如何"
+    },
+    {
+      "chapter": "注釋本",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "版本附記，非正文——[1] 尹知章《管子注》，[2] 章炳麟《管子餘義》"
+    },
+    {
+      "chapter": "注釋本",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "版本附記，非正文——[1] 尹知章《管子注》，[2] 章炳麟《管子餘義》"
+    },
+    {
+      "chapter": "勢",
+      "para_index": 1,
+      "domains": ["VI", "XI"],
+      "modes": ["proposition"],
+      "reason": "「戰而懼水」「戰而懼險」指出恐懼導向敗亡，又以「靜與作」須隨時得度說明人應如何選擇行動或靜處"
+    },
+    {
+      "chapter": "勢",
+      "para_index": 2,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「正靜不爭，動作不貳」刻畫成事者的品性，並以「天時不作，勿爲客；人事不起，勿爲始」規定人的行動須因時而發"
+    },
+    {
+      "chapter": "勢",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「賢者誠信以仁之，慈惠以愛之」及「先德後刑」直接刻畫賢者的仁慈誠信與養民、不爭的領導品格"
+    },
+    {
+      "chapter": "第01篇牧民",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「倉廩實則知禮節，衣食足則知榮辱」斷言物質安定會形成禮節榮辱之知，並把君上守度與民眾品行及政令秩序相連"
+    },
+    {
+      "chapter": "第01篇牧民",
+      "para_index": 2,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以「禮不踰節，義不自進，廉不蔽惡，恥不從枉」界定禮義廉恥對人的行為邊界，並說明各自防止的邪失"
+    },
+    {
+      "chapter": "第01篇牧民",
+      "para_index": 3,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "「民惡憂勞，我佚樂之；民惡貧賤，我富貴之」直說民的好惡，並以順民四欲為政治親附的依據"
+    },
+    {
+      "chapter": "第01篇牧民",
+      "para_index": 4,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「使各爲其所長」「量民力」要求按人的長處與能力用事，又以不強其所惡、不欺其民說明領導如何取得親附"
+    },
+    {
+      "chapter": "第01篇牧民",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "君之好惡會被臣下仿效，而「知時」「無私」「察於用」才可為長為政，直接論領導者的品格及其社會影響"
+    },
+    {
+      "chapter": "第02篇形勢",
+      "para_index": 1,
+      "domains": ["V", "XI"],
+      "modes": ["proposition"],
+      "reason": "「貴有以行令，賤有以忘卑，壽夭貧富無徒歸」把權位與壽夭貧富都說成有所憑藉而非無故歸至人的處境"
+    },
+    {
+      "chapter": "第02篇形勢",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「上無事則民自試」及多士使民化說明領導方式如何引出人的自我展現，而羿、造父、奚仲之道又被說成不止於表面技藝"
+    },
+    {
+      "chapter": "第02篇形勢",
+      "para_index": 3,
+      "domains": ["VII", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以「訾讆之人，勿與任大」「小謹者不大立」等語，直接依人的品性判斷其可信度、任事能力與能否成就大事"
+    },
+    {
+      "chapter": "第02篇形勢",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「伐矜好專」被定為舉事之禍，且「君不君則臣不臣，父不父則子不子」明說品格失位會破壞上下與親屬關係"
+    },
+    {
+      "chapter": "第02篇形勢",
+      "para_index": 5,
+      "domains": ["I", "XI"],
+      "modes": ["proposition"],
+      "reason": "由生死、哀樂與「道之所設，身之化也」論人的存在轉化，又以「安危者與人」及得失天道說明人事選擇與安危"
+    },
+    {
+      "chapter": "第02篇形勢",
+      "para_index": 6,
+      "domains": ["VIII", "XI"],
+      "modes": ["proposition"],
+      "reason": "「巧者有餘，而拙者不足」直說能力差異的結果，「順天者有其功，逆天者懷其凶」則把成敗繫於人的取向"
+    },
+    {
+      "chapter": "第02篇形勢",
+      "para_index": 7,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「自媒之女，醜而不信」及顯施而不報等語直論信任與交往，末又以不可復之言、不可再之行規範君主的操守"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "batch": "b03.md",
+  "rows": [
+    {
+      "chapter": "第08篇幼官",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "「尊賢授德」「身仁行義、服忠用信」把統治者的用人與品德直接列為帝王之別，涉及領導關係與品格。"
+    },
+    {
+      "chapter": "第08篇幼官",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "「藏不忍，行歐養」要求存不忍、行養育，而「和好不基，貴賤無司」直陳群體關係失序，故同時論品格與社會秩序。"
+    },
+    {
+      "chapter": "第08篇幼官",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "「行篤厚」提出品格要求，並以「無比周之民」「遠近不乖」說明人群不結黨且關係和順的秩序。"
+    },
+    {
+      "chapter": "第08篇幼官",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["formalization", "prescription"],
+      "reason": "「藏恭敬」直指品格，「養老弱」「信利周而無私」則要求照顧群體並公平施利。"
+    },
+    {
+      "chapter": "第08篇幼官",
+      "para_index": 5,
+      "domains": ["V", "IX", "X"],
+      "modes": ["formalization", "ritual"],
+      "reason": "「養孤老、食常疾、收孤寡」分別說出公共照護責任、疾病困境與老年及喪偶失親，V、IX、X 任一拿掉都會漏掉一類人的處境。"
+    },
+    {
+      "chapter": "第08篇幼官",
+      "para_index": 6,
+      "domains": ["VIII", "XI"],
+      "modes": ["formalization", "proposition"],
+      "reason": "「慈者勇、愚者智、拙者巧」明說條件能使人的勇氣、智巧與能力發生轉變，涉及才能與可改變性。"
+    },
+    {
+      "chapter": "第08篇幼官",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "本段列旗兵、教習、障塞與守備失誤在若干日內造成的軍事後果，未把人的樣態本身說成依據。"
+    },
+    {
+      "chapter": "第08篇幼官",
+      "para_index": 8,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「數勝則君驕，驕君使疲民」直說君主驕矜傷及民眾，並以「無非義」界定大勝的品格與公義條件。"
+    },
+    {
+      "chapter": "第08篇幼官",
+      "para_index": 9,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「畜之以道，養之以德則民和、民合」把德性教養說成群體和合與共同習行的根據。"
+    },
+    {
+      "chapter": "第08篇幼官",
+      "para_index": 10,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「至善之爲兵，非地是求」及「立義」「實之以德」「民之所利立之，所害除之」明說領導責任與德義界限。"
+    },
+    {
+      "chapter": "第09篇幼官圖",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["formalization", "prescription"],
+      "reason": "「藏恭敬」直指品格，「養老弱」「信利害而無私」則要求照顧群體並無私權衡利害。"
+    },
+    {
+      "chapter": "第09篇幼官圖",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「畜之以道，養之以德則民和、民合」把德性教養說成群體和合與共同習行的根據。"
+    },
+    {
+      "chapter": "第09篇幼官圖",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "「行篤厚」提出品格要求，並以「無比周之民」「遠近不乖」說明人群不結黨且關係和順的秩序。"
+    },
+    {
+      "chapter": "第09篇幼官圖",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "「尊賢授德」「身仁行義、服忠用信」把統治者的用人與品德直接列為帝王之別，涉及領導關係與品格。"
+    },
+    {
+      "chapter": "第09篇幼官圖",
+      "para_index": 5,
+      "domains": ["V", "IX", "X"],
+      "modes": ["formalization", "ritual"],
+      "reason": "「養孤老、食常疾、收孤寡」分別說出公共照護責任、疾病困境與老年及喪偶失親，V、IX、X 任一拿掉都會漏掉一類人的處境。"
+    },
+    {
+      "chapter": "第09篇幼官圖",
+      "para_index": 6,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「數勝則君驕，驕君使疲民」直說君主驕矜傷及民眾，並以「無非義」界定大勝的品格與公義條件。"
+    },
+    {
+      "chapter": "第09篇幼官圖",
+      "para_index": 7,
+      "domains": ["VIII", "XI"],
+      "modes": ["formalization", "proposition"],
+      "reason": "「慈者勇、愚者智、拙者巧」明說條件能使人的勇氣、智巧與能力發生轉變，涉及才能與可改變性。"
+    },
+    {
+      "chapter": "第09篇幼官圖",
+      "para_index": 8,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「至善之爲兵，非地是求」及「立義」「實之以德」「民之所利立之，所害除之」明說領導責任與德義界限。"
+    },
+    {
+      "chapter": "第09篇幼官圖",
+      "para_index": 9,
+      "domains": ["V", "VII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "「藏不忍，行歐養」要求存不忍、行養育，而「和好不基，貴賤無司」直陳群體關係失序，故同時論品格與社會秩序。"
+    },
+    {
+      "chapter": "第09篇幼官圖",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "本段列旗兵、教習、障塞與守備失誤在若干日內造成的軍事後果，未把人的樣態本身說成依據。"
+    },
+    {
+      "chapter": "第10篇五輔",
+      "para_index": 1,
+      "domains": ["V", "VI", "VII"],
+      "modes": ["proposition"],
+      "reason": "「皆處欲安，動欲威」寫君主欲求，「上中正、下諂諛」對舉品格，「上下和同」論統治關係，V、VI、VII 分別承載不可省略的群體、內在與品格內容。"
+    },
+    {
+      "chapter": "第10篇五輔",
+      "para_index": 2,
+      "domains": ["V", "IX", "X"],
+      "modes": ["formalization", "proposition"],
+      "reason": "六興既含寬政賑窮的公共責任，也明列「問疾病、衣凍寒、食飢渴」之苦及「養長老、恤鰥寡、弔禍喪」之老失，V、IX、X 各有獨立內容。"
+    },
+    {
+      "chapter": "第10篇五輔",
+      "para_index": 3,
+      "domains": ["IV", "V", "VII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "七義以「孝悌慈惠」論親族、以「事君上」「和協輯睦」論群體關係、以忠信中正等論品格，IV、V、VII 各少不得。"
+    },
+    {
+      "chapter": "第10篇五輔",
+      "para_index": 4,
+      "domains": ["IV", "V", "VII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "八禮既規定君臣貴賤的群體秩序，又詳述父子兄弟夫妻的家庭責任，並以中正、忠信、慈惠、孝悌界定品格，IV、V、VII 各有明文。"
+    },
+    {
+      "chapter": "第10篇五輔",
+      "para_index": 5,
+      "domains": ["V", "VI", "VIII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "五務分配君臣士庶的社會職責，說士須修身成材、庶人務農，並直陳「心一、意專」才有可觀之功，V、VI、VIII 分別關乎角色、內心與工作成就。"
+    },
+    {
+      "chapter": "第10篇五輔",
+      "para_index": 6,
+      "domains": ["V", "XI"],
+      "modes": ["formalization", "proposition"],
+      "reason": "「水旱、飢饉、禍亂」皆由政所召，並說人知權、舉措得宜即可使民和功立，把群體治亂繫於人的選擇與改變。"
+    },
+    {
+      "chapter": "第10篇五輔",
+      "para_index": 7,
+      "domains": ["V", "VI", "VII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "本段以諂淫邪性論品格，又說聲色取悅耳目、耳目所好諂心而終至傷民，V、VI、VII 分別涵蓋權力傷害、內在欲好與善惡品格。"
+    },
+    {
+      "chapter": "第10篇五輔",
+      "para_index": 8,
+      "domains": ["V", "VI", "VIII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "本段以薄稅忠愛論治理責任，又以「悅在玩好、珍怪、文繡」揭示欲好，並對照工匠、農人與女工之勞巧及民生結果，V、VI、VIII 各有獨立主張。"
+    }
+  ]
+}

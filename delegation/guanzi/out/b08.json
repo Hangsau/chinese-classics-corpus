@@ -1,0 +1,68 @@
+{
+  "batch": "b08.md",
+  "rows": [
+    {
+      "chapter": "第20篇匡君小匡",
+      "para_index": 1,
+      "domains": ["VII", "VIII"],
+      "modes": ["narrative", "expression"],
+      "reason": "鮑叔以「寬惠愛民」「忠信」及治國、軍事才幹推舉管仲，又斷言其「事君無二心」，明寫賢臣的品格與才能"
+    },
+    {
+      "chapter": "第20篇匡君小匡",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "expression"],
+      "reason": "襄公沉湎遊樂而「卑聖侮士」，使妃嬪奢華而戎士凍飢，並以此說明失德失序足以危及國家"
+    },
+    {
+      "chapter": "第20篇匡君小匡",
+      "para_index": 3,
+      "domains": ["IV", "VIII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "四民分居後由父兄在日常職事中教其子弟，使之「少而習焉，其心安焉」，明論家庭傳習與職業能力的代際養成"
+    },
+    {
+      "chapter": "第20篇匡君小匡",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "以省刑薄斂、尚賢教民、行政無私與出言必信為愛民使民之道，明示領導者應有的公正與信實品格"
+    },
+    {
+      "chapter": "第20篇匡君小匡",
+      "para_index": 5,
+      "domains": ["V", "VI"],
+      "modes": ["formalization", "proposition"],
+      "reason": "同里之人自幼相處而「相保」「相愛」，在死喪禍福中相恤相憂，文本以共同情感與歸屬解釋戰時互助"
+    },
+    {
+      "chapter": "第20篇匡君小匡",
+      "para_index": 6,
+      "domains": ["VII", "VIII"],
+      "modes": ["formalization", "prescription"],
+      "reason": "選舉制度按孝悌仁德、勇力才能與任官功績辨人，並明說考核賞罰使「民皆勉爲善」而追求終身之功"
+    },
+    {
+      "chapter": "第20篇匡君小匡",
+      "para_index": 7,
+      "domains": ["V", "VII"],
+      "modes": ["formalization", "narrative"],
+      "reason": "管仲以「爲君不君，爲臣不臣，亂之本也」勸桓公守君臣之分，桓公遂克制自矜而下拜受命"
+    },
+    {
+      "chapter": "第20篇匡君小匡",
+      "para_index": 8,
+      "domains": ["V", "VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "文本直說諸侯「喜其愛而貪其利，信其仁而畏其武」，以愛、貪、信、畏解釋群體歸附與政治關係"
+    },
+    {
+      "chapter": "第20篇匡君小匡",
+      "para_index": 9,
+      "domains": ["VII", "VIII"],
+      "modes": ["narrative", "expression"],
+      "reason": "桓公自陳田獵、飲酒、好色之失，管仲辨君主最不可者為蔽塞不敏，並依五臣各自德行與專長安排職任"
+    }
+  ]
+}

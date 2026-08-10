@@ -1,0 +1,26 @@
+{
+  "batch": "b07.md",
+  "rows": [
+    {
+      "chapter": "第19篇中匡",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "對話明言須先愛境內、安卿大夫與舉賢良方可行事，並指出亡國者常因少有樂而不知陷於惡，涉及政治責任與德性失守"
+    },
+    {
+      "chapter": "第19篇中匡",
+      "para_index": 2,
+      "domains": ["VI", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "管仲以「沉於樂者洽於憂，厚於味者薄於行」說明耽樂與憂患、行止的關係，又以「壯者無怠，老者無偷」申明勤惰品格"
+    },
+    {
+      "chapter": "第19篇中匡",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以「民愛之，鄰國親之，天下信之」界定國君之信，並以長心長德、舉賢愛民等為由修身至治天下的品格與領導要求"
+    }
+  ]
+}

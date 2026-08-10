@@ -1,0 +1,124 @@
+{
+  "batch": "b11.md",
+  "rows": [
+    {
+      "chapter": "第31篇君臣下",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "由「强者凌弱，老幼孤獨不得其所」推到賢者禁强虐、正民德而受民師法，明說權力失序與品格教化如何形成社會秩序"
+    },
+    {
+      "chapter": "第31篇君臣下",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以德懷、以威畏及禁絕侵越，並指出下不戴上便使賢人不來、百姓不用，論領導權威、信任與守分之德"
+    },
+    {
+      "chapter": "第31篇君臣下",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "把君主徇私與臣下諂媚定為亂德，又主張選賢、禮孝弟可止姦偽並使有功者受勸，直論角色品格與群體秩序"
+    },
+    {
+      "chapter": "第31篇君臣下",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "列舉君臣失職、阿欲與不改過的罪責，並以君臣各守本分、盡智竭力及慎微自修為治，論責任倫理與政治關係"
+    },
+    {
+      "chapter": "第31篇君臣下",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "指出讒諂、朋黨與居中傳令者會壟斷資訊、兼制上下以營私，並勸君主遠佞止姦，直論權力操控與奸偽品性"
+    },
+    {
+      "chapter": "第31篇君臣下",
+      "para_index": 6,
+      "domains": ["V", "VII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "分列臣下搶奪賞實、刑威、以訛言脅君及壅令幽君四種操權行徑，並斷言任一發作而上下不知便足以危國"
+    },
+    {
+      "chapter": "第31篇君臣下",
+      "para_index": 7,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以仁智、武勇、守信、自省與求己少責人界定君臣品格，又明說齊民牽於衣食而易使，據此安排上下責任與社會秩序"
+    },
+    {
+      "chapter": "第31篇君臣下",
+      "para_index": 8,
+      "domains": ["IV", "V"],
+      "modes": ["formalization", "proposition"],
+      "reason": "以妾疑妻、庶疑適、臣疑相與任官無能分列家國四亂，並連到兄弟偏黨、群官懷私及國家危亡，論家內承繼與公共權力秩序"
+    },
+    {
+      "chapter": "第32篇小稱",
+      "para_index": 1,
+      "domains": ["II", "VII"],
+      "modes": ["proposition", "expression"],
+      "reason": "以第一人稱說自身善過皆逃不過民眾察看與毀譽，且怨氣會見於面、惡言會出於口，論人的品行如何形成自我名聲"
+    },
+    {
+      "chapter": "第32篇小稱",
+      "para_index": 2,
+      "domains": ["VI", "VII"],
+      "modes": ["proposition"],
+      "reason": "明王有過歸己便自懼、有善歸民則民喜，桀紂反其道則身驕民怒，直說自省或卸責造成的內在情緒與品格差異"
+    },
+    {
+      "chapter": "第32篇小稱",
+      "para_index": 3,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "主張修恭遜敬愛、去怨爭可得人，並說身行此道能使夷貉相愛、去此道甚至父母兄弟也會相惡，明言品格可改變人的情感與行為"
+    },
+    {
+      "chapter": "第32篇小稱",
+      "para_index": 4,
+      "domains": ["IV", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "管仲以人情本愛其子、其身及應念親為辨忠依據，桓公不終用賢終被四臣困死的故事，論親屬情感、識人信任與領導責任"
+    },
+    {
+      "chapter": "第32篇小稱",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "鮑叔牙勸桓公、管仲與甯戚勿忘流亡、受縛和飯牛的舊境，並以記取困厄維持君臣自警與社稷安定，凸顯領導者不忘本的品格"
+    },
+    {
+      "chapter": "第33篇四稱",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "管子在答問中刻畫有道之君敬故臣、任忠貞賢能而使上下修飾、百姓無憂、國家安寧，論君德與群體治理的關係"
+    },
+    {
+      "chapter": "第33篇四稱",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "以不用良臣、親近讒賊、沉溺遊戲、虐民濫刑等行止描畫無道之君，並說眾怨與內削終致滅亡，直論惡劣品格及權力責任"
+    },
+    {
+      "chapter": "第33篇四稱",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "答問所列有道之臣能舉賢、忠國、以義事君、臨難不悔並在君過時進諫，明確刻畫臣職中的忠廉勇德與上下責任"
+    },
+    {
+      "chapter": "第33篇四稱",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "答問以貪賄鬻貴、結黨攻賢、傲慢沉湎及君過而各保其身刻畫無道之臣，直論官場權力關係中的貪邪與失責品格"
+    }
+  ]
+}

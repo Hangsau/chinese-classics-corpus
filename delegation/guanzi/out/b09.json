@@ -1,0 +1,96 @@
+{
+  "batch": "b09.md",
+  "rows": [
+    {
+      "chapter": "第22篇霸形",
+      "para_index": 1,
+      "domains": ["V", "VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「人甚憂飢」「人甚懼死」「人甚傷勞」直說重稅、險刑與失時興事造成百姓的憂懼勞傷，並以百姓為霸王之本"
+    },
+    {
+      "chapter": "第22篇霸形",
+      "para_index": 2,
+      "domains": ["V", "VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "管仲把令不行而四面有兵革之憂時的享樂判為「哀，非樂」，又以諸侯「貪於利」解釋其政治反應"
+    },
+    {
+      "chapter": "第22篇霸形",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "楚王以重寶誘使桓公左右盡受賄賂，管仲辨明其「以文克齊，而以武取宋、鄭」的欺詐，並主張保全受攻諸國"
+    },
+    {
+      "chapter": "第23篇霸言",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "文本以能正曲弱彊、懲暴罪民區分王霸與暴王，又斷言君人有道、王者須獨明，直接界定領導權力與品格"
+    },
+    {
+      "chapter": "第23篇霸言",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "明定王者須卑禮賢者、以天下之財利天下之人，並賞功封賢、刑姦佞，將公正用權繫於德行"
+    },
+    {
+      "chapter": "第23篇霸言",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "以使國常無患、在危亡中使國延續及「一言而壽國」界定神聖、明聖與大聖，直說賢者的領導才能與成就"
+    },
+    {
+      "chapter": "第23篇霸言",
+      "para_index": 4,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「聖人畏微，而愚人畏明」對比智愚品格，又說聖人只能輔時而不能違時，要求備事守時而後行動"
+    },
+    {
+      "chapter": "第23篇霸言",
+      "para_index": 5,
+      "domains": ["V", "XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「堯、舜之人，非生而理；桀、紂之人，非生而亂」明說人的治亂並非天生，而由在上者與政教使之改變"
+    },
+    {
+      "chapter": "第23篇霸言",
+      "para_index": 6,
+      "domains": ["V", "XI"],
+      "modes": ["proposition", "formalization"],
+      "reason": "文本斷言先作難、違時易形者無不敗，並按國勢彊弱與先後時機列出行動準則，直說權力運用受時勢制約"
+    },
+    {
+      "chapter": "第24篇問",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "「爵授有德，則大臣興義」「審刑當罪，則人不易訟」等句明說公正任賞如何形成品格與上下和合"
+    },
+    {
+      "chapter": "第24篇問",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "逐項查問孤寡、田宅、貧債、耕作與戶口數量的行政清冊，只列調查項目，未斷言人的樣態或解釋其所以然"
+    },
+    {
+      "chapter": "第24篇問",
+      "para_index": 3,
+      "domains": ["VII", "VIII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "「處士修行，足以教人，可使帥衆」把修行繫於教導領眾的才能，又以不義之勝非福、慎謀保國明定行事品格"
+    },
+    {
+      "chapter": "第24篇問",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["formalization", "prescription"],
+      "reason": "「小利害信，小怒傷義」直說逐利與忿怒損害信義，並以君臣之禮、厚和四國規範政治關係"
+    }
+  ]
+}

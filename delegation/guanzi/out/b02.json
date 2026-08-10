@@ -1,0 +1,257 @@
+{
+  "batch": "b02.md",
+  "rows": [
+    {
+      "chapter": "第03篇權修",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「賞罰不信則民無取」直接把百姓的行動取向繫於賞罰是否可信，是權力制度塑造群體行為的斷言"
+    },
+    {
+      "chapter": "第03篇權修",
+      "para_index": 2,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "「賦斂厚則下怨上」「民力竭則令不行」明說苛斂與勞役會造成下民怨上及拒斥政令"
+    },
+    {
+      "chapter": "第03篇權修",
+      "para_index": 3,
+      "domains": ["VI", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「見其可也，喜之有徵；見其不可也，惡之有刑」並說百姓可經教導而「說爲善」，直論情緒動機與品格教化"
+    },
+    {
+      "chapter": "第03篇權修",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "文本以「民之用力有倦」對照君欲無窮，又明說祿食失度會使民離上、不力、多詐、偷幸，論及權力分配與品行變化"
+    },
+    {
+      "chapter": "第03篇權修",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「人情不二」以下以好惡、交游判長短賢否，並將身、家、鄉、國之治與廉恥節序相連，直論群體秩序和品格"
+    },
+    {
+      "chapter": "第03篇權修",
+      "para_index": 6,
+      "domains": ["VIII", "XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "段落先指出倚賴龜筮巫醫使功名不立，繼以「終身之計，莫如樹人」把成事根據轉回長期培養人才與人的作爲"
+    },
+    {
+      "chapter": "第03篇權修",
+      "para_index": 7,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「微邪者，大邪之所生」並要求由小禮、小義、小廉、小恥養成大節，明說品格可從細小習行培養"
+    },
+    {
+      "chapter": "第03篇權修",
+      "para_index": 8,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "爵服加於不義、祿賞加於無功會使民輕賤制度，刑罰失審又殺無辜赦有罪，直論公義、權威與人的行爲後果"
+    },
+    {
+      "chapter": "第04篇立政",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "以德、功、能是否配位祿官為治亂三本，並比較君子小人的怨禍及邪臣壅蔽，明說權位分配和品格的關係"
+    },
+    {
+      "chapter": "第04篇立政",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "「大德至仁」「見賢能讓」「罰不避親貴」被列為安危之本，直論領導者的德性、讓賢與公正用權"
+    },
+    {
+      "chapter": "第04篇立政",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "全段以五項山澤、水利、農桑、畜產與工藝條件判國之貧富，是資源治理綱目，未斷言人的樣態"
+    },
+    {
+      "chapter": "第04篇立政",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "全段規定鄉州里游什伍的編制、察報連坐、定期考核與布憲程序，孝悌賢良也僅是登報類目，未說人為何如此"
+    },
+    {
+      "chapter": "第04篇立政",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "只規定舉事前公布命令與賞罰、事後按令核計及專制之刑，屬執行程序，沒有人的樣態斷言"
+    },
+    {
+      "chapter": "第04篇立政",
+      "para_index": 6,
+      "domains": ["IV", "VIII"],
+      "modes": ["formalization", "prescription"],
+      "reason": "鄉師職責明定使百姓「力作毋偷，懷樂家室，重去鄉里」，直接提出勤作與安於家室的生活、品行期許"
+    },
+    {
+      "chapter": "第04篇立政",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "全段按爵祿規定飲食、衣服、宮室、車乘及喪葬用度，是身分等級的制度條文，未另說人的品性或內在狀態"
+    },
+    {
+      "chapter": "第04篇立政",
+      "para_index": 8,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "段落主張各種學說盛行會使士卒不戰、廉恥不立、賢不肖不分而巧佞得用，直論群體秩序與品格敗壞"
+    },
+    {
+      "chapter": "第04篇立政",
+      "para_index": 9,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "「一人服之，萬人從之」及君上好惡形於心而下民化、未罰先畏未賞先勸，明說群體從化和畏勸心理"
+    },
+    {
+      "chapter": "第05篇乘馬",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "只論國都應依山川高下、水旱與地利選址，屬城邑規劃原則，沒有關於人的斷言"
+    },
+    {
+      "chapter": "第05篇乘馬",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "以無爲、不自貴和居貴不過度分別界定帝王霸及君臣之道，直論領導關係中的自持品格"
+    },
+    {
+      "chapter": "第05篇乘馬",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "把地、朝、市、黃金與諸侯之地列為政、義、貨用及器制的五項框架，屬制度概念分類，未說人的樣態"
+    },
+    {
+      "chapter": "第05篇乘馬",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "只建立地是否平均調和與政事能否治理的因果鏈，沒有把人的品性、內在或關係當作依據"
+    },
+    {
+      "chapter": "第05篇乘馬",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "全段由陰陽時序、土地正度推到官事治理與貨物多寡，是自然和行政因果，未斷言人的樣態"
+    },
+    {
+      "chapter": "第05篇乘馬",
+      "para_index": 6,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "「爵位正而民不怨」並稱人皆貴則事不成、無貴者則民不能自理，直接主張名位秩序會左右怨亂與群體自理"
+    },
+    {
+      "chapter": "第05篇乘馬",
+      "para_index": 7,
+      "domains": ["VII", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「事者生於慮，成於務，失於傲」明說謀慮與勤勉使事業成立、驕傲使之失敗，涉及成事能力和品格"
+    },
+    {
+      "chapter": "第05篇乘馬",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "全段用黃金衡量財用，推演過儉傷事、過侈傷貨及量節失當的經濟後果，未另說人的樣態"
+    },
+    {
+      "chapter": "第05篇乘馬",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "只論車馬負重、道路遠近與諸侯土地大小的計量規則，「有道」僅指掌握器任之制，沒有人的斷言"
+    },
+    {
+      "chapter": "第05篇乘馬",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "全段以百、九、五等比率折算土地，再制定鄉邑、家伍、田夫、車甲編制，是純粹測算與制度表"
+    },
+    {
+      "chapter": "第05篇乘馬",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "全段逐項規定土地、金絹布穀、市賦、戶數及年度稽核的數量與週期，沒有關於人的樣態主張"
+    },
+    {
+      "chapter": "第05篇乘馬",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "只依見水深度列出旱澇情形與減征比例，是可計算的土地賦稅條文，未談人的品性或內在"
+    },
+    {
+      "chapter": "第05篇乘馬",
+      "para_index": 13,
+      "domains": ["VII", "VIII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "在役作分類外，文本明說智愚巧拙有別，且非誠賈工農與非信士不得居其業位，論及才幹、職業實踐與誠信"
+    },
+    {
+      "chapter": "第05篇乘馬",
+      "para_index": 14,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「不告之以時而民不知，不道之以事而民不爲」且分貨公平則民盡力，明說資訊和分配公正如何形成勞作動機"
+    },
+    {
+      "chapter": "第05篇乘馬",
+      "para_index": 15,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「聖人之所以爲聖人者，善分民也」並以能否託業於民區分聖人百姓，直接把領導身分繫於分工用人的能力"
+    },
+    {
+      "chapter": "第05篇乘馬",
+      "para_index": 16,
+      "domains": ["X", "XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「今日不爲，明日亡貨」催人當下行動，「昔之日已往而不來」則明說時間流逝不可追回"
+    },
+    {
+      "chapter": "第05篇乘馬",
+      "para_index": 17,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "只按上中下三等土地面積配置萬室之國與千室之都，是聚落規模的數量換算，未說人的樣態"
+    },
+    {
+      "chapter": "第07篇版法",
+      "para_index": 1,
+      "domains": ["V", "VI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「喜無以賞，怒無以殺」告誡不得以私情賞殺，並說任喜怒用權會使民怨、離心與眾忿，直論情緒和權力關係"
+    },
+    {
+      "chapter": "第07篇版法",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "段落以施報得當、除怨廢私、任賢同利為安眾之本，並說吝財苦民會使令辱不行，直論公私品格與君民利害"
+    }
+  ]
+}
