@@ -2,12 +2,14 @@
   "domain": "IX",
   "name_zh": "苦難·疾病·身體",
   "gist": "疾病與身體、受苦的意義、照顧與被照顧",
-  "generated_at": "2026-08-11T00:16:16+00:00",
-  "para_count": 108,
-  "book_count": 16,
+  "generated_at": "2026-08-11T09:27:06+00:00",
+  "para_count": 109,
+  "book_count": 17,
   "surveyed_zero_hit": [
+    "dengxizi",
     "dongmingji",
     "fangyan",
+    "gongsun-longzi",
     "gu-sanfen",
     "haidao-suanjing",
     "jian-zhu-ke-shu",
@@ -18,7 +20,8 @@
     "san-lue",
     "shenyijing",
     "sima-fa",
-    "wuzi"
+    "wuzi",
+    "yuzi"
   ],
   "paras": [
     {
@@ -1597,6 +1600,21 @@
       ],
       "excerpt": "文學曰：「古者，天子之立於天下之中，縣內方不過千里，諸侯列國，不及不食之地，禹貢",
       "note": "",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道下",
+      "para_index": 19,
+      "para_id": "yinwenzi#03-p19",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "貧賤之望富貴甚微，而富貴不能酬其甚微之望。夫富者之所惡，貧者之所美；貴者之所輕，",
+      "note": "萬民只望人君平賦斂、顧飢寒疾痛且使役有時，據此要求領導者與民同勞逸並回應其基本困苦",
       "co_domains": [
         "V"
       ]

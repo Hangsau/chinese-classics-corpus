@@ -2,9 +2,9 @@
   "domain": "VIII",
   "name_zh": "工作·成就·召喚",
   "gist": "工作與金錢、成就與意義、天賦與使命",
-  "generated_at": "2026-08-11T00:16:16+00:00",
-  "para_count": 656,
-  "book_count": 24,
+  "generated_at": "2026-08-11T09:27:06+00:00",
+  "para_count": 677,
+  "book_count": 28,
   "surveyed_zero_hit": [
     "gu-sanfen",
     "haidao-suanjing",
@@ -13,6 +13,50 @@
     "sima-fa"
   ],
   "paras": [
+    {
+      "slug": "dengxizi",
+      "chapter": "1",
+      "para_index": 21,
+      "para_id": "dengxizi#01-p21",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "夫事有合不合者，知與未知也。合而不結者，陽親而陰疏。故遠而親者，志相應也；近而疏",
+      "note": "遠近親疏、任用與離求被逐項歸因於志、心、策謀是否相合，並落到君主擇人與士人進取的關係和仕進判斷",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "2",
+      "para_index": 8,
+      "para_id": "dengxizi#02-p08",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "心欲安靜，慮欲深遠。心安靜、則神策生，慮深遠、則計謀成。心不欲躁，慮不欲淺。心躁",
+      "note": "心安靜、慮深遠被說成能生神策、成計謀，心躁慮淺則使精神滑、百事傾，直述內在狀態對成事能力的影響",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "2",
+      "para_index": 12,
+      "para_id": "dengxizi#02-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫人情，發言欲勝，舉事欲成。故明者不以其短，疾人之長；不以其拙，疾人之工。言有善",
+      "note": "「人情」被斷為發言欲勝、舉事欲成，而無堯舜之才卻慕其治終至顛殞，明說成就欲望受實際才能與改變能力限制",
+      "co_domains": [
+        "XI"
+      ]
+    },
     {
       "slug": "dongmingji",
       "chapter": "卷第一",
@@ -93,6 +137,32 @@
       "excerpt": "漢儒訓詁之學惟謹，而楊子雲尤為洽聞。蓋一物不知，君子所耻，博學詳說，將以反約。凡",
       "note": "批評當時學者捨實徇名、高談性命而輕視訓詁，講的是治學者怎麼走偏",
       "co_domains": []
+    },
+    {
+      "slug": "gongsun-longzi",
+      "chapter": "3",
+      "para_index": 5,
+      "para_id": "gongsun-longzi#03-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天下無指者，生于物之各有名，不爲指也。〈物有其實而各有名，謂若王良善御，隸首善計",
+      "note": "正文仍為名與指的推演，判斷來自謝希深注「王良善御，隸首善計，彼物各自爲用，譬之耳目，廢一不可」，明說人的不同技能各有所用",
+      "co_domains": []
+    },
+    {
+      "slug": "gongsun-longzi",
+      "chapter": "4",
+      "para_index": 5,
+      "para_id": "gongsun-longzi#04-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「非有以非雞也。〈上云羊合牛，今曰牛合羊者，變文以見左右移位，以明君臣易職而變亂",
+      "note": "正文提出材與不材、亂名與狂舉，具體判斷來自謝希深注「君臣易職而變亂生焉」及「人君舉是不材，而與有材者並位，以亂名實」，落到治理用人與才能配置",
+      "co_domains": [
+        "V"
+      ]
     },
     {
       "slug": "guanzi",
@@ -9329,6 +9399,230 @@
       "co_domains": [
         "V",
         "VII"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "佚文",
+      "para_index": 14,
+      "para_id": "yinwenzi#01-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "專用聰明，則功不成；專用晦昧，則事必悖。一明一晦，眾之所載。〈《意林》〉",
+      "note": "專用聰明或專用晦昧都不能成事，主張明晦相配才可由眾人共同承載功事",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 14,
+      "para_id": "yinwenzi#02-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天下萬事不可備能，責其備能於一人，則賢聖其猶病諸。設一人能備天下之事能，左右前後",
+      "note": "天下之事非一人所能兼備，連賢聖也會受限，故須農商工仕各守專業以成全共同治理",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 15,
+      "para_id": "yinwenzi#02-p15",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "故有理而無益於治者，君子弗言；有能而無益於事者，君子弗為。君子非樂有言，有益於治",
+      "note": "君子只言有益於治、只做有益於事之事，將務實言行立為可任事者的品格標準",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 17,
+      "para_id": "yinwenzi#02-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古語曰：不知無害於君子，知之無損於小人。工匠不能，無害於巧；君子不知，無害於治，",
+      "note": "偶有所不知不損君子之治，工匠有所不能也不損其巧，區分局部知能與整體品格能力",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 18,
+      "para_id": "yinwenzi#02-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "為善使人不能得從，此獨善也；為巧使人不能得從，此獨巧也。未盡善巧之理，為善與眾行",
+      "note": "善或巧若不能使眾人共行共能仍不完備，聖人與工倕之可貴在能把治理和技巧化為共同能力",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 19,
+      "para_id": "yinwenzi#02-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今世之人，行欲獨賢，事欲獨能，辨欲出群，勇欲絕眾。獨行之賢，不足以成化；獨能之事",
+      "note": "今人欲在賢、能、辯、勇上獨自超眾而反致亂，主張使賢愚能鄙不相棄以共同成事",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 21,
+      "para_id": "yinwenzi#02-p21",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "田駢曰：「天下之士，莫不處其門庭，臣其妻子，必遊宦諸侯之朝者，利引之也。遊於諸侯",
+      "note": "士人因利而遊宦、因名分而只求卿大夫，並以獵物歸屬說明利益與分定如何引導競逐",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道下",
+      "para_index": 14,
+      "para_id": "yinwenzi#03-p14",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "今使由爵祿而後富，則人必爭盡力於其君矣；由刑罰而後貧，則人咸畏罪而從善矣。故古之",
+      "note": "爵祿致富會使人爭相盡力，刑罰致貧會使人畏罪從善，明說利益與懲罰如何驅動任事行為",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yuzi",
+      "chapter": "撰吏五帝三王傳政乙第五",
+      "para_index": 1,
+      "para_id": "yuzi#01-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "〈撰，具也。吏者，為政之具也。又撰，博也。言王者布政施令，其在博求於良吏也。賢者",
+      "note": "本段為篇題注解，無正文；判斷來自逢行珪注「博求於良吏也。賢者舉之，不賢者不預」，明說人的賢否應與任職與否相配。",
+      "co_domains": []
+    },
+    {
+      "slug": "yuzi",
+      "chapter": "貴道五帝三王周政乙第五",
+      "para_index": 2,
+      "para_id": "yuzi#03-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "昔之帝王，〈昔者，在昔貴道德之帝王。稱昔者，以遠喻近，為之勸也。〉所以為明者，以",
+      "note": "正文說帝王之明「以其吏」、君子之功「以其民」且功最於吏，逢行珪注「必屬賢能，以任使之」明說領導成效依賴把職務託付賢能；注中的神祐只作王權正當性敘述。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yuzi",
+      "chapter": "守道五帝三王周政甲第四",
+      "para_index": 2,
+      "para_id": "yuzi#04-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "聖人在上，賢士百里而有一人，則猶無有也。〈言聖王在上，化被蒼生，德周萬物。雖百里",
+      "note": "判斷來自正文對比聖人在上時賢士「百里而有一人則猶無有」與暴亂在上時「千里而有一人則猶比肩」，逢行珪注「人皆思德」進一步說政治環境會改變社會對賢才稀缺性與價值的感受。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yuzi",
+      "chapter": "撰吏五帝三王傳政乙第三",
+      "para_index": 1,
+      "para_id": "yuzi#05-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "〈帝王所以安國家，行政教，其在良吏乎！言必博廣以取也。〉",
+      "note": "本段為篇題注解，無正文；逢行珪注「帝王所以安國家……其在良吏乎」並主張「博廣以取」，把良吏才能與選任職務直接連結。",
+      "co_domains": []
+    },
+    {
+      "slug": "yuzi",
+      "chapter": "撰吏五帝三王傳政乙第三",
+      "para_index": 2,
+      "para_id": "yuzi#05-p02",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "政曰：民者，賢不肖之杖也，賢不肖皆具焉。〈賢者，德行之名。不肖者，頑器之謂。夫賢",
+      "note": "正文以「賢人得焉，不肖人休焉」及十人至萬人愛之的層級連結品行、民意與職位，逢行珪注又明說「賢與不肖見於行，此二者同出於性而異名」及「有過人之智，必矜其能。恃能矜智，必違常道」，同時論人才任用與品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yuzi",
+      "chapter": "上禹政第六",
+      "para_index": 2,
+      "para_id": "yuzi#11-p02",
+      "modes": [
+        "formalization",
+        "observation"
+      ],
+      "excerpt": "禹之治天下也以五聲聴〈九重幽深下言難達所欲百姓反斥救之事故懸置五聲招之以聽政也〉",
+      "note": "前半正文把鐘、鼓、鐸、磬、鞀制成五類進言協定，後半則轉而記禹「一饋而七十起」並自言「吾猶恐四海之士留於道路」，逢行珪注「急於政事，無暇安於一食」明說其勤於職責並接納士人的領導樣態。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yuzi",
+      "chapter": "道符五帝三王傳政甲第五",
+      "para_index": 1,
+      "para_id": "yuzi#12-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "〈夫君子将入其職旭旭然如日初出光昭昭然人保其福既去暗暗然人失其教此得政典符合之謂",
+      "note": "本段為篇題注解，無正文；逢行珪注以君子「入其職」則「人保其福」、離職則「人失其教」作因果斷言，將任職者表現與群體福祉、教化相連。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yuzi",
+      "chapter": "道符五帝三王傳政甲第五",
+      "para_index": 2,
+      "para_id": "yuzi#12-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫國者卿相世賢者有之〈有國則有卿相賢徳者卿相之具人與之王用之不賢者豈能用之哉〉有",
+      "note": "正文說卿相之位「賢者有之」「智者治之」且志與謀非一日可成，又以民得安業及仁、信、和、道衡量領導；逢行珪注「積功累業，行道不倦」和「不奪民時，不干民利」分別申說能力養成與掌權責任。",
+      "co_domains": [
+        "V"
       ]
     }
   ]

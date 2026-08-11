@@ -17,6 +17,44 @@
   "license": "CC BY-SA 4.0",
   "verified": false,
   "tier": "重要",
-  "psych_survey": null,
+  "psych_survey": {
+    "surveyed_at": "2026-08-11T17:26:45+08:00",
+    "method": "全文段落級標註，2 章 38 段逐段判讀（annotations.json）。spec 見 delegation/dengxizi/SPEC.md，單批發包。本書無系統性注文層。spec 事前判定本批無敘事段（章 `2`[9] 的八個君主名列舉是斷語的支撐不是情節），設「`narrative` 應為零，若出現須在 reason 寫出人物與情節」為驗收條件，回收結果 narrative=0 符合。回收後逐一回查原文核對，無捏造引文。",
+    "domains_hit": [
+      "II",
+      "IV",
+      "V",
+      "VI",
+      "VII",
+      "VIII",
+      "XI",
+      "XIII"
+    ],
+    "domains_null": [
+      "I",
+      "III",
+      "IX",
+      "X",
+      "XII"
+    ],
+    "domain_para_counts": {
+      "II": 1,
+      "IV": 2,
+      "V": 12,
+      "VI": 8,
+      "VII": 12,
+      "VIII": 3,
+      "XI": 3,
+      "XIII": 1
+    },
+    "discourse_mode_counts": {
+      "proposition": 29,
+      "formalization": 10,
+      "prescription": 6
+    },
+    "paras_total": 38,
+    "paras_no_domain": 14,
+    "verdict": "38 段判空 14 段（37%），13 領域中 8 個命中（V 12、VII 12、VI 8、XI 3、VIII 3、IV 2、II 1、XIII 1），5 個掛零（I、III、IX、X、XII）。\n\nV 與 VII 並列 12 段，是本書的骨幹：談君主怎麼用臣、臣怎麼被察，同時也談人的品性如何被看見或被掩蓋。VI 8 段偏高，來自它反覆寫人的欲惡與君主的喜怒如何互相牽動。兩章比例接近（章 `1` 11／21、章 `2` 13／17），內部同質。\n\n**`narrative` 為零，這是事前預測後驗證的結果。**spec 依原文事先判定本批無敘事段——章 `2`[9] 那串八個君主名的列舉是斷語的支撐材料，不是情節——並設「`narrative` 應為零，若出現須在 reason 寫出人物與情節」為驗收條件。回收 modes 為 proposition 29、formalization 10、prescription 6，narrative 0，符合。**這一格值得記，是因為鄧析子在書目上常與訟辯故事連在一起，憑印象會預期敘事段；實際落地的文本裡一段都沒有。**\n\n判空的 14 段集中在名分定則、刑名程序、君道操術這類條文，走 §2.6「怎麼治之外」閘門判空＋`formalization`（10 段 formalization 幾乎與判空段重合）。XII 掛零與同組尹文子一致：黃老色彩的「道」在這幾部裡是治術根據不是超越對象。"
+  },
   "notes": null
 }

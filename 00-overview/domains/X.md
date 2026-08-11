@@ -1,17 +1,17 @@
 # X 無常·老·死·失去
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 203 段命中｜跨 14 部｜生成時間 2026-08-11T00:16:16+00:00
+> 204 段命中｜跨 15 部｜生成時間 2026-08-11T09:27:06+00:00
 
 老與時間、失去與哀傷、死亡、耐心與等待
 
-姿態分佈：`narrative` 104、`proposition` 73、`expression` 48、`observation` 44、`prescription` 31、`ritual` 21、`formalization` 10
+姿態分佈：`narrative` 104、`proposition` 74、`expression` 48、`observation` 44、`prescription` 31、`ritual` 21、`formalization` 10
 
 ## 已通讀但本領域零命中
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jijiupian`（急就篇）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`san-lue`（三略）　`shangjunshu`（商君書）　`shenyijing`（神異經）　`sima-fa`（司馬法）　`weiliaozi`（尉繚子）　`wuzi`（吳子）
+`dengxizi`（鄧析子）　`fangyan`（方言）　`gongsun-longzi`（公孫龍子）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jijiupian`（急就篇）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`san-lue`（三略）　`shangjunshu`（商君書）　`shenyijing`（神異經）　`sima-fa`（司馬法）　`weiliaozi`（尉繚子）　`wuzi`（吳子）　`yuzi`（鬻子）
 
 ## 世說新語（人論）　70 段
 
@@ -285,3 +285,9 @@
 | 篇 | 段 | 姿態 | 摘句 | 判讀 |
 |---|---|---|---|---|
 | 愼子逸文 | 58 | `proposition` | 始吾未生之時，焉知生之爲樂也？今吾未死，又焉知死之爲不樂也？故生不足以使之，利何 | ＋I 從未知生樂死不樂出發，主張明死生之分便不受利害恐動，甚至可捨生以成仁，直接處理死亡與生命意義 |
+
+## 尹文子（雜家）　1 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| 大道下 | 8 | `proposition` | 老子曰：「民不畏死，如何以死懼之。」凡民之不畏死，由刑罰過。刑罰過，則民不賴其生 | ＋V 刑罰過重使民不再依戀生存而不畏死，刑罰適中則因生可樂而畏死，明說制度如何改變人的生死態度 |

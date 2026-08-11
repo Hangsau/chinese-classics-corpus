@@ -1,17 +1,17 @@
 # XII 信仰·神聖·超越
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 123 段命中｜跨 14 部｜生成時間 2026-08-11T00:16:16+00:00
+> 124 段命中｜跨 15 部｜生成時間 2026-08-11T09:27:06+00:00
 
 神存在嗎、信與疑、敬畏與美、神秘經驗
 
-姿態分佈：`proposition` 73、`narrative` 35、`observation` 28、`prescription` 14、`ritual` 12、`expression` 5、`formalization` 4
+姿態分佈：`proposition` 74、`narrative` 35、`observation` 28、`prescription` 14、`ritual` 12、`expression` 5、`formalization` 4
 
 ## 已通讀但本領域零命中
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`dongmingji`（洞冥記）　`fangyan`（方言）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jijiupian`（急就篇）　`liutao`（六韜）　`nanjing`（難經）　`renwuzhi`（人物志）　`san-lue`（三略）　`shanghanlun`（傷寒論）　`shangjunshu`（商君書）　`shenzi`（慎子）　`sima-fa`（司馬法）　`weiliaozi`（尉繚子）　`wuzi`（吳子）
+`dengxizi`（鄧析子）　`dongmingji`（洞冥記）　`fangyan`（方言）　`gongsun-longzi`（公孫龍子）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jijiupian`（急就篇）　`liutao`（六韜）　`nanjing`（難經）　`renwuzhi`（人物志）　`san-lue`（三略）　`shanghanlun`（傷寒論）　`shangjunshu`（商君書）　`shenzi`（慎子）　`sima-fa`（司馬法）　`weiliaozi`（尉繚子）　`wuzi`（吳子）　`yinwenzi`（尹文子）
 
 ## 潛夫論（儒家著述）　32 段
 
@@ -205,3 +205,9 @@
 | 篇 | 段 | 姿態 | 摘句 | 判讀 |
 |---|---|---|---|---|
 | 中荒經十則 | 2 | `observation` `proposition` | 九府玉童玉女，與天地同休息，男女无為匹配，而仙道自成。[52]男女名曰玉人。 | 不只羅列玉人，而明說男女無為匹配便仙道自成，直接提出成就仙道的超越關係 |
+
+## 鬻子（黃老）　1 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| 大道文王問第八 | 1 | `proposition` | 〈夫道者，覆天地，廓四方，斥八極。高而無際，深不可測，綿六合，横四維。不可以言象 | 本段為篇題注解，無正文；逢行珪注把道說成「不可以言象盡」「包萬物之形」而又稱「有道之王，動而同之」，明說人與不可測之道相契的關係。 |

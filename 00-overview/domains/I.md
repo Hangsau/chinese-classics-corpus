@@ -1,7 +1,7 @@
 # I 存在與意義
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 28 段命中｜跨 9 部｜生成時間 2026-08-11T00:16:16+00:00
+> 28 段命中｜跨 9 部｜生成時間 2026-08-11T09:27:06+00:00
 
 我為何在此、活著有沒有意義、與想不通的問題共處、在歷史洪流中的渺小
 
@@ -11,7 +11,7 @@
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`dongmingji`（洞冥記）　`fangyan`（方言）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jijiupian`（急就篇）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`lienuzhuan`（列女傳）　`liutao`（六韜）　`nanjing`（難經）　`renwuzhi`（人物志）　`shangjunshu`（商君書）　`shenyijing`（神異經）　`shiming`（釋名）　`shuowen-jiezi`（說文解字）　`sima-fa`（司馬法）　`sunzi-bingfa`（孫子兵法）　`weiliaozi`（尉繚子）　`wuzi`（吳子）　`yanshi-jiaxun`（顏氏家訓）
+`dengxizi`（鄧析子）　`dongmingji`（洞冥記）　`fangyan`（方言）　`gongsun-longzi`（公孫龍子）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jijiupian`（急就篇）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`lienuzhuan`（列女傳）　`liutao`（六韜）　`nanjing`（難經）　`renwuzhi`（人物志）　`shangjunshu`（商君書）　`shenyijing`（神異經）　`shiming`（釋名）　`shuowen-jiezi`（說文解字）　`sima-fa`（司馬法）　`sunzi-bingfa`（孫子兵法）　`weiliaozi`（尉繚子）　`wuzi`（吳子）　`yanshi-jiaxun`（顏氏家訓）　`yinwenzi`（尹文子）　`yuzi`（鬻子）
 
 ## 管子（法家）　8 段
 

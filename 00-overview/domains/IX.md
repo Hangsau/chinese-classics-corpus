@@ -1,17 +1,17 @@
 # IX 苦難·疾病·身體
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 108 段命中｜跨 16 部｜生成時間 2026-08-11T00:16:16+00:00
+> 109 段命中｜跨 17 部｜生成時間 2026-08-11T09:27:06+00:00
 
 疾病與身體、受苦的意義、照顧與被照顧
 
-姿態分佈：`proposition` 62、`narrative` 35、`prescription` 22、`observation` 18、`formalization` 11、`expression` 8、`ritual` 3
+姿態分佈：`proposition` 63、`narrative` 35、`prescription` 23、`observation` 18、`formalization` 11、`expression` 8、`ritual` 3
 
 ## 已通讀但本領域零命中
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`dongmingji`（洞冥記）　`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`renwuzhi`（人物志）　`san-lue`（三略）　`shenyijing`（神異經）　`sima-fa`（司馬法）　`wuzi`（吳子）
+`dengxizi`（鄧析子）　`dongmingji`（洞冥記）　`fangyan`（方言）　`gongsun-longzi`（公孫龍子）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`renwuzhi`（人物志）　`san-lue`（三略）　`shenyijing`（神異經）　`sima-fa`（司馬法）　`wuzi`（吳子）　`yuzi`（鬻子）
 
 ## 世說新語（人論）　17 段
 
@@ -200,3 +200,9 @@
 | 篇 | 段 | 姿態 | 摘句 | 判讀 |
 |---|---|---|---|---|
 | 將理 | 3 | `proposition` | 笞人之背，灼人之脅，束人之指，而訊囚之情，雖國士有不勝其酷，而自誣矣。 | ＋V 明列笞背、灼脅、束指造成連國士也承受不住酷痛而自誣，兼指刑訊不公與身體承受的極限。 |
+
+## 尹文子（雜家）　1 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| 大道下 | 19 | `proposition` `prescription` | 貧賤之望富貴甚微，而富貴不能酬其甚微之望。夫富者之所惡，貧者之所美；貴者之所輕， | ＋V 萬民只望人君平賦斂、顧飢寒疾痛且使役有時，據此要求領導者與民同勞逸並回應其基本困苦 |

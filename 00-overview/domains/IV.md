@@ -1,17 +1,17 @@
 # IV 家庭與傳承
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 426 段命中｜跨 20 部｜生成時間 2026-08-11T00:16:16+00:00
+> 428 段命中｜跨 21 部｜生成時間 2026-08-11T09:27:06+00:00
 
 婚姻與家庭、原生家庭的傷、為人父母、記憶與和解、留下什麼給後代
 
-姿態分佈：`narrative` 196、`proposition` 191、`observation` 103、`prescription` 71、`expression` 37、`formalization` 23、`ritual` 22
+姿態分佈：`narrative` 196、`proposition` 193、`observation` 103、`prescription` 72、`expression` 37、`formalization` 23、`ritual` 22
 
 ## 已通讀但本領域零命中
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`fangyan`（方言）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`san-lue`（三略）　`sima-fa`（司馬法）　`wuzi`（吳子）
+`fangyan`（方言）　`gongsun-longzi`（公孫龍子）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`san-lue`（三略）　`sima-fa`（司馬法）　`wuzi`（吳子）　`yinwenzi`（尹文子）　`yuzi`（鬻子）
 
 ## 世說新語（人論）　96 段
 
@@ -481,6 +481,13 @@
 | 包部 | 1 | `observation` `proposition` | 包（）：象人褢妊，巳在中，象子未成形也。元气起於子。子，人所生也。男左行三十，女 | 除包字的孕體象形外，段落以男女運行、成婚、懷孕十月而生建立因果解釋，涉及婚姻與生育傳承 |
 | 屾部 | 2 | `observation` | 嵞：會稽山。一曰九江當嵞也。民以辛壬癸甲之日嫁娶。从屾余聲。《虞書》曰：“予娶嵞 | 除考釋嵞山並舉書證外，另記當地民眾按辛壬癸甲日嫁娶的習俗，涉及婚姻與家庭形成 |
 | 𠫓部 | 1 | `observation` | 𠫓：不順忽出也。从到子。《易》曰：“突如其來如。”不孝子突出，不容於内也。凡𠫓之 | ＋VII 除釋字構形外，明言不孝子因不順而不容於家內，實際涉及家庭排斥與品格評判 |
+
+## 鄧析子（雜家）　2 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| 1 | 1 | `proposition` | 天於人無厚也，君於民無厚也，父於子無厚也，兄於弟無厚也。何以言之？天不能屏勃厲之 | ＋V 「無厚」是對天／君／父／兄四層關係的斷言，並以貧窮致盜、子弟不得厚待等事逐層舉證 |
+| 2 | 13 | `proposition` `prescription` | 患生於官成，病始於少瘳，禍生於懈慢，孝衰於妻子。此四者。慎終如始也。富必給貧，壯 | ＋VII 孝衰於妻子直指新家庭關係對孝的牽動，而懈慢、恣欲、驕人等警語又把禍患歸於品格鬆弛 |
 
 ## 古三墳（術數）　2 段
 

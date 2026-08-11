@@ -1,7 +1,7 @@
 # 索引
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 生成時間 2026-08-11T00:16:16+00:00｜72 部｜11,304,281 bytes｜已通讀 29 部｜已段落標註 29 部（14896 段）｜僅有骨架待標 0 部（0 段）
+> 生成時間 2026-08-11T09:27:06+00:00｜72 部｜11,304,281 bytes｜已通讀 33 部｜已段落標註 33 部（15078 段）｜僅有骨架待標 0 部（0 段）
 
 ## 分類統計
 
@@ -51,7 +51,7 @@
 | `sunzi-bingfa` | 孫子兵法 | 兵家 | original | 14 | 30,954 | ✓ | 91/91 |
 | `weiliaozi` | 尉繚子 | 兵家 | original | 20 | 18,016 | ✓ | 84/84 |
 | `wuzi` | 吳子 | 兵家 | original | 6 | 18,009 | ✓ | 43/43 |
-| `gongsun-longzi` | 公孫龍子 | 名家 | original | 7 | 34,526 | — | — |
+| `gongsun-longzi` | 公孫龍子 | 名家 | original | 7 | 34,526 | ✓ | 36/36 |
 | `lusheng-mobian-zhuxu` | 魯勝墨辯注敘 | 名家 | original | 1 | 1,091 | — | — |
 | `shuijingzhu` | 水經注 | 地理 | original | 137 | 1,131,449 | — | — |
 | `fangyan` | 方言 | 小學 | reference | 16 | 63,179 | ✓ | 385/385 |
@@ -90,10 +90,10 @@
 | `yuejueshu` | 越絕書 | 雜史 | original | 19 | 115,947 | — | — |
 | `zhanguoce` | 戰國策 | 雜史 | original | 511 | 1,381,483 | — | — |
 | `zhushu-jinian` | 竹書紀年 | 雜史 | contested | 6 | 52,376 | — | — |
-| `dengxizi` | 鄧析子 | 雜家 | original | 2 | 11,380 | — | — |
+| `dengxizi` | 鄧析子 | 雜家 | original | 2 | 11,380 | ✓ | 38/38 |
 | `guiguzi` | 鬼谷子 | 雜家 | original | 21 | 118,764 | — | — |
 | `lushi-chunqiu` | 呂氏春秋 | 雜家 | original | 160 | 398,806 | — | — |
-| `yinwenzi` | 尹文子 | 雜家 | original | 4 | 24,718 | — | — |
+| `yinwenzi` | 尹文子 | 雜家 | original | 4 | 24,718 | ✓ | 80/80 |
 | `qijing` | 棋經 | 雜著 | original | 15 | 8,300 | — | — |
 | `sanzijing` | 三字經 | 雜著 | original | 1 | 4,256 | — | — |
 | `songjingwen-gong-biji` | 宋景文公筆記 | 雜著 | original | 7 | 39,604 | — | — |
@@ -101,4 +101,4 @@
 | `qunshu-zhiyao` | 群書治要 | 類書 | original | 347 | 1,608,754 | — | — |
 | `yilin` | 意林 | 類書 | original | 104 | 180,522 | — | — |
 | `heguanzi` | 鶡冠子 | 黃老 | original | 19 | 57,301 | — | — |
-| `yuzi` | 鬻子 | 黃老 | original | 14 | 19,151 | — | — |
+| `yuzi` | 鬻子 | 黃老 | original | 14 | 19,151 | ✓ | 28/28 |

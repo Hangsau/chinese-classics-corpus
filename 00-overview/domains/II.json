@@ -2,11 +2,12 @@
   "domain": "II",
   "name_zh": "自我與認同",
   "gist": "我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我",
-  "generated_at": "2026-08-11T00:16:16+00:00",
-  "para_count": 469,
-  "book_count": 19,
+  "generated_at": "2026-08-11T09:27:06+00:00",
+  "para_count": 477,
+  "book_count": 22,
   "surveyed_zero_hit": [
     "fangyan",
+    "gongsun-longzi",
     "gu-sanfen",
     "haidao-suanjing",
     "jian-zhu-ke-shu",
@@ -18,6 +19,21 @@
     "sima-fa"
   ],
   "paras": [
+    {
+      "slug": "dengxizi",
+      "chapter": "1",
+      "para_index": 9,
+      "para_id": "dengxizi#01-p09",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "夫遊而不見敬，不恭也；居而不見愛，不仁也；言而不見用，不信也；求而不能得，無媒也",
+      "note": "不見敬愛用被分別歸於不恭、不仁、不信等品格，又以「行等而名殊」明說同等行實可能得到不同名聲",
+      "co_domains": [
+        "VII"
+      ]
+    },
     {
       "slug": "dongmingji",
       "chapter": "卷第二",
@@ -6544,6 +6560,107 @@
         "VII",
         "VIII",
         "XIII"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 16,
+      "para_id": "yinwenzi#02-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "治外之理，小人之所必言事外之能，小人之所必為。小人亦知言損於治，而不能不言；小人",
+      "note": "小人明知言行損事仍不能自止而一味求名，明說其自制、品行與名聲追求的落差",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 25,
+      "para_id": "yinwenzi#02-p25",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "世之所貴，同而貴之，謂之「俗」；世之所用，同而用之，謂之「物」。苟違於人，俗所不",
+      "note": "人的心與所好各異，卻受共同習俗與用物整齊為一致行為，呈現個體差異與群體同化",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 34,
+      "para_id": "yinwenzi#02-p34",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "世有違名以得實，亦因名以失實者。宣王好射，說人之謂己能用強也，其實所用不過三石，",
+      "note": "宣王因喜歡強弓之名與左右奉承而終身自認能用九石，呈現自我評價受名聲愉悅扭曲而背離實能",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 35,
+      "para_id": "yinwenzi#02-p35",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊有黃公者，好謙卑。有二女，皆國色。以其美也，常謙辭毀之，以為醜惡。醜惡之名遠布",
+      "note": "黃公謙辭使二女承受醜惡之名而無人聘娶，故事顯示人的社會名聲可與實際相反並改變待遇",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道下",
+      "para_index": 5,
+      "para_id": "yinwenzi#03-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "語曰：「佞辯可以熒惑鬼神。」曰：「鬼神聰明正直，孰曰熒惑者？」曰：「鬼神誠不受熒",
+      "note": "人喜聞自己的美名而厭聞過失，佞辯者遂探欲順好以加利用，直說自我評價與好惡弱點",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "yuzi",
+      "chapter": "道符五帝三王傳政甲第二",
+      "para_index": 2,
+      "para_id": "yuzi#07-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "不肖者不自謂不肖也〈肖者類也言不類不似也自知賢不肖是為明也不似之人豈自稱哉言不知",
+      "note": "判斷來自正文「雖自謂賢，人猶謂之不肖」與「雖自謂智，人猶謂之愚」，明說自我評價、他人評價和言行實跡的落差；逢行珪注「丹朱傲虐」則以惡行申說不肖品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yuzi",
+      "chapter": "湯政湯治天下理第七",
+      "para_index": 2,
+      "para_id": "yuzi#13-p02",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "天地闢而萬物生〈乾其静也專一其動也正直坤其静也翕斂其動也開闢是以廣大而生萬物也〉",
+      "note": "判斷來自正文「人化而為善，獸化而為惡，人而不善者謂之獸」，直接以善惡劃分人的品格與人獸身分；逢行珪注「萬物之中人其為貴，化而為善」加以申說，後半日月刻數的形式化鋪陳不改此命中。",
+      "co_domains": [
+        "VII"
       ]
     }
   ]

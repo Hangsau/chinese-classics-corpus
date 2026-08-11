@@ -2,9 +2,9 @@
   "domain": "VI",
   "name_zh": "情緒與內在生活",
   "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡",
-  "generated_at": "2026-08-11T00:16:16+00:00",
-  "para_count": 460,
-  "book_count": 15,
+  "generated_at": "2026-08-11T09:27:06+00:00",
+  "para_count": 484,
+  "book_count": 18,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -19,9 +19,162 @@
     "san-lue",
     "shanghanlun",
     "shenyijing",
-    "wuzi"
+    "wuzi",
+    "yuzi"
   ],
   "paras": [
+    {
+      "slug": "dengxizi",
+      "chapter": "1",
+      "para_index": 4,
+      "para_id": "dengxizi#01-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "異同之不可別，是非之不可定，白黑之不可分，清濁之不可理，久矣！誠聽能聞於無聲，視",
+      "note": "末句「君者，藏於匿影……掩目塞耳萬民恐震」斷言這種治術下萬民會陷於恐震，直接說出群眾的恐懼狀態",
+      "co_domains": []
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "1",
+      "para_index": 7,
+      "para_id": "dengxizi#01-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫負重者患塗遠，據貴者憂民離。負重塗遠者，身疲而無功；在上離民者，雖勞而不治。故",
+      "note": "「負重者患塗遠，據貴者憂民離」把所處位置與人的憂患相連，並說居上而離民者雖勞亦不能治",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "1",
+      "para_index": 13,
+      "para_id": "dengxizi#01-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凶饑之歲，父死於室，子死於戶，而不相怨者，無所顧也。同舟渡海，中流遇風，救患若一",
+      "note": "荒年與同舟遇風說共同處境、憂患和利益會改變人際反應，而「體痛則呼、心悅則笑」又斷言情緒會自然外現",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "1",
+      "para_index": 17,
+      "para_id": "dengxizi#01-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫言榮不若辱，非誠辭也。得不若失，非實談也。不進則退，不喜則憂，不得則亡，此世人",
+      "note": "「不進則退，不喜則憂，不得則亡，此世人之常」直述世人的得失情緒，並以選善退惡和知淺分判大辯、小辯的品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "2",
+      "para_index": 1,
+      "para_id": "dengxizi#02-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "世間悲哀喜樂，嗔怒憂愁，久惑於此。今轉之，在己為哀，在他為悲；在己為樂，在他為喜",
+      "note": "哀悲、樂喜、嗔怒、愁憂依「在己」或「在他」逐項異名，直接分類當事人與旁觀者所指稱的情緒",
+      "co_domains": []
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "2",
+      "para_index": 7,
+      "para_id": "dengxizi#02-p07",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫治之法，莫大於使私不行，功，莫大於使民不爭。今也立法而行私，是私與法爭，其亂也",
+      "note": "除立法任臣的規則外，「臣懼其重誅之至，於是不敢行其私」明說重誅造成恐懼並改變臣下行為",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "2",
+      "para_index": 8,
+      "para_id": "dengxizi#02-p08",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "心欲安靜，慮欲深遠。心安靜、則神策生，慮深遠、則計謀成。心不欲躁，慮不欲淺。心躁",
+      "note": "心安靜、慮深遠被說成能生神策、成計謀，心躁慮淺則使精神滑、百事傾，直述內在狀態對成事能力的影響",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "2",
+      "para_index": 11,
+      "para_id": "dengxizi#02-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "君人者不能自專而好任下，則智日困而數日窮。迫於下則不能申，行隨於國則不能持。知不",
+      "note": "君主受臣下牽制且任喜怒行賞誅會失當，又以眾口鑠金、三人成虎說群言能扭曲判斷，兼及情緒與群體影響",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "gongsun-longzi",
+      "chapter": "2",
+      "para_index": 6,
+      "para_id": "gongsun-longzi#02-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「白者不定所白，忘之而可也。〈萬物通有白色，故曰不定所白。白旣不定在馬，馬亦",
+      "note": "正文仍是顏色指稱，判斷來自謝希深注「王者黨其所私而疎天下，則天下各守其疎，自殊而叛矣」及「聖人虛心洞照……其神彌靜」，分別落到偏私治理與人的內在狀態",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "gongsun-longzi",
+      "chapter": "3",
+      "para_index": 8,
+      "para_id": "gongsun-longzi#03-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "使天下無物指，誰徑謂非指？天下無物，誰徑謂指？〈設使天下無物無指，則寂然矣，誰謂",
+      "note": "正文只反覆推演有物、無物與指、非指，判斷來自謝希深注「聖人淵黙恬淡，忘是非」，明寫人的恬淡內在狀態",
+      "co_domains": []
+    },
+    {
+      "slug": "gongsun-longzi",
+      "chapter": "原序",
+      "para_index": 1,
+      "para_id": "gongsun-longzi#07-p01",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "公孫龍子，姓公孫，名龍，字子秉，趙人也。以堅白之辯鳴於時。初爲平原君門客，平原君",
+      "note": "判斷來自序文正文：鄒衍以「不務相迷」規範正當之辯，樂正子輿以「佞給而不中，好怪而妄言」評其品格，序者又自陳「私心尚在疑信間」，兼具品格規範與疑惑的內在經驗",
+      "co_domains": [
+        "VII"
+      ]
+    },
     {
       "slug": "guanzi",
       "chapter": "七法",
@@ -6613,6 +6766,189 @@
       "co_domains": [
         "V",
         "VIII"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "佚文",
+      "para_index": 3,
+      "para_id": "yinwenzi#01-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "世俗之人，聞譽則悅，聞毀則戚，此眾人之大情。同己則喜，異己則怒，此人之大情。故佞",
+      "note": "聞譽則悅、聞毀則戚及同己則喜、異己則怒，直說情緒反應並解釋佞人如何藉順從親近人主",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "佚文",
+      "para_index": 17,
+      "para_id": "yinwenzi#01-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "鐘鼓之聲，怒而擊之則武，憂而擊之則悲，喜而擊之則樂。其意變，其聲亦變。意誠，感之",
+      "note": "怒憂喜使鐘鼓之聲相應而變，並以誠意能感金石推及能感人，連結情緒、意念與人際感染",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 12,
+      "para_id": "yinwenzi#02-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "五色、五聲、五臭、五味，凡四類，自然存焉天地之間，而不期為人用。人必用之，終身各",
+      "note": "人終身對色聲臭味各有愛憎好惡，明說人的感官偏好，雖用來辨名分仍承載內在反應",
+      "co_domains": []
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 20,
+      "para_id": "yinwenzi#02-p20",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "名定，則物不競；分明，則私不行。物不競，非無心，由名定，故無所措其心；私不行，非",
+      "note": "心與欲人人皆有，名分制度只能使私心私欲無處施展，直說內在欲望與外在約束的關係",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 24,
+      "para_id": "yinwenzi#02-p24",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "道行於世，則貧賤者不怨，富貴者不驕，愚弱者不懾，智勇者不陵，定於分也。法行於世，",
+      "note": "道法是否施行會改變貧富智愚之人的怨、驕、懾、陵等情緒與彼此對待",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 28,
+      "para_id": "yinwenzi#02-p28",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "聖王知民情之易動，故作樂以和之，制禮以節之。在下者不得用其私，故禮樂獨行。禮樂獨",
+      "note": "民情容易變動而私欲可被禮樂調和節制，直接斷言人的情志欲望會受共同規範塑造",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 34,
+      "para_id": "yinwenzi#02-p34",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "世有違名以得實，亦因名以失實者。宣王好射，說人之謂己能用強也，其實所用不過三石，",
+      "note": "宣王因喜歡強弓之名與左右奉承而終身自認能用九石，呈現自我評價受名聲愉悅扭曲而背離實能",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道下",
+      "para_index": 5,
+      "para_id": "yinwenzi#03-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "語曰：「佞辯可以熒惑鬼神。」曰：「鬼神聰明正直，孰曰熒惑者？」曰：「鬼神誠不受熒",
+      "note": "人喜聞自己的美名而厭聞過失，佞辯者遂探欲順好以加利用，直說自我評價與好惡弱點",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道下",
+      "para_index": 12,
+      "para_id": "yinwenzi#03-p12",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "父之於子也，令有必行者，有必不行者。「去貴妻，賣愛妾」，此令必行者也。因曰：「汝",
+      "note": "父命子去妻賣妾可以強行，卻不能命其不恨不思，據此指出上位者權令無法支配人的內在情感",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道下",
+      "para_index": 13,
+      "para_id": "yinwenzi#03-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡人富，則不羨爵祿；貧，則不畏刑罰。不羨爵祿者，自足於己也；不畏刑罰者，不賴存身",
+      "note": "人富則不羨爵祿、貧則不畏刑罰，並以自足或不賴存身解釋貧富兩端的欲望與畏懼",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道下",
+      "para_index": 15,
+      "para_id": "yinwenzi#03-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "貧則怨人，賤則怨時，而莫有自怨者，此人情之大趣也。然則不可以此是人情之大趣，而一",
+      "note": "貧者怨人、賤者怨時而不自怨被稱為人情大趣，並從能力相當而境遇不等辨析怨怒是否可憫",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道下",
+      "para_index": 16,
+      "para_id": "yinwenzi#03-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人貧則怨人，富則驕人。怨人者，苦人之不祿施於己也，起於情所難安而不能安，猶可恕也",
+      "note": "人貧則怨、富則驕，且怨因難安而可恕、驕因可制而不可恕，兼論情緒與自制品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道下",
+      "para_index": 17,
+      "para_id": "yinwenzi#03-p17",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "眾人見貧賤，則慢而疏之；見富貴，則敬而親之。貧賤者，有請賕於己，疏之可也；未必損",
+      "note": "眾人無論實際利害都疏慢貧賤、敬親富貴，直說階層偏見如何改變親疏態度並稱之為大惑",
+      "co_domains": [
+        "V"
       ]
     }
   ]

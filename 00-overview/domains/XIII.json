@@ -2,11 +2,12 @@
   "domain": "XIII",
   "name_zh": "安頓·修復·平安",
   "gist": "靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈",
-  "generated_at": "2026-08-11T00:16:16+00:00",
-  "para_count": 95,
-  "book_count": 12,
+  "generated_at": "2026-08-11T09:27:06+00:00",
+  "para_count": 96,
+  "book_count": 13,
   "surveyed_zero_hit": [
     "fangyan",
+    "gongsun-longzi",
     "gu-sanfen",
     "haidao-suanjing",
     "jian-zhu-ke-shu",
@@ -22,9 +23,25 @@
     "sima-fa",
     "sunzi-bingfa",
     "weiliaozi",
-    "wuzi"
+    "wuzi",
+    "yinwenzi",
+    "yuzi"
   ],
   "paras": [
+    {
+      "slug": "dengxizi",
+      "chapter": "1",
+      "para_index": 12,
+      "para_id": "dengxizi#01-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "死生自命，富貴自時。怨夭折者，不知命也；怨貧賤者，不知時也。故臨難不懼，知天命也",
+      "note": "「死生自命，富貴自時」把夭折貧賤歸於命與時，並據此主張臨難不懼、貧窮無懾的自處方式",
+      "co_domains": [
+        "XI"
+      ]
+    },
     {
       "slug": "dongmingji",
       "chapter": "卷第一",

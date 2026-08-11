@@ -2,9 +2,9 @@
   "domain": "VII",
   "name_zh": "善惡·良心·品格",
   "gist": "罪咎與贖罪、惡與殘忍與同理、誠實與虛偽、勇氣",
-  "generated_at": "2026-08-11T00:16:16+00:00",
-  "para_count": 1356,
-  "book_count": 22,
+  "generated_at": "2026-08-11T09:27:06+00:00",
+  "para_count": 1403,
+  "book_count": 26,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -15,6 +15,228 @@
     "nanjing"
   ],
   "paras": [
+    {
+      "slug": "dengxizi",
+      "chapter": "1",
+      "para_index": 9,
+      "para_id": "dengxizi#01-p09",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "夫遊而不見敬，不恭也；居而不見愛，不仁也；言而不見用，不信也；求而不能得，無媒也",
+      "note": "不見敬愛用被分別歸於不恭、不仁、不信等品格，又以「行等而名殊」明說同等行實可能得到不同名聲",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "1",
+      "para_index": 15,
+      "para_id": "dengxizi#01-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫水濁、則無掉尾之魚；政苛、則無逸樂之士。故令煩則民詐，政擾則民不定。不治其本而",
+      "note": "「政苛則無逸樂之士、令煩則民詐、政擾則民不定」明說苛煩政治會使民眾轉為欺詐與不安定",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "1",
+      "para_index": 17,
+      "para_id": "dengxizi#01-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫言榮不若辱，非誠辭也。得不若失，非實談也。不進則退，不喜則憂，不得則亡，此世人",
+      "note": "「不進則退，不喜則憂，不得則亡，此世人之常」直述世人的得失情緒，並以選善退惡和知淺分判大辯、小辯的品格",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "1",
+      "para_index": 19,
+      "para_id": "dengxizi#01-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫不擊折轊，水戾破舟，不怨木石，而罪巧拙，故不載焉。故有知則惑，有心則嶮，有目則",
+      "note": "「有知則惑，有心則嶮，有目則眩」斷言人的知心目會惑險眩，又說規矩不因秦楚胡越而改，主張準則不可隨境變易",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "2",
+      "para_index": 3,
+      "para_id": "dengxizi#02-p03",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "不困，在早圖，不窮，在早稼。非所宜言，勿言，以避其口；非所宣為，勿為，以避其危；",
+      "note": "勿妄言、妄為、妄取、妄爭的告誡最後以「惡言不出口，苟語不留耳」界定君子的言語品格",
+      "co_domains": []
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "2",
+      "para_index": 5,
+      "para_id": "dengxizi#02-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫川竭而穀虛，丘夷而淵實。聖人已死，大盜不起。天下平而無故也。聖人不死，大盜不止",
+      "note": "竊財者受誅而竊國者為諸侯直指權力與懲罰不公，並以仁義也可被大盜竊用來否定仁義必能矯人的主張",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "2",
+      "para_index": 6,
+      "para_id": "dengxizi#02-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "欲之與惡，善之與惡，四者變之失。恭之與儉，敬之與傲，四者失之修。故善素樸任，惔憂",
+      "note": "欲惡善惡、恭儉敬傲被置於德行得失中考察，又說含有信善之辭未必真是信善，直接辨析品格",
+      "co_domains": []
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "2",
+      "para_index": 9,
+      "para_id": "dengxizi#02-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "治世之禮，簡而易行；亂世之禮，煩而難遵。上古之樂、質而不悲；當今之樂，邪而為淫。",
+      "note": "上古之民敦樸、今世之民多詐及四聖君勤慎、四亂君疾賢若仇，都是民風與領導品格的對照斷言，人名僅作列證而無情節",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "2",
+      "para_index": 10,
+      "para_id": "dengxizi#02-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明君之禦民，若禦奔而無轡，履冰而負重，親而疏之，疏而親之。故畏儉則福生，驕奢則禍",
+      "note": "「畏儉則福生，驕奢則禍起」把謹慎節儉與驕奢品格連到治亂後果，並以家給人足、天下太平說領導所致的群體狀態",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "2",
+      "para_index": 13,
+      "para_id": "dengxizi#02-p13",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "患生於官成，病始於少瘳，禍生於懈慢，孝衰於妻子。此四者。慎終如始也。富必給貧，壯",
+      "note": "孝衰於妻子直指新家庭關係對孝的牽動，而懈慢、恣欲、驕人等警語又把禍患歸於品格鬆弛",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "2",
+      "para_index": 16,
+      "para_id": "dengxizi#02-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "智者察於是非，故善惡有別；明者審於去就，故進退無類。若智不能察是非，明不能審去就",
+      "note": "智者能察是非、明者能審去就，不能者則為虛妄，直接以辨別善惡與進退的能力判定人的品格",
+      "co_domains": []
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "2",
+      "para_index": 17,
+      "para_id": "dengxizi#02-p17",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "目貴明，耳貴聰，心貴公。以天下之目視，則無不見；以天下之耳聽，則無不聞；以天下之",
+      "note": "「心貴公」把公正列為內在品格，又說以天下人的目、耳、智慮可擴充見聞，主張領導判斷應納入群體視聽",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "gongsun-longzi",
+      "chapter": "1",
+      "para_index": 2,
+      "para_id": "gongsun-longzi#01-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "龍與孔穿會趙平原君家。穿曰：「素聞先生高誼，願爲弟子久，但不取先生以白馬爲非馬耳",
+      "note": "判斷兼來正文與注文：正文以孔穿欲師龍卻先令去其所教為「先敎而後師之」之悖，謝希深注又稱「人君唯私，其黨附之」及「曲士束于敎，不能博通……毁所不悟」，分別涉及偏私治理與人的品格",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "gongsun-longzi",
+      "chapter": "1",
+      "para_index": 3,
+      "para_id": "gongsun-longzi#01-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "公孫龍，趙平原君之客也。孔穿，孔子之葉也。穿與龍會，穿謂龍曰：「臣居魯，側聞下風",
+      "note": "判斷主要來自正文：尹文以忠、孝、信、順四行界定「士」，再以「見侮而不鬭」逼齊王承認取士與王法衝突、賞罸是非四繆；謝希深注「君不顧法，則國無政」亦明指治理後果",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "gongsun-longzi",
+      "chapter": "3",
+      "para_index": 6,
+      "para_id": "gongsun-longzi#03-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "且指者，天下之所兼。〈或一物而有是非二名，或彼此更相爲指，皆謂之兼也。〉天下無指",
+      "note": "正文仍推演指與非指，判斷來自謝希深注「聖人求人于是非之內，乃得無是非人也」，把推演落到對何種人的品格判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "gongsun-longzi",
+      "chapter": "原序",
+      "para_index": 1,
+      "para_id": "gongsun-longzi#07-p01",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "公孫龍子，姓公孫，名龍，字子秉，趙人也。以堅白之辯鳴於時。初爲平原君門客，平原君",
+      "note": "判斷來自序文正文：鄒衍以「不務相迷」規範正當之辯，樂正子輿以「佞給而不中，好怪而妄言」評其品格，序者又自陳「私心尚在疑信間」，兼具品格規範與疑惑的內在經驗",
+      "co_domains": [
+        "VI"
+      ]
+    },
     {
       "slug": "guanzi",
       "chapter": "七法",
@@ -19487,6 +19709,442 @@
       "co_domains": [
         "V",
         "VIII"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "佚文",
+      "para_index": 1,
+      "para_id": "yinwenzi#01-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "尹文子見齊宣王，宣王不言而嘆，尹文子曰：「何嘆？」王曰：「吾嘆國中寡賢。」尹文子",
+      "note": "齊宣王與尹文子的問答以賢與不肖的並存說明君臣上下及進退之序，兼及群體權力與品格評價",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "佚文",
+      "para_index": 12,
+      "para_id": "yinwenzi#01-p12",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "堯德化布於四海，仁惠被於蒼生。〈《昭明文選勸進表》注〉",
+      "note": "堯以德化與仁惠遍及四海蒼生，將仁德呈為能惠及群體的領導品格",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 3,
+      "para_id": "yinwenzi#02-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大道治者，則名、法、儒、墨自廢，以名、法、儒、墨治者，則不得離道。老子曰：「道者",
+      "note": "文本把以道而治者稱善人、藉名法儒墨者稱不善人，明確以所行之道作人的善惡評價",
+      "co_domains": []
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 9,
+      "para_id": "yinwenzi#02-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "善名命善，惡名命惡，故善有善名，惡有惡名。聖賢仁智，命善者也；頑嚚凶愚，命惡者也",
+      "note": "聖賢仁智與頑嚚凶愚的善惡之名未必盡合其實，直接處理人的品格評價是否名實相應",
+      "co_domains": []
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 10,
+      "para_id": "yinwenzi#02-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "名稱者，何彼此而檢虛實者也。自古至今，莫不用此而得，用彼而失。失者，由名分混；得",
+      "note": "親賢疏不肖、賞善罰惡把人的賢愚善惡評價直接連到親疏與賞罰的社會處置",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 15,
+      "para_id": "yinwenzi#02-p15",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "故有理而無益於治者，君子弗言；有能而無益於事者，君子弗為。君子非樂有言，有益於治",
+      "note": "君子只言有益於治、只做有益於事之事，將務實言行立為可任事者的品格標準",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 16,
+      "para_id": "yinwenzi#02-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "治外之理，小人之所必言事外之能，小人之所必為。小人亦知言損於治，而不能不言；小人",
+      "note": "小人明知言行損事仍不能自止而一味求名，明說其自制、品行與名聲追求的落差",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 17,
+      "para_id": "yinwenzi#02-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古語曰：不知無害於君子，知之無損於小人。工匠不能，無害於巧；君子不知，無害於治，",
+      "note": "偶有所不知不損君子之治，工匠有所不能也不損其巧，區分局部知能與整體品格能力",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 27,
+      "para_id": "yinwenzi#02-p27",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "昔晉國苦奢，文公以儉矯之，乃衣不重帛，食不兼肉，無幾時，人皆大布之衣，脫粟之飯。",
+      "note": "晉文示儉與越王敬怒蛙都使人民仿效節儉或勇敢，故事以群體模仿說明領導者如何塑造品行",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 30,
+      "para_id": "yinwenzi#02-p30",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "處名位，雖不肖，不患物不親己；在貧賤，雖仁賢，不患物不疏己。親疏係乎勢利，不係於",
+      "note": "人們因名位勢利而親不肖、因貧賤而疏仁賢，直說社會親疏不依人的實際品格",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 31,
+      "para_id": "yinwenzi#02-p31",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今天地之間，不肖實眾，仁賢實寡。趨利之情，不肖特厚；廉恥之情，仁賢偏多。今以禮義",
+      "note": "不肖者趨利之情厚、仁賢者廉恥之情多，並據此區分名利與禮義對不同品格者的作用",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 33,
+      "para_id": "yinwenzi#02-p33",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "接萬物使分，別海內使不雜，見侮不辱，見推不矜，禁暴息兵，救世之闘，此仁君之德，可",
+      "note": "不辱不矜、無私、飢飽毀譽同心及賞罰不怨被列為仁君與居下者應具的品格和角色責任",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 36,
+      "para_id": "yinwenzi#02-p36",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "楚人擔山雉者，路人問：「何鳥也？」擔雉者欺之曰：「鳳凰也。」路人曰：「我聞有鳳凰",
+      "note": "路人誤信山雉為鳳凰而田父又受鄰人欺騙失玉，兩則故事呈現信任、欺詐與貪圖如何改變財物和賞遇",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 37,
+      "para_id": "yinwenzi#02-p37",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡天下萬里，皆有是非，吾所不敢誣，是者常是，非者常非，亦吾所信。然是雖常是，有時",
+      "note": "是非雖各有其理，卻會隨時而有不用或必行並造成相反得失，觸及善惡判斷受時勢限制",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 39,
+      "para_id": "yinwenzi#02-p39",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "宋公以楚人戰於泓，公子目夷曰：「楚眾我寡，請其未悉濟而擊之。」宋公曰：「不可。吾",
+      "note": "宋公堅守不擊未成列之敵的原則卻戰敗被執，以情節呈現自認為是與實際成敗可能相反",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 40,
+      "para_id": "yinwenzi#02-p40",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊人弒襄公，立公孫無知。召忽、夷吾奉公子糾奔魯，鮑叔牙奉公子小白奔莒。既而無知被",
+      "note": "公子糾雖宜立卻被殺，小白因先入得國並用夷吾為相，故事呈現正當名分、忠節與現實權勢的錯位",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 41,
+      "para_id": "yinwenzi#02-p41",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "晉文公為驪姬之譖，出亡十九年，惠公卒，賂秦以求反國，殺懷公子而自立。",
+      "note": "晉文公以賄秦、殺懷公子而取得君位，故事以不正手段成功承載權勢與品格評價的衝突",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 42,
+      "para_id": "yinwenzi#02-p42",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "彼一君正，而不免於執；二君不正，霸業遂焉。己是而舉世非之，則不知己之是；己非而舉",
+      "note": "個人的是非會被舉世贊否動搖，而居權勢者又能使眾人尊從信法，直說群體共識與權力如何塑造善惡判斷",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道下",
+      "para_index": 4,
+      "para_id": "yinwenzi#03-p04",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "孔丘攝魯相，七日而誅少正卯。門人進問曰：「夫少正卯，魯之聞人也。夫子為政而先誅，",
+      "note": "孔子列心險、行僻、言偽等五惡並以少正卯聚徒熒眾為例，將個人惡德與群體危害相連",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道下",
+      "para_index": 6,
+      "para_id": "yinwenzi#03-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "語曰：「惡紫之奪朱，惡利口之覆邦家。」斯言足畏而終身莫悟，危亡繼踵焉。",
+      "note": "利口能覆邦家而人終身不悟其害，將欺飾言辭的品格問題連到群體危亡",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道下",
+      "para_index": 16,
+      "para_id": "yinwenzi#03-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人貧則怨人，富則驕人。怨人者，苦人之不祿施於己也，起於情所難安而不能安，猶可恕也",
+      "note": "人貧則怨、富則驕，且怨因難安而可恕、驕因可制而不可恕，兼論情緒與自制品格",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道下",
+      "para_index": 18,
+      "para_id": "yinwenzi#03-p18",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "窮獨貧賤，治世之所共矜，亂世之所共侮。治世非為矜窮獨貧賤而治，是治之一事也；亂世",
+      "note": "治世共同憐憫窮獨貧賤、亂世共同侮辱他們，以社會如何對待弱勢作為治亂與德行的一項表徵",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "序",
+      "para_index": 1,
+      "para_id": "yinwenzi#04-p01",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "尹文子者，蓋出於周之尹氏；齊宣王時居稷下，與宋鈃彭蒙田駢，同學於公孫龍；公孫龍稱",
+      "note": "莊子引文以「不苛於人，不忮於眾」和「願天下之安寧，以活民命」說出待人及品格準則，全段並敘尹文生平且有「余黃初本始到京師……意甚玩之」的第一人稱自述。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yuzi",
+      "chapter": "撰吏五帝三王傳政乙第五",
+      "para_index": 2,
+      "para_id": "yuzi#01-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "政曰：〈政者，法教也。此明帝王之政事，以為法教可稱也。〉君子不與人謀之則已矣。〈",
+      "note": "正文以「能必用道」「能必忠」「能必信」及「惡惡者行善」規定君子品格，逢行珪注又以「不明之主，君臣疏忌，小人侍側」說掌權者拒斥忠諫的領導關係。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yuzi",
+      "chapter": "大道文王問第八",
+      "para_index": 2,
+      "para_id": "yuzi#02-p02",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "政曰：昔者文王問於鬻子曰︰〈昔者，言往日也。雖臨馭億兆，而不獨專。從師問道，以求",
+      "note": "正文以文王問、鬻子答的情節提出「知其身之惡而不改也，以賊其身」，直接斷言明知惡行卻拒絕改變的品格與後果；逢行珪注「過則勿憚改」明確申說改過。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "yuzi",
+      "chapter": "撰吏五帝三王傳政乙第三",
+      "para_index": 2,
+      "para_id": "yuzi#05-p02",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "政曰：民者，賢不肖之杖也，賢不肖皆具焉。〈賢者，德行之名。不肖者，頑器之謂。夫賢",
+      "note": "正文以「賢人得焉，不肖人休焉」及十人至萬人愛之的層級連結品行、民意與職位，逢行珪注又明說「賢與不肖見於行，此二者同出於性而異名」及「有過人之智，必矜其能。恃能矜智，必違常道」，同時論人才任用與品格。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yuzi",
+      "chapter": "曲阜魯周公政甲第十四",
+      "para_index": 2,
+      "para_id": "yuzi#06-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "政曰昔者魯周公曰吾聞之於政也〈稱周公之言以明政者也〉知善不行者謂之狂〈善者體道懐",
+      "note": "判斷來自正文「知善不行者謂之狂，知惡不改者謂之惑」，直接替兩種品格失敗命名並作聖王之戒；逢行珪注再釋為「狂悖之人」與「昏惑之人」。",
+      "co_domains": []
+    },
+    {
+      "slug": "yuzi",
+      "chapter": "道符五帝三王傳政甲第二",
+      "para_index": 2,
+      "para_id": "yuzi#07-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "不肖者不自謂不肖也〈肖者類也言不類不似也自知賢不肖是為明也不似之人豈自稱哉言不知",
+      "note": "判斷來自正文「雖自謂賢，人猶謂之不肖」與「雖自謂智，人猶謂之愚」，明說自我評價、他人評價和言行實跡的落差；逢行珪注「丹朱傲虐」則以惡行申說不肖品格。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "yuzi",
+      "chapter": "湯政湯治天下理第七",
+      "para_index": 2,
+      "para_id": "yuzi#13-p02",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "天地闢而萬物生〈乾其静也專一其動也正直坤其静也翕斂其動也開闢是以廣大而生萬物也〉",
+      "note": "判斷來自正文「人化而為善，獸化而為惡，人而不善者謂之獸」，直接以善惡劃分人的品格與人獸身分；逢行珪注「萬物之中人其為貴，化而為善」加以申說，後半日月刻數的形式化鋪陳不改此命中。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "yuzi",
+      "chapter": "慎誅魯周公第六",
+      "para_index": 1,
+      "para_id": "yuzi#14-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "〈刑法有倫宜於時政好生之徳理適典章故明聖之資輔成周室誡勸之道所得稱言國之大經在於",
+      "note": "本段為篇題注解，無正文；雖以賞罰制度釋篇名，逢行珪注仍明稱「好生之徳」，把珍重生命說成治者應具的德性。",
+      "co_domains": []
+    },
+    {
+      "slug": "yuzi",
+      "chapter": "慎誅魯周公第六",
+      "para_index": 2,
+      "para_id": "yuzi#14-p02",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "昔者〈此昔者往日之辭也〉魯周公使康叔往守於殷〈康叔周公母弟也衛三監之地殷人數叛故",
+      "note": "正文敘周公遣康叔守殷並戒以「與殺不辜，寧失有罪」的情節，直接規定掌權者慎刑與寬仁；逢行珪注「怒而加誅未必當罪，喜而行賞未必當功」再指出情緒任刑會破壞公義。",
+      "co_domains": [
+        "V"
       ]
     }
   ]

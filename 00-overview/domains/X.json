@@ -2,11 +2,13 @@
   "domain": "X",
   "name_zh": "無常·老·死·失去",
   "gist": "老與時間、失去與哀傷、死亡、耐心與等待",
-  "generated_at": "2026-08-11T00:16:16+00:00",
-  "para_count": 203,
-  "book_count": 14,
+  "generated_at": "2026-08-11T09:27:06+00:00",
+  "para_count": 204,
+  "book_count": 15,
   "surveyed_zero_hit": [
+    "dengxizi",
     "fangyan",
+    "gongsun-longzi",
     "gu-sanfen",
     "haidao-suanjing",
     "jian-zhu-ke-shu",
@@ -20,7 +22,8 @@
     "shenyijing",
     "sima-fa",
     "weiliaozi",
-    "wuzi"
+    "wuzi",
+    "yuzi"
   ],
   "paras": [
     {
@@ -3066,6 +3069,20 @@
         "IV",
         "VII",
         "VIII"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道下",
+      "para_index": 8,
+      "para_id": "yinwenzi#03-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "老子曰：「民不畏死，如何以死懼之。」凡民之不畏死，由刑罰過。刑罰過，則民不賴其生",
+      "note": "刑罰過重使民不再依戀生存而不畏死，刑罰適中則因生可樂而畏死，明說制度如何改變人的生死態度",
+      "co_domains": [
+        "V"
       ]
     }
   ]

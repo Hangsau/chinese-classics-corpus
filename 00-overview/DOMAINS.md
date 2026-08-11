@@ -1,29 +1,29 @@
 # 標籤索引：13 個人生問題領域
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 生成時間 2026-08-11T00:16:16+00:00｜6337 筆領域標記｜來自 29 部已標註的書
+> 生成時間 2026-08-11T09:27:06+00:00｜6527 筆領域標記｜來自 33 部已標註的書
 
 書級 `domains_hit` 只能告訴你去哪本書找；這裡直接給段落（SCHEMA §1.1）。
 
 | 領域 | 名稱 | 命中段數 | 命中書數 | 通讀零命中書數 |
 |---|---|---|---|---|
-| [I](./domains/I.md) | 存在與意義 | 28 | 9 | 20 |
-| [II](./domains/II.md) | 自我與認同 | 469 | 19 | 10 |
-| [III](./domains/III.md) | 愛與親密 | 97 | 12 | 17 |
-| [IV](./domains/IV.md) | 家庭與傳承 | 426 | 20 | 9 |
-| [V](./domains/V.md) | 群體·社會·公義 | 2033 | 25 | 4 |
-| [VI](./domains/VI.md) | 情緒與內在生活 | 460 | 15 | 14 |
-| [VII](./domains/VII.md) | 善惡·良心·品格 | 1356 | 22 | 7 |
-| [VIII](./domains/VIII.md) | 工作·成就·召喚 | 656 | 24 | 5 |
-| [IX](./domains/IX.md) | 苦難·疾病·身體 | 108 | 16 | 13 |
-| [X](./domains/X.md) | 無常·老·死·失去 | 203 | 14 | 15 |
-| [XI](./domains/XI.md) | 自由·命運·改變 | 283 | 16 | 13 |
-| [XII](./domains/XII.md) | 信仰·神聖·超越 | 123 | 14 | 15 |
-| [XIII](./domains/XIII.md) | 安頓·修復·平安 | 95 | 12 | 17 |
+| [I](./domains/I.md) | 存在與意義 | 28 | 9 | 24 |
+| [II](./domains/II.md) | 自我與認同 | 477 | 22 | 11 |
+| [III](./domains/III.md) | 愛與親密 | 97 | 12 | 21 |
+| [IV](./domains/IV.md) | 家庭與傳承 | 428 | 21 | 12 |
+| [V](./domains/V.md) | 群體·社會·公義 | 2105 | 29 | 4 |
+| [VI](./domains/VI.md) | 情緒與內在生活 | 484 | 18 | 15 |
+| [VII](./domains/VII.md) | 善惡·良心·品格 | 1403 | 26 | 7 |
+| [VIII](./domains/VIII.md) | 工作·成就·召喚 | 677 | 28 | 5 |
+| [IX](./domains/IX.md) | 苦難·疾病·身體 | 109 | 17 | 16 |
+| [X](./domains/X.md) | 無常·老·死·失去 | 204 | 15 | 18 |
+| [XI](./domains/XI.md) | 自由·命運·改變 | 295 | 20 | 13 |
+| [XII](./domains/XII.md) | 信仰·神聖·超越 | 124 | 15 | 18 |
+| [XIII](./domains/XIII.md) | 安頓·修復·平安 | 96 | 13 | 20 |
 
 ## 缺口報告
 
-**未標註 43 部**——這些書的領域分佈目前是未知，不是零。上表任何一格的低數字都要先扣掉這批才有意義。
+**未標註 39 部**——這些書的領域分佈目前是未知，不是零。上表任何一格的低數字都要先扣掉這批才有意義。
 
 - `jinlouzi` 金樓子（人論，18 章，197,511 bytes）
 - `cai-zhonglang-ji` 蔡中郎集（儒家著述，170 章，255,990 bytes）
@@ -36,7 +36,6 @@
 - `xinxu` 新序（儒家著述，10 章，177,508 bytes）
 - `zhongjing` 忠經（儒家著述，18 章，8,756 bytes）
 - `zhonglun` 中論（儒家著述，25 章，73,781 bytes）
-- `gongsun-longzi` 公孫龍子（名家，7 章，34,526 bytes）
 - `lusheng-mobian-zhuxu` 魯勝墨辯注敘（名家，1 章，1,091 bytes）
 - `shuijingzhu` 水經注（地理，137 章，1,131,449 bytes）
 - `wenxin-diaolong` 文心雕龍（文論，52 章，148,000 bytes）
@@ -56,10 +55,8 @@
 - `yuejueshu` 越絕書（雜史，19 章，115,947 bytes）
 - `zhanguoce` 戰國策（雜史，511 章，1,381,483 bytes）
 - `zhushu-jinian` 竹書紀年（雜史，6 章，52,376 bytes）
-- `dengxizi` 鄧析子（雜家，2 章，11,380 bytes）
 - `guiguzi` 鬼谷子（雜家，21 章，118,764 bytes）
 - `lushi-chunqiu` 呂氏春秋（雜家，160 章，398,806 bytes）
-- `yinwenzi` 尹文子（雜家，4 章，24,718 bytes）
 - `qijing` 棋經（雜著，15 章，8,300 bytes）
 - `sanzijing` 三字經（雜著，1 章，4,256 bytes）
 - `songjingwen-gong-biji` 宋景文公筆記（雜著，7 章，39,604 bytes）
@@ -67,4 +64,3 @@
 - `qunshu-zhiyao` 群書治要（類書，347 章，1,608,754 bytes）
 - `yilin` 意林（類書，104 章，180,522 bytes）
 - `heguanzi` 鶡冠子（黃老，19 章，57,301 bytes）
-- `yuzi` 鬻子（黃老，14 章，19,151 bytes）

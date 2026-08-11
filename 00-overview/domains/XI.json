@@ -2,9 +2,9 @@
   "domain": "XI",
   "name_zh": "自由·命運·改變",
   "gist": "自由意志與命運、選擇與代價、改變與重來",
-  "generated_at": "2026-08-11T00:16:16+00:00",
-  "para_count": 283,
-  "book_count": 16,
+  "generated_at": "2026-08-11T09:27:06+00:00",
+  "para_count": 295,
+  "book_count": 20,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -21,6 +21,60 @@
     "wuzi"
   ],
   "paras": [
+    {
+      "slug": "dengxizi",
+      "chapter": "1",
+      "para_index": 12,
+      "para_id": "dengxizi#01-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "死生自命，富貴自時。怨夭折者，不知命也；怨貧賤者，不知時也。故臨難不懼，知天命也",
+      "note": "「死生自命，富貴自時」把夭折貧賤歸於命與時，並據此主張臨難不懼、貧窮無懾的自處方式",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "1",
+      "para_index": 19,
+      "para_id": "dengxizi#01-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫不擊折轊，水戾破舟，不怨木石，而罪巧拙，故不載焉。故有知則惑，有心則嶮，有目則",
+      "note": "「有知則惑，有心則嶮，有目則眩」斷言人的知心目會惑險眩，又說規矩不因秦楚胡越而改，主張準則不可隨境變易",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "2",
+      "para_index": 12,
+      "para_id": "dengxizi#02-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫人情，發言欲勝，舉事欲成。故明者不以其短，疾人之長；不以其拙，疾人之工。言有善",
+      "note": "「人情」被斷為發言欲勝、舉事欲成，而無堯舜之才卻慕其治終至顛殞，明說成就欲望受實際才能與改變能力限制",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "gongsun-longzi",
+      "chapter": "4",
+      "para_index": 2,
+      "para_id": "gongsun-longzi#04-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「謂變非不變可乎？」曰：「可。」〈一不可謂二，二亦不可謂一必矣。物有遷變之道",
+      "note": "正文主論變與不變，判斷來自謝希深注「忠變爲逆，存亡靡定，禍福不居，皆是一物化爲他類」，把形式變化明確落到人的立場與遭際可變",
+      "co_domains": []
+    },
     {
       "slug": "guanzi",
       "chapter": "勢",
@@ -4098,6 +4152,113 @@
       "note": "治未形，睹未萌者，君子也",
       "co_domains": [
         "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "佚文",
+      "para_index": 9,
+      "para_id": "yinwenzi#01-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "以智力求者，喻如奕棋，進退取與，攻劫放舍，在我者也。〈《藝文類聚七四》、《昭明文",
+      "note": "以弈棋比喻智力所求，明說進退取與等選擇在我，觸及人可自主掌握的範圍",
+      "co_domains": []
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "佚文",
+      "para_index": 10,
+      "para_id": "yinwenzi#01-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "博者，盡關塞之宜，得周通之路，而不能制齒之大小，在遇者也。〈《昭明文選策秀才文》",
+      "note": "能盡關塞道路卻不能控制齒之大小，並以在遇者界定能力之外的際遇",
+      "co_domains": []
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 22,
+      "para_id": "yinwenzi#02-p22",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "物奢，則仁、智相屈；分定，則貪、鄙不爭。圓者之轉，非能轉而轉，不得不轉也；方者之",
+      "note": "賢者不得不用、愚者不得用且用與不用皆非由我，將人的才能處置繫於既定之分而非自由選擇",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 23,
+      "para_id": "yinwenzi#02-p23",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "物皆不能自能，不知自知。智非能智而智，愚非能愚而愚，好非能好而好，醜非能醜而醜。",
+      "note": "智愚好醜皆非自己使自己成為如此，因此智者無由夸愚、貌好者無由嗤醜，連結非自選特質與平等相待",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 37,
+      "para_id": "yinwenzi#02-p37",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡天下萬里，皆有是非，吾所不敢誣，是者常是，非者常非，亦吾所信。然是雖常是，有時",
+      "note": "是非雖各有其理，卻會隨時而有不用或必行並造成相反得失，觸及善惡判斷受時勢限制",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 38,
+      "para_id": "yinwenzi#02-p38",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "觀堯、舜、湯、武之成，或順或逆，得時則昌。桀、紂、幽、厲之敗，或是或非，失時則亡",
+      "note": "堯舜湯武得時則昌、桀紂幽厲失時則亡，把成敗明確繫於是否得時",
+      "co_domains": []
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 39,
+      "para_id": "yinwenzi#02-p39",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "宋公以楚人戰於泓，公子目夷曰：「楚眾我寡，請其未悉濟而擊之。」宋公曰：「不可。吾",
+      "note": "宋公堅守不擊未成列之敵的原則卻戰敗被執，以情節呈現自認為是與實際成敗可能相反",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yuzi",
+      "chapter": "大道文王問第八",
+      "para_index": 2,
+      "para_id": "yuzi#02-p02",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "政曰：昔者文王問於鬻子曰︰〈昔者，言往日也。雖臨馭億兆，而不獨專。從師問道，以求",
+      "note": "正文以文王問、鬻子答的情節提出「知其身之惡而不改也，以賊其身」，直接斷言明知惡行卻拒絕改變的品格與後果；逢行珪注「過則勿憚改」明確申說改過。",
+      "co_domains": [
+        "VII"
       ]
     }
   ]

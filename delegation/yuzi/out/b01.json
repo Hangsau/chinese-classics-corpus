@@ -1,0 +1,201 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {
+      "chapter": "撰吏五帝三王傳政乙第五",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "本段為篇題注解，無正文；判斷來自逢行珪注「博求於良吏也。賢者舉之，不賢者不預」，明說人的賢否應與任職與否相配。"
+    },
+    {
+      "chapter": "撰吏五帝三王傳政乙第五",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "正文以「能必用道」「能必忠」「能必信」及「惡惡者行善」規定君子品格，逢行珪注又以「不明之主，君臣疏忌，小人侍側」說掌權者拒斥忠諫的領導關係。"
+    },
+    {
+      "chapter": "大道文王問第八",
+      "para_index": 1,
+      "domains": ["XII"],
+      "modes": ["proposition"],
+      "reason": "本段為篇題注解，無正文；逢行珪注把道說成「不可以言象盡」「包萬物之形」而又稱「有道之王，動而同之」，明說人與不可測之道相契的關係。"
+    },
+    {
+      "chapter": "大道文王問第八",
+      "para_index": 2,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition", "narrative"],
+      "reason": "正文以文王問、鬻子答的情節提出「知其身之惡而不改也，以賊其身」，直接斷言明知惡行卻拒絕改變的品格與後果；逢行珪注「過則勿憚改」明確申說改過。"
+    },
+    {
+      "chapter": "貴道五帝三王周政乙第五",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "本段為篇題注解，無正文；只解「貴道」與「周」為五帝三王政道合一完備的篇名結構，未另說人的樣態。"
+    },
+    {
+      "chapter": "貴道五帝三王周政乙第五",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "正文說帝王之明「以其吏」、君子之功「以其民」且功最於吏，逢行珪注「必屬賢能，以任使之」明說領導成效依賴把職務託付賢能；注中的神祐只作王權正當性敘述。"
+    },
+    {
+      "chapter": "守道五帝三王周政甲第四",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "本段為篇題注解，無正文；只用「執大象而天下往」訓釋守道及道不可暫離，沒有把人的樣態另立為論據。"
+    },
+    {
+      "chapter": "守道五帝三王周政甲第四",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "判斷來自正文對比聖人在上時賢士「百里而有一人則猶無有」與暴亂在上時「千里而有一人則猶比肩」，逢行珪注「人皆思德」進一步說政治環境會改變社會對賢才稀缺性與價值的感受。"
+    },
+    {
+      "chapter": "撰吏五帝三王傳政乙第三",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "本段為篇題注解，無正文；逢行珪注「帝王所以安國家……其在良吏乎」並主張「博廣以取」，把良吏才能與選任職務直接連結。"
+    },
+    {
+      "chapter": "撰吏五帝三王傳政乙第三",
+      "para_index": 2,
+      "domains": ["VII", "VIII"],
+      "modes": ["proposition", "formalization"],
+      "reason": "正文以「賢人得焉，不肖人休焉」及十人至萬人愛之的層級連結品行、民意與職位，逢行珪注又明說「賢與不肖見於行，此二者同出於性而異名」及「有過人之智，必矜其能。恃能矜智，必違常道」，同時論人才任用與品格。"
+    },
+    {
+      "chapter": "曲阜魯周公政甲第十四",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation", "formalization"],
+      "reason": "本段為篇題注解，無正文；只記曲阜方域、少昊之墟與周公封邑以解篇名，屬地理史實與命名說明。"
+    },
+    {
+      "chapter": "曲阜魯周公政甲第十四",
+      "para_index": 2,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "判斷來自正文「知善不行者謂之狂，知惡不改者謂之惑」，直接替兩種品格失敗命名並作聖王之戒；逢行珪注再釋為「狂悖之人」與「昏惑之人」。"
+    },
+    {
+      "chapter": "道符五帝三王傳政甲第二",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "本段為篇題注解，無正文；只解開國先道、道相符合以及甲先於乙的篇次，未提出人的自我或品格判斷。"
+    },
+    {
+      "chapter": "道符五帝三王傳政甲第二",
+      "para_index": 2,
+      "domains": ["II", "VII"],
+      "modes": ["proposition"],
+      "reason": "判斷來自正文「雖自謂賢，人猶謂之不肖」與「雖自謂智，人猶謂之愚」，明說自我評價、他人評價和言行實跡的落差；逢行珪注「丹朱傲虐」則以惡行申說不肖品格。"
+    },
+    {
+      "chapter": "數始五帝治天下第七",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "本段為篇題注解，無正文；只說本篇用年數記佐帝、升位及五帝政道相承，屬篇目與編年框架，未把人的樣態當作依據。"
+    },
+    {
+      "chapter": "數始五帝治天下第七",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization", "observation"],
+      "reason": "正文與注文只排列顓頊、帝嚳十五歲佐帝、二十或三十歲治天下及在位年數，並記其承襲前帝政道，屬世次年數和史事記錄。"
+    },
+    {
+      "chapter": "禹政第六",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "本段為篇題注解，無正文；只釋禹受玄圭、立政致太平而以「禹政」名篇，屬篇名緣由，未另作人的斷言。"
+    },
+    {
+      "chapter": "禹政第六",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "正文列臯陶、杜子業等七人，逢行珪注只確認「此以上七大夫之姓名也」，是佐治者姓名名錄而非對人的主張。"
+    },
+    {
+      "chapter": "湯政天下至紂第七",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation", "formalization"],
+      "reason": "本段為篇題注解，無正文；只撮述成湯至紂的興亡始末及賢臣佐治以交代篇名，屬史事與編題說明。"
+    },
+    {
+      "chapter": "湯政天下至紂第七",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization", "observation"],
+      "reason": "正文列慶輔、伊尹等七大夫及二十七世、五百七十六歲，注文只補姓名、世代與年數，是名錄和世系記錄。"
+    },
+    {
+      "chapter": "上禹政第六",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "本段為篇題注解，無正文；只以五聲聽政與「克勤于邦」解釋篇題的「上」，未展開對人的獨立斷言。"
+    },
+    {
+      "chapter": "上禹政第六",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["formalization", "observation"],
+      "reason": "前半正文把鐘、鼓、鐸、磬、鞀制成五類進言協定，後半則轉而記禹「一饋而七十起」並自言「吾猶恐四海之士留於道路」，逢行珪注「急於政事，無暇安於一食」明說其勤於職責並接納士人的領導樣態。"
+    },
+    {
+      "chapter": "道符五帝三王傳政甲第五",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "本段為篇題注解，無正文；逢行珪注以君子「入其職」則「人保其福」、離職則「人失其教」作因果斷言，將任職者表現與群體福祉、教化相連。"
+    },
+    {
+      "chapter": "道符五帝三王傳政甲第五",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "正文說卿相之位「賢者有之」「智者治之」且志與謀非一日可成，又以民得安業及仁、信、和、道衡量領導；逢行珪注「積功累業，行道不倦」和「不奪民時，不干民利」分別申說能力養成與掌權責任。"
+    },
+    {
+      "chapter": "湯政湯治天下理第七",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "本段為篇題注解，無正文；只以天地、陰陽、四時的生成秩序解釋政理可為法則的篇名旨趣，未說人的樣態。"
+    },
+    {
+      "chapter": "湯政湯治天下理第七",
+      "para_index": 2,
+      "domains": ["II", "VII"],
+      "modes": ["proposition", "formalization"],
+      "reason": "判斷來自正文「人化而為善，獸化而為惡，人而不善者謂之獸」，直接以善惡劃分人的品格與人獸身分；逢行珪注「萬物之中人其為貴，化而為善」加以申說，後半日月刻數的形式化鋪陳不改此命中。"
+    },
+    {
+      "chapter": "慎誅魯周公第六",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "本段為篇題注解，無正文；雖以賞罰制度釋篇名，逢行珪注仍明稱「好生之徳」，把珍重生命說成治者應具的德性。"
+    },
+    {
+      "chapter": "慎誅魯周公第六",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "正文敘周公遣康叔守殷並戒以「與殺不辜，寧失有罪」的情節，直接規定掌權者慎刑與寬仁；逢行珪注「怒而加誅未必當罪，喜而行賞未必當功」再指出情緒任刑會破壞公義。"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {
+      "chapter": "1",
+      "para_index": 1,
+      "domains": ["IV", "V"],
+      "modes": ["proposition"],
+      "reason": "「無厚」是對天／君／父／兄四層關係的斷言，並以貧窮致盜、子弟不得厚待等事逐層舉證"
+    },
+    {
+      "chapter": "1",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "君三累、臣四責是君臣職守與過失的條文列舉，只列項目，未說人為何如此"
+    },
+    {
+      "chapter": "1",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "全段以輿、策、馬、輪比喻勢、威、臣、民等治國要素，只說要素失調便危國，未提出人的樣態"
+    },
+    {
+      "chapter": "1",
+      "para_index": 4,
+      "domains": ["VI"],
+      "modes": ["proposition"],
+      "reason": "末句「君者，藏於匿影……掩目塞耳萬民恐震」斷言這種治術下萬民會陷於恐震，直接說出群眾的恐懼狀態"
+    },
+    {
+      "chapter": "1",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "循名責實、察法立威與明君審一都是君主察名實、立威定物的操作規則，未解釋人的性情"
+    },
+    {
+      "chapter": "1",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "位不可越、職不可亂、百官各務其形及賞罰不得隨喜怒，均是官制與賞罰條文，未說人為何如此"
+    },
+    {
+      "chapter": "1",
+      "para_index": 7,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "「負重者患塗遠，據貴者憂民離」把所處位置與人的憂患相連，並說居上而離民者雖勞亦不能治"
+    },
+    {
+      "chapter": "1",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "羆虎不在外圂、鯨鯢不在清池只是以物類與處所不合立喻，末列楚、陳等語又無足夠語境，未明說人的樣態"
+    },
+    {
+      "chapter": "1",
+      "para_index": 9,
+      "domains": ["II", "VII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "不見敬愛用被分別歸於不恭、不仁、不信等品格，又以「行等而名殊」明說同等行實可能得到不同名聲"
+    },
+    {
+      "chapter": "1",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "全段規定辯說應別殊類、序異端、通志意而不以飾詞匿詞相亂，是言辯方法，未說人為何如此"
+    },
+    {
+      "chapter": "1",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "先定謀慮與預先練兵是應變制敵的準備鏈條，只說不先準備便不能成功，未以人的樣態解釋其因"
+    },
+    {
+      "chapter": "1",
+      "para_index": 12,
+      "domains": ["XI", "XIII"],
+      "modes": ["proposition"],
+      "reason": "「死生自命，富貴自時」把夭折貧賤歸於命與時，並據此主張臨難不懼、貧窮無懾的自處方式"
+    },
+    {
+      "chapter": "1",
+      "para_index": 13,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "荒年與同舟遇風說共同處境、憂患和利益會改變人際反應，而「體痛則呼、心悅則笑」又斷言情緒會自然外現"
+    },
+    {
+      "chapter": "1",
+      "para_index": 14,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "遠而親、近而疏、就而不用、去而反求只是四種用人異常的綱目，稱其為明主之憂而未說人為何如此"
+    },
+    {
+      "chapter": "1",
+      "para_index": 15,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「政苛則無逸樂之士、令煩則民詐、政擾則民不定」明說苛煩政治會使民眾轉為欺詐與不安定"
+    },
+    {
+      "chapter": "1",
+      "para_index": 16,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "全段以無知無能、守虛責實及意德行道等抽象術語界定達道與辦事之法，未明說具體的人情或品行樣態"
+    },
+    {
+      "chapter": "1",
+      "para_index": 17,
+      "domains": ["VI", "VII"],
+      "modes": ["proposition"],
+      "reason": "「不進則退，不喜則憂，不得則亡，此世人之常」直述世人的得失情緒，並以選善退惡和知淺分判大辯、小辯的品格"
+    },
+    {
+      "chapter": "1",
+      "para_index": 18,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "舟行水上、車行陸上只用自然之道說明不治源於預知不足，是簡短的治事因果，未說人的樣態"
+    },
+    {
+      "chapter": "1",
+      "para_index": 19,
+      "domains": ["XI", "VII"],
+      "modes": ["proposition"],
+      "reason": "「有知則惑，有心則嶮，有目則眩」斷言人的知心目會惑險眩，又說規矩不因秦楚胡越而改，主張準則不可隨境變易"
+    },
+    {
+      "chapter": "1",
+      "para_index": 20,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「自見之明、借人見之闇；自聞之聰、借人聞之聾」明說領導者親自與假手他人察聞會形成相反判斷能力"
+    },
+    {
+      "chapter": "1",
+      "para_index": 21,
+      "domains": ["V", "VIII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "遠近親疏、任用與離求被逐項歸因於志、心、策謀是否相合，並落到君主擇人與士人進取的關係和仕進判斷"
+    },
+    {
+      "chapter": "2",
+      "para_index": 1,
+      "domains": ["VI"],
+      "modes": ["formalization", "proposition"],
+      "reason": "哀悲、樂喜、嗔怒、愁憂依「在己」或「在他」逐項異名，直接分類當事人與旁觀者所指稱的情緒"
+    },
+    {
+      "chapter": "2",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "依智、博、辯、貴、富、貧、勇、愚八類對象配置說辭，是說服技術的分類表，未解釋這些人為何如此"
+    },
+    {
+      "chapter": "2",
+      "para_index": 3,
+      "domains": ["VII"],
+      "modes": ["prescription"],
+      "reason": "勿妄言、妄為、妄取、妄爭的告誡最後以「惡言不出口，苟語不留耳」界定君子的言語品格"
+    },
+    {
+      "chapter": "2",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "闇、慧、仁、勇、信的任臣禁則與循名責實、按實定名的步驟，都是用人和形名程序，未說人為何具有這些樣態"
+    },
+    {
+      "chapter": "2",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "竊財者受誅而竊國者為諸侯直指權力與懲罰不公，並以仁義也可被大盜竊用來否定仁義必能矯人的主張"
+    },
+    {
+      "chapter": "2",
+      "para_index": 6,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "欲惡善惡、恭儉敬傲被置於德行得失中考察，又說含有信善之辭未必真是信善，直接辨析品格"
+    },
+    {
+      "chapter": "2",
+      "para_index": 7,
+      "domains": ["V", "VI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "除立法任臣的規則外，「臣懼其重誅之至，於是不敢行其私」明說重誅造成恐懼並改變臣下行為"
+    },
+    {
+      "chapter": "2",
+      "para_index": 8,
+      "domains": ["VI", "VIII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "心安靜、慮深遠被說成能生神策、成計謀，心躁慮淺則使精神滑、百事傾，直述內在狀態對成事能力的影響"
+    },
+    {
+      "chapter": "2",
+      "para_index": 9,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "上古之民敦樸、今世之民多詐及四聖君勤慎、四亂君疾賢若仇，都是民風與領導品格的對照斷言，人名僅作列證而無情節"
+    },
+    {
+      "chapter": "2",
+      "para_index": 10,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「畏儉則福生，驕奢則禍起」把謹慎節儉與驕奢品格連到治亂後果，並以家給人足、天下太平說領導所致的群體狀態"
+    },
+    {
+      "chapter": "2",
+      "para_index": 11,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "君主受臣下牽制且任喜怒行賞誅會失當，又以眾口鑠金、三人成虎說群言能扭曲判斷，兼及情緒與群體影響"
+    },
+    {
+      "chapter": "2",
+      "para_index": 12,
+      "domains": ["XI", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「人情」被斷為發言欲勝、舉事欲成，而無堯舜之才卻慕其治終至顛殞，明說成就欲望受實際才能與改變能力限制"
+    },
+    {
+      "chapter": "2",
+      "para_index": 13,
+      "domains": ["IV", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "孝衰於妻子直指新家庭關係對孝的牽動，而懈慢、恣欲、驕人等警語又把禍患歸於品格鬆弛"
+    },
+    {
+      "chapter": "2",
+      "para_index": 14,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "成事須合於數、使人聽從須合於情，並以薪火與地水說同類相應，仍是使事必成的技術原理，未明說人的樣態"
+    },
+    {
+      "chapter": "2",
+      "para_index": 15,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "中程者賞、缺繩者誅只是立法後的賞罰條文，且「君曰亂君，國曰亡國」語意有脫誤，不能據此硬推人的樣態"
+    },
+    {
+      "chapter": "2",
+      "para_index": 16,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "智者能察是非、明者能審去就，不能者則為虛妄，直接以辨別善惡與進退的能力判定人的品格"
+    },
+    {
+      "chapter": "2",
+      "para_index": 17,
+      "domains": ["V", "VII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "「心貴公」把公正列為內在品格，又說以天下人的目、耳、智慮可擴充見聞，主張領導判斷應納入群體視聽"
+    }
+  ]
+}

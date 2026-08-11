@@ -2,11 +2,12 @@
   "domain": "IV",
   "name_zh": "家庭與傳承",
   "gist": "婚姻與家庭、原生家庭的傷、為人父母、記憶與和解、留下什麼給後代",
-  "generated_at": "2026-08-11T00:16:16+00:00",
-  "para_count": 426,
-  "book_count": 20,
+  "generated_at": "2026-08-11T09:27:06+00:00",
+  "para_count": 428,
+  "book_count": 21,
   "surveyed_zero_hit": [
     "fangyan",
+    "gongsun-longzi",
     "haidao-suanjing",
     "jian-zhu-ke-shu",
     "jiuzhang-suanshu",
@@ -14,9 +15,40 @@
     "nanjing",
     "san-lue",
     "sima-fa",
-    "wuzi"
+    "wuzi",
+    "yinwenzi",
+    "yuzi"
   ],
   "paras": [
+    {
+      "slug": "dengxizi",
+      "chapter": "1",
+      "para_index": 1,
+      "para_id": "dengxizi#01-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天於人無厚也，君於民無厚也，父於子無厚也，兄於弟無厚也。何以言之？天不能屏勃厲之",
+      "note": "「無厚」是對天／君／父／兄四層關係的斷言，並以貧窮致盜、子弟不得厚待等事逐層舉證",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "2",
+      "para_index": 13,
+      "para_id": "dengxizi#02-p13",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "患生於官成，病始於少瘳，禍生於懈慢，孝衰於妻子。此四者。慎終如始也。富必給貧，壯",
+      "note": "孝衰於妻子直指新家庭關係對孝的牽動，而懈慢、恣欲、驕人等警語又把禍患歸於品格鬆弛",
+      "co_domains": [
+        "VII"
+      ]
+    },
     {
       "slug": "dongmingji",
       "chapter": "卷第一",

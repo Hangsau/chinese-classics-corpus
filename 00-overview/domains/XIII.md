@@ -1,17 +1,17 @@
 # XIII 安頓·修復·平安
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 95 段命中｜跨 12 部｜生成時間 2026-08-11T00:16:16+00:00
+> 96 段命中｜跨 13 部｜生成時間 2026-08-11T09:27:06+00:00
 
 靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈
 
-姿態分佈：`proposition` 55、`narrative` 38、`prescription` 30、`expression` 24、`observation` 9、`ritual` 6、`formalization` 1
+姿態分佈：`proposition` 56、`narrative` 38、`prescription` 30、`expression` 24、`observation` 9、`ritual` 6、`formalization` 1
 
 ## 已通讀但本領域零命中
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`fangyan`（方言）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`qianfulun`（潛夫論）　`shanghanlun`（傷寒論）　`shangjunshu`（商君書）　`shenyijing`（神異經）　`shuowen-jiezi`（說文解字）　`sima-fa`（司馬法）　`sunzi-bingfa`（孫子兵法）　`weiliaozi`（尉繚子）　`wuzi`（吳子）
+`fangyan`（方言）　`gongsun-longzi`（公孫龍子）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`qianfulun`（潛夫論）　`shanghanlun`（傷寒論）　`shangjunshu`（商君書）　`shenyijing`（神異經）　`shuowen-jiezi`（說文解字）　`sima-fa`（司馬法）　`sunzi-bingfa`（孫子兵法）　`weiliaozi`（尉繚子）　`wuzi`（吳子）　`yinwenzi`（尹文子）　`yuzi`（鬻子）
 
 ## 世說新語（人論）　25 段
 
@@ -149,6 +149,12 @@
 |---|---|---|---|---|
 | 釋爭 | 7 | `proposition` `prescription` | 是故，君子之求勝也，以推讓為利銳，以自修為棚櫓；靜則閉嘿泯之玄門，動則由恭順之通 | ＋VII 引《易》訟卦與《老子》「夫惟不爭」。 |
 | 釋爭 | 13 | `proposition` | 彼君子知自損之為益，故功一而美二；小人不知自益之為損，故一伐而並失。由此論之，則 | ＋VII  |
+
+## 鄧析子（雜家）　1 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| 1 | 12 | `proposition` | 死生自命，富貴自時。怨夭折者，不知命也；怨貧賤者，不知時也。故臨難不懼，知天命也 | ＋XI 「死生自命，富貴自時」把夭折貧賤歸於命與時，並據此主張臨難不懼、貧窮無懾的自處方式 |
 
 ## 洞冥記（志怪）　1 段
 

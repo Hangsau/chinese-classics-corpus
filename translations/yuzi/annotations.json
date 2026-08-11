@@ -1,0 +1,505 @@
+[
+  {
+    "para_id": "yuzi#01-p01",
+    "anchor": {
+      "chapter": "撰吏五帝三王傳政乙第五",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "本段為篇題注解，無正文；判斷來自逢行珪注「博求於良吏也。賢者舉之，不賢者不預」，明說人的賢否應與任職與否相配。",
+    "excerpt": "〈撰，具也。吏者，為政之具也。又撰，博也。言王者布政施令，其在博求於良吏也。賢者",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#01-p02",
+    "anchor": {
+      "chapter": "撰吏五帝三王傳政乙第五",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "正文以「能必用道」「能必忠」「能必信」及「惡惡者行善」規定君子品格，逢行珪注又以「不明之主，君臣疏忌，小人侍側」說掌權者拒斥忠諫的領導關係。",
+    "excerpt": "政曰：〈政者，法教也。此明帝王之政事，以為法教可稱也。〉君子不與人謀之則已矣。〈",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#02-p01",
+    "anchor": {
+      "chapter": "大道文王問第八",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "本段為篇題注解，無正文；逢行珪注把道說成「不可以言象盡」「包萬物之形」而又稱「有道之王，動而同之」，明說人與不可測之道相契的關係。",
+    "excerpt": "〈夫道者，覆天地，廓四方，斥八極。高而無際，深不可測，綿六合，横四維。不可以言象",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#02-p02",
+    "anchor": {
+      "chapter": "大道文王問第八",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VII",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "正文以文王問、鬻子答的情節提出「知其身之惡而不改也，以賊其身」，直接斷言明知惡行卻拒絕改變的品格與後果；逢行珪注「過則勿憚改」明確申說改過。",
+    "excerpt": "政曰：昔者文王問於鬻子曰︰〈昔者，言往日也。雖臨馭億兆，而不獨專。從師問道，以求",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#03-p01",
+    "anchor": {
+      "chapter": "貴道五帝三王周政乙第五",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "本段為篇題注解，無正文；只解「貴道」與「周」為五帝三王政道合一完備的篇名結構，未另說人的樣態。",
+    "excerpt": "〈夫為政以德，必貴於道，為化國之福焉。當文王之時，而通稱三王者，據近以及遠，明道",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#03-p02",
+    "anchor": {
+      "chapter": "貴道五帝三王周政乙第五",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "正文說帝王之明「以其吏」、君子之功「以其民」且功最於吏，逢行珪注「必屬賢能，以任使之」明說領導成效依賴把職務託付賢能；注中的神祐只作王權正當性敘述。",
+    "excerpt": "昔之帝王，〈昔者，在昔貴道德之帝王。稱昔者，以遠喻近，為之勸也。〉所以為明者，以",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#04-p01",
+    "anchor": {
+      "chapter": "守道五帝三王周政甲第四",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "本段為篇題注解，無正文；只用「執大象而天下往」訓釋守道及道不可暫離，沒有把人的樣態另立為論據。",
+    "excerpt": "〈執大象而天下往，明道不往，則道不可暫離所也。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#04-p02",
+    "anchor": {
+      "chapter": "守道五帝三王周政甲第四",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "判斷來自正文對比聖人在上時賢士「百里而有一人則猶無有」與暴亂在上時「千里而有一人則猶比肩」，逢行珪注「人皆思德」進一步說政治環境會改變社會對賢才稀缺性與價值的感受。",
+    "excerpt": "聖人在上，賢士百里而有一人，則猶無有也。〈言聖王在上，化被蒼生，德周萬物。雖百里",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#05-p01",
+    "anchor": {
+      "chapter": "撰吏五帝三王傳政乙第三",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "本段為篇題注解，無正文；逢行珪注「帝王所以安國家……其在良吏乎」並主張「博廣以取」，把良吏才能與選任職務直接連結。",
+    "excerpt": "〈帝王所以安國家，行政教，其在良吏乎！言必博廣以取也。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#05-p02",
+    "anchor": {
+      "chapter": "撰吏五帝三王傳政乙第三",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VII",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "正文以「賢人得焉，不肖人休焉」及十人至萬人愛之的層級連結品行、民意與職位，逢行珪注又明說「賢與不肖見於行，此二者同出於性而異名」及「有過人之智，必矜其能。恃能矜智，必違常道」，同時論人才任用與品格。",
+    "excerpt": "政曰：民者，賢不肖之杖也，賢不肖皆具焉。〈賢者，德行之名。不肖者，頑器之謂。夫賢",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#06-p01",
+    "anchor": {
+      "chapter": "曲阜魯周公政甲第十四",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "本段為篇題注解，無正文；只記曲阜方域、少昊之墟與周公封邑以解篇名，屬地理史實與命名說明。",
+    "excerpt": "〈曲阜之地方七百里少昊之墟是魯周公所封之邑以周公禆益政禮故稱之以為篇耳〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#06-p02",
+    "anchor": {
+      "chapter": "曲阜魯周公政甲第十四",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "判斷來自正文「知善不行者謂之狂，知惡不改者謂之惑」，直接替兩種品格失敗命名並作聖王之戒；逢行珪注再釋為「狂悖之人」與「昏惑之人」。",
+    "excerpt": "政曰昔者魯周公曰吾聞之於政也〈稱周公之言以明政者也〉知善不行者謂之狂〈善者體道懐",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#07-p01",
+    "anchor": {
+      "chapter": "道符五帝三王傳政甲第二",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "本段為篇題注解，無正文；只解開國先道、道相符合以及甲先於乙的篇次，未提出人的自我或品格判斷。",
+    "excerpt": "〈夫開國崇基必先於道道既符合無往不真影響相同自然合應甲者先於乙也〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#07-p02",
+    "anchor": {
+      "chapter": "道符五帝三王傳政甲第二",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "II",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "判斷來自正文「雖自謂賢，人猶謂之不肖」與「雖自謂智，人猶謂之愚」，明說自我評價、他人評價和言行實跡的落差；逢行珪注「丹朱傲虐」則以惡行申說不肖品格。",
+    "excerpt": "不肖者不自謂不肖也〈肖者類也言不類不似也自知賢不肖是為明也不似之人豈自稱哉言不知",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#08-p01",
+    "anchor": {
+      "chapter": "數始五帝治天下第七",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "本段為篇題注解，無正文；只說本篇用年數記佐帝、升位及五帝政道相承，屬篇目與編年框架，未把人的樣態當作依據。",
+    "excerpt": "〈言帝者年數之始以記其佐帝及升位之年數也天下者豈可忘理哉亦由積徳累業以有之也言五",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#08-p02",
+    "anchor": {
+      "chapter": "數始五帝治天下第七",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "observation"
+    ],
+    "confidence": null,
+    "note": "正文與注文只排列顓頊、帝嚳十五歲佐帝、二十或三十歲治天下及在位年數，並記其承襲前帝政道，屬世次年數和史事記錄。",
+    "excerpt": "昔者帝顓頊〈黄帝正妃曰嫘祖生昌意昌意生顓頊為髙陽氏在位七十八年〉年十五而佐黄帝〈",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#09-p01",
+    "anchor": {
+      "chapter": "禹政第六",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "本段為篇題注解，無正文；只釋禹受玄圭、立政致太平而以「禹政」名篇，屬篇名緣由，未另作人的斷言。",
+    "excerpt": "〈伯禹夏后氏言禹功錫玄圭徳諧元始仁賢立政以致太平可為法則故以名篇矣〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#09-p02",
+    "anchor": {
+      "chapter": "禹政第六",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "正文列臯陶、杜子業等七人，逢行珪注只確認「此以上七大夫之姓名也」，是佐治者姓名名錄而非對人的主張。",
+    "excerpt": "禹之治天下也〈黄帝玄孫祖顓頊姓姒名文命字髙宻在位九年受禪成功曰禹受舜禪以臨天下〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#10-p01",
+    "anchor": {
+      "chapter": "湯政天下至紂第七",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "本段為篇題注解，無正文；只撮述成湯至紂的興亡始末及賢臣佐治以交代篇名，屬史事與編題說明。",
+    "excerpt": "〈言成湯放無道之桀以統萬機而理天下得賢大夫贊佐而致太平至紂昏惑以失國故終始書之以",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#10-p02",
+    "anchor": {
+      "chapter": "湯政天下至紂第七",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "observation"
+    ],
+    "confidence": null,
+    "note": "正文列慶輔、伊尹等七大夫及二十七世、五百七十六歲，注文只補姓名、世代與年數，是名錄和世系記錄。",
+    "excerpt": "湯之治天下也〈湯姓子名履字天乙除虐去殘曰湯征葛伯放桀順取天下以理也〉得慶輔伊尹湟",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#11-p01",
+    "anchor": {
+      "chapter": "上禹政第六",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "本段為篇題注解，無正文；只以五聲聽政與「克勤于邦」解釋篇題的「上」，未展開對人的獨立斷言。",
+    "excerpt": "〈以五聲聽政克勤于邦可以為上也〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#11-p02",
+    "anchor": {
+      "chapter": "上禹政第六",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "formalization",
+      "observation"
+    ],
+    "confidence": null,
+    "note": "前半正文把鐘、鼓、鐸、磬、鞀制成五類進言協定，後半則轉而記禹「一饋而七十起」並自言「吾猶恐四海之士留於道路」，逢行珪注「急於政事，無暇安於一食」明說其勤於職責並接納士人的領導樣態。",
+    "excerpt": "禹之治天下也以五聲聴〈九重幽深下言難達所欲百姓反斥救之事故懸置五聲招之以聽政也〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#12-p01",
+    "anchor": {
+      "chapter": "道符五帝三王傳政甲第五",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "本段為篇題注解，無正文；逢行珪注以君子「入其職」則「人保其福」、離職則「人失其教」作因果斷言，將任職者表現與群體福祉、教化相連。",
+    "excerpt": "〈夫君子将入其職旭旭然如日初出光昭昭然人保其福既去暗暗然人失其教此得政典符合之謂",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#12-p02",
+    "anchor": {
+      "chapter": "道符五帝三王傳政甲第五",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "正文說卿相之位「賢者有之」「智者治之」且志與謀非一日可成，又以民得安業及仁、信、和、道衡量領導；逢行珪注「積功累業，行道不倦」和「不奪民時，不干民利」分別申說能力養成與掌權責任。",
+    "excerpt": "夫國者卿相世賢者有之〈有國則有卿相賢徳者卿相之具人與之王用之不賢者豈能用之哉〉有",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#13-p01",
+    "anchor": {
+      "chapter": "湯政湯治天下理第七",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "本段為篇題注解，無正文；只以天地、陰陽、四時的生成秩序解釋政理可為法則的篇名旨趣，未說人的樣態。",
+    "excerpt": "〈天地設而萬物生隂陽化而四時定分則統理為政之方極於始終可成法則也〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#13-p02",
+    "anchor": {
+      "chapter": "湯政湯治天下理第七",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "II",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "判斷來自正文「人化而為善，獸化而為惡，人而不善者謂之獸」，直接以善惡劃分人的品格與人獸身分；逢行珪注「萬物之中人其為貴，化而為善」加以申說，後半日月刻數的形式化鋪陳不改此命中。",
+    "excerpt": "天地闢而萬物生〈乾其静也專一其動也正直坤其静也翕斂其動也開闢是以廣大而生萬物也〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#14-p01",
+    "anchor": {
+      "chapter": "慎誅魯周公第六",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "本段為篇題注解，無正文；雖以賞罰制度釋篇名，逢行珪注仍明稱「好生之徳」，把珍重生命說成治者應具的德性。",
+    "excerpt": "〈刑法有倫宜於時政好生之徳理適典章故明聖之資輔成周室誡勸之道所得稱言國之大經在於",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  },
+  {
+    "para_id": "yuzi#14-p02",
+    "anchor": {
+      "chapter": "慎誅魯周公第六",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "正文敘周公遣康叔守殷並戒以「與殺不辜，寧失有罪」的情節，直接規定掌權者慎刑與寬仁；逢行珪注「怒而加誅未必當罪，喜而行賞未必當功」再指出情緒任刑會破壞公義。",
+    "excerpt": "昔者〈此昔者往日之辭也〉魯周公使康叔往守於殷〈康叔周公母弟也衛三監之地殷人數叛故",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-11T17:19:55+08:00"
+  }
+]
