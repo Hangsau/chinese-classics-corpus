@@ -2,9 +2,9 @@
   "domain": "XIII",
   "name_zh": "安頓·修復·平安",
   "gist": "靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈",
-  "generated_at": "2026-08-10T06:16:28+00:00",
-  "para_count": 77,
-  "book_count": 11,
+  "generated_at": "2026-08-11T00:16:16+00:00",
+  "para_count": 95,
+  "book_count": 12,
   "surveyed_zero_hit": [
     "fangyan",
     "gu-sanfen",
@@ -37,6 +37,275 @@
       "note": "董謁因好學而在家貧與圖書繁重中以樹葉代簡、荊條作床，寫出求學及因應困境的方法",
       "co_domains": [
         "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第11篇宙合",
+      "para_index": 4,
+      "para_id": "guanzi#16-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「春采生，秋采蓏，夏處陰，冬處陽」，此言聖人之動靜、開闔、詘信、浧儒，取與之必因",
+      "note": "賢人處亂世時沈抑靜默以避罰免禍，仍「退身不舍端，脩業不息版」以待清明，說的是守德與安頓逆境。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第26篇戒",
+      "para_index": 3,
+      "para_id": "guanzi#29-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "管仲復於桓公曰：「任之重者莫如身，塗之畏者莫如口，期而遠者莫如年。以重任行畏塗，",
+      "note": "本段以「好惡喜怒哀樂」說內在之變，以仁義、孝弟、忠信說品格，又以「靜然定生」與無懾無驕說內在安定，三者缺一即少掉一層明說的修養內容。",
+      "co_domains": [
+        "VI",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第36篇心術上",
+      "para_index": 1,
+      "para_id": "guanzi#38-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "心之在體，君之位也。九竅之有職，官之分也。心處其道，九竅循理。嗜欲充益，目不見色",
+      "note": "「嗜欲充益，目不見色，耳不聞聲」說欲望蒙蔽感官，又以「動則失位，靜乃自得」「虛其欲」指向內在安頓",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第36篇心術上",
+      "para_index": 2,
+      "para_id": "guanzi#38-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "天曰虛，地曰靜，乃不伐。絜其宮，開其門，去私毋言，神明若存。紛乎其若亂，靜之而自",
+      "note": "「人之可殺，以其惡死也；其可不利，以其好利也」直述好惡，又以不怵好惡、恬愉無爲為安定之道",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第36篇心術上",
+      "para_index": 3,
+      "para_id": "guanzi#38-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "心之在體，君之位也。九竅之有職，官之分也。耳目者，視聽之官也。心而無與視聽之事，",
+      "note": "「夫心有欲者，物過而目不見」說欲使心失職，並以「去欲則宣，宣則靜」展開由去欲而清明安靜的修養次第",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第36篇心術上",
+      "para_index": 5,
+      "para_id": "guanzi#38-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "名者，聖人之所以紀萬物也。人者，立於强，務於善，未於能，動於故者也。聖人無之，無",
+      "note": "「人迫於惡則失其所好，怵於好則忘其所惡」說好惡如何役心，並以恬愉、感而後應、物過則舍為復歸虛靜之法",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第37篇心術下",
+      "para_index": 1,
+      "para_id": "guanzi#39-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "形不正者德不來，中不精者心不治。正形飾德，萬物畢得。翼然自來，神莫知其極。昭知天",
+      "note": "「形不正者德不來，中不精者心不治」把形正、德與治心相連，並以「意氣定然后反正」及無私說明內在復正",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第37篇心術下",
+      "para_index": 3,
+      "para_id": "guanzi#39-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "心安，是國安也。心治，是國治也。治也者，心也。安也者，心也。治心在中，治言出於口",
+      "note": "「心安，是國安也；心治，是國治也」直接把人的內在安治視為群體與政治安治的根本",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第37篇心術下",
+      "para_index": 5,
+      "para_id": "guanzi#39-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡民之生也，必以正乎；所以失之者，必以喜樂哀怒。節怒莫若樂，節樂莫若禮，守禮莫若",
+      "note": "「所以失之者，必以喜樂哀怒」指出情緒使人失其正，又以樂、禮、敬節制情緒而「反其性」作為復歸之道",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第38篇白心",
+      "para_index": 7,
+      "para_id": "guanzi#40-p07",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "道之大如天，其廣如地，其重如石，其輕如羽。民之所以知者寡，故曰：何道之近而莫之與",
+      "note": "「欲愛吾身，先知吾情」把自我體察作為養生之始，「和以反中，形性相葆」則直述內在和合的安頓工夫",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第49篇內業",
+      "para_index": 1,
+      "para_id": "guanzi#50-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡物之精，此則爲生。下生五穀，上爲列星。流於天地之閒，謂之鬼神。藏於胷中，謂之聖",
+      "note": "精氣藏於胸中可成聖人，且須以德安之、敬守勿失而成德生智，直接論內在安頓與品格修養",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第49篇內業",
+      "para_index": 2,
+      "para_id": "guanzi#50-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡心之刑，自充自盈，自生自成。其所以失之，必以憂樂喜怒欲利。能去憂樂喜怒欲利，心",
+      "note": "心因憂樂喜怒欲利而失，去除煩亂便可反濟成和，明說情緒欲求與寧靜安頓心靈的關係",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第49篇內業",
+      "para_index": 3,
+      "para_id": "guanzi#50-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡道無所，善心安愛。心靜氣理，道乃可止。彼道不遠，民得以產。彼道不離，民因以知。",
+      "note": "修心靜音、正形可使道止於心，而人得之以生、失之以死，將內在修養直接連到生死得失",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第49篇內業",
+      "para_index": 4,
+      "para_id": "guanzi#50-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡道，無根無莖，無葉無榮；萬物以生，萬物以成，命之曰道。天主正，地主平，人主安靜",
+      "note": "反覆以正靜、治心、心安與守一說明內在安頓，又以不為物使、敬慎不忒、日新其德明定修養所得的品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第49篇內業",
+      "para_index": 5,
+      "para_id": "guanzi#50-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡道必周必密，必寬必舒，必堅必固。守善勿舍，逐淫澤薄，既知其極，反於道德。全心在",
+      "note": "文本要求全心守善、由己反覆思求，並明言通達「非鬼神之力也，精氣之極也」，把吉凶之知歸於人的內在修養",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第49篇內業",
+      "para_index": 8,
+      "para_id": "guanzi#50-p08",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡人之生也，必以其歡。憂則失紀，怒則失端。憂悲喜怒，道乃無處。愛慾靜之，遇亂正之",
+      "note": "憂怒使人失紀端、躁使道失，而靜欲正亂、執靜節欲可使道定且萬物不害，直論情緒調節與內在安頓",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第53篇禁藏",
+      "para_index": 2,
+      "para_id": "guanzi#54-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "故聖人之制事也，能節宮室、適車輿以實藏，則國必富，位必尊。能適衣服，去玩好以奉本",
+      "note": "既直陳凡人得欲則樂、逢惡則憂，又以賢不肖見於欲行及立身有節為品格分界，終以意定、怨怒不生描寫內在安頓",
+      "co_domains": [
+        "VI",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第55篇九守",
+      "para_index": 1,
+      "para_id": "guanzi#56-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "安徐而靜，柔節先定，虛心平意以待須。",
+      "note": "「安徐而靜」「虛心平意」直接要求內心平靜而安定地等待事物到來",
+      "co_domains": [
+        "VI"
       ]
     },
     {

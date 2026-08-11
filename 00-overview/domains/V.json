@@ -2,9 +2,9 @@
   "domain": "V",
   "name_zh": "群體·社會·公義",
   "gist": "孤獨與歸屬、友誼、我群他群與偏見、公義與權力、責任與領導",
-  "generated_at": "2026-08-10T06:16:28+00:00",
-  "para_count": 1699,
-  "book_count": 24,
+  "generated_at": "2026-08-11T00:16:16+00:00",
+  "para_count": 2033,
+  "book_count": 25,
   "surveyed_zero_hit": [
     "haidao-suanjing",
     "jinkui-yaolue",
@@ -491,6 +491,4887 @@
       "excerpt": "皇曰：天師俌相五正，百官、士子、農夫、啇人、工技，鹹順我言，終身於休。",
       "note": "要求各級官民工職順從政令，並以終身安樂作為遵行的結果",
       "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "七法",
+      "para_index": 2,
+      "para_id": "guanzi#01-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "百匿傷上威，姦吏傷官法，姦民傷俗教，賊盜傷國衆。威傷則重在下，法傷則貨上流，教傷",
+      "note": "以「論功計勞未嘗失法律」及不因親貴增功、卑賤忘勞，斷言公正賞罰會使有罪者不怨、愛賞者不貪，並使士卒輕死安難",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "七法",
+      "para_index": 4,
+      "para_id": "guanzi#01-p04",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "若夫曲制時舉，不失天時，毋壙地利，其數多少，其要必出於計數。故凡攻伐之爲道也，計",
+      "note": "「官無常，下怨上」與「賞罰不明，則民幸生」直說制度失序會造成怨懟與僥倖心，並影響勇士是否受勸",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "七法/四傷百匿",
+      "para_index": 1,
+      "para_id": "guanzi#03-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "百匿傷上威。姦吏傷官法。姦民傷俗教。賊盜傷國眾。威傷，則重在下。法傷，則貨上流。",
+      "note": "不因親貴增功、也不忘卑賤者之勞的公平論功，會使有罪者不怨、愛賞者不貪並使士卒安難，明說公正領導與人的品行反應",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "勢",
+      "para_index": 3,
+      "para_id": "guanzi#06-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故賢者誠信以仁之，慈惠以愛之。端政象，不敢以先人。中靜不留，裕德無求，形於女色。",
+      "note": "「賢者誠信以仁之，慈惠以愛之」及「先德後刑」直接刻畫賢者的仁慈誠信與養民、不爭的領導品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第01篇牧民",
+      "para_index": 1,
+      "para_id": "guanzi#07-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡有地牧民者，務在四時，守在倉廩。國多財則遠者來，地辟舉則民留處，倉廩實則知禮節",
+      "note": "「倉廩實則知禮節，衣食足則知榮辱」斷言物質安定會形成禮節榮辱之知，並把君上守度與民眾品行及政令秩序相連",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第01篇牧民",
+      "para_index": 3,
+      "para_id": "guanzi#07-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "政之所興，在順民心；政之所廢，在逆民心。民惡憂勞，我佚樂之；民惡貧賤，我富貴之；",
+      "note": "「民惡憂勞，我佚樂之；民惡貧賤，我富貴之」直說民的好惡，並以順民四欲為政治親附的依據",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第01篇牧民",
+      "para_index": 4,
+      "para_id": "guanzi#07-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "錯國於不傾之地，積於不涸之倉，藏於不竭之府，下令於流水之原。使民於不爭之官，明必",
+      "note": "「使各爲其所長」「量民力」要求按人的長處與能力用事，又以不強其所惡、不欺其民說明領導如何取得親附",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第01篇牧民",
+      "para_index": 5,
+      "para_id": "guanzi#07-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "以家爲鄉，鄉不可爲也。以鄉爲國，國不可爲也。以國爲天下，天下不可爲也。以家爲家，",
+      "note": "君之好惡會被臣下仿效，而「知時」「無私」「察於用」才可為長為政，直接論領導者的品格及其社會影響",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第02篇形勢",
+      "para_index": 1,
+      "para_id": "guanzi#08-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "山高而不崩，則祈羊至矣。淵深而不涸，則沈玉極矣。天不變其常，地不易其則，春秋冬夏",
+      "note": "「貴有以行令，賤有以忘卑，壽夭貧富無徒歸」把權位與壽夭貧富都說成有所憑藉而非無故歸至人的處境",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第02篇形勢",
+      "para_index": 2,
+      "para_id": "guanzi#08-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "上無事則民自試，抱蜀不言而廟堂既脩。鴻鵠鏘鏘，唯民歌之。濟濟多士，殷民化之。紂之",
+      "note": "「上無事則民自試」及多士使民化說明領導方式如何引出人的自我展現，而羿、造父、奚仲之道又被說成不止於表面技藝",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第02篇形勢",
+      "para_index": 4,
+      "para_id": "guanzi#08-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "墜岸三仞，人之所大難也，而猿猱飲焉。故曰：伐矜好專，舉事之禍也。不行其野，不違其",
+      "note": "「伐矜好專」被定為舉事之禍，且「君不君則臣不臣，父不父則子不子」明說品格失位會破壞上下與親屬關係",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第02篇形勢",
+      "para_index": 7,
+      "para_id": "guanzi#08-p07",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "烏鳥之狡，雖善不親。不重之結，雖固必解。道之用也，貴其重也。毋與不可，毋彊不能，",
+      "note": "「自媒之女，醜而不信」及顯施而不報等語直論信任與交往，末又以不可復之言、不可再之行規範君主的操守",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第03篇權修",
+      "para_index": 1,
+      "para_id": "guanzi#09-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "萬乘之國，兵不可以無主。土地博大，野不可以無吏。百姓殷衆，官不可以無長。操民之命",
+      "note": "「賞罰不信則民無取」直接把百姓的行動取向繫於賞罰是否可信，是權力制度塑造群體行為的斷言",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第03篇權修",
+      "para_index": 2,
+      "para_id": "guanzi#09-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "地辟而國貧者，舟輿飾，臺榭廣也。賞罰信而兵弱者，輕用衆，使民勞也。舟車臺榭廣，則",
+      "note": "「賦斂厚則下怨上」「民力竭則令不行」明說苛斂與勞役會造成下民怨上及拒斥政令",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第03篇權修",
+      "para_index": 4,
+      "para_id": "guanzi#09-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "地之生財有時，民之用力有倦，而人君之欲無窮，以有時與有倦，養無窮之君，而度量不生",
+      "note": "文本以「民之用力有倦」對照君欲無窮，又明說祿食失度會使民離上、不力、多詐、偷幸，論及權力分配與品行變化",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第03篇權修",
+      "para_index": 5,
+      "para_id": "guanzi#09-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "野與市爭民，家與府爭貨，金與粟爭貴，鄉與朝爭治。故野不積草，農事先也；府不積貨，",
+      "note": "「人情不二」以下以好惡、交游判長短賢否，並將身、家、鄉、國之治與廉恥節序相連，直論群體秩序和品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第03篇權修",
+      "para_index": 8,
+      "para_id": "guanzi#09-p08",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡牧民者，欲民之可御也。欲民之可御，則法不可不審。法者，將立朝廷者也。將立朝廷者",
+      "note": "爵服加於不義、祿賞加於無功會使民輕賤制度，刑罰失審又殺無辜赦有罪，直論公義、權威與人的行爲後果",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第04篇立政",
+      "para_index": 1,
+      "para_id": "guanzi#10-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "國之所以治亂者三，殺戮刑罰不足用也。國之所以安危者四，城郭險阻不足守也。國之所以",
+      "note": "以德、功、能是否配位祿官為治亂三本，並比較君子小人的怨禍及邪臣壅蔽，明說權位分配和品格的關係",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第04篇立政",
+      "para_index": 2,
+      "para_id": "guanzi#10-p02",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "君之所慎者四：一曰大德不至仁，不可以授國柄。二曰見賢不能讓，不可與尊位。三曰罰避",
+      "note": "「大德至仁」「見賢能讓」「罰不避親貴」被列為安危之本，直論領導者的德性、讓賢與公正用權",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第04篇立政",
+      "para_index": 8,
+      "para_id": "guanzi#10-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "寢兵之說勝，則險阻不守。兼愛之說勝，則士卒不戰。全生之說勝，則廉恥不立。私議自貴",
+      "note": "段落主張各種學說盛行會使士卒不戰、廉恥不立、賢不肖不分而巧佞得用，直論群體秩序與品格敗壞",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第04篇立政",
+      "para_index": 9,
+      "para_id": "guanzi#10-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "期而致，使而往，百姓舍己，以上爲心者，教之所期也。始於不足見，終於不可及，一人服",
+      "note": "「一人服之，萬人從之」及君上好惡形於心而下民化、未罰先畏未賞先勸，明說群體從化和畏勸心理",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第05篇乘馬",
+      "para_index": 2,
+      "para_id": "guanzi#11-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "無爲者帝，爲而無以爲者王，爲而不貴者霸。不自以爲所貴，則君道也。貴而不過度，則臣",
+      "note": "以無爲、不自貴和居貴不過度分別界定帝王霸及君臣之道，直論領導關係中的自持品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第05篇乘馬",
+      "para_index": 6,
+      "para_id": "guanzi#11-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "朝者，義之理也。是故爵位正而民不怨，民不怨則不亂，然後義可理。理不正則不可以治，",
+      "note": "「爵位正而民不怨」並稱人皆貴則事不成、無貴者則民不能自理，直接主張名位秩序會左右怨亂與群體自理",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第05篇乘馬",
+      "para_index": 14,
+      "para_id": "guanzi#11-p14",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "道曰：均地分力，使民知時也。民乃知時日之蚤晏，日月之不足，飢寒之至于身也。是故夜",
+      "note": "「不告之以時而民不知，不道之以事而民不爲」且分貨公平則民盡力，明說資訊和分配公正如何形成勞作動機",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第05篇乘馬",
+      "para_index": 15,
+      "para_id": "guanzi#11-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "聖人之所以爲聖人者，善分民也。聖人不能分民，則猶百姓也，於己不足，安得名聖！是故",
+      "note": "「聖人之所以爲聖人者，善分民也」並以能否託業於民區分聖人百姓，直接把領導身分繫於分工用人的能力",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第07篇版法",
+      "para_index": 1,
+      "para_id": "guanzi#12-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡將立事，正彼天植，風雨無違，遠近高下各得其嗣。三經既飭，君乃有國。喜無以賞，怒",
+      "note": "「喜無以賞，怒無以殺」告誡不得以私情賞殺，並說任喜怒用權會使民怨、離心與眾忿，直論情緒和權力關係",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第07篇版法",
+      "para_index": 2,
+      "para_id": "guanzi#12-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "舉所美必觀其所終，廢所惡必計其所窮。慶勉敦敬以顯之，富祿有功以勸之，爵貴有名以休",
+      "note": "段落以施報得當、除怨廢私、任賢同利為安眾之本，並說吝財苦民會使令辱不行，直論公私品格與君民利害",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第08篇幼官",
+      "para_index": 1,
+      "para_id": "guanzi#13-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "若因夜虛守靜，人物人物則皇。五和時節，君服黃色，味甘味，聽宮聲，治和氣，用五數，",
+      "note": "「尊賢授德」「身仁行義、服忠用信」把統治者的用人與品德直接列為帝王之別，涉及領導關係與品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第08篇幼官",
+      "para_index": 2,
+      "para_id": "guanzi#13-p02",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "春行冬政肅，行秋政雷，行夏政閹。十二地氣發，戒春事。十二小卯，出耕。十二天氣下，",
+      "note": "「藏不忍，行歐養」要求存不忍、行養育，而「和好不基，貴賤無司」直陳群體關係失序，故同時論品格與社會秩序。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第08篇幼官",
+      "para_index": 3,
+      "para_id": "guanzi#13-p03",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "夏行春政風，行冬政落，重則雨雹，行秋政水。十二小郢，至德。十二絕氣下，下爵賞。十",
+      "note": "「行篤厚」提出品格要求，並以「無比周之民」「遠近不乖」說明人群不結黨且關係和順的秩序。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第08篇幼官",
+      "para_index": 4,
+      "para_id": "guanzi#13-p04",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "秋行夏政葉，行春政華，行冬政耗。十二期風至，戒秋事。十二小卯，薄百爵。十二白露下",
+      "note": "「藏恭敬」直指品格，「養老弱」「信利周而無私」則要求照顧群體並公平施利。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第08篇幼官",
+      "para_index": 5,
+      "para_id": "guanzi#13-p05",
+      "modes": [
+        "formalization",
+        "ritual"
+      ],
+      "excerpt": "冬行秋政霧，行夏政雷，行春政烝泄。十二始寒，盡刑。十二小榆，賜予。十二中寒，收聚",
+      "note": "「養孤老、食常疾、收孤寡」分別說出公共照護責任、疾病困境與老年及喪偶失親，V、IX、X 任一拿掉都會漏掉一類人的處境。",
+      "co_domains": [
+        "IX",
+        "X"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第08篇幼官",
+      "para_index": 8,
+      "para_id": "guanzi#13-p08",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "旗物尚赤，兵尚戟，刑則燒交疆郊。必明其一，必明其將，必明其政，必明其士。四者備，",
+      "note": "「數勝則君驕，驕君使疲民」直說君主驕矜傷及民眾，並以「無非義」界定大勝的品格與公義條件。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第08篇幼官",
+      "para_index": 9,
+      "para_id": "guanzi#13-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "旗物尚白，兵尚劒，刑則詔昧斷絕。始乎無端，卒乎無窮。始乎無端，道也；卒乎無窮，德",
+      "note": "「畜之以道，養之以德則民和、民合」把德性教養說成群體和合與共同習行的根據。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第08篇幼官",
+      "para_index": 10,
+      "para_id": "guanzi#13-p10",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "旗物尚黑，兵尚脅盾，刑則游仰灌流。察數而知治，審器而識勝，明謀而適勝，通德而天下",
+      "note": "「至善之爲兵，非地是求」及「立義」「實之以德」「民之所利立之，所害除之」明說領導責任與德義界限。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第09篇幼官圖",
+      "para_index": 1,
+      "para_id": "guanzi#14-p01",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "秋行夏政葉，行春政華，行冬政耗。十二期風至，戒秋事。十二小卯，薄百爵。十二白露下",
+      "note": "「藏恭敬」直指品格，「養老弱」「信利害而無私」則要求照顧群體並無私權衡利害。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第09篇幼官圖",
+      "para_index": 2,
+      "para_id": "guanzi#14-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "旗物尚白，兵尚劒，刑則詔昧斷絕。始乎無端，卒乎無窮。始乎無端，道也；卒乎無窮，德",
+      "note": "「畜之以道，養之以德則民和、民合」把德性教養說成群體和合與共同習行的根據。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第09篇幼官圖",
+      "para_index": 3,
+      "para_id": "guanzi#14-p03",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "夏行春政風，行冬政落，重則雨雹，行秋政水。十二小郢，至德。十二絕氣下，下爵賞。十",
+      "note": "「行篤厚」提出品格要求，並以「無比周之民」「遠近不乖」說明人群不結黨且關係和順的秩序。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第09篇幼官圖",
+      "para_index": 4,
+      "para_id": "guanzi#14-p04",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "若因處虛守靜，人物則皇。五和時節，君服黃色，味甘味，聽宮聲，治和氣，用五數，飲於",
+      "note": "「尊賢授德」「身仁行義、服忠用信」把統治者的用人與品德直接列為帝王之別，涉及領導關係與品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第09篇幼官圖",
+      "para_index": 5,
+      "para_id": "guanzi#14-p05",
+      "modes": [
+        "formalization",
+        "ritual"
+      ],
+      "excerpt": "冬行秋政霧，行夏政雷，行春政烝泄。十二始寒，盡刑。十二小榆，賜予。十二中寒，收聚",
+      "note": "「養孤老、食常疾、收孤寡」分別說出公共照護責任、疾病困境與老年及喪偶失親，V、IX、X 任一拿掉都會漏掉一類人的處境。",
+      "co_domains": [
+        "IX",
+        "X"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第09篇幼官圖",
+      "para_index": 6,
+      "para_id": "guanzi#14-p06",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "旗物尚赤，兵尚戟，刑則燒交疆郊。必明其一，必明其將，必明其政，必明其士。四者備，",
+      "note": "「數勝則君驕，驕君使疲民」直說君主驕矜傷及民眾，並以「無非義」界定大勝的品格與公義條件。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第09篇幼官圖",
+      "para_index": 8,
+      "para_id": "guanzi#14-p08",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "旗物尚黑，兵尚脅盾，刑則游仰灌流。察數而知治，審器而識勝，明謀而適勝，通德而天下",
+      "note": "「至善之爲兵，非地是求」及「立義」「實之以德」「民之所利立之，所害除之」明說領導責任與德義界限。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第09篇幼官圖",
+      "para_index": 9,
+      "para_id": "guanzi#14-p09",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "春行冬政肅，行秋政雷，行夏政則閹。十二地氣發，戒春事。十二小卯，出耕。十二天氣下",
+      "note": "「藏不忍，行歐養」要求存不忍、行養育，而「和好不基，貴賤無司」直陳群體關係失序，故同時論品格與社會秩序。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第10篇五輔",
+      "para_index": 1,
+      "para_id": "guanzi#15-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古之聖王所以取明名廣譽，厚功大業，顯於天下，不忘於後世，非得人者未之嘗聞。暴王之",
+      "note": "「皆處欲安，動欲威」寫君主欲求，「上中正、下諂諛」對舉品格，「上下和同」論統治關係，V、VI、VII 分別承載不可省略的群體、內在與品格內容。",
+      "co_domains": [
+        "VI",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第10篇五輔",
+      "para_index": 2,
+      "para_id": "guanzi#15-p02",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "德有六興，義有七體，禮有八經，法有五務，權有三度。所謂六興者何？曰：辟田疇，利壇",
+      "note": "六興既含寬政賑窮的公共責任，也明列「問疾病、衣凍寒、食飢渴」之苦及「養長老、恤鰥寡、弔禍喪」之老失，V、IX、X 各有獨立內容。",
+      "co_domains": [
+        "IX",
+        "X"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第10篇五輔",
+      "para_index": 3,
+      "para_id": "guanzi#15-p03",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "曰：民知德矣，而未知義，然後明行以導之義。義有七體。七體者何？曰：孝悌慈惠以養親",
+      "note": "七義以「孝悌慈惠」論親族、以「事君上」「和協輯睦」論群體關係、以忠信中正等論品格，IV、V、VII 各少不得。",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第10篇五輔",
+      "para_index": 4,
+      "para_id": "guanzi#15-p04",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "曰：民知義矣，而未知禮，然後飾八經以導之禮。所謂八經者何？曰：上下有義，貴賤有分",
+      "note": "八禮既規定君臣貴賤的群體秩序，又詳述父子兄弟夫妻的家庭責任，並以中正、忠信、慈惠、孝悌界定品格，IV、V、VII 各有明文。",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第10篇五輔",
+      "para_index": 5,
+      "para_id": "guanzi#15-p05",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "曰：民知禮矣，而未知務，然後布法以任力。任力有五務。五務者何？曰：君擇臣而任官，",
+      "note": "五務分配君臣士庶的社會職責，說士須修身成材、庶人務農，並直陳「心一、意專」才有可觀之功，V、VI、VIII 分別關乎角色、內心與工作成就。",
+      "co_domains": [
+        "VI",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第10篇五輔",
+      "para_index": 6,
+      "para_id": "guanzi#15-p06",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "曰：民知務矣，而未知權，然後考三度以動之。所謂三度者何？曰：上度之天祥，下度之地",
+      "note": "「水旱、飢饉、禍亂」皆由政所召，並說人知權、舉措得宜即可使民和功立，把群體治亂繫於人的選擇與改變。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第10篇五輔",
+      "para_index": 7,
+      "para_id": "guanzi#15-p07",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "故曰：五經既布，然後逐姦民，詰詐僞，屏讒慝，而毋聽淫辭，毋作淫巧。若民有淫行邪性",
+      "note": "本段以諂淫邪性論品格，又說聲色取悅耳目、耳目所好諂心而終至傷民，V、VI、VII 分別涵蓋權力傷害、內在欲好與善惡品格。",
+      "co_domains": [
+        "VI",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第10篇五輔",
+      "para_index": 8,
+      "para_id": "guanzi#15-p08",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "曰：實壙虛，墾田疇，修牆屋，則國家富。節飲食，撙衣服，則財用足。舉賢良，務功勞，",
+      "note": "本段以薄稅忠愛論治理責任，又以「悅在玩好、珍怪、文繡」揭示欲好，並對照工匠、農人與女工之勞巧及民生結果，V、VI、VIII 各有獨立主張。",
+      "co_domains": [
+        "VI",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第11篇宙合",
+      "para_index": 2,
+      "para_id": "guanzi#16-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「左操五音，右執五味」，此言君臣之分也。君出令佚，故立于左；臣任力勞，故立于右。",
+      "note": "以五音五味說君臣各守其分，並以君之無私、臣之忠敬無妬說明國寧與夫婦和勉的根由。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第11篇宙合",
+      "para_index": 8,
+      "para_id": "guanzi#16-p08",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "「毋訪于佞」，言毋用佞人也，用佞人則私多行；「毋蓄于諂」，言毋聽諂，聽諂則欺上；",
+      "note": "不用佞諂凶讒的戒令以行私、欺上、傷民、失士為據，並直斥君失義正、臣不忠邪對權力關係與風俗的破壞。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第11篇宙合",
+      "para_index": 11,
+      "para_id": "guanzi#16-p11",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "「毋犯其凶」，言中正以蓄慎也；「毋邇其求」，言上之敗常貪於金玉馬女，而𠫤愛於粟米",
+      "note": "把君上貪財、縱樂、淫色與自矜自雄說成百吏失端、萬民怨懟及國亡的根由，直論領導者品格與群體後果。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第12篇樞言",
+      "para_index": 1,
+      "para_id": "guanzi#17-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "管子曰：道之在天者，日也。其在人者，心也。故曰：有氣則生，無氣則死，有名則治，無",
+      "note": "以道在人為心、有氣則生說明人的生命根據，又要求人主先民而慎貴、慎民、慎富，兼論存在與領導責任。",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第12篇樞言",
+      "para_index": 3,
+      "para_id": "guanzi#17-p03",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "凡國有三制。有制人者，有爲人之所制者，有不能制人、人亦不能制者。何以知其然？德盛",
+      "note": "以德義、好名、造患及隨人進退等品行，把人分成制人、受制與互不相制三類，直論品格如何形成權力位置。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第12篇樞言",
+      "para_index": 4,
+      "para_id": "guanzi#17-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "愛人甚而不能利也，憎人甚而不能害也，故先王貴當貴周。周者不出于口，不見于色，一龍",
+      "note": "「人故相憎也，人之心悍」被明說為立法依據，而誠信是天下之結、智仁構成成人，直接論社會關係與理想品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第12篇樞言",
+      "para_index": 5,
+      "para_id": "guanzi#17-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "賤固事貴，不肖固事賢。貴之所以能成其貴者，以其貴而事賤也。賢之所以能成其賢者，以",
+      "note": "貴者事賤、賢者事不肖才成其貴賢，且德在先人並可合人，直說社會高下相成及以德建立關係。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第12篇樞言",
+      "para_index": 6,
+      "para_id": "guanzi#17-p06",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "凡國之亡也，以其長者也。人之自失也，以其所長者也。故善游者死于梁也，善射者死于中",
+      "note": "由「人之自失也，以其所長」列出七勝與人主諸殆，並以多忠少欲及臣下功責界定領導和臣職的品格邊界。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第13篇八觀",
+      "para_index": 2,
+      "para_id": "guanzi#18-p02",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "行其田野，視其耕芸，計其農事，而飢飽之國可以知也。其耕之不深，芸之不謹，地宜不任",
+      "note": "以巡視耕耘判斷飢飽，並直稱有地而不務耕芸者為「寄生之君」，把農作勤務連到君主的守土責任。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第13篇八觀",
+      "para_index": 5,
+      "para_id": "guanzi#18-p05",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "課凶饑，計師役，觀臺榭，量國費，而實虛之國可知也，凡田野，萬家之衆可食之地方五十",
+      "note": "數量診斷之外又明說財生於用力與勞身，君上用財不止便使民用力不休、上下相怨，直論勞動與權力負擔。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第13篇八觀",
+      "para_index": 6,
+      "para_id": "guanzi#18-p06",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "入州里，觀習俗，聽民之所以化其上，而治亂之國可知也。州里不鬲，閭閈不設，出入毋時",
+      "note": "由州里制度與婚禮、鄉舉、禁罰推論竊盜、男女失別、廉行不修及黨與滋生，直說社會習俗如何形成群體品行。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第13篇八觀",
+      "para_index": 7,
+      "para_id": "guanzi#18-p07",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "入朝廷，觀左右，本求朝之臣，論上下之所貴賤者，而彊弱之國可知也。功多爲上，祿賞爲",
+      "note": "本段明說功勞與才能不受重視會使臣不盡力、材人不竭能，而無功得爵會招致百姓怨非，直論公正、成就與工作動機。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第13篇八觀",
+      "para_index": 8,
+      "para_id": "guanzi#18-p08",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "置法出令，臨衆用民，計其威嚴寬惠，行於其民與不行於其民可知也。法虛立而害疏遠，令",
+      "note": "法令疏害、無功者富被說成眾人輕令的原因，又以背人倫而行如禽獸為滅亡之徵，直論制度公正與人的行為邊界。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第13篇八觀",
+      "para_index": 9,
+      "para_id": "guanzi#18-p09",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "計敵與，量上意，察國本，觀民產之所有餘不足，而存亡之國可知也。敵國彊而與國弱，諫",
+      "note": "諫臣死、諛臣尊與私情毀法會使豪傑不安位、積勞者不懷祿及士卒不用，直論權力失正如何破壞角色信任與任事動機。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第14篇法禁",
+      "para_index": 1,
+      "para_id": "guanzi#19-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "法制不議，則民不相私；刑殺毋赦，則民不偷於爲善；爵祿毋假，則下不亂其上。三者藏於",
+      "note": "「人用其私，廢上之制」及「百姓之立私理而徑於利者必衆」把徇私逐利與分奪君威明說為亂國的人際與品格根源",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第14篇法禁",
+      "para_index": 2,
+      "para_id": "guanzi#19-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "昔者聖王之治人也，不貴其人博學也，欲其人之和同以聽令也。《泰誓》曰：「紂有臣億萬",
+      "note": "「各便其身，而忘社稷」並結黨蔽君、索民，直接刻畫官臣徇私結黨的品格及其權力關係",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第14篇法禁",
+      "para_index": 3,
+      "para_id": "guanzi#19-p03",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "脩行則不以親爲本，治事則不以官爲主，舉毋能，進毋功者，聖王之禁也。交人則以爲己賜",
+      "note": "本段逐項禁絕枉法求民、買譽、朋黨與「以蔽惡爲仁」等行徑，明列敗德者的品性及其結黨方式",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第14篇法禁",
+      "para_index": 4,
+      "para_id": "guanzi#19-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "聖王之身，治世之時，德行必有所是，道義必有所明。故士莫敢詭俗異禮以自見於國，莫敢",
+      "note": "「安其位，樂其羣，務其職，榮其名」並「以仁錯之，以恥使之」，說明人的群體安頓與德行教化",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第15篇重令",
+      "para_index": 1,
+      "para_id": "guanzi#20-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡君國之重器，莫重於令。令重則君尊，君尊則國安。令輕則君卑，君卑則國危。故安國在",
+      "note": "巧佞、比周、貪利、懦弱之人會藉令法漏洞成私結黨，明說不同品性如何侵蝕公共權威",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第15篇重令",
+      "para_index": 5,
+      "para_id": "guanzi#20-p05",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "凡先王治國之器三，攻而毀之者六。明王能勝其攻，故不益於三者而自有國正天下；亂王不",
+      "note": "親、貴、貨、色、巧佞、玩好六者會攻破亂王，而特權免罰使民不肯效力，涉及自制品格與公平權力關係",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第16篇法法",
+      "para_index": 1,
+      "para_id": "guanzi#21-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "不法法則事毋常，法不法則令不行。令而不行，則令不法也。法而不行，則脩令者不審也。",
+      "note": "「正言直行之士危」便使人臣結黨成羣，且明斷其責在不周密的人主，論及正直品格與領導責任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第16篇法法",
+      "para_index": 2,
+      "para_id": "guanzi#21-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "民毋重罪，過不大也。民毋大過，上毋赦也。上赦小過則民多重罪，積之所生也。故曰：赦",
+      "note": "「上赦小過則民多重罪」及「赦過遺善，則民不勵」明說赦免如何改變人的守法與向善動機",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第16篇法法",
+      "para_index": 3,
+      "para_id": "guanzi#21-p03",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "君有三欲於民，三欲不節，則上位危。三欲者何也？一曰求，二曰禁，三曰令。求必欲得，",
+      "note": "君主求、禁、令三欲若不節制，民便不聽而共同圖謀其上，直說領導者失度的品格與上下權力反應",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第16篇法法",
+      "para_index": 4,
+      "para_id": "guanzi#21-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "號令已出又易之，禮義已行又止之，度量已制又遷之，刑法已錯又移之，如是，則慶賞雖重",
+      "note": "號令反覆會使「民不勸」「民不畏」且「下有疑心」，明說制度失信造成的民心與服從關係",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第16篇法法",
+      "para_index": 6,
+      "para_id": "guanzi#21-p06",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "令未布而民或爲之，而賞從之，則是上妄予也。上妄予則功臣怨，功臣怨而愚民操事於妄作",
+      "note": "妄賞使「功臣怨」，妄誅使「民輕生」，賞罰失信亦使民不勸勉，直說不公權力引起的情緒與動機",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第16篇法法",
+      "para_index": 7,
+      "para_id": "guanzi#21-p07",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡大國之君尊，小國之君卑。大國之君所以尊者何也？曰：爲之用者衆也。小國之君所以卑",
+      "note": "「民皆舍所好而行所惡」且「未嘗可與慮始」，直接主張法令支配民眾選擇並限制其參與決斷的能動性",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第16篇法法",
+      "para_index": 8,
+      "para_id": "guanzi#21-p08",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "國無以小與不幸而削亡者，必主與大臣之德行失於身也，官職、法制、政教失於國也，諸侯",
+      "note": "國之興亡不繫幸與不幸而繫於德行、法制與「勢在上／勢在下」，把君臣父子的處境歸於人的治理與權勢",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第16篇法法",
+      "para_index": 10,
+      "para_id": "guanzi#21-p10",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "一曰：凡人君之德行威嚴，非獨能盡賢於人也。曰人君也，故從而貴之，不敢論其德行之高",
+      "note": "人君受尊並非必因德行高明，而因「曰人君也」及掌握富貧貴賤等權勢，明辨身分名位與實德、支配關係之別",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第16篇法法",
+      "para_index": 11,
+      "para_id": "guanzi#21-p11",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡民從上也，不從口之所言，從情之所好者也。上好勇則民輕死，上好仁則民輕財。故上之",
+      "note": "「民從上也，不從口之所言，從情之所好」並辨矜物、釣名、誣能與忠直，明論上行下效和人的品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第16篇法法",
+      "para_index": 12,
+      "para_id": "guanzi#21-p12",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "猛毅之君不免於外難，懦弱之君不免於內亂。猛毅之君者輕誅，輕誅之流，道正者不安，道",
+      "note": "猛毅輕誅會逼走正直材能之臣，懦弱重誅則縱容邪行結黨，明說君主性格如何造成內外人際禍亂",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第17篇兵法",
+      "para_index": 1,
+      "para_id": "guanzi#22-p01",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "明一者皇，察道者帝，通德者王，謀得兵勝者霸。故夫兵雖非備道至德也，然而所以輔王成",
+      "note": "「官無常則下怨上，賞罰不明則民輕其產」把制度失當引發下怨與輕產明說為用兵依據，直接論及政治關係和情緒反應",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第17篇兵法",
+      "para_index": 3,
+      "para_id": "guanzi#22-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "教無常，行無常，兩乃備施，動乃有功。器成教施，追亡逐遁若飄風，擊刺若雷電，絕地不",
+      "note": "「畜之以道則民和，養之以德則民合」直說以道德涵養人民會形成和合、同心的群體狀態",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第17篇兵法",
+      "para_index": 4,
+      "para_id": "guanzi#22-p04",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "定一至，行二要，縱三權，施四教，發五機，設六行，論七數，守八應，審九器，章十號，",
+      "note": "「數勝則君驕」指出勝利使君主驕縱，「士自脩則同心同力」又明言士卒修身與群體齊心的關係",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第18篇匡君大匡",
+      "para_index": 1,
+      "para_id": "guanzi#23-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊僖公生公子諸兒、公子糺、公子小白。使鮑叔傅小白，鮑叔辭，稱疾不出。管仲與召忽往",
+      "note": "召忽以「奉所立而不濟」為義，管仲則只為社稷宗廟之滅而死，對照了臣子的忠義品格與公共責任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第18篇匡君大匡",
+      "para_index": 2,
+      "para_id": "guanzi#23-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "鮑叔謂管仲曰：「何行？」管仲曰：「爲人臣者，不盡力於君，則不親信。不親信，則言不",
+      "note": "「事君者無二心」及竪曼所論死忠、長慮與諛行，明確評判臣子在君臣關係中的忠誠、智慧和品行",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第18篇匡君大匡",
+      "para_index": 5,
+      "para_id": "guanzi#23-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "或曰：明年襄公逐小白，小白走莒。三年，襄公薨，公子糺踐位，國人召小白。鮑叔曰：「",
+      "note": "「智人不得作內事，朋友不能相合摎，而國乃可圖」明說賢智者的作用、朋友協作與國家安危相連，鮑叔之誓亦呈現忠勇品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第18篇匡君大匡",
+      "para_index": 7,
+      "para_id": "guanzi#23-p07",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "異日，公告管仲曰：「欲以諸侯之閒無事也，小脩兵革。」管仲曰：「不可。百姓病，公先",
+      "note": "「外犯諸侯，民多怨」及義士不入、不仕與貪民爭祿，直接描述失政造成的群體離心和人的義貪之別",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第18篇匡君大匡",
+      "para_index": 8,
+      "para_id": "guanzi#23-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "三年，桓公將伐魯，曰：「魯與寡人近，於是其救宋也疾，寡人且誅焉。」管仲曰：「不可",
+      "note": "「不勤於兵，不忌於辱，不輔其過」與其反面被列為社稷安危之因，明言領袖節制、受辱心態及對過錯的態度",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第18篇匡君大匡",
+      "para_index": 9,
+      "para_id": "guanzi#23-p09",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "四年，脩兵，同甲十萬，車五千乘。謂管仲曰：「吾士既練，吾兵既多，寡人欲服魯。」管",
+      "note": "「君不競於德，而競於兵」批評領袖捨德逐兵，並說示弱會使諸侯生貪，直論領導品格與國際權力關係",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第18篇匡君大匡",
+      "para_index": 10,
+      "para_id": "guanzi#23-p10",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "五年，宋伐杞。桓公謂管仲與鮑叔曰：「夫宋，寡人固欲伐之，無若諸侯何！夫杞，明王之",
+      "note": "「貪於土」被推演為勤兵、病民、多詐、不信而內亂，明確主張領袖貪欲和人民失信如何破壞政治共同體",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第19篇中匡",
+      "para_index": 1,
+      "para_id": "guanzi#24-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "管仲會國用，三分二在賓客，其一在國，管仲懼而復之。公曰：「吾子猶如是乎？四鄰賓客",
+      "note": "對話明言須先愛境內、安卿大夫與舉賢良方可行事，並指出亡國者常因少有樂而不知陷於惡，涉及政治責任與德性失守",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第19篇中匡",
+      "para_index": 3,
+      "para_id": "guanzi#24-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "明日，管仲朝，公曰：「寡人願聞國君之信。」對曰：「民愛之，鄰國親之，天下信之，此",
+      "note": "以「民愛之，鄰國親之，天下信之」界定國君之信，並以長心長德、舉賢愛民等為由修身至治天下的品格與領導要求",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第20篇匡君小匡",
+      "para_index": 2,
+      "para_id": "guanzi#25-p02",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "曰：「昔先君襄公，高臺廣池，湛樂飲酒，田獵罼弋，不聽國政，卑聖侮士，唯女是崇。九",
+      "note": "襄公沉湎遊樂而「卑聖侮士」，使妃嬪奢華而戎士凍飢，並以此說明失德失序足以危及國家",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第20篇匡君小匡",
+      "para_index": 4,
+      "para_id": "guanzi#25-p04",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "桓公又問曰：「寡人欲脩政以干時於天下，其可乎？」管子對曰：「可。」公曰：「安始而",
+      "note": "以省刑薄斂、尚賢教民、行政無私與出言必信為愛民使民之道，明示領導者應有的公正與信實品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第20篇匡君小匡",
+      "para_index": 5,
+      "para_id": "guanzi#25-p05",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "桓公曰：「民居定矣，事已成矣，吾欲從事於天下諸侯，其可乎？」管子對曰：「未可。民",
+      "note": "同里之人自幼相處而「相保」「相愛」，在死喪禍福中相恤相憂，文本以共同情感與歸屬解釋戰時互助",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第20篇匡君小匡",
+      "para_index": 7,
+      "para_id": "guanzi#25-p07",
+      "modes": [
+        "formalization",
+        "narrative"
+      ],
+      "excerpt": "桓公曰：「卒伍定矣，事已成矣，吾欲從事於諸侯，其可乎？」管子對曰：「未可。若軍令",
+      "note": "管仲以「爲君不君，爲臣不臣，亂之本也」勸桓公守君臣之分，桓公遂克制自矜而下拜受命",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第20篇匡君小匡",
+      "para_index": 8,
+      "para_id": "guanzi#25-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公憂天下諸侯。魯有夫人與慶父之亂，而二君弒死，國絕無後。桓公聞之，使高子存之。",
+      "note": "文本直說諸侯「喜其愛而貪其利，信其仁而畏其武」，以愛、貪、信、畏解釋群體歸附與政治關係",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第22篇霸形",
+      "para_index": 1,
+      "para_id": "guanzi#26-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公在位，管仲、隰朋見，立有閒，有貳鴻飛而過之。桓公嘆曰：「仲父，今彼鴻鵠有時而",
+      "note": "「人甚憂飢」「人甚懼死」「人甚傷勞」直說重稅、險刑與失時興事造成百姓的憂懼勞傷，並以百姓為霸王之本",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第22篇霸形",
+      "para_index": 2,
+      "para_id": "guanzi#26-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "此其後，宋伐杞，狄伐邢、衛，桓公不救，裸體紉胷稱疾。召管仲曰：「寡人有千歲之食，",
+      "note": "管仲把令不行而四面有兵革之憂時的享樂判為「哀，非樂」，又以諸侯「貪於利」解釋其政治反應",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第22篇霸形",
+      "para_index": 3,
+      "para_id": "guanzi#26-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "此其後，楚人攻宋、鄭，燒焫熯焚鄭地，使城壞者不得復築也，屋之燒者不得復葺也，令其",
+      "note": "楚王以重寶誘使桓公左右盡受賄賂，管仲辨明其「以文克齊，而以武取宋、鄭」的欺詐，並主張保全受攻諸國",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第23篇霸言",
+      "para_index": 1,
+      "para_id": "guanzi#27-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "霸王之形，象天則地，化人易代，創制天下，等列諸侯，賓屬四海，時匡天下。大國小之，",
+      "note": "文本以能正曲弱彊、懲暴罪民區分王霸與暴王，又斷言君人有道、王者須獨明，直接界定領導權力與品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第23篇霸言",
+      "para_index": 2,
+      "para_id": "guanzi#27-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫欲用天下之權者，必先布德諸侯。是故先王有所取，有所與，有所詘，有所信，然後能用",
+      "note": "明定王者須卑禮賢者、以天下之財利天下之人，並賞功封賢、刑姦佞，將公正用權繫於德行",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第23篇霸言",
+      "para_index": 3,
+      "para_id": "guanzi#27-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫先王取天下也術。術乎，大德哉！物利之謂也。夫使國常無患，而名利並至者，神聖也。",
+      "note": "以使國常無患、在危亡中使國延續及「一言而壽國」界定神聖、明聖與大聖，直說賢者的領導才能與成就",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第23篇霸言",
+      "para_index": 5,
+      "para_id": "guanzi#27-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫明王爲天下正理也，案彊助弱，圉暴止貪，存亡定危，繼絕世。此天下之所載也，諸侯之",
+      "note": "「堯、舜之人，非生而理；桀、紂之人，非生而亂」明說人的治亂並非天生，而由在上者與政教使之改變",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第23篇霸言",
+      "para_index": 6,
+      "para_id": "guanzi#27-p06",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "夫輕重彊弱之形，諸侯合則彊，孤則弱。驥之材而百馬伐之，驥必罷矣。彊最一伐而天下共",
+      "note": "文本斷言先作難、違時易形者無不敗，並按國勢彊弱與先後時機列出行動準則，直說權力運用受時勢制約",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第24篇問",
+      "para_index": 1,
+      "para_id": "guanzi#28-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "凡立朝廷，問有本紀。爵授有德，則大臣興義。祿予有功，則士輕死節。上帥士以人之所戴",
+      "note": "「爵授有德，則大臣興義」「審刑當罪，則人不易訟」等句明說公正任賞如何形成品格與上下和合",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第24篇問",
+      "para_index": 4,
+      "para_id": "guanzi#28-p04",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "《制地君》曰：理國之道，地德爲首。君臣之禮，父子之親，覆育萬人；官府之藏，彊兵保",
+      "note": "「小利害信，小怒傷義」直說逐利與忿怒損害信義，並以君臣之禮、厚和四國規範政治關係",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第26篇戒",
+      "para_index": 1,
+      "para_id": "guanzi#29-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公將東游，問於管仲曰：「我游猶軸轉斛，南至琅邪。司馬曰：『亦先王之游已。』何謂",
+      "note": "管仲把先王之遊界定為察農事、補民不足，並以不食民糧、不縱樂為君身之戒，直陳領袖對民的責任與自持。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第26篇戒",
+      "para_index": 4,
+      "para_id": "guanzi#29-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公明日弋在廩，管仲、隰朋朝。公望二子，㢮弓脫釬而迎之，曰：「今夫鴻鵠，春北而秋",
+      "note": "「人患勞、患飢、患死」直說人的憂患，並以合時役使、薄斂寬刑能消怨而使民親君，連結內在反應與君民關係。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第26篇戒",
+      "para_index": 5,
+      "para_id": "guanzi#29-p05",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "桓公外舍而不鼎饋。中婦諸子謂宮人：「盍不出從乎？君將有行。」宮人皆出從。公怒曰：",
+      "note": "中婦諸子以自己未得人持接而反問「意者更容不審邪」，用第一人稱的自我檢視回應桓公不能招致諸侯的人際困局。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第26篇戒",
+      "para_index": 6,
+      "para_id": "guanzi#29-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "管仲寢疾，桓公往問之。曰：「仲父之疾甚矣，若不可諱也，不幸而不起此疾，彼政我將安",
+      "note": "管仲逐一評說眾人的好善惡惡、仁、忠、量力與愛己愛人等品性，並據此判斷誰能任政及誰會危害君臣關係。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第28篇參患",
+      "para_index": 1,
+      "para_id": "guanzi#31-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡人主者，猛毅則伐，懦弱則殺。猛毅者何也？輕誅殺人之謂猛毅。懦弱者何也？重誅殺人",
+      "note": "刑罰過輕或過重會使正道者不安、邪行者不改，繼而人才離去、群臣結黨，明說權力失度如何改變人的品行與群體秩序。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第28篇參患",
+      "para_index": 3,
+      "para_id": "guanzi#31-p03",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "得衆而不得其心，則與獨行者同實。兵不完利，與無操者同實。甲不堅密，與俴者同實。弩",
+      "note": "「得眾而不得其心」即如獨行，且士卒知道必敗便「無戰心」，直接以歸心與意志說明群體能否聚合。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第30篇君臣上",
+      "para_index": 1,
+      "para_id": "guanzi#33-p01",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "爲人君者，修官上之道，而不言其中。爲人臣者，比官中之事，而不言其外。君道不明，則",
+      "note": "本段以君臣分職、無私論法與信誠賞罰說明如何消除疑惑、慕利與怨疾，並明列忠信勤惰等品行對上下秩序的作用。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第30篇君臣上",
+      "para_index": 2,
+      "para_id": "guanzi#33-p02",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "天有常象，地有常形，人有常禮，一設而不更，此謂三常。兼而一之，人君之道也。分而職",
+      "note": "君臣各守道與事、上務德而下守節，配合均政、公平祿刑與正名，可使百姓親主、盡力且無怨惑，直談德行與社會秩序。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第30篇君臣上",
+      "para_index": 3,
+      "para_id": "guanzi#33-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "是故君人也者，無貴如其言。人臣也者，無愛如其力。言下力上，而臣主之道畢矣。是故主",
+      "note": "本段反覆主張君臣須守職分，君主應論材量能、選賢任法，並以官員能否勝任說明人才配置與領導責任。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第30篇君臣上",
+      "para_index": 4,
+      "para_id": "guanzi#33-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是故別交正分之謂理，順理而不失之謂道，道德定而民有軌矣。有道之君者，善明設法而不",
+      "note": "君主舍法行私會使臣下假公營私、積成姦心乃至弒上內亂，明說主德與臣下品行如何共同塑成權力關係。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第30篇君臣上",
+      "para_index": 5,
+      "para_id": "guanzi#33-p05",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "是故有道之君，上有五官以牧其民，則衆不敢踰軌而行矣。下有五橫以揆其官，則有司不敢",
+      "note": "法度與上下、父子兄弟的分序被說成使人順從成俗、共拒姦偽並按德能任事的根本，涉及群體秩序與品格養成。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第30篇君臣上",
+      "para_index": 7,
+      "para_id": "guanzi#33-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是故將與之，惠厚不能供。將殺之，嚴威不能振。嚴威不能振，惠厚不能供，聲實有閒也。",
+      "note": "本段直說及時賞罰可使民不私利、不怨威而親上，又說民分聽則愚、合聽則聖，將人心反應與群體智慧作為君民一體的依據。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第31篇君臣下",
+      "para_index": 1,
+      "para_id": "guanzi#34-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古者未有君臣上下之別，未有夫婦妃匹之合，獸處羣居，以力相征。於是智者詐愚，强者凌",
+      "note": "由「强者凌弱，老幼孤獨不得其所」推到賢者禁强虐、正民德而受民師法，明說權力失序與品格教化如何形成社會秩序",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第31篇君臣下",
+      "para_index": 2,
+      "para_id": "guanzi#34-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "天下道其道則至，不道其道則不至也。夫水，波而上，盡其搖而復下，其勢固然者也。故德",
+      "note": "以德懷、以威畏及禁絕侵越，並指出下不戴上便使賢人不來、百姓不用，論領導權威、信任與守分之德",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第31篇君臣下",
+      "para_index": 3,
+      "para_id": "guanzi#34-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "爲人君者，倍道棄法而好行私，謂之亂。爲人臣者，變故易常而巧官以諂上，謂之騰。亂至",
+      "note": "把君主徇私與臣下諂媚定為亂德，又主張選賢、禮孝弟可止姦偽並使有功者受勸，直論角色品格與群體秩序",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第31篇君臣下",
+      "para_index": 4,
+      "para_id": "guanzi#34-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫君人者有大過，臣人者有大罪。國所有也，民所君也，有國君民，而使民所惡制之，此一",
+      "note": "列舉君臣失職、阿欲與不改過的罪責，並以君臣各守本分、盡智竭力及慎微自修為治，論責任倫理與政治關係",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第31篇君臣下",
+      "para_index": 5,
+      "para_id": "guanzi#34-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "古者有二言，牆有耳，伏寇在側。牆有耳者，微謀外泄之謂也。伏寇在側者，沈疑得民之道",
+      "note": "指出讒諂、朋黨與居中傳令者會壟斷資訊、兼制上下以營私，並勸君主遠佞止姦，直論權力操控與奸偽品性",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第31篇君臣下",
+      "para_index": 6,
+      "para_id": "guanzi#34-p06",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "先其君以善者，侵其賞而奪之實者也。先其君以惡者，侵其刑而奪之威者也。訛言於外者，",
+      "note": "分列臣下搶奪賞實、刑威、以訛言脅君及壅令幽君四種操權行徑，並斷言任一發作而上下不知便足以危國",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第31篇君臣下",
+      "para_index": 7,
+      "para_id": "guanzi#34-p07",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "神聖者王，仁智者君，武勇者長，此天之道，人之情也。天道人情，通者質，寵者從，此數",
+      "note": "以仁智、武勇、守信、自省與求己少責人界定君臣品格，又明說齊民牽於衣食而易使，據此安排上下責任與社會秩序",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第31篇君臣下",
+      "para_index": 8,
+      "para_id": "guanzi#34-p08",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "國之所以亂者四，其所以亡者二。內有疑妻之妾，此宮亂也。庶有疑適之子，此家亂也。朝",
+      "note": "以妾疑妻、庶疑適、臣疑相與任官無能分列家國四亂，並連到兄弟偏黨、群官懷私及國家危亡，論家內承繼與公共權力秩序",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第32篇小稱",
+      "para_index": 4,
+      "para_id": "guanzi#35-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "管仲有病，桓公往問之，曰：「仲父之病病矣，若不可諱而不起此病也，仲父亦將何以詔寡",
+      "note": "管仲以人情本愛其子、其身及應念親為辨忠依據，桓公不終用賢終被四臣困死的故事，論親屬情感、識人信任與領導責任",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第32篇小稱",
+      "para_index": 5,
+      "para_id": "guanzi#35-p05",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "桓公、管仲、鮑叔牙、甯戚四人飲。飲酣，桓公謂鮑叔牙曰：「闔不起爲寡人壽乎？」鮑叔",
+      "note": "鮑叔牙勸桓公、管仲與甯戚勿忘流亡、受縛和飯牛的舊境，並以記取困厄維持君臣自警與社稷安定，凸顯領導者不忘本的品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第33篇四稱",
+      "para_index": 1,
+      "para_id": "guanzi#36-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公問於管子曰：「寡人幼弱惛愚，不通諸侯四鄰之義，仲父不當盡語我昔者有道之君乎？",
+      "note": "管子在答問中刻畫有道之君敬故臣、任忠貞賢能而使上下修飾、百姓無憂、國家安寧，論君德與群體治理的關係",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第33篇四稱",
+      "para_index": 2,
+      "para_id": "guanzi#36-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公曰：「仲父既已語我昔者有道之君矣，不當盡語我昔者無道之君乎？吾亦鑒焉。」管子",
+      "note": "以不用良臣、親近讒賊、沉溺遊戲、虐民濫刑等行止描畫無道之君，並說眾怨與內削終致滅亡，直論惡劣品格及權力責任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第33篇四稱",
+      "para_index": 3,
+      "para_id": "guanzi#36-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公曰：「仲父既已語我昔者有道之君與昔者無道之君矣，仲父不當盡語我昔者有道之臣乎",
+      "note": "答問所列有道之臣能舉賢、忠國、以義事君、臨難不悔並在君過時進諫，明確刻畫臣職中的忠廉勇德與上下責任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第33篇四稱",
+      "para_index": 4,
+      "para_id": "guanzi#36-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公曰：「仲父既以語我昔者有道之臣矣，不當盡語我昔者無道之臣乎？吾亦鑒焉。」管子",
+      "note": "答問以貪賄鬻貴、結黨攻賢、傲慢沉湎及君過而各保其身刻畫無道之臣，直論官場權力關係中的貪邪與失責品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第35篇侈靡",
+      "para_index": 1,
+      "para_id": "guanzi#37-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "問曰：「古之時與今之時同乎？」曰：「同。」「其人同乎？不同乎？」曰：「不同。可與",
+      "note": "「其人同乎？不同乎」與「死民不服，非人性也，敝也」把古今之人的差異歸於世道與生養條件的變化，涉及社會治理及人是否隨境而變",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第35篇侈靡",
+      "para_index": 2,
+      "para_id": "guanzi#37-p02",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "問曰：「興時化若何？」「莫善於侈靡。賤有實，敬無用，則人可刑也。故賤粟米而如敬珠",
+      "note": "「鰥寡獨老不與得焉，均之始也」把財物貴賤與強弱者、鰥寡獨老能否取得相連，是對社會分配與權力的主張",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第35篇侈靡",
+      "para_index": 5,
+      "para_id": "guanzi#37-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "「請問諸侯之化弊也。」「弊也者，家也。家也者，以因人之所重而行之。吾君長來獵，君",
+      "note": "「飲食者也，侈樂者也，民之所願也」直說民欲，並以「傷心者不可以致功」說明內心受傷會妨礙統治者用人",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第35篇侈靡",
+      "para_index": 8,
+      "para_id": "guanzi#37-p08",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "「縣人有主，人此治用，然而不治，積之市。一人積之下，一人積之上，此謂利無常。百姓",
+      "note": "「百姓無寶，以利爲首，一上一下，唯利所處」及「擇其好名」直說百姓逐利好名的動機，並據此安排長民之人",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第35篇侈靡",
+      "para_index": 9,
+      "para_id": "guanzi#37-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「事立而壞，何也？兵遠而畏，何也？民已聚而散，何也？輟安而危，何也？」「功成而不",
+      "note": "「功成而不信者，殆」「兵强而無義者，殘」並把疏戚好外列為致危之因，直論信義與親疏關係如何維繫群體",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第35篇侈靡",
+      "para_index": 10,
+      "para_id": "guanzi#37-p10",
+      "modes": [
+        "formalization",
+        "ritual"
+      ],
+      "excerpt": "「是故之時陳財之道，可以行令也。利散而民察，必放之身然後行。」公曰：「謂何？」「",
+      "note": "「一親往，一親來，所以合親」直說喪葬使親族相合，又以「安鄉樂宅……所以留民俗」論社群歸屬",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第35篇侈靡",
+      "para_index": 11,
+      "para_id": "guanzi#37-p11",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "載祭明置。高子聞之，以告中寢諸子。中寢諸子告寡人，舍朝不鼎饋。中寢諸子告宮中女子",
+      "note": "女子以「人布職不可得而衣，故雖有聖人，惡用之」回答桓公，指出百姓無從任職自給時人才也不能發揮",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第35篇侈靡",
+      "para_index": 12,
+      "para_id": "guanzi#37-p12",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "「能摩故道新，道定國家，然後化時乎？」「國貧而貪鄙富，苴美於朝，市國。國富而鄙貧",
+      "note": "「國貧而貪鄙富，國富而鄙貧」對貧富與貪鄙作價值區分，末又明言「明厚德」「輕財而重名」",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第35篇侈靡",
+      "para_index": 15,
+      "para_id": "guanzi#37-p15",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "「請問先合於天下而無私怨，犯强而無私害，爲之若何？」對曰：「國雖强，令必忠以義。",
+      "note": "「令必忠以義」「令必敬以哀」「先人而自後」以忠義、敬愛與先人後己說明消除內外私怨的領導品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第35篇侈靡",
+      "para_index": 16,
+      "para_id": "guanzi#37-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "事故也，君臣之際也。禮義者，人君之神也，且君臣之屬也。親戚之愛，性也。使君親之察",
+      "note": "「禮義者……君臣之屬也」論君臣關係，又以「親戚之愛，性也」明說親族之愛出於人性",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第35篇侈靡",
+      "para_index": 17,
+      "para_id": "guanzi#37-p17",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "利不可法，故民流。神不可法，故事之。天地不可留，故動，化故從新。是故得天者高而不",
+      "note": "「得人者卑而不可勝」「至貞生至信」把謙下、貞正與信任連到得人，又戒以文勝情",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第35篇侈靡",
+      "para_index": 19,
+      "para_id": "guanzi#37-p19",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "人死則易云，生則難合也。故一爲賞，再爲常，三爲固然。其小行之則俗也，久之則禮義。",
+      "note": "「一爲賞，再爲常，三爲固然」及小行久之成俗成禮，直述反覆行為如何固化並改變群體習俗",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第35篇侈靡",
+      "para_index": 22,
+      "para_id": "guanzi#37-p22",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "「請問形有時而變乎？」對曰：「陰陽之分定，則甘苦之草生也。從其宜，則酸鹹和焉，而",
+      "note": "「唯聖人……奪餘滿，補不足，以通政事，以贍民常」把辨識盈虛、補助不足界定為領導者的責任",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第35篇侈靡",
+      "para_index": 24,
+      "para_id": "guanzi#37-p24",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "問：「運之合滿安臧？」「二十歲而可廣，十二歲而聶廣，百歲傷神，周、鄭之禮移矣。則",
+      "note": "「周、鄭之禮移」「人君聲服變」及「人君日退」把制度與君主嗜好的變化連到政治盛衰",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第37篇心術下",
+      "para_index": 3,
+      "para_id": "guanzi#39-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "心安，是國安也。心治，是國治也。治也者，心也。安也者，心也。治心在中，治言出於口",
+      "note": "「心安，是國安也；心治，是國治也」直接把人的內在安治視為群體與政治安治的根本",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第37篇心術下",
+      "para_index": 4,
+      "para_id": "guanzi#39-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人能正靜者，筋肕而骨强。能戴大圓者，體乎大方。鏡大清者，視乎大明。正靜不失，日新",
+      "note": "「善氣迎人，親如弟兄；惡氣迎人，害於戈兵」論品性如何作用於人際，又以明王愛天下、暴王惡天下說明民眾附離",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第40篇四時",
+      "para_index": 1,
+      "para_id": "guanzi#42-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "管子曰：令有時，無時則必視順天之所以來。五漫漫，六惛惛，孰知之哉？唯聖人知四時。",
+      "note": "「慎使能，而善聽信之」界定君主的領導品格，並直說上位者如何看待功勞會使下屬勤直或使上位者驕傲",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第40篇四時",
+      "para_index": 6,
+      "para_id": "guanzi#42-p06",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "北方曰月，其時曰冬，其氣曰寒。寒生水與血，其德淳越，溫怒周密。其事號令，修禁徙，",
+      "note": "冬令條目之外，「治積則昌，暴虐積則亡」直斷治理品格的後果，並以「論孤獨，恤長老」明定對弱者的社會責任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第43篇正",
+      "para_index": 1,
+      "para_id": "guanzi#44-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "制斷五刑，各當其名。罪人不怨，善人不驚，曰刑。正之服之，勝之飾之，必嚴其令，而民",
+      "note": "本段以「罪人不怨，善人不驚」界定公正刑罰，又說德能「養之以化其惡」而使民和平不爭，直論公義與品格轉化",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第43篇正",
+      "para_index": 2,
+      "para_id": "guanzi#44-p02",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "立常行政，能服信乎？中和慎敬，能日新乎？正衡一靜，能守慎乎？廢私立公，能舉人乎？",
+      "note": "「廢私立公」「舉人無私」「能後其身」把無私、自新與後己列為從政者的品格，並連到臣民信服與僞詐止息",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第44篇九變",
+      "para_index": 1,
+      "para_id": "guanzi#45-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "凡民之所以守戰至死而不德其上者，有數以至焉。曰：大者，親戚墳墓之所在也，田宅富厚",
+      "note": "本段以親戚墳墓與宗族說家庭牽繫，以鄉黨、賞罰與守土說群體歸屬，又以畏罰、怨敵說情緒動機，三者共同解釋民眾何以守戰至死",
+      "co_domains": [
+        "IV",
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第45篇任法",
+      "para_index": 1,
+      "para_id": "guanzi#46-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "聖君任法而不任智，任數而不任說，任公而不任私，任大道而不任小物，然後身佚而天下治",
+      "note": "「民舍事而好譽」「民離法而妄行」直說任說任私會改變民眾取向並滋生群臣姦詐，以任公守道作領導與品格的對照",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第45篇任法",
+      "para_index": 2,
+      "para_id": "guanzi#46-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "昔者堯之治天下也，猶埴已埏也，唯陶之所以爲；猶金之在鑪，恣冶之所以鑄。其民引之而",
+      "note": "以堯時之民隨引推使禁而動、黃帝時之民安於既定之法作對照，明說人民行為可受治理方式塑造",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第45篇任法",
+      "para_index": 4,
+      "para_id": "guanzi#46-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "故明王之所恆者二：一曰明法而固守之，二曰禁民私而收使之。此二者，主之所恆也。夫法",
+      "note": "博學者以智亂法、富貴者以威犯法、大臣以私附民的敘述，明說私欲與權勢如何破壞公共秩序，並要求君臣皆守法",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第45篇任法",
+      "para_index": 5,
+      "para_id": "guanzi#46-p05",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "故主有三術。夫愛人不私賞也，惡人不私罰也，置儀設法以度量斷者，上主也。愛人而私賞",
+      "note": "以愛惡是否造成私賞私罰區分三等人主，並斷言過度愛惡會使君主失德失威，直指情感偏私與領導公正",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第45篇任法",
+      "para_index": 6,
+      "para_id": "guanzi#46-p06",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "故明王之所操者六：生之，殺之，富之，貧之，貴之，賤之。此六柄者，主之所操也。主之",
+      "note": "六柄四位的權力分類之外，又明說君主會受貴富親美所動、臣民因僥倖得失而侵主或生怨，涉及權力與情緒反應",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第45篇任法",
+      "para_index": 7,
+      "para_id": "guanzi#46-p07",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "凡爲主而不得用其法，不能其意，顧臣而行，離法而聽貴臣，此所謂貴而威之也。富人用金",
+      "note": "逐列貴富賤近美五種私情如何左右君主，並以「私視、私聽、私慮」造成不見不聞不知，說明偏私對判斷與公法的壅蔽",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第45篇任法",
+      "para_index": 8,
+      "para_id": "guanzi#46-p08",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫君臣者，天地之位也；民者，衆物之象也，各立其所職以待君令。羣臣百姓安得各用其心",
+      "note": "以臣下如影隨形規定上下責任，並斷言使人各慮利害、依私心行動會毀壞法制，直說公私取向與政治關係",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第46篇明法",
+      "para_index": 1,
+      "para_id": "guanzi#47-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "所謂治國者，主道明也。所謂亂國者，臣術勝也。夫尊君卑臣，非計親也，以埶勝也。百官",
+      "note": "「尊君卑臣，非計親也，以埶勝也；百官識，非惠也，刑罰必也」明說上下關係與官吏行為繫於權勢和必罰而非親惠",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第46篇明法",
+      "para_index": 2,
+      "para_id": "guanzi#47-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "威不兩錯，政不二門。以法治國，則舉錯而已。是故有法度之制者，不可巧以詐僞；有權衡",
+      "note": "文本明說以毀譽賞罰會使臣下結黨營私、重家輕國，並以法擇人量功對治，涉及公共責任與公私品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第47篇正世",
+      "para_index": 1,
+      "para_id": "guanzi#48-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "古之欲正世調天下者，必先觀國政，料事務，察民俗，本治亂之所生，知得失之所在，然後",
+      "note": "末句直斷民眾見利而用、畏威而從、得安而靜，前文亦以勞困、躁私和畏利說明賞禁須隨民情調整",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第47篇正世",
+      "para_index": 2,
+      "para_id": "guanzi#48-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫盜賊不勝，邪亂不止，彊劫弱，衆暴寡，此天下之所憂，萬民之所患也。憂患不除，則民",
+      "note": "「彊劫弱，衆暴寡」與民迫則窘、過緩則縱的因果，直說不公權力和治理鬆緊如何造成憂患、不安及私行",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第47篇正世",
+      "para_index": 3,
+      "para_id": "guanzi#48-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "聖人者，明於治亂之道，習於人事之終始者也。其治人民也，期於利民而止，故其位齊也。",
+      "note": "聖人「與時變，與俗化」，且民須心服體從方能受禮義之教，主張領導須因時改變並以認同促成教化",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第48篇治國",
+      "para_index": 1,
+      "para_id": "guanzi#49-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡治國之道，必先富民，民富則易治也，民貧則難治也。奚以知其然也？民富則安鄉重家，",
+      "note": "民富則安鄉重家、敬上畏罪，民貧則危鄉輕家、陵上犯禁，明說物質處境如何影響家園依附與社會服從",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第48篇治國",
+      "para_index": 3,
+      "para_id": "guanzi#49-p03",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "凡農者，月不足而歲有餘者也。而上徵暴急無時，則民倍貸以給上之徵矣。耕耨者有時，而",
+      "note": "在徵貸、產粟與四民收益的計算外，文本明說人因利害歸去、農工商收益失衡會使農民逃徙，涉及勞動處境與政治歸附",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第50篇封禪",
+      "para_index": 1,
+      "para_id": "guanzi#51-p01",
+      "modes": [
+        "narrative",
+        "ritual"
+      ],
+      "excerpt": "桓公既霸，會諸侯於葵丘，而欲封禪。管仲曰：「古者封泰山、禪梁父者七十二家，而夷吾",
+      "note": "桓公以霸業自比受命之王，管仲則以祭物祥瑞否定其封禪資格，藉故事討論領袖功業、受命與神聖儀式的正當性",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第51篇小問",
+      "para_index": 1,
+      "para_id": "guanzi#52-p01",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "桓公問管子曰：「治而不亂，明而不蔽，若何？」管子對曰：「明分任職，則治而不亂，明",
+      "note": "以故國父母墳墓、田宅爵祿與妻子為使民死守不欺的「三本」，明說家庭牽繫與政治忠誠所依的條件",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第51篇小問",
+      "para_index": 2,
+      "para_id": "guanzi#52-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "桓公問治民於管子。管子對曰：「凡牧民者，必知其疾，而憂之以德，勿懼以罪，勿止以力",
+      "note": "本段既論牧民者如何以德與恕處理民疾，又直說威罪會使民怨、畏、詐及驕罷，並以質信、忠、仁、禮界定治民品格",
+      "co_domains": [
+        "VI",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第51篇小問",
+      "para_index": 3,
+      "para_id": "guanzi#52-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公問管仲曰：「寡人欲霸，以二三子之功，既得霸矣。今吾有欲王，其可乎？」管仲對曰",
+      "note": "桓公比較古代賢君賢臣、自己與子臣的才德而斷言不能稱王，將領導成敗繫於君臣品格與傳承能力",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第51篇小問",
+      "para_index": 4,
+      "para_id": "guanzi#52-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "桓公曰：「我欲勝民，爲之奈何？」管仲對曰：「此非人君之言也。勝民爲易，夫勝民之爲",
+      "note": "直說以刑威勝民雖易，卻只會使民畏君而不親，終令君身受禍，揭示強制權力造成的恐懼與疏離",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第51篇小問",
+      "para_index": 6,
+      "para_id": "guanzi#52-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公謂管仲曰：「吾欲伐大國之不服者，奈何？」管仲對曰：「先愛四封之內，然後可以惡",
+      "note": "先愛境內、安定卿大夫之家而後對外用兵的主張，連同祝者指斥桓公多虛少實，直接涉及領導責任與真實品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第51篇小問",
+      "para_index": 7,
+      "para_id": "guanzi#52-p07",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公乘馬，虎望見之而伏。桓公問管仲曰：「今者寡人乘馬，虎望見寡人而不敢行，其故何",
+      "note": "莒使受辱而爭死及禾苗由孺子、士至君子的譬喻，都以忠貞、謙抑而能安天下來刻畫君子之德及其公共作用",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第51篇小問",
+      "para_index": 9,
+      "para_id": "guanzi#52-p09",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公使管仲求甯戚。甯戚應之曰：「浩浩乎！」管仲不知，至中食而慮之。婢子曰：「公何",
+      "note": "婢子以少年立功與飯牛者為相反駁「少少、賤賤」，明說年齡與低賤身分不應遮蔽人的才能及任用可能",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第51篇小問",
+      "para_index": 11,
+      "para_id": "guanzi#52-p11",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "客或欲見於齊桓公，請仕上官，授祿千鍾。公以告管仲，曰：「君予之。」客聞之，曰：「",
+      "note": "求仕者因桓公「取人以人」而推知日後也會因人言去己，遂拒絕任職，涉及用人權力與個人的仕進抉擇",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第52篇七主七臣",
+      "para_index": 1,
+      "para_id": "guanzi#53-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "或以平虛，請論七主之過，得六過一是，以還自鏡，以知得失。以繩七臣，得六過一是。呼",
+      "note": "七主類型把君主好惡、喜怒與猜疑分別連到臣民的憤怒、失信與邪正行為，兼論領導權力、內在情緒及品格後果",
+      "co_domains": [
+        "VI",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第52篇七主七臣",
+      "para_index": 2,
+      "para_id": "guanzi#53-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故一人之治亂在其心，一國之存亡在其主。天下得失，道一人出。主好本，則民好墾草萊；",
+      "note": "由主君所好使民改變營生乃至違反共同厭惡的絕食與死亡，明說權力示範、人的好惡以及行為可被轉化三層關係",
+      "co_domains": [
+        "VI",
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第52篇七主七臣",
+      "para_index": 3,
+      "para_id": "guanzi#53-p03",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "夫男不田，女不緇，工技力於無用，而欲土地之毛，倉庫滿實，不可得也。土地不毛，則人",
+      "note": "先以男女不事生產說明匱乏與逆亂，再以桀紂誅忠近讒、耽樂忘患而亡國為例，分別論勞作、品格失守與政治敗亡",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第52篇七主七臣",
+      "para_index": 5,
+      "para_id": "guanzi#53-p05",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "故明主有六務四禁。六務者何也？一曰節用，二曰賢佐，三曰法度，四曰必誅，五曰天時，",
+      "note": "六務四禁之外又把臺榭、馳車與華飾視為亡國之具，並說明王能知害而遠之，明說領導者須有節制取舍的品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第52篇七主七臣",
+      "para_index": 6,
+      "para_id": "guanzi#53-p06",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "夫法者，所以興功懼暴也。律者，所以定分止爭也。令者，所以令人知事也。法律政令者，",
+      "note": "在界定法、律、令與君臣權責後，直說民信其法則親，將公共信任與上下分際作為政治關係的依據",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第52篇七主七臣",
+      "para_index": 7,
+      "para_id": "guanzi#53-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫凡私之所起，必生於主。夫上好本，則端正之士在前。上好利，則毀譽之士在側。上多喜",
+      "note": "主君好本或好利會使端正或毀譽之士聚集，賞罰又使民必就必去，明說領導權力如何塑造人的品格與行為改變",
+      "co_domains": [
+        "VII",
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第52篇七主七臣",
+      "para_index": 8,
+      "para_id": "guanzi#53-p08",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "飾臣克親貴以爲名，恬爵祿以爲高。好名則無實，爲高則不御。故記曰：無實則無勢，失轡",
+      "note": "逐類刻畫飾臣、侵臣、亂臣、愚臣與姦臣以好名、徇私、諂蔽和構陷傷主，直指臣下品格及其權力關係",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第53篇禁藏",
+      "para_index": 1,
+      "para_id": "guanzi#54-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "禁藏於胷脅之內，而禍避於萬里之外，能以此制彼者，唯能以己知人者也。夫冬日之不濫，",
+      "note": "本段以慎己知人與公正守法為領導品格，又明說民之所樂利善惡及公私刑賞所生怨歡，兼及權力關係、情緒反應與德性",
+      "co_domains": [
+        "VI",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第53篇禁藏",
+      "para_index": 4,
+      "para_id": "guanzi#54-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故凡治亂之情，皆道上始。故善者圉之以害，牽之以利，能利害者，財多而過寡矣。夫凡人",
+      "note": "「凡人之情」明說見利必就、見害必避，又以商人與漁人不辭勞險逐利說明治者可順此心理導民，分涉治理、好惡與勞作",
+      "co_domains": [
+        "VI",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第53篇禁藏",
+      "para_index": 6,
+      "para_id": "guanzi#54-p06",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "故國多私勇者其兵弱，吏多私智者其法亂，民多私利者其國貧。故德莫若博厚，使民死之。",
+      "note": "私勇、私智、私利被說成削弱公共秩序，而博厚之德與可信賞罰能使民效死、無流亡意並繫心於主，兼論公私品格及政治歸屬",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第53篇禁藏",
+      "para_index": 8,
+      "para_id": "guanzi#54-p08",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "凡有天下者，以情伐者帝，以事伐者王，以政伐者霸。而謀有功者五：一曰視其所愛以分其",
+      "note": "五種謀術利用君主所愛所憎、淫樂、親信與疑離來分權敗國，直接把情欲信疑與政治操控相連",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第54篇入國",
+      "para_index": 1,
+      "para_id": "guanzi#55-p01",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "入國四旬，五行九惠之教。一曰老老，二曰慈幼，三曰恤孤，四曰養疾，五曰合獨，六曰問",
+      "note": "九惠以分級給養、免征與訪視扶助孤窮，另明列疾病殘障的照護及老年、死亡與喪葬，分別涉及社會責任、身體困厄和老死失去",
+      "co_domains": [
+        "IX",
+        "X"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第55篇九守",
+      "para_index": 2,
+      "para_id": "guanzi#56-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "目貴明，耳貴聰，心貴智。以天下之目視，則無不見也。以天下之耳聽，則無不聞也。以天",
+      "note": "以天下人的耳目與心思匯聚於領導者，主張借眾人之明與智才能無所蔽塞，兼及共同參與和明智品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第55篇九守",
+      "para_index": 4,
+      "para_id": "guanzi#56-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "用賞者貴誠，用刑者貴必。刑賞信必於耳目之所見，則其所不見，莫不闇化矣。誠暢乎天地",
+      "note": "主張刑賞誠信必行會使耳目未見之人也暗中轉化，明說權力施行與人的行為改變相連",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第55篇九守",
+      "para_index": 7,
+      "para_id": "guanzi#56-p07",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "人主不可不周，人主不周，則羣臣下亂。寂乎其無端也，外內不通，安知所怨？關閈不開，",
+      "note": "「人主不可不周」並以閉塞便不知所怨、善否無由上達為戒，明說領導者與群臣溝通的責任",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第56篇桓公問",
+      "para_index": 1,
+      "para_id": "guanzi#57-p01",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "齊桓公問管子曰：「吾念有而勿失，得而勿忘，爲之有道乎？」對曰：「勿創勿作，時至而",
+      "note": "段中以廣納諫議說公共領導，以不徇私好惡及正士敢爭說正直品格，又以「時至而隨」說因時調整，三者皆是保有所得之道",
+      "co_domains": [
+        "VII",
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第59篇弟子職",
+      "para_index": 2,
+      "para_id": "guanzi#60-p02",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "少者之事，夜寐蚤作。既拚盥漱，執事有恪。攝衣共盥，先生乃作。沃盥徹盥，汎拚正席，",
+      "note": "晨起侍師與受業程序特別要求執事有恪、出入恭敬而對師不怍，明定師生關係中的敬慎品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第59篇弟子職",
+      "para_index": 5,
+      "para_id": "guanzi#60-p05",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "先生將息，弟子皆起。敬奉枕席，問所何趾。俶衽則請，有常有否。先生既息，各就其友。",
+      "note": "弟子敬奉師席後各就其友「相切相磋，各長其儀」，明說同儕互助與彼此砥礪品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 1,
+      "para_id": "guanzi#61-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "山者，物之高者也。惠者，主之高行也。慈者，父母之高行也。忠者，臣之高行也。孝者，",
+      "note": "以君惠臣忠說政治角色，以父母慈、子婦孝說家庭關係，並把惠慈忠孝明定為人的高行",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 2,
+      "para_id": "guanzi#61-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "淵者，衆物之所生也，能深而不涸，則沈玉至。主者，人之所仰而生也，能寬裕純厚而不茍",
+      "note": "君民與臣主的政治依附、父母子婦的親養關係，以及慈仁忠孝等品格各有明說",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 3,
+      "para_id": "guanzi#61-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天覆萬物，制寒暑，行日月，次星辰，天之常也。治之以理，終而復始。主牧萬民，治天下",
+      "note": "分述君臣社會職分、父母子婦家庭常道與忠信孝敬品格，並以守常說明和治之因",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 4,
+      "para_id": "guanzi#61-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "地生養萬物，地之則也。治安百姓，主之則也。教護家事，父母之則也。正諫死節，臣下之",
+      "note": "把安民正諫列為政治責任、教護共養列為家庭責任，並以守則與否判定人的德行",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 7,
+      "para_id": "guanzi#61-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "蛟龍，水蟲之神者也，乘於水則神立，失於水則神廢。人主，天下之有威者也，得民則威立",
+      "note": "以蛟龍待水為喻，明說人主的威勢必須依靠人民才能成立",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 8,
+      "para_id": "guanzi#61-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "虎豹，獸之猛者也，居深林廣澤之中，則人畏其威而載之。人主，天下之有勢者也，深居則",
+      "note": "直說人主與人民距離的遠近會使民眾畏懼或輕傲，涉及權力關係與情緒反應",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 9,
+      "para_id": "guanzi#61-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "風，漂物者也。風之所漂，不避貴賤美惡。雨，濡物者也。雨之所墮，不避小大强弱。風雨",
+      "note": "風雨不分貴賤強弱而人不怨，明說人對公平無私之作用的怨怒反應",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 11,
+      "para_id": "guanzi#61-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人主之所以使下盡力而親上者，必爲天下致利除害也。故德澤加於天下，惠施厚於萬物，父",
+      "note": "明說厚施利民會使萬民樂為上用，盡力耕作與作戰，涉及政治互惠及勞動成就",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 13,
+      "para_id": "guanzi#61-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "法立而民樂之，令出而民銜之。法令之合於民心，如符節之相得也，則主尊顯。故曰：「銜",
+      "note": "法令與民心相合便被民眾樂受，直說統治規範與群體認同的關係",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 14,
+      "para_id": "guanzi#61-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人主出言，順於理，合於民情，則民受其辭。民受其辭，則名聲章。故曰：「受辭者，名之",
+      "note": "人主言語合於民情才會被接受並形成名聲，所論是領導者與民眾的溝通關係",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 15,
+      "para_id": "guanzi#61-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主之治天下也，靜其民而不擾，佚其民而不勞。不擾則民自循，不勞則民自試。故曰：「",
+      "note": "不擾不勞使人民自循自試，明說較少干預時群體能自行規範並主動發揮",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 18,
+      "para_id": "guanzi#61-p18",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "濟濟者，誠莊事斷也。多士者，多長者也。周文王誠莊事斷，故國治。其羣臣明理以佐主，",
+      "note": "以文王莊斷、群臣明理而殷民願歸附的事例，說領導品格如何形成群體信服",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 19,
+      "para_id": "guanzi#61-p19",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "紂之爲主也，勞民力，奪民財，危民死，冤暴之令加於百姓，憯毒之使施於天下，故大臣不",
+      "note": "紂勞民奪財而使大臣疏離、小民疾怨乃至天下背叛，明說暴政引起的社會與情緒反應",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 21,
+      "para_id": "guanzi#61-p21",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "道行則君臣親，父子安，諸生育。故明主之務，務在行道，不顧小物。燕爵，物之小者也。",
+      "note": "道行使君臣親、父子安，並要求明主專務行道，直接論及家庭與政治關係的安定",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 23,
+      "para_id": "guanzi#61-p23",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "主之所以爲功者，富强也。故國富兵强，則諸侯服其政，鄰敵畏其威。雖不用寶幣事諸侯，",
+      "note": "明說國勢富強會使諸侯服從、鄰敵畏懼，呈現權力強弱引發的服從與恐懼",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 25,
+      "para_id": "guanzi#61-p25",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "造父，善馭馬者也，善視其馬，節其飲食，度量馬力，審其足走，故能取遠道而馬不罷。明",
+      "note": "以造父審馬力比明主度民力、察技能，說領導者須按人的能力用事才不致困傷",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 26,
+      "para_id": "guanzi#61-p26",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "奚仲之爲車器也，方圜曲直，皆中規矩鉤繩。故機旋相得，用之牢利，成器堅固。明主猶奚",
+      "note": "以奚仲依規矩成器比人主依術數行事，連結技藝成就與上下相親的領導結果",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 27,
+      "para_id": "guanzi#61-p27",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "民，利之則來，害之則去。民之從利也，如水之走下，於四方無擇也。故欲來民者，先起其",
+      "note": "「民，利之則來，害之則去」直說人的趨利避害，並據此規定招徠人民之法",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 28,
+      "para_id": "guanzi#61-p28",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "莅民如父母，則民親愛之。道之純厚，遇之有實，雖不言曰吾親民，而民親矣。莅民如仇讎",
+      "note": "待民如父母且純厚真實則相親，待民如仇且詐偽則疏離，明說信實品格與政治信任的關係",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 29,
+      "para_id": "guanzi#61-p29",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主之使遠者來而近者親也，爲之在心，所謂夜行者，心行也。能心行德，則天下莫能與之",
+      "note": "以內心行德為使遠者來、近者親的根本，直接連結人的德行與群體歸附",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 30,
+      "para_id": "guanzi#61-p30",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "爲主而賊，爲父母而暴，爲臣下而不忠，爲子婦而不孝，四者，人之大失也。大失在身，雖",
+      "note": "分別以暴主與不忠臣說政治失德、以暴親與不孝子婦說家庭失序，並總判四者為人的大失",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 31,
+      "para_id": "guanzi#61-p31",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "爲主而惠，爲父母而慈，爲臣下而忠，爲子婦而孝，四者，人之高行也。高行在身，雖有小",
+      "note": "分別以惠主與忠臣說政治德行、以慈親與孝子婦說家庭德行，並總判四者為人的高行",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 32,
+      "para_id": "guanzi#61-p32",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "毀訾賢者之謂訾，推譽不肖之謂讆。訾、讆之人得用，則人主之明蔽，而毀譽之言起。任之",
+      "note": "毀賢譽不肖顯示失實品格且會蒙蔽人主、敗壞公事，故戒勿授以大任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 33,
+      "para_id": "guanzi#61-p33",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主之慮事也，爲天下計者，謂之譕臣，譕臣則海內被其澤。澤布於天下，後世享其功，久",
+      "note": "把為天下計長久之利視為明主之慮，說的是領導者面向眾人與後世的責任品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 36,
+      "para_id": "guanzi#61-p36",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "舉一而爲天下長利者，謂之舉長。舉長則被其利者衆，而德義之所見遠。故曰：「舉長者，",
+      "note": "以能為天下帶來長利且使眾人受益者彰顯德義，兼論公共責任與德行",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 37,
+      "para_id": "guanzi#61-p37",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天之裁大，故能兼覆萬物。地之裁大，故能兼載萬物。人主之裁大，故容物多而衆人得比焉",
+      "note": "人主胸襟廣大才能容納眾人並使人歸附，直接論領導關係與寬容品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 43,
+      "para_id": "guanzi#61-p43",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "言而語道德忠信孝弟者，此言無棄者。天公平而無私，故美惡莫不覆。地公平而無私，故小",
+      "note": "道德忠信孝弟之言因公平無私而不棄賢不肖，兼論德性內容與公正待人",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 44,
+      "para_id": "guanzi#61-p44",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主之官物也，任其所長，不任其所短，故事無不成，而功無不立。亂主不知物之各有所長",
+      "note": "人與蝚蝯各有所長短，明主按長處任用而不求全，直接論人的能力差異與用人責任",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 45,
+      "para_id": "guanzi#61-p45",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主之舉事也，任聖人之慮，用衆人之力，而不自與焉，故事成而福生。亂主自智也，而不",
+      "note": "明主任賢用眾而成事，亂主自智矜功拒諫而敗，說明合作領導與謙矜品格的差別",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 47,
+      "para_id": "guanzi#61-p47",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天生四時，地生萬財，以養萬物而無取焉。明主配天地者也，教民以時，勸之以耕織，以厚",
+      "note": "明主教民耕織以厚其養而不自伐、不私利，明說領導責任與無私品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 52,
+      "para_id": "guanzi#61-p52",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "爲人君而不明君臣之義以正其臣，則臣不知爲臣之理以事其主矣。故曰：「君不君則臣不臣",
+      "note": "君主若不以君臣之義教正臣下，臣便不知事主之理，說明領導示範會塑造臣德",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 54,
+      "para_id": "guanzi#61-p54",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "君臣親，上下和，萬民輯，故主有令則民行之，上有禁則民不犯。君臣不親，上下不和，萬",
+      "note": "君臣親疏、上下和離與萬民團結直接決定政令能否被群體接受施行",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 55,
+      "para_id": "guanzi#61-p55",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "言辭信，動作莊，衣冠正，則臣下肅。言辭慢，動作虧，衣冠惰，則臣下輕之。故曰：「衣",
+      "note": "領導者言信行莊則臣下敬肅，慢惰則被輕視，明說自身品格對權威關係的作用",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 57,
+      "para_id": "guanzi#61-p57",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人主者，溫良寬厚則民愛之，整齊嚴莊則民畏之。故民愛之則親，畏之則用。夫民親而爲用",
+      "note": "人主溫厚則民愛而親、嚴莊則民畏而用，直述人民在權力關係中的愛畏反應",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 58,
+      "para_id": "guanzi#61-p58",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人主能安其民，則事其主如事其父母，故主有憂則憂之，有難則死之。主視民如土，則民不",
+      "note": "安民者獲得人民如事父母般共憂赴難，輕民者則無人哀死，明說政治互惠與同情反應",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 59,
+      "para_id": "guanzi#61-p59",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "民之所以守戰至死而不衰者，上之所以加施於民者厚也。故上施厚，則民之報上亦厚；上施",
+      "note": "臣民回報厚薄取決於上位者施予厚薄，且同理適用父子，直接論政治與家庭中的互惠關係",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 61,
+      "para_id": "guanzi#61-p61",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "聞道而以治一鄉，親其父子，順其兄弟，正其習俗，使民樂其上，安其土，爲一鄉主幹者，",
+      "note": "聞道治鄉使父子相親、兄弟和順，又使民樂上安土，兼論家庭與鄉群關係",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 62,
+      "para_id": "guanzi#61-p62",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "民之從有道也，如飢之先食也，如寒之先衣也，如暑之先陰也。故有道則民歸之，無道則民",
+      "note": "民眾歸向有道者如飢求食、寒求衣，直接把政治歸附說成人的迫切趨求",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 65,
+      "para_id": "guanzi#61-p65",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主，救天下之禍、安天下之危者也。夫救禍安危者，必待萬民之爲用也，而後能爲之。故",
+      "note": "救天下之禍、安天下之危必須依靠萬民共同出力，明說領導與群體合作的依存關係",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 67,
+      "para_id": "guanzi#61-p67",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "臣不親其主，百姓不信其吏，上下離而不和，故雖自安，必且危之。故曰：「上下不和，雖",
+      "note": "臣不親主、百姓不信吏與上下離和會使安轉危，直接論政治共同體的信任關係",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 68,
+      "para_id": "guanzi#61-p68",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "主有天道以禦其民，則民一心而奉其上，故能貴富而久王天下。失天之道，則民離畔而不聽",
+      "note": "人主得道則民一心奉上，失道則民離叛不從，明說領導方式與群體凝聚的關係",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 70,
+      "para_id": "guanzi#61-p70",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "古者三王五伯，皆人主之利天下者也，故身貴顯而子孫被其澤。桀、紂、幽、厲，皆人主之",
+      "note": "以利天下或害天下的古代君主為例，說領導作為如何使其子孫承受福澤或災禍",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 71,
+      "para_id": "guanzi#61-p71",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "神農教耕生穀，以致民利。禹身決瀆，斬高橋下，以致民利。湯、武征伐無道，誅殺暴亂，",
+      "note": "神農、禹、湯、武行動雖異而皆以利民為歸，呈現明王的公共責任與利他品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 73,
+      "para_id": "guanzi#61-p73",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "行天道，出公理，則遠者自親。廢天道，行私爲，則子母相怨。故曰：「天道之極，遠者自",
+      "note": "行公理能使遠人相親，行私則使子母相怨，分別明說公共與家庭關係受公私行為影響",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 79,
+      "para_id": "guanzi#61-p79",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "明主與聖人謀，故其謀得；與之舉事，故其事成。亂主與不肖者謀，故其計失；與之舉事，",
+      "note": "與聖賢或不肖者共謀會分別導向成敗，文本以此要求領導者審慎選擇合作對象",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 80,
+      "para_id": "guanzi#61-p80",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "明主度量人力之所能爲而後使焉，故令於人之所能爲則令行，使於人之所能爲則事成。亂主",
+      "note": "明主先衡量人力所能再派事，亂主強人所不能而失敗，直說能力限度與用人責任",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 84,
+      "para_id": "guanzi#61-p84",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主不用其智，而任聖人之智；不用其力，而任衆人之力。故以聖人之智思慮者，無不知也",
+      "note": "明主任聖人之智與眾人之力而成事得逸，亂主獨任而勞禍，說明合作領導與工作負擔",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 85,
+      "para_id": "guanzi#61-p85",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主內行其法度，外行其理義，故鄰國親之，與國信之，有患則鄰國憂之，有難則鄰國救之",
+      "note": "守法義者獲鄰國信親救援，失民失信者孤立受辱，直接論政治群體間的信任與互助",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 86,
+      "para_id": "guanzi#61-p86",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主之治天下也，必用聖人而後天下治。婦人之求夫家也，必用媒而後家事成。故治天下而",
+      "note": "以治天下須用聖人比女子成婚須用媒介，分別論政治合作與婚姻家事的社會條件",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 87,
+      "para_id": "guanzi#61-p87",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主者，人未之見而有親心焉者，有使民親之之道也，故其位安而民往之。故曰：「未之見",
+      "note": "明主雖未被見便能使民生親近之心並前往歸附，直說領導者與民眾的信服關係",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 88,
+      "para_id": "guanzi#61-p88",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "堯、舜，古之明主也，天下推之而不倦，譽之而不猒，久遠而不忘者，有使民不忘之道也，",
+      "note": "堯舜長久被天下推譽不忘而使人民來歸，所論是領導者建立群體認同的作用",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 89,
+      "para_id": "guanzi#61-p89",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "日月，昭察萬物者也。天多雲氣，蔽蓋者衆，則日月不明。人主猶日月也，羣臣多姦立私以",
+      "note": "群臣結黨徇私會蒙蔽人主並阻斷下情，明說權力溝通受奸私品格破壞",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 90,
+      "para_id": "guanzi#61-p90",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "山，物之高者也，地險穢不平易，則山不得見。人主猶山也，左右多黨比周以壅其主，則主",
+      "note": "左右結黨比周會壅蔽人主使其不得見，直接論派系如何妨礙領導與權力運作",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 91,
+      "para_id": "guanzi#61-p91",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "人主出言，不逆於民心，不悖於理義，其所言足以安天下者也，人唯恐其不復言也。出言而",
+      "note": "合民心義理之言安天下，離親疏臣之言害眾，故要求領導者節制不負責任的言說",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 92,
+      "para_id": "guanzi#61-p92",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "人主身行方正，使人有理，遇人有禮，行發於身而爲天下法式者，人唯恐其不復行也。身行",
+      "note": "方正有禮之行可為天下法式，暴虐失信之行被天下恥笑，明定領導示範與品格界線",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 93,
+      "para_id": "guanzi#61-p93",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "言之不可復者，其言不信也。行之不可再者，其行賊暴也。故言而不信則民不附，行而賊暴",
+      "note": "言而不信、行而賊暴會使民不附且天下怨，故列為有國者大禁，兼論政治關係與誠信品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第65篇立政九敗解",
+      "para_index": 1,
+      "para_id": "guanzi#62-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人君唯毋聽寢兵，則羣臣賓客莫敢言兵。然則內之不知國之治亂，外之不知諸侯强弱，如是",
+      "note": "「羣臣賓客莫敢言兵」與「百姓無圉敵之心」明說寢兵之說使臣客噤聲、民眾失去防敵心志，觸及政治關係與內在狀態",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第65篇立政九敗解",
+      "para_index": 2,
+      "para_id": "guanzi#62-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人君唯毋聽兼愛之說，則視天下之民如其民，視國如吾國，如是則無并兼攘奪之心，無覆軍",
+      "note": "「視天下之民如其民」且無兼并攘奪之心，直接描述兼愛所形成的群體態度與不侵奪品性，並推論其軍事後果",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第65篇立政九敗解",
+      "para_index": 4,
+      "para_id": "guanzi#62-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人君唯無聽私議自貴，則民退靜隱伏，窟穴就山，非世閒上，輕爵祿而賤有司。然則令不行",
+      "note": "民因私議自貴而退隱山林、輕視爵祿與有司，明說自我身分取向及其與政治權威的疏離",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第65篇立政九敗解",
+      "para_index": 5,
+      "para_id": "guanzi#62-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人君唯無好金玉貨財，必欲得其所好，然則必有以易之。所以易之者何也？大官尊位，不然",
+      "note": "以官爵換取財貨會使不肖居上，而賢智信勇之人不肯居下、出謀、守約或效死，明說權力失公如何排斥人才效用",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第65篇立政九敗解",
+      "para_index": 6,
+      "para_id": "guanzi#62-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人君唯毋聽羣徒比周，則羣臣朋黨，蔽美揚惡，然則國之情僞不見於上。如是則朋黨者處前",
+      "note": "羣臣結黨後蔽美揚惡，使朋黨居前、寡黨居後且賢不肖不分，明說群體權力與忠邪品行的敗壞",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第65篇立政九敗解",
+      "para_index": 7,
+      "para_id": "guanzi#62-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人君唯毋聽觀樂玩好則敗。凡觀樂者，宮室臺池，珠玉聲樂也。此皆費財盡力，傷國之道也",
+      "note": "迎合觀樂玩好者被斷為姦人，且居上後壅遏賢者，明說領導者嗜好造成的權力失序與忠邪品格問題",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第65篇立政九敗解",
+      "para_index": 8,
+      "para_id": "guanzi#62-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人君唯毋聽請謁任譽，則羣臣皆相爲請，然則請謁得於上，黨與成於鄉。如是則貨財行於國",
+      "note": "羣臣以請謁結黨、行賄並務於交結求用，終至無爵而貴、無祿而富，明說私交腐化公共權力與品行",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第66篇版法解",
+      "para_index": 1,
+      "para_id": "guanzi#63-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "版法者，法天地之位，象四時之行，以治天下。四時之行，有寒有暑，聖人法之，故有文有",
+      "note": "在四時方位與文武法令的制度化鋪陳中，以「天植者，心也」說心正便不私近親、不孽疏遠，明言公正品格與群體公平",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第66篇版法解",
+      "para_index": 4,
+      "para_id": "guanzi#63-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡人君者，欲衆之親上鄉意也，欲其從事之勝任也。而衆者不愛則不親，不親則不明，不教",
+      "note": "「衆者不愛則不親」且不教則不鄉意，兼愛、教導與利民才使眾人親上並從事勝任，連結領導關係與任事能力",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第66篇版法解",
+      "para_index": 5,
+      "para_id": "guanzi#63-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "治之本二：一曰人，二曰事。人欲必用，事欲必工。人有逆順，事有稱量。人心逆則人不用",
+      "note": "以「己之所不安，勿施於人」建立推己恕人的待人品格，又說苛用民力、不當人心會生怨並使民自圖，兼論社會關係、情緒與德行",
+      "co_domains": [
+        "VI",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第66篇版法解",
+      "para_index": 6,
+      "para_id": "guanzi#63-p06",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡國無法則衆不知所爲，無度則事無機。有法不正、有度不直則治辟，治辟則國亂。故曰：",
+      "note": "無法使眾人不知所為，刑罰信必則使民畏懼，直接把公共秩序與人的恐懼反應相連",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第66篇版法解",
+      "para_index": 7,
+      "para_id": "guanzi#63-p07",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡民者，莫不惡罰而畏罪。是以人君嚴教以示之，明刑罰以致之。故曰：「頓卒台倦以辱之",
+      "note": "「凡民者，莫不惡罰而畏罪」把民眾厭惡刑罰、畏懼罪責明列為施行教令刑罰的心理依據",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第66篇版法解",
+      "para_index": 8,
+      "para_id": "guanzi#63-p08",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "治國有三器，亂國有六攻。明君能勝六攻而立三器，則國治；不肖之君不能勝六攻而立三器",
+      "note": "三器六攻的分類以斧鉞使眾畏、祿賞勸民為依據，並說徇私免罪賞無功會破壞服從與敬畏",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第66篇版法解",
+      "para_index": 9,
+      "para_id": "guanzi#63-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡人君者，覆載萬民而兼有之，燭臨萬族而事使之，是故以天地日月四時爲主爲質以治天下",
+      "note": "聖人效法天地日月而無私遍照，使善不遺、姦不隱，賞罰信必後善者受勸、姦者止步，明說公平權力與品行",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第66篇版法解",
+      "para_index": 10,
+      "para_id": "guanzi#63-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡衆者，愛之則親，利之則至。是故明君設利以致之，明愛以親之。徒利而不愛，則衆至而",
+      "note": "「愛之則親，利之則至」並列君臣、朋友、兄弟、父子四種關係，明說愛與施利如何維繫家庭及社會親近",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第66篇版法解",
+      "para_index": 11,
+      "para_id": "guanzi#63-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡君所以有衆者，愛施之德也。愛有所移，利有所并，則不能盡有。故曰：「有衆在廢私。",
+      "note": "君主因愛施之德而有眾，若偏移所愛、兼并利益便不能盡有，明說領導關係取決於無私施予的品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第66篇版法解",
+      "para_index": 12,
+      "para_id": "guanzi#63-p12",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "愛施之德，雖行而無私。內行不脩，則不能朝遠方之君。是故正君臣上下之義，飾父子兄弟",
+      "note": "段落分別要求正君臣上下之義、修父子兄弟夫妻之義，並使君德臣忠、父慈子孝、兄愛弟敬，明說公共關係、家庭倫理與角色德行",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第66篇版法解",
+      "para_index": 13,
+      "para_id": "guanzi#63-p13",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "閉禍在除怨。非有怨乃除之，所事之地常無怨也。凡禍亂之所生，生於怨咎。怨咎所生，生",
+      "note": "禍亂被追溯到非理所生的怨咎，故要求役使、施報、言語與刑罰皆合理，使眾人無鬱怨憾恨，連結公正治理與情緒反應",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第66篇版法解",
+      "para_index": 15,
+      "para_id": "guanzi#63-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡人者，莫不欲利而惡害。是故與天下同利者，天下持之；擅天下之利者，天下謀之。天下",
+      "note": "「凡人者，莫不欲利而惡害」直說普遍欲惡，並以共享利益受天下扶持、獨占利益遭天下圖謀說明群體權力反應",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第66篇版法解",
+      "para_index": 16,
+      "para_id": "guanzi#63-p16",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "凡所謂能以所不利利人者，舜是也。舜耕歷山，陶河濱，漁雷澤，不取其利，以教百姓，百",
+      "note": "舜不取耕陶漁之利以教百姓、武王散粟錢使殷民大說，藉兩則事例主張領導者讓利於人的無私品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 1,
+      "para_id": "guanzi#64-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主者，有術數而不可欺也，審於法禁而不可犯也，察於分職而不可亂也。故羣臣不敢行其",
+      "note": "「貴臣不得蔽賤，近者不得塞遠，孤寡老弱不失其所職」以明主的辨察約束權勢者，明說領導與群體公正的關係",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 2,
+      "para_id": "guanzi#64-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主者，上之所以一民使下也。私術者，下之所以侵上亂主也。故法廢而私行，則人主孤特",
+      "note": "「人主孤特而獨立，人臣羣黨而成朋」直說私術盛行時君臣權力失衡及臣下結黨的群體樣態",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 3,
+      "para_id": "guanzi#64-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主在上位，有必治之勢，則羣臣不敢爲非。是故羣臣之不敢欺主者，非愛主也，以畏主之",
+      "note": "「非愛主也，以畏主之威勢也」明言臣民服從源於畏懼而非愛戴，並以此說明上下權力關係",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 4,
+      "para_id": "guanzi#64-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主之治也，縣爵祿以勸其民，民有利於上，故主有以使之。立刑罰以威其下，下有畏於上",
+      "note": "「非以愛主也，且以就利而避害也」把官民奉命的動機明說為趨利、避害與畏罰，並置於統治關係中",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 9,
+      "para_id": "guanzi#64-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人臣之所以乘而爲姦者，擅主也。臣有擅主者，則主令不得行，而下情不上通。人臣之力，",
+      "note": "「人臣之所以乘而爲姦者，擅主也」直說奸臣藉權蔽塞消息、使君主迷惑的權力操弄與欺罔品行",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 10,
+      "para_id": "guanzi#64-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主者，兼聽獨斷，多其門戶。羣臣之道，下得明上，賤得言貴，故姦人不敢欺。亂主則不",
+      "note": "本段以兼聽使下得明上來防欺，並對舉邪枉專國、忠臣不得進，明說權力開放與忠邪品行的關係",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 13,
+      "para_id": "guanzi#64-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主之治國也，案其當宜，行其正理。故其當賞者，羣臣不得辭也。其當罰者，羣臣不敢避",
+      "note": "「使民偷幸而望於上」「使民輕上而易爲非」直說私惠養成僥倖、輕慢與為非的政治心理和品行",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 14,
+      "para_id": "guanzi#64-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡人主莫不欲其民之用也。使民用者，必法立而令行也。故治國使衆莫如法，禁淫止暴莫如",
+      "note": "「貧者非不欲奪富者財」「强者非不能暴弱也」明說欲奪與恃強的衝動，以及因畏法而自制的權力心理",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 15,
+      "para_id": "guanzi#64-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人主之所以制臣下者，威勢也。故威勢在下則主制於臣，威勢在上則臣制於主。夫蔽主者，",
+      "note": "「威勢獨在於主則羣臣畏敬」把臣民的畏敬、服從明確繫於威勢所在，論及情緒與上下權力",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 16,
+      "para_id": "guanzi#64-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主者，一度量，立表儀，而堅守之，故令下而民從。法者，天下之程式也，萬事之儀表也",
+      "note": "「民就死而不怨」「民受賞而無德」明說依法賞罰會改變民眾的怨懟與感德，並以公平權力為依據",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 17,
+      "para_id": "guanzi#64-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主者，有法度之制，故羣臣皆出於方正之治，而不敢爲姦。百姓知主之從事於法也，故吏",
+      "note": "「民以法與吏相距」明說百姓可憑法抗拒無據之令，並使詐偽、嫉妒、讒諛者不能施其奸心",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 18,
+      "para_id": "guanzi#64-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "權衡者，所以起輕重之數也。然而人不事者，非心惡利也，權不能爲之多少其數，而衡不能",
+      "note": "「非心惡利也」「人知事權衡之無益，故不事也」直接把人的行動解釋為逐利與利害計算，並用於防止賄吏",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 20,
+      "para_id": "guanzi#64-p20",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "國之所以亂者，廢事情而任非譽也。故明主之聽也，言者責之以其實，譽人者試之以其官。",
+      "note": "「羣臣以虛譽進其黨」「務多其佼，而不爲主用」明說臣下以虛名、黨援和交結牟取官位的群體與品行問題",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 21,
+      "para_id": "guanzi#64-p21",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "亂主不察臣之功勞，譽衆者則賞之；不審其罪過，毀衆者則罰之。如此者，則邪臣無功而得",
+      "note": "「功多而無賞，則臣不務盡力」「行正而有罰，則賢聖無從竭能」明說不公賞罰如何破壞工作動機與才能發揮",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 23,
+      "para_id": "guanzi#64-p23",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "姦臣之敗其主也，積漸積微，使主迷惑而不自知也。上則相爲候望於主，下則買譽於民。譽",
+      "note": "本段直說奸臣以結黨、買譽、譽黨毀人逐步迷惑君主，使群臣忘主趨私的權力操弄與不忠品行",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 24,
+      "para_id": "guanzi#64-p24",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "主無術數則羣臣易欺之，國無明法則百姓輕爲非。是故姦邪之人用國事，則羣臣仰利害也。",
+      "note": "「羣臣易欺之」「百姓輕爲非」及奸人廣置耳目，明說失去法術制衡時欺蔽、為非與朋黨支配的樣態",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 25,
+      "para_id": "guanzi#64-p25",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡所謂忠臣者，務明法術，日夜佐主，明於度數之理以治天下者也。姦邪之臣，知法術明之",
+      "note": "本段分辨忠臣日夜佐主與奸臣因私利仇害方正者，明說政治關係中的忠邪品格和排擠機制",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 27,
+      "para_id": "guanzi#64-p27",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "亂主之行爵祿也，不以法令案功勞；其行刑罰也，不以法令案罪過，而聽重臣之所言。故臣",
+      "note": "「羣臣皆務其黨重臣而忘其主」直說私賞私罰使臣下依附權門、結黨忘公的權力關係與品行",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 29,
+      "para_id": "guanzi#64-p29",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主在上位，則竟內之衆盡力以奉其主，百官分職致治以安國家。亂主則不然，雖有勇力之",
+      "note": "勇力與聖智之士被大臣私有而不能奉主治國，明說權力私占如何阻斷人才投入與能力發揮",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 30,
+      "para_id": "guanzi#64-p30",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主者，使下盡力而守法分，故羣臣務尊主而不敢顧其家。臣主之分明，上下之位審，故大",
+      "note": "「羣臣得務益其家」「家與家務相益」明說君臣分位不清時官員轉而經營家門、相互抬舉的公私衝突",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 31,
+      "para_id": "guanzi#64-p31",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人主之張官置吏也，非徒尊其身，厚奉之而已也，使之奉主之法，行主之令，以治百姓而誅",
+      "note": "「養所與佼，而不以官爲務」直說官吏以俸祿豢養私交而怠忽職責，造成公共任用與工作失能",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 33,
+      "para_id": "guanzi#64-p33",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "凡所謂功者，安主上，利萬民者也。夫破軍殺將，戰勝攻取，使主無危亡之憂，而百姓無死",
+      "note": "本段分軍士、吏、臣界定何謂功，將保民免患、抑強暴寡及匡救君過列為各職分的成就與責任",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 34,
+      "para_id": "guanzi#64-p34",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "明主之治也，審是非，察事情，以度量案之。合於法則行，不合於法則止。功充其言則賞，",
+      "note": "按言行實績賞黜使能者不受嫉蔽、不肖者不能蒙飾，明說公平評核與人才升退、成效之間的關係",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 35,
+      "para_id": "guanzi#64-p35",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主之道，立民所欲，以求其功，故爲爵祿以勸之；立民所惡，以禁其邪，故爲刑罰以畏之",
+      "note": "「立民所欲」「立民所惡」明說民眾的欲惡是賞罰激勵的依據，並以功罪防止譽進誹退的不公權力",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第71篇事語",
+      "para_index": 2,
+      "para_id": "guanzi#67-p02",
+      "modes": [
+        "narrative",
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "桓公又問管子曰：「佚田謂寡人曰：『善者用非其有，使非其人。何不因諸侯權以制天下？",
+      "note": "「壤辟舉則民留處，倉廩實則知禮節」與〈牧民〉[1] 同一斷言：物質安定會生出禮節之知，屬對人的主張；其餘歲藏公式與十勝條列為 formalization，不因數術密度抵銷該句（§2.6 第④條）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第73篇國蓄",
+      "para_index": 1,
+      "para_id": "guanzi#69-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "國有十年之蓄，而民不足於食，皆以其技能望君之祿也。君有山海之金，而民不罪於用，是",
+      "note": "「夫民者信親而死利」與「民予則喜，奪則怒，民情皆然」把親信逐利及受予奪時的喜怒明言為普遍民情，並作為君主施政的依據",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第73篇國蓄",
+      "para_index": 3,
+      "para_id": "guanzi#69-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡將爲國，不通於輕重，不可爲籠以守民；不能調通民利，不可以語制爲大治。是故萬乘之",
+      "note": "「彊者能守」「智者能收」及富者不可祿使、貧者不可罰威，明說才能與貧富差異如何造成成就和治理關係的差別",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第73篇國蓄",
+      "para_index": 5,
+      "para_id": "guanzi#69-p05",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "歲適美，則市糶無予，而狗彘食人食。歲適凶，則市糴釜十繈，而道有餓民。然則豈壤力固",
+      "note": "「民有餘則輕之，民不足則重之」直接斷言民眾隨有餘或不足而改變重視程度，並把這種心理作為收散財物的依據",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第73篇國蓄",
+      "para_index": 7,
+      "para_id": "guanzi#69-p07",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "凡五穀者，萬物之主也。穀貴則萬物必賤，穀賤則萬物必貴。兩者爲敵，則不俱平。故人君",
+      "note": "「以正人籍，謂之離情」直說按人徵籍會離散民情與上下關係，這一句在其餘穀價、口糧和徵籍算法之外另有人的樣態",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第74篇山國軌",
+      "para_index": 3,
+      "para_id": "guanzi#70-p03",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "桓公問於管子曰：「不籍而贍國，爲之有道乎？」管子對曰：「軌守其時，有官天財，何求",
+      "note": "「此民之所以相并兼之時也」明說四時物用高下會形成民眾彼此兼并的關係，並以此作為君守四務的依據",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第74篇山國軌",
+      "para_index": 5,
+      "para_id": "guanzi#70-p05",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "管子曰：「請立貲於民，有田倍之內，毋有其外，外皆爲貲壤。被鞍之馬千乘，齊之戰車之",
+      "note": "「巨家重葬其親」「小家菲葬其親」直接按貧富區分人對親屬喪葬的作法，明說階層處境與家庭傳承實踐的關聯",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第75篇山權數",
+      "para_index": 5,
+      "para_id": "guanzi#71-p05",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "桓公問於管子曰：「權棅之數，吾已得聞之矣。守國之固奈何？」曰：「能皆已官，時皆已",
+      "note": "「智者，民之輔也」與「量人力而舉功」明說有智者的社會作用及人的能力應與所舉之功相稱",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第76篇山至數",
+      "para_index": 3,
+      "para_id": "guanzi#72-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公問於管子曰：「昔者周人有天下，諸侯賓服，名教通於天下，而奪於其下，何數也？」",
+      "note": "財幣聚於大夫後「大夫自還而不盡忠」、諸侯「連朋合與」，直說財權集中如何使政治關係與忠誠敗壞",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第76篇山至數",
+      "para_index": 5,
+      "para_id": "guanzi#72-p05",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "桓公問管子曰：「請問國會。」管子對曰：「君失大夫爲無伍，失民爲失下。故守大夫以縣",
+      "note": "「王者藏於民」及「大夫積實而驕上」直說財富應置於民與積財使權臣驕慢，涉及權力分配與品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第76篇山至數",
+      "para_index": 7,
+      "para_id": "guanzi#72-p07",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公問管子曰：「請問爭奪之事何如？」管子曰：「以戚始。」桓公曰：「何謂用戚始？」",
+      "note": "兄弟分國經世代成昭穆與祏而終至兵爭伏尸，直說宗族分封如何造成繼承分裂與群體爭奪",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第77篇地數",
+      "para_index": 2,
+      "para_id": "guanzi#73-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "「黃帝問於伯高曰：『吾欲陶天下而以爲一家，爲之有道乎？』伯高對曰：『請刈其莞而樹",
+      "note": "蚩尤制兵後諸侯相兼，天下之君「頓戟壹怒，伏尸滿野」，把武器、君主之怒與群體殺伐直接相連",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第78篇揆度",
+      "para_index": 2,
+      "para_id": "guanzi#74-p02",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "桓公曰：「事名二、正名五而天下治。何謂事名二？」對曰：「天筴，陽也；壤筴，陰也。",
+      "note": "「味者所以守民口，聲者所以守民耳，色者所以守民目」直說統治可藉人的感官偏好約束民眾",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第78篇揆度",
+      "para_index": 4,
+      "para_id": "guanzi#74-p04",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "桓公問於管子曰：「請問大准。」管子對曰：「大准者，天下皆制我而無我焉，此謂大准。",
+      "note": "「貧者重貧，富者重富」指出戰事加劇貧富分化，而「非天凶也，此人凶也」把災困明歸於人的作為",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第78篇揆度",
+      "para_index": 7,
+      "para_id": "guanzi#74-p07",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公問於管子曰：「輕重之數惡終？」管子對曰：「若四時之更舉，無所終。國有患憂，輕",
+      "note": "以財富誠信仁義之士後「民高辭讓，無為奇怪者」，直說公共資源與表彰會形成群體的辭讓品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第78篇揆度",
+      "para_index": 10,
+      "para_id": "guanzi#74-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「五穀者，民之司命也。刀幣者，溝瀆也。號令者，徐疾也。令重於寶，社稷重於親戚。胡",
+      "note": "「社稷重於親戚」並以城亡無生臣、親沒無死子作對照，直接衡量政治共同體與親屬關係的分量",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第78篇揆度",
+      "para_index": 13,
+      "para_id": "guanzi#74-p13",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "管子曰：「匹夫爲鰥，匹婦爲寡，老而無子者爲獨。君問其若有子弟師役而死者，父母爲獨",
+      "note": "國家葬恤喪子父母、資助無本者並褒賞力作、處置蕩游者，明說公共照護與勞動勤惰的差別待遇",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第78篇揆度",
+      "para_index": 14,
+      "para_id": "guanzi#74-p14",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "上農挾五，中農挾四，下農挾三。上女衣五，中女衣四，下女衣三。農有常業，女有常事。",
+      "note": "「農有常業，女有常事」明說勞作關乎飢寒，生計不足又使人鬻子、父失其子，而上求無止更令姦途興、君失其民，三層分涉工作、家庭與社會秩序",
+      "co_domains": [
+        "IV",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第79篇國准",
+      "para_index": 1,
+      "para_id": "guanzi#75-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公問於管子曰：「國准可得聞乎？」管子對曰：「國准者，視時而立儀。」桓公曰：「何",
+      "note": "「童山竭澤者，君智不足」直接評斷領袖才德，末段又以「以人御人」與高仁義說明安定民心的領導方式",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第79篇國準",
+      "para_index": 1,
+      "para_id": "guanzi#76-p01",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "桓公問於管子曰：「國准可得而聞乎？」管子對曰：「國准者，視時而立儀。」桓公曰：「",
+      "note": "「童山竭澤者，君智不足也」直接把山澤耗竭判為君主才智不足，並以閉知能、以人御人論領導與用人",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第80篇輕重甲",
+      "para_index": 1,
+      "para_id": "guanzi#77-p01",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "桓公曰：「輕重有數乎？」管子對曰：「輕重無數。物發而應之，聞聲而乘之。故爲國不能",
+      "note": "「聖人善用非其有，使非其人」直接描述領導者調用非己之財與非己之人的能力",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第80篇輕重甲",
+      "para_index": 2,
+      "para_id": "guanzi#77-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公問管子曰：「夫湯以七十里之薄，兼桀之天下，其故何也？」管子對曰：「桀者，冬不",
+      "note": "桀以凍溺與驚駭爲觀、湯則使飢寒者得食得衣，對照呈現兩種領袖的德行及其人心後果",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第80篇輕重甲",
+      "para_index": 10,
+      "para_id": "guanzi#77-p10",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "桓公憂北郭民之貧，召管子而問曰：「北郭者，盡屨縷之甿也，以唐園爲本利，爲此有道乎",
+      "note": "「北郭者，盡屨縷之甿也，以唐園爲本利」直接描述貧民的職業與生計，並以限制豪家保障其謀生機會",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第80篇輕重甲",
+      "para_index": 12,
+      "para_id": "guanzi#77-p12",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "管子曰：「萬乘之國，必有萬金之賈。千乘之國，必有千金之賈。百乘之國，必有百金之賈",
+      "note": "商賈乘弊使貧者重貧、農夫重竭，而君須愛民如兄弟父子，明說財權關係與領導者的倫理責任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第80篇輕重甲",
+      "para_index": 13,
+      "para_id": "guanzi#77-p13",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "管子曰：「一農不耕，民或爲之飢。一女不織，民或爲之寒。故事再其本，則無賣其子者。",
+      "note": "糧食不足會使鄉里出盜、無止的徵求會迫民賣產走亡，直接斷言匱乏與壓榨如何改變群體行爲",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第80篇輕重甲",
+      "para_index": 14,
+      "para_id": "guanzi#77-p14",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "管子曰：「今爲國有地牧民者，務在四時，守在倉廩。國多財則遠者來，地辟舉則民留處，",
+      "note": "「倉廩實則知禮節，衣食足則知榮辱」明說物質安定形成禮節榮辱之知，並指出兼并使民餓餒賣子",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第80篇輕重甲",
+      "para_index": 15,
+      "para_id": "guanzi#77-p15",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公問於管子曰：「今欲調高下，分并財，散積聚。不然，則世且并兼而無止，蓄餘藏羨而",
+      "note": "「重籍其民者失其下，數欺諸侯者無權與」及「奪於天下者，國之大賊也」直論壓榨欺罔的政治與品格後果",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第81篇輕重乙",
+      "para_index": 1,
+      "para_id": "guanzi#78-p01",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "桓公曰：「天下之朝夕可定乎？」管子對曰：「終身不定。」桓公曰：「其不定之說，可得",
+      "note": "「遠者疏，疾怨上」直說距離與徵籍使遠民疏離、怨恨君上，並以此作為重列封域的依據",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第81篇輕重乙",
+      "para_index": 3,
+      "para_id": "guanzi#78-p03",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "桓公曰：「衡謂寡人曰：一農之事，必有一耜、一銚、一鎌、一鎒、一椎、一銍，然後成爲",
+      "note": "「發民，則下疾怨上」且有兵時民將懷怨不戰，直說強制作役如何造成怨恨與拒絕服從",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第81篇輕重乙",
+      "para_index": 4,
+      "para_id": "guanzi#78-p04",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "桓公曰：「請問壤數。」管子對曰：「河𡌧，諸侯畝鍾之國也。皟山諸侯之國也。河𡌧諸侯",
+      "note": "「民，奪之則怒，予之則喜。民情固然」明言民眾受取予支配而喜怒，並由此解釋上下怨懟與政令不行",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第81篇輕重乙",
+      "para_index": 5,
+      "para_id": "guanzi#78-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "管子曰：「泉雨五尺，其君必辱。食稱之國必亡。待五穀者衆也。故樹木之勝霜露者，不受",
+      "note": "「家足其所者，不從聖人」直說自足使人不受支配，並主張以奪予、高下操控天下，涉及權力與人的自主",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第81篇輕重乙",
+      "para_index": 8,
+      "para_id": "guanzi#78-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "管子入復桓公曰：「終歲之租金四萬二千金，請以一朝素賞軍士。」桓公曰：「諾。」以令",
+      "note": "以鄉里名望使士爭名、以厚賞使士報德，又寫父兄妻子相勸赴戰，分別說出社會榮譽、家庭勸勉與報德不退的品格動機",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第83篇輕重丁",
+      "para_index": 3,
+      "para_id": "guanzi#79-p03",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "桓公曰：「寡人多務，令衡籍吾國之富商蓄賈稱貸家，以利吾貧萌，農夫不失其本事。反此",
+      "note": "四方貧萌各靠漁獵、伐木、織葛、煮鹽為生卻受重息支配，而君解其債後父兄相勸墾田，明說債權權力與勞作動機",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第83篇輕重丁",
+      "para_index": 6,
+      "para_id": "guanzi#79-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "龍鬭於馬謂之陽，牛山之陰。管子入復於桓公曰：「天使使者臨君之郊，請使大夫初飭，左",
+      "note": "「智者役使鬼神，而愚者信之」把天使與彗星之兆明定為人所造作和利用的統治工具，直說信從、操控與人的能動性",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第83篇輕重丁",
+      "para_index": 7,
+      "para_id": "guanzi#79-p07",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公曰：「大夫多并其財而不出，腐朽五穀而不散。」管子對曰：「請以令召城陽大夫而請",
+      "note": "以城陽大夫奢侈而親族飢寒反襯骨肉責任，又寫功臣分財救貧病孤老及桓公推仁立義，分別呈現家庭義務、社會救助與仁義品格",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第83篇輕重丁",
+      "para_index": 8,
+      "para_id": "guanzi#79-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公曰：「崢丘之戰，民多稱貸，負子息以給上之急，度上之求。寡人欲復業產，此何以洽",
+      "note": "稱貸者助貧萌給國急而被稱為「民之父母」，受禮遇後折券散財振貧，呈現公共照顧與慷慨報德的品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第85篇輕重己",
+      "para_index": 2,
+      "para_id": "guanzi#81-p02",
+      "modes": [
+        "ritual",
+        "prescription"
+      ],
+      "excerpt": "以冬日至始，數四十六日，冬盡而春始。天子東出其國四十六里而壇，服青而絻青，搢玉揔",
+      "note": "「教民爲酒食，所以爲孝敬也」把飲食之教直接繫於孝敬；「民生而無父母，謂之孤子。無妻無子，謂之老鰥……此三人者皆就官」以有無父母妻子界定三種處境並課以官養之責，末句「路有行乞者，則相之罪也」把責任歸到人身上",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第85篇輕重己",
+      "para_index": 6,
+      "para_id": "guanzi#81-p06",
+      "modes": [
+        "ritual",
+        "proposition"
+      ],
+      "excerpt": "以夏日至始，數四十六日，夏盡而秋始，而黍熟。天子祀於太祖，其盛以黍。黍者，穀之美",
+      "note": "「大功者太祖，小功者小祖，無功者無祖」「祖者，所以功祭也，非所以戚祭也」明說祭祀依功不依親，末句「所以異貴賤而賞有功也」把人該按什麼被評價講了出來",
+      "co_domains": [
+        "VIII"
+      ]
     },
     {
       "slug": "hanfeizi",

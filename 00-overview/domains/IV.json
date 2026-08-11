@@ -2,9 +2,9 @@
   "domain": "IV",
   "name_zh": "家庭與傳承",
   "gist": "婚姻與家庭、原生家庭的傷、為人父母、記憶與和解、留下什麼給後代",
-  "generated_at": "2026-08-10T06:16:28+00:00",
-  "para_count": 386,
-  "book_count": 19,
+  "generated_at": "2026-08-11T00:16:16+00:00",
+  "para_count": 426,
+  "book_count": 20,
   "surveyed_zero_hit": [
     "fangyan",
     "haidao-suanjing",
@@ -56,6 +56,604 @@
       ],
       "excerpt": "皇曰：嗟爾天師，俌相正五，百官、士子、農夫、啇人、工技，鹹若我言。政典曰：國無邪",
       "note": "提出官民各安職業的正道，並主張善政可使父子夫婦兄弟不背恩情義",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第04篇立政",
+      "para_index": 6,
+      "para_id": "guanzi#10-p06",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "脩火憲，敬山澤林藪積草。夫財之所出，以時禁發焉。使民足於宮室之用，薪蒸之所積，虞",
+      "note": "鄉師職責明定使百姓「力作毋偷，懷樂家室，重去鄉里」，直接提出勤作與安於家室的生活、品行期許",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第10篇五輔",
+      "para_index": 3,
+      "para_id": "guanzi#15-p03",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "曰：民知德矣，而未知義，然後明行以導之義。義有七體。七體者何？曰：孝悌慈惠以養親",
+      "note": "七義以「孝悌慈惠」論親族、以「事君上」「和協輯睦」論群體關係、以忠信中正等論品格，IV、V、VII 各少不得。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第10篇五輔",
+      "para_index": 4,
+      "para_id": "guanzi#15-p04",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "曰：民知義矣，而未知禮，然後飾八經以導之禮。所謂八經者何？曰：上下有義，貴賤有分",
+      "note": "八禮既規定君臣貴賤的群體秩序，又詳述父子兄弟夫妻的家庭責任，並以中正、忠信、慈惠、孝悌界定品格，IV、V、VII 各有明文。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第18篇匡君大匡",
+      "para_index": 12,
+      "para_id": "guanzi#23-p12",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "五年，諸侯附，狄人伐。桓公告諸侯曰：「請救伐。」諸侯許諾。大侯車二百乘，卒二千人",
+      "note": "「毋專立妾以爲妻」「毋專棄妻」及孝、愛弟、敬老的賞罰規定，把婚家關係與孝悌品格列為明確行為準則",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第20篇匡君小匡",
+      "para_index": 3,
+      "para_id": "guanzi#25-p03",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "公曰：「爲之柰何？」管子對曰：「昔者聖王之治其民也，參其國而伍其鄙，定民之居，成",
+      "note": "四民分居後由父兄在日常職事中教其子弟，使之「少而習焉，其心安焉」，明論家庭傳習與職業能力的代際養成",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第31篇君臣下",
+      "para_index": 8,
+      "para_id": "guanzi#34-p08",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "國之所以亂者四，其所以亡者二。內有疑妻之妾，此宮亂也。庶有疑適之子，此家亂也。朝",
+      "note": "以妾疑妻、庶疑適、臣疑相與任官無能分列家國四亂，並連到兄弟偏黨、群官懷私及國家危亡，論家內承繼與公共權力秩序",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第32篇小稱",
+      "para_index": 4,
+      "para_id": "guanzi#35-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "管仲有病，桓公往問之，曰：「仲父之病病矣，若不可諱而不起此病也，仲父亦將何以詔寡",
+      "note": "管仲以人情本愛其子、其身及應念親為辨忠依據，桓公不終用賢終被四臣困死的故事，論親屬情感、識人信任與領導責任",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第35篇侈靡",
+      "para_index": 10,
+      "para_id": "guanzi#37-p10",
+      "modes": [
+        "formalization",
+        "ritual"
+      ],
+      "excerpt": "「是故之時陳財之道，可以行令也。利散而民察，必放之身然後行。」公曰：「謂何？」「",
+      "note": "「一親往，一親來，所以合親」直說喪葬使親族相合，又以「安鄉樂宅……所以留民俗」論社群歸屬",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第35篇侈靡",
+      "para_index": 16,
+      "para_id": "guanzi#37-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "事故也，君臣之際也。禮義者，人君之神也，且君臣之屬也。親戚之愛，性也。使君親之察",
+      "note": "「禮義者……君臣之屬也」論君臣關係，又以「親戚之愛，性也」明說親族之愛出於人性",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第35篇侈靡",
+      "para_index": 18,
+      "para_id": "guanzi#37-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "法制度量，王者典器也。執故義道，畏變也。天地若夫神之動，化變者也。天地之極也，能",
+      "note": "「衣食之於人也，不可以一日違也」指出人的日常身體所需，「親戚可以時大也」則明言親族關係的重要",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第44篇九變",
+      "para_index": 1,
+      "para_id": "guanzi#45-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "凡民之所以守戰至死而不德其上者，有數以至焉。曰：大者，親戚墳墓之所在也，田宅富厚",
+      "note": "本段以親戚墳墓與宗族說家庭牽繫，以鄉黨、賞罰與守土說群體歸屬，又以畏罰、怨敵說情緒動機，三者共同解釋民眾何以守戰至死",
+      "co_domains": [
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第48篇治國",
+      "para_index": 1,
+      "para_id": "guanzi#49-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡治國之道，必先富民，民富則易治也，民貧則難治也。奚以知其然也？民富則安鄉重家，",
+      "note": "民富則安鄉重家、敬上畏罪，民貧則危鄉輕家、陵上犯禁，明說物質處境如何影響家園依附與社會服從",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第51篇小問",
+      "para_index": 1,
+      "para_id": "guanzi#52-p01",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "桓公問管子曰：「治而不亂，明而不蔽，若何？」管子對曰：「明分任職，則治而不亂，明",
+      "note": "以故國父母墳墓、田宅爵祿與妻子為使民死守不欺的「三本」，明說家庭牽繫與政治忠誠所依的條件",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第57篇度地",
+      "para_index": 1,
+      "para_id": "guanzi#58-p01",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "昔者桓公問管仲曰：「寡人請問度地形而爲國者，其何如而可？」管仲對曰：「夷吾之所聞",
+      "note": "段中明說除五害可使人終身無患而孝慈，水害傷人致困則轉為輕法、不孝不臣，分別涉及家庭倫理、品格變化與身體患害",
+      "co_domains": [
+        "VII",
+        "IX"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 1,
+      "para_id": "guanzi#61-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "山者，物之高者也。惠者，主之高行也。慈者，父母之高行也。忠者，臣之高行也。孝者，",
+      "note": "以君惠臣忠說政治角色，以父母慈、子婦孝說家庭關係，並把惠慈忠孝明定為人的高行",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 2,
+      "para_id": "guanzi#61-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "淵者，衆物之所生也，能深而不涸，則沈玉至。主者，人之所仰而生也，能寬裕純厚而不茍",
+      "note": "君民與臣主的政治依附、父母子婦的親養關係，以及慈仁忠孝等品格各有明說",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 3,
+      "para_id": "guanzi#61-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天覆萬物，制寒暑，行日月，次星辰，天之常也。治之以理，終而復始。主牧萬民，治天下",
+      "note": "分述君臣社會職分、父母子婦家庭常道與忠信孝敬品格，並以守常說明和治之因",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 4,
+      "para_id": "guanzi#61-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "地生養萬物，地之則也。治安百姓，主之則也。教護家事，父母之則也。正諫死節，臣下之",
+      "note": "把安民正諫列為政治責任、教護共養列為家庭責任，並以守則與否判定人的德行",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 21,
+      "para_id": "guanzi#61-p21",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "道行則君臣親，父子安，諸生育。故明主之務，務在行道，不顧小物。燕爵，物之小者也。",
+      "note": "道行使君臣親、父子安，並要求明主專務行道，直接論及家庭與政治關係的安定",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 30,
+      "para_id": "guanzi#61-p30",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "爲主而賊，爲父母而暴，爲臣下而不忠，爲子婦而不孝，四者，人之大失也。大失在身，雖",
+      "note": "分別以暴主與不忠臣說政治失德、以暴親與不孝子婦說家庭失序，並總判四者為人的大失",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 31,
+      "para_id": "guanzi#61-p31",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "爲主而惠，爲父母而慈，爲臣下而忠，爲子婦而孝，四者，人之高行也。高行在身，雖有小",
+      "note": "分別以惠主與忠臣說政治德行、以慈親與孝子婦說家庭德行，並總判四者為人的高行",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 53,
+      "para_id": "guanzi#61-p53",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "爲人父而不明父子之義以教其子而整齊之，則子不知爲人子之道以事其父矣。故曰：「父不",
+      "note": "父親不以父子之義教整子女，子便不知事父之道，直接論家庭教養與孝行養成",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 59,
+      "para_id": "guanzi#61-p59",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "民之所以守戰至死而不衰者，上之所以加施於民者厚也。故上施厚，則民之報上亦厚；上施",
+      "note": "臣民回報厚薄取決於上位者施予厚薄，且同理適用父子，直接論政治與家庭中的互惠關係",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 61,
+      "para_id": "guanzi#61-p61",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "聞道而以治一鄉，親其父子，順其兄弟，正其習俗，使民樂其上，安其土，爲一鄉主幹者，",
+      "note": "聞道治鄉使父子相親、兄弟和順，又使民樂上安土，兼論家庭與鄉群關係",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 70,
+      "para_id": "guanzi#61-p70",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "古者三王五伯，皆人主之利天下者也，故身貴顯而子孫被其澤。桀、紂、幽、厲，皆人主之",
+      "note": "以利天下或害天下的古代君主為例，說領導作為如何使其子孫承受福澤或災禍",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 72,
+      "para_id": "guanzi#61-p72",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "棟生橈不勝任則屋覆，而人不怨者，其理然也。弱子，慈母之所愛也，不以其理衍下瓦，則",
+      "note": "慈母雖愛弱子仍會因其無理下瓦而笞之，並以此說明親子教養及怨怒取決於是否合乎道理",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 73,
+      "para_id": "guanzi#61-p73",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "行天道，出公理，則遠者自親。廢天道，行私爲，則子母相怨。故曰：「天道之極，遠者自",
+      "note": "行公理能使遠人相親，行私則使子母相怨，分別明說公共與家庭關係受公私行為影響",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 86,
+      "para_id": "guanzi#61-p86",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主之治天下也，必用聖人而後天下治。婦人之求夫家也，必用媒而後家事成。故治天下而",
+      "note": "以治天下須用聖人比女子成婚須用媒介，分別論政治合作與婚姻家事的社會條件",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第66篇版法解",
+      "para_index": 10,
+      "para_id": "guanzi#63-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡衆者，愛之則親，利之則至。是故明君設利以致之，明愛以親之。徒利而不愛，則衆至而",
+      "note": "「愛之則親，利之則至」並列君臣、朋友、兄弟、父子四種關係，明說愛與施利如何維繫家庭及社會親近",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第66篇版法解",
+      "para_index": 12,
+      "para_id": "guanzi#63-p12",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "愛施之德，雖行而無私。內行不脩，則不能朝遠方之君。是故正君臣上下之義，飾父子兄弟",
+      "note": "段落分別要求正君臣上下之義、修父子兄弟夫妻之義，並使君德臣忠、父慈子孝、兄愛弟敬，明說公共關係、家庭倫理與角色德行",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 30,
+      "para_id": "guanzi#64-p30",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主者，使下盡力而守法分，故羣臣務尊主而不敢顧其家。臣主之分明，上下之位審，故大",
+      "note": "「羣臣得務益其家」「家與家務相益」明說君臣分位不清時官員轉而經營家門、相互抬舉的公私衝突",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第74篇山國軌",
+      "para_index": 5,
+      "para_id": "guanzi#70-p05",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "管子曰：「請立貲於民，有田倍之內，毋有其外，外皆爲貲壤。被鞍之馬千乘，齊之戰車之",
+      "note": "「巨家重葬其親」「小家菲葬其親」直接按貧富區分人對親屬喪葬的作法，明說階層處境與家庭傳承實踐的關聯",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第75篇山權數",
+      "para_index": 3,
+      "para_id": "guanzi#71-p03",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "桓公問於管子曰：「請問國制。」管子對曰：「國無制，地有量。」桓公曰：「何謂國無制",
+      "note": "「君不高慈孝，則民簡其親而輕過」直接斷言領袖不尊崇仁慈孝道會使民眾輕忽親屬與過失，涉及家庭關係和品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第76篇山至數",
+      "para_index": 7,
+      "para_id": "guanzi#72-p07",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公問管子曰：「請問爭奪之事何如？」管子曰：「以戚始。」桓公曰：「何謂用戚始？」",
+      "note": "兄弟分國經世代成昭穆與祏而終至兵爭伏尸，直說宗族分封如何造成繼承分裂與群體爭奪",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第78篇揆度",
+      "para_index": 10,
+      "para_id": "guanzi#74-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「五穀者，民之司命也。刀幣者，溝瀆也。號令者，徐疾也。令重於寶，社稷重於親戚。胡",
+      "note": "「社稷重於親戚」並以城亡無生臣、親沒無死子作對照，直接衡量政治共同體與親屬關係的分量",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第78篇揆度",
+      "para_index": 14,
+      "para_id": "guanzi#74-p14",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "上農挾五，中農挾四，下農挾三。上女衣五，中女衣四，下女衣三。農有常業，女有常事。",
+      "note": "「農有常業，女有常事」明說勞作關乎飢寒，生計不足又使人鬻子、父失其子，而上求無止更令姦途興、君失其民，三層分涉工作、家庭與社會秩序",
+      "co_domains": [
+        "V",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第80篇輕重甲",
+      "para_index": 17,
+      "para_id": "guanzi#77-p17",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "管子曰：「湩然擊鼓，士忿怒。鎗然擊金，士帥然。筴桐鼓從之，輿死扶傷，爭進而無止。",
+      "note": "重祿重賞能驅使忠戰，甚至使父子、兄弟、夫妻不能相守，明說制度誘因會改變行動並壓過家庭關係",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第81篇輕重乙",
+      "para_index": 8,
+      "para_id": "guanzi#78-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "管子入復桓公曰：「終歲之租金四萬二千金，請以一朝素賞軍士。」桓公曰：「諾。」以令",
+      "note": "以鄉里名望使士爭名、以厚賞使士報德，又寫父兄妻子相勸赴戰，分別說出社會榮譽、家庭勸勉與報德不退的品格動機",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第83篇輕重丁",
+      "para_index": 7,
+      "para_id": "guanzi#79-p07",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公曰：「大夫多并其財而不出，腐朽五穀而不散。」管子對曰：「請以令召城陽大夫而請",
+      "note": "以城陽大夫奢侈而親族飢寒反襯骨肉責任，又寫功臣分財救貧病孤老及桓公推仁立義，分別呈現家庭義務、社會救助與仁義品格",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第85篇輕重己",
+      "para_index": 2,
+      "para_id": "guanzi#81-p02",
+      "modes": [
+        "ritual",
+        "prescription"
+      ],
+      "excerpt": "以冬日至始，數四十六日，冬盡而春始。天子東出其國四十六里而壇，服青而絻青，搢玉揔",
+      "note": "「教民爲酒食，所以爲孝敬也」把飲食之教直接繫於孝敬；「民生而無父母，謂之孤子。無妻無子，謂之老鰥……此三人者皆就官」以有無父母妻子界定三種處境並課以官養之責，末句「路有行乞者，則相之罪也」把責任歸到人身上",
       "co_domains": [
         "V"
       ]

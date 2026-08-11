@@ -2,9 +2,9 @@
   "domain": "III",
   "name_zh": "愛與親密",
   "gist": "愛與性、被拒絕、承諾、信任與脆弱、溝通與被理解",
-  "generated_at": "2026-08-10T06:16:28+00:00",
-  "para_count": 92,
-  "book_count": 11,
+  "generated_at": "2026-08-11T00:16:16+00:00",
+  "para_count": 97,
+  "book_count": 12,
   "surveyed_zero_hit": [
     "fangyan",
     "gu-sanfen",
@@ -62,6 +62,77 @@
       "excerpt": "唯有一女人愛悅於帝，名曰巨靈。帝傍有青珉唾壺，巨靈乍出入其中，或戲笑帝前。東方朔",
       "note": "巨靈是帝所愛悅並在帝前嬉戲的女子，她受東方朔注目後離去化鳥，異變之外仍寫到親密依戀",
       "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 40,
+      "para_id": "guanzi#61-p40",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "聖人之諾已也，先論其理義，計其可否。義則諾，不義則已。可則諾，不可則已。故其諾未",
+      "note": "承諾是否先經義與可行性的判斷決定其可信度，直接涉及守信承諾與誠信品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 77,
+      "para_id": "guanzi#61-p77",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "與人交，多詐僞，無情實，偷取一切，謂之烏集之交。烏集之交，初雖相驩，後必相咄。故",
+      "note": "多詐無實的交往起初雖歡、終必相斥，直接論信任關係與誠偽品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 78,
+      "para_id": "guanzi#61-p78",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "聖人之與人約結也，上觀其事君也，內觀其事親也，必有可知之理，然後約結。約結而不襲",
+      "note": "聖人先由事君事親考察品行再締約，否則關係終將背離，涉及承諾信任與品格辨識",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 83,
+      "para_id": "guanzi#61-p83",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "常以言翹明其與人也，其愛人也，其有德於人也。以此爲友則不親，以此爲交則不結，以此",
+      "note": "張揚友愛施德反而難親難結難報，真正歸附在於心行，直接論關係真誠與內在品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第83篇輕重丁",
+      "para_index": 10,
+      "para_id": "guanzi#79-p10",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公曰：「五衢之民衰然多衣弊而屨穿，寡人欲使帛布絲纊之賈賤，爲之有道乎？」管子曰",
+      "note": "男女相好者在樹下談笑終日不歸，連帶使耕播與紡績俱廢，直說親密交往如何牽動人的工作投入",
+      "co_domains": [
+        "VIII"
+      ]
     },
     {
       "slug": "hanfeizi",

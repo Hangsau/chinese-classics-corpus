@@ -2,9 +2,9 @@
   "domain": "II",
   "name_zh": "自我與認同",
   "gist": "我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我",
-  "generated_at": "2026-08-10T06:16:28+00:00",
-  "para_count": 456,
-  "book_count": 18,
+  "generated_at": "2026-08-11T00:16:16+00:00",
+  "para_count": 469,
+  "book_count": 19,
   "surveyed_zero_hit": [
     "fangyan",
     "gu-sanfen",
@@ -43,6 +43,198 @@
       ],
       "excerpt": "黃安，代郡人也。為代郡卒。自雲卑猥不獲處人間，執鞭懷荊而讀書。畫地以記數者，夕地",
       "note": "黃安自陳卑猥難處人間，仍在低微役職中執鞭懷荊讀書記數，寫出自我身分與求學實踐",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第11篇宙合",
+      "para_index": 5,
+      "para_id": "guanzi#16-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「明乃哲，哲乃明，奮乃苓，明哲乃大行」，此言擅美主盛自奮也。以琅湯凌轢人，人之敗",
+      "note": "本段以盛而必落警戒自矜，稱有道者功大不伐、業明不矜，並明說「名實之相怨」而須有所取捨。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第11篇宙合",
+      "para_index": 13,
+      "para_id": "guanzi#16-p13",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "「天不一時，地不一利，人不一事」，是以著業不得不多，人之名位不得不殊。方明者察于",
+      "note": "「人不一事」被展開為著業須多、名位須殊，且專精一言一事者不可廣舉，直論人的職事、身分與能力界限。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第16篇法法",
+      "para_index": 10,
+      "para_id": "guanzi#21-p10",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "一曰：凡人君之德行威嚴，非獨能盡賢於人也。曰人君也，故從而貴之，不敢論其德行之高",
+      "note": "人君受尊並非必因德行高明，而因「曰人君也」及掌握富貧貴賤等權勢，明辨身分名位與實德、支配關係之別",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第26篇戒",
+      "para_index": 5,
+      "para_id": "guanzi#29-p05",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "桓公外舍而不鼎饋。中婦諸子謂宮人：「盍不出從乎？君將有行。」宮人皆出從。公怒曰：",
+      "note": "中婦諸子以自己未得人持接而反問「意者更容不審邪」，用第一人稱的自我檢視回應桓公不能招致諸侯的人際困局。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第32篇小稱",
+      "para_index": 1,
+      "para_id": "guanzi#35-p01",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "管子曰：「身不善之患，毋患人莫己知。丹青在山，民知而取之。美珠在淵，民知而取之。",
+      "note": "以第一人稱說自身善過皆逃不過民眾察看與毀譽，且怨氣會見於面、惡言會出於口，論人的品行如何形成自我名聲",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第36篇心術上",
+      "para_index": 4,
+      "para_id": "guanzi#38-p04",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "天之道，虛其無形。虛則不屈，無形則無所位𧺴。無所位𧺴，故偏流萬物而不變。德者，道",
+      "note": "本段以「禮者，因人之情，緣義之理」系統界定義禮法，又以「形固有名」「實不得延名」申說名實相當",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第38篇白心",
+      "para_index": 6,
+      "para_id": "guanzi#40-p06",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "難言憲術，須同而出。無益言，無損言，近可以免。故曰：知何知乎？謀何謀乎？審而出者",
+      "note": "「自知曰稽，知人曰濟」直論自知，並以「名進而身退」及不可與驕倨傲暴者交往規範對名聲與品格的取捨",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第38篇白心",
+      "para_index": 7,
+      "para_id": "guanzi#40-p07",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "道之大如天，其廣如地，其重如石，其輕如羽。民之所以知者寡，故曰：何道之近而莫之與",
+      "note": "「欲愛吾身，先知吾情」把自我體察作為養生之始，「和以反中，形性相葆」則直述內在和合的安頓工夫",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第51篇小問",
+      "para_index": 8,
+      "para_id": "guanzi#52-p08",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "桓公北伐孤竹，未至卑耳之谿十里，闟然止，瞠然視，援弓將射，引而未敢發也。謂左右曰",
+      "note": "桓公把尺人視為登山之神的指引，管仲則以「臣非聖也，善承教也」自定身分，兼涉神聖徵兆與自我評價",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第55篇九守",
+      "para_index": 9,
+      "para_id": "guanzi#56-p09",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "脩名而督實，按實而定名。名實相生，反相爲情。名實當則治，不當則亂。名生於實，實生",
+      "note": "由修名督實論名實相當，並把實追溯至德、理、智與當，直接連結身分名實和德智品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 51,
+      "para_id": "guanzi#61-p51",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "中情信誠則名譽美矣，脩行謹敬則尊顯附矣。中無情實則名聲惡矣，脩行慢易則汙辱生矣。",
+      "note": "內在真誠與謹敬修行帶來美名尊顯，無實慢易則招致惡名汙辱，連結品格與名譽",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第65篇立政九敗解",
+      "para_index": 4,
+      "para_id": "guanzi#62-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人君唯無聽私議自貴，則民退靜隱伏，窟穴就山，非世閒上，輕爵祿而賤有司。然則令不行",
+      "note": "民因私議自貴而退隱山林、輕視爵祿與有司，明說自我身分取向及其與政治權威的疏離",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第83篇輕重丁",
+      "para_index": 11,
+      "para_id": "guanzi#79-p11",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公曰：「糶賤，寡人恐五穀之歸於諸侯。寡人欲爲百姓萬民藏之，爲此有道乎？」管子曰",
+      "note": "萬民見造囷者受聘顯名便捨業仿效，文本以「功立而名成」「名實俱在」明說名望與成就對行動的驅力",
       "co_domains": [
         "VIII"
       ]

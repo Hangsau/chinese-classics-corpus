@@ -1,0 +1,22 @@
+{
+  "batch": "b24.md",
+  "rows": [
+    {"chapter": "第84篇輕重戊", "para_index": 1, "domains": ["VII", "XI"], "modes": ["narrative", "proposition"], "reason": "歷數虙戲以下諸王之作，明說「九州之民乃知穀食」「封土爲社，置木爲閭，始民知禮也」，把民的知識與禮從何而來當成論證骨幹，而非只列政策"},
+    {"chapter": "第84篇輕重戊", "para_index": 2, "domains": [], "modes": ["narrative", "formalization"], "reason": "魯梁服綈之謀，通篇是貴買綈、閉關、糶價這條政策鏈與其後果數字，未另斷言人是什麼樣的"},
+    {"chapter": "第84篇輕重戊", "para_index": 3, "domains": ["VIII"], "modes": ["narrative", "proposition"], "reason": "「丁壯者胡丸操彈居其下，終日不歸。父老柎枝而論，終日不歸。歸市亦惰倪，終日不歸」把不歸者分成三型，這個分型不依賴沐枝這根槓桿而先行成立，是對人怎麼過日子的判斷"},
+    {"chapter": "第84篇輕重戊", "para_index": 4, "domains": [], "modes": ["narrative", "formalization"], "reason": "萊莒治柴之謀，「金幣者，人之所重也」說的是幣與柴的輕重之性，萊君棄農治柴則整句掛在重柴賈這根槓桿後面，屬政策鏈推論"},
+    {"chapter": "第84篇輕重戊", "para_index": 5, "domains": [], "modes": ["narrative", "formalization"], "reason": "買鹿制楚之謀，「其人民習戰鬭之道」是按人能做到什麼分類，楚民釋耕田鹿亦是貴買槓桿下的誘因反應，未說出人的樣態"},
+    {"chapter": "第84篇輕重戊", "para_index": 6, "domains": [], "modes": ["narrative", "formalization"], "reason": "「代人忘其難得，喜其貴買，必相率而求之」整句掛在公貴買狐白之皮這根槓桿後面，講的是誘因反應強度，屬政策鏈套語"},
+    {"chapter": "第84篇輕重戊", "para_index": 7, "domains": [], "modes": ["narrative", "formalization"], "reason": "衡山械器之謀，全段為爭買抬價、漕粟閉關的操作與價目，未另斷言人的品行或好惡"},
+    {"chapter": "第85篇輕重己", "para_index": 1, "domains": [], "modes": ["proposition"], "reason": "清神生心至四時生萬物是曆數生成的推衍，聖人因而理之只說治道所本，未說出人是什麼樣的"},
+    {"chapter": "第85篇輕重己", "para_index": 2, "domains": ["IV", "V"], "modes": ["ritual", "prescription"], "reason": "「教民爲酒食，所以爲孝敬也」把飲食之教直接繫於孝敬；「民生而無父母，謂之孤子。無妻無子，謂之老鰥……此三人者皆就官」以有無父母妻子界定三種處境並課以官養之責，末句「路有行乞者，則相之罪也」把責任歸到人身上"},
+    {"chapter": "第85篇輕重己", "para_index": 3, "domains": ["VII", "VIII"], "modes": ["ritual", "prescription"], "reason": "「苟不樹藝者，謂之賊人」「下作之地，上作之天，謂之不服之民」「處里爲下陳，處師爲下通，謂之役夫」以是否事生產給人定品名，是對人的明確評斷而非單純令文"},
+    {"chapter": "第85篇輕重己", "para_index": 4, "domains": [], "modes": ["ritual", "prescription"], "reason": "夏禁條列毋聚大衆、毋行大火、毋斷大木等禁令，屬時令條文，未說關於人的什麼"},
+    {"chapter": "第85篇輕重己", "para_index": 5, "domains": [], "modes": ["ritual", "formalization"], "reason": "夏至祀太宗以麥，說的是麥爲穀始、宗爲族始的儀節理據，同族殊族之分只是與祭範圍的規定"},
+    {"chapter": "第85篇輕重己", "para_index": 6, "domains": ["V", "VIII"], "modes": ["ritual", "proposition"], "reason": "「大功者太祖，小功者小祖，無功者無祖」「祖者，所以功祭也，非所以戚祭也」明說祭祀依功不依親，末句「所以異貴賤而賞有功也」把人該按什麼被評價講了出來"},
+    {"chapter": "第85篇輕重己", "para_index": 7, "domains": [], "modes": ["ritual", "prescription"], "reason": "秋至祭月的方位服色器樂與罰而勿賞、罪獄誅而勿生等令文，屬時令儀節與刑政條文"},
+    {"chapter": "第85篇輕重己", "para_index": 8, "domains": [], "modes": ["ritual", "prescription"], "reason": "冬禁四條毋行大火、毋斬大山、毋塞大水、毋犯天之隆，屬時令禁令條文"},
+    {"chapter": "第85篇輕重己", "para_index": 9, "domains": [], "modes": ["ritual", "formalization"], "reason": "發繇之令，趣山人斷伐、趣菹人薪雚葦與三月之後易有無的大通之蓄，皆爲徭役與蓄積程序"},
+    {"chapter": "第85篇輕重己", "para_index": 10, "domains": [], "modes": ["proposition", "formalization"], "reason": "不耕不芸不穫不臧四害說的是農時錯過的後果，後半張耜當弩、銚耨當劒戟是農具對兵具的對照表，同六韜〈農器〉型且末尾未轉向人"}
+  ]
+}

@@ -2,9 +2,9 @@
   "domain": "X",
   "name_zh": "無常·老·死·失去",
   "gist": "老與時間、失去與哀傷、死亡、耐心與等待",
-  "generated_at": "2026-08-10T06:16:28+00:00",
-  "para_count": 191,
-  "book_count": 13,
+  "generated_at": "2026-08-11T00:16:16+00:00",
+  "para_count": 203,
+  "book_count": 14,
   "surveyed_zero_hit": [
     "fangyan",
     "gu-sanfen",
@@ -49,6 +49,189 @@
       "excerpt": "武帝暮年，彌好仙術，與東方朔狎暱，帝曰：「朕所好甚者不老，其可得乎？」朔曰：「臣",
       "note": "武帝暮年親自追問不老是否可得，是替自身衰老發問，後列仙草奇物仍由此問題引出",
       "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第05篇乘馬",
+      "para_index": 16,
+      "para_id": "guanzi#11-p16",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "時之處事精矣，不可藏而舍也。故曰：「今日不爲，明日亡貨。」昔之日已往而不來矣。",
+      "note": "「今日不爲，明日亡貨」催人當下行動，「昔之日已往而不來」則明說時間流逝不可追回",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第08篇幼官",
+      "para_index": 5,
+      "para_id": "guanzi#13-p05",
+      "modes": [
+        "formalization",
+        "ritual"
+      ],
+      "excerpt": "冬行秋政霧，行夏政雷，行春政烝泄。十二始寒，盡刑。十二小榆，賜予。十二中寒，收聚",
+      "note": "「養孤老、食常疾、收孤寡」分別說出公共照護責任、疾病困境與老年及喪偶失親，V、IX、X 任一拿掉都會漏掉一類人的處境。",
+      "co_domains": [
+        "V",
+        "IX"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第09篇幼官圖",
+      "para_index": 5,
+      "para_id": "guanzi#14-p05",
+      "modes": [
+        "formalization",
+        "ritual"
+      ],
+      "excerpt": "冬行秋政霧，行夏政雷，行春政烝泄。十二始寒，盡刑。十二小榆，賜予。十二中寒，收聚",
+      "note": "「養孤老、食常疾、收孤寡」分別說出公共照護責任、疾病困境與老年及喪偶失親，V、IX、X 任一拿掉都會漏掉一類人的處境。",
+      "co_domains": [
+        "V",
+        "IX"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第10篇五輔",
+      "para_index": 2,
+      "para_id": "guanzi#15-p02",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "德有六興，義有七體，禮有八經，法有五務，權有三度。所謂六興者何？曰：辟田疇，利壇",
+      "note": "六興既含寬政賑窮的公共責任，也明列「問疾病、衣凍寒、食飢渴」之苦及「養長老、恤鰥寡、弔禍喪」之老失，V、IX、X 各有獨立內容。",
+      "co_domains": [
+        "V",
+        "IX"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第38篇白心",
+      "para_index": 2,
+      "para_id": "guanzi#40-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "兵之出，出於人。其人入，入於身。兵之勝，從於適。德之來，從於身。故曰：祥於鬼者義",
+      "note": "「强而驕者損其强」直論驕卑的品格後果，「功成者隳，名成者虧」又以盛滿必衰說明成就與名聲的無常",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第41篇五行",
+      "para_index": 8,
+      "para_id": "guanzi#43-p08",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "睹甲子，木行御。天子不賦，不賜賞，而大斬伐傷，君危。不殺，太子危，家人夫人死，不",
+      "note": "逐一斷言木火土金水當令時若逆時而為，君、太子、夫人、臣與士便危亡，直接把人的死亡命運繫於行動與時序",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第49篇內業",
+      "para_index": 3,
+      "para_id": "guanzi#50-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡道無所，善心安愛。心靜氣理，道乃可止。彼道不遠，民得以產。彼道不離，民因以知。",
+      "note": "修心靜音、正形可使道止於心，而人得之以生、失之以死，將內在修養直接連到生死得失",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第54篇入國",
+      "para_index": 1,
+      "para_id": "guanzi#55-p01",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "入國四旬，五行九惠之教。一曰老老，二曰慈幼，三曰恤孤，四曰養疾，五曰合獨，六曰問",
+      "note": "九惠以分級給養、免征與訪視扶助孤窮，另明列疾病殘障的照護及老年、死亡與喪葬，分別涉及社會責任、身體困厄和老死失去",
+      "co_domains": [
+        "V",
+        "IX"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第57篇度地",
+      "para_index": 3,
+      "para_id": "guanzi#58-p03",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "桓公曰：「當何時作之？」管子曰：「春三月，天地乾燥，水糾列之時也。山川涸落，天氣",
+      "note": "毒露使人食後受傷、多病並恐殆，而不時寒暑風雨又使人或死或生，明說恐懼、疾病與死亡三種不同的人生處境",
+      "co_domains": [
+        "VI",
+        "IX"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 10,
+      "para_id": "guanzi#61-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人主之所以令則行、禁則止者，必令於民之所好，而禁於民之所惡也。民之情，莫不欲生而",
+      "note": "「莫不欲生而惡死，莫不欲利而惡害」直接斷言民眾對生死利害的欲惡",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 12,
+      "para_id": "guanzi#61-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "起居時，飲食節，寒暑適，則身利而壽命益。起居不時，飲食不節，寒暑不適，則形體累而",
+      "note": "起居飲食寒暑影響形體健康與壽夭，惰侈或力儉又決定貧富，三項各是本段不可刪的明說內容",
+      "co_domains": [
+        "VIII",
+        "IX"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 6,
+      "para_id": "guanzi#64-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人臣之所以畏恐而謹事主者，以欲生而惡死也。使人不欲生，不惡死，則不可得而制也。夫",
+      "note": "「畏恐而謹事主者，以欲生而惡死也」直接以畏懼及好生惡死解釋臣下服從的內在動機",
+      "co_domains": [
+        "VI"
+      ]
     },
     {
       "slug": "hanfeizi",

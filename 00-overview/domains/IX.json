@@ -2,9 +2,9 @@
   "domain": "IX",
   "name_zh": "苦難·疾病·身體",
   "gist": "疾病與身體、受苦的意義、照顧與被照顧",
-  "generated_at": "2026-08-10T06:16:28+00:00",
-  "para_count": 94,
-  "book_count": 15,
+  "generated_at": "2026-08-11T00:16:16+00:00",
+  "para_count": 108,
+  "book_count": 16,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -21,6 +21,213 @@
     "wuzi"
   ],
   "paras": [
+    {
+      "slug": "guanzi",
+      "chapter": "第08篇幼官",
+      "para_index": 5,
+      "para_id": "guanzi#13-p05",
+      "modes": [
+        "formalization",
+        "ritual"
+      ],
+      "excerpt": "冬行秋政霧，行夏政雷，行春政烝泄。十二始寒，盡刑。十二小榆，賜予。十二中寒，收聚",
+      "note": "「養孤老、食常疾、收孤寡」分別說出公共照護責任、疾病困境與老年及喪偶失親，V、IX、X 任一拿掉都會漏掉一類人的處境。",
+      "co_domains": [
+        "V",
+        "X"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第09篇幼官圖",
+      "para_index": 5,
+      "para_id": "guanzi#14-p05",
+      "modes": [
+        "formalization",
+        "ritual"
+      ],
+      "excerpt": "冬行秋政霧，行夏政雷，行春政烝泄。十二始寒，盡刑。十二小榆，賜予。十二中寒，收聚",
+      "note": "「養孤老、食常疾、收孤寡」分別說出公共照護責任、疾病困境與老年及喪偶失親，V、IX、X 任一拿掉都會漏掉一類人的處境。",
+      "co_domains": [
+        "V",
+        "X"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第10篇五輔",
+      "para_index": 2,
+      "para_id": "guanzi#15-p02",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "德有六興，義有七體，禮有八經，法有五務，權有三度。所謂六興者何？曰：辟田疇，利壇",
+      "note": "六興既含寬政賑窮的公共責任，也明列「問疾病、衣凍寒、食飢渴」之苦及「養長老、恤鰥寡、弔禍喪」之老失，V、IX、X 各有獨立內容。",
+      "co_domains": [
+        "V",
+        "X"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第28篇參患",
+      "para_index": 2,
+      "para_id": "guanzi#31-p02",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "君之所以卑尊，國之所以安危者，莫要於兵。故誅暴國必以兵，禁辟民必以刑。然則兵者，",
+      "note": "「易子而食之，析骸而爨之」直接呈現圍城使人陷入飢餓與身體苦難，並非只列抽象的用兵條件。",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第35篇侈靡",
+      "para_index": 18,
+      "para_id": "guanzi#37-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "法制度量，王者典器也。執故義道，畏變也。天地若夫神之動，化變者也。天地之極也，能",
+      "note": "「衣食之於人也，不可以一日違也」指出人的日常身體所需，「親戚可以時大也」則明言親族關係的重要",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第49篇內業",
+      "para_index": 6,
+      "para_id": "guanzi#50-p06",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "思索生知，慢易生憂，暴傲生怨，憂鬱生疾，疾困乃死。思之而不捨，內困外薄。不蚤爲圖",
+      "note": "「暴傲生怨，憂鬱生疾，疾困乃死」及節欲息怒、飲食適度之說，直接連結情緒失衡與身體疾病",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第49篇內業",
+      "para_index": 7,
+      "para_id": "guanzi#50-p07",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡人之生也，必以平正，所以失之，必以喜怒憂患。是故止怒莫若詩，去憂莫若樂，節樂莫",
+      "note": "以詩樂禮敬靜調節怒憂喜樂，又詳述過飽過飢如何傷形枯骨、阻氣竭身，兼論情緒與身體養護",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第54篇入國",
+      "para_index": 1,
+      "para_id": "guanzi#55-p01",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "入國四旬，五行九惠之教。一曰老老，二曰慈幼，三曰恤孤，四曰養疾，五曰合獨，六曰問",
+      "note": "九惠以分級給養、免征與訪視扶助孤窮，另明列疾病殘障的照護及老年、死亡與喪葬，分別涉及社會責任、身體困厄和老死失去",
+      "co_domains": [
+        "V",
+        "X"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第57篇度地",
+      "para_index": 1,
+      "para_id": "guanzi#58-p01",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "昔者桓公問管仲曰：「寡人請問度地形而爲國者，其何如而可？」管仲對曰：「夷吾之所聞",
+      "note": "段中明說除五害可使人終身無患而孝慈，水害傷人致困則轉為輕法、不孝不臣，分別涉及家庭倫理、品格變化與身體患害",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第57篇度地",
+      "para_index": 2,
+      "para_id": "guanzi#58-p02",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "桓公曰：「請問備五害之道。」管子對曰：「請除五害之說，以水爲始。請爲置水官，令習",
+      "note": "水利徵役程序特別區分「錮病不可作者」與尚可半事者，明確認出疾病造成的工作能力限制",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第57篇度地",
+      "para_index": 3,
+      "para_id": "guanzi#58-p03",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "桓公曰：「當何時作之？」管子曰：「春三月，天地乾燥，水糾列之時也。山川涸落，天氣",
+      "note": "毒露使人食後受傷、多病並恐殆，而不時寒暑風雨又使人或死或生，明說恐懼、疾病與死亡三種不同的人生處境",
+      "co_domains": [
+        "VI",
+        "X"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 12,
+      "para_id": "guanzi#61-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "起居時，飲食節，寒暑適，則身利而壽命益。起居不時，飲食不節，寒暑不適，則形體累而",
+      "note": "起居飲食寒暑影響形體健康與壽夭，惰侈或力儉又決定貧富，三項各是本段不可刪的明說內容",
+      "co_domains": [
+        "VIII",
+        "X"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第77篇地數",
+      "para_index": 5,
+      "para_id": "guanzi#73-p05",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "桓公問於管子曰：「今亦可以行此乎？」管子對曰：「可。夫楚有汝、漢之金，齊有渠展之",
+      "note": "「惡食無鹽則腫」獨立斷言缺鹽惡食會造成身體腫脹，構成鹽策之外的身體狀態主張",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第80篇輕重甲",
+      "para_index": 11,
+      "para_id": "guanzi#77-p11",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "管子曰：「陰王之國有三，而齊與在焉。」桓公曰：「此若言可得聞乎？」管子對曰：「楚",
+      "note": "「國無鹽則腫」直接斷言缺鹽會造成身體腫病，成爲鹽政可行的人身依據",
+      "co_domains": []
+    },
     {
       "slug": "hanfeizi",
       "chapter": "喻老",

@@ -2,9 +2,9 @@
   "domain": "I",
   "name_zh": "存在與意義",
   "gist": "我為何在此、活著有沒有意義、與想不通的問題共處、在歷史洪流中的渺小",
-  "generated_at": "2026-08-10T06:16:28+00:00",
-  "para_count": 20,
-  "book_count": 8,
+  "generated_at": "2026-08-11T00:16:16+00:00",
+  "para_count": 28,
+  "book_count": 9,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -40,6 +40,119 @@
       "excerpt": "清氣未升，濁氣未沉，遊神未靈，五色未分。中有其物，冥冥而性存，謂之混沌，混沌為太",
       "note": "由混沌、太始、太極與兩儀推演天地萬物及生民的根源，並以世系敘事續寫人類之始",
       "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第02篇形勢",
+      "para_index": 5,
+      "para_id": "guanzi#08-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "莫樂之則莫哀之，莫生之則莫死之。往者不至，來者不極。道之所言者一也，而用之者異。",
+      "note": "由生死、哀樂與「道之所設，身之化也」論人的存在轉化，又以「安危者與人」及得失天道說明人事選擇與安危",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第12篇樞言",
+      "para_index": 1,
+      "para_id": "guanzi#17-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "管子曰：道之在天者，日也。其在人者，心也。故曰：有氣則生，無氣則死，有名則治，無",
+      "note": "以道在人為心、有氣則生說明人的生命根據，又要求人主先民而慎貴、慎民、慎富，兼論存在與領導責任。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第18篇匡君大匡",
+      "para_index": 4,
+      "para_id": "guanzi#23-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公問於鮑叔曰：「將何以定社稷？」鮑叔曰：「得管仲與召忽，則社稷定矣。」公曰：「",
+      "note": "召忽以「死者成行，生者成名」區分死臣與生臣，並由君子評管仲之生、召忽之死，直論生命抉擇與忠義品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第26篇戒",
+      "para_index": 2,
+      "para_id": "guanzi#29-p02",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "管仲復於桓公曰：「無翼而飛者，聲也。無根而固者，情也。無方而富者，生也。公亦固情",
+      "note": "「無根而固者，情也」並勸桓公「固情謹聲，以嚴尊生」，直接談情的安定與對生命的尊重。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第39篇水地",
+      "para_index": 1,
+      "para_id": "guanzi#41-p01",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "地者，萬物之本原，諸生之根菀也，美惡賢不肖愚俊之所生也。水者，地之血氣，如筋脉之",
+      "note": "本段以水為「萬物之本原」並說「人，水也」，又稱美惡賢不肖與仁義等德皆由其生，直接論人的來源與品性根據",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第39篇水地",
+      "para_index": 4,
+      "para_id": "guanzi#41-p04",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "是以水之精，麤濁蹇，能存而不能亡者，生人與玉。伏闇能存而亡者，蓍龜與龍。或世見，",
+      "note": "本段分類水精的存亡形態，並明說麤濁凝蹇的水精「生人與玉」，是對人由何而生的本原主張",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 60,
+      "para_id": "guanzi#61-p60",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "道者，扶持衆物，使得生育而各終其性命者也。故或以治鄉，或以治國，或以治天下。故曰",
+      "note": "把道界定為扶持眾物生育並各終其性命之本，直接提出生命如何得以成全的原理",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 63,
+      "para_id": "guanzi#61-p63",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "道者，所以變化身而之正理者也。故道在身，則言自順，行自正，事君自忠，事父自孝，遇",
+      "note": "道能使自身轉化歸正，進而改變言行與君親人際實踐，明說人的生活方向與可改變性",
+      "co_domains": [
+        "XI"
+      ]
     },
     {
       "slug": "hanfeizi",

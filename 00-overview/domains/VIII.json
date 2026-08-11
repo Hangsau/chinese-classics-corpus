@@ -2,9 +2,9 @@
   "domain": "VIII",
   "name_zh": "工作·成就·召喚",
   "gist": "工作與金錢、成就與意義、天賦與使命",
-  "generated_at": "2026-08-10T06:16:28+00:00",
-  "para_count": 568,
-  "book_count": 23,
+  "generated_at": "2026-08-11T00:16:16+00:00",
+  "para_count": 656,
+  "book_count": 24,
   "surveyed_zero_hit": [
     "gu-sanfen",
     "haidao-suanjing",
@@ -93,6 +93,1292 @@
       "excerpt": "漢儒訓詁之學惟謹，而楊子雲尤為洽聞。蓋一物不知，君子所耻，博學詳說，將以反約。凡",
       "note": "批評當時學者捨實徇名、高談性命而輕視訓詁，講的是治學者怎麼走偏",
       "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第01篇牧民",
+      "para_index": 4,
+      "para_id": "guanzi#07-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "錯國於不傾之地，積於不涸之倉，藏於不竭之府，下令於流水之原。使民於不爭之官，明必",
+      "note": "「使各爲其所長」「量民力」要求按人的長處與能力用事，又以不強其所惡、不欺其民說明領導如何取得親附",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第02篇形勢",
+      "para_index": 2,
+      "para_id": "guanzi#08-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "上無事則民自試，抱蜀不言而廟堂既脩。鴻鵠鏘鏘，唯民歌之。濟濟多士，殷民化之。紂之",
+      "note": "「上無事則民自試」及多士使民化說明領導方式如何引出人的自我展現，而羿、造父、奚仲之道又被說成不止於表面技藝",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第02篇形勢",
+      "para_index": 3,
+      "para_id": "guanzi#08-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "平原之隰，奚有於高？大山之隈，奚有於深？訾讆之人，勿與任大。譕臣者可以遠舉，顧憂",
+      "note": "以「訾讆之人，勿與任大」「小謹者不大立」等語，直接依人的品性判斷其可信度、任事能力與能否成就大事",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第02篇形勢",
+      "para_index": 6,
+      "para_id": "guanzi#08-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "疑今者察之古，不知來者視之往。萬事之生也，異趣而同歸，古今一也。生棟覆屋，怨怒不",
+      "note": "「巧者有餘，而拙者不足」直說能力差異的結果，「順天者有其功，逆天者懷其凶」則把成敗繫於人的取向",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第03篇權修",
+      "para_index": 6,
+      "para_id": "guanzi#09-p06",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "上恃龜筮，好用巫醫，則鬼神驟崇。故功之不立，名之不章，爲之患者三：有獨王者，有貧",
+      "note": "段落先指出倚賴龜筮巫醫使功名不立，繼以「終身之計，莫如樹人」把成事根據轉回長期培養人才與人的作爲",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第04篇立政",
+      "para_index": 6,
+      "para_id": "guanzi#10-p06",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "脩火憲，敬山澤林藪積草。夫財之所出，以時禁發焉。使民足於宮室之用，薪蒸之所積，虞",
+      "note": "鄉師職責明定使百姓「力作毋偷，懷樂家室，重去鄉里」，直接提出勤作與安於家室的生活、品行期許",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第05篇乘馬",
+      "para_index": 7,
+      "para_id": "guanzi#11-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "市者，貨之準也。是故百貨賤則百利不得，百利不得則百事治，百事治則百用節矣。是故事",
+      "note": "「事者生於慮，成於務，失於傲」明說謀慮與勤勉使事業成立、驕傲使之失敗，涉及成事能力和品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第05篇乘馬",
+      "para_index": 13,
+      "para_id": "guanzi#11-p13",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "距國門以外，窮四竟之內，丈夫二犂，童五尺一犂，以爲三日之功。正月令農始作，服于公",
+      "note": "在役作分類外，文本明說智愚巧拙有別，且非誠賈工農與非信士不得居其業位，論及才幹、職業實踐與誠信",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第05篇乘馬",
+      "para_index": 14,
+      "para_id": "guanzi#11-p14",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "道曰：均地分力，使民知時也。民乃知時日之蚤晏，日月之不足，飢寒之至于身也。是故夜",
+      "note": "「不告之以時而民不知，不道之以事而民不爲」且分貨公平則民盡力，明說資訊和分配公正如何形成勞作動機",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第05篇乘馬",
+      "para_index": 15,
+      "para_id": "guanzi#11-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "聖人之所以爲聖人者，善分民也。聖人不能分民，則猶百姓也，於己不足，安得名聖！是故",
+      "note": "「聖人之所以爲聖人者，善分民也」並以能否託業於民區分聖人百姓，直接把領導身分繫於分工用人的能力",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第08篇幼官",
+      "para_index": 6,
+      "para_id": "guanzi#13-p06",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "必得文威武，官習勝務，時因勝之終，無方勝之幾，行義勝之理，名實勝之急，時分勝之事",
+      "note": "「慈者勇、愚者智、拙者巧」明說條件能使人的勇氣、智巧與能力發生轉變，涉及才能與可改變性。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第09篇幼官圖",
+      "para_index": 7,
+      "para_id": "guanzi#14-p07",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "必得文威武，官習勝之務，時因勝之終，無方勝之幾，行義勝之理，名實勝之急，時分勝之",
+      "note": "「慈者勇、愚者智、拙者巧」明說條件能使人的勇氣、智巧與能力發生轉變，涉及才能與可改變性。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第10篇五輔",
+      "para_index": 5,
+      "para_id": "guanzi#15-p05",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "曰：民知禮矣，而未知務，然後布法以任力。任力有五務。五務者何？曰：君擇臣而任官，",
+      "note": "五務分配君臣士庶的社會職責，說士須修身成材、庶人務農，並直陳「心一、意專」才有可觀之功，V、VI、VIII 分別關乎角色、內心與工作成就。",
+      "co_domains": [
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第10篇五輔",
+      "para_index": 8,
+      "para_id": "guanzi#15-p08",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "曰：實壙虛，墾田疇，修牆屋，則國家富。節飲食，撙衣服，則財用足。舉賢良，務功勞，",
+      "note": "本段以薄稅忠愛論治理責任，又以「悅在玩好、珍怪、文繡」揭示欲好，並對照工匠、農人與女工之勞巧及民生結果，V、VI、VIII 各有獨立主張。",
+      "co_domains": [
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第11篇宙合",
+      "para_index": 12,
+      "para_id": "guanzi#16-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「可淺可深，可沈可浮，可曲可直，可言可默」，此言指意要功之謂也。",
+      "note": "列舉可淺深、沈浮、曲直、言默，並以「指意要功」歸結，直說行動可以變通而以取得功效為要。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第11篇宙合",
+      "para_index": 13,
+      "para_id": "guanzi#16-p13",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "「天不一時，地不一利，人不一事」，是以著業不得不多，人之名位不得不殊。方明者察于",
+      "note": "「人不一事」被展開為著業須多、名位須殊，且專精一言一事者不可廣舉，直論人的職事、身分與能力界限。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第11篇宙合",
+      "para_index": 14,
+      "para_id": "guanzi#16-p14",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "「可正而視」，言察美惡，審別良苦，不可以不審。操分不雜，故政治不悔。「定而履」，",
+      "note": "要求察美惡、別良苦，並處其位、行其路、為其事，使道德有常而後世不迷，兼論明辨品格與職分履行。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第13篇八觀",
+      "para_index": 2,
+      "para_id": "guanzi#18-p02",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "行其田野，視其耕芸，計其農事，而飢飽之國可以知也。其耕之不深，芸之不謹，地宜不任",
+      "note": "以巡視耕耘判斷飢飽，並直稱有地而不務耕芸者為「寄生之君」，把農作勤務連到君主的守土責任。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第13篇八觀",
+      "para_index": 5,
+      "para_id": "guanzi#18-p05",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "課凶饑，計師役，觀臺榭，量國費，而實虛之國可知也，凡田野，萬家之衆可食之地方五十",
+      "note": "數量診斷之外又明說財生於用力與勞身，君上用財不止便使民用力不休、上下相怨，直論勞動與權力負擔。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第13篇八觀",
+      "para_index": 7,
+      "para_id": "guanzi#18-p07",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "入朝廷，觀左右，本求朝之臣，論上下之所貴賤者，而彊弱之國可知也。功多爲上，祿賞爲",
+      "note": "本段明說功勞與才能不受重視會使臣不盡力、材人不竭能，而無功得爵會招致百姓怨非，直論公正、成就與工作動機。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第13篇八觀",
+      "para_index": 9,
+      "para_id": "guanzi#18-p09",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "計敵與，量上意，察國本，觀民產之所有餘不足，而存亡之國可知也。敵國彊而與國弱，諫",
+      "note": "諫臣死、諛臣尊與私情毀法會使豪傑不安位、積勞者不懷祿及士卒不用，直論權力失正如何破壞角色信任與任事動機。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第15篇重令",
+      "para_index": 2,
+      "para_id": "guanzi#20-p02",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "菽粟不足，末生不禁，民必有飢餓之色，而工以雕文刻鏤相稺也，謂之逆。布帛不足，衣服",
+      "note": "本段以「經臣」「經俗」「經產」分列不誣、盡力、不辭難等品德，以及務農殖穀等職分與勞作",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第16篇法法",
+      "para_index": 5,
+      "para_id": "guanzi#21-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡赦者，小利而大害者也，故久而不勝其禍。毋赦者，小害而大利者也，故久而不勝其福。",
+      "note": "「君子食於道，小人食於力」並使農夫、百工、商各不失其時與功，兼論儉德和人的勞作職分",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第18篇匡君大匡",
+      "para_index": 6,
+      "para_id": "guanzi#23-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公二年，踐位召管仲。管仲至，公問曰：「社稷可定乎？」管仲對曰：「君霸王，社稷定",
+      "note": "管仲說自己不死是為定社稷，若不能完成此事便不敢受齊國之祿，明示任官的使命與不苟受祿的操守",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第18篇匡君大匡",
+      "para_index": 11,
+      "para_id": "guanzi#23-p11",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "既以封衛，明年，桓公問管仲：「將何行？」管仲對曰：「公內脩政而勸民，可以信於諸侯",
+      "note": "本段逐一評隰朋、賓胥無、開方、季友與蒙孫的聰慧、持久、恭敬及信義，並依其品格才具安排職任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第18篇匡君大匡",
+      "para_index": 13,
+      "para_id": "guanzi#23-p13",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "桓公踐位十九年，㢮關市之征，五十而取一，賦祿以粟，案田而稅，二歲而稅一。上年什取",
+      "note": "本段按從政能力、處世不華、敬老守禮、務農用力與承事恭敬分級薦舉，將職業才幹和品格化為賞罰程序",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第20篇匡君小匡",
+      "para_index": 1,
+      "para_id": "guanzi#25-p01",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "桓公自莒反于齊，使鮑叔牙爲宰。鮑叔辭曰：「臣，君之庸臣也。君有加惠於其臣，使臣不",
+      "note": "鮑叔以「寬惠愛民」「忠信」及治國、軍事才幹推舉管仲，又斷言其「事君無二心」，明寫賢臣的品格與才能",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第20篇匡君小匡",
+      "para_index": 3,
+      "para_id": "guanzi#25-p03",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "公曰：「爲之柰何？」管子對曰：「昔者聖王之治其民也，參其國而伍其鄙，定民之居，成",
+      "note": "四民分居後由父兄在日常職事中教其子弟，使之「少而習焉，其心安焉」，明論家庭傳習與職業能力的代際養成",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第20篇匡君小匡",
+      "para_index": 6,
+      "para_id": "guanzi#25-p06",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "正月之朝，鄉長復事，公親問焉，曰：「於子之鄉，有居處爲義好學，聰明質仁，慈孝於父",
+      "note": "選舉制度按孝悌仁德、勇力才能與任官功績辨人，並明說考核賞罰使「民皆勉爲善」而追求終身之功",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第20篇匡君小匡",
+      "para_index": 9,
+      "para_id": "guanzi#25-p09",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "初，桓公郊迎管子而問焉。管仲辭讓，然後對以參國伍鄙，立五鄉以崇化，建五屬以厲武，",
+      "note": "桓公自陳田獵、飲酒、好色之失，管仲辨君主最不可者為蔽塞不敏，並依五臣各自德行與專長安排職任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第23篇霸言",
+      "para_index": 3,
+      "para_id": "guanzi#27-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫先王取天下也術。術乎，大德哉！物利之謂也。夫使國常無患，而名利並至者，神聖也。",
+      "note": "以使國常無患、在危亡中使國延續及「一言而壽國」界定神聖、明聖與大聖，直說賢者的領導才能與成就",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第24篇問",
+      "para_index": 3,
+      "para_id": "guanzi#28-p03",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "人之所害於鄉里者何物也？問士之有田宅，身在陳列者幾何人？餘子之勝甲兵，有行伍者幾",
+      "note": "「處士修行，足以教人，可使帥衆」把修行繫於教導領眾的才能，又以不義之勝非福、慎謀保國明定行事品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第27篇地圖",
+      "para_index": 2,
+      "para_id": "guanzi#30-p02",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "人之衆寡，士之精麤，器之功苦，盡知之，此乃知形者也。知形不如知能，知能不如知意，",
+      "note": "「知形不如知能，知能不如知意」明列能力與意向的層次，且要求任事者不蔽賢徇私、不解怠行邪，直談任職才能與品行。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第29篇制分",
+      "para_index": 1,
+      "para_id": "guanzi#32-p01",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "凡兵之所以先爭，聖人賢士，不爲愛尊爵；道術知能，不爲愛官職；巧伎勇力，不爲愛重祿",
+      "note": "本段主張延攬聖賢、智者與有技勇者不可吝惜爵位祿財，又以伯夷叔齊與武王說明名與勝皆由先前修行善政累積，直談人才任用與品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第30篇君臣上",
+      "para_index": 3,
+      "para_id": "guanzi#33-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "是故君人也者，無貴如其言。人臣也者，無愛如其力。言下力上，而臣主之道畢矣。是故主",
+      "note": "本段反覆主張君臣須守職分，君主應論材量能、選賢任法，並以官員能否勝任說明人才配置與領導責任。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第35篇侈靡",
+      "para_index": 11,
+      "para_id": "guanzi#37-p11",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "載祭明置。高子聞之，以告中寢諸子。中寢諸子告寡人，舍朝不鼎饋。中寢諸子告宮中女子",
+      "note": "女子以「人布職不可得而衣，故雖有聖人，惡用之」回答桓公，指出百姓無從任職自給時人才也不能發揮",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第41篇五行",
+      "para_index": 2,
+      "para_id": "guanzi#43-p02",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "昔者黃帝得蚩尤而明於天道，得大常而察於地利，得奢龍而辯於東方，得祝融而辯於南方，",
+      "note": "黃帝所得六相各自「明」「察」「辯」於不同領域並據其所長授官，直接敘寫才能辨識與適才任職",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第48篇治國",
+      "para_index": 2,
+      "para_id": "guanzi#49-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡爲國之急者，必先禁末作文巧。末作文巧禁，則民無所游食。民無所游食，則必事農。民",
+      "note": "以末作一日可食五日、農夫終歲不足自食解釋民眾為何棄農從工，明說報酬差異左右人的職業與勞動選擇",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第48篇治國",
+      "para_index": 3,
+      "para_id": "guanzi#49-p03",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "凡農者，月不足而歲有餘者也。而上徵暴急無時，則民倍貸以給上之徵矣。耕耨者有時，而",
+      "note": "在徵貸、產粟與四民收益的計算外，文本明說人因利害歸去、農工商收益失衡會使農民逃徙，涉及勞動處境與政治歸附",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第51篇小問",
+      "para_index": 9,
+      "para_id": "guanzi#52-p09",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公使管仲求甯戚。甯戚應之曰：「浩浩乎！」管仲不知，至中食而慮之。婢子曰：「公何",
+      "note": "婢子以少年立功與飯牛者為相反駁「少少、賤賤」，明說年齡與低賤身分不應遮蔽人的才能及任用可能",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第51篇小問",
+      "para_index": 10,
+      "para_id": "guanzi#52-p10",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "桓公與管仲闔門而謀伐莒，未發也，而已聞於國，其故何也？管仲曰：「國必有聖人。」桓",
+      "note": "東郭郵從喜樂、清靜與手足動作等神色推知伐莒之謀，描寫情緒意向如何外現及識微推明的能力",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第51篇小問",
+      "para_index": 11,
+      "para_id": "guanzi#52-p11",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "客或欲見於齊桓公，請仕上官，授祿千鍾。公以告管仲，曰：「君予之。」客聞之，曰：「",
+      "note": "求仕者因桓公「取人以人」而推知日後也會因人言去己，遂拒絕任職，涉及用人權力與個人的仕進抉擇",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第52篇七主七臣",
+      "para_index": 3,
+      "para_id": "guanzi#53-p03",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "夫男不田，女不緇，工技力於無用，而欲土地之毛，倉庫滿實，不可得也。土地不毛，則人",
+      "note": "先以男女不事生產說明匱乏與逆亂，再以桀紂誅忠近讒、耽樂忘患而亡國為例，分別論勞作、品格失守與政治敗亡",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第53篇禁藏",
+      "para_index": 4,
+      "para_id": "guanzi#54-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故凡治亂之情，皆道上始。故善者圉之以害，牽之以利，能利害者，財多而過寡矣。夫凡人",
+      "note": "「凡人之情」明說見利必就、見害必避，又以商人與漁人不辭勞險逐利說明治者可順此心理導民，分涉治理、好惡與勞作",
+      "co_domains": [
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第59篇弟子職",
+      "para_index": 1,
+      "para_id": "guanzi#60-p01",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "先生施教，弟子是則。溫恭自虛，所受是極。見善從之，聞義則服。溫柔孝悌，毋驕恃力。",
+      "note": "以溫恭自虛、從善服義、孝悌正直為弟子品格，並要求朝益暮習不懈，兼說德性養成與學業用功",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第59篇弟子職",
+      "para_index": 3,
+      "para_id": "guanzi#60-p03",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "凡言與行，思中以爲紀。古之將興者，必由此始。後至就席，狹坐則起。若有賓客，弟子駿",
+      "note": "「凡言與行，思中以為紀」把慎思言行定為將興之始，後文又以問業與侍食次序落實品格和學習成就",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 11,
+      "para_id": "guanzi#61-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人主之所以使下盡力而親上者，必爲天下致利除害也。故德澤加於天下，惠施厚於萬物，父",
+      "note": "明說厚施利民會使萬民樂為上用，盡力耕作與作戰，涉及政治互惠及勞動成就",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 12,
+      "para_id": "guanzi#61-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "起居時，飲食節，寒暑適，則身利而壽命益。起居不時，飲食不節，寒暑不適，則形體累而",
+      "note": "起居飲食寒暑影響形體健康與壽夭，惰侈或力儉又決定貧富，三項各是本段不可刪的明說內容",
+      "co_domains": [
+        "IX",
+        "X"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 24,
+      "para_id": "guanzi#61-p24",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "羿，古之善射者也，調和其弓矢而堅守之，其操弓也，審其高下，有必中之道，故能多發而",
+      "note": "羿因調弓、審度與守道而多發多中，直接以方法和技能說明人的成事能力",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 25,
+      "para_id": "guanzi#61-p25",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "造父，善馭馬者也，善視其馬，節其飲食，度量馬力，審其足走，故能取遠道而馬不罷。明",
+      "note": "以造父審馬力比明主度民力、察技能，說領導者須按人的能力用事才不致困傷",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 26,
+      "para_id": "guanzi#61-p26",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "奚仲之爲車器也，方圜曲直，皆中規矩鉤繩。故機旋相得，用之牢利，成器堅固。明主猶奚",
+      "note": "以奚仲依規矩成器比人主依術數行事，連結技藝成就與上下相親的領導結果",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 41,
+      "para_id": "guanzi#61-p41",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "謹於一家則立於一家，謹於一鄉則立於一鄉，謹於一國則立於一國，謹於天下則立於天下。",
+      "note": "謹慎所及的範圍決定一個人能建立多大的事業，連結慎行品格與成就",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 42,
+      "para_id": "guanzi#61-p42",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "海不辭水，故能成其大。山不辭土石，故能成其高。明主不猒人，故能成其衆。士不猒學，",
+      "note": "不厭人、不厭學方能成眾成聖，厭惡諫言則不安，所論是開放品格與學習成長",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 44,
+      "para_id": "guanzi#61-p44",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主之官物也，任其所長，不任其所短，故事無不成，而功無不立。亂主不知物之各有所長",
+      "note": "人與蝚蝯各有所長短，明主按長處任用而不求全，直接論人的能力差異與用人責任",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 48,
+      "para_id": "guanzi#61-p48",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "解惰簡慢，以之事主則不忠，以之事父母則不孝，以之起事則不成。故曰：「怠倦者不及也",
+      "note": "懈惰簡慢會造成不忠不孝與做事不成，直接連結怠惰品格和行事成敗",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 50,
+      "para_id": "guanzi#61-p50",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "事主而不盡力則有刑，事父母而不盡力則不親，受業問學而不加務則不成。故朝不勉力務進",
+      "note": "事主、奉親與問學都須盡力，否則受刑失親或學業不成，核心是勤勉品格與成就",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 74,
+      "para_id": "guanzi#61-p74",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "古者武王地方不過百里，戰卒之衆不過萬人，然能戰勝攻取，立爲天子，而世謂之聖王者，",
+      "note": "武王以知術由小而大、桀紂因不知術由盛而亡，直說能力使人的地位與成敗可以轉變",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 80,
+      "para_id": "guanzi#61-p80",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "明主度量人力之所能爲而後使焉，故令於人之所能爲則令行，使於人之所能爲則事成。亂主",
+      "note": "明主先衡量人力所能再派事，亂主強人所不能而失敗，直說能力限度與用人責任",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 82,
+      "para_id": "guanzi#61-p82",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "與不肖者舉事則事敗，使於人之所不能爲則令廢，告狂惑之人則身害。故曰：「與不可，强",
+      "note": "把與不可、強不能、告不知三類行動總結為勞而無功，明說努力受對象與能力界限制約",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 84,
+      "para_id": "guanzi#61-p84",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主不用其智，而任聖人之智；不用其力，而任衆人之力。故以聖人之智思慮者，無不知也",
+      "note": "明主任聖人之智與眾人之力而成事得逸，亂主獨任而勞禍，說明合作領導與工作負擔",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第65篇立政九敗解",
+      "para_index": 5,
+      "para_id": "guanzi#62-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人君唯無好金玉貨財，必欲得其所好，然則必有以易之。所以易之者何也？大官尊位，不然",
+      "note": "以官爵換取財貨會使不肖居上，而賢智信勇之人不肯居下、出謀、守約或效死，明說權力失公如何排斥人才效用",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第66篇版法解",
+      "para_index": 4,
+      "para_id": "guanzi#63-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡人君者，欲衆之親上鄉意也，欲其從事之勝任也。而衆者不愛則不親，不親則不明，不教",
+      "note": "「衆者不愛則不親」且不教則不鄉意，兼愛、教導與利民才使眾人親上並從事勝任，連結領導關係與任事能力",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 21,
+      "para_id": "guanzi#64-p21",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "亂主不察臣之功勞，譽衆者則賞之；不審其罪過，毀衆者則罰之。如此者，則邪臣無功而得",
+      "note": "「功多而無賞，則臣不務盡力」「行正而有罰，則賢聖無從竭能」明說不公賞罰如何破壞工作動機與才能發揮",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 28,
+      "para_id": "guanzi#64-p28",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主之治也，明於分職而督其成事，勝其任者處官，不勝其任者廢免，故羣臣皆竭能盡力以",
+      "note": "本段對舉任職得當則群臣竭能盡力，任職失序則官員只圖權利、掠民富家的工作動機與公私品行",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 29,
+      "para_id": "guanzi#64-p29",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明主在上位，則竟內之衆盡力以奉其主，百官分職致治以安國家。亂主則不然，雖有勇力之",
+      "note": "勇力與聖智之士被大臣私有而不能奉主治國，明說權力私占如何阻斷人才投入與能力發揮",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 31,
+      "para_id": "guanzi#64-p31",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人主之張官置吏也，非徒尊其身，厚奉之而已也，使之奉主之法，行主之令，以治百姓而誅",
+      "note": "「養所與佼，而不以官爲務」直說官吏以俸祿豢養私交而怠忽職責，造成公共任用與工作失能",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 32,
+      "para_id": "guanzi#64-p32",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "明主之擇賢人也，言勇者試之以軍，言智者試之以官。試於軍而有功者則舉之，試於官而事",
+      "note": "以軍功試勇、以官治試智，主張從實際成效辨別勇怯愚智，直接論及才能的辨識與任用",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 33,
+      "para_id": "guanzi#64-p33",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "凡所謂功者，安主上，利萬民者也。夫破軍殺將，戰勝攻取，使主無危亡之憂，而百姓無死",
+      "note": "本段分軍士、吏、臣界定何謂功，將保民免患、抑強暴寡及匡救君過列為各職分的成就與責任",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 34,
+      "para_id": "guanzi#64-p34",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "明主之治也，審是非，察事情，以度量案之。合於法則行，不合於法則止。功充其言則賞，",
+      "note": "按言行實績賞黜使能者不受嫉蔽、不肖者不能蒙飾，明說公平評核與人才升退、成效之間的關係",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 37,
+      "para_id": "guanzi#64-p37",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "明主操術任臣下，使羣臣効其智能，進其長技。故智者効其計，能者進其功，以前言督後事",
+      "note": "使智者效計、能者進功，再以前言核驗後事並賞罰，直接論及才智能力的施展與工作成效考核",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第73篇國蓄",
+      "para_index": 3,
+      "para_id": "guanzi#69-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡將爲國，不通於輕重，不可爲籠以守民；不能調通民利，不可以語制爲大治。是故萬乘之",
+      "note": "「彊者能守」「智者能收」及富者不可祿使、貧者不可罰威，明說才能與貧富差異如何造成成就和治理關係的差別",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第75篇山權數",
+      "para_index": 4,
+      "para_id": "guanzi#71-p04",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "桓公問於管子曰：「請問教數。」管子對曰：「民之能明於農事者，置之黃金一斤，直食八",
+      "note": "逐類列出能農事、蕃畜、樹藝、治病、知時與蠶桑者的專長及待遇，明確討論人的技能、工作與才能任用",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第75篇山權數",
+      "para_index": 5,
+      "para_id": "guanzi#71-p05",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "桓公問於管子曰：「權棅之數，吾已得聞之矣。守國之固奈何？」曰：「能皆已官，時皆已",
+      "note": "「智者，民之輔也」與「量人力而舉功」明說有智者的社會作用及人的能力應與所舉之功相稱",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第76篇山至數",
+      "para_index": 2,
+      "para_id": "guanzi#72-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公又問於管子曰：「有人教我，謂之請士。曰：『何不官百能？』」管子對曰：「何謂百",
+      "note": "「祿肥則士不死，幣輕則士簡賞，萬物輕則士偷幸」直斷待遇條件會改變士的盡職、勇死與僥倖，涉及職分動機與品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第77篇地數",
+      "para_index": 1,
+      "para_id": "guanzi#73-p01",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "桓公曰：「地數可得聞乎？」管子對曰：「地之東西二萬八千里，南北二萬六千里。其出水",
+      "note": "「能者有餘，拙者不足」且以伊尹善通輕重說明湯之有餘並非天獨厚，將成敗歸於人的能力與因時運用",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第78篇揆度",
+      "para_index": 13,
+      "para_id": "guanzi#74-p13",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "管子曰：「匹夫爲鰥，匹婦爲寡，老而無子者爲獨。君問其若有子弟師役而死者，父母爲獨",
+      "note": "國家葬恤喪子父母、資助無本者並褒賞力作、處置蕩游者，明說公共照護與勞動勤惰的差別待遇",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第78篇揆度",
+      "para_index": 14,
+      "para_id": "guanzi#74-p14",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "上農挾五，中農挾四，下農挾三。上女衣五，中女衣四，下女衣三。農有常業，女有常事。",
+      "note": "「農有常業，女有常事」明說勞作關乎飢寒，生計不足又使人鬻子、父失其子，而上求無止更令姦途興、君失其民，三層分涉工作、家庭與社會秩序",
+      "co_domains": [
+        "IV",
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第79篇國準",
+      "para_index": 1,
+      "para_id": "guanzi#76-p01",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "桓公問於管子曰：「國准可得而聞乎？」管子對曰：「國准者，視時而立儀。」桓公曰：「",
+      "note": "「童山竭澤者，君智不足也」直接把山澤耗竭判為君主才智不足，並以閉知能、以人御人論領導與用人",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第80篇輕重甲",
+      "para_index": 1,
+      "para_id": "guanzi#77-p01",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "桓公曰：「輕重有數乎？」管子對曰：「輕重無數。物發而應之，聞聲而乘之。故爲國不能",
+      "note": "「聖人善用非其有，使非其人」直接描述領導者調用非己之財與非己之人的能力",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第80篇輕重甲",
+      "para_index": 6,
+      "para_id": "guanzi#77-p06",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "桓公曰：「弓弩多匡䡔者，而重籍於民，奉繕工而使弓弩多匡䡔者，其故何也？」管子對曰",
+      "note": "結語「以其家習其所也」把弓弩改良歸因於各家反覆習其業，明說職業技能由實習形成",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第80篇輕重甲",
+      "para_index": 10,
+      "para_id": "guanzi#77-p10",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "桓公憂北郭民之貧，召管子而問曰：「北郭者，盡屨縷之甿也，以唐園爲本利，爲此有道乎",
+      "note": "「北郭者，盡屨縷之甿也，以唐園爲本利」直接描述貧民的職業與生計，並以限制豪家保障其謀生機會",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第83篇輕重丁",
+      "para_index": 3,
+      "para_id": "guanzi#79-p03",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "桓公曰：「寡人多務，令衡籍吾國之富商蓄賈稱貸家，以利吾貧萌，農夫不失其本事。反此",
+      "note": "四方貧萌各靠漁獵、伐木、織葛、煮鹽為生卻受重息支配，而君解其債後父兄相勸墾田，明說債權權力與勞作動機",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第83篇輕重丁",
+      "para_index": 9,
+      "para_id": "guanzi#79-p09",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公曰：「四郊之民貧，商賈之民富。寡人欲殺商賈之民，以益四郊之民，爲之奈何？」管",
+      "note": "商賈被「水上之樂」吸引而離市遊飲，遂賤賣貴買，明說娛樂欲望如何使人荒廢交易並改變勞作成果",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第83篇輕重丁",
+      "para_index": 10,
+      "para_id": "guanzi#79-p10",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公曰：「五衢之民衰然多衣弊而屨穿，寡人欲使帛布絲纊之賈賤，爲之有道乎？」管子曰",
+      "note": "男女相好者在樹下談笑終日不歸，連帶使耕播與紡績俱廢，直說親密交往如何牽動人的工作投入",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第83篇輕重丁",
+      "para_index": 11,
+      "para_id": "guanzi#79-p11",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公曰：「糶賤，寡人恐五穀之歸於諸侯。寡人欲爲百姓萬民藏之，爲此有道乎？」管子曰",
+      "note": "萬民見造囷者受聘顯名便捨業仿效，文本以「功立而名成」「名實俱在」明說名望與成就對行動的驅力",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第84篇輕重戊",
+      "para_index": 3,
+      "para_id": "guanzi#80-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公問管子曰：「民飢而無食，寒而無衣，應聲之正無以給上，室屋漏而不居，牆垣壞而不",
+      "note": "「丁壯者胡丸操彈居其下，終日不歸。父老柎枝而論，終日不歸。歸市亦惰倪，終日不歸」把不歸者分成三型，這個分型不依賴沐枝這根槓桿而先行成立，是對人怎麼過日子的判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第85篇輕重己",
+      "para_index": 3,
+      "para_id": "guanzi#81-p03",
+      "modes": [
+        "ritual",
+        "prescription"
+      ],
+      "excerpt": "以冬日至始，數九十二日，謂之春至。天子東出其國九十二里而壇，朝諸侯卿大夫列士，循",
+      "note": "「苟不樹藝者，謂之賊人」「下作之地，上作之天，謂之不服之民」「處里爲下陳，處師爲下通，謂之役夫」以是否事生產給人定品名，是對人的明確評斷而非單純令文",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第85篇輕重己",
+      "para_index": 6,
+      "para_id": "guanzi#81-p06",
+      "modes": [
+        "ritual",
+        "proposition"
+      ],
+      "excerpt": "以夏日至始，數四十六日，夏盡而秋始，而黍熟。天子祀於太祖，其盛以黍。黍者，穀之美",
+      "note": "「大功者太祖，小功者小祖，無功者無祖」「祖者，所以功祭也，非所以戚祭也」明說祭祀依功不依親，末句「所以異貴賤而賞有功也」把人該按什麼被評價講了出來",
+      "co_domains": [
+        "V"
+      ]
     },
     {
       "slug": "hanfeizi",
