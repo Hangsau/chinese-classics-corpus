@@ -204,9 +204,18 @@ def check(slug: str, entry: dict, domain_ids: set[str], mode_ids: set[str]) -> t
     if numeric:
         warnings.append(f"{len(numeric)}/{len(labels)} chapter labels carry only an ordinal "
                         f"({numeric[:3]}) — poor anchors for annotations.json")
-    exp = entry.get("expected_chapter_count")
-    if exp and labels and abs(len(labels) - exp) > max(2, exp * 0.25):
-        warnings.append(f"chapter count {len(labels)} vs catalog expected {exp}")
+    # 這道截斷偵測從 361be49 起就是死的：那次下載把 catalog 的書目卷數覆寫成實
+    # 際抓到的章數，於是拿實際值跟實際值比，永遠相等。meta 那份也不可信（19 部
+    # 被另一次寫入改過）。兩邊都不是書目真相，所以取較大者當下界——只要有一份
+    # 還留著書目值就咬得到。
+    #
+    # 只在短缺時報。多出來是粒度差異不是問題：書目記卷、下載切篇，六韜 6 卷 66
+    # 篇兩個數字都對。用 abs() 會讓 34 部長期噪音，噪音多了就沒人看。
+    exp = max(x for x in (entry.get("expected_chapter_count"),
+                          meta.get("expected_chapter_count"), 0) if x)
+    if exp and labels and exp - len(labels) > max(2, exp * 0.25):
+        warnings.append(f"only {len(labels)} chapters against an expected {exp} — "
+                        f"likely a truncated download, not a granularity difference")
     if meta.get("text_role") != entry.get("text_role", "original"):
         errors.append("meta.text_role disagrees with catalog")
     if "psych_survey" not in meta:
