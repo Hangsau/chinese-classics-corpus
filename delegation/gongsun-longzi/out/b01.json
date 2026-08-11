@@ -1,0 +1,187 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {
+      "chapter": "1",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "判斷兼來正文與注文：正文稱欲「正名實而化天下」，謝希深注又說「其賞罰不由天子，威福出自權臣」，把名實直接連到政治權力與賞罰"
+    },
+    {
+      "chapter": "1",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "判斷兼來正文與注文：正文以孔穿欲師龍卻先令去其所教為「先敎而後師之」之悖，謝希深注又稱「人君唯私，其黨附之」及「曲士束于敎，不能博通……毁所不悟」，分別涉及偏私治理與人的品格"
+    },
+    {
+      "chapter": "1",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "判斷主要來自正文：尹文以忠、孝、信、順四行界定「士」，再以「見侮而不鬭」逼齊王承認取士與王法衝突、賞罸是非四繆；謝希深注「君不顧法，則國無政」亦明指治理後果"
+    },
+    {
+      "chapter": "2",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "正文辯「馬」命形、「白」命色，把馬換成任何物論證照樣成立；注文「馬形者，喻萬物之形皆材用也」只做比擬轉寫，未說人是什麼樣的，兩層皆不承重"
+    },
+    {
+      "chapter": "2",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "正文為純語言指稱，判斷來自謝希深注「君之愛己則附之，君之疎己則叛之，何可私其親黨而疎于天下乎」，把離色求馬讀成人君私其親黨而致眾叛的群體與治理主張"
+    },
+    {
+      "chapter": "2",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "正文只推演有色之馬與白馬的外延；注文「猶人皆有親疎」與「故有華夷之別」僅作種類結構的比擬轉寫，人的場景不承重"
+    },
+    {
+      "chapter": "2",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "正文為白馬、黃馬的指稱推演，判斷來自謝希深注「私諸夏而疎夷狄，則夷狄叛矣；勤兵伐遠，人不堪命，則諸夏亂矣」，明說偏私與用兵造成內離外叛"
+    },
+    {
+      "chapter": "2",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "正文辨離白與不離白時如何稱馬，注文也只解釋馬形、馬色連屬與「馬馬」之名，兩層均未把論證掛到人身上"
+    },
+    {
+      "chapter": "2",
+      "para_index": 6,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "正文仍是顏色指稱，判斷來自謝希深注「王者黨其所私而疎天下，則天下各守其疎，自殊而叛矣」及「聖人虛心洞照……其神彌靜」，分別落到偏私治理與人的內在狀態"
+    },
+    {
+      "chapter": "3",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "正文推演「物莫非指，而指非指」，注文也只以物我相指、彼此是非解說指稱關係，兩層皆不承載人的人生問題"
+    },
+    {
+      "chapter": "3",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "正文與注文都在推演有物、無指及物物相指的條件，所說「物之情」仍是物的指稱結構，未落到人的處境或品格"
+    },
+    {
+      "chapter": "3",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "正文只辨天下所有之物與天下所無之指，注文「天下無一日而無物」仍是本體與指稱的重述，兩層皆不承重"
+    },
+    {
+      "chapter": "3",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "正文反覆推演指、非指與物莫非指，注文以水火各適其用及有無是非解說同一原理，未把主張落到人身上"
+    },
+    {
+      "chapter": "3",
+      "para_index": 5,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "正文仍為名與指的推演，判斷來自謝希深注「王良善御，隸首善計，彼物各自爲用，譬之耳目，廢一不可」，明說人的不同技能各有所用"
+    },
+    {
+      "chapter": "3",
+      "para_index": 6,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "正文仍推演指與非指，判斷來自謝希深注「聖人求人于是非之內，乃得無是非人也」，把推演落到對何種人的品格判斷"
+    },
+    {
+      "chapter": "3",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "正文「指，非非指也」與注文對指不能與物為指的解說均屬純指稱推演，沒有承重的人生場景"
+    },
+    {
+      "chapter": "3",
+      "para_index": 8,
+      "domains": ["VI"],
+      "modes": ["proposition"],
+      "reason": "正文只反覆推演有物、無物與指、非指，判斷來自謝希深注「聖人淵黙恬淡，忘是非」，明寫人的恬淡內在狀態"
+    },
+    {
+      "chapter": "4",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "正文以左右與一、二作位置和數的推演，注文也只說左右合位及異位，兩層皆未涉及人的人生領域"
+    },
+    {
+      "chapter": "4",
+      "para_index": 2,
+      "domains": ["XI"],
+      "modes": ["proposition"],
+      "reason": "正文主論變與不變，判斷來自謝希深注「忠變爲逆，存亡靡定，禍福不居，皆是一物化爲他類」，把形式變化明確落到人的立場與遭際可變"
+    },
+    {
+      "chapter": "4",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "正文與注文只依羊牛齒角、馬尾的有無區分類別並計一、二，所舉天然各足仍是物類說明，未落到人身上"
+    },
+    {
+      "chapter": "4",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "正文以雞、牛、羊的足數推演三與五，注文也只解釋物類、數目和左右位置，屬純類別與計數推演"
+    },
+    {
+      "chapter": "4",
+      "para_index": 5,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "正文提出材與不材、亂名與狂舉，具體判斷來自謝希深注「君臣易職而變亂生焉」及「人君舉是不材，而與有材者並位，以亂名實」，落到治理用人與才能配置"
+    },
+    {
+      "chapter": "4",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "本段僅提出以青、白辨黃、碧的另一組形式命題，沒有注文，也未把顏色關係掛到人或人生處境"
+    },
+    {
+      "chapter": "4",
+      "para_index": 7,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "判斷來自正文「其有君臣之於國焉，故强壽矣」，已把青白黃推演落到君臣治國；謝希深注「君臣各正其所舉，則國强而君壽矣」再明說其治理主張"
+    },
+    {
+      "chapter": "4",
+      "para_index": 8,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "正文以青白相雜論非正舉，具體判斷來自謝希深注「權臣擅命，雜君道也」與「臣而掩君，其道亂也」，明指權力失序及君臣治理"
+    },
+    {
+      "chapter": "4",
+      "para_index": 9,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "判斷兼來正文與注文：正文稱「暴則君臣爭而兩明也」「非正舉者，名實無當」，謝希深注又說「名乖于實……上慢下暴，百度昏錯」，把名實不當連到君臣爭與政道喪失"
+    }
+  ]
+}
