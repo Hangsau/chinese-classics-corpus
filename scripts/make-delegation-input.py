@@ -54,6 +54,20 @@ def main() -> int:
     running = 0
     for label, paras in chapters:
         size = sum(len(t) for _, t in paras)
+        if size > args.max_chars and len(paras) > 1:
+            # 單章自己就超過上限：章內切塊，每塊自成一批。章名與 para_index 都不動，
+            # 所以後續片段的 para_index 不從 1 起——批次抬頭會標出來。
+            chunk: list[tuple[int, str]] = []
+            running = 0
+            for p in paras:
+                if chunk and running + len(p[1]) > args.max_chars:
+                    batches.append([(label, chunk)])
+                    chunk, running = [], 0
+                chunk.append(p)
+                running += len(p[1])
+            if chunk:
+                batches.append([(label, chunk)])
+            continue
         if batches and running + size <= args.max_chars:
             batches[-1].append((label, paras))
             running += size
@@ -71,6 +85,12 @@ def main() -> int:
         total = sum(len(paras) for _, paras in batch)
         lines.append(f"> 本批 {total} 段，含 {len(batch)} 章。"
                      f"para_index 在同一章內編號，回報時**章名與 para_index 兩者都要給**。")
+        for label, paras in batch:
+            if paras[0][0] != 1:
+                lines.append(f">")
+                lines.append(f"> 〈{label}〉是同一章切開後的後續片段，"
+                             f"para_index 由 {paras[0][0]} 起算而非從 1 開始，"
+                             f"**照抄不要重編**。")
         lines.append("")
         for label, paras in batch:
             lines.append(f"## {label}（{len(paras)} 段）")
