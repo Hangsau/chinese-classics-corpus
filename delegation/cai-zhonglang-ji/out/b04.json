@@ -1,0 +1,173 @@
+{
+  "batch": "b04",
+  "rows": [
+    {
+      "chapter": "《文範先生陳仲弓銘》",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "confidence": 0.99,
+      "reason": "「仁愛溫柔」等四德逐項連到孕育、包覆、威暴矯邪，並以「戾狠斯和，爭訟化讓」和「未若先生潛導之速」比較教化與刑戮的效果。"
+    },
+    {
+      "chapter": "《文範先生陳仲弓銘》",
+      "para_index": 2,
+      "domains": ["V", "VII", "X"],
+      "modes": ["narrative", "proposition"],
+      "confidence": 0.96,
+      "reason": "以「七十有懸車之禮，況我過諸」拒絕徵命，又以「脩行于己，得斯于人」說明操守取得社會尊崇，友生並稱其教化可行于國、法施于民。"
+    },
+    {
+      "chapter": "《文範先生陳仲弓銘》",
+      "para_index": 3,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["ritual", "proposition"],
+      "confidence": 0.96,
+      "reason": "「築室講誨」與「示世作教，民胥效矣」把教學連到公共示範；「道行斯進，廢乃斯止」及「舍榮取辱，涅而不緇」則說出進退操守。"
+    },
+    {
+      "chapter": "《陳太丘碑》（1）",
+      "para_index": 1,
+      "domains": ["V", "VII", "X"],
+      "modes": ["narrative", "observation"],
+      "confidence": 0.98,
+      "reason": "「善誘善導」使少長安懷，且「交不諂上，愛不瀆下」；七十後又「樂天知命」退隱、以「飾巾待期」面對晚年，兼寫群體關係、操守與老死自處。"
+    },
+    {
+      "chapter": "《陳太丘碑》（2）",
+      "para_index": 1,
+      "domains": ["IV", "VII", "X"],
+      "modes": ["narrative", "observation"],
+      "confidence": 0.94,
+      "reason": "陳寔「儉約違時」且面對交至的徵辟「遂不屑就」，元方則在父喪中「毀瘁」而仍「率禮不越于時」，具體寫出操守、親子喪痛與失去。"
+    },
+    {
+      "chapter": "《汝南周巨勝碑》",
+      "para_index": 1,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["narrative", "observation"],
+      "confidence": 0.98,
+      "reason": "周勰總括六經並在衡門講誨，面對梁冀三辟仍「卒不降身」，終至「強禦不能奪其守，王爵不能滑其慮」，兼具學業、權勢取捨與操守。"
+    },
+    {
+      "chapter": "《汝南周巨勝碑》",
+      "para_index": 2,
+      "domains": ["VII", "XI"],
+      "modes": ["ritual", "proposition"],
+      "confidence": 0.99,
+      "reason": "先以梁氏誅滅前的出處判斷說其「識幾知命」，銘文又斷言「厥初生民，天賜之性，有龐有醇，有否有聖」，把品性差異歸于天賦之性。"
+    },
+    {
+      "chapter": "《彭城姜伯淮碑》",
+      "para_index": 1,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["narrative", "observation"],
+      "confidence": 0.98,
+      "reason": "「恩及嬰兒」使邑中化而外戶不閉，研習典籍、占候後又誨授千餘人；屢受徵聘仍「不隕穫于貧賤，不充詘于富貴」，寫出教學、群體影響與操守。"
+    },
+    {
+      "chapter": "《貞節先生陳留范史雲碑》",
+      "para_index": 1,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "confidence": 0.98,
+      "reason": "任官時「過則弼之，闕則補之」且舉善黜惡，從縣吏、治經到鬻卦謀生仍以「仕不為祿，故不牽于位」界定公職、工作與操守。"
+    },
+    {
+      "chapter": "《玄文先生李子材銘》",
+      "para_index": 1,
+      "domains": ["VII", "VIII", "XIII"],
+      "modes": ["narrative", "observation"],
+      "confidence": 0.97,
+      "reason": "李休窮覽經緯、遠赴東嶽與闕里求學而後講誨，三次受命仍「不為利回」；「處約不戚，聞寵不欣」又寫出不受窮達擾動的安定。"
+    },
+    {
+      "chapter": "《處士圂叔則銘》",
+      "para_index": 1,
+      "domains": ["VII", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "confidence": 0.95,
+      "reason": "圂典深究曆部藝文，隱居後稼穡、教導童蒙，並以不義富貴如浮雲而拒絕徵招；銘末「有恆實難，獨秉其經」明說守志之難。"
+    },
+    {
+      "chapter": "光武濟陽宮碑",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["narrative", "proposition"],
+      "confidence": 0.88,
+      "reason": "「罪成惡熟」把王莽作惡連到覆亡，後引「樂樂其所自生，而禮不忘其本」立下不忘本的行為原則，並非只記帝系與即位經過。"
+    },
+    {
+      "chapter": "光武濟陽宮碑",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["ritual", "observation"],
+      "confidence": 0.99,
+      "reason": "全段以「赫矣炎光」「匡復帝載」押韻頌述帝業，末句「子子孫孫，保之無疆」是祝嘏收尾，沒有另立人的行為判準。"
+    },
+    {
+      "chapter": "太尉汝南李公碑",
+      "para_index": 1,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["narrative", "observation"],
+      "confidence": 0.98,
+      "reason": "李咸敦習詩書、禮樂與天文地理，任官則「勤恤民隱」、和戎綏邊，並以「汰垢濁以揚清」落實清直，兼寫學業、公責與操守。"
+    },
+    {
+      "chapter": "太尉汝南李公碑",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["ritual", "observation"],
+      "confidence": 0.91,
+      "reason": "銘辭雖多列文武與官位，仍以「惟清惟敏，品物以熙」把清敏的操守連到群體安治的結果。"
+    },
+    {
+      "chapter": "陳留索昏庫上里社銘",
+      "para_index": 1,
+      "domains": ["VII", "XII"],
+      "modes": ["ritual", "proposition"],
+      "confidence": 0.95,
+      "reason": "追述里中宰相相繼而出後，明說其成就既有「積善餘慶」，也因「斯社之所相」，把善行後果與社神扶助並列為因。"
+    },
+    {
+      "chapter": "陳留索昏庫上里社銘",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["ritual"],
+      "confidence": 0.96,
+      "reason": "「神人協祚」「凡我里人，盡受嘉祥」止于社祀頌辭的降福祝願，所列明德、元勳與封侯也都是泛稱。"
+    },
+    {
+      "chapter": "其一",
+      "para_index": 1,
+      "domains": ["IV", "V", "VII"],
+      "modes": ["narrative", "observation"],
+      "confidence": 0.97,
+      "reason": "胡碩對雙親「養色甯意」，平日忠儉順恕而驕吝不萌，任議郎又「納忠盡規，匪懈于位」，分別寫出親子奉養、公共職責與品格。"
+    },
+    {
+      "chapter": "其一",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["ritual", "observation"],
+      "confidence": 0.94,
+      "reason": "銘文以「綏弱以仁，不云我彊」具體說明待弱者的方式，並用「眾悅其良」和「進退以方」交代群體後果與進退操守。"
+    },
+    {
+      "chapter": "其二",
+      "para_index": 1,
+      "domains": ["V", "VII", "X"],
+      "modes": ["narrative", "ritual"],
+      "confidence": 0.94,
+      "reason": "迎接新守的官屬遇其卒而衰絰號咷、各執送葬之職，末以「三綱之序」「以舊奉新」自勗，寫出共同失去、公共角色與守分責任。"
+    },
+    {
+      "chapter": "其二",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["ritual", "expression"],
+      "confidence": 0.98,
+      "reason": "「昊天不弔」「靈魂裵𧙪」與「胸肝摧碎」都是銘辭告哀；且明言「政雖未宣」，未寫出施政行為或其他承重判準。"
+    }
+  ]
+}
