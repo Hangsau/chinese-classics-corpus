@@ -1,0 +1,120 @@
+[
+  {
+    "para_id": "sushu#01-p01",
+    "anchor": {
+      "chapter": "原始章第一",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VII",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「夫欲為人之本，不可無一焉」把道、德、仁、義、禮列為做人的根本；「潛居抱道，以待其時……如其不遇，沒身而已」又說明成就受時與遇合所限。",
+    "excerpt": "夫道、德、仁、義、禮，五者一體也。道者，人之所蹈，使萬物不知其所由；德者，人之所",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T15:02:30+08:00"
+  },
+  {
+    "para_id": "sushu#02-p01",
+    "anchor": {
+      "chapter": "正道章第二",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VII",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "按品格與才能把人分成俊、豪、杰三等（「德足以懷遠」「行足以為儀表」「守職而不廢」），是對人的德性及任事能力的直接分型。",
+    "excerpt": "德足以懷遠，信足以一異，義足以得眾，才足以鑒古，明足以照下，此人之俊也。行足以為",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T15:02:30+08:00"
+  },
+  {
+    "para_id": "sushu#03-p01",
+    "anchor": {
+      "chapter": "求人之志章第三",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VII",
+      "II",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「絕嗜禁欲」「親仁友直」提出品格修養，「高行微言，所以修身」「恭儉謙約，所以自守」關乎自我持守；若拿掉 VIII，便漏掉「任材使能，所以濟務」對運用才能以成事的主張。",
+    "excerpt": "絕嗜禁欲，所以除累；抑非損惡，所以禳過；貶酒闕色，所以無污；避嫌遠疑，所以不誤；",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T15:02:30+08:00"
+  },
+  {
+    "para_id": "sushu#04-p01",
+    "anchor": {
+      "chapter": "本德宗道章第四",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VII",
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「安莫安于忍辱」「苦莫苦于多愿」「孤莫孤于自恃」直接斷言品格與內在狀態由何而來；「病莫病于無常」指行事反覆，非身體疾病或死生無常，「神莫神于至誠」亦只是極值修辭。",
+    "excerpt": "夫志心篤行之術，長莫長于博謀，安莫安于忍辱，先莫先于修德，樂莫樂于好善，神莫神于",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T15:02:30+08:00"
+  },
+  {
+    "para_id": "sushu#05-p01",
+    "anchor": {
+      "chapter": "遵義章第五",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VII",
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「貌合心離者孤」「自厚而薄人者棄」斷言品性及人際後果，眾多上下、賞罰條目又涉及群體與領導；若拿掉 VIII，便漏掉「既用不任者疏」「為人擇官者亂」對任用工作的判斷。",
+    "excerpt": "以明示下者暗，有過不知者弊，迷而不返者惑，以言取怨者禍，令與心乖者廢，后令謬前者",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T15:02:30+08:00"
+  },
+  {
+    "para_id": "sushu#06-p01",
+    "anchor": {
+      "chapter": "安禮章第六",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VII",
+      "V",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「同志相得……同美相妒」直陳群體與人際樣態，「正己而化人者順」落在品格；若拿掉 XI，便漏掉「有道則吉，無道則兇……非其神圣，自然所鐘」把吉凶歸於人的行為及自然結果而非神聖決定。",
+    "excerpt": "怨在不舍小過，患在不預定謀。福在積善，禍在積惡，饑在賤農，寒在惰織，安在得人，危",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T15:02:30+08:00"
+  }
+]

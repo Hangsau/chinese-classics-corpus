@@ -2,9 +2,9 @@
   "domain": "VIII",
   "name_zh": "工作·成就·召喚",
   "gist": "工作與金錢、成就與意義、天賦與使命",
-  "generated_at": "2026-08-11T09:27:06+00:00",
-  "para_count": 677,
-  "book_count": 28,
+  "generated_at": "2026-08-15T07:04:08+00:00",
+  "para_count": 685,
+  "book_count": 30,
   "surveyed_zero_hit": [
     "gu-sanfen",
     "haidao-suanjing",
@@ -7327,6 +7327,50 @@
       "co_domains": []
     },
     {
+      "slug": "sushu",
+      "chapter": "正道章第二",
+      "para_index": 1,
+      "para_id": "sushu#02-p01",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "德足以懷遠，信足以一異，義足以得眾，才足以鑒古，明足以照下，此人之俊也。行足以為",
+      "note": "按品格與才能把人分成俊、豪、杰三等（「德足以懷遠」「行足以為儀表」「守職而不廢」），是對人的德性及任事能力的直接分型。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "sushu",
+      "chapter": "求人之志章第三",
+      "para_index": 1,
+      "para_id": "sushu#03-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "絕嗜禁欲，所以除累；抑非損惡，所以禳過；貶酒闕色，所以無污；避嫌遠疑，所以不誤；",
+      "note": "「絕嗜禁欲」「親仁友直」提出品格修養，「高行微言，所以修身」「恭儉謙約，所以自守」關乎自我持守；若拿掉 VIII，便漏掉「任材使能，所以濟務」對運用才能以成事的主張。",
+      "co_domains": [
+        "VII",
+        "II"
+      ]
+    },
+    {
+      "slug": "sushu",
+      "chapter": "遵義章第五",
+      "para_index": 1,
+      "para_id": "sushu#05-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "以明示下者暗，有過不知者弊，迷而不返者惑，以言取怨者禍，令與心乖者廢，后令謬前者",
+      "note": "「貌合心離者孤」「自厚而薄人者棄」斷言品性及人際後果，眾多上下、賞罰條目又涉及群體與領導；若拿掉 VIII，便漏掉「既用不任者疏」「為人擇官者亂」對任用工作的判斷。",
+      "co_domains": [
+        "VII",
+        "V"
+      ]
+    },
+    {
       "slug": "weiliaozi",
       "chapter": "兵談",
       "para_index": 4,
@@ -9622,6 +9666,78 @@
       "excerpt": "夫國者卿相世賢者有之〈有國則有卿相賢徳者卿相之具人與之王用之不賢者豈能用之哉〉有",
       "note": "正文說卿相之位「賢者有之」「智者治之」且志與謀非一日可成，又以民得安業及仁、信、和、道衡量領導；逢行珪注「積功累業，行道不倦」和「不奪民時，不干民利」分別申說能力養成與掌權責任。",
       "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhongjing",
+      "chapter": "聖君章第二",
+      "para_index": 1,
+      "para_id": "zhongjing#02-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "惟君以聖德，監于萬邦。自下至上，各有尊也。故王者，上事於天，下事於地，中事於宗廟",
+      "note": "王者應「兢兢戒慎，日增其明」並「祿賢官能」，重點是君主的領導責任與任用人才；事天地宗廟只是職分序列，不構成 XII",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhongjing",
+      "chapter": "百工章第四",
+      "para_index": 1,
+      "para_id": "zhongjing#04-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "有國之建，百工惟才，守位謹常，非忠之道。故君子之事上也，人則獻其謀，出則行其政，",
+      "note": "百官被要求獻謀行政、秉職不回且言事無憚，直接規定職業投入與對社稷的公共責任；「不顧其身」不是對身體或死亡的討論",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhongjing",
+      "chapter": "觀風章第九",
+      "para_index": 1,
+      "para_id": "zhongjing#09-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "惟臣，以天子之命，出於四方，以觀風。聽不可以不聰，視不可以不明。聰則審於事，明則",
+      "note": "觀風使臣須聰明審事、去私正色且「不憚勢以舉任」，既是職務能力與操守的要求，也涉及面對權勢而公正舉任的公共責任",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhongjing",
+      "chapter": "報國章第十七",
+      "para_index": 1,
+      "para_id": "zhongjing#17-p01",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "為人臣者，官於君，先後光慶，皆君之德，不思報國，豈忠也哉？君子有無祿，而益君，無",
+      "note": "「報國之道有四」把貢賢、獻猷、立功、興利逐項列義，規定臣下依能力履行報國責任的四類職業貢獻",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhongjing",
+      "chapter": "盡忠章第十八",
+      "para_index": 1,
+      "para_id": "zhongjing#18-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天下盡忠，淳化而行也。君子盡忠，則盡其心，小人盡忠，則盡其力。盡力者，則止其身，",
+      "note": "君子盡心、小人盡力區分兩種盡忠層次（VII），也區分心力投入的工作貢獻（VIII），而任賢使君德與政教擴展則是領導治理主張（V）；三格各少一便會漏掉人物分型、投入方式或公共結果",
+      "co_domains": [
+        "VII",
         "V"
       ]
     }

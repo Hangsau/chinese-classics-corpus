@@ -1,17 +1,17 @@
 # XII 信仰·神聖·超越
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 124 段命中｜跨 15 部｜生成時間 2026-08-11T09:27:06+00:00
+> 126 段命中｜跨 16 部｜生成時間 2026-08-15T07:04:08+00:00
 
 神存在嗎、信與疑、敬畏與美、神秘經驗
 
-姿態分佈：`proposition` 74、`narrative` 35、`observation` 28、`prescription` 14、`ritual` 12、`expression` 5、`formalization` 4
+姿態分佈：`proposition` 76、`narrative` 35、`observation` 28、`prescription` 14、`ritual` 12、`expression` 5、`formalization` 4
 
 ## 已通讀但本領域零命中
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`dengxizi`（鄧析子）　`dongmingji`（洞冥記）　`fangyan`（方言）　`gongsun-longzi`（公孫龍子）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jijiupian`（急就篇）　`liutao`（六韜）　`nanjing`（難經）　`renwuzhi`（人物志）　`san-lue`（三略）　`shanghanlun`（傷寒論）　`shangjunshu`（商君書）　`shenzi`（慎子）　`sima-fa`（司馬法）　`weiliaozi`（尉繚子）　`wuzi`（吳子）　`yinwenzi`（尹文子）
+`dengxizi`（鄧析子）　`dongmingji`（洞冥記）　`fangyan`（方言）　`gongsun-longzi`（公孫龍子）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jijiupian`（急就篇）　`liutao`（六韜）　`nanjing`（難經）　`renwuzhi`（人物志）　`san-lue`（三略）　`shanghanlun`（傷寒論）　`shangjunshu`（商君書）　`shenzi`（慎子）　`sima-fa`（司馬法）　`sushu`（素書）　`weiliaozi`（尉繚子）　`wuzi`（吳子）　`yinwenzi`（尹文子）
 
 ## 潛夫論（儒家著述）　32 段
 
@@ -193,6 +193,13 @@
 |---|---|---|---|---|
 | 孫叔敖母 | 1 | `narrative` `proposition` | 楚令尹孫叔敖之母也。叔敖為嬰兒之時，出遊，見兩頭蛇，殺而埋之。歸見其母而泣焉，母 | ＋VII 母親以陰德勝不祥、天必輔德安慰叔敖，直接主張人的善行會獲神聖回應。 |
 | 孫叔敖母 | 2 | `observation` `proposition` | 頌曰：叔敖之母，深知天道，叔敖見蛇，兩頭岐首，殺而埋之，泣恐不及，母曰陰德，不死 | ＋VII 頌稱母親深知天道，並以陰德使人不死得壽表述德行與天道的關係。 |
+
+## 忠經（儒家著述）　2 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| 天地神明章第一 | 1 | `proposition` | 昔在至理，上下一德，以徵天休，忠之道也。〈忠之為道，乃合於天。至理之時，君臣同德 | ＋VII／V 正文以「至公無私」「一其心」立忠的品格標準（VII），又說忠能「固君臣、安社稷」（V）並「感天地、動神明」、以天、地、人之無私相互比照（XII）；三格分別承載德性、公共關係與超越主張，缺一即少一層 |
+| 證應章第十六 | 1 | `proposition` | 惟天鑒人，善惡必應。善莫大於作忠，惡莫大於不忠。忠則福祿至焉，不忠則刑罰加焉。君 | ＋VII 正文斷言「惟天鑒人，善惡必應」，忠與不忠必由天降福祿或刑罰，既是實質超越主張，也以善惡忠佞區分人的品格 |
 
 ## 九章算術（算書）　1 段
 

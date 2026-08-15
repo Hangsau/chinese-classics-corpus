@@ -1,17 +1,17 @@
 # IV 家庭與傳承
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 428 段命中｜跨 21 部｜生成時間 2026-08-11T09:27:06+00:00
+> 429 段命中｜跨 22 部｜生成時間 2026-08-15T07:04:08+00:00
 
 婚姻與家庭、原生家庭的傷、為人父母、記憶與和解、留下什麼給後代
 
-姿態分佈：`narrative` 196、`proposition` 193、`observation` 103、`prescription` 72、`expression` 37、`formalization` 23、`ritual` 22
+姿態分佈：`narrative` 196、`proposition` 194、`observation` 103、`prescription` 73、`expression` 37、`formalization` 23、`ritual` 22
 
 ## 已通讀但本領域零命中
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`fangyan`（方言）　`gongsun-longzi`（公孫龍子）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`san-lue`（三略）　`sima-fa`（司馬法）　`wuzi`（吳子）　`yinwenzi`（尹文子）　`yuzi`（鬻子）
+`fangyan`（方言）　`gongsun-longzi`（公孫龍子）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`san-lue`（三略）　`sima-fa`（司馬法）　`sushu`（素書）　`wuzi`（吳子）　`yinwenzi`（尹文子）　`yuzi`（鬻子）
 
 ## 世說新語（人論）　96 段
 
@@ -545,3 +545,9 @@
 | 篇 | 段 | 姿態 | 摘句 | 判讀 |
 |---|---|---|---|---|
 | 中荒經十則 | 10 | `observation` `proposition` | 不孝鳥，狀如人身，犬毛有齒，猪牙，額上有紋，曰不孝；口下有紋，曰不慈；背上有紋， | ＋VII 鳥身明列不孝、不慈、不道與愛夫憐婦，並說天以此彰顯忠孝，直接論家庭倫理和德行 |
+
+## 忠經（儒家著述）　1 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| 保孝行章第十 | 1 | `proposition` `prescription` | 夫惟孝者，必貴本於忠。忠苟不行，所率猶非其道。是以忠不及之，而失其守，匪惟危身， | ＋VII 本章以忠為孝之本，明言不忠會「辱及親」，並要求盡愛敬之心以養親，實質討論親子奉養與忠孝品格；「危身」不構成 IX |

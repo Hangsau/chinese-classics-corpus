@@ -1,0 +1,47 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {
+      "chapter": "原始章第一",
+      "para_index": 1,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「夫欲為人之本，不可無一焉」把道、德、仁、義、禮列為做人的根本；「潛居抱道，以待其時……如其不遇，沒身而已」又說明成就受時與遇合所限。"
+    },
+    {
+      "chapter": "正道章第二",
+      "para_index": 1,
+      "domains": ["VII", "VIII"],
+      "modes": ["observation"],
+      "reason": "按品格與才能把人分成俊、豪、杰三等（「德足以懷遠」「行足以為儀表」「守職而不廢」），是對人的德性及任事能力的直接分型。"
+    },
+    {
+      "chapter": "求人之志章第三",
+      "para_index": 1,
+      "domains": ["VII", "II", "VIII"],
+      "modes": ["prescription"],
+      "reason": "「絕嗜禁欲」「親仁友直」提出品格修養，「高行微言，所以修身」「恭儉謙約，所以自守」關乎自我持守；若拿掉 VIII，便漏掉「任材使能，所以濟務」對運用才能以成事的主張。"
+    },
+    {
+      "chapter": "本德宗道章第四",
+      "para_index": 1,
+      "domains": ["VII", "VI"],
+      "modes": ["proposition"],
+      "reason": "「安莫安于忍辱」「苦莫苦于多愿」「孤莫孤于自恃」直接斷言品格與內在狀態由何而來；「病莫病于無常」指行事反覆，非身體疾病或死生無常，「神莫神于至誠」亦只是極值修辭。"
+    },
+    {
+      "chapter": "遵義章第五",
+      "para_index": 1,
+      "domains": ["VII", "V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「貌合心離者孤」「自厚而薄人者棄」斷言品性及人際後果，眾多上下、賞罰條目又涉及群體與領導；若拿掉 VIII，便漏掉「既用不任者疏」「為人擇官者亂」對任用工作的判斷。"
+    },
+    {
+      "chapter": "安禮章第六",
+      "para_index": 1,
+      "domains": ["VII", "V", "XI"],
+      "modes": ["proposition"],
+      "reason": "「同志相得……同美相妒」直陳群體與人際樣態，「正己而化人者順」落在品格；若拿掉 XI，便漏掉「有道則吉，無道則兇……非其神圣，自然所鐘」把吉凶歸於人的行為及自然結果而非神聖決定。"
+    }
+  ]
+}

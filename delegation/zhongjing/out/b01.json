@@ -1,0 +1,131 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {
+      "chapter": "天地神明章第一",
+      "para_index": 1,
+      "domains": ["VII", "V", "XII"],
+      "modes": ["proposition"],
+      "reason": "正文以「至公無私」「一其心」立忠的品格標準（VII），又說忠能「固君臣、安社稷」（V）並「感天地、動神明」、以天、地、人之無私相互比照（XII）；三格分別承載德性、公共關係與超越主張，缺一即少一層"
+    },
+    {
+      "chapter": "聖君章第二",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["prescription"],
+      "reason": "王者應「兢兢戒慎，日增其明」並「祿賢官能」，重點是君主的領導責任與任用人才；事天地宗廟只是職分序列，不構成 XII"
+    },
+    {
+      "chapter": "冢臣章第三",
+      "para_index": 1,
+      "domains": ["VII", "V"],
+      "modes": ["proposition"],
+      "reason": "「正己安人」與「任賢以為理」把臣忠寫成端正自身的品格及安人用賢的領導責任；「臨難死節」只是忠的表現，不是在談死亡處境"
+    },
+    {
+      "chapter": "百工章第四",
+      "para_index": 1,
+      "domains": ["VIII", "V"],
+      "modes": ["prescription"],
+      "reason": "百官被要求獻謀行政、秉職不回且言事無憚，直接規定職業投入與對社稷的公共責任；「不顧其身」不是對身體或死亡的討論"
+    },
+    {
+      "chapter": "守宰章第五",
+      "para_index": 1,
+      "domains": ["VII", "VI", "V"],
+      "modes": ["observation", "prescription"],
+      "reason": "「明、平、清」立官員品格（VII），「人莫不欲安」「莫不欲富」直述普遍欲求（VI），視民如子並據此施政則屬領導責任（V）；三格各少一便會漏掉品格、內在動機或公共治理的一層"
+    },
+    {
+      "chapter": "兆人章第六",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "本段只列百姓承法度、行孝悌、勤稼穡以供王職的本分，並給出君德、風雨與生計的結果鏈，沒有另把家內關係或人的心理品格作為依據，故不因「孝悌於其家」給 IV"
+    },
+    {
+      "chapter": "政理章第七",
+      "para_index": 1,
+      "domains": ["XI", "VII", "V"],
+      "modes": ["proposition"],
+      "reason": "德、政、刑分別使人「遷善而不知」「不得不為善」「畏而不敢為非」（XI），又以德與善惡立品格尺度（VII）並比較治理層次（V）；三格分別承載改變機制、德性內容與公共治理"
+    },
+    {
+      "chapter": "武備章第八",
+      "para_index": 1,
+      "domains": ["VII", "V"],
+      "modes": ["prescription", "proposition"],
+      "reason": "統帥以仁、義、禮、信立德，以賞、刑馭眾，並主張如此可使將帥盡心竭力，兼論領導者品格與群體治理機制"
+    },
+    {
+      "chapter": "觀風章第九",
+      "para_index": 1,
+      "domains": ["VIII", "V"],
+      "modes": ["prescription"],
+      "reason": "觀風使臣須聰明審事、去私正色且「不憚勢以舉任」，既是職務能力與操守的要求，也涉及面對權勢而公正舉任的公共責任"
+    },
+    {
+      "chapter": "保孝行章第十",
+      "para_index": 1,
+      "domains": ["IV", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "本章以忠為孝之本，明言不忠會「辱及親」，並要求盡愛敬之心以養親，實質討論親子奉養與忠孝品格；「危身」不構成 IX"
+    },
+    {
+      "chapter": "廣為國章第十一",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "明主須任正去邪、任用道德賢良之臣，並主張由此使上下相保而邦國平康，兼具領導用人的責任與正邪忠佞的品格判準"
+    },
+    {
+      "chapter": "廣至理章第十二",
+      "para_index": 1,
+      "domains": ["XI", "VII", "V"],
+      "modes": ["proposition"],
+      "reason": "上位者賤珍、徹侈、用實、崇讓會使人去貪從儉、不偽不爭，分別說明品性可被示範改變（XI）、改變所指的德性內容（VII）及領導影響群體的方式（V）；「無為」是治術而非 XII"
+    },
+    {
+      "chapter": "揚聖章第十三",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["prescription"],
+      "reason": "君德不足則補、聖明則揚，規定忠臣面對君主德行時應承擔的輔弼責任與忠直品格；皋陶、周公、吉甫只是例證，沒有情節，亦非受辱後的自處"
+    },
+    {
+      "chapter": "辨忠章十四",
+      "para_index": 1,
+      "domains": ["VII", "II", "V"],
+      "modes": ["observation", "proposition"],
+      "reason": "「忠而不佞」與「佞而似忠」分辨真偽品格及名實落差（VII、II），仁智勇失忠便化為私恩、文詐與亂又關乎國政判斷（V）；三格各自對應德性、表象身分與公共後果"
+    },
+    {
+      "chapter": "忠諫章第十五",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["formalization", "prescription"],
+      "reason": "本章把進諫按未形、已彰、既行分為上、次、下三等，並以「違而不諫，則非忠臣」規定臣下的公共責任與忠直品格；死節是規範終點而非死亡主題"
+    },
+    {
+      "chapter": "證應章第十六",
+      "para_index": 1,
+      "domains": ["XII", "VII"],
+      "modes": ["proposition"],
+      "reason": "正文斷言「惟天鑒人，善惡必應」，忠與不忠必由天降福祿或刑罰，既是實質超越主張，也以善惡忠佞區分人的品格"
+    },
+    {
+      "chapter": "報國章第十七",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["formalization", "prescription"],
+      "reason": "「報國之道有四」把貢賢、獻猷、立功、興利逐項列義，規定臣下依能力履行報國責任的四類職業貢獻"
+    },
+    {
+      "chapter": "盡忠章第十八",
+      "para_index": 1,
+      "domains": ["VII", "VIII", "V"],
+      "modes": ["proposition"],
+      "reason": "君子盡心、小人盡力區分兩種盡忠層次（VII），也區分心力投入的工作貢獻（VIII），而任賢使君德與政教擴展則是領導治理主張（V）；三格各少一便會漏掉人物分型、投入方式或公共結果"
+    }
+  ]
+}

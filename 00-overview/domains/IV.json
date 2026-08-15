@@ -2,9 +2,9 @@
   "domain": "IV",
   "name_zh": "家庭與傳承",
   "gist": "婚姻與家庭、原生家庭的傷、為人父母、記憶與和解、留下什麼給後代",
-  "generated_at": "2026-08-11T09:27:06+00:00",
-  "para_count": 428,
-  "book_count": 21,
+  "generated_at": "2026-08-15T07:04:08+00:00",
+  "para_count": 429,
+  "book_count": 22,
   "surveyed_zero_hit": [
     "fangyan",
     "gongsun-longzi",
@@ -15,6 +15,7 @@
     "nanjing",
     "san-lue",
     "sima-fa",
+    "sushu",
     "wuzi",
     "yinwenzi",
     "yuzi"
@@ -6246,6 +6247,21 @@
         "VII",
         "VIII",
         "X"
+      ]
+    },
+    {
+      "slug": "zhongjing",
+      "chapter": "保孝行章第十",
+      "para_index": 1,
+      "para_id": "zhongjing#10-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫惟孝者，必貴本於忠。忠苟不行，所率猶非其道。是以忠不及之，而失其守，匪惟危身，",
+      "note": "本章以忠為孝之本，明言不忠會「辱及親」，並要求盡愛敬之心以養親，實質討論親子奉養與忠孝品格；「危身」不構成 IX",
+      "co_domains": [
+        "VII"
       ]
     }
   ]

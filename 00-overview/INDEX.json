@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-08-11T09:27:06+00:00",
+    "generated_at": "2026-08-15T07:04:08+00:00",
     "text_count": 72,
     "total_bytes": 11304281,
     "by_category": {
@@ -28,39 +28,39 @@
       "reference": 4,
       "contested": 2
     },
-    "surveyed_count": 33,
-    "annotated_count": 33,
+    "surveyed_count": 35,
+    "annotated_count": 35,
     "scaffolded_count": 0,
-    "paras_judged": 15078,
+    "paras_judged": 15102,
     "paras_pending": 0,
     "domain_hit_counts": {
       "I": 9,
-      "II": 22,
+      "II": 24,
       "III": 12,
-      "IV": 21,
+      "IV": 22,
       "IX": 17,
-      "V": 29,
-      "VI": 18,
-      "VII": 26,
-      "VIII": 28,
+      "V": 31,
+      "VI": 20,
+      "VII": 28,
+      "VIII": 30,
       "X": 15,
-      "XI": 20,
-      "XII": 15,
+      "XI": 22,
+      "XII": 16,
       "XIII": 13
     },
     "domain_para_counts": {
       "I": 28,
-      "II": 477,
+      "II": 479,
       "III": 97,
-      "IV": 428,
-      "V": 2105,
-      "VI": 484,
-      "VII": 1403,
-      "VIII": 677,
+      "IV": 429,
+      "V": 2122,
+      "VI": 486,
+      "VII": 1422,
+      "VIII": 685,
       "IX": 109,
       "X": 204,
-      "XI": 295,
-      "XII": 124,
+      "XI": 299,
+      "XII": 126,
       "XIII": 96
     }
   },
@@ -1509,12 +1509,27 @@
       "size_bytes": 4961,
       "chapter_count": 6,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "domains_null": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [
+        "II",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "XI"
+      ],
+      "domains_null": [
+        "I",
+        "III",
+        "IV",
+        "IX",
+        "X",
+        "XII",
+        "XIII"
+      ],
+      "paras_total": 6,
+      "paras_judged": 6,
+      "annotated": true
     },
     {
       "slug": "taixuanjing",
@@ -1997,12 +2012,27 @@
       "size_bytes": 8756,
       "chapter_count": 18,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "domains_null": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [
+        "II",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "XI",
+        "XII"
+      ],
+      "domains_null": [
+        "I",
+        "III",
+        "IX",
+        "X",
+        "XIII"
+      ],
+      "paras_total": 18,
+      "paras_judged": 18,
+      "annotated": true
     },
     {
       "slug": "zhonglun",

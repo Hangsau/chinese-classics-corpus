@@ -2,9 +2,9 @@
   "domain": "VI",
   "name_zh": "情緒與內在生活",
   "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡",
-  "generated_at": "2026-08-11T09:27:06+00:00",
-  "para_count": 484,
-  "book_count": 18,
+  "generated_at": "2026-08-15T07:04:08+00:00",
+  "para_count": 486,
+  "book_count": 20,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -6283,6 +6283,20 @@
       ]
     },
     {
+      "slug": "sushu",
+      "chapter": "本德宗道章第四",
+      "para_index": 1,
+      "para_id": "sushu#04-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫志心篤行之術，長莫長于博謀，安莫安于忍辱，先莫先于修德，樂莫樂于好善，神莫神于",
+      "note": "「安莫安于忍辱」「苦莫苦于多愿」「孤莫孤于自恃」直接斷言品格與內在狀態由何而來；「病莫病于無常」指行事反覆，非身體疾病或死生無常，「神莫神于至誠」亦只是極值修辭。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
       "slug": "weiliaozi",
       "chapter": "守權",
       "para_index": 2,
@@ -6948,6 +6962,22 @@
       "excerpt": "眾人見貧賤，則慢而疏之；見富貴，則敬而親之。貧賤者，有請賕於己，疏之可也；未必損",
       "note": "眾人無論實際利害都疏慢貧賤、敬親富貴，直說階層偏見如何改變親疏態度並稱之為大惑",
       "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhongjing",
+      "chapter": "守宰章第五",
+      "para_index": 1,
+      "para_id": "zhongjing#05-p01",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "在官惟明，蒞事惟平，立身惟清。清則無欲，平則不曲，明能正俗，三者備矣，然後可以理",
+      "note": "「明、平、清」立官員品格（VII），「人莫不欲安」「莫不欲富」直述普遍欲求（VI），視民如子並據此施政則屬領導責任（V）；三格各少一便會漏掉品格、內在動機或公共治理的一層",
+      "co_domains": [
+        "VII",
         "V"
       ]
     }

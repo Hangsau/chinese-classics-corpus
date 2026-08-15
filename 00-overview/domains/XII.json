@@ -2,9 +2,9 @@
   "domain": "XII",
   "name_zh": "信仰·神聖·超越",
   "gist": "神存在嗎、信與疑、敬畏與美、神秘經驗",
-  "generated_at": "2026-08-11T09:27:06+00:00",
-  "para_count": 124,
-  "book_count": 15,
+  "generated_at": "2026-08-15T07:04:08+00:00",
+  "para_count": 126,
+  "book_count": 16,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -21,6 +21,7 @@
     "shangjunshu",
     "shenzi",
     "sima-fa",
+    "sushu",
     "weiliaozi",
     "wuzi",
     "yinwenzi"
@@ -1785,6 +1786,35 @@
       "excerpt": "〈夫道者，覆天地，廓四方，斥八極。高而無際，深不可測，綿六合，横四維。不可以言象",
       "note": "本段為篇題注解，無正文；逢行珪注把道說成「不可以言象盡」「包萬物之形」而又稱「有道之王，動而同之」，明說人與不可測之道相契的關係。",
       "co_domains": []
+    },
+    {
+      "slug": "zhongjing",
+      "chapter": "天地神明章第一",
+      "para_index": 1,
+      "para_id": "zhongjing#01-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "昔在至理，上下一德，以徵天休，忠之道也。〈忠之為道，乃合於天。至理之時，君臣同德",
+      "note": "正文以「至公無私」「一其心」立忠的品格標準（VII），又說忠能「固君臣、安社稷」（V）並「感天地、動神明」、以天、地、人之無私相互比照（XII）；三格分別承載德性、公共關係與超越主張，缺一即少一層",
+      "co_domains": [
+        "VII",
+        "V"
+      ]
+    },
+    {
+      "slug": "zhongjing",
+      "chapter": "證應章第十六",
+      "para_index": 1,
+      "para_id": "zhongjing#16-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "惟天鑒人，善惡必應。善莫大於作忠，惡莫大於不忠。忠則福祿至焉，不忠則刑罰加焉。君",
+      "note": "正文斷言「惟天鑒人，善惡必應」，忠與不忠必由天降福祿或刑罰，既是實質超越主張，也以善惡忠佞區分人的品格",
+      "co_domains": [
+        "VII"
+      ]
     }
   ]
 }

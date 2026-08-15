@@ -2,9 +2,9 @@
   "domain": "II",
   "name_zh": "自我與認同",
   "gist": "我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我",
-  "generated_at": "2026-08-11T09:27:06+00:00",
-  "para_count": 477,
-  "book_count": 22,
+  "generated_at": "2026-08-15T07:04:08+00:00",
+  "para_count": 479,
+  "book_count": 24,
   "surveyed_zero_hit": [
     "fangyan",
     "gongsun-longzi",
@@ -6052,6 +6052,21 @@
       ]
     },
     {
+      "slug": "sushu",
+      "chapter": "求人之志章第三",
+      "para_index": 1,
+      "para_id": "sushu#03-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "絕嗜禁欲，所以除累；抑非損惡，所以禳過；貶酒闕色，所以無污；避嫌遠疑，所以不誤；",
+      "note": "「絕嗜禁欲」「親仁友直」提出品格修養，「高行微言，所以修身」「恭儉謙約，所以自守」關乎自我持守；若拿掉 VIII，便漏掉「任材使能，所以濟務」對運用才能以成事的主張。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
       "slug": "weiliaozi",
       "chapter": "制談",
       "para_index": 11,
@@ -6661,6 +6676,22 @@
       "note": "判斷來自正文「人化而為善，獸化而為惡，人而不善者謂之獸」，直接以善惡劃分人的品格與人獸身分；逢行珪注「萬物之中人其為貴，化而為善」加以申說，後半日月刻數的形式化鋪陳不改此命中。",
       "co_domains": [
         "VII"
+      ]
+    },
+    {
+      "slug": "zhongjing",
+      "chapter": "辨忠章十四",
+      "para_index": 1,
+      "para_id": "zhongjing#14-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "大哉！忠之為用一作「道」也。施之於邇，則可以保家邦，施之於遠，則可以極天地。故明",
+      "note": "「忠而不佞」與「佞而似忠」分辨真偽品格及名實落差（VII、II），仁智勇失忠便化為私恩、文詐與亂又關乎國政判斷（V）；三格各自對應德性、表象身分與公共後果",
+      "co_domains": [
+        "VII",
+        "V"
       ]
     }
   ]

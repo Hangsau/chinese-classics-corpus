@@ -2,9 +2,9 @@
   "domain": "VII",
   "name_zh": "善惡·良心·品格",
   "gist": "罪咎與贖罪、惡與殘忍與同理、誠實與虛偽、勇氣",
-  "generated_at": "2026-08-11T09:27:06+00:00",
-  "para_count": 1403,
-  "book_count": 26,
+  "generated_at": "2026-08-15T07:04:08+00:00",
+  "para_count": 1422,
+  "book_count": 28,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -16929,6 +16929,94 @@
       "co_domains": []
     },
     {
+      "slug": "sushu",
+      "chapter": "原始章第一",
+      "para_index": 1,
+      "para_id": "sushu#01-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫道、德、仁、義、禮，五者一體也。道者，人之所蹈，使萬物不知其所由；德者，人之所",
+      "note": "「夫欲為人之本，不可無一焉」把道、德、仁、義、禮列為做人的根本；「潛居抱道，以待其時……如其不遇，沒身而已」又說明成就受時與遇合所限。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "sushu",
+      "chapter": "正道章第二",
+      "para_index": 1,
+      "para_id": "sushu#02-p01",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "德足以懷遠，信足以一異，義足以得眾，才足以鑒古，明足以照下，此人之俊也。行足以為",
+      "note": "按品格與才能把人分成俊、豪、杰三等（「德足以懷遠」「行足以為儀表」「守職而不廢」），是對人的德性及任事能力的直接分型。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "sushu",
+      "chapter": "求人之志章第三",
+      "para_index": 1,
+      "para_id": "sushu#03-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "絕嗜禁欲，所以除累；抑非損惡，所以禳過；貶酒闕色，所以無污；避嫌遠疑，所以不誤；",
+      "note": "「絕嗜禁欲」「親仁友直」提出品格修養，「高行微言，所以修身」「恭儉謙約，所以自守」關乎自我持守；若拿掉 VIII，便漏掉「任材使能，所以濟務」對運用才能以成事的主張。",
+      "co_domains": [
+        "II",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "sushu",
+      "chapter": "本德宗道章第四",
+      "para_index": 1,
+      "para_id": "sushu#04-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫志心篤行之術，長莫長于博謀，安莫安于忍辱，先莫先于修德，樂莫樂于好善，神莫神于",
+      "note": "「安莫安于忍辱」「苦莫苦于多愿」「孤莫孤于自恃」直接斷言品格與內在狀態由何而來；「病莫病于無常」指行事反覆，非身體疾病或死生無常，「神莫神于至誠」亦只是極值修辭。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "sushu",
+      "chapter": "遵義章第五",
+      "para_index": 1,
+      "para_id": "sushu#05-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "以明示下者暗，有過不知者弊，迷而不返者惑，以言取怨者禍，令與心乖者廢，后令謬前者",
+      "note": "「貌合心離者孤」「自厚而薄人者棄」斷言品性及人際後果，眾多上下、賞罰條目又涉及群體與領導；若拿掉 VIII，便漏掉「既用不任者疏」「為人擇官者亂」對任用工作的判斷。",
+      "co_domains": [
+        "V",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "sushu",
+      "chapter": "安禮章第六",
+      "para_index": 1,
+      "para_id": "sushu#06-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "怨在不舍小過，患在不預定謀。福在積善，禍在積惡，饑在賤農，寒在惰織，安在得人，危",
+      "note": "「同志相得……同美相妒」直陳群體與人際樣態，「正己而化人者順」落在品格；若拿掉 XI，便漏掉「有道則吉，無道則兇……非其神圣，自然所鐘」把吉凶歸於人的行為及自然結果而非神聖決定。",
+      "co_domains": [
+        "V",
+        "XI"
+      ]
+    },
+    {
       "slug": "weiliaozi",
       "chapter": "兵談",
       "para_index": 3,
@@ -20144,6 +20232,200 @@
       "excerpt": "昔者〈此昔者往日之辭也〉魯周公使康叔往守於殷〈康叔周公母弟也衛三監之地殷人數叛故",
       "note": "正文敘周公遣康叔守殷並戒以「與殺不辜，寧失有罪」的情節，直接規定掌權者慎刑與寬仁；逢行珪注「怒而加誅未必當罪，喜而行賞未必當功」再指出情緒任刑會破壞公義。",
       "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhongjing",
+      "chapter": "天地神明章第一",
+      "para_index": 1,
+      "para_id": "zhongjing#01-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "昔在至理，上下一德，以徵天休，忠之道也。〈忠之為道，乃合於天。至理之時，君臣同德",
+      "note": "正文以「至公無私」「一其心」立忠的品格標準（VII），又說忠能「固君臣、安社稷」（V）並「感天地、動神明」、以天、地、人之無私相互比照（XII）；三格分別承載德性、公共關係與超越主張，缺一即少一層",
+      "co_domains": [
+        "V",
+        "XII"
+      ]
+    },
+    {
+      "slug": "zhongjing",
+      "chapter": "冢臣章第三",
+      "para_index": 1,
+      "para_id": "zhongjing#03-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "為臣事君，忠之本也，本立而化成。冢臣於君，可謂一體，下行而上信，故能成其忠。夫忠",
+      "note": "「正己安人」與「任賢以為理」把臣忠寫成端正自身的品格及安人用賢的領導責任；「臨難死節」只是忠的表現，不是在談死亡處境",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhongjing",
+      "chapter": "守宰章第五",
+      "para_index": 1,
+      "para_id": "zhongjing#05-p01",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "在官惟明，蒞事惟平，立身惟清。清則無欲，平則不曲，明能正俗，三者備矣，然後可以理",
+      "note": "「明、平、清」立官員品格（VII），「人莫不欲安」「莫不欲富」直述普遍欲求（VI），視民如子並據此施政則屬領導責任（V）；三格各少一便會漏掉品格、內在動機或公共治理的一層",
+      "co_domains": [
+        "VI",
+        "V"
+      ]
+    },
+    {
+      "slug": "zhongjing",
+      "chapter": "政理章第七",
+      "para_index": 1,
+      "para_id": "zhongjing#07-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫化之以德，理之上也，則人日遷善而不知；施之以政，理之中也，則人不得不為善；懲之",
+      "note": "德、政、刑分別使人「遷善而不知」「不得不為善」「畏而不敢為非」（XI），又以德與善惡立品格尺度（VII）並比較治理層次（V）；三格分別承載改變機制、德性內容與公共治理",
+      "co_domains": [
+        "XI",
+        "V"
+      ]
+    },
+    {
+      "slug": "zhongjing",
+      "chapter": "武備章第八",
+      "para_index": 1,
+      "para_id": "zhongjing#08-p01",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "王者立武，以威四方，安萬人也。淳德布洽，戎夷秉命。統軍之帥，仁以懷之，義以厲之，",
+      "note": "統帥以仁、義、禮、信立德，以賞、刑馭眾，並主張如此可使將帥盡心竭力，兼論領導者品格與群體治理機制",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhongjing",
+      "chapter": "保孝行章第十",
+      "para_index": 1,
+      "para_id": "zhongjing#10-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫惟孝者，必貴本於忠。忠苟不行，所率猶非其道。是以忠不及之，而失其守，匪惟危身，",
+      "note": "本章以忠為孝之本，明言不忠會「辱及親」，並要求盡愛敬之心以養親，實質討論親子奉養與忠孝品格；「危身」不構成 IX",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "zhongjing",
+      "chapter": "廣為國章第十一",
+      "para_index": 1,
+      "para_id": "zhongjing#11-p01",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "明主之為國也，任於正，去於邪。邪則不忠，忠則必正，有正然後用其能。是故師保道德，",
+      "note": "明主須任正去邪、任用道德賢良之臣，並主張由此使上下相保而邦國平康，兼具領導用人的責任與正邪忠佞的品格判準",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhongjing",
+      "chapter": "廣至理章第十二",
+      "para_index": 1,
+      "para_id": "zhongjing#12-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古者聖人以天下之耳目為視聰，天下之心為心，端旒而自化，居成而不有，斯可謂至理也已",
+      "note": "上位者賤珍、徹侈、用實、崇讓會使人去貪從儉、不偽不爭，分別說明品性可被示範改變（XI）、改變所指的德性內容（VII）及領導影響群體的方式（V）；「無為」是治術而非 XII",
+      "co_domains": [
+        "XI",
+        "V"
+      ]
+    },
+    {
+      "slug": "zhongjing",
+      "chapter": "揚聖章第十三",
+      "para_index": 1,
+      "para_id": "zhongjing#13-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "君德聖明，忠臣以榮，君德不足，忠臣以辱。不足則補之，聖明則揚之，古之道也。是以虞",
+      "note": "君德不足則補、聖明則揚，規定忠臣面對君主德行時應承擔的輔弼責任與忠直品格；皋陶、周公、吉甫只是例證，沒有情節，亦非受辱後的自處",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhongjing",
+      "chapter": "辨忠章十四",
+      "para_index": 1,
+      "para_id": "zhongjing#14-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "大哉！忠之為用一作「道」也。施之於邇，則可以保家邦，施之於遠，則可以極天地。故明",
+      "note": "「忠而不佞」與「佞而似忠」分辨真偽品格及名實落差（VII、II），仁智勇失忠便化為私恩、文詐與亂又關乎國政判斷（V）；三格各自對應德性、表象身分與公共後果",
+      "co_domains": [
+        "II",
+        "V"
+      ]
+    },
+    {
+      "slug": "zhongjing",
+      "chapter": "忠諫章第十五",
+      "para_index": 1,
+      "para_id": "zhongjing#15-p01",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "忠臣之事君也，莫先於諫，下能言之，上能聽之，則王道光矣。諫於未形者，上也；諫於已",
+      "note": "本章把進諫按未形、已彰、既行分為上、次、下三等，並以「違而不諫，則非忠臣」規定臣下的公共責任與忠直品格；死節是規範終點而非死亡主題",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhongjing",
+      "chapter": "證應章第十六",
+      "para_index": 1,
+      "para_id": "zhongjing#16-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "惟天鑒人，善惡必應。善莫大於作忠，惡莫大於不忠。忠則福祿至焉，不忠則刑罰加焉。君",
+      "note": "正文斷言「惟天鑒人，善惡必應」，忠與不忠必由天降福祿或刑罰，既是實質超越主張，也以善惡忠佞區分人的品格",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "zhongjing",
+      "chapter": "盡忠章第十八",
+      "para_index": 1,
+      "para_id": "zhongjing#18-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天下盡忠，淳化而行也。君子盡忠，則盡其心，小人盡忠，則盡其力。盡力者，則止其身，",
+      "note": "君子盡心、小人盡力區分兩種盡忠層次（VII），也區分心力投入的工作貢獻（VIII），而任賢使君德與政教擴展則是領導治理主張（V）；三格各少一便會漏掉人物分型、投入方式或公共結果",
+      "co_domains": [
+        "VIII",
         "V"
       ]
     }
