@@ -1,0 +1,101 @@
+{
+  "batch": "b05",
+  "rows": [
+    {
+      "chapter": "和熹鄧后謚議",
+      "para_index": 1,
+      "domains": ["V", "VII", "XIII"],
+      "modes": ["observation", "proposition", "prescription"],
+      "confidence": 0.91,
+      "reason": "以「刑之所加，不阿近戚；賞之所及，不遺側陋」及「徒以百姓為憂」具體說明公平、克己的治國品格，並以「德著圖籍，名垂于後」說明謚名保存功德的作用，最後主張謚為和熹。"
+    },
+    {
+      "chapter": "為陳留太守上孝子狀",
+      "para_index": 1,
+      "domains": ["IV", "VII", "XI"],
+      "modes": ["narrative", "proposition", "prescription"],
+      "confidence": 0.98,
+      "reason": "程未守叔喪時「號泣悲哀」、拒絕肥膩並求歸喪所，呈現親族責任與孝行；「至行發于自然，非耳目聞見所倣效」又明斷此行出於天性而非仿學，奏狀並請朝廷使其美行昭顯。"
+    },
+    {
+      "chapter": "薦皇甫規表",
+      "para_index": 1,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["narrative", "proposition", "prescription"],
+      "confidence": 0.94,
+      "reason": "先斷言「忠臣賢士，國家之元龜，社稷之楨固」，再以皇甫規辭召不污、平亂後「綏撫煢弱」及治邊養士的實績證明其德才，據此提出「誠宜試用」的任用主張。"
+    },
+    {
+      "chapter": "薦邊文禮書",
+      "para_index": 1,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["observation", "proposition", "prescription"],
+      "confidence": 0.96,
+      "reason": "邊讓被寫成能「見本知義」、通經善辯且「節之以禮度，非禮勿動，非法不言」的人；文中以大器不可小用及才不應受年齒拘限為理，請將其薦入王府任事。"
+    },
+    {
+      "chapter": "京兆樊惠渠頌",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["observation", "proposition"],
+      "confidence": 0.88,
+      "reason": "本段不只記地勢，還提出明哲者應「因高卑之宜，驅自行之勢，以盡水利而富國饒人」，把公共工程的能力與改善民生、承擔地方治理相連。"
+    },
+    {
+      "chapter": "京兆樊惠渠頌",
+      "para_index": 2,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["narrative", "expression"],
+      "confidence": 0.94,
+      "reason": "樊陵因「勤恤人隱」而諮吏籌資、主持築渠，使鹵田成甘壤、農民富盈，具體連起愛民品格、公共領導與工程成就；末歌以「我壤既營，我疆斯成」抒發農民的喜悅與感謝。"
+    },
+    {
+      "chapter": "郡掾吏張玄祠堂碑銘",
+      "para_index": 1,
+      "domains": ["IV", "VII", "XII"],
+      "modes": ["observation", "proposition", "ritual"],
+      "confidence": 0.91,
+      "reason": "張玄「損用節財以贍疏族」、不求榮祿，將節制仁恕落到親族行動；碑文又把孫輩仕祿追溯為「先考積善之餘慶，陰德之陽報」，以跨代福報解釋善行，並由此立祠奉祀。"
+    },
+    {
+      "chapter": "袁滿來碑銘",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "confidence": 0.99,
+      "reason": "「逸才淑姿」「孝智所生」等是童子碑對才德的連串品題，後接十五歲卒與「嗚呼悲夫」的卒年、哀辭；各項未展開成行為判準或人生主張。"
+    },
+    {
+      "chapter": "童幼胡根碑銘",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "confidence": 0.99,
+      "reason": "本段由七歲夭逝、就葬祖墓與親屬立碑構成，銘中的「柔和順美，與人靡爭」及「慈母悼痛」仍是幼童品題與追悼語，沒有另行提出關係、情緒或命運的判斷。"
+    },
+    {
+      "chapter": "司徒袁公夫人馬氏碑銘",
+      "para_index": 1,
+      "domains": ["IV", "VII", "X"],
+      "modes": ["observation", "expression"],
+      "confidence": 0.93,
+      "reason": "夫人以「營克家道」及教化使童子無驕逸、婦妾無怠惰，具體呈現治家、教養與品格；結尾「几筵虛設……不見其人」「往而不返」則由子女聲口寫出母亡後無所依親的失落。"
+    },
+    {
+      "chapter": "濟北相崔君夫人誄",
+      "para_index": 1,
+      "domains": ["IV", "VII", "X"],
+      "modes": ["observation", "narrative", "ritual"],
+      "confidence": 0.94,
+      "reason": "「食不兼膳……以儉為榮，以奢為辱」及教子時「怒不傷愛，喜不亂莊」把母職與節制寫成可辨的行為標準；其後孝子氣絕復蘇、卜葬奠禮與「定省何望」又實寫喪母之痛和不可復見。"
+    },
+    {
+      "chapter": "明堂月令論",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "ritual"],
+      "confidence": 0.97,
+      "reason": "全文以「異名而同事，其實一也」考合明堂、太廟、太學等名制，再列九室、十二宮、戶牖尺寸與四時祀令；引孝悌、尚德諸語也是證成制度來源與配置的材料，未另論人的生活。"
+    }
+  ]
+}
