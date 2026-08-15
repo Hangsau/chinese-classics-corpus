@@ -1,0 +1,48 @@
+{
+  "slug": "sushu",
+  "batches": [
+    {
+      "file": "b01.md",
+      "chapters": [
+        {
+          "chapter": "原始章第一",
+          "para_indexes": [
+            1
+          ]
+        },
+        {
+          "chapter": "正道章第二",
+          "para_indexes": [
+            1
+          ]
+        },
+        {
+          "chapter": "求人之志章第三",
+          "para_indexes": [
+            1
+          ]
+        },
+        {
+          "chapter": "本德宗道章第四",
+          "para_indexes": [
+            1
+          ]
+        },
+        {
+          "chapter": "遵義章第五",
+          "para_indexes": [
+            1
+          ]
+        },
+        {
+          "chapter": "安禮章第六",
+          "para_indexes": [
+            1
+          ]
+        }
+      ],
+      "paras": 6,
+      "chars": 1590
+    }
+  ]
+}

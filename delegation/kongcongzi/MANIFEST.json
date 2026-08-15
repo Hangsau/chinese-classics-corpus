@@ -1,0 +1,294 @@
+{
+  "slug": "kongcongzi",
+  "batches": [
+    {
+      "file": "b01.md",
+      "chapters": [
+        {
+          "chapter": "01",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "chapter": "02",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "chapter": "03",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "chapter": "04",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ],
+      "paras": 42,
+      "chars": 7258
+    },
+    {
+      "file": "b02.md",
+      "chapters": [
+        {
+          "chapter": "05",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "chapter": "06",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "chapter": "07",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "chapter": "08",
+          "para_indexes": [
+            1
+          ]
+        },
+        {
+          "chapter": "09",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ],
+      "paras": 36,
+      "chars": 5996
+    },
+    {
+      "file": "b03.md",
+      "chapters": [
+        {
+          "chapter": "10",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "chapter": "11",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "chapter": "12",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "chapter": "13",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ],
+      "paras": 37,
+      "chars": 7556
+    },
+    {
+      "file": "b04.md",
+      "chapters": [
+        {
+          "chapter": "14",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "chapter": "15",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "chapter": "16",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ],
+      "paras": 30,
+      "chars": 6973
+    },
+    {
+      "file": "b05.md",
+      "chapters": [
+        {
+          "chapter": "17",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "chapter": "18",
+          "para_indexes": [
+            1
+          ]
+        },
+        {
+          "chapter": "19",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ],
+      "paras": 14,
+      "chars": 4062
+    }
+  ]
+}
