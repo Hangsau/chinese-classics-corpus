@@ -1,0 +1,82 @@
+{
+  "batch": "b07.md",
+  "rows": [
+    {
+      "chapter": "沛",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「沛者，草木之蔽茂，禽獸之所蔽匿也」是在訓解沛澤的地貌與草木特徵，通段只是地理名義考證，沒有對人下判斷"
+    },
+    {
+      "chapter": "沛",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「湖者，都也」以下解釋水流匯聚、川澤灌溉及縣名所在，是湖泊名義與水利地理考證，沒有提出關於人的主張"
+    },
+    {
+      "chapter": "陂",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「陂者，繁也，言因下鐘水以繁利萬物也」是在訓解陂的名稱、蓄水灌溉功能與地名，屬地理水利考證"
+    },
+    {
+      "chapter": "渠",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「渠者，水所居也」及鄭國渠、白渠的穿鑿、灌田、漕運效益是在考述水利設施；「官民俱賴其饒焉」仍是水利史效用，不是對人品性或生活方式的斷語"
+    },
+    {
+      "chapter": "溝",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「廣四尺，深四尺」規定溝的尺度，並考證鴻溝的位置與名稱，屬地理制度的形式化說明，沒有關於人的主張"
+    },
+    {
+      "chapter": "洫",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「十裡為成，成間廣八尺，深八尺」是在列洫的里距、寬深規格並引《論語》佐證，屬水利名物考證"
+    },
+    {
+      "chapter": "風俗通義序",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["observation", "proposition"],
+      "reason": "段落把戰國以來各家「好惡殊心，真僞紛争」與典籍分流、百家殽亂連在一起，結論「莫知所從」指出群體傳承失序使人失去共同判準"
+    },
+    {
+      "chapter": "風俗通義序",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["observation", "proposition"],
+      "reason": "「俗間行語，衆所共傳，積非習貫，莫能原察」批評群體因習慣而傳錯且缺少查察，又以「王室大壞」「私懼後進，益以迷昧」說明著書匡正流俗、扶助後學的公共責任"
+    },
+    {
+      "chapter": "風俗通義序",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「或直或邪，或善或淫」判定風俗具有品格方向，「聖人作而均齊之，咸歸於正」並主張「爲政之要，辯風正俗，最其上也」，同時涉及德性教化與治理群體的責任"
+    },
+    {
+      "chapter": "風俗通義序",
+      "para_index": 4,
+      "domains": ["II", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "段落敘述嚴君平、林閭翁孺與揚雄整理方言的著述歷程和二十七年之功，又以「予實頑闇，無能述演，豈敢比隆」自我定位，最後因「述作之功」表明接續此工作的志向"
+    },
+    {
+      "chapter": "風俗通義序",
+      "para_index": 5,
+      "domains": ["VII", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "畫犬馬與鬼魅的故事以「不類不可」說明可核驗之事反而難作，繼而把俗語研究比作犬馬，並以「幸苟有過，人必知之」「俾諸明哲，幸詳覽焉」表達著述求實及接受檢正的態度"
+    }
+  ]
+}
