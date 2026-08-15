@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-08-15T07:04:08+00:00",
+    "generated_at": "2026-08-15T08:03:14+00:00",
     "text_count": 72,
     "total_bytes": 11304281,
     "by_category": {
@@ -28,40 +28,40 @@
       "reference": 4,
       "contested": 2
     },
-    "surveyed_count": 35,
-    "annotated_count": 35,
+    "surveyed_count": 36,
+    "annotated_count": 36,
     "scaffolded_count": 0,
-    "paras_judged": 15102,
+    "paras_judged": 15320,
     "paras_pending": 0,
     "domain_hit_counts": {
-      "I": 9,
-      "II": 24,
+      "I": 10,
+      "II": 25,
       "III": 12,
-      "IV": 22,
+      "IV": 23,
       "IX": 17,
-      "V": 31,
-      "VI": 20,
-      "VII": 28,
-      "VIII": 30,
-      "X": 15,
-      "XI": 22,
-      "XII": 16,
-      "XIII": 13
+      "V": 32,
+      "VI": 21,
+      "VII": 29,
+      "VIII": 31,
+      "X": 16,
+      "XI": 23,
+      "XII": 17,
+      "XIII": 14
     },
     "domain_para_counts": {
-      "I": 28,
-      "II": 479,
+      "I": 32,
+      "II": 500,
       "III": 97,
-      "IV": 429,
-      "V": 2122,
-      "VI": 486,
-      "VII": 1422,
-      "VIII": 685,
+      "IV": 439,
+      "V": 2274,
+      "VI": 493,
+      "VII": 1504,
+      "VIII": 731,
       "IX": 109,
-      "X": 204,
-      "XI": 299,
-      "XII": 126,
-      "XIII": 96
+      "X": 208,
+      "XI": 313,
+      "XII": 128,
+      "XIII": 98
     }
   },
   "texts": [
@@ -1701,12 +1701,27 @@
       "size_bytes": 177508,
       "chapter_count": 10,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "domains_null": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [
+        "I",
+        "II",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "X",
+        "XI",
+        "XII",
+        "XIII"
+      ],
+      "domains_null": [
+        "III",
+        "IX"
+      ],
+      "paras_total": 218,
+      "paras_judged": 218,
+      "annotated": true
     },
     {
       "slug": "yandanzi",

@@ -1,0 +1,208 @@
+{
+  "batch": "b09.md",
+  "rows": [
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "以「請置以為田官」至「請署以為大司馬」逐項列出五人的職掌，末尾交代管仲之功；主載是官職配置與霸業結果，刪掉少的是制度及史事資料。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「王者勞於求人，佚於得賢」把治國成效繫於尋得並任用賢者，既談領導者的公共責任，也談人才如何被置於能發揮之位。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative"],
+      "reason": "文侯說「仁人也者，國之寶也；智士也者，國之器也；博通士也者，國之尊也」，主張領導者應尊重不同類型的人才，並說明其對群體安定與國勢的作用。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 4,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative"],
+      "reason": "李克由季成、翟黃所薦者的賢否判斷相才，評語又明說「知人則哲，進賢受上賞」，在談公共任用應如何辨識與獎勵薦才之能。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 5,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative"],
+      "reason": "「以私愛妨公舉，在職者不堪其事，故功廢」直接批評以私情妨害公共選任，也把職位成敗繫於任用者是否真正勝任。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 6,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "observation"],
+      "reason": "叔向以製衣、師曠以調羹分說「其臣之力」與「亦君之力」，評量君臣各自的能力與不可替代的作用，呈現領導與協作如何共同成事。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 7,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "管仲主張「要盟可負，而君不負；曹劌可讎，而君不讎，著信天下矣」，以不背盟、不報私讎的品格建立公共信用與諸侯歸附。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 8,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "文公寧可退兵也不肯「得原失信」，而原、溫因其守信請降；整則把個人的信義寫成取得群體信任與領導正當性的根本。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 9,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "襄子拒絕趁城壞進攻，奉行「君子不乘人於利，不迫人於險」，因公平節制而使中牟歸降；「天助」只是軍吏的說法，不是本段主題。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 10,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "莊王克鄭後退軍，並說「君子重禮而賤利也，要其人不要其土」，以克制逐利、尊重敗者來界定統治者應有的德性與用權方式。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 11,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "莊王不肯「強者我避之，弱者我威之」，勝後又因「百姓何罪」放開晉軍；評語「不侮鰥寡，不畏強禦」把勇與仁落在公平用權上。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 12,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "君臣都說晉伐楚是自己的過錯，敵人因此判斷其「上下一心，三軍同力」而退；整則肯定領導者謙下、共同擔責及群體同心。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 13,
+      "domains": ["VII", "VIII"],
+      "modes": ["narrative"],
+      "reason": "趙衰不自居勝鄴之功，以「賞其本」追到郤虎，郤虎又說「言之易，行之難」；本段同時評價不冒領功勞的品格與成就應如何歸功。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 14,
+      "domains": ["VII", "XIII"],
+      "modes": ["narrative"],
+      "reason": "宋就不許報復搔瓜，反教梁人暗中灌楚瓜，以「報怨以德」回應傷害，終使「梁楚之歡，由宋就始」；既談品格，也談如何把仇怨修復成和平關係。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 15,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "由白璧厚薄的譬喻推出「獄疑則從去，賞疑則從與」，並規定施政教者「宜厚之」，是在主張司法與治理遇疑時應採寬厚、公平的做法。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 16,
+      "domains": ["VII"],
+      "modes": ["narrative"],
+      "reason": "惠王想到若追究蛭事，「庖宰食監法皆當死，心又不忍」，遂自行吞下，主載是為免無辜者受誅而自承其害的仁德；腹疾與「天之所奉」只是後果及褒揚框架，不另標 IX、XII。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 17,
+      "domains": ["V", "XI"],
+      "modes": ["narrative"],
+      "reason": "子產把鄉校議政者視為老師，說「其所善者，吾將行之；其所惡者，吾將改之」，主張公共權力不壓制批評，而要藉回饋修正自身與治理。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 18,
+      "domains": ["VII"],
+      "modes": ["narrative"],
+      "reason": "鮑叔祝桓公、管仲、甯戚「無忘」各自困厄的往事，末句明說「常思困隘之時，必不驕矣」，是在教人以記憶困境養成不驕的品格。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 19,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "麥丘老人祝君「金玉是賤，人為寶」、「無羞學，無下問」，更指出君也會得罪臣民；三祝的主載是重人、好學、納諫與對百姓負責的為君品格，壽祝只是敘事起點。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 20,
+      "domains": ["V", "VI"],
+      "modes": ["narrative", "prescription"],
+      "reason": "孔子逐項教哀公由「其器存，其人亡」思哀、由政事不應思憂、由亡國之墟思懼，再以「水則載舟，水則覆舟」思危；主旨是讓在上者生出哀、憂、勞、懼、危等內在感受並警覺其公共責任。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 21,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "郭氏雖「善善而惡惡」，卻「不能行」、「不能去」而亡；管仲以「君亦一郭氏也」把知善惡而不實行的品格缺口直接轉成對統治者的警告。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 22,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative"],
+      "reason": "虢亡於君主「不能斷又不能用人」，趙衰又責備「聽其言而棄其身」；本段主張領導不只要聽見好意見，也要辨識並實際任用能提出意見的人。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 23,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "observation"],
+      "reason": "叔向以趙武「舉士于白屋下者四十六人」且眾人死後皆就賓位，評其薦才無私；「公家甚賴之」又說明公正發掘人才對公共治理的成效。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 24,
+      "domains": ["VII", "VIII"],
+      "modes": ["narrative", "observation"],
+      "reason": "對趙文子的品題是「好學而受規諫」，並分別評為「智也」、「仁也」，又以江河因下流多而廣譬喻持續學習、受諫如何成就一個人。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 25,
+      "domains": ["VI", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "擊磬者因母為隸、無財可贖而悲，鐘子期判明「悲在心也，非在手也，非木非石也」；繼而以「至誠動於內」說內在真情能感通他人，兼談情緒本源與真誠品格。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 26,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "熊渠子誠心射石的故事被推到「唱而不和，動而不隨，中必有不全者」與「其身正，不令而行」，主張領導感召須先求諸己，使內在誠德形於外。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 27,
+      "domains": ["XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "晏子說無穢德則「又何禳焉」，有穢德則「禳之何益」，否定禳彗能改禍福，把可改變的因果推回君主是否違德；祝禳是被否定的事件，不標 XII 或 ritual。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 28,
+      "domains": ["V", "X", "XII"],
+      "modes": ["narrative"],
+      "reason": "「宰相，使治國也」、「民死，將誰君乎」是在談君主不把災禍轉嫁臣民的責任；「寧獨死耳」、「延壽二十一歲」把死亡與壽命本身列為題目；「星果三徙舍」又由文本認證天象徵應，三個領域缺一都會漏掉本段的明說內容。"
+    },
+    {
+      "chapter": "雜事/卷亖",
+      "para_index": 29,
+      "domains": ["V", "XII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "劉向以「檻範傳」推論雀生鸇是黑祥，並以康王最終亡國證成「明禍且害國」的徵應；同時把徵兆所指落在君主「急暴擊伐貪叨」、「距諫」而害國的用權方式。"
+    }
+  ]
+}

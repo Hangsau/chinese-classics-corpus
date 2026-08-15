@@ -2,9 +2,9 @@
   "domain": "XIII",
   "name_zh": "安頓·修復·平安",
   "gist": "靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈",
-  "generated_at": "2026-08-15T07:04:08+00:00",
-  "para_count": 96,
-  "book_count": 13,
+  "generated_at": "2026-08-15T08:03:14+00:00",
+  "para_count": 98,
+  "book_count": 14,
   "surveyed_zero_hit": [
     "fangyan",
     "gongsun-longzi",
@@ -1175,6 +1175,34 @@
       "note": "殷仲文凝視老槐嘆其「無復生意」，實借槐樹替自己在敗局失勢後的怏然處境發聲",
       "co_domains": [
         "VI"
+      ]
+    },
+    {
+      "slug": "xinxu",
+      "chapter": "雜事/卷五",
+      "para_index": 28,
+      "para_id": "xinxu#09-p28",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "宋玉事楚襄王而不見察，意氣不得形於顏色；或謂曰：“先生何談說之不揚，計畫之疑也。",
+      "note": "宋玉以玄蝯在桂林能自在騰躍、落入枳棘便恐懼難行，歸結「處勢不便，豈何以量功校能哉」，說明才能表現受處境限制，也為身處不利者提供理解自身處境的方式。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "xinxu",
+      "chapter": "雜事/卷亖",
+      "para_index": 14,
+      "para_id": "xinxu#10-p14",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "梁大夫有宋就者，嘗為邊縣令，與楚鄰界。梁之邊亭，與楚之邊亭，皆種瓜，各有數。梁之",
+      "note": "宋就不許報復搔瓜，反教梁人暗中灌楚瓜，以「報怨以德」回應傷害，終使「梁楚之歡，由宋就始」；既談品格，也談如何把仇怨修復成和平關係。",
+      "co_domains": [
+        "VII"
       ]
     },
     {
