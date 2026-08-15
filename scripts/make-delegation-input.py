@@ -23,6 +23,8 @@ def main() -> int:
     ap.add_argument("--slug", required=True)
     ap.add_argument("--max-chars", type=int, default=8000,
                     help="每批的字數軟上限；單章超過就自己一批")
+    ap.add_argument("--exclude-dup-of", metavar="SLUG",
+                    help="逐字相同的段落不發包（該書已獨立收錄，標註由 SLUG 沿用）")
     args = ap.parse_args()
 
     raw = ROOT / "translations" / args.slug / "raw" / "original.txt"
@@ -31,6 +33,16 @@ def main() -> int:
         return 1
 
     rows = split_paragraphs(raw.read_text(encoding="utf-8"))
+
+    if args.exclude_dup_of:
+        other = ROOT / "translations" / args.exclude_dup_of / "raw" / "original.txt"
+        if not other.exists():
+            print(f"[error] {other} 不存在")
+            return 1
+        dup = {t.strip() for *_, t in split_paragraphs(other.read_text(encoding="utf-8"))}
+        before = len(rows)
+        rows = [r for r in rows if r[3].strip() not in dup]
+        print(f"扣除與 {args.exclude_dup_of} 逐字相同的 {before - len(rows)} 段")
 
     chapters: list[tuple[str, list[tuple[int, str]]]] = []
     for _, label, para_index, text in rows:
