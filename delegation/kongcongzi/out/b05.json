@@ -1,0 +1,103 @@
+{
+  "batch": "b05.md",
+  "rows": [
+    {
+      "chapter": "17",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "「武者可以進取，文者可以守成」「子修武以助之取，吾修文以助之守」，以文武分工說明各自所學如何成為濟世的職分"
+    },
+    {
+      "chapter": "17",
+      "para_index": 2,
+      "domains": ["II", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「子之材能見時變，今為不用之學，殆非子情也」，以才能、時勢與實際仕途選擇檢驗叔孫通所稱志向是否出於真情"
+    },
+    {
+      "chapter": "17",
+      "para_index": 3,
+      "domains": ["I"],
+      "modes": ["proposition"],
+      "reason": "「世治則助之行道，世亂則獨治其身，治之至也」，直接說明讀先王之書在治世與亂世各有何人生用意"
+    },
+    {
+      "chapter": "17",
+      "para_index": 4,
+      "domains": ["XIII"],
+      "modes": ["proposition"],
+      "reason": "「吾將先藏之以待其求，求至無患矣」，面對焚書與受禍的威脅，主張預先安排以求在危局中自處無患"
+    },
+    {
+      "chapter": "17",
+      "para_index": 5,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "observation"],
+      "reason": "「其人通材足以幹天下，博知足以慮未形，必宗此人，天下無敵矣」，以人物識鑑論子魚能否勝任輔政，並推進到陳王遣使聘用的結果"
+    },
+    {
+      "chapter": "17",
+      "para_index": 6,
+      "domains": ["IV", "V"],
+      "modes": ["narrative", "ritual"],
+      "reason": "「夫婚親之義，非宗賢之類也，雖自己臣，莫敢不敬」，藉陳王失禮的事蹟說明君臣權位不能取消對婚親長輩的家庭敬禮"
+    },
+    {
+      "chapter": "17",
+      "para_index": 7,
+      "domains": ["IV"],
+      "modes": ["ritual", "formalization"],
+      "reason": "「雖百世婚姻不通，重先君之同體也」，服制與祭哭程序之外仍主張同姓宗族因共同先祖而維持親屬界線"
+    },
+    {
+      "chapter": "18",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["ritual", "formalization"],
+      "reason": "通篇詳列「擇吉日齋戒」「命授之節鉞」等行軍儀節，但末句斷言「有其人行其禮則可，無其人行其禮則民弗與也」，把禮能否施行落在領導者與人民是否相與"
+    },
+    {
+      "chapter": "19",
+      "para_index": 1,
+      "domains": ["II"],
+      "modes": ["proposition"],
+      "reason": "「必言經以自輔，援聖以自賢，欲以取信於群愚而度其說也」，揭出借經典與聖名自抬身分、使言說之名超過其實的做法"
+    },
+    {
+      "chapter": "19",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["prescription", "formalization"],
+      "reason": "「封夏殷之後以為二代，紹虞帝嗣備為三恪」並接著解釋各用正朔，只是封建前代後裔與三統名目的制度方案，替換名號後不剩關於人的斷言"
+    },
+    {
+      "chapter": "19",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「以無諱示後世，善以為式，惡以為戒」，主張如實記錄掌權者的公私言行，能使後人取善戒惡並接受教化"
+    },
+    {
+      "chapter": "19",
+      "para_index": 4,
+      "domains": ["V", "XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「其禍福吉凶大者，在天小者由人」之後即勸王「不修人利」將悔之無及，落點是領導者以設備和人為努力改變戰局，不以天命自恃，故不標 XII"
+    },
+    {
+      "chapter": "19",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「夫以無敵之伎力而劣於女子之手者，何也？輕之無備故也」，陽由事蹟用來論證領導者輕敵無備必敗，重點不在身體或夫妻親密"
+    },
+    {
+      "chapter": "19",
+      "para_index": 6,
+      "domains": ["II", "VIII"],
+      "modes": ["observation", "prescription"],
+      "reason": "「處濁世而清其身，學儒術而知權變，是今師也」，以能守住自身又能因時權變來品評叔孫通，並勸弟子把他選作所事之師"
+    }
+  ]
+}

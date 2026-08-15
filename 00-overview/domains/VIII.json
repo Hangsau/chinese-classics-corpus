@@ -2,9 +2,9 @@
   "domain": "VIII",
   "name_zh": "工作·成就·召喚",
   "gist": "工作與金錢、成就與意義、天賦與使命",
-  "generated_at": "2026-08-15T08:03:14+00:00",
-  "para_count": 731,
-  "book_count": 31,
+  "generated_at": "2026-08-15T09:28:34+00:00",
+  "para_count": 762,
+  "book_count": 32,
   "surveyed_zero_hit": [
     "gu-sanfen",
     "haidao-suanjing",
@@ -2849,6 +2849,455 @@
       "excerpt": "上療自縊溺暍之法并出自張仲景為之，其意殊絕，殆非常情所及，本草所能關，實救人之大",
       "note": "明言自縊溺暍救法意旨超常且為救人大術，評斷醫療技藝的職業價值，並接列筋骨損方的定量組成",
       "co_domains": []
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "01",
+      "para_index": 1,
+      "para_id": "kongcongzi#01-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "夫子適周，見萇弘，言終退。萇弘語劉文公曰：「吾觀孔仲尼，有聖人之表，河目而隆顙，",
+      "note": "「孔丘布衣，聖將安施」追問身分與施展之處，「亦正其統紀而已矣」則把孔子的自我定位落在整飭禮樂的志業上",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "02",
+      "para_index": 9,
+      "para_id": "kongcongzi#02-p09",
+      "modes": [
+        "ritual",
+        "formalization"
+      ],
+      "excerpt": "《書》曰：「茲予大享于先王，爾祖其從與享之。」季桓子問曰：「此何謂也？」孔子曰：",
+      "note": "「所以殊有績勸忠勤也」說明表彰功臣能勸人忠勤；「勞能定國，功加於民」又以任職成就與公共貢獻決定死後受祀資格",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "02",
+      "para_index": 11,
+      "para_id": "kongcongzi#02-p11",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "定公問曰：「《周書》所謂『庸庸祗祗，威威顯民』何謂也？」孔子對曰：「不失其道，明",
+      "note": "「大能用可用，則正治矣；敬可敬，則尚賢矣」，把識才任能、尊賢與慎刑列為君主使國家興治的領導原則",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "03",
+      "para_index": 4,
+      "para_id": "kongcongzi#03-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "衛出公使人問孔子曰：“寡人之任臣，無大小，一一自觀察之，猶複失人，何故？”答曰：",
+      "note": "「多慮則意不精。以不精之意，察難知之人，宜其有失也」，指出君主事事親察反會失人，並以「君苟付可付」主張把選才任官交給可信任者",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "03",
+      "para_index": 5,
+      "para_id": "kongcongzi#03-p05",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "子貢問曰：“昔孫文子以衛侯哭之不哀，知其將為亂，不敢舍其重器而行，盡寘諸戚而善晉",
+      "note": "「食其祿者，必死其事」界定受祿者的職分，而「屍利攜貳，非人臣也」則從忠誠品格否定只盤算退路的臣子",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "03",
+      "para_index": 6,
+      "para_id": "kongcongzi#03-p06",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "孔子使宰予使於楚，楚昭王以安車象飾，因宰予以遺孔子焉。宰予曰：“夫子無以此為也。",
+      "note": "「貴義尚德，清素好儉」刻畫品格，「其志欲興而行之」指出欲行道的志業，而「夫言貴實……是賜之華，不若予之實也」另辨真實行事與華美稱譽；少任一項都會漏掉這三層中的一層",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "05",
+      "para_index": 2,
+      "para_id": "kongcongzi#05-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子思問於夫子曰：“為人君者，莫不知任賢之逸也，而不能用賢，何故？”子曰：“非不欲",
+      "note": "「所以官人任能者，由於不明也」直指領導者不能識才用才，且「以譽為賞，以毀為罰，賢者不居焉」說明用人環境會排斥賢者",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "05",
+      "para_index": 7,
+      "para_id": "kongcongzi#05-p07",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "楚王使使奉金幣聘夫子。宰子、冉有曰：“夫子之道至是行矣。”遂請見，問夫子曰：“太",
+      "note": "先以「許由，獨善其身者也，太公兼利天下者也」比較兩種人生取向，歌中「賢人竄兮，將待時」又抒寫才志須待能識用者的處境",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "06",
+      "para_index": 1,
+      "para_id": "kongcongzi#06-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "子上請所於習於子思。子思曰：“先人有訓焉，學必由聖，所以致其材也。厲必由砥，所以",
+      "note": "「學必由聖，所以致其材也」把學習途徑連到才能發展，並規定夫子之教「必始於《詩》、《書》而終於《禮》、《樂》」",
+      "co_domains": []
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "06",
+      "para_index": 3,
+      "para_id": "kongcongzi#06-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孟子車，尚幼，請見子思。子思見之，甚悅其志，命子上侍坐焉。禮敬子車，甚崇，子上不",
+      "note": "子思因孟子車「言稱堯、舜，性樂仁義，世所稀有也」而破格敬待，並說「事之猶可，況加敬乎」，整則事蹟在講如何識別並尊重有志有才者",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "07",
+      "para_index": 1,
+      "para_id": "kongcongzi#07-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子思居衛，言苟變於衛君曰：「其材可將五百乘，君任軍旅，率得此人則無敵於天下矣。」",
+      "note": "「取其所長棄其所短」主張任才不可因小疵廢大用，並以「杞梓連抱，而有數尺之朽，良工不棄」「以二卵棄干城之將」指出領導者用人失當",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "07",
+      "para_index": 10,
+      "para_id": "kongcongzi#07-p10",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子思年十六適宋，宋大夫樂朔與之言學焉。朔曰：「《尚書》虞、夏數四篇善也，下此以訖",
+      "note": "「道為知者傳，苟非其人，道不傳矣」把傳道繫於學者是否堪受，子思脫困後又以「吾困於宋可無作乎」把受困轉成撰述《中庸》的工作與成就",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "09",
+      "para_index": 1,
+      "para_id": "kongcongzi#09-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "魯人有公儀僣者，數本皆作潛砥節礪行，樂道好古，恬於榮利，不事諸侯，子思與之友。穆",
+      "note": "「今徒以高官厚祿，釣餌君子，無信用之意」指出待遇不能取代真誠授權，子思也拒絕「操竿下釣，以蕩守節之士」，落在領導者招賢與士人出仕選擇",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "10",
+      "para_index": 9,
+      "para_id": "kongcongzi#10-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子思自齊反衛，衛君館而問曰：“衛敬公先生魯國之士，然不以衛之褊小，猶步玉趾而慰存",
+      "note": "「君取士果信名而不由實者也」指出君主以出身之名而非實際賢才選人，使有才者不能被任用",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "10",
+      "para_index": 15,
+      "para_id": "kongcongzi#10-p15",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "衛公子交見於子思、曰先生聖人之後、執清高之操、天下之君子、莫不服先生之大名也、交",
+      "note": "「今公子紹康叔之緒，處戰伐之世，當務收英雄保其疆土」主張身居公子之位者應依時勢承擔領導與用才的職分",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "10",
+      "para_index": 19,
+      "para_id": "kongcongzi#10-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子思見老萊子，老萊子聞穆公將相子思，老萊子曰：“若子事君，將何以為乎？”子思曰：",
+      "note": "「齒堅剛卒盡相磨，舌柔順終以不獘」以剛柔比喻臣者的性情與處世方式；子思以「吾不能為舌，故不能事君」界定自己不適合仕君",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "11",
+      "para_index": 6,
+      "para_id": "kongcongzi#11-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "李寅言曹良於平原君，欲仕之平原君，以問子高。子高曰：“不識也。”平原君曰：“良常",
+      "note": "議論曹良能否出仕時，以「身修計明而貧者志不存也，身不修會計闇而富者，非盜無所得之也」從志向與品行判斷其任職能力",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "12",
+      "para_index": 7,
+      "para_id": "kongcongzi#12-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子高任司馬乂為將於齊，與燕戰而敗。齊君曰：“以子賢明，故信子也。”答曰：“君知穿",
+      "note": "「以周公之聖，兄弟相知之審，而近失於管蔡，明人難知也」指出領導者識才本難，並以「人各有能」主張不應因一次戰敗棄置武勇之才",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "13",
+      "para_index": 2,
+      "para_id": "kongcongzi#13-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子高謂魏王曰：“臣入魏國，見君之二計臣焉，張叔謀有餘，范威智不逮，然其功一也。”",
+      "note": "「賢愚共貫，則能士匿謀，真偽相錯，則正士結舌」說明把能者與庸者置於同一權責會壓抑才能與正直意見",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "13",
+      "para_index": 3,
+      "para_id": "kongcongzi#13-p03",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "魏王問：“何如可謂大臣？”子高答曰：“大臣則必取眾人之選，能犯顏諫爭，公正無私者",
+      "note": "「計陳事成，主裁其賞；事敗，臣執其咎」規定大臣的工作責任，並以「君不猜於臣，臣不隱於君」主張君臣互信才能各有所得",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "13",
+      "para_index": 5,
+      "para_id": "kongcongzi#13-p05",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "子高見齊王，齊王問：“誰可臨淄宰？”稱管穆焉。王曰：“穆容貌陋，民不敬。”答曰：",
+      "note": "「夫見敬在德，且臣所稱，稱其材也」反駁以容貌選官，並用晏子、趙文子與屠商的品題說明任用應看德才而非軀形",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "14",
+      "para_index": 1,
+      "para_id": "kongcongzi#14-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魏王遣使者奉黃金束帛聘子順為相。子順謂使者曰：“若王信能用吾道，吾道固為治世也，",
+      "note": "「若王信能用吾道，吾道固為治世也，雖疏食飲水，吾猶為之」把出仕繫於能否實踐職志；「若徒欲制服吾身，委以重祿，吾猶一夫爾」又直指君臣權力與俸祿不能取代真正任用",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "14",
+      "para_index": 7,
+      "para_id": "kongcongzi#14-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "枚產（魏人）問子順曰：臣匱於財，聞猗頓善殖貨欲學之、然先生同國也、當知其術、願以",
+      "note": "「今子欲求殖貨而問術於我，我且自貧，安能教子以富乎」，並以「其人已死而猶恨之，是不知所以為學也」說明學習成事須先辨認教師是否真有相應能力",
+      "co_domains": []
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "15",
+      "para_index": 6,
+      "para_id": "kongcongzi#15-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子順相魏凡九月，陳大計輒不用，乃喟然歎曰：“不見用，是吾言之不當也。言不當於主，",
+      "note": "「言不當於主，而居人之官食人之祿，是屍利也」把官職成效與領祿責任相連，「屍利素餐，吾罪深矣」則是因職業失配而生的良心判斷與辭職行動",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "16",
+      "para_index": 2,
+      "para_id": "kongcongzi#16-p02",
+      "modes": [
+        "proposition",
+        "ritual"
+      ],
+      "excerpt": "魏安釐王問子順曰：「馬回之為人，雖少才文，梗梗亮直（一作緶），有大丈夫之節，吾欲",
+      "note": "「吾欲以為相」而「三月果以諂得罪」是 V 的用人誤判；「以無異政，所以自退」是 VIII 的職責選擇；「勢不可也」是 XI 的才力受時勢限制，任刪一格都會漏掉一則獨立材料",
+      "co_domains": [
+        "V",
+        "XI"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "16",
+      "para_index": 6,
+      "para_id": "kongcongzi#16-p06",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "申叔問曰：「犬馬之名，皆因其形色而名焉。唯韓盧、宋鵲獨否，何也？」子順答曰：「盧",
+      "note": "除犬馬名色與鄰國君弔喪之禮外，本段還把平原君由「霸世之士」改評為「衰世之好事公子，無伯相之才也」，直接涉及識人及其是否具宰相才能",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "16",
+      "para_index": 10,
+      "para_id": "kongcongzi#16-p10",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "趙王問相於平原君，平原君曰：「鄒文可。」趙人王曰：「其行如何？」對曰：夫孔子高天",
+      "note": "「行不苟合，雖賤不渝，君子人也」是對鄒文操行的品題，全文又圍繞趙王是否任用他及其「固以老辭」，涉及識人選相與能否承職",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "17",
+      "para_index": 1,
+      "para_id": "kongcongzi#17-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子魚生於戰國之世，長於兵戎之間，然獨樂先王之道講習不倦，季則謂子魚曰：“丈夫不生",
+      "note": "「武者可以進取，文者可以守成」「子修武以助之取，吾修文以助之守」，以文武分工說明各自所學如何成為濟世的職分",
+      "co_domains": []
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "17",
+      "para_index": 2,
+      "para_id": "kongcongzi#17-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "秦始皇東並，子魚謂其徒叔孫通曰：“子之學可矣，盍仕乎？”對曰：“臣所學於先生者，",
+      "note": "「子之材能見時變，今為不用之學，殆非子情也」，以才能、時勢與實際仕途選擇檢驗叔孫通所稱志向是否出於真情",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "17",
+      "para_index": 5,
+      "para_id": "kongcongzi#17-p05",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "子魚居衛，與張耳陳餘相善。耳、餘、魏之名士也。秦滅魏，求耳、餘，懼走。會陳勝，吳",
+      "note": "「其人通材足以幹天下，博知足以慮未形，必宗此人，天下無敵矣」，以人物識鑑論子魚能否勝任輔政，並推進到陳王遣使聘用的結果",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "19",
+      "para_index": 6,
+      "para_id": "kongcongzi#19-p06",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "博士凡仕六旬，老于陳，將歿，戒其弟子襄曰：“魯，天下有仁義之國也，戰國之世，講頌",
+      "note": "「處濁世而清其身，學儒術而知權變，是今師也」，以能守住自身又能因時權變來品評叔孫通，並勸弟子把他選作所事之師",
+      "co_domains": [
+        "II"
+      ]
     },
     {
       "slug": "lienuzhuan",

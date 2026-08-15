@@ -1,0 +1,299 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {
+      "chapter": "01",
+      "para_index": 1,
+      "domains": ["II", "VIII"],
+      "modes": ["narrative", "observation"],
+      "reason": "「孔丘布衣，聖將安施」追問身分與施展之處，「亦正其統紀而已矣」則把孔子的自我定位落在整飭禮樂的志業上"
+    },
+    {
+      "chapter": "01",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「自古聖王之為城臺，未有不戮一人而能致功若此者也」，以反語指出在上者役民致死的不義，並促成陳侯赦吏"
+    },
+    {
+      "chapter": "01",
+      "para_index": 3,
+      "domains": ["IV"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「必十五以往，漸乎二十，然後可以通乎此事」，以婚齡與紡織能力說明女子進入婚姻、承擔家內職分前的準備"
+    },
+    {
+      "chapter": "01",
+      "para_index": 4,
+      "domains": ["IV"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「然後乃能上以孝於舅姑，下以事夫養子也」，直接列出婚後對舅姑、丈夫與子女的家內責任"
+    },
+    {
+      "chapter": "01",
+      "para_index": 5,
+      "domains": ["VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「眾人為此，故各言其方，欲售之，以已人之疾也」，重點是辨明眾人獻方的動機，不是梁邱據的身體病況"
+    },
+    {
+      "chapter": "01",
+      "para_index": 6,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「政令者，人君之銜轡，所以制下也。今齊君失之已久矣」，以失去政令控制解釋齊國權力將移於田氏"
+    },
+    {
+      "chapter": "01",
+      "para_index": 7,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「位卑則人不附也，圖大則人憚之」說明地位、追隨者與政治行動風險的關係；「旁人皆哀其絕，而造之者不知其危」又指出行動者不自知其危"
+    },
+    {
+      "chapter": "01",
+      "para_index": 8,
+      "domains": ["II"],
+      "modes": ["proposition", "observation"],
+      "reason": "「君子以理為尚。博而不要，非所察也」，提出辨識言辭真價值的標準，並以「近類」「切事」品評宰我、子貢各自的言說特點"
+    },
+    {
+      "chapter": "02",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「受命於天者，湯、武是也；受命於人者，舜、禹是也」只是在分疏《書》句所稱受命的類別，屬經文字句訓解"
+    },
+    {
+      "chapter": "02",
+      "para_index": 2,
+      "domains": ["IV"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「舜父頑母嚚，莫克圖室家之端焉，故逮三十而謂之鰥也」，把舜未婚歸因於父母不能為其籌婚，並說明婚事告父母、告廟的家庭規範"
+    },
+    {
+      "chapter": "02",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「《帝典》可以觀美，《大禹謨》、《禹貢》可以觀事……《甫刑》可以觀誡」是《書》各篇用途的對照表，沒有留下關於人的獨立斷言"
+    },
+    {
+      "chapter": "02",
+      "para_index": 4,
+      "domains": ["VII"],
+      "modes": ["observation", "proposition"],
+      "reason": "「見君子之不忍言人之惡，而質人之美也」，把不揭人之惡、成全人之美視為君子的品格表現"
+    },
+    {
+      "chapter": "02",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「五刑所以佐教也」主張刑罰是教化的輔助手段，回答社會秩序如何由教與刑共同維持"
+    },
+    {
+      "chapter": "02",
+      "para_index": 6,
+      "domains": ["I", "XIII"],
+      "modes": ["observation", "proposition"],
+      "reason": "「常於此彈琴以歌先王之道」使子夏「有人亦樂之，無人亦樂之」並能「忘巳貧賤」，說的是以所信所學安頓困居與憂患，也賦予生活持續的寄託"
+    },
+    {
+      "chapter": "02",
+      "para_index": 7,
+      "domains": ["XII"],
+      "modes": ["proposition"],
+      "reason": "「此言人事之應乎天也……明舜之行合於天也」，明確認可舜的作為與陰陽、五星、風雨相應"
+    },
+    {
+      "chapter": "02",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["ritual", "formalization"],
+      "reason": "「埋少牢於九昭，所以祭時也；祖迎於坎壇，所以祭寒暑也」逐項訓解六宗祭儀的對象與處所，替換祭名後不剩關於人的斷言"
+    },
+    {
+      "chapter": "02",
+      "para_index": 9,
+      "domains": ["V", "VIII"],
+      "modes": ["ritual", "formalization"],
+      "reason": "「所以殊有績勸忠勤也」說明表彰功臣能勸人忠勤；「勞能定國，功加於民」又以任職成就與公共貢獻決定死後受祀資格"
+    },
+    {
+      "chapter": "02",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["ritual", "formalization"],
+      "reason": "「親盡廟毀，有功而不及祖，有德而不及宗，故於每歲之大嘗而報祭焉」只界定報祭的條件、時序及適用身分，仍是宗廟制度條文"
+    },
+    {
+      "chapter": "02",
+      "para_index": 11,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「大能用可用，則正治矣；敬可敬，則尚賢矣」，把識才任能、尊賢與慎刑列為君主使國家興治的領導原則"
+    },
+    {
+      "chapter": "02",
+      "para_index": 12,
+      "domains": ["VII"],
+      "modes": ["ritual", "proposition"],
+      "reason": "條文雖先說「牲幣之物，五嶽視三公」，回答最後轉向「直而無私……此仁者之所以樂乎山也」，以山的無私生養比擬仁者品格"
+    },
+    {
+      "chapter": "02",
+      "para_index": 13,
+      "domains": ["V"],
+      "modes": ["formalization", "observation"],
+      "reason": "「自吾得回也，門人加親……自吾得賜也，遠方之士日至」，把四友分別放入胥附、奔輳、先後、禦侮等關係角色，說明伙伴對群體的作用"
+    },
+    {
+      "chapter": "02",
+      "para_index": 14,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「能顯用有德舉而任之也；慎罰者，並心而慮之，眾平然後行之」，把任人不失德、用刑不失罪界定為統治者的用人與司法責任"
+    },
+    {
+      "chapter": "02",
+      "para_index": 15,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition"],
+      "reason": "「君子之於人，計功而除過」提出評人的寬厚原則；太甲「憂思三年，追悔前愆，起而復位」則顯示犯過者能反省改變"
+    },
+    {
+      "chapter": "02",
+      "para_index": 16,
+      "domains": ["V", "XII"],
+      "modes": ["proposition"],
+      "reason": "「其功善者其樂和，樂和則天地猶且應之」認可善政、和樂能感應天地；又以「樂所以歌其成功，非政之本也」辨明政治治理與樂的先後"
+    },
+    {
+      "chapter": "03",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「夫受人財不以成富，與季孫之惠於一人，豈若惠數百人哉」，以不自肥而廣施眾人說明受贈與用財的德性"
+    },
+    {
+      "chapter": "03",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["ritual", "proposition"],
+      "reason": "「同寮有相友之義」並以五臣「比德以贊文、武」說明同僚兼具朋友情義，因此死亡後可服朋友之服"
+    },
+    {
+      "chapter": "03",
+      "para_index": 3,
+      "domains": ["IV"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「怒其子之不能隨賢，所以為尚賢者」，說明母親不哭不是不慈，而是以母子關係表達對兒子未能追隨賢者的責備"
+    },
+    {
+      "chapter": "03",
+      "para_index": 4,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「多慮則意不精。以不精之意，察難知之人，宜其有失也」，指出君主事事親察反會失人，並以「君苟付可付」主張把選才任官交給可信任者"
+    },
+    {
+      "chapter": "03",
+      "para_index": 5,
+      "domains": ["VII", "VIII"],
+      "modes": ["observation", "proposition"],
+      "reason": "「食其祿者，必死其事」界定受祿者的職分，而「屍利攜貳，非人臣也」則從忠誠品格否定只盤算退路的臣子"
+    },
+    {
+      "chapter": "03",
+      "para_index": 6,
+      "domains": ["II", "VII", "VIII"],
+      "modes": ["observation", "proposition"],
+      "reason": "「貴義尚德，清素好儉」刻畫品格，「其志欲興而行之」指出欲行道的志業，而「夫言貴實……是賜之華，不若予之實也」另辨真實行事與華美稱譽；少任一項都會漏掉這三層中的一層"
+    },
+    {
+      "chapter": "03",
+      "para_index": 7,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「以匹夫敵國君，非所敢行也」守住身分與權位分際；「雖君私之，其若義何」又表明不能因私下恩寵而放棄合義的品格"
+    },
+    {
+      "chapter": "03",
+      "para_index": 8,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「義而贖之，貧取於友，非義而何」肯定朋友合力救助無辜者；「愛金而令不辜陷辟」則把不忍與重義置於金錢之上"
+    },
+    {
+      "chapter": "03",
+      "para_index": 9,
+      "domains": ["IV", "V", "VII"],
+      "modes": ["observation", "formalization"],
+      "reason": "詩義清單分別談「孝子之思養」的家庭傳承、「君臣之有禮」「明王所以敬諸侯」的群體秩序，以及「儉德」「先公而後私」等品格；拿掉任一領域都會漏失清單中一整類人事主題"
+    },
+    {
+      "chapter": "03",
+      "para_index": 10,
+      "domains": ["VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「幽則利欲之所為發，沈則貪得之所為施」由琴音辨內在欲念，孔子又自承「欲其得之，故為之音也」，重點在欲望如何流露"
+    },
+    {
+      "chapter": "04",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「無禮則民無恥，而正之以刑，故民苟免」，主張治理方式會塑造人民的羞恥心與品格，並解釋只靠刑罰何以不能使人向善"
+    },
+    {
+      "chapter": "04",
+      "para_index": 2,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "「齊之以禮，則民恥矣。刑以止刑，則民懼矣」，以羞恥與恐懼兩種內在反應比較禮治和刑治的社會效果"
+    },
+    {
+      "chapter": "04",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「饑寒切於身，而不為非者寡矣」是在解釋匱乏、失教如何促成犯罪；「奪其賢者，而與其不賢者以化民乎」進一步追究在上者的教化與用人責任，並非標註身體疾病"
+    },
+    {
+      "chapter": "04",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「古之知法者能遠獄，今之知法者不失有罪」比較從根本預防訴訟與只求定罪無誤，落點是司法如何減怨並治理本源"
+    },
+    {
+      "chapter": "04",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["prescription", "formalization"],
+      "reason": "「治必以寬，寬之之術歸於察，察之之術歸於義」把聽訟整理成寬、察、義的可執行次序，並以「私則民怨」說明司法偏私的社會後果"
+    },
+    {
+      "chapter": "04",
+      "para_index": 6,
+      "domains": ["V", "VII"],
+      "modes": ["prescription", "formalization"],
+      "reason": "「察貧窮，哀孤獨及鰥、寡、老、弱、不肖而無告者」要求司法體恤弱者；「宥過赦小罪，老弱不受刑」又把憐憫落成量刑規則"
+    },
+    {
+      "chapter": "04",
+      "para_index": 7,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「惡其意不惡其人，求所以生之」主張分開惡意與整個人，以愛民、慎棄生命的品格主持司法，而非先求殺人"
+    },
+    {
+      "chapter": "04",
+      "para_index": 8,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「子之於臣，禮意不至，是以去子」把臣叛歸因於主人待下失禮；「子修禮以待之，則臣去子將安往」指出改善領導關係即可留人"
+    }
+  ]
+}

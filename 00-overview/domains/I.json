@@ -2,9 +2,9 @@
   "domain": "I",
   "name_zh": "存在與意義",
   "gist": "我為何在此、活著有沒有意義、與想不通的問題共處、在歷史洪流中的渺小",
-  "generated_at": "2026-08-15T08:03:14+00:00",
-  "para_count": 32,
-  "book_count": 10,
+  "generated_at": "2026-08-15T09:28:34+00:00",
+  "para_count": 40,
+  "book_count": 11,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -188,6 +188,115 @@
       "co_domains": [
         "XI"
       ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "02",
+      "para_index": 6,
+      "para_id": "kongcongzi#02-p06",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "子夏讀《書》既畢，而見於夫子。夫子謂曰：「子何為於《書》？」子夏對曰：《書》之論",
+      "note": "「常於此彈琴以歌先王之道」使子夏「有人亦樂之，無人亦樂之」並能「忘巳貧賤」，說的是以所信所學安頓困居與憂患，也賦予生活持續的寄託",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "05",
+      "para_index": 6,
+      "para_id": "kongcongzi#05-p06",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "哀公使以幣如衛迎夫子，而卒不能當、故夫子作丘陵之歌曰：“登彼丘陵，峛崺其阪。仁道",
+      "note": "「仁道在邇，求之若遠」感歎所求之道近而難行，「惟以永歎，涕霣潺湲」則是道路受阻時的第一人稱哀痛",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "05",
+      "para_index": 7,
+      "para_id": "kongcongzi#05-p07",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "楚王使使奉金幣聘夫子。宰子、冉有曰：“夫子之道至是行矣。”遂請見，問夫子曰：“太",
+      "note": "先以「許由，獨善其身者也，太公兼利天下者也」比較兩種人生取向，歌中「賢人竄兮，將待時」又抒寫才志須待能識用者的處境",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "05",
+      "para_index": 8,
+      "para_id": "kongcongzi#05-p08",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "叔孫氏之車子曰鉏商，樵於野而獲獸焉。眾莫之識，以為不祥，棄之五父之衢。冉有告夫子",
+      "note": "「予之於人，猶麟之於獸也，麟出而死，吾道窮矣」以麟自況並判定自身之道已窮，歌末「麟兮麟兮我心憂」抒發憂傷；麟鳳之祥只是事件背景，不據此標 XII",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "07",
+      "para_index": 3,
+      "para_id": "kongcongzi#07-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子思謂子上曰：有可以為公之尊而富貴人眾不與焉者，非唯志乎，成其志者，非唯無欲乎，",
+      "note": "「知以身取節者則知足矣，苟知足則不累其志矣」把節制欲望與知足視為保存志向、不受富貴牽累的生活根本",
+      "co_domains": []
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "09",
+      "para_index": 9,
+      "para_id": "kongcongzi#09-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子思曰：“吾之富貴甚易而由不能，夫不取於人謂之富，不辱於人謂之貴，不取不辱，其於",
+      "note": "「不取於人謂之富，不辱於人謂之貴」重新界定富貴，把不依附與不受辱視為人的尊嚴和可選擇的生活價值",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "10",
+      "para_index": 10,
+      "para_id": "kongcongzi#10-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "衛君曰：“夫道大而難明，非吾所能也，今欲學術何如？”子思曰：“君無然也。體道者逸",
+      "note": "「生不足以喜之……死不足以禁之」與「明於死生之分，通於利害之變」主張體道者能確立超越生死利害的生命取向",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "17",
+      "para_index": 3,
+      "para_id": "kongcongzi#17-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "尹曾謂子魚曰：“子之讀先王之書，將奚以為？”答曰：“為治也，世治則助之行道，世亂",
+      "note": "「世治則助之行道，世亂則獨治其身，治之至也」，直接說明讀先王之書在治世與亂世各有何人生用意",
+      "co_domains": []
     },
     {
       "slug": "qianfulun",

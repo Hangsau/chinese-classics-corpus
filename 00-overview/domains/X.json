@@ -2,9 +2,9 @@
   "domain": "X",
   "name_zh": "無常·老·死·失去",
   "gist": "老與時間、失去與哀傷、死亡、耐心與等待",
-  "generated_at": "2026-08-15T08:03:14+00:00",
-  "para_count": 208,
-  "book_count": 16,
+  "generated_at": "2026-08-15T09:28:34+00:00",
+  "para_count": 210,
+  "book_count": 17,
   "surveyed_zero_hit": [
     "dengxizi",
     "fangyan",
@@ -460,6 +460,32 @@
       "co_domains": [
         "VI"
       ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "10",
+      "para_index": 10,
+      "para_id": "kongcongzi#10-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "衛君曰：“夫道大而難明，非吾所能也，今欲學術何如？”子思曰：“君無然也。體道者逸",
+      "note": "「生不足以喜之……死不足以禁之」與「明於死生之分，通於利害之變」主張體道者能確立超越生死利害的生命取向",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "14",
+      "para_index": 4,
+      "para_id": "kongcongzi#14-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "魏王曰：“吾聞道士登華山，則長生不死，意亦願之。”對曰：“古無是道，非所願也。”",
+      "note": "「古無是道」直接否定長生不死，並以「親聞之於不死者耶，聞之於傳聞者耶」檢驗傳聞；談的是人能否免死，不是認證神聖徵應",
+      "co_domains": []
     },
     {
       "slug": "lienuzhuan",

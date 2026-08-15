@@ -2,9 +2,9 @@
   "domain": "XIII",
   "name_zh": "安頓·修復·平安",
   "gist": "靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈",
-  "generated_at": "2026-08-15T08:03:14+00:00",
-  "para_count": 98,
-  "book_count": 14,
+  "generated_at": "2026-08-15T09:28:34+00:00",
+  "para_count": 103,
+  "book_count": 15,
   "surveyed_zero_hit": [
     "fangyan",
     "gongsun-longzi",
@@ -526,6 +526,77 @@
       "co_domains": [
         "IX"
       ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "02",
+      "para_index": 6,
+      "para_id": "kongcongzi#02-p06",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "子夏讀《書》既畢，而見於夫子。夫子謂曰：「子何為於《書》？」子夏對曰：《書》之論",
+      "note": "「常於此彈琴以歌先王之道」使子夏「有人亦樂之，無人亦樂之」並能「忘巳貧賤」，說的是以所信所學安頓困居與憂患，也賦予生活持續的寄託",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "05",
+      "para_index": 5,
+      "para_id": "kongcongzi#05-p05",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "趙簡子使聘夫子，夫子將至焉。及河，聞鳴犢與竇犨之見殺也。回輿而旋之衛，息鄹，遂為",
+      "note": "歌中以「眷然顧之，慘然心悲」「傷於道窮，哀彼無辜」抒寫悲哀，最後轉為「複我舊廬，從吾所好，其樂只且」，呈現受挫後的自我安頓",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "07",
+      "para_index": 10,
+      "para_id": "kongcongzi#07-p10",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子思年十六適宋，宋大夫樂朔與之言學焉。朔曰：「《尚書》虞、夏數四篇善也，下此以訖",
+      "note": "「道為知者傳，苟非其人，道不傳矣」把傳道繫於學者是否堪受，子思脫困後又以「吾困於宋可無作乎」把受困轉成撰述《中庸》的工作與成就",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "10",
+      "para_index": 13,
+      "para_id": "kongcongzi#10-p13",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "費子陽（魯大夫家臣）謂子思曰：“吾念宗周將滅，泣涕不可禁也。”子思曰：“然此亦子",
+      "note": "「憂世之不治，而泣涕不禁，是憂河水之濁而以泣清之也」指出無法自禁的憂泣無益，並勸人轉而「患身之不治」以安頓亂世中的自己",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "17",
+      "para_index": 4,
+      "para_id": "kongcongzi#17-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "陳餘謂子魚曰：“秦將滅先王之籍，而子為書籍之主，其危矣。”子魚曰：“顧有可懼者，",
+      "note": "「吾將先藏之以待其求，求至無患矣」，面對焚書與受禍的威脅，主張預先安排以求在危局中自處無患",
+      "co_domains": []
     },
     {
       "slug": "lienuzhuan",

@@ -1,0 +1,215 @@
+{
+  "batch": "b04.md",
+  "rows": [
+    {
+      "chapter": "14",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「若王信能用吾道，吾道固為治世也，雖疏食飲水，吾猶為之」把出仕繫於能否實踐職志；「若徒欲制服吾身，委以重祿，吾猶一夫爾」又直指君臣權力與俸祿不能取代真正任用"
+    },
+    {
+      "chapter": "14",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「知人則哲，帝堯所病……人難知故也」，並主張「苟使朝臣皆有推賢之心，主雖不知人，則臣位必當」，核心是領導者如何避免用人失誤"
+    },
+    {
+      "chapter": "14",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「秦貪而多求，求欲無厭，是故西戎閉而不致」把君主的貪欲品格連到對外關係，末以「人主貪欲……不可不慎也」告誡掌權者"
+    },
+    {
+      "chapter": "14",
+      "para_index": 4,
+      "domains": ["X"],
+      "modes": ["proposition"],
+      "reason": "「古無是道」直接否定長生不死，並以「親聞之於不死者耶，聞之於傳聞者耶」檢驗傳聞；談的是人能否免死，不是認證神聖徵應"
+    },
+    {
+      "chapter": "14",
+      "para_index": 5,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「明主之於臣，唯德所在不以小疵妨大行也」要求君主依實質評臣；「虛造謗言，以誣聖人」及「求白潔而益其垢」則指出用假說維護名聲反使身分評價更壞"
+    },
+    {
+      "chapter": "14",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "「以吾所有，易彼所饒……夷狄之用將麋於衣食矣」只是以通市消耗北狄物資的經濟與地緣算計，換掉貨物和敵國後不剩關於人的斷言"
+    },
+    {
+      "chapter": "14",
+      "para_index": 7,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "「今子欲求殖貨而問術於我，我且自貧，安能教子以富乎」，並以「其人已死而猶恨之，是不知所以為學也」說明學習成事須先辨認教師是否真有相應能力"
+    },
+    {
+      "chapter": "14",
+      "para_index": 8,
+      "domains": ["II", "V"],
+      "modes": ["observation", "proposition"],
+      "reason": "「東閭子中不應外」判定其外在疏直與內在容媚不相符；「愚人而謂人為愚者也」又落在交友時如何識別虛假自我與看錯他人"
+    },
+    {
+      "chapter": "14",
+      "para_index": 9,
+      "domains": ["V"],
+      "modes": ["observation", "proposition"],
+      "reason": "「夫富而可以讬貧，貴而可以寄賤者，天下寡矣」，其後逐一判斷趙公子、燕相國與齊田氏能否容人，主題是貧者尋求庇護及識人擇交"
+    },
+    {
+      "chapter": "14",
+      "para_index": 10,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "郈成子能照顧死者妻子並歸還其璧，故被評為「智可與徵謀，仁可與讬孤，廉可以寄財」，以史例說明可託付之人的仁廉品格與信任關係"
+    },
+    {
+      "chapter": "14",
+      "para_index": 11,
+      "domains": ["V", "XI"],
+      "modes": ["proposition"],
+      "reason": "「古之善為政者，其初不能無謗」說改革初期的群體反應，而「三年政成化既行，民又作誦」顯示公眾評價會隨治理成果由毀轉譽"
+    },
+    {
+      "chapter": "14",
+      "para_index": 12,
+      "domains": ["V", "VI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「去其尊貴之色」是招士的領導要求；「人之可使以有欲也，故欲多者其所得用亦多」則把人的欲望強弱當成任用與控制的內在動機"
+    },
+    {
+      "chapter": "15",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「遊說之士挾強秦以為資，賣其國以收利」揭出權勢下的公共責任失守，並以「取不以道，得不以道，自古以來，未有能終之者」及試探五國之策論政治正當性與領導"
+    },
+    {
+      "chapter": "15",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「比目之魚，所以不見得於人者，以偶視而俱走也」只用比目魚推演趙魏合則禦秦、離則資秦的地緣態勢，沒有把人的處境或心理當作論題"
+    },
+    {
+      "chapter": "15",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「吳越之人，同舟濟江……其相救如左右手者，所患同也」主張共同危難能使敵對群體合作，並勸韓王「除小忿全大好」以承擔保國責任"
+    },
+    {
+      "chapter": "15",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「燕雀處屋，子母相哺……不知禍之及巳也」比喻對鄰國覆亡幸災樂禍的短視，落點是「趙破患將及巳」的群體連帶與決策責任"
+    },
+    {
+      "chapter": "15",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "「使其家遠來迎屍，不得事農，一費也……二年之中，喪卒三萬，三費也」只是歸屍以貧齊的三筆成本計算，悲苦與死亡是算計條件而非被探討的人生問題"
+    },
+    {
+      "chapter": "15",
+      "para_index": 6,
+      "domains": ["VII", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「言不當於主，而居人之官食人之祿，是屍利也」把官職成效與領祿責任相連，「屍利素餐，吾罪深矣」則是因職業失配而生的良心判斷與辭職行動"
+    },
+    {
+      "chapter": "15",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "「割地賂秦，以為嫪毐功……則嫪毐勝矣」只是利用秦廷派系安排割地、邀功與復仇的權謀操作；末尾夾注也不據以判讀"
+    },
+    {
+      "chapter": "16",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "伊尹「以禮括其君，使入於善也」，又「率其君以義，強其君以孝道，未有行此見怨也」，以史例主張臣下糾正掌權者須守義並促成其品格改善"
+    },
+    {
+      "chapter": "16",
+      "para_index": 2,
+      "domains": ["V", "VIII", "XI"],
+      "modes": ["proposition", "ritual"],
+      "reason": "「吾欲以為相」而「三月果以諂得罪」是 V 的用人誤判；「以無異政，所以自退」是 VIII 的職責選擇；「勢不可也」是 XI 的才力受時勢限制，任刪一格都會漏掉一則獨立材料"
+    },
+    {
+      "chapter": "16",
+      "para_index": 3,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition"],
+      "reason": "「人皆作之，作之不止乃成君子」明說君子品格可由持續實踐養成，且「作之不變，習與體成……則自然矣」主張習行能改變一個人"
+    },
+    {
+      "chapter": "16",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「經者，取其事常也，可常則為經矣」只是在界定何種書可以題名為「經」，後文也只考辨《春秋經》的書名，沒有關於人的斷言"
+    },
+    {
+      "chapter": "16",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["proposition", "ritual"],
+      "reason": "「此委巷之鄙事爾，非先王之法也」否定獻雀為祥瑞，並以「下人非所得制爵也，而王悅此」批評君主接受民雀所顯示的權位失當，故不判 XII"
+    },
+    {
+      "chapter": "16",
+      "para_index": 6,
+      "domains": ["V", "VIII"],
+      "modes": ["observation", "ritual"],
+      "reason": "除犬馬名色與鄰國君弔喪之禮外，本段還把平原君由「霸世之士」改評為「衰世之好事公子，無伯相之才也」，直接涉及識人及其是否具宰相才能"
+    },
+    {
+      "chapter": "16",
+      "para_index": 7,
+      "domains": ["II", "IV"],
+      "modes": ["proposition"],
+      "reason": "面對父子論人不同，答以「言貴盡心，亦各其所見也」，承認後人可保有自己的判斷；「若是非，則明智者裁之」又把家學傳承與獨立立場分開"
+    },
+    {
+      "chapter": "16",
+      "para_index": 8,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「事君欲諫，不欲陳言，不欲顯君之非也」規範臣子在權力關係中的進諫責任，並以晏子私議而使君「為之省刑」辨明忠告、公義與公開羞辱的界線"
+    },
+    {
+      "chapter": "16",
+      "para_index": 9,
+      "domains": ["XI"],
+      "modes": ["proposition"],
+      "reason": "「天雖至神，自古及今，未聞下穀與人也」否定天降穀物，轉以「后稷能大教民種嘉穀以利天下」把結果歸於人的教導與耕種能力，故判 XI 而不判 XII"
+    },
+    {
+      "chapter": "16",
+      "para_index": 10,
+      "domains": ["V", "VIII"],
+      "modes": ["observation"],
+      "reason": "「行不苟合，雖賤不渝，君子人也」是對鄒文操行的品題，全文又圍繞趙王是否任用他及其「固以老辭」，涉及識人選相與能否承職"
+    },
+    {
+      "chapter": "16",
+      "para_index": 11,
+      "domains": ["II", "IV"],
+      "modes": ["observation"],
+      "reason": "「自正考父以來，儒林相繼……自茲以降，世業不替」明述孔氏世代傳承；子順以「至如臣者，學行不敏」自我定位，並願後世「不忝前人，不泯祖業」"
+    }
+  ]
+}

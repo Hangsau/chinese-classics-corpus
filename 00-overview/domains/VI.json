@@ -2,9 +2,9 @@
   "domain": "VI",
   "name_zh": "情緒與內在生活",
   "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡",
-  "generated_at": "2026-08-15T08:03:14+00:00",
-  "para_count": 493,
-  "book_count": 21,
+  "generated_at": "2026-08-15T09:28:34+00:00",
+  "para_count": 506,
+  "book_count": 22,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -2975,6 +2975,188 @@
       ],
       "excerpt": "或曰：報惡甚者，大誅報小罪。大誅報小罪也者，獄之至也。獄之患，故非在所以誅也，以",
       "note": "指出以大誅報小罪會因仇敵眾多而生禍，未有罪便顯怒與懷誅心會使自己與天下為讎",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "01",
+      "para_index": 5,
+      "para_id": "kongcongzi#01-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "宰我使於齊而反，見夫子曰：「梁邱據遇虺毒，三旬而後瘳。朝齊君，齊君會大夫眾賓而慶",
+      "note": "「眾人為此，故各言其方，欲售之，以已人之疾也」，重點是辨明眾人獻方的動機，不是梁邱據的身體病況",
+      "co_domains": []
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "03",
+      "para_index": 10,
+      "para_id": "kongcongzi#03-p10",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孔子晝息於室而鼓琴焉。閔子自外聞之，以告曾子，曰：“鄉也，夫子之音清澈以和，淪入",
+      "note": "「幽則利欲之所為發，沈則貪得之所為施」由琴音辨內在欲念，孔子又自承「欲其得之，故為之音也」，重點在欲望如何流露",
+      "co_domains": []
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "04",
+      "para_index": 2,
+      "para_id": "kongcongzi#04-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孔子適衛，衛將軍文子問曰：“聞魯公父氏不能聽獄，信乎？孔子答曰：“不知其不能也。",
+      "note": "「齊之以禮，則民恥矣。刑以止刑，則民懼矣」，以羞恥與恐懼兩種內在反應比較禮治和刑治的社會效果",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "05",
+      "para_index": 4,
+      "para_id": "kongcongzi#05-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子思問於夫子曰：“物有形類，事有真偽，必審之。奚由？”子曰：“由乎心。心之精神是",
+      "note": "回答辨別事物真偽要「由乎心」，並以「心之精神是謂聖，推數究理，不以物疑」直接主張心如何運作與明察",
+      "co_domains": []
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "05",
+      "para_index": 5,
+      "para_id": "kongcongzi#05-p05",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "趙簡子使聘夫子，夫子將至焉。及河，聞鳴犢與竇犨之見殺也。回輿而旋之衛，息鄹，遂為",
+      "note": "歌中以「眷然顧之，慘然心悲」「傷於道窮，哀彼無辜」抒寫悲哀，最後轉為「複我舊廬，從吾所好，其樂只且」，呈現受挫後的自我安頓",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "05",
+      "para_index": 6,
+      "para_id": "kongcongzi#05-p06",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "哀公使以幣如衛迎夫子，而卒不能當、故夫子作丘陵之歌曰：“登彼丘陵，峛崺其阪。仁道",
+      "note": "「仁道在邇，求之若遠」感歎所求之道近而難行，「惟以永歎，涕霣潺湲」則是道路受阻時的第一人稱哀痛",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "05",
+      "para_index": 8,
+      "para_id": "kongcongzi#05-p08",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "叔孫氏之車子曰鉏商，樵於野而獲獸焉。眾莫之識，以為不祥，棄之五父之衢。冉有告夫子",
+      "note": "「予之於人，猶麟之於獸也，麟出而死，吾道窮矣」以麟自況並判定自身之道已窮，歌末「麟兮麟兮我心憂」抒發憂傷；麟鳳之祥只是事件背景，不據此標 XII",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "10",
+      "para_index": 11,
+      "para_id": "kongcongzi#10-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "齊王謂子思曰：“今天下擾擾，諸侯無伯，吾國大人眾，圖帝何如？”子思曰：“不可也。",
+      "note": "「夫水之性清而土壤汨之，人之性安而嗜欲亂之」把內在失序歸因於嗜欲，並主張去除貪利與求名之心",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "10",
+      "para_index": 13,
+      "para_id": "kongcongzi#10-p13",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "費子陽（魯大夫家臣）謂子思曰：“吾念宗周將滅，泣涕不可禁也。”子思曰：“然此亦子",
+      "note": "「憂世之不治，而泣涕不禁，是憂河水之濁而以泣清之也」指出無法自禁的憂泣無益，並勸人轉而「患身之不治」以安頓亂世中的自己",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "10",
+      "para_index": 14,
+      "para_id": "kongcongzi#10-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "齊王戮其臣不辜，謂子思曰：“吾知其不辜，而適觸吾忿，故戮之。”以為不足傷義也。子",
+      "note": "「文王葬枯骨而天下知仁，商紂斬朝涉而天下稱暴」說明人民會由掌權者所施判斷其意；「因心之忿，遷戮不辜」則呈現怒氣造成不義殺戮",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "12",
+      "para_index": 2,
+      "para_id": "kongcongzi#12-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子高游趙、平原君客有鄒文季節者、與子高相善、及將還魯、諸故人訣既畢、文節送行三宿",
+      "note": "送別事蹟圍繞友人「戀戀之心」與「悽愴流涕」，並以「大奸之人，以泣自信，婦人懦夫，以泣著愛」分析流淚所表達的內心及關係",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "13",
+      "para_index": 4,
+      "para_id": "kongcongzi#13-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "信陵君問曰：“古之善為國，至於無訟，其道何由？”答曰：“由乎政善也。上下勤德而無",
+      "note": "「夫人含五常之性，有喜怒哀樂。喜怒哀樂無過其節，節過則毀於義」直接論情緒失節，並以「民多犯法，以法重無所措手足也」及臣下畏禍不諫分析酷刑與權力如何導致危亡",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "14",
+      "para_index": 12,
+      "para_id": "kongcongzi#14-p12",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "魏王謂子順曰：“吾欲致天下之士，奈何？”子順對曰：昔周穆王問祭公謀父、曰吾欲得天",
+      "note": "「去其尊貴之色」是招士的領導要求；「人之可使以有欲也，故欲多者其所得用亦多」則把人的欲望強弱當成任用與控制的內在動機",
       "co_domains": [
         "V"
       ]

@@ -2,9 +2,9 @@
   "domain": "XI",
   "name_zh": "自由·命運·改變",
   "gist": "自由意志與命運、選擇與代價、改變與重來",
-  "generated_at": "2026-08-15T08:03:14+00:00",
-  "para_count": 313,
-  "book_count": 23,
+  "generated_at": "2026-08-15T09:28:34+00:00",
+  "para_count": 324,
+  "book_count": 24,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -1562,6 +1562,163 @@
       ],
       "excerpt": "古者先王盡力於親民，加事於明法。彼法明，則忠臣勸；罰必，則邪臣止。忠勸邪止而地廣",
       "note": "勾踐棄龜明法而復國，曹、邢、許、鄭與韓依賴外國反亡，主張國勢取決於明法親民而非鬼神或外援。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "02",
+      "para_index": 15,
+      "para_id": "kongcongzi#02-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《書》曰：「其在祖甲，不義惟王。」公西赤曰：「聞諸晏子，湯及太甲、武丁、祖乙、天",
+      "note": "「君子之於人，計功而除過」提出評人的寬厚原則；太甲「憂思三年，追悔前愆，起而復位」則顯示犯過者能反省改變",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "07",
+      "para_index": 6,
+      "para_id": "kongcongzi#07-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟軻問子思曰：「堯、舜、文、武之道，可力而致乎？」子思曰：彼人也，我人也。稱其言",
+      "note": "「彼人也，我人也」否定聖道不可企及，並以「稱其言，履其行，夜思之，晝行之」說明人能藉持續實踐養成品格、達到所求",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "08",
+      "para_index": 1,
+      "para_id": "kongcongzi#08-p01",
+      "modes": [
+        "ritual",
+        "formalization"
+      ],
+      "excerpt": "子思游齊、陳莊伯與登泰山而觀、見古天子巡狩之銘焉、陳子曰我生獨不及帝王封禪之世、",
+      "note": "巡狩程序中先以「凡求聞者，為求行之也」追問求學是否真為實踐，末又說「吾今而後知不學者淺之為人也」，明指學習和實行能改變人的品格，故不能因大段禮條而判空",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "09",
+      "para_index": 6,
+      "para_id": "kongcongzi#09-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "胡母豹（魯人）謂子思曰、子好大世莫能容子也、盍亦隨時乎、子思曰大非所病，所病不大",
+      "note": "「大非所病，所病不大也」拒絕為迎合世俗縮小自己的道，並以「大不見容，命也，毀大而求容，罪也，吾弗改矣」區分命運限制與自主選擇",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "10",
+      "para_index": 6,
+      "para_id": "kongcongzi#10-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "衛君問子思曰：“寡人之政何如？”答曰：“無非。”君曰：“寡人不知其不肖，亦望其如",
+      "note": "「希旨容媚，則君親之；中正弼非，則君疏之」揭示領導者造成諂媚的獎懲環境；「口順而心不懌者，臨其事必疣」又判斷口頭認錯不足以真正改變",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "12",
+      "para_index": 6,
+      "para_id": "kongcongzi#12-p06",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "陳尫（魏人）性多穢訾，每得酒食，必先撥捐之然後乃食。子高告之曰：“子無然也，似有",
+      "note": "「意不可恣也」要求約束任性習慣，又以「木之性以隱括自直，可以人而不如木乎」斷言人能矯正自己，陳尫也承諾「請終改之」",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "14",
+      "para_index": 11,
+      "para_id": "kongcongzi#14-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子順相魏，改嬖寵之官以事賢才，奪無任之祿以賜有功，諸喪職秩者不悅，乃造謗言，文諮",
+      "note": "「古之善為政者，其初不能無謗」說改革初期的群體反應，而「三年政成化既行，民又作誦」顯示公眾評價會隨治理成果由毀轉譽",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "16",
+      "para_index": 2,
+      "para_id": "kongcongzi#16-p02",
+      "modes": [
+        "proposition",
+        "ritual"
+      ],
+      "excerpt": "魏安釐王問子順曰：「馬回之為人，雖少才文，梗梗亮直（一作緶），有大丈夫之節，吾欲",
+      "note": "「吾欲以為相」而「三月果以諂得罪」是 V 的用人誤判；「以無異政，所以自退」是 VIII 的職責選擇；「勢不可也」是 XI 的才力受時勢限制，任刪一格都會漏掉一則獨立材料",
+      "co_domains": [
+        "V",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "16",
+      "para_index": 3,
+      "para_id": "kongcongzi#16-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "魏安釐王問天下之高士。子順曰：「世無其人也，抑可以為次，其魯仲連乎？」王曰：「魯",
+      "note": "「人皆作之，作之不止乃成君子」明說君子品格可由持續實踐養成，且「作之不變，習與體成……則自然矣」主張習行能改變一個人",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "16",
+      "para_index": 9,
+      "para_id": "kongcongzi#16-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "魏王問子順曰、寡人聞昔者上天神異后稷而為之下嘉穀、周以遂興、往中山之地、無故有穀",
+      "note": "「天雖至神，自古及今，未聞下穀與人也」否定天降穀物，轉以「后稷能大教民種嘉穀以利天下」把結果歸於人的教導與耕種能力，故判 XI 而不判 XII",
+      "co_domains": []
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "19",
+      "para_index": 4,
+      "para_id": "kongcongzi#19-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "陳王涉使周章為將，西入關以誅秦。秦使將章邯拒之，陳王以秦國之亂也，有輕之之意，勢",
+      "note": "「其禍福吉凶大者，在天小者由人」之後即勸王「不修人利」將悔之無及，落點是領導者以設備和人為努力改變戰局，不以天命自恃，故不標 XII",
       "co_domains": [
         "V"
       ]

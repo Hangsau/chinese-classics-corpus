@@ -2,9 +2,9 @@
   "domain": "XII",
   "name_zh": "信仰·神聖·超越",
   "gist": "神存在嗎、信與疑、敬畏與美、神秘經驗",
-  "generated_at": "2026-08-15T08:03:14+00:00",
-  "para_count": 128,
-  "book_count": 17,
+  "generated_at": "2026-08-15T09:28:34+00:00",
+  "para_count": 130,
+  "book_count": 18,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -178,6 +178,32 @@
       "excerpt": "昔在庖犧氏始畫八卦，以通神明之德，以類萬物之情，作九九之術，以合六爻之變。暨於黃",
       "note": "算術溯源於庖犧畫卦「以通神明之德」、黃帝「用稽道原」，把數置於宇宙秩序之下；命中 XII，但這是序言的立論背景，不是本書內容。",
       "co_domains": []
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "02",
+      "para_index": 7,
+      "para_id": "kongcongzi#02-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "宰我問：「《書》云：『納於大麓，烈風雷雨弗迷。』何謂也？孔子曰：「此言人事之應乎",
+      "note": "「此言人事之應乎天也……明舜之行合於天也」，明確認可舜的作為與陰陽、五星、風雨相應",
+      "co_domains": []
+    },
+    {
+      "slug": "kongcongzi",
+      "chapter": "02",
+      "para_index": 16,
+      "para_id": "kongcongzi#02-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "魯哀公問：「《書》稱夔曰：『於予擊石拊石，百獸率舞，庶尹允諧。』何謂也？」孔子對",
+      "note": "「其功善者其樂和，樂和則天地猶且應之」認可善政、和樂能感應天地；又以「樂所以歌其成功，非政之本也」辨明政治治理與樂的先後",
+      "co_domains": [
+        "V"
+      ]
     },
     {
       "slug": "lienuzhuan",

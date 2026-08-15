@@ -1,0 +1,257 @@
+{
+  "batch": "b02.md",
+  "rows": [
+    {
+      "chapter": "05",
+      "para_index": 1,
+      "domains": ["IV"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「其父析薪，其子弗克負荷，是謂不肖」把子思的恐懼落在能否承續父祖之業，末以「世不廢業，其克昌乎」確認家業傳承"
+    },
+    {
+      "chapter": "05",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「所以官人任能者，由於不明也」直指領導者不能識才用才，且「以譽為賞，以毀為罰，賢者不居焉」說明用人環境會排斥賢者"
+    },
+    {
+      "chapter": "05",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「堯、舜之化，百世不輟」與「管仲任法，身死則法息」比較德化與任法的社會後果，並以「材非管仲而專任法，終必亂成矣」警告治理失序"
+    },
+    {
+      "chapter": "05",
+      "para_index": 4,
+      "domains": ["VI"],
+      "modes": ["proposition"],
+      "reason": "回答辨別事物真偽要「由乎心」，並以「心之精神是謂聖，推數究理，不以物疑」直接主張心如何運作與明察"
+    },
+    {
+      "chapter": "05",
+      "para_index": 5,
+      "domains": ["VI", "XIII"],
+      "modes": ["expression"],
+      "reason": "歌中以「眷然顧之，慘然心悲」「傷於道窮，哀彼無辜」抒寫悲哀，最後轉為「複我舊廬，從吾所好，其樂只且」，呈現受挫後的自我安頓"
+    },
+    {
+      "chapter": "05",
+      "para_index": 6,
+      "domains": ["I", "VI"],
+      "modes": ["expression"],
+      "reason": "「仁道在邇，求之若遠」感歎所求之道近而難行，「惟以永歎，涕霣潺湲」則是道路受阻時的第一人稱哀痛"
+    },
+    {
+      "chapter": "05",
+      "para_index": 7,
+      "domains": ["I", "VIII"],
+      "modes": ["expression"],
+      "reason": "先以「許由，獨善其身者也，太公兼利天下者也」比較兩種人生取向，歌中「賢人竄兮，將待時」又抒寫才志須待能識用者的處境"
+    },
+    {
+      "chapter": "05",
+      "para_index": 8,
+      "domains": ["I", "VI"],
+      "modes": ["expression"],
+      "reason": "「予之於人，猶麟之於獸也，麟出而死，吾道窮矣」以麟自況並判定自身之道已窮，歌末「麟兮麟兮我心憂」抒發憂傷；麟鳳之祥只是事件背景，不據此標 XII"
+    },
+    {
+      "chapter": "06",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「學必由聖，所以致其材也」把學習途徑連到才能發展，並規定夫子之教「必始於《詩》、《書》而終於《禮》、《樂》」"
+    },
+    {
+      "chapter": "06",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「夫浸水之所及也則生，其所不及則死」對比局部可見的仁愛與「民之受賜也普矣，莫識其由來者」的普遍德澤，落點是領導者如何利益群體"
+    },
+    {
+      "chapter": "06",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "子思因孟子車「言稱堯、舜，性樂仁義，世所稀有也」而破格敬待，並說「事之猶可，況加敬乎」，整則事蹟在講如何識別並尊重有志有才者"
+    },
+    {
+      "chapter": "06",
+      "para_index": 4,
+      "domains": ["IV"],
+      "modes": ["ritual", "proposition"],
+      "reason": "「同姓為宗，合族為屬，雖國子之尊，不廢其親。所以崇愛也」以吊祭、食序、昭穆和禁婚等宗族儀節維繫親愛與家族傳承"
+    },
+    {
+      "chapter": "06",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "子思拒絕「虛飾」先君名聲，主張「毀不居之室以賜窮民，奪嬖寵之祿以賑困匱」，把君主的誠實品格落實為救困與消除民怨的治理"
+    },
+    {
+      "chapter": "06",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「夏數得天」「殷、周之王，征伐革命以應乎天」只解釋三代改正朔與三統相承、相革的沿革；換掉朝代與曆制名目後不剩關於人的斷言"
+    },
+    {
+      "chapter": "06",
+      "para_index": 7,
+      "domains": ["IV", "V"],
+      "modes": ["proposition", "formalization"],
+      "reason": "「聖人不以權教，故立制垂法，順之為貴」規範君位傳承；又指出人「必不能審賢愚之分」，故須請父兄群臣並卜於祖廟，兼及家族繼承與公共領導"
+    },
+    {
+      "chapter": "06",
+      "para_index": 8,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「上不仁則下不得其所，上不義則樂為亂也」把在上者的作為連到人民處境與社會亂治，因而主張牧民當先使民得利安身"
+    },
+    {
+      "chapter": "07",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「取其所長棄其所短」主張任才不可因小疵廢大用，並以「杞梓連抱，而有數尺之朽，良工不棄」「以二卵棄干城之將」指出領導者用人失當"
+    },
+    {
+      "chapter": "07",
+      "para_index": 2,
+      "domains": ["II", "V"],
+      "modes": ["proposition"],
+      "reason": "面對以鬚眉相贈的取笑，子思以「人之賢聖在德，豈在貌乎」區分人的價值與外貌，並說王侯「不以此損其敬」，涉及自我評價與他人敬重的根據"
+    },
+    {
+      "chapter": "07",
+      "para_index": 3,
+      "domains": ["I"],
+      "modes": ["proposition"],
+      "reason": "「知以身取節者則知足矣，苟知足則不累其志矣」把節制欲望與知足視為保存志向、不受富貴牽累的生活根本"
+    },
+    {
+      "chapter": "07",
+      "para_index": 4,
+      "domains": ["II", "V"],
+      "modes": ["proposition"],
+      "reason": "「時移世異，人有宜也」主張身分姿態要隨政治處境調整；「伋於此時不自高，人將下吾，不自貴，人將賤吾」又直論自我定位與他人評價、權力關係"
+    },
+    {
+      "chapter": "07",
+      "para_index": 5,
+      "domains": ["IV"],
+      "modes": ["narrative", "proposition"],
+      "reason": "尹文子因孩子不像自己而疑妻，子思以「賢父之有愚子，此由天道自然，非子之妻之罪也」解除婚姻猜疑，最後使他留下妻子"
+    },
+    {
+      "chapter": "07",
+      "para_index": 6,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition"],
+      "reason": "「彼人也，我人也」否定聖道不可企及，並以「稱其言，履其行，夜思之，晝行之」說明人能藉持續實踐養成品格、達到所求"
+    },
+    {
+      "chapter": "07",
+      "para_index": 7,
+      "domains": ["II", "VII"],
+      "modes": ["proposition"],
+      "reason": "「自大而不修，其所以大不大矣；自異而不修，其所以異不異矣」區分自命不凡與真實修養，並以高其行、遠其志、禮辭接人界定可敬的品格"
+    },
+    {
+      "chapter": "07",
+      "para_index": 8,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "大王面對狄人索求而說「社稷所以為民也，不可以所為民者亡民也」「宗廟者私也，不可以吾私害民」，其離國而民眾追隨的事蹟主張領導應以人民而非私產為先"
+    },
+    {
+      "chapter": "07",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「王季以功，九命作伯，受珪瓚鬯之賜，故文王因之，得專征伐」只是考證王季、文王何以得稱西伯及伯職的承襲，未提出關於人的斷言"
+    },
+    {
+      "chapter": "07",
+      "para_index": 10,
+      "domains": ["VIII", "XIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「道為知者傳，苟非其人，道不傳矣」把傳道繫於學者是否堪受，子思脫困後又以「吾困於宋可無作乎」把受困轉成撰述《中庸》的工作與成就"
+    },
+    {
+      "chapter": "08",
+      "para_index": 1,
+      "domains": ["VII", "XI"],
+      "modes": ["ritual", "formalization"],
+      "reason": "巡狩程序中先以「凡求聞者，為求行之也」追問求學是否真為實踐，末又說「吾今而後知不學者淺之為人也」，明指學習和實行能改變人的品格，故不能因大段禮條而判空"
+    },
+    {
+      "chapter": "09",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「今徒以高官厚祿，釣餌君子，無信用之意」指出待遇不能取代真誠授權，子思也拒絕「操竿下釣，以蕩守節之士」，落在領導者招賢與士人出仕選擇"
+    },
+    {
+      "chapter": "09",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「彼為人臣，君將敗，弗能扶而叛之」批判臣下棄責逃亡，並以「又要利以召奸，非忍行也」拒絕用利益招納失義者，兼論公共忠責與品格"
+    },
+    {
+      "chapter": "09",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「尊賢以崇德，舉善以勸民，則四方之內孰敢不化」主張政治應從表揚善行的根本改變群體，而非只追問一名不孝者的過失"
+    },
+    {
+      "chapter": "09",
+      "para_index": 4,
+      "domains": ["II", "IV"],
+      "modes": ["proposition"],
+      "reason": "「臣所記臣祖之言，或親聞之者，有聞之於人者，雖非正其辭，然猶不失其意焉」辨別言辭歸屬與意旨真實，也說明祖孫之間的傳承來源"
+    },
+    {
+      "chapter": "09",
+      "para_index": 5,
+      "domains": ["II", "VII"],
+      "modes": ["proposition", "observation"],
+      "reason": "子思坦言「臣之修善，欲人知之，知之而譽臣，是臣之為善有勸也」，揭示行善、名譽與自我呈現的真實動機；聲稱行善而怕人稱譽者則被判為「非虛則愚也」"
+    },
+    {
+      "chapter": "09",
+      "para_index": 6,
+      "domains": ["II", "XI"],
+      "modes": ["proposition"],
+      "reason": "「大非所病，所病不大也」拒絕為迎合世俗縮小自己的道，並以「大不見容，命也，毀大而求容，罪也，吾弗改矣」區分命運限制與自主選擇"
+    },
+    {
+      "chapter": "09",
+      "para_index": 7,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "子思因貧困「將恐絕先人之祀」而受救乏之粟，卻以「方乏於食而乃飲宴，非義也」拒絕酒脯，表明維持祭祀傳承與「度義而行」的分寸"
+    },
+    {
+      "chapter": "09",
+      "para_index": 8,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「開公家之惠，杜私門之利，結恩百姓，修禮鄰國」列出國家復興所需的公共治理與群體關係，並斷言如此「其興也勃矣」"
+    },
+    {
+      "chapter": "09",
+      "para_index": 9,
+      "domains": ["I", "II"],
+      "modes": ["proposition"],
+      "reason": "「不取於人謂之富，不辱於人謂之貴」重新界定富貴，把不依附與不受辱視為人的尊嚴和可選擇的生活價值"
+    }
+  ]
+}

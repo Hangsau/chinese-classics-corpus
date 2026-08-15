@@ -57,7 +57,7 @@ out/ 底下其他批次的輸出是別的執行已經完成並驗收過的成果
 其他禁止事項：不要跑任何 git 指令；不要改 translations/ 底下任何檔案；不要改
 ${DIR}/ 的輸入 .md 與 MANIFEST.json。
 PROMPT
-)" 2>&1 | tail -n 5
+)" < /dev/null 2>&1 | tail -n 5
   clobber=""
   while read -r h f; do
     # Git Bash 的 sha256sum 走 binary 模式，輸出是 `<hash> *<path>`。不剝掉那個星號，
