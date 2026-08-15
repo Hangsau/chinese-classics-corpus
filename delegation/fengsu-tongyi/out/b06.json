@@ -1,0 +1,362 @@
+{
+  "batch": "b06.md",
+  "rows": [
+    {
+      "chapter": "膢",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["ritual"],
+      "reason": "「楚俗常以十二月祭飲食」與「食新曰膢」只考祭名、月份及名義，沒有對人的生活或品性下判斷"
+    },
+    {
+      "chapter": "膢",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["ritual", "formalization"],
+      "reason": "本段列夏、殷、周、漢祭名，並以「漢家火行，衰於戌，故以戌臘」推定祭日，屬禮制與曆法考證"
+    },
+    {
+      "chapter": "祖",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["ritual", "formalization"],
+      "reason": "由「祀以為祖神」考祖神來歷，又以「漢家火行，盛於午，故以午祖」推算祀時，只是祀典考證"
+    },
+    {
+      "chapter": "禊",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["ritual", "formalization"],
+      "reason": "「禊者，潔也」以下用春、巳的聲訓解釋水上祓除及祈福時節，屬儀節名義與時日推演，不是在寫人的疾病處境"
+    },
+    {
+      "chapter": "司命",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["ritual", "formalization"],
+      "reason": "本段辨「司命，文昌也」及槱燎之義，又記木像尺寸、祠舍與春秋祭祀，是神名、器制和祭俗的登錄"
+    },
+    {
+      "chapter": "世間多有見怪驚怖以自傷者",
+      "para_index": 1,
+      "domains": ["XI", "IX"],
+      "modes": ["narrative", "proposition"],
+      "reason": "皇士以「物惡能傷公，公自傷也」指出病由自身驚怖而非怪物所致，桓公釋懷後「不終日而病癒」，兼及病中處境與可改變的解釋"
+    },
+    {
+      "chapter": "世間多有見怪驚怖以自傷者",
+      "para_index": 2,
+      "domains": ["IX", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "杜宣因杯中蛇影而「胸腹痛切」，得知「此壁上弩影耳，非有他怪」後「意遂解…由是瘳平」，寫疾病如何因認知轉變而解除"
+    },
+    {
+      "chapter": "世間多有惡夢變難必效",
+      "para_index": 1,
+      "domains": ["VII", "V"],
+      "modes": ["narrative"],
+      "reason": "前則明言「晏子不為奪人之功，占夢者不蔽人之能」，評的是不掠功、不掩能；後則寫劉章抗拒諸呂、扶立文帝，承載忠勇與公共責任"
+    },
+    {
+      "chapter": "世間多有惡夢變難必效",
+      "para_index": 2,
+      "domains": ["XI", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "百姓被「轉相誑曜，言有神明」煽動，陳蕃、曹操禁絕後政清，末以「安有鬼神能為病者哉」否定鬼神致病並指出治理責任"
+    },
+    {
+      "chapter": "世間多有惡夢變難必效",
+      "para_index": 3,
+      "domains": ["XI", "V"],
+      "modes": ["prescription", "ritual"],
+      "reason": "移書以「死生有命，善凶由人」破除迷惑，又指淫祀「糜財妨農，長亂積惑」，遂規定歲祀次數、禁殺牛與攤派，兼論迷信及公共治理"
+    },
+    {
+      "chapter": "世間多有惡夢變難必效",
+      "para_index": 4,
+      "domains": ["IV", "V"],
+      "modes": ["observation"],
+      "reason": "巫者強取男女為「公嫗」，使「男不得復娶，女不得復嫁，百姓苦之」，直接寫婚姻生活被群體權力侵害"
+    },
+    {
+      "chapter": "世間多有惡夢變難必效",
+      "para_index": 5,
+      "domains": ["XI", "V"],
+      "modes": ["narrative", "prescription"],
+      "reason": "宋均反以巫家男女備選，迫使「巫扣頭服罪」，並使惡俗「是後遂絕」，揭破巫者假托神旨且以官令解除對百姓的壓迫"
+    },
+    {
+      "chapter": "會稽俗多淫祀",
+      "para_index": 1,
+      "domains": ["XI", "V"],
+      "modes": ["observation"],
+      "reason": "巫祝利用「民畏其口，懼被祟」聚斂，造成「財盡於鬼神，產匱於祭祀」，寫迷懼如何形成剝削與民生損害"
+    },
+    {
+      "chapter": "會稽俗多淫祀",
+      "para_index": 2,
+      "domains": ["XI", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "第五倫以「使其無知，又何能禍人」否定鬼神加禍，並懲治「依託鬼神，恐怖愚民」的巫祝，寫破除迷信及為政保民"
+    },
+    {
+      "chapter": "鮑君神",
+      "para_index": 1,
+      "domains": ["XI", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "鮑魚主人揭明「此我魚也，當有何神」，末句「言人共獎成之耳」把神驗還原為眾人相互鼓吹形成的信念"
+    },
+    {
+      "chapter": "李君神",
+      "para_index": 1,
+      "domains": ["XI", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "目痛本是「小疾，亦行自愈」，眾人卻相傳李樹有神；張助以「此有何神，乃我所種爾」揭破群體附會"
+    },
+    {
+      "chapter": "石賢士神",
+      "para_index": 1,
+      "domains": ["XI", "IX"],
+      "modes": ["narrative", "proposition"],
+      "reason": "路人戲言石人治病後眾人仿效，文本明說「凡人病自愈者，因言得其福力」，把頭腹疼痛的自癒從神力歸回自然病程"
+    },
+    {
+      "chapter": "石賢士神",
+      "para_index": 2,
+      "domains": ["XII", "X"],
+      "modes": ["observation"],
+      "reason": "「亡人魄持其家語聲氣，所說良是」直接宣稱死者之魄能借家人說話且內容確實，認證死後靈異現象"
+    },
+    {
+      "chapter": "石賢士神",
+      "para_index": 3,
+      "domains": ["XII", "X"],
+      "modes": ["narrative"],
+      "reason": "附體者說出借券、錢物等隱情而「往求索之，悉如其言」，家人誤認漢直已死而迎喪，文本記錄靈異知情及由死訊造成的哀傷"
+    },
+    {
+      "chapter": "石賢士神",
+      "para_index": 4,
+      "domains": ["X", "XI"],
+      "modes": ["proposition"],
+      "reason": "以「精氣消越，骨肉歸於土」說明死亡，並由多重反證斷言「猶死者無知審矣」，同時論死亡本質與否定亡者作祟"
+    },
+    {
+      "chapter": "石賢士神",
+      "para_index": 5,
+      "domains": ["X", "XI"],
+      "modes": ["observation"],
+      "reason": "本段記家人把亡者現形信以為真而「益用悲傷」，寫喪失中的哀痛又被對鬼魂的誤認加深"
+    },
+    {
+      "chapter": "石賢士神",
+      "para_index": 6,
+      "domains": ["XI", "X"],
+      "modes": ["narrative"],
+      "reason": "來季德家人把出現者當亡者而反覆大哀，待其醉後形壞才發現「但得老狗」，以辨認真相解除亡魂迷信並呈現家人的喪痛"
+    },
+    {
+      "chapter": "石賢士神",
+      "para_index": 7,
+      "domains": ["XI"],
+      "modes": ["observation"],
+      "reason": "「狗作變怪」時殺狗、以血塗門仍「眾得咎殃」，記錄人以禁忌儀式求避禍而不能改變結果"
+    },
+    {
+      "chapter": "石賢士神",
+      "para_index": 8,
+      "domains": ["XI", "VII"],
+      "modes": ["narrative"],
+      "reason": "李叔堅逐次把狗立行、戴冠、蓄火作平常因由解釋，堅持「此有何惡」，終至狗死而「卒無纖介之異」，寫不受怪說支配的鎮定品格"
+    },
+    {
+      "chapter": "石賢士神",
+      "para_index": 9,
+      "domains": ["XI", "XII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "前半說「小人愚而善畏」且災由「斯自取」以破除怪說；後半又以守蛇吏夢「天殺蛇」及翌日蛇已爛認證感應，兩個方向並存"
+    },
+    {
+      "chapter": "石賢士神",
+      "para_index": 10,
+      "domains": ["XI", "VII"],
+      "modes": ["narrative"],
+      "reason": "武帝「迷于鬼神」而令越巫詛董仲舒，仲舒守禮誦經而「不能傷害」，以巫術失效及董氏不屈揭破其可信性"
+    },
+    {
+      "chapter": "世間多有精物妖怪百端",
+      "para_index": 1,
+      "domains": ["XII"],
+      "modes": ["narrative", "observation"],
+      "reason": "本段把兵弩自行、鏡忽失而復現、女孫失蹤後在糞下啼等異事列為「若此非一」，文本自身把妖異當作實有現象記錄"
+    },
+    {
+      "chapter": "世間多有精物妖怪百端",
+      "para_index": 2,
+      "domains": ["XII"],
+      "modes": ["narrative"],
+      "reason": "許季山卜出老青狗及益喜，處置後「皆如其言，因斷無纖介」，以後事吻合認證占卜與怪異因由"
+    },
+    {
+      "chapter": "世間多有精物妖怪百端",
+      "para_index": 3,
+      "domains": ["XII", "X"],
+      "modes": ["narrative"],
+      "reason": "鄭奇與新亡吳氏婦同宿，亭卒翌日見其死身，奇旋即腹痛身亡，故事把亡者現形與死亡當作實際徵驗"
+    },
+    {
+      "chapter": "世間多有精物妖怪百端",
+      "para_index": 4,
+      "domains": ["XI", "VII"],
+      "modes": ["narrative"],
+      "reason": "郅伯夷不從吏卒的恐懼，夜中制服怪物後照見只是「老狸」，燒殺後怪事遂絕，寫以膽識與查驗破除妖魅"
+    },
+    {
+      "chapter": "世間多有精物妖怪百端",
+      "para_index": 5,
+      "domains": ["XII", "X"],
+      "modes": ["proposition"],
+      "reason": "以鱉令死而復蘇、尹奇死後屍飛的記載作證，反問「樓上新婦，豈虛也哉」，明確認證死者異變並非虛構"
+    },
+    {
+      "chapter": "世間多有伐木血出以為怪者",
+      "para_index": 1,
+      "domains": ["XI", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "張叔高以「老樹汁出，此何等血」拒絕怪說，眾人伏地時仍「恬如也」，末句「物惡能害人乎」以其膽識否定木怪加禍"
+    },
+    {
+      "chapter": "世間多有蛇作怪者",
+      "para_index": 1,
+      "domains": ["XII"],
+      "modes": ["narrative"],
+      "reason": "甯方所卜邊將、方位與官名後來「紀數方面，如甯方之言」，末又說「或得神以昌」，文本明確認證卜兆應驗"
+    },
+    {
+      "chapter": "世間人家多有見赤白光為變怪者",
+      "para_index": 1,
+      "domains": ["XII"],
+      "modes": ["narrative"],
+      "reason": "董彥興預告哭聲、北行金名之郡及位至將軍三公，後事逐項符合，末以「今妖見此而應在彼」明確認證徵應"
+    },
+    {
+      "chapter": "山澤",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "本段把五嶽、四瀆按三公、諸侯等級排列，並以「積其類曰山澤」釋名，只是山川名義與禮制分等"
+    },
+    {
+      "chapter": "五嶽",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "ritual"],
+      "reason": "通段列五嶽名稱、方位、字義、廟址、祀月與祭品數量；「岱宗廟在博縣西北三十裡」等皆屬地理和祀典規格"
+    },
+    {
+      "chapter": "五嶽",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["ritual", "formalization"],
+      "reason": "本段逐月列東南西北巡狩及「皆如岱宗之禮」，又用五歲再閏解釋周期，中心是巡狩禮制和曆法安排"
+    },
+    {
+      "chapter": "四瀆",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "ritual"],
+      "reason": "逐一登錄河、江、淮、濟的源流、入海方向、廟址和祠禮，屬山川地理及祭祀名物考證"
+    },
+    {
+      "chapter": "四瀆",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「瀆者，通也」以下逐一用貢、播、均、齊聲訓四瀆名稱，所述五穀、貢物與度量仍是地理名義說明"
+    },
+    {
+      "chapter": "林",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "observation"],
+      "reason": "以「林，樹木之所聚生也」釋義，並記配林位置及親見樹木衰少，只是地名、地貌考察"
+    },
+    {
+      "chapter": "麓",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「麓，林屬於山者也」與「麓者，山足也」皆為地形詞義考證，其餘引文只作詞例"
+    },
+    {
+      "chapter": "京",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「丘之絕高大者為京」及「乃天地性自然也」是在界定天然高丘並追溯京兆、京師之名，通段不對人下判斷"
+    },
+    {
+      "chapter": "陵",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "本段羅列經傳中山陵、殽陵等用例以說明地名，沒有提出關於人的品性或處境的主張"
+    },
+    {
+      "chapter": "陵",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "由殽、加陵的位置與「獨高厲」解釋陵名，再補王公墳壟亦稱陵，屬地理和名義訓詁"
+    },
+    {
+      "chapter": "丘",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "洪水與聚落只用來說明「丘」的字形、地貌及名丘分布，中心仍是地理字義考證而非人的苦難處境"
+    },
+    {
+      "chapter": "墟",
+      "para_index": 1,
+      "domains": ["VII", "V"],
+      "modes": ["proposition"],
+      "reason": "郭氏「善善不能用，惡惡不能去」，使善人怨、惡人存而終於敗亡，直接裁斷統治者的品格與用人治理"
+    },
+    {
+      "chapter": "阜",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「阜者，茂也」以下界定不連山陵的隆起平地，並記曲阜、芒阪的位置尺度，是地形訓詁"
+    },
+    {
+      "chapter": "部",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「部塿無松柏」只用來說其「卑小」，再辨部為阜類及齊魯間稱法，純屬地貌名義"
+    },
+    {
+      "chapter": "藪",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "本段釋「藪者，澤也」並逐州列藪名與所在，草木魚鱉養人只是地理資源功能，沒有對人下判斷"
+    },
+    {
+      "chapter": "藪",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「水草交厝名之為澤」及雷澤所在是在界定澤的地貌與名稱；「潤澤萬物，以阜民用」仍是功能性地理訓詁"
+    },
+    {
+      "chapter": "藪",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「沆者，莽也」以下以平望無涯、無水斥鹵解釋沆澤，純為地形詞義與俗語考證"
+    }
+  ]
+}
