@@ -1,0 +1,264 @@
+{
+  "batch": "b03.md",
+  "rows": [
+    {
+      "chapter": "10",
+      "para_index": 1,
+      "domains": [],
+      "modes": [],
+      "reason": "本段只有「屈己以伸道乎，抗志以貧賤乎」的提問，尚未提出回答或關於人的斷言"
+    },
+    {
+      "chapter": "10",
+      "para_index": 2,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「屈己則制於人，抗志則不愧於道」並以「士雖懷道，貪以死祿矣」指出貪祿會使人放棄操守"
+    },
+    {
+      "chapter": "10",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["ritual", "formalization"],
+      "reason": "「臣而去國，君不掃其宗廟，則不為之服，寓乎是國，而為國服」是在列喪服與所事之君的禮制規則；「明不二君之義」仍是制度自身的理由"
+    },
+    {
+      "chapter": "10",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「君闇臣諂，以居百姓之上，民弗與也」指出君主自是與臣下阿諛會排斥眾議、失去人民支持"
+    },
+    {
+      "chapter": "10",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「賢之則順而有福，矯之則逆而有禍」說明權力以禍福壓制異議，終使君臣同聲自賢而善政無從產生"
+    },
+    {
+      "chapter": "10",
+      "para_index": 6,
+      "domains": ["V", "XI"],
+      "modes": ["proposition"],
+      "reason": "「希旨容媚，則君親之；中正弼非，則君疏之」揭示領導者造成諂媚的獎懲環境；「口順而心不懌者，臨其事必疣」又判斷口頭認錯不足以真正改變"
+    },
+    {
+      "chapter": "10",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["ritual", "formalization"],
+      "reason": "「期大功之喪，服其所除之服以葬；既葬而除之」逐項規定改葬時的服制與除服時序，替換服名後只剩儀節程序"
+    },
+    {
+      "chapter": "10",
+      "para_index": 8,
+      "domains": ["II", "V"],
+      "modes": ["proposition", "observation"],
+      "reason": "「以人口而親敬吾，則亦以人口而疏慢吾矣」辨別口頭敬重與真心，並以「修實而不修名」者反襯公叔子愛同己而不能識賢"
+    },
+    {
+      "chapter": "10",
+      "para_index": 9,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「君取士果信名而不由實者也」指出君主以出身之名而非實際賢才選人，使有才者不能被任用"
+    },
+    {
+      "chapter": "10",
+      "para_index": 10,
+      "domains": ["I", "X"],
+      "modes": ["proposition"],
+      "reason": "「生不足以喜之……死不足以禁之」與「明於死生之分，通於利害之變」主張體道者能確立超越生死利害的生命取向"
+    },
+    {
+      "chapter": "10",
+      "para_index": 11,
+      "domains": ["VI", "VII"],
+      "modes": ["proposition"],
+      "reason": "「夫水之性清而土壤汨之，人之性安而嗜欲亂之」把內在失序歸因於嗜欲，並主張去除貪利與求名之心"
+    },
+    {
+      "chapter": "10",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["ritual", "formalization"],
+      "reason": "「此女氏之字，非夫氏之名也，婦人於夫氏，以姓氏稱禮也」只是喪禮中複者稱名方式的名物規則"
+    },
+    {
+      "chapter": "10",
+      "para_index": 13,
+      "domains": ["VI", "XIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「憂世之不治，而泣涕不禁，是憂河水之濁而以泣清之也」指出無法自禁的憂泣無益，並勸人轉而「患身之不治」以安頓亂世中的自己"
+    },
+    {
+      "chapter": "10",
+      "para_index": 14,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "「文王葬枯骨而天下知仁，商紂斬朝涉而天下稱暴」說明人民會由掌權者所施判斷其意；「因心之忿，遷戮不辜」則呈現怒氣造成不義殺戮"
+    },
+    {
+      "chapter": "10",
+      "para_index": 15,
+      "domains": ["V", "VIII"],
+      "modes": ["prescription"],
+      "reason": "「今公子紹康叔之緒，處戰伐之世，當務收英雄保其疆土」主張身居公子之位者應依時勢承擔領導與用才的職分"
+    },
+    {
+      "chapter": "10",
+      "para_index": 16,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「禮雖有爵賜人，不逾父兄」與「為人子者三賜不及車馬」是在界定不同身分可受贈物的禮制上限"
+    },
+    {
+      "chapter": "10",
+      "para_index": 17,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "穆公欲相而子思將去的事蹟以「君子猶鳥也，疑之則舉」說明君臣失去信任便不能共事，並批評君主「以己限天下之君臣」"
+    },
+    {
+      "chapter": "10",
+      "para_index": 18,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "observation"],
+      "reason": "子思拒絕「虛談於起」替任相者造名，並據「今起以貪成富」與「以好色聞於齊國」判斷其品格不足以任用"
+    },
+    {
+      "chapter": "10",
+      "para_index": 19,
+      "domains": ["II", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「齒堅剛卒盡相磨，舌柔順終以不獘」以剛柔比喻臣者的性情與處世方式；子思以「吾不能為舌，故不能事君」界定自己不適合仕君"
+    },
+    {
+      "chapter": "11",
+      "para_index": 1,
+      "domains": ["II"],
+      "modes": ["formalization", "observation"],
+      "reason": "長篇白馬名辯最後轉向對辯者的判定，子高以「言非而轉，巧而不理」指出一種巧辭掩蓋不合理的表現"
+    },
+    {
+      "chapter": "11",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「色以名別內由外顯，謂之白馬，名實當矣」以下只在推演色名與物質的先後及白馬之名是否當物"
+    },
+    {
+      "chapter": "11",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「是則異楚王之所謂楚，非異楚王之所謂人也」只是拆分『楚』與『人』所指的名實推論"
+    },
+    {
+      "chapter": "11",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「凡言人者，總謂人也；亦猶言馬者，總謂馬也」只以楚、人、白、馬的類名關係破白馬之辨"
+    },
+    {
+      "chapter": "11",
+      "para_index": 5,
+      "domains": ["II"],
+      "modes": ["narrative", "proposition"],
+      "reason": "臧三耳辯論的事蹟落在「不知君將從易而是者乎，亦從難而非者乎」，把人會選擇艱難巧辭還是簡易真實作為判斷重點"
+    },
+    {
+      "chapter": "11",
+      "para_index": 6,
+      "domains": ["VII", "VIII"],
+      "modes": ["proposition"],
+      "reason": "議論曹良能否出仕時，以「身修計明而貧者志不存也，身不修會計闇而富者，非盜無所得之也」從志向與品行判斷其任職能力"
+    },
+    {
+      "chapter": "12",
+      "para_index": 1,
+      "domains": ["II", "VII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "前文雖分類儒者因職分而穿的服裝，末句以「取包眾美兼六藝，動靜不失中道」界定儒者的身分與品格"
+    },
+    {
+      "chapter": "12",
+      "para_index": 2,
+      "domains": ["V", "VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "送別事蹟圍繞友人「戀戀之心」與「悽愴流涕」，並以「大奸之人，以泣自信，婦人懦夫，以泣著愛」分析流淚所表達的內心及關係"
+    },
+    {
+      "chapter": "12",
+      "para_index": 3,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「賢聖以道德兼人，未聞以飲食也」否定以酒量衡量聖賢，改以道德作為品格高下的標準"
+    },
+    {
+      "chapter": "12",
+      "para_index": 4,
+      "domains": ["II", "V"],
+      "modes": ["proposition"],
+      "reason": "「士之相信，聞流言而不信者何哉以其所巳行之事占之也」主張應依一貫行跡判斷人的真實身分與名聲，而不隨人際流言起疑"
+    },
+    {
+      "chapter": "12",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["ritual", "formalization"],
+      "reason": "「衣服隨其方色，執事人數從其方之數」以下是祈勝、誓眾、習射的軍禮程序；「賞功於祖，告分之均，示不敢專也」仍只解釋制度自身的安排"
+    },
+    {
+      "chapter": "12",
+      "para_index": 6,
+      "domains": ["VII", "XI"],
+      "modes": ["prescription", "proposition"],
+      "reason": "「意不可恣也」要求約束任性習慣，又以「木之性以隱括自直，可以人而不如木乎」斷言人能矯正自己，陳尫也承諾「請終改之」"
+    },
+    {
+      "chapter": "12",
+      "para_index": 7,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「以周公之聖，兄弟相知之審，而近失於管蔡，明人難知也」指出領導者識才本難，並以「人各有能」主張不應因一次戰敗棄置武勇之才"
+    },
+    {
+      "chapter": "13",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「嬖臣以遇徼幸者，內則射合主心，外則挺主之非，此最人主之大患也」指出倖臣迎合並助長君主錯誤，是權力領導的重大危險"
+    },
+    {
+      "chapter": "13",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「賢愚共貫，則能士匿謀，真偽相錯，則正士結舌」說明把能者與庸者置於同一權責會壓抑才能與正直意見"
+    },
+    {
+      "chapter": "13",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "「計陳事成，主裁其賞；事敗，臣執其咎」規定大臣的工作責任，並以「君不猜於臣，臣不隱於君」主張君臣互信才能各有所得"
+    },
+    {
+      "chapter": "13",
+      "para_index": 4,
+      "domains": ["V", "VI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「夫人含五常之性，有喜怒哀樂。喜怒哀樂無過其節，節過則毀於義」直接論情緒失節，並以「民多犯法，以法重無所措手足也」及臣下畏禍不諫分析酷刑與權力如何導致危亡"
+    },
+    {
+      "chapter": "13",
+      "para_index": 5,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "observation"],
+      "reason": "「夫見敬在德，且臣所稱，稱其材也」反駁以容貌選官，並用晏子、趙文子與屠商的品題說明任用應看德才而非軀形"
+    }
+  ]
+}
