@@ -1,0 +1,213 @@
+{
+  "batch": "b03",
+  "rows": [
+    {
+      "chapter": "《文烈侯楊公碑》",
+      "para_index": 1,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["narrative", "observation"],
+      "confidence": 0.98,
+      "reason": "「授誨童冠」使後生得以「發祛蒙蔽、文其材素」，入宮後又善誘帝王，而「處豐益約，九命滋恭」寫出位愈高而愈謙恭的操守。"
+    },
+    {
+      "chapter": "《文烈侯楊公碑》",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["ritual", "proposition"],
+      "confidence": 0.93,
+      "reason": "以「匪師不教」申明教師之用，並由「誨茲一人」推至「萬邦作順」，把傳道職分連到公共治理的後果。"
+    },
+    {
+      "chapter": "《司空文烈侯楊公碑》",
+      "para_index": 1,
+      "domains": ["IV", "V", "VII"],
+      "modes": ["observation", "proposition"],
+      "confidence": 0.96,
+      "reason": "「惟刑之恤」而使斷獄合憲，寫其司法責任；「敬敷五教」又明列「父義、母慈、兄友、弟恭、子孝」，把家內角色及德行規範說出具體內容。"
+    },
+    {
+      "chapter": "《司空文烈侯楊公碑》",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["observation"],
+      "confidence": 0.94,
+      "reason": "帝王施政有偏時「公則弼之」，且「虔恭夙夜，不敢荒寧」，以實際輔弼職責落實勤謹之德。"
+    },
+    {
+      "chapter": "《司空文烈侯楊公碑》",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["ritual", "observation"],
+      "confidence": 0.9,
+      "reason": "頌辭不只列美號，還說其「悉心畢力」遂使「化洽群心，澤漫綿宇」，將盡責操守連到群體受益。"
+    },
+    {
+      "chapter": "《琅邪王傅蔡君碑》",
+      "para_index": 1,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["narrative", "observation"],
+      "confidence": 0.98,
+      "reason": "蔡朗以《魯詩》教授而使生徒遠至，選士時「抑頑錯枉，進聖擢偉」，任王傅又用經術與規誨使「其國用靖」，兼具學業、操守與公共任用的實效。"
+    },
+    {
+      "chapter": "《琅邪王傅蔡君碑》",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["ritual", "observation"],
+      "confidence": 0.88,
+      "reason": "「養徒三千」與「定此典文」記其教學及整理典籍的成就，「俾相二蕃」則把所學用于輔導藩國。"
+    },
+    {
+      "chapter": "《劉鎮南碑》",
+      "para_index": 1,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["narrative", "observation"],
+      "confidence": 0.98,
+      "reason": "亂世中「招命英俊、選才任良」，又「布愷悌，流惠和」，結果是四境保全、民安穀豐且百工技藝「利民無窮」，具體寫出用人、品行與治理成效。"
+    },
+    {
+      "chapter": "《劉鎮南碑》",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["formalization", "observation"],
+      "confidence": 0.89,
+      "reason": "交州長吏有缺時由他「權為選置，以安荒裔」，又「輒別上聞」，寫出在中央道路未通時兼顧安民與呈報的領導作法。"
+    },
+    {
+      "chapter": "《劉鎮南碑》",
+      "para_index": 3,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["observation", "proposition"],
+      "confidence": 0.98,
+      "reason": "廣設學校、召集儒生並刪除五經浮辭，使學者「用力少」而「探微知機者多」；待文武屬吏禮厚辭雅，自己又「不伐其善，不有其庸」。"
+    },
+    {
+      "chapter": "《劉鎮南碑》",
+      "para_index": 4,
+      "domains": ["V", "X"],
+      "modes": ["narrative", "observation"],
+      "confidence": 0.94,
+      "reason": "劉表死後「耕夫罷耜，織女投杼，老幼哀號」，州里眾人又自發備辦送柩資具，具體呈現共同失去與群體報德。"
+    },
+    {
+      "chapter": "《劉鎮南碑》",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["ritual", "observation"],
+      "confidence": 0.92,
+      "reason": "「溫溫其仁」不是孤立頌字，後文以「將軍之來，民安物豐」及「刑清國興」交代仁德施政的公共結果。"
+    },
+    {
+      "chapter": "薦太尉董卓表",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "prescription"],
+      "confidence": 0.96,
+      "reason": "在列舉赴難、平亂及「辭多受少」等功績後，明請陛下「益隆委任、數加訪問、厚其爵賞，責以相業之成」，以所成之功作為任用與獎賞依據。"
+    },
+    {
+      "chapter": "讓尚書乞在閒宂表",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["expression", "observation"],
+      "confidence": 0.95,
+      "reason": "只回顧「流離藏竄十有二年」及「三月之中，充歷三臺」的個人官歷，末以「非臣愚蔽不才所當」作謝恩辭讓。"
+    },
+    {
+      "chapter": "讓尚書乞在閒宂表",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["expression", "prescription"],
+      "confidence": 0.87,
+      "reason": "以「不更郎署，攝省文書，其猶面牆」對照六名舊臣的任官資歷，結論只是請求「乞在他署，抱關執籥」的調職自陳。"
+    },
+    {
+      "chapter": "巴郡太守謝版",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["expression", "prescription"],
+      "confidence": 0.9,
+      "reason": "逐項陳述巴郡授命、歷任與詔賜物品，反覆提出「願乞還詔命」及「非臣才力所能供給」，內容止于辭任表的事由與格式。"
+    },
+    {
+      "chapter": "宗廟祝嘏辭",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["ritual"],
+      "confidence": 0.99,
+      "reason": "以「敢昭告于皇祖」敘遷都告廟，接著列潔牲、酒食等祭品而以「尚享」收尾，全段是告祭儀辭。"
+    },
+    {
+      "chapter": "九祝辭",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["ritual"],
+      "confidence": 0.99,
+      "reason": "「承致多福無疆」以下盡是受祿、眉壽與「子子孫孫，永守民庶」的祝嘏套辭。"
+    },
+    {
+      "chapter": "宗廟迭毀議",
+      "para_index": 1,
+      "domains": ["IV", "V", "VII"],
+      "modes": ["formalization", "prescription"],
+      "confidence": 0.96,
+      "reason": "先稱古臣「不敢私其君父」，再批評嗣帝「各欲襃崇至親」而臣下懦弱、不能執直，明說家親偏私與臣德會使公共廟制失去限度。"
+    },
+    {
+      "chapter": "上始加元服與群臣上壽表",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["ritual"],
+      "confidence": 0.97,
+      "reason": "全段圍繞「始加元服」的吉日賀儀，群臣奉酒稽首並祝「萬壽無疆」，所列聖姿與吉福皆服務于上壽頌辭。"
+    },
+    {
+      "chapter": "表賀錄換誤上章謝罪",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "expression"],
+      "confidence": 0.99,
+      "reason": "交代把李參、杜衍的在任狀態誤錄、受劾後以「一月俸贖罪」的公文差錯與處分，「怔營慚怖」隨謝罪表格式而出。"
+    },
+    {
+      "chapter": "讓高陽侯印綬符策表",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "confidence": 0.99,
+      "reason": "詔文只登錄封為高陽鄉侯、下授印綬符策及「食五百戶，歲五十萬穀各米」的封賞規格。"
+    },
+    {
+      "chapter": "讓高陽侯印綬符策表",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["expression", "observation"],
+      "confidence": 0.99,
+      "reason": "從「少竊方正」到「還備侍中」逐項列履歷，並反覆以「糠粃小生、學術虛淺」及「非臣才量所能祗奉」辭讓封爵。"
+    },
+    {
+      "chapter": "讓高陽侯印綬符策表",
+      "para_index": 3,
+      "domains": ["VII", "XIII"],
+      "modes": ["proposition", "expression"],
+      "confidence": 0.99,
+      "reason": "以戰功勞苦反襯自己「事輕葭莩，功薄蟬翼」而不肯冒受厚賞，末用鷦鷯一枝、偃鼠滿腹說明「小人之情，求足而已」的知足取向。"
+    },
+    {
+      "chapter": "再讓高陽侯印綬符策表",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "expression"],
+      "confidence": 0.94,
+      "reason": "以「以德受命，功德靡堪，讓所不如」界定受任與辭讓的準則，又稱范正守禮讓而「其下化之」，把公位分配連到品格及示範後果。"
+    },
+    {
+      "chapter": "《郭有道林宗碑》",
+      "para_index": 1,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["narrative", "observation"],
+      "confidence": 0.98,
+      "reason": "郭泰「砥節礪行，直道正辭」，考覽六籍並周流求學，後來「收朋勤誨」使童蒙祛蔽；對州郡群公的辟舉又皆以疾辭，具體呈現操守、學業與公共進退。"
+    }
+  ]
+}
