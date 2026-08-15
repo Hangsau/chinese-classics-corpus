@@ -1,7 +1,7 @@
 # VIII 工作·成就·召喚
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 774 段命中｜跨 34 部｜生成時間 2026-08-15T13:56:36+00:00
+> 774 段命中｜跨 34 部｜生成時間 2026-08-15T14:37:06+00:00
 
 工作與金錢、成就與意義、天賦與使命
 
@@ -11,7 +11,7 @@
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jiuzhang-suanshu`（九章算術）　`shenyijing`（神異經）　`sima-fa`（司馬法）
+`duduan`（獨斷）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jiuzhang-suanshu`（九章算術）　`shenyijing`（神異經）　`sima-fa`（司馬法）
 
 ## 韓非子（法家）　92 段
 

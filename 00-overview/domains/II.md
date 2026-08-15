@@ -1,7 +1,7 @@
 # II 自我與認同
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 531 段命中｜跨 28 部｜生成時間 2026-08-15T13:56:36+00:00
+> 531 段命中｜跨 28 部｜生成時間 2026-08-15T14:37:06+00:00
 
 我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我
 
@@ -11,7 +11,7 @@
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`fangyan`（方言）　`gongsun-longzi`（公孫龍子）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`nanjing`（難經）　`san-lue`（三略）　`shenyijing`（神異經）　`sima-fa`（司馬法）
+`duduan`（獨斷）　`fangyan`（方言）　`gongsun-longzi`（公孫龍子）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`nanjing`（難經）　`san-lue`（三略）　`shenyijing`（神異經）　`sima-fa`（司馬法）
 
 ## 世說新語（人論）　229 段
 

@@ -1,0 +1,173 @@
+{
+  "batch": "b04.md",
+  "rows": [
+    {
+      "chapter": "天子出車駕",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「有大駕有小駕有法駕」以下登錄各等鹵簿的奉引者、乘員、屬車數與使用場合，是車駕儀制的等級和程序規格，沒有說人會變成怎樣、該怎麼做或該受何種評價"
+    },
+    {
+      "chapter": "天子出車駕",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「金根車」「戎立車」「耕根車」「蹋豬車」「皇孫車」逐項對照車名、馬匹配置、用途與乘用者，屬車輿名目和使用規格登錄，通段不對人下判斷"
+    },
+    {
+      "chapter": "天子出車駕",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「凡乗輿車皆羽蓋，金華爪，黃屋左纛金鑁方釳繁纓重轂副牽」只是列出乘輿車的標準構件與裝飾，沒有登錄之外的人的主張"
+    },
+    {
+      "chapter": "天子出車駕",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「高廣各四寸」「有三孔，揷翟尾其中」分別說明左纛、金鑁、方釳、繁纓的材料、尺寸、形狀和安裝位置，是器物規格"
+    },
+    {
+      "chapter": "天子出車駕",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「轂外復有一轂」「廣八寸，長註地」登錄重轂與飛軨的構造、尺寸、紋飾，並以「今二千石亦然，但無畫耳」區分使用規格，未對人作規範或評價"
+    },
+    {
+      "chapter": "天子出車駕",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization", "observation"],
+      "reason": "「前驅有九斿雲罕闒戟皮軒鑾旗車」至「最後一車懸豹尾」登錄車列次序與配置；「秦滅九國兼其車服」則交代八十一乘的制度來歷，兩者都不形成對人的判斷"
+    },
+    {
+      "chapter": "天子出車駕",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization", "observation"],
+      "reason": "「永安七年建金根耕根諸禦車」交代建造紀年，後文「皆一轅，或四馬或六馬」及龍虎鳥龜等紋飾是車體形制記錄，沒有談人的處境、行為或品格"
+    },
+    {
+      "chapter": "冕冠",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "observation"],
+      "reason": "「周曰爵弁，殷曰冔，夏曰收」與十二旒、九旒、七旒的尺寸和服用者，是冠名沿革及等級規格；「漢興至孝明帝永平二年」只是制式形成史，通段不對人下判斷"
+    },
+    {
+      "chapter": "冕冠",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「天子冠通天冠，諸侯王冠遠遊冠，公侯冠進賢冠」並按官秩配三梁、兩梁、一梁，是身分與冠制的對照表，不是在主張人應具何種品格"
+    },
+    {
+      "chapter": "冕冠",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「天子十二旒，三公九，諸侯卿七」以下把旒數、衣飾、官職、禮儀場合和冠名逐項配對，是冠服制度登錄，沒有制度之外的人生判斷"
+    },
+    {
+      "chapter": "冕冠",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative", "formalization"],
+      "reason": "「孝武帝幸館陶公主家，召見董偃」以及元帝、王莽的事例敘述幘與巾的來歷，末句「各隨所宜」仍是在說不同冠式所配耳長，並未提出關於人的通則性判斷"
+    },
+    {
+      "chapter": "冕冠",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization", "observation"],
+      "reason": "「通天冠：天子常服」「遠遊冠：諸侯王所服」「高山冠：齊冠也」是冠名、服用者、形制與來源的逐項登錄；秦滅齊的說法也是名物沿革"
+    },
+    {
+      "chapter": "冕冠",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「前高七寸後三寸，長八寸」並以三梁、兩梁、一梁對應不同官階，是進賢冠的尺寸及等級規格，通段沒有關於人的主張"
+    },
+    {
+      "chapter": "冕冠",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization", "observation"],
+      "reason": "「高五寸，以纚裹鐵柱卷」記法冠形制，「秦制執法服之，今御史廷尉監平服之」及秦滅楚之說記服用者與沿革；獬豸辨名也只是名物考證"
+    },
+    {
+      "chapter": "冕冠",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["formalization", "observation"],
+      "reason": "「武冠……武官服之」「侍中中常侍加黃金附貂蟬之飾」登錄冠名、服用者及裝飾，趙武靈王胡服和齊冠形制則是器物來源與形制史"
+    },
+    {
+      "chapter": "冕冠",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["formalization", "observation"],
+      "reason": "「高祖冠：以竹皮爲之，謂之劉氏冠」說明材料、名稱與楚制來源，「謂之鵲尾冠」也是俗稱記錄，未由此評價人的身分或品格"
+    },
+    {
+      "chapter": "冕冠",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「建華冠」與「方山冠」各自配列材料、珠數、形狀、服用者、祭祀場合和衣色，是兩種冠制的規格與用途對照，不承載對人的判斷"
+    },
+    {
+      "chapter": "冕冠",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["formalization", "observation"],
+      "reason": "「術士冠：前圓吳制邐迤四重」記其形制和趙武靈王曾服的沿革，「今者不用，其說未聞」也是存廢情況，沒有人的規範或評價"
+    },
+    {
+      "chapter": "冕冠",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「巧士冠：高五寸，要後相通，埽除從官服之」只登錄冠的高度、結構與服用職官，屬冠制規格"
+    },
+    {
+      "chapter": "冕冠",
+      "para_index": 13,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「卻非冠：宮門僕射者服之」只是冠名與服用職官的對照，「禮無文」補記文獻狀況，沒有登錄之外的人生主張"
+    },
+    {
+      "chapter": "冕冠",
+      "para_index": 14,
+      "domains": [],
+      "modes": ["formalization", "observation"],
+      "reason": "「廣七寸，前出四寸」記樊噲冠的尺寸，「樊噲造」及「司馬殿門大護衛士服之」交代來源和服用者，仍是器物沿革與規格"
+    },
+    {
+      "chapter": "冕冠",
+      "para_index": 15,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「前高四寸，通長四寸，後高三寸」與「監門衛士服之」登錄卻敵冠的尺寸和服用者，是冠制規格，通段不對人下判斷"
+    },
+    {
+      "chapter": "冕冠",
+      "para_index": 16,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「珠冕、爵、冔、收、通天冠、進賢冠」等是天子所加諸冠的名目總表及次序提示，兩邊都是名物，不是人的行為或評價規則"
+    },
+    {
+      "chapter": "帝謚",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["formalization"],
+      "reason": "「慈惠愛親曰孝，愛民好與曰惠」與「暴虐無親曰厲，去禮遠衆曰煬」把一類行為和品格固定對應到褒貶謚號，是一般性的行為→評價規則，明確涉及善惡、良心與品格"
+    }
+  ]
+}

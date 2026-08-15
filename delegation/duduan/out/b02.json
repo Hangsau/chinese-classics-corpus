@@ -1,0 +1,404 @@
+{
+  "batch": "b02.md",
+  "rows": [
+    {
+      "chapter": "五祀之別名",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["ritual"],
+      "reason": "「秋為少隂，其氣收成，祀之於門」「北靣設主於門左樞戶」及其後戶、行的方位尺寸，登錄的是四季配祀處與設主程序，沒有對人下判斷。"
+    },
+    {
+      "chapter": "五祀之別名",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["ritual"],
+      "reason": "「夏為太陽，其氣長養，祀之於竈」「設主於竈陘也」只規定祀竈的時節、處所與設主位置。"
+    },
+    {
+      "chapter": "五祀之別名",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["ritual"],
+      "reason": "「季夏之月，土氣始盛，其祀中霤」「設主於牖下也」是祀中霤的時令與設位程序，不涉及人的處境或品格。"
+    },
+    {
+      "chapter": "五方正神之別名",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「東方之神，其帝太昊，其神勾芒」至「中央之神，其帝黃帝，其神後土」只是五方、帝與神的名目對照。"
+    },
+    {
+      "chapter": "六神之別名",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "ritual"],
+      "reason": "「能殖百穀以利天下，故祠此三神以報其功也」以公共功績說明報祀，而「欲令萬民加肅敬也」「使人望見則加畏敬也」明說設社會使人產生敬肅，越過單純祀典登錄；所談是群體教化與公共功績，不另作信仰領域。"
+    },
+    {
+      "chapter": "六神之別名",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「春扈氏：農正，趣民耕種」至「老扈氏：農正，趣民收夌」逐項配列九農官名、職掌與鳥聲夾注，是職官名目表。"
+    },
+    {
+      "chapter": "六神之別名",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["ritual"],
+      "reason": "「命方相氏黃金四目……從百隸及童兒而時儺」「畫荼壘，並懸葦索於門戶」記錄逐疫驅鬼的儀節與器物；雖有「疫」「疾殃」和鬼神，並未書寫人的身體處境或信仰實踐。"
+    },
+    {
+      "chapter": "四代臘之別名",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「夏曰嘉平，殷曰清祀，周曰大蠟，漢曰臘」只是四代祭名的對照沿革。"
+    },
+    {
+      "chapter": "五帝臘祖之別名",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "ritual"],
+      "reason": "「青帝以未臘卯祖」至「黃帝以辰臘未祖」把五帝配上臘、祖的干支日，是祭日程序表。"
+    },
+    {
+      "chapter": "天子大蠟八神之別名",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["ritual"],
+      "reason": "「蠟之言索也」是名稱聲訓，「為位相對向，祝曰：土反其宅……」則登錄設位與祝辭，沒有由祝辭進一步對人下判斷。"
+    },
+    {
+      "chapter": "天子大蠟八神之別名",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「先嗇司嗇農郵表綴貓虎……坊水庸昆蟲」是大蠟所索八神的名單，括注也只交代貓虎受祭的功能。"
+    },
+    {
+      "chapter": "五祀之別名（祀臣五義）",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["prescription"],
+      "reason": "「法施於民則祀，以死勤事則祀，以勞定國則祀，能禦大災則祀，能扞大患則祀」給出公共服務與護民功績的入祀資格，判定什麼樣的人值得群體記念，不是祭祀程序。"
+    },
+    {
+      "chapter": "六號之別名",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「神號」「鬼號」「祗號」「牲號」「齊號」「幣號」逐類列出祭祀用美稱，如「牛曰一元大武」，只是名目對照。"
+    },
+    {
+      "chapter": "凡祭宗廟禮牲之別名",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「牛曰一元大武，豕曰剛鬛」至「兔曰明視」逐一對照祭牲及其禮名，是牲名表。"
+    },
+    {
+      "chapter": "凡祭宗廟禮牲之別名",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「脯曰尹祭，槀魚曰商祭」至「幣曰量幣」是祭物稱號表；「所以尊鬼神也」只說制度的象徵用意，沒有落到人會如何或應如何。"
+    },
+    {
+      "chapter": "太祝掌六祝之辭",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「順祝：順豐年也」「年祝求永貞也」至「筞祝逺罪病也」配列六種祝辭名稱與用途，是祝辭名目表。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「清廟一章八句」並注明「洛邑既成，諸侯朝見，宗祀文王之所歌」，只登錄篇名、句數與用樂場合。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「維天之命一章八句」與「吿太平於文王之所歌」是篇目、句數和歌用場合的目次。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「維清一章五句：奏象武之歌也」只把詩篇、句數與所奏樂章對照。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「烈文一章十三句」及「成王即政，諸侯助祭之所歌」只是詩篇規格與使用場合登錄。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「天作一章七句：祝先王公之所歌也」只記篇名、句數和祭歌用途。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「昊天有成命一章七句」與「郊祀天地之所歌」是宗廟樂目次中的篇目和場合對照。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「我將一章十句：祀文王於明堂之所歌也」只登錄詩篇句數及其祭祀場合。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「時邁一章十五句」和「巡守吿祭，柴望之所歌」是篇目、句數與儀節場合的對照。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「執競一章十四句：祀武王之所歌也」只是詩篇目次及用樂場合。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「思文一章八句：祀后稷配天之所歌也」登錄篇名、句數和所用祭典。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「臣工一章十句」及「諸侯助祭，遣之於廟之所歌」只標明詩篇規格與歌用場合。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「噫嘻一章八句：春夏祈穀於上帝之所歌也」是篇目和祭歌用途的目次登錄。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 13,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「振鷺一章八句」與「二王之後來助祭之所歌」只記句數及使用場合，未展開對人的判斷。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 14,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「豐年一章七句：烝嘗秋冬之所歌也」只是詩篇、句數與時令祭典對照。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 15,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「有瞽一章十三句」及「始作樂合諸樂而奏之所歌」登錄樂章規格與演奏場合。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 16,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「潛一章六句」配以「季冬薦魚，春獻鮪之所歌」，只是一項祭歌目次。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 17,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「雍一章十六句：禘太祖之所歌也」只對照詩篇句數和祭典用途。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 18,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「載見一章十四句」和「諸侯始見於武王廟之所歌」是篇目規格與使用場合登錄。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 19,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「有客一章十三句：微子來見祖廟之所歌也」只交代篇名、句數與場合。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 20,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「武一章七句」並注明「奏大武……一代之樂所歌」，屬樂章篇目和用途登錄。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 21,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「閔予小子一章十一句」及「成王除武王之喪，將始即政，朝於廟之所歌」只記喪後朝廟所用歌篇，並未書寫喪失或內在處境。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 22,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「訪落一章十二句：成王謀政於廟之所歌也」是詩篇句數及用樂場合的目次項。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 23,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「敬之一章十二句：羣臣進戒嗣王之所歌也」只說哪一篇用於群臣進戒的場合，沒有提出進戒內容的一般規範。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 24,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「小毖一章八句：嗣王求忠臣助己之所歌也」是篇目和歌用場合登錄，不是在論忠誠或求助。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 25,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「載芟一章三十一句：春耤田祈社稷之所歌也」只登錄句數及耤田祈祭時所用歌篇。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 26,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「良耜一章二十三句：秋報社稷之所歌也」是祭歌篇目、句數與時令場合對照。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 27,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「絲衣一章九句：繹賔屍之所歌也」只列篇名規格及儀節用途。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 28,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「酌一章九句」及「告成大武，言能酌先祖之道以養天下之所歌」仍是在概述歌篇內容與使用場合，沒有把「養天下」展開成對人的通則判斷。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 29,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「桓一章九句：師祭講武類禡之所歌也」只是軍祭所用歌篇的目次。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 30,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「賚一章六句：大封於廟賜有徳之所歌也」只標記詩篇、句數和封賜場合；「有徳」是場合中的受賜者稱目，不是品格通則。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 31,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「般一章七句：巡守祀四嶽河海之所歌也」只對照歌篇規格及巡守祭祀場合。"
+    },
+    {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 32,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「右詩三十一章，皆天子之禮樂也」只是對前列三十一篇作總數和類別彙總。"
+    },
+    {
+      "chapter": "五等爵之別名（一本雲周制也）",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["proposition", "formalization"],
+      "reason": "本段雖以爵名和封地規格為表，但「伯者白也，明白於徳」「男者任也，立功業以化民」的聲訓理由直接以德行與功業界定任爵者，對人的品格作了判斷。"
+    },
+    {
+      "chapter": "五等爵之別名（一本雲周制也）",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「守者，秦置也」「漢改曰河南守」「世祖都洛陽改曰正」記錄官名設置與歷代改稱，是制度沿革史料。"
+    },
+    {
+      "chapter": "諸侯大小之差",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「皇子封為王者，稱曰諸侯王」「羣臣異姓有功封者，稱曰徹侯」及避諱改稱，都是封爵身分與名稱對照；「有功徳者」只交代朝侯類別的資格稱目。"
+    },
+    {
+      "chapter": "王者耕耤田之別名",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["ritual"],
+      "reason": "「天子三推，三公五推，卿諸侯九推」只規定耕耤儀節中各等身分的推數。"
+    },
+    {
+      "chapter": "三代學校之別名",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「夏曰校，殷曰庠，周曰序」是校名對照，「流水四靣如璧」「頖言半也」是形制與聲訓；「以節觀者」只說制度作用，未落到人會如何。"
+    },
+    {
+      "chapter": "五帝三代樂之別名",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「黃帝曰雲門」至「周曰大武」列樂名，「天子八佾，八八六十四人」以下列佾數；「所以風化天下也」只是政治效果，未對人下具體判斷。"
+    },
+    {
+      "chapter": "朝士卿朝之法",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「左九棘孤卿大夫位也」「右九棘公侯伯子男位也」「三槐三公之位也」把朝廷樹標與人員位次畫成制度配置。"
+    },
+    {
+      "chapter": "四代獄之別名",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「唐虞曰士官」「夏曰均臺，周曰囹圄，漢曰獄」並引臯陶任官，只記司法機構名稱及沿革。"
+    },
+    {
+      "chapter": "四夷樂之別名",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "ritual"],
+      "reason": "「東方曰韎，南方曰任，西方曰株離，北方曰禁」是四方樂名對照，「祭神明和而歌之」交代儀節用途；「以定天下之歡心」只說政治效果，沒有具體說人會如何或應如何。"
+    }
+  ]
+}

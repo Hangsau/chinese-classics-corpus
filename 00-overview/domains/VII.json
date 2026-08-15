@@ -2,9 +2,9 @@
   "domain": "VII",
   "name_zh": "善惡·良心·品格",
   "gist": "罪咎與贖罪、惡與殘忍與同理、誠實與虛偽、勇氣",
-  "generated_at": "2026-08-15T13:56:36+00:00",
-  "para_count": 1679,
-  "book_count": 32,
+  "generated_at": "2026-08-15T14:37:06+00:00",
+  "para_count": 1682,
+  "book_count": 33,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -179,6 +179,44 @@
       "co_domains": [
         "V"
       ]
+    },
+    {
+      "slug": "duduan",
+      "chapter": "天子正號之別名",
+      "para_index": 9,
+      "para_id": "duduan#03-p09",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "幸者宜幸也。世俗謂幸為僥倖。車駕所至，民臣被其徳澤以僥倖，故曰幸也。先帝故事，所",
+      "note": "「君子無幸而有不幸，小人有幸而無不幸」對僥倖作人格評斷，並以「人主必慎所幸也」直接要求掌權者審慎所寵幸，超出「幸」字名義而進入品格規範",
+      "co_domains": []
+    },
+    {
+      "slug": "duduan",
+      "chapter": "五等爵之別名（一本雲周制也）",
+      "para_index": 1,
+      "para_id": "duduan#24-p01",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "三公者，天子之相。相助也，助理天下。其地封百里。侯者候也，候逆順也，其地方百里。",
+      "note": "本段雖以爵名和封地規格為表，但「伯者白也，明白於徳」「男者任也，立功業以化民」的聲訓理由直接以德行與功業界定任爵者，對人的品格作了判斷。",
+      "co_domains": []
+    },
+    {
+      "slug": "duduan",
+      "chapter": "帝謚",
+      "para_index": 1,
+      "para_id": "duduan#36-p01",
+      "modes": [
+        "formalization"
+      ],
+      "excerpt": "違拂不成曰隱，靖民則法曰黃，翼善傳聖曰堯，仁聖盛明曰舜，殘人多壘曰桀，殘義損善曰",
+      "note": "「慈惠愛親曰孝，愛民好與曰惠」與「暴虐無親曰厲，去禮遠衆曰煬」把一類行為和品格固定對應到褒貶謚號，是一般性的行為→評價規則，明確涉及善惡、良心與品格",
+      "co_domains": []
     },
     {
       "slug": "fengsu-tongyi",

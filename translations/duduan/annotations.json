@@ -1,0 +1,2484 @@
+[
+  {
+    "para_id": "duduan#01-p01",
+    "anchor": {
+      "chapter": "卷上",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「正號曰皇帝，自稱曰朕，臣民稱之曰陛下」及四種命令名稱，是把天子稱謂與文書名目集中列出，未說人會變成怎樣或應如何行動",
+    "excerpt": "漢天子正號曰皇帝，自稱曰朕，臣民稱之曰陛下，其言曰制詔，史官記事曰上，車馬衣服器",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#01-p02",
+    "anchor": {
+      "chapter": "卷上",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「上古天子……稱皇，堯舜稱帝，夏殷周稱王」敘述皇、帝、王等稱號沿革；「徳兼三皇功包五帝」只解釋合號來源，不是通則性品格判斷",
+    "excerpt": "皇帝皇王后帝皆君也。上古天子庖犧氏神農氏稱皇，堯舜稱帝，夏殷周稱王，秦承周末，為",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#02-p01",
+    "anchor": {
+      "chapter": "王者至尊四號之別名",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「王有天下故稱王」只交代畿內稱王的稱號來源，沒有登錄之外的人的主張",
+    "excerpt": "王：畿內之所稱王有天下故稱王。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#02-p02",
+    "anchor": {
+      "chapter": "王者至尊四號之別名",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「天下之所歸往故稱天王」是在解釋「天王」名稱由來，未提出人應如何或應受何種評價",
+    "excerpt": "天王：諸夏之所稱天下之所歸往故稱天王。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#02-p03",
+    "anchor": {
+      "chapter": "王者至尊四號之別名",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「夷狄之所稱父天母地故稱天子」是「天子」稱號成因的登錄，並非家庭關係或信仰實踐的主張",
+    "excerpt": "天子：夷狄之所稱父天母地故稱天子。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#02-p04",
+    "anchor": {
+      "chapter": "王者至尊四號之別名",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「百官小吏之所稱」「以天下為家故稱天家」只說使用者與稱號來源，不對人的生活或品格下判斷",
+    "excerpt": "天家：百官小吏之所稱天子無外以天下為家故稱天家。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#03-p01",
+    "anchor": {
+      "chapter": "天子正號之別名",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「皇者煌也」「帝者諦也」以聲訓說明「皇帝」稱號，「盛徳煌煌」仍是稱號來源，通段沒有登錄之外的通則性人論",
+    "excerpt": "皇帝：至尊之稱。皇者煌也，盛徳煌煌，無所不照；帝者諦也，能行天道，事天審諦，故稱",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#03-p02",
+    "anchor": {
+      "chapter": "天子正號之別名",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「古者尊卑共之」至「秦天子獨以為稱，漢因而不改」敘述「朕」的用法與沿革，沒有關於自我認同的一般主張",
+    "excerpt": "朕：我也。古者尊卑共之，貴賤不嫌，則可同號之義也。堯曰朕在位七十載，臯陶與帝舜言",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#03-p03",
+    "anchor": {
+      "chapter": "天子正號之別名",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「不敢指斥天子，故呼在陛下者而告之」是在解釋「陛下」及「殿下、閣下、執事」等稱呼的成因，不是規定一般人際相處之道",
+    "excerpt": "陛下者，陛階也，所由升堂也。天子必有近臣執兵陳於陛側以戒不虞。謂之陛下者，羣臣與",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#03-p04",
+    "anchor": {
+      "chapter": "天子正號之別名",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「當言帝則依違。但言上，不敢渫瀆」只說史官以「上」代稱天子的避諱成因，未形成對人的規範性判斷",
+    "excerpt": "上者尊位所在也，太史令司馬遷記事：當言帝則依違。但言上，不敢渫瀆。言尊號，尊王之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#03-p05",
+    "anchor": {
+      "chapter": "天子正號之別名",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「不敢渫瀆言之，故託之於乘輿」及「羣臣託乘輿以言之」是在追索「乘輿、車駕」代稱的來源，通段仍屬稱謂登錄",
+    "excerpt": "乘輿出於律。律曰敢盜乘輿服禦物。謂天子所服食者也。天子至尊，不敢渫瀆言之，故託之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#03-p06",
+    "anchor": {
+      "chapter": "天子正號之別名",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「所奏事處皆為宮」並列在京師、泰山及侍從官吏所用的「行在所、朝廷、大家、天家」稱法，是場所與稱謂對照",
+    "excerpt": "天子自謂曰行在所，猶言今雖在京師行所至耳，巡狩天下，所奏事處皆為宮。在京師曰奏長",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#03-p07",
+    "anchor": {
+      "chapter": "天子正號之別名",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「門戶有禁……故曰禁中」與「名禁，當時避之，故曰省中」記錄兩個名稱的由來及避諱沿革，沒有人的領域主張",
+    "excerpt": "禁中者，門戶有禁，非侍禦者不得入，故曰禁中。孝元皇后父大司馬陽平侯名禁，當時避之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#03-p08",
+    "anchor": {
+      "chapter": "天子正號之別名",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「璽者印也，印者信也」是聲訓，「天子獨以印稱璽，又獨以玉」則登錄材質、紐式與使用等級，未超出印制沿革和規格",
+    "excerpt": "璽者印也，印者信也，天子璽以玉螭虎紐。古者尊卑共之，月令曰：固封璽。春秋左氏傳曰",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#03-p09",
+    "anchor": {
+      "chapter": "天子正號之別名",
+      "para_index": 9
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「君子無幸而有不幸，小人有幸而無不幸」對僥倖作人格評斷，並以「人主必慎所幸也」直接要求掌權者審慎所寵幸，超出「幸」字名義而進入品格規範",
+    "excerpt": "幸者宜幸也。世俗謂幸為僥倖。車駕所至，民臣被其徳澤以僥倖，故曰幸也。先帝故事，所",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#03-p10",
+    "anchor": {
+      "chapter": "天子正號之別名",
+      "para_index": 10
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「其制長二尺，短者半之」並依諸侯王、三公之任免薨卒說明策書字體與形制，是文書規格和適用場合登錄",
+    "excerpt": "策書：策者簡也。禮曰：不滿百丈不書於策。其制長二尺，短者半之，其次一長一短，兩編",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#03-p11",
+    "anchor": {
+      "chapter": "天子正號之別名",
+      "para_index": 11
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「凡制書有印使符下」「尚書令印重封」逐項規定制書的對象、封印與下達流程，沒有關於人的通則性判斷",
+    "excerpt": "制書：帝者制度之命也，其文曰制詔，三公赦令贖令之屬是也。刺史太守相劾奏申下土遷書",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#03-p12",
+    "anchor": {
+      "chapter": "天子正號之別名",
+      "para_index": 12
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「詔書者……有三品」以下區分詔書、奏請答語與戒勅的格式和使用機關，是行政文書分類程序",
+    "excerpt": "詔書者：詔誥也，有三品，其文曰告某官。官如故事，是為詔書。羣臣有所奏請，尚書令奏",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#03-p13",
+    "anchor": {
+      "chapter": "天子正號之別名",
+      "para_index": 13
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「有四名：一曰章，二曰奏，三曰表，四曰駮議」只是臣下上書的四項名目表",
+    "excerpt": "凡羣臣上書於天子者，有四名：一曰章，二曰奏，三曰表，四曰駮議。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#03-p14",
+    "anchor": {
+      "chapter": "天子正號之別名",
+      "para_index": 14
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「章者，需頭稱稽首上書謝恩陳事詣闕」定義章書的開頭與用途，屬文書格式登錄",
+    "excerpt": "章者，需頭稱稽首上書謝恩陳事詣闕，通者也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#03-p15",
+    "anchor": {
+      "chapter": "天子正號之別名",
+      "para_index": 15
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「奏者，亦需頭」「公府送御史臺，公卿校尉送謁者臺」說明奏書用語與送達路徑，是行政程序",
+    "excerpt": "奏者，亦需頭其京師官，但言稽首。下言稽首以聞其中者，所請若罪法劾案，公府送御史臺",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#03-p16",
+    "anchor": {
+      "chapter": "天子正號之別名",
+      "para_index": 16
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「表者，不需頭」至「其言密事得帛囊盛」詳列表文套語、行數、署名、回報與封裝方式，純屬文書規格",
+    "excerpt": "表者，不需頭上言臣某言，下言臣某誠惶誠恐稽首頓首死罪死罪，左方下附曰某官臣某甲上",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#03-p17",
+    "anchor": {
+      "chapter": "天子正號之別名",
+      "para_index": 17
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「獨執異議者曰駮議」並列駮議的固定文式及核可回報語，是議事文書的名義與流程，不是對異議人格或政治正義的評判",
+    "excerpt": "其有疑事，公卿百官會議。若臺閣有所正處而獨執異議者曰駮議。駮議曰某官某甲議以為如",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#03-p18",
+    "anchor": {
+      "chapter": "天子正號之別名",
+      "para_index": 18
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「漢承秦法」至「光武因而不改」記錄上書禮語沿革，末段再按官等界定「朝臣」，是稱法史料與身分規格",
+    "excerpt": "漢承秦法，羣臣上書皆言昩死言。王莽盜位，慕古法，去昩死曰稽首。光武因而不改。朝臣",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#04-p01",
+    "anchor": {
+      "chapter": "王者臨撫之別名",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「天子曰兆民，諸侯曰萬民，百乘之家曰百姓」是統治等級與人民稱呼的對照表，雖有「民、百姓」而無社會主張",
+    "excerpt": "天子曰兆民，諸侯曰萬民（今之令長古之諸侯），百乘之家曰百姓（百乘之家子男之國也）",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#04-p02",
+    "anchor": {
+      "chapter": "王者臨撫之別名",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「京水也」「京大師衆也，故曰京師也」以水、人之衆作地名訓詁，只還原「京師」名稱",
+    "excerpt": "天子所都曰京師。京水也，地下之衆者莫過於水，地上之衆者莫過於人。京大師衆也，故曰",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#04-p03",
+    "anchor": {
+      "chapter": "王者臨撫之別名",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「天子之畿內千里」並以日月躔次千里作類比，是京師畿內範圍的規格說明",
+    "excerpt": "京師：天子之畿內千里，象日月日月躔次千里。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#05-p01",
+    "anchor": {
+      "chapter": "天子命令之別名",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「出君下臣名曰命」「奉而行之名曰令」「著之竹帛名曰政」是命、令、政三個行政名目的定義對照",
+    "excerpt": "命：出君下臣名曰命。令：奉而行之名曰令。政：著之竹帛名曰政。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#05-p02",
+    "anchor": {
+      "chapter": "天子命令之別名",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "ritual",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "春分朝日、秋夕夕月是儀節，而「示有所尊，訓人民事君之道也」明說此儀節用來教導人民如何對待君主，涉及群體權力關係中的行為教訓",
+    "excerpt": "天子父事天，母事地，兄事日，姊事月。常以春分朝日於東門之外，示有所尊，訓人民事君",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#05-p03",
+    "anchor": {
+      "chapter": "天子命令之別名",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "XI"
+    ],
+    "discourse_mode": [
+      "ritual",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "段中雖詳記天子事三老五更與餽牲拜送之禮，但「能以善道改更已也」另行主張人能循善道改變自己，直接涉及自我改變的可能",
+    "excerpt": "天子父事三老者，適成於天地人也。兄事五更者，訓於五品也。更者長也，更相代至五也，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#06-p01",
+    "anchor": {
+      "chapter": "三代建正之別名",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「夏以十三月為正，十寸為尺，律中太簇」把正月、尺長與音律相配，「萬物始簇而生」只是採用此正的曆律理由",
+    "excerpt": "夏以十三月為正，十寸為尺，律中太簇，言萬物始簇而生，故以為正也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#06-p02",
+    "anchor": {
+      "chapter": "三代建正之別名",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「殷以十二月為正，九寸為尺，律中大呂」是殷代正月、尺度與音律對照，未談人的處境或規範",
+    "excerpt": "殷以十二月為正，九寸為尺，律中大呂，言隂氣大勝助黃鍾宣氣而萬物生，故以為正也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#06-p03",
+    "anchor": {
+      "chapter": "三代建正之別名",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「周以十一月為正，八寸為尺，律中黃鍾」登錄周代曆律規格，「陽氣踵黃泉而出」是其制度說明",
+    "excerpt": "周以十一月為正，八寸為尺，律中黃鍾，言陽氣踵黃泉而出，故以為正也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#07-p01",
+    "anchor": {
+      "chapter": "三代年歳之別名",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「唐虞曰載」「夏曰歲」「商曰祀」「周曰年」是各代年歲名稱對照；「載嵗也」等只作曆名訓詁",
+    "excerpt": "唐虞曰載，載嵗也，言一歲莫不覆載，故曰載也。夏曰歲，一曰稔也。商曰祀。周曰年。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#07-p02",
+    "anchor": {
+      "chapter": "三代年歳之別名",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「三年一閏，五年再閏」說明以閏月補足歲數的曆法計算規則，沒有人的領域內容",
+    "excerpt": "閏月者，所以補小月之減日以正歳數，故三年一閏，五年再閏。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#08-p01",
+    "anchor": {
+      "chapter": "天子諸侯后妃夫人之別名",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "formalization",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "段落不只列后、夫人、孺人、婦人、妻等名位；「夫人之言扶也」「孺之言屬也」「婦之言服也」「妻之言齊也」還把婚姻家內稱謂連到扶、屬、服、齊等關係位置",
+    "excerpt": "天子之妃曰后，后之言後也。諸侯之妃曰夫人，夫人之言扶也。大夫曰孺人，孺之言屬也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#09-p01",
+    "anchor": {
+      "chapter": "天子后立六宮之別名",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「其一明者為正妃，三者為次妃」以四星為象，登錄正妃與三位次妃的員數和等級",
+    "excerpt": "三夫人：帝嚳有四妃以象後妃四星，其一明者為正妃，三者為次妃也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#09-p02",
+    "anchor": {
+      "chapter": "天子后立六宮之別名",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「増以三三而九，合十二人」只記九嬪及合計十二人的員數與夏制來源",
+    "excerpt": "九嬪：夏後氏増以三三而九，合十二人。春秋天子取十二，夏制也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#09-p03",
+    "anchor": {
+      "chapter": "天子后立六宮之別名",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「又増三九二十七，合三十九人」是二十七世婦及累計人數的員額表",
+    "excerpt": "二十七世婦：殷人又増三九二十七，合三十九人。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#09-p04",
+    "anchor": {
+      "chapter": "天子后立六宮之別名",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「正妃又九九為八十一，増之合百二十人」計列禦女與六宮總員數，沒有對婚姻或女性處境的主張",
+    "excerpt": "八十一禦女：周人上法帝嚳，正妃又九九為八十一，増之合百二十人也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#09-p05",
+    "anchor": {
+      "chapter": "天子后立六宮之別名",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「天子一取十二女」「諸侯一取九女」「卿大夫一妻二妾；士一妻一妾」按身分排列妻妾員數，是制度規格而非家內關係判斷",
+    "excerpt": "天子一取十二女，象十二月，三夫人九嬪；諸侯一取九女，象九州，一妻八妾；卿大夫一妻",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#10-p01",
+    "anchor": {
+      "chapter": "王者子女封邑之差",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「帝之女曰公主，儀比諸侯」「帝之姊妹曰長公主」把親屬身分、封號與禮儀等級相配，只是封號對照",
+    "excerpt": "帝之女曰公主，儀比諸侯。帝之姊妹曰長公主，儀比諸侯。王異姓婦女以恩澤封者曰君，比",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#11-p01",
+    "anchor": {
+      "chapter": "天子諸侯宗廟之別名",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "ritual",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「帝牲牢三月在外牢，一月在中牢，一月在明牢」規定祭牲移置時間與場所；「示其潔也」只說儀式象徵，不是人的潔淨或品格主張",
+    "excerpt": "左宗廟：東曰左。帝牲牢三月在外牢，一月在中牢，一月在明牢。一月謂近明堂也。三月一",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#11-p02",
+    "anchor": {
+      "chapter": "天子諸侯宗廟之別名",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「宗廟社稷皆在庫門之內，雉門之外」登錄宗廟、社稷的左右方位與宮門位置",
+    "excerpt": "右社稷：西曰右。宗廟社稷皆在庫門之內，雉門之外。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#11-p03",
+    "anchor": {
+      "chapter": "天子諸侯宗廟之別名",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「天子三昭三穆，與太祖之廟七」「諸侯二昭二穆……五」列出廟數、壇墠及月祭安排，是宗廟規格與祭程",
+    "excerpt": "天子三昭三穆，與太祖之廟七。七廟一壇一墠，曰考廟。王考廟皇考廟顯考廟祖考廟皆月祭",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#12-p01",
+    "anchor": {
+      "chapter": "大夫以下廟之別名",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "由「大夫一昭一穆……三」到「庶人皆無廟，四時祭於寢」按爵等列廟壇、二祀與祭期，是廟制和祭程表",
+    "excerpt": "大夫一昭一穆，與太祖之廟三。三廟一壇，考廟王廟，四時祭之也。士一廟，降大夫二也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#12-p02",
+    "anchor": {
+      "chapter": "大夫以下廟之別名",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「去祧為壇，去壇為墠」「有禱焉祭之，無禱乃止」逐級界定祧、壇、墠及有無禱告時的祭法，屬宗廟程序",
+    "excerpt": "周祧文武為祧，四時祭之而已。去祧為壇，去壇為墠，有禱焉祭之，無禱乃止。去墠曰鬼壇",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#12-p03",
+    "anchor": {
+      "chapter": "大夫以下廟之別名",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「春薦韭卵，夏薦麥魚，秋薦黍豚，冬薦稻鴈」是四季薦祭供物與選牲原則，沒有對人的判斷",
+    "excerpt": "薦考妣於適寢之所祭：春薦韭卵，夏薦麥魚，秋薦黍豚，冬薦稻鴈。制無常牲，取與新物相",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#12-p04",
+    "anchor": {
+      "chapter": "大夫以下廟之別名",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "ritual",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「天子之宗社曰泰社」「有命將行師，必於此社，授以政」說明社名及出師授政、賞戮所用的制度場合，未把個別條文提升為人的通則性評價",
+    "excerpt": "天子之宗社曰泰社，天子所為羣姓立社也。天子之社曰王社，一曰帝社，古者有命將行師，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#12-p05",
+    "anchor": {
+      "chapter": "大夫以下廟之別名",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「諸侯為百姓立社曰國社，諸侯之社曰侯社」只是依設立者和用途區分國社、侯社兩個名目",
+    "excerpt": "諸侯為百姓立社曰國社，諸侯之社曰侯社。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#12-p06",
+    "anchor": {
+      "chapter": "大夫以下廟之別名",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "ritual",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「取亡國之社以分諸侯，使為社，以自儆戒」明說要讓諸侯藉亡國之社自我警戒，將儀制用作掌權者承擔治理責任的警示；其餘遮天隔地與北向則是滅亡象徵",
+    "excerpt": "亡國之社：古者天子亦取亡國之社以分諸侯，使為社，以自儆戒。屋之奄其上使不通天，柴",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#12-p07",
+    "anchor": {
+      "chapter": "大夫以下廟之別名",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「大夫不得特立社」「百姓已上則共一社」規定不同身分能否獨立設社及共社範圍，是社制配置，不是群體歸屬主張",
+    "excerpt": "大夫以下成羣立社曰置社，大夫不得特立社，與民族居。百姓已上則共一社，今之裏社是也",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#12-p08",
+    "anchor": {
+      "chapter": "大夫以下廟之別名",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「天子社稷土壇，方廣五丈。諸侯半之」純粹列出壇制尺寸與等級差",
+    "excerpt": "天子社稷土壇，方廣五丈。諸侯半之。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#12-p09",
+    "anchor": {
+      "chapter": "大夫以下廟之別名",
+      "para_index": 9
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "ritual",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「天子社稷皆太牢。諸侯社稷皆少牢」按身分規定社稷祭牲等級，是祭祀規格",
+    "excerpt": "天子社稷皆太牢。諸侯社稷皆少牢。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#12-p10",
+    "anchor": {
+      "chapter": "大夫以下廟之別名",
+      "para_index": 10
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「曰司命，曰中霤，曰國行，曰國門，曰泰厲，曰戶，曰竈」是天子所立七祀的名目清單",
+    "excerpt": "天子為羣姓立七祀之別名，曰司命，曰中霤，曰國行，曰國門，曰泰厲，曰戶，曰竈。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#12-p11",
+    "anchor": {
+      "chapter": "大夫以下廟之別名",
+      "para_index": 11
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「諸侯為國立五祀之別名」後列司命、中霤、國門、國行、公厲，是諸侯五祀名目表",
+    "excerpt": "諸侯為國立五祀之別名，曰司命，曰中霤，曰國門，曰國行，曰公厲。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#12-p12",
+    "anchor": {
+      "chapter": "大夫以下廟之別名",
+      "para_index": 12
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「大夫以下自立三祀之別名，曰族厲，曰門，曰行」只列大夫以下三祀的數量與名稱",
+    "excerpt": "大夫以下自立三祀之別名，曰族厲，曰門，曰行。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#13-p01",
+    "anchor": {
+      "chapter": "五祀之別名",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「秋為少隂，其氣收成，祀之於門」「北靣設主於門左樞戶」及其後戶、行的方位尺寸，登錄的是四季配祀處與設主程序，沒有對人下判斷。",
+    "excerpt": "門：秋為少隂，其氣收成，祀之於門。祀門之禮：北靣設主於門左樞戶。春為少陽，其氣始",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#13-p02",
+    "anchor": {
+      "chapter": "五祀之別名",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「夏為太陽，其氣長養，祀之於竈」「設主於竈陘也」只規定祀竈的時節、處所與設主位置。",
+    "excerpt": "竈：夏為太陽，其氣長養，祀之於竈。祀竈之禮：在廟門外之東，先席於門奧西東，設主於",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#13-p03",
+    "anchor": {
+      "chapter": "五祀之別名",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「季夏之月，土氣始盛，其祀中霤」「設主於牖下也」是祀中霤的時令與設位程序，不涉及人的處境或品格。",
+    "excerpt": "中霤：季夏之月，土氣始盛，其祀中霤。霤神在室。祀中霤，設主於牖下也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#14-p01",
+    "anchor": {
+      "chapter": "五方正神之別名",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「東方之神，其帝太昊，其神勾芒」至「中央之神，其帝黃帝，其神後土」只是五方、帝與神的名目對照。",
+    "excerpt": "東方之神，其帝太昊，其神勾芒；南方之神，其帝神農，其神祝融；西方之神，其帝少昊，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#15-p01",
+    "anchor": {
+      "chapter": "六神之別名",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「能殖百穀以利天下，故祠此三神以報其功也」以公共功績說明報祀，而「欲令萬民加肅敬也」「使人望見則加畏敬也」明說設社會使人產生敬肅，越過單純祀典登錄；所談是群體教化與公共功績，不另作信仰領域。",
+    "excerpt": "風伯神，箕星也，其象在天，能興風；雨師神，畢星也，其象在天，能興雨；明星神，一曰",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#15-p02",
+    "anchor": {
+      "chapter": "六神之別名",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「春扈氏：農正，趣民耕種」至「老扈氏：農正，趣民收夌」逐項配列九農官名、職掌與鳥聲夾注，是職官名目表。",
+    "excerpt": "春扈氏（扈止也）：農正，趣民耕種（鴣鳥）夏扈氏：農正，趣民蕓除（切玄）秋扈氏：農",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#15-p03",
+    "anchor": {
+      "chapter": "六神之別名",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「命方相氏黃金四目……從百隸及童兒而時儺」「畫荼壘，並懸葦索於門戶」記錄逐疫驅鬼的儀節與器物；雖有「疫」「疾殃」和鬼神，並未書寫人的身體處境或信仰實踐。",
+    "excerpt": "疫神：帝顓頊有三子，生而亡去為鬼，其一者居江水，是為瘟鬼。其一者居若水，是為魍魎",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#16-p01",
+    "anchor": {
+      "chapter": "四代臘之別名",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「夏曰嘉平，殷曰清祀，周曰大蠟，漢曰臘」只是四代祭名的對照沿革。",
+    "excerpt": "夏曰嘉平，殷曰清祀，周曰大蠟，漢曰臘。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#17-p01",
+    "anchor": {
+      "chapter": "五帝臘祖之別名",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「青帝以未臘卯祖」至「黃帝以辰臘未祖」把五帝配上臘、祖的干支日，是祭日程序表。",
+    "excerpt": "青帝以未臘卯祖（青帝大昊水行）赤帝以戌臘午祖（赤帝炎帝火行）白帝以醜臘酉祖（白帝",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#18-p01",
+    "anchor": {
+      "chapter": "天子大蠟八神之別名",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「蠟之言索也」是名稱聲訓，「為位相對向，祝曰：土反其宅……」則登錄設位與祝辭，沒有由祝辭進一步對人下判斷。",
+    "excerpt": "蠟之言索也。祭曰索此八神而祭之也。大同小異，為位相對向，祝曰：土反其宅，水歸其壑",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#18-p02",
+    "anchor": {
+      "chapter": "天子大蠟八神之別名",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「先嗇司嗇農郵表綴貓虎……坊水庸昆蟲」是大蠟所索八神的名單，括注也只交代貓虎受祭的功能。",
+    "excerpt": "先嗇司嗇農郵表綴貓虎（貓食田鼠，虎食田豕，迎其神而祭之）坊水庸昆蟲。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#19-p01",
+    "anchor": {
+      "chapter": "五祀之別名（祀臣五義）",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「法施於民則祀，以死勤事則祀，以勞定國則祀，能禦大災則祀，能扞大患則祀」給出公共服務與護民功績的入祀資格，判定什麼樣的人值得群體記念，不是祭祀程序。",
+    "excerpt": "法施於民則祀，以死勤事則祀，以勞定國則祀，能禦大災則祀，能扞大患則祀。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#20-p01",
+    "anchor": {
+      "chapter": "六號之別名",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「神號」「鬼號」「祗號」「牲號」「齊號」「幣號」逐類列出祭祀用美稱，如「牛曰一元大武」，只是名目對照。",
+    "excerpt": "神號尊其名更為美，稱若曰皇天上帝也。鬼號若曰皇祖伯某。祗號若曰後土地祗也。牲號：",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#21-p01",
+    "anchor": {
+      "chapter": "凡祭宗廟禮牲之別名",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「牛曰一元大武，豕曰剛鬛」至「兔曰明視」逐一對照祭牲及其禮名，是牲名表。",
+    "excerpt": "牛曰一元大武，豕曰剛鬛，豚曰肥腯，羊曰柔毛，雞曰翰音，犬曰羮獻，雉曰踈趾，兔曰明",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#21-p02",
+    "anchor": {
+      "chapter": "凡祭宗廟禮牲之別名",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「脯曰尹祭，槀魚曰商祭」至「幣曰量幣」是祭物稱號表；「所以尊鬼神也」只說制度的象徵用意，沒有落到人會如何或應如何。",
+    "excerpt": "凡祭號牲物異於人者，所以尊鬼神也。脯曰尹祭，槀魚曰商祭，鮮魚曰脡祭，水曰清滌，酒",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#22-p01",
+    "anchor": {
+      "chapter": "太祝掌六祝之辭",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「順祝：順豐年也」「年祝求永貞也」至「筞祝逺罪病也」配列六種祝辭名稱與用途，是祝辭名目表。",
+    "excerpt": "順祝：順豐年也，年祝求永貞也，告祝祈福祥也，化祝弭災兵也，瑞祝逆時雨寧風旱也，筞",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p01",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「清廟一章八句」並注明「洛邑既成，諸侯朝見，宗祀文王之所歌」，只登錄篇名、句數與用樂場合。",
+    "excerpt": "清廟一章八句：洛邑既成，諸侯朝見，宗祀文王之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p02",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「維天之命一章八句」與「吿太平於文王之所歌」是篇目、句數和歌用場合的目次。",
+    "excerpt": "維天之命一章八句：吿太平於文王之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p03",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「維清一章五句：奏象武之歌也」只把詩篇、句數與所奏樂章對照。",
+    "excerpt": "維清一章五句：奏象武之歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p04",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「烈文一章十三句」及「成王即政，諸侯助祭之所歌」只是詩篇規格與使用場合登錄。",
+    "excerpt": "烈文一章十三句：成王即政，諸侯助祭之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p05",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「天作一章七句：祝先王公之所歌也」只記篇名、句數和祭歌用途。",
+    "excerpt": "天作一章七句：祝先王公之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p06",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「昊天有成命一章七句」與「郊祀天地之所歌」是宗廟樂目次中的篇目和場合對照。",
+    "excerpt": "昊天有成命一章七句：郊祀天地之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p07",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「我將一章十句：祀文王於明堂之所歌也」只登錄詩篇句數及其祭祀場合。",
+    "excerpt": "我將一章十句：祀文王於明堂之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p08",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「時邁一章十五句」和「巡守吿祭，柴望之所歌」是篇目、句數與儀節場合的對照。",
+    "excerpt": "時邁一章十五句：巡守吿祭，柴望之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p09",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 9
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「執競一章十四句：祀武王之所歌也」只是詩篇目次及用樂場合。",
+    "excerpt": "執競一章十四句：祀武王之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p10",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 10
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「思文一章八句：祀后稷配天之所歌也」登錄篇名、句數和所用祭典。",
+    "excerpt": "思文一章八句：祀后稷配天之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p11",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 11
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「臣工一章十句」及「諸侯助祭，遣之於廟之所歌」只標明詩篇規格與歌用場合。",
+    "excerpt": "臣工一章十句：諸侯助祭，遣之於廟之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p12",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 12
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「噫嘻一章八句：春夏祈穀於上帝之所歌也」是篇目和祭歌用途的目次登錄。",
+    "excerpt": "噫嘻一章八句：春夏祈穀於上帝之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p13",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 13
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「振鷺一章八句」與「二王之後來助祭之所歌」只記句數及使用場合，未展開對人的判斷。",
+    "excerpt": "振鷺一章八句：二王之後來助祭之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p14",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 14
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「豐年一章七句：烝嘗秋冬之所歌也」只是詩篇、句數與時令祭典對照。",
+    "excerpt": "豐年一章七句：烝嘗秋冬之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p15",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 15
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「有瞽一章十三句」及「始作樂合諸樂而奏之所歌」登錄樂章規格與演奏場合。",
+    "excerpt": "有瞽一章十三句：始作樂合諸樂而奏之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p16",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 16
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「潛一章六句」配以「季冬薦魚，春獻鮪之所歌」，只是一項祭歌目次。",
+    "excerpt": "潛一章六句：季冬薦魚，春獻鮪之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p17",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 17
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「雍一章十六句：禘太祖之所歌也」只對照詩篇句數和祭典用途。",
+    "excerpt": "雍一章十六句：禘太祖之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p18",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 18
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「載見一章十四句」和「諸侯始見於武王廟之所歌」是篇目規格與使用場合登錄。",
+    "excerpt": "載見一章十四句：諸侯始見於武王廟之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p19",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 19
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「有客一章十三句：微子來見祖廟之所歌也」只交代篇名、句數與場合。",
+    "excerpt": "有客一章十三句：微子來見祖廟之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p20",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 20
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「武一章七句」並注明「奏大武……一代之樂所歌」，屬樂章篇目和用途登錄。",
+    "excerpt": "武一章七句：奏大武，周武所定一代之樂所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p21",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 21
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「閔予小子一章十一句」及「成王除武王之喪，將始即政，朝於廟之所歌」只記喪後朝廟所用歌篇，並未書寫喪失或內在處境。",
+    "excerpt": "閔予小子一章十一句：成王除武王之喪，將始即政，朝於廟之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p22",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 22
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「訪落一章十二句：成王謀政於廟之所歌也」是詩篇句數及用樂場合的目次項。",
+    "excerpt": "訪落一章十二句：成王謀政於廟之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p23",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 23
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「敬之一章十二句：羣臣進戒嗣王之所歌也」只說哪一篇用於群臣進戒的場合，沒有提出進戒內容的一般規範。",
+    "excerpt": "敬之一章十二句：羣臣進戒嗣王之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p24",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 24
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「小毖一章八句：嗣王求忠臣助己之所歌也」是篇目和歌用場合登錄，不是在論忠誠或求助。",
+    "excerpt": "小毖一章八句：嗣王求忠臣助己之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p25",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 25
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「載芟一章三十一句：春耤田祈社稷之所歌也」只登錄句數及耤田祈祭時所用歌篇。",
+    "excerpt": "載芟一章三十一句：春耤田祈社稷之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p26",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 26
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「良耜一章二十三句：秋報社稷之所歌也」是祭歌篇目、句數與時令場合對照。",
+    "excerpt": "良耜一章二十三句：秋報社稷之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p27",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 27
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「絲衣一章九句：繹賔屍之所歌也」只列篇名規格及儀節用途。",
+    "excerpt": "絲衣一章九句：繹賔屍之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p28",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 28
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「酌一章九句」及「告成大武，言能酌先祖之道以養天下之所歌」仍是在概述歌篇內容與使用場合，沒有把「養天下」展開成對人的通則判斷。",
+    "excerpt": "酌一章九句：告成大武，言能酌先祖之道以養天下之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p29",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 29
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「桓一章九句：師祭講武類禡之所歌也」只是軍祭所用歌篇的目次。",
+    "excerpt": "桓一章九句：師祭講武類禡之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p30",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 30
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「賚一章六句：大封於廟賜有徳之所歌也」只標記詩篇、句數和封賜場合；「有徳」是場合中的受賜者稱目，不是品格通則。",
+    "excerpt": "賚一章六句：大封於廟賜有徳之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p31",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 31
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「般一章七句：巡守祀四嶽河海之所歌也」只對照歌篇規格及巡守祭祀場合。",
+    "excerpt": "般一章七句：巡守祀四嶽河海之所歌也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#23-p32",
+    "anchor": {
+      "chapter": "宗廟所歌詩之別名",
+      "para_index": 32
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「右詩三十一章，皆天子之禮樂也」只是對前列三十一篇作總數和類別彙總。",
+    "excerpt": "右詩三十一章，皆天子之禮樂也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#24-p01",
+    "anchor": {
+      "chapter": "五等爵之別名（一本雲周制也）",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "本段雖以爵名和封地規格為表，但「伯者白也，明白於徳」「男者任也，立功業以化民」的聲訓理由直接以德行與功業界定任爵者，對人的品格作了判斷。",
+    "excerpt": "三公者，天子之相。相助也，助理天下。其地封百里。侯者候也，候逆順也，其地方百里。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#24-p02",
+    "anchor": {
+      "chapter": "五等爵之別名（一本雲周制也）",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「守者，秦置也」「漢改曰河南守」「世祖都洛陽改曰正」記錄官名設置與歷代改稱，是制度沿革史料。",
+    "excerpt": "守者，秦置也。秦兼天下，置三川，守伊河洛也，漢改曰河南守。武帝會曰太守，世祖都洛",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#25-p01",
+    "anchor": {
+      "chapter": "諸侯大小之差",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「皇子封為王者，稱曰諸侯王」「羣臣異姓有功封者，稱曰徹侯」及避諱改稱，都是封爵身分與名稱對照；「有功徳者」只交代朝侯類別的資格稱目。",
+    "excerpt": "諸侯王：皇子封為王者，稱曰諸侯王。徹侯：羣臣異姓有功封者，稱曰徹侯，武帝諱改曰通",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#26-p01",
+    "anchor": {
+      "chapter": "王者耕耤田之別名",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「天子三推，三公五推，卿諸侯九推」只規定耕耤儀節中各等身分的推數。",
+    "excerpt": "天子三推，三公五推，卿諸侯九推。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#27-p01",
+    "anchor": {
+      "chapter": "三代學校之別名",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「夏曰校，殷曰庠，周曰序」是校名對照，「流水四靣如璧」「頖言半也」是形制與聲訓；「以節觀者」只說制度作用，未落到人會如何。",
+    "excerpt": "夏曰校，殷曰庠，周曰序。天子曰辟雍，謂流水四靣如璧，以節觀者。諸侯曰頖宮，頖言半",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#28-p01",
+    "anchor": {
+      "chapter": "五帝三代樂之別名",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「黃帝曰雲門」至「周曰大武」列樂名，「天子八佾，八八六十四人」以下列佾數；「所以風化天下也」只是政治效果，未對人下具體判斷。",
+    "excerpt": "黃帝曰雲門，顓頊曰六莖，帝嚳曰五英，堯曰鹹池，舜曰大韶，一曰大招。夏曰大夏，殷曰",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#29-p01",
+    "anchor": {
+      "chapter": "朝士卿朝之法",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「左九棘孤卿大夫位也」「右九棘公侯伯子男位也」「三槐三公之位也」把朝廷樹標與人員位次畫成制度配置。",
+    "excerpt": "左九棘孤卿大夫位也，羣臣在其後。右九棘公侯伯子男位也，羣吏在其後。三槐三公之位也",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#30-p01",
+    "anchor": {
+      "chapter": "四代獄之別名",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「唐虞曰士官」「夏曰均臺，周曰囹圄，漢曰獄」並引臯陶任官，只記司法機構名稱及沿革。",
+    "excerpt": "唐虞曰士官。《史記》曰：臯陶為理。《尚書》曰：臯陶作士。夏曰均臺，周曰囹圄，漢曰",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#31-p01",
+    "anchor": {
+      "chapter": "四夷樂之別名",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「東方曰韎，南方曰任，西方曰株離，北方曰禁」是四方樂名對照，「祭神明和而歌之」交代儀節用途；「以定天下之歡心」只說政治效果，沒有具體說人會如何或應如何。",
+    "excerpt": "王者必作四夷之樂，以定天下之歡心，祭神明和而歌之，以管樂為之聲。東方曰韎，南方曰",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#32-p01",
+    "anchor": {
+      "chapter": "卷下",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「木生火，故宓犧氏沒，神農氏以火徳繼之」以下逐次排出五德相生與帝王承繼的對照，是德運次序表；「徳」在此是朝代屬性的名目，不是對人的品格或信仰下判斷",
+    "excerpt": "易曰：帝出於震。震者木也，言宓犧氏始以木徳王天下也。木生火，故宓犧氏沒，神農氏以",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#32-p02",
+    "anchor": {
+      "chapter": "卷下",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「伏犧爲太昊氏，炎帝爲神農氏」至「高祖爲漢」逐項對照帝王與氏號，只是氏號名目表，沒有說人會變成怎樣、應當怎樣或該受何種評價",
+    "excerpt": "伏犧爲太昊氏，炎帝爲神農氏，黃帝爲軒轅氏，少昊爲金天氏，顓頊爲高陽氏，帝嚳爲高辛",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#32-p03",
+    "anchor": {
+      "chapter": "卷下",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「高帝在位十二年，生惠帝」「昭帝十三年，無後，立元衛太子孫爲宣帝」一類句子依次登錄在位年數、世系與繼位者，是帝系年表；其中的崩、殺、無後不是對死亡處境或失去經驗的書寫",
+    "excerpt": "高帝在位十二年，生惠帝。惠帝七年，無後。呂后攝政八年，立惠帝弟代王爲文帝。文帝二",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#32-p04",
+    "anchor": {
+      "chapter": "卷下",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「從高帝至桓帝三百八十六年，除王莽劉聖公三百六十六年」並交代「高帝以甲午嵗即位，以乙未爲元」，是在核算帝系年代與紀年起點，不對人下判斷",
+    "excerpt": "從高帝至桓帝三百八十六年，除王莽劉聖公三百六十六年，從高祖乙未至今壬子歳，四百一",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#32-p05",
+    "anchor": {
+      "chapter": "卷下",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「帝嫡妃曰皇后，帝母曰皇太后」登錄稱號，「後東面，少帝西面」「皆爲兩通」記攝政朝儀，又以「故上繼元帝而爲九世」核定昭穆世次；通段是名號、制度沿革與世次規則，不是家庭關係或權力倫理的通則",
+    "excerpt": "帝嫡妃曰皇后，帝母曰皇太后，帝祖母曰太皇太后，其衆號皆如帝之稱。秦漢已來，少帝即",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#33-p01",
+    "anchor": {
+      "chapter": "宗廟之制",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「廟以藏主列昭穆」「五年而稱殷祭」「正月上丁，祠南郊禮畢」鋪陳寢廟形制、叠毀沿革與祭陵供祠程序；雖載崩葬、魂神及奉祠，落點仍是廟制和儀節規格，不是在寫個人的信仰、哀傷或死亡處境",
+    "excerpt": "古學以爲人君之居，前有朝，後有寢，終則前制廟以象朝，後制寢以象寢，廟以藏主列昭穆",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#33-p02",
+    "anchor": {
+      "chapter": "宗廟之制",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「西廟五主：高帝、文帝、武帝、宣帝、元帝也」列出五主，並用「其廟皆不毀」「以元帝爲禰廟」說明入廟與不毀的制度位置，是廟主名單和廟制條例",
+    "excerpt": "西廟五主：高帝、文帝、武帝、宣帝、元帝也。高帝爲高祖，文帝爲太宗，武帝爲世宗，宣",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#33-p03",
+    "anchor": {
+      "chapter": "宗廟之制",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「東廟七主」逐名列主，又分列「以陵寢爲廟者三」與「追號爲後者三」，是在編排廟主、陵寢和追號名單；「未踰年而崩」只是入廟資格條件，不是死亡或失去的心理處境",
+    "excerpt": "東廟七主：光武、明帝、章帝、和帝、安帝、順帝、桓帝也。光武爲世祖，明帝爲顯宗，章",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#33-p04",
+    "anchor": {
+      "chapter": "宗廟之制",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「兩廟十二主、三少帝、三后，故用十八大牢也」把祭牲數量按廟主員數計成十八大牢，是可計數的祭祀規格，沒有關於人的主張",
+    "excerpt": "兩廟十二主、三少帝、三后，故用十八大牢也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#33-p05",
+    "anchor": {
+      "chapter": "宗廟之制",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「五年而再殷祭」「四時祠於東廟」記祀制安排，後文以「不敢加尊號於祖父」「追號父蠡吾先侯曰孝宗皇」等實例登錄歷代追尊沿革；這是宗廟與尊號制度史，不是在提出孝德、喪失或家族生活的通則",
+    "excerpt": "漢家不言禘祫，五年而再殷祭，則西廟惠帝景昭皆別祠。成、哀、平三帝以非光武所後，藏",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#33-p06",
+    "anchor": {
+      "chapter": "宗廟之制",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「以所封之方色，東方受青，南方受赤」規定封地方位與土色的對應，「苴以白茅授之」「歸國以立社」記授受程序；這是封國茅土的制度與儀節，不是對受封者品格或社會公義的判斷",
+    "excerpt": "天子太社以五色土爲壇，皇子封爲王者，受天子之社土，以所封之方色，東方受青，南方受",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#33-p07",
+    "anchor": {
+      "chapter": "宗廟之制",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「皇子封爲王者」「羣臣異姓有功封者，謂之徹侯」及「位在三公下」「位次九卿下」逐級對照封號、位次與朝祠資格，是爵位名目和等級表；「有功」「功徳優盛」在此只是授爵條件",
+    "excerpt": "漢制：皇子封爲王者，其實古諸侯也。周末諸侯或稱王，而漢天子自以皇帝爲稱，故以王號",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#33-p08",
+    "anchor": {
+      "chapter": "宗廟之制",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「公卿下拜，天子下車，公卿親識顏色，然後還宮」記巡狩校獵還京時的迎駕步驟，「在車則下」也是此場合的儀節條文，沒有超出朝儀去談人應如何生活",
+    "excerpt": "巡狩校獵還，公卿以下陳洛陽都亭前街上，乗輿到，公卿下拜，天子下車，公卿親識顏色，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#33-p09",
+    "anchor": {
+      "chapter": "宗廟之制",
+      "para_index": 9
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "ritual",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「三公奉璧上殿」「太常贊曰：皇帝爲君興」登錄正月朝賀程序，並以「冬至陽氣起，君道長，故賀」「鼓以動衆，鐘以止衆」解釋節令與鐘鼓儀制；這些是朝儀規定及其制度理由，不是關於人的情緒、品格或信仰主張",
+    "excerpt": "正月朝賀，三公奉璧上殿，向禦座北靣，太常贊曰：皇帝爲君興。三公伏，皇帝坐，乃進璧",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#34-p01",
+    "anchor": {
+      "chapter": "天子出車駕",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「有大駕有小駕有法駕」以下登錄各等鹵簿的奉引者、乘員、屬車數與使用場合，是車駕儀制的等級和程序規格，沒有說人會變成怎樣、該怎麼做或該受何種評價",
+    "excerpt": "次第謂之鹵簿，有大駕有小駕有法駕。大駕則公卿奉引，大將軍參乗，太僕禦，屬車八十一",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#34-p02",
+    "anchor": {
+      "chapter": "天子出車駕",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「金根車」「戎立車」「耕根車」「蹋豬車」「皇孫車」逐項對照車名、馬匹配置、用途與乘用者，屬車輿名目和使用規格登錄，通段不對人下判斷",
+    "excerpt": "法駕上所乗曰金根車駕六，馬有五色，安車五色，立車各一，皆駕四馬，是爲五時。副車俗",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#34-p03",
+    "anchor": {
+      "chapter": "天子出車駕",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「凡乗輿車皆羽蓋，金華爪，黃屋左纛金鑁方釳繁纓重轂副牽」只是列出乘輿車的標準構件與裝飾，沒有登錄之外的人的主張",
+    "excerpt": "凡乗輿車皆羽蓋，金華爪，黃屋左纛金鑁方釳繁纓重轂副牽。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#34-p04",
+    "anchor": {
+      "chapter": "天子出車駕",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「高廣各四寸」「有三孔，揷翟尾其中」分別說明左纛、金鑁、方釳、繁纓的材料、尺寸、形狀和安裝位置，是器物規格",
+    "excerpt": "左纛者以氂牛尾爲之，大如鬥，在最後，左騑馬騣上。金鑁者馬冠也，高廣各四寸，如玉華",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#34-p05",
+    "anchor": {
+      "chapter": "天子出車駕",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「轂外復有一轂」「廣八寸，長註地」登錄重轂與飛軨的構造、尺寸、紋飾，並以「今二千石亦然，但無畫耳」區分使用規格，未對人作規範或評價",
+    "excerpt": "重轂者，轂外復有一轂，施牽其外，乃復設牽，施銅金鑁形，如緹亞，飛軨以緹油，廣八寸",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#34-p06",
+    "anchor": {
+      "chapter": "天子出車駕",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「前驅有九斿雲罕闒戟皮軒鑾旗車」至「最後一車懸豹尾」登錄車列次序與配置；「秦滅九國兼其車服」則交代八十一乘的制度來歷，兩者都不形成對人的判斷",
+    "excerpt": "前驅有九斿雲罕闒戟皮軒鑾旗車，皆大夫載鑾旗者，編羽毛引繋橦旁，俗人名之曰鷄翹車，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#34-p07",
+    "anchor": {
+      "chapter": "天子出車駕",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「永安七年建金根耕根諸禦車」交代建造紀年，後文「皆一轅，或四馬或六馬」及龍虎鳥龜等紋飾是車體形制記錄，沒有談人的處境、行為或品格",
+    "excerpt": "永安七年建金根耕根諸禦車，皆一轅，或四馬或六馬，金根箱輪皆以金鎛，正黃兩臂，前後",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#35-p01",
+    "anchor": {
+      "chapter": "冕冠",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「周曰爵弁，殷曰冔，夏曰收」與十二旒、九旒、七旒的尺寸和服用者，是冠名沿革及等級規格；「漢興至孝明帝永平二年」只是制式形成史，通段不對人下判斷",
+    "excerpt": "周曰爵弁，殷曰冔，夏曰收，皆以三十升漆布爲殻，廣八寸長尺二寸，加爵冕其上。周黑而",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#35-p02",
+    "anchor": {
+      "chapter": "冕冠",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「天子冠通天冠，諸侯王冠遠遊冠，公侯冠進賢冠」並按官秩配三梁、兩梁、一梁，是身分與冠制的對照表，不是在主張人應具何種品格",
+    "excerpt": "天子冠通天冠，諸侯王冠遠遊冠，公侯冠進賢冠。公王三梁，卿大夫尚書二千石博士冠兩梁",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#35-p03",
+    "anchor": {
+      "chapter": "冕冠",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「天子十二旒，三公九，諸侯卿七」以下把旒數、衣飾、官職、禮儀場合和冠名逐項配對，是冠服制度登錄，沒有制度之外的人生判斷",
+    "excerpt": "天子十二旒，三公九，諸侯卿七，其纓與組各如其綬之色，衣玄上纁下，日月星辰山龍華蟲",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#35-p04",
+    "anchor": {
+      "chapter": "冕冠",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「孝武帝幸館陶公主家，召見董偃」以及元帝、王莽的事例敘述幘與巾的來歷，末句「各隨所宜」仍是在說不同冠式所配耳長，並未提出關於人的通則性判斷",
+    "excerpt": "幘者，古之卑賤執事不冠者之所服也。孝武帝幸館陶公主家，召見董偃，偃傅青褠緑幘，主",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#35-p05",
+    "anchor": {
+      "chapter": "冕冠",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「通天冠：天子常服」「遠遊冠：諸侯王所服」「高山冠：齊冠也」是冠名、服用者、形制與來源的逐項登錄；秦滅齊的說法也是名物沿革",
+    "excerpt": "通天冠：天子常服，漢服受之秦禮無文。遠遊冠：諸侯王所服，展筩無山禮無文。高山冠：",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#35-p06",
+    "anchor": {
+      "chapter": "冕冠",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「前高七寸後三寸，長八寸」並以三梁、兩梁、一梁對應不同官階，是進賢冠的尺寸及等級規格，通段沒有關於人的主張",
+    "excerpt": "進賢冠：文官服之，前高七寸後三寸，長八寸，公侯三梁，卿大夫尚書博士兩梁，千石六百",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#35-p07",
+    "anchor": {
+      "chapter": "冕冠",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「高五寸，以纚裹鐵柱卷」記法冠形制，「秦制執法服之，今御史廷尉監平服之」及秦滅楚之說記服用者與沿革；獬豸辨名也只是名物考證",
+    "excerpt": "法冠：楚冠也，一曰柱後恵文冠，高五寸，以纚裹鐵柱卷，秦制執法服之，今御史廷尉監平",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#35-p08",
+    "anchor": {
+      "chapter": "冕冠",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「武冠……武官服之」「侍中中常侍加黃金附貂蟬之飾」登錄冠名、服用者及裝飾，趙武靈王胡服和齊冠形制則是器物來源與形制史",
+    "excerpt": "武冠：或曰繁冠，今謂之大冠，武官服之。侍中中常侍加黃金附貂蟬之飾。秦滅。太傅胡公",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#35-p09",
+    "anchor": {
+      "chapter": "冕冠",
+      "para_index": 9
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「高祖冠：以竹皮爲之，謂之劉氏冠」說明材料、名稱與楚制來源，「謂之鵲尾冠」也是俗稱記錄，未由此評價人的身分或品格",
+    "excerpt": "高祖冠：以竹皮爲之，謂之劉氏冠。楚制禮無文，鄙人不識，謂之鵲尾冠。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#35-p10",
+    "anchor": {
+      "chapter": "冕冠",
+      "para_index": 10
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「建華冠」與「方山冠」各自配列材料、珠數、形狀、服用者、祭祀場合和衣色，是兩種冠制的規格與用途對照，不承載對人的判斷",
+    "excerpt": "建華冠：以鐵爲柱卷，貫大珠九枚，今以銅爲珠，形制似縷簏。記曰：知天文者服之。左傳",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#35-p11",
+    "anchor": {
+      "chapter": "冕冠",
+      "para_index": 11
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「術士冠：前圓吳制邐迤四重」記其形制和趙武靈王曾服的沿革，「今者不用，其說未聞」也是存廢情況，沒有人的規範或評價",
+    "excerpt": "術士冠：前圓吳制邐迤四重，趙武靈王好服之，今者不用，其說未聞。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#35-p12",
+    "anchor": {
+      "chapter": "冕冠",
+      "para_index": 12
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「巧士冠：高五寸，要後相通，埽除從官服之」只登錄冠的高度、結構與服用職官，屬冠制規格",
+    "excerpt": "巧士冠：高五寸，要後相通，埽除從官服之，禮無文。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#35-p13",
+    "anchor": {
+      "chapter": "冕冠",
+      "para_index": 13
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「卻非冠：宮門僕射者服之」只是冠名與服用職官的對照，「禮無文」補記文獻狀況，沒有登錄之外的人生主張",
+    "excerpt": "卻非冠：宮門僕射者服之，禮無文。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#35-p14",
+    "anchor": {
+      "chapter": "冕冠",
+      "para_index": 14
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization",
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「廣七寸，前出四寸」記樊噲冠的尺寸，「樊噲造」及「司馬殿門大護衛士服之」交代來源和服用者，仍是器物沿革與規格",
+    "excerpt": "樊噲冠：漢將軍樊噲造，次所冠以入項籍營，廣七寸，前出四寸，司馬殿門大護衛士服之。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#35-p15",
+    "anchor": {
+      "chapter": "冕冠",
+      "para_index": 15
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「前高四寸，通長四寸，後高三寸」與「監門衛士服之」登錄卻敵冠的尺寸和服用者，是冠制規格，通段不對人下判斷",
+    "excerpt": "卻敵冠：前高四寸，通長四寸，後高三寸，監門衛士服之，禮無文。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#35-p16",
+    "anchor": {
+      "chapter": "冕冠",
+      "para_index": 16
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「珠冕、爵、冔、收、通天冠、進賢冠」等是天子所加諸冠的名目總表及次序提示，兩邊都是名物，不是人的行為或評價規則",
+    "excerpt": "珠冕、爵、冔、收、通天冠、進賢冠、長冠、緇布冠、委貌冠、皮弁、惠文冠，古者天子冠",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  },
+  {
+    "para_id": "duduan#36-p01",
+    "anchor": {
+      "chapter": "帝謚",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「慈惠愛親曰孝，愛民好與曰惠」與「暴虐無親曰厲，去禮遠衆曰煬」把一類行為和品格固定對應到褒貶謚號，是一般性的行為→評價規則，明確涉及善惡、良心與品格",
+    "excerpt": "違拂不成曰隱，靖民則法曰黃，翼善傳聖曰堯，仁聖盛明曰舜，殘人多壘曰桀，殘義損善曰",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T22:34:37+08:00"
+  }
+]

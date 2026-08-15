@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-08-15T13:56:36+00:00",
+    "generated_at": "2026-08-15T14:37:06+00:00",
     "text_count": 72,
     "total_bytes": 11304281,
     "by_category": {
@@ -28,23 +28,23 @@
       "reference": 4,
       "contested": 2
     },
-    "surveyed_count": 39,
-    "annotated_count": 39,
+    "surveyed_count": 40,
+    "annotated_count": 40,
     "scaffolded_count": 0,
-    "paras_judged": 15814,
+    "paras_judged": 15966,
     "paras_pending": 0,
     "domain_hit_counts": {
       "I": 13,
       "II": 28,
       "III": 13,
-      "IV": 26,
+      "IV": 27,
       "IX": 19,
-      "V": 35,
+      "V": 36,
       "VI": 24,
-      "VII": 32,
+      "VII": 33,
       "VIII": 34,
       "X": 19,
-      "XI": 26,
+      "XI": 27,
       "XII": 20,
       "XIII": 17
     },
@@ -52,14 +52,14 @@
       "I": 43,
       "II": 531,
       "III": 100,
-      "IV": 481,
-      "V": 2458,
+      "IV": 482,
+      "V": 2462,
       "VI": 527,
-      "VII": 1679,
+      "VII": 1682,
       "VIII": 774,
       "IX": 119,
       "X": 229,
-      "XI": 373,
+      "XI": 374,
       "XII": 159,
       "XIII": 111
     }
@@ -193,12 +193,27 @@
       "size_bytes": 36623,
       "chapter_count": 36,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "domains_null": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [
+        "IV",
+        "V",
+        "VII",
+        "XI"
+      ],
+      "domains_null": [
+        "I",
+        "II",
+        "III",
+        "VI",
+        "VIII",
+        "IX",
+        "X",
+        "XII",
+        "XIII"
+      ],
+      "paras_total": 152,
+      "paras_judged": 152,
+      "annotated": true
     },
     {
       "slug": "fangyan",
