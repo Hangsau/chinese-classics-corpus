@@ -1,0 +1,110 @@
+{
+  "batch": "b03.md",
+  "rows": [
+    {
+      "chapter": "3",
+      "para_index": 1,
+      "domains": ["XI"],
+      "modes": ["proposition"],
+      "reason": "「德斯益，否斯損……吉而恃，凶而怠之謂損」把卜筮的吉凶結果接回修德與怠惰，是把因果從兆數挪回人的作為，不是認證超越徵應"
+    },
+    {
+      "chapter": "3",
+      "para_index": 2,
+      "domains": ["XI"],
+      "modes": ["proposition"],
+      "reason": "「此天地之數也，非吉凶所生也」並以「殷滅周興」「秦亡漢隆」的相反結果破除時日、方位決定吉凶之說，將遭遇與禁忌解開，不認證徵應"
+    },
+    {
+      "chapter": "3",
+      "para_index": 3,
+      "domains": ["XI"],
+      "modes": ["proposition"],
+      "reason": "「內有順實，外有順文」而「苟無其實，徼福於忌，斯成難也」主張外在日辰之文不能替代人的實際條件與行止，限制了兆數支配命運的效力"
+    },
+    {
+      "chapter": "3",
+      "para_index": 4,
+      "domains": ["XII"],
+      "modes": ["proposition", "ritual"],
+      "reason": "設問方明言「祈請者誠以接神，自然應也」，又列「犧牲玉帛」「吉朔」等祈請的器物與時日，並以「非其禮則或愆，非其請則不應」認證合禮祈禱能通神感應"
+    },
+    {
+      "chapter": "3",
+      "para_index": 5,
+      "domains": ["XI"],
+      "modes": ["proposition"],
+      "reason": "「氣物應感則可，性命自然則否」劃定感應的界線，否定祈請能改動人的性命，把性命歸於自然之限而非神術"
+    },
+    {
+      "chapter": "3",
+      "para_index": 6,
+      "domains": ["IX", "XIII"],
+      "modes": ["proposition"],
+      "reason": "面對「避疾厄」之問，以「身不可避，神不可逃」指出人不能逃離自身的身體困境，又以「持身隨天，萬里不逸」說明對不可避處境的安頓方式"
+    },
+    {
+      "chapter": "3",
+      "para_index": 7,
+      "domains": ["XI"],
+      "modes": ["proposition"],
+      "reason": "「貳之於行，參之於時，相成也，亦參相敗也」說形相還會受行為與時勢共同改變，且「其數衆矣，其變多矣」，並不把相貌當成單一不變的命定"
+    },
+    {
+      "chapter": "3",
+      "para_index": 8,
+      "domains": ["X", "XI"],
+      "modes": ["proposition"],
+      "reason": "以「誕哉」否定神僊術，並說「終始，運也；短長，數也。運數非人力之爲也」，同時論人的必死與壽命長短，以及人力不能越過的命限"
+    },
+    {
+      "chapter": "3",
+      "para_index": 9,
+      "domains": ["X"],
+      "modes": ["observation"],
+      "reason": "以「力稱烏獲……聖云仲尼，壽稱彭祖」並列各類異常傑出者，據「物有俊傑，不可誣也」斷言人間確有壽數特長的個例"
+    },
+    {
+      "chapter": "3",
+      "para_index": 10,
+      "domains": ["X", "XI"],
+      "modes": ["proposition"],
+      "reason": "「苟非其性也，脩之不至也」區分先天性壽與後天修習的界限，而「壽必用道，所以盡命」又主張修道只能盡其既有壽命，兼論壽數與可改變的限度"
+    },
+    {
+      "chapter": "3",
+      "para_index": 11,
+      "domains": ["XI"],
+      "modes": ["proposition"],
+      "reason": "對「人有變化而僊」答以「未之前聞」，並把「男化爲女」「死人復生」判為「異也，非僊也」「豈人之性哉」，拒絕把異變當成人能成仙的證據"
+    },
+    {
+      "chapter": "3",
+      "para_index": 12,
+      "domains": ["VI", "IX"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「喜怒哀樂思慮必得其中，所以養神也；寒暄盈虛消息必得其中，所以養體也」把情緒調節與身體養護並論；「無疾則勿藥」「唯在乎節之」則直接規定養性與用藥之度"
+    },
+    {
+      "chapter": "3",
+      "para_index": 13,
+      "domains": ["VII", "X", "XI"],
+      "modes": ["proposition"],
+      "reason": "「仁者內不傷性，外不傷物……壽之術也」以仁德解釋養壽，卻用顔、冉早夭追問並答「命也」；去掉 VII 會漏失德行之因，去掉 X 會漏失夭壽問題，去掉 XI 則會漏失命限對德行效果的轉折"
+    },
+    {
+      "chapter": "3",
+      "para_index": 14,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「燔埴爲瓦則可，爍瓦爲銅則不可」論的是黃白之術在物性上不成立，通段談物質能否轉化而不對人下判斷"
+    },
+    {
+      "chapter": "3",
+      "para_index": 15,
+      "domains": ["V", "XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "先以「八十一首非仲尼之作」破除緯書託名，再要求「在上者不受虛言，不聽浮術……名必有實，事必有功」，兼論掌權者辨偽的責任與人不受術數虛言支配的可能"
+    }
+  ]
+}
