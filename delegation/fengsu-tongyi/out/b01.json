@@ -1,0 +1,180 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {
+      "chapter": "三皇",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「三皇垂拱無爲，設言而民不違」以德性說明統治，又以燧人「令人無復腹疾」及神農「教民耕種，美其衣食」衡量其改善民生之功，不只是考三皇名號"
+    },
+    {
+      "chapter": "三皇",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「以教天下」「日中爲市，致天下之民」說明創制如何利民，末以「遂人功重於祝融、女媧」按公共功業評定人選，不只是校勘三皇名單"
+    },
+    {
+      "chapter": "五帝",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "本段只據《易傳》《禮記》等列出「黃帝、顓頊、帝嚳、帝堯、帝舜是五帝也」，沒有對人的生活或品性另下判斷"
+    },
+    {
+      "chapter": "五帝",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「帝者任德設刑」「能行天道，舉錯審諦」同時主張統治者應有的德性與治理責任，並以「使天下蒙化，皆貴貞慤」說明其社會教化"
+    },
+    {
+      "chapter": "三王",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "本段只是彙列《禮》《尚書》《詩》《春秋》關於夏禹、殷湯、周文武誰可稱王的文句，未在引文之外對人下判斷"
+    },
+    {
+      "chapter": "三王",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「俗儒新生，不能採綜，多共辨論，至於訟鬩」批評治學品格，又以「爲天下所歸往」及湯「攘除不軌」說明王者的公共權責"
+    },
+    {
+      "chapter": "五伯",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「齊桓、晉文、秦繆、宋襄、楚莊是五伯也」只是一項人物名單，沒有進一步的人性、品格或治理判斷"
+    },
+    {
+      "chapter": "五伯",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「襄公不度德量力，慕名而不綜實」及莊王「恃强肆忿」裁斷領袖品格與權力運用；末又責紀事者「不詳察其本末」，明言求名失實之過"
+    },
+    {
+      "chapter": "六國",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "世系中另寫懷王親近「佞臣」而「斥遠忠臣」，終至受欺客死，對用人、忠佞及領導後果已有明確判斷，不是只有國族沿革"
+    },
+    {
+      "chapter": "六國",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "召公「聽訟決獄，百姓各得其所」呈現公正治理，後人愛其樹，結語「非盛德之遺烈，豈其然乎」又把長久感念明歸於德行"
+    },
+    {
+      "chapter": "六國",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "本段只敘韓氏受封、立孤、列侯至亡國的世系；「寔天所相」是史傳套語，段內沒有認證徵應或另論人的生活"
+    },
+    {
+      "chapter": "六國",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "本段以「畢萬之後必大」的占繇串起魏氏受封至亡國的世系，這是史料中的占卜記錄，文本沒有自行認證神驗或另下人事斷語"
+    },
+    {
+      "chapter": "六國",
+      "para_index": 5,
+      "domains": ["XII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "段落不只記夢占，還以范、中行果然被滅而明說「此熊之效應也」，並敘原過所受神令及胡服、拓地等後事實現，是文本自行認證徵應"
+    },
+    {
+      "chapter": "六國",
+      "para_index": 6,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "陳完不續夜飲被評為「義也」「仁也」，後段又以王建聽信受秦金的賓客、不脩戰備而亡國，分別裁斷個人操守與領導用人之責"
+    },
+    {
+      "chapter": "六國",
+      "para_index": 7,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "本段比較六國合縱與秦的權力形勢，並明責始皇「矯任其私知」「窮奢肆欲，力役無饜，毒流諸夏」，把統治成敗連到領袖品格與公共傷害"
+    },
+    {
+      "chapter": "樂正后夔一足",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "俗說以夔「用精專」為其「能調暢於音樂」的原因，直接提出專精與才能表現的關係，並非只出現樂官名號"
+    },
+    {
+      "chapter": "樂正后夔一足",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "結論「若夔者，一而足矣」「故曰夔一足，非一足行」只把「一足」還原為一人已足的語義，通段未另對人的品性或生活下判斷"
+    },
+    {
+      "chapter": "丁氏穿井得一人",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「丁氏家穿井，得一人於井中也」只登錄一條俗說，沒有說明人的品性、關係或相信此說的原因"
+    },
+    {
+      "chapter": "丁氏穿井得一人",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "故事只用「得一人之使，非得一人於井中也」澄清「得一人」的語義，沒有在語義還原之外對人作判斷"
+    },
+    {
+      "chapter": "封泰山禪梁父",
+      "para_index": 1,
+      "domains": ["X", "XII"],
+      "modes": ["narrative"],
+      "reason": "俗說稱金篋玉策「能知人年壽脩短」且武帝改讀後果然耆長，又敘黃帝騎龍升天及封禪可「神仙」，把壽命與超越性神驗連在一起"
+    },
+    {
+      "chapter": "封泰山禪梁父",
+      "para_index": 2,
+      "domains": ["X", "XI"],
+      "modes": ["ritual", "proposition"],
+      "reason": "前半具體說明封禪壇制與祭告，後半以「五帝聖焉死，三王仁焉死，五伯智焉死」正視人皆有死，並以「騎龍升天，豈不怪乎」破除長生神仙之說"
+    },
+    {
+      "chapter": "葉令祠",
+      "para_index": 1,
+      "domains": ["XII"],
+      "modes": ["narrative"],
+      "reason": "俗說敘王喬神術、天帝召入玉棺及死後立祠，並認定祈禱「無不如意」、違犯即得禍，正面承載神靈與祠祀效驗"
+    },
+    {
+      "chapter": "葉令祠",
+      "para_index": 2,
+      "domains": ["V", "X", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「功施於民，以勞定國」說明葉公因公共領導受民追祀；「獨不愛其死乎」以聖賢皆死指出人的死亡界限；「知非人之所能也」及「世之矯誣」則拆穿仙術，三項各有獨立命中點"
+    },
+    {
+      "chapter": "燕太子丹仰歎，天爲雨粟，烏白頭，馬生角，厨中木象生肉足，井上株木跳度瀆。",
+      "para_index": 1,
+      "domains": ["XII"],
+      "modes": ["narrative"],
+      "reason": "俗說明言「丹有神靈，天爲感應」，把雨粟等異象當作使丹獲釋的超越性回應，是正面神驗敘述"
+    },
+    {
+      "chapter": "燕太子丹仰歎，天爲雨粟，烏白頭，馬生角，厨中木象生肉足，井上株木跳度瀆。",
+      "para_index": 2,
+      "domains": ["VII", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「丹畏死逃歸耳」把天降瑞應還原為人的逃亡，末又以丹「好士，無所愛恡」解釋「閭閻小論飾成」的名聲加工，同時破除神驗並判及品格與傳言形成"
+    }
+  ]
+}
