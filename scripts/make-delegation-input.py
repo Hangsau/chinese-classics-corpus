@@ -25,6 +25,8 @@ def main() -> int:
                     help="每批的字數軟上限；單章超過就自己一批")
     ap.add_argument("--exclude-dup-of", metavar="SLUG",
                     help="逐字相同的段落不發包（該書已獨立收錄，標註由 SLUG 沿用）")
+    ap.add_argument("--exclude-chapter", metavar="CHAPTER", action="append", default=[],
+                    help="整章不發包（重出但切段粒度／異體字不同，逐字比對咬不到）；可重複")
     args = ap.parse_args()
 
     raw = ROOT / "translations" / args.slug / "raw" / "original.txt"
@@ -43,6 +45,14 @@ def main() -> int:
         before = len(rows)
         rows = [r for r in rows if r[3].strip() not in dup]
         print(f"扣除與 {args.exclude_dup_of} 逐字相同的 {before - len(rows)} 段")
+
+    for label in args.exclude_chapter:
+        before = len(rows)
+        rows = [r for r in rows if r[1] != label]
+        if before == len(rows):
+            print(f"[error] --exclude-chapter〈{label}〉在本書找不到")
+            return 1
+        print(f"扣除整章〈{label}〉{before - len(rows)} 段")
 
     chapters: list[tuple[str, list[tuple[int, str]]]] = []
     for _, label, para_index, text in rows:
