@@ -1,0 +1,165 @@
+{
+  "batch": "b02",
+  "rows": [
+    {
+      "chapter": "難夏育上言鮮卑仍犯諸郡",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "confidence": 0.96,
+      "reason": "以「時有同異，勢有可否」推出「謀有成敗，不可一也」，主張出兵決策須依不同時勢判斷成敗。"
+    },
+    {
+      "chapter": "難夏育上言鮮卑仍犯諸郡",
+      "para_index": 2,
+      "domains": ["V", "IX", "X"],
+      "modes": ["proposition"],
+      "confidence": 0.95,
+      "reason": "以武帝窮兵造成「官民俱匱、民不堪命」為前鑑，又預言再戰將使民人流移、不能還其骸骨且弱者伏尸，連結公共決策、民生苦難與死亡後果。"
+    },
+    {
+      "chapter": "難夏育上言鮮卑仍犯諸郡",
+      "para_index": 3,
+      "domains": ["V", "IX"],
+      "modes": ["proposition", "prescription"],
+      "confidence": 0.98,
+      "reason": "以「憂萬人饑餓」與不討蠻夷比較輕重，主張「卹民救急」，並具體請止攻伐、改守塞垣，關切領導抉擇及饑困中的百姓。"
+    },
+    {
+      "chapter": "荅詔問災異",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "confidence": 0.99,
+      "reason": "只記「詔書尺一」、五名受問官員的座次、受詔與給筆硯作對的程序，未提出關於人的承重主張。"
+    },
+    {
+      "chapter": "荅詔問災異",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "confidence": 0.99,
+      "reason": "「臣學識淺薄，心慮愚暗，不足以荅聖問」只是奉詔作答前的上書謙辭與呈狀格式。"
+    },
+    {
+      "chapter": "荅詔問災異",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "confidence": 0.98,
+      "reason": "全段依《潛潭巴》《演孔圖》等把墮虹對應后妃、兵革與權移，再列「抑內寵、任忠言」等救法，是災象占釋與處置條目。"
+    },
+    {
+      "chapter": "荅詔問災異",
+      "para_index": 4,
+      "domains": ["XII"],
+      "modes": ["formalization", "proposition"],
+      "confidence": 0.88,
+      "reason": "除以舊事比勘白衣入宮外，還把其未入殿即被察覺明說為「仰見上帝之厚德」，將警示性的結果歸于有德意的上帝。"
+    },
+    {
+      "chapter": "荅詔問災異",
+      "para_index": 5,
+      "domains": ["VII", "XI"],
+      "modes": ["formalization", "prescription"],
+      "confidence": 0.91,
+      "reason": "雌雞占辭之外，以顏子「有過未嘗不知，知之未嘗復行」及「不遠復……元吉」說明及早知過、改過可阻止將成之患。"
+    },
+    {
+      "chapter": "荅詔問災異",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization"],
+      "confidence": 0.98,
+      "reason": "逐項以陽微、陰勝、恩亂、貌失等配地震、月蝕、風雨與疾癘，末列「正上下、抑陰尊陽」為救法，止于災異對應表。"
+    },
+    {
+      "chapter": "荅詔問災異",
+      "para_index": 7,
+      "domains": ["VII", "XI"],
+      "modes": ["formalization", "proposition"],
+      "confidence": 0.93,
+      "reason": "明說「人主當精明其德，則有休慶之色」，又舉宋景公「三有德言，而熒惑為之退舍」，主張德言能改變原有凶象。"
+    },
+    {
+      "chapter": "荅詔問災異",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["formalization"],
+      "confidence": 0.98,
+      "reason": "以《易傳》《河圖祕徵篇》把冬蝗配到不時之作、貪暴與酷吏，再列息役、省費、黜貪為救法，仍是蝗災的占應處置。"
+    },
+    {
+      "chapter": "荅詔問災異",
+      "para_index": 9,
+      "domains": ["XI", "XII"],
+      "modes": ["formalization", "proposition"],
+      "confidence": 0.9,
+      "reason": "在城門、武庫損壞的占釋末明言「若時共禦……神則不怒，五福乃降」，把人的及時應對連到神意轉怒與降福。"
+    },
+    {
+      "chapter": "荅詔問災異",
+      "para_index": 10,
+      "domains": ["V", "XI", "XII"],
+      "modes": ["expression", "prescription"],
+      "confidence": 0.99,
+      "reason": "稱「天于大漢，殷勤不已」而以妖變責讓，又明說「因以感覺，則危可為安，凶可作吉」；後文要求任忠直、黜貪濁與慎選孝廉，把轉變落在君主的用人和領導。"
+    },
+    {
+      "chapter": "被收時表",
+      "para_index": 1,
+      "domains": ["V", "VI", "X"],
+      "modes": ["expression", "narrative"],
+      "confidence": 0.99,
+      "reason": "作者因密對受逮，指出報復將使「群臣杜口」而無人盡忠；同時直陳「征營怖悸」「誠冤誠痛」，並在「臣死期垂至」時請以己身受戮。"
+    },
+    {
+      "chapter": "《太尉楊公碑》",
+      "para_index": 1,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["narrative", "observation"],
+      "confidence": 0.98,
+      "reason": "楊秉以經術誨授三千餘學者，任政時「沙汰虛穴、料𥳑貞實」並黜饕戾、列英才，又以「廚無宿肉，器不雕鏤」落實清儉操守。"
+    },
+    {
+      "chapter": "《司空臨晉侯楊公碑》",
+      "para_index": 1,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["narrative", "observation"],
+      "confidence": 0.97,
+      "reason": "寫其家貧仍「手執勤役、遠涉道里以修經術」，入仕後恭遜固慎，且以忠言嘉謀匡輔而不宣其功，分別呈現求學、品格與臣職責任。"
+    },
+    {
+      "chapter": "《司空臨晉侯楊公碑》",
+      "para_index": 2,
+      "domains": ["II", "VII", "X"],
+      "modes": ["narrative", "observation"],
+      "confidence": 0.97,
+      "reason": "受封時自認「功不副賞」而十上辭章，又自問「吾何德以堪諸」；臨終顧命只戒忠儉，寫出自我評價、謙讓操守與面對死亡。"
+    },
+    {
+      "chapter": "《司空臨晉侯楊公碑》",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["ritual", "observation"],
+      "confidence": 0.99,
+      "reason": "銘辭只以「明哲、德亞聖人、受茲介福」等頌語列德位，接以「子子孫孫」與潔祠慰魂的祝頌，沒有另立行為判準。"
+    },
+    {
+      "chapter": "《漢太尉楊公碑》",
+      "para_index": 1,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["narrative", "observation"],
+      "confidence": 0.97,
+      "reason": "楊賜「文以典籍，尋道入奧」並在禁中授《尚書》，多次辭命退居而守清行，所辟選者又「莫非瓌才逸秀」，兼寫學業、操守與公共用人。"
+    },
+    {
+      "chapter": "《漢太尉楊公碑》",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["ritual", "observation"],
+      "confidence": 0.98,
+      "reason": "全段為「天降純嘏」「受茲介福」「式昭懿聲」一類押韻銘贊，僅泛稱丕貞與令德，未拆出可判定的行為內容。"
+    }
+  ]
+}
