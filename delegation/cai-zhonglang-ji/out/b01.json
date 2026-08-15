@@ -1,0 +1,181 @@
+{
+  "batch": "b01",
+  "rows": [
+    {
+      "chapter": "故太尉橋公廟碑",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["observation"],
+      "confidence": 0.9,
+      "reason": "「撫柔疆垂，戎狄率從」並連到「黎民時雍、八方和同」，寫出施政使群體安定的結果。"
+    },
+    {
+      "chapter": "故太尉橋公廟碑",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "confidence": 0.99,
+      "reason": "只錄「少辟孝廉」至「薨于京師、葬于某所」的官歷、卒年與葬贈，未另說人的處世內容。"
+    },
+    {
+      "chapter": "故太尉橋公廟碑",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "confidence": 0.99,
+      "reason": "橋玄面對貴戚之託「不為之動」，又以「若先請，民已死」開倉救荒，具體呈現不阿權勢與以民命為先。"
+    },
+    {
+      "chapter": "故太尉橋公廟碑",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "confidence": 0.98,
+      "reason": "以「視民如保赤子，討惡如赴水火」總括執政取向，並敘其懲治貪吏、反對蓋升升遷的實際作為。"
+    },
+    {
+      "chapter": "故太尉橋公廟碑",
+      "para_index": 5,
+      "domains": ["IV", "V", "VII"],
+      "modes": ["observation"],
+      "confidence": 0.96,
+      "reason": "「曾無順媚一言之求」寫其不替子孫徇私，「弟卒，推與其孤」寫照顧親族，兩事共同落實其「清儉仁與」。"
+    },
+    {
+      "chapter": "東鼎銘",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["ritual", "observation"],
+      "confidence": 0.86,
+      "reason": "「鑒于法，罔敢不法」把守法寫成行事準則，且以「保乂帝家、民咸曰休」交代其領導後果。"
+    },
+    {
+      "chapter": "中鼎銘",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["ritual", "prescription"],
+      "confidence": 0.94,
+      "reason": "詔辭要求「同寅協恭」及「德則昭之，違則塞之」，又以「枉乃不敢不匡」界定輔政者的公責與操守。"
+    },
+    {
+      "chapter": "西鼎銘",
+      "para_index": 1,
+      "domains": ["V", "VII", "X"],
+      "modes": ["ritual", "expression"],
+      "confidence": 0.91,
+      "reason": "橋玄七十歲自言「可以生，可以死」，並以「悉心在公，以盡為臣之節」表明面對死生仍盡公共責任與臣節。"
+    },
+    {
+      "chapter": "黃鉞銘",
+      "para_index": 1,
+      "domains": ["V", "IX"],
+      "modes": ["narrative", "proposition"],
+      "confidence": 0.95,
+      "reason": "見吏士「勤于奔命，人馬疲羸」便請停橫發之役，文本隨即列出人馬休養、軍備與財用恢復的效果。"
+    },
+    {
+      "chapter": "太尉橋公碑",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["observation"],
+      "confidence": 0.92,
+      "reason": "「臨大節而不可奪」及「直道而往，用免其任」把不屈的品格連到任官時堅持正道而失職的後果。"
+    },
+    {
+      "chapter": "太尉橋公碑",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["observation", "proposition"],
+      "confidence": 0.93,
+      "reason": "「拔賢如旋流，討惡如霆擊」具體說明其用人與除惡，並以「至德在己，揚之由人」提出德行須由人彰述的原理。"
+    },
+    {
+      "chapter": "朱公叔謚議",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["formalization", "proposition"],
+      "confidence": 0.99,
+      "reason": "文本明定「忠也者，人德之至」，再分成奉上、謀誨、撫下三義，並以勸善、利人與察情作為公共德行的判準。"
+    },
+    {
+      "chapter": "朱公叔謚議",
+      "para_index": 2,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["formalization", "proposition"],
+      "confidence": 0.99,
+      "reason": "以「無私積」界定忠儉、「危身利民」界定公共擔當、「勤學好問」界定學業品格，據此論證忠文之謚。"
+    },
+    {
+      "chapter": "朱公叔謚議",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "confidence": 0.97,
+      "reason": "全段依爵位與稱號先例判定「若稱子則降等」，末令在「公、父之中擇一」，只處理謚號等級規則。"
+    },
+    {
+      "chapter": "鼎銘",
+      "para_index": 1,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["narrative", "observation"],
+      "confidence": 0.95,
+      "reason": "「尋綜六藝」以啟惑覺疑寫其學業成就，「矯枉董直、罔肯阿順」及封植貞良、芟夷殘戾則寫其公職操守與治理。"
+    },
+    {
+      "chapter": "墳前石碑",
+      "para_index": 1,
+      "domains": ["IV", "X", "XIII"],
+      "modes": ["narrative", "ritual"],
+      "confidence": 0.94,
+      "reason": "父臨終戒子「無拘于俗」，子「欽率遺意」從簡治墓並立石「用慰其孤罔極之懷」，寫出親子承命、面對死亡與安頓哀思。"
+    },
+    {
+      "chapter": "王子喬碑",
+      "para_index": 1,
+      "domains": ["IX", "XI", "XII"],
+      "modes": ["narrative", "proposition"],
+      "confidence": 0.99,
+      "reason": "段末明說「疾病尩瘵者，靜躬祈福即獲祚；若不虔恪輒顛踣」，主張病者可由虔敬祈福改變所得結果。"
+    },
+    {
+      "chapter": "王子喬碑",
+      "para_index": 2,
+      "domains": ["XII"],
+      "modes": ["ritual", "proposition"],
+      "confidence": 0.88,
+      "reason": "除皇帝「奉犧牲以致祀」外，還主張神聖所興應立銘，使「志道者有所覽」，明寫敬神與求道者的關係。"
+    },
+    {
+      "chapter": "王子喬碑",
+      "para_index": 3,
+      "domains": ["IV", "XII"],
+      "modes": ["narrative", "ritual"],
+      "confidence": 0.92,
+      "reason": "「念所生」後回墓舒哀、示迹告名，既把孝親化成行動，也引出眾人修祠、進饋與祈福的神聖實踐。"
+    },
+    {
+      "chapter": "荅丞相可齋議",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "ritual"],
+      "confidence": 0.99,
+      "reason": "僅交代「立春當齋」而西祠發生毆殺，詢問「可齋不」，是尚未作答的祭齋程序案件。"
+    },
+    {
+      "chapter": "荅丞相可齋議",
+      "para_index": 2,
+      "domains": ["XII"],
+      "modes": ["formalization", "ritual"],
+      "confidence": 0.96,
+      "reason": "以「齋者、所以致齊不敢渙散其意」界定齋戒的專一心志，並說恭奉明祀所以懷福，提出具體信仰實踐。"
+    },
+    {
+      "chapter": "幽冀二州刺史久缺疏",
+      "para_index": 1,
+      "domains": ["V", "VIII", "IX"],
+      "modes": ["expression", "prescription"],
+      "confidence": 0.99,
+      "reason": "面對饉荒、士馬死傷與百姓「流離溝壑」，作者反對任官受三互拘限，主張「越境取能，以救時弊」，兼及民困、人才任用與公共決策。"
+    }
+  ]
+}
