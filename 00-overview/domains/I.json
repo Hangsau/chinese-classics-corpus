@@ -2,9 +2,9 @@
   "domain": "I",
   "name_zh": "存在與意義",
   "gist": "我為何在此、活著有沒有意義、與想不通的問題共處、在歷史洪流中的渺小",
-  "generated_at": "2026-08-15T09:28:34+00:00",
-  "para_count": 40,
-  "book_count": 11,
+  "generated_at": "2026-08-15T09:54:19+00:00",
+  "para_count": 41,
+  "book_count": 12,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -395,6 +395,21 @@
       "note": "作者慨嘆世人逐名利而輕忽養生，並以患病後束手失命反問生命所本，兼論人生取向與人在疾病中的身體處境",
       "co_domains": [
         "IX"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "5",
+      "para_index": 5,
+      "para_id": "shenjian#05-p05",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "或問守。曰︰「聖典而已矣，〈聖典，謂《六經》。〉若夫百家者，是謂無守。莫不爲言，",
+      "note": "答「或問守」而斷以「聖典而已矣」，並以「百家者，是謂無守」對照「聖人之道」，是在回答人應以何種根本道路安立其持守，也把德與中道定爲取捨準則",
+      "co_domains": [
+        "VII"
       ]
     },
     {

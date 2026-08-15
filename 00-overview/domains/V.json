@@ -2,9 +2,9 @@
   "domain": "V",
   "name_zh": "群體·社會·公義",
   "gist": "孤獨與歸屬、友誼、我群他群與偏見、公義與權力、責任與領導",
-  "generated_at": "2026-08-15T09:28:34+00:00",
-  "para_count": 2352,
-  "book_count": 33,
+  "generated_at": "2026-08-15T09:54:19+00:00",
+  "para_count": 2383,
+  "book_count": 34,
   "surveyed_zero_hit": [
     "haidao-suanjing",
     "jinkui-yaolue",
@@ -18084,6 +18084,450 @@
       ],
       "excerpt": "聖人知必然之理，必為之時勢；故為必治之政，戰必勇之民，行必聽之令。是以兵出而無敵",
       "note": "界定仁義忠孝禮別及不苟食生的德目，並明說仁義不能使他人仁愛、不足以治天下，故聖王應貴法而不貴義",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 3,
+      "para_id": "shenjian#01-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "立天之道，曰隂與陽；立地之道，曰柔與剛；立人之道，曰仁與義。〈此引《易‧繫辭》文",
+      "note": "「立人之道，曰仁與義」及仁、義、禮、信、智界定德性根本；又以「教者……法者」說明德教、法制如何共同維持群體秩序",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 5,
+      "para_id": "shenjian#01-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "致治〈按︰《漢書》作「政」字。〉之術，先屏四患，乃崇五政。一曰僞，二曰私，三曰放",
+      "note": "「僞亂俗，私壞法，放越軌，奢敗制」把虛偽、自私、放縱、奢侈等品格缺失說成敗壞社會秩序的原因，並主張「先屏四患，乃崇五政」",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 6,
+      "para_id": "shenjian#01-p06",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "民不畏死，不可懼以罪；〈《老子》曰︰「民不畏死，柰何以死懼之。」〉民不樂生，不可",
+      "note": "「民不畏死，不可懼以罪；民不樂生，不可觀以善」明說生計會制約人的善惡動機，因而要求在上者「先豐民財以定其志」，兼及品格形成與治理責任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 14,
+      "para_id": "shenjian#01-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "惟察九風，以定國常。一曰治，二曰衰，三曰弱，四曰乖，五曰亂，六曰荒，七曰叛，八曰",
+      "note": "「君臣親而有禮……讓而不爭」到「小臣爭寵，大臣爭權」逐項用群體行為、權力關係與公共風氣診斷國之治亂，核心是社會秩序",
+      "co_domains": []
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 15,
+      "para_id": "shenjian#01-p15",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "惟愼庶獄，以昭人情。天地之大德曰生，〈《易‧繫辭》文。〉萬物之大極曰死。〈《洪範",
+      "note": "「死者不可以生，刑者不可以復」以死亡與刑罰不可逆為慎刑依據，並以「矜哀以恤之」要求掌權者審慎行使公共刑罰",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 17,
+      "para_id": "shenjian#01-p17",
+      "modes": [
+        "ritual",
+        "prescription"
+      ],
+      "excerpt": "天子有四時，朝以聽政，晝以訪問，夕以脩令，夜以安身。〈本公孫僑告叔向之言。杜氏曰",
+      "note": "「朝以聽政，晝以訪問，夕以脩令，夜以安身」規定天子按時序行事；「不拒直辭，不恥下問，公私不愆」又要求領導者能納諫、謙抑而公私一致",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 18,
+      "para_id": "shenjian#01-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "問︰「明於治者其統近。」〈俗本誤作「迫」。〉「萬物之本在身，天下之本在家，治亂之",
+      "note": "「萬物之本在身」談個人品格修治，「天下之本在家」談家庭根基，「治亂之本在左右……四表定」談領導與公共秩序；三格各承載身、家、天下的獨立層次，任去一格都會少掉其中一層",
+      "co_domains": [
+        "VII",
+        "IV"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 20,
+      "para_id": "shenjian#01-p20",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "自天子逹於庶人，好惡哀樂，其脩一也；豐約勞佚，各有其制。〈言上下情無不同，其貴豐",
+      "note": "「自天子逹於庶人，好惡哀樂，其脩一也」斷言上下共享基本情感；「下有饑民，上則不備膳……民寒傷國」則以一體關係要求統治者共擔民眾困境",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 21,
+      "para_id": "shenjian#01-p21",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "問︰「君以至美之道道民，民以至美之物養君。」〈美道，五典之類。美物，五穀之類。〉",
+      "note": "「君降其惠，民升其功，此無往不復，相報之義也」把君民關係說成恩惠與勞力相互回報的社會義務",
+      "co_domains": []
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 22,
+      "para_id": "shenjian#01-p22",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "問人主。「有公賦無私求，有公用無私費，有公役無私使，有公賜無私惠，有公怒無私怨。",
+      "note": "「有公賦無私求……有公怒無私怨」要求人主約束私欲、私怨；私求、私使使人民受擾，私怨使下民「疑懼而不安」，兼論掌權公義與個人操守",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 24,
+      "para_id": "shenjian#01-p24",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "問︰「民由水也？」「濟大川者，太上乗舟，其次泅。〈泅，浮行水上也。〉泅者勞而危，",
+      "note": "「縱民之情謂之亂，絕民之情謂之荒」及驅雞「急則驚……志安則循路」談情欲與驚怨的調節（VI）；「先禁其身而後人」談領導者自律（VII）；全段以此建立「御民之方」（V），三格各少不得",
+      "co_domains": [
+        "VI",
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 25,
+      "para_id": "shenjian#01-p25",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "太上不空市，其次不偷竊，其次不掠奪。上以功、惠綏民，下以財、力奉上，〈卽悅所謂「",
+      "note": "「上下相與」是權力與民力互惠的原則；若使市場空竭，便由「巧詐」進至「暴迫」並造成「民必交爭」，說的是失去公義互惠如何破壞社會關係",
+      "co_domains": []
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 26,
+      "para_id": "shenjian#01-p26",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或曰︰「聖王以天下爲樂。」曰︰「否。聖王以天下爲憂，〈如帝堯存心天下，加志窮民，",
+      "note": "「聖王以天下爲憂，天下以聖王爲樂」與凡主的相反情形，以憂樂的相互回報說明領導者是否屈己會塑造群體的安樂或憂患",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 27,
+      "para_id": "shenjian#01-p27",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "治世所貴乎位者三，一曰逹道於天下，二曰逹惠於民，三曰逹德於身。〈道非位不行，惠非",
+      "note": "「逹道於天下、逹惠於民、逹德於身」把權位用於公共責任；衰世卻用來「高人」「奉身」「報肆心」，形成公德與自利用權的品格對照",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 28,
+      "para_id": "shenjian#01-p28",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "治世之臣所貴乎順者三，一曰心順，二曰職順，三曰道順。〈此下疑脫「衰世之臣所貴乎順",
+      "note": "「心順、職順、道順」區分臣職真正的順從與反忠逆道；「祿薄牢寵」「官職屢改」「黜陟不明」又說明任職條件如何削弱官位與施政，兼及權力責任和職業處境",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 29,
+      "para_id": "shenjian#01-p29",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "好惡之不行，其俗尚矣。嘉守節而輕狹陋，疾威福而尊權右，賤求欲而崇克濟，貴求己而榮",
+      "note": "「心與言，言與事，參相應也」要求內心、言語、行事一致；好惡、毀譽、賞罰若不相符便「實亂」，把個人誠實與公共評價秩序連在一起",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "2",
+      "para_index": 6,
+      "para_id": "shenjian#02-p06",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "孝武皇帝以四夷未賔，宼賊姦宄，初置武功賞官，以寵戰士。〈大司農陳臧錢經用，賦稅旣",
+      "note": "「每宼難之作，民瘁幾盡」並斷言「不教民戰，是謂棄之」，把國家是否使人民具備應戰能力說成領導者對群體的責任，不只是在列尚武官職。",
+      "co_domains": []
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "3",
+      "para_index": 15,
+      "para_id": "shenjian#03-p15",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "世稱緯書，仲尼之作也，〈世之說者，謂孔子旣叙《六經》，以明天人之道，知後世不能稽",
+      "note": "先以「八十一首非仲尼之作」破除緯書託名，再要求「在上者不受虛言，不聽浮術……名必有實，事必有功」，兼論掌權者辨偽的責任與人不受術數虛言支配的可能",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "4",
+      "para_index": 2,
+      "para_id": "shenjian#04-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "君子有三鑒，世人鑒鏡；〈蒸庶但知鏡鑒而已。〉前惟訓，人惟賢，鏡惟明。〈此君子之三",
+      "note": "「前惟訓，人惟賢，鏡惟明」把歷史、賢人與明鏡列為自我省察的三鑒，並以「夏、商之衰」「周、秦之弊」說明領導者不肯取鑒會危及國家，故勸「惟鑒之務」",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "4",
+      "para_index": 3,
+      "para_id": "shenjian#04-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "或問︰「致治之要，君乎？」曰︰「兩立哉！〈天無獨運，君無獨理。〉非天地不生物，非",
+      "note": "「非君臣不成治」論領導與輔弼之責，又以「僻志萌則僻事作」及「非賢不可任，非智不可從」把政亂繫於內心邪正、公明與擇賢；「膏肓」只是在比喻嬖孽近君之患",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "4",
+      "para_index": 4,
+      "para_id": "shenjian#04-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或曰︰「愛民如子，仁之至乎？」曰︰「未也。」曰︰「愛民如身，仁之至乎？」曰︰「未",
+      "note": "由「愛民如子」「愛民如身」仍非仁之至，推到「民存則社稷存，民亡則社稷亡」，主張人主的仁與領導責任在於重民而不以自身利益為先",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "4",
+      "para_index": 7,
+      "para_id": "shenjian#04-p07",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "人主之患，常立於二難之間︰在上而國家不治，難也；治國家則必勤身苦思，矯情以從道，",
+      "note": "「必竭其誠，明其道，盡其義」規定臣即使不被君理解仍須盡忠，並以「導非、阿失、尸寵」三罪及「下不鉗口，上不塞耳」論君臣權責與開放進言的倫理",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "4",
+      "para_index": 8,
+      "para_id": "shenjian#04-p08",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "或曰︰「在上有屈乎？」曰︰「在上者以義申，以義屈。〈義當申則申，義當屈則屈。〉高",
+      "note": "「在上者以義申，以義屈」要求掌權者以義而非私欲決定伸屈，並以高祖、光武、明帝能接受賢臣制約，反襯秦二世「申欲」所顯的領導與品格之失",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "4",
+      "para_index": 9,
+      "para_id": "shenjian#04-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或曰難行。曰︰「若高祖聽戍卒不懷居，遷萬乗不俟終日；〈齊人婁敬戍隴西，過洛陽，脫",
+      "note": "「抑情絕欲，不如是，能成功業者鮮矣」以高祖、文帝、光武為例論領導者的自制，又以金日磾、丙吉、蘇武說明臣子的公義、不伐與守節；史例在此用來證成主張而非敘事",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "4",
+      "para_index": 12,
+      "para_id": "shenjian#04-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "爲世憂樂者，君子之志也；〈公於四海覆載之度。〉不爲世憂樂者，小人之志也。〈私於一",
+      "note": "「爲世憂樂者，君子之志也；不爲世憂樂者，小人之志也」以是否關切天下與人民的憂樂區分君子、小人的公共責任與品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "4",
+      "para_index": 13,
+      "para_id": "shenjian#04-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "使遽者揖讓百拜，非禮也；〈窘急者無敬，故不可以成禮。〉憂者弦歌鼓瑟，非樂也。〈愁",
+      "note": "「使遽者揖讓百拜，非禮也；憂者弦歌鼓瑟，非樂也」主張禮樂須合於人的急迫或憂愁處境，並以「禮者，敬而已矣；樂者，和而已矣」把外在儀節還原為交往中的敬與內在的和",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "4",
+      "para_index": 14,
+      "para_id": "shenjian#04-p14",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "違上順道，謂之忠臣；〈逆君從道，所謂違而得道者。〉違道順上，謂之諛臣。〈逆道從君",
+      "note": "「違上順道，謂之忠臣；違道順上，謂之諛臣」以是否守道區分忠諛，且以「忠臣安於心，諛臣安於身」揭示為公或自利的品格，勸在上者察其違順、所為與所安",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "4",
+      "para_index": 15,
+      "para_id": "shenjian#04-p15",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "或問人君人臣之戒。曰︰「莫匪戒也。」請問其要。曰︰「君戒專欲，臣戒專利，患之甚也",
+      "note": "「君戒專欲，臣戒專利」直接規戒君臣克制私欲私利，又以「腹心之人匍匐而獻善，寶之至矣」主張領導者應珍視近臣進善並「愼內守」",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "4",
+      "para_index": 17,
+      "para_id": "shenjian#04-p17",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "君子食和羹以平其氣，聽和聲以平其志，納和言以平其政，履和行以平其德。夫酸鹹甘苦不",
+      "note": "「食和羹以平其氣，聽和聲以平其志」論調節內在氣志，又以「納和言以平其政」及「君子和而不同」主張公共關係須容納差異；人人只附和「莫予違也」反會近於亡國",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "5",
+      "para_index": 3,
+      "para_id": "shenjian#05-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或問︰「進諫、受諫孰難？」曰︰「後之進諫難也，以受之難故也。〈後，謂後世。言臣畏",
+      "note": "「後之進諫難也，以受之難故也；若受諫不難，則進諫斯易矣」把臣下能否盡言歸因於居上者是否肯受諫，論的是權力關係中的領導責任與納諫品格，不是進諫措辭技術，也不是以被誤解爲主題",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "5",
+      "para_index": 15,
+      "para_id": "shenjian#05-p15",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "君子嘉仁而不責惠，尊禮而不責意，貴德而不責怨。其責也先己，而行也先人。淫惠、曲怠",
+      "note": "「君子有常交，曰義也；有常誓，曰信也」以義、信規範交往，又以「衆人之志……流於俗」和「大人……不與俗浮沈」比較人在群體風俗中的品格取向",
       "co_domains": [
         "VII"
       ]

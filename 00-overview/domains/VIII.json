@@ -2,9 +2,9 @@
   "domain": "VIII",
   "name_zh": "工作·成就·召喚",
   "gist": "工作與金錢、成就與意義、天賦與使命",
-  "generated_at": "2026-08-15T09:28:34+00:00",
-  "para_count": 762,
-  "book_count": 32,
+  "generated_at": "2026-08-15T09:54:19+00:00",
+  "para_count": 769,
+  "book_count": 33,
   "surveyed_zero_hit": [
     "gu-sanfen",
     "haidao-suanjing",
@@ -6060,6 +6060,106 @@
       "excerpt": "所謂壹教者，博聞辯慧，信廉禮樂，修行群黨，任譽清瘺，不可以富貴，不可以評刑，不可",
       "note": "明說「民之欲富貴也，共闔棺而後止」，並描述富貴只出於戰時，民便以戰為日常努力與歌謠的中心",
       "co_domains": []
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 13,
+      "para_id": "shenjian#01-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "惟恤十難，以任賢能。〈《周禮》注︰「賢謂有德行者，能謂有道藝者。」〉一曰不知，二",
+      "note": "「不進、不任、不終」寫賢能在任用與成就上的阻礙；「以小怨棄大德……以讒嫉廢賢能」又把私怨、讒嫉等品格毛病指出為障礙來源",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 28,
+      "para_id": "shenjian#01-p28",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "治世之臣所貴乎順者三，一曰心順，二曰職順，三曰道順。〈此下疑脫「衰世之臣所貴乎順",
+      "note": "「心順、職順、道順」區分臣職真正的順從與反忠逆道；「祿薄牢寵」「官職屢改」「黜陟不明」又說明任職條件如何削弱官位與施政，兼及權力責任和職業處境",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "2",
+      "para_index": 18,
+      "para_id": "shenjian#02-p18",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "備愽士，〈博士，秦官，掌通古今。武帝建元初置《五經》愽士，宣帝黃龍初稍增員十二人",
+      "note": "「或學者先意，有所借定；後進相放，彌以滋蔓」指出學者成見與後學仿效會使經學歧出，並以此論證「備愽士，廣太學」，所論是學術能力與學業養成。",
+      "co_domains": []
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "2",
+      "para_index": 19,
+      "para_id": "shenjian#02-p19",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "或曰︰「至德要道約爾，典籍甚富，如而愽之以求約也？」「語有之曰︰『有鳥將來，張羅",
+      "note": "「道雖要也，非愽無以通矣」主張掌握要道必先廣博學習，結語「愽其方，約其說」直接給出求學與成就理解的方法。",
+      "co_domains": []
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "5",
+      "para_index": 1,
+      "para_id": "shenjian#05-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "衣裳，服者不昧於塵塗，愛也。〈昧，汚闇。塗，泥也。衣裳者，身之法象，固不可不潔。",
+      "note": "「人之所以立德者三︰一曰貞，二曰逹，三曰志」以貞、逹、志論品格成立，又以「才」與「行」及「適楚而北轅」辨才能須受德行導正；「心誠則神明應之」「志正則天地順之」並明確認證神明、天地對誠正的感應。三格不可再減：拿掉 VII 會漏掉立德，拿掉 VIII 會漏掉才能與實行的取捨，拿掉 XII 會漏掉文本認可的超越感應",
+      "co_domains": [
+        "VII",
+        "XII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "5",
+      "para_index": 2,
+      "para_id": "shenjian#05-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或問︰「聖人所以爲貴者，才乎？」曰︰「合而用之，以才爲貴；〈如元愷之類，才配乎德",
+      "note": "「合而用之，以才爲貴；分而行之，以行爲貴」比較才能與德行的價值，並以「舜、禹之仁，雖亡其才，不失爲良人」主張才能若不能與德行兼全，仍以品格爲本",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "何孟春序",
+      "para_index": 2,
+      "para_id": "shenjian#06-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "政體，掇其篇首數百言見之其傳，且謂其所爲《漢紀》論辨多美。今仲豫書具在也。然則仲",
+      "note": "序者不只敘生平，還直斷「正色抗情者生不足樂」以比較生死得失，又說「士有經世志畧，孰不願得所天而事之，顧所遭何如，所自爲處何如耳」。三格不可再減：拿掉 X 會漏掉生死之辨，拿掉 VIII 會漏掉經世志業，拿掉 XIII 會漏掉人在所遭之世如何自處",
+      "co_domains": [
+        "X",
+        "XIII"
+      ]
     },
     {
       "slug": "shenzi",

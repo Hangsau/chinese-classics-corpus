@@ -2,9 +2,9 @@
   "domain": "X",
   "name_zh": "無常·老·死·失去",
   "gist": "老與時間、失去與哀傷、死亡、耐心與等待",
-  "generated_at": "2026-08-15T09:28:34+00:00",
-  "para_count": 210,
-  "book_count": 17,
+  "generated_at": "2026-08-15T09:54:19+00:00",
+  "para_count": 217,
+  "book_count": 18,
   "surveyed_zero_hit": [
     "dengxizi",
     "fangyan",
@@ -825,6 +825,105 @@
       "co_domains": [
         "VIII",
         "V"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 15,
+      "para_id": "shenjian#01-p15",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "惟愼庶獄，以昭人情。天地之大德曰生，〈《易‧繫辭》文。〉萬物之大極曰死。〈《洪範",
+      "note": "「死者不可以生，刑者不可以復」以死亡與刑罰不可逆為慎刑依據，並以「矜哀以恤之」要求掌權者審慎行使公共刑罰",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "2",
+      "para_index": 8,
+      "para_id": "shenjian#02-p08",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "肉刑古也。或曰︰「復之乎？」曰︰「古者人民盛焉，今也至寡，整衆以威，撫寡以寛，道",
+      "note": "「生刑而極死者，復之可也」指出原本不致死的刑罰反被改成死刑，並以「生死而息民」把免死、保存人命本身作爲立論依據。",
+      "co_domains": []
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "3",
+      "para_index": 8,
+      "para_id": "shenjian#03-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或問神僊之術。曰︰「誕哉！末之也已矣。〈言名生實死，誕妄不足信也。〉聖人弗學，〈",
+      "note": "以「誕哉」否定神僊術，並說「終始，運也；短長，數也。運數非人力之爲也」，同時論人的必死與壽命長短，以及人力不能越過的命限",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "3",
+      "para_index": 9,
+      "para_id": "shenjian#03-p09",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "或問︰「有數百歲人乎？」曰︰「力稱烏獲，〈烏獲，秦武王力士。〉捷言羌亥，〈羌亥，",
+      "note": "以「力稱烏獲……聖云仲尼，壽稱彭祖」並列各類異常傑出者，據「物有俊傑，不可誣也」斷言人間確有壽數特長的個例",
+      "co_domains": []
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "3",
+      "para_index": 10,
+      "para_id": "shenjian#03-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或問︰「凡壽者必有道，非習之功。」曰︰「夫惟壽，則惟能用道，惟能用道，則性壽矣。",
+      "note": "「苟非其性也，脩之不至也」區分先天性壽與後天修習的界限，而「壽必用道，所以盡命」又主張修道只能盡其既有壽命，兼論壽數與可改變的限度",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "3",
+      "para_index": 13,
+      "para_id": "shenjian#03-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或問︰「仁者壽，何謂也？」〈《論語》︰「知者樂，仁者壽。」〉曰︰「仁者內不傷性，",
+      "note": "「仁者內不傷性，外不傷物……壽之術也」以仁德解釋養壽，卻用顔、冉早夭追問並答「命也」；去掉 VII 會漏失德行之因，去掉 X 會漏失夭壽問題，去掉 XI 則會漏失命限對德行效果的轉折",
+      "co_domains": [
+        "VII",
+        "XI"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "何孟春序",
+      "para_index": 2,
+      "para_id": "shenjian#06-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "政體，掇其篇首數百言見之其傳，且謂其所爲《漢紀》論辨多美。今仲豫書具在也。然則仲",
+      "note": "序者不只敘生平，還直斷「正色抗情者生不足樂」以比較生死得失，又說「士有經世志畧，孰不願得所天而事之，顧所遭何如，所自爲處何如耳」。三格不可再減：拿掉 X 會漏掉生死之辨，拿掉 VIII 會漏掉經世志業，拿掉 XIII 會漏掉人在所遭之世如何自處",
+      "co_domains": [
+        "VIII",
+        "XIII"
       ]
     },
     {

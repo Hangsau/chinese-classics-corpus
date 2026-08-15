@@ -2,9 +2,9 @@
   "domain": "II",
   "name_zh": "自我與認同",
   "gist": "我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我",
-  "generated_at": "2026-08-15T09:28:34+00:00",
-  "para_count": 523,
-  "book_count": 26,
+  "generated_at": "2026-08-15T09:54:19+00:00",
+  "para_count": 528,
+  "book_count": 27,
   "surveyed_zero_hit": [
     "fangyan",
     "gongsun-longzi",
@@ -3060,6 +3060,80 @@
       ],
       "excerpt": "所謂明者，無所不見，則群臣不敢為姦，百姓不敢為非。是以人主處匡床之上，聽絲竹之聲",
       "note": "以「自恃」「自得」「自勝」作為得天下與勝強敵的前提，把內在自我掌握視為關鍵品性",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "2",
+      "para_index": 22,
+      "para_id": "shenjian#02-p22",
+      "modes": [
+        "formalization",
+        "ritual"
+      ],
+      "excerpt": "古者天子諸侯，有事必告于廟。朝有二史，左史記言，右史記動；〈按︰《漢書》作「事」",
+      "note": "「或欲顯而不得，或欲隱而名章，得失一朝，而榮辱千載」說人的名聲與自欲未必相合，命中 II；「善人勸焉，淫人懼焉」又把史錄的長久榮辱作爲勸善懼惡的品格機制，命中 VII。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "4",
+      "para_index": 2,
+      "para_id": "shenjian#04-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "君子有三鑒，世人鑒鏡；〈蒸庶但知鏡鑒而已。〉前惟訓，人惟賢，鏡惟明。〈此君子之三",
+      "note": "「前惟訓，人惟賢，鏡惟明」把歷史、賢人與明鏡列為自我省察的三鑒，並以「夏、商之衰」「周、秦之弊」說明領導者不肯取鑒會危及國家，故勸「惟鑒之務」",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "5",
+      "para_index": 4,
+      "para_id": "shenjian#05-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或問︰「知人、自知孰難？」曰︰「自知者，求諸內而近者也；〈反觀内省，神明莫遁，自",
+      "note": "「知人、自知孰難」直接辨析自我認識與識人的限度；「君子所惡乎異者三︰好生事也，好生奇也，好變常也」又把求異、求名等傾向判爲應戒的品格偏失",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "5",
+      "para_index": 16,
+      "para_id": "shenjian#05-p16",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "或曰︰「脩行者，不爲人恥諸神明，其至也乎？」曰︰「未也。有恥者，本也；恥諸神明，",
+      "note": "「有恥者，本也；恥諸神明，其次也；恥諸人，外矣」把羞恥的根源由外在目光收回自我評價，並以「君子審乎自恥」要求內在的道德自省；神明在此只是比較層次，不是本段主張的信仰實踐",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "5",
+      "para_index": 17,
+      "para_id": "shenjian#05-p17",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "或曰︰「恥者，其志者乎？」曰︰「未也。夫志者，自然由人，何恥之有？赴谷必墜，失水",
+      "note": "「德比於上，故知恥；欲比於下，故知足」以向上比較德行、向下節制欲望建立自我評價，又以「君子愼乎所不察」「君子四省其身」規定反省、知恥與守德的實踐",
       "co_domains": [
         "VII"
       ]

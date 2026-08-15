@@ -2,9 +2,9 @@
   "domain": "VI",
   "name_zh": "情緒與內在生活",
   "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡",
-  "generated_at": "2026-08-15T09:28:34+00:00",
-  "para_count": 506,
-  "book_count": 22,
+  "generated_at": "2026-08-15T09:54:19+00:00",
+  "para_count": 519,
+  "book_count": 23,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -3901,6 +3901,190 @@
       "co_domains": [
         "VIII"
       ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 9,
+      "para_id": "shenjian#01-p09",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "小人之情，緩則驕，驕則恣，恣則急，急則怨，怨則畔，危則謀亂，安則思欲，非威强無以",
+      "note": "「小人之情，緩則驕，驕則恣……急則怨」把驕恣、怨恨等內在反應連成敗德與作亂的因果鏈，並據此主張在上者須有武備",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 20,
+      "para_id": "shenjian#01-p20",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "自天子逹於庶人，好惡哀樂，其脩一也；豐約勞佚，各有其制。〈言上下情無不同，其貴豐",
+      "note": "「自天子逹於庶人，好惡哀樂，其脩一也」斷言上下共享基本情感；「下有饑民，上則不備膳……民寒傷國」則以一體關係要求統治者共擔民眾困境",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 24,
+      "para_id": "shenjian#01-p24",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "問︰「民由水也？」「濟大川者，太上乗舟，其次泅。〈泅，浮行水上也。〉泅者勞而危，",
+      "note": "「縱民之情謂之亂，絕民之情謂之荒」及驅雞「急則驚……志安則循路」談情欲與驚怨的調節（VI）；「先禁其身而後人」談領導者自律（VII）；全段以此建立「御民之方」（V），三格各少不得",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 26,
+      "para_id": "shenjian#01-p26",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或曰︰「聖王以天下爲樂。」曰︰「否。聖王以天下爲憂，〈如帝堯存心天下，加志窮民，",
+      "note": "「聖王以天下爲憂，天下以聖王爲樂」與凡主的相反情形，以憂樂的相互回報說明領導者是否屈己會塑造群體的安樂或憂患",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "2",
+      "para_index": 2,
+      "para_id": "shenjian#02-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "盤庚遷殷，革奢卽約，〈盤庚，殷王名。自契至湯八遷，始居亳。自湯至盤庚五遷，乃陟河",
+      "note": "「厭亂則思治，創難則思靜」直接指出人歷經亂與難之後會產生厭倦、求治與求靜的內在傾向。",
+      "co_domains": []
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "3",
+      "para_index": 12,
+      "para_id": "shenjian#03-p12",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "或問曰︰「有養性乎？」曰︰「養性秉中和，守之以生而已。愛親、愛德、愛力、愛神，之",
+      "note": "「喜怒哀樂思慮必得其中，所以養神也；寒暄盈虛消息必得其中，所以養體也」把情緒調節與身體養護並論；「無疾則勿藥」「唯在乎節之」則直接規定養性與用藥之度",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "4",
+      "para_index": 13,
+      "para_id": "shenjian#04-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "使遽者揖讓百拜，非禮也；〈窘急者無敬，故不可以成禮。〉憂者弦歌鼓瑟，非樂也。〈愁",
+      "note": "「使遽者揖讓百拜，非禮也；憂者弦歌鼓瑟，非樂也」主張禮樂須合於人的急迫或憂愁處境，並以「禮者，敬而已矣；樂者，和而已矣」把外在儀節還原為交往中的敬與內在的和",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "4",
+      "para_index": 17,
+      "para_id": "shenjian#04-p17",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "君子食和羹以平其氣，聽和聲以平其志，納和言以平其政，履和行以平其德。夫酸鹹甘苦不",
+      "note": "「食和羹以平其氣，聽和聲以平其志」論調節內在氣志，又以「納和言以平其政」及「君子和而不同」主張公共關係須容納差異；人人只附和「莫予違也」反會近於亡國",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "5",
+      "para_index": 7,
+      "para_id": "shenjian#05-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "君子樂天知命，故不憂；〈《易‧繫辭》文。仁，故不憂。〉審物明辨，故不惑；〈知，故",
+      "note": "「樂天知命，故不憂；審物明辨，故不惑；定心致公，故不懼」直接說明憂、惑、懼等內在狀態如何因知命、明辨與定心而安頓，並把所當憂者限於「己不能成天性」",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "5",
+      "para_index": 10,
+      "para_id": "shenjian#05-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或曰︰「仁義性也，好惡情也，仁義常善而好惡或有惡，故有情惡也。」曰︰「不然。好惡",
+      "note": "「好惡者，性之取舍也，實見於外，故謂之情」把好惡喜怒解作性發於外的情，又以「情惡非情之罪也」辨析情感與善惡的關係，既論內在情態，也論其道德歸責",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "5",
+      "para_index": 11,
+      "para_id": "shenjian#05-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或曰︰「人之於利，見而好之，能以仁義爲節者，是性割其情也。性少情多，性不能割其情",
+      "note": "以「嗜酒嗜肉」和「好利好義」兩組競爭偏好說明「勝者行矣」，並寫「一俯一仰，乍進乍退」的內在拉扯；利與義的抉擇同時使這套欲求機制具有品格與良心意義",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "5",
+      "para_index": 12,
+      "para_id": "shenjian#05-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或曰︰「請折於經。」曰︰「《易》稱『乾道變化，各正性命』，是言萬物各有性也。〈《",
+      "note": "「情者，應感而動者也」及「情意心志者，皆性動之別名也」界說人的內在活動，末以「情何主惡之有」反駁情必然爲惡，因而同時處理情感結構及其善惡評價",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "跋申鑒注後",
+      "para_index": 1,
+      "para_id": "shenjian#09-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "右荀悅《申鑒》五卷，乃吳郡黃文學勉之所注也。漢史載悅為獻帝黃門侍郎，是時政移曹操",
+      "note": "卷數、篇名與注本資訊本身不命中；但跋文明言黃勉之「感其所遭」且因奸臣弄權「遂憤激爲注此書」，把感慨、憤激的內在反應說成作注的動因，故命中情緒與內在生活",
+      "co_domains": []
     },
     {
       "slug": "shenzi",

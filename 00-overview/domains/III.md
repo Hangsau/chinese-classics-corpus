@@ -1,7 +1,7 @@
 # III 愛與親密
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 97 段命中｜跨 12 部｜生成時間 2026-08-15T09:28:34+00:00
+> 97 段命中｜跨 12 部｜生成時間 2026-08-15T09:54:19+00:00
 
 愛與性、被拒絕、承諾、信任與脆弱、溝通與被理解
 
@@ -11,7 +11,7 @@
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`dengxizi`（鄧析子）　`fangyan`（方言）　`gongsun-longzi`（公孫龍子）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jijiupian`（急就篇）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`kongcongzi`（孔叢子）　`liutao`（六韜）　`nanjing`（難經）　`san-lue`（三略）　`shanghanlun`（傷寒論）　`shangjunshu`（商君書）　`shenyijing`（神異經）　`shenzi`（慎子）　`sima-fa`（司馬法）　`sushu`（素書）　`weiliaozi`（尉繚子）　`wuzi`（吳子）　`xinxu`（新序）　`yinwenzi`（尹文子）　`yuzi`（鬻子）　`zhongjing`（忠經）
+`dengxizi`（鄧析子）　`fangyan`（方言）　`gongsun-longzi`（公孫龍子）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jijiupian`（急就篇）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`kongcongzi`（孔叢子）　`liutao`（六韜）　`nanjing`（難經）　`san-lue`（三略）　`shanghanlun`（傷寒論）　`shangjunshu`（商君書）　`shenjian`（申鑒）　`shenyijing`（神異經）　`shenzi`（慎子）　`sima-fa`（司馬法）　`sushu`（素書）　`weiliaozi`（尉繚子）　`wuzi`（吳子）　`xinxu`（新序）　`yinwenzi`（尹文子）　`yuzi`（鬻子）　`zhongjing`（忠經）
 
 ## 列女傳（雜史）　31 段
 

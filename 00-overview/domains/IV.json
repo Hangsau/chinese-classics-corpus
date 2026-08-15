@@ -2,9 +2,9 @@
   "domain": "IV",
   "name_zh": "家庭與傳承",
   "gist": "婚姻與家庭、原生家庭的傷、為人父母、記憶與和解、留下什麼給後代",
-  "generated_at": "2026-08-15T09:28:34+00:00",
-  "para_count": 454,
-  "book_count": 24,
+  "generated_at": "2026-08-15T09:54:19+00:00",
+  "para_count": 459,
+  "book_count": 25,
   "surveyed_zero_hit": [
     "fangyan",
     "gongsun-longzi",
@@ -2944,6 +2944,78 @@
       "note": "明說人主的德行、智慧與勇力並不過人而權威來自法，又以「治主無忠臣，慈父無孝子」斷言制度及父子關係如何影響德行",
       "co_domains": [
         "V"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 18,
+      "para_id": "shenjian#01-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "問︰「明於治者其統近。」〈俗本誤作「迫」。〉「萬物之本在身，天下之本在家，治亂之",
+      "note": "「萬物之本在身」談個人品格修治，「天下之本在家」談家庭根基，「治亂之本在左右……四表定」談領導與公共秩序；三格各承載身、家、天下的獨立層次，任去一格都會少掉其中一層",
+      "co_domains": [
+        "VII",
+        "V"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "2",
+      "para_index": 10,
+      "para_id": "shenjian#02-p10",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "或問復讎。「古義也。」曰︰「縱復讎可乎？」曰︰「不可。」〈縱之則人將倚法專殺，亂",
+      "note": "段中按「父讎」「兄弟之讎」「從父從兄弟之讎」區分親屬義務，且直判「復讎者義也」「從王制，順也；犯制，逆也」，不只列避讎里程，也在裁定家族復讎的德性。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "2",
+      "para_index": 17,
+      "para_id": "shenjian#02-p17",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "古有掌隂陽之禮之官，以教後宮，〈《周禮‧內宰》︰「以隂禮教六宮，以隂禮教九𡣕，以",
+      "note": "「男女正位乎內外，正家而天下定矣」直接規範男女在家內外的位置，前文又列婦德、婦言、婦功及後宮教學考行，核心是婚姻家內秩序與教養。",
+      "co_domains": []
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "2",
+      "para_index": 21,
+      "para_id": "shenjian#02-p21",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "尚主之制非古也。釐降二女，陶唐之典；〈《堯典》︰「嫠降二女於嬀汭，𡣕於虞。」〉《",
+      "note": "「以婦凌夫」直接評論夫妻家內關係，命中 IV；「以隂乗陽，違天……違天不祥」又認證違背天道會招致不祥，命中 XII。",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "4",
+      "para_index": 11,
+      "para_id": "shenjian#04-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "寵妻愛妾，幸矣；其爲災也，深矣。「災與幸，同乎？」曰︰「得則慶，否則災。戚氏不幸",
+      "note": "「寵妻愛妾，幸矣；其爲災也，深矣」論后妃婚姻家內的寵幸如何反成災禍，再以愼夫人之知、班婕妤之賢、明德皇后之德對照，將結局繫於智慧與德行",
+      "co_domains": [
+        "VII"
       ]
     },
     {

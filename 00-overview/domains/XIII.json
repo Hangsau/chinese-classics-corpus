@@ -2,9 +2,9 @@
   "domain": "XIII",
   "name_zh": "安頓·修復·平安",
   "gist": "靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈",
-  "generated_at": "2026-08-15T09:28:34+00:00",
-  "para_count": 103,
-  "book_count": 15,
+  "generated_at": "2026-08-15T09:54:19+00:00",
+  "para_count": 108,
+  "book_count": 16,
   "surveyed_zero_hit": [
     "fangyan",
     "gongsun-longzi",
@@ -742,6 +742,80 @@
       "note": "把樂重新界定為人安樂於家、族、業、都邑、政令與道德，並以有德之君樂人或無德之君樂身判斷政權久亡，兼論生活安頓與公共領導",
       "co_domains": [
         "V"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "3",
+      "para_index": 6,
+      "para_id": "shenjian#03-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或問︰「避疾厄，有諸？」曰︰「夫疾厄，何爲者也？非神則身。身不可避，〈身寓宇宙，",
+      "note": "面對「避疾厄」之問，以「身不可避，神不可逃」指出人不能逃離自身的身體困境，又以「持身隨天，萬里不逸」說明對不可避處境的安頓方式",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "5",
+      "para_index": 7,
+      "para_id": "shenjian#05-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "君子樂天知命，故不憂；〈《易‧繫辭》文。仁，故不憂。〉審物明辨，故不惑；〈知，故",
+      "note": "「樂天知命，故不憂；審物明辨，故不惑；定心致公，故不懼」直接說明憂、惑、懼等內在狀態如何因知命、明辨與定心而安頓，並把所當憂者限於「己不能成天性」",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "5",
+      "para_index": 8,
+      "para_id": "shenjian#05-p08",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "或問性命。曰︰「生之謂性也，形神是也；〈此本告子之說，以氣言性。《莊子》曰︰「性",
+      "note": "「君子循其性以輔其命，休斯承，否斯守，無務焉，無怨焉」一面區分人可循性而爲的部分與所受之命，一面規定面對吉凶、貧富時承受而不強求、不怨懟的自處方式",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "何孟春序",
+      "para_index": 2,
+      "para_id": "shenjian#06-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "政體，掇其篇首數百言見之其傳，且謂其所爲《漢紀》論辨多美。今仲豫書具在也。然則仲",
+      "note": "序者不只敘生平，還直斷「正色抗情者生不足樂」以比較生死得失，又說「士有經世志畧，孰不願得所天而事之，顧所遭何如，所自爲處何如耳」。三格不可再減：拿掉 X 會漏掉生死之辨，拿掉 VIII 會漏掉經世志業，拿掉 XIII 會漏掉人在所遭之世如何自處",
+      "co_domains": [
+        "VIII",
+        "X"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "王鏊序",
+      "para_index": 1,
+      "para_id": "shenjian#08-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "《申鑒》五卷，漢荀悅著。悅仕獻帝朝，辟曹操府，與孔融及弟彧同侍講禁中。悅每有獻替",
+      "note": "除著錄與書評外，序者明說荀悅「其亦善處濁世者矣」，並以「雄曲意美新，而悅無一言及於操，視雄爲優矣」評斷逆境中的自處及不媚權勢的操守，並非僅由生平遭遇推標",
+      "co_domains": [
+        "VII"
       ]
     },
     {

@@ -1,0 +1,1974 @@
+[
+  {
+    "para_id": "shenjian#01-p01",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「道之本，仁義而已矣」把仁義立為人道與聖王反覆申明的根本，核心是德性原則",
+    "excerpt": "夫道之本，仁義而已矣。五典以經之，羣籍以緯之，詠之歌之，弦之舞之。前鑒旣明，後復",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p02",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「聖漢統天……萬國康止」是頌揚漢室功業與治世的四言頌辭，沒有對人的樣態下判斷",
+    "excerpt": "聖漢統天，惟宗時亮，其功格宇宙。粵有虎臣亂政，〈虎臣，漢興輔弼之臣，所與共成天功",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p03",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "VII",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「立人之道，曰仁與義」及仁、義、禮、信、智界定德性根本；又以「教者……法者」說明德教、法制如何共同維持群體秩序",
+    "excerpt": "立天之道，曰隂與陽；立地之道，曰柔與剛；立人之道，曰仁與義。〈此引《易‧繫辭》文",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p04",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「王之政，一曰承天，二曰正身……六曰立業」只是把君、臣、民的政治職分與六項施政綱目列成架構，未另說人何以如此",
+    "excerpt": "天作道，皇作極，〈《洪範》「次五曰建用皇極」，又曰「惟皇作極」。極，中也。〉臣作",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p05",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "VII",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「僞亂俗，私壞法，放越軌，奢敗制」把虛偽、自私、放縱、奢侈等品格缺失說成敗壞社會秩序的原因，並主張「先屏四患，乃崇五政」",
+    "excerpt": "致治〈按︰《漢書》作「政」字。〉之術，先屏四患，乃崇五政。一曰僞，二曰私，三曰放",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p06",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "VII",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「民不畏死，不可懼以罪；民不樂生，不可觀以善」明說生計會制約人的善惡動機，因而要求在上者「先豐民財以定其志」，兼及品格形成與治理責任",
+    "excerpt": "民不畏死，不可懼以罪；〈《老子》曰︰「民不畏死，柰何以死懼之。」〉民不樂生，不可",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p07",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "VII",
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「必本乎眞實」與「聽言責事，舉名察實」把真實無偽視為修行之本；「動天地，應神明」又明確認證真實之德能與神明相應，故兼含超越面向",
+    "excerpt": "君子所以動天地，應神明，正萬物，而成王治者，〈按︰《漢書》作「化」字。〉必本乎眞",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p08",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 8
+    },
+    "psych_domains": [
+      "VII",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「君子以情用，小人以刑用」區分德性層次，而「教化之廢」使中人下墜、「教化之行」使中人進入君子之途，直說品格可以受教化而改變",
+    "excerpt": "君子以情用，小人以刑用。〈俗本誤作「形」。〉榮辱者，賞罰之精華也。故禮教榮辱以加",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p09",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 9
+    },
+    "psych_domains": [
+      "VII",
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「小人之情，緩則驕，驕則恣……急則怨」把驕恣、怨恨等內在反應連成敗德與作亂的因果鏈，並據此主張在上者須有武備",
+    "excerpt": "小人之情，緩則驕，驕則恣，恣則急，急則怨，怨則畔，危則謀亂，安則思欲，非威强無以",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p10",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 10
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「賞以勸善，罰以懲惡」至「賞妄行則善不勸……罰妄行則惡不懲」只論賞罰如何設置及其誘因效果，沒有在賞罰政策鏈之外解釋人的樣態",
+    "excerpt": "賞罰，政之柄也。明賞必罰，審信愼令，賞以勸善，罰以懲惡。人主不妄賞，非徒愛其財也",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p11",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 11
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「行之以誠，守之以固，簡而不怠，䟽而不失」是在五政既立後規定施政方法，結論「海內平矣」仍是政策效果，未另對人下判斷",
+    "excerpt": "四患旣蠲，五政旣〈按︰《漢書》作「又」。〉立，行之以誠，守之以固，簡而不怠，䟽而",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p12",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 12
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「一曰中，二曰和，三曰正，四曰公，五曰誠，六曰通」只是六則的規範名目與定義表，不描述人的樣態",
+    "excerpt": "惟修六則，以立道經。一曰中，二曰和，三曰正，四曰公，五曰誠，六曰通。以天道作中，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p13",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 13
+    },
+    "psych_domains": [
+      "VIII",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「不進、不任、不終」寫賢能在任用與成就上的阻礙；「以小怨棄大德……以讒嫉廢賢能」又把私怨、讒嫉等品格毛病指出為障礙來源",
+    "excerpt": "惟恤十難，以任賢能。〈《周禮》注︰「賢謂有德行者，能謂有道藝者。」〉一曰不知，二",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p14",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 14
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「君臣親而有禮……讓而不爭」到「小臣爭寵，大臣爭權」逐項用群體行為、權力關係與公共風氣診斷國之治亂，核心是社會秩序",
+    "excerpt": "惟察九風，以定國常。一曰治，二曰衰，三曰弱，四曰乖，五曰亂，六曰荒，七曰叛，八曰",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p15",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 15
+    },
+    "psych_domains": [
+      "X",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「死者不可以生，刑者不可以復」以死亡與刑罰不可逆為慎刑依據，並以「矜哀以恤之」要求掌權者審慎行使公共刑罰",
+    "excerpt": "惟愼庶獄，以昭人情。天地之大德曰生，〈《易‧繫辭》文。〉萬物之大極曰死。〈《洪範",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p16",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 16
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「一曰原心，二曰明德，三曰勸功，四曰襃化，五曰權計」只是赦免類別及適用邊界的制度條目，沒有對人的樣態作獨立論述",
+    "excerpt": "惟稽五赦，以綏民中。一曰原心，〈心可矜也。〉二曰明德，〈德可釋也。〉三曰勸功，〈",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p17",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 17
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "ritual",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「朝以聽政，晝以訪問，夕以脩令，夜以安身」規定天子按時序行事；「不拒直辭，不恥下問，公私不愆」又要求領導者能納諫、謙抑而公私一致",
+    "excerpt": "天子有四時，朝以聽政，晝以訪問，夕以脩令，夜以安身。〈本公孫僑告叔向之言。杜氏曰",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p18",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 18
+    },
+    "psych_domains": [
+      "VII",
+      "IV",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「萬物之本在身」談個人品格修治，「天下之本在家」談家庭根基，「治亂之本在左右……四表定」談領導與公共秩序；三格各承載身、家、天下的獨立層次，任去一格都會少掉其中一層",
+    "excerpt": "問︰「明於治者其統近。」〈俗本誤作「迫」。〉「萬物之本在身，天下之本在家，治亂之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p19",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 19
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「一言而可常行者，恕也；一行而可常履者，正也」把恕與正提出為可以終身踐履的仁義德目",
+    "excerpt": "問︰「通於道者其守約。」〈《孟子》曰︰「守約而施博者，善道也。」〉「有一言而可常",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p20",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 20
+    },
+    "psych_domains": [
+      "V",
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「自天子逹於庶人，好惡哀樂，其脩一也」斷言上下共享基本情感；「下有饑民，上則不備膳……民寒傷國」則以一體關係要求統治者共擔民眾困境",
+    "excerpt": "自天子逹於庶人，好惡哀樂，其脩一也；豐約勞佚，各有其制。〈言上下情無不同，其貴豐",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p21",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 21
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「君降其惠，民升其功，此無往不復，相報之義也」把君民關係說成恩惠與勞力相互回報的社會義務",
+    "excerpt": "問︰「君以至美之道道民，民以至美之物養君。」〈美道，五典之類。美物，五穀之類。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p22",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 22
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「有公賦無私求……有公怒無私怨」要求人主約束私欲、私怨；私求、私使使人民受擾，私怨使下民「疑懼而不安」，兼論掌權公義與個人操守",
+    "excerpt": "問人主。「有公賦無私求，有公用無私費，有公役無私使，有公賜無私惠，有公怒無私怨。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p23",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 23
+    },
+    "psych_domains": [
+      "XI",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「凡器可使與顔、冉同趨」與「跖可使與伯夷同功」明言教育和法度能使愚者趨賢、貪者同廉，直接主張人的品格可以改變",
+    "excerpt": "問︰「善治民者，治其性也。或曰︰冶金而流，去火則剛；激水而升，舍之則降。惡乎治？",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p24",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 24
+    },
+    "psych_domains": [
+      "V",
+      "VI",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「縱民之情謂之亂，絕民之情謂之荒」及驅雞「急則驚……志安則循路」談情欲與驚怨的調節（VI）；「先禁其身而後人」談領導者自律（VII）；全段以此建立「御民之方」（V），三格各少不得",
+    "excerpt": "問︰「民由水也？」「濟大川者，太上乗舟，其次泅。〈泅，浮行水上也。〉泅者勞而危，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p25",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 25
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「上下相與」是權力與民力互惠的原則；若使市場空竭，便由「巧詐」進至「暴迫」並造成「民必交爭」，說的是失去公義互惠如何破壞社會關係",
+    "excerpt": "太上不空市，其次不偷竊，其次不掠奪。上以功、惠綏民，下以財、力奉上，〈卽悅所謂「",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p26",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 26
+    },
+    "psych_domains": [
+      "V",
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「聖王以天下爲憂，天下以聖王爲樂」與凡主的相反情形，以憂樂的相互回報說明領導者是否屈己會塑造群體的安樂或憂患",
+    "excerpt": "或曰︰「聖王以天下爲樂。」曰︰「否。聖王以天下爲憂，〈如帝堯存心天下，加志窮民，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p27",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 27
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「逹道於天下、逹惠於民、逹德於身」把權位用於公共責任；衰世卻用來「高人」「奉身」「報肆心」，形成公德與自利用權的品格對照",
+    "excerpt": "治世所貴乎位者三，一曰逹道於天下，二曰逹惠於民，三曰逹德於身。〈道非位不行，惠非",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p28",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 28
+    },
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「心順、職順、道順」區分臣職真正的順從與反忠逆道；「祿薄牢寵」「官職屢改」「黜陟不明」又說明任職條件如何削弱官位與施政，兼及權力責任和職業處境",
+    "excerpt": "治世之臣所貴乎順者三，一曰心順，二曰職順，三曰道順。〈此下疑脫「衰世之臣所貴乎順",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#01-p29",
+    "anchor": {
+      "chapter": "1",
+      "para_index": 29
+    },
+    "psych_domains": [
+      "VII",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「心與言，言與事，參相應也」要求內心、言語、行事一致；好惡、毀譽、賞罰若不相符便「實亂」，把個人誠實與公共評價秩序連在一起",
+    "excerpt": "好惡之不行，其俗尚矣。嘉守節而輕狹陋，疾威福而尊權右，賤求欲而崇克濟，貴求己而榮",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#02-p01",
+    "anchor": {
+      "chapter": "2",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「最凡有二十一首……十有九事」以下只列「明考試」「議州牧」「議錢貨」等提案目次，沒有說明人的樣態。",
+    "excerpt": "最凡有二十一首，其初二首，尚知貴敦也。其二首有申重可舉者，十有九事。一曰明考試；",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#02-p02",
+    "anchor": {
+      "chapter": "2",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「厭亂則思治，創難則思靜」直接指出人歷經亂與難之後會產生厭倦、求治與求靜的內在傾向。",
+    "excerpt": "盤庚遷殷，革奢卽約，〈盤庚，殷王名。自契至湯八遷，始居亳。自湯至盤庚五遷，乃陟河",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#02-p03",
+    "anchor": {
+      "chapter": "2",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "XI",
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「皇民敦，秦民弊，時也；山民樸，市民玩，處也……奚惟性」說人群品性隨時、處與政而變，命中 XI；「致精誠，求諸已，正大事，則神明應矣」又正面認證感應，命中 XII。",
+    "excerpt": "或曰︰「三皇民至敦也，其治至清也，天性乎？」曰︰「皇民敦，秦民弊，時也；〈皇、秦",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#02-p04",
+    "anchor": {
+      "chapter": "2",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「目玆舉者試其事，處斯職者考其績」至「有事考功，有言考用，動則考行，靜則考守」是在設計考核項目；「事驗……則爲私者寡」只是這套制度的預期效果，未另解釋人爲何如此。",
+    "excerpt": "誰毀誰譽，譽其有試者，萬事之槪量也。〈孔子曰︰「吾之於人也，誰毀誰譽？如有所譽者",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#02-p05",
+    "anchor": {
+      "chapter": "2",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「不以過職絀則勿降……以過職絀則降」規定公卿、郡縣官的升降條件，通段是官員任用與懲愆之制。",
+    "excerpt": "公卿不爲郡，二千石不爲縣，未是也。〈公謂三公，師、傅、保也。鄉謂六卿，冡宰至司空",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#02-p06",
+    "anchor": {
+      "chapter": "2",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「每宼難之作，民瘁幾盡」並斷言「不教民戰，是謂棄之」，把國家是否使人民具備應戰能力說成領導者對群體的責任，不只是在列尚武官職。",
+    "excerpt": "孝武皇帝以四夷未賔，宼賊姦宄，初置武功賞官，以寵戰士。〈大司農陳臧錢經用，賦稅旣",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#02-p07",
+    "anchor": {
+      "chapter": "2",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「州牧、刺史、監察御史，三制孰優」全段比較三種監察建制，最後取「監察御史斯可也」，沒有另說人的樣態。",
+    "excerpt": "或問曰︰「州牧、刺史、監察御史，三制孰優？」〈監御史，秦官，掌監郡。漢興省之。至",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#02-p08",
+    "anchor": {
+      "chapter": "2",
+      "para_index": 8
+    },
+    "psych_domains": [
+      "X"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「生刑而極死者，復之可也」指出原本不致死的刑罰反被改成死刑，並以「生死而息民」把免死、保存人命本身作爲立論依據。",
+    "excerpt": "肉刑古也。或曰︰「復之乎？」曰︰「古者人民盛焉，今也至寡，整衆以威，撫寡以寛，道",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#02-p09",
+    "anchor": {
+      "chapter": "2",
+      "para_index": 9
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「不量民力之未能，是招民於惡也」與「不度民情之不堪，是䧟民於罪也」明說人的能力與承受有限，失度的教法會把人推向惡與罪。",
+    "excerpt": "問德刑並用。「常典也。或先或後，時冝。〈或先德後刑，或先刑後德，隨時所冝。〉刑教",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#02-p10",
+    "anchor": {
+      "chapter": "2",
+      "para_index": 10
+    },
+    "psych_domains": [
+      "IV",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "段中按「父讎」「兄弟之讎」「從父從兄弟之讎」區分親屬義務，且直判「復讎者義也」「從王制，順也；犯制，逆也」，不只列避讎里程，也在裁定家族復讎的德性。",
+    "excerpt": "或問復讎。「古義也。」曰︰「縱復讎可乎？」曰︰「不可。」〈縱之則人將倚法專殺，亂",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#02-p11",
+    "anchor": {
+      "chapter": "2",
+      "para_index": 11
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「公祿貶則私利生，私利生則廉者匱而貪者豐」把俸祿條件如何消長廉貪品格明說爲增祿與汰貪的依據。",
+    "excerpt": "或問祿。曰︰「古之祿也備，〈其詩見《周禮》、《孟子》、《王制》。〉漢之祿也輕。〈",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#02-p12",
+    "anchor": {
+      "chapter": "2",
+      "para_index": 12
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「專地非古也，井田非今也」與「耕而勿有，以俟制度可也」只在折衷專地、井田及田地買賣制度。",
+    "excerpt": "諸侯不專封，富人名田踰限，富過公侯，是自封也。大夫不專地，人賣買由已，是專地也。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#02-p13",
+    "anchor": {
+      "chapter": "2",
+      "para_index": 13
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "通段論「五銖之制」應行、官鑄、收積或改鑄；「錢實便於事用，民樂行之，禁之難」只是幣制的誘因反應，沒有提出人的樣態。",
+    "excerpt": "或問貨。曰︰「五銖之制冝矣。」〈太公爲周立九府圜法︰錢圜函方，輕重以銖。至漢孝武",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#02-p14",
+    "anchor": {
+      "chapter": "2",
+      "para_index": 14
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「必也舉其重而祀之」及「若今郡祀之，而其祀禮物，從鮮可也」是在規定郡祀層級與禮物豐省；「示民不偷」只是所列教化效果，未另對人下判斷，也未認證徵應。",
+    "excerpt": "聖王先成民而後致力於神，〈《東觀書》詔︰「《傳》曰：『聖王先成民而後致力於神。』",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#02-p15",
+    "anchor": {
+      "chapter": "2",
+      "para_index": 15
+    },
+    "psych_domains": [
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「天人之應，所由來漸矣」明確認證天人感應，並以「必書雲物，爲備故也」「太史上事無隱焉，勿寢可也」主張記錄徵兆而不得壓下。",
+    "excerpt": "天人之應，所由來漸矣。故履霜堅氷，非一時也，〈《坤》初六曰︰「履霜堅氷至。」〉仲",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#02-p16",
+    "anchor": {
+      "chapter": "2",
+      "para_index": 16
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「月正聽朝，國家之大事也，冝正其儀，以明舊典」只要求恢復月朔聽朝的國家儀節，沒有以人的樣態立論。",
+    "excerpt": "天子南面聽天下，嚮明而治，蓋取諸《離》，〈《易‧繫辭》︰「《離》也者，明也，萬物",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#02-p17",
+    "anchor": {
+      "chapter": "2",
+      "para_index": 17
+    },
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「男女正位乎內外，正家而天下定矣」直接規範男女在家內外的位置，前文又列婦德、婦言、婦功及後宮教學考行，核心是婚姻家內秩序與教養。",
+    "excerpt": "古有掌隂陽之禮之官，以教後宮，〈《周禮‧內宰》︰「以隂禮教六宮，以隂禮教九𡣕，以",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#02-p18",
+    "anchor": {
+      "chapter": "2",
+      "para_index": 18
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「或學者先意，有所借定；後進相放，彌以滋蔓」指出學者成見與後學仿效會使經學歧出，並以此論證「備愽士，廣太學」，所論是學術能力與學業養成。",
+    "excerpt": "備愽士，〈博士，秦官，掌通古今。武帝建元初置《五經》愽士，宣帝黃龍初稍增員十二人",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#02-p19",
+    "anchor": {
+      "chapter": "2",
+      "para_index": 19
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「道雖要也，非愽無以通矣」主張掌握要道必先廣博學習，結語「愽其方，約其說」直接給出求學與成就理解的方法。",
+    "excerpt": "或曰︰「至德要道約爾，典籍甚富，如而愽之以求約也？」「語有之曰︰『有鳥將來，張羅",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#02-p20",
+    "anchor": {
+      "chapter": "2",
+      "para_index": 20
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「赦令，權也」以下只界定赦令作爲反經權宜之制，並規定「不得已而行之，禁其屢也」，沒有另說人的樣態。",
+    "excerpt": "赦令，權也。〈謂凶荒流離，盜賊垢汙之後，不得已而行者。〉或曰︰「有制乎？」曰︰「",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#02-p21",
+    "anchor": {
+      "chapter": "2",
+      "para_index": 21
+    },
+    "psych_domains": [
+      "IV",
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「以婦凌夫」直接評論夫妻家內關係，命中 IV；「以隂乗陽，違天……違天不祥」又認證違背天道會招致不祥，命中 XII。",
+    "excerpt": "尚主之制非古也。釐降二女，陶唐之典；〈《堯典》︰「嫠降二女於嬀汭，𡣕於虞。」〉《",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#02-p22",
+    "anchor": {
+      "chapter": "2",
+      "para_index": 22
+    },
+    "psych_domains": [
+      "II",
+      "VII"
+    ],
+    "discourse_mode": [
+      "formalization",
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「或欲顯而不得，或欲隱而名章，得失一朝，而榮辱千載」說人的名聲與自欲未必相合，命中 II；「善人勸焉，淫人懼焉」又把史錄的長久榮辱作爲勸善懼惡的品格機制，命中 VII。",
+    "excerpt": "古者天子諸侯，有事必告于廟。朝有二史，左史記言，右史記動；〈按︰《漢書》作「事」",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#03-p01",
+    "anchor": {
+      "chapter": "3",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「德斯益，否斯損……吉而恃，凶而怠之謂損」把卜筮的吉凶結果接回修德與怠惰，是把因果從兆數挪回人的作為，不是認證超越徵應",
+    "excerpt": "或問卜筮。曰︰「德斯益，否斯損。」曰︰「何謂也？」「吉而濟，凶而救之謂益；吉而恃",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#03-p02",
+    "anchor": {
+      "chapter": "3",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「此天地之數也，非吉凶所生也」並以「殷滅周興」「秦亡漢隆」的相反結果破除時日、方位決定吉凶之說，將遭遇與禁忌解開，不認證徵應",
+    "excerpt": "或問曰︰時羣忌。曰︰「此天地之數也，非吉凶所生也。東方主生，死者不鮮；西方主殺，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#03-p03",
+    "anchor": {
+      "chapter": "3",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「內有順實，外有順文」而「苟無其實，徼福於忌，斯成難也」主張外在日辰之文不能替代人的實際條件與行止，限制了兆數支配命運的效力",
+    "excerpt": "或問五三之位周應也，〈五三，五星三辰，辰星、熒惑、太白、歲星、塡星、日、月、斗也",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#03-p04",
+    "anchor": {
+      "chapter": "3",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "設問方明言「祈請者誠以接神，自然應也」，又列「犧牲玉帛」「吉朔」等祈請的器物與時日，並以「非其禮則或愆，非其請則不應」認證合禮祈禱能通神感應",
+    "excerpt": "或曰︰「祈請者誠以接神，自然應也。〈祈請，求禱也。如祈年、祈子孫、請雨、請福之類",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#03-p05",
+    "anchor": {
+      "chapter": "3",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「氣物應感則可，性命自然則否」劃定感應的界線，否定祈請能改動人的性命，把性命歸於自然之限而非神術",
+    "excerpt": "或問祈請可否。曰︰「氣物應感則可，性命自然則否。」〈應感，如土龍致雨之類。〉",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#03-p06",
+    "anchor": {
+      "chapter": "3",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "IX",
+      "XIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "面對「避疾厄」之問，以「身不可避，神不可逃」指出人不能逃離自身的身體困境，又以「持身隨天，萬里不逸」說明對不可避處境的安頓方式",
+    "excerpt": "或問︰「避疾厄，有諸？」曰︰「夫疾厄，何爲者也？非神則身。身不可避，〈身寓宇宙，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#03-p07",
+    "anchor": {
+      "chapter": "3",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「貳之於行，參之於時，相成也，亦參相敗也」說形相還會受行為與時勢共同改變，且「其數衆矣，其變多矣」，並不把相貌當成單一不變的命定",
+    "excerpt": "或問人形有相。曰︰「葢有之焉。夫神氣形容之相包也，自然矣。貳之於行，參之於時，相",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#03-p08",
+    "anchor": {
+      "chapter": "3",
+      "para_index": 8
+    },
+    "psych_domains": [
+      "X",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以「誕哉」否定神僊術，並說「終始，運也；短長，數也。運數非人力之爲也」，同時論人的必死與壽命長短，以及人力不能越過的命限",
+    "excerpt": "或問神僊之術。曰︰「誕哉！末之也已矣。〈言名生實死，誕妄不足信也。〉聖人弗學，〈",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#03-p09",
+    "anchor": {
+      "chapter": "3",
+      "para_index": 9
+    },
+    "psych_domains": [
+      "X"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "以「力稱烏獲……聖云仲尼，壽稱彭祖」並列各類異常傑出者，據「物有俊傑，不可誣也」斷言人間確有壽數特長的個例",
+    "excerpt": "或問︰「有數百歲人乎？」曰︰「力稱烏獲，〈烏獲，秦武王力士。〉捷言羌亥，〈羌亥，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#03-p10",
+    "anchor": {
+      "chapter": "3",
+      "para_index": 10
+    },
+    "psych_domains": [
+      "X",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「苟非其性也，脩之不至也」區分先天性壽與後天修習的界限，而「壽必用道，所以盡命」又主張修道只能盡其既有壽命，兼論壽數與可改變的限度",
+    "excerpt": "或問︰「凡壽者必有道，非習之功。」曰︰「夫惟壽，則惟能用道，惟能用道，則性壽矣。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#03-p11",
+    "anchor": {
+      "chapter": "3",
+      "para_index": 11
+    },
+    "psych_domains": [
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "對「人有變化而僊」答以「未之前聞」，並把「男化爲女」「死人復生」判為「異也，非僊也」「豈人之性哉」，拒絕把異變當成人能成仙的證據",
+    "excerpt": "或曰︰「人有變化而僊者，信乎？」曰︰「未之前聞也。然則異也，〈異，謂怪異。〉非僊",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#03-p12",
+    "anchor": {
+      "chapter": "3",
+      "para_index": 12
+    },
+    "psych_domains": [
+      "VI",
+      "IX"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「喜怒哀樂思慮必得其中，所以養神也；寒暄盈虛消息必得其中，所以養體也」把情緒調節與身體養護並論；「無疾則勿藥」「唯在乎節之」則直接規定養性與用藥之度",
+    "excerpt": "或問曰︰「有養性乎？」曰︰「養性秉中和，守之以生而已。愛親、愛德、愛力、愛神，之",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#03-p13",
+    "anchor": {
+      "chapter": "3",
+      "para_index": 13
+    },
+    "psych_domains": [
+      "VII",
+      "X",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「仁者內不傷性，外不傷物……壽之術也」以仁德解釋養壽，卻用顔、冉早夭追問並答「命也」；去掉 VII 會漏失德行之因，去掉 X 會漏失夭壽問題，去掉 XI 則會漏失命限對德行效果的轉折",
+    "excerpt": "或問︰「仁者壽，何謂也？」〈《論語》︰「知者樂，仁者壽。」〉曰︰「仁者內不傷性，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#03-p14",
+    "anchor": {
+      "chapter": "3",
+      "para_index": 14
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「燔埴爲瓦則可，爍瓦爲銅則不可」論的是黃白之術在物性上不成立，通段談物質能否轉化而不對人下判斷",
+    "excerpt": "或問黃白之儔。〈《抱朴子》曰︰「《神仙經黃白之方》二十五卷，千有餘首。黃者，金也",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#03-p15",
+    "anchor": {
+      "chapter": "3",
+      "para_index": 15
+    },
+    "psych_domains": [
+      "V",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "先以「八十一首非仲尼之作」破除緯書託名，再要求「在上者不受虛言，不聽浮術……名必有實，事必有功」，兼論掌權者辨偽的責任與人不受術數虛言支配的可能",
+    "excerpt": "世稱緯書，仲尼之作也，〈世之說者，謂孔子旣叙《六經》，以明天人之道，知後世不能稽",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#04-p01",
+    "anchor": {
+      "chapter": "4",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「生而知之者寡矣，學而知之者衆矣」主張人的知能多由學習而來，又以「皆學廢興之由，敦之不亦冝乎」說明學習能改變人與治亂並勸人力學",
+    "excerpt": "或問曰︰「君子曷敦夫學？」〈敦，勉也。〉曰︰「生而知之者寡矣，學而知之者衆矣。悠",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#04-p02",
+    "anchor": {
+      "chapter": "4",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "II",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「前惟訓，人惟賢，鏡惟明」把歷史、賢人與明鏡列為自我省察的三鑒，並以「夏、商之衰」「周、秦之弊」說明領導者不肯取鑒會危及國家，故勸「惟鑒之務」",
+    "excerpt": "君子有三鑒，世人鑒鏡；〈蒸庶但知鏡鑒而已。〉前惟訓，人惟賢，鏡惟明。〈此君子之三",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#04-p03",
+    "anchor": {
+      "chapter": "4",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「非君臣不成治」論領導與輔弼之責，又以「僻志萌則僻事作」及「非賢不可任，非智不可從」把政亂繫於內心邪正、公明與擇賢；「膏肓」只是在比喻嬖孽近君之患",
+    "excerpt": "或問︰「致治之要，君乎？」曰︰「兩立哉！〈天無獨運，君無獨理。〉非天地不生物，非",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#04-p04",
+    "anchor": {
+      "chapter": "4",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "由「愛民如子」「愛民如身」仍非仁之至，推到「民存則社稷存，民亡則社稷亡」，主張人主的仁與領導責任在於重民而不以自身利益為先",
+    "excerpt": "或曰︰「愛民如子，仁之至乎？」曰︰「未也。」曰︰「愛民如身，仁之至乎？」曰︰「未",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#04-p05",
+    "anchor": {
+      "chapter": "4",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "VII",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「人非下愚，則皆可以爲堯舜矣」斷言人能由實行善道改變品格；「堯舜、桀紂之事，常並存於世，唯人所用而已」又把成善或成惡繫於人的選擇",
+    "excerpt": "或曰︰「孟軻稱人皆可以爲堯舜，其信矣？」曰︰「人非下愚，〈下愚則不移。〉則皆可以",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#04-p06",
+    "anchor": {
+      "chapter": "4",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "XI",
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「此知益爲損之爲益者也」「此知伸爲屈之爲伸者也」主張得失屈伸會轉化；又直稱「鼎雉之異，興殷之符」「邵宮之難，隆周之應」，認證異象與事件是後來興盛的符應",
+    "excerpt": "損益之符，㣲而顯也。趙獲二城，臨饋而憂。陶朱旣富，室妾悲號︰〈范蠡旣雪㑹稽之恥，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#04-p07",
+    "anchor": {
+      "chapter": "4",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「必竭其誠，明其道，盡其義」規定臣即使不被君理解仍須盡忠，並以「導非、阿失、尸寵」三罪及「下不鉗口，上不塞耳」論君臣權責與開放進言的倫理",
+    "excerpt": "人主之患，常立於二難之間︰在上而國家不治，難也；治國家則必勤身苦思，矯情以從道，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#04-p08",
+    "anchor": {
+      "chapter": "4",
+      "para_index": 8
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「在上者以義申，以義屈」要求掌權者以義而非私欲決定伸屈，並以高祖、光武、明帝能接受賢臣制約，反襯秦二世「申欲」所顯的領導與品格之失",
+    "excerpt": "或曰︰「在上有屈乎？」曰︰「在上者以義申，以義屈。〈義當申則申，義當屈則屈。〉高",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#04-p09",
+    "anchor": {
+      "chapter": "4",
+      "para_index": 9
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「抑情絕欲，不如是，能成功業者鮮矣」以高祖、文帝、光武為例論領導者的自制，又以金日磾、丙吉、蘇武說明臣子的公義、不伐與守節；史例在此用來證成主張而非敘事",
+    "excerpt": "或曰難行。曰︰「若高祖聽戍卒不懷居，遷萬乗不俟終日；〈齊人婁敬戍隴西，過洛陽，脫",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#04-p10",
+    "anchor": {
+      "chapter": "4",
+      "para_index": 10
+    },
+    "psych_domains": [
+      "VII",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "回答「厲志」而舉「能葺其德」「箴戒於朝」「懸膽於坐」，主張人可藉修德、受戒與持續自警來鍛鍊意志、改變自己；所舉人物是論證例證",
+    "excerpt": "或問厲志。曰︰「若殷高宗能葺其德，樂瞑眩以瘳疾；〈瞑眩者，令人憤悶之意。《方言》",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#04-p11",
+    "anchor": {
+      "chapter": "4",
+      "para_index": 11
+    },
+    "psych_domains": [
+      "IV",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「寵妻愛妾，幸矣；其爲災也，深矣」論后妃婚姻家內的寵幸如何反成災禍，再以愼夫人之知、班婕妤之賢、明德皇后之德對照，將結局繫於智慧與德行",
+    "excerpt": "寵妻愛妾，幸矣；其爲災也，深矣。「災與幸，同乎？」曰︰「得則慶，否則災。戚氏不幸",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#04-p12",
+    "anchor": {
+      "chapter": "4",
+      "para_index": 12
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「爲世憂樂者，君子之志也；不爲世憂樂者，小人之志也」以是否關切天下與人民的憂樂區分君子、小人的公共責任與品格",
+    "excerpt": "爲世憂樂者，君子之志也；〈公於四海覆載之度。〉不爲世憂樂者，小人之志也。〈私於一",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#04-p13",
+    "anchor": {
+      "chapter": "4",
+      "para_index": 13
+    },
+    "psych_domains": [
+      "V",
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「使遽者揖讓百拜，非禮也；憂者弦歌鼓瑟，非樂也」主張禮樂須合於人的急迫或憂愁處境，並以「禮者，敬而已矣；樂者，和而已矣」把外在儀節還原為交往中的敬與內在的和",
+    "excerpt": "使遽者揖讓百拜，非禮也；〈窘急者無敬，故不可以成禮。〉憂者弦歌鼓瑟，非樂也。〈愁",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#04-p14",
+    "anchor": {
+      "chapter": "4",
+      "para_index": 14
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「違上順道，謂之忠臣；違道順上，謂之諛臣」以是否守道區分忠諛，且以「忠臣安於心，諛臣安於身」揭示為公或自利的品格，勸在上者察其違順、所為與所安",
+    "excerpt": "違上順道，謂之忠臣；〈逆君從道，所謂違而得道者。〉違道順上，謂之諛臣。〈逆道從君",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#04-p15",
+    "anchor": {
+      "chapter": "4",
+      "para_index": 15
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「君戒專欲，臣戒專利」直接規戒君臣克制私欲私利，又以「腹心之人匍匐而獻善，寶之至矣」主張領導者應珍視近臣進善並「愼內守」",
+    "excerpt": "或問人君人臣之戒。曰︰「莫匪戒也。」請問其要。曰︰「君戒專欲，臣戒專利，患之甚也",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#04-p16",
+    "anchor": {
+      "chapter": "4",
+      "para_index": 16
+    },
+    "psych_domains": [
+      "VII",
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「出於此，應於彼，善則祥，祥則福；否則眚，眚則咎」明確認證人的善否會在他處引發祥福或災咎的超越徵應，並以此要求君子相應而行",
+    "excerpt": "雲從于龍，風從于虎，〈《易》曰︰「雲從龍，風從虎。」《正義》曰︰「龍吟則景雲出，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#04-p17",
+    "anchor": {
+      "chapter": "4",
+      "para_index": 17
+    },
+    "psych_domains": [
+      "V",
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「食和羹以平其氣，聽和聲以平其志」論調節內在氣志，又以「納和言以平其政」及「君子和而不同」主張公共關係須容納差異；人人只附和「莫予違也」反會近於亡國",
+    "excerpt": "君子食和羹以平其氣，聽和聲以平其志，納和言以平其政，履和行以平其德。夫酸鹹甘苦不",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#05-p01",
+    "anchor": {
+      "chapter": "5",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VII",
+      "VIII",
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「人之所以立德者三︰一曰貞，二曰逹，三曰志」以貞、逹、志論品格成立，又以「才」與「行」及「適楚而北轅」辨才能須受德行導正；「心誠則神明應之」「志正則天地順之」並明確認證神明、天地對誠正的感應。三格不可再減：拿掉 VII 會漏掉立德，拿掉 VIII 會漏掉才能與實行的取捨，拿掉 XII 會漏掉文本認可的超越感應",
+    "excerpt": "衣裳，服者不昧於塵塗，愛也。〈昧，汚闇。塗，泥也。衣裳者，身之法象，固不可不潔。",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#05-p02",
+    "anchor": {
+      "chapter": "5",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VII",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「合而用之，以才爲貴；分而行之，以行爲貴」比較才能與德行的價值，並以「舜、禹之仁，雖亡其才，不失爲良人」主張才能若不能與德行兼全，仍以品格爲本",
+    "excerpt": "或問︰「聖人所以爲貴者，才乎？」曰︰「合而用之，以才爲貴；〈如元愷之類，才配乎德",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#05-p03",
+    "anchor": {
+      "chapter": "5",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「後之進諫難也，以受之難故也；若受諫不難，則進諫斯易矣」把臣下能否盡言歸因於居上者是否肯受諫，論的是權力關係中的領導責任與納諫品格，不是進諫措辭技術，也不是以被誤解爲主題",
+    "excerpt": "或問︰「進諫、受諫孰難？」曰︰「後之進諫難也，以受之難故也。〈後，謂後世。言臣畏",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#05-p04",
+    "anchor": {
+      "chapter": "5",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "II",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「知人、自知孰難」直接辨析自我認識與識人的限度；「君子所惡乎異者三︰好生事也，好生奇也，好變常也」又把求異、求名等傾向判爲應戒的品格偏失",
+    "excerpt": "或問︰「知人、自知孰難？」曰︰「自知者，求諸內而近者也；〈反觀内省，神明莫遁，自",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#05-p05",
+    "anchor": {
+      "chapter": "5",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "I",
+      "VII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "答「或問守」而斷以「聖典而已矣」，並以「百家者，是謂無守」對照「聖人之道」，是在回答人應以何種根本道路安立其持守，也把德與中道定爲取捨準則",
+    "excerpt": "或問守。曰︰「聖典而已矣，〈聖典，謂《六經》。〉若夫百家者，是謂無守。莫不爲言，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#05-p06",
+    "anchor": {
+      "chapter": "5",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「聖人以文其隩也有五︰曰玄、曰妙、曰包、曰要、曰文」以下逐項界定文章的幽深、理微、數愽、辭約與章成，通段是文辭性質的分類，沒有對人的人生處境或心理領域下判斷",
+    "excerpt": "或曰︰「辭逹而已矣。聖人以文其隩也有五︰曰玄、曰妙、曰包、曰要、曰文。幽深謂之玄",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#05-p07",
+    "anchor": {
+      "chapter": "5",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "VI",
+      "XIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「樂天知命，故不憂；審物明辨，故不惑；定心致公，故不懼」直接說明憂、惑、懼等內在狀態如何因知命、明辨與定心而安頓，並把所當憂者限於「己不能成天性」",
+    "excerpt": "君子樂天知命，故不憂；〈《易‧繫辭》文。仁，故不憂。〉審物明辨，故不惑；〈知，故",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#05-p08",
+    "anchor": {
+      "chapter": "5",
+      "para_index": 8
+    },
+    "psych_domains": [
+      "XI",
+      "XIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「君子循其性以輔其命，休斯承，否斯守，無務焉，無怨焉」一面區分人可循性而爲的部分與所受之命，一面規定面對吉凶、貧富時承受而不強求、不怨懟的自處方式",
+    "excerpt": "或問性命。曰︰「生之謂性也，形神是也；〈此本告子之說，以氣言性。《莊子》曰︰「性",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#05-p09",
+    "anchor": {
+      "chapter": "5",
+      "para_index": 9
+    },
+    "psych_domains": [
+      "VII",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「上下不移，其中則人事存焉爾」判定命與人事各有作用範圍；隨後比較性善、性惡、性無善惡與善惡渾等說，並以「唯向言爲然」對人的善惡本性作出取捨",
+    "excerpt": "或問天命人事。曰︰「有三品焉，上下不移，其中則人事存焉爾。命相近也，事相遠也，則",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#05-p10",
+    "anchor": {
+      "chapter": "5",
+      "para_index": 10
+    },
+    "psych_domains": [
+      "VI",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「好惡者，性之取舍也，實見於外，故謂之情」把好惡喜怒解作性發於外的情，又以「情惡非情之罪也」辨析情感與善惡的關係，既論內在情態，也論其道德歸責",
+    "excerpt": "或曰︰「仁義性也，好惡情也，仁義常善而好惡或有惡，故有情惡也。」曰︰「不然。好惡",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#05-p11",
+    "anchor": {
+      "chapter": "5",
+      "para_index": 11
+    },
+    "psych_domains": [
+      "VI",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "以「嗜酒嗜肉」和「好利好義」兩組競爭偏好說明「勝者行矣」，並寫「一俯一仰，乍進乍退」的內在拉扯；利與義的抉擇同時使這套欲求機制具有品格與良心意義",
+    "excerpt": "或曰︰「人之於利，見而好之，能以仁義爲節者，是性割其情也。性少情多，性不能割其情",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#05-p12",
+    "anchor": {
+      "chapter": "5",
+      "para_index": 12
+    },
+    "psych_domains": [
+      "VI",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「情者，應感而動者也」及「情意心志者，皆性動之別名也」界說人的內在活動，末以「情何主惡之有」反駁情必然爲惡，因而同時處理情感結構及其善惡評價",
+    "excerpt": "或曰︰「請折於經。」曰︰「《易》稱『乾道變化，各正性命』，是言萬物各有性也。〈《",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#05-p13",
+    "anchor": {
+      "chapter": "5",
+      "para_index": 13
+    },
+    "psych_domains": [
+      "VII",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「性雖善，待敎而成；性雖惡，待法而消」主張人的善惡可以由教、法扶抑改變，又以「上智下愚不移」限定不可移者，核心是品格養成與可變、不可變的界線",
+    "excerpt": "或曰︰「善惡皆性也，則法教何施？」曰︰「性雖善，待敎而成；性雖惡，待法而消。唯上",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#05-p14",
+    "anchor": {
+      "chapter": "5",
+      "para_index": 14
+    },
+    "psych_domains": [
+      "VII",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「善難而惡易」判斷放任時人的善惡趨向，而「制之者則心也，動而抑之，行而止之」又明說人能在惡念萌動或見諸行動時加以抑止，論品格也論改變的可能",
+    "excerpt": "或曰︰「法敎得則治，法敎失則亂。若無得無失，縱民之情，則治亂其中乎？」曰︰「凡陽",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#05-p15",
+    "anchor": {
+      "chapter": "5",
+      "para_index": 15
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「君子有常交，曰義也；有常誓，曰信也」以義、信規範交往，又以「衆人之志……流於俗」和「大人……不與俗浮沈」比較人在群體風俗中的品格取向",
+    "excerpt": "君子嘉仁而不責惠，尊禮而不責意，貴德而不責怨。其責也先己，而行也先人。淫惠、曲怠",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#05-p16",
+    "anchor": {
+      "chapter": "5",
+      "para_index": 16
+    },
+    "psych_domains": [
+      "II",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「有恥者，本也；恥諸神明，其次也；恥諸人，外矣」把羞恥的根源由外在目光收回自我評價，並以「君子審乎自恥」要求內在的道德自省；神明在此只是比較層次，不是本段主張的信仰實踐",
+    "excerpt": "或曰︰「脩行者，不爲人恥諸神明，其至也乎？」曰︰「未也。有恥者，本也；恥諸神明，",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#05-p17",
+    "anchor": {
+      "chapter": "5",
+      "para_index": 17
+    },
+    "psych_domains": [
+      "II",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「德比於上，故知恥；欲比於下，故知足」以向上比較德行、向下節制欲望建立自我評價，又以「君子愼乎所不察」「君子四省其身」規定反省、知恥與守德的實踐",
+    "excerpt": "或曰︰「恥者，其志者乎？」曰︰「未也。夫志者，自然由人，何恥之有？赴谷必墜，失水",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#06-p01",
+    "anchor": {
+      "chapter": "何孟春序",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「班史載劉向稱賈誼通逹國體」及「范史亦稱悅通見」是在轉述史書評語與著述評價，屬書目、作者評論，沒有由序者自己對人的心理或人生處境下通則判斷",
+    "excerpt": "班史載劉向稱賈誼通逹國體，伊、管未能遠過。今觀其著述，采掇于傳中者，其論甚美，蓋",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#06-p02",
+    "anchor": {
+      "chapter": "何孟春序",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VIII",
+      "X",
+      "XIII"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "序者不只敘生平，還直斷「正色抗情者生不足樂」以比較生死得失，又說「士有經世志畧，孰不願得所天而事之，顧所遭何如，所自爲處何如耳」。三格不可再減：拿掉 X 會漏掉生死之辨，拿掉 VIII 會漏掉經世志業，拿掉 XIII 會漏掉人在所遭之世如何自處",
+    "excerpt": "政體，掇其篇首數百言見之其傳，且謂其所爲《漢紀》論辨多美。今仲豫書具在也。然則仲",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#07-p01",
+    "anchor": {
+      "chapter": "注申鑒序",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "本段多爲荀悅仕履與作書緣起，但命中不是因其遭遇，而是序者明斷「清虛沈靜，未嘗效一言於操，不其賢歟」，直接以不附曹操評價其操守與品格",
+    "excerpt": "荀卿五十遊齊，在襄王時爲老師，被讒適楚，處濁世亡國亂君之間，著書數萬言，而竟無所",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#08-p01",
+    "anchor": {
+      "chapter": "王鏊序",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VII",
+      "XIII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "除著錄與書評外，序者明說荀悅「其亦善處濁世者矣」，並以「雄曲意美新，而悅無一言及於操，視雄爲優矣」評斷逆境中的自處及不媚權勢的操守，並非僅由生平遭遇推標",
+    "excerpt": "《申鑒》五卷，漢荀悅著。悅仕獻帝朝，辟曹操府，與孔融及弟彧同侍講禁中。悅每有獻替",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  },
+  {
+    "para_id": "shenjian#09-p01",
+    "anchor": {
+      "chapter": "跋申鑒注後",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "卷數、篇名與注本資訊本身不命中；但跋文明言黃勉之「感其所遭」且因奸臣弄權「遂憤激爲注此書」，把感慨、憤激的內在反應說成作注的動因，故命中情緒與內在生活",
+    "excerpt": "右荀悅《申鑒》五卷，乃吳郡黃文學勉之所注也。漢史載悅為獻帝黃門侍郎，是時政移曹操",
+    "tagged_by": "codex-gpt-5.6-sol",
+    "tagged_at": "2026-08-15T17:52:51+08:00"
+  }
+]

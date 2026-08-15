@@ -2,9 +2,9 @@
   "domain": "IX",
   "name_zh": "苦難·疾病·身體",
   "gist": "疾病與身體、受苦的意義、照顧與被照顧",
-  "generated_at": "2026-08-15T09:28:34+00:00",
-  "para_count": 109,
-  "book_count": 17,
+  "generated_at": "2026-08-15T09:54:19+00:00",
+  "para_count": 111,
+  "book_count": 18,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -768,6 +768,35 @@
       "note": "明說「農之用力最苦，不如商賈技巧之人」，既比較生計選擇，也直接寫出農作出力之苦",
       "co_domains": [
         "VIII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "3",
+      "para_index": 6,
+      "para_id": "shenjian#03-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或問︰「避疾厄，有諸？」曰︰「夫疾厄，何爲者也？非神則身。身不可避，〈身寓宇宙，",
+      "note": "面對「避疾厄」之問，以「身不可避，神不可逃」指出人不能逃離自身的身體困境，又以「持身隨天，萬里不逸」說明對不可避處境的安頓方式",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "3",
+      "para_index": 12,
+      "para_id": "shenjian#03-p12",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "或問曰︰「有養性乎？」曰︰「養性秉中和，守之以生而已。愛親、愛德、愛力、愛神，之",
+      "note": "「喜怒哀樂思慮必得其中，所以養神也；寒暄盈虛消息必得其中，所以養體也」把情緒調節與身體養護並論；「無疾則勿藥」「唯在乎節之」則直接規定養性與用藥之度",
+      "co_domains": [
+        "VI"
       ]
     },
     {

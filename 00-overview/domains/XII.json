@@ -2,9 +2,9 @@
   "domain": "XII",
   "name_zh": "信仰·神聖·超越",
   "gist": "神存在嗎、信與疑、敬畏與美、神秘經驗",
-  "generated_at": "2026-08-15T09:28:34+00:00",
-  "para_count": 130,
-  "book_count": 18,
+  "generated_at": "2026-08-15T09:54:19+00:00",
+  "para_count": 138,
+  "book_count": 19,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -672,6 +672,121 @@
       "note": "上天感動降災傷穀，與人功見事並列為兩因。",
       "co_domains": [
         "V"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 7,
+      "para_id": "shenjian#01-p07",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "君子所以動天地，應神明，正萬物，而成王治者，〈按︰《漢書》作「化」字。〉必本乎眞",
+      "note": "「必本乎眞實」與「聽言責事，舉名察實」把真實無偽視為修行之本；「動天地，應神明」又明確認證真實之德能與神明相應，故兼含超越面向",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "2",
+      "para_index": 3,
+      "para_id": "shenjian#02-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "或曰︰「三皇民至敦也，其治至清也，天性乎？」曰︰「皇民敦，秦民弊，時也；〈皇、秦",
+      "note": "「皇民敦，秦民弊，時也；山民樸，市民玩，處也……奚惟性」說人群品性隨時、處與政而變，命中 XI；「致精誠，求諸已，正大事，則神明應矣」又正面認證感應，命中 XII。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "2",
+      "para_index": 15,
+      "para_id": "shenjian#02-p15",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "天人之應，所由來漸矣。故履霜堅氷，非一時也，〈《坤》初六曰︰「履霜堅氷至。」〉仲",
+      "note": "「天人之應，所由來漸矣」明確認證天人感應，並以「必書雲物，爲備故也」「太史上事無隱焉，勿寢可也」主張記錄徵兆而不得壓下。",
+      "co_domains": []
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "2",
+      "para_index": 21,
+      "para_id": "shenjian#02-p21",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "尚主之制非古也。釐降二女，陶唐之典；〈《堯典》︰「嫠降二女於嬀汭，𡣕於虞。」〉《",
+      "note": "「以婦凌夫」直接評論夫妻家內關係，命中 IV；「以隂乗陽，違天……違天不祥」又認證違背天道會招致不祥，命中 XII。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "3",
+      "para_index": 4,
+      "para_id": "shenjian#03-p04",
+      "modes": [
+        "proposition",
+        "ritual"
+      ],
+      "excerpt": "或曰︰「祈請者誠以接神，自然應也。〈祈請，求禱也。如祈年、祈子孫、請雨、請福之類",
+      "note": "設問方明言「祈請者誠以接神，自然應也」，又列「犧牲玉帛」「吉朔」等祈請的器物與時日，並以「非其禮則或愆，非其請則不應」認證合禮祈禱能通神感應",
+      "co_domains": []
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "4",
+      "para_index": 6,
+      "para_id": "shenjian#04-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "損益之符，㣲而顯也。趙獲二城，臨饋而憂。陶朱旣富，室妾悲號︰〈范蠡旣雪㑹稽之恥，",
+      "note": "「此知益爲損之爲益者也」「此知伸爲屈之爲伸者也」主張得失屈伸會轉化；又直稱「鼎雉之異，興殷之符」「邵宮之難，隆周之應」，認證異象與事件是後來興盛的符應",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "4",
+      "para_index": 16,
+      "para_id": "shenjian#04-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "雲從于龍，風從于虎，〈《易》曰︰「雲從龍，風從虎。」《正義》曰︰「龍吟則景雲出，",
+      "note": "「出於此，應於彼，善則祥，祥則福；否則眚，眚則咎」明確認證人的善否會在他處引發祥福或災咎的超越徵應，並以此要求君子相應而行",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "5",
+      "para_index": 1,
+      "para_id": "shenjian#05-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "衣裳，服者不昧於塵塗，愛也。〈昧，汚闇。塗，泥也。衣裳者，身之法象，固不可不潔。",
+      "note": "「人之所以立德者三︰一曰貞，二曰逹，三曰志」以貞、逹、志論品格成立，又以「才」與「行」及「適楚而北轅」辨才能須受德行導正；「心誠則神明應之」「志正則天地順之」並明確認證神明、天地對誠正的感應。三格不可再減：拿掉 VII 會漏掉立德，拿掉 VIII 會漏掉才能與實行的取捨，拿掉 XII 會漏掉文本認可的超越感應",
+      "co_domains": [
+        "VII",
+        "VIII"
       ]
     },
     {

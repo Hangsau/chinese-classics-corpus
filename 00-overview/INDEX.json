@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-08-15T09:28:34+00:00",
+    "generated_at": "2026-08-15T09:54:19+00:00",
     "text_count": 72,
     "total_bytes": 11304281,
     "by_category": {
@@ -28,40 +28,40 @@
       "reference": 4,
       "contested": 2
     },
-    "surveyed_count": 37,
-    "annotated_count": 37,
+    "surveyed_count": 38,
+    "annotated_count": 38,
     "scaffolded_count": 0,
-    "paras_judged": 15479,
+    "paras_judged": 15584,
     "paras_pending": 0,
     "domain_hit_counts": {
-      "I": 11,
-      "II": 26,
+      "I": 12,
+      "II": 27,
       "III": 12,
-      "IV": 24,
-      "IX": 17,
-      "V": 33,
-      "VI": 22,
-      "VII": 30,
-      "VIII": 32,
-      "X": 17,
-      "XI": 24,
-      "XII": 18,
-      "XIII": 15
+      "IV": 25,
+      "IX": 18,
+      "V": 34,
+      "VI": 23,
+      "VII": 31,
+      "VIII": 33,
+      "X": 18,
+      "XI": 25,
+      "XII": 19,
+      "XIII": 16
     },
     "domain_para_counts": {
-      "I": 40,
-      "II": 523,
+      "I": 41,
+      "II": 528,
       "III": 97,
-      "IV": 454,
-      "V": 2352,
-      "VI": 506,
-      "VII": 1538,
-      "VIII": 762,
-      "IX": 109,
-      "X": 210,
-      "XI": 324,
-      "XII": 130,
-      "XIII": 103
+      "IV": 459,
+      "V": 2383,
+      "VI": 519,
+      "VII": 1587,
+      "VIII": 769,
+      "IX": 111,
+      "X": 217,
+      "XI": 345,
+      "XII": 138,
+      "XIII": 108
     }
   },
   "texts": [
@@ -1189,12 +1189,27 @@
       "size_bytes": 103087,
       "chapter_count": 9,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "domains_null": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [
+        "I",
+        "II",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII"
+      ],
+      "domains_null": [
+        "III"
+      ],
+      "paras_total": 105,
+      "paras_judged": 105,
+      "annotated": true
     },
     {
       "slug": "shenyijing",
