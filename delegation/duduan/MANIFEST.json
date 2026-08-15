@@ -120,7 +120,14 @@
             11,
             12
           ]
-        },
+        }
+      ],
+      "paras": 57,
+      "chars": 3400
+    },
+    {
+      "file": "b02.md",
+      "chapters": [
         {
           "chapter": "五祀之別名",
           "para_indexes": [
@@ -272,7 +279,14 @@
           "para_indexes": [
             1
           ]
-        },
+        }
+      ],
+      "paras": 57,
+      "chars": 2643
+    },
+    {
+      "file": "b03.md",
+      "chapters": [
         {
           "chapter": "卷下",
           "para_indexes": [
@@ -282,14 +296,7 @@
             4,
             5
           ]
-        }
-      ],
-      "paras": 119,
-      "chars": 7129
-    },
-    {
-      "file": "b02.md",
-      "chapters": [
+        },
         {
           "chapter": "宗廟之制",
           "para_indexes": [
@@ -303,7 +310,14 @@
             8,
             9
           ]
-        },
+        }
+      ],
+      "paras": 14,
+      "chars": 3151
+    },
+    {
+      "file": "b04.md",
+      "chapters": [
         {
           "chapter": "天子出車駕",
           "para_indexes": [
@@ -344,8 +358,8 @@
           ]
         }
       ],
-      "paras": 33,
-      "chars": 4595
+      "paras": 24,
+      "chars": 2530
     }
   ]
 }
