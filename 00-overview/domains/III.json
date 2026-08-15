@@ -2,9 +2,9 @@
   "domain": "III",
   "name_zh": "愛與親密",
   "gist": "愛與性、被拒絕、承諾、信任與脆弱、溝通與被理解",
-  "generated_at": "2026-08-15T09:54:19+00:00",
-  "para_count": 97,
-  "book_count": 12,
+  "generated_at": "2026-08-15T13:56:36+00:00",
+  "para_count": 100,
+  "book_count": 13,
   "surveyed_zero_hit": [
     "dengxizi",
     "fangyan",
@@ -71,6 +71,51 @@
       "excerpt": "唯有一女人愛悅於帝，名曰巨靈。帝傍有青珉唾壺，巨靈乍出入其中，或戲笑帝前。東方朔",
       "note": "巨靈是帝所愛悅並在帝前嬉戲的女子，她受東方朔注目後離去化鳥，異變之外仍寫到親密依戀",
       "co_domains": []
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "3",
+      "para_index": 6,
+      "para_id": "fengsu-tongyi#17-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "山陽太守汝南薛恭祖，喪其妻，不哭，臨殯，於棺上大言：「自同恩好，四十餘年，服食禄",
+      "note": "薛恭祖喪妻「不哭」，以四十餘年恩好、子女成人而說「夫復何恨哉」，直接呈現長期夫妻關係面對死亡永別時的態度",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "3",
+      "para_index": 7,
+      "para_id": "fengsu-tongyi#17-p07",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "謹按︰《禮》爲適妻杖，重於宗也。妻者，既齊於己，澄漠酒醴，以養舅姑，契闊中饋，經",
+      "note": "詳述妻子與丈夫齊體及其家內勞苦，認為喪妻應有「內崩傷」與「惻容」，把全無哀色判為「矯情，僞之至也」，兼論夫妻恩義與真誠品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "琴",
+      "para_index": 1,
+      "para_id": "fengsu-tongyi#31-p01",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "謹按《世本》：「神農作琴。」《尚書》：「舜彈五弦之琴，歌南風之詩，而天下治。」《",
+      "note": "「和人意氣，感人善心」及以琴抒寫通達、閉塞與憂愁，論內在調節；「君子守正以自禁」論自制品格；伯牙心在高山流水而子期皆能聽懂、子期死後遂「破琴絶弦」，又獨立寫出知音間的理解與親密",
+      "co_domains": [
+        "VI",
+        "VII"
+      ]
     },
     {
       "slug": "guanzi",

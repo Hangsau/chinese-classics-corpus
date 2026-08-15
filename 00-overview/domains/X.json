@@ -2,9 +2,9 @@
   "domain": "X",
   "name_zh": "無常·老·死·失去",
   "gist": "老與時間、失去與哀傷、死亡、耐心與等待",
-  "generated_at": "2026-08-15T09:54:19+00:00",
-  "para_count": 217,
-  "book_count": 18,
+  "generated_at": "2026-08-15T13:56:36+00:00",
+  "para_count": 229,
+  "book_count": 19,
   "surveyed_zero_hit": [
     "dengxizi",
     "fangyan",
@@ -54,6 +54,177 @@
       "excerpt": "武帝暮年，彌好仙術，與東方朔狎暱，帝曰：「朕所好甚者不老，其可得乎？」朔曰：「臣",
       "note": "武帝暮年親自追問不老是否可得，是替自身衰老發問，後列仙草奇物仍由此問題引出",
       "co_domains": []
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "封泰山禪梁父",
+      "para_index": 1,
+      "para_id": "fengsu-tongyi#08-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "俗說︰岱宗上有金篋玉策，能知人年壽脩短。武帝探策得十八，因到讀曰八十，其後果用耆",
+      "note": "俗說稱金篋玉策「能知人年壽脩短」且武帝改讀後果然耆長，又敘黃帝騎龍升天及封禪可「神仙」，把壽命與超越性神驗連在一起",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "封泰山禪梁父",
+      "para_index": 2,
+      "para_id": "fengsu-tongyi#08-p02",
+      "modes": [
+        "ritual",
+        "proposition"
+      ],
+      "excerpt": "謹按︰《尚書》、《禮》：天子巡守，歲二月至于岱宗。孔子稱：「封泰山，禪粱父，可得",
+      "note": "前半具體說明封禪壇制與祭告，後半以「五帝聖焉死，三王仁焉死，五伯智焉死」正視人皆有死，並以「騎龍升天，豈不怪乎」破除長生神仙之說",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "葉令祠",
+      "para_index": 2,
+      "para_id": "fengsu-tongyi#09-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "謹按︰《春秋左氏傳》：葉公子高，姓沈名諸梁；古者，令曰公，忠於社稷，惠恤萬民，方",
+      "note": "「功施於民，以勞定國」說明葉公因公共領導受民追祀；「獨不愛其死乎」以聖賢皆死指出人的死亡界限；「知非人之所能也」及「世之矯誣」則拆穿仙術，三項各有獨立命中點",
+      "co_domains": [
+        "V",
+        "XI"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "3",
+      "para_index": 6,
+      "para_id": "fengsu-tongyi#17-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "山陽太守汝南薛恭祖，喪其妻，不哭，臨殯，於棺上大言：「自同恩好，四十餘年，服食禄",
+      "note": "薛恭祖喪妻「不哭」，以四十餘年恩好、子女成人而說「夫復何恨哉」，直接呈現長期夫妻關係面對死亡永別時的態度",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "3",
+      "para_index": 18,
+      "para_id": "fengsu-tongyi#17-p18",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "公車徵士豫章徐孺子，比爲太尉黃瓊所辟，禮文有加；孺子隱者，初不答命。瓊薨，既葬，",
+      "note": "徐孺子因黃瓊往日辟召禮遇，遠行至墳前「醊哭」，卻拒絕與喪家相見；故事寫受恩關係如何在對方死亡後以奔喪回報",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "石賢士神",
+      "para_index": 2,
+      "para_id": "fengsu-tongyi#63-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "世間多有亡人魄持其家語聲氣，所說良是。",
+      "note": "「亡人魄持其家語聲氣，所說良是」直接宣稱死者之魄能借家人說話且內容確實，認證死後靈異現象",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "石賢士神",
+      "para_index": 3,
+      "para_id": "fengsu-tongyi#63-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "謹按陳國張漢直到南陽從京兆尹延叔堅讀《左氏傳》，行後數月，鬼物持其女弟，言：“我",
+      "note": "附體者說出借券、錢物等隱情而「往求索之，悉如其言」，家人誤認漢直已死而迎喪，文本記錄靈異知情及由死訊造成的哀傷",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "石賢士神",
+      "para_index": 4,
+      "para_id": "fengsu-tongyi#63-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫死者，澌也，鬼者，歸也，精氣消越，骨肉歸於土也。夏後氏用明器，殷人用祭器，周人",
+      "note": "以「精氣消越，骨肉歸於土」說明死亡，並由多重反證斷言「猶死者無知審矣」，同時論死亡本質與否定亡者作祟",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "石賢士神",
+      "para_index": 5,
+      "para_id": "fengsu-tongyi#63-p05",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "世間亡者多有見神世間亡者多有見神，語言飲食，其家信以為是，益用悲傷。",
+      "note": "本段記家人把亡者現形信以為真而「益用悲傷」，寫喪失中的哀痛又被對鬼魂的誤認加深",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "石賢士神",
+      "para_index": 6,
+      "para_id": "fengsu-tongyi#63-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "謹按司空南陽來季德停喪在殯，忽然坐祭床上，顏色服飾聲氣熟是也。孫兒婦女以次教誡，",
+      "note": "來季德家人把出現者當亡者而反覆大哀，待其醉後形壞才發現「但得老狗」，以辨認真相解除亡魂迷信並呈現家人的喪痛",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "世間多有精物妖怪百端",
+      "para_index": 3,
+      "para_id": "fengsu-tongyi#64-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "汝南汝陽西門習武亭有鬼魅，賓客宿止多死亡，其厲厭者皆亡發失精。尋問其故，云先時頗",
+      "note": "鄭奇與新亡吳氏婦同宿，亭卒翌日見其死身，奇旋即腹痛身亡，故事把亡者現形與死亡當作實際徵驗",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "世間多有精物妖怪百端",
+      "para_index": 5,
+      "para_id": "fengsu-tongyi#64-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《楚辭》云：“鱉令屍亡，泝江而上，到崏山下蘇起，蜀人神之，尊立為王。”漢淮陽太守",
+      "note": "以鱉令死而復蘇、尹奇死後屍飛的記載作證，反問「樓上新婦，豈虛也哉」，明確認證死者異變並非虛構",
+      "co_domains": [
+        "XII"
+      ]
     },
     {
       "slug": "guanzi",

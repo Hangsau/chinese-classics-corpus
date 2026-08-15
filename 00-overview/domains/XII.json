@@ -2,9 +2,9 @@
   "domain": "XII",
   "name_zh": "信仰·神聖·超越",
   "gist": "神存在嗎、信與疑、敬畏與美、神秘經驗",
-  "generated_at": "2026-08-15T09:54:19+00:00",
-  "para_count": 138,
-  "book_count": 19,
+  "generated_at": "2026-08-15T13:56:36+00:00",
+  "para_count": 159,
+  "book_count": 20,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -27,6 +27,282 @@
     "yinwenzi"
   ],
   "paras": [
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "六國",
+      "para_index": 5,
+      "para_id": "fengsu-tongyi#05-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "趙之先，與秦同祖。其裔孫曰造父，幸於周穆王，爲御驊騮、騄耳之乘，西謁西王母，東滅",
+      "note": "段落不只記夢占，還以范、中行果然被滅而明說「此熊之效應也」，並敘原過所受神令及胡服、拓地等後事實現，是文本自行認證徵應",
+      "co_domains": []
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "封泰山禪梁父",
+      "para_index": 1,
+      "para_id": "fengsu-tongyi#08-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "俗說︰岱宗上有金篋玉策，能知人年壽脩短。武帝探策得十八，因到讀曰八十，其後果用耆",
+      "note": "俗說稱金篋玉策「能知人年壽脩短」且武帝改讀後果然耆長，又敘黃帝騎龍升天及封禪可「神仙」，把壽命與超越性神驗連在一起",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "葉令祠",
+      "para_index": 1,
+      "para_id": "fengsu-tongyi#09-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "俗說︰孝明帝時，尚書郎河東王喬，遷爲葉令，喬有神術，每月朔常詣臺朝，帝怪其來數而",
+      "note": "俗說敘王喬神術、天帝召入玉棺及死後立祠，並認定祈禱「無不如意」、違犯即得禍，正面承載神靈與祠祀效驗",
+      "co_domains": []
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "燕太子丹仰歎，天爲雨粟，烏白頭，馬生角，厨中木象生肉足，井上株木跳度瀆。",
+      "para_index": 1,
+      "para_id": "fengsu-tongyi#10-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "俗說︰燕太子丹爲質於秦，始皇執欲殺之，言能致此瑞者，可得生活；丹有神靈，天爲感應",
+      "note": "俗說明言「丹有神靈，天爲感應」，把雨粟等異象當作使丹獲釋的超越性回應，是正面神驗敘述",
+      "co_domains": []
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "東方朔",
+      "para_index": 1,
+      "para_id": "fengsu-tongyi#12-p01",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "俗言：東方朔太白星精，黃帝時爲風后，堯時爲務成子，周時爲老聃，在越爲范蠡，在齊爲",
+      "note": "「俗言」把東方朔說成「太白星精」，又稱其歷世變化而「神聖能興王霸之業」，記錄的是人格神聖化與超常變化的信仰說法",
+      "co_domains": []
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "淮南王安神仙",
+      "para_index": 1,
+      "para_id": "fengsu-tongyi#13-p01",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "俗說︰淮南王安，招致賓客方術之士數千人，作《鴻寶》、《苑秘》、枕中之書，鑄成黃白",
+      "note": "「俗說」稱淮南王安招致方術之士、鑄成黃白而「白日升天」，所記正是成仙超越凡人限制的信仰主張",
+      "co_domains": []
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "聲音",
+      "para_index": 1,
+      "para_id": "fengsu-tongyi#20-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《易》稱：「先王作樂崇德，殷薦之上帝，以配祖考。」《詩》云：「鐘鼓鍠鍠，磬管鎗鎗",
+      "note": "由「鳥獸且猶感應，而況於人乎！況於鬼神乎」推出樂能「動天地，感鬼神，按萬民，成性類」，明說音樂會作用於人的內在性情，也會通達天地鬼神",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "鼓",
+      "para_index": 1,
+      "para_id": "fengsu-tongyi#27-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "謹按《易》稱：「鼓之以雷霆」，聖人則之。不知誰所作也。鼓者，郭也，春分之音也。萬",
+      "note": "大部分列鼓與混入管條的名義、尺寸、孔數，但末句由古管用玉推出「夫以玉作音，故神人和」，已超出器物來源而肯定音聲能使神與人和諧的超越作用",
+      "co_domains": []
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "瑟",
+      "para_index": 1,
+      "para_id": "fengsu-tongyi#28-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "謹按《世本》：「宓義作。」八尺一寸，四十五弦。黃帝書：「泰帝使素女鼓瑟而悲，帝禁",
+      "note": "師曠以「主君德薄，不足以聽之」勸止，平公強求後文本敘風雨、大旱等感應，末又斷「不務德治而好五音，則窮身之事也」；三格分別保留治國失責、君德裁斷及文本認證的超常感應",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "祀典",
+      "para_index": 1,
+      "para_id": "fengsu-tongyi#43-p01",
+      "modes": [
+        "ritual",
+        "proposition"
+      ],
+      "excerpt": "《禮》：“天子祭天地山川歲遍”。《春秋國語》：“凡禘、郊、宗、祖、報，此五者國之",
+      "note": "本段不只列祭名，還以「非其鬼而祭之，諂也」「淫祀無福」限定祭祀對象，並主張「重祀而不貴牲，敬寶而不求華」，直接論信仰實踐的正當方式",
+      "co_domains": []
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "葦茭",
+      "para_index": 2,
+      "para_id": "fengsu-tongyi#52-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "虎者，陽物，百獸之長也，能執搏挫銳，噬食鬼魅。今人卒得惡遇，燒悟虎皮飲之，系其爪",
+      "note": "本段不只追溯畫虎，還明說虎能「噬食鬼魅」，燒虎皮飲用、繫虎爪「亦能辟惡，此其驗也」，由文本直接認證辟邪效力",
+      "co_domains": []
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "雄雞",
+      "para_index": 4,
+      "para_id": "fengsu-tongyi#53-p04",
+      "modes": [
+        "ritual",
+        "proposition"
+      ],
+      "excerpt": "謹按《春秋左氏傳》：“周大夫賓孟適郊，見雄雞自斷其尾，歸以告景王曰：‘憚其為犧也",
+      "note": "列舉雄雞祀鬼、去咎及雞治鬼刺、賊風與蠱後，作者明結「由此言之，雞主以禦死辟惡也」，直接肯定雄雞禦鬼辟惡的信仰效力",
+      "co_domains": []
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "石賢士神",
+      "para_index": 2,
+      "para_id": "fengsu-tongyi#63-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "世間多有亡人魄持其家語聲氣，所說良是。",
+      "note": "「亡人魄持其家語聲氣，所說良是」直接宣稱死者之魄能借家人說話且內容確實，認證死後靈異現象",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "石賢士神",
+      "para_index": 3,
+      "para_id": "fengsu-tongyi#63-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "謹按陳國張漢直到南陽從京兆尹延叔堅讀《左氏傳》，行後數月，鬼物持其女弟，言：“我",
+      "note": "附體者說出借券、錢物等隱情而「往求索之，悉如其言」，家人誤認漢直已死而迎喪，文本記錄靈異知情及由死訊造成的哀傷",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "石賢士神",
+      "para_index": 9,
+      "para_id": "fengsu-tongyi#63-p09",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "凡變怪，皆婦女下賤。何者？小人愚而善畏，欲信其說，類複裨增，文人亦不證察，與俱悼",
+      "note": "前半說「小人愚而善畏」且災由「斯自取」以破除怪說；後半又以守蛇吏夢「天殺蛇」及翌日蛇已爛認證感應，兩個方向並存",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "世間多有精物妖怪百端",
+      "para_index": 1,
+      "para_id": "fengsu-tongyi#64-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "謹按魯相右扶鳳臧仲英為侍御史，家人作食設桉，倏有不清塵土投汙之。炊臨熟，不知釜處",
+      "note": "本段把兵弩自行、鏡忽失而復現、女孫失蹤後在糞下啼等異事列為「若此非一」，文本自身把妖異當作實有現象記錄",
+      "co_domains": []
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "世間多有精物妖怪百端",
+      "para_index": 2,
+      "para_id": "fengsu-tongyi#64-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "汝南有許季山者，素善卜卦，言家當有老青狗物，內中婉禦者益喜與為之。誠欲絕，殺此狗",
+      "note": "許季山卜出老青狗及益喜，處置後「皆如其言，因斷無纖介」，以後事吻合認證占卜與怪異因由",
+      "co_domains": []
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "世間多有精物妖怪百端",
+      "para_index": 3,
+      "para_id": "fengsu-tongyi#64-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "汝南汝陽西門習武亭有鬼魅，賓客宿止多死亡，其厲厭者皆亡發失精。尋問其故，云先時頗",
+      "note": "鄭奇與新亡吳氏婦同宿，亭卒翌日見其死身，奇旋即腹痛身亡，故事把亡者現形與死亡當作實際徵驗",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "世間多有精物妖怪百端",
+      "para_index": 5,
+      "para_id": "fengsu-tongyi#64-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《楚辭》云：“鱉令屍亡，泝江而上，到崏山下蘇起，蜀人神之，尊立為王。”漢淮陽太守",
+      "note": "以鱉令死而復蘇、尹奇死後屍飛的記載作證，反問「樓上新婦，豈虛也哉」，明確認證死者異變並非虛構",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "世間多有蛇作怪者",
+      "para_index": 1,
+      "para_id": "fengsu-tongyi#66-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "謹按車騎將軍巴郡馮緄鴻卿為議郎，發綬笥，有二赤蛇，可長二尺，分南北走，大用憂怖。",
+      "note": "甯方所卜邊將、方位與官名後來「紀數方面，如甯方之言」，末又說「或得神以昌」，文本明確認證卜兆應驗",
+      "co_domains": []
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "世間人家多有見赤白光為變怪者",
+      "para_index": 1,
+      "para_id": "fengsu-tongyi#67-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "謹按太尉梁國橋玄公祖為司徒長史，五月末所，於中門外臥，夜半後，見東壁正白，如開門",
+      "note": "董彥興預告哭聲、北行金名之郡及位至將軍三公，後事逐項符合，末以「今妖見此而應在彼」明確認證徵應",
+      "co_domains": []
+    },
     {
       "slug": "gu-sanfen",
       "chapter": "人皇神農氏政典",

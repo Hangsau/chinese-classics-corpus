@@ -2,9 +2,9 @@
   "domain": "VI",
   "name_zh": "情緒與內在生活",
   "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡",
-  "generated_at": "2026-08-15T09:54:19+00:00",
-  "para_count": 519,
-  "book_count": 23,
+  "generated_at": "2026-08-15T13:56:36+00:00",
+  "para_count": 527,
+  "book_count": 24,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -133,6 +133,122 @@
       "co_domains": [
         "V"
       ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "3",
+      "para_index": 2,
+      "para_id": "fengsu-tongyi#17-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "九江太守武陵陳子威，生不識母，常自悲感；游學京師，還於陵谷中，見一老母，年六十餘",
+      "note": "陳子威因「生不識母，常自悲感」，遇孤獨老母便認作母親並「供養」，故事承載失母哀感、尋求母子連結與奉養行動",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "4",
+      "para_index": 7,
+      "para_id": "fengsu-tongyi#18-p07",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "謹按︰《孝經》：「身體髮膚，受之父母，不敢毀傷，孝之始也。」樂正子春下堂而傷足，",
+      "note": "「身體髮膚，受之父母，不敢毀傷」把護身繫於孝與家族傳承；「一朝之忿」「狂怒」直指憤怒衝動；末又判私辱報讐爲不義不智，三者分別落在家庭、情緒與品格",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "4",
+      "para_index": 10,
+      "para_id": "fengsu-tongyi#18-p10",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "度遼將軍安定皇甫規威明，連在大位，欲退避弟，數上病，不見聽，會友人上郡太守王旻物",
+      "note": "皇甫規「欲退避弟」交代其手足動機，「懼見及」寫出對黨事牽連的恐懼，又以密告自己違公及搶先自陳來求脫，呈現由親情與畏懼推動的權宜、造作行徑",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "聲音",
+      "para_index": 1,
+      "para_id": "fengsu-tongyi#20-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《易》稱：「先王作樂崇德，殷薦之上帝，以配祖考。」《詩》云：「鐘鼓鍠鍠，磬管鎗鎗",
+      "note": "由「鳥獸且猶感應，而況於人乎！況於鬼神乎」推出樂能「動天地，感鬼神，按萬民，成性類」，明說音樂會作用於人的內在性情，也會通達天地鬼神",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "聲音",
+      "para_index": 2,
+      "para_id": "fengsu-tongyi#20-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "其後周室陵遲，禮樂崩壞，諸侯恣行，競悅所習，桑間、濮上鄭、衞、宋、趙之聲，彌以放",
+      "note": "指放遠之聲會「滔湮心耳，乃忘平和」，進而「亂政傷民，致疾損壽」；這是音樂擾亂內在狀態並造成政治社會傷害的因果主張",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "羽",
+      "para_index": 1,
+      "para_id": "fengsu-tongyi#24-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "謹按劉歆《律書》：「羽者，宇也，物聚藏宇覆之也。五行爲水，五常爲智，五事爲德，凡",
+      "note": "前半列羽與五行的對應，後半則明說各聲使人「溫潤」「方正而好義」「惻隱而博愛」「善養而好施」，並稱「音樂至重，所感者大」；因此既論內在感受，也論音樂塑造德性",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "琴",
+      "para_index": 1,
+      "para_id": "fengsu-tongyi#31-p01",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "謹按《世本》：「神農作琴。」《尚書》：「舜彈五弦之琴，歌南風之詩，而天下治。」《",
+      "note": "「和人意氣，感人善心」及以琴抒寫通達、閉塞與憂愁，論內在調節；「君子守正以自禁」論自制品格；伯牙心在高山流水而子期皆能聽懂、子期死後遂「破琴絶弦」，又獨立寫出知音間的理解與親密",
+      "co_domains": [
+        "III",
+        "VII"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "筑",
+      "para_index": 1,
+      "para_id": "fengsu-tongyi#34-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "謹按太史公記：燕太子丹遣荊軻欲西刺秦王，與客送之易水而設祖道。高漸離擊筑，荊軻和",
+      "note": "高漸離擊筑時「士皆垂發涕＋」，改奏羽聲又使眾人「瞠目，發盡上指冠」，後來歌筑亦使聽者涕泣，具體寫音樂激起人的哀慨與激昂，不只是筑的名物沿革",
+      "co_domains": []
     },
     {
       "slug": "gongsun-longzi",

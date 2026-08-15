@@ -2,9 +2,9 @@
   "domain": "VIII",
   "name_zh": "工作·成就·召喚",
   "gist": "工作與金錢、成就與意義、天賦與使命",
-  "generated_at": "2026-08-15T09:54:19+00:00",
-  "para_count": 769,
-  "book_count": 33,
+  "generated_at": "2026-08-15T13:56:36+00:00",
+  "para_count": 774,
+  "book_count": 34,
   "surveyed_zero_hit": [
     "gu-sanfen",
     "haidao-suanjing",
@@ -137,6 +137,77 @@
       "excerpt": "漢儒訓詁之學惟謹，而楊子雲尤為洽聞。蓋一物不知，君子所耻，博學詳說，將以反約。凡",
       "note": "批評當時學者捨實徇名、高談性命而輕視訓詁，講的是治學者怎麼走偏",
       "co_domains": []
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "樂正后夔一足",
+      "para_index": 1,
+      "para_id": "fengsu-tongyi#06-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "俗說︰夔一足而用精專，故能調暢於音樂。",
+      "note": "俗說以夔「用精專」為其「能調暢於音樂」的原因，直接提出專精與才能表現的關係，並非只出現樂官名號",
+      "co_domains": []
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "5",
+      "para_index": 16,
+      "para_id": "fengsu-tongyi#19-p16",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "宗正南陽劉祖奉爲郡屬曹吏，左騎校尉薛丞君卓爲戶曹史，太守公孫慶當祠章陵，舊俗常以",
+      "note": "劉祖因自認「帝王肺腑」而把御車視為役事拒絕，薛丞卻自請補缺並能「補察時闕，言出成謨」；舉事對照身分自居與實際承擔、展現職能",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "7",
+      "para_index": 6,
+      "para_id": "fengsu-tongyi#42-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "後客或謂春申君曰：“伊尹去夏入殷，殷王而夏衰；管仲去魯入齊，魯弱而齊疆。故賢者所",
+      "note": "客以「賢者所在、君尊國安」勸春申君重新延請孫況，既主張任用賢才關乎國家安定，也寫孫況的才學重新獲得職位施展",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "風俗通義序",
+      "para_index": 4,
+      "para_id": "fengsu-tongyi#85-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "周、秦常以歲八月遣輶軒之使，求異代方言，還奏籍之，藏於秘室。及嬴氏之亡，遺脫漏棄",
+      "note": "段落敘述嚴君平、林閭翁孺與揚雄整理方言的著述歷程和二十七年之功，又以「予實頑闇，無能述演，豈敢比隆」自我定位，最後因「述作之功」表明接續此工作的志向",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "風俗通義序",
+      "para_index": 5,
+      "para_id": "fengsu-tongyi#85-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "昔客爲齊王畫者，王問：「畫孰最難？孰最易？」曰：「犬馬最難，鬼魅最易。」犬馬旦暮",
+      "note": "畫犬馬與鬼魅的故事以「不類不可」說明可核驗之事反而難作，繼而把俗語研究比作犬馬，並以「幸苟有過，人必知之」「俾諸明哲，幸詳覽焉」表達著述求實及接受檢正的態度",
+      "co_domains": [
+        "VII"
+      ]
     },
     {
       "slug": "gongsun-longzi",

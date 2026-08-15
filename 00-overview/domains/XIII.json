@@ -2,9 +2,9 @@
   "domain": "XIII",
   "name_zh": "安頓·修復·平安",
   "gist": "靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈",
-  "generated_at": "2026-08-15T09:54:19+00:00",
-  "para_count": 108,
-  "book_count": 16,
+  "generated_at": "2026-08-15T13:56:36+00:00",
+  "para_count": 111,
+  "book_count": 17,
   "surveyed_zero_hit": [
     "fangyan",
     "gongsun-longzi",
@@ -56,6 +56,50 @@
       "note": "董謁因好學而在家貧與圖書繁重中以樹葉代簡、荊條作床，寫出求學及因應困境的方法",
       "co_domains": [
         "VIII"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "7",
+      "para_index": 1,
+      "para_id": "fengsu-tongyi#42-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "《易》稱：“懸象著明，莫大乎於日月。”然時有昏晦。《詩》美“滔滔江、漢，南北之紀",
+      "note": "以日月「蔽而複明」、江漢「窮而複通」說明困厄可以轉變，並要求君子「樂天知命，無怨尤」，同時談命運變化與人在勞辱中的安頓",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "7",
+      "para_index": 2,
+      "para_id": "fengsu-tongyi#42-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子困於陳、蔡之間，七日不嘗粒，藜羹不糝，而猶弦琴於室。顏回釋菜於戶外，子路、子",
+      "note": "孔子受困至「七日不嘗粒，藜羹不糝」是具體身體匱乏，仍「弦琴於室」「未嘗絕音」則呈現人在苦境中的自持方式",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "7",
+      "para_index": 8,
+      "para_id": "fengsu-tongyi#42-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孟嘗君逐於秦，見反，譚子迎於澅，曰：“君怨於齊大夫乎？”孟嘗君曰：“有。”譚子曰",
+      "note": "譚子指出人「富貴則爭歸，貧賤則爭去」，勸孟嘗君「願君勿怨」；孟嘗遂削去仇人名單，兼論勢利人情與受逐後放下怨恨",
+      "co_domains": [
+        "V"
       ]
     },
     {

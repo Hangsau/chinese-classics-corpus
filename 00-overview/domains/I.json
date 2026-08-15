@@ -2,9 +2,9 @@
   "domain": "I",
   "name_zh": "存在與意義",
   "gist": "我為何在此、活著有沒有意義、與想不通的問題共處、在歷史洪流中的渺小",
-  "generated_at": "2026-08-15T09:54:19+00:00",
-  "para_count": 41,
-  "book_count": 12,
+  "generated_at": "2026-08-15T13:56:36+00:00",
+  "para_count": 43,
+  "book_count": 13,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -34,6 +34,35 @@
     "zhongjing"
   ],
   "paras": [
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "5",
+      "para_index": 1,
+      "para_id": "fengsu-tongyi#19-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《易》記出處默語，《書》美「九德咸事」，同歸殊塗，一致百慮，不期相反，各有云尚而",
+      "note": "以伯夷與展禽、孔丘與長沮等相反出處作對照，並斷言「人心不同，有如其面」；既論人可選擇何種生活道路，也論各人志向與自我取向不同",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "7",
+      "para_index": 3,
+      "para_id": "fengsu-tongyi#42-p03",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "君子通於道之謂通，窮於道之謂窮。今丘抱仁義之道，以遭亂世之患，其何窮之為？故內省",
+      "note": "「君子通於道之謂通，窮於道之謂窮」以道重新界定人生的通窮，並以「遭亂世之患」仍不失其德、終能返魯施展說明困境與轉機",
+      "co_domains": [
+        "XI"
+      ]
+    },
     {
       "slug": "gu-sanfen",
       "chapter": "太古河圖代姓紀",

@@ -2,9 +2,9 @@
   "domain": "II",
   "name_zh": "自我與認同",
   "gist": "我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我",
-  "generated_at": "2026-08-15T09:54:19+00:00",
-  "para_count": 528,
-  "book_count": 27,
+  "generated_at": "2026-08-15T13:56:36+00:00",
+  "para_count": 531,
+  "book_count": 28,
   "surveyed_zero_hit": [
     "fangyan",
     "gongsun-longzi",
@@ -59,6 +59,49 @@
       ],
       "excerpt": "黃安，代郡人也。為代郡卒。自雲卑猥不獲處人間，執鞭懷荊而讀書。畫地以記數者，夕地",
       "note": "黃安自陳卑猥難處人間，仍在低微役職中執鞭懷荊讀書記數，寫出自我身分與求學實踐",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "5",
+      "para_index": 1,
+      "para_id": "fengsu-tongyi#19-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《易》記出處默語，《書》美「九德咸事」，同歸殊塗，一致百慮，不期相反，各有云尚而",
+      "note": "以伯夷與展禽、孔丘與長沮等相反出處作對照，並斷言「人心不同，有如其面」；既論人可選擇何種生活道路，也論各人志向與自我取向不同",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "5",
+      "para_index": 16,
+      "para_id": "fengsu-tongyi#19-p16",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "宗正南陽劉祖奉爲郡屬曹吏，左騎校尉薛丞君卓爲戶曹史，太守公孫慶當祠章陵，舊俗常以",
+      "note": "劉祖因自認「帝王肺腑」而把御車視為役事拒絕，薛丞卻自請補缺並能「補察時闕，言出成謨」；舉事對照身分自居與實際承擔、展現職能",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "風俗通義序",
+      "para_index": 4,
+      "para_id": "fengsu-tongyi#85-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "周、秦常以歲八月遣輶軒之使，求異代方言，還奏籍之，藏於秘室。及嬴氏之亡，遺脫漏棄",
+      "note": "段落敘述嚴君平、林閭翁孺與揚雄整理方言的著述歷程和二十七年之功，又以「予實頑闇，無能述演，豈敢比隆」自我定位，最後因「述作之功」表明接續此工作的志向",
       "co_domains": [
         "VIII"
       ]

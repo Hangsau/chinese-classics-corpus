@@ -2,9 +2,9 @@
   "domain": "IX",
   "name_zh": "苦難·疾病·身體",
   "gist": "疾病與身體、受苦的意義、照顧與被照顧",
-  "generated_at": "2026-08-15T09:54:19+00:00",
-  "para_count": 111,
-  "book_count": 18,
+  "generated_at": "2026-08-15T13:56:36+00:00",
+  "para_count": 119,
+  "book_count": 19,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -28,6 +28,122 @@
     "zhongjing"
   ],
   "paras": [
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "5",
+      "para_index": 20,
+      "para_id": "fengsu-tongyi#19-p20",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "趙相汝南李統，少幼，爲冀州刺史阮況所奏「耳目不聰明」；股肱掾史，咸用忿憤，欲詣闕",
+      "note": "李統面對「耳目不聰明」的奏劾，承認自己年老多病、耳聾目眩，阻止屬吏爭辯，受問後仍替刺史解說；故事寫身體衰病處境中的自省與謙讓",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "5",
+      "para_index": 21,
+      "para_id": "fengsu-tongyi#19-p21",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "司徒九江朱倀，以年老，爲司隸虞詡所奏，耳目不聰明，見掾屬大怒曰：「顛而不扶，焉用",
+      "note": "朱倀因被奏「耳目不聰明」而大怒，周舉代草長篇災異奏章使他以「手能細書」自明，終令彈劾者受責；事件圍繞身體能力爭議及臣屬如何為長官辯護",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "5",
+      "para_index": 22,
+      "para_id": "fengsu-tongyi#19-p22",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "謹按：論語：「能以禮讓爲國乎？何有。」「夫子溫良恭儉讓以得之。」傳曰：「心苟不競",
+      "note": "直指朱倀「年且九十，足以惛憒，義當自引，以避賢路」，並斥周舉「爲人謀而不忠」，再以李統「進退溫雅」作反例，裁斷人應如何面對衰病並守住忠讓",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "7",
+      "para_index": 2,
+      "para_id": "fengsu-tongyi#42-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子困於陳、蔡之間，七日不嘗粒，藜羹不糝，而猶弦琴於室。顏回釋菜於戶外，子路、子",
+      "note": "孔子受困至「七日不嘗粒，藜羹不糝」是具體身體匱乏，仍「弦琴於室」「未嘗絕音」則呈現人在苦境中的自持方式",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "7",
+      "para_index": 12,
+      "para_id": "fengsu-tongyi#42-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "司徒中山祝恬字伯休，公車徵，道得溫病。過友人鄴令謝著，著拒不通，因載病去。至汲，",
+      "note": "祝恬「道得溫病」而沉困、經丸藥與照料後康復，是具體疾病處境；舊友謝著拒見、素不相識的應融親自照護並獲回薦，形成友誼責任的對照，末以「義高」與「淺薄」明評兩人品格",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "世間多有見怪驚怖以自傷者",
+      "para_index": 1,
+      "para_id": "fengsu-tongyi#58-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "謹按《管子書》：“齊公出於澤，見衣紫衣，大如轂，長如轅，拱手而立。還歸，寢疾，數",
+      "note": "皇士以「物惡能傷公，公自傷也」指出病由自身驚怖而非怪物所致，桓公釋懷後「不終日而病癒」，兼及病中處境與可改變的解釋",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "世間多有見怪驚怖以自傷者",
+      "para_index": 2,
+      "para_id": "fengsu-tongyi#58-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "予之祖父郴為汲令，以夏至日請見主簿杜宣，賜酒。時北壁上有懸赤弩，照於杯中，其形如",
+      "note": "杜宣因杯中蛇影而「胸腹痛切」，得知「此壁上弩影耳，非有他怪」後「意遂解…由是瘳平」，寫疾病如何因認知轉變而解除",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "fengsu-tongyi",
+      "chapter": "石賢士神",
+      "para_index": 1,
+      "para_id": "fengsu-tongyi#63-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "謹按汝南汝陽彭氏墓路頭立一石人，在石獸後。田家老母到市買數片餌，暑熱行疲，頓息石",
+      "note": "路人戲言石人治病後眾人仿效，文本明說「凡人病自愈者，因言得其福力」，把頭腹疼痛的自癒從神力歸回自然病程",
+      "co_domains": [
+        "XI"
+      ]
+    },
     {
       "slug": "guanzi",
       "chapter": "第08篇幼官",
