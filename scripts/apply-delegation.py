@@ -17,6 +17,9 @@ import sys
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from corpus_text import split_paragraphs  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
 TZ = timezone(timedelta(hours=8))
 
@@ -75,15 +78,26 @@ def main() -> int:
         if not src.exists():
             print(f"[FAIL] --inherit-from {args.inherit_from} 沒有 annotations.json")
             return 1
+        # annotations.json 的 excerpt 只留 40 字，拿來比對會把長段全部漏掉。段落文字
+        # 一律由 split_paragraphs 從兩書的 raw/original.txt 重算，與發包時同一來源。
+        def texts(s: str) -> dict[tuple[str, int], str]:
+            raw = (ROOT / "translations" / s / "raw" / "original.txt").read_text(encoding="utf-8")
+            return {(label, idx): t.strip() for _, label, idx, t in split_paragraphs(raw)}
+
+        src_text = texts(args.inherit_from)
         by_text = {}
         for r in json.loads(src.read_text(encoding="utf-8")):
-            if r.get("psych_domains") is not None:
-                by_text[r["excerpt"].strip()] = r
+            if r.get("psych_domains") is None:
+                continue
+            t = src_text.get((r["anchor"]["chapter"], r["anchor"]["para_index"]))
+            if t:
+                by_text[t] = r
+        self_text = texts(args.slug)
         for r in ann:
             key = (r["anchor"]["chapter"], r["anchor"]["para_index"])
             if key in verdicts:
                 continue
-            hit = by_text.get(r["excerpt"].strip())
+            hit = by_text.get(self_text.get(key, ""))
             if hit is not None:
                 inherited[key] = hit
         print(f"沿用 {args.inherit_from} 的逐字相同段落：{len(inherited)} 段")
