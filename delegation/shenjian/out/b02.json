@@ -1,0 +1,159 @@
+{
+  "batch": "b02.md",
+  "rows": [
+    {
+      "chapter": "2",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「最凡有二十一首……十有九事」以下只列「明考試」「議州牧」「議錢貨」等提案目次，沒有說明人的樣態。"
+    },
+    {
+      "chapter": "2",
+      "para_index": 2,
+      "domains": ["VI"],
+      "modes": ["proposition"],
+      "reason": "「厭亂則思治，創難則思靜」直接指出人歷經亂與難之後會產生厭倦、求治與求靜的內在傾向。"
+    },
+    {
+      "chapter": "2",
+      "para_index": 3,
+      "domains": ["XI", "XII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「皇民敦，秦民弊，時也；山民樸，市民玩，處也……奚惟性」說人群品性隨時、處與政而變，命中 XI；「致精誠，求諸已，正大事，則神明應矣」又正面認證感應，命中 XII。"
+    },
+    {
+      "chapter": "2",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition", "formalization"],
+      "reason": "「目玆舉者試其事，處斯職者考其績」至「有事考功，有言考用，動則考行，靜則考守」是在設計考核項目；「事驗……則爲私者寡」只是這套制度的預期效果，未另解釋人爲何如此。"
+    },
+    {
+      "chapter": "2",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["proposition", "formalization"],
+      "reason": "「不以過職絀則勿降……以過職絀則降」規定公卿、郡縣官的升降條件，通段是官員任用與懲愆之制。"
+    },
+    {
+      "chapter": "2",
+      "para_index": 6,
+      "domains": ["V"],
+      "modes": ["prescription", "formalization"],
+      "reason": "「每宼難之作，民瘁幾盡」並斷言「不教民戰，是謂棄之」，把國家是否使人民具備應戰能力說成領導者對群體的責任，不只是在列尚武官職。"
+    },
+    {
+      "chapter": "2",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「州牧、刺史、監察御史，三制孰優」全段比較三種監察建制，最後取「監察御史斯可也」，沒有另說人的樣態。"
+    },
+    {
+      "chapter": "2",
+      "para_index": 8,
+      "domains": ["X"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「生刑而極死者，復之可也」指出原本不致死的刑罰反被改成死刑，並以「生死而息民」把免死、保存人命本身作爲立論依據。"
+    },
+    {
+      "chapter": "2",
+      "para_index": 9,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「不量民力之未能，是招民於惡也」與「不度民情之不堪，是䧟民於罪也」明說人的能力與承受有限，失度的教法會把人推向惡與罪。"
+    },
+    {
+      "chapter": "2",
+      "para_index": 10,
+      "domains": ["IV", "VII"],
+      "modes": ["proposition", "formalization"],
+      "reason": "段中按「父讎」「兄弟之讎」「從父從兄弟之讎」區分親屬義務，且直判「復讎者義也」「從王制，順也；犯制，逆也」，不只列避讎里程，也在裁定家族復讎的德性。"
+    },
+    {
+      "chapter": "2",
+      "para_index": 11,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「公祿貶則私利生，私利生則廉者匱而貪者豐」把俸祿條件如何消長廉貪品格明說爲增祿與汰貪的依據。"
+    },
+    {
+      "chapter": "2",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「專地非古也，井田非今也」與「耕而勿有，以俟制度可也」只在折衷專地、井田及田地買賣制度。"
+    },
+    {
+      "chapter": "2",
+      "para_index": 13,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "通段論「五銖之制」應行、官鑄、收積或改鑄；「錢實便於事用，民樂行之，禁之難」只是幣制的誘因反應，沒有提出人的樣態。"
+    },
+    {
+      "chapter": "2",
+      "para_index": 14,
+      "domains": [],
+      "modes": ["prescription", "ritual"],
+      "reason": "「必也舉其重而祀之」及「若今郡祀之，而其祀禮物，從鮮可也」是在規定郡祀層級與禮物豐省；「示民不偷」只是所列教化效果，未另對人下判斷，也未認證徵應。"
+    },
+    {
+      "chapter": "2",
+      "para_index": 15,
+      "domains": ["XII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「天人之應，所由來漸矣」明確認證天人感應，並以「必書雲物，爲備故也」「太史上事無隱焉，勿寢可也」主張記錄徵兆而不得壓下。"
+    },
+    {
+      "chapter": "2",
+      "para_index": 16,
+      "domains": [],
+      "modes": ["prescription", "ritual"],
+      "reason": "「月正聽朝，國家之大事也，冝正其儀，以明舊典」只要求恢復月朔聽朝的國家儀節，沒有以人的樣態立論。"
+    },
+    {
+      "chapter": "2",
+      "para_index": 17,
+      "domains": ["IV"],
+      "modes": ["prescription", "formalization"],
+      "reason": "「男女正位乎內外，正家而天下定矣」直接規範男女在家內外的位置，前文又列婦德、婦言、婦功及後宮教學考行，核心是婚姻家內秩序與教養。"
+    },
+    {
+      "chapter": "2",
+      "para_index": 18,
+      "domains": ["VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「或學者先意，有所借定；後進相放，彌以滋蔓」指出學者成見與後學仿效會使經學歧出，並以此論證「備愽士，廣太學」，所論是學術能力與學業養成。"
+    },
+    {
+      "chapter": "2",
+      "para_index": 19,
+      "domains": ["VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「道雖要也，非愽無以通矣」主張掌握要道必先廣博學習，結語「愽其方，約其說」直接給出求學與成就理解的方法。"
+    },
+    {
+      "chapter": "2",
+      "para_index": 20,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「赦令，權也」以下只界定赦令作爲反經權宜之制，並規定「不得已而行之，禁其屢也」，沒有另說人的樣態。"
+    },
+    {
+      "chapter": "2",
+      "para_index": 21,
+      "domains": ["IV", "XII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「以婦凌夫」直接評論夫妻家內關係，命中 IV；「以隂乗陽，違天……違天不祥」又認證違背天道會招致不祥，命中 XII。"
+    },
+    {
+      "chapter": "2",
+      "para_index": 22,
+      "domains": ["II", "VII"],
+      "modes": ["formalization", "ritual"],
+      "reason": "「或欲顯而不得，或欲隱而名章，得失一朝，而榮辱千載」說人的名聲與自欲未必相合，命中 II；「善人勸焉，淫人懼焉」又把史錄的長久榮辱作爲勸善懼惡的品格機制，命中 VII。"
+    }
+  ]
+}
