@@ -1,0 +1,222 @@
+{
+  "batch": "b02.md",
+  "rows": [
+    {
+      "chapter": "孝文帝",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["observation"],
+      "reason": "以「世俗多傳道」列舉文帝「躬自節儉」、為太后持服及「治天下，致升平」等說法，內容涉及君主品格與公共治理，雖只是記錄流傳之說，仍不只是名號來源"
+    },
+    {
+      "chapter": "孝文帝",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "逐項比較文帝政績得失，並以「世之毀譽，莫能得實，審形者少，隨聲者多」說明世人如何失實評價人物，兼論治理責任與品格判斷"
+    },
+    {
+      "chapter": "東方朔",
+      "para_index": 1,
+      "domains": ["XII"],
+      "modes": ["observation"],
+      "reason": "「俗言」把東方朔說成「太白星精」，又稱其歷世變化而「神聖能興王霸之業」，記錄的是人格神聖化與超常變化的信仰說法"
+    },
+    {
+      "chapter": "東方朔",
+      "para_index": 2,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition"],
+      "reason": "以「朔言不純師，行不純德」評其言行品格，又以「後之好事者，因取奇言怪語附著之耳，安在能神聖歷世爲輔佐哉」拆除神聖歷世之說，不認證其為神異"
+    },
+    {
+      "chapter": "淮南王安神仙",
+      "para_index": 1,
+      "domains": ["XII"],
+      "modes": ["observation"],
+      "reason": "「俗說」稱淮南王安招致方術之士、鑄成黃白而「白日升天」，所記正是成仙超越凡人限制的信仰主張"
+    },
+    {
+      "chapter": "淮南王安神仙",
+      "para_index": 2,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition"],
+      "reason": "以王安「親伏白刃」反問「安在其能神仙乎」，把成仙傳聞還原為亡士「飾詐說」與後人「吠聲」，兼批判詐偽品格並否定其超常脫死能力，故不含 XII"
+    },
+    {
+      "chapter": "王陽能鑄黃金",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["observation", "proposition"],
+      "reason": "以王陽衣車鮮好卻「不蓄積餘財」的反差，說明「天下服其廉而怪其奢，故俗傳王陽能作黃金」，是在交代人們從廉奢評價形成傳言的原因"
+    },
+    {
+      "chapter": "王陽能鑄黃金",
+      "para_index": 2,
+      "domains": ["XI"],
+      "modes": ["proposition"],
+      "reason": "列舉秦皇、武帝、淮南王與劉向求方皆敗，歸結「夫物之變化，固自有極」及「金不可作，世不可度」，主張人與物的變化有不可逾越的限度，且不認證方術"
+    },
+    {
+      "chapter": "宋均令虎渡江",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["narrative", "prescription"],
+      "reason": "宋均把虎患之「咎」歸於「貪殘居職」，命令「壞檻穽」「退貪殘，進忠良」，以故事承載官員責任、用人與保民的治理主張"
+    },
+    {
+      "chapter": "宋均令虎渡江",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "先主張猛獸「時爲害者，乃其政使然也」，再以江流、虎性與反問駁斥「悉東渡」的誇說，核心仍是清濁進退與政治責任，而非認證神異感應"
+    },
+    {
+      "chapter": "彭城相袁元服",
+      "para_index": 1,
+      "domains": ["IV", "VII"],
+      "modes": ["observation"],
+      "reason": "「俗說」以服中生子與「不孝莫大於無後」解釋袁賀之字，直接涉及生育傳承、父子倫理及孝行評價"
+    },
+    {
+      "chapter": "彭城相袁元服",
+      "para_index": 2,
+      "domains": ["IV", "VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "以「天地大德曰生」反對三子、五月生與服中子「莫肯收舉」的禁忌，並以「夫學問貴能行」責問聽信鄉說者，主旨是保全子女、家庭傳承及知行品格"
+    },
+    {
+      "chapter": "3",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以禮能使「賢者俯就，不肖跂及」說明行為尺度，反對「矯情，直意」，並要求「帥由舊章」，是在規範不過不及的品格實踐"
+    },
+    {
+      "chapter": "3",
+      "para_index": 2,
+      "domains": ["IV", "VI"],
+      "modes": ["narrative"],
+      "reason": "陳子威因「生不識母，常自悲感」，遇孤獨老母便認作母親並「供養」，故事承載失母哀感、尋求母子連結與奉養行動"
+    },
+    {
+      "chapter": "3",
+      "para_index": 3,
+      "domains": ["IV", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "辨明繼母、慈母之「母道」，批評把「道路之人」正名為母；同時肯定仁人可因「惻隱」收養無歸者，規範家庭名分與仁愛行為的界線"
+    },
+    {
+      "chapter": "3",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "本段只有「宣度，爲師太常張文明制杖」一項舉事，未在本段說明動機、情感或品格判斷；對此喪杖行為的裁斷在下一段才展開"
+    },
+    {
+      "chapter": "3",
+      "para_index": 5,
+      "domains": ["IV", "VII"],
+      "modes": ["proposition"],
+      "reason": "以門人喪師本應「如父而無服」駁制杖，尤其責其「真不愛其親而愛他人」及求「福報」，是在裁斷親情次序、虛飾動機與品格"
+    },
+    {
+      "chapter": "3",
+      "para_index": 6,
+      "domains": ["III", "X"],
+      "modes": ["narrative"],
+      "reason": "薛恭祖喪妻「不哭」，以四十餘年恩好、子女成人而說「夫復何恨哉」，直接呈現長期夫妻關係面對死亡永別時的態度"
+    },
+    {
+      "chapter": "3",
+      "para_index": 7,
+      "domains": ["VII", "III"],
+      "modes": ["proposition", "prescription"],
+      "reason": "詳述妻子與丈夫齊體及其家內勞苦，認為喪妻應有「內崩傷」與「惻容」，把全無哀色判為「矯情，僞之至也」，兼論夫妻恩義與真誠品格"
+    },
+    {
+      "chapter": "3",
+      "para_index": 8,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "敘吳匡受黃瓊「比比援舉」而升遷，聞其死即制服、稱病返府，呈現受薦者如何回報私人恩遇以及忠厚行為與公職之間的選擇"
+    },
+    {
+      "chapter": "3",
+      "para_index": 9,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "指出吳匡負有「勸民耕桑，肆省寃疑」等國事，卻「顧私恩，傲狠自遂」，並以弔服為較近之制，裁定公共責任、私恩與合宜品格的次序"
+    },
+    {
+      "chapter": "3",
+      "para_index": 10,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "眾士皆從俗制服，胡毋季皮卻說「衆人若此，不可獨否」不足為據，主張依弔服而獲有識者嘉許；故事討論群體從眾、守禮勇氣與人際責任"
+    },
+    {
+      "chapter": "3",
+      "para_index": 11,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "依「爲舊君齊衰三月」限定臣吏名分，責翩祖身居亞卿本應「綱紀人倫，爲之節文」卻帶頭「犯禮違制」，兼論領導示範與品格責任"
+    },
+    {
+      "chapter": "3",
+      "para_index": 12,
+      "domains": ["VII"],
+      "modes": ["narrative"],
+      "reason": "郝子廉雖飢寒仍「一介不取諸人」，吃姊妹之飯也留錢、飲井水也投錢，以反覆行動呈現其極端不受人惠的操守"
+    },
+    {
+      "chapter": "3",
+      "para_index": 13,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以「人道交，功勳成」及朋友共用車衣說明交往互惠，反問「何有同生之家，而顧錢者哉」，把過度自守判為「傷恩薄禮，弊之至也」"
+    },
+    {
+      "chapter": "3",
+      "para_index": 14,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "張伯大與鄧子敬僅差三年卻固定以兄禮、晨朝相拜，且「坐養聲價」而後得官，故事呈現朋友交往被身分表演與名望經營支配"
+    },
+    {
+      "chapter": "3",
+      "para_index": 15,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "主張朋友應「各長其儀」而非徒然拜伏，並直斥二人「飾虛矜僞，誑世耀名」且「終爲利動」，裁斷友道與求名逐利的虛偽品格"
+    },
+    {
+      "chapter": "3",
+      "para_index": 16,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative"],
+      "reason": "袁夏甫閉戶不見人，只隔空拜母而母子「不得見」，母亡又「不列服位」；其自稱無益家事的隱居行為直接涉及親子疏離與孝行品格"
+    },
+    {
+      "chapter": "3",
+      "para_index": 17,
+      "domains": ["IV", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以「生事愛敬，死事哀戚」為準，責其一家如異域、不能送母，皆「遠於愛敬」「遠於哀慼」，並批評以閉戶裸足自高的失當品格"
+    },
+    {
+      "chapter": "3",
+      "para_index": 18,
+      "domains": ["V", "X"],
+      "modes": ["narrative"],
+      "reason": "徐孺子因黃瓊往日辟召禮遇，遠行至墳前「醊哭」，卻拒絕與喪家相見；故事寫受恩關係如何在對方死亡後以奔喪回報"
+    },
+    {
+      "chapter": "3",
+      "para_index": 19,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "肯定墳前哭醊，卻主張孺子既與黃瓊有恩故，就「當卽其帳衾，問勞子琰」乃至教誨缺失；以「甚於路人」裁斷受恩者對喪家的關懷義務"
+    }
+  ]
+}
