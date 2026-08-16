@@ -1,7 +1,7 @@
 # HANDOFF — chinese-classics-corpus
 
 > 狀態快照。行為規範見 [`CLAUDE.md`](./CLAUDE.md)，結構導航見 [`MAP.md`](./MAP.md)，資料契約見 [`SCHEMA.md`](./SCHEMA.md)。
-> 最後更新：2026-08-15
+> 最後更新：2026-08-16
 
 ## 現在在哪
 
@@ -434,7 +434,7 @@
     - **本輪最大的預測誤差是 mode 與覆蓋率的數量帶寬，不是判準，而且連錯兩部書。**孔叢子 `ritual` 我連錯兩次（4–9 → 8–16 → 實得 17），零段 domains 下限寫 ≥4 而實得 2（覆蓋 11／13，同新序）；**申鑒三條帶寬全錯**——XII 猜 2–5 實得 8、零段 domains 猜 ≥4 實得 1、零段 modes 猜 ≥3 實得 2。**五條都逐段查證過是真的（薄領域 I 1 段、IX 2 段、XIII 5 段抽查皆為真斷言，判者甚至自寫「三格不可再減」的取捨理由），處置是改條件並記錄誤差，不是鬆判準。**相對地，同兩部書的體裁陷阱類條件（孔叢子 14 條命中＋4 條判空錨點、申鑒 11 段必判空＋35 段必命中＋〈俗嫌〉XII 至多 1 段且只能是 `3`[4]＋〈俗嫌〉XI ≥5＋〈時事〉判空率須高於〈雜言下〉）**零校準全過**。教訓已可定案：**體裁陷阱（哪一格會被撈走）可以事前寫死並且會生效；數量帶寬（會有幾段）事前寫不準，只能當提示不能當硬條件。**
     - **`run-delegation.sh` 的 stdin 繼承 bug（已修）**：`codex exec` 未關 stdin，用 `git commit … && bash run-delegation.sh` 串接呼叫時會繼承永不關閉的 stdin，卡在「Reading additional input from stdin...」——申鑒 b01 因此空轉 53 分鐘、零 CPU、連 session 都沒建。診斷靠 `~/.codex/sessions/` 有沒有對應 rollout 檔＋ `Get-Process` 的 CPU 累計。已補 `< /dev/null`。**單獨呼叫不會觸發，所以孔叢子五批全程正常——這種 bug 只在特定呼叫形態下現形。**
     - **配額實測 0.67%／批**（codex 7D 76% → 78%／3 批）。本輪 5 部共 23 批已全數跑完。
-    - **下一步（本輪已收尾，可直接接手）**：~~`fengsu-tongyi`~~、~~`duduan`~~ 皆已標完；接著是 `cai-zhonglang-ji`（317 段／10 批，扣重後，需碑誄體閘門）、`taixuanjing`（象數體）、`jingshi-yizhuan`（占筮體）、`zhonglun`（卡在上方「一章＝一段」上游缺陷，未解不排批次）。再來才是三巨頭。
+    - **下一步（本輪已收尾，可直接接手）**：~~`fengsu-tongyi`~~、~~`duduan`~~ 皆已標完；`cai-zhonglang-ji` 進行中（**再扣〈外集卷四〉後為 207 段／8 批**，見第 14 條，b01–b05 已回收驗收、b06–b08 卡配額）；接著是 `taixuanjing`（象數體）、`jingshi-yizhuan`（占筮體）、`zhonglun`（卡在上方「一章＝一段」上游缺陷，未解不排批次）。再來才是三巨頭。
 
 12. **風俗通義 230 段 85 章全數標完（2026-08-15）——13／13 全覆蓋，判空 77 段（33%），並逼出第七道體裁閘門 §2.7「來源之外」（考辨體）。** `translations/fengsu-tongyi/`（`annotations.json` ＋ `meta.json.psych_survey`）已落地，`verify.py` 0 errors／16 warnings，`build-index.py` 已重生。逐書數字與證據寫在 `psych_survey.verdict`，閘門本身寫進 CLAUDE.md §2.7，此處只留可重用的方法結果。
 
@@ -460,6 +460,17 @@
     - **通讀分工照新做法執行**：由 `duduan-reader`（Sonnet agent）通讀產出 `delegation/duduan/READING.md`（逐章摘要＋候選錨點＋詞面陷阱），我只寫閘門、裁定灰區、寫 SPEC 與驗收器。這是分工改動後的第一部，結果支持繼續這樣派。
     - **發包切分器補了單章超限時的章內切塊**（`make-delegation-input.py`），解掉蔡中郎集 b09 那個 110 段不拆章死結；切出的後續片段 `para_index` 不從 1 起，批次抬頭會明寫「照抄不要重編」（commit 見 `make-delegation-input.py` 那次）。蔡中郎集已重生為 **317 段／10 批**。
     - **配額**：本部 4 批。codex ChatGPT 7D 在發包前為 94%，重置 2026-08-21。
+
+14. **蔡中郎集進行中：207 段／8 批，b01–b05 已回收驗收（101 段），b06–b08 卡 codex 配額（重置 2026-08-21 14:10）。** `annotations.json` 尚未回填——八批齊了才做，回填腳本會整批拒寫，不要半套跑。**接手指令序列**：`bash scripts/run-delegation.sh cai-zhonglang-ji b06 b07 b08` → `check-delegation-out.py --slug cai-zhonglang-ji` → `delegation/cai-zhonglang-ji/accept.py`（67 條錨點全跑）→ `make-scaffold.py --slug cai-zhonglang-ji` → `apply-delegation.py --slug cai-zhonglang-ji --tagged-by codex-gpt-5.6-sol --inherit-from duduan --leave-null-chapter 蔡中郎集外集卷四` → `annotate.py stats` → 寫 `meta.json.psych_survey`（**110 段留 null 要當負面結果寫進去**）→ `verify.py` → `build-index.py` → 對齊 CLAUDE.md §2.3／MAP.md → commit + push。
+
+    - **碑誄體是連續第二部不立新閘門的書。**用 §2.3「登錄之外」＋ §2.2「純品題語判空」再加一條新界線：**德目排比句判空，除非文本自己把德目拆成行為標準、給出定義、或連到一個後果**。碑文的譜系公式、官歷、喪儀套語、「山岳降靈」型頌辭都是事前點名的詞面陷阱，b01–b05 五批零校準全過。**段落級的操作句是：碑文一段常是「譜系＋官歷＋德目＋喪儀」混在一起，判的是這一段有沒有承重句，不是這一段有幾成是登錄。**
+    - **災異對策要三分，只寫兩側會判反。**預設判空＋`formalization`（逐條災異對策是技術性應詔文書）；**XII 只在文本把意圖給了天**；**XI 在人能改變結果的那一側**。王子喬碑[1] 的認證側判 XII。這是 §2.5 那一格在碑誄／對策體上的第四個版本。
+    - **逐字比對對「重排過的重出」無效，這是這次量到的界線。**《獨斷》被文集收了兩次：一次以本名分章（36 章 154 段，`--exclude-dup-of` 逐字扣得掉），一次併成〈蔡中郎集外集卷四〉一章 110 段（切段粒度與異體字都不同，逐字咬不到）。`make-delegation-input.py` 因此新增 `--exclude-chapter` 按章名整章扣；`apply-delegation.py` 對稱補了 `--inherit-from`（逐字相同段沿用另一部的判讀）與 `--leave-null-chapter`（沿用不了的整章留 null），**兩者都要顯式指定，其餘缺判讀的段落照舊整批拒寫**。
+    - **`--inherit-from` 第一版拿 `annotations.json` 的 `excerpt` 比對，只咬到 154 段裡的 71 段。**`excerpt` 只留 40 字，長段全部漏掉。改成兩書都用 `split_paragraphs` 從 `raw/original.txt` 重算全段文字（與發包時同一來源）後修好。**凡跨書比對段落文字一律回 raw 重算，不要用 annotations 裡的任何摘要欄位。**
+    - **通讀報告的「引號約定」在理由欄失守，SPEC 只能抄逐字引句欄。**`READING.md` 開頭宣告「」內一律逐字、且自稱 129 條引句已回批次檔對拍全過；但〈誤撈風險與理由〉欄的「」實際有三種來源——本段逐字、**他章的對照引句**（《太傅祠前銘》[1] 那列引的「巖巖山岳，配天作輔」其實在 b06 的胡廣黃瓊頌[1]）、以及**作者自己的概括**（「山岳降神生此人」全書不存在）。自檢腳本按段對拍時這兩種都會變成假 FAIL 或假 PASS。**寫 SPEC 只抄逐字引句欄，理由欄的引號一律當提示不當證據。**
+    - **一次跨批改寫事故，並更正 `7a5f39c` commit message 裡我自己的誤述。**b03 的執行改了已驗收 commit 的 `out/b02.json` 一列（`難夏育上言鮮卑仍犯諸郡`[1] V → `[]`），違反發包 prompt 明文禁止。**該 commit message 寫「clobber 偵測沒抓到、真正抓到它的是 git status」——這句是錯的。**偵測器抓到了，也印出了檔名，只是印在該批結束時；git status 只是我更早看到。已 `git checkout` 還原、重跑 check ＋ accept 0 FAIL，該列不是錨點，b02 驗收不受影響。**留下的真問題是時機不是能力**：偵測在批末，跨批改寫在批中，所以成組發包時每批之間要看一次 `git status`。
+    - **B 類數量帶寬第四次猜錯。**判空預估 100–150／207（48–72%），實得 25／101（25%）。同時 A 類體裁陷阱條件五批零 FAIL。**§2.1 的 A／B 分法又添一組證據，處置照舊：記誤差、不鬆判準。**
+    - **配額**：b01–b05 共 5 批跑完後 codex ChatGPT 7D 耗盡，b06–b08 各約 3 秒硬失敗（`You've hit your usage limit … try again at Aug 21st, 2026 2:10 PM`），依規則立即停派不重試。
 
 **其餘各部要不要照中性物件替換判準重判？結論：不重判。** 該測試打的是「出題包裝被當成內容」，那是算書特有的體裁問題；海島算經本來就 0／13。孫子、人物志、潛夫論、鹽鐵論、顏氏家訓是論說或訓誡書，文句直接對人事下判斷，場景本身承重，替換測試咬不到。世說新語是敘事體，該測試根本用不上，改走「刪掉這一則」閘門（見上）。**鹽鐵論 V 佔 88% 這個獨立警訊也已排除**：顏氏家訓在同一套判準下判出 IV 86 > V 47，證明 V 這一格有區辨力，88% 是「60 篇朝廷辯論」這個文本特徵，不是 V 寬到吞掉一切。
 
