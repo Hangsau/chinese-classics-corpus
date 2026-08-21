@@ -1,7 +1,7 @@
 # 標籤索引：13 個人生問題領域
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 生成時間 2026-08-21T09:09:25+00:00｜7926 筆領域標記｜來自 41 部已標註的書
+> 生成時間 2026-08-21T23:04:28+00:00｜7926 筆領域標記｜來自 41 部已標註的書
 
 書級 `domains_hit` 只能告訴你去哪本書找；這裡直接給段落（SCHEMA §1.1）。
 
@@ -26,7 +26,6 @@
 **未標註 31 部**——這些書的領域分佈目前是未知，不是零。上表任何一格的低數字都要先扣掉這批才有意義。
 
 - `jinlouzi` 金樓子（人論，18 章，197,511 bytes）
-- `taixuanjing` 太玄經（儒家著述，93 章，96,508 bytes）
 - `zhonglun` 中論（儒家著述，25 章，73,781 bytes）
 - `lusheng-mobian-zhuxu` 魯勝墨辯注敘（名家，1 章，1,091 bytes）
 - `shuijingzhu` 水經注（地理，137 章，1,131,449 bytes）
@@ -37,6 +36,7 @@
 - `jiaoshi-yilin` 焦氏易林（術數，4 章，18,321 bytes）
 - `jingshi-yizhuan` 京氏易傳（術數，67 章，89,291 bytes）
 - `shanhaijing` 山海經（術數，41 章，143,349 bytes）
+- `taixuanjing` 太玄經（術數，93 章，96,508 bytes）
 - `houheixue` 厚黑學（近代，22 章，36,224 bytes）
 - `mu-tianzi-zhuan` 穆天子傳（雜史，8 章，49,338 bytes）
 - `wuyue-chunqiu` 吳越春秋（雜史，39 章，151,717 bytes）

@@ -1,13 +1,13 @@
 {
   "summary": {
-    "generated_at": "2026-08-21T09:09:25+00:00",
+    "generated_at": "2026-08-21T23:04:28+00:00",
     "text_count": 72,
     "total_bytes": 11304281,
     "by_category": {
-      "儒家著述": 11,
       "雜史": 11,
+      "儒家著述": 10,
+      "術數": 6,
       "兵家": 6,
-      "術數": 5,
       "法家": 5,
       "雜家": 4,
       "小學": 4,
@@ -1609,7 +1609,7 @@
       "slug": "taixuanjing",
       "name_zh": "太玄經",
       "name_en": "Canon of Supreme Mystery",
-      "category": "儒家著述",
+      "category": "術數",
       "text_role": "original",
       "language": "古典漢語",
       "version": "Wikisource 通行本",
