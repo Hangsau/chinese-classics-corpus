@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-08-15T14:37:06+00:00",
+    "generated_at": "2026-08-21T09:09:25+00:00",
     "text_count": 72,
     "total_bytes": 11304281,
     "by_category": {
@@ -28,40 +28,40 @@
       "reference": 4,
       "contested": 2
     },
-    "surveyed_count": 40,
-    "annotated_count": 40,
+    "surveyed_count": 41,
+    "annotated_count": 41,
     "scaffolded_count": 0,
-    "paras_judged": 15966,
-    "paras_pending": 0,
+    "paras_judged": 16327,
+    "paras_pending": 110,
     "domain_hit_counts": {
       "I": 13,
-      "II": 28,
-      "III": 13,
-      "IV": 27,
-      "IX": 19,
-      "V": 36,
-      "VI": 24,
-      "VII": 33,
-      "VIII": 34,
-      "X": 19,
-      "XI": 27,
-      "XII": 20,
-      "XIII": 17
+      "II": 29,
+      "III": 14,
+      "IV": 28,
+      "IX": 20,
+      "V": 37,
+      "VI": 25,
+      "VII": 34,
+      "VIII": 35,
+      "X": 20,
+      "XI": 28,
+      "XII": 21,
+      "XIII": 18
     },
     "domain_para_counts": {
       "I": 43,
-      "II": 531,
-      "III": 100,
-      "IV": 482,
-      "V": 2462,
-      "VI": 527,
-      "VII": 1682,
-      "VIII": 774,
-      "IX": 119,
-      "X": 229,
-      "XI": 374,
-      "XII": 159,
-      "XIII": 111
+      "II": 534,
+      "III": 103,
+      "IV": 507,
+      "V": 2555,
+      "VI": 540,
+      "VII": 1775,
+      "VIII": 809,
+      "IX": 126,
+      "X": 251,
+      "XI": 387,
+      "XII": 175,
+      "XIII": 121
     }
   },
   "texts": [
@@ -79,12 +79,27 @@
       "size_bytes": 255990,
       "chapter_count": 170,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "domains_null": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII"
+      ],
+      "domains_null": [
+        "I"
+      ],
+      "paras_total": 471,
+      "paras_judged": 361,
+      "annotated": true
     },
     {
       "slug": "chuci",

@@ -2,9 +2,9 @@
   "domain": "X",
   "name_zh": "無常·老·死·失去",
   "gist": "老與時間、失去與哀傷、死亡、耐心與等待",
-  "generated_at": "2026-08-15T14:37:06+00:00",
-  "para_count": 229,
-  "book_count": 19,
+  "generated_at": "2026-08-21T09:09:25+00:00",
+  "para_count": 251,
+  "book_count": 20,
   "surveyed_zero_hit": [
     "dengxizi",
     "duduan",
@@ -29,6 +29,355 @@
     "zhongjing"
   ],
   "paras": [
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "西鼎銘",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#04-p01",
+      "modes": [
+        "ritual",
+        "expression"
+      ],
+      "excerpt": "維光和元年冬十二月丁巳，延公入崇德殿前，乃制詔曰：「其以光祿大夫玄為太尉。」公拜",
+      "note": "橋玄七十歲自言「可以生，可以死」，並以「悉心在公，以盡為臣之節」表明面對死生仍盡公共責任與臣節。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "墳前石碑",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#09-p01",
+      "modes": [
+        "narrative",
+        "ritual"
+      ],
+      "excerpt": "維漢二十一世延熹六年，粵四月丁巳，文忠公益州太守朱君名穆字公叔，卒于京師，其五月",
+      "note": "父臨終戒子「無拘于俗」，子「欽率遺意」從簡治墓並立石「用慰其孤罔極之懷」，寫出親子承命、面對死亡與安頓哀思。",
+      "co_domains": [
+        "IV",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "難夏育上言鮮卑仍犯諸郡",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#13-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "自漢興以來，匈奴常為邊害，而未聞鮮卑之事。昔謀臣竭精，武夫戮力，而所見常異，其設",
+      "note": "以武帝窮兵造成「官民俱匱、民不堪命」為前鑑，又預言再戰將使民人流移、不能還其骸骨且弱者伏尸，連結公共決策、民生苦難與死亡後果。",
+      "co_domains": [
+        "V",
+        "IX"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "被收時表",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#15-p01",
+      "modes": [
+        "expression",
+        "narrative"
+      ],
+      "excerpt": "議郎糞土臣邕，頓首再拜上書皇帝陛下。今月十三日，臣被尚書召，問臣以大鴻臚劉郃前為",
+      "note": "作者因密對受逮，指出報復將使「群臣杜口」而無人盡忠；同時直陳「征營怖悸」「誠冤誠痛」，並在「臣死期垂至」時請以己身受戮。",
+      "co_domains": [
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《司空臨晉侯楊公碑》",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#17-p02",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "公素不貴歸非，不樂引美，故雖仿彿，猶不敢載，以順公之雅。初受封，自以功不副賞，前",
+      "note": "受封時自認「功不副賞」而十上辭章，又自問「吾何德以堪諸」；臨終顧命只戒忠儉，寫出自我評價、謙讓操守與面對死亡。",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《劉鎮南碑》",
+      "para_index": 4,
+      "para_id": "cai-zhonglang-ji#22-p04",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "仁者（壽）宜享（胡考）〔鮐耇〕，昊天不弔，年六十有七，建安十三年八月遘疾隕薨。耕",
+      "note": "劉表死後「耕夫罷耜，織女投杼，老幼哀號」，州里眾人又自發備辦送柩資具，具體呈現共同失去與群體報德。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《文範先生陳仲弓銘》",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#34-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "十有八年，大忌蠲除，舉賢良方正，大將軍司徒竝辟。君曰：「七十有懸車之禮，況我過諸",
+      "note": "以「七十有懸車之禮，況我過諸」拒絕徵命，又以「脩行于己，得斯于人」說明操守取得社會尊崇，友生並稱其教化可行于國、法施于民。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《陳太丘碑》（1）",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#35-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "先生諱寔，字仲弓，潁川許人也。含元精之和，膺期運之數。兼資九德，總脩百行。于鄉黨",
+      "note": "「善誘善導」使少長安懷，且「交不諂上，愛不瀆下」；七十後又「樂天知命」退隱、以「飾巾待期」面對晚年，兼寫群體關係、操守與老死自處。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《陳太丘碑》（2）",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#36-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "維中平五年春三月癸未，豫州刺史典，以襃功述德，政之大經，是以作謚封墓，興于《周禮",
+      "note": "陳寔「儉約違時」且面對交至的徵辟「遂不屑就」，元方則在父喪中「毀瘁」而仍「率禮不越于時」，具體寫出操守、親子喪痛與失去。",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "其二",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#46-p01",
+      "modes": [
+        "narrative",
+        "ritual"
+      ],
+      "excerpt": "君諱碩，字季叡，交阯都尉之孫，太傅安樂鄉侯之子也。順帝時為郎中，桓帝時遭叔父憂，",
+      "note": "迎接新守的官屬遇其卒而衰絰號咷、各執送葬之職，末以「三綱之序」「以舊奉新」自勗，寫出共同失去、公共角色與守分責任。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "司徒袁公夫人馬氏碑銘",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#55-p01",
+      "modes": [
+        "observation",
+        "expression"
+      ],
+      "excerpt": "維光和七年，司徒袁公夫人馬氏薨，其十一月葬。哀子懿達、仁達銜恤哀痛，靡所寫褱，乃",
+      "note": "夫人以「營克家道」及教化使童子無驕逸、婦妾無怠惰，具體呈現治家、教養與品格；結尾「几筵虛設……不見其人」「往而不返」則由子女聲口寫出母亡後無所依親的失落。",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "濟北相崔君夫人誄",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#56-p01",
+      "modes": [
+        "observation",
+        "narrative",
+        "ritual"
+      ],
+      "excerpt": "維延熹四年，故濟北相夫人卒。嗚呼哀哉！世喪母儀，宗殞憲師，哀哀孝子，靡所瞻依，凡",
+      "note": "「食不兼膳……以儉為榮，以奢為辱」及教子時「怒不傷愛，喜不亂莊」把母職與節制寫成可辨的行為標準；其後孝子氣絕復蘇、卜葬奠禮與「定省何望」又實寫喪母之痛和不可復見。",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "月令問荅",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#58-p02",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "光和元年，余被于章，罹重罪，徙朔方。內有獫狁敵衝之釁，外有寇虜鋒鏑之艱，危險懍懍",
+      "note": "「死亡無日」「與危殆競」寫死亡迫近；作者仍「晝夜密勿，昧死成之」完成著述以便學者，並以「取其心盡而已」「余死而不朽」安頓危境，三格各有獨立內容。",
+      "co_domains": [
+        "VIII",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "上漢書十志疏",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#60-p01",
+      "modes": [
+        "narrative",
+        "expression",
+        "prescription"
+      ],
+      "excerpt": "朔方髡鉗徙臣邕，稽首再拜上書皇帝陛下。臣邕被受陛下寵異大恩，初由宰府，備數典城，",
+      "note": "作者痛惜「二十年之思，中道廢絕」，在「懸命鋒鏑」「抱恨黃泉」的死亡威脅下仍條列十志並請「下東觀」補綴；以完成史業使自己即使受死也「無所復恨」，工作、死亡與危境自處三層不可互相替代。",
+      "co_domains": [
+        "VIII",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "飲馬長城窟行",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#63-p01",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "青青河邊草，綿綿思遠道。遠道不可思，宿昔夢見之。夢見在我旁，忽覺在他鄉。他鄉各異",
+      "note": "遠人只能入夢且醒後仍在他鄉，「展轉不相見」寫分離與等待；收信者長跪讀到「加餐食」「長相憶」，同時承載親密牽掛與綿延思念的內在感受。",
+      "co_domains": [
+        "III",
+        "VI"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "釋誨",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#66-p01",
+      "modes": [
+        "proposition",
+        "prescription",
+        "expression"
+      ],
+      "excerpt": "閒居翫古，不交當世。感東方《客難》，及揚雄、班固、崔駰之徒。設疑以自通，乃斟酌群",
+      "note": "以「貪夫徇財，夸者死權」和守道不傾界定取捨品格；「時逝歲暮」「百歲之後」正面承認時間與死亡；又提出「樂天知命，持神任己」「靜以俟命」，並以「神氣寧」「嗜欲息」寫安頓之道。",
+      "co_domains": [
+        "VII",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《太傅安樂鄉侯胡公夫人靈表》",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#72-p01",
+      "modes": [
+        "observation",
+        "expression"
+      ],
+      "excerpt": "夫人編縣舊族章氏之長女也，字曰顯章。令儀小心，秉操塞淵，仁孝婉順，率禮無遺。體季",
+      "note": "既寫「仰奉慈姑」「俯誨膝下」的家內承擔，也明言接連喪子使夫人哀悼成疾，末段細寫病勢、死亡與女兒追慕。",
+      "co_domains": [
+        "IV",
+        "IX"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《議郎胡公夫人哀讚》",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#73-p01",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "議郎夫人趙氏，字曰永姜。允有令德，秉心塞淵，舒詳閒雅，儀節孔備。女師四典，窈窕德",
+      "note": "母親教養幼孤並強起勸子赴任，兒子卻因王職不能侍疾送終；「知我如此，不如無生」「孤心摧割」直寫喪親與內在崩痛。",
+      "co_domains": [
+        "IV",
+        "VI"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《議郎胡公夫人哀讚》",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#73-p02",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "愍予小子，夙離凶艱。嚴考隕歿，我在齠年。母氏鞠育，載矜載憐。殷斯勤斯，慈愛備存。",
+      "note": "說話者追述母親「範我軌度、昭示好惡」，又自陳未能臨終含飯的遺憾及「孤情怛兮增哀」，核心是教養、喪失與哀痛。",
+      "co_domains": [
+        "IV",
+        "VI"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "弔屈原文",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#101-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "鸋鴂軒翥，鸞鳳挫翮。啄碎琬琰，寶其瓴甋。皇車犇而失轄，執轡忽而不顧。卒壞覆而不振",
+      "note": "以駕車者失職導致皇車傾覆譬喻政治敗壞，末問「袌石其何補」，直接評估以死亡回應亂世是否有益。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "九惟文",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#102-p01",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "八惟困乏，憂心殷殷。天之生我，星宿值貧。六極之戹，獨遭斯勤。居處浮𣿖，無以自存。",
+      "note": "作者把貧困歸于「星宿值貧」，並以無衣禦寒、無絺蔽暑、無食果腹具體自陳身體匱乏與「無以自存」的生存威脅。",
+      "co_domains": [
+        "IX",
+        "XI"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "與人書（2）",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#132-p01",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "邕薄祜早喪二親，年踰三十，鬢髮二色。叔父親之，猶若幼童。陸則對坐，食則比豆。",
+      "note": "作者自述「早喪二親」與年過三十而髮色已變的失親、年歲處境；「叔父親之，猶若幼童」又寫叔父以親密照料承接失去父母後的家庭支持。",
+      "co_domains": [
+        "IV",
+        "XIII"
+      ]
+    },
     {
       "slug": "dongmingji",
       "chapter": "卷第三",

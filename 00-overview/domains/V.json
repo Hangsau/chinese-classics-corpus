@@ -2,9 +2,9 @@
   "domain": "V",
   "name_zh": "群體·社會·公義",
   "gist": "孤獨與歸屬、友誼、我群他群與偏見、公義與權力、責任與領導",
-  "generated_at": "2026-08-15T14:37:06+00:00",
-  "para_count": 2462,
-  "book_count": 36,
+  "generated_at": "2026-08-21T09:09:25+00:00",
+  "para_count": 2555,
+  "book_count": 37,
   "surveyed_zero_hit": [
     "haidao-suanjing",
     "jinkui-yaolue",
@@ -12,6 +12,1426 @@
     "nanjing"
   ],
   "paras": [
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "故太尉橋公廟碑",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#01-p01",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "光光列考，伊漢元公，克明克哲，實叡實聰，如淵之浚，如嶽之嵩。威壯虓虎，文繁雕龍，",
+      "note": "「撫柔疆垂，戎狄率從」並連到「黎民時雍、八方和同」，寫出施政使群體安定的結果。",
+      "co_domains": []
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "故太尉橋公廟碑",
+      "para_index": 3,
+      "para_id": "cai-zhonglang-ji#01-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "橋氏之先，出自黃帝。帝葬于橋山，子孫之在不十二姓者，咸以為氏。漢興，以禮樂為業。",
+      "note": "橋玄面對貴戚之託「不為之動」，又以「若先請，民已死」開倉救荒，具體呈現不阿權勢與以民命為先。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "故太尉橋公廟碑",
+      "para_index": 4,
+      "para_id": "cai-zhonglang-ji#01-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "遷齊相，視民如保赤子，討惡如赴水火。刑明賞遂，民知勸懼。臨淄令賂之贓多，遂正其罪",
+      "note": "以「視民如保赤子，討惡如赴水火」總括執政取向，並敘其懲治貪吏、反對蓋升升遷的實際作為。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "故太尉橋公廟碑",
+      "para_index": 5,
+      "para_id": "cai-zhonglang-ji#01-p05",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "凡所獲祿，皆公府〔所〕特表送，臨難受位，自九列之後，乃以丕貤，公紀綱張弛，勇決不",
+      "note": "「曾無順媚一言之求」寫其不替子孫徇私，「弟卒，推與其孤」寫照顧親族，兩事共同落實其「清儉仁與」。",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "東鼎銘",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#02-p01",
+      "modes": [
+        "ritual",
+        "observation"
+      ],
+      "excerpt": "維建寧三年秋八月丁丑，延公于玉堂前廷，乃詔曰：「其以大鴻臚橋玄為司空。」再拜稽首",
+      "note": "「鑒于法，罔敢不法」把守法寫成行事準則，且以「保乂帝家、民咸曰休」交代其領導後果。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "中鼎銘",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#03-p01",
+      "modes": [
+        "ritual",
+        "prescription"
+      ],
+      "excerpt": "維建寧四年三月丁丑，延公登于玉堂前廷，乃制詔曰：「其以司空橋玄為司徒。」公拜稽首",
+      "note": "詔辭要求「同寅協恭」及「德則昭之，違則塞之」，又以「枉乃不敢不匡」界定輔政者的公責與操守。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "西鼎銘",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#04-p01",
+      "modes": [
+        "ritual",
+        "expression"
+      ],
+      "excerpt": "維光和元年冬十二月丁巳，延公入崇德殿前，乃制詔曰：「其以光祿大夫玄為太尉。」公拜",
+      "note": "橋玄七十歲自言「可以生，可以死」，並以「悉心在公，以盡為臣之節」表明面對死生仍盡公共責任與臣節。",
+      "co_domains": [
+        "VII",
+        "X"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "黃鉞銘",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#05-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孝桓之季年，鮮卑入塞鈔，盜起匈奴左部，梁州叛羌逼迫兵誅，淫衍東夷。高句驪嗣子伯固",
+      "note": "見吏士「勤于奔命，人馬疲羸」便請停橫發之役，文本隨即列出人馬休養、軍備與財用恢復的效果。",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "太尉橋公碑",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#06-p01",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "公諱玄，字公祖，梁國睢陽人也。大鴻臚之曾孫，廣川相之孫，東萊太守之元子也。膺受純",
+      "note": "「臨大節而不可奪」及「直道而往，用免其任」把不屈的品格連到任官時堅持正道而失職的後果。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "太尉橋公碑",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#06-p02",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "公性質直，不憚彊禦。在憲臺則有盡規之忠，領州郡則有虎胗之威。其拔賢如旋流，討惡如",
+      "note": "「拔賢如旋流，討惡如霆擊」具體說明其用人與除惡，並以「至德在己，揚之由人」提出德行須由人彰述的原理。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "朱公叔謚議",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#07-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "漢益州刺史南陽朱公叔卒，門人陳季珪等議所謚，云宜曰忠文子，陳留蔡邕議曰：昔在聖人",
+      "note": "文本明定「忠也者，人德之至」，再分成奉上、謀誨、撫下三義，並以勸善、利人與察情作為公共德行的判準。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "朱公叔謚議",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#07-p02",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "位在牧伯，職據納言，秉權食祿，實有年數，而居無畜好。財貨不益，舊糲食布衾，概謂之",
+      "note": "以「無私積」界定忠儉、「危身利民」界定公共擔當、「勤學好問」界定學業品格，據此論證忠文之謚。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "鼎銘",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#08-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "忠文朱公名穆，字公叔，有殷之冑。微子啟以帝乙元子，周武王封諸宋，以奉成湯之祀。至",
+      "note": "「尋綜六藝」以啟惑覺疑寫其學業成就，「矯枉董直、罔肯阿順」及封植貞良、芟夷殘戾則寫其公職操守與治理。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "幽冀二州刺史久缺疏",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#12-p01",
+      "modes": [
+        "expression",
+        "prescription"
+      ],
+      "excerpt": "臣聞國家置官，以職建名。臣愚賤小才，竊假階級，官以議為名，職以郎為貴。智淺謀漏，",
+      "note": "面對饉荒、士馬死傷與百姓「流離溝壑」，作者反對任官受三互拘限，主張「越境取能，以救時弊」，兼及民困、人才任用與公共決策。",
+      "co_domains": [
+        "VIII",
+        "IX"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "難夏育上言鮮卑仍犯諸郡",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#13-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "熹平六年秋，護烏桓校尉育上言，鮮卑仍犯諸郡，自春已來，三十餘發，請徵幽州諸郡兵出",
+      "note": "以「時有同異，勢有可否」推出「謀有成敗，不可一也」，主張出兵決策須依不同時勢判斷成敗。",
+      "co_domains": []
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "難夏育上言鮮卑仍犯諸郡",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#13-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "自漢興以來，匈奴常為邊害，而未聞鮮卑之事。昔謀臣竭精，武夫戮力，而所見常異，其設",
+      "note": "以武帝窮兵造成「官民俱匱、民不堪命」為前鑑，又預言再戰將使民人流移、不能還其骸骨且弱者伏尸，連結公共決策、民生苦難與死亡後果。",
+      "co_domains": [
+        "IX",
+        "X"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "難夏育上言鮮卑仍犯諸郡",
+      "para_index": 3,
+      "para_id": "cai-zhonglang-ji#13-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "育曰：「自春以來三十餘發，方今郡縣盜賊，劫摽人財，攻犯官民，日月有之。冠帶之圻，",
+      "note": "以「憂萬人饑餓」與不討蠻夷比較輕重，主張「卹民救急」，並具體請止攻伐、改守塞垣，關切領導抉擇及饑困中的百姓。",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "荅詔問災異",
+      "para_index": 10,
+      "para_id": "cai-zhonglang-ji#14-p10",
+      "modes": [
+        "expression",
+        "prescription"
+      ],
+      "excerpt": "又特詔問：「朝廷焦心，聞災恐懼，每訪群公卿士，皆各括囊迷國，莫肯建忠規闕。以邕博",
+      "note": "稱「天于大漢，殷勤不已」而以妖變責讓，又明說「因以感覺，則危可為安，凶可作吉」；後文要求任忠直、黜貪濁與慎選孝廉，把轉變落在君主的用人和領導。",
+      "co_domains": [
+        "XI",
+        "XII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "被收時表",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#15-p01",
+      "modes": [
+        "expression",
+        "narrative"
+      ],
+      "excerpt": "議郎糞土臣邕，頓首再拜上書皇帝陛下。今月十三日，臣被尚書召，問臣以大鴻臚劉郃前為",
+      "note": "作者因密對受逮，指出報復將使「群臣杜口」而無人盡忠；同時直陳「征營怖悸」「誠冤誠痛」，並在「臣死期垂至」時請以己身受戮。",
+      "co_domains": [
+        "VI",
+        "X"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《太尉楊公碑》",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#16-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "公諱秉，字叔節，弘農華陰人。其先蓋周武王之穆，晉唐叔之后也。末葉以支子，食邑于楊",
+      "note": "楊秉以經術誨授三千餘學者，任政時「沙汰虛穴、料𥳑貞實」並黜饕戾、列英才，又以「廚無宿肉，器不雕鏤」落實清儉操守。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《司空臨晉侯楊公碑》",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#17-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "皇帝遣中謁者陳遂、侍御史馬助持節送柩。陳遵、桓典、蘭臺令史十人，將羽林騎，鉦車介",
+      "note": "寫其家貧仍「手執勤役、遠涉道里以修經術」，入仕後恭遜固慎，且以忠言嘉謀匡輔而不宣其功，分別呈現求學、品格與臣職責任。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《漢太尉楊公碑》",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#18-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "公諱賜，字伯獻，弘農華陰人。姬姓之國有楊侯者，公其後也。其在漢室，赤泉（侯）（佐",
+      "note": "楊賜「文以典籍，尋道入奧」並在禁中授《尚書》，多次辭命退居而守清行，所辟選者又「莫非瓌才逸秀」，兼寫學業、操守與公共用人。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《文烈侯楊公碑》",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#19-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "公諱賜，字伯獻。兼通五典，周覽篇籍，以為《尚書》帝王之政要、有國之大本也。是以三",
+      "note": "「授誨童冠」使後生得以「發祛蒙蔽、文其材素」，入宮後又善誘帝王，而「處豐益約，九命滋恭」寫出位愈高而愈謙恭的操守。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《文烈侯楊公碑》",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#19-p02",
+      "modes": [
+        "ritual",
+        "proposition"
+      ],
+      "excerpt": "乃申頌曰：巍巍聖猷，匪師不昭，小子困蒙，匪師不教，於皇文父，邈哉伊超。如玉之固，",
+      "note": "以「匪師不教」申明教師之用，並由「誨茲一人」推至「萬邦作順」，把傳道職分連到公共治理的後果。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《司空文烈侯楊公碑》",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#20-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "曰：漢有國師司空文烈侯楊公，公惟司徒之孫，太尉公之胤子。皇祖考以懿德，胥及聿勤，",
+      "note": "「惟刑之恤」而使斷獄合憲，寫其司法責任；「敬敷五教」又明列「父義、母慈、兄友、弟恭、子孝」，把家內角色及德行規範說出具體內容。",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《司空文烈侯楊公碑》",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#20-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "帝欲宣力于四方，公則翼之。辟道或回，公則弼之。虔恭夙夜，不敢荒寧，用對揚天子，丕",
+      "note": "帝王施政有偏時「公則弼之」，且「虔恭夙夜，不敢荒寧」，以實際輔弼職責落實勤謹之德。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《司空文烈侯楊公碑》",
+      "para_index": 3,
+      "para_id": "cai-zhonglang-ji#20-p03",
+      "modes": [
+        "ritual",
+        "observation"
+      ],
+      "excerpt": "銘曰：天鑒有漢，誕生元輔，世作三事，勛在王府，乃及伊公，克光前矩，悉心畢力，胤其",
+      "note": "頌辭不只列美號，還說其「悉心畢力」遂使「化洽群心，澤漫綿宇」，將盡責操守連到群體受益。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《琅邪王傅蔡君碑》",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#21-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "君諱朗，字仲明，蓋倉頡之精胤，姬稷之末冑也。昔叔度文王之昭，建侯于蔡，以國氏焉。",
+      "note": "蔡朗以《魯詩》教授而使生徒遠至，選士時「抑頑錯枉，進聖擢偉」，任王傅又用經術與規誨使「其國用靖」，兼具學業、操守與公共任用的實效。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《琅邪王傅蔡君碑》",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#21-p02",
+      "modes": [
+        "ritual",
+        "observation"
+      ],
+      "excerpt": "銘曰：天敏明哲，於赫我君，含弘光大，玄覽孔真，潛樂教思，韞玉衡門，雲龍感應，養徒",
+      "note": "「養徒三千」與「定此典文」記其教學及整理典籍的成就，「俾相二蕃」則把所學用于輔導藩國。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《劉鎮南碑》",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#22-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "君諱表，字景升，山陽高平人也。君膺期誕生，瑰瑋大度，黃中通理，博物多識，為郡功曹",
+      "note": "亂世中「招命英俊、選才任良」，又「布愷悌，流惠和」，結果是四境保全、民安穀豐且百工技藝「利民無窮」，具體寫出用人、品行與治理成效。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《劉鎮南碑》",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#22-p02",
+      "modes": [
+        "formalization",
+        "observation"
+      ],
+      "excerpt": "于時諸州，或失土流播，或水潦沒害。人民死喪，百遺二三，而君保完萬里，至于滄海，聖",
+      "note": "交州長吏有缺時由他「權為選置，以安荒裔」，又「輒別上聞」，寫出在中央道路未通時兼顧安民與呈報的領導作法。",
+      "co_domains": []
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《劉鎮南碑》",
+      "para_index": 3,
+      "para_id": "cai-zhonglang-ji#22-p03",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "武功既亢，廣開廱泮，設俎豆，陳罍彝，親行鄉射，躋彼公堂。篤志好學，吏民子弟，受學",
+      "note": "廣設學校、召集儒生並刪除五經浮辭，使學者「用力少」而「探微知機者多」；待文武屬吏禮厚辭雅，自己又「不伐其善，不有其庸」。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《劉鎮南碑》",
+      "para_index": 4,
+      "para_id": "cai-zhonglang-ji#22-p04",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "仁者（壽）宜享（胡考）〔鮐耇〕，昊天不弔，年六十有七，建安十三年八月遘疾隕薨。耕",
+      "note": "劉表死後「耕夫罷耜，織女投杼，老幼哀號」，州里眾人又自發備辦送柩資具，具體呈現共同失去與群體報德。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《劉鎮南碑》",
+      "para_index": 5,
+      "para_id": "cai-zhonglang-ji#22-p05",
+      "modes": [
+        "ritual",
+        "observation"
+      ],
+      "excerpt": "乃作頌曰：猗歟將軍，膺期挺（生）〔真〕。桓桓其武，溫溫其仁，初翰千里，允顯使臣，",
+      "note": "「溫溫其仁」不是孤立頌字，後文以「將軍之來，民安物豐」及「刑清國興」交代仁德施政的公共結果。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "薦太尉董卓表",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#23-p01",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "臣某等聞周有流彘之亂，而宣王以興；漢有昌邑之難，而中宗以昭。由此觀之，天生神聖特",
+      "note": "在列舉赴難、平亂及「辭多受少」等功績後，明請陛下「益隆委任、數加訪問、厚其爵賞，責以相業之成」，以所成之功作為任用與獎賞依據。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "宗廟迭毀議",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#28-p01",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "左中郎將臣邕議，以為漢承亡秦滅學之後，宗廟之制，不用周禮，每帝即位，輒立一廟，不",
+      "note": "先稱古臣「不敢私其君父」，再批評嗣帝「各欲襃崇至親」而臣下懦弱、不能執直，明說家親偏私與臣德會使公共廟制失去限度。",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "再讓高陽侯印綬符策表",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#32-p01",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "臣忝自參省，資非哲人藩屏之用，器非殿邦佐君之才，憂心灼烜，耳目昏冒，忪蒙蔽罔，累",
+      "note": "以「以德受命，功德靡堪，讓所不如」界定受任與辭讓的準則，又稱范正守禮讓而「其下化之」，把公位分配連到品格及示範後果。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《郭有道林宗碑》",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#33-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "先生諱泰，字林宗，太原界休人也。其先出自有周，王季之穆有虢叔者，實有懿德，文王咨",
+      "note": "郭泰「砥節礪行，直道正辭」，考覽六籍並周流求學，後來「收朋勤誨」使童蒙祛蔽；對州郡群公的辟舉又皆以疾辭，具體呈現操守、學業與公共進退。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《文範先生陳仲弓銘》",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#34-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "君諱寔，字仲弓，潁川許人也。其先出自有虞氏。中葉當周之盛德有媯滿者，武王配以太姬",
+      "note": "「仁愛溫柔」等四德逐項連到孕育、包覆、威暴矯邪，並以「戾狠斯和，爭訟化讓」和「未若先生潛導之速」比較教化與刑戮的效果。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《文範先生陳仲弓銘》",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#34-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "十有八年，大忌蠲除，舉賢良方正，大將軍司徒竝辟。君曰：「七十有懸車之禮，況我過諸",
+      "note": "以「七十有懸車之禮，況我過諸」拒絕徵命，又以「脩行于己，得斯于人」說明操守取得社會尊崇，友生並稱其教化可行于國、法施于民。",
+      "co_domains": [
+        "VII",
+        "X"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《文範先生陳仲弓銘》",
+      "para_index": 3,
+      "para_id": "cai-zhonglang-ji#34-p03",
+      "modes": [
+        "ritual",
+        "proposition"
+      ],
+      "excerpt": "昔者先生甚樂茲土，築室講誨，精靈所寧，紀順奉雅意，遂定兆域，宜有銘勒表墳墓。俾後",
+      "note": "「築室講誨」與「示世作教，民胥效矣」把教學連到公共示範；「道行斯進，廢乃斯止」及「舍榮取辱，涅而不緇」則說出進退操守。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《陳太丘碑》（1）",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#35-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "先生諱寔，字仲弓，潁川許人也。含元精之和，膺期運之數。兼資九德，總脩百行。于鄉黨",
+      "note": "「善誘善導」使少長安懷，且「交不諂上，愛不瀆下」；七十後又「樂天知命」退隱、以「飾巾待期」面對晚年，兼寫群體關係、操守與老死自處。",
+      "co_domains": [
+        "VII",
+        "X"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《汝南周巨勝碑》",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#37-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "君諱勰，字巨勝，陳留太守之孫，光祿勳之子也。君應坤乾之淳靈，繼命世之期運。玄懿清",
+      "note": "周勰總括六經並在衡門講誨，面對梁冀三辟仍「卒不降身」，終至「強禦不能奪其守，王爵不能滑其慮」，兼具學業、權勢取捨與操守。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《彭城姜伯淮碑》",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#38-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "先生諱肱，字伯淮，彭城廣戚人也。其先出自帝胤，在皇唐蓋與四岳共葉，百夷能禮于神。",
+      "note": "「恩及嬰兒」使邑中化而外戶不閉，研習典籍、占候後又誨授千餘人；屢受徵聘仍「不隕穫于貧賤，不充詘于富貴」，寫出教學、群體影響與操守。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《貞節先生陳留范史雲碑》",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#39-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "先生諱丹，字史雲，陳留外黃人，陶唐氏之後也。其在周室，有士會者為晉大夫，以受范邑",
+      "note": "任官時「過則弼之，闕則補之」且舉善黜惡，從縣吏、治經到鬻卦謀生仍以「仕不為祿，故不牽于位」界定公職、工作與操守。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "太尉汝南李公碑",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#43-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "公諱咸，字元卓，汝南西平人。蓋秦將李信之後，孝武大將軍廣之冑也。枝流葉布，家于茲",
+      "note": "李咸敦習詩書、禮樂與天文地理，任官則「勤恤民隱」、和戎綏邊，並以「汰垢濁以揚清」落實清直，兼寫學業、公責與操守。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "太尉汝南李公碑",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#43-p02",
+      "modes": [
+        "ritual",
+        "observation"
+      ],
+      "excerpt": "詞曰：「天垂三台，地建五岳。降生我哲，應鼎之足。奕世載德，名昭圖錄。既文且武，桓",
+      "note": "銘辭雖多列文武與官位，仍以「惟清惟敏，品物以熙」把清敏的操守連到群體安治的結果。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "其一",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#45-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "君諱碩，字季叡，交阯都尉之孫，太傅安樂侯之子也。其先與楚同姓，別封于胡，以國為氏",
+      "note": "胡碩對雙親「養色甯意」，平日忠儉順恕而驕吝不萌，任議郎又「納忠盡規，匪懈于位」，分別寫出親子奉養、公共職責與品格。",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "其一",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#45-p02",
+      "modes": [
+        "ritual",
+        "observation"
+      ],
+      "excerpt": "猗歟懿德，令聞有彰。祗服其訓，克構克堂。孝思維則，文藝丕光。敦厚忠恕，眾悅其良。",
+      "note": "銘文以「綏弱以仁，不云我彊」具體說明待弱者的方式，並用「眾悅其良」和「進退以方」交代群體後果與進退操守。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "其二",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#46-p01",
+      "modes": [
+        "narrative",
+        "ritual"
+      ],
+      "excerpt": "君諱碩，字季叡，交阯都尉之孫，太傅安樂鄉侯之子也。順帝時為郎中，桓帝時遭叔父憂，",
+      "note": "迎接新守的官屬遇其卒而衰絰號咷、各執送葬之職，末以「三綱之序」「以舊奉新」自勗，寫出共同失去、公共角色與守分責任。",
+      "co_domains": [
+        "VII",
+        "X"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "和熹鄧后謚議",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#47-p01",
+      "modes": [
+        "observation",
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "孝和鄧皇后崩，群臣謀謚，于是尚書陳忠上言，以為鄉黨敘孔子威儀，俯仰無所遺，彤管記",
+      "note": "以「刑之所加，不阿近戚；賞之所及，不遺側陋」及「徒以百姓為憂」具體說明公平、克己的治國品格，並以「德著圖籍，名垂于後」說明謚名保存功德的作用，最後主張謚為和熹。",
+      "co_domains": [
+        "VII",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "薦皇甫規表",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#49-p01",
+      "modes": [
+        "narrative",
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "臣聞唐虞以師師咸熙，周文以濟濟為寧；區區之楚，猶用賢臣為寶；衛多君子，季札知其不",
+      "note": "先斷言「忠臣賢士，國家之元龜，社稷之楨固」，再以皇甫規辭召不污、平亂後「綏撫煢弱」及治邊養士的實績證明其德才，據此提出「誠宜試用」的任用主張。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "薦邊文禮書",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#50-p01",
+      "modes": [
+        "observation",
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "明將軍以申甫之德，當中興之隆，建上將之任，應秉國之權。妖寇作孼，震驚京師，運籌帷",
+      "note": "邊讓被寫成能「見本知義」、通經善辯且「節之以禮度，非禮勿動，非法不言」的人；文中以大器不可小用及才不應受年齒拘限為理，請將其薦入王府任事。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "京兆樊惠渠頌",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#51-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "《洪範》「八政」，一曰食。《周禮》「九職」，一曰農。有生之本，于是乎出；貨殖財用",
+      "note": "本段不只記地勢，還提出明哲者應「因高卑之宜，驅自行之勢，以盡水利而富國饒人」，把公共工程的能力與改善民生、承擔地方治理相連。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "京兆樊惠渠頌",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#51-p02",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "光和五年，京兆尹樊君諱陵，字得雲，勤恤人隱，悉心政事，苟有可以惠斯人者，無聞而不",
+      "note": "樊陵因「勤恤人隱」而諮吏籌資、主持築渠，使鹵田成甘壤、農民富盈，具體連起愛民品格、公共領導與工程成就；末歌以「我壤既營，我疆斯成」抒發農民的喜悅與感謝。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "述行賦",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#61-p01",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "延熹二年秋[1]，霖雨逾月。是時梁冀新誅，而徐璜左悺等五侯擅貴于其處。又起顯明苑",
+      "note": "「人徒凍餓」而五侯擅貴、李雲因直言而死、陳君救援反遭抵罪，寫出權力傷害；作者明言「心憤此事」而作賦，另有直接的情緒內容。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "述行賦",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#61-p02",
+      "modes": [
+        "narrative",
+        "expression",
+        "proposition"
+      ],
+      "excerpt": "余有行于京洛兮，遘淫雨之經時。塗屯邅其蹇連兮，潦污滯而為災。乘馬蟠而不進兮，心鬱",
+      "note": "「民露處而寢溼」「下糠粃而無粒」與忠諫受逼寫公義失序；「心鬱伊而憤思」「憂心之殷殷」寫內在感受；末以「甘衡門以寧神」「復邦族以自綏」說明如何退出不可匡正的局勢而安頓自己。",
+      "co_domains": [
+        "VI",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "短人賦",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#62-p01",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "侏儒短人，僬僥之後。自外域，戎狄別種，去俗歸義，慕化企踵，遂在中國，形貌有部，名",
+      "note": "形貌鋪陳本身不承重，但「矇昧嗜酒」「罵詈恣口」把惡行歸給一類人，又以「眾人患忌，難與竝侶」寫群體排斥，分別觸及品格判斷與群體關係。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《太傅安樂鄉文恭侯胡公碑》",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#67-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "公諱廣，字伯始，交阯都尉之元子也。公應天淑靈，履性貞固，九德咸修，百行必備。遭家",
+      "note": "「上奉繼親，下慈弱弟」寫出家內實踐；「寬裕足以容眾」至「故禁不用刑，勸不用賞」又把品格連到治民效果。",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《胡公碑》（1）",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#68-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "公諱廣，字伯始，南郡華容人也。其先自媯姓建國南土曰胡子，《春秋》書焉，列于諸侯，",
+      "note": "「朝夕定省，不違子道」具體寫孝行；施政使「君子勤禮，小人知恥」，並以「至孝，德本也」「體和履忠，行極也」界定德行。",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《胡公碑》（2）",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#69-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "維漢二十有一世，建寧五年春三月，既生魄八日壬戌，太傅安樂鄉侯胡公薨。越若來四月辛",
+      "note": "「柔而不犯，威而不猛」等對舉界定中和品格；又說他「導人以德，帥物以己」，使士民相勉而刑具不用。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "伯夷叔齊碑",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#74-p01",
+      "modes": [
+        "narrative",
+        "ritual"
+      ],
+      "excerpt": "熹平五年，天下大旱，禱請名山，求獲荅應。時處士平陽蘇騰，字玄成，夢陟首陽，有神馬",
+      "note": "旱中登山祈雨而「天尋興雲，即降甘雨」，明寫祭禱得應；銘中又以捐爵、諫亡與譏伐紂呈現忠義及政治勸諫。",
+      "co_domains": [
+        "VII",
+        "XII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "司空房楨碑",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#75-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "公言非法度，不出于口；行非至公，不萌于心。治身則伯夷之潔也，儉嗇則季文之約也。盡",
+      "note": "「行非至公，不萌于心」以下把公正落到不樹私恩、面對強禦不避，並以「是以功隆名顯」連出公共後果。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "司空房楨碑",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#75-p02",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "明明在公，寔惟皇后。誕應正德，式作漢輔。邪慝是仇，直亮是與。剛則不吐，柔則不茹。",
+      "note": "「邪慝是仇，直亮是與」說明所支持與反對者，「剛則不吐，柔則不茹」寫不畏強、不凌弱，並連到安定邦國。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "荊州刺史庾侯碑",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#76-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "君資天地之正氣，含太極之純精。明潔鮮于白珪，貞操厲乎寒松，視鑒出于自然，英風發乎",
+      "note": "本段分寫「事親以孝」「結交以信」，又說刺史以沖靜仁義待民，因而「撫亂以治，綏擾以靜」，涵蓋親屬、交往與德性治理。",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "司空袁逢碑",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#77-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "凡所臨君，明而先覺，故能教不肅而化成，政不嚴而事治。其惠和也晏晏然，其博大也洋洋",
+      "note": "「明而先覺，故能教不肅而化成，政不嚴而事治」直接主張領導者的明察與寬和能形成教化及治績。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "真定直父碑",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#79-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "其接友也，審辨真偽。明于知人，度終始而後交，情不疏而貌親。",
+      "note": "交友時先「審辨真偽」，看清其人並「度終始而後交」，從自他真實、朋友關係與審慎品格說明擇友方法及後果。",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "京兆尹樊德雲銘",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#82-p01",
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "excerpt": "於顯哲尹，誕德孔彰。膺帝休命，謂篤不忘。爰納忠式，規悟聖皇。欽崇園邑，大孝允光。",
+      "note": "「納忠式，規悟聖皇」寫忠諫行動，且其任事使「徭役永息、道路孔夷、兆氓蒙福」，以德行連到民眾處境。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "陳留太守行小黃縣頌",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#86-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "大顥為政，建時春陽。我君勤止，戾茲小黃。濟濟群吏，攝齊升堂，乃訓乃厲，示之憲方。",
+      "note": "「原罪以心，察獄以情」提出審刑準則，又以務求輕、放死從生帶出「黔首用寧」的公義與治理結果。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "考城縣頌",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#87-p01",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "瞹瞹玄路，北至考城。勸茲穡民，東作是營。農桑之業，為國之經。我君勤心，德音邈成。",
+      "note": "太守勸民耕桑，並「申戒群僚，務在寬平」，使罪人獲宥、囹圄清空，寫出官民責任及寬平用刑。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "太尉陳公贊",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#90-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "公在百里，有西產之惠，賜命方伯，分陝餘慶。餘慶伊何，兆民其觀。少者是懷，老者是安",
+      "note": "任地方官時令「少者是懷，老者是安」，督京又使京輦清平，將惠民品格和各級公共治理效果逐項相連。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "廣連珠",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#97-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "道為知者設，馬為御者良，賢為聖者用，辨為知者通。",
+      "note": "以御者使馬成良作比，主張賢才須遇能識用的聖者才得施展，涉及人才任用及才能能否發揮。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "弔屈原文",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#101-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "鸋鴂軒翥，鸞鳳挫翮。啄碎琬琰，寶其瓴甋。皇車犇而失轄，執轡忽而不顧。卒壞覆而不振",
+      "note": "以駕車者失職導致皇車傾覆譬喻政治敗壞，末問「袌石其何補」，直接評估以死亡回應亂世是否有益。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "青衣賦",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#107-p01",
+      "modes": [
+        "observation",
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "金生砂礫，珠出蚌泥。歎茲窈窕，產于卑微。盼倩淑麗，皓齒蛾眉。玄髮光潤，領如螬蠐。",
+      "note": "「精慧小心」「《關雎》之潔」寫其才德，「宜作夫人，為眾女師」判定其婚姻與表率資格，「伊何爾命，在此賤微」則明指出才德與身分的落差。",
+      "co_domains": [
+        "III",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "陳政要七事疏",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#123-p01",
+      "modes": [
+        "formalization",
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "臣伏讀聖旨，雖周成遇風，訊諸執事，宣王遭旱，密勿祗畏，無以或加。臣聞天降災異，緣",
+      "note": "「故皇天不悅，顯此諸異」明把天寫成會因政事而不悅、示異；又以「刑誅繁多」「貪利傷民」批評政失，並勸「博覽眾議，從其安者」。",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "陳政要七事疏",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#123-p02",
+      "modes": [
+        "ritual",
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "一事：明堂月令，天子以四立及季夏之節迎五帝于郊，所以導致神氣。祈福豐年，清廟祭祀",
+      "note": "本段逐項辨「迎五帝于郊」、齋戒與宮中有喪時是否廢祭，最後規定「自今齋制，宜如故典」，是在提出國家祀典的制度處置。",
+      "co_domains": []
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "陳政要七事疏",
+      "para_index": 3,
+      "para_id": "cai-zhonglang-ji#123-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "二事：臣聞國之將興，至言數聞。內知己政，外見民情。是故先帝雖有聖明之資，而猶廣求",
+      "note": "「內知己政，外見民情」說納諫的治理作用，又主張「重賢良方正、敦樸有道之選」，使「袌忠之臣展其狂直」，同時涉及選才、忠直品格與公共政事。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "陳政要七事疏",
+      "para_index": 4,
+      "para_id": "cai-zhonglang-ji#123-p04",
+      "modes": [
+        "narrative",
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "三事：夫求賢之道未必一塗，或以德顯，或以言揚。頃者立朝之士，曾不以忠信見賞，恆被",
+      "note": "「求賢之道未必一塗，或以德顯，或以言揚」界定選才路徑；張文因「獨盡狂言」被接納的事例，又導向「宜擢文右職，以勸忠謇」的任用建議。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "陳政要七事疏",
+      "para_index": 5,
+      "para_id": "cai-zhonglang-ji#123-p05",
+      "modes": [
+        "observation",
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "四事：夫司隸校尉、諸州刺史所以督察姦枉、分別白黑者也，伏見幽州刺史楊憙、益州刺史",
+      "note": "段中比較奉公糾姦與「營私」失職，並提出八使糾察、年終「差其殿最」的賞罰辦法，使官吏明白「奉公之福，營私之禍」。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "陳政要七事疏",
+      "para_index": 6,
+      "para_id": "cai-zhonglang-ji#123-p06",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "五事：臣聞古者取士，必使諸侯歲貢。孝武之世，郡舉孝廉，又有賢良文學之選。于是名臣",
+      "note": "「書畫辭賦、才之小者，匡國理政，未有其能」區分才具大小，又批評竊文冒名與濫擢，最後以「君子固當志其大者」提出品格及取士方向。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "陳政要七事疏",
+      "para_index": 7,
+      "para_id": "cai-zhonglang-ji#123-p07",
+      "modes": [
+        "observation",
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "六事：墨綬長吏，職典理人，皆當以惠利為績，日月為勞。襃責之科，所宜分明。而今在任",
+      "note": "「職典理人，皆當以惠利為績，日月為勞」給出官員績效標準，並要求依「器用」與罪故分別任用或刑責、斷絕帶罪遷轉。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "陳政要七事疏",
+      "para_index": 8,
+      "para_id": "cai-zhonglang-ji#123-p08",
+      "modes": [
+        "narrative",
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "七事：伏見前一切以宣陵孝子為太子舍人，臣聞孝文皇帝制喪服三十六日，雖繼體之君，父",
+      "note": "「本非骨肉……惻隱思慕，情何緣生」以親屬關係辨真哀，又以盜人妻者混入陵次的事例揭露「假名稱孝，行不掩心」，並主張遣歸以整飭選官。",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "正交論",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#125-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "聞之前訓曰，君子以朋友講習而正人，無有淫朋。是以古之交者，其義敦以正，其誓信以固",
+      "note": "「慎人所以交己，審己所以交人」要求同時辨人與省己；又以貧富前後是否相待界定朋友之義，並稱不因富貴貧賤改節者為「貞士」。",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "正交論",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#125-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "蓋朋友之道，有義則合，無義則離。善則久要不忘平生之言，惡則忠告善誨之，否則止，無",
+      "note": "「有義則合，無義則離」明定交友準則；「躬自厚而薄責于人」「非善不喜，非仁不親」則把減怨歸咎連到自責、忠告與擇友品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "銘論",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#126-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "《春秋》之論銘也，曰「天子令德。諸侯言時計功，大夫稱伐。」昔肅慎納貢，銘之楛矢，",
+      "note": "「天子令德，諸侯言時計功，大夫稱伐」按身分規定銘辭內容，所舉席几楹杖之銘又明說用以「勸導人主，勗于令德」。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "銘論",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#126-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "有宋大夫正考父，三命滋益恭而莫侮。衛孔悝之祖，莊叔隨難漢陽，左右獻公，衛國賴之，",
+      "note": "孔悝、魏顆等事例收束為「昭德紀功，以示子孫」，說明共同體如何以金石保存德業、留給後世，使人的功德在易朽處境中獲得延續。",
+      "co_domains": [
+        "VII",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "辭郡辟讓申屠蟠書",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#129-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "申屠蟠稟氣玄妙，性敏心通。喪親盡禮，幾于毀滅。至行美誼，人所鮮能。安貧樂潛，味道",
+      "note": "「安貧樂潛，味道守真」「不為窮達易節」把德目拆成不隨處境改節的行為，末以「以齒則長，以德則賢」作為辭辟讓賢的比較標準。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "與袁公書",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#130-p01",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "朝夕游談，從學宴飲。酌麥醴，燔乾魚，欣欣焉樂在其中矣。",
+      "note": "「朝夕游談，從學宴飲」寫共同學習飲食的交往，作者並以「欣欣焉樂在其中矣」自陳相聚之樂。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "與人書（1）",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#131-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "家祖居常言客有三當死。夜半蠶時至人室家也。今者一行而犯其兩。",
+      "note": "「客有三當死」提出作客不可逾越的嚴厲界線，並以「今者一行而犯其兩」把該準則用來判斷對方這次夜入人家的行為。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "天子命令之別名",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#138-p02",
+      "modes": [
+        "ritual",
+        "proposition"
+      ],
+      "excerpt": "天子父事天，母事地，兄事日，姊事月。常以春分朝日於東門之外，示有所尊，訓人民事君",
+      "note": "春分朝日、秋夕夕月是儀節，而「示有所尊，訓人民事君之道也」明說此儀節用來教導人民如何對待君主，涉及群體權力關係中的行為教訓",
+      "co_domains": []
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "大夫以下廟之別名",
+      "para_index": 6,
+      "para_id": "cai-zhonglang-ji#145-p06",
+      "modes": [
+        "ritual",
+        "proposition"
+      ],
+      "excerpt": "亡國之社：古者天子亦取亡國之社以分諸侯，使為社，以自儆戒。屋之奄其上使不通天，柴",
+      "note": "「取亡國之社以分諸侯，使為社，以自儆戒」明說要讓諸侯藉亡國之社自我警戒，將儀制用作掌權者承擔治理責任的警示；其餘遮天隔地與北向則是滅亡象徵",
+      "co_domains": []
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "六神之別名",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#148-p01",
+      "modes": [
+        "proposition",
+        "ritual"
+      ],
+      "excerpt": "風伯神，箕星也，其象在天，能興風；雨師神，畢星也，其象在天，能興雨；明星神，一曰",
+      "note": "「能殖百穀以利天下，故祠此三神以報其功也」以公共功績說明報祀，而「欲令萬民加肅敬也」「使人望見則加畏敬也」明說設社會使人產生敬肅，越過單純祀典登錄；所談是群體教化與公共功績，不另作信仰領域。",
+      "co_domains": []
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "五祀之別名（祀臣五義）",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#152-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "法施於民則祀，以死勤事則祀，以勞定國則祀，能禦大災則祀，能扞大患則祀。",
+      "note": "「法施於民則祀，以死勤事則祀，以勞定國則祀，能禦大災則祀，能扞大患則祀」給出公共服務與護民功績的入祀資格，判定什麼樣的人值得群體記念，不是祭祀程序。",
+      "co_domains": []
+    },
     {
       "slug": "dengxizi",
       "chapter": "1",

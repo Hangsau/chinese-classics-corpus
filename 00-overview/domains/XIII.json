@@ -2,9 +2,9 @@
   "domain": "XIII",
   "name_zh": "安頓·修復·平安",
   "gist": "靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈",
-  "generated_at": "2026-08-15T14:37:06+00:00",
-  "para_count": 111,
-  "book_count": 17,
+  "generated_at": "2026-08-21T09:09:25+00:00",
+  "para_count": 121,
+  "book_count": 18,
   "surveyed_zero_hit": [
     "duduan",
     "fangyan",
@@ -31,6 +31,167 @@
     "zhongjing"
   ],
   "paras": [
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "墳前石碑",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#09-p01",
+      "modes": [
+        "narrative",
+        "ritual"
+      ],
+      "excerpt": "維漢二十一世延熹六年，粵四月丁巳，文忠公益州太守朱君名穆字公叔，卒于京師，其五月",
+      "note": "父臨終戒子「無拘于俗」，子「欽率遺意」從簡治墓並立石「用慰其孤罔極之懷」，寫出親子承命、面對死亡與安頓哀思。",
+      "co_domains": [
+        "IV",
+        "X"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "讓高陽侯印綬符策表",
+      "para_index": 3,
+      "para_id": "cai-zhonglang-ji#31-p03",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "臣聞高祖受命，元功翼德者與共天下爵土。故曰：「使黃河若帶，太山若礪，國之永存，爰",
+      "note": "以戰功勞苦反襯自己「事輕葭莩，功薄蟬翼」而不肯冒受厚賞，末用鷦鷯一枝、偃鼠滿腹說明「小人之情，求足而已」的知足取向。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《玄文先生李子材銘》",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#40-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "玄文先生名休，字子材，南陽宛人也。其祖李伯陽，周柱下史，覿衰世而遯焉。其後雄俊豪",
+      "note": "李休窮覽經緯、遠赴東嶽與闕里求學而後講誨，三次受命仍「不為利回」；「處約不戚，聞寵不欣」又寫出不受窮達擾動的安定。",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "和熹鄧后謚議",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#47-p01",
+      "modes": [
+        "observation",
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "孝和鄧皇后崩，群臣謀謚，于是尚書陳忠上言，以為鄉黨敘孔子威儀，俯仰無所遺，彤管記",
+      "note": "以「刑之所加，不阿近戚；賞之所及，不遺側陋」及「徒以百姓為憂」具體說明公平、克己的治國品格，並以「德著圖籍，名垂于後」說明謚名保存功德的作用，最後主張謚為和熹。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "月令問荅",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#58-p02",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "光和元年，余被于章，罹重罪，徙朔方。內有獫狁敵衝之釁，外有寇虜鋒鏑之艱，危險懍懍",
+      "note": "「死亡無日」「與危殆競」寫死亡迫近；作者仍「晝夜密勿，昧死成之」完成著述以便學者，並以「取其心盡而已」「余死而不朽」安頓危境，三格各有獨立內容。",
+      "co_domains": [
+        "VIII",
+        "X"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "上漢書十志疏",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#60-p01",
+      "modes": [
+        "narrative",
+        "expression",
+        "prescription"
+      ],
+      "excerpt": "朔方髡鉗徙臣邕，稽首再拜上書皇帝陛下。臣邕被受陛下寵異大恩，初由宰府，備數典城，",
+      "note": "作者痛惜「二十年之思，中道廢絕」，在「懸命鋒鏑」「抱恨黃泉」的死亡威脅下仍條列十志並請「下東觀」補綴；以完成史業使自己即使受死也「無所復恨」，工作、死亡與危境自處三層不可互相替代。",
+      "co_domains": [
+        "VIII",
+        "X"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "述行賦",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#61-p02",
+      "modes": [
+        "narrative",
+        "expression",
+        "proposition"
+      ],
+      "excerpt": "余有行于京洛兮，遘淫雨之經時。塗屯邅其蹇連兮，潦污滯而為災。乘馬蟠而不進兮，心鬱",
+      "note": "「民露處而寢溼」「下糠粃而無粒」與忠諫受逼寫公義失序；「心鬱伊而憤思」「憂心之殷殷」寫內在感受；末以「甘衡門以寧神」「復邦族以自綏」說明如何退出不可匡正的局勢而安頓自己。",
+      "co_domains": [
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "釋誨",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#66-p01",
+      "modes": [
+        "proposition",
+        "prescription",
+        "expression"
+      ],
+      "excerpt": "閒居翫古，不交當世。感東方《客難》，及揚雄、班固、崔駰之徒。設疑以自通，乃斟酌群",
+      "note": "以「貪夫徇財，夸者死權」和守道不傾界定取捨品格；「時逝歲暮」「百歲之後」正面承認時間與死亡；又提出「樂天知命，持神任己」「靜以俟命」，並以「神氣寧」「嗜欲息」寫安頓之道。",
+      "co_domains": [
+        "VII",
+        "X"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "銘論",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#126-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "有宋大夫正考父，三命滋益恭而莫侮。衛孔悝之祖，莊叔隨難漢陽，左右獻公，衛國賴之，",
+      "note": "孔悝、魏顆等事例收束為「昭德紀功，以示子孫」，說明共同體如何以金石保存德業、留給後世，使人的功德在易朽處境中獲得延續。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "與人書（2）",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#132-p01",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "邕薄祜早喪二親，年踰三十，鬢髮二色。叔父親之，猶若幼童。陸則對坐，食則比豆。",
+      "note": "作者自述「早喪二親」與年過三十而髮色已變的失親、年歲處境；「叔父親之，猶若幼童」又寫叔父以親密照料承接失去父母後的家庭支持。",
+      "co_domains": [
+        "IV",
+        "X"
+      ]
+    },
     {
       "slug": "dengxizi",
       "chapter": "1",

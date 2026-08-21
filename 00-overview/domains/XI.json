@@ -2,9 +2,9 @@
   "domain": "XI",
   "name_zh": "自由·命運·改變",
   "gist": "自由意志與命運、選擇與代價、改變與重來",
-  "generated_at": "2026-08-15T14:37:06+00:00",
-  "para_count": 374,
-  "book_count": 27,
+  "generated_at": "2026-08-21T09:09:25+00:00",
+  "para_count": 387,
+  "book_count": 28,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -21,6 +21,201 @@
     "wuzi"
   ],
   "paras": [
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "王子喬碑",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#10-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "王孫子喬者、蓋上世之真人也。聞其僊舊矣，不知興于何代，博問道家，或言潁川，或言彥",
+      "note": "段末明說「疾病尩瘵者，靜躬祈福即獲祚；若不虔恪輒顛踣」，主張病者可由虔敬祈福改變所得結果。",
+      "co_domains": [
+        "IX",
+        "XII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "荅詔問災異",
+      "para_index": 5,
+      "para_id": "cai-zhonglang-ji#14-p05",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "詔問曰：「南宮侍中寺，雌雞欲化為雄，尾身毛已似雄，頭尚未變。」「臣聞凡雞為怪，皆",
+      "note": "雌雞占辭之外，以顏子「有過未嘗不知，知之未嘗復行」及「不遠復……元吉」說明及早知過、改過可阻止將成之患。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "荅詔問災異",
+      "para_index": 7,
+      "para_id": "cai-zhonglang-ji#14-p07",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "詔問「星辰錯謬」。「臣竊見熒惑變色，入太微西門，太白正晝而見。臣聞熒惑示變，人主",
+      "note": "明說「人主當精明其德，則有休慶之色」，又舉宋景公「三有德言，而熒惑為之退舍」，主張德言能改變原有凶象。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "荅詔問災異",
+      "para_index": 9,
+      "para_id": "cai-zhonglang-ji#14-p09",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "詔問：「平城門及武庫屋各損壞。」「臣愚以為平城門、向陽之門，郊祀法駕，所從出門之",
+      "note": "在城門、武庫損壞的占釋末明言「若時共禦……神則不怒，五福乃降」，把人的及時應對連到神意轉怒與降福。",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "荅詔問災異",
+      "para_index": 10,
+      "para_id": "cai-zhonglang-ji#14-p10",
+      "modes": [
+        "expression",
+        "prescription"
+      ],
+      "excerpt": "又特詔問：「朝廷焦心，聞災恐懼，每訪群公卿士，皆各括囊迷國，莫肯建忠規闕。以邕博",
+      "note": "稱「天于大漢，殷勤不已」而以妖變責讓，又明說「因以感覺，則危可為安，凶可作吉」；後文要求任忠直、黜貪濁與慎選孝廉，把轉變落在君主的用人和領導。",
+      "co_domains": [
+        "V",
+        "XII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《汝南周巨勝碑》",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#37-p02",
+      "modes": [
+        "ritual",
+        "proposition"
+      ],
+      "excerpt": "至延熹二年，乃更闢門延賓，享宴娛樂，及秋而梁氏誅滅。十二月，君卒。然則識幾知命，",
+      "note": "先以梁氏誅滅前的出處判斷說其「識幾知命」，銘文又斷言「厥初生民，天賜之性，有龐有醇，有否有聖」，把品性差異歸于天賦之性。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "為陳留太守上孝子狀",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#48-p01",
+      "modes": [
+        "narrative",
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "臣前到官，博問掾史孝行卓異者，臣門下掾申屠夐稱，孝子平丘程未，年十四歲，時祖父叔",
+      "note": "程未守叔喪時「號泣悲哀」、拒絕肥膩並求歸喪所，呈現親族責任與孝行；「至行發于自然，非耳目聞見所倣效」又明斷此行出於天性而非仿學，奏狀並請朝廷使其美行昭顯。",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "驚枕銘",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#95-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "應龍蟠蟄，潛德保靈。制器象物，示有其形。哲人降鑒，居安聞傾。",
+      "note": "借應龍蟠蟄保靈與驚枕之形，勸「哲人」在安居時也聞知傾危，主張以警覺面對處境可能的轉變。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "廣連珠",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#97-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "臣聞目瞤耳鳴，近夫小戒也。狐鳴犬嗥，家人小妖也。猶忌慎動作，封鎮書符，以防其禍。",
+      "note": "以小妖使人戒慎類推「天地示異」，並明言災變能使人主「恐懼而修政」，寫出天示與人主自我改變的關係。",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "九惟文",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#102-p01",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "八惟困乏，憂心殷殷。天之生我，星宿值貧。六極之戹，獨遭斯勤。居處浮𣿖，無以自存。",
+      "note": "作者把貧困歸于「星宿值貧」，並以無衣禦寒、無絺蔽暑、無食果腹具體自陳身體匱乏與「無以自存」的生存威脅。",
+      "co_domains": [
+        "IX",
+        "X"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "彈琴賦",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#114-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "爾乃言求茂木，周流四垂。觀彼椅桐，層山之陂。丹華煒煒，綠葉參差。甘露潤其末，涼風",
+      "note": "「通理治性，恬淡清溢」把音樂說成調治性情、使人趨於恬淡的力量，後文「感激絃歌」再寫琴聲引動情感。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "女訓",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#133-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "心猶首面也，是以甚致飾焉。面一日不修，則塵垢穢之；心一朝不思善，則邪惡入之。咸知",
+      "note": "「心一朝不思善，則邪惡入之」斷言善惡會隨日常心念而變，並把拭面、傅脂、梳髮等每一動作轉成「思其心之潔」「思其心之正」的修心提醒。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "天子命令之別名",
+      "para_index": 3,
+      "para_id": "cai-zhonglang-ji#138-p03",
+      "modes": [
+        "ritual",
+        "proposition"
+      ],
+      "excerpt": "天子父事三老者，適成於天地人也。兄事五更者，訓於五品也。更者長也，更相代至五也，",
+      "note": "段中雖詳記天子事三老五更與餽牲拜送之禮，但「能以善道改更已也」另行主張人能循善道改變自己，直接涉及自我改變的可能",
+      "co_domains": []
+    },
     {
       "slug": "dengxizi",
       "chapter": "1",

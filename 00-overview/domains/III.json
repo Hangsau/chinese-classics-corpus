@@ -2,9 +2,9 @@
   "domain": "III",
   "name_zh": "愛與親密",
   "gist": "愛與性、被拒絕、承諾、信任與脆弱、溝通與被理解",
-  "generated_at": "2026-08-15T14:37:06+00:00",
-  "para_count": 100,
-  "book_count": 13,
+  "generated_at": "2026-08-21T09:09:25+00:00",
+  "para_count": 103,
+  "book_count": 14,
   "surveyed_zero_hit": [
     "dengxizi",
     "duduan",
@@ -35,6 +35,54 @@
     "zhongjing"
   ],
   "paras": [
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "飲馬長城窟行",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#63-p01",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "青青河邊草，綿綿思遠道。遠道不可思，宿昔夢見之。夢見在我旁，忽覺在他鄉。他鄉各異",
+      "note": "遠人只能入夢且醒後仍在他鄉，「展轉不相見」寫分離與等待；收信者長跪讀到「加餐食」「長相憶」，同時承載親密牽掛與綿延思念的內在感受。",
+      "co_domains": [
+        "VI",
+        "X"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "協和婚賦",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#104-p01",
+      "modes": [
+        "proposition",
+        "ritual"
+      ],
+      "excerpt": "惟情性之至好，歡莫偉乎夫婦。受精靈之造化，固神明之所使。事深微以玄妙，實人倫之肇",
+      "note": "「歡莫偉乎夫婦」「實人倫之肇始」明論夫婦與人倫，後文又依次寫「婚禮已舉」「二族崇飾」等成婚儀節。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "青衣賦",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#107-p01",
+      "modes": [
+        "observation",
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "金生砂礫，珠出蚌泥。歎茲窈窕，產于卑微。盼倩淑麗，皓齒蛾眉。玄髮光潤，領如螬蠐。",
+      "note": "「精慧小心」「《關雎》之潔」寫其才德，「宜作夫人，為眾女師」判定其婚姻與表率資格，「伊何爾命，在此賤微」則明指出才德與身分的落差。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
     {
       "slug": "dongmingji",
       "chapter": "卷第三",

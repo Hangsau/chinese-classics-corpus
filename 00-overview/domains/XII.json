@@ -2,9 +2,9 @@
   "domain": "XII",
   "name_zh": "信仰·神聖·超越",
   "gist": "神存在嗎、信與疑、敬畏與美、神秘經驗",
-  "generated_at": "2026-08-15T14:37:06+00:00",
-  "para_count": 159,
-  "book_count": 20,
+  "generated_at": "2026-08-21T09:09:25+00:00",
+  "para_count": 175,
+  "book_count": 21,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -28,6 +28,245 @@
     "yinwenzi"
   ],
   "paras": [
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "王子喬碑",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#10-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "王孫子喬者、蓋上世之真人也。聞其僊舊矣，不知興于何代，博問道家，或言潁川，或言彥",
+      "note": "段末明說「疾病尩瘵者，靜躬祈福即獲祚；若不虔恪輒顛踣」，主張病者可由虔敬祈福改變所得結果。",
+      "co_domains": [
+        "IX",
+        "XI"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "王子喬碑",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#10-p02",
+      "modes": [
+        "ritual",
+        "proposition"
+      ],
+      "excerpt": "延熹八年秋八月，皇帝遣使者奉犧牲以致祀，祗懼之敬肅如也。相國東萊王章字伯義，以為",
+      "note": "除皇帝「奉犧牲以致祀」外，還主張神聖所興應立銘，使「志道者有所覽」，明寫敬神與求道者的關係。",
+      "co_domains": []
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "王子喬碑",
+      "para_index": 3,
+      "para_id": "cai-zhonglang-ji#10-p03",
+      "modes": [
+        "narrative",
+        "ritual"
+      ],
+      "excerpt": "伊王君，德通靈，含光耀，秉純貞，應大道，羨久榮。〔漂長風〕，棄世俗，飛神形，翔雲",
+      "note": "「念所生」後回墓舒哀、示迹告名，既把孝親化成行動，也引出眾人修祠、進饋與祈福的神聖實踐。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "荅丞相可齋議",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#11-p02",
+      "modes": [
+        "formalization",
+        "ritual"
+      ],
+      "excerpt": "議郎臣蔡邕，博士任敏，死罪對。案禮，上帝之祠，無所為廢。齋者、所以致齊不敢渙散其",
+      "note": "以「齋者、所以致齊不敢渙散其意」界定齋戒的專一心志，並說恭奉明祀所以懷福，提出具體信仰實踐。",
+      "co_domains": []
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "荅詔問災異",
+      "para_index": 4,
+      "para_id": "cai-zhonglang-ji#14-p04",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "詔問曰：「五月三日，有白衣入德陽殿門，辭稱伯夏教我上殿，與中黃門桓賢晤言，相往來",
+      "note": "除以舊事比勘白衣入宮外，還把其未入殿即被察覺明說為「仰見上帝之厚德」，將警示性的結果歸于有德意的上帝。",
+      "co_domains": []
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "荅詔問災異",
+      "para_index": 9,
+      "para_id": "cai-zhonglang-ji#14-p09",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "詔問：「平城門及武庫屋各損壞。」「臣愚以為平城門、向陽之門，郊祀法駕，所從出門之",
+      "note": "在城門、武庫損壞的占釋末明言「若時共禦……神則不怒，五福乃降」，把人的及時應對連到神意轉怒與降福。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "荅詔問災異",
+      "para_index": 10,
+      "para_id": "cai-zhonglang-ji#14-p10",
+      "modes": [
+        "expression",
+        "prescription"
+      ],
+      "excerpt": "又特詔問：「朝廷焦心，聞災恐懼，每訪群公卿士，皆各括囊迷國，莫肯建忠規闕。以邕博",
+      "note": "稱「天于大漢，殷勤不已」而以妖變責讓，又明說「因以感覺，則危可為安，凶可作吉」；後文要求任忠直、黜貪濁與慎選孝廉，把轉變落在君主的用人和領導。",
+      "co_domains": [
+        "V",
+        "XI"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "陳留索昏庫上里社銘",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#44-p01",
+      "modes": [
+        "ritual",
+        "proposition"
+      ],
+      "excerpt": "曰：社祀之建尚矣。昔在聖帝有五行之官，而共工子句龍為后土。及其歾也，遂為社祀。故",
+      "note": "追述里中宰相相繼而出後，明說其成就既有「積善餘慶」，也因「斯社之所相」，把善行後果與社神扶助並列為因。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "郡掾吏張玄祠堂碑銘",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#52-p01",
+      "modes": [
+        "observation",
+        "proposition",
+        "ritual"
+      ],
+      "excerpt": "掾諱玄，字伯雅，河南偃師人也。其先張仲者，實以孝友為名，左右周室。大漢初興，張蒼",
+      "note": "張玄「損用節財以贍疏族」、不求榮祿，將節制仁恕落到親族行動；碑文又把孫輩仕祿追溯為「先考積善之餘慶，陰德之陽報」，以跨代福報解釋善行，並由此立祠奉祀。",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《漢交阯都尉胡府君夫人黃氏神誥》",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#71-p02",
+      "modes": [
+        "proposition",
+        "ritual"
+      ],
+      "excerpt": "康寧之時，亟以為言，太夫人年九十一，建寧二年薨于太傅府，是月辛卯。公之季子陳留太",
+      "note": "群儒以「魂氣所之，不繫丘壟」說明遷葬不逆亡靈，並據「順母氏之所寧」決定母子葬所，兼及親屬義務與魂靈觀。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "伯夷叔齊碑",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#74-p01",
+      "modes": [
+        "narrative",
+        "ritual"
+      ],
+      "excerpt": "熹平五年，天下大旱，禱請名山，求獲荅應。時處士平陽蘇騰，字玄成，夢陟首陽，有神馬",
+      "note": "旱中登山祈雨而「天尋興雲，即降甘雨」，明寫祭禱得應；銘中又以捐爵、諫亡與譏伐紂呈現忠義及政治勸諫。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "九疑山碑",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#81-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "巖巖九疑，峻極于天。觸石膚合，興播連雲。時風嘉雨，浸潤下民。芒芒南土，實賴厥勛。",
+      "note": "舜以「孝烝烝」克諧頑傲，使孝行不只是德目；篇末又斷言他葬於九疑後「解體而升」、託靈神仙。",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "東巡頌",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#83-p01",
+      "modes": [
+        "proposition",
+        "ritual"
+      ],
+      "excerpt": "竊見巡狩岱宗，柴望山川。宗祀明堂，上稽帝堯，中述世宗。遵奉光武，禮儀備具，動自聖",
+      "note": "巡狩、柴望與宗祀完成後，文本以「是以神明屢應，休徵乃降」明說神明對祭祀有所回應。",
+      "co_domains": []
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "祖德頌",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#85-p01",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "昔文王始受命，武王定禍亂。至于成王，太平乃洽，祥瑞畢降。夫豈后德熙隆漸浸之所通也",
+      "note": "先以「積善有餘慶」主張修仁履德得福，再把連理木、馴兔說成靈祇酬報祖先盛德；作者並自陳敬畏承荷家業。",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "廣連珠",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#97-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "臣聞目瞤耳鳴，近夫小戒也。狐鳴犬嗥，家人小妖也。猶忌慎動作，封鎮書符，以防其禍。",
+      "note": "以小妖使人戒慎類推「天地示異」，並明言災變能使人主「恐懼而修政」，寫出天示與人主自我改變的關係。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "陳政要七事疏",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#123-p01",
+      "modes": [
+        "formalization",
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "臣伏讀聖旨，雖周成遇風，訊諸執事，宣王遭旱，密勿祗畏，無以或加。臣聞天降災異，緣",
+      "note": "「故皇天不悅，顯此諸異」明把天寫成會因政事而不悅、示異；又以「刑誅繁多」「貪利傷民」批評政失，並勸「博覽眾議，從其安者」。",
+      "co_domains": [
+        "V"
+      ]
+    },
     {
       "slug": "fengsu-tongyi",
       "chapter": "六國",

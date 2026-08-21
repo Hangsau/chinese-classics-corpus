@@ -2,9 +2,9 @@
   "domain": "IX",
   "name_zh": "苦難·疾病·身體",
   "gist": "疾病與身體、受苦的意義、照顧與被照顧",
-  "generated_at": "2026-08-15T14:37:06+00:00",
-  "para_count": 119,
-  "book_count": 19,
+  "generated_at": "2026-08-21T09:09:25+00:00",
+  "para_count": 126,
+  "book_count": 20,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -29,6 +29,114 @@
     "zhongjing"
   ],
   "paras": [
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "黃鉞銘",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#05-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孝桓之季年，鮮卑入塞鈔，盜起匈奴左部，梁州叛羌逼迫兵誅，淫衍東夷。高句驪嗣子伯固",
+      "note": "見吏士「勤于奔命，人馬疲羸」便請停橫發之役，文本隨即列出人馬休養、軍備與財用恢復的效果。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "王子喬碑",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#10-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "王孫子喬者、蓋上世之真人也。聞其僊舊矣，不知興于何代，博問道家，或言潁川，或言彥",
+      "note": "段末明說「疾病尩瘵者，靜躬祈福即獲祚；若不虔恪輒顛踣」，主張病者可由虔敬祈福改變所得結果。",
+      "co_domains": [
+        "XI",
+        "XII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "幽冀二州刺史久缺疏",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#12-p01",
+      "modes": [
+        "expression",
+        "prescription"
+      ],
+      "excerpt": "臣聞國家置官，以職建名。臣愚賤小才，竊假階級，官以議為名，職以郎為貴。智淺謀漏，",
+      "note": "面對饉荒、士馬死傷與百姓「流離溝壑」，作者反對任官受三互拘限，主張「越境取能，以救時弊」，兼及民困、人才任用與公共決策。",
+      "co_domains": [
+        "V",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "難夏育上言鮮卑仍犯諸郡",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#13-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "自漢興以來，匈奴常為邊害，而未聞鮮卑之事。昔謀臣竭精，武夫戮力，而所見常異，其設",
+      "note": "以武帝窮兵造成「官民俱匱、民不堪命」為前鑑，又預言再戰將使民人流移、不能還其骸骨且弱者伏尸，連結公共決策、民生苦難與死亡後果。",
+      "co_domains": [
+        "V",
+        "X"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "難夏育上言鮮卑仍犯諸郡",
+      "para_index": 3,
+      "para_id": "cai-zhonglang-ji#13-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "育曰：「自春以來三十餘發，方今郡縣盜賊，劫摽人財，攻犯官民，日月有之。冠帶之圻，",
+      "note": "以「憂萬人饑餓」與不討蠻夷比較輕重，主張「卹民救急」，並具體請止攻伐、改守塞垣，關切領導抉擇及饑困中的百姓。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《太傅安樂鄉侯胡公夫人靈表》",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#72-p01",
+      "modes": [
+        "observation",
+        "expression"
+      ],
+      "excerpt": "夫人編縣舊族章氏之長女也，字曰顯章。令儀小心，秉操塞淵，仁孝婉順，率禮無遺。體季",
+      "note": "既寫「仰奉慈姑」「俯誨膝下」的家內承擔，也明言接連喪子使夫人哀悼成疾，末段細寫病勢、死亡與女兒追慕。",
+      "co_domains": [
+        "IV",
+        "X"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "九惟文",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#102-p01",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "八惟困乏，憂心殷殷。天之生我，星宿值貧。六極之戹，獨遭斯勤。居處浮𣿖，無以自存。",
+      "note": "作者把貧困歸于「星宿值貧」，並以無衣禦寒、無絺蔽暑、無食果腹具體自陳身體匱乏與「無以自存」的生存威脅。",
+      "co_domains": [
+        "X",
+        "XI"
+      ]
+    },
     {
       "slug": "fengsu-tongyi",
       "chapter": "5",

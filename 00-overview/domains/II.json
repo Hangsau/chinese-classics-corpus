@@ -2,9 +2,9 @@
   "domain": "II",
   "name_zh": "自我與認同",
   "gist": "我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我",
-  "generated_at": "2026-08-15T14:37:06+00:00",
-  "para_count": 531,
-  "book_count": 28,
+  "generated_at": "2026-08-21T09:09:25+00:00",
+  "para_count": 534,
+  "book_count": 29,
   "surveyed_zero_hit": [
     "duduan",
     "fangyan",
@@ -20,6 +20,54 @@
     "sima-fa"
   ],
   "paras": [
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《司空臨晉侯楊公碑》",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#17-p02",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "公素不貴歸非，不樂引美，故雖仿彿，猶不敢載，以順公之雅。初受封，自以功不副賞，前",
+      "note": "受封時自認「功不副賞」而十上辭章，又自問「吾何德以堪諸」；臨終顧命只戒忠儉，寫出自我評價、謙讓操守與面對死亡。",
+      "co_domains": [
+        "VII",
+        "X"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "真定直父碑",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#79-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "其接友也，審辨真偽。明于知人，度終始而後交，情不疏而貌親。",
+      "note": "交友時先「審辨真偽」，看清其人並「度終始而後交」，從自他真實、朋友關係與審慎品格說明擇友方法及後果。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "正交論",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#125-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "聞之前訓曰，君子以朋友講習而正人，無有淫朋。是以古之交者，其義敦以正，其誓信以固",
+      "note": "「慎人所以交己，審己所以交人」要求同時辨人與省己；又以貧富前後是否相待界定朋友之義，並稱不因富貴貧賤改節者為「貞士」。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
     {
       "slug": "dengxizi",
       "chapter": "1",

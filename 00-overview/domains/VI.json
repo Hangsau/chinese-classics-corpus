@@ -2,9 +2,9 @@
   "domain": "VI",
   "name_zh": "情緒與內在生活",
   "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡",
-  "generated_at": "2026-08-15T14:37:06+00:00",
-  "para_count": 527,
-  "book_count": 24,
+  "generated_at": "2026-08-21T09:09:25+00:00",
+  "para_count": 540,
+  "book_count": 25,
   "surveyed_zero_hit": [
     "dongmingji",
     "duduan",
@@ -24,6 +24,193 @@
     "yuzi"
   ],
   "paras": [
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "被收時表",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#15-p01",
+      "modes": [
+        "expression",
+        "narrative"
+      ],
+      "excerpt": "議郎糞土臣邕，頓首再拜上書皇帝陛下。今月十三日，臣被尚書召，問臣以大鴻臚劉郃前為",
+      "note": "作者因密對受逮，指出報復將使「群臣杜口」而無人盡忠；同時直陳「征營怖悸」「誠冤誠痛」，並在「臣死期垂至」時請以己身受戮。",
+      "co_domains": [
+        "V",
+        "X"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "述行賦",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#61-p01",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "延熹二年秋[1]，霖雨逾月。是時梁冀新誅，而徐璜左悺等五侯擅貴于其處。又起顯明苑",
+      "note": "「人徒凍餓」而五侯擅貴、李雲因直言而死、陳君救援反遭抵罪，寫出權力傷害；作者明言「心憤此事」而作賦，另有直接的情緒內容。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "述行賦",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#61-p02",
+      "modes": [
+        "narrative",
+        "expression",
+        "proposition"
+      ],
+      "excerpt": "余有行于京洛兮，遘淫雨之經時。塗屯邅其蹇連兮，潦污滯而為災。乘馬蟠而不進兮，心鬱",
+      "note": "「民露處而寢溼」「下糠粃而無粒」與忠諫受逼寫公義失序；「心鬱伊而憤思」「憂心之殷殷」寫內在感受；末以「甘衡門以寧神」「復邦族以自綏」說明如何退出不可匡正的局勢而安頓自己。",
+      "co_domains": [
+        "V",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "飲馬長城窟行",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#63-p01",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "青青河邊草，綿綿思遠道。遠道不可思，宿昔夢見之。夢見在我旁，忽覺在他鄉。他鄉各異",
+      "note": "遠人只能入夢且醒後仍在他鄉，「展轉不相見」寫分離與等待；收信者長跪讀到「加餐食」「長相憶」，同時承載親密牽掛與綿延思念的內在感受。",
+      "co_domains": [
+        "III",
+        "X"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《議郎胡公夫人哀讚》",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#73-p01",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "議郎夫人趙氏，字曰永姜。允有令德，秉心塞淵，舒詳閒雅，儀節孔備。女師四典，窈窕德",
+      "note": "母親教養幼孤並強起勸子赴任，兒子卻因王職不能侍疾送終；「知我如此，不如無生」「孤心摧割」直寫喪親與內在崩痛。",
+      "co_domains": [
+        "IV",
+        "X"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "《議郎胡公夫人哀讚》",
+      "para_index": 2,
+      "para_id": "cai-zhonglang-ji#73-p02",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "愍予小子，夙離凶艱。嚴考隕歿，我在齠年。母氏鞠育，載矜載憐。殷斯勤斯，慈愛備存。",
+      "note": "說話者追述母親「範我軌度、昭示好惡」，又自陳未能臨終含飯的遺憾及「孤情怛兮增哀」，核心是教養、喪失與哀痛。",
+      "co_domains": [
+        "IV",
+        "X"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "檢逸賦",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#105-p01",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "夫何姝妖之媛女，顏煒燁而含榮。普天壤其無儷，曠千載而特生。余心悅于淑麗，愛獨結而",
+      "note": "承重處是「余心悅于淑麗」「情罔寫而無主」「夜託夢以交靈」所自陳的愛慕與心意失措；容貌鋪陳本身不構成親密關係主張。",
+      "co_domains": []
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "瞽師賦",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#108-p01",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "夫何矇眛之瞽兮，心窮忽以鬱伊。目冥冥而無睹兮，唴求煩以愁悲。撫長笛以攄憤兮，氣轟",
+      "note": "「心窮忽以鬱伊」「唴求煩以愁悲」「撫長笛以攄憤」連續寫鬱結、悲愁與宣洩；「目冥冥而無睹」的形貌不另作身體領域。",
+      "co_domains": []
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "又瞽師賦",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#109-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "何此聲之悲痛，愴然淚以隱惻。類離鵾之孤鳴，起嫠婦之哀泣。詠新詩之悲歌，舒滯積而宣",
+      "note": "「愴然淚以隱惻」寫聞聲而起的哀感，「舒滯積而宣鬱」又說悲歌能宣洩積鬱。",
+      "co_domains": []
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "琴賦",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#111-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "歷松岑而將降，睹鴻梧于幽阻。高百仞而不枉，對修條而特處。蹈通崖而往遊，圖茲梧之所",
+      "note": "製琴鋪陳之外，「盡聲變之奧妙，抒心志之鬱滯」明說琴聲可以疏解內心鬱結。",
+      "co_domains": []
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "又琴賦（2）",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#113-p01",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "于是歌人恍惚以失曲。舞者亂節而忘形，哀人寒耳以惆悵，轅馬蹀足以哀鳴。",
+      "note": "「歌人恍惚以失曲」「哀人寒耳以惆悵」具體描述琴聲使人恍惚、失序與惆悵的內在反應。",
+      "co_domains": []
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "彈琴賦",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#114-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "爾乃言求茂木，周流四垂。觀彼椅桐，層山之陂。丹華煒煒，綠葉參差。甘露潤其末，涼風",
+      "note": "「通理治性，恬淡清溢」把音樂說成調治性情、使人趨於恬淡的力量，後文「感激絃歌」再寫琴聲引動情感。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "cai-zhonglang-ji",
+      "chapter": "與袁公書",
+      "para_index": 1,
+      "para_id": "cai-zhonglang-ji#130-p01",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "朝夕游談，從學宴飲。酌麥醴，燔乾魚，欣欣焉樂在其中矣。",
+      "note": "「朝夕游談，從學宴飲」寫共同學習飲食的交往，作者並以「欣欣焉樂在其中矣」自陳相聚之樂。",
+      "co_domains": [
+        "V"
+      ]
+    },
     {
       "slug": "dengxizi",
       "chapter": "1",
