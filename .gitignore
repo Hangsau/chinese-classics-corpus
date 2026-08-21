@@ -1,3 +1,6 @@
 __pycache__/
 delegation/*.log
 delegation/**/*.log
+
+# 驗收器自檢的合成輸出（由同目錄 make_cases.py 重生，不入庫）
+delegation/**/_selftest/*/
