@@ -1,0 +1,333 @@
+{
+  "batch": "b08",
+  "rows": [
+    {
+      "chapter": "漢津賦",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation", "expression"],
+      "confidence": 0.94,
+      "reason": "「洪流淼以玄清」「蛟龍集以嬉遊」鋪寫河川物象；「願乘流以上下」只表遊觀之願，未轉出對人生的判斷。"
+    },
+    {
+      "chapter": "協和婚賦",
+      "para_index": 1,
+      "domains": ["III", "IV"],
+      "modes": ["proposition", "ritual"],
+      "confidence": 0.99,
+      "reason": "「歡莫偉乎夫婦」「實人倫之肇始」明論夫婦與人倫，後文又依次寫「婚禮已舉」「二族崇飾」等成婚儀節。"
+    },
+    {
+      "chapter": "檢逸賦",
+      "para_index": 1,
+      "domains": ["VI"],
+      "modes": ["expression"],
+      "confidence": 0.95,
+      "reason": "承重處是「余心悅于淑麗」「情罔寫而無主」「夜託夢以交靈」所自陳的愛慕與心意失措；容貌鋪陳本身不構成親密關係主張。"
+    },
+    {
+      "chapter": "協初賦",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "confidence": 0.99,
+      "reason": "全段以「面若明月」「色若蓮葩」「肌如凝蜜」比擬女子容貌，沒有交代關係、行為準則或後果。"
+    },
+    {
+      "chapter": "青衣賦",
+      "para_index": 1,
+      "domains": ["III", "V", "VII"],
+      "modes": ["observation", "proposition", "expression"],
+      "confidence": 0.99,
+      "reason": "「精慧小心」「《關雎》之潔」寫其才德，「宜作夫人，為眾女師」判定其婚姻與表率資格，「伊何爾命，在此賤微」則明指出才德與身分的落差。"
+    },
+    {
+      "chapter": "瞽師賦",
+      "para_index": 1,
+      "domains": ["VI"],
+      "modes": ["observation"],
+      "confidence": 0.96,
+      "reason": "「心窮忽以鬱伊」「唴求煩以愁悲」「撫長笛以攄憤」連續寫鬱結、悲愁與宣洩；「目冥冥而無睹」的形貌不另作身體領域。"
+    },
+    {
+      "chapter": "又瞽師賦",
+      "para_index": 1,
+      "domains": ["VI"],
+      "modes": ["observation", "proposition"],
+      "confidence": 0.95,
+      "reason": "「愴然淚以隱惻」寫聞聲而起的哀感，「舒滯積而宣鬱」又說悲歌能宣洩積鬱。"
+    },
+    {
+      "chapter": "筆賦",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "confidence": 0.99,
+      "reason": "「削文竹以為管，加漆絲之纏束」寫製筆，「上剛下柔，乾坤位也」等只是器形象徵，未形成關於人的承重句。"
+    },
+    {
+      "chapter": "琴賦",
+      "para_index": 1,
+      "domains": ["VI"],
+      "modes": ["observation", "proposition"],
+      "confidence": 0.93,
+      "reason": "製琴鋪陳之外，「盡聲變之奧妙，抒心志之鬱滯」明說琴聲可以疏解內心鬱結。"
+    },
+    {
+      "chapter": "又琴賦（1）",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "confidence": 0.99,
+      "reason": "「出入律呂」「十指如雨」只描摹琴絃聲律與彈奏動作，沒有說出人的處境或原理。"
+    },
+    {
+      "chapter": "又琴賦（2）",
+      "para_index": 1,
+      "domains": ["VI"],
+      "modes": ["observation"],
+      "confidence": 0.96,
+      "reason": "「歌人恍惚以失曲」「哀人寒耳以惆悵」具體描述琴聲使人恍惚、失序與惆悵的內在反應。"
+    },
+    {
+      "chapter": "彈琴賦",
+      "para_index": 1,
+      "domains": ["VI", "XI"],
+      "modes": ["observation", "proposition"],
+      "confidence": 0.93,
+      "reason": "「通理治性，恬淡清溢」把音樂說成調治性情、使人趨於恬淡的力量，後文「感激絃歌」再寫琴聲引動情感。"
+    },
+    {
+      "chapter": "彈碁賦",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "confidence": 0.94,
+      "reason": "「列象，雕華逞麗」「放一敝六」皆在寫棋具形制、行棋姿態與勝負效果，「功無與儔」也未展開成人的成就判準。"
+    },
+    {
+      "chapter": "又彈碁賦",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "confidence": 0.91,
+      "reason": "「因嬉戲以肄業，託歡娛以講事」明說遊戲可用來練習軍事本領，「乘色行巧，據險用智」則點出所練的技巧與智用。"
+    },
+    {
+      "chapter": "團扇賦",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "confidence": 0.99,
+      "reason": "「裁帛制扇」「春夏用事，秋冬潛處」只交代團扇的製作、功用與季節性。"
+    },
+    {
+      "chapter": "胡栗賦",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation", "expression"],
+      "confidence": 0.97,
+      "reason": "前文全寫胡栗「彌霜雪而不彫」的形態，末句「嗟夭折以摧傷」所哀仍是樹木遭折，未轉成人的死亡或苦難命題。"
+    },
+    {
+      "chapter": "蟬賦",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "confidence": 0.98,
+      "reason": "「體枯燥以冰凝」與「明年之中夏，復長鳴而揚音」只寫蟬隨季候衰歇、復鳴的物候。"
+    },
+    {
+      "chapter": "荅元式詩",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["expression"],
+      "confidence": 0.93,
+      "reason": "「先進博學」「君子博文」是對來詩者的頌美標籤，「貽我德音」是酬答情境，沒有進一步給出交往或求學判準。"
+    },
+    {
+      "chapter": "翠鳥詩",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "confidence": 0.91,
+      "reason": "「翠鳥時來集」「幸脫虞人機」「雌雄保百齡」始終以翠鳥棲息避害為描寫對象，沒有明說其物象對人的含義。"
+    },
+    {
+      "chapter": "荅卜元嗣詩",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["expression"],
+      "confidence": 0.98,
+      "reason": "「貽我以文」「敢不酬荅，賦誦以歸」只是收詩後的謙謝與酬答，未提出人生領域的內容。"
+    },
+    {
+      "chapter": "陳政要七事疏",
+      "para_index": 1,
+      "domains": ["V", "XII"],
+      "modes": ["formalization", "proposition", "prescription"],
+      "confidence": 0.99,
+      "reason": "「故皇天不悅，顯此諸異」明把天寫成會因政事而不悅、示異；又以「刑誅繁多」「貪利傷民」批評政失，並勸「博覽眾議，從其安者」。"
+    },
+    {
+      "chapter": "陳政要七事疏",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["ritual", "formalization", "prescription"],
+      "confidence": 0.95,
+      "reason": "本段逐項辨「迎五帝于郊」、齋戒與宮中有喪時是否廢祭，最後規定「自今齋制，宜如故典」，是在提出國家祀典的制度處置。"
+    },
+    {
+      "chapter": "陳政要七事疏",
+      "para_index": 3,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "confidence": 0.96,
+      "reason": "「內知己政，外見民情」說納諫的治理作用，又主張「重賢良方正、敦樸有道之選」，使「袌忠之臣展其狂直」，同時涉及選才、忠直品格與公共政事。"
+    },
+    {
+      "chapter": "陳政要七事疏",
+      "para_index": 4,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["narrative", "proposition", "prescription"],
+      "confidence": 0.99,
+      "reason": "「求賢之道未必一塗，或以德顯，或以言揚」界定選才路徑；張文因「獨盡狂言」被接納的事例，又導向「宜擢文右職，以勸忠謇」的任用建議。"
+    },
+    {
+      "chapter": "陳政要七事疏",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["observation", "formalization", "prescription"],
+      "confidence": 0.99,
+      "reason": "段中比較奉公糾姦與「營私」失職，並提出八使糾察、年終「差其殿最」的賞罰辦法，使官吏明白「奉公之福，營私之禍」。"
+    },
+    {
+      "chapter": "陳政要七事疏",
+      "para_index": 6,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "confidence": 0.99,
+      "reason": "「書畫辭賦、才之小者，匡國理政，未有其能」區分才具大小，又批評竊文冒名與濫擢，最後以「君子固當志其大者」提出品格及取士方向。"
+    },
+    {
+      "chapter": "陳政要七事疏",
+      "para_index": 7,
+      "domains": ["V", "VIII"],
+      "modes": ["observation", "formalization", "prescription"],
+      "confidence": 0.96,
+      "reason": "「職典理人，皆當以惠利為績，日月為勞」給出官員績效標準，並要求依「器用」與罪故分別任用或刑責、斷絕帶罪遷轉。"
+    },
+    {
+      "chapter": "陳政要七事疏",
+      "para_index": 8,
+      "domains": ["IV", "V", "VII"],
+      "modes": ["narrative", "proposition", "prescription"],
+      "confidence": 0.98,
+      "reason": "「本非骨肉……惻隱思慕，情何緣生」以親屬關係辨真哀，又以盜人妻者混入陵次的事例揭露「假名稱孝，行不掩心」，並主張遣歸以整飭選官。"
+    },
+    {
+      "chapter": "曆數議",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "confidence": 0.99,
+      "reason": "全段比較太初、四分及庚申、甲寅等曆元，以「考之行度」「取合于當時」論術法效驗，內容止於曆算考證。"
+    },
+    {
+      "chapter": "曆數議",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "confidence": 0.99,
+      "reason": "本段用開闢至獲麟年數、朔日、宿度與渾天儀逐項校驗光、晃之曆，末論改朔易元，仍是曆法驗算與制度考辨。"
+    },
+    {
+      "chapter": "正交論",
+      "para_index": 1,
+      "domains": ["II", "V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "confidence": 0.99,
+      "reason": "「慎人所以交己，審己所以交人」要求同時辨人與省己；又以貧富前後是否相待界定朋友之義，並稱不因富貴貧賤改節者為「貞士」。"
+    },
+    {
+      "chapter": "正交論",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "confidence": 0.99,
+      "reason": "「有義則合，無義則離」明定交友準則；「躬自厚而薄責于人」「非善不喜，非仁不親」則把減怨歸咎連到自責、忠告與擇友品格。"
+    },
+    {
+      "chapter": "銘論",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["formalization", "proposition"],
+      "confidence": 0.95,
+      "reason": "「天子令德，諸侯言時計功，大夫稱伐」按身分規定銘辭內容，所舉席几楹杖之銘又明說用以「勸導人主，勗于令德」。"
+    },
+    {
+      "chapter": "銘論",
+      "para_index": 2,
+      "domains": ["V", "VII", "XIII"],
+      "modes": ["proposition"],
+      "confidence": 0.99,
+      "reason": "孔悝、魏顆等事例收束為「昭德紀功，以示子孫」，說明共同體如何以金石保存德業、留給後世，使人的功德在易朽處境中獲得延續。"
+    },
+    {
+      "chapter": "徙朔方報楊復書",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["expression"],
+      "confidence": 0.99,
+      "reason": "短札只比較先前被徙者多久返還，並以「自甘罪戾，不敢慕此」作書信收束，沒有展開自處原則。"
+    },
+    {
+      "chapter": "徙朔方報羊月書",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["expression"],
+      "confidence": 0.99,
+      "reason": "「幸得無恙，遂至徙所」只是報平安與抵達，「惟青紫鹽也」只記當地物產。"
+    },
+    {
+      "chapter": "辭郡辟讓申屠蟠書",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["observation", "proposition"],
+      "confidence": 0.97,
+      "reason": "「安貧樂潛，味道守真」「不為窮達易節」把德目拆成不隨處境改節的行為，末以「以齒則長，以德則賢」作為辭辟讓賢的比較標準。"
+    },
+    {
+      "chapter": "與袁公書",
+      "para_index": 1,
+      "domains": ["V", "VI"],
+      "modes": ["expression"],
+      "confidence": 0.91,
+      "reason": "「朝夕游談，從學宴飲」寫共同學習飲食的交往，作者並以「欣欣焉樂在其中矣」自陳相聚之樂。"
+    },
+    {
+      "chapter": "與人書（1）",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "confidence": 0.9,
+      "reason": "「客有三當死」提出作客不可逾越的嚴厲界線，並以「今者一行而犯其兩」把該準則用來判斷對方這次夜入人家的行為。"
+    },
+    {
+      "chapter": "與人書（2）",
+      "para_index": 1,
+      "domains": ["IV", "X", "XIII"],
+      "modes": ["expression"],
+      "confidence": 0.96,
+      "reason": "作者自述「早喪二親」與年過三十而髮色已變的失親、年歲處境；「叔父親之，猶若幼童」又寫叔父以親密照料承接失去父母後的家庭支持。"
+    },
+    {
+      "chapter": "女訓",
+      "para_index": 1,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition", "prescription"],
+      "confidence": 0.99,
+      "reason": "「心一朝不思善，則邪惡入之」斷言善惡會隨日常心念而變，並把拭面、傅脂、梳髮等每一動作轉成「思其心之潔」「思其心之正」的修心提醒。"
+    }
+  ]
+}
