@@ -2,9 +2,9 @@
   "domain": "VI",
   "name_zh": "情緒與內在生活",
   "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡",
-  "generated_at": "2026-08-21T23:04:28+00:00",
-  "para_count": 540,
-  "book_count": 25,
+  "generated_at": "2026-08-21T23:54:33+00:00",
+  "para_count": 555,
+  "book_count": 26,
   "surveyed_zero_hit": [
     "dongmingji",
     "duduan",
@@ -6962,6 +6962,209 @@
       ],
       "excerpt": "夫志心篤行之術，長莫長于博謀，安莫安于忍辱，先莫先于修德，樂莫樂于好善，神莫神于",
       "note": "「安莫安于忍辱」「苦莫苦于多愿」「孤莫孤于自恃」直接斷言品格與內在狀態由何而來；「病莫病于無常」指行事反覆，非身體疾病或死生無常，「神莫神于至誠」亦只是極值修辭。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "差",
+      "para_index": 3,
+      "para_id": "taixuanjing#13-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次二：其所好。將以致其所惡。測曰：其所好。漸以差也。",
+      "note": "「其所好。將以致其所惡。測曰：其所好。漸以差也。」提出偏好會逐漸招致所厭惡結果的行為因果，涉及欲求與品格偏差",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "樂",
+      "para_index": 6,
+      "para_id": "taixuanjing#26-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次五：鐘鼓喈喈。管弦嚌嚌。或承之衰。測曰：鐘鼓喈喈樂後悲也。",
+      "note": "「鐘鼓喈喈。管弦嚌嚌。或承之衰。測曰：鐘鼓喈喈樂後悲也。」明說歡樂之後會轉為悲哀，談情緒變化與失去",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "樂",
+      "para_index": 10,
+      "para_id": "taixuanjing#26-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "上九。極樂之機。不移日而悲。測曰：極樂之機。信可悔也。",
+      "note": "「極樂之機。不移日而悲。測曰：極樂之機。信可悔也。」提出極樂能在很短時間內轉成悲哀，指出情緒盛極而變的無常",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "裝",
+      "para_index": 9,
+      "para_id": "taixuanjing#33-p09",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "次八：季仲播軌。泣於道。用送厥往。測曰：季仲播軌。送其死也。",
+      "note": "「泣於道。用送厥往」並由測曰明言「送其死」，寫的是人在送死者時的哀泣，兼有喪失與悲痛。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "大",
+      "para_index": 3,
+      "para_id": "taixuanjing#47-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次二：大其慮。躬自鑢。測曰：大其慮。爲思所傷也。",
+      "note": "「大其慮。躬自鑢」並直斷「爲思所傷也」，指出思慮過度會反過來傷害自己，屬內在生活。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "逃",
+      "para_index": 3,
+      "para_id": "taixuanjing#51-p03",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "次二：心惕惕。足金舄。不志溝壑。測曰：心惕惕。義不將也。",
+      "note": "「心惕惕」具體呈現人的恐懼，而「不志溝壑」及「義不將」又寫其不以恐懼放棄義的內在選擇。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "減",
+      "para_index": 3,
+      "para_id": "taixuanjing#57-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次二：心減自中。以形於身。測曰：心減形身。困諸中也。",
+      "note": "「心減自中。以形於身」並說「困諸中也」，明言內在困減會顯現在身體，兼涉心理與身體處境。",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "聚",
+      "para_index": 3,
+      "para_id": "taixuanjing#61-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次二：燕聚嘻嘻。測曰：燕聚嘻嘻。樂淫愆也。",
+      "note": "「燕聚嘻嘻」由「樂淫愆也」解釋，指出歡樂一旦放縱過度便成過失，兼涉情緒欲樂與自制。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "疑",
+      "para_index": 2,
+      "para_id": "taixuanjing#64-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "初一：疑恛恛。失貞矢。測曰：不正之疑。何可定也。",
+      "note": "「疑恛恛……不正之疑。何可定也」把盤旋而失準的懷疑與不能安定相連，直接處理人的疑惑狀態。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "疑",
+      "para_index": 3,
+      "para_id": "taixuanjing#64-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次二：疑自反。孚不遠。測曰：疑自反。反清靜也。",
+      "note": "「疑自反。孚不遠……反清靜也」說疑惑能藉反省回到清靜，既談內在狀態，也肯定轉變的可能。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "疑",
+      "para_index": 4,
+      "para_id": "taixuanjing#64-p04",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "次三：疑彊昭，受茲閔閔。于其心祖。測曰：疑彊昭。中心冥也。",
+      "note": "「疑彊昭，受茲閔閔。于其心祖……中心冥也」把強持自明的疑念落到心中昏冥，是對內在經驗的描述。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "疑",
+      "para_index": 5,
+      "para_id": "taixuanjing#64-p05",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "次四：疑考舊。遇貞孚。測曰：疑考舊。先問也。",
+      "note": "「疑考舊……先問也」提出有疑時先考舊、先詢問的處理方式，離開次四仍是面對疑惑的做法。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "養",
+      "para_index": 2,
+      "para_id": "taixuanjing#83-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "初一：藏心於淵。美厥靈根。測曰：藏心於淵。神不外也。",
+      "note": "「藏心於淵。美厥靈根……神不外也」主張把心神收藏於內以養根，談內在生活與自我涵養；神字不是術數外的信仰認證。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "玄瑩",
+      "para_index": 3,
+      "para_id": "taixuanjing#88-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫作者，貴其有循而體自然也。其所循也大，則其體也壯；其所循也小，則其體也瘠。其所",
+      "note": "「文以見乎質，辭以睹乎情，觀其施辭，則其心之所欲者見矣」主張人的言辭會顯出內在實質、情感與欲求，既關乎真實自我的辨識，也直接論及內在生活",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "玄文",
+      "para_index": 3,
+      "para_id": "taixuanjing#90-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或曰：「昆侖旁薄，幽。」何為也？曰：賢人天地，思而包群類也。昆諸中未形乎外，獨居",
+      "note": "本段的解語說「獨居而樂，獨思而憂，樂不可堪，憂不可勝」，實寫人的情緒內景；又說「君子脩德以俟時，不先時而起，不後時而縮」，提出修德與知時進退的品格主張，並非只重述所引贊辭",
       "co_domains": [
         "VII"
       ]

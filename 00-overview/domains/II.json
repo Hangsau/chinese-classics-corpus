@@ -2,9 +2,9 @@
   "domain": "II",
   "name_zh": "自我與認同",
   "gist": "我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我",
-  "generated_at": "2026-08-21T23:04:28+00:00",
-  "para_count": 534,
-  "book_count": 29,
+  "generated_at": "2026-08-21T23:54:33+00:00",
+  "para_count": 552,
+  "book_count": 30,
   "surveyed_zero_hit": [
     "duduan",
     "fangyan",
@@ -6557,6 +6557,234 @@
       "co_domains": [
         "VII",
         "VIII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "上",
+      "para_index": 5,
+      "para_id": "taixuanjing#09-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次四：卽上不貞。無根繁榮。孚虛名。測曰：卽上不貞。妄升也。",
+      "note": "「卽上不貞。無根繁榮。孚虛名。測曰：卽上不貞。妄升也。」把無根據的上升連到虛名，談的是成就追逐與名實失衡",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "增",
+      "para_index": 3,
+      "para_id": "taixuanjing#15-p03",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "次二：不增其方。而增其光。冥。測曰：不增其方。徒飾外也。",
+      "note": "「不增其方。而增其光。冥。測曰：不增其方。徒飾外也。」批評只增外在光飾而沒有實質，涉及名實、自我呈現與品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "銳",
+      "para_index": 6,
+      "para_id": "taixuanjing#16-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次五：銳其東。忘其西。見其背。不見其心。測曰：銳東忘西不能回避也。",
+      "note": "「銳其東。忘其西。見其背。不見其心。測曰：銳東忘西不能回避也。」描寫只看一面便遺忘另一面、不能回視內心的認知偏狹",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "達",
+      "para_index": 5,
+      "para_id": "taixuanjing#17-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次四：小利小達。大迷。扁扁不救。測曰：小達大迷。獨曉隅方也。",
+      "note": "「小利小達。大迷。扁扁不救。測曰：小達大迷。獨曉隅方也。」指出只明白一隅會造成更大的迷惑，談人的理解侷限",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "釋",
+      "para_index": 8,
+      "para_id": "taixuanjing#23-p08",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "次七：震震不侮。濯漱其訽。測曰：震震不侮。解恥無方也。",
+      "note": "「震震不侮。濯漱其訽。測曰：震震不侮。解恥無方也。」寫人在受辱之後洗去訽恥、解除羞恥，落在自我修復與安頓",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "竈",
+      "para_index": 2,
+      "para_id": "taixuanjing#46-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "初一：竈無實。乞於鄰。測曰：竈無實。有虛名也。",
+      "note": "「竈無實。乞於鄰」而測曰「有虛名也」，以無實而徒有名指出名實分離的自我評價問題。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "大",
+      "para_index": 5,
+      "para_id": "taixuanjing#47-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次四：大其門郊。不得其刀。鳴虛。測曰：大其門郊。實去名來也。",
+      "note": "「鳴虛」之後說「實去名來也」，直接辨析實質已失而聲名反來的名實與自我呈現問題。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "文",
+      "para_index": 2,
+      "para_id": "taixuanjing#49-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "初一：袷襀何縵。玉貞。測曰：袷隤何縵。文在內也。",
+      "note": "「袷襀何縵」的外衣形象由「文在內也」反轉，主張真正的文采在內而不只在外表。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "文",
+      "para_index": 3,
+      "para_id": "taixuanjing#49-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次二：文蔚質否。測曰：文蔚質否。不能俱睟也。",
+      "note": "「文蔚質否」把外在文采盛、內在實質不足並置，明說二者「不能俱睟」，涉及表裡與名實。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "文",
+      "para_index": 4,
+      "para_id": "taixuanjing#49-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次三：大文彌樸。孚似不足。測曰：大文彌朴。質有餘也。",
+      "note": "「大文彌樸。孚似不足」而說「質有餘也」，肯定真正成熟的文飾反呈樸素、內在實質有餘。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "文",
+      "para_index": 10,
+      "para_id": "taixuanjing#49-p10",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "上九。極文密密。易以黼黻。測曰：極文之易。當以質也。",
+      "note": "「極文密密」之後說「當以質也」，明確要求在文飾走到極端時回到實質，處理表裡與真實。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "禮",
+      "para_index": 4,
+      "para_id": "taixuanjing#50-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次三：畫象成形。孚無成。測曰：畫象成形。非其真也。",
+      "note": "「畫象成形。孚無成」並直斷「非其真也」，區分外在成形與真實可信，涉及表象和實質。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "飾",
+      "para_index": 3,
+      "para_id": "taixuanjing#63-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次二：無質飾。先文後失服。測曰：無資先文。失貞也。",
+      "note": "「無質飾。先文後失服」以無實質而先求文飾造成失落，談的是外表與實質失配，不只是在報告格位吉凶。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "視",
+      "para_index": 2,
+      "para_id": "taixuanjing#65-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "初一：內其明。不用其光。測曰：內其明。自窺深也。",
+      "note": "「內其明。不用其光……自窺深也」把明收於內以深察自己，明確涉及自我觀照。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "視",
+      "para_index": 3,
+      "para_id": "taixuanjing#65-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次二：君子視內。小人視外。測曰：小人視外。不能見心也。",
+      "note": "「君子視內。小人視外……不能見心也」以能否反觀內心區分兩種人，兼談自我認識與品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "視",
+      "para_index": 7,
+      "para_id": "taixuanjing#65-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次六：素車翠蓋。維視之害。貞。測曰：素車翠蓋。徒好外也。",
+      "note": "「素車翠蓋。維視之害……徒好外也」批評只愛外在華飾，離開次六仍在談外表取向與品格偏差。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "沈",
+      "para_index": 3,
+      "para_id": "taixuanjing#66-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次二：沈視白自見。賢於眇之眄。測曰：沈視之見。得正美也。",
+      "note": "「沈視白自見。賢於眇之眄」把向內深視而自見與盲目斜視對照，談到反觀自己的認識方式。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "玄瑩",
+      "para_index": 3,
+      "para_id": "taixuanjing#88-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫作者，貴其有循而體自然也。其所循也大，則其體也壯；其所循也小，則其體也瘠。其所",
+      "note": "「文以見乎質，辭以睹乎情，觀其施辭，則其心之所欲者見矣」主張人的言辭會顯出內在實質、情感與欲求，既關乎真實自我的辨識，也直接論及內在生活",
+      "co_domains": [
+        "VI"
       ]
     },
     {

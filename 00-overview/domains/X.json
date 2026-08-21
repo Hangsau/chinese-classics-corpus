@@ -2,9 +2,9 @@
   "domain": "X",
   "name_zh": "無常·老·死·失去",
   "gist": "老與時間、失去與哀傷、死亡、耐心與等待",
-  "generated_at": "2026-08-21T23:04:28+00:00",
-  "para_count": 251,
-  "book_count": 20,
+  "generated_at": "2026-08-21T23:54:33+00:00",
+  "para_count": 255,
+  "book_count": 21,
   "surveyed_zero_hit": [
     "dengxizi",
     "duduan",
@@ -2835,6 +2835,62 @@
       "co_domains": [
         "VI",
         "XI"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "樂",
+      "para_index": 6,
+      "para_id": "taixuanjing#26-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次五：鐘鼓喈喈。管弦嚌嚌。或承之衰。測曰：鐘鼓喈喈樂後悲也。",
+      "note": "「鐘鼓喈喈。管弦嚌嚌。或承之衰。測曰：鐘鼓喈喈樂後悲也。」明說歡樂之後會轉為悲哀，談情緒變化與失去",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "樂",
+      "para_index": 10,
+      "para_id": "taixuanjing#26-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "上九。極樂之機。不移日而悲。測曰：極樂之機。信可悔也。",
+      "note": "「極樂之機。不移日而悲。測曰：極樂之機。信可悔也。」提出極樂能在很短時間內轉成悲哀，指出情緒盛極而變的無常",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "裝",
+      "para_index": 9,
+      "para_id": "taixuanjing#33-p09",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "次八：季仲播軌。泣於道。用送厥往。測曰：季仲播軌。送其死也。",
+      "note": "「泣於道。用送厥往」並由測曰明言「送其死」，寫的是人在送死者時的哀泣，兼有喪失與悲痛。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "馴",
+      "para_index": 10,
+      "para_id": "taixuanjing#79-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次九：馴義忘生。賴於天貞。測曰：馴義忘生。受命必也。",
+      "note": "「馴義忘生。賴於天貞……受命必也」寫人為義忘生，明確把品格選擇置於生命死亡之前。",
+      "co_domains": [
+        "VII"
       ]
     },
     {

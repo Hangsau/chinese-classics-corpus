@@ -2,9 +2,9 @@
   "domain": "VIII",
   "name_zh": "工作·成就·召喚",
   "gist": "工作與金錢、成就與意義、天賦與使命",
-  "generated_at": "2026-08-21T23:04:28+00:00",
-  "para_count": 809,
-  "book_count": 35,
+  "generated_at": "2026-08-21T23:54:33+00:00",
+  "para_count": 845,
+  "book_count": 36,
   "surveyed_zero_hit": [
     "duduan",
     "gu-sanfen",
@@ -8537,6 +8537,482 @@
       "co_domains": [
         "VII",
         "V"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "上",
+      "para_index": 5,
+      "para_id": "taixuanjing#09-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次四：卽上不貞。無根繁榮。孚虛名。測曰：卽上不貞。妄升也。",
+      "note": "「卽上不貞。無根繁榮。孚虛名。測曰：卽上不貞。妄升也。」把無根據的上升連到虛名，談的是成就追逐與名實失衡",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "干",
+      "para_index": 4,
+      "para_id": "taixuanjing#10-p04",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "次三：箝鍵挈挈。匪貞。測曰：箝鍵挈挈。干祿回也。",
+      "note": "「箝鍵挈挈。匪貞。測曰：箝鍵挈挈。干祿回也。」明指以邪曲方式求祿，評價的是求取職位的手段與品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "銳",
+      "para_index": 8,
+      "para_id": "taixuanjing#16-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次七：銳於利忝惡至。測曰：銳於利。辱在一方也。",
+      "note": "「銳於利忝惡至。測曰：銳於利。辱在一方也。」把銳意逐利連到羞辱與惡果，評價成就手段及其品格後果",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "䎡",
+      "para_index": 7,
+      "para_id": "taixuanjing#19-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次六：縮失時，或承之菑。測曰：縮失時，坐逋後也。",
+      "note": "「縮失時，或承之菑。測曰：縮失時，坐逋後也。」把退縮失時與落後、受災連成因果，談行動時機和能否改變結果",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "傒",
+      "para_index": 6,
+      "para_id": "taixuanjing#20-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次五：大爵集于宮庸。小人庳傒空。測曰：宮庸之爵。不可空得也。",
+      "note": "「大爵集于宮庸。小人庳傒空。測曰：宮庸之爵。不可空得也。」主張爵位不能憑空取得，涉及成就取得的正當基礎",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "從",
+      "para_index": 3,
+      "para_id": "taixuanjing#21-p03",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "次二：方出旭旭。朋從爾醜。測曰：方出朋從。不知所之也。",
+      "note": "「方出旭旭。朋從爾醜。測曰：方出朋從。不知所之也。」描寫同伴相從卻不知道要往哪裡，談群體追隨與目標方向",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "進",
+      "para_index": 8,
+      "para_id": "taixuanjing#22-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次七：進非其以。聽咎窒耳。測曰：進非其以。毀滋章也。",
+      "note": "「進非其以。聽咎窒耳。測曰：進非其以。毀滋章也。」說不當進取又閉耳拒聽責難，反會使毀議更彰，涉及進取手段與受諫品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "務",
+      "para_index": 6,
+      "para_id": "taixuanjing#28-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次五：蜘蛛之務。不如蠶之緰。測曰：蜘蛛之務。無益於人也。",
+      "note": "「蜘蛛之務。不如蠶之緰。測曰：蜘蛛之務。無益於人也。」以是否有益於人評量勞作，談工作的社會價值",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "務",
+      "para_index": 10,
+      "para_id": "taixuanjing#28-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "上九。務成自敗。雨成自隊。測曰：務成自敗。非厥命也。",
+      "note": "「務成自敗。雨成自隊。測曰：務成自敗。非厥命也。」明說成事後自敗並非命定，把工作成敗的責任推回人的作為",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "事",
+      "para_index": 3,
+      "para_id": "taixuanjing#29-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次二：事在樞。不咎不𧩻。喪其哲符。測曰：不咨不𧩻。其知亡也。",
+      "note": "「事在樞。不咎不𧩻。喪其哲符。測曰：不咨不𧩻。其知亡也。」指出處理關鍵事務而不諮詢會喪失明智，涉及協作與工作判斷",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "事",
+      "para_index": 6,
+      "para_id": "taixuanjing#29-p06",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "次五：事其事。王假之食。測曰：事其事職所任也。",
+      "note": "「事其事。王假之食。測曰：事其事職所任也。」把做好所任之事解為履行職分，直接談人的工作責任",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "事",
+      "para_index": 7,
+      "para_id": "taixuanjing#29-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次六：任大自事。方來不救。測曰：任大自事。奚可堪也。",
+      "note": "「任大自事。方來不救。測曰：任大自事。奚可堪也。」指出獨自承擔過大的任務會無力救應，談工作負荷與能力界限",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "更",
+      "para_index": 9,
+      "para_id": "taixuanjing#30-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次八：駟馬跙跙。能更其禦。測曰：駟馬跙跙。更禦乃良也。",
+      "note": "「駟馬跙跙。能更其禦。測曰：駟馬跙跙。更禦乃良也。」指出受阻時更換御者可以改善，談調整方法與工作結果",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "更",
+      "para_index": 10,
+      "para_id": "taixuanjing#30-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "上九。不終其德。三歲見代。測曰：不終之儀。不可久長也。",
+      "note": "「不終其德。三歲見代。測曰：不終之儀。不可久長也。」把不能貫徹其德連到被取代，談品格持續性與職位後果",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "法",
+      "para_index": 6,
+      "para_id": "taixuanjing#42-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次五：繘陸陸。缾窴腹。井潢洋。終不得食。測曰：缾窴腹。非學方也。",
+      "note": "以「缾窴腹。井潢洋。終不得食」比喻只求填滿卻不能受用，並直斷「非學方也」，是在批評學習方法。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "大",
+      "para_index": 4,
+      "para_id": "taixuanjing#47-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次三：大不大。利以成大。測曰：大不大。以小作基也。",
+      "note": "「大不大。利以成大」由「以小作基也」解釋，提出成就大事須以小處奠基的原理。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "文",
+      "para_index": 9,
+      "para_id": "taixuanjing#49-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次八：雕韱縠布。亡于時文則亂。測曰：雕韱縠布。徒費日也。",
+      "note": "「雕韱縠布。亡于時文則亂」最後直斷「徒費日也」，批評過度雕飾會耗費工作時間而無成。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "逃",
+      "para_index": 7,
+      "para_id": "taixuanjing#51-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次六：多田不婁。費我膎功。測曰：多田不婁。費力亡功也。",
+      "note": "「多田不婁。費我膎功」並斷「費力亡功也」，寫有資源卻未善作而徒耗勞力、無成就。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "逃",
+      "para_index": 9,
+      "para_id": "taixuanjing#51-p09",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "次八：頸加於矰。維糸羽其繩。測曰：頸加維糸羽。毋自勞也。",
+      "note": "「頸加於矰。維糸羽其繩」描述受制後明誡「毋自勞也」，要求停止無效的自我耗損。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "唐",
+      "para_index": 10,
+      "para_id": "taixuanjing#52-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次九：明珠彈於飛肉。其得不復。測曰：明珠彈肉。費不當也。",
+      "note": "「明珠彈於飛肉。其得不復」以珍珠射小物說明投入與所得失衡，測曰直斷「費不當也」。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "積",
+      "para_index": 4,
+      "para_id": "taixuanjing#62-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次三：積石不食。費其勞力。測曰：積石不食。無可獲也。",
+      "note": "「積石不食。費其勞力」並斷「無可獲也」，明說把勞力投入無用積累只會徒勞無獲。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "成",
+      "para_index": 2,
+      "para_id": "taixuanjing#75-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "初一：成若否。其用不已。冥。測曰：成若否。所以不敗也。",
+      "note": "「成若否。其用不已……所以不敗也」說看似已成仍持續用功所以不敗，是關於成就維持的因果。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "成",
+      "para_index": 3,
+      "para_id": "taixuanjing#75-p03",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "次二：成微改改。未成而始。測曰：成微改改。不能自遂也。",
+      "note": "「成微改改。未成而始……不能自遂也」寫事情反覆、未成又始而不能完成自身目標，涉及成就受阻。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "成",
+      "para_index": 5,
+      "para_id": "taixuanjing#75-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次四：將成矜敗。測曰：將成之敗。成道病也。",
+      "note": "「將成矜敗……將成之敗」指出將成功時自矜反致失敗，兼談驕矜品格與成就。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "成",
+      "para_index": 7,
+      "para_id": "taixuanjing#75-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次六：成魁鎖。以成獲禍。測曰：成之魁鎖。不以謙也。",
+      "note": "「以成獲禍……不以謙也」把已成後遭禍歸因於不謙，直接連結品格與成敗。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "失",
+      "para_index": 7,
+      "para_id": "taixuanjing#77-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次六：滿其倉。蕪其田。食其寶。不養其根。測曰：滿食蕪田。不能修本也。",
+      "note": "「滿其倉。蕪其田。食其寶。不養其根……不能修本也」批評只耗庫藏而荒廢生產根本，涉及責任品格與工作的維持。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "劇",
+      "para_index": 9,
+      "para_id": "taixuanjing#78-p09",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "次八：缾累於繘。貞顇。測曰：累於缾。厥職迫也。",
+      "note": "「缾累於繘。貞顇……厥職迫也」以瓶繩受累明說職分受到逼迫，寫到人在職責壓力中的工作處境。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "難",
+      "para_index": 6,
+      "para_id": "taixuanjing#81-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次五：難無間。難大不勤。測曰：難無間。中密塞也。",
+      "note": "「難無間。難大不勤……中密塞也」把重大困難中的不勤與阻塞相連，離開次五仍在談投入不足使工作受困。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "勤",
+      "para_index": 3,
+      "para_id": "taixuanjing#82-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次二：勞有恩。勤悾悾。君子有中。測曰：勞有恩勤。有諸情也。",
+      "note": "「勞有恩。勤悾悾。君子有中……有諸情也」把真實內情、君子持中與勤勞相連，兼談工作投入與品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "勤",
+      "para_index": 5,
+      "para_id": "taixuanjing#82-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次四：勤於力。放倍忘食。大人有克。測曰：勤力忘食。大人德也。",
+      "note": "「勤於力。放倍忘食。大人有克……大人德也」肯定全力投入、忘食而能克成的工作態度與品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "勤",
+      "para_index": 7,
+      "para_id": "taixuanjing#82-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次六：勤有成功。幾於天。測曰：勤有成功。天所來輔也。",
+      "note": "「勤有成功……勤有成功。天所來輔也」直接把勤勞與成功連結；天輔是此格成效的說法，不另作神聖認證。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "勤",
+      "para_index": 8,
+      "para_id": "taixuanjing#82-p08",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "次七：勞牽。不其鼻於尾。弊。測曰：勞牽之弊。其道逆也。",
+      "note": "「勞牽。不其鼻於尾。弊……其道逆也」指出勞作方向顛倒會走向疲弊，是關於無效工作的因果。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "勤",
+      "para_index": 9,
+      "para_id": "taixuanjing#82-p09",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "次八：勞踖踖。心爽蒙柴不卻。測曰：勞踖踖。躬殉國也。",
+      "note": "「勞踖踖。心爽蒙柴不卻……躬殉國也」寫人在勞苦與心亂中仍以身投入國事，涉及工作承擔與公共責任。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "勤",
+      "para_index": 10,
+      "para_id": "taixuanjing#82-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次九：其勤其勤。抱車入淵。負舟上山。測曰：其勤其勤。勞不得也。",
+      "note": "「抱車入淵。負舟上山……勞不得也」以兩種逆勢苦工說明勤而不得其效，核心是努力與成效失配。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "玄瑩",
+      "para_index": 2,
+      "para_id": "taixuanjing#88-p02",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "凡十有二始，群倫抽緒，故有一、二、三，以絓以羅，玄術瑩之。鴻本五行，九位施重，上",
+      "note": "前段反覆「玄術瑩之」是在列十三項對應，但段尾轉為「精以思慮，謀合其適；精以立正，莫之能仆；精以有守，莫之能奪」，主張專精使謀慮合宜並形成不可動搖的正與守，已同時涉及能力發揮與品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "玄棿",
+      "para_index": 2,
+      "para_id": "taixuanjing#91-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "維天肈降生民，使其貌動、口言、目視、耳聽、心思，有法則成，無法則不成，誠有不威。",
+      "note": "「使其貌動、口言、目視、耳聽、心思」列出人可運用的能力，而「有法則成，無法則不成」把能否成事繫於是否遵循法則，明說人的能力發揮與結果具有可改變的條件",
+      "co_domains": [
+        "XI"
       ]
     },
     {

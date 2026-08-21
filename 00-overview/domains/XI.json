@@ -2,9 +2,9 @@
   "domain": "XI",
   "name_zh": "自由·命運·改變",
   "gist": "自由意志與命運、選擇與代價、改變與重來",
-  "generated_at": "2026-08-21T23:04:28+00:00",
-  "para_count": 387,
-  "book_count": 28,
+  "generated_at": "2026-08-21T23:54:33+00:00",
+  "para_count": 417,
+  "book_count": 29,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -4700,6 +4700,410 @@
       "co_domains": [
         "VII",
         "V"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "差",
+      "para_index": 8,
+      "para_id": "taixuanjing#13-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次七：累卵業嶪。懼貞安。測曰：累卵業業。自危作安也。",
+      "note": "「累卵業嶪。懼貞安。測曰：累卵業業。自危作安也。」承重句是人能在危境中作成安全，明確把轉變歸於自身作為",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "差",
+      "para_index": 10,
+      "para_id": "taixuanjing#13-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "上九。過其枯城或蘖青青。測曰：過其枯城。改過更生也。",
+      "note": "「過其枯城或蘖青青。測曰：過其枯城。改過更生也。」直接說人可以改過而重新生長，談的是改變能力與品格更新",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "達",
+      "para_index": 10,
+      "para_id": "taixuanjing#17-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "上九。達於咎。貞終譽。測曰：達咎終譽。善以道退也。",
+      "note": "「達於咎。貞終譽。測曰：達咎終譽。善以道退也。」把善於依道退讓視為從咎中轉出的方式，涉及判斷品格與主動轉變",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "䎡",
+      "para_index": 7,
+      "para_id": "taixuanjing#19-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次六：縮失時，或承之菑。測曰：縮失時，坐逋後也。",
+      "note": "「縮失時，或承之菑。測曰：縮失時，坐逋後也。」把退縮失時與落後、受災連成因果，談行動時機和能否改變結果",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "從",
+      "para_index": 8,
+      "para_id": "taixuanjing#21-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次七：拂其惡。從其淑。雄黃食肉。測曰：拂惡從淑。救凶也。",
+      "note": "「拂其惡。從其淑。雄黃食肉。測曰：拂惡從淑。救凶也。」把拒惡從善視為挽救凶局的人的選擇，涉及品格與改變",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "務",
+      "para_index": 10,
+      "para_id": "taixuanjing#28-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "上九。務成自敗。雨成自隊。測曰：務成自敗。非厥命也。",
+      "note": "「務成自敗。雨成自隊。測曰：務成自敗。非厥命也。」明說成事後自敗並非命定，把工作成敗的責任推回人的作為",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "更",
+      "para_index": 8,
+      "para_id": "taixuanjing#30-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次七：更不更。以作病。測曰：更不更。不能自臧也。",
+      "note": "「更不更。以作病。測曰：更不更。不能自臧也。」把應變而不變連到病害與不能自善，談拒絕改變的品格後果",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "更",
+      "para_index": 9,
+      "para_id": "taixuanjing#30-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次八：駟馬跙跙。能更其禦。測曰：駟馬跙跙。更禦乃良也。",
+      "note": "「駟馬跙跙。能更其禦。測曰：駟馬跙跙。更禦乃良也。」指出受阻時更換御者可以改善，談調整方法與工作結果",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "斷",
+      "para_index": 7,
+      "para_id": "taixuanjing#31-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次六：決不決。爾仇不闊。乃後有鉞。測曰：決不決。辜及其身也。",
+      "note": "「決不決。爾仇不闊。乃後有鉞。測曰：決不決。辜及其身也。」把遲疑不決連到罪責及身，談人的決斷如何改變後果",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "裝",
+      "para_index": 10,
+      "para_id": "taixuanjing#33-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "上九。裝於昏。測曰：裝于昏。尚可避也。",
+      "note": "「裝於昏」之後明說「尚可避也」，重點是人即使已臨昏暗仍有避開後果的可能，離開了單純凶位標籤。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "彊",
+      "para_index": 9,
+      "para_id": "taixuanjing#38-p09",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "次八：彊其衰。勉其弱。測曰：彊其衰。勉白強也。",
+      "note": "「彊其衰。勉其弱」要求在人已衰弱時仍加以振作，談的是主動改變衰勢的能力。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "睟",
+      "para_index": 8,
+      "para_id": "taixuanjing#39-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次七：睟辰愆。君子補愆。測曰：睟辰愆。善補過也。",
+      "note": "「君子補愆」並明說「善補過也」，主張人能以補過之善改正既有錯誤，兼涉品格與改變。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "大",
+      "para_index": 7,
+      "para_id": "taixuanjing#47-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次六：大失小。多失少。測曰：大失小。禍由微也。",
+      "note": "「大失小。多失少」並說「禍由微也」，指出重大後果由忽略細微處逐步形成，談變化的可追溯來源。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "大",
+      "para_index": 8,
+      "para_id": "taixuanjing#47-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次七：大奢迂。自削以觚。或益之餔。測曰：奢迂斥削。能自非也。",
+      "note": "「大奢迂。自削以觚」之後肯定「能自非也」，主張人能辨認自己的奢迂為非並自我修正。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "常",
+      "para_index": 9,
+      "para_id": "taixuanjing#53-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次八：常疾不疾。咎成不詰。測曰：常疾不疾。不能自治也。",
+      "note": "「常疾不疾。咎成不詰」寫疾病已成卻不追究，測曰「不能自治也」，兼涉病中處境與不能主動改變。",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "常",
+      "para_index": 10,
+      "para_id": "taixuanjing#53-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次九：疾其疾。巫醫不失。測曰：疾其疾。能自醫也。",
+      "note": "「疾其疾。巫醫不失」把承認疾病與正確求醫相連，並說「能自醫也」，肯定人可參與自身療治；巫醫在此不另填信仰。",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "減",
+      "para_index": 4,
+      "para_id": "taixuanjing#57-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次三：減其儀。利用光於階。測曰：減其儀。欲自禁也。",
+      "note": "「減其儀」而測曰「欲自禁也」，寫人有意節制自己的外在行止，兼涉自制品格與主動改變。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "翕",
+      "para_index": 9,
+      "para_id": "taixuanjing#60-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次八：揮其罦。絕其羂。殆。測曰：揮罦絕羂。危得遂也。",
+      "note": "「揮其罦。絕其羂」寫主動掙開羅網，並說「危得遂也」，肯定人在危局中仍可藉行動脫困。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "聚",
+      "para_index": 2,
+      "para_id": "taixuanjing#61-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "初一：鬼神以無靈。測曰：鬼神無靈。形不見也。",
+      "note": "「鬼神以無靈」並以「形不見也」給出否定靈驗的理由，把成敗判準拉回可見與否；此段不得含信仰領域。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "積",
+      "para_index": 6,
+      "para_id": "taixuanjing#62-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次五：藏不滿。盜不贏。測曰：藏滿盜贏。還自損也。",
+      "note": "「藏不滿。盜不贏」最後說「還自損也」，指出以盜取求積反而自損，兼涉善惡與行為可改變的後果。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "積",
+      "para_index": 9,
+      "para_id": "taixuanjing#62-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次八：積善辰禍。維先之罪。測曰：積善辰禍。非己辜也。",
+      "note": "「積善辰禍」卻說「維先之罪」及「非己辜也」，區分本人行善、先人之罪與遭禍，提出道德責任和命運不必一致。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "疑",
+      "para_index": 3,
+      "para_id": "taixuanjing#64-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次二：疑自反。孚不遠。測曰：疑自反。反清靜也。",
+      "note": "「疑自反。孚不遠……反清靜也」說疑惑能藉反省回到清靜，既談內在狀態，也肯定轉變的可能。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "視",
+      "para_index": 8,
+      "para_id": "taixuanjing#65-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次七：視其瑕。無穢。測曰：視其瑕。能自矯也。",
+      "note": "「視其瑕。無穢……能自矯也」明說看見自己的瑕疵便能自我矯正，兼具改過品格與改變能力。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "割",
+      "para_index": 3,
+      "para_id": "taixuanjing#72-p03",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "次二：割其肬贅。利以無穢。測曰：割其肬贅。惡不得大也。",
+      "note": "「割其肬贅。利以無穢……惡不得大也」以及早割除贅惡說明不讓惡增長，承載除去過失與改變的因果。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "䦯",
+      "para_index": 9,
+      "para_id": "taixuanjing#76-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次八：輔其折。廅其缺。其人暉且偈。測曰：輔折廅缺。猶可善也。",
+      "note": "「輔其折。廅其缺。其人暉且偈……猶可善也」明說補折填缺後這個人仍可向善，涉及品格與可改變性。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "失",
+      "para_index": 4,
+      "para_id": "taixuanjing#77-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次三：卒而從而。恤而竦而。于其心祖。測曰：卒而從而。能自改也。",
+      "note": "「卒而從而。恤而竦而。于其心祖……能自改也」明確肯定人能由內心反省而自行改變。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "失",
+      "para_index": 6,
+      "para_id": "taixuanjing#77-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次五：黃兒以中蕃。君子以之洗於愆。測曰：黃兒以中。過以洗也。",
+      "note": "「君子以之洗於愆……過以洗也」以君子洗除過愆為承重句，直接談改過品格與改變。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "失",
+      "para_index": 8,
+      "para_id": "taixuanjing#77-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次七：疾則藥。巫則酌。測曰：疾藥巫酌。禍可轉也。",
+      "note": "「疾則藥。巫則酌……禍可轉也」以對症處置證成禍患可以扭轉，核心是改變可能；巫字不構成信仰認證。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "玄攡",
+      "para_index": 8,
+      "para_id": "taixuanjing#87-p08",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "其上也縣天，下也淪淵；纖也入薉，廣也包畛。其道游冥而挹盈，存存而亡亡，微微而章章",
+      "note": "「天豈去人哉？人自去也」把遠離的原因明確放回人的行動，肯定人可自近或自遠；後文神靈、冬夏與日斗只是曆象說明，不構成信仰認證。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "玄棿",
+      "para_index": 2,
+      "para_id": "taixuanjing#91-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "維天肈降生民，使其貌動、口言、目視、耳聽、心思，有法則成，無法則不成，誠有不威。",
+      "note": "「使其貌動、口言、目視、耳聽、心思」列出人可運用的能力，而「有法則成，無法則不成」把能否成事繫於是否遵循法則，明說人的能力發揮與結果具有可改變的條件",
+      "co_domains": [
+        "VIII"
       ]
     },
     {

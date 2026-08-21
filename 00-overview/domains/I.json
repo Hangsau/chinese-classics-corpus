@@ -2,9 +2,9 @@
   "domain": "I",
   "name_zh": "存在與意義",
   "gist": "我為何在此、活著有沒有意義、與想不通的問題共處、在歷史洪流中的渺小",
-  "generated_at": "2026-08-21T23:04:28+00:00",
-  "para_count": 43,
-  "book_count": 13,
+  "generated_at": "2026-08-21T23:54:33+00:00",
+  "para_count": 44,
+  "book_count": 14,
   "surveyed_zero_hit": [
     "cai-zhonglang-ji",
     "dengxizi",
@@ -565,6 +565,20 @@
       "note": "阮籍以無為、盛衰窮達之問叩隱者，兩人終以長嘯相契，呈現對生命本末與超越之道的追索",
       "co_domains": [
         "XII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "玄文",
+      "para_index": 4,
+      "para_id": "taixuanjing#90-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天地之所貴曰生，物之所尊曰人，人之大倫曰治，治之所因曰辟。崇天普地，分群偶物，使",
+      "note": "「天地之所貴曰生，物之所尊曰人」直接判定生命與人的價值；「人之大倫曰治，治之所因曰辟」又把群體秩序與領導者列為人倫核心，因此同時涉及存在價值與治理責任",
+      "co_domains": [
+        "V"
       ]
     },
     {

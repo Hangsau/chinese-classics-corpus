@@ -2,9 +2,9 @@
   "domain": "IX",
   "name_zh": "苦難·疾病·身體",
   "gist": "疾病與身體、受苦的意義、照顧與被照顧",
-  "generated_at": "2026-08-21T23:04:28+00:00",
-  "para_count": 126,
-  "book_count": 20,
+  "generated_at": "2026-08-21T23:54:33+00:00",
+  "para_count": 134,
+  "book_count": 21,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -1348,6 +1348,113 @@
       "excerpt": "凡軍好高而惡下，貴陽而賤陰，養生而處實，軍無百疾，是謂必勝。丘陵堤防，必處其陽，",
       "note": "「養生而處實，軍無百疾」：駐地選擇與部隊疾病的關聯",
       "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "竈",
+      "para_index": 8,
+      "para_id": "taixuanjing#46-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次七：脂牛正肪。不濯釜而烹。則歐歍之疾至。測曰：脂牛歐歍。不絜志也。",
+      "note": "「不濯釜而烹。則歐歍之疾至」明確寫未清洗炊具導致嘔吐疾病，是具體身體處境與可辨原因。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "常",
+      "para_index": 9,
+      "para_id": "taixuanjing#53-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次八：常疾不疾。咎成不詰。測曰：常疾不疾。不能自治也。",
+      "note": "「常疾不疾。咎成不詰」寫疾病已成卻不追究，測曰「不能自治也」，兼涉病中處境與不能主動改變。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "常",
+      "para_index": 10,
+      "para_id": "taixuanjing#53-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次九：疾其疾。巫醫不失。測曰：疾其疾。能自醫也。",
+      "note": "「疾其疾。巫醫不失」把承認疾病與正確求醫相連，並說「能自醫也」，肯定人可參與自身療治；巫醫在此不另填信仰。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "減",
+      "para_index": 3,
+      "para_id": "taixuanjing#57-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次二：心減自中。以形於身。測曰：心減形身。困諸中也。",
+      "note": "「心減自中。以形於身」並說「困諸中也」，明言內在困減會顯現在身體，兼涉心理與身體處境。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "減",
+      "para_index": 8,
+      "para_id": "taixuanjing#57-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次七：減其疾。損其恤。厲不至。測曰：減其疾。不至危也。",
+      "note": "「減其疾。損其恤。厲不至」指出減輕疾病與憂患可使危厲不至，兼寫病苦及其修復安頓。",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "唫",
+      "para_index": 3,
+      "para_id": "taixuanjing#58-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次二：唫於血。資幹骨。測曰：唫於血。臞自肥也。",
+      "note": "「唫於血。資幹骨」並說「臞自肥也」，寫消瘦身體如何由血骨資養而恢復，是具體身體處境。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "唫",
+      "para_index": 8,
+      "para_id": "taixuanjing#58-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次七：唫于體。黃肉毀。測曰：唫於體。骨肉傷也。",
+      "note": "「唫于體。黃肉毀」並說「骨肉傷也」，直接寫對身體的吝惜失當造成肉毀骨傷。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "窮",
+      "para_index": 6,
+      "para_id": "taixuanjing#71-p06",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "次五：羹無糝。其腹坎坎。不失其範。測曰：食不糝。猶不失正也。",
+      "note": "「羹無糝。其腹坎坎。不失其範……猶不失正也」寫人在缺食空腹中仍不失準則，兼具身體困苦與守持品格。",
+      "co_domains": [
+        "VII"
+      ]
     },
     {
       "slug": "weiliaozi",

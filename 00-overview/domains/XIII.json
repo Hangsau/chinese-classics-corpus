@@ -2,9 +2,9 @@
   "domain": "XIII",
   "name_zh": "安頓·修復·平安",
   "gist": "靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈",
-  "generated_at": "2026-08-21T23:04:28+00:00",
-  "para_count": 121,
-  "book_count": 18,
+  "generated_at": "2026-08-21T23:54:33+00:00",
+  "para_count": 124,
+  "book_count": 19,
   "surveyed_zero_hit": [
     "duduan",
     "fangyan",
@@ -1527,6 +1527,46 @@
       "co_domains": [
         "VI"
       ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "釋",
+      "para_index": 8,
+      "para_id": "taixuanjing#23-p08",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "次七：震震不侮。濯漱其訽。測曰：震震不侮。解恥無方也。",
+      "note": "「震震不侮。濯漱其訽。測曰：震震不侮。解恥無方也。」寫人在受辱之後洗去訽恥、解除羞恥，落在自我修復與安頓",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "減",
+      "para_index": 8,
+      "para_id": "taixuanjing#57-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次七：減其疾。損其恤。厲不至。測曰：減其疾。不至危也。",
+      "note": "「減其疾。損其恤。厲不至」指出減輕疾病與憂患可使危厲不至，兼寫病苦及其修復安頓。",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "窮",
+      "para_index": 4,
+      "para_id": "taixuanjing#71-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次三：窮思達。測曰：窮思達。師在心也。",
+      "note": "「窮思達……師在心也」說身處窮境可由內心思索通達，把安頓困境的資源置於自身。",
+      "co_domains": []
     },
     {
       "slug": "xinxu",

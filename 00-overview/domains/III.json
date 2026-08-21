@@ -2,9 +2,9 @@
   "domain": "III",
   "name_zh": "愛與親密",
   "gist": "愛與性、被拒絕、承諾、信任與脆弱、溝通與被理解",
-  "generated_at": "2026-08-21T23:04:28+00:00",
-  "para_count": 103,
-  "book_count": 14,
+  "generated_at": "2026-08-21T23:54:33+00:00",
+  "para_count": 113,
+  "book_count": 15,
   "surveyed_zero_hit": [
     "dengxizi",
     "duduan",
@@ -1301,6 +1301,136 @@
       "note": "「三軍之事，莫親於間」「非仁義不能使間」：把最高度的信任關係放在最需要欺瞞的角色上",
       "co_domains": [
         "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "親",
+      "para_index": 2,
+      "para_id": "taixuanjing#36-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "初一：親非其膚。其志齦齬。測曰：親非其膚。中心閑也。",
+      "note": "「親非其膚。其志齦齬」把親密與表面肌膚區分，並指出內在志意不合才造成「中心閑」，是在談真實親近。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "親",
+      "para_index": 3,
+      "para_id": "taixuanjing#36-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次二：孚其內。其志資戚。測曰：孚其內。人莫間也。",
+      "note": "「孚其內。其志資戚」以內在信實支撐關係，並說「人莫間也」，提出信任使關係不受離間的原理。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "度",
+      "para_index": 9,
+      "para_id": "taixuanjing#54-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次八：石赤不奪。節士之必。測曰：石赤不奪。可與有要也。",
+      "note": "「石赤不奪。節士之必」並說「可與有要也」，把堅定守節說成值得締約與信任的條件。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "唫",
+      "para_index": 4,
+      "para_id": "taixuanjing#58-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次三：貌不交。口唭凝。唫無辭。測曰：貌不交。人道微也。",
+      "note": "「貌不交。口唭凝。唫無辭」由「人道微也」收束，指出缺少表情與言語交流會使人際之道衰微。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "飾",
+      "para_index": 2,
+      "para_id": "taixuanjing#63-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "初一：言不言。不以言。測曰：言不言。默而信也。",
+      "note": "「言不言。不以言。測曰：言不言。默而信也」把少言、沉默與取得信任連起來，挪離初一仍是一則關於溝通與信任的主張。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "飾",
+      "para_index": 8,
+      "para_id": "taixuanjing#63-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次七：不丁言時。微於辭。見上疑。測曰：不丁言時。何可章也。",
+      "note": "「不丁言時。微於辭。見上疑」指出說話失時且表達過微會招致上位者疑惑，離開次七仍在談溝通與被理解。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "飾",
+      "para_index": 9,
+      "para_id": "taixuanjing#63-p09",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "次八：蛁鳴喁喁。血出其口。測曰：蛁鳴喁喁。口自傷也。",
+      "note": "「蛁鳴喁喁。血出其口……口自傷也」用鳴叫傷口承載言語反傷自身的因果，核心是表達方式帶來的傷害。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "飾",
+      "para_index": 10,
+      "para_id": "taixuanjing#63-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次九：白舌于于。屈于根。君子否信。測曰：白舌于於。誠可長也。",
+      "note": "「白舌于于……君子否信……誠可長也」對照浮滑言語的不可信與誠信的可長久，同時涉及溝通信任與品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "內",
+      "para_index": 7,
+      "para_id": "taixuanjing#67-p07",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "次六：黃昏於飛。內其羽。雖欲滿宮。不見其女。測曰：黃昏內羽。不能自禁也。",
+      "note": "「雖欲滿宮。不見其女……不能自禁也」從婚娶象轉為欲求不見對方而不能自制，涉及親密欲望與自我節制。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "馴",
+      "para_index": 7,
+      "para_id": "taixuanjing#79-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次六：囊失括。泄珍器。測曰：囊失括。臣口諡也。",
+      "note": "「囊失括。泄珍器……臣口諡也」把囊口失束比作臣下口舌洩漏，涉及言語節制與公共職責。",
+      "co_domains": [
+        "V"
       ]
     },
     {

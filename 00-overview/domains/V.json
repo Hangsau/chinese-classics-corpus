@@ -2,9 +2,9 @@
   "domain": "V",
   "name_zh": "群體·社會·公義",
   "gist": "孤獨與歸屬、友誼、我群他群與偏見、公義與權力、責任與領導",
-  "generated_at": "2026-08-21T23:04:28+00:00",
-  "para_count": 2555,
-  "book_count": 37,
+  "generated_at": "2026-08-21T23:54:33+00:00",
+  "para_count": 2610,
+  "book_count": 38,
   "surveyed_zero_hit": [
     "haidao-suanjing",
     "jinkui-yaolue",
@@ -27165,6 +27165,726 @@
       "co_domains": [
         "VII",
         "XI"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "干",
+      "para_index": 5,
+      "para_id": "taixuanjing#10-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次四：干言入骨。時貞。測曰：干骨之時。直其道也。",
+      "note": "「干言入骨。時貞。測曰：干骨之時。直其道也。」肯定在適當時機以直道進言，談的是公共進諫中的責任與正直",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "交",
+      "para_index": 4,
+      "para_id": "taixuanjing#18-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次三：交于木石。測曰：交于木石不能向人也。",
+      "note": "「交于木石。測曰：交于木石不能向人也。」用與木石交往反襯不能面向他人，直接評價人的社會交往能力",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "從",
+      "para_index": 3,
+      "para_id": "taixuanjing#21-p03",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "次二：方出旭旭。朋從爾醜。測曰：方出朋從。不知所之也。",
+      "note": "「方出旭旭。朋從爾醜。測曰：方出朋從。不知所之也。」描寫同伴相從卻不知道要往哪裡，談群體追隨與目標方向",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "爭",
+      "para_index": 5,
+      "para_id": "taixuanjing#27-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次四：爭利。不酋貞。測曰：小利不絕。正道乃昏也。",
+      "note": "「爭利。不酋貞。測曰：小利不絕。正道乃昏也。」把爭逐小利連到正道昏暗，談公共競逐及其品格代價",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "爭",
+      "para_index": 10,
+      "para_id": "taixuanjing#27-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "上九。兩虎相牙。知掣者全。測曰：兩虎相牙。知所掣也。",
+      "note": "「兩虎相牙。知掣者全。測曰：兩虎相牙。知所掣也。」借兩虎相鬥主張知道何時收止才能保全，談衝突中的節制判斷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "務",
+      "para_index": 6,
+      "para_id": "taixuanjing#28-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次五：蜘蛛之務。不如蠶之緰。測曰：蜘蛛之務。無益於人也。",
+      "note": "「蜘蛛之務。不如蠶之緰。測曰：蜘蛛之務。無益於人也。」以是否有益於人評量勞作，談工作的社會價值",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "事",
+      "para_index": 3,
+      "para_id": "taixuanjing#29-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次二：事在樞。不咎不𧩻。喪其哲符。測曰：不咨不𧩻。其知亡也。",
+      "note": "「事在樞。不咎不𧩻。喪其哲符。測曰：不咨不𧩻。其知亡也。」指出處理關鍵事務而不諮詢會喪失明智，涉及協作與工作判斷",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "毅",
+      "para_index": 2,
+      "para_id": "taixuanjing#32-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "初一：懷威滿虛。測曰：懷威滿虛。道德亡也。",
+      "note": "「懷威滿虛。測曰：懷威滿虛。道德亡也。」指出內在空虛卻充滿威勢會喪失道德，涉及權力姿態與品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "毅",
+      "para_index": 5,
+      "para_id": "taixuanjing#32-p05",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "次四：君子說器。其言柔且毅。測曰：君子說器。言有方也。",
+      "note": "「君子說器。其言柔且毅。測曰：君子說器。言有方也。」肯定既柔和又堅定、合乎方法的言說，談公共溝通中的品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "毅",
+      "para_index": 6,
+      "para_id": "taixuanjing#32-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次五：不田而轂。毅於楝祿。測曰：不田而轂。食不當也。",
+      "note": "「不田而轂。毅於楝祿。測曰：不田而轂。食不當也。」批評未耕作而取食，談分配正當性與不當得利",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "密",
+      "para_index": 3,
+      "para_id": "taixuanjing#35-p03",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "次二：不密不比。我心卽次。測曰：不密不比。違厥鄉也。",
+      "note": "「不密不比。我心卽次」並說「違厥鄉」，實寫一個人無所親比、內心寄止而離開原有共同體的歸屬處境。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "密",
+      "para_index": 7,
+      "para_id": "taixuanjing#35-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次六：大惡之比。或益之恤。測曰：大惡之比。匹異同也。",
+      "note": "「大惡之比。或益之恤」明說與大惡者結比會增加憂患，兼論交往對象與善惡判斷。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "親",
+      "para_index": 5,
+      "para_id": "taixuanjing#36-p05",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "次四：賓親於禮。飲食幾幾。測曰：賓親於禮。賓主偕也。",
+      "note": "「賓親於禮。飲食幾幾」具體寫賓主以禮飲食而「賓主偕」，是人際接待與共同體交往。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "親",
+      "para_index": 6,
+      "para_id": "taixuanjing#36-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次五：厚不厚。比人將走。測曰：厚不厚。失類無方也。",
+      "note": "「厚不厚。比人將走」明說待人不厚會使相與者離去，提出維繫歸屬關係的行為後果。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "親",
+      "para_index": 7,
+      "para_id": "taixuanjing#36-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次六：厚厚。君子秉鬥。測曰：厚厚君子。得人無疆也。",
+      "note": "「厚厚。君子秉鬥」而測曰「得人無疆」，把厚道品格與能聚集人心連成因果。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "斂",
+      "para_index": 2,
+      "para_id": "taixuanjing#37-p02",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "初一：小斂不貨。利用安人正國。測曰：小斂不貨。其道富也。",
+      "note": "「利用安人正國」直接提出使人民安定、國家歸正的治理行動，已不只是初一吉位。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "斂",
+      "para_index": 5,
+      "para_id": "taixuanjing#37-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次四：斂利小刑。小進大退。測曰：斂利小刑。其政退也。",
+      "note": "「斂利小刑。小進大退」並斷「其政退也」，明說偏用小刑會使治理退步，涉及權力與公義。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "彊",
+      "para_index": 5,
+      "para_id": "taixuanjing#38-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次四：爰聰爰明。左右壃壃。測曰：爰聰爰明庶士方來也。",
+      "note": "「爰聰爰明」而「庶士方來」，把領導者的聰明辨察與人才來歸連起來，涉及領導及群體凝聚。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "彊",
+      "para_index": 8,
+      "para_id": "taixuanjing#38-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次七：金剛肉柔。血流于田。測曰：金剛肉柔。法太傷也。",
+      "note": "「金剛肉柔。血流于田」由測曰收束為「法太傷也」，指出法令過剛會造成實際傷害，涉及權力尺度。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "盛",
+      "para_index": 4,
+      "para_id": "taixuanjing#40-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次三：懷利滿匈。不利大公。測曰：懷利滿匈。營利門也。",
+      "note": "「懷利滿匈。不利大公」把滿懷私利與傷害公共利益直接對置，兼涉自私品格與公義。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "盛",
+      "para_index": 5,
+      "para_id": "taixuanjing#40-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次四：小盛臣臣。大人之門。測曰：小盛臣臣。事仁賢也。",
+      "note": "「小盛臣臣」而測曰「事仁賢也」，肯定以臣職事奉仁者賢者的社會選擇與品格取向。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "法",
+      "para_index": 2,
+      "para_id": "taixuanjing#42-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "初一：造法不法。測曰：造法不法。不足用也。",
+      "note": "「造法不法」並斷「不足用也」，主張不合規範的立法本身不能施用，涉及制度正當性。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "法",
+      "para_index": 3,
+      "para_id": "taixuanjing#42-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次二：摹法以中。克。測曰：摹法以中。衆之所共也。",
+      "note": "「摹法以中」而成為「衆之所共」，指出公共規範須能為眾人共同遵循。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "法",
+      "para_index": 5,
+      "para_id": "taixuanjing#42-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次四：準繩規矩。莫違我施。測曰：準繩規矩。由身行也。",
+      "note": "「準繩規矩。莫違我施」由「由身行也」解釋，主張公共規矩要先由自身實踐，兼涉治理與品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "法",
+      "para_index": 8,
+      "para_id": "taixuanjing#42-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次七：密綱離於淵。不利於鱗。測曰：密綱離淵。苛法張也。",
+      "note": "「密綱離於淵。不利於鱗」由測曰明定為「苛法張也」，指出法網過密會傷害受其支配者。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "法",
+      "para_index": 9,
+      "para_id": "taixuanjing#42-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次八：正彼有辜。格我無邪。測曰：正彼有辜。歐而至也。",
+      "note": "「正彼有辜。格我無邪」區分有罪與無邪者，核心是權力施罰時如何對待罪與無辜。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "法",
+      "para_index": 10,
+      "para_id": "taixuanjing#42-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "上九。井無干。水直衍。匪溪匪穀。終於愆。測曰：井無干。法妄恣也。",
+      "note": "「井無干。水直衍」以無界之水比法令失去約束，測曰直指「法妄恣也」，是在批評恣意權力。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "迎",
+      "para_index": 2,
+      "para_id": "taixuanjing#44-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "初一：迎他匪並。無貞有邪。測曰：迎他匪應。緋所與並也。",
+      "note": "「迎他匪並。無貞有邪」並說「非所與並」，評的是人應與何人並處及錯誤結伴的後果。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "迎",
+      "para_index": 3,
+      "para_id": "taixuanjing#44-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次二：蛟潛於淵。陵卵化之。人或陰言。百姓和之。測曰：蛟潛之化。中精誠也。",
+      "note": "「人或陰言。百姓和之」由「中精誠也」說明，將內在真誠、言說與群眾和應連成因果。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "迎",
+      "para_index": 9,
+      "para_id": "taixuanjing#44-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次八：見血入門。捬迎中庭。測曰：見血入門。以賢自衛也。",
+      "note": "「見血入門」的危局中明說「以賢自衛也」，把選用賢者說成自我與群體防衛的方式。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "廓",
+      "para_index": 5,
+      "para_id": "taixuanjing#48-p05",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "次四：恢其門戶。用圉寇虜。測曰：恢其門戶。大經營也。",
+      "note": "「恢其門戶。用圉寇虜」把擴充防衛設施說成抵禦侵害的公共經營，涉及群體安全與治理責任。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "廓",
+      "para_index": 7,
+      "para_id": "taixuanjing#48-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次六：維豐維崇。百辟馮馮。伊德攸興。測曰：維豐維崇。茲太平也。",
+      "note": "「百辟馮馮。伊德攸興」由「茲太平也」收束，把德的興起與眾君協和、公共太平相連。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "廓",
+      "para_index": 8,
+      "para_id": "taixuanjing#48-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次七：外大杚。其中失。君子至野。小人入宅。測曰：外大杚。中無人也。",
+      "note": "「君子至野。小人入宅」並斷「中無人也」，指出賢者被逐在外、失當者進入核心的權力失序。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "廓",
+      "para_index": 10,
+      "para_id": "taixuanjing#48-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "上九。極廓于高庸。三歲無童。測曰：極廓高庸。終無所臣也。",
+      "note": "「極廓于高庸。三歲無童」最後說「終無所臣也」，指出權勢過度向外擴張會失去可治理與追隨的人。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "禮",
+      "para_index": 8,
+      "para_id": "taixuanjing#50-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次七：出禮不畏。入畏。測曰：出禮不畏。人所棄也。",
+      "note": "「出禮不畏。入畏」而測曰「人所棄也」，明說無敬地越禮會招致群體棄絕，兼涉品格與歸屬。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "唐",
+      "para_index": 7,
+      "para_id": "taixuanjing#52-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次六：唐不獨足。代天班祿。測曰：唐不獨足。無私容也。",
+      "note": "「代天班祿」並說「無私容也」，肯定分配公共祿位時不容私心，兼涉公義與無私品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "昆",
+      "para_index": 5,
+      "para_id": "taixuanjing#56-p05",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "次四：鳥託巢於菆。人寄命於公。測曰：鳥託巢。公無貧也。",
+      "note": "「鳥託巢於菆。人寄命於公」明確轉到人把生命託付公共領導者，涉及個人與權力共同體的依賴。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "昆",
+      "para_index": 7,
+      "para_id": "taixuanjing#56-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次六：昆于井市。文車同軌。測曰：昆于井市。同一倫也。",
+      "note": "「昆于井市。文車同軌」並說「同一倫也」，主張公共生活可由共同軌則形成秩序。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "昆",
+      "para_index": 8,
+      "para_id": "taixuanjing#56-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次七：蓋偏不覆。晏雨不救。測曰：蓋偏不覆。德不均也。",
+      "note": "「蓋偏不覆。晏雨不救」由「德不均也」解釋，指出恩澤偏私、不均就不能普遍庇護，涉及公義。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "減",
+      "para_index": 7,
+      "para_id": "taixuanjing#57-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次六：幽闡積。不減不施。石。測曰：幽闡不施。澤不平也。",
+      "note": "「不減不施」而斷「澤不平也」，指出既不自減也不施予會造成恩澤分配不均，涉及公共公平。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "唫",
+      "para_index": 2,
+      "para_id": "taixuanjing#58-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "初一：唫不予。丈夫婦處。測曰：唫不予。人所違也。",
+      "note": "「唫不予」而測曰「人所違也」，明說吝而不給會使他人離棄，兼涉吝嗇品格與群體關係。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "唫",
+      "para_index": 5,
+      "para_id": "taixuanjing#58-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次四：唫其穀。不振不俗。累老及族。測曰：唫其穀。不得相希也。",
+      "note": "「唫其穀。不振不俗。累老及族」明說囤穀不濟會連累老人與宗族，破壞彼此扶助。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "守",
+      "para_index": 7,
+      "para_id": "taixuanjing#59-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次六：車案軔。圭璧塵。測曰：車案軔。不接鄰也。",
+      "note": "「車案軔。圭璧塵」由「不接鄰也」解釋，指出過度閉置使人與鄰里失去接觸，涉及社會連結。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "翕",
+      "para_index": 5,
+      "para_id": "taixuanjing#60-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次四：翕其羽。利用舉。測曰：翕其羽。朋友助也。",
+      "note": "「翕其羽。利用舉」由「朋友助也」說明，明確把朋友的支持說成人得以上舉的原因。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "積",
+      "para_index": 7,
+      "para_id": "taixuanjing#62-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次六：大滿碩施。得人無亢。測曰：大滿碩施。人所來也",
+      "note": "「大滿碩施」而「人所來也」，明說充足後廣施會使人來歸，兼涉慷慨品格與群體凝聚。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "視",
+      "para_index": 4,
+      "para_id": "taixuanjing#65-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次三：視其德。可以幹王之國。測曰：視德之幹。乃能有全也。",
+      "note": "「視其德。可以幹王之國……乃能有全也」把考察德行與能否承擔治國責任連起來，涉及品格與公共領導。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "去",
+      "para_index": 5,
+      "para_id": "taixuanjing#68-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次四：去于子父。去于臣主。測曰：去于子父。非所望也。",
+      "note": "「去于子父。去于臣主……非所望也」直接把父子與君臣關係的離散評為不應期望，兼及家庭傳承與公共關係。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "割",
+      "para_index": 5,
+      "para_id": "taixuanjing#72-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次四：宰割平平。測曰：宰割平平。能有誠也。",
+      "note": "「宰割平平……能有誠也」把分割得平與能建立誠信相連，涉及公平處置及可信品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "割",
+      "para_index": 7,
+      "para_id": "taixuanjing#72-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次六：割之無創。飽于四方。測曰：割之無創。道可分也。",
+      "note": "「割之無創。飽于四方……道可分也」主張分配若不造成創傷即可使四方充足，離開次六仍有公共分配意義。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "馴",
+      "para_index": 7,
+      "para_id": "taixuanjing#79-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次六：囊失括。泄珍器。測曰：囊失括。臣口諡也。",
+      "note": "「囊失括。泄珍器……臣口諡也」把囊口失束比作臣下口舌洩漏，涉及言語節制與公共職責。",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "將",
+      "para_index": 9,
+      "para_id": "taixuanjing#80-p09",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "次八：小子在淵。丈人播舡。測曰：丈人播舡。濟弱世也。",
+      "note": "「小子在淵。丈人播舡……濟弱世也」讓有能力的長者行舟救濟弱者，承載公共責任與扶助的主張。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "勤",
+      "para_index": 9,
+      "para_id": "taixuanjing#82-p09",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "次八：勞踖踖。心爽蒙柴不卻。測曰：勞踖踖。躬殉國也。",
+      "note": "「勞踖踖。心爽蒙柴不卻……躬殉國也」寫人在勞苦與心亂中仍以身投入國事，涉及工作承擔與公共責任。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "玄攡",
+      "para_index": 5,
+      "para_id": "taixuanjing#87-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "縣之者、權也，平之者、衡也。濁者使清，險者使平。離乎情者必著乎偽，離乎偽者必著乎",
+      "note": "「情偽相盪而君子小人之道較然見矣」辨真情與偽飾；「高者下之，卑者舉之，饒者取之，罄者與之」又提出平衡高下有無的公共原則。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "玄文",
+      "para_index": 2,
+      "para_id": "taixuanjing#90-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "罔直蒙酋冥。言出乎罔，行出乎罔，禍福出乎罔。罔之時玄矣哉。行則有蹤，言則有聲，福",
+      "note": "「故君子藏淵足以禮神，發動足以振眾，高明足以覆照」把深藏、發動、高明等能力轉寫成君子的德行與帶領眾人的作用，並以「君子能此五者」明確評價理想人格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "玄文",
+      "para_index": 4,
+      "para_id": "taixuanjing#90-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天地之所貴曰生，物之所尊曰人，人之大倫曰治，治之所因曰辟。崇天普地，分群偶物，使",
+      "note": "「天地之所貴曰生，物之所尊曰人」直接判定生命與人的價值；「人之大倫曰治，治之所因曰辟」又把群體秩序與領導者列為人倫核心，因此同時涉及存在價值與治理責任",
+      "co_domains": [
+        "I"
       ]
     },
     {

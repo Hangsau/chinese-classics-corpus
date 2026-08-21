@@ -2,9 +2,9 @@
   "domain": "XII",
   "name_zh": "信仰·神聖·超越",
   "gist": "神存在嗎、信與疑、敬畏與美、神秘經驗",
-  "generated_at": "2026-08-21T23:04:28+00:00",
-  "para_count": 175,
-  "book_count": 21,
+  "generated_at": "2026-08-21T23:54:33+00:00",
+  "para_count": 179,
+  "book_count": 22,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -1810,6 +1810,54 @@
       ],
       "excerpt": "《孫子占》曰：「三軍將行，其旌旗從容以向前，是為天送，必亟擊之，得其大將。三軍將",
       "note": "《孫子占》軍事占候表，與〈用間〉「先知者不可取於鬼神」直接衝突，是本篇後世附益的內證",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "周",
+      "para_index": 7,
+      "para_id": "taixuanjing#04-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次六：信周其誠。上亨於天。測曰：信周其誠。上通也。",
+      "note": "「信周其誠。上亨於天」並以「上通也」收束，直接認證誠信能與天相通，屬於文本肯定的超越感應",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "交",
+      "para_index": 3,
+      "para_id": "taixuanjing#18-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次二：冥交有孚。明如。測曰：冥交之孚。信接神明也。",
+      "note": "「冥交有孚。明如。測曰：冥交之孚。信接神明也。」明確認證誠信可以接通神明，屬於超越感應的肯定側",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "唫",
+      "para_index": 9,
+      "para_id": "taixuanjing#58-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次八：唫遇禍。禱以牛。解。測曰：唫遇禍。大費當也。",
+      "note": "「唫遇禍。禱以牛。解」由文本自身認證以牛祈禱能解除禍患，這是超越實踐的認證側。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "聚",
+      "para_index": 7,
+      "para_id": "taixuanjing#61-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次六：畏其鬼。尊其體。狂作眯淫。亡。測曰：畏鬼之狂。過其正也。",
+      "note": "「畏其鬼……狂作眯淫」並斷「畏鬼之狂。過其正也」，直接評價對鬼神的恐懼已失去分寸。",
       "co_domains": []
     },
     {

@@ -2,9 +2,9 @@
   "domain": "IV",
   "name_zh": "家庭與傳承",
   "gist": "婚姻與家庭、原生家庭的傷、為人父母、記憶與和解、留下什麼給後代",
-  "generated_at": "2026-08-21T23:04:28+00:00",
-  "para_count": 507,
-  "book_count": 28,
+  "generated_at": "2026-08-21T23:54:33+00:00",
+  "para_count": 519,
+  "book_count": 29,
   "surveyed_zero_hit": [
     "fangyan",
     "gongsun-longzi",
@@ -5391,6 +5391,160 @@
       "note": "「散地士卒顧家」「安土懷生」：本土作戰時家庭牽掛被視為戰力弱點",
       "co_domains": [
         "VI"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "戾",
+      "para_index": 5,
+      "para_id": "taixuanjing#08-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次四：夫妻反道。維家之保。測曰：夫妻反道各有守也。",
+      "note": "「夫妻反道。維家之保。測曰：夫妻反道各有守也。」談夫妻各守其分如何維持家庭，挪離四位仍是一項家內關係主張",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "密",
+      "para_index": 4,
+      "para_id": "taixuanjing#35-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次三：密於親。利以作人。測曰：密于親。爲利臧也。",
+      "note": "「密於親。利以作人」把親族間的親密直接說成人之所以能成立的有利條件，談的是家庭聯結。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "居",
+      "para_index": 2,
+      "para_id": "taixuanjing#41-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "初一：匪譽匪咎。克守厥家。測曰：匪譽厞咎。其道常也。",
+      "note": "「匪譽匪咎。克守厥家」寫人在外界譽咎之外仍能守住自己的家庭，是家庭安頓與承擔。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "居",
+      "para_index": 3,
+      "para_id": "taixuanjing#41-p03",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "次二：家無壺。婦承之姑。或洗之塗。測曰：家無壺。無以相承也。",
+      "note": "「家無壺。婦承之姑」並說「無以相承」，具體呈現媳婦與姑之間家內承續失去依憑。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "居",
+      "para_index": 4,
+      "para_id": "taixuanjing#41-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次三：長幼序。子克父。測曰：子克父。乃能有興也。",
+      "note": "「長幼序。子克父」把長幼有序、子能承父說成家庭得以興起的條件，直接談代際承續。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "廓",
+      "para_index": 4,
+      "para_id": "taixuanjing#48-p04",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "次三：廓無子。室石婦。測曰：廓無子。焉得後生也。",
+      "note": "「廓無子。室石婦」並問「焉得後生」，具體寫無子而無法延續後代的家庭與傳承困境。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "永",
+      "para_index": 2,
+      "para_id": "taixuanjing#55-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "初一：不替不爽。長子之常。測曰：不替不爽。永宗道也。",
+      "note": "「不替不爽。長子之常」並說「永宗道也」，把不廢不差的品格與長子延續宗族之道連在一起。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "永",
+      "para_index": 5,
+      "para_id": "taixuanjing#55-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次四：子序不序。先賓永失主。測曰：子序不序。非永方也。",
+      "note": "「子序不序。先賓永失主」指出代際與主客次序混亂會使家庭承續失去主人。",
+      "co_domains": []
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "永",
+      "para_index": 9,
+      "para_id": "taixuanjing#55-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次八：永不軌。凶亡流於後。測曰：永不軌。其命劑也。",
+      "note": "「永不軌。凶亡流於後」明說長期偏離正軌會把禍患流給後代，兼涉品格後果與代際傳承。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "唫",
+      "para_index": 5,
+      "para_id": "taixuanjing#58-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次四：唫其穀。不振不俗。累老及族。測曰：唫其穀。不得相希也。",
+      "note": "「唫其穀。不振不俗。累老及族」明說囤穀不濟會連累老人與宗族，破壞彼此扶助。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "積",
+      "para_index": 10,
+      "para_id": "taixuanjing#62-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次九：小人積非。至於苗裔。測曰：小人積非。禍所骫也。",
+      "note": "「小人積非。至於苗裔」明說一人的過非會累積並延及後代，兼涉惡行與家族傳承後果。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "taixuanjing",
+      "chapter": "去",
+      "para_index": 5,
+      "para_id": "taixuanjing#68-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "次四：去于子父。去于臣主。測曰：去于子父。非所望也。",
+      "note": "「去于子父。去于臣主……非所望也」直接把父子與君臣關係的離散評為不應期望，兼及家庭傳承與公共關係。",
+      "co_domains": [
+        "V"
       ]
     },
     {
