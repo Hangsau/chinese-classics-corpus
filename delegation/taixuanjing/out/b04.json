@@ -1,0 +1,397 @@
+{
+  "batch": "b04.md",
+  "rows": [
+    {
+      "chapter": "玄瑩",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「日月紀數」「周流九虛，而禍福絓羅」把天地、曆紀與九虛禍福編入玄的格局；「群倫品庶」只是格局所涵攝的類目，沒有另對人的活法或品性立論"
+    },
+    {
+      "chapter": "玄瑩",
+      "para_index": 2,
+      "domains": ["VII", "VIII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "前段反覆「玄術瑩之」是在列十三項對應，但段尾轉為「精以思慮，謀合其適；精以立正，莫之能仆；精以有守，莫之能奪」，主張專精使謀慮合宜並形成不可動搖的正與守，已同時涉及能力發揮與品格"
+    },
+    {
+      "chapter": "玄瑩",
+      "para_index": 3,
+      "domains": ["II", "VI"],
+      "modes": ["proposition"],
+      "reason": "「文以見乎質，辭以睹乎情，觀其施辭，則其心之所欲者見矣」主張人的言辭會顯出內在實質、情感與欲求，既關乎真實自我的辨識，也直接論及內在生活"
+    },
+    {
+      "chapter": "玄瑩",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「因革乎因革，國家之矩范也。矩范之動，成敗之效也」把因循與變革收束為國家運作的矩范；全段在說這套體例如何兼顧因革，沒有對個人的人生處境或品性下判斷"
+    },
+    {
+      "chapter": "玄瑩",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「立天之經曰陰與陽，形地之緯曰從與橫，表人之行曰晦與明」建立陰陽、從橫、晦明三軸；末句「君子之道也」只是替三軸作總標，沒有承載另一步的人生主張"
+    },
+    {
+      "chapter": "玄瑩",
+      "para_index": 6,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「故君子內正而外馴，每以下人。是以動得福而亡禍也」把內在端正、外在和順與謙下於人列為君子的行止，並明說這種品格如何影響行動結果"
+    },
+    {
+      "chapter": "玄數",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「休則逢陽，星時數辭從；咎則逢陰，星時數辭違」規定休咎判讀，而「不精不筮，不疑不筮，不軌不筮」規定起筮條件；神靈字樣屬筮法程序，不是人的修養或信仰主張"
+    },
+    {
+      "chapter": "玄數",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「中分其餘，以三搜之」到「一違二違三違，是謂大咎」逐步規定分策、計餘與從違休咎的算法，是完整的筮算程序"
+    },
+    {
+      "chapter": "玄數",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「三八為木，為東方，為春」以下逐欄配當木的方位、時令、身體與事物；「性仁，情喜」也是木項下的配屬欄，不是在陳述人的品格或情緒"
+    },
+    {
+      "chapter": "玄數",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「四九為金，為西方，為秋」領起金的長串配當，「性誼，情怒」「為毉，為巫祝」都只是同一表列中的欄位，沒有獨立的人生或信仰判斷"
+    },
+    {
+      "chapter": "玄數",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「二七為火，為南方，為夏」以下把聲色、臟腑、人物與器物列為火的配項；「性禮，情樂」是表格欄位，不是對人的德性或感受立論"
+    },
+    {
+      "chapter": "玄數",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「一六為水，為北方，為冬」領起水的配當清單；「性智，情悲」「為鬼，為祠，為廟」與其他物類並列，均是技術對應，不能據詞面標心理或信仰領域"
+    },
+    {
+      "chapter": "玄數",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「五五為土，為中央，為四維」以下是土的配當長表；「藏心，侟神，性信，情恐懼」只是臟、神、性、情各欄的對應，不是在描述一個人的恐懼或信念"
+    },
+    {
+      "chapter": "玄數",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「五行用事者王，王所生相，故王廢，勝王囚，王所勝死」依五行關係給出王、相、廢、囚、死五種技術狀態，並非人在權力、死亡或苦難中的處境"
+    },
+    {
+      "chapter": "玄數",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「黃鍾生林鍾」以下排出律呂相生次序，又以「子午之數九，丑未八」計算律呂度數；「宮為君」「角為民」只是聲位配名，整段是配當與算數"
+    },
+    {
+      "chapter": "玄數",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「九天：一為中天」至「九為成天」把九個天名依一至九順序填入九位，是純序列表"
+    },
+    {
+      "chapter": "玄數",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「九地：一為沙泥」至「九為上山」依一至九排列九種地形，只是在建立九位對照表"
+    },
+    {
+      "chapter": "玄數",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「九人：一為下人」到「七為失志，八為疾瘀，九為極」是與九天、九地同型的九格序列表；失志與疾瘀是格名，不是人的心理或身體處境"
+    },
+    {
+      "chapter": "玄數",
+      "para_index": 13,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「九體：一為手足」至「九為顙」把身體部位依一至九排入表中，沒有描述任何人如何經驗自己的身體"
+    },
+    {
+      "chapter": "玄數",
+      "para_index": 14,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「九屬：一為玄孫」一路排到「九為高祖父」只是把九等親屬填入九位的親等階梯，沒有談親子互動、教養或傳承問題"
+    },
+    {
+      "chapter": "玄數",
+      "para_index": 15,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「九竅：一六為前，為耳，二七為目」把耳目鼻口等孔竅配入數位，是身體部件對照表而非疾病或身體經驗"
+    },
+    {
+      "chapter": "玄數",
+      "para_index": 16,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「九序：一為孟孟」至「九為季季」窮舉孟、仲、季的九種組合，是純粹的九位次序表"
+    },
+    {
+      "chapter": "玄數",
+      "para_index": 17,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「九事：一為規模」到「九為盡弊」把九個事態名稱順次配位；消、耗、盡弊只是表內格名，未對人的成敗或苦難提出主張"
+    },
+    {
+      "chapter": "玄數",
+      "para_index": 18,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「九年：一為一十，二為二十」至「九為九十」把十年至九十年填入九位，是年數序列表，不是人生階段、衰老或死亡論述"
+    },
+    {
+      "chapter": "玄數",
+      "para_index": 19,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「家一置一，二置二，三置三」逐層規定家、部、州、方的增數，並以「置玄姓去太始策數，減而九之」說明求贊與求日的算法，是推玄筭程序"
+    },
+    {
+      "chapter": "玄文",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "「罔、北方也，冬也」「直、東方也，春也」依方位與時令解釋罔直蒙酋冥，後文「出冥入冥，新故更代」仍在說五階循環；貴賤字樣是時位評價，沒有另論人的處境"
+    },
+    {
+      "chapter": "玄文",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「故君子藏淵足以禮神，發動足以振眾，高明足以覆照」把深藏、發動、高明等能力轉寫成君子的德行與帶領眾人的作用，並以「君子能此五者」明確評價理想人格"
+    },
+    {
+      "chapter": "玄文",
+      "para_index": 3,
+      "domains": ["VI", "VII"],
+      "modes": ["proposition"],
+      "reason": "本段的解語說「獨居而樂，獨思而憂，樂不可堪，憂不可勝」，實寫人的情緒內景；又說「君子脩德以俟時，不先時而起，不後時而縮」，提出修德與知時進退的品格主張，並非只重述所引贊辭"
+    },
+    {
+      "chapter": "玄文",
+      "para_index": 4,
+      "domains": ["I", "V"],
+      "modes": ["proposition"],
+      "reason": "「天地之所貴曰生，物之所尊曰人」直接判定生命與人的價值；「人之大倫曰治，治之所因曰辟」又把群體秩序與領導者列為人倫核心，因此同時涉及存在價值與治理責任"
+    },
+    {
+      "chapter": "玄棿",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「首者、天性也。衝、對其正也。錯、絣也。測、所以知其情」逐項定義首、衝、錯、測及七篇功能，是玄的篇章體例與判讀說明"
+    },
+    {
+      "chapter": "玄棿",
+      "para_index": 2,
+      "domains": ["VIII", "XI"],
+      "modes": ["proposition"],
+      "reason": "「使其貌動、口言、目視、耳聽、心思」列出人可運用的能力，而「有法則成，無法則不成」把能否成事繫於是否遵循法則，明說人的能力發揮與結果具有可改變的條件"
+    },
+    {
+      "chapter": "玄棿",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「衣裳之示，以示天下。棿擬之三八」把衣裳的象徵作用掛靠到三八，是擬象清單的一項，不是在討論身分或社會評價"
+    },
+    {
+      "chapter": "玄棿",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「比札為甲，冠矜為戟」列出甲戟之象，並以「棿擬之四九」標明其數位掛靠；威懾不恪只是這項擬象的取義"
+    },
+    {
+      "chapter": "玄棿",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「尊尊為君，卑卑為臣，君臣之制，上下以際」被明確收在「棿擬之二七」之下，是二七的君臣擬象，不是對權力關係或領導倫理另作判斷"
+    },
+    {
+      "chapter": "玄棿",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「故聖人著之以祀典。棿擬之一六」說明祀典如何被制訂並把它掛靠一六；「鬼神耗荒」「祭之無度」是制度由來的取義，不是認證神靈感應的信仰主張"
+    },
+    {
+      "chapter": "玄棿",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「時天時，力地力，維酒維食，爰作稼穡」描寫農作之象，末句「棿擬之五五」明示它是五五的掛靠項，而非對職業或勞動人生的討論"
+    },
+    {
+      "chapter": "玄棿",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「古者寶龜而貨貝，後世君子易之以金弊」提供貨幣變遷之象，隨即以「棿擬之思慮」掛入玄的層位，沒有另論個人財富或群體公義"
+    },
+    {
+      "chapter": "玄棿",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「建侯開國，渙爵般秩」後標「棿、擬之福」，「維用五刑」後標「棿擬之禍」；爵秩與五刑分別只是福、禍兩層的擬象項"
+    },
+    {
+      "chapter": "玄棿",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「秉圭戴璧，臚湊群辟」與「杼柚既施，民得以燠」分別由「棿擬之八十一首」「棿擬之經緯」掛靠，是兩項制度與器物擬象"
+    },
+    {
+      "chapter": "玄棿",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「雕割匏、竹、革、木、土、金，擊石彈絲」列製作樂器之象，並以「棿擬之八風」指定對應，沒有另談人的情緒或社會和諧實踐"
+    },
+    {
+      "chapter": "玄棿",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「陰陽相錯，男女不相射，人人物物，各由厥彙」以類別分際取象，末句「棿擬之虛嬴」表明這是虛嬴的擬象條目，不是親密關係主張"
+    },
+    {
+      "chapter": "玄棿",
+      "para_index": 13,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「父子殊面，兄弟不孿，帝王莫同」與日月、星辰、音律並列，用差異性來「棿擬之歲」；親屬與帝王只是取義材料"
+    },
+    {
+      "chapter": "玄棿",
+      "para_index": 14,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「嘖以牙者童其角；㩣以翼者兩其足」列生物形態，連同「無角無翼，材以道德」一起掛在「棿擬之九日平分」，是曆數擬象清單"
+    },
+    {
+      "chapter": "玄棿",
+      "para_index": 15,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「存見知隱，由邇擬遠」說的是由可見推隱、由近推遠的取象辦法，並由「棿擬之晷刻」掛靠晷刻，未獨立討論人的認同或能力"
+    },
+    {
+      "chapter": "玄棿",
+      "para_index": 16,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「一明一幽，跌剛跌柔，知陰者逆，知陽者流」以成對性質取象，末句「棿擬之晝夜」把全句明定為晝夜的擬象條目"
+    },
+    {
+      "chapter": "玄棿",
+      "para_index": 17,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "三次「遵天之度／術／醜」最後由「棿擬之天元」收束，規定的是天元擬象的取義，並非向個人提出不可改變的命運觀或行為戒律"
+    },
+    {
+      "chapter": "玄棿",
+      "para_index": 18,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「當往者終，當來者始」描述往終來始的循環，並以「棿擬之罔直蒙酋冥」標成五階的擬象條目，不是人的失去或改變處境"
+    },
+    {
+      "chapter": "玄棿",
+      "para_index": 19,
+      "domains": ["VII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "「擬行於德，行得其中；擬言於法，言得其正」直接規範行與言所應依循的德與法，並以「言正則無擇，行中則無爽」說明正直言行的結果，已離開前面的擬象清單而論品格"
+    },
+    {
+      "chapter": "玄圖",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「一玄都覆三方，方同九州，枝載庶部，分正群家」鋪陳方、州、部、家的格局，後面的「始哉／中哉／終哉」把首名與物候分段編排，是全書圖式說明"
+    },
+    {
+      "chapter": "玄圖",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「夫玄也者、天道也，地道也，人道也，兼三道而天名之」是在界定玄兼攝三道；末列「君臣、父子、夫妻之道」只標出對應的人道類型，沒有說這些關係中的人應如何生活"
+    },
+    {
+      "chapter": "玄圖",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「一以三起」以下解釋方州部家、九營與一至九的曆數結構；「九虛設闢，君子小人所為宮也」更明說君子小人、貧富勞逸是九位之宮與屬性，親屬朋友句也只是陰陽終始的類比"
+    },
+    {
+      "chapter": "玄圖",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「玄有六九之數，策用三六，儀用二九」到「凡二萬六千二百四十四策」計算策數、贊數與日數，並交代如何合歲行曆，是純體例與總算"
+    },
+    {
+      "chapter": "玄告",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「玄生神象二，神象二生規，規生三摹，三摹生九據」推演玄的層級，再把天、地、人各分成三據；「思福禍」是人的三據名稱，不是人生際遇論"
+    },
+    {
+      "chapter": "玄告",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「天以不見為玄，地以不形為玄，人以心腹為玄」分別界定天、地、人之玄，後文也只比較三者位置與運行；「玄者、神之魁也」是術語定義，不是信仰認證"
+    },
+    {
+      "chapter": "玄告",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "「玄一德而作五生，一刑而作五剋」說五行生剋機制；「相繼則父子之道也，相治則君臣之寶也」只是用父子、君臣類比相生相治，沒有對家庭或權力關係立論"
+    },
+    {
+      "chapter": "玄告",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "全段由「十九年七閏」等曆法規則轉到玄辭體例，並以「善言天地者以人事，善言人事者以天地」明說其類比方法；「神遊乎六宗」與孝忠稱名都服務於術數和表述體例，沒有獨立的人生或信仰判斷"
+    }
+  ]
+}
