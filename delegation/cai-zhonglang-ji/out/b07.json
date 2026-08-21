@@ -1,0 +1,341 @@
+{
+  "batch": "b07",
+  "rows": [
+    {
+      "chapter": "《太傅安樂鄉文恭侯胡公碑》",
+      "para_index": 1,
+      "domains": ["IV", "V", "VII"],
+      "modes": ["observation", "proposition"],
+      "confidence": 0.98,
+      "reason": "「上奉繼親，下慈弱弟」寫出家內實踐；「寬裕足以容眾」至「故禁不用刑，勸不用賞」又把品格連到治民效果。"
+    },
+    {
+      "chapter": "《太傅安樂鄉文恭侯胡公碑》",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization", "ritual"],
+      "confidence": 0.99,
+      "reason": "本段依次登錄五蹈九列、薨葬日期、印綬祕器與賻賜，末尾「懿鑠孔純」「受茲介祜」仍是頌辭。"
+    },
+    {
+      "chapter": "《胡公碑》（1）",
+      "para_index": 1,
+      "domains": ["IV", "V", "VII"],
+      "modes": ["observation", "proposition"],
+      "confidence": 0.98,
+      "reason": "「朝夕定省，不違子道」具體寫孝行；施政使「君子勤禮，小人知恥」，並以「至孝，德本也」「體和履忠，行極也」界定德行。"
+    },
+    {
+      "chapter": "《胡公碑》（2）",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["observation", "proposition"],
+      "confidence": 0.98,
+      "reason": "「柔而不犯，威而不猛」等對舉界定中和品格；又說他「導人以德，帥物以己」，使士民相勉而刑具不用。"
+    },
+    {
+      "chapter": "《太傅祠前銘》",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "ritual"],
+      "confidence": 0.99,
+      "reason": "全段以「七受帝命」「左右六世」押韻鋪排官歷，收在新廟烝嘗與「承嗣無疆」的祠銘祝辭。"
+    },
+    {
+      "chapter": "《漢交阯都尉胡府君夫人黃氏神誥》",
+      "para_index": 1,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative", "ritual"],
+      "confidence": 0.93,
+      "reason": "夫人在二孤未齔時「撫育二孤，導以義方」，使其終至有成，寫的是繼母教養、家族承續與以義導人的實踐。"
+    },
+    {
+      "chapter": "《漢交阯都尉胡府君夫人黃氏神誥》",
+      "para_index": 2,
+      "domains": ["IV", "XII"],
+      "modes": ["proposition", "ritual"],
+      "confidence": 0.88,
+      "reason": "群儒以「魂氣所之，不繫丘壟」說明遷葬不逆亡靈，並據「順母氏之所寧」決定母子葬所，兼及親屬義務與魂靈觀。"
+    },
+    {
+      "chapter": "《太傅安樂鄉侯胡公夫人靈表》",
+      "para_index": 1,
+      "domains": ["IV", "IX", "X"],
+      "modes": ["observation", "expression"],
+      "confidence": 0.92,
+      "reason": "既寫「仰奉慈姑」「俯誨膝下」的家內承擔，也明言接連喪子使夫人哀悼成疾，末段細寫病勢、死亡與女兒追慕。"
+    },
+    {
+      "chapter": "《議郎胡公夫人哀讚》",
+      "para_index": 1,
+      "domains": ["IV", "VI", "X"],
+      "modes": ["narrative", "expression"],
+      "confidence": 0.95,
+      "reason": "母親教養幼孤並強起勸子赴任，兒子卻因王職不能侍疾送終；「知我如此，不如無生」「孤心摧割」直寫喪親與內在崩痛。"
+    },
+    {
+      "chapter": "《議郎胡公夫人哀讚》",
+      "para_index": 2,
+      "domains": ["IV", "VI", "X"],
+      "modes": ["narrative", "expression"],
+      "confidence": 0.96,
+      "reason": "說話者追述母親「範我軌度、昭示好惡」，又自陳未能臨終含飯的遺憾及「孤情怛兮增哀」，核心是教養、喪失與哀痛。"
+    },
+    {
+      "chapter": "伯夷叔齊碑",
+      "para_index": 1,
+      "domains": ["V", "VII", "XII"],
+      "modes": ["narrative", "ritual"],
+      "confidence": 0.91,
+      "reason": "旱中登山祈雨而「天尋興雲，即降甘雨」，明寫祭禱得應；銘中又以捐爵、諫亡與譏伐紂呈現忠義及政治勸諫。"
+    },
+    {
+      "chapter": "司空房楨碑",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["observation", "proposition"],
+      "confidence": 0.98,
+      "reason": "「行非至公，不萌于心」以下把公正落到不樹私恩、面對強禦不避，並以「是以功隆名顯」連出公共後果。"
+    },
+    {
+      "chapter": "司空房楨碑",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["observation", "proposition"],
+      "confidence": 0.9,
+      "reason": "「邪慝是仇，直亮是與」說明所支持與反對者，「剛則不吐，柔則不茹」寫不畏強、不凌弱，並連到安定邦國。"
+    },
+    {
+      "chapter": "荊州刺史庾侯碑",
+      "para_index": 1,
+      "domains": ["IV", "V", "VII"],
+      "modes": ["observation", "proposition"],
+      "confidence": 0.94,
+      "reason": "本段分寫「事親以孝」「結交以信」，又說刺史以沖靜仁義待民，因而「撫亂以治，綏擾以靜」，涵蓋親屬、交往與德性治理。"
+    },
+    {
+      "chapter": "司空袁逢碑",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["observation", "proposition"],
+      "confidence": 0.96,
+      "reason": "「明而先覺，故能教不肅而化成，政不嚴而事治」直接主張領導者的明察與寬和能形成教化及治績。"
+    },
+    {
+      "chapter": "翟先生碑",
+      "para_index": 1,
+      "domains": ["VII", "VIII"],
+      "modes": ["observation"],
+      "confidence": 0.87,
+      "reason": "「學問為業」及通曉五經寫其學術志業；「視富貴，忽若浮雲，既不降志，亦不辱身」則交代面對利祿的品格選擇。"
+    },
+    {
+      "chapter": "真定直父碑",
+      "para_index": 1,
+      "domains": ["II", "V", "VII"],
+      "modes": ["observation", "proposition"],
+      "confidence": 0.99,
+      "reason": "交友時先「審辨真偽」，看清其人並「度終始而後交」，從自他真實、朋友關係與審慎品格說明擇友方法及後果。"
+    },
+    {
+      "chapter": "桓彬論",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "confidence": 0.99,
+      "reason": "「岐嶷」「至通」「絕高」「絜操」只是把四個評名分貼在桓彬身上，未說評定標準或行為後果。"
+    },
+    {
+      "chapter": "九疑山碑",
+      "para_index": 1,
+      "domains": ["IV", "VII", "XII"],
+      "modes": ["narrative", "observation"],
+      "confidence": 0.84,
+      "reason": "舜以「孝烝烝」克諧頑傲，使孝行不只是德目；篇末又斷言他葬於九疑後「解體而升」、託靈神仙。"
+    },
+    {
+      "chapter": "京兆尹樊德雲銘",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["observation", "ritual"],
+      "confidence": 0.86,
+      "reason": "「納忠式，規悟聖皇」寫忠諫行動，且其任事使「徭役永息、道路孔夷、兆氓蒙福」，以德行連到民眾處境。"
+    },
+    {
+      "chapter": "東巡頌",
+      "para_index": 1,
+      "domains": ["XII"],
+      "modes": ["proposition", "ritual"],
+      "confidence": 0.93,
+      "reason": "巡狩、柴望與宗祀完成後，文本以「是以神明屢應，休徵乃降」明說神明對祭祀有所回應。"
+    },
+    {
+      "chapter": "東巡頌",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization", "ritual"],
+      "confidence": 0.94,
+      "reason": "本段只鋪陳東巡的六龍五輅、百僚、曆官、月辰與輿服配置，沒有進一步談人的處境或行為原理。"
+    },
+    {
+      "chapter": "南巡頌",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "ritual"],
+      "confidence": 0.95,
+      "reason": "所記是禘祖、將祫與法駕旃旌等南巡祭典及儀仗；「通神明」未另說神明如何回應人。"
+    },
+    {
+      "chapter": "祖德頌",
+      "para_index": 1,
+      "domains": ["IV", "VII", "XII"],
+      "modes": ["proposition", "expression"],
+      "confidence": 0.96,
+      "reason": "先以「積善有餘慶」主張修仁履德得福，再把連理木、馴兔說成靈祇酬報祖先盛德；作者並自陳敬畏承荷家業。"
+    },
+    {
+      "chapter": "陳留太守行小黃縣頌",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["observation", "proposition"],
+      "confidence": 0.96,
+      "reason": "「原罪以心，察獄以情」提出審刑準則，又以務求輕、放死從生帶出「黔首用寧」的公義與治理結果。"
+    },
+    {
+      "chapter": "考城縣頌",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["prescription", "formalization"],
+      "confidence": 0.93,
+      "reason": "太守勸民耕桑，並「申戒群僚，務在寬平」，使罪人獲宥、囹圄清空，寫出官民責任及寬平用刑。"
+    },
+    {
+      "chapter": "麟頌",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "confidence": 0.85,
+      "reason": "四句只記麒麟降生、來孚及西狩獲麟；「視明禮脩」是祥瑞頌語，沒有展開可判定的人生主張。"
+    },
+    {
+      "chapter": "五靈頌",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "confidence": 0.88,
+      "reason": "本段只以「大梁乘精」解釋白虎出現，附上「思叡信立」的短頌，未交代人的行為標準或後果。"
+    },
+    {
+      "chapter": "太尉陳公贊",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["observation", "proposition"],
+      "confidence": 0.91,
+      "reason": "任地方官時令「少者是懷，老者是安」，督京又使京輦清平，將惠民品格和各級公共治理效果逐項相連。"
+    },
+    {
+      "chapter": "焦君贊",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "confidence": 0.99,
+      "reason": "所寫是焦君隱居、被徵而未及任用便亡，以及「昊天不弔」「朝廷喪德」等哀贊套語，未提出死亡或處世命題。"
+    },
+    {
+      "chapter": "琴贊",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "confidence": 0.96,
+      "reason": "「清和自然」「溫乎其仁」都在用德性詞描摹琴材、音色與光澤，重心仍是雅器本身。"
+    },
+    {
+      "chapter": "樽銘",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "confidence": 0.99,
+      "reason": "「過則荒沈」指出飲酒過度的後果，並以「尚鑒茲器，懋勗厥心」勸人節制自警。"
+    },
+    {
+      "chapter": "盤銘",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "confidence": 0.99,
+      "reason": "兩句只寫盤用以享賓以及「內納其實，外若玄真」的器物形制，沒有轉成人的箴戒。"
+    },
+    {
+      "chapter": "驚枕銘",
+      "para_index": 1,
+      "domains": ["VII", "XI"],
+      "modes": ["prescription"],
+      "confidence": 0.86,
+      "reason": "借應龍蟠蟄保靈與驚枕之形，勸「哲人」在安居時也聞知傾危，主張以警覺面對處境可能的轉變。"
+    },
+    {
+      "chapter": "衣箴",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["observation", "prescription"],
+      "confidence": 0.9,
+      "reason": "以「務在奢嚴、志好美飾」批評一日數易衣、私居也不用舊服的奢靡習慣，形成節用自持的箴戒。"
+    },
+    {
+      "chapter": "廣連珠",
+      "para_index": 1,
+      "domains": ["XI", "XII"],
+      "modes": ["proposition"],
+      "confidence": 0.99,
+      "reason": "以小妖使人戒慎類推「天地示異」，並明言災變能使人主「恐懼而修政」，寫出天示與人主自我改變的關係。"
+    },
+    {
+      "chapter": "廣連珠",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "confidence": 0.82,
+      "reason": "以御者使馬成良作比，主張賢才須遇能識用的聖者才得施展，涉及人才任用及才能能否發揮。"
+    },
+    {
+      "chapter": "祝社文",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["ritual"],
+      "confidence": 0.99,
+      "reason": "只依元正、令午與太蔟運陽的時序祭社祈祥，是祝辭本身，未另立信仰或人生主張。"
+    },
+    {
+      "chapter": "祖餞祝文",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["ritual"],
+      "confidence": 0.99,
+      "reason": "神龜、蓍卦、風伯雨師及四方神獸全用來鋪排出行祖餞與護送祝辭，內容止於祈求旅途吉祥。"
+    },
+    {
+      "chapter": "禊文",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["ritual"],
+      "confidence": 0.99,
+      "reason": "本段僅記暮春除巳時男女會于洛水禊祭求福，沒有超出儀節場合的論斷。"
+    },
+    {
+      "chapter": "弔屈原文",
+      "para_index": 1,
+      "domains": ["V", "X"],
+      "modes": ["proposition"],
+      "confidence": 0.88,
+      "reason": "以駕車者失職導致皇車傾覆譬喻政治敗壞，末問「袌石其何補」，直接評估以死亡回應亂世是否有益。"
+    },
+    {
+      "chapter": "九惟文",
+      "para_index": 1,
+      "domains": ["IX", "X", "XI"],
+      "modes": ["expression"],
+      "confidence": 0.98,
+      "reason": "作者把貧困歸于「星宿值貧」，並以無衣禦寒、無絺蔽暑、無食果腹具體自陳身體匱乏與「無以自存」的生存威脅。"
+    }
+  ]
+}
