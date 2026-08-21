@@ -1,0 +1,189 @@
+{
+  "batch": "b06",
+  "rows": [
+    {
+      "chapter": "月令問荅",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["proposition", "expression"],
+      "confidence": 0.91,
+      "reason": "作者以「予幼讀《記》」自述長期研讀，又因前儒章句「非其本旨」「橫生他議」而說明著書動機，承重在學術工作與著述志業。"
+    },
+    {
+      "chapter": "月令問荅",
+      "para_index": 2,
+      "domains": ["VIII", "X", "XIII"],
+      "modes": ["narrative", "expression"],
+      "confidence": 0.95,
+      "reason": "「死亡無日」「與危殆競」寫死亡迫近；作者仍「晝夜密勿，昧死成之」完成著述以便學者，並以「取其心盡而已」「余死而不朽」安頓危境，三格各有獨立內容。"
+    },
+    {
+      "chapter": "月令問荅",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "confidence": 0.98,
+      "reason": "以「根柢同，則枝葉必相從」說明用《周官》《左氏》互證《月令》的理由，所辨是經籍體例、官名與世系來源。"
+    },
+    {
+      "chapter": "月令問荅",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "confidence": 0.99,
+      "reason": "以「《三統》以疏闊廢弛」解釋為何選用當時施行且度數較密的四分曆，只在辨曆法取捨。"
+    },
+    {
+      "chapter": "月令問荅",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "confidence": 0.99,
+      "reason": "據「蟄蟲始震」在正月與「始雨水」在仲春，推定驚蟄、雨水的月份，內容僅是節氣歸月。"
+    },
+    {
+      "chapter": "月令問荅",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "confidence": 0.99,
+      "reason": "用大雪、小雪、大寒、小寒皆相去十五日來校核小暑位置，結論「不以節言，據時暑也」仍是曆日考辨。"
+    },
+    {
+      "chapter": "月令問荅",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["ritual", "proposition"],
+      "confidence": 0.99,
+      "reason": "段落判定「禱祈以幣代牲」並指宗伯之書可能「有轉誤」，是在校正祀典用物與經文字句，未說祈禱者獲得何種人生結果。"
+    },
+    {
+      "chapter": "月令問荅",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["proposition"],
+      "confidence": 0.99,
+      "reason": "由閹尹主宮室出入，判定「宮中之門曰闈」而非里門之「閭」，只是官職所掌與字誤考證。"
+    },
+    {
+      "chapter": "月令問荅",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "confidence": 0.99,
+      "reason": "據《周官》天子馬六種及《左氏傳》「六騶屬焉」，校定「七騶」當作六騶，所論是制度數目。"
+    },
+    {
+      "chapter": "月令問荅",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "confidence": 0.99,
+      "reason": "以營室昏中與九、十月之交推算築城時月，結論「今文在前一月」不合經傳，內容是星象與月份校勘。"
+    },
+    {
+      "chapter": "月令問荅",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["formalization", "ritual"],
+      "confidence": 0.99,
+      "reason": "用四時日行與少陰、少陽、太陰、太陽的配屬解釋夏季不行儺，所建立的是儺禮時序體系。"
+    },
+    {
+      "chapter": "月令問荅",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["proposition"],
+      "confidence": 0.99,
+      "reason": "以「後乃大水」等反例駁斥把反令三句分配給三月的傳注；「國乃有恐」「民多蠱疾」都是待解的經文材料。"
+    },
+    {
+      "chapter": "月令問荅",
+      "para_index": 13,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "confidence": 0.99,
+      "reason": "逐項把羊、雞、牛、犬、豕及麥菽麻黍配入五行生勝，末又稱其近似「卜筮之術」，通段在整理配食系統。"
+    },
+    {
+      "chapter": "月令問荅",
+      "para_index": 14,
+      "domains": [],
+      "modes": ["proposition"],
+      "confidence": 0.99,
+      "reason": "從「嫂」「瘦」的字形推定「更」為「叟」，又辨妻、妾稱謂用字，核心是傳寫字誤與名詞校正。"
+    },
+    {
+      "chapter": "胡廣黃瓊頌",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "confidence": 0.9,
+      "reason": "「鍾厥純懿」只掛德目，後文列「特進」「三事」及車服爵位；「功加八荒，群生以遂」也是總括頌辭，未拆出可判定的行為標準。"
+    },
+    {
+      "chapter": "上漢書十志疏",
+      "para_index": 1,
+      "domains": ["VIII", "X", "XIII"],
+      "modes": ["narrative", "expression", "prescription"],
+      "confidence": 0.93,
+      "reason": "作者痛惜「二十年之思，中道廢絕」，在「懸命鋒鏑」「抱恨黃泉」的死亡威脅下仍條列十志並請「下東觀」補綴；以完成史業使自己即使受死也「無所復恨」，工作、死亡與危境自處三層不可互相替代。"
+    },
+    {
+      "chapter": "述行賦",
+      "para_index": 1,
+      "domains": ["V", "VI"],
+      "modes": ["narrative", "expression"],
+      "confidence": 0.96,
+      "reason": "「人徒凍餓」而五侯擅貴、李雲因直言而死、陳君救援反遭抵罪，寫出權力傷害；作者明言「心憤此事」而作賦，另有直接的情緒內容。"
+    },
+    {
+      "chapter": "述行賦",
+      "para_index": 2,
+      "domains": ["V", "VI", "XIII"],
+      "modes": ["narrative", "expression", "proposition"],
+      "confidence": 0.94,
+      "reason": "「民露處而寢溼」「下糠粃而無粒」與忠諫受逼寫公義失序；「心鬱伊而憤思」「憂心之殷殷」寫內在感受；末以「甘衡門以寧神」「復邦族以自綏」說明如何退出不可匡正的局勢而安頓自己。"
+    },
+    {
+      "chapter": "短人賦",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["observation"],
+      "confidence": 0.87,
+      "reason": "形貌鋪陳本身不承重，但「矇昧嗜酒」「罵詈恣口」把惡行歸給一類人，又以「眾人患忌，難與竝侶」寫群體排斥，分別觸及品格判斷與群體關係。"
+    },
+    {
+      "chapter": "飲馬長城窟行",
+      "para_index": 1,
+      "domains": ["III", "VI", "X"],
+      "modes": ["narrative", "expression"],
+      "confidence": 0.94,
+      "reason": "遠人只能入夢且醒後仍在他鄉，「展轉不相見」寫分離與等待；收信者長跪讀到「加餐食」「長相憶」，同時承載親密牽掛與綿延思念的內在感受。"
+    },
+    {
+      "chapter": "篆勢",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "confidence": 1.0,
+      "reason": "從「或象龜文，或比龍鱗」到遠望如鴻鵠群遊，通篇描摹篆字形體、筆勢與書藝效果。"
+    },
+    {
+      "chapter": "隸勢",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "confidence": 1.0,
+      "reason": "「或砥繩平直，或蜿蜒繆戾」及遠近觀字的比喻都在描述隸書形制與視覺姿態，沒有轉出關於人的承重句。"
+    },
+    {
+      "chapter": "釋誨",
+      "para_index": 1,
+      "domains": ["VII", "X", "XIII"],
+      "modes": ["proposition", "prescription", "expression"],
+      "confidence": 0.98,
+      "reason": "以「貪夫徇財，夸者死權」和守道不傾界定取捨品格；「時逝歲暮」「百歲之後」正面承認時間與死亡；又提出「樂天知命，持神任己」「靜以俟命」，並以「神氣寧」「嗜欲息」寫安頓之道。"
+    }
+  ]
+}
