@@ -2,9 +2,9 @@
   "domain": "VII",
   "name_zh": "善惡·良心·品格",
   "gist": "罪咎與贖罪、惡與殘忍與同理、誠實與虛偽、勇氣",
-  "generated_at": "2026-08-21T23:54:33+00:00",
-  "para_count": 1886,
-  "book_count": 35,
+  "generated_at": "2026-08-22T00:14:00+00:00",
+  "para_count": 1892,
+  "book_count": 36,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -10781,6 +10781,86 @@
       "co_domains": [
         "V"
       ]
+    },
+    {
+      "slug": "jingshi-yizhuan",
+      "chapter": "䷋　坤下乾上　否",
+      "para_index": 13,
+      "para_id": "jingshi-yizhuan#04-p13",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "五位既分，四時行矣。〈君子當危難世，獨志，難不可久；立特處不改其操，將及泰來。〉",
+      "note": "命中成立於夾注：「君子當危難世，獨志」並說「立特處不改其操，將及泰來」，明言人在變局中持守操行、等待轉機",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "jingshi-yizhuan",
+      "chapter": "䷖　坤下艮上　剝",
+      "para_index": 9,
+      "para_id": "jingshi-yizhuan#06-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《易象》云：「山附於地。剝。」君子俟時，不可苟變，存身避害，與時消息。春夏始生，",
+      "note": "「君子俟時，不可苟變，存身避害，與時消息」給出等待、不苟變、保全自身並因時調整的一套行止，拆離剝卦仍是人的品格與改變主張",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "jingshi-yizhuan",
+      "chapter": "䷭　巽下坤上　升",
+      "para_index": 10,
+      "para_id": "jingshi-yizhuan#13-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "自下升高，以至於極。至極而反，以修善道，而成其體。〈合抱之木，始於毫末。〉",
+      "note": "「自下升高，以至於極。至極而反，以修善道，而成其體」把上升、反轉落到人的修善與品格成就，拆離升卦仍成立",
+      "co_domains": []
+    },
+    {
+      "slug": "jingshi-yizhuan",
+      "chapter": "䷯　巽下坎上　井",
+      "para_index": 9,
+      "para_id": "jingshi-yizhuan#14-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "坎下見風，險於前；內外相資，益於君。〈井以德立，君正民信，德以其道也。〉",
+      "note": "命中成立於夾注「井以德立，君正民信，德以其道也」：它越出坎風配象，提出領導者之正、人民之信與德道相連的治理及品格命題",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "jingshi-yizhuan",
+      "chapter": "䷕　離下艮上　賁",
+      "para_index": 8,
+      "para_id": "jingshi-yizhuan#26-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "土火木分陰陽，相應為敵體；上九積陽，素尚全身遠害，貴其正道。起於潛，至於用九。〈",
+      "note": "「上九積陽」之後的「素尚全身遠害，貴其正道」寫一個人平素持守、自我保全並以正道為貴，脫離爻位仍是品格與自我取向",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "jingshi-yizhuan",
+      "chapter": "䷡　乾下震上　大壯",
+      "para_index": 2,
+      "para_id": "jingshi-yizhuan#37-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《易》曰：「羝羊觸藩，羸其角」。進退難也。壯不可極，極則敗物，不可極，極則反。故",
+      "note": "「壯不可極，極則敗物，不可極，極則反」連同「君子用罔，小人用壯」評價人如何使用力量，脫離大壯卦仍是反對逞強過度的品格命題",
+      "co_domains": []
     },
     {
       "slug": "jinkui-yaolue",

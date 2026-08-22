@@ -1,7 +1,7 @@
 # IV 家庭與傳承
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 519 段命中｜跨 29 部｜生成時間 2026-08-21T23:54:33+00:00
+> 519 段命中｜跨 29 部｜生成時間 2026-08-22T00:14:00+00:00
 
 婚姻與家庭、原生家庭的傷、為人父母、記憶與和解、留下什麼給後代
 
@@ -11,7 +11,7 @@
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`fangyan`（方言）　`gongsun-longzi`（公孫龍子）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`san-lue`（三略）　`sima-fa`（司馬法）　`sushu`（素書）　`wuzi`（吳子）　`yinwenzi`（尹文子）　`yuzi`（鬻子）
+`fangyan`（方言）　`gongsun-longzi`（公孫龍子）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jingshi-yizhuan`（京氏易傳）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`san-lue`（三略）　`sima-fa`（司馬法）　`sushu`（素書）　`wuzi`（吳子）　`yinwenzi`（尹文子）　`yuzi`（鬻子）
 
 ## 世說新語（人論）　96 段
 

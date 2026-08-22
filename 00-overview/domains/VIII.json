@@ -2,9 +2,9 @@
   "domain": "VIII",
   "name_zh": "工作·成就·召喚",
   "gist": "工作與金錢、成就與意義、天賦與使命",
-  "generated_at": "2026-08-21T23:54:33+00:00",
-  "para_count": 845,
-  "book_count": 36,
+  "generated_at": "2026-08-22T00:14:00+00:00",
+  "para_count": 846,
+  "book_count": 37,
   "surveyed_zero_hit": [
     "duduan",
     "gu-sanfen",
@@ -3442,6 +3442,20 @@
       "note": "以無良師的窮鄉幼學與以書為恥的膏粱子弟作對比，主張出身與師承會使學問增謬或廢滯，並自述承父志校注以垂後學",
       "co_domains": [
         "V"
+      ]
+    },
+    {
+      "slug": "jingshi-yizhuan",
+      "chapter": "算法",
+      "para_index": 22,
+      "para_id": "jingshi-yizhuan#66-p22",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "景迂嘗曰：余自元豐壬戌，偶脫去舉子事業，便有志學易，而輒好王氏〈王弼〉。本妄以謂",
+      "note": "第一人稱「余自元豐壬戌，偶脫去舉子事業，便有志學易」交代改換人生志業，又以「今三十有四年矣」自述長期服習、辨正文獻的工作與自我定位",
+      "co_domains": [
+        "II"
       ]
     },
     {

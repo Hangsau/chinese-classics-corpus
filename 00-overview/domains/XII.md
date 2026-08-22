@@ -1,7 +1,7 @@
 # XII 信仰·神聖·超越
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 179 段命中｜跨 22 部｜生成時間 2026-08-21T23:54:33+00:00
+> 179 段命中｜跨 22 部｜生成時間 2026-08-22T00:14:00+00:00
 
 神存在嗎、信與疑、敬畏與美、神秘經驗
 
@@ -11,7 +11,7 @@
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`dengxizi`（鄧析子）　`dongmingji`（洞冥記）　`duduan`（獨斷）　`fangyan`（方言）　`gongsun-longzi`（公孫龍子）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jijiupian`（急就篇）　`liutao`（六韜）　`nanjing`（難經）　`renwuzhi`（人物志）　`san-lue`（三略）　`shanghanlun`（傷寒論）　`shangjunshu`（商君書）　`shenzi`（慎子）　`sima-fa`（司馬法）　`sushu`（素書）　`weiliaozi`（尉繚子）　`wuzi`（吳子）　`yinwenzi`（尹文子）
+`dengxizi`（鄧析子）　`dongmingji`（洞冥記）　`duduan`（獨斷）　`fangyan`（方言）　`gongsun-longzi`（公孫龍子）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jijiupian`（急就篇）　`jingshi-yizhuan`（京氏易傳）　`liutao`（六韜）　`nanjing`（難經）　`renwuzhi`（人物志）　`san-lue`（三略）　`shanghanlun`（傷寒論）　`shangjunshu`（商君書）　`shenzi`（慎子）　`sima-fa`（司馬法）　`sushu`（素書）　`weiliaozi`（尉繚子）　`wuzi`（吳子）　`yinwenzi`（尹文子）
 
 ## 潛夫論（儒家著述）　32 段
 

@@ -2,9 +2,9 @@
   "domain": "V",
   "name_zh": "群體·社會·公義",
   "gist": "孤獨與歸屬、友誼、我群他群與偏見、公義與權力、責任與領導",
-  "generated_at": "2026-08-21T23:54:33+00:00",
-  "para_count": 2610,
-  "book_count": 38,
+  "generated_at": "2026-08-22T00:14:00+00:00",
+  "para_count": 2618,
+  "book_count": 39,
   "surveyed_zero_hit": [
     "haidao-suanjing",
     "jinkui-yaolue",
@@ -13967,6 +13967,107 @@
       "co_domains": [
         "VIII"
       ]
+    },
+    {
+      "slug": "jingshi-yizhuan",
+      "chapter": "䷫　巽下乾上　姤",
+      "para_index": 14,
+      "para_id": "jingshi-yizhuan#02-p14",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "內巽為風，乾為天；天下有風行，君子以號令告四方。〈巽，入也。風入於坤，皆動也。故",
+      "note": "「君子以號令告四方」以風行天下之象提出掌權者應公開傳達號令的行動；拆離巽、乾二象後仍是領導與公共秩序的主張",
+      "co_domains": []
+    },
+    {
+      "slug": "jingshi-yizhuan",
+      "chapter": "䷏　坤下震上　豫",
+      "para_index": 2,
+      "para_id": "jingshi-yizhuan#10-p02",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "聖人以順動，則刑罰清而民服。」與坤為飛伏。〈乙未土，庚子水。〉",
+      "note": "「聖人以順動，則刑罰清而民服」提出掌權者順應時勢可使刑罰清明、人民服從的治理命題；末句另登錄與坤飛伏",
+      "co_domains": []
+    },
+    {
+      "slug": "jingshi-yizhuan",
+      "chapter": "䷯　巽下坎上　井",
+      "para_index": 9,
+      "para_id": "jingshi-yizhuan#14-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "坎下見風，險於前；內外相資，益於君。〈井以德立，君正民信，德以其道也。〉",
+      "note": "命中成立於夾注「井以德立，君正民信，德以其道也」：它越出坎風配象，提出領導者之正、人民之信與德道相連的治理及品格命題",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "jingshi-yizhuan",
+      "chapter": "䷯　巽下坎上　井",
+      "para_index": 10,
+      "para_id": "jingshi-yizhuan#14-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "賢人有位，君子不孤。《傳》曰：「德不孤，必有鄰。」〈（虎易注：此句《傳》中未考，",
+      "note": "「賢人有位，君子不孤」並引「德不孤，必有鄰」，明說賢者獲得位置與德者不致孤立的社會歸屬",
+      "co_domains": []
+    },
+    {
+      "slug": "jingshi-yizhuan",
+      "chapter": "䷣　離下坤上　明夷",
+      "para_index": 12,
+      "para_id": "jingshi-yizhuan#23-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "地有火，明於內，暗於外。當世出處，為眾疑之所及，反傷於明。《易》曰：「三日不食，",
+      "note": "「當世出處，為眾疑之所及，反傷於明」脫離明夷爻位後仍描述人在進退選擇中受群體猜疑、因顯明而受傷的社會處境",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "jingshi-yizhuan",
+      "chapter": "䷁　坤下坤上　坤",
+      "para_index": 2,
+      "para_id": "jingshi-yizhuan#33-p02",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "宗廟居世，三公為應。未免龍戰之災，無成有終。〈陰臣陽君，臣不敢為物之始。陽唱陰和",
+      "note": "夾注先標「陰臣陽君」，繼而獨立說「臣不敢為物之始」「君命臣終其事也」，對君臣分工與服從提出規範，超出宗廟、三公的世應欄位",
+      "co_domains": []
+    },
+    {
+      "slug": "jingshi-yizhuan",
+      "chapter": "䷇　坤下坎上　比",
+      "para_index": 2,
+      "para_id": "jingshi-yizhuan#40-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "比親於物，物亦附焉。原筮于宗，歸之於眾。諸侯列土，君上崇之，奉于宗祧，盟契無差，",
+      "note": "「比親於物，物亦附焉」並以諸侯、宗祧和「盟契無差，邦必昌矣」說明親附、守盟與共同體興盛的關係，脫離爻位仍是群體政治命題",
+      "co_domains": []
+    },
+    {
+      "slug": "jingshi-yizhuan",
+      "chapter": "䷬　坤下兌上　萃",
+      "para_index": 3,
+      "para_id": "jingshi-yizhuan#59-p03",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "吉凶生，陽氣合而悅。〈凡聚眾，必慎防閑假。陽為主，成萃之義，伏戎必豫備，眾聚去疑",
+      "note": "命中成立於舊注：「凡聚眾，必慎防閑假」「伏戎必豫備，眾聚去疑心」直接規定聚眾時的防備與去疑，已越出陽氣合悅的卦位斷語",
+      "co_domains": []
     },
     {
       "slug": "kongcongzi",

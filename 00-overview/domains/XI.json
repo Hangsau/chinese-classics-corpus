@@ -2,9 +2,9 @@
   "domain": "XI",
   "name_zh": "自由·命運·改變",
   "gist": "自由意志與命運、選擇與代價、改變與重來",
-  "generated_at": "2026-08-21T23:54:33+00:00",
-  "para_count": 417,
-  "book_count": 29,
+  "generated_at": "2026-08-22T00:14:00+00:00",
+  "para_count": 425,
+  "book_count": 30,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -2179,6 +2179,109 @@
       "co_domains": [
         "V"
       ]
+    },
+    {
+      "slug": "jingshi-yizhuan",
+      "chapter": "䷋　坤下乾上　否",
+      "para_index": 13,
+      "para_id": "jingshi-yizhuan#04-p13",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "五位既分，四時行矣。〈君子當危難世，獨志，難不可久；立特處不改其操，將及泰來。〉",
+      "note": "命中成立於夾注：「君子當危難世，獨志」並說「立特處不改其操，將及泰來」，明言人在變局中持守操行、等待轉機",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "jingshi-yizhuan",
+      "chapter": "䷖　坤下艮上　剝",
+      "para_index": 9,
+      "para_id": "jingshi-yizhuan#06-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《易象》云：「山附於地。剝。」君子俟時，不可苟變，存身避害，與時消息。春夏始生，",
+      "note": "「君子俟時，不可苟變，存身避害，與時消息」給出等待、不苟變、保全自身並因時調整的一套行止，拆離剝卦仍是人的品格與改變主張",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "jingshi-yizhuan",
+      "chapter": "䷏　坤下震上　豫",
+      "para_index": 9,
+      "para_id": "jingshi-yizhuan#10-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "時有屯夷，事非一揆，爻象適時，有凶有吉。人之生世，亦復如斯。或逢治世，或逢亂時，",
+      "note": "「人之生世，亦復如斯。或逢治世，或逢亂時，出處存亡，其道皆系」把卦爻隨時吉凶轉成對人生所逢時勢與進退改變的明確命題",
+      "co_domains": []
+    },
+    {
+      "slug": "jingshi-yizhuan",
+      "chapter": "䷰　離下兌上　革",
+      "para_index": 4,
+      "para_id": "jingshi-yizhuan#21-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "九五、六二為履正位。天地革變，人事隨而更也。〈更者變也。〉",
+      "note": "正文「天地革變，人事隨而更也」明說人事會隨變局而改，把它從九五、六二的爻位上拆下來仍是關於人世變化的命題",
+      "co_domains": []
+    },
+    {
+      "slug": "jingshi-yizhuan",
+      "chapter": "䷣　離下坤上　明夷",
+      "para_index": 12,
+      "para_id": "jingshi-yizhuan#23-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "地有火，明於內，暗於外。當世出處，為眾疑之所及，反傷於明。《易》曰：「三日不食，",
+      "note": "「當世出處，為眾疑之所及，反傷於明」脫離明夷爻位後仍描述人在進退選擇中受群體猜疑、因顯明而受傷的社會處境",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "jingshi-yizhuan",
+      "chapter": "䷙　乾下艮上　大畜",
+      "para_index": 2,
+      "para_id": "jingshi-yizhuan#27-p02",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "畜消時行，陽未可進。取于下卦，全其健道，君子以時順其吉凶。與乾為飛伏。〈甲寅木，",
+      "note": "「君子以時順其吉凶」從下卦與健道的說明中提出人應順應時勢吉凶的行止，拆下卦名後仍成立",
+      "co_domains": []
+    },
+    {
+      "slug": "jingshi-yizhuan",
+      "chapter": "京氏易傳卷下",
+      "para_index": 3,
+      "para_id": "jingshi-yizhuan#65-p03",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "運機布度，其氣轉易，王者亦當則天而行，與時消息。安而不忘亡，將以順性命之理。極蓍",
+      "note": "「王者亦當則天而行，與時消息。安而不忘亡」明說人在安定時仍應因時調整並警覺變局；這句拆離後仍是人的行止主張，後半才回到甲乙壬癸配卦",
+      "co_domains": []
+    },
+    {
+      "slug": "jingshi-yizhuan",
+      "chapter": "算法",
+      "para_index": 18,
+      "para_id": "jingshi-yizhuan#66-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "卜筮非襲于吉，唯變所適。窮理盡性於茲矣。",
+      "note": "「卜筮非襲于吉，唯變所適」否定靠卜筮取得既定之吉，並以「窮理盡性」把判斷落在人對變化的理解，跨出了占法自身的配位規則",
+      "co_domains": []
     },
     {
       "slug": "kongcongzi",
