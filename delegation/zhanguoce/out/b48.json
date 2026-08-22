@@ -1,0 +1,82 @@
+{
+  "batch": "b48.md",
+  "rows": [
+    {
+      "chapter": "魏將與秦攻韓",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「魏將與秦攻韓」只交代攻韓背景，朱己進言留待下段；夾注「按朱己，即无忌，字訛也。」是人名與字形考辨，沒有對人的斷語"
+    },
+    {
+      "chapter": "魏將與秦攻韓",
+      "para_index": 2,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "正文「苟有利焉，不顧親戚兄弟，若禽獸耳。」說出逐利時棄親的行為機制，命中 VII；補曰注文「天方令秦平海內，魏雖得阿衡之佐，曷益乎！劉知幾譏其舍人事而言天。」明列天命與人事能否改變國勢之爭，命中 XI；其餘多為存韓、避秦的形勢推演與建議"
+    },
+    {
+      "chapter": "葉陽君約魏",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「臣爲王不取也。」針對魏王是否再封趙臣之子提出一次性政策建議；「魏王乃止。」只交代結果，拆離封地與趙魏關係後沒有對人的通則斷語"
+    },
+    {
+      "chapter": "秦使趙攻魏",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「宮之奇諫而不聽，卒假晉道。晉人伐虢，反而取虞。故春秋書之，以罪虞公。」不只敘述亡國，還把不聽諫、助侵略者的領導決策列為虞公應受責難的理由，命中責任與領導；其餘「攻魏者，亡趙之始也。」是趙魏存亡的形勢推演"
+    },
+    {
+      "chapter": "魏太子在楚[3]",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「今齊、楚之理，必不合矣。」以下逐一推算齊、秦、楚、魏的合縱、割地與相位得失；「魏王必懼」只是推演中的特定反應，「公必謂齊王曰」則是操作建議，拆離列國情境後沒有獨立的人性斷語"
+    },
+    {
+      "chapter": "魏太子在楚[3]",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「翟強欲合齊、秦外楚，以輕樓鼻；樓鼻欲合秦、楚外齊，以輕翟強。」陳述具名政客互相排擠的特定盤算；「公不如按魏之和」是藉齊楚爭勢取地的策略建議，沒有脫離列國情境仍成立的對人斷語"
+    },
+    {
+      "chapter": "斠勘",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「本作品原文沒有標點。」是標點與版權說明的前提，屬斠勘與權利資訊，不是對人的看法"
+    },
+    {
+      "chapter": "斠勘",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「依據知识共享 署名-相同方式共享 4.0协议（CC BY-SA 4.0）及GNU自由文档许可证（GFDL）的条款释出。」列示加標點文本的授權條款，屬形式化權利規則"
+    },
+    {
+      "chapter": "斠勘",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「认为仅加标点不足以有创作性」轉述著作權機關對標點創作性與對價的法律判準，屬制度規則而非心理學領域"
+    },
+    {
+      "chapter": "斠勘",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「也認爲僅對古文加標點不足以取得新著作權。」轉述智慧財產局的法律解釋，屬權利判準而非對人的斷語"
+    },
+    {
+      "chapter": "斠勘",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「另請參見：章忠信《著作權筆記·句讀的著作權保護》」只是參考文獻指引，屬斠勘附帶資訊"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "batch": "b44.md",
+  "rows": [
+    {
+      "chapter": "陳軫為秦使於齊",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「公可以居其中而疑之。」以下教犀首假稱出使，藉燕、趙行程製造諸侯任事的局面；拆離魏、齊、楚的情勢，只剩這一次外交操作，沒有對人的斷語"
+    },
+    {
+      "chapter": "陳軫為秦使於齊",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["narrative", "observation"],
+      "reason": "正曰注文以「二人皆不善於張儀者也。激犀首以重任，皆所傾儀而已。」把兩人的交惡解釋為扶犀首以傾張儀的動機，並非只記犀首復相的結果"
+    },
+    {
+      "chapter": "張儀惡陳軫於魏王",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["narrative", "observation"],
+      "reason": "補曰注文以「今也因張儀謂其善事楚，為求壤地，乃以為資而反楚，則前日所云，一時口給禦人耳，豈其情哉？」根據今昔行止判斷陳軫先前忠誠之言並非真情，落在誠信與品格"
+    },
+    {
+      "chapter": "張儀欲窮陳軫",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「公至宋，道稱疾而毋行，使人謂齊王曰：『魏之所以迎我者，欲以絕齊、楚也。』」是陳應教父親避開這一次誘召並轉向齊王的具體方案，沒有脫離局勢仍成立的對人斷語"
+    },
+    {
+      "chapter": "張儀欲窮陳軫",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「子果無之魏而見寡人也，請封子。」交代齊王以封賞勸陳軫赴齊及派車迎接的事件結果，沒有提出人生領域的主張"
+    },
+    {
+      "chapter": "張儀走之魏",
+      "para_index": 1,
+      "domains": ["X", "VII"],
+      "modes": ["proposition", "observation"],
+      "reason": "「子長色衰，重家而已。」把年長色衰後的失勢說成老妾可預期的處境，涉及衰老與失去；鮑彪注文又以「丑之自比若此，豈可望於士君子之行哉？」提出士君子行止的品格標準"
+    },
+    {
+      "chapter": "張儀欲以魏合於秦韓",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「是其可也，未如是其明也，而群臣之知術也，又非皆同也，是有其半塞也。」把大事上全體贊成解釋為部分見識受塞，拆離合縱情勢仍是群體決策與君主受劫的斷語"
+    },
+    {
+      "chapter": "張子儀以秦相魏",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「若不勝魏，魏必事秦以持其國，必割地以賂王。」只是推演魏勝敗後與秦、齊、楚之間的國策和割地結果，沒有對人的斷語"
+    },
+    {
+      "chapter": "張儀欲并相秦魏",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「儀兼相秦、魏，則公亦必并相楚、韓也。」是以韓國存亡交換數國相位的情勢推演；求相與得位本身不是工作成就領域"
+    },
+    {
+      "chapter": "魏王將相張儀",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["narrative", "observation"],
+      "reason": "補曰注文以「惠王之崛強，猶未入其言，故公孫衍之間易為力也。」把魏惠王的固拒與公孫衍容易離間連成原因與後果，說的是君主納言與受影響"
+    },
+    {
+      "chapter": "楚許魏六城",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "narrative"],
+      "reason": "「齊畏三國之合也，必反燕埊以下楚，楚、趙必聽之，而不與魏六城。」以下逐項推演諸國攻伐、失地與道路受制，仍是特定國際形勢的條件鏈"
+    },
+    {
+      "chapter": "張儀告公仲[2]",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「秦欲救齊，韓欲攻南陽，秦、韓合而欲攻南陽，無異也。」只推演秦韓攻地與魏王會秦的策略；「魏王懼，問張子。」是敘事套語，不構成情緒領域"
+    },
+    {
+      "chapter": "徐州之役",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「何不陽與齊而陰結於楚？」及其後兩種勝敗分支，都是令齊楚交戰、乘勢取地或報仇的軍事方案，沒有對人的斷語"
+    },
+    {
+      "chapter": "秦敗東周",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「太后恐其不因穰侯也，而欲敗之，必以少割請合於王，而和於東周與魏也。」是針對太后、穰侯等具名人物的外交反應預測，拆離該局勢便不成對人的通則"
+    },
+    {
+      "chapter": "齊王將見燕趙楚之相於衛",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「王與臣百金，臣請敗之。」以下敘述公孫衍如何帶金先見齊王、久坐並談三國相怨，是一次破壞會盟的計策經過"
+    },
+    {
+      "chapter": "齊王將見燕趙楚之相於衛",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "observation"],
+      "reason": "「三國之不相信齊王之遇，遇事遂敗。」交代三國在這次會面中不信齊王及約事失敗的史事結果，沒有把它提出為可脫離情境的人性機制"
+    },
+    {
+      "chapter": "魏令公孫衍請和於秦",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「無多割。」及「和不成，則後必莫能以魏合於秦者矣。」是請和時少割地的談判指令與成敗後果，沒有對人的斷語"
+    },
+    {
+      "chapter": "公孫衍為魏將",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「今王以衍為可使將，故用之也；而聽相之計，是服牛驂驥也。」指出任用與指揮互相抵牾；鮑彪注文以「此用賢而使不肖間之之說也，而衍也非其人也。」明說人才受小人干擾的用人標準，涉及領導責任與才能發揮"
+    },
+    {
+      "chapter": "犀首田盼欲得齊魏之兵以伐趙",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「夫輕用其兵者，其國易危；易用其計者，其身易窮。」直接把輕率決策連到國危身窮，是對審慎品格與領導責任的通則；正曰注文又以「蓋狃於戰鬥之習，墮衍計中，以成其欺，以敗和好，快讎秦之欲，皆盼之為也。」指出習氣如何導致受騙並破壞和好"
+    },
+    {
+      "chapter": "犀首見梁君",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「為子之不便也，殺之亡之，毋謂天下何，內之無若群臣何也！」不只記任免，而以無法向天下與群臣交代為界線，說出君主不能因一臣不便便殺逐另一臣的領導責任"
+    },
+    {
+      "chapter": "蘇代為田需說魏王",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["prescription", "observation"],
+      "reason": "正曰注文以「賢否之不知，用舍之不能，熒惑於游士之言，而拱手以聽之，其孱昏甚矣！」列出魏王不能辨才、不能用舍且受遊士迷惑的理由，評斷的是人才任用與君主判斷責任"
+    }
+  ]
+}

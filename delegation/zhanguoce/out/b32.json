@@ -1,0 +1,131 @@
+{
+  "batch": "b32.md",
+  "rows": [
+    {
+      "chapter": "虞卿謂春申君",
+      "para_index": 1,
+      "domains": ["XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「於安思危，危則慮安。」從安危互轉中規定人的預先思慮，拆離封地計策仍在談面對變局的心態，故命中 XI；其餘遠近封地與攻燕之議是達成自保的策略推演"
+    },
+    {
+      "chapter": "虞卿謂春申君",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「所道攻燕，非齊則魏。」以下只在盤點楚軍借道的外交障礙，並以「臣請到魏，而使所以信之。」提出具體遊說安排，沒有拆離此役後仍成立的對人斷語"
+    },
+    {
+      "chapter": "虞卿謂春申君",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「夫千鈞非馬之任也。」是比喻鋪陳，落點在楚軍越趙、魏攻燕會使楚疲敝、使魏得利的國際形勢推演，不是在說人的心理或人生問題"
+    },
+    {
+      "chapter": "知伯從韓魏兵以攻趙",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「趙亡，難必及韓、魏矣。」與韓、魏之君「無憙志而有憂色」都用來推斷兩國即將反叛；後者是一次性的神色線索，不是對情緒內在生活的展開"
+    },
+    {
+      "chapter": "知伯從韓魏兵以攻趙",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「不棄美利於前，背信盟之約，而為危難不可成之事」是韓、魏二君為掩飾反意所作的特定局勢辯解；郤疵再由二君避視疾走判斷其心，仍只是事件中的識破過程"
+    },
+    {
+      "chapter": "知伯從韓魏兵以攻趙",
+      "para_index": 3,
+      "domains": ["VII", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "正文「郤疵知其言之不聽，請使於齊，知伯遣之。韓、魏之君果反矣。」只是事件結果；鮑彪注文「智伯至是，眩於得而不顧其禍，殆天奪其魄者。」以逐利致昏說明品格缺失，並以「殆」保留命運性解釋，故命中 VII、XI"
+    },
+    {
+      "chapter": "知伯帥趙韓魏而伐范中行氏",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「夫知伯之為人也，好利而鷙復，來請地不與，必加兵於韓矣。」是對知伯的品題並導向軍事預測；其餘各國給地或拒地也只是等待攻伐轉向的策略鏈"
+    },
+    {
+      "chapter": "知伯帥趙韓魏而伐范中行氏",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「君其定居晉陽。」以及拆取宮垣、銅柱備戰的辦法，都是守城物資與部署；「夫知伯之為人，陽親而陰疏」則是服務於移兵預測的純人物品題"
+    },
+    {
+      "chapter": "知伯帥趙韓魏而伐范中行氏",
+      "para_index": 3,
+      "domains": ["VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「亡不能存，危不能安，則無為貴知士也。」直接用能否存亡安危界定知士的價值，拆離晉陽之圍仍是對人才職能與成就的判準"
+    },
+    {
+      "chapter": "知伯帥趙韓魏而伐范中行氏",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「今知伯帥二國之君伐趙，趙將亡矣，亡則二君為之次矣。」是脣亡齒寒式的列國存亡推演；「麁中而少親」只是對知伯的具體品題，沒有另給人的通則"
+    },
+    {
+      "chapter": "知伯帥趙韓魏而伐范中行氏",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「二主色動而意變，必背君，不如令殺之。」是依兩位國君當下神色所作的反叛預測與處置建議，後續封縣計算也只為穩住特定盟友"
+    },
+    {
+      "chapter": "知伯帥趙韓魏而伐范中行氏",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「知伯軍救水而亂，韓、魏翼而擊之，襄子將卒犯其前，大敗知伯軍而禽知伯。」只交代決水、夾擊與擒敵的戰事結果"
+    },
+    {
+      "chapter": "知伯帥趙韓魏而伐范中行氏",
+      "para_index": 7,
+      "domains": ["VII", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "正文「知伯身死，國亡地分，為天下笑，此貪欲無厭也。」把敗亡歸因於無厭貪欲，命中 VII；鮑彪注文「此一時三晉、智氏皆有士，三晉之應之如響，智氏獨不用之而亡，則士豈非天下之重寶乎？」以用不用士的後果說出人才價值，命中 VIII"
+    },
+    {
+      "chapter": "張孟談既固趙宗",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "expression"],
+      "reason": "「臣主之權均之能美，未之有也。」斷言臣主權力相均難有善果，命中 V；「今臣之名顯而身尊，權重而眾服，臣願捐功名去權勢以離眾。」把功成後自退、以忠守分寫成行動標準，命中 VII"
+    },
+    {
+      "chapter": "張孟談既固趙宗",
+      "para_index": 2,
+      "domains": ["VII", "VIII"],
+      "modes": ["narrative", "observation"],
+      "reason": "鮑彪注文「國有危難，不顧萬死，出入行陣，以就其謀，功成事遂，則委而去之。」以所列行止支持『有道』判斷，命中 VII；正曰注文「孟談可謂謀智之士，有道則未也。」將謀智能力與有道品格判開，VIII 與被否定的 VII 都仍是本段所論，兩說相反不互相抵銷"
+    },
+    {
+      "chapter": "晉畢陽之孫豫讓[1]",
+      "para_index": 1,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative", "expression"],
+      "reason": "正曰注文「讓乃其孫，義烈有自來矣。」把豫讓的義烈連回祖父行事，構成家族傳承的判斷，故命中 IV；正文「且夫委質而事人，而求弒之，是懷二心以事君也。」以不可二心提出事君的品格標準，故命中 VII"
+    },
+    {
+      "chapter": "晉畢陽之孫豫讓[1]",
+      "para_index": 2,
+      "domains": ["VII", "X", "XI"],
+      "modes": ["narrative", "expression"],
+      "reason": "正文「臣聞明主不掩人之義，忠臣不愛死以成名。」以不惜死完成忠義：VII 是忠義品格，X 是對死亡代價的自覺承擔；鮑彪注文「夫壯士能行其志而已，成不成則有命焉，吾何以必之哉？」又把自主限於『行其志』、成敗歸命，故 XI 是第三格。三格不可再刪：分別承載忠義、死亡與志命分界"
+    },
+    {
+      "chapter": "魏文侯借道於趙攻中山",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「魏攻中山而不能取，則魏必罷，罷則趙重。」與「君不如借之道，而示之不得已。」只計算魏軍成敗對趙國的利益並提出借道策略，沒有獨立的人性斷語"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "batch": "b37.md",
+  "rows": [
+    {
+      "chapter": "趙燕後胡服",
+      "para_index": 1,
+      "domains": ["IV", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「子用私道者家必亂，臣用私義者國必危。」分別斷言子以私道行事會亂家、臣以私義行事會危國，並以父子與君臣的公私界線提出規範"
+    },
+    {
+      "chapter": "王破原陽",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「故利不百者不變俗，功不什者不易器。」把是否改俗易器繫於軍事收益的門檻，本段是在評估胡服騎射的攻獲與費用，仍是變法用兵的條件式而非對人的斷語"
+    },
+    {
+      "chapter": "王破原陽",
+      "para_index": 2,
+      "domains": ["XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「故賢人觀時，而不觀於時；制兵，而不制於兵。」以人能察時而不受舊俗、舊兵制拘限為原則，直接談人在古今變化中主動調整的可能"
+    },
+    {
+      "chapter": "王破原陽",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「遂胡服，率騎入胡，出於遺遺之門，踰九限之固，絕五俓之險，至榆中，辟地千里。」只交代改服後進軍與拓地的史事結果；注文亦為服制、地名與年代考證"
+    },
+    {
+      "chapter": "趙惠文王三十年",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「用眾者，使民不得耕作，糧食輓賃不可給也。此坐而自破之道也，非單之所為也。」以耕作、糧運與兵額推算用大軍將自困，是軍政資源的成敗條件，沒有獨立的人生領域主張"
+    },
+    {
+      "chapter": "趙惠文王三十年",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「今以三萬之眾而應強國之兵，是薄柱擊石之類也。」至後文城邑、兵額比較，都是按時勢推算軍隊規模；末句「單不至也！」只是人物反應套語，不構成 VI，注文仍在論正奇、兵數與將才的勝負條件"
+    },
+    {
+      "chapter": "趙使机郝之秦",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「公不若陰辭樓子曰：『請無急秦王。』」是針對樓緩、秦王與魏冉反應所設的外交話術，後文只推算任務成敗時誰會感德或生怨"
+    },
+    {
+      "chapter": "齊破燕趙欲存之",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「以河東之地強齊，以燕以趙輔之，天下憎之，必皆事王以伐齊。是因天下以破齊也。」把各國當作依利益結盟、攻伐的行動單位，是外交形勢推演而非對人的斷語"
+    },
+    {
+      "chapter": "秦攻趙藺離石祁拔",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「趙背秦，不予焦、黎、牛狐。秦王怒，令公子繒請地。」敘述趙背約、秦索地及鄭朱以答辭推卸責任的外交經過，沒有提出可拆離事件的人性斷語"
+    },
+    {
+      "chapter": "秦攻趙藺離石祁拔",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「秦敗於閼與，反攻魏幾，廉頗救幾，大敗秦師。」連同前文秦攻趙、趙奢救援與魏軍牽制，都是戰役經過；注文主要校地、繫年，沒有對人的斷語"
+    },
+    {
+      "chapter": "富丁欲以趙合齊魏",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「富丁欲以趙合齊、魏，樓緩欲以趙合秦、楚。富丁恐主父之聽樓緩而合秦、楚也。」只交代兩套結盟主張與富丁的情節性憂懼；「恐」是敘事套語，不足以構成 VI"
+    },
+    {
+      "chapter": "富丁欲以趙合齊魏",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「我已亡中山，而以餘兵與三國攻秦，是我一舉而兩取地於秦、中山也。」收束的是如何分兵、結盟而同時取地的政策鏈；各國反應均作形勢推演，沒有可拆離情境的人性斷語"
+    },
+    {
+      "chapter": "魏因富丁且合於秦[1]",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「齊、魏雖勁，無秦不能傷趙。魏王聽，是輕齊也。秦、魏雖勁，無齊不能得趙。」只按齊、魏、秦的結盟組合推算趙國安危，是國際形勢分析"
+    },
+    {
+      "chapter": "魏使人因平原君請從於趙",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["proposition", "observation"],
+      "reason": "鮑彪注文「虞卿之言，為皆不倍道，非反覆揣摩為人緩頰人也。」不是只掛品題，而以不背道、不為人緩頰說明其言論操守，故命中 VII；正文的強弱利害則是合從形勢推演"
+    },
+    {
+      "chapter": "平原君請馮忌",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「今趙非有七克之威也，而燕非有長平之禍也。今七敗之禍未復，而欲以罷趙攻強燕，是使弱趙為強秦之所以攻，而使強燕為弱趙之所以守。」比較趙、燕、秦的攻守條件以反對出兵，屬軍事勝負推演"
+    },
+    {
+      "chapter": "平原君謂平陽君",
+      "para_index": 1,
+      "domains": ["VII", "X"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「夫貴不與富期，而富至；富不與粱肉期，而粱肉至；粱肉不與驕奢期，而驕奢至；驕奢不與死亡期，而死亡至。」把富貴、享樂、驕奢到死亡寫成遞進因果，既警戒品格敗壞，也直面死亡後果"
+    }
+  ]
+}

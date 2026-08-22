@@ -1,0 +1,103 @@
+{
+  "batch": "b36.md",
+  "rows": [
+    {
+      "chapter": "武靈王平晝間居",
+      "para_index": 1,
+      "domains": ["XI", "V"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「夫有高世之功者，必負遺俗之累；有獨知之慮者，必被庶人之恐。」把創新者承受習俗壓力與眾人疑懼的處境說成通則，拆離胡服決策仍是關於改變與群體反應的斷語"
+    },
+    {
+      "chapter": "武靈王平晝間居",
+      "para_index": 2,
+      "domains": ["V", "XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「夫論至德者，不和於俗；成大功者，不謀於眾。」明說追求至德與大功者可能不合流俗、不從眾議，獨立呈現個人改變與群體規範的張力"
+    },
+    {
+      "chapter": "武靈王平晝間居",
+      "para_index": 3,
+      "domains": ["IV", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「家聽於親，國聽於君，古今之公行也；子不反親，臣不逆主，先王之通誼也。」對親子與君臣各自應如何服從提出一般規範，不只是催促公子成改服的情節"
+    },
+    {
+      "chapter": "武靈王平晝間居",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「中國者，聰明叡知之所居也，萬物財用之所聚也」是對中國的文化品題；「今王釋此，而襲遠方之服，變古之教，易古之道，逆人之心，畔學者，離中國，臣願大王圖之。」只是反對改服的政策勸說，沒有給出人的行為機制"
+    },
+    {
+      "chapter": "武靈王平晝間居",
+      "para_index": 5,
+      "domains": ["XI", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「禮服不同，其便一也。是以鄉異而用變，事異而禮易。」主張制度隨地域與事情改變；「異於己而不非者，公於求善也。」又把不因差異而非難定為求善之公，分別承載改變觀與品格判準"
+    },
+    {
+      "chapter": "武靈王平晝間居",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["narrative", "expression"],
+      "reason": "「臣愚不達於王之議，敢道世俗之間。今欲繼簡、襄之意，以順先王之志，臣敢不聽今。」是公子成就此事認錯受命的自陳；「再拜。乃賜胡服。」只交代服從與受服的事件結果"
+    },
+    {
+      "chapter": "武靈王平晝間居",
+      "para_index": 7,
+      "domains": ["XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「常民溺於習俗，學者沉於所聞。」指出習俗與既聞會束縛人的判斷；「知學之人，能與聞遷；達於禮之變，能與時化。」則明說人能因新知與時勢而改變"
+    },
+    {
+      "chapter": "武靈王平晝間居",
+      "para_index": 8,
+      "domains": ["VII", "V"],
+      "modes": ["proposition", "expression"],
+      "reason": "「竭意不諱，忠也。上無蔽言，明也。忠不辟危，明不距人。」以是否盡言、避危、拒人界定臣之忠與君之明，給出了品格標準及君臣責任"
+    },
+    {
+      "chapter": "武靈王平晝間居",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「因民而教者，不勞而成功；據俗而動者，慮徑而易見也。」是依從民俗以求施政成功的條件式；「服奇者志淫，俗辟者亂民。」則是對異服異俗的動員式品題，沒有把人的行為來源說出來"
+    },
+    {
+      "chapter": "武靈王平晝間居",
+      "para_index": 10,
+      "domains": ["XI", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「然則反古未可非，而循禮未足多也。」否定單憑反古或循禮評斷變革；「衣服之制，所以齊常民，非所以論賢者也。」又否定以衣服衡量人的賢否，分別命中改變與品格判準"
+    },
+    {
+      "chapter": "王立周紹為傅",
+      "para_index": 1,
+      "domains": ["IV", "VIII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「父之孝子，君之忠臣也。」把孝親與任君之忠相連；「故寡人以子之知慮，為辨足以道人，危足以持難，忠可以寫意，信可以遠期。」列出周紹足以任傅的能力與品格，品題直接導向任用"
+    },
+    {
+      "chapter": "王立周紹為傅",
+      "para_index": 2,
+      "domains": ["VIII", "VII"],
+      "modes": ["proposition", "expression"],
+      "reason": "「知慮不躁達於變，身行寬惠達於禮，威嚴不足以易於位，重利不足以變其心，恭於教而不快，和於下而不危。六者，傅之才，而臣無一焉。」具體列出傅者的才能與不受威利移心等品格標準，並以之自評"
+    },
+    {
+      "chapter": "王立周紹為傅",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative", "expression"],
+      "reason": "「知此六者，所以使子。」只說明此次任用理由；「臣，王之臣也，而王重命之，臣敢不聽令乎？」是周紹對具體命令表示受命，隨後再拜受服，沒有另立可拆出的對人斷語"
+    },
+    {
+      "chapter": "王立周紹為傅",
+      "para_index": 4,
+      "domains": ["IV", "VII"],
+      "modes": ["prescription", "narrative"],
+      "reason": "「寡人以王子為子任，欲子之厚愛之，無所見醜。御道之以行義，勿令溺苦於學。」規定傅者應以愛護、行義與合宜學習教養王子，直接涉及子弟教養及品格形成"
+    }
+  ]
+}

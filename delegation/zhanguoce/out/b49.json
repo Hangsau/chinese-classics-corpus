@@ -1,0 +1,152 @@
+{
+  "batch": "b49.md",
+  "rows": [
+    {
+      "chapter": "獻書秦王",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「秦攻梁者，是示天下要斷山東之脊也，是山東首尾皆救中身之時也。」以地理位置推演諸國救援，再提出改攻南方的用兵建議；拆離戰局後沒有形成對人的斷語"
+    },
+    {
+      "chapter": "八年謂魏王",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "narrative"],
+      "reason": "「此五國所以亡者，皆其所恃也。非獨此五國為然而已也，天下之亡國皆然矣。」概括的是國家所恃之外援及其政教、鄰患、年穀等變數，仍是邦國存亡與結盟風險的形勢推演"
+    },
+    {
+      "chapter": "魏王問張旄",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「韓將割而從其所強，與其所不怨。」由韓對秦、魏的強弱與怨憎推算其結盟選擇，是特定國際局勢中的政策鏈，未對人本身下斷語"
+    },
+    {
+      "chapter": "客謂司馬食其",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「從則茲公重，不從則茲公輕，茲公之處重也，不實為期。」明說茲公倡從是為增加自身政治分量而非以實現盟約為目的，揭出人在權力關係中追逐地位的動機"
+    },
+    {
+      "chapter": "魏秦伐楚",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「王不與秦攻楚，楚且與秦攻王。王不如令秦、楚戰，王交制之也。」只是在秦、楚、魏三方兵勢下提出制衡方案，屬外交致利條件"
+    },
+    {
+      "chapter": "穰侯攻大梁",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「今日大梁亡，許、鄢陵必議，議則君必窮。為君計者，勿攻便。」用封地可能遭秦王重議的後果勸穰侯停攻，是針對此次戰局與封邑利益的條件推演"
+    },
+    {
+      "chapter": "白珪謂新城君",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「夜行者能無為姦，不能禁狗使無吠己也。故臣能無議君於王，不能禁人議臣於君也。」把人能約束自身言行、卻不能控制第三者議論的界線說出來，落在社會信任與名議關係"
+    },
+    {
+      "chapter": "秦攻韓之管",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「夫解攻者，必韓之管也；致攻者，必魏之梁也。」推算魏若救韓，秦便會把攻勢轉向魏，是兵勢與盟國反應的預測；魏王不聽而出兵則是事件交代"
+    },
+    {
+      "chapter": "秦攻韓之管",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「臣聞明主之聽也，不以挾私為政，是參行也。」以不挾私施政作為明主聽政的判準，同時說到掌權者的治理責任與公正品格；「魏王大恐」只是敘事套語，未另標情緒領域"
+    },
+    {
+      "chapter": "秦趙構難而戰",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「而構之秦，趙必復鬬，必重魏；是并制秦、趙之事也。」把趙重新作戰及倚重魏國當成操控秦、趙的政策效果，是聯盟與兵勢推演"
+    },
+    {
+      "chapter": "長平之役",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「秦恐王之變也，故以垣雍餌王也。」解釋秦在長平相持時以割地承諾牽制魏國的特定外交計策，後面的問答也只驗算秦勝敗兩種局面"
+    },
+    {
+      "chapter": "樓梧約秦魏",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「聽之，則後王之臣，將皆務事諸侯之能令於王之上者。」指出接受外國干預相位會改變群臣的效忠方向，使臣下轉而追逐能凌駕本國君主的外部權力，是一則權力與領導秩序的斷語"
+    },
+    {
+      "chapter": "芮宋欲絕秦趙之交",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「李郝謂臣曰：『子言無秦，而養秦太后以地，是欺我也，故敝邑收之。』」是芮宋為離間秦、趙而安排的虛構傳言，功能在推動秦王發怒絕趙的情節，不是文本對人的通則判斷"
+    },
+    {
+      "chapter": "為魏謂楚王[1]",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「楚、魏有怨，則秦重矣。故王不如順天下，遂伐齊，與魏便地，兵不傷，交不變，所欲必得矣。」全段按秦、楚、魏、齊的交惡與制衡提出政策方案，沒有拆得出的對人斷語"
+    },
+    {
+      "chapter": "管鼻之令翟強與秦事",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「鼻之與強，猶晉人之與楚人也。晉人見楚人之急，帶劍而緩之；楚人惡其緩而急之。」以人為主詞寫出對立雙方因彼此行動而反向調整自己的互動機制，再用來說明鼻之與翟強的競逐，屬群體與權力關係"
+    },
+    {
+      "chapter": "成陽君欲以韓魏聽秦",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「君入秦，秦必留君，而以多割於韓矣。韓不聽，秦必留君，而伐韓矣。」是白圭建議暗中用來阻止成陽君入秦的威脅說辭，整段目的在拆散秦、韓，是外交計策"
+    },
+    {
+      "chapter": "秦拔寧邑",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「魏王見天下之不足恃也，故欲先構。夫亡寧者，宜割二寧以求構；夫得寧者，安能歸寧乎？」所論是魏求和與秦是否歸還寧邑的談判籌碼，其中的不足憑恃指國際援助局勢，不是一般人的信任問題"
+    },
+    {
+      "chapter": "秦罷邯鄲",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「秦人去邯鄲，過二周而攻王者，以王為易制也。王亦知弱之召攻乎？」以魏國在秦眼中的強弱解釋此次受攻並勸其勿構，是國力與軍事威懾的推演"
+    },
+    {
+      "chapter": "魏王欲攻邯鄲",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「此數者愈善，而離楚愈遠耳。」藉北轅適楚的人為主詞，指出資源、御者等手段即使更好，只要方向背離目標便更不能成事，形成可拆離魏王攻邯鄲情境的行動與成就原理"
+    },
+    {
+      "chapter": "周肖謂宮他",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「夫齊不以無魏者以害有魏者，故公不如示有魏。」是在齊、魏兩國間營造政治分量以換取資助的遊說條件，後文仍只推算齊國如何選邊"
+    },
+    {
+      "chapter": "周冣善齊",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「二子者，欲傷張儀於魏。」與「因無敢傷張子。」交代張儀安插嗇夫監伺後阻止攻訐的事件始末，沒有提出可拆離此事的人性斷語"
+    }
+  ]
+}

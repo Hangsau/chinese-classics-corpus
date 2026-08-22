@@ -1,0 +1,152 @@
+{
+  "batch": "b45.md",
+  "rows": [
+    {
+      "chapter": "史舉非犀首於王",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「張儀說，因令史舉數見犀首。王聞之而弗任也，史舉不辭而去。」是犀首設局、魏王不再信任史舉及史舉離去的史事結果；讓國之辭為此權謀安排服務，沒有獨立的對人通則"
+    },
+    {
+      "chapter": "楚王攻梁南",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「魏不能支，交臂而聽楚，韓氏必危，故王不如釋薔。」是魏、楚、韓兵勢的條件鏈與政策建議，拆離諸國形勢後不剩對人的斷語"
+    },
+    {
+      "chapter": "魏惠王死",
+      "para_index": 1,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「為人子，而以民勞與官費用之故，而不行先王之喪，不義也。」明說兒子對父喪的責任，並給出是否合義的品格判準"
+    },
+    {
+      "chapter": "魏惠王死",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「群臣皆不敢言，而以告犀首。」只交代群臣轉告與犀首另請惠公進言的經過，沒有提出人的一般判斷"
+    },
+    {
+      "chapter": "魏惠王死",
+      "para_index": 3,
+      "domains": ["IV", "VII", "XII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "「今葬有日矣，而雪甚，及牛目，難以行，太子為及日之故，得毋嫌於欲亟葬乎？」以葬父責任勸太子改期；「先王必欲少留而扶社稷、安黔首也，故使雪甚。」又把風雪認作亡者意志。拿掉 IV 少了親子喪葬責任，拿掉 VII 少了以文王之義判斷行事的標準，拿掉 XII 少了亡者藉天候示意的超越認證"
+    },
+    {
+      "chapter": "魏惠王死",
+      "para_index": 4,
+      "domains": ["VIII"],
+      "modes": ["observation"],
+      "reason": "「說文王之義以示天下，豈小功也哉！」以惠子實際完成的影響評量其功業，不只是掛一個人物稱號"
+    },
+    {
+      "chapter": "五國伐秦（2）",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「五國伐秦，無功而還。其後，齊欲伐宋，而秦禁之。」只交代戰事、合伐與講和背景，刪去後少的是國際史事"
+    },
+    {
+      "chapter": "五國伐秦（2）",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「如宋者，欺之不為逆者，殺之不為讎者也。」把宋國當作可攻取的特定對象，句義依賴伐宋方案與國際敵我，沒有抽離為人的品格或行為機制"
+    },
+    {
+      "chapter": "五國伐秦（2）",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「秦嘗用此於楚矣，又嘗用此於韓矣，願王之深計之也。」以秦對各國的既往策略勸魏王選擇伐秦、賓秦或詳講，仍是外交方案與國勢推演"
+    },
+    {
+      "chapter": "五國伐秦（2）",
+      "para_index": 4,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「見天下之傷秦也，則先鬻與國而以自解也。」把見勢不利便出賣盟國求自保的機制說出；「如是人者，鬻王以為資者也，而焉能免國於患？」據此評斷其背信品格"
+    },
+    {
+      "chapter": "五國伐秦（2）",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["expression", "narrative"],
+      "reason": "「以燕伐秦，黃帝之所難也，而臣以致燕甲而起齊兵矣。」是說客列舉自己促成出兵的外交履歷，用來證成方案可行；它增加的是一次合兵史事，不是對人成就或召喚的獨立斷語"
+    },
+    {
+      "chapter": "五國伐秦（2）",
+      "para_index": 6,
+      "domains": ["V"],
+      "modes": ["expression", "narrative"],
+      "reason": "「然而所以為之者，為足下也。」以第一人稱交代自己承擔前述合從行動的動機，內容是對政治同盟者的責任與效忠，不只是國勢推演"
+    },
+    {
+      "chapter": "魏文子田需周宵相善",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「魏文子、田需、周宵相善，欲罪犀首。」至犀首轉而薦相文子，只敘具體結盟、設局與背盟的經過，沒有把它抽離為關係通則"
+    },
+    {
+      "chapter": "魏王令惠施之楚",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「楚王聞之，因郊迎惠施。」是惠施先放消息而獲楚王迎接的外交計策結果，其餘也是魏王測試齊楚交情的事件交代"
+    },
+    {
+      "chapter": "魏惠王起境內眾",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "鮑彪注文「止太子之行，正誼也；而志於樹德、為王，則譎矣。」以行動意圖區分正義與詭詐，給出品格判準"
+    },
+    {
+      "chapter": "齊魏戰於馬陵",
+      "para_index": 1,
+      "domains": ["VI"],
+      "modes": ["expression", "prescription"],
+      "reason": "「夫齊，寡人之讎也，怨之至死不忘。」是魏王對持續怨恨的第一人稱自陳，不是『以發怒套語交代情節』；其餘為借楚制齊的方略"
+    },
+    {
+      "chapter": "齊魏戰於馬陵",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「且楚王之為人也，好用兵而甚務名，終為齊患者，必楚也。」是對楚王的品題被直接用於外交選邊與軍事預測，沒有另給一般行為機制"
+    },
+    {
+      "chapter": "齊魏戰於馬陵",
+      "para_index": 3,
+      "domains": ["VIII"],
+      "modes": ["narrative", "observation"],
+      "reason": "鮑彪注文「施之策齊、楚，如視白黑、數一二，可謂明矣。而不能止太子之將，何邪？」以具體策事表現與失手對照惠施的才智，並非只貼『賢』一類稱號"
+    },
+    {
+      "chapter": "惠施為韓魏交",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「公不如歸太子以德之。不然，公子高在楚，楚將內而立之，是齊抱空質而行不義也。」是以王位替代者與人質失效為條件的外交施壓，沒有提出一般道德或心理機制"
+    },
+    {
+      "chapter": "田需貴於魏王",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「樹之難而去之易也。今子雖自樹於王，而欲去子者眾，則子必危矣。」把建立與破壞政治立足點的不對稱及群體排斥機制說出來，拆離楊樹譬喻仍是對人際權勢的斷語"
+    },
+    {
+      "chapter": "田需死",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「君其為梁王，代請說君。」明示後文是蘇代請昭魚扮梁王所排演的說辭；「張儀相魏，必右秦而左魏。」等是對具體候選人的外交預測，屬捏造品題與任相計策，沒有一般人性斷語"
+    }
+  ]
+}

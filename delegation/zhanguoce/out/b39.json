@@ -1,0 +1,96 @@
+{
+  "batch": "b39.md",
+  "rows": [
+    {
+      "chapter": "秦圍趙之邯鄲",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「趙誠發使尊秦昭王為帝，秦必喜，罷兵去。」只是以帝號換取秦軍退兵的外交條件式；本段其餘交代圍城、救兵停進與辛垣衍入趙，沒有可脫離國際情勢而成立的對人斷語"
+    },
+    {
+      "chapter": "秦圍趙之邯鄲",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "observation"],
+      "reason": "「始吾以君為天下之賢公子也，吾乃今然后知君非天下之賢公子也。」只是對平原君的當場品題，未提出評價標準；本段其餘是召見辛垣衍的敘事"
+    },
+    {
+      "chapter": "秦圍趙之邯鄲",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "expression"],
+      "reason": "「十人而從一人者，寧力不勝，智不若耶？畏之也。」把多人屈從一人的機制歸於畏懼，直指權力與服從；「則連有赴東海而死矣。吾不忍為之民也！」以寧死不受其治表明倫理底線"
+    },
+    {
+      "chapter": "秦圍趙之邯鄲",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「且秦無已而帝，則且變易諸侯之大臣。」是秦稱帝後將如何處置特定諸侯臣屬的情勢預測；鬼侯、鄂侯、文王與齊閔王諸事則是支撐這項外交推演的史事例證，沒有另立對人的通則"
+    },
+    {
+      "chapter": "秦圍趙之邯鄲",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["narrative", "observation"],
+      "reason": "「始以先生為庸人，吾乃今日而知先生為天下之士也。」是辛垣衍對魯仲連的純人物品題；「秦將聞之，為郤軍五十里。」則只交代遊說後的軍事情節"
+    },
+    {
+      "chapter": "秦圍趙之邯鄲",
+      "para_index": 6,
+      "domains": ["VII", "VIII"],
+      "modes": ["proposition", "expression"],
+      "reason": "「所貴於天下之士者，為人排患、釋難、解紛亂而無所取也。即有所取者，是商賈之人也，仲連不忍為也。」既提出士人以解難助人為職志的標準，也以不取報酬劃出操守界線"
+    },
+    {
+      "chapter": "說張相國",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「君安能少趙人，而令趙人多君？君安能憎趙人，而令趙人愛君乎？」指出輕薄、憎惡群體卻期待對方尊重愛戴的不可能，說出群體關係與領導中的相互作用"
+    },
+    {
+      "chapter": "鄭同北見趙王",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "鮑彪注文「今舍俎豆之事，仁義之說，而專談兵，此益多之論也。」以捨棄禮義、專談兵為過當的理由來評判鄭同之說，形成品格與義理的規範判斷；正文主要仍是備兵御鄰的政策論證"
+    },
+    {
+      "chapter": "建信君貴於趙[2]",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「今為天下之工，或非也，社稷為虛戾，先王不血食，而王不以予工，乃與幼艾。」以製冠須交給熟練工匠為準，批評治國任人捨棄才能而取幼艾，同時落在領導用人與才能發揮"
+    },
+    {
+      "chapter": "衛靈公近雍疸彌子瑕[3]",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「君忿然作色」只是敘事套語，不能據此填情緒；「若灶則不然，前之人煬，則後之人無從見也。」借灶前受蔽說明近臣遮蔽君側的特定政治情勢，沒有脫離此情境的人性斷語"
+    },
+    {
+      "chapter": "或謂建信君之所以事王者",
+      "para_index": 1,
+      "domains": ["X", "VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「色老而衰，知老而多。」明說外貌與知識隨老化而呈現不同變化，命中衰老；鮑彪注文「奸人之不可知，甚矣！智知所無奈何。」又把故事提升為奸邪難辨、賢智難全的品格判斷"
+    },
+    {
+      "chapter": "苦成常謂建信君",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「從而有功乎，何患不得收河間？從而無功乎，收河間何益也？」只按合從成敗計算是否應先取河間，是外交利害的條件推演，沒有對人的獨立斷語"
+    },
+    {
+      "chapter": "希寫見建信君",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「夫良商不與人爭買賣之賈，而謹司時。時賤而買，雖貴已賤矣；時貴而賣，雖賤已貴矣。」提出良商不爭價而審時買賣的職業判準，說明成事所需的專業判斷"
+    }
+  ]
+}

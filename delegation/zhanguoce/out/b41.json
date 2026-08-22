@@ -1,0 +1,110 @@
+{
+  "batch": "b41.md",
+  "rows": [
+    {
+      "chapter": "五國伐秦無功",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「秦王貪，魏冉妒，則陰不可得已矣。」在此只是推算趙國能否取得陰地的一個形勢變數；全段所論是五國攻宋、與秦講和及守約的國際策略，沒有可拆離情境的對人斷語"
+    },
+    {
+      "chapter": "五國伐秦無功",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「秦行是計，不利於趙，而君終不得陰，一矣。」以下逐項列出爭相事秦的六種國際後果，是國力、結盟與攻伐的形勢推演"
+    },
+    {
+      "chapter": "五國伐秦無功",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「奉陽君曰：『善。』乃絕和於秦，而收齊、魏以成取陰。」只交代採納計策及外交結果；補曰所考辨的也是各國伐宋、分地的史事"
+    },
+    {
+      "chapter": "樓緩將使伏事辭行",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "expression"],
+      "reason": "「臣雖盡力竭知，死不復見於王矣。」是樓緩針對自己出使後將受讒的辭行情節與個別預測，公子牟夷之事也只作類比，未提出一般的人性斷語"
+    },
+    {
+      "chapter": "樓緩將使伏事辭行",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "observation"],
+      "reason": "「吾已與樓子有言矣。」交代趙王因舊約而不聽候者的具體結果；鮑本注文「此言姦人不可盡信。」只是以『姦人』作不可信的品題，沒有給出行為機制"
+    },
+    {
+      "chapter": "虞卿請趙王[2]",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「人之情，寧朝人乎？寧朝於人也？」明說人偏好受人朝見而不願朝見他人的權勢心理，拆離殺范座的策略仍是對人的斷語"
+    },
+    {
+      "chapter": "虞卿請趙王[2]",
+      "para_index": 2,
+      "domains": ["X"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「百里之地不可得，而死者不可復生也，則主必為天下笑矣！」以死亡不可逆為勸魏王改用活人交易的關鍵理由，並非只交代某人死亡的史事"
+    },
+    {
+      "chapter": "虞卿請趙王[2]",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「夫國內無用臣，外雖得地，勢不能守。」在此是魏國若殺舊相便無人守地、秦國又將加倍索地的政策鏈與國勢推演"
+    },
+    {
+      "chapter": "燕封宋人榮蚡為高陽君",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "鮑彪注文「夫安平，齊宗也，其不強趙以奪齊之霸，人之情也。」把人受群體歸屬與權勢利害支配、因而不肯壯大他國說成一般人情"
+    },
+    {
+      "chapter": "三國攻秦趙攻中山",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「不如盡歸中山之新埊。」是藉歸地與借道消息迫使齊國效鼓的外交計策，主詞與後果都是國家行動，沒有對人的斷語"
+    },
+    {
+      "chapter": "趙使趙莊合從",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「齊畏從人之合也，故效地。」解釋齊國因合從形勢而割地，後文以趙莊的貴賤推算齊國決策，都是國際情勢中的行動鏈"
+    },
+    {
+      "chapter": "翟章從梁來",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「客若死，則王必怒而誅建信君。」只是刺殺翟章後趙王將如何處置建信君、韓向能否得相的條件式權謀推演"
+    },
+    {
+      "chapter": "馮忌為廬陵君謂趙王",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「是王輕強秦而重弱燕也。」所批評的是逐廬陵君一事顯出的對秦、燕政策失衡；『愛弟』仍是這件外交勸諫中的人物關係，沒有另立家庭命題"
+    },
+    {
+      "chapter": "馮忌請見趙王",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「交淺而言深，是忠也。」直接把交往尚淺仍坦率深談界定為忠，既提出人際交往的判斷，也給出品格標準"
+    },
+    {
+      "chapter": "客見趙王",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「謹備其所憎，而禍在於所愛。」指出掌權者防備所憎者，卻會被所愛近幸利用並使大臣枉法，是偏愛如何扭曲權力與治理的人性斷語"
+    }
+  ]
+}
