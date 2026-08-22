@@ -1174,6 +1174,28 @@ def punctuation_drift(rows, paras):
     return drift
 
 
+def quote_convention_inversion(rows):
+    """整批把逐字引句寫成『』：SPEC 規則 7 的引號分工被反過來用。
+
+    b03 就是這樣——25 條逐字引句全寫 『』、「」 掛零，驗收器按約定判它「沒有引到原文」，
+    表面上會變成一整批的假 FAIL。合法的巢狀（引句裡本來就有原文的「」對白，內層改寫成
+    『』）在單批裡只會出現一兩條，且該批必有大量 「」，所以用「該批 「」 掛零」當判準，
+    不用比例。
+    """
+    tally = {}
+    for row in rows.values():
+        batch = row.get("_batch")
+        reason = row.get("reason", "")
+        outer, inner = tally.setdefault(batch, [0, 0])
+        tally[batch] = [outer + reason.count("「"), inner + reason.count("『")]
+    return sorted(
+        "A12 %s 全批 %d 條 『』 而 「」 掛零：引號分工寫反，整批退回重判"
+        % (batch, inner)
+        for batch, (outer, inner) in tally.items()
+        if inner and not outer
+    )
+
+
 def hard_rule_7_warnings(rows, paras):
     bad = []
     for key, row in sorted(rows.items()):
@@ -1351,6 +1373,8 @@ def run(out_dir, wanted):
         print("  " + item)
     if len(drift) > 5:
         print("  …另有 %d 條" % (len(drift) - 5))
+
+    fails.extend(quote_convention_inversion(rows))
 
     full_book = set(batches) == known_batches and len(batches) == len(known_batches)
     comparisons = b_comparisons(spec, stats) if full_book else []
