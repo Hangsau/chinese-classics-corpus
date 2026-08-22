@@ -1,0 +1,96 @@
+{
+  "batch": "b13.md",
+  "rows": [
+    {
+      "chapter": "秦取楚漢中",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「可發使告楚曰」以下設計讓楚疑秦、轉與三國謀，再推至「秦為知之，必不救也」；人物只作離間攻楚方案中的行動單位，是具體形勢推演，沒有可拆出的對人斷語"
+    },
+    {
+      "chapter": "秦取楚漢中",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「楚之應之果勸」至「秦遂不敢出兵」只交代離間方案落實及戰事結果；末尾鮑本、正曰所論是篇章歸屬與年代異同，不是對人的看法"
+    },
+    {
+      "chapter": "薛公入魏而出齊女[1]",
+      "para_index": 1,
+      "domains": ["IV", "VI"],
+      "modes": ["prescription", "proposition"],
+      "reason": "「負蒭立，其母在秦，則魏，秦之縣也」把母子關係當作負蒭終身事秦的原因；「齊女入魏而怨薛公，終以齊奉事王」又明說怨恨如何驅動其選邊，不只列舉國力與盟約"
+    },
+    {
+      "chapter": "三國攻秦入函谷",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「割河東，大費也；免於國患，大利也」衡量割地與解圍的國策得失，「王何不召公子池而問焉」只是決策建議，沒有對人的通則性斷語"
+    },
+    {
+      "chapter": "三國攻秦入函谷",
+      "para_index": 2,
+      "domains": ["VI", "VIII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「講亦悔，不講亦悔」反覆推演秦王在割地或危及咸陽後的悔恨，並以「寧亡三城而悔，無危咸陽而悔」呈現如何在不可免的悔中取捨；鮑彪注文「緩時相秦……而曰『此父兄之任』，焉用彼相矣」另以是否盡相職評樓緩"
+    },
+    {
+      "chapter": "秦昭王謂左右[2]",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「今之如耳、魏齊，孰與孟嘗、芒卯之賢」是具體人物比較，「帥弱韓、魏以攻秦，其無奈寡人何」則把比較用於軍事勝負預測；賢與無能都是附著於戰勢的品題"
+    },
+    {
+      "chapter": "秦昭王謂左右[2]",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "鮑彪注文「人君閒暇，宜數聞之」主張人君應反覆聽取警戒，涉及領導責任；正曰注文「凡委質於其國者，雖有忠言嘉謨，皆不得在君子之科」則以是否仕於棄仁義之國提出君子品格的判準"
+    },
+    {
+      "chapter": "楚魏戰於陘山",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「魏畏秦、楚之合，必與秦地矣」是藉會盟威脅索地的形勢推演，結尾「魏王聞之恐，效上洛於秦」只交代計策生效；恐懼是敘事套語，未被展開為對人的斷語"
+    },
+    {
+      "chapter": "楚使者景鯉在秦[3]",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "周冣以「是以鯉與之遇也……故齊不合也」解釋秦魏會遇與齊楚結盟的關係，末句只記「楚王因不罪景鯉而德周、秦」的外交結果；其餘注文也是缺簡、國別與史事考辨"
+    },
+    {
+      "chapter": "楚王使景鯉如秦",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "narrative"],
+      "reason": "「王不如留之以市地」以及楚聽則得地、不聽則殺景鯉的兩路推演，是把使者當作換地籌碼的具體政策鏈，沒有獨立的人性主張"
+    },
+    {
+      "chapter": "楚王使景鯉如秦",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「今大王留臣，是示天下無楚也」至「則社稷必危，不如出臣」只從扣使者的外交訊號推演齊魏不割地、楚外結諸侯等後果；社稷在此也是國勢，不是超越主張"
+    },
+    {
+      "chapter": "秦王欲見頓弱",
+      "para_index": 1,
+      "domains": ["II", "IV"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「有其實而無其名者」等三分直接辨析名與實，最後以「已立為萬乘，無孝之名；以千里養，無孝之實」指出王者身分不能替代對母親的實際孝行"
+    },
+    {
+      "chapter": "秦王欲見頓弱",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition", "narrative"],
+      "reason": "開頭「威不掩於山東，而掩於母」是針對秦王母后事件的激將話術；本段承重處是「韓、魏從，而天下可圖也」及「橫成，則秦帝；從成，即楚王」的列國從橫推演，末尾亦只交代入將相與諸國歸從的結果"
+    }
+  ]
+}

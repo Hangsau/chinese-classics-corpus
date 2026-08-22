@@ -1,0 +1,131 @@
+{
+  "batch": "b22.md",
+  "rows": [
+    {
+      "chapter": "齊人有馮諼者",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「貧乏不能自存，使人屬孟嘗君」至「食以草具」只交代馮諼投奔及受待的經過；「客無能也」與左右因孟嘗君輕賤他而薄待之，都是具體人物言行，未形成對人的通則斷語"
+    },
+    {
+      "chapter": "齊人有馮諼者",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "expression"],
+      "reason": "三次「長鋏歸來乎」是馮諼索求食魚、乘車及奉養老母的情節性自陳；「左右皆惡之，以為貪而不知足」只是對此一人的品題，沒有給出品格標準或一般行為機制"
+    },
+    {
+      "chapter": "齊人有馮諼者",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "本段承接收債任務的派遣：馮諼署名應募，孟嘗君道歉並令其「收責於薛」；「客果有能也」仍是對具體人物的品題，沒有提出可拆離事件的人性原理"
+    },
+    {
+      "chapter": "齊人有馮諼者",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「矯命以責賜諸民，因燒其券，民稱萬歲」只記馮諼召民、焚券免債及百姓反應的事件經過，尚未在本段說明這些行動所代表的做人原則"
+    },
+    {
+      "chapter": "齊人有馮諼者",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「君家所寡有者以義耳」並以「不拊愛子其民，因而賈利之」說明所缺之義，把領導者愛民而不以民牟利的責任及品格標準明確說出來；這不只是在記焚券結果"
+    },
+    {
+      "chapter": "齊人有馮諼者",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「狡兔有三窟」以動物為主詞，只替後續營造三處政治保障作比喻；其餘「諸侯先迎之者，富而兵強」及魏、齊往返聘謝，都是外交得勢的條件推演與事件經過"
+    },
+    {
+      "chapter": "齊人有馮諼者",
+      "para_index": 7,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "observation"],
+      "reason": "命中來自鮑彪注文：「煖之市義賢矣，而為之營窟，則亦聲利之客耳」以義與聲利判別品格，又說「氣俗之移，人莫覺悟也」，指出風俗如何影響人的社會判斷；正文的「馮諼之計也」本身只是史事歸因"
+    },
+    {
+      "chapter": "孟嘗君為從",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「意者秦王帝王之主也」與「意者秦王不肖之主也」是為決定是否合從而設的兩項人物假定，直接導向「從以難之」的外交條件，沒有獨立提出對人的通則"
+    },
+    {
+      "chapter": "孟嘗君為從",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "公孫弘不只說「孟嘗君好人」，還列出其士「不臣乎天子，不友乎諸侯」及使者受辱便「退而自刎」等行為標準，具體刻畫士與主君、權勢及忠節之間的關係，已超出單純品題"
+    },
+    {
+      "chapter": "孟嘗君為從",
+      "para_index": 3,
+      "domains": ["VII", "VIII"],
+      "modes": ["observation", "prescription"],
+      "reason": "正文以「立千乘之義而不可陵，可謂足使矣」按守義不受辱及勝任出使來評價公孫弘；鮑彪注文又以「彼蓋未學禮也」批評此類辯士，並稱「此說者之所當知也」，明示從事遊說者的品格與行事標準"
+    },
+    {
+      "chapter": "魯仲連謂孟嘗",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「色與馬取於今之世，士何必待古哉？故曰君之好士未也」用當世即可求良士反駁人才難得，並以士是否願盡其交游之道檢驗領導者待士是否真誠，涉及用人與社會關係"
+    },
+    {
+      "chapter": "孟嘗君逐於齊而復反",
+      "para_index": 1,
+      "domains": ["V", "X"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「事之必至者，死也」直說死亡不可免；「理之固然者，富貴則就之，貧賤則去之」又把人隨富貴聚散的關係機制說出來，並以市場朝聚夕散勸孟嘗君停止報怨"
+    },
+    {
+      "chapter": "齊宣王見顏斶[1]",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「士貴耳，王者不貴」是王、士位勢的品題，柳下季墓與齊王首級的賞格只是為當場辯論所作的政治比價，沒有給出一般行為機制；「宣王不悅」「默然不悅」均是敘事套語，不據此標情緒"
+    },
+    {
+      "chapter": "齊宣王見顏斶[1]",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition", "observation"],
+      "reason": "左右以王有「千乘之地」及萬物百姓歸附，對比士徒步處農畝而說「士之賤也」，是在列舉雙方資源後作身分高下品題，未說明人的心理或行為何以如此"
+    },
+    {
+      "chapter": "齊宣王見顏斶[1]",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「無其實而喜其名者削，無德而望其福者約，無功而受其祿者辱」以後果建立名實、德功的品格判準；「無羞亟問，不媿下學」又提出居上者尊士求學的領導原則"
+    },
+    {
+      "chapter": "齊宣王見顏斶[1]",
+      "para_index": 4,
+      "domains": ["VII"],
+      "modes": ["expression", "narrative"],
+      "reason": "宣王由「君子焉可侮哉，寡人自取病耳」承認侮士之非並自負其責，隨即願受教為弟子；承重的是良心上的自我改過，不是單純的情緒或禮遇情節"
+    },
+    {
+      "chapter": "齊宣王見顏斶[1]",
+      "para_index": 5,
+      "domains": ["I", "VII"],
+      "modes": ["expression", "proposition"],
+      "reason": "顏斶以玉「制則破焉」比喻士受祿後「形神不全」，並選擇「晚食以當肉，安步以當車，無罪以當貴，清靜貞正以自虞」，明確衡量富貴、完整人生與貞正品格孰為根本"
+    },
+    {
+      "chapter": "齊宣王見顏斶[1]",
+      "para_index": 6,
+      "domains": ["VII", "XIII"],
+      "modes": ["proposition"],
+      "reason": "「知足矣，歸反撲，則終身不辱也」把知足、返樸視為保持品格並安頓一生的道路，因果判斷可脫離顏斶辭歸的單次情節而成立"
+    }
+  ]
+}

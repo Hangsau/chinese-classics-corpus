@@ -1,0 +1,75 @@
+{
+  "batch": "b04.md",
+  "rows": [
+    {
+      "chapter": "𡱝武敗於伊闕",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "正文以「周君得以為辭於父兄百姓，而利溫囿以為樂，必不合於秦」寫私利如何牽動君主抉擇；鮑彪注文又明斷「周君非賢君也，秦兵在境，而樂於囿，其志荒矣」，並以「非君子所以事其君者也」提出君臣責任與品格標準"
+    },
+    {
+      "chapter": "韓魏易地",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "narrative"],
+      "reason": "「韓、魏之易地……盡包二周」及「則楚方城之外危；韓兼兩上黨以臨趙，即趙羊腸以上危」只在推演換地後的版圖與國勢；末句「楚王恐」是情節套語，沒有對人的斷語"
+    },
+    {
+      "chapter": "秦欲攻周",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「為王之國計者，不攻周」所據的是「兵弊於周，而合天下於齊，則秦孤而不王矣」的國際形勢推演，只說攻周將如何改變結盟與國力，沒有提出人的看法"
+    },
+    {
+      "chapter": "宮他謂周君",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「此皆恃援國而輕近敵也」總結的是宛、鄭、邾、莒、陳、蔡等國的存亡形勢，「使周最陰合於趙以備秦」則是備敵方案；主詞與推論都停留在國際戰略"
+    },
+    {
+      "chapter": "謂齊王",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「王何不以地齎周最以為太子」與「悍請令王進之以地」都是扶立太子的操作建議；「左尚以此得事」只交代計策結果，沒有給出可拆離此事的人性或人生斷語"
+    },
+    {
+      "chapter": "三國攻秦反",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「楚、宋不利秦之德三國也，彼且攻王之聚以利秦」是用列國利害催促魏軍東返的形勢說辭；「魏王懼」只是促成行動的敘事套語，不構成情緒領域"
+    },
+    {
+      "chapter": "𡱝武敗",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「臣願免而行」是周足為保全使事而應採的話術，「交善於秦，且公之成事也；交惡於秦，不善於公且誅矣」則只列此次出使成敗的條件後果，沒有獨立的人之斷語"
+    },
+    {
+      "chapter": "衛鞅亡魏入秦",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "observation"],
+      "reason": "「公平無私，罰不諱強大，賞不私親近」以實際施法呈現公義與掌權標準；「然刻深寡恩，特以強服之耳」又依其治理方式與後果評斷品格，不只是給商君掛一個稱號"
+    },
+    {
+      "chapter": "衛鞅亡魏入秦",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「欲傳商君，辭不受」及「孝公已死，惠王代後……商君告歸」只是禪位未成、君位更替與告歸的史事經過，未說明人的一般機制或評價標準"
+    },
+    {
+      "chapter": "衛鞅亡魏入秦",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「大臣太重者國危，左右太親者身危」直接提出權力關係失衡對國與君的通則性後果；「商君反為主，大王更為臣」以主臣名位倒置說明此一領導與權力問題"
+    }
+  ]
+}

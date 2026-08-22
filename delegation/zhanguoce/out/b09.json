@@ -1,0 +1,131 @@
+{
+  "batch": "b09.md",
+  "rows": [
+    {
+      "chapter": "甘茂攻宜陽",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "expression"],
+      "reason": "「我以宜陽餌王」與「請明日鼓之而不可下，因以宜陽之郭為墓」是甘茂在此役中的自陳與決死攻城，末句「明日鼓之，宜陽拔」則交代戰果；全段沒有脫離宜陽戰事情境仍成立的對人斷語"
+    },
+    {
+      "chapter": "宜陽未得",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「公用兵無功，公必窮矣」至「宜陽拔，則公之功多矣」只是在推算繼續攻城對甘茂權位及政敵的利害，屬特定戰役的致勝、保位條件"
+    },
+    {
+      "chapter": "宜陽之役楚畔秦而合於韓",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「楚雖合韓，不為韓氏先戰」及「韓、楚必相御也」是在判斷楚、韓於宜陽之役中的結盟與相制形勢，拆離兩國戰事情境後不成為對人的斷語"
+    },
+    {
+      "chapter": "秦王謂甘茂",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「其健者來使者，則王勿聽其事；其需弱者來使，則王必聽之」是讓秦王壓制善辯使者的操作辦法，只剩因應特定外交交涉的條件式"
+    },
+    {
+      "chapter": "甘茂亡秦且之齊",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["narrative", "expression"],
+      "reason": "江上處女故事以人為主詞；貧女說自己「常先至，掃室布席」且「自以有益於處女，何為去我」，眾人遂留她，藉人的貢獻與互惠說明被群體排斥者如何重新取得容身之處"
+    },
+    {
+      "chapter": "甘茂亡秦且之齊",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「甘茂，賢人，非恒士也」是對具體人物的品題，接著以其熟悉地形及可能聯齊、韓、魏謀秦來預測外交風險，再提出厚祿迎置槐谷之策，沒有獨立的人性斷語"
+    },
+    {
+      "chapter": "甘茂亡秦且之齊",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "蘇代以「甘茂，賢人也」及「王若不留，必不德王」催使齊王授官，前者是具體人物品題，後者是圍繞留用甘茂的利害施壓；「賜之上卿」只交代遊說結果"
+    },
+    {
+      "chapter": "甘茂相秦[1]",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "甘茂捏造「犀首告臣」，使秦王誤認公孫衍洩密而逐之；這句明知不實的具體人物之言只是權謀情節道具，全段所餘亦是事件經過"
+    },
+    {
+      "chapter": "甘茂約秦魏而攻楚",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「王不如使魏制和」及魏若不悅便與楚合、若悅則秦可多得寄地，是秦、魏、楚和戰選項的條件推演，沒有從國際情境拆下後仍成立的對人斷語"
+    },
+    {
+      "chapter": "陘山之事",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "本段依次交代「趙且與秦伐齊」、齊以陽武與順子求和，以及趙王案兵告秦，內容是土地、質子與停戰的史事經過"
+    },
+    {
+      "chapter": "陘山之事",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「齊與大國救魏而倍約，不可信恃」是外交責難，隨後追究趙案兵受地並請益甲四萬，整段圍繞盟約與兵力交涉；「不義」未給出人的行為機制"
+    },
+    {
+      "chapter": "陘山之事",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "蘇代以「一也」至「五也」推演秦增兵伐齊將如何使趙、晉、楚結合及秦反受兵；「何晉、楚之智而齊、秦之愚」也是國際選邊的品題，全段重心仍是兵勢利害"
+    },
+    {
+      "chapter": "秦宣太后愛魏醜夫",
+      "para_index": 1,
+      "domains": ["X", "XI"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「以死者為有知乎？」而太后答「無知也」，庸芮遂問何以把「生所愛」葬給「無知之死人」；此論直接處理死亡及死後有無知覺，並以死者無知破除殉葬所依的超越想定"
+    },
+    {
+      "chapter": "薛公為魏謂魏冉",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「君不如勸秦王令弊邑卒攻齊之事」以下逐項計算齊破或不破時魏冉的封地、權重與呂禮復用等結果，是攻齊與固權的政策鏈，不是對人的通則"
+    },
+    {
+      "chapter": "秦客卿造謂穰侯",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「攻齊之事成」則陶強、「攻齊不成」則陶有鄰國奪取之憂，所以稱「存亡之機」；存亡所指是封地陶的戰略處境，純屬攻齊成敗推演"
+    },
+    {
+      "chapter": "秦客卿造謂穰侯",
+      "para_index": 2,
+      "domains": ["XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「聖人不能為時，時至而弗失」並以舜、湯、武「不遭時不得帝王」申說，即使賢者也不能創造時機、只能把握時機，拆離攻齊遊說後仍是人力與時勢關係的斷語；其餘亡齊之說是政策建議"
+    },
+    {
+      "chapter": "魏謂魏冉",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「公不如反公國，德楚」以及向三國、薛公請其所求以自信、自重，都是魏冉在秦、楚及三國間如何選邊增重的外交方案；所引誓戰之辭也只服務此一形勢判斷"
+    },
+    {
+      "chapter": "謂魏冉曰和不成",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「和不成，兵必出」後分白起戰勝或不勝推算魏冉權勢，再勸「公不若毋多」，是特定和戰與將相利害的政策鏈；注文亦明言「語不可曉，有缺誤」，未另立對人斷語"
+    }
+  ]
+}

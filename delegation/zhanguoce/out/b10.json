@@ -1,0 +1,54 @@
+{
+  "batch": "b10.md",
+  "rows": [
+    {
+      "chapter": "謂穰侯",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「德強齊，定身封」把施德於強齊當作安定封邑的手段，連同「殘伐亂宋」都是封地與國際策略的致利條件，未對人下斷語"
+    },
+    {
+      "chapter": "謂魏冉曰楚破秦",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「齊、秦交爭，韓、魏東聽，則秦伐矣」及「方千里」「符離之塞」等是在比較諸國土地、地勢與兵勢，推出秦將受伐，屬國際形勢推演"
+    },
+    {
+      "chapter": "五國罷成睪",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「窮而不收，達而報之，恐不為王用」說明人在困窮時未被接納、等顯達才籠絡便難以收心效命，拆離韓、魏外交情境仍是關於關係與領導的斷語"
+    },
+    {
+      "chapter": "范子因王稽入秦",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「有功者不得不賞，有能者不得不官」把職位與報酬繫於功、能，又以「賞必加於有功，刑必斷於有罪」提出掌權者公平賞罰的原則，涉及人才任用與公義領導"
+    },
+    {
+      "chapter": "范子因王稽入秦",
+      "para_index": 2,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "「此四寶者，工之所失也，而為天下名器」進而問「聖王之所棄者，獨不足以厚國家乎」，以被錯失的寶物比喻被埋沒而仍有用的人才，主張評價者可能漏失人才"
+    },
+    {
+      "chapter": "范子因王稽入秦",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「良醫知病人之死生，聖主明於成敗之事」以能辨死生、成敗界定職分上的才幹；「利則行之，害則舍之，疑則少嘗之」又提出掌政者的決策準則"
+    },
+    {
+      "chapter": "范子因王稽入秦",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「書上，秦王說之……使人持車召之」只交代書信上呈後秦王召見范子的結果；「說之」是敘事中的反應套語，未展開內在生活"
+    }
+  ]
+}

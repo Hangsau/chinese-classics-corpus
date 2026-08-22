@@ -1,0 +1,124 @@
+{
+  "batch": "b08.md",
+  "rows": [
+    {
+      "chapter": "齊助楚攻秦",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「齊助楚攻秦，取曲沃」與「秦欲伐齊，齊、楚之交善」交代交戰、結盟背景，君臣問答只啟動一次出使，沒有可拆離國際情勢的對人斷語"
+    },
+    {
+      "chapter": "齊助楚攻秦",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「大王苟能閉關絕齊」以下推演齊弱、楚得地與秦受德，結論「則此一計而三利俱至」仍只是以斷交換取三項外交利益的條件鏈"
+    },
+    {
+      "chapter": "齊助楚攻秦",
+      "para_index": 3,
+      "domains": ["VII"],
+      "modes": ["narrative", "observation"],
+      "reason": "鮑彪注文「軫之策此，可謂明矣，而懷王不聽，愚而好自用者也。其死秦，宜哉！」以「不聽」說明「愚而好自用」，並連到其後果，已不只是給懷王掛一個品題"
+    },
+    {
+      "chapter": "齊助楚攻秦",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「楚王大怒」只是受欺後的敘事反應；陳軫所說「王不如因而賂之一名都，與之伐齊」則是用攻齊補償失地的外交方案，未另說人的內在或品格"
+    },
+    {
+      "chapter": "齊助楚攻秦",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "observation"],
+      "reason": "鮑彪注文「是亦明計也而不聽，是以知楚王之悍也」把拒諫連到君主性情與用人；「補曰」所引洪邁又以「策尤乖謬不義」評其外交選擇，分別承載領導判斷與品格規範"
+    },
+    {
+      "chapter": "楚絕齊齊舉兵伐楚",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「王不如以地東解於齊，西講於秦」只是針對齊楚交戰提出東解齊、西和秦的外交處置，沒有形成對人的通則性斷語"
+    },
+    {
+      "chapter": "楚絕齊齊舉兵伐楚",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "兩虎相爭以動物為主詞，只是寓言鋪陳；「計者，事之本也；聽者，存亡之機。計失而聽過，能有國者寡也」則把領導者的計議與聽納如何關乎存亡說成可拆離情境的通則"
+    },
+    {
+      "chapter": "秦惠王死公孫衍欲窮張儀",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「三人者，皆張儀之讎也，公用之，則諸侯必見張儀之無秦矣」是利用三名政敵造成張儀失勢觀感的任用計策，只剩特定權力局勢的推演"
+    },
+    {
+      "chapter": "義渠君之魏",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「中國無事於秦」則秦攻義渠、「中國為有事於秦」則秦以重幣事義渠，是依列國是否攻秦預測國力配置的兩段條件式"
+    },
+    {
+      "chapter": "義渠君之魏",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「義渠君者，蠻夷之賢君」只是無事件標準的個人品題；「王不如賂之以撫其心」則是戰時以財物安撫盟援的策略"
+    },
+    {
+      "chapter": "義渠君之魏",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「因起兵襲秦，大敗秦人於李帛之下」記一次軍事結果，其後注文考辨李帛位置、伐秦年代與諸書異文，沒有心理領域主張"
+    },
+    {
+      "chapter": "醫扁鵲見秦武王",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「君與知之者謀之，而與不知者敗之」把專業判斷遭非專業意見破壞的機制說出來；「使此知秦國之政也，則君一舉而亡國矣」又將其上推為掌權者用人決策的責任"
+    },
+    {
+      "chapter": "秦武王謂甘茂",
+      "para_index": 1,
+      "domains": ["VIII", "X"],
+      "modes": ["narrative", "expression"],
+      "reason": "「寡人欲車通三川，以闚周室，而寡人死不杇乎？」以攻取成就寄託死後不朽的願望，同時承載成就追求與對死亡、身後名的關切"
+    },
+    {
+      "chapter": "秦武王謂甘茂",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "甘茂令向壽回報「魏聽臣矣，然願王勿攻也」，並把事成之功讓給向壽，是為取得再次陳說機會而安排的具體情節"
+    },
+    {
+      "chapter": "秦武王謂甘茂",
+      "para_index": 3,
+      "domains": ["IV", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「夫以曾參之賢，與母之信也，而三人疑之，則慈母不能信也」指出重複傳言足以動搖親子信任；甘茂再以此預測君臣信任會被眾人進言侵蝕"
+    },
+    {
+      "chapter": "秦武王謂甘茂",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「息壤在彼」只是甘茂提醒秦王既有盟約，隨後「悉起兵」並攻拔宜陽，整段交代一次守約後增兵取城的事件結果"
+    },
+    {
+      "chapter": "宜陽之役馮章謂秦王",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「不拔宜陽，韓、楚乘吾弊，國必危矣」與「不如許楚漢中以懽之」組成讓楚止兵、使韓孤立以便拔城的軍事外交條件鏈"
+    }
+  ]
+}

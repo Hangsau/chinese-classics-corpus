@@ -1037,6 +1037,7 @@ def extract_reason_quotes(reason):
 _VARIANTS = str.maketrans({"䤈": "醯", "『": "「", "』": "」"})
 _ELLIPSIS = re.compile(r"…{2,}|\.{3,}")
 _NOTE = re.compile(r"〈[^〈〉]*〉")
+_PUNCT = re.compile(r"[，。；：、？！「」『』（）〈〉…—·　\s]")
 
 
 def strip_annotations(text):
@@ -1047,15 +1048,29 @@ def strip_annotations(text):
     return text
 
 
-def quote_in_text(text, quote):
-    """引句對得上原文：容許夾注切斷、節略號分段、異體字與巢狀引號的『』寫法。"""
-    bases = (text, strip_annotations(text))
-    haystacks = bases + tuple(base.translate(_VARIANTS) for base in bases)
+def quote_in_text(text, quote, ignore_punct=False):
+    """引句對得上原文：容許夾注切斷、節略號分段、異體字與巢狀引號的『』寫法。
+
+    `ignore_punct` 另外容許標點不逐字（判者把原文的「。」併寫成「；」是最常見的一種）。
+    那仍違反 SPEC 的「含標點逐字」，但它不是捏造——去標點後仍要求字元相鄰，
+    拼接兩處遠隔的句子一樣過不了。所以另計一類回報，不混進捏造。
+    """
+    bases = [text, strip_annotations(text)]
+    bases += [base.translate(_VARIANTS) for base in bases]
+    tiers = [(bases, lambda s: s)]
+    if ignore_punct:
+        tiers.append(([_PUNCT.sub("", base) for base in bases], lambda s: _PUNCT.sub("", s)))
     fragments = [frag for frag in _ELLIPSIS.split(quote) if frag]
-    return all(
-        any(frag in hay or frag.translate(_VARIANTS) in hay for hay in haystacks)
-        for frag in fragments
-    )
+    for haystacks, norm in tiers:
+        if all(
+            any(
+                norm(frag) in hay or norm(frag.translate(_VARIANTS)) in hay
+                for hay in haystacks
+            )
+            for frag in fragments
+        ):
+            return True
+    return False
 
 
 def annotation_intervals(text):
@@ -1122,7 +1137,7 @@ def a11_commentary_reasons(rows, spec, paras):
         reason = row.get("reason", "")
         quotes = extract_reason_quotes(reason)
         named = [name for name in commentators if name in reason]
-        exact = [quote for quote in quotes if quote_in_text(text, quote)]
+        exact = [quote for quote in quotes if quote_in_text(text, quote, ignore_punct=True)]
 
         if named and not exact:
             fails.append(
@@ -1144,6 +1159,21 @@ def a11_commentary_reasons(rows, spec, paras):
 # WARN 與統計
 
 
+def punctuation_drift(rows, paras):
+    """引句只在忽略標點時才對得上：不是捏造，但違反 SPEC 的「含標點逐字」。"""
+    drift = []
+    for key, row in sorted(rows.items()):
+        if key not in paras:
+            continue
+        text = paras[key][1]
+        for quote in extract_reason_quotes(row.get("reason", "")):
+            if quote_in_text(text, quote):
+                continue
+            if quote_in_text(text, quote, ignore_punct=True):
+                drift.append("%s[%d] 「%s」" % (*key, quote[:36]))
+    return drift
+
+
 def hard_rule_7_warnings(rows, paras):
     bad = []
     for key, row in sorted(rows.items()):
@@ -1151,7 +1181,7 @@ def hard_rule_7_warnings(rows, paras):
             continue
         text = paras[key][1]
         if not any(
-            quote_in_text(text, quote)
+            quote_in_text(text, quote, ignore_punct=True)
             for quote in extract_reason_quotes(row.get("reason", ""))
         ):
             bad.append(key)
@@ -1314,6 +1344,13 @@ def run(out_dir, wanted):
     if rule7:
         examples = "、".join("%s[%d]" % key for key in rule7[:5])
         print("WARN 命中段 reason 沒有任何一個「」引句是該段原文子字串；前五例：" + examples)
+
+    drift = punctuation_drift(rows, paras)
+    print("--- 標點不逐字 WARN：%d 條引句（不擋收）---" % len(drift))
+    for item in drift[:5]:
+        print("  " + item)
+    if len(drift) > 5:
+        print("  …另有 %d 條" % (len(drift) - 5))
 
     full_book = set(batches) == known_batches and len(batches) == len(known_batches)
     comparisons = b_comparisons(spec, stats) if full_book else []

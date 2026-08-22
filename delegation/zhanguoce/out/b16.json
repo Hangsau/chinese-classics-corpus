@@ -1,0 +1,103 @@
+{
+  "batch": "b16.md",
+  "rows": [
+    {
+      "chapter": "濮陽人呂不韋賈於邯鄲",
+      "para_index": 1,
+      "domains": ["VIII", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「耕田之利幾倍」「珠玉之贏幾倍」「立國家之主贏幾倍」把人生事業按所得與能否「澤可以遺世」來衡量，涉及工作成就；補曰注文又以「不韋鄙耕田珠玉之小贏，而圖建國立君之大利」批評其逐利取向，並追問「能無悔乎」，形成品格判斷"
+    },
+    {
+      "chapter": "濮陽人呂不韋賈於邯鄲",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「子傒有承國之業」與「今子聽吾計事，求歸，可以有秦國」是在異人的質子與繼承處境中安排歸秦方案；無母、毀約即死都只是王位計算的條件，沒有獨立的人性斷語"
+    },
+    {
+      "chapter": "濮陽人呂不韋賈於邯鄲",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「王一日山陵崩，子傒立」以下推演陽泉君將失勢，並以王后收異人為子作為避禍辦法；富貴、無子與危亡都是奪嫡遊說中的籌碼和條件"
+    },
+    {
+      "chapter": "濮陽人呂不韋賈於邯鄲",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「若使子異人歸而得立，趙厚送遣之」是在比較扣留與遣返質子對秦趙關係的利害，「秦王老矣」也只供判斷結盟時效，整段是外交條件推演"
+    },
+    {
+      "chapter": "濮陽人呂不韋賈於邯鄲",
+      "para_index": 5,
+      "domains": ["V", "VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「大王無一介之使以存之，臣恐其皆有怨心」把不加存問與舊交產生怨心連成明確機制，不只是「悅」「恐」一類敘事套語，說出了關係維繫與內在怨懟"
+    },
+    {
+      "chapter": "濮陽人呂不韋賈於邯鄲",
+      "para_index": 6,
+      "domains": ["VII", "XII"],
+      "modes": ["observation", "proposition"],
+      "reason": "鮑彪注文以「欲圖贏而奪嫡立庶」及「士之陰險傾邪，無輩於不韋者」判其品格，又由其飲酖結論「於是知有天道矣」，明確認證帶有報應意味的超越秩序"
+    },
+    {
+      "chapter": "文信侯欲攻趙以廣河間",
+      "para_index": 1,
+      "domains": ["II", "VIII"],
+      "modes": ["narrative", "expression"],
+      "reason": "甘羅以「項櫜生七歲而為孔子師，今臣生十二歲於茲矣」自陳年少不等於無能，並要求「君其試臣，奚以遽言叱也」，直接涉及自我評價與才能獲得試用"
+    },
+    {
+      "chapter": "文信侯欲攻趙以廣河間",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "甘羅比較張唐與武安君之功、應侯與文信侯之權，最後以「臣不知卿所死之處矣」迫其就任；功名、權勢與死亡只構成一次性的威嚇推理"
+    },
+    {
+      "chapter": "文信侯欲攻趙以廣河間",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「燕太子入秦者，燕不欺秦也」以下用質子、相燕與割城推演秦燕趙三國攻守，並提出歸太子、攻弱燕的交換方案，是國際形勢與外交交易"
+    },
+    {
+      "chapter": "文信侯出走[2]",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "本段只交代「文信侯出走」、司空馬入趙任守相及「秦下甲而攻趙」三項史事，沒有對人的看法"
+    },
+    {
+      "chapter": "文信侯出走[2]",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "司空馬逐項比較秦趙的土地、人口、財粟、治國、相將與律令，繼而設計割地、退兵、合從之策；「諸侯必懼，懼而相救」仍是把諸侯當行動單位的政策鏈"
+    },
+    {
+      "chapter": "文信侯出走[2]",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "「其為人疾賢妒功臣」是對韓倉的具體人物品題，用來預測趙王將聽其言、武安君將死及趙亡時間，導向軍事結果而未提出一般行為機制"
+    },
+    {
+      "chapter": "文信侯出走[2]",
+      "para_index": 4,
+      "domains": ["IX", "X"],
+      "modes": ["narrative"],
+      "reason": "武安君自述「身大臂短，不能及地」並以木材接手，受賜死後又因「臂短不能及」而銜劍就柱自刺；段落持續寫他自己的身體限制，也具體呈現其面對死亡與自盡的處境"
+    },
+    {
+      "chapter": "文信侯出走[2]",
+      "para_index": 5,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「國亡者，非無賢人，不能用也」把敗亡原因明指為領導者不能任用已有賢才，離開趙亡史事仍是關於權力責任與人才運用的斷語；鮑彪注文其餘主要在評合從形勢與司空馬計策"
+    }
+  ]
+}

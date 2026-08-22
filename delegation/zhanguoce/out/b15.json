@@ -1,0 +1,61 @@
+{
+  "batch": "b15.md",
+  "rows": [
+    {
+      "chapter": "或為六國說秦王",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「郢為強，臨天下諸侯，故天下樂伐之也」把強者凌駕諸侯與眾人樂於合攻相連，拆離各國勝敗史事後仍是對群體權力關係的斷語；「寢不寐，食不飽」僅是敘事套語，故不標 VI"
+    },
+    {
+      "chapter": "謂秦王",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「勝而不驕，故能服世；約而不忿，故能從鄰」把不驕不忿當成服世從鄰的致勝條件，後文也只據魏、趙、齊、楚形勢勸秦王改變外交作法，沒有獨立說明人是什麼樣的"
+    },
+    {
+      "chapter": "謂秦王",
+      "para_index": 2,
+      "domains": ["VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「靡不有初，鮮克有終」與「三者非無功也，能始而不能終也」明說人往往能開創而難以把功業完成，歷舉智伯、夫差、梁君則用故事承載這項關於成就能否善終的斷語"
+    },
+    {
+      "chapter": "謂秦王",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「王若能為此尾，則三王不足四，五伯不足六；王若不能為此尾，而有後患」只是以能否收束宜陽、三川之功推演秦王的霸業成敗，是具體政局中的條件式勸說"
+    },
+    {
+      "chapter": "謂秦王",
+      "para_index": 4,
+      "domains": ["VIII", "VII"],
+      "modes": ["proposition"],
+      "reason": "正文「行百里者半於九十。此言末路之難」把完成一項事業時最後階段尤其困難說成通則，涉及成就；正曰注文又斷言「驕者必敗，亦論之常」，明列驕矜這項品格的後果，故並標 VII"
+    },
+    {
+      "chapter": "秦王與中期爭論",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「中期適遇明君故也，向者遇桀、紂，必殺之矣」以掌權者是否殺掉辯論勝己之人區分明君與暴君，提出領導者如何用權及能否容人的品格判準；「秦王大怒」本身只作敘事套語，不標 VI"
+    },
+    {
+      "chapter": "獻則謂公孫消",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「公何不以秦、楚之重，資而相之於周乎」以下只是利用太后所親的辛戎換取相位的具體薦任計策，「太后必悅公，公相必矣」仍是若要得相位便須如何運作的條件鏈"
+    },
+    {
+      "chapter": "樓𠵦約秦魏[1]",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「魏不與我約，必攻我；我與其處而待之見攻，不如先伐之」只在推演秦、魏是否結盟及先後用兵，「太后坐王而泣」「王因疑於太子」則是事件經過，沒有可脫離該國際情境而成立的對人斷語"
+    }
+  ]
+}

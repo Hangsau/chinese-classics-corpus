@@ -1,0 +1,27 @@
+{
+  "batch": "b20.md",
+  "rows": [
+    {"chapter": "張儀事秦惠王", "para_index": 1, "domains": [], "modes": ["narrative", "observation"], "reason": "「惠王死，武王立」與「左右惡張儀，曰：『儀事先王不忠。』」只交代政權更替及對具體人物的攻訐品題，沒有給出評判機制或一般人性斷語"},
+    {"chapter": "張儀事秦惠王", "para_index": 2, "domains": [], "modes": ["proposition", "prescription"], "reason": "「齊王甚憎張儀，儀之所在，必舉兵而伐之」只預測特定君王的反應，後接「王以其間伐韓」的國際形勢與用兵條件鏈；拆離此局只剩一項取利計策"},
+    {"chapter": "張儀事秦惠王", "para_index": 3, "domains": [], "modes": ["narrative", "proposition"], "reason": "「梁王大恐」只是敘事套語；馮喜復述「梁、齊之兵連於城下……王以其間伐韓」並以「乃止」收束，所載仍是計策推演及結果。鮑彪、正曰注文的「皆可鄙也」「何善之可稱」是對張儀此術的特定品題，未另給一般行為機制"},
+    {"chapter": "犀首以梁為齊戰於承匡而不勝", "para_index": 1, "domains": ["V", "VIII"], "modes": ["narrative", "observation"], "reason": "命中來自鮑彪注文：「一言一動，盡為機穽，豈可與同群哉」指出權謀群體中的交往陷阱；又以「此在衍術中而不悟，是以知儀之疏也」用能否識破圈套作張儀才智的判準"},
+    {"chapter": "昭陽為楚伐魏", "para_index": 1, "domains": ["VII"], "modes": ["narrative", "proposition"], "reason": "「戰無不勝而不知止者，身且死，爵且後歸」把不能節制、不知止的品格後果說成通則，離開楚、齊之戰仍成立；畫蛇添足的故事承載這項斷語"},
+    {"chapter": "秦攻趙", "para_index": 1, "domains": [], "modes": ["narrative", "prescription"], "reason": "「趙令樓緩以五城求講於秦」交代割地求和，末句「不如從合於趙，趙必倍秦」是針對秦、趙、齊關係的選邊建議，沒有可拆出的對人斷語"},
+    {"chapter": "權之難齊燕戰", "para_index": 1, "domains": [], "modes": ["proposition", "prescription"], "reason": "「齊必急，急必以地和於燕」「緩必復與燕戰」推演兩國戰和與趙國取地的條件，主詞都是國家與兵勢，只構成國際形勢下的按兵之策"},
+    {"chapter": "秦攻趙長平", "para_index": 1, "domains": [], "modes": ["proposition"], "reason": "「齊、楚救趙，親，則將退兵；不親，則且遂攻之」是依盟國是否親合作出的軍事決策樹；「親」指國際協作，並非人的關係或心理斷語"},
+    {"chapter": "秦攻趙長平", "para_index": 2, "domains": [], "modes": ["proposition", "prescription"], "reason": "「脣亡則齒寒。今日亡趙，則明日及齊、楚」說的是趙作為國際屏障的形勢；「救趙，高義也；卻秦兵，顯名也」又把義與名列作退秦的政策收益，未提出獨立的人性或德性主張"},
+    {"chapter": "或謂齊王", "para_index": 1, "domains": [], "modes": ["proposition", "prescription"], "reason": "「趙、魏亡之後，秦東面而伐齊」以諸國存亡次序推演齊國援趙、魏的必要，全文所論是地緣與救援鏈，人在其中只是國家行動單位"},
+    {"chapter": "楚王死", "para_index": 1, "domains": [], "modes": ["narrative", "proposition"], "reason": "薛公所說「抱空質而行不義於天下」只評估扣留特定太子卻失去籌碼的名義代價，蘇秦接著以殺太子或共立太子索地，整段是人質外交的具體盤算"},
+    {"chapter": "楚王死", "para_index": 2, "domains": [], "modes": ["proposition"], "reason": "連列「可以請行」「可以益割於楚」「可以惡蘇秦於薛公」等，是整理同一計策可操作的九種政治用途；「忠太子」在此也是操弄各方的角色站位，沒有獨立德性斷語"},
+    {"chapter": "楚王死", "para_index": 3, "domains": ["VIII"], "modes": ["proposition", "prescription"], "reason": "「謀泄者事無功，計不決者名不成」直接把保密、決斷與事情能否成就連成一般原理，離開索取下東國的情境仍是關於行事與成就的斷語"},
+    {"chapter": "楚王死", "para_index": 4, "domains": [], "modes": ["narrative", "proposition"], "reason": "「今王不亟入下東國，則太子且倍王之割而使齊奉己」是用特定太子的競價威脅促使楚王獻地，末句也只記「因獻下東國」的結果"},
+    {"chapter": "楚王死", "para_index": 5, "domains": [], "modes": ["proposition", "prescription"], "reason": "「使太子謁之君……使楚王聞之，可以益入地」安排太子放出加碼消息以迫使楚王多割地，全文是對具體各方的操控步驟，沒有對人的通則判斷"},
+    {"chapter": "楚王死", "para_index": 6, "domains": [], "modes": ["narrative", "prescription"], "reason": "「太子何不倍楚之割地而資齊」是特定人質競價策略，「楚王聞之恐，益割地而獻之」只敘其奏效；恐懼是事件套語，並未展開內在經驗"},
+    {"chapter": "楚王死", "para_index": 7, "domains": [], "modes": ["proposition", "prescription"], "reason": "「太子去，齊無辭，必不倍於王也」與「王去讎而得齊交」只計算移走太子後楚王在地土和邦交上的收益；「楚王大悅」也是敘事反應套語"},
+    {"chapter": "楚王死", "para_index": 8, "domains": [], "modes": ["proposition", "prescription"], "reason": "「楚交成，太子必危矣。太子其圖之」根據楚已獻地、齊未必信太子的特定權勢局面催其離齊，只是人質安全的形勢推演與建議"},
+    {"chapter": "楚王死", "para_index": 9, "domains": [], "modes": ["narrative", "observation"], "reason": "「蘇秦非誠以為君也，且以便楚也」是使者為離間薛公而安在具體人物身上的動機指控，「臣竊為君疑之」明示其為情節中的疑間工具，不能當作一般人性斷語"},
+    {"chapter": "楚王死", "para_index": 10, "domains": [], "modes": ["narrative", "observation"], "reason": "使者反向列舉「忠王而走太子者又蘇秦也」，再稱他「為齊薄而為楚厚」，是為蘇秦請封所作的特定功勞陳述；「因封蘇秦」只記政治結果"},
+    {"chapter": "楚王死", "para_index": 11, "domains": ["V"], "modes": ["proposition", "prescription"], "reason": "「君之所以重於天下者，以能得天下之士而有齊權也」把領導者的權勢繫於能否容納人才；「不善蘇秦，則是圍塞天下士而不利說途也」又說明排斥一人如何破壞更廣的士人關係網"},
+    {"chapter": "齊王夫人死", "para_index": 1, "domains": [], "modes": ["narrative"], "reason": "「美其一，明日視美珥所在」記薛公用耳飾辨認齊王偏愛誰、再勸立夫人的一次性計謀，沒有把愛欲、親密或人的選擇說成一般斷語"}
+  ]
+}

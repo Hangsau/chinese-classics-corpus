@@ -1,0 +1,61 @@
+{
+  "batch": "b24.md",
+  "rows": [
+    {
+      "chapter": "蘇秦說齊閔王",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「聖人從事，必藉於權而務興於時」與「無權籍，倍時勢，而能事成者寡矣」說的是用兵須藉權、乘時的成事條件；拆離列國競逐後只剩策略程序，沒有對人的獨立斷語"
+    },
+    {
+      "chapter": "蘇秦說齊閔王",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "干將、弓弩之喻及衛藉魏、趙藉楚的往事都在證成「權藉不在焉」便不能發揮力量；末列「行此六者而求伯，則遠矣」仍是稱霸的成敗條件，未另立人性或人生主張"
+    },
+    {
+      "chapter": "蘇秦說齊閔王",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition", "narrative"],
+      "reason": "「順民之意，而料兵之能」在本段明接「兵不費，權不輕，地可廣，欲可成」，其餘以齊、韓、魏、秦、楚戰事說明不宜主怨，整段是用兵與結約的利害推演"
+    },
+    {
+      "chapter": "蘇秦說齊閔王",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition", "narrative"],
+      "reason": "「祖仁者王，立義者伯，用兵窮者亡」把仁義直接繫於王伯成敗，屬德目工具化；夫差與萊、莒、陳、蔡之例則用來驗證大國後起、小國謹靜的存亡策略"
+    },
+    {
+      "chapter": "蘇秦說齊閔王",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「不約親，不相質而固……俱彊而加以親。何則？形同憂而兵趨利也」不只列盟約形勢，還明說共同憂患與逐利如何使本無親約者合作，形成可拆出的群體關係機制"
+    },
+    {
+      "chapter": "蘇秦說齊閔王",
+      "para_index": 6,
+      "domains": ["V", "IX", "X"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「戰者，國之殘也」及「民之所費也，十年之田而不償」寫統治決策加在百姓身上的公共負擔（V）；「夷傷者空財而共藥」寫傷者的身體處境（IX）；「死者破家而葬」寫死亡及家屬的失去（X）。任去一格都會漏掉公共代價、傷病或死亡中的一層"
+    },
+    {
+      "chapter": "蘇秦說齊閔王",
+      "para_index": 7,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「少長貴賤，則同心於貫之者……惡其示人以難也」說明人會因對方示難而形成共同敵意，並由「又且害人者也，然則天下仇之必矣」推到加害如何招致群體仇視，是獨立的社會關係斷語"
+    },
+    {
+      "chapter": "蘇秦說齊閔王",
+      "para_index": 8,
+      "domains": ["VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "正文的「勞天下而自佚，亂天下而自安」主要是王業權術；領域命中來自正曰注文對其標準明確的倫理批評：「是豈仁義之師，正大之論乎？雖其後極言戰之害，何救於失哉！」"
+    }
+  ]
+}
