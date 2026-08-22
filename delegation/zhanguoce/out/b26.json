@@ -1,0 +1,173 @@
+{
+  "batch": "b26.md",
+  "rows": [
+    {
+      "chapter": "田單將攻狄",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "本段以「遂攻狄，三月而不克之也」收束田單不信魯仲連預言而出兵的經過，所增加的是一次攻城失敗的史事，沒有另立可拆離此役的對人斷語。"
+    },
+    {
+      "chapter": "田單將攻狄",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「當此之時，將軍有死之心，而士卒無生之氣」緊接「此所以破燕也」，又以今日「有生之樂，無死之心」解釋「所以不勝者也」；全段把心氣當作兩次戰役勝負的條件，屬致勝分析而非獨立的人生主張。"
+    },
+    {
+      "chapter": "濮上之事",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「不如易餘糧於宋」以下推演宋受糧後梁不敢越宋伐齊、齊強後又可索還或藉故攻宋，是逐步安排外交籌碼的條件式，沒有對人的一般判斷。"
+    },
+    {
+      "chapter": "齊閔王之遇殺[1]",
+      "para_index": 1,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative", "observation"],
+      "reason": "太史敫以「女無謀而嫁者，非吾種也，汙吾世矣」提出婚嫁與宗族名譽的標準；末句又以君王后雖被父親終身拒見，仍「不以不睹之故，失人子之禮也」說明其所以被評為賢，兼及家庭義務與品格判準。"
+    },
+    {
+      "chapter": "齊閔王之遇殺[1]",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "observation"],
+      "reason": "「君王后事秦謹，與諸侯信，以故建立四十有餘年不受兵」是在交代齊國外交及未受兵的結果；注文也只爭論年代、遠交策略與是否曾助五國，沒有形成對人的斷語。"
+    },
+    {
+      "chapter": "齊閔王之遇殺[1]",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「君王后引椎椎破之，謝秦使曰：『謹以解矣。』」記的是她處理玉連環考問的一次機智行動；本段沒有把這個事件提升為才能、人生或品格的一般標準。"
+    },
+    {
+      "chapter": "齊閔王之遇殺[1]",
+      "para_index": 4,
+      "domains": ["VI"],
+      "modes": ["narrative", "observation"],
+      "reason": "命中來自鮑本注文「詳其指，蓋怒建之不心受，託以病昏耳」：注文不只記「老婦已亡矣」的臨終言語，而是明說君王后因建未用心領受而怒，並以病昏作託，給出情緒驅動行為的內在解釋。"
+    },
+    {
+      "chapter": "齊閔王之遇殺[1]",
+      "para_index": 5,
+      "domains": ["VII"],
+      "modes": ["narrative", "observation"],
+      "reason": "正文以「多受秦間金玉……皆為變辭」寫利誘通向欺詐；命中亦來自正曰注文「不能正始，既不足言賢；信秦之謀，不助諸侯，又何智之有？」，它依實際作為反駁「賢智」之評，明列品格判準。"
+    },
+    {
+      "chapter": "齊王建入朝於秦",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「所為立王者，為社稷耶？為王立王耶」及「為社稷主王」把君位的正當目的定為服務社稷而非君主自身；這一領導責任的判準可從入秦事件中拆出，後半兵力推演則只是策略。"
+    },
+    {
+      "chapter": "齊王建入朝於秦",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "命中來自鮑彪注文「不明以亡國，有國家者，可不以正心誠意為先乎？」；它由建誤聽賓客而亡國提出掌權者應明辨並正心誠意的領導與品格要求，不只是「遂入秦……餓而死」的史事。"
+    },
+    {
+      "chapter": "齊以淖君之亂[2]",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「王不如令人以涓來之辭謾固於齊」以下只推演如何使齊、秦不合，以及合或不合後楚可得漢中或淮泗；拆離國際情境後只剩取利的外交條件鏈。"
+    },
+    {
+      "chapter": "齊楚構難",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「齊戰勝楚，勢必危宋；不勝，是以弱宋干強楚也」逐項比較宋助齊的國勢後果，末句「國必危矣」仍是外交選邊的風險結論，沒有獨立說明人是什麼樣的。"
+    },
+    {
+      "chapter": "五國約以伐齊",
+      "para_index": 1,
+      "domains": ["V", "VI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「韓氏……好利而惡難」並非只掛群體標籤，隨即用「厚賂之以利，其心必營」與「悉兵以臨之，其心必懼我」說明利益和恐懼如何驅動其選邊，形成可拆出的群體動機機制。"
+    },
+    {
+      "chapter": "五國約以伐齊",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "本段是使者向韓提出「請效列城五」並承諾「悉楚國之眾」的外交交易，牛闌、馬陵也只是說服背景，未提出對人的判斷。"
+    },
+    {
+      "chapter": "五國約以伐齊",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative", "observation"],
+      "reason": "「楚果弗與地，則五國之事困也」只交代楚未履行割地承諾及五國行動受困的結果，是事件收尾。"
+    },
+    {
+      "chapter": "荊宣王問群臣",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「虎不知獸畏己而走也，以為畏狐也」以虎狐為主詞敘述一次寓言；落點「其實畏王之甲兵也」只是把北方之畏歸因於楚國兵力，仍是威勢歸屬的形勢說明。"
+    },
+    {
+      "chapter": "昭奚恤與彭城君議於王前",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "正文以「二人之言皆善也，臣不敢言其後」作含混答辭；命中來自正曰注文「為疑詞以兩傾之也」，明說這種措辭如何同時動搖君王對兩人的信任，呈現人際與權力場中的操弄機制。"
+    },
+    {
+      "chapter": "邯鄲之難（2）",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「王不如無救趙，而以強魏」後只推演魏割趙、趙堅守而使兩國俱弊的軍政條件，是藉國力消耗取利的建議。"
+    },
+    {
+      "chapter": "邯鄲之難（2）",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "本段由「趙有亡形」「魏無楚憂」一路推到「趙、魏相弊……則魏可破也」，恐、怒、恃等詞都只是預測各國在兵勢下的行動，整體仍為救趙兵力多寡的形勢推演。"
+    },
+    {
+      "chapter": "邯鄲之難（2）",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「楚因使景舍起兵救趙。邯鄲拔，楚取睢、濊之間」只記出兵、失城與取地的史事結果。"
+    },
+    {
+      "chapter": "江尹欲惡昭奚恤於楚王",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "命中來自鮑本注文「知其無功，奚恤必諫，而山陽怨，可以為黨」：注文把江尹如何預判正直進諫會招怨、再利用怨恨結成攻訐同盟的社會操弄機制說明出來。"
+    },
+    {
+      "chapter": "魏氏惡昭奚恤於楚王[2]",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["expression", "proposition"],
+      "reason": "「夫苟不難為之外，豈忘為之內乎？」由一個人敢洩漏外部君臣之交，推斷他也會破壞內部關係；它為可信與背叛建立可拆離當次讒言的行為、品格判準。"
+    },
+    {
+      "chapter": "江乙惡昭奚恤",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "寓言的行為主體是狗：「狗惡之，當門而噬之」，鄰人因而不能入告；後半只是江乙把此情節比作昭奚恤阻他見王的具體指控，沒有以人為主詞另下通則。"
+    },
+    {
+      "chapter": "江乙欲惡昭奚恤於楚",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「王終已不知者，何也？以王好聞人之美而惡聞人之惡也」直接說明掌權者偏好好消息、排斥壞消息會造成資訊盲點；這一領導與權力關係中的認知機制可脫離江乙進讒的目的而成立。"
+    }
+  ]
+}

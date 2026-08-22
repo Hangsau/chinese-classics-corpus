@@ -1032,6 +1032,32 @@ def extract_reason_quotes(reason):
     return [quote for quote in re.findall(r"「([^」]+)」", reason) if quote]
 
 
+# 本書的夾注插在句子中間，逐字引句在原文裡會被 〈…〉 切斷；又有 93% 的段落自帶「」
+# 對白，引句巢狀時只能改寫成『』。兩者都會讓單純的子字串比對誤報成「引句不在原文」。
+_VARIANTS = str.maketrans({"䤈": "醯", "『": "「", "』": "」"})
+_ELLIPSIS = re.compile(r"…{2,}|\.{3,}")
+_NOTE = re.compile(r"〈[^〈〉]*〉")
+
+
+def strip_annotations(text):
+    prev = None
+    while prev != text:
+        prev = text
+        text = _NOTE.sub("", text)
+    return text
+
+
+def quote_in_text(text, quote):
+    """引句對得上原文：容許夾注切斷、節略號分段、異體字與巢狀引號的『』寫法。"""
+    bases = (text, strip_annotations(text))
+    haystacks = bases + tuple(base.translate(_VARIANTS) for base in bases)
+    fragments = [frag for frag in _ELLIPSIS.split(quote) if frag]
+    return all(
+        any(frag in hay or frag.translate(_VARIANTS) in hay for hay in haystacks)
+        for frag in fragments
+    )
+
+
 def annotation_intervals(text):
     """回傳所有配對 〈…〉 區間；任一不成對時保守回傳空集合。"""
     stack = []
@@ -1096,7 +1122,7 @@ def a11_commentary_reasons(rows, spec, paras):
         reason = row.get("reason", "")
         quotes = extract_reason_quotes(reason)
         named = [name for name in commentators if name in reason]
-        exact = [quote for quote in quotes if quote in text]
+        exact = [quote for quote in quotes if quote_in_text(text, quote)]
 
         if named and not exact:
             fails.append(
@@ -1124,7 +1150,10 @@ def hard_rule_7_warnings(rows, paras):
         if not _list_field(row, "domains") or key not in paras:
             continue
         text = paras[key][1]
-        if not any(quote in text for quote in extract_reason_quotes(row.get("reason", ""))):
+        if not any(
+            quote_in_text(text, quote)
+            for quote in extract_reason_quotes(row.get("reason", ""))
+        ):
             bad.append(key)
     return bad
 

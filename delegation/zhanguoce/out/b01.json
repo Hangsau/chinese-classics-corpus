@@ -1,0 +1,152 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {
+      "chapter": "劉向書錄",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "observation"],
+      "reason": "「因國別者，略以時次之，分別不以序者以相補，除復重，得三十三篇」交代校書編次、去重與定篇成果；「本字多誤脫為半字」也是版本狀況，沒有對人的生活或品格下斷語"
+    },
+    {
+      "chapter": "劉向書錄",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「崇道德，隆禮義，設辟雍泮宮庠序之教」與「故行義之道滿乎天下，卒致之刑錯四十餘年」把德義教化和公共秩序連成因果；後文又以「眾賢輔國者既沒，而禮義衰矣」說明領導與品格衰退的社會後果"
+    },
+    {
+      "chapter": "劉向書錄",
+      "para_index": 3,
+      "domains": ["IV", "V", "VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「父子不相親，兄弟不相安，夫婦離散」直寫家內關係崩解，拿掉 IV 會漏掉家庭離散；「上無天子，下無方伯；力功爭強，勝者為右」寫公共權力失序，拿掉 V 會漏掉社會秩序；「貪饕無耻，競進無厭」與「詐偽並起」評斷品格，拿掉 VII 會漏掉道德敗壞"
+    },
+    {
+      "chapter": "劉向書錄",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「任刑罰以為治，信小術以為道」與「苟以詐偽偷活取容，自上為之，何以率下？」把統治方式、欺詐品格和上行下效連成因果；「民不見義，而懸於不寧」明說其公共生活後果"
+    },
+    {
+      "chapter": "劉向書錄",
+      "para_index": 5,
+      "domains": ["VIII"],
+      "modes": ["proposition", "observation"],
+      "reason": "「度時君之所能行，出奇策異智，轉危為安，運亡為存」不是只掛「高才秀士」的稱號，而是以審時、出策及救危的實際表現評價才能發揮與成就"
+    },
+    {
+      "chapter": "秦興師臨周而求九鼎",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「夫存危國，美名也；得九鼎，厚寶也。願大王圖之」只把名聲與寶物列為齊王出兵的誘因，餘文交代發兵與秦兵退去；九鼎在此是外交籌碼，沒有認證超越意義"
+    },
+    {
+      "chapter": "秦興師臨周而求九鼎",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「鼎者，非效醯壺醬甀耳，可懷挾提挈以至齊者」及「今大王縱有其人，何塗之從而出？」全在推算搬運九鼎的人力、器械與路線；齊王止求鼎是事件結果，注文亦只爭辨故事真偽，九鼎不作神聖認證"
+    },
+    {
+      "chapter": "秦攻宜陽",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「攻宜陽而有功，則周公旦也；無功，則削跡於秦」及「宜陽不拔，秦王恥之。臣故曰拔」是對此役成敗和甘茂去留的軍事預測；後段「不如背秦援宜陽」是取利建議，拆離戰局只剩條件式"
+    },
+    {
+      "chapter": "秦攻宜陽",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "observation"],
+      "reason": "「秦拔宜陽，景翠果進兵」與「景翠得城於秦，受寶於韓」只記戰事結果、城地與賂寶流向，沒有對人的看法"
+    },
+    {
+      "chapter": "東周與西周戰",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「案兵而勿出，可以德東周，西周之寶可盡矣」把不出兵與取得兩周之利連成致利條件；「德東周」是工具化的策略效果，不是對德性或人的主張"
+    },
+    {
+      "chapter": "東周與西周爭[2]",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「不如謂楚、韓曰」以下只推演如何令楚、韓催攻西周，使「西周寶出」而東周得以施恩；人物與寶物都是外交行動單位，沒有獨立的人性斷語"
+    },
+    {
+      "chapter": "東周欲為稻",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["prescription", "observation"],
+      "reason": "正文「君若欲害之，不若一為下水，以病其所種」仍是操縱水利的政策鏈；但正曰注文「蘇子公為反覆以得金，豈顧其復奪哉？」以為利而反覆的行為理由評其品格，故命中 VII"
+    },
+    {
+      "chapter": "昭獻在陽翟",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「今昭獻非人主也，而主君令相國往；若其王在陽翟，主君將令誰往？」以過往遣使層級反推這次不應派相國，是特定朝聘安排，沒有對人的一般判斷"
+    },
+    {
+      "chapter": "秦假道於周以伐韓[3]",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "正文「秦必疑，不信周，是韓不伐也」是利用秦疑韓周的政策推演；鮑彪注文「戰國之士，設心措辭，無不出於詐，若此者君子之所恕也」另就士人的欺詐作法與君子寬恕標準下斷語，故命中 VII"
+    },
+    {
+      "chapter": "楚攻雍氏",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「周恐，必以國合於所與粟之國，則是勁王之敵也。故王不如速解周恐」只把周的恐懼當作結盟與制敵推演中的變項，是特定外交條件鏈，不是情緒內在生活的描寫"
+    },
+    {
+      "chapter": "周最謂石禮",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「子何不以秦攻齊？臣請令齊相子」到「子東重於齊，西貴於秦」全是謀取相位與國際權勢的政策鏈；得位、見重是情節目標，未討論才能發揮或人的通則"
+    },
+    {
+      "chapter": "周相呂倉見客於周君",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "正文「客者，辯士也，然而所以不可者，好毀人」是工師藉為自保令人傳述的具體品題；鮑彪注文「德義不愆，何恤人之言」則提出以德義無失面對毀譽的一般品格標準，故命中 VII"
+    },
+    {
+      "chapter": "周文君免士工師籍[4]",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "observation"],
+      "reason": "「免士工師藉，相呂倉，國人不說也。君有閔閔之心」只交代免相、任相、國人反應及君主憂悶的事件狀態；「不說」「閔閔」是敘事套語，沒有承重的人性斷語"
+    },
+    {
+      "chapter": "周文君免士工師籍[4]",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「國必有誹譽，忠臣令誹在己，譽在上」把臣下如何承擔毀譽說成一般原理，涉及群體中的名聲與忠臣品格；「故大臣得譽，非國家之美也」又明說權力關係中的公共後果"
+    },
+    {
+      "chapter": "溫人之周",
+      "para_index": 1,
+      "domains": ["II"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「今周君天下，則我天子之臣，而又為客哉？故曰主人」借「天子之臣」重新界定自己究竟是「客」還是「主人」，承重點是身分名稱與實際歸屬的辯說"
+    },
+    {
+      "chapter": "或為周最謂金投",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「公不如救齊，因佐秦而伐韓、魏」以下逐項計算聯秦、取地、收寶與合齊的利益，是國際形勢與政策鏈推演；人名只作行動單位，沒有對人的獨立斷語"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "batch": "b63.md",
+  "rows": [
+    {
+      "chapter": "衞嗣君時胥靡逃之魏",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "正文以「教化喻於民，三百之城，足以爲治；民無廉恥，雖有十左氏，將何以用之？」把治理繫於民眾能否受教與具廉恥，離開贖人事件仍是對群體秩序與品格的斷語"
+    },
+    {
+      "chapter": "衞人迎新婦",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「此三言者，皆要言也，然而不免爲笑者，蚤晚之時失也。」指出內容雖切要，說話時機錯仍會招笑，是可拆離新婦故事的社會互動原理"
+    },
+    {
+      "chapter": "魏文侯欲殘中山",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「魏并中山，必無趙矣」與「請公子傾以為正妻，因封之中山」只是兼併預測及阻止兼併的婚封方案，人物皆是國際策略的行動單位"
+    },
+    {
+      "chapter": "犀首立五王",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「中山恐，必為趙、魏廢其王而務附焉」及「豈若中山廢其王而事齊哉」推演三國反應；「中山之君……大恐」只是敘事套語，未形成對人的斷語"
+    },
+    {
+      "chapter": "犀首立五王",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「同欲者相憎，同憂者相親。」直接斷言共同欲求造成相憎、共同憂患促成相親，拆離五國相王的局勢仍是群體關係原理"
+    },
+    {
+      "chapter": "犀首立五王",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「趙、魏許諾，果與中山王而親之。中山果絕齊而從趙、魏。」只交代說辭施行後的結盟結果，沒有提出可脫離此局勢的人性斷語"
+    },
+    {
+      "chapter": "中山與燕趙為王",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「我萬乘之國也，中山千乘之國也，何侔名於我？」與割地出兵都是國位與外交對抗的史事背景；齊的羞恥是情節中的國家姿態，不是內在生活的論述"
+    },
+    {
+      "chapter": "中山與燕趙為王",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "observation"],
+      "reason": "「齊強……不憚割地以賂燕、趙」是威脅評估；「燕、趙好位而貪地」只是對兩國的群體品題，未給出行為機制，憂患語也只服務中山安危推演"
+    },
+    {
+      "chapter": "中山與燕趙為王",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「王發重使……」「燕、趙聞之，怒絕之」串成孤立中山的操作步驟，後半再反用同一局勢；都是若採某策便有某國反應的政策鏈，沒有獨立的人之斷語"
+    },
+    {
+      "chapter": "中山與燕趙為王",
+      "para_index": 4,
+      "domains": ["VII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "本段正文是「事遂定」的結果敘事；命中來自注文：鮑彪稱「雖其用智有捭闔風氣，而文無害，亦狡獪可喜，非君子之所排也」，正曰反駁「捭闔狡獪，豈非君子之所排者？」兩注對權謀是否可為君子容許提出相反的品格判準"
+    },
+    {
+      "chapter": "司馬憙使趙",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「為人臣，招大國之威，以為己求相，於君何如？」不是只掛賢不肖之名，而以藉外國威勢謀私位作為臣節判準；後續「大疑」「走出」則是該指控造成的敘事結果"
+    },
+    {
+      "chapter": "司馬憙三相中山",
+      "para_index": 1,
+      "domains": ["IV"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「固無請人之妻不得而怨人者也」把他人之妻不可請求、被拒亦無由怨恨說成一般婚姻邊界，拆離說趙的計策仍成立；其餘是安排請婚的權術鏈"
+    },
+    {
+      "chapter": "司馬憙三相中山",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「可以為司馬憙，可以為陰簡，可以令趙勿請也」只列田簡介入此事可同時達成的三項權術效果，注文亦只辨字義和異傳，沒有對人的通則判斷"
+    },
+    {
+      "chapter": "陰姬與江姬爭為后",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「事成，則有土子民；不成，則恐無身」是爭后計畫的利害條件，「觀其地形險阻……」只是使趙的名目；本段止於派使的史事與策略"
+    },
+    {
+      "chapter": "陰姬與江姬爭為后",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "observation"],
+      "reason": "「未嘗見人如中山陰姬者也」到「固已過絕人矣」是司馬憙針對一人的誇飾品題，用來誘使趙王請婚；「意移，大悅」是敘事套語，沒有形成愛或情緒的通則"
+    },
+    {
+      "chapter": "陰姬與江姬爭為后",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「趙王非賢王也。不好道德，而好聲色；不好仁義，而好勇力。」是司馬憙回國後為促成立后而蓄意捏造的具體人物品題；「王如不與……與之……」只推演社稷利害，「作色不悅」亦是敘事套語"
+    },
+    {
+      "chapter": "主父欲伐中山",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "正文「舉士，則民務名不存本；朝賢，則耕者惰而戰士懦」把尊賢掛在農戰與亡國結果的政策鏈上；鮑彪、補曰注文主要爭論賢士或農戰何者能強國及中山亡國史因，仍是治國勝負條件"
+    },
+    {
+      "chapter": "中山君饗都士[1]",
+      "para_index": 1,
+      "domains": ["V", "VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「與不期眾少，其於當厄；怨不期深淺，其於傷心。」把施與如何形成報答、受傷如何形成怨恨說成一般關係與內在反應，羊羹和壺飡只是承載此原理的故事"
+    },
+    {
+      "chapter": "樂羊為魏將",
+      "para_index": 1,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative", "observation"],
+      "reason": "正文「樂羊食子以自信，明害父以求法」直接呈現取信、求法與父子之道的倫理衝突；鮑本注文又明言「此害於父道，而羊為之」，因而同時涉及親子關係和品格判斷"
+    }
+  ]
+}
