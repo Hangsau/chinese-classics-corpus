@@ -2,9 +2,9 @@
   "domain": "VI",
   "name_zh": "情緒與內在生活",
   "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡",
-  "generated_at": "2026-08-22T00:14:00+00:00",
-  "para_count": 555,
-  "book_count": 26,
+  "generated_at": "2026-08-22T16:22:04+00:00",
+  "para_count": 577,
+  "book_count": 27,
   "surveyed_zero_hit": [
     "dongmingji",
     "duduan",
@@ -7936,6 +7936,326 @@
       ],
       "excerpt": "眾人見貧賤，則慢而疏之；見富貴，則敬而親之。貧賤者，有請賕於己，疏之可也；未必損",
       "note": "眾人無論實際利害都疏慢貧賤、敬親富貴，直說階層偏見如何改變親疏態度並稱之為大惑",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "昭翦與東周惡",
+      "para_index": 1,
+      "para_id": "zhanguoce#28-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "昭翦與東周惡，或謂照〈鮑本「照」作「昭」，下同。○　札記今本「照」作「昭」。丕烈",
+      "note": "鮑彪注文說「周衰，君臣唯貪利而畏禍，故一切趨避變亂於游談之口，而無有持操」；「畏禍」揭出恐懼動機，「無有持操」評判操守，並以「故」明說兩者如何造成反覆趨避",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "薛公入魏而出齊女[1]",
+      "para_index": 1,
+      "para_id": "zhanguoce#94-p01",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "薛公入魏而出齊女。〈姚本婦人大歸曰「出」。　鮑本魏公子負芻之母，薛公惡齊，故逐之",
+      "note": "「負蒭立，其母在秦，則魏，秦之縣也」把母子關係當作負蒭終身事秦的原因；「齊女入魏而怨薛公，終以齊奉事王」又明說怨恨如何驅動其選邊，不只列舉國力與盟約",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "三國攻秦入函谷",
+      "para_index": 2,
+      "para_id": "zhanguoce#95-p02",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "王召公子池而問焉，〈鮑本「焉」作「之」。○〉對曰：「講亦悔，不講亦悔。」王曰：「",
+      "note": "「講亦悔，不講亦悔」反覆推演秦王在割地或危及咸陽後的悔恨，並以「寧亡三城而悔，無危咸陽而悔」呈現如何在不可免的悔中取捨；鮑彪注文「緩時相秦……而曰『此父兄之任』，焉用彼相矣」另以是否盡相職評樓緩",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "濮陽人呂不韋賈於邯鄲",
+      "para_index": 5,
+      "para_id": "zhanguoce#107-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "異人至，不韋使楚服〈姚本楚服，盛服。鮑本以王后楚人，故服楚製以說之。〉而見。王后",
+      "note": "「大王無一介之使以存之，臣恐其皆有怨心」把不加存問與舊交產生怨心連成明確機制，不只是「悅」「恐」一類敘事套語，說出了關係維繫與內在怨懟",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "孟嘗君出行國至楚",
+      "para_index": 3,
+      "para_id": "zhanguoce#144-p03",
+      "modes": [
+        "expression",
+        "prescription"
+      ],
+      "excerpt": "公孫戍趨而去。未出，至中閨，〈姚本閨，閎也。　鮑本特立之戶，上圜下方。〉君召而返",
+      "note": "公孫戍以敢諫、諫見聽、能止君過逐一說明「大喜三」的來源；鮑彪注文又說「且諫者，士之所難……後孰敢以過聞乎吾哉」，指出領導者摧折進諫者會使後人不敢告過，兼及內在喜悅與容納勸諫的領導關係",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "齊閔王之遇殺[1]",
+      "para_index": 4,
+      "para_id": "zhanguoce#167-p04",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "及君王后病且卒，誡建曰：「群臣之可用者某」。建曰：「請書之。」君王后曰：「善。」",
+      "note": "命中來自鮑本注文「詳其指，蓋怒建之不心受，託以病昏耳」：注文不只記「老婦已亡矣」的臨終言語，而是明說君王后因建未用心領受而怒，並以病昏作託，給出情緒驅動行為的內在解釋。",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "五國約以伐齊",
+      "para_index": 1,
+      "para_id": "zhanguoce#171-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "五國約以伐齊。〈姚本劉作「約秦」。　鮑本「齊」下有「秦」字，原注「衍齊字」。○　",
+      "note": "「韓氏……好利而惡難」並非只掛群體標籤，隨即用「厚賂之以利，其心必營」與「悉兵以臨之，其心必懼我」說明利益和恐懼如何驅動其選邊，形成可拆出的群體動機機制。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "郢人有獄三年不決",
+      "para_index": 2,
+      "para_id": "zhanguoce#181-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "客辭而去。昭奚恤已而悔之，因謂客曰：「奚恤得事公，公何為以故〈鮑本故，謂設事以探",
+      "note": "「謂而不得，有說色，非故如何也？」不是只報一個喜色，而是以所求未得卻面有喜色的不一致反推客人另有試探意圖，明說外顯情緒如何透露內在動機",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "蘇秦為趙合從說楚威王",
+      "para_index": 4,
+      "para_id": "zhanguoce#186-p04",
+      "modes": [
+        "expression",
+        "proposition"
+      ],
+      "excerpt": "楚王曰：「寡人之國，西與秦接境，秦有舉巴蜀、并漢中之心。秦，虎狼之國，不可親也。",
+      "note": "正文「寡人臥不安席，食不甘味，心搖搖如懸旌，而無所終薄。」不是單一「大恐」套語，而是第一人稱連續陳述失眠、失味與心無所泊的內在焦灼，故命中 VI；鮑彪注文「五國之聽蘇子也，革面而已，非能深究橫、從之利害也。唯威王雅有難秦之心，念之熟矣。」以是否深究利害、熟思國患評判君主的決策與領導，故命中 V",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "張儀為秦破從連橫",
+      "para_index": 4,
+      "para_id": "zhanguoce#187-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「秦西有巴蜀，方船積粟，起於汶山，〈鮑本居貧切。屬蜀都湔氏道，即岷山。故唐志茂州",
+      "note": "「臣聞之，攻大者易危，而民弊者怨於上。」不只推演楚秦勝負，也概括說明人民困弊會轉成對上位者的怨，拆離此役仍是群體權力關係與內在感受的因果斷語",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "齊明說卓滑以伐秦",
+      "para_index": 1,
+      "para_id": "zhanguoce#213-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "齊明說卓滑〈鮑本疑即淖滑。〉以伐秦，滑不聽也。齊明謂卓滑曰：「明之來也，〈鮑本蓋",
+      "note": "正文只敘齊明如何使卓滑改變態度；鮑本注文「樗里，滑之所欲交也。滑不聽明，明懼見輕，為善於疾，而言以此報疾，故滑重之。」則把怕被輕視的內在動機，以及借對方欲交之人改變評價的社會機制說明，故標 V、VI",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "張儀為秦連橫說趙王",
+      "para_index": 3,
+      "para_id": "zhanguoce#241-p03",
+      "modes": [
+        "expression",
+        "narrative"
+      ],
+      "excerpt": "趙王曰：「先王之時，奉陽君〈鮑本補曰：奉陽君，說見後。〉相，專權擅勢，蔽晦先王，",
+      "note": "「寡人宮居，屬於師傅，不能與國謀。先王棄群臣，寡人年少，奉祠祭之日淺，私心固竊疑焉。」不是單一句疑懼套語，而是趙王以受制、年少與新居君位說明自己的處境、自我定位及內在疑慮，並由此自陳改變決策",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "秦召春平侯",
+      "para_index": 1,
+      "para_id": "zhanguoce#285-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "秦召春平侯，〈鮑本及平都皆趙人。正曰：徐廣引年表云，太子從質秦歸。正義云，太子即",
+      "note": "「春平侯者，趙王之所甚愛也，而郎中甚妒之，故相與謀曰：『春平侯入秦，秦必留之。』」把受寵、嫉妒與同僚合謀連成行為機制，寫出宮廷群體中的權力關係與嫉妒如何驅動行動，不是單寫『妒』的敘事套語",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "齊魏戰於馬陵",
+      "para_index": 1,
+      "para_id": "zhanguoce#326-p01",
+      "modes": [
+        "expression",
+        "prescription"
+      ],
+      "excerpt": "齊、魏戰於馬陵，齊大勝魏，殺太子申，覆十萬之軍。魏王召惠施而告之曰：「夫齊，寡人",
+      "note": "「夫齊，寡人之讎也，怨之至死不忘。」是魏王對持續怨恨的第一人稱自陳，不是『以發怒套語交代情節』；其餘為借楚制齊的方略",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "魏王與龍陽君共船而釣",
+      "para_index": 1,
+      "para_id": "zhanguoce#370-p01",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "魏王與龍陽君〈鮑本魏之幸臣。正曰：幸姬也。策言美人，又云拂枕席，此非楚安陵君、鄢",
+      "note": "「臣亦猶曩臣之前所得魚也，臣亦將棄矣，臣安能無涕出乎？」借前魚明說自己因更多美人可能到來而害怕失寵被棄，既是親密關係中的不安全與脆弱，也是有原因、有內容的悲懼表達",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "秦王使人謂安陵君",
+      "para_index": 1,
+      "para_id": "zhanguoce#372-p01",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "秦王〈鮑本始皇。〉使人謂安陵君曰：「寡人欲以五百里之地易安陵，安陵君其許寡人。」",
+      "note": "「此庸夫之怒也，非士之怒也。」不是單純的發怒套語，而是為士之怒立下品格區分；「此三子者，皆布衣之士也，懷怒未發，休祲降於天，與臣而將四矣。」分別明寫未發的內在怒意與天降徵兆，承重 VI、XII；鮑彪注文「諸刺劫之士，自曹沫以至荊軻，皆不聞道，惟若唐雎者可也。為其激而發，不專志於此也。」又以是否專志刺劫作 VII 的判準，三格分別承重情緒、品格與超越徵兆，任去一格都會漏掉一層",
+      "co_domains": [
+        "VII",
+        "XII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "魏之圍邯鄲",
+      "para_index": 1,
+      "para_id": "zhanguoce#375-p01",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "魏之圍邯鄲也。申不害始合於韓王，然未知王之所欲也，恐言而未必中於王也。王問申子曰",
+      "note": "「申不害始合於韓王，然未知王之所欲也，恐言而未必中於王也。」把未知君意所生的恐懼接到窺測取悅的行為，承重 VI；「夫為人臣者，言可必用，盡忠而已矣。」提出君臣角色責任與盡忠規範，分別承重 V、VII，三格各少一格即漏掉內在動機、權力角色或品格規範",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "齊令周最使鄭",
+      "para_index": 1,
+      "para_id": "zhanguoce#406-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊令周最使鄭，〈鮑本韓滅鄭，有其地，故多稱鄭。補曰：韓滅鄭，徙都之，故稱鄭。猶魏",
+      "note": "「怒於室者色於市。」把一處的怒意如何外現於另一處說成可脫離齊、韓使事而成立的情緒斷語，故命中情緒與內在生活",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "蘇秦死其弟蘇代欲繼之",
+      "para_index": 6,
+      "para_id": "zhanguoce#450-p06",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "王曰：「子聞之，寡人不敢隱也。我有深怨積怒於齊，而欲報之二年〈鮑本自即位至是。正",
+      "note": "「我有深怨積怒於齊，而欲報之二年矣。」是燕王對持續兩年的怨怒與報復欲所作的第一人稱自陳，不是瞬時的『怒曰』套語",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "陳翠合齊燕",
+      "para_index": 2,
+      "para_id": "zhanguoce#462-p02",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "陳翠欲見太后，王曰：「太后方怒子，子其待之。」陳翠曰：「無害也。」遂入見太后曰：",
+      "note": "「何臞也？」以形貌切入，而太后自答「臞者，憂公子之且為質於齊也。」不是單一憂怒套語，而是明說母親因兒子將作人質而憂的內在狀態，分別承重親子關係與情緒生活",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "犀首伐黃",
+      "para_index": 1,
+      "para_id": "zhanguoce#477-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "犀首〈鮑本魏官也，非公孫衍。正曰：據左傳，南文子相衞悼公。悼公與智伯並時，則犀首",
+      "note": "「夫在中者惡臨，議其事。」明說同列因別人以大名成功居其上而生厭惡、議譖其事，把群體中的位置關係與內在嫌惡連成機制；這不是「衞君懼」一類單純敘事套語",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "中山君饗都士[1]",
+      "para_index": 1,
+      "para_id": "zhanguoce#497-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "中山君〈鮑本史不出，不名謚。正曰：中山武公。見世家、年表。此策則時不可考。〉饗都",
+      "note": "「與不期眾少，其於當厄；怨不期深淺，其於傷心。」把施與如何形成報答、受傷如何形成怨恨說成一般關係與內在反應，羊羹和壺飡只是承載此原理的故事",
       "co_domains": [
         "V"
       ]

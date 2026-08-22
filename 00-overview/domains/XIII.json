@@ -2,9 +2,9 @@
   "domain": "XIII",
   "name_zh": "安頓·修復·平安",
   "gist": "靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈",
-  "generated_at": "2026-08-22T00:14:00+00:00",
-  "para_count": 124,
-  "book_count": 19,
+  "generated_at": "2026-08-22T16:22:04+00:00",
+  "para_count": 130,
+  "book_count": 20,
   "surveyed_zero_hit": [
     "duduan",
     "fangyan",
@@ -1897,6 +1897,95 @@
         "VII",
         "VIII",
         "X"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "應侯失韓之汝南",
+      "para_index": 1,
+      "para_id": "zhanguoce#90-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "應侯失韓之汝南。〈鮑本梁州郡。近應國，應侯嘗取得之。〉秦昭王謂應侯曰：「君亡〈姚",
+      "note": "東門吳以「吾嘗無子，無子之時不憂；今子死，乃即與無子時同也」解釋喪子而不憂，應侯又把亡地比作回到未有封地之時；本段直接處理失去以及以回到原初狀態來安頓失落",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "齊宣王見顏斶[1]",
+      "para_index": 6,
+      "para_id": "zhanguoce#152-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "斶〈鮑本「斶」上有「曰」字，又補「君子」二字。○〉知足矣，歸〈鮑本「歸」下有「真",
+      "note": "「知足矣，歸反撲，則終身不辱也」把知足、返樸視為保持品格並安頓一生的道路，因果判斷可脫離顏斶辭歸的單次情節而成立",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "莊辛謂楚襄王",
+      "para_index": 2,
+      "para_id": "zhanguoce#212-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "莊辛對曰：「臣聞鄙語曰：『見兔而顧犬，未為晚也；亡羊而補牢，〈鮑本牢，閉養之圈。",
+      "note": "「臣聞鄙語曰：『見兔而顧犬，未為晚也；亡羊而補牢，未為遲也。』」主張失敗後仍可補救，既回答人能否改變，也說明受損後如何修復",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "莊辛謂楚襄王",
+      "para_index": 7,
+      "para_id": "zhanguoce#212-p07",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "襄王聞之，顏色變作，身體戰慄。於是乃以執珪而授之為陽陵君，〈姚本一本無「以」字。",
+      "note": "正文「襄王聞之，顏色變作，身體戰慄。」只是敘事套語，不標 VI；鮑彪注文「襄王雖失之東隅，而收之桑榆。故其季年保境善鄰，差為無事，此策為有力焉。」以納諫解釋受挫後的修復及保境善鄰的領導結果，故標 V、XIII",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "趙太后新用事",
+      "para_index": 2,
+      "para_id": "zhanguoce#286-p02",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "左師〈鮑本官名。〉觸讋〈姚本一本無「言」字。　鮑本補曰：史亦作「龍」。按說苑，「",
+      "note": "「老臣病足，曾不能疾走，不得見久矣。」把足疾置於老臣自己的身體處境；「老臣今者殊不欲食，乃自強步，日三四里，少益耆食，和於身也。」又寫他以步行調適食欲與身體，故同時涉及身體限制與修復安頓",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "燕文公時",
+      "para_index": 5,
+      "para_id": "zhanguoce#446-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "對曰：「聖人之制事也，轉禍而為福，因敗而為功。故桓公負婦人而名益尊，〈鮑本齊桓公",
+      "note": "「聖人之制事也，轉禍而為福，因敗而為功。」主張人能改變禍敗的走向；「王能聽臣，莫如歸燕之十城，卑辭以謝秦。」又提出敗後修復關係、重建局面的具體做法",
+      "co_domains": [
+        "XI"
       ]
     }
   ]

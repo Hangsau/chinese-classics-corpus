@@ -2,9 +2,9 @@
   "domain": "I",
   "name_zh": "存在與意義",
   "gist": "我為何在此、活著有沒有意義、與想不通的問題共處、在歷史洪流中的渺小",
-  "generated_at": "2026-08-22T00:14:00+00:00",
-  "para_count": 44,
-  "book_count": 14,
+  "generated_at": "2026-08-22T16:22:04+00:00",
+  "para_count": 49,
+  "book_count": 15,
   "surveyed_zero_hit": [
     "cai-zhonglang-ji",
     "dengxizi",
@@ -652,6 +652,79 @@
       "co_domains": [
         "V",
         "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "齊宣王見顏斶[1]",
+      "para_index": 5,
+      "para_id": "zhanguoce#152-p05",
+      "modes": [
+        "expression",
+        "proposition"
+      ],
+      "excerpt": "顏斶辭去曰：「夫玉生於山，制〈姚本曾本作「制取」，集無「取」。　鮑本制，裁斷之。",
+      "note": "顏斶以玉「制則破焉」比喻士受祿後「形神不全」，並選擇「晚食以當肉，安步以當車，無罪以當貴，清靜貞正以自虞」，明確衡量富貴、完整人生與貞正品格孰為根本",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "蘇秦為奉陽君說燕於趙以伐齊[1]",
+      "para_index": 1,
+      "para_id": "zhanguoce#458-p01",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "蘇秦為〈鮑本「為」作「謂」。○〉奉陽君〈鮑本此亦其後襲稱。正曰：說見趙策。〉說燕",
+      "note": "「臣死而齊大惡於趙，臣猶生也。」把自身生死的價值繫於使命是否成就，直接談何種結果使死仍等同於生",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "蘇秦為奉陽君說燕於趙以伐齊[1]",
+      "para_index": 3,
+      "para_id": "zhanguoce#458-p03",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "「奉陽君之怒甚矣。〈鮑本此代自言。〉如齊王王〈鮑本衍「王」字。補曰：衍字。〉之不",
+      "note": "「堯、舜之賢而死，禹、湯之知而死，孟賁之勇而死，烏獲之力而死，生之物固有不死者乎？在必然之物以成所欲，王何疑焉？」由普遍必死推到用必然之死完成所欲，兼具死亡通則與生命取向",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "戰國策目錄序",
+      "para_index": 3,
+      "para_id": "zhanguoce#504-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫孔、孟之時，去周之初，已數百歲，其舊法已亡，其舊俗已熄久矣。二子乃獨明先王之道",
+      "note": "「蓋法者所以適變也，不必盡同；道者所以立本也，不可不一。」把制度隨時而變與根本道理不可不一並置，直接主張改變中的可變之法與不變之本",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "書戰國策後",
+      "para_index": 1,
+      "para_id": "zhanguoce#506-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "戰國策所載，大抵皆縱橫捭闔，譎誑相輕傾奪之說也。其事淺陋不足道，然而人讀之則必向",
+      "note": "「且壽考安樂、富貴尊榮、顯名愛好、便利得意者，天下之所欲也，然激而射之，或將以致人之憂；死亡憂患、貧賤苦辱、棄損亡利失意者，天下之所惡也，然動而竭之，或將以導人之樂。」既說明人所追求、逃避的生活狀態，也說明說辭據此牽動人的機制；末句「意天之于至寶，常不欲使人易得」明以有意志的天解釋至寶難得，若拿掉便少了獨立的超越命題",
+      "co_domains": [
+        "V",
+        "XII"
       ]
     }
   ]

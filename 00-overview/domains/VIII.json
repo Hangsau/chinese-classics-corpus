@@ -2,9 +2,9 @@
   "domain": "VIII",
   "name_zh": "工作·成就·召喚",
   "gist": "工作與金錢、成就與意義、天賦與使命",
-  "generated_at": "2026-08-22T00:14:00+00:00",
-  "para_count": 846,
-  "book_count": 37,
+  "generated_at": "2026-08-22T16:22:04+00:00",
+  "para_count": 947,
+  "book_count": 38,
   "surveyed_zero_hit": [
     "duduan",
     "gu-sanfen",
@@ -11964,6 +11964,1459 @@
       "co_domains": [
         "V"
       ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "劉向書錄",
+      "para_index": 5,
+      "para_id": "zhanguoce#01-p05",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "戰國之時，君德淺薄，為之謀策者，不得不因勢而為資，據時而為。〈姚本脫字。〉故其謀",
+      "note": "「度時君之所能行，出奇策異智，轉危為安，運亡為存」不是只掛「高才秀士」的稱號，而是以審時、出策及救危的實際表現評價才能發揮與成就",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "蘇厲謂周君",
+      "para_index": 1,
+      "para_id": "zhanguoce#35-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "蘇厲〈鮑本亦秦之弟。〉謂周君曰：「敗韓、魏，殺𡱝武，〈姚本𡱝武，魏將。〉攻趙，取",
+      "note": "「夫射柳葉者，百發百中，而不已善息，少焉氣力倦……一發不中，前功盡矣」以人的技藝、限度與收止時機說明成就如何失去；「是攻用兵，又有天命也」又直接把白起的成功認證為兼有天命這一超越來源",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "蘇秦始將連橫",
+      "para_index": 4,
+      "para_id": "zhanguoce#48-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "說秦王書十上而說不行。〈姚本蘇秦之說，不見用也。〉黑貂之裘弊，〈姚本弊，壞也。　",
+      "note": "「妻不下紝，嫂不為炊，父母不與言」具體寫失意後遭逢的家內拒斥（IV）；「伏而誦之……讀書欲睡，引錐自刺其股」則以故事承載他為求成就反覆研習、鍛鍊遊說之術的歷程（VIII），不只是交代一次仕途得失",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "蘇秦始將連橫",
+      "para_index": 6,
+      "para_id": "zhanguoce#48-p06",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "故蘇秦相於趙而關不通。〈鮑本六國之關不通秦也。正曰：即所謂秦兵不敢窺函谷關者。〉",
+      "note": "「一人用而天下從」配合蘇秦本是「窮巷掘門、桑戶棬樞之士」而終能「廷說諸侯之王，杜左右之口」，不是只記任官，而是在評述一個出身寒微者施展才能並取得巨大成就",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "陳軫去楚之秦",
+      "para_index": 3,
+      "para_id": "zhanguoce#59-p03",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "軫出，張儀入，問王曰：「陳軫果安之？」王曰：「夫軫天下之辯士也，孰〈鮑本「孰」作",
+      "note": "正文重申「孝己愛其親」與「善婦」，承載親子、婚姻角色（IV），並以「子胥忠其君」「臣不忠於王，楚何以軫為」論忠誠品格（VII）。鮑彪注文稱「軫之辯類捷給，而其所稱譬，皆當於人心」，正曰注文則以「又與張儀爭寵，鄙哉」評其行止；第三格 VIII 若拿掉，就會漏掉鮑彪注文對陳軫辯說才能的明確評量",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "醫扁鵲見秦武王",
+      "para_index": 1,
+      "para_id": "zhanguoce#64-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "醫扁鵲〈姚本扁鵲，盧人也，字越人。　鮑本盧人，字越人。正曰：鮑本高注。史，渤海郡",
+      "note": "「君與知之者謀之，而與不知者敗之」把專業判斷遭非專業意見破壞的機制說出來；「使此知秦國之政也，則君一舉而亡國矣」又將其上推為掌權者用人決策的責任",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "秦武王謂甘茂",
+      "para_index": 1,
+      "para_id": "zhanguoce#65-p01",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "秦武王謂甘茂曰：「寡人欲車通三川，以闚周室，〈姚本三川，義陽川。周室，洛邑，王城",
+      "note": "「寡人欲車通三川，以闚周室，而寡人死不杇乎？」以攻取成就寄託死後不朽的願望，同時承載成就追求與對死亡、身後名的關切",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "范子因王稽入秦",
+      "para_index": 1,
+      "para_id": "zhanguoce#83-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "范子〈鮑本名睢，字叔，后封應侯。凡范，皆晉舊姓，故史云魏人。補曰：睢，音雖。〉因",
+      "note": "「有功者不得不賞，有能者不得不官」把職位與報酬繫於功、能，又以「賞必加於有功，刑必斷於有罪」提出掌權者公平賞罰的原則，涉及人才任用與公義領導",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "范子因王稽入秦",
+      "para_index": 2,
+      "para_id": "zhanguoce#83-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「臣聞周有砥厄，宋有結綠，梁有懸黎，楚有和璞。〈鮑本卞和之璞。皆美玉名。〉此四寶",
+      "note": "「此四寶者，工之所失也，而為天下名器」進而問「聖王之所棄者，獨不足以厚國家乎」，以被錯失的寶物比喻被埋沒而仍有用的人才，主張評價者可能漏失人才",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "范子因王稽入秦",
+      "para_index": 3,
+      "para_id": "zhanguoce#83-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "「臣聞善厚家者，取之於國；善厚國者，取之於諸侯。〈鮑本皆取其人。〉天下有明主，則",
+      "note": "「良醫知病人之死生，聖主明於成敗之事」以能辨死生、成敗界定職分上的才幹；「利則行之，害則舍之，疑則少嘗之」又提出掌政者的決策準則",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "范睢至秦",
+      "para_index": 8,
+      "para_id": "zhanguoce#84-p08",
+      "modes": [
+        "prescription",
+        "narrative"
+      ],
+      "excerpt": "王曰：「寡人欲親魏，魏多變之國也，寡人不能親。請問親魏奈何？」范睢曰：「卑辭重幣",
+      "note": "正文是親魏、賂魏或伐魏的政策選項；命中來自鮑彪注文，其以「立談之間，矯亂如此，使人主何適從乎」指出進言失序的後果，又以「若曰某策為上，某次之，其可也」提出謀臣妥善陳策的工作標準",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "范睢至秦",
+      "para_index": 13,
+      "para_id": "zhanguoce#84-p13",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "昭王謂范睢曰：「昔者，齊公得管仲，時以為仲父。今吾得子，亦以為父。」〈鮑本睢傳有",
+      "note": "正文「今吾得子，亦以為父」是秦王對特定臣子的稱許；命中來自補曰注文，其以「未敢言內先言外，以觀秦王之俯仰」說明范睢安排進言次序、察看受言者反應的「策士之深術」，使本段形成對專業謀略如何施展的判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "蔡澤見逐於趙",
+      "para_index": 3,
+      "para_id": "zhanguoce#92-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "蔡澤得少間，〈鮑本間，言有隙可乘。〉因曰：「商君、吳起、大夫種，其為人臣，盡忠致",
+      "note": "「物盛則衰，天之常數也；進退、盈縮、變化，聖人之常道也」把盛衰與知進退說成變化原理；又以「成功而不去，禍至於此」和范蠡退隱為職業成就後退出的對照，最後明勸「歸相印，讓賢者授之」",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "蔡澤見逐於趙",
+      "para_index": 4,
+      "para_id": "zhanguoce#92-p04",
+      "modes": [
+        "observation",
+        "narrative"
+      ],
+      "excerpt": "後數日，入朝，言於秦昭王曰：「客新有從山東來者蔡澤，其人辯士。臣之見人甚眾，莫有",
+      "note": "應侯以「其人辯士。臣之見人甚眾，莫有及者，臣不如也」評定蔡澤的辯說才能，並直接薦見昭王而使之「拜為客卿」；此處品題實際導向任用，不只是求位得位的情節",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "蔡澤見逐於趙",
+      "para_index": 6,
+      "para_id": "zhanguoce#92-p06",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "蔡澤相秦王數月，人或惡之，懼誅，乃謝病歸相印，號為剛成君。〈鮑本補曰：水經云，鴈",
+      "note": "鮑彪注文以「唯澤為近道德明哲保身之策，故其得位不數月引去……美矣」肯定蔡澤的進退與品格；正曰注文反以「乃矜材角智，趣利之尤者」「無功而退，既無當於道德之旨」貶其逐利與仕途表現。兩家雖相反，都給出行動理由與道德、成就標準",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "三國攻秦入函谷",
+      "para_index": 2,
+      "para_id": "zhanguoce#95-p02",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "王召公子池而問焉，〈鮑本「焉」作「之」。○〉對曰：「講亦悔，不講亦悔。」王曰：「",
+      "note": "「講亦悔，不講亦悔」反覆推演秦王在割地或危及咸陽後的悔恨，並以「寧亡三城而悔，無危咸陽而悔」呈現如何在不可免的悔中取捨；鮑彪注文「緩時相秦……而曰『此父兄之任』，焉用彼相矣」另以是否盡相職評樓緩",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "謂秦王",
+      "para_index": 2,
+      "para_id": "zhanguoce#103-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "「詩云：『靡不有初，鮮克有終。』〈鮑本大雅蕩詩。〉故先王之所重者，唯始與終。〈姚",
+      "note": "「靡不有初，鮮克有終」與「三者非無功也，能始而不能終也」明說人往往能開創而難以把功業完成，歷舉智伯、夫差、梁君則用故事承載這項關於成就能否善終的斷語",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "謂秦王",
+      "para_index": 4,
+      "para_id": "zhanguoce#103-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「詩云：『行百里者半於九十。』此言末路之難。〈姚本逸詩言之。百里者，已行九十里，",
+      "note": "正文「行百里者半於九十。此言末路之難」把完成一項事業時最後階段尤其困難說成通則，涉及成就；正曰注文又斷言「驕者必敗，亦論之常」，明列驕矜這項品格的後果，故並標 VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "濮陽人呂不韋賈於邯鄲",
+      "para_index": 1,
+      "para_id": "zhanguoce#107-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "濮陽〈鮑本屬東郡。〉人呂不韋賈於邯鄲，見秦質子異人，〈姚本異人，秦莊襄王之孫，孝",
+      "note": "「耕田之利幾倍」「珠玉之贏幾倍」「立國家之主贏幾倍」把人生事業按所得與能否「澤可以遺世」來衡量，涉及工作成就；補曰注文又以「不韋鄙耕田珠玉之小贏，而圖建國立君之大利」批評其逐利取向，並追問「能無悔乎」，形成品格判斷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "文信侯欲攻趙以廣河間",
+      "para_index": 1,
+      "para_id": "zhanguoce#108-p01",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "文信侯欲攻趙以廣河間，使剛成君蔡澤事燕三年，而燕太子〈姚本太子，燕僖王之子子丹也",
+      "note": "甘羅以「項櫜生七歲而為孔子師，今臣生十二歲於茲矣」自陳年少不等於無能，並要求「君其試臣，奚以遽言叱也」，直接涉及自我評價與才能獲得試用",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "文信侯出走[2]",
+      "para_index": 5,
+      "para_id": "zhanguoce#109-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "平原令見諸公，必為言之曰：〈鮑本「言之」作「之言」。○　補曰：一本「言之」。〉「",
+      "note": "「國亡者，非無賢人，不能用也」把敗亡原因明指為領導者不能任用已有賢才，離開趙亡史事仍是關於權力責任與人才運用的斷語；鮑彪注文其餘主要在評合從形勢與司空馬計策",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "四國為一將以攻秦",
+      "para_index": 4,
+      "para_id": "zhanguoce#110-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "王曰：「子監門子，梁之大盜，趙之逐臣。」〈姚本言韓非譖。〉姚賈曰：「太公望，齊之",
+      "note": "「明主不取其汙，不聽其非，察其為己用」及「雖有高世之名，無咫尺之功者不賞」主張領導者應越過身世污名與虛名，依可用之才和實際功績任賞",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "四國為一將以攻秦",
+      "para_index": 5,
+      "para_id": "zhanguoce#110-p05",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "秦王曰：「然。」乃可〈姚本劉無「可」字。　鮑本衍「可」字。補曰：一本無。〉復使姚",
+      "note": "正文「復使姚賈而誅韓非」只敘事件，鮑彪注文「高誘，妄人也」本身也只是品題；命中來自正曰注文「學者考訂於千載之上，義理事徵而已……當博取徵驗，而折以事理之是非」及「學者之所以慎於傳疑也」，它提出考訂工作應憑證據、慎傳疑的品格規範",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "秦伐魏",
+      "para_index": 4,
+      "para_id": "zhanguoce#125-p04",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "齊王敬諾，果以兵合於三晉。〈姚本從陳軫策也。〉〈鮑本秦惠後七年，韓、趙、魏、燕、",
+      "note": "正文「齊王敬諾，果以兵合於三晉」只是採策結果；正曰注文則以「非特為魏，所以為楚，所謂陽擠而陰助之者歟」解釋陳軫在國際關係中的隱曲用心，又在比較數策後評「蘇氏兄弟稱說，多浮辭，數策非軫不能」，對其游說能力給出了有前文比較作依據的判斷",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "犀首以梁為齊戰於承匡而不勝",
+      "para_index": 1,
+      "para_id": "zhanguoce#130-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "犀首〈姚本犀首，公孫衍也。〉以梁〈姚本梁，魏惠王所都。〉為〈鮑本「為」作「與」。",
+      "note": "命中來自鮑彪注文：「一言一動，盡為機穽，豈可與同群哉」指出權謀群體中的交往陷阱；又以「此在衍術中而不悟，是以知儀之疏也」用能否識破圈套作張儀才智的判準",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "楚王死",
+      "para_index": 3,
+      "para_id": "zhanguoce#136-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "蘇秦謂薛公曰：「臣聞謀泄者事無功，計不決者名不成。今君留太子〈姚本太子，懷王太子",
+      "note": "「謀泄者事無功，計不決者名不成」直接把保密、決斷與事情能否成就連成一般原理，離開索取下東國的情境仍是關於行事與成就的斷語",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "孟嘗君在薛",
+      "para_index": 3,
+      "para_id": "zhanguoce#139-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "顛蹶之請，〈鮑本此著書者詞也。言善說者，不勞而功。顛，倒；蹶，僵也。言其請救之遽",
+      "note": "「善說者，陳其勢，言其方，人之急也，若自在隘窘之中，豈用強力哉」指出善說者的能力及其影響他人判斷、使人把他者之急當作切身困境的機制，分別涉及才能發揮與社會影響",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "孟嘗君有舍人而弗悅",
+      "para_index": 1,
+      "para_id": "zhanguoce#143-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "孟嘗君有舍人而弗悅，〈姚本悅，敬。〉欲逐之。魯連〈鮑本齊人仲連。〉謂孟嘗君曰：「",
+      "note": "「物舍其所長，之其所短，堯亦有所不及矣」說明才能須配合處境；又以「不肖則棄之」將招致「害相報」指出領導者棄逐人才的社會後果，故同時涉及才能發揮與用人關係",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "淳于髡一日而見七人於宣王",
+      "para_index": 1,
+      "para_id": "zhanguoce#145-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "淳于髡〈鮑本齊人，見滑稽傳。〉一日而見七人〈姚本人，一作士。〉於宣王。王曰：「子",
+      "note": "鳥獸同類相聚只是譬喻，正文隨即落到「夫物各有疇，今髡賢者之疇也」及王可向髡求士，主張人才各有其交遊群落、須從相應網絡尋訪，涉及群體連結與人才識用",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "國子曰秦破馬服君之師[1]",
+      "para_index": 1,
+      "para_id": "zhanguoce#147-p01",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "國子〈姚本國子，齊大夫也。〉曰：「秦破馬服君〈姚本馬服君，趙括也。秦將白起阬括四",
+      "note": "正文大部是「趙、魏危，則非齊之利也」一類國際形勢鏈；但補曰注文另以「士之為齊謀者，其智非不及此，而卒不用，宜其及於亡也」把亡國歸因於有智謀之士而領導者終不採用，明確評斷用人與領導責任",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "孟嘗君為從",
+      "para_index": 3,
+      "para_id": "zhanguoce#149-p03",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "公孫弘可謂不侵矣。〈鮑本著書者美其不可侵辱。〉昭王，大國也。孟嘗，千乘也。立千乘",
+      "note": "正文以「立千乘之義而不可陵，可謂足使矣」按守義不受辱及勝任出使來評價公孫弘；鮑彪注文又以「彼蓋未學禮也」批評此類辯士，並稱「此說者之所當知也」，明示從事遊說者的品格與行事標準",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "魯仲連謂孟嘗",
+      "para_index": 1,
+      "para_id": "zhanguoce#150-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "魯仲連謂孟嘗：〈姚本續：別本有「君曰」二字。〉「君好士也！〈鮑本「士」下補「未」",
+      "note": "「色與馬取於今之世，士何必待古哉？故曰君之好士未也」用當世即可求良士反駁人才難得，並以士是否願盡其交游之道檢驗領導者待士是否真誠，涉及用人與社會關係",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "先生王斗造門而欲見齊宣王",
+      "para_index": 2,
+      "para_id": "zhanguoce#153-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "有間，王斗曰：「昔先君桓〈鮑本此桓公雖非田氏之先，斗，齊人也，得稱為先。〉公所好",
+      "note": "「王使人為冠，不使左右便辟而使工者何也？為能之也。今王治齊，非左右便辟無使也」以製冠按能力用工反照治國只用近幸，既在批評領導者的用人與權力關係（V），也明說職事和才能的配置（VIII）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "先生王斗造門而欲見齊宣王",
+      "para_index": 3,
+      "para_id": "zhanguoce#153-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "宣王謝曰：「寡人有罪國家。」於是舉士五人任官，齊國大治。〈鮑本彪謂：王斗之義無所",
+      "note": "正文「舉士五人任官，齊國大治」只是結果交代；命中來自注文：正曰注文以「此其所以為辯士之言，而非君子之正爾」提出品格判準，命中 VII；補曰注文以「所養非所用，國何賴焉」及「有一孟子而不能用，安用彼數百千人哉」批評養士不用與人才失配，命中 VIII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "管燕得罪齊王",
+      "para_index": 1,
+      "para_id": "zhanguoce#156-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "管燕〈鮑本齊人。正曰：無考。新序作燕相。　札記丕烈案：新序當有誤。〉得罪齊王，謂",
+      "note": "「君不肯以所輕與士，而責士以所重事君」由「士三食不得饜」與君之禽鳥、宮人有餘，推出領導者若不供養士便不能責其效死的互惠原理，涉及權力、公義與責任（V），也涉及任用者如何對待為其工作的士（VIII）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "燕攻齊取七十餘城",
+      "para_index": 5,
+      "para_id": "zhanguoce#162-p05",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "「且吾聞，傚小節者不能行大威，惡小恥者不能立榮名。昔管仲射桓公中鉤，篡也；遺〈鮑",
+      "note": "「傚小節者不能行大威，惡小恥者不能立榮名」直接論品格取捨與成就；管仲、曹沫的故事進一步說明能去忿恚、忍小恥，才可能「成終身之名」「立累世之功」",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "楚杜赫說楚王以取趙",
+      "para_index": 2,
+      "para_id": "zhanguoce#184-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "陳軫謂楚王曰：「赫不能得趙，五大夫不可收也，得〈姚本「得」，一作「是」。　鮑本「",
+      "note": "「赫不能得趙，五大夫不可收也，得賞無功也。得趙而王無加焉，是無善也。」把賞與功績是否相稱列為評判，說明領導者如何公平認可成就；「王不如以十乘行之，事成，予之五大夫。」再據此提出辦法",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "楚王問於范環",
+      "para_index": 1,
+      "para_id": "zhanguoce#185-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "楚王問於范環〈姚本續：史記作「范蜎」。徐廣，一作「蠉」。　札記丕烈案：索隱曰，戰",
+      "note": "「甘茂事之，取十官而無罪，茂誠賢者也，然而不可相秦。」以歷次任職結果評估甘茂的才幹，且整段直接用於擇相；「夫公孫郝之於秦王，親也。少與之同衣，長與之同車」又以君臣關係判斷人選，涉及才能任用與領導權力",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "威王問於莫敖子華",
+      "para_index": 1,
+      "para_id": "zhanguoce#189-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "威王問於莫敖〈鮑本楚官。〉子華曰：「自從先君文王以至不穀之身，亦有不為爵勸，不為",
+      "note": "「亦有不為爵勸，不為祿勉，以憂社稷者。」把是否受爵祿驅動與是否承擔社稷職責分開，拆離楚國史事仍是在談人如何看待公共責任、職分與報酬",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "威王問於莫敖子華",
+      "para_index": 2,
+      "para_id": "zhanguoce#189-p02",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "莫敖子華對曰：「昔令尹子文，〈鮑本鬬穀於菟。〉緇帛〈札記今本「帛」誤「布」。〉之",
+      "note": "「未明而立於朝，日晦而歸食；朝不謀夕，無一月之積。」連同「故彼廉其爵，貧其身，以憂社稷者，令尹子文是也。」以具體日常呈現子文在無積蓄下仍長日任職，承擔的是公共職責與不以俸祿為轉移的工作召喚",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "威王問於莫敖子華",
+      "para_index": 3,
+      "para_id": "zhanguoce#189-p03",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "「昔者葉公子高，〈鮑本名諸梁。〉身獲於表薄，〈鮑本表，野外。薄，林也。言其初賤。",
+      "note": "「定白公之禍，寧楚國之事；恢先君以揜方城之外，四封不侵，名不挫於諸侯。」列出葉公的治理成果；「故彼崇其爵，豐其祿，以憂社稷者，葉公子高是也。」則說明厚爵祿與承擔職分可以並存，命中領導責任與成就",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "威王問於莫敖子華",
+      "para_index": 6,
+      "para_id": "zhanguoce#189-p06",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "「吳與楚戰於柏舉，三戰入郢。君王身出，大夫悉屬，百姓離散。蒙穀〈鮑本楚將。〉給〈",
+      "note": "「穀非人臣，社稷之臣，苟社稷血食，餘豈悉無君乎？」用對比直接界定蒙穀自認所屬的身分；他拒絕封賞並自棄山中，讓這個身分成為不依附一君一祿的職分召喚",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "客說春申君",
+      "para_index": 2,
+      "para_id": "zhanguoce#217-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "客又說春申君曰：「昔伊尹〈鮑本無「尹」字。○　補曰：缺「尹」字。　札記丕烈案：外",
+      "note": "「夫賢者之所在，其君未嘗不尊，國未嘗不榮也。」不只稱孫子為賢，而是斷言賢才所在會使領導者受尊、國家得榮；「君何辭之？」據此主張重新延攬，涉及人才發揮與領導者的用人責任",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "汗明見春申君",
+      "para_index": 1,
+      "para_id": "zhanguoce#219-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "汗明〈鮑本未詳。〉見春申君，候問〈姚本一作「候間」。〉三月，而後得見。談卒，春申",
+      "note": "「君之賢實不如堯，臣之能不及舜。」明說雙方的自我與他人能力評量；「今君一時而知臣，是君聖於堯而臣賢於舜也。」以反證指出不能一面之談即認定人才，隨後「召門吏為汗先生著客籍，五日一見。」把判斷落到是否延攬，故命中自我評價與才能識用",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "汗明見春申君",
+      "para_index": 2,
+      "para_id": "zhanguoce#219-p02",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "汗明曰：「君亦聞驥乎？夫驥之齒至〈鮑本至，言可服乘之時。〉矣，服〈鮑本服，在車前",
+      "note": "馬的痛苦以動物為主詞，本身不命中；「彼見伯樂之知己也。」把反應落在被知己看見的關係，且汗明以「今僕之不肖，阨於州部，堀穴窮巷，沈洿鄙俗之日久矣，君獨無意湔拔僕也，使得為君高鳴屈於梁乎？」自陳長久埋沒並求拔擢，使段落涉及知遇關係與才能施展",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "知伯帥趙韓魏而伐范中行氏",
+      "para_index": 3,
+      "para_id": "zhanguoce#223-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "三國之兵乘晉陽城，遂戰。三月不能拔，因舒軍而圍之，決晉水而灌之。圍晉陽三年，城中",
+      "note": "「亡不能存，危不能安，則無為貴知士也。」直接用能否存亡安危界定知士的價值，拆離晉陽之圍仍是對人才職能與成就的判準",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "知伯帥趙韓魏而伐范中行氏",
+      "para_index": 7,
+      "para_id": "zhanguoce#223-p07",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "知伯身死，國亡地分，為天下笑，此貪欲無厭也。夫不聽知過，亦所以亡也。知氏盡滅，唯",
+      "note": "正文「知伯身死，國亡地分，為天下笑，此貪欲無厭也。」把敗亡歸因於無厭貪欲，命中 VII；鮑彪注文「此一時三晉、智氏皆有士，三晉之應之如響，智氏獨不用之而亡，則士豈非天下之重寶乎？」以用不用士的後果說出人才價值，命中 VIII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "張孟談既固趙宗",
+      "para_index": 2,
+      "para_id": "zhanguoce#224-p02",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "耕三年，韓、魏、齊、燕〈鮑本「燕」作「楚」。○　補曰：下文有楚無燕，必有一誤。〉",
+      "note": "鮑彪注文「國有危難，不顧萬死，出入行陣，以就其謀，功成事遂，則委而去之。」以所列行止支持『有道』判斷，命中 VII；正曰注文「孟談可謂謀智之士，有道則未也。」將謀智能力與有道品格判開，VIII 與被否定的 VII 都仍是本段所論，兩說相反不互相抵銷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "王立周紹為傅",
+      "para_index": 1,
+      "para_id": "zhanguoce#243-p01",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "王立周紹為傅，曰：「寡人始行〈鮑本補曰：去聲。〉縣，過番吾，當子為子之時，踐石〈",
+      "note": "「父之孝子，君之忠臣也。」把孝親與任君之忠相連；「故寡人以子之知慮，為辨足以道人，危足以持難，忠可以寫意，信可以遠期。」列出周紹足以任傅的能力與品格，品題直接導向任用",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "王立周紹為傅",
+      "para_index": 2,
+      "para_id": "zhanguoce#243-p02",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "周紹曰：「王失論矣，非賤臣所敢任也。」王曰：「選子莫若父，論臣莫若君。君，寡人也",
+      "note": "「知慮不躁達於變，身行寬惠達於禮，威嚴不足以易於位，重利不足以變其心，恭於教而不快，和於下而不危。六者，傅之才，而臣無一焉。」具體列出傅者的才能與不受威利移心等品格標準，並以之自評",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "秦攻趙於長平",
+      "para_index": 7,
+      "para_id": "zhanguoce#255-p07",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "虞卿未反，秦之使者已在趙矣。樓緩聞之，逃去。〈鮑本虞卿傳有，次第不同。先云「秦既",
+      "note": "鮑彪注文以「七國辯士，策必中，計必得，而不失其正，唯卿與陳軫有焉。」同時用計策成效與不失其正評判辯士，分別命中成就才能與品格；正曰注文又以「他雖辯給可善，而言稍浮。……未離說客之習也！豈卿比哉？」列出才辯浮薄、爭寵徼貴等不能與虞卿相比的理由",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "秦攻趙平原君使人請救於魏",
+      "para_index": 1,
+      "para_id": "zhanguoce#256-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "秦攻趙，平原君使人請救於魏。信陵君發兵至邯鄲城下，秦兵罷。虞卿為平原君請益地，謂",
+      "note": "「用人之力，而忘人之功，不可。」把記功立為不可違的品格義務，命中 VII；「夫君封以東武城不讓無功，佩趙國相印不辭無能，一解國患，欲求益地，是親戚受封，而國人計功也。」既以功與能衡量封賞，命中 VIII，又揭出親戚與國人受賞標準不一，命中 V，三格各有不可互代的承重句",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "秦圍趙之邯鄲",
+      "para_index": 6,
+      "para_id": "zhanguoce#258-p06",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "適會魏公子無忌〈鮑本無「魏」字。○　札記丕烈案：史記有。〉奪晉鄙軍以救趙擊秦，秦",
+      "note": "「所貴於天下之士者，為人排患、釋難、解紛亂而無所取也。即有所取者，是商賈之人也，仲連不忍為也。」既提出士人以解難助人為職志的標準，也以不取報酬劃出操守界線",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "建信君貴於趙[2]",
+      "para_index": 1,
+      "para_id": "zhanguoce#261-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "建信君貴於趙。公子魏牟過趙，趙王迎之，顧反至坐，〈鮑本迎客面之，有顧則反。〉前有",
+      "note": "「今為天下之工，或非也，社稷為虛戾，先王不血食，而王不以予工，乃與幼艾。」以製冠須交給熟練工匠為準，批評治國任人捨棄才能而取幼艾，同時落在領導用人與才能發揮",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "希寫見建信君",
+      "para_index": 1,
+      "para_id": "zhanguoce#265-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "希寫〈鮑本趙人。〉見建信君。建信君曰：「文信侯之於僕也，甚無禮。秦使人來仕，僕官",
+      "note": "「夫良商不與人爭買賣之賈，而謹司時。時賤而買，雖貴已賤矣；時貴而賣，雖賤已貴矣。」提出良商不爭價而審時買賣的職業判準，說明成事所需的專業判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "秦攻魏取寧邑[3]",
+      "para_index": 1,
+      "para_id": "zhanguoce#282-p01",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "秦攻魏，取寧邑，〈鮑本秦昭五十年拔寧，魏地邑，徐以為趙，非也。後志，朝歌有寧鄉。",
+      "note": "「使者三往不得通者，必所使者非其人也。曰諒毅者，辨士也，大王可試使之。」把使事成敗歸於人選是否合適，並將對諒毅辯才的品題直接導向任用，故命中才能發揮與職務選擇",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "秦攻魏取寧邑[3]",
+      "para_index": 4,
+      "para_id": "zhanguoce#282-p04",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "秦王曰：「諾。勿使從政。」諒毅曰：「敝邑之君，有母弟不能教誨，以惡大國，請黜之，",
+      "note": "鮑彪注文先以「諒毅可謂有專對之材矣。」品評其外交才具，又用「是舉也，不辱君命，不失秦之心，與觸讋同傳可也。」給出成效理由，故命中 VIII；正曰注文以「忠而不貳，臣之職也。討貳勸忠，大國之義也。」提出臣職與勸忠的品格規範，故兼命中 VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "趙使姚賈約韓魏",
+      "para_index": 1,
+      "para_id": "zhanguoce#283-p01",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "趙使姚賈約韓、魏，〈鮑本正曰：姚賈，說見秦策。此章時不可考。〉韓、魏以〈鮑本衍「",
+      "note": "「賈也，王之忠臣也。……故王不如勿逐，以明王之賢，而折韓、魏招之。」把對姚賈的品題直接落在是否逐退、留任的處置上，屬於任用判斷而不只是無事件的稱號",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "趙太后新用事",
+      "para_index": 3,
+      "para_id": "zhanguoce#286-p03",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "左師公曰：「老臣賤息舒祺，〈鮑本息，其子。舒祺，名也。〉最少，不肖。而臣衰，竊愛",
+      "note": "「父母之愛子，則為之計深遠。」直接提出親子之愛的通則；「位尊而無功，奉厚而無勞，而挾重器多也。」又把沒有功勞卻享高位厚奉說成子孫難以自立的原因，故兼及親子長遠安排與成就功勞",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "趙太后新用事",
+      "para_index": 4,
+      "para_id": "zhanguoce#286-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子義〈鮑本趙之賢士。〉聞之曰：「人主之子也，骨肉之親也，猶不能恃無功之尊，無勞之",
+      "note": "「人主之子也，骨肉之親也，猶不能恃無功之尊，無勞之奉，而守金玉之重也，而況人臣乎？」明說即使骨肉身分也不能代替功勞以保有尊位財富，兼論親族承蔭與個人成就",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "樂羊為魏將而攻中山",
+      "para_index": 1,
+      "para_id": "zhanguoce#290-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "樂羊為魏將而攻中山。其子在中山，中山之君烹其子而遺之羹，樂羊坐於幕下而啜〈鮑本啜",
+      "note": "正文「樂羊以我之故，食其子之肉。」與「文侯賞其功而疑其心。」把父子天性、軍功與品格疑問並置。鮑彪注文以「樂羊所謂隱忍以成就功名者也。」解釋其成就取捨，又以「乃其情則非恝然無以天性為者也。」申說父子之情；正曰注文引「巧詐不如拙誠」作倫理批判。拿掉 IV 會漏掉父子天性，拿掉 VIII 會漏掉成就功名的取捨，拿掉 VII 會漏掉詐誠與品格的評判",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "西門豹為鄴令",
+      "para_index": 1,
+      "para_id": "zhanguoce#291-p01",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "西門豹為鄴〈鮑本鄴，屬魏郡。〉令，而辭乎魏文侯。文侯曰：「子往矣，〈鮑本補曰：一",
+      "note": "「必就子之功，而成子之名。」與「子入而問其賢良之士而師事之，求其好掩人之美而揚人之醜者而參驗之。」把任官成績、成名及識人程序作成建議，故命中 VIII；補曰注文以「則其好賢也不誠，而且將以來讒賊之徒，意則異矣。」批評其中的誠意與品格後果，故兼命中 VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "魏公叔痤為魏將",
+      "para_index": 1,
+      "para_id": "zhanguoce#295-p01",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "魏公叔痤為魏將，而與韓、趙戰澮北，〈鮑本說文，澮水出霍山西南，入汾。此二年，敗韓",
+      "note": "「夫使士卒不崩，直而不倚，撓揀而不辟者，此吳起餘教也，臣不能為也。」逐一歸還他人的功勞；「若以臣之有功，臣何力之有乎？」以拒領非己之功呈現成就歸屬與不掩人功的品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "魏公叔痤病",
+      "para_index": 1,
+      "para_id": "zhanguoce#296-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魏公叔痤病，惠王往問之。曰：「公叔病，即不可諱，〈鮑本死者，人之所不能避，故云。",
+      "note": "補曰注文以「公叔知鞅而不能進，將死之言，上不能量其君之聽否，下不能測鞅之去就，非悖而何？」批評薦才者既未使人才獲用，又不能判斷君臣雙方的選擇，明確涉及領導與用人",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "魏公叔痤病",
+      "para_index": 2,
+      "para_id": "zhanguoce#296-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "公叔痤死，公孫鞅聞之，已葬，〈姚本劉作「出奔」。　鮑本補曰：大事記，顯王八年，公",
+      "note": "「孝公受而用之。秦果日以強，魏日以削。」把是否任用公孫鞅連到兩國消長；「悖者之患，固以不悖者為悖。」又從惠王誤判抽出一條關於領導者辨識人才與意見的判斷機制",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "公孫衍為魏將",
+      "para_index": 1,
+      "para_id": "zhanguoce#315-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "公孫衍為魏將，與其相田繻〈鮑本「繻」作「需」。○　從下章及史。補曰︰「繻」即「需",
+      "note": "「今王以衍為可使將，故用之也；而聽相之計，是服牛驂驥也。」指出任用與指揮互相抵牾；鮑彪注文以「此用賢而使不肖間之之說也，而衍也非其人也。」明說人才受小人干擾的用人標準，涉及領導責任與才能發揮",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "蘇代為田需說魏王",
+      "para_index": 1,
+      "para_id": "zhanguoce#318-p01",
+      "modes": [
+        "prescription",
+        "observation"
+      ],
+      "excerpt": "蘇代為田需說魏王曰：「臣請問文之為〈姚本為，助也。曾、劉無此注。〉魏，孰與其為齊",
+      "note": "正曰注文以「賢否之不知，用舍之不能，熒惑於游士之言，而拱手以聽之，其孱昏甚矣！」列出魏王不能辨才、不能用舍且受遊士迷惑的理由，評斷的是人才任用與君主判斷責任",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "魏惠王死",
+      "para_index": 4,
+      "para_id": "zhanguoce#321-p04",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "惠子非徒行其說也，又令魏太子未葬其先王而因又〈鮑本「因又」作「又因」。○　札記丕",
+      "note": "「說文王之義以示天下，豈小功也哉！」以惠子實際完成的影響評量其功業，不只是掛一個人物稱號",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "齊魏戰於馬陵",
+      "para_index": 3,
+      "para_id": "zhanguoce#326-p03",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "趙氏醜之。楚王怒，自將而伐齊，趙應之，大敗齊於徐州。〈鮑本「徐」作「俆」。○　彪",
+      "note": "鮑彪注文「施之策齊、楚，如視白黑、數一二，可謂明矣。而不能止太子之將，何邪？」以具體策事表現與失手對照惠施的才智，並非只貼『賢』一類稱號",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "魏王欲攻邯鄲",
+      "para_index": 1,
+      "para_id": "zhanguoce#363-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魏王欲攻邯鄲，季梁〈鮑本魏人，非莊子所稱。正曰：不可考，亦不知何時。〉聞之，中道",
+      "note": "「此數者愈善，而離楚愈遠耳。」藉北轅適楚的人為主詞，指出資源、御者等手段即使更好，只要方向背離目標便更不能成事，形成可拆離魏王攻邯鄲情境的行動與成就原理",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "秦魏為與國",
+      "para_index": 2,
+      "para_id": "zhanguoce#367-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "魏人有唐且〈鮑本「且」作「雎」。○　下同。補曰：新序同。史作「雎」。　札記丕烈案",
+      "note": "「大王已知魏之急而救不至者，是大王籌筴之臣無任矣。」以能否因已知的急情及時出救作為謀臣勝任與否的判準，拆離救魏之策仍是對人的才能評斷；其餘國勢推演不另加領域",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "宣王謂摎留[2]",
+      "para_index": 1,
+      "para_id": "zhanguoce#379-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "宣〈姚本一作「韓」。〉王謂摎留〈鮑本韓人。補曰：摎，居尤反。漢有摎氏。通鑑、大事",
+      "note": "正文「今王兩用之，其多力者內樹其黨，其寡力者籍外權。」提出官員依權勢結黨或借外援的機制；補曰注文「是以帝王之要，知人而后官人，九經之序，尊賢而后敬大臣，則無患乎此矣。」又明定知人任官的領導準則",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "秦大國",
+      "para_index": 1,
+      "para_id": "zhanguoce#426-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "秦，大國也。韓，小國也。韓甚疏秦。然而見親秦，計之，〈鮑本「而」上無「然」字，「",
+      "note": "「美人知內行者也，故善為計者，不見內行。」不只交代韓、秦得失，也把不顯露內情列為計者是否善於謀劃的能力標準，故落在才能與工作方法",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "段干越人謂新城君[6]",
+      "para_index": 1,
+      "para_id": "zhanguoce#442-p01",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "段干〈鮑本凡段干皆魏人，今在秦。補曰：史注，段干，魏邑。路史，段干，李姓邑。初邑",
+      "note": "「馬，千里之馬也；服，千里之服也。而不能取千里，何也？」先說能力受細小牽制而不能發揮；「今臣雖不肖，於秦亦萬分之一也，而相國見臣不釋塞者，是纆牽長也。」再把譬喻落到自己被阻塞、不能任事的處境",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "人有惡蘇秦於燕王者",
+      "para_index": 3,
+      "para_id": "zhanguoce#447-p03",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "蘇秦曰：〈鮑本衍「蘇秦曰」三字。〉「且夫孝如曾參，義不離親一夕宿於外，足下安得使",
+      "note": "「且夫信行者，所以自為也，非所以為人也。皆自覆之術，非進取之道也。」直接判斷忠信之行的品格意義，並把自守與成事進取分作兩條人生道路",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "燕昭王收破燕後即位",
+      "para_index": 2,
+      "para_id": "zhanguoce#453-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "郭隗先生對曰：「帝者與師處，王者與友處，霸者與臣處，亡國與役〈鮑本役，僕役。〉處",
+      "note": "「帝者與師處，王者與友處，霸者與臣處，亡國與役處。」把領導者如何對待人才與其政治層級相連；「詘指而事之，北面而受學，則百己者至。」又說尊重、受教會招來勝己之士，兼有領導關係與人才任用的斷語",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "燕昭王收破燕後即位",
+      "para_index": 3,
+      "para_id": "zhanguoce#453-p03",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "昭王曰：「寡人將誰朝而可？」郭隗先生曰：「臣聞古之君人，有以千金求千里馬者，三年",
+      "note": "千里馬故事本身是器物寓言；但落到人時，「今王誠欲致士，先從隗始；隗且見事，況賢於隗者乎？豈遠千里哉？」明說先尊重眼前之士會使更賢者遠來，承載社會示範與人才招致機制",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "燕昭王收破燕後即位",
+      "para_index": 4,
+      "para_id": "zhanguoce#453-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "於是昭王為隗築宮而師之。樂毅自魏往，鄒衍自齊往，劇辛自趙往，士爭湊燕。燕王弔死問",
+      "note": "正文「於是昭王為隗築宮而師之。樂毅自魏往，鄒衍自齊往，劇辛自趙往，士爭湊燕。」主要是招士成效的敘事；鮑彪注文「專欲得賢士而事之，此『無競惟人』之誼也，欲無興，得乎哉？」將敬事人才連到國家興起，正曰注文「立國用賢，固三代之道，未可即以為三代之人。」則明定領導用賢之道，故命中領導與人才兩格",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "燕王謂蘇代",
+      "para_index": 1,
+      "para_id": "zhanguoce#456-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "燕王謂蘇代曰：「寡人甚不喜訑〈鮑本沇州謂「欺」曰訑。補曰：訑，徒案反，或作誕。〉",
+      "note": "「且事非權不立，非勢不成。夫使人坐受成事者，唯訑者耳。」把權變、訑言與成事相連；鮑彪注文「蓋用人可也，處己則否。」區分任用之才與自身品行，正曰注文「利誕謾之人以為用，此不正之論也。」又明作道德批判",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "蘇秦為奉陽君說燕於趙以伐齊[1]",
+      "para_index": 4,
+      "para_id": "zhanguoce#458-p04",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "「臣以為不若逃而去之。〈鮑本無「為」字。○　詐以罪逃去。補曰：一本此有「為」字。",
+      "note": "「且舉大事者，孰不逃？」以多個人物行止為例，末以「故舉大事，逃不足以為辱矣。」重定逃亡、羞辱與成就大事的關係",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "陳翠合齊燕",
+      "para_index": 3,
+      "para_id": "zhanguoce#462-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "陳翠曰：「人主之愛子也，不如布衣之甚也。非徒不愛子也，又不愛丈夫子獨甚。」太后曰",
+      "note": "「人主之愛子也，不如布衣之甚也。非徒不愛子也，又不愛丈夫子獨甚。」直接提出親子之愛的斷語；「今王之以公子為質也，且以為公子功而封之也。」再把取得功勞說成替兒子安排長遠封爵的必要途徑，兼及家庭傳承與個人成就",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "陳翠合齊燕",
+      "para_index": 4,
+      "para_id": "zhanguoce#462-p04",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "太后曰：「老婦不知長者之計。」乃命公子束車制衣為行具。〈鮑本補曰：此與觸讋諫趙威",
+      "note": "正文「太后曰：『老婦不知長者之計。』乃命公子束車制衣為行具。」只是採策結果；命中來自補曰注文「此與觸讋諫趙威后同。戰國所載事多如此，然觸讋言尤婉切，所以人多稱之。」由言辭婉切連到為人稱道，給出游說表現及其成就聲譽的依據",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "昌國君樂毅為燕昭王合五國之兵而攻齊",
+      "para_index": 4,
+      "para_id": "zhanguoce#465-p04",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "「臣聞賢聖之君，不以祿私其親，功多者授之；不以官隨其愛，能當之〈鮑本無「之」字。",
+      "note": "「臣聞賢聖之君，不以祿私其親，功多者授之；不以官隨其愛，能當之者處之。」以功與能排除親愛私授；「故察能而授官者，成功之君也；論行而結交者，立名之士也。」進一步提出公平用人、才能發揮與成事立名的標準",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "昌國君樂毅為燕昭王合五國之兵而攻齊",
+      "para_index": 6,
+      "para_id": "zhanguoce#465-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「臣聞賢明之君，功立而不廢，故著於春秋；蚤知〈鮑本蚤知，先見也。〉之士，名成而不",
+      "note": "「臣聞賢明之君，功立而不廢，故著於春秋；蚤知之士，名成而不毀，故稱於後世。」把領導者保存功業、士人成名不毀說成通則；「執政任事之臣，所以能循法令，順庶孽者，施及萌隸，皆可以教於後世。」又把制度遺教連到臣民，兼論領導關係與成就傳續",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "昌國君樂毅為燕昭王合五國之兵而攻齊",
+      "para_index": 7,
+      "para_id": "zhanguoce#465-p07",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "「臣聞善作者，不必善成；善始者，不必善終。昔者五子胥〈鮑本「五」作「伍」。○　札",
+      "note": "「臣聞善作者，不必善成；善始者，不必善終。」指出開創與完成並不相等；樂毅再自陳「夫免身全功，以明先王之跡者，臣之上計也。」及「臨不測之罪，以幸為利者，義之所不敢出也。」把保全功業的選擇置於義的品格界線內",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "燕太子丹質於秦亡歸",
+      "para_index": 3,
+      "para_id": "zhanguoce#474-p03",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "太子跪而逢迎，卻行為道，〈鮑本不敢背之。〉跪而拂席。田先生坐定，左右無人，太子避",
+      "note": "「臣聞騏驥盛壯之時，一日而馳千里。至其衰也，駑馬先之。今太子聞光壯盛之時，不知吾精已消亡矣。」由盛壯與衰老的對照落到田光自述精力消退及任事能力不逮，直接涉及老衰與才能無法再發揮",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "姚氏校注戰國策後題",
+      "para_index": 1,
+      "para_id": "zhanguoce#500-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "頃歲，予辨正鮑彪戰國策註，讀呂子大事記引剡川姚宏，知其亦註是書。考近時諸家書錄皆",
+      "note": "「因高誘註，間有增續，簡質謹重，深得古人論撰之意，大與鮑氏率意竄改者不同。」以具體編注方法比較兩人的學術工作與成就",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "姚氏校注戰國策後題",
+      "para_index": 3,
+      "para_id": "zhanguoce#500-p03",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "余所得本，背紙有寶慶字，已百餘年物，時有碎爛處。既據以校鮑誤，因序其說于此。異時",
+      "note": "「異時當廣傳寫，使學者猶及見前輩典則，可仰可慕云。」主張保存並傳布版本，使後學得以承接前輩的學術工作典範",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "戰國策後序",
+      "para_index": 1,
+      "para_id": "zhanguoce#501-p01",
+      "modes": [
+        "observation",
+        "expression"
+      ],
+      "excerpt": "右戰國策，隋經籍志：三十四卷，劉向錄；高誘註，止二十卷；漢京兆尹延篤論一卷。唐藝",
+      "note": "全段考列卷數、版本與逸文，末以「既無古書可以考證，第嘆息而已。某以所聞見，以為集注，補高誘之亡云。」自陳面對材料散佚所承擔的集注工作",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "戰國策後序",
+      "para_index": 2,
+      "para_id": "zhanguoce#501-p02",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "右此序題姚寬撰，有手寫附于姚註本者，文皆與宏序同。特疏列逸文加詳。考其歲月則在後",
+      "note": "本段辨析後序作者及姚氏兄弟的注書關係，並說「因全錄著之左方，以俟博考者。」把保存材料供後人考證明定為編校工作的目的",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "戰國策校注序",
+      "para_index": 1,
+      "para_id": "zhanguoce#502-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "《國策》，史家流也。其文辯愽，有煥而明，有婉而微，有約而深，太史公之所考本也。自",
+      "note": "「夫史氏之法，具記一時事辭，善惡必書，初無所決擇。」界定史家的工作責任；「學者豈以是為不正，一舉而棄之哉？」又主張讀者應辨善惡而不因書中有惡便棄書",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "戰國策校注序",
+      "para_index": 2,
+      "para_id": "zhanguoce#502-p02",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "起秦迄今千四百歲，由學者不習，或衍或脫，或後先失次，故「肖」、「立」半字，時次相",
+      "note": "「彪於是考《史記》諸書為之注，定其章條，正其衍說，而存其舊，慎之也。」說明編注工作的實踐；「以之論是非，辨得失，而考興亡，亦有補於世。」又把道德辨析列為其公共目的",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "戰國策校注序",
+      "para_index": 4,
+      "para_id": "zhanguoce#502-p04",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "彪校此書，四易稾而後繕寫。己巳仲春重校，始知《東周策》「嚴氏之賊，陽竪與焉」為《",
+      "note": "「先哲言，校書如塵埃風葉，隨掃隨有。豈不信哉？尚有舛謬，以俟君子。」把校勘說成反覆而難以窮盡的工作，也自認成果仍有界限而待後人續成",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "又",
+      "para_index": 1,
+      "para_id": "zhanguoce#503-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "先秦之書，惟《戰國策》最古，文最訛舛，自劉向校定已病之。南豐曾鞏再校，亦疑其不可",
+      "note": "「事莫大於存古，學莫善於闕疑。」提出學術工作的準則；「其不可定知者，闕焉可也，豈必強為傅會乎？」進一步把存疑而不強解定為求學者應守的誠慎品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "又",
+      "para_index": 2,
+      "para_id": "zhanguoce#503-p02",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "又其所引書，止於《淮南子》、《後漢志》、《說文》、《集韻》，多摭彼書之見聞，不問",
+      "note": "「淺陋如是，其致誤固宜。」把學識不足與注書錯誤連成因果，涉及工作能力；「皆悖義害正之甚者。」則對鮑彪所作的人物褒貶提出明確的善惡判斷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "又",
+      "para_index": 3,
+      "para_id": "zhanguoce#503-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "鮑之成書，當紹興丁卯。同時剡川姚宏，亦注是書，云得會稽孫朴所校，以閣本標出錢藻、",
+      "note": "「觀《戰國》之事，取其大旨，不必字字為據。」提出讀史方法；「存其是而正其非，庶幾明事跡之實，求義理之當焉！」同時說明校注工作的求實目標與辨是非準則",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "又",
+      "para_index": 5,
+      "para_id": "zhanguoce#503-p05",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "《國策》之書，自劉向第錄，逮南豐曾氏，皆有序論以著其大旨。向謂戰國謀士，度時君所",
+      "note": "「策乃史家者流，善惡兼書，初無決擇，其善者孔、孟之所不能違，若之何置之？」既論史家工作的記錄原則，也主張讀者須自行辨別善惡而不能因內容混雜便棄置",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "記劉原〈札記今本「原」誤「元」。吳引不誤。〉父語",
+      "para_index": 1,
+      "para_id": "zhanguoce#507-p01",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "此書舛誤特多，率一歲再三讀，略以意屬之而已。比劉原父云：「吾老當得定本正之否耶？",
+      "note": "「比劉原父云：『吾老當得定本正之否耶？』」以年老之前取得定本並完成校正為自己的期待，不只是版本數量的交代，落在學術工作的成就與召喚",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "重刻剡川姚氏本戰國策并札記序",
+      "para_index": 1,
+      "para_id": "zhanguoce#509-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "曩者顧千里為予言，曾見宋槧剡川姚氏本《戰國策》，予心識之。厥後遂得諸鮑綠飲所，楮",
+      "note": "「夫鮑之率意竄改，其謬妄固不待言，乃更援而入諸姚氏本之中，是為厚誣古人矣。」以任意竄改為失德；「事莫大於存古，學莫大於闕疑。」又把存古、闕疑立為治學準則，分別承載品格判斷與學術工作的規範",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "重刻剡川姚氏本戰國策并札記序",
+      "para_index": 2,
+      "para_id": "zhanguoce#509-p02",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "今年，命工纖悉影橅宋槧而重刊焉。并用家藏至正乙巳吳氏本互勘，為之《札記》，凡三卷",
+      "note": "「大旨專主師法乎闕疑存古，不欲苟取文從字順，願貽諸好學深思之士。」明言校勘工作的宗旨是不苟改、能存疑，並以此服務後學，兼具學術志業與誠慎品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "題戰國策後",
+      "para_index": 2,
+      "para_id": "zhanguoce#511-p02",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "余頃於會稽得孫元忠所校於其族子愨，殊為疏略。後再扣〈札記今本「扣」誤「叩」。吳引",
+      "note": "「而余居窮鄉，無書可檢閱，訪春秋後語，數年方得之，然不為無補。尚覬博採，老得定本，無劉公之遺恨。」自陳在資源匱乏下多年訪書，並把博採、取得定本立為晚年未竟志業，故命中工作、成就與召喚；其餘校字與札記版源考證不另加領域",
+      "co_domains": []
     },
     {
       "slug": "zhongjing",

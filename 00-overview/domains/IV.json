@@ -2,9 +2,9 @@
   "domain": "IV",
   "name_zh": "家庭與傳承",
   "gist": "婚姻與家庭、原生家庭的傷、為人父母、記憶與和解、留下什麼給後代",
-  "generated_at": "2026-08-22T00:14:00+00:00",
-  "para_count": 519,
-  "book_count": 29,
+  "generated_at": "2026-08-22T16:22:04+00:00",
+  "para_count": 563,
+  "book_count": 30,
   "surveyed_zero_hit": [
     "fangyan",
     "gongsun-longzi",
@@ -7550,6 +7550,654 @@
         "VII",
         "VIII",
         "X"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "劉向書錄",
+      "para_index": 3,
+      "para_id": "zhanguoce#01-p03",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "仲尼既沒之後，田氏取齊，六卿分晉，道德大廢，上下失序。至秦孝公，捐禮讓而貴戰爭，",
+      "note": "「父子不相親，兄弟不相安，夫婦離散」直寫家內關係崩解，拿掉 IV 會漏掉家庭離散；「上無天子，下無方伯；力功爭強，勝者為右」寫公共權力失序，拿掉 V 會漏掉社會秩序；「貪饕無耻，競進無厭」與「詐偽並起」評斷品格，拿掉 VII 會漏掉道德敗壞",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "蘇秦始將連橫",
+      "para_index": 4,
+      "para_id": "zhanguoce#48-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "說秦王書十上而說不行。〈姚本蘇秦之說，不見用也。〉黑貂之裘弊，〈姚本弊，壞也。　",
+      "note": "「妻不下紝，嫂不為炊，父母不與言」具體寫失意後遭逢的家內拒斥（IV）；「伏而誦之……讀書欲睡，引錐自刺其股」則以故事承載他為求成就反覆研習、鍛鍊遊說之術的歷程（VIII），不只是交代一次仕途得失",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "蘇秦始將連橫",
+      "para_index": 7,
+      "para_id": "zhanguoce#48-p07",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "將說楚王，〈鮑本威。〉路過洛陽，〈鮑本漢為河南郡。〉父母聞之，清〈鮑本清，汛掃也",
+      "note": "「貧窮則父母不子，富貴則親戚畏懼」明說貧富改變家內承認（IV），「勢位富貴」支配親族態度又是社會權勢機制（V）。鮑彪注文另以「志在於金玉卿相……是亦利祿徒耳，惡睹所謂大丈夫之事哉」給出志向與品格的貶評標準（VII）；拿掉任一格，便分別少了家族關係、社會權勢或注文的品格判斷",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "張儀又惡陳軫於秦王[2]",
+      "para_index": 2,
+      "para_id": "zhanguoce#58-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "王謂陳軫曰：「吾聞子欲去秦而之楚，信乎？」陳軫曰：「然。」王曰：「儀之言果信也。",
+      "note": "「孝己愛其親，天下欲以為子」及「出婦嫁鄉曲者，良婦也」以孝親與婚姻角色說家庭關係（IV）；「子胥忠乎其君，天下欲以為臣」和「吾不忠於君，楚亦何以軫為忠乎」則把忠誠說成取得他人信任的品格判準（VII）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "陳軫去楚之秦",
+      "para_index": 3,
+      "para_id": "zhanguoce#59-p03",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "軫出，張儀入，問王曰：「陳軫果安之？」王曰：「夫軫天下之辯士也，孰〈鮑本「孰」作",
+      "note": "正文重申「孝己愛其親」與「善婦」，承載親子、婚姻角色（IV），並以「子胥忠其君」「臣不忠於王，楚何以軫為」論忠誠品格（VII）。鮑彪注文稱「軫之辯類捷給，而其所稱譬，皆當於人心」，正曰注文則以「又與張儀爭寵，鄙哉」評其行止；第三格 VIII 若拿掉，就會漏掉鮑彪注文對陳軫辯說才能的明確評量",
+      "co_domains": [
+        "VII",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "秦武王謂甘茂",
+      "para_index": 3,
+      "para_id": "zhanguoce#65-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "甘茂至，王問其故。〈鮑本勿攻之故。〉對曰：「宜陽，大縣也，上黨、南陽〈鮑本此屬修",
+      "note": "「夫以曾參之賢，與母之信也，而三人疑之，則慈母不能信也」指出重複傳言足以動搖親子信任；甘茂再以此預測君臣信任會被眾人進言侵蝕",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "應侯謂昭王",
+      "para_index": 2,
+      "para_id": "zhanguoce#85-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "「臣聞古之善為政也，其威內扶，〈鮑本扶，猶持也。言不顛仆。〉其輔外布，〈鮑本輔，",
+      "note": "正文以「其威內扶」「危主滅國之道」論君臣權力和治國責任，拿掉 V 就少了領導結構；鮑彪注文又以「人君生事之所嚴，有母而已……忍哉」及「君子所以進其身，豈舍此獨無說乎」批評以太后為攻擊之首，拿掉 IV 會少了母子倫理，拿掉 VII 會少了求進仍須守住的品格底線，三格各自承重",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "蔡澤見逐於趙",
+      "para_index": 2,
+      "para_id": "zhanguoce#92-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "應侯聞之，使人召蔡澤。蔡澤入，則揖應侯，應侯固不快，及見之，又倨。應侯因讓之曰：",
+      "note": "「主聖臣賢，天下之福也；君明臣忠，國之福也」提出君臣與公共秩序的標準；「父慈子孝，夫信婦貞，家之福也」另立家庭關係的標準；「義之所在，身雖死，無憾悔」又把忠義列為君子取捨準則，三項各自承重",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "薛公入魏而出齊女[1]",
+      "para_index": 1,
+      "para_id": "zhanguoce#94-p01",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "薛公入魏而出齊女。〈姚本婦人大歸曰「出」。　鮑本魏公子負芻之母，薛公惡齊，故逐之",
+      "note": "「負蒭立，其母在秦，則魏，秦之縣也」把母子關係當作負蒭終身事秦的原因；「齊女入魏而怨薛公，終以齊奉事王」又明說怨恨如何驅動其選邊，不只列舉國力與盟約",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "秦王欲見頓弱",
+      "para_index": 1,
+      "para_id": "zhanguoce#100-p01",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "秦王〈姚本秦王，始皇趙正也。即位二十六年，乃稱帝，故曰秦王。〉欲見頓弱，〈鮑本秦",
+      "note": "「有其實而無其名者」等三分直接辨析名與實，最後以「已立為萬乘，無孝之名；以千里養，無孝之實」指出王者身分不能替代對母親的實際孝行",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "鄒忌事宣王",
+      "para_index": 1,
+      "para_id": "zhanguoce#121-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "鄒忌事宣王，仕人眾，〈姚本眾，多也。　鮑本薦於王使之仕。〉宣王不悅。〈姚本嫌其作",
+      "note": "「有一子之孝，不如有五子之孝」雖被用作薦仕多寡的比喻，句子本身仍以家庭內子女之孝作比較判斷，拆離這次君臣辯說後仍是一句家庭斷語",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "秦假道韓魏以攻齊",
+      "para_index": 2,
+      "para_id": "zhanguoce#123-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "頃間，言齊兵大勝，秦軍〈鮑本「軍」作「兵」。○〉大敗，於是秦王拜〈鮑本「拜」作「",
+      "note": "正文「不得父之教而更葬母，是欺死父」及「為人子而不欺死父，豈為人臣欺生君哉」把親子義務與不欺的品格一致性連起來；鮑彪注文又以「凡章子之孝皆過，所謂過孝」評其孝行，並說「人君於其臣，欲其自知之也……雖百市虎不搖也」，提出君臣知遇與抗流言的關係原理。拿掉 IV 會少父子義務，拿掉 VII 會少誠信判準，拿掉 V 會少領導者知臣的原理，故保留三格",
+      "co_domains": [
+        "VII",
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "齊王使使者問趙威后",
+      "para_index": 1,
+      "para_id": "zhanguoce#154-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "齊王使使者問趙威后。〈鮑本惠文后，孝威太后。〉書未發，〈鮑本補曰：未發其封。〉威",
+      "note": "「苟無歲，何以有民？苟無民，何以有君？」把民視為君權之本，後文又以濟困養民者何以不任職追問用人與公義，命中 V；「至老不嫁，以養父母」且能率民「出於孝情」，另有不可刪去的親子奉養內容，命中 IV",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "王孫賈年十五事閔王",
+      "para_index": 1,
+      "para_id": "zhanguoce#161-p01",
+      "modes": [
+        "expression",
+        "prescription"
+      ],
+      "excerpt": "王孫賈年十五，事閔王。王出走，失王之處。其母曰：「女朝出而晚來，則吾倚門而望；女",
+      "note": "母親以「女朝出而晚來，則吾倚門而望；女暮出而不還，則吾倚閭而望」自陳親子牽掛，又用「女今事王……女尚何歸」把這份親愛轉成臣子不應棄君而歸的責任要求",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "齊閔王之遇殺[1]",
+      "para_index": 1,
+      "para_id": "zhanguoce#167-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "齊閔王之遇殺，其子法章變姓名，為莒太史家庸夫。〈鮑本傭，庸同，均直也。〉太史敫〈",
+      "note": "太史敫以「女無謀而嫁者，非吾種也，汙吾世矣」提出婚嫁與宗族名譽的標準；末句又以君王后雖被父親終身拒見，仍「不以不睹之故，失人子之禮也」說明其所以被評為賢，兼及家庭義務與品格判準。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "楚襄王為太子之時",
+      "para_index": 1,
+      "para_id": "zhanguoce#197-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "楚襄王為太子之時，質於齊。懷王薨，太子辭於齊王〈鮑本閔。〉而歸。齊王隘〈鮑本隘，",
+      "note": "「愛地不送死父，不義。臣故曰，獻之便。」明言土地利益不能凌駕送別亡父的親子義務，並以此作為應否獻地的品格判準",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "楚考烈王無子",
+      "para_index": 7,
+      "para_id": "zhanguoce#220-p07",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "是歲，秦始皇立九年矣。嫪毐〈鮑本呂不韋所進，以說始皇母帝太后者也。〉亦為亂於秦。",
+      "note": "正文只交代嫪毐作亂、夷族與呂不韋被廢。補曰注文「趙與秦同姓，王遷母倡，族類不正，亦以滅亡，蓋倫紀嬻亂，其不永也固宜。」把宗姓傳承、家內倫紀與道德後果連起來；鮑彪注文「春申不為此，而計出於滅宗，蓋小人患失之禍，勢必有此，不可不戒也。」說出患失的品格機制，又以「英不以此時，匡之以大臣之義，而以一卒自任，雖多言亦何救於亂哉？」評判公共職責。拿掉 IV 會漏掉倫紀與宗姓傳承，拿掉 V 會漏掉大臣責任，拿掉 VII 會漏掉患失與戒惕的品格因果，故保留三格",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "晉畢陽之孫豫讓[1]",
+      "para_index": 1,
+      "para_id": "zhanguoce#225-p01",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "晉畢陽〈鮑本畢萬之後。正曰：無明據。晉語，伯宗索士庇州犁，得畢陽。及欒弗忌之難，",
+      "note": "正曰注文「讓乃其孫，義烈有自來矣。」把豫讓的義烈連回祖父行事，構成家族傳承的判斷，故命中 IV；正文「且夫委質而事人，而求弒之，是懷二心以事君也。」以不可二心提出事君的品格標準，故命中 VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "武靈王平晝間居",
+      "para_index": 3,
+      "para_id": "zhanguoce#242-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "王遂胡服。使王孫緤告公子成曰：「寡人胡服，且將以朝，亦欲叔之服之也。家聽於親，國",
+      "note": "「家聽於親，國聽於君，古今之公行也；子不反親，臣不逆主，先王之通誼也。」對親子與君臣各自應如何服從提出一般規範，不只是催促公子成改服的情節",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "王立周紹為傅",
+      "para_index": 1,
+      "para_id": "zhanguoce#243-p01",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "王立周紹為傅，曰：「寡人始行〈鮑本補曰：去聲。〉縣，過番吾，當子為子之時，踐石〈",
+      "note": "「父之孝子，君之忠臣也。」把孝親與任君之忠相連；「故寡人以子之知慮，為辨足以道人，危足以持難，忠可以寫意，信可以遠期。」列出周紹足以任傅的能力與品格，品題直接導向任用",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "王立周紹為傅",
+      "para_index": 4,
+      "para_id": "zhanguoce#243-p04",
+      "modes": [
+        "prescription",
+        "narrative"
+      ],
+      "excerpt": "王曰：「寡人以王子為子任，欲子之厚愛之，無所見醜。御道之以行義，勿令溺苦於學。〈",
+      "note": "「寡人以王子為子任，欲子之厚愛之，無所見醜。御道之以行義，勿令溺苦於學。」規定傅者應以愛護、行義與合宜學習教養王子，直接涉及子弟教養及品格形成",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "趙燕後胡服",
+      "para_index": 1,
+      "para_id": "zhanguoce#244-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "趙燕後胡服，〈鮑本服後於眾。〉王令讓之曰：「事主之行，竭意盡力，微諫而不譁，〈鮑",
+      "note": "「子用私道者家必亂，臣用私義者國必危。」分別斷言子以私道行事會亂家、臣以私義行事會危國，並以父子與君臣的公私界線提出規範",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "秦攻魏取寧邑[3]",
+      "para_index": 3,
+      "para_id": "zhanguoce#282-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "於是秦王乃見使者，曰：「趙豹、平原君，數欺弄寡人。趙能殺此二人，則可。若不能殺，",
+      "note": "「趙豹、平原君，親寡君之母弟也，猶大王之有葉陽、涇陽君也。」以兩邊兄弟關係作同類推移；「無乃傷葉陽君、涇陽君之心乎？」明說迫害他人兄弟會反傷自己兄弟之心，不只是以動物為主詞的寓言或國際條件",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "趙太后新用事",
+      "para_index": 3,
+      "para_id": "zhanguoce#286-p03",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "左師公曰：「老臣賤息舒祺，〈鮑本息，其子。舒祺，名也。〉最少，不肖。而臣衰，竊愛",
+      "note": "「父母之愛子，則為之計深遠。」直接提出親子之愛的通則；「位尊而無功，奉厚而無勞，而挾重器多也。」又把沒有功勞卻享高位厚奉說成子孫難以自立的原因，故兼及親子長遠安排與成就功勞",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "趙太后新用事",
+      "para_index": 4,
+      "para_id": "zhanguoce#286-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子義〈鮑本趙之賢士。〉聞之曰：「人主之子也，骨肉之親也，猶不能恃無功之尊，無勞之",
+      "note": "「人主之子也，骨肉之親也，猶不能恃無功之尊，無勞之奉，而守金玉之重也，而況人臣乎？」明說即使骨肉身分也不能代替功勞以保有尊位財富，兼論親族承蔭與個人成就",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "樂羊為魏將而攻中山",
+      "para_index": 1,
+      "para_id": "zhanguoce#290-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "樂羊為魏將而攻中山。其子在中山，中山之君烹其子而遺之羹，樂羊坐於幕下而啜〈鮑本啜",
+      "note": "正文「樂羊以我之故，食其子之肉。」與「文侯賞其功而疑其心。」把父子天性、軍功與品格疑問並置。鮑彪注文以「樂羊所謂隱忍以成就功名者也。」解釋其成就取捨，又以「乃其情則非恝然無以天性為者也。」申說父子之情；正曰注文引「巧詐不如拙誠」作倫理批判。拿掉 IV 會漏掉父子天性，拿掉 VIII 會漏掉成就功名的取捨，拿掉 VII 會漏掉詐誠與品格的評判",
+      "co_domains": [
+        "VIII",
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "張儀為秦連橫說魏王",
+      "para_index": 2,
+      "para_id": "zhanguoce#298-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「且夫諸侯之為從者，以安社稷、尊主、強兵、顯名也。合從者，一天下、約為兄弟、刑白",
+      "note": "「夫親昆弟，同父母，尚有爭錢財。」把同胞也會因財相爭說成人際常態；「而欲恃詐偽反覆蘇秦之餘謀，其不可以成亦明矣。」再以此判斷缺乏信任的群體盟約難以維持",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "魏惠王死",
+      "para_index": 1,
+      "para_id": "zhanguoce#321-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魏惠王死，葬有日矣。天大雨雪，至於牛目，〈鮑本駕車用牛，故以及其目為深候。〉壞城",
+      "note": "「為人子，而以民勞與官費用之故，而不行先王之喪，不義也。」明說兒子對父喪的責任，並給出是否合義的品格判準",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "魏惠王死",
+      "para_index": 3,
+      "para_id": "zhanguoce#321-p03",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "惠公〈姚本一作「子」。〉曰：「諾。」駕而見太子曰：「葬有日矣。」太子曰：「然。」",
+      "note": "「今葬有日矣，而雪甚，及牛目，難以行，太子為及日之故，得毋嫌於欲亟葬乎？」以葬父責任勸太子改期；「先王必欲少留而扶社稷、安黔首也，故使雪甚。」又把風雪認作亡者意志。拿掉 IV 少了親子喪葬責任，拿掉 VII 少了以文王之義判斷行事的標準，拿掉 XII 少了亡者藉天候示意的超越認證",
+      "co_domains": [
+        "VII",
+        "XII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "秦敗魏於華魏王且入朝於秦",
+      "para_index": 1,
+      "para_id": "zhanguoce#337-p01",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "秦敗魏於華，魏王且入朝於秦。周訢〈鮑本『訢』作『訴』。補曰：一本『訴』作『訢』，",
+      "note": "「其母曰：『子之於學者，將盡行之乎？願子之有以易名母也。子之於學也，將有所不行乎？願子之且以名母爲後也。』」這則寓言以母子為主詞，由母親提出學習不必全盤照行、應延後直呼母名的規範；拆離入秦之諫仍保留親子倫理，故命中 IV",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "魏攻管而不下",
+      "para_index": 1,
+      "para_id": "zhanguoce#369-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "魏攻管〈鮑本補曰：管見前策。〉而不下。安陵〈鮑本魏記註，召陵有安陵。〉人縮高，其",
+      "note": "「夫以父攻子守，人大笑也。是臣而下，是倍主也。父教子倍，亦非君之所喜也。」直接衡量父子之義與人臣忠節的衝突，並以此說明縮高為何拒絕",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "魏攻管而不下",
+      "para_index": 2,
+      "para_id": "zhanguoce#369-p02",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "使者以報信陵君，信陵君大怒，遣大使之安陵曰：「安陵之地，亦猶魏也。〈鮑本正曰：說",
+      "note": "「子弒父，臣弒君，有常不赦。國雖大赦，降城亡子不得與焉。」是成文憲令的禁戒；「今縮高謹解大位，以全父子之義，而君曰『必生致之』，是使我負襄王詔而廢大府之憲也，雖死終不敢行。」又以父子之義及守法品格拒絕威迫",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "韓傀相韓",
+      "para_index": 2,
+      "para_id": "zhanguoce#419-p02",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "至齊，齊人或言：「軹深井里〈鮑本軹之里名深井。補曰：軹，即河內軹。正義云，深井里",
+      "note": "「臣有老母，家貧，客游以為狗屠，可旦夕得甘脆以養親。親供養備，義不敢當仲子之賜。」又說「老母在，政身未敢以許人也。」聶政以奉養母親為行動界線，並以義為拒受厚賜與危險承諾的判準",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "韓傀相韓",
+      "para_index": 4,
+      "para_id": "zhanguoce#419-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "遂西至濮陽，〈鮑本補曰：漢濮陽縣屬東郡，春秋時帝丘也。〉見嚴仲子曰：「前所以不許",
+      "note": "「前所以不許仲子者，徒以親在。今親不幸，仲子所欲報仇者為誰？」明說親在時不肯受命、親亡後才前來，呈現家庭奉養責任對個人危險承諾的約束；其餘多人則洩密的推演只是刺殺方案",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "韓傀相韓",
+      "para_index": 6,
+      "para_id": "zhanguoce#419-p06",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "政姊〈姚本劉有「嫈」字。　鮑本「姊」下有「嫈」字。○　補曰：一本無「嫈」字。嫈，",
+      "note": "「夫愛身不揚弟之名，吾不忍也。」把姊弟之義與保全自身相權衡；隨後自揭「此吾弟軹深井里聶政也。」又以姓名和身分的公開承擔弟弟之名，故分別命中家庭與自我認同",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "韓傀相韓",
+      "para_index": 7,
+      "para_id": "zhanguoce#419-p07",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "晉、楚、齊、衛聞之曰：「非獨政之能，乃其姊者，亦列女也。」〈鮑本「政」上有「聶」",
+      "note": "「聶政之所以名施於後世者，其姊不避菹醢之誅，以揚其名也。」以姊弟關係說明名聲如何傳後，分別承擔 IV 與 II；鮑彪注文「政之始終於其親，孝矣。其臨財也，義矣。」及正曰注文「父母遺體不敢毀傷，以不義而滅其身得為孝乎？」正反申論孝義判準，拿掉 VII 便會漏掉本段的德性爭辯",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "或謂韓公仲",
+      "para_index": 1,
+      "para_id": "zhanguoce#420-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "或謂韓公仲〈姚本曾作「中」。〉曰：「夫孿〈鮑本孿，一乳兩子。補曰：孿，來戀、力員",
+      "note": "「夫孿子之相似者，唯其母知之而已；利害之相似者，唯智者知之而已。」雖用來引出合縱利害，前半拆離國際情勢後仍是母親能辨識孿生子的一般家庭關係斷語；其餘內容是勸公仲操持秦魏之和的政策推演",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "張儀為秦破從連橫謂燕王",
+      "para_index": 3,
+      "para_id": "zhanguoce#448-p03",
+      "modes": [
+        "expression",
+        "proposition"
+      ],
+      "excerpt": "燕王曰：「寡人蠻夷辟處，雖大男子，裁〈鮑本補曰：裁，史注音在，僅也。〉如嬰兒，言",
+      "note": "正文「雖大男子，裁如嬰兒，言不足以求正，謀不足以決事。」是燕王在外交場景中的卑辭；命中來自鮑彪注文：「且人之性稟，有父子不相肖者，自襄至武靈七八傳矣，而欲以其狼戾無親例之，人豈信之哉？」注文明說父子性稟可以不同，觸及家庭傳承",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "秦召燕王",
+      "para_index": 8,
+      "para_id": "zhanguoce#457-p08",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "「兵困於林中，〈鮑本補曰：見魏策。〉重燕、趙，以膠東〈鮑本膠東國。故齊國。項紀註",
+      "note": "「困則使太后、穰侯為和，羸則兼欺舅與母。」以困、羸為條件，明說強弱一變便連舅母也欺，交代了把親屬工具化與欺罔的行為機制，不是無機制的秦國污名",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "陳翠合齊燕",
+      "para_index": 2,
+      "para_id": "zhanguoce#462-p02",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "陳翠欲見太后，王曰：「太后方怒子，子其待之。」陳翠曰：「無害也。」遂入見太后曰：",
+      "note": "「何臞也？」以形貌切入，而太后自答「臞者，憂公子之且為質於齊也。」不是單一憂怒套語，而是明說母親因兒子將作人質而憂的內在狀態，分別承重親子關係與情緒生活",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "陳翠合齊燕",
+      "para_index": 3,
+      "para_id": "zhanguoce#462-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "陳翠曰：「人主之愛子也，不如布衣之甚也。非徒不愛子也，又不愛丈夫子獨甚。」太后曰",
+      "note": "「人主之愛子也，不如布衣之甚也。非徒不愛子也，又不愛丈夫子獨甚。」直接提出親子之愛的斷語；「今王之以公子為質也，且以為公子功而封之也。」再把取得功勞說成替兒子安排長遠封爵的必要途徑，兼及家庭傳承與個人成就",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "智伯欲襲衞",
+      "para_index": 1,
+      "para_id": "zhanguoce#484-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "智伯欲襲衞[2]，乃佯亡其太子，使奔衞。南文子曰：「太子顏〈鮑本顏，太子名。〉爲",
+      "note": "「太子顏爲君子也，甚愛而有寵，非有大罪而亡，必有故。」由父子身分、寵愛與並無大罪，推斷兒子出奔必有隱情；拆離襲衞計策仍保留一項親子關係與行為的判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "司馬憙三相中山",
+      "para_index": 1,
+      "para_id": "zhanguoce#494-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "司馬憙三相中山，陰簡難之。〈姚本陰簡，中山君美人也。難，惡也。　鮑本陰簡，姬名也",
+      "note": "「固無請人之妻不得而怨人者也」把他人之妻不可請求、被拒亦無由怨恨說成一般婚姻邊界，拆離說趙的計策仍成立；其餘是安排請婚的權術鏈",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "樂羊為魏將",
+      "para_index": 1,
+      "para_id": "zhanguoce#498-p01",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "樂羊為魏將，攻中山。其子時在中山，中山君烹之，作羹致於樂羊。樂羊〈鮑本「樂」下無",
+      "note": "正文「樂羊食子以自信，明害父以求法」直接呈現取信、求法與父子之道的倫理衝突；鮑本注文又明言「此害於父道，而羊為之」，因而同時涉及親子關係和品格判斷",
+      "co_domains": [
+        "VII"
       ]
     },
     {
