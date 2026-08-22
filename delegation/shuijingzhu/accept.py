@@ -227,9 +227,6 @@ def parse_spec():
         if mm:
             declared[code] = int(mm.group(1))
 
-    mm = re.search(r"`domains`\s*長度超過\s*(\d+)", clauses.get(9, ""))
-    max_domains = int(mm.group(1)) if mm else 3
-
     # 章名與段號同時掛兩表的段（條文之外的補述），只作 --check-spec 交叉對照
     cross = re.search(r"\*\*三段同時掛兩張表\*\*(.*?)\n\n", spec_text, re.S)
     cross_keys = [(ch, int(i)) for ch, i in INLINE_KEY_RE.findall(cross.group(1))] if cross else []
@@ -244,7 +241,6 @@ def parse_spec():
         "jing": jing,
         "clauses": clauses,
         "declared": declared,
-        "max_domains": max_domains,
         "cross_keys": cross_keys,
     }
 
@@ -514,7 +510,7 @@ def run(out_dir, wanted):
 
     live = {k: v for k, v in rows.items() if k in scope}
 
-    # A2 id 合法性 / A9 領域上限 / A10 reason 非空 / A13 worked_instance
+    # A2 id 合法性 / A9 N 格 N 承重句 / A10 reason 非空 / A13 worked_instance
     for key in sorted(live):
         row = live[key]
         doms = _list_field(row, "domains")
@@ -527,9 +523,10 @@ def run(out_dir, wanted):
                 fails.append("A2 %s[%d] 非法 mode：%r" % (key[0], key[1], m))
         if len(doms) != len(set(doms)):
             fails.append("A2 %s[%d] domains 有重複" % key)
-        if len(doms) > spec["max_domains"]:
-            fails.append("A9 %s[%d] 標了 %d 個領域，上限 %d"
-                         % (key[0], key[1], len(doms), spec["max_domains"]))
+        nq = len(extract_reason_quotes(row.get("reason", "")))
+        if len(doms) > nq:
+            fails.append("A9 %s[%d] 標了 %d 個領域，reason 只有 %d 條逐字承重句"
+                         % (key[0], key[1], len(doms), nq))
         if not str(row.get("reason", "")).strip():
             fails.append("A10 %s[%d] reason 空白" % key)
         if "worked_instance" in modes:
