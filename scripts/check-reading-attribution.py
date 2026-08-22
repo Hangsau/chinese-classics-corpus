@@ -14,7 +14,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 CH_RE = re.compile(r'^##\s+(.+?)（\d+\s*段）\s*$')
 PARA_RE = re.compile(r'^\[(\d+)\]\s*(.*)$')
-IDX_RE = re.compile(r'^\[(\d+)\]$')
+# 段序欄有時附註經注別，寫成 [2]（注）
+IDX_RE = re.compile(r'^\[(\d+)\]\s*(?:[（(][^）)]*[）)])?$')
 QUOTE_RE = re.compile(r'「([^「」]+)」')
 
 
