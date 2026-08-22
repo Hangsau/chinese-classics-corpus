@@ -1,0 +1,110 @@
+{
+  "batch": "b51.md",
+  "rows": [
+    {
+      "chapter": "蘇秦為楚合從說韓王",
+      "para_index": 1,
+      "domains": ["II", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「寧為雞口，無為牛後。」把人在大小兩種權力位置間如何選擇身分與尊嚴說成可拆離韓秦局勢的通則，因此同時涉及自我身分與支配關係"
+    },
+    {
+      "chapter": "蘇秦為楚合從說韓王",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "expression"],
+      "reason": "「寡人雖死，必不能事秦。」是韓王對事秦與合從的當場決意，前置的忿怒動作只是敘事套語，未展開情緒機制，死亡也只是誓決語"
+    },
+    {
+      "chapter": "張儀為秦連橫說韓王",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「諸侯不料兵之弱，食之寡，而聽從人之甘言好辭，比周以相飾也，皆言曰：『聽吾計則可以強霸天下。』」「夫不顧社稷之長利，而聽須臾之說，詿誤人主者，無過於此者矣。」指出人主受甘言與短說誤導而放棄長利的領導失責機制，拆離秦韓軍勢仍是對權力判斷與操守的斷語"
+    },
+    {
+      "chapter": "張儀為秦連橫說韓王",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["narrative", "observation"],
+      "reason": "鮑彪注文「橫人之辭，真所謂虛喝者。」本身是品題，但其後「惜乎世主不少察於此也。」概括世主常不能察破虛喝，後一句使本段形成對領導辨察的斷語"
+    },
+    {
+      "chapter": "宣王謂摎留[2]",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "正文「今王兩用之，其多力者內樹其黨，其寡力者籍外權。」提出官員依權勢結黨或借外援的機制；補曰注文「是以帝王之要，知人而后官人，九經之序，尊賢而后敬大臣，則無患乎此矣。」又明定知人任官的領導準則"
+    },
+    {
+      "chapter": "張儀謂齊王[3]",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「王不如資韓朋，與之逐張儀於魏。」以及其後廢韓朋、相公叔、伐秦的連鎖，都是外交用人方案與形勢預測，人物只作行動單位，沒有提出可拆離此局的人的斷語"
+    },
+    {
+      "chapter": "楚昭獻相韓",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「不如貴昭獻以固楚，秦必曰楚、韓合矣。」只提出藉任用昭獻製造楚韓聯合表象的外交條件，正文其餘交代相韓與被廢的史事"
+    },
+    {
+      "chapter": "秦攻陘",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「國形不便故馳，交不親故割。」「今王攻韓，是絕上交而固私府也，竊為王弗取也。」推演的是地勢、邦交與財利後果，並據此勸秦王止攻，沒有對人的斷語"
+    },
+    {
+      "chapter": "五國約而攻秦",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「五國罷，必攻市丘，以償兵費。君資臣，臣請為君止天下之攻市丘。」是魏順對戰後攻勢的預測與解圍提案，段末只敘其受遣"
+    },
+    {
+      "chapter": "五國約而攻秦",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "正曰注文「楚王為從長，不知諸侯與己之深淺，始欲卜交，宜乎秦以折箠笞之。」以未辨盟友向背和遭受敗績相連，給出具體的領導失當理由與後果，不是無理由的品題"
+    },
+    {
+      "chapter": "鄭彊載八百金入秦",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「而幾瑟，公叔之讎也；而昭獻，公叔之人也。秦王聞之，必疑公叔為楚也。」把人物敵友關係當作使秦王起疑的計謀條件，仍是此一外交操弄鏈，沒有評價人可怎樣活或何以如此"
+    },
+    {
+      "chapter": "鄭彊之走張儀於秦",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「張儀使人致上庸之地，故使使臣再拜謁秦王。」是鄭彊用來激怒秦王的假訊息；「秦王怒，張儀走。」只交代騙局結果，怒是敘事套語而非內在生活的展開"
+    },
+    {
+      "chapter": "宜陽之役[4]",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「不然，秦攻西周，天下惡之，其救韓必疾，則茂事敗矣。」只推演攻西周如何使甘茂失敗；九鼎在段中是壓倒政敵的籌碼，不構成超越領域"
+    },
+    {
+      "chapter": "秦圍宜陽",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「公何不與趙藺、離石、祁，以質許地，則樓緩必敗矣。」以下逐國推演合兵、背秦與諸臣失敗，是盟地兵勢的連鎖方案，沒有獨立的人性斷語"
+    },
+    {
+      "chapter": "公仲以宜陽之故仇甘茂[5]",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「秦王固疑甘茂之以武遂解於公仲也。」與「秦王大怒於甘茂，故樗里疾大說杜聊。」只串起設疑、進言與結果；疑怒是情節狀態，未展開內在生活或人的通則"
+    }
+  ]
+}

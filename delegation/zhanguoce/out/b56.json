@@ -1,0 +1,180 @@
+{
+  "batch": "b56.md",
+  "rows": [
+    {
+      "chapter": "建信君輕韓熙",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「秦舉兵破邯鄲，趙必亡矣。」把結論繫於秦的進兵與趙國存亡；全段由韓、魏、秦、趙的合從連橫推到「故君收韓」，只是外交條件與國勢推演，沒有獨立的人性斷語"
+    },
+    {
+      "chapter": "段產謂新城君[5]",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「夫宵行者能無為姦，而不能令狗無吠己。」以行人為主詞，且「能無議君於王，而不能令人毋議臣於君。」把譬喻轉成自守仍不能控制他人評議的社會斷語"
+    },
+    {
+      "chapter": "段干越人謂新城君[6]",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["proposition", "expression"],
+      "reason": "「馬，千里之馬也；服，千里之服也。而不能取千里，何也？」先說能力受細小牽制而不能發揮；「今臣雖不肖，於秦亦萬分之一也，而相國見臣不釋塞者，是纆牽長也。」再把譬喻落到自己被阻塞、不能任事的處境"
+    },
+    {
+      "chapter": "蘇秦將為從北說燕文侯",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "「地方二千餘里，帶甲數十萬，車七百乘，騎六千疋，粟支十年。」列算疆域、兵力與糧食；「秦之攻燕也，戰於千里之外；趙之攻燕也，戰於百里之內。」以距離推演攻守與結盟，都是國勢計算"
+    },
+    {
+      "chapter": "蘇秦將為從北說燕文侯",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「合從以安燕，敬以國從。」是燕王接受外交方案，「於是齎蘇秦車馬金帛以至趙。」接著交代使者行動，只增添盟國交往的史事"
+    },
+    {
+      "chapter": "奉陽君李兌甚不取於蘇秦",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "narrative"],
+      "reason": "「齊、燕離則趙重，齊、燕合則趙輕。」只計算兩國離合對趙國權重的影響；正曰注文則考辨奉陽君身分、蘇秦或蘇代及策事年代，沒有提出人生領域的斷語"
+    },
+    {
+      "chapter": "奉陽君李兌甚不取於蘇秦",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「何吾合燕於齊？」只是奉陽君針對前一項外交判斷的追問，作用是銜接對話，沒有自足的對人主張"
+    },
+    {
+      "chapter": "奉陽君李兌甚不取於蘇秦",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「燕、齊疑，則趙重矣。齊王疑蘇秦，則君多資。」把交結蘇秦當作離間燕、齊並增加趙國籌碼的手段；全段是外交因果鏈與選邊建議"
+    },
+    {
+      "chapter": "奉陽君李兌甚不取於蘇秦",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「乃使使與蘇秦結交。」只記奉陽君採納建議後付諸外交行動的結果"
+    },
+    {
+      "chapter": "權之難燕再戰不勝",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「不如以埊請合於齊，趙必救我。」是以割地請和促使趙出兵的權宜策；「趙聞之，遂出兵救燕。」只交代計策奏效的戰事結果"
+    },
+    {
+      "chapter": "燕文公時",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「文公卒，易王立。齊宣王因燕喪攻之，取十城。」依次交代王位更迭與齊國攻城，是純史事框架"
+    },
+    {
+      "chapter": "燕文公時",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "ritual"],
+      "reason": "「武安君蘇秦為燕說齊王，再拜而賀，因仰而弔。」記蘇秦以相反的賀弔儀節開啟遊說，齊王隨後的反問只是情節反應"
+    },
+    {
+      "chapter": "燕文公時",
+      "para_index": 3,
+      "domains": ["X"],
+      "modes": ["proposition"],
+      "reason": "「人之飢所以不食烏喙者，以為雖偷充腹，而與死同患也。」離開燕、秦的譬喻仍說明人在飢餓中也會避開伴隨死亡的選項，承重的是對死亡風險的取捨；後半國勢比附不另加領域"
+    },
+    {
+      "chapter": "燕文公時",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「然則柰何？」只是齊王要求蘇秦提出對策的對話過門，本段沒有主張或心理機制"
+    },
+    {
+      "chapter": "燕文公時",
+      "para_index": 5,
+      "domains": ["XI", "XIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「聖人之制事也，轉禍而為福，因敗而為功。」主張人能改變禍敗的走向；「王能聽臣，莫如歸燕之十城，卑辭以謝秦。」又提出敗後修復關係、重建局面的具體做法"
+    },
+    {
+      "chapter": "燕文公時",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「齊王大說，乃歸燕城。」中的大說是採納遊說時的敘事套語，其餘只記還城、致金與向秦請罪的外交結果"
+    },
+    {
+      "chapter": "人有惡蘇秦於燕王者",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation", "narrative"],
+      "reason": "「武安君，天下不信人也。」是惡蘇秦者對具體人物所下的孤立品題；「示天下與小人群也。」仍只是藉標籤勸王疏遠他，沒有行為機制"
+    },
+    {
+      "chapter": "人有惡蘇秦於燕王者",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["expression", "proposition"],
+      "reason": "「臣之不信，是足下之福也。」只是在特定君臣利害中為自己辯護；「三者天下之高行，而以事足下，不可乎？」把信、廉、孝列作高行後提出假設，尚未給出這些品格何以影響人的通則"
+    },
+    {
+      "chapter": "人有惡蘇秦於燕王者",
+      "para_index": 3,
+      "domains": ["VII", "VIII"],
+      "modes": ["proposition", "expression"],
+      "reason": "「且夫信行者，所以自為也，非所以為人也。皆自覆之術，非進取之道也。」直接判斷忠信之行的品格意義，並把自守與成事進取分作兩條人生道路"
+    },
+    {
+      "chapter": "人有惡蘇秦於燕王者",
+      "para_index": 4,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「夫忠信，又何罪之有也？」以反問斷言忠信本不應成為罪責，直接提出品格與可責性的判準"
+    },
+    {
+      "chapter": "人有惡蘇秦於燕王者",
+      "para_index": 5,
+      "domains": ["VII", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「忠至如此然不免於笞，此以忠信得罪者也。」用妾覆藥酒的故事指出善行可能反受責罰；「臣恐天下後事足下者，莫敢自必也。」又說領導者如此待人會動搖後來者的信任與效忠"
+    },
+    {
+      "chapter": "張儀為秦破從連橫謂燕王",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "正文「因反斗而擊之，代王腦塗地。」只是弒代的史事；命中來自鮑本補曰注文轉引《古史》的判斷：「襄子夏屋之役（見史記），行如虎狼，蓋生於兼并無親之國，而承簡子貪暴之規，遂以為臨大利，決大計，非用仁義之所也。」它明說環境與所承規範如何形成臨利棄義的品格"
+    },
+    {
+      "chapter": "張儀為秦破從連橫謂燕王",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「夫趙王之狼戾無親，大王之所明見知也。」是對具體君主的品題，隨即用來推演秦趙兵勢與勸燕事秦；「是西有強秦之援，而南無齊、趙之患」仍是外交選邊的條件結果"
+    },
+    {
+      "chapter": "張儀為秦破從連橫謂燕王",
+      "para_index": 3,
+      "domains": ["IV"],
+      "modes": ["expression", "proposition"],
+      "reason": "正文「雖大男子，裁如嬰兒，言不足以求正，謀不足以決事。」是燕王在外交場景中的卑辭；命中來自鮑彪注文：「且人之性稟，有父子不相肖者，自襄至武靈七八傳矣，而欲以其狼戾無親例之，人豈信之哉？」注文明說父子性稟可以不同，觸及家庭傳承"
+    },
+    {
+      "chapter": "宮他為燕使魏",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "正文「故大亂者可得其埊，小亂者可得其寶。」只是利用鄰國亂局的策略；命中來自鮑彪注文：「是客也，以鄰國為壑者也，彼惡知所謂天下為度者乎？」注文以是否拿鄰國作犧牲、能否以天下為尺度，同時提出公共責任與品格判準"
+    }
+  ]
+}

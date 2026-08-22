@@ -1,0 +1,131 @@
+{
+  "batch": "b55.md",
+  "rows": [
+    {
+      "chapter": "謂鄭王[1]",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "narrative"],
+      "reason": "「昭釐侯，一世之明君也；申不害，一世之賢士也。」只是無理由、無標準的品題；「夫弱魏之兵，而重韓之權，莫如朝魏。」則是在計算朝魏與尊秦的列國利害"
+    },
+    {
+      "chapter": "謂鄭王[1]",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition", "narrative"],
+      "reason": "「昔先王之攻，有為名者，有為實者。為名者攻其心，為實者攻其形。」把吳、越舊事分成攻心與攻形兩種用兵方略；「今將攻其心乎，宜使如吳；攻其形乎，宜使如越。」仍是致勝條件而非對人的斷語"
+    },
+    {
+      "chapter": "謂鄭王[1]",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition", "narrative"],
+      "reason": "「夫先與強國之利，強國能王，則我必為之霸；強國不能王，則可以辟其兵，使之無伐我。」只列先事強國的兩種政治收益；正曰注文「其說雖多，務尊強國而已，非善謀也。」也是對此策的策略評語，沒有提出人的行為機制"
+    },
+    {
+      "chapter": "韓陽役於三川而欲歸",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「韓陽役於三川而欲歸」交代欲歸之事，「役且共貴公子。」是足強用來促成召還的特定情勢說辭，末句只記韓王召諸公子歸國的結果"
+    },
+    {
+      "chapter": "秦大國",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「美人知內行者也，故善為計者，不見內行。」不只交代韓、秦得失，也把不顯露內情列為計者是否善於謀劃的能力標準，故落在才能與工作方法"
+    },
+    {
+      "chapter": "張丑之合齊楚講於魏",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "narrative"],
+      "reason": "「魏急，則必以地和於齊、楚，故公不如勿攻也。」與「戰勝，攻運而取之易矣。戰不勝，則魏且內之。」逐支計算魏國戰和與土地歸屬，末尾只敘張丑離間成功"
+    },
+    {
+      "chapter": "或謂韓相國",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「人之所以善扁鵲者，為有臃腫也；使善扁鵲而無臃腫也，則人莫之為之也。」把人對他人的親善繫於自身有無需求，拆離平原君與秦的情勢仍是人際依附的因果斷語"
+    },
+    {
+      "chapter": "公仲使韓珉之秦求武隧[2]",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "narrative"],
+      "reason": "「韓之事秦也，且以求武隧也，非弊邑之所憎也。」至「父兄惡珉，珉必以國保楚。」都是唐客就韓、楚任相與結盟所設的特定推演，末句只敘公仲因此任用唐客"
+    },
+    {
+      "chapter": "韓相公仲珉使韓侈之秦",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「韓辰患之，將聽之矣。」和「今王不召韓侈，韓侈且伏於山中矣。」是韓侈針對眼前任用去留的說辭；「召韓侈而仕之。」只記事件結果"
+    },
+    {
+      "chapter": "客卿為韓謂秦王",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「群臣比周以蔽其上，大臣為諸侯輕國也。」寫出結黨、蒙上與輕國的具體行為；「貴賤不相事，各得其位，輻湊以事其上，則群臣之賢不肖，可得而知也。」又把權位關係與臣下品格的辨識連起來，故命中社會權力與品格"
+    },
+    {
+      "chapter": "韓珉相齊",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「天下之不善公者，與欲有求於齊者，且收之，以臨齊而市公。」把敵意或有所求的動機與收納被逐者、藉此要挾的行為連起來，拆離兩名被逐者的去向仍是權力關係中的人際機制"
+    },
+    {
+      "chapter": "或謂山陽君",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "narrative"],
+      "reason": "「秦封君以山陽，齊封君以莒。」與「今楚攻齊取莒」只列封地及楚、齊、秦、韓的權勢變化；「齊、秦非重韓則賢君之行也。」是無標準的具體品題"
+    },
+    {
+      "chapter": "趙魏攻華陽",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「彼韓急，則將變矣。」只是韓國在危急時可能改變立場的形勢推演；「穰侯怒曰」是敘事套語，末尾亦只記秦軍救韓與華陽戰果"
+    },
+    {
+      "chapter": "秦招楚而伐齊[3]",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「齊、楚合，燕、趙不敢不聽。齊以四國敵秦，是齊不窮也。」與「以強秦而有晉、楚，則燕、趙不敢不聽，是齊孤矣。」只是逐支推演列國合縱後的強弱孤立，沒有對人的斷語"
+    },
+    {
+      "chapter": "韓氏逐向晉於周",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "narrative"],
+      "reason": "「周必寬而反之，王何不為之先言，是王有向晉於周也。」與「逐向晉者韓也，而還之者魏也，豈如道韓反之哉！」都是爭取復人之功與影響力的特定策略，末句只敘韓王請復向晉"
+    },
+    {
+      "chapter": "張登請費緤",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「費緤，西周讎之，東周寶之。」至「必盡其家以事王。西周惡之，必效先王之器以止王。」是在預算任守、獻器與解罪的連鎖結果，人物只作政治籌碼"
+    },
+    {
+      "chapter": "安邑之御史死[4]",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「彼固有次乎？吾難敗其法。」是輸人為促使安令立刻補任而轉述的特定王言，全文只交代利用任官次序達成置吏的事件，未提出可拆離情境的人之斷語"
+    },
+    {
+      "chapter": "魏王為九里之盟",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「大國惡有天子，而小國利之。」只把復立天子對大小國的利害作國際形勢判斷；天子在此是盟會中的政治位置，沒有信仰或超越主張"
+    }
+  ]
+}

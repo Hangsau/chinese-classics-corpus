@@ -1,0 +1,152 @@
+{
+  "batch": "b53.md",
+  "rows": [
+    {
+      "chapter": "楚圍雍氏韓令冷向借救於秦",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「公戰勝楚，逐與公乘楚，易三川而歸。」是在預測秦如何利用韓、楚交戰取利；正文與注文其餘內容也都是救援真偽、行軍及合縱選邊的史事與形勢推演"
+    },
+    {
+      "chapter": "公仲為韓魏易地",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「趙聞之，起兵臨羊腸，楚聞之，發兵臨方城，而易必敗矣。」只按趙、楚出兵推算換地能否成功，是針對當下國際局勢的策略鏈"
+    },
+    {
+      "chapter": "錡宣之教韓王取秦",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「王何不試以襄子為質於韓，令韓王知王之不取三川也。」是用質子傳遞秦國意圖、促成聯合的外交手段，拆離三川之爭只剩達成目的的條件式"
+    },
+    {
+      "chapter": "襄陵之役",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「戰未必勝，請為子起兵以之魏。」及其後使楚、魏諸人感德，都是避免交戰以換取政治利益的策畫，沒有獨立的人性或德性主張"
+    },
+    {
+      "chapter": "公叔使馮君於秦",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「馮君廣王而不聽公叔，以與太子爭，則王澤布，而害於韓矣。」只預測資助特定人物後的宮廷權力結果，是任用與奪位的形勢推演"
+    },
+    {
+      "chapter": "謂公叔曰公欲得武遂於秦",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「秦王聽，是令得行於萬乘之主也。」把秦是否答應求地作為楚、韓關係變化的條件，通段是求武遂與離間結盟的外交算計"
+    },
+    {
+      "chapter": "謂公叔曰乘舟",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「乘舟，舟漏而弗塞，則舟沉矣。」以舟為主詞鋪設比喻，落點只是勸公叔不可因能應付薛公便輕視秦國，仍是特定政治風險的警告"
+    },
+    {
+      "chapter": "齊令周最使鄭",
+      "para_index": 1,
+      "domains": ["VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「怒於室者色於市。」把一處的怒意如何外現於另一處說成可脫離齊、韓使事而成立的情緒斷語，故命中情緒與內在生活"
+    },
+    {
+      "chapter": "齊令周最使鄭",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「犬猛不可叱，叱之必噬人。」是以犬為主詞的寓言鋪陳；其後只依使者與公叔是否有交情，推算鄭王會不會答應廢立"
+    },
+    {
+      "chapter": "韓公叔與幾瑟爭國鄭強為楚王使於韓",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「韓氏急，必縣命於楚，又何新城、陽人敢索？」是鄭強為矯命辯護的國勢條件鏈，所談皆魏、韓、楚如何因戰局行動"
+    },
+    {
+      "chapter": "韓公叔與幾瑟爭國中庶子強謂太子",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "命中來自注文：鮑彪注文「幾瑟之及此言也，義嗣也，而卒不得立，小人勝故也。」以發言品評其義；正曰注文「幾瑟之不欲戰，慮國之分耳，非有息民全民之意、退讓之美也，何義嗣之足稱乎？」又以動機及退讓之美作反駁，兩注共同提出品格判準"
+    },
+    {
+      "chapter": "齊明謂公叔",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「楚聽，是齊、楚合，而幾瑟走也；楚王不聽，是有陰於韓也。」只列楚王接受或拒絕要求時的結盟後果，是廢立鬥爭中的兩路推演"
+    },
+    {
+      "chapter": "公叔將殺幾瑟",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「太子之重公也，畏幾瑟也。今幾瑟死，太子無患，必輕公。」直接說明一段倚重關係由共同威脅維繫，威脅消失便會轉輕，拆離殺幾瑟之策仍是對權力關係動機的斷語"
+    },
+    {
+      "chapter": "公叔且殺幾瑟",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「伯嬰外無秦、楚之權，內無父兄之眾，必不能為亂矣。」只由外援與宗族勢力推算伯嬰能否作亂，通段人物均是繼承鬥爭中的行動單位"
+    },
+    {
+      "chapter": "謂新城君曰",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「公挾秦、楚之重，以積德於韓，則公叔、伯嬰必以國事公矣。」把積德掛在取得韓國政事的致利條件上，全文是質子、結盟與孤立齊魏的形勢推演"
+    },
+    {
+      "chapter": "胡衍之出幾瑟於楚",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「幾瑟入，必以韓權報讎於魏，而德王矣。」是在設計奉咎、請立太子來迫使楚王送回幾瑟的外交連鎖，沒有脫離奪位情境的人之斷語"
+    },
+    {
+      "chapter": "幾瑟亡之楚",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「韓絕於楚，其事秦必疾，秦挾韓親魏，齊、楚後至者先亡。」只按韓與秦、魏、齊、楚的親疏推算王業，是國際選邊的勝負條件"
+    },
+    {
+      "chapter": "冷向謂韓咎",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「公因以楚、韓之兵奉幾瑟而內之鄭，幾瑟得入而德公，必以韓、楚奉公矣。」是借築城引兵、迎立幾瑟以取得政治回報的具體計策"
+    },
+    {
+      "chapter": "楚令景鯉入韓",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "命中來自注文：鮑彪注文「太子，國子之本也，而紛紛不定若此，韓置相，其皆何事耶？」以國本追問執政責任；正曰注文轉引《大事記》「置嗣不定，大臣外連敵國，相與為市，國之不亡者幸也！」指出大臣把國事交易化的品格及亡國後果，故兼涉公共權責與善惡品格"
+    },
+    {
+      "chapter": "韓咎立為君而未定[1]",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「不立，則曰來效賊也。」與立則以財貨為戒構成兩面避險，所述只是周在韓咎能否立君兩種結果下的應變術"
+    },
+    {
+      "chapter": "史疾為韓使楚[2]",
+      "para_index": 1,
+      "domains": ["II", "V"],
+      "modes": ["proposition"],
+      "reason": "「今王之國有柱國、令尹、司馬、典令，其任官置吏，必曰廉潔勝任。今盜賊公行，而弗能禁也，此烏不為烏，鵲不為鵲也。」以官名、任職之稱與實際治績不符論名實，又以禁盜成效追究公共職分"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "batch": "b64.md",
+  "rows": [
+    {
+      "chapter": "昭王既息民繕兵[2]",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「昭王既息民繕兵，復欲伐趙。」交代再度伐趙的史事，後文是昭王追問前後軍事判斷何以不同，沒有對人的通則性斷語"
+    },
+    {
+      "chapter": "昭王既息民繕兵[2]",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「秦人歡喜，趙人畏懼。」是長平戰後兩國的具體狀態；「當今之時，趙未可伐也。」則是由守備、結親與蓄積推出的軍事結論，拆離此役不成為對人的斷語"
+    },
+    {
+      "chapter": "昭王既息民繕兵[2]",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「乃使五校大夫王陵將而伐趙。陵戰失利，亡五校。」是戰事經過；「況以彊擊弱，以眾擊寡乎？」是憑兵力比較作出的勝負推演，沒有獨立的人之主張"
+    },
+    {
+      "chapter": "昭王既息民繕兵[2]",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「秦中士卒，以軍中為家，將帥為父母，不約而親，不謀而信，一心同功，死不旋踵。」與「臣人一心，上下同力，猶勾踐困於會稽之時也。」都被用作解釋前次得勝、此次難勝的軍事條件；「皆計利形勢，自然之理，何神之有哉！」收束的也是形勢計算，並非自由命運或信仰超越的主張"
+    },
+    {
+      "chapter": "昭王既息民繕兵[2]",
+      "para_index": 5,
+      "domains": ["VII", "X"],
+      "modes": ["expression", "proposition"],
+      "reason": "「臣聞明主愛其國，忠臣愛其名。破國不可復完，死卒不可復生。臣寧伏受重誅而死，不忍為辱軍之將。」既以忠臣守名說明品格取捨，也直陳死亡與破敗不可挽回及寧死不受辱的態度"
+    },
+    {
+      "chapter": "姚氏校注戰國策後題",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["narrative", "observation"],
+      "reason": "「因高誘註，間有增續，簡質謹重，深得古人論撰之意，大與鮑氏率意竄改者不同。」以具體編注方法比較兩人的學術工作與成就"
+    },
+    {
+      "chapter": "姚氏校注戰國策後題",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["narrative", "prescription"],
+      "reason": "「為刪定官，忤秦檜，死大理獄。」交代姚宏在政治權力下的遭遇，而「其人尤當傳也。」據此主張此人應被公共記憶保存"
+    },
+    {
+      "chapter": "姚氏校注戰國策後題",
+      "para_index": 3,
+      "domains": ["VIII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "「異時當廣傳寫，使學者猶及見前輩典則，可仰可慕云。」主張保存並傳布版本，使後學得以承接前輩的學術工作典範"
+    },
+    {
+      "chapter": "戰國策後序",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["observation", "expression"],
+      "reason": "全段考列卷數、版本與逸文，末以「既無古書可以考證，第嘆息而已。某以所聞見，以為集注，補高誘之亡云。」自陳面對材料散佚所承擔的集注工作"
+    },
+    {
+      "chapter": "戰國策後序",
+      "para_index": 2,
+      "domains": ["VIII"],
+      "modes": ["observation", "proposition"],
+      "reason": "本段辨析後序作者及姚氏兄弟的注書關係，並說「因全錄著之左方，以俟博考者。」把保存材料供後人考證明定為編校工作的目的"
+    },
+    {
+      "chapter": "戰國策校注序",
+      "para_index": 1,
+      "domains": ["VII", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「夫史氏之法，具記一時事辭，善惡必書，初無所決擇。」界定史家的工作責任；「學者豈以是為不正，一舉而棄之哉？」又主張讀者應辨善惡而不因書中有惡便棄書"
+    },
+    {
+      "chapter": "戰國策校注序",
+      "para_index": 2,
+      "domains": ["VIII", "VII"],
+      "modes": ["observation", "proposition"],
+      "reason": "「彪於是考《史記》諸書為之注，定其章條，正其衍說，而存其舊，慎之也。」說明編注工作的實踐；「以之論是非，辨得失，而考興亡，亦有補於世。」又把道德辨析列為其公共目的"
+    },
+    {
+      "chapter": "戰國策校注序",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation", "prescription"],
+      "reason": "「劉氏定著三十三篇」以下只是列出國別篇數，並以「《西周》，正統也，不得後於《東周》，定為首卷。」交代一次具體卷次編排，沒有對人的生活或心理下斷語"
+    },
+    {
+      "chapter": "戰國策校注序",
+      "para_index": 4,
+      "domains": ["VIII"],
+      "modes": ["proposition", "expression"],
+      "reason": "「先哲言，校書如塵埃風葉，隨掃隨有。豈不信哉？尚有舛謬，以俟君子。」把校勘說成反覆而難以窮盡的工作，也自認成果仍有界限而待後人續成"
+    },
+    {
+      "chapter": "又",
+      "para_index": 1,
+      "domains": ["VIII", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「事莫大於存古，學莫善於闕疑。」提出學術工作的準則；「其不可定知者，闕焉可也，豈必強為傅會乎？」進一步把存疑而不強解定為求學者應守的誠慎品格"
+    },
+    {
+      "chapter": "又",
+      "para_index": 2,
+      "domains": ["VIII", "VII"],
+      "modes": ["observation", "proposition"],
+      "reason": "「淺陋如是，其致誤固宜。」把學識不足與注書錯誤連成因果，涉及工作能力；「皆悖義害正之甚者。」則對鮑彪所作的人物褒貶提出明確的善惡判斷"
+    },
+    {
+      "chapter": "又",
+      "para_index": 3,
+      "domains": ["VIII", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「觀《戰國》之事，取其大旨，不必字字為據。」提出讀史方法；「存其是而正其非，庶幾明事跡之實，求義理之當焉！」同時說明校注工作的求實目標與辨是非準則"
+    },
+    {
+      "chapter": "又",
+      "para_index": 4,
+      "domains": ["VII"],
+      "modes": ["proposition", "expression"],
+      "reason": "「夫人患理之不明耳！知至而識融，則異端雜說，皆吾進德之助，而不足以為病也。」主張理解透徹便能把異說化為德性成長的助力；「是非之在人心，天下之公也。」又把辨是非落在人心與進德上"
+    },
+    {
+      "chapter": "又",
+      "para_index": 5,
+      "domains": ["VII", "VIII"],
+      "modes": ["observation", "proposition"],
+      "reason": "「策乃史家者流，善惡兼書，初無決擇，其善者孔、孟之所不能違，若之何置之？」既論史家工作的記錄原則，也主張讀者須自行辨別善惡而不能因內容混雜便棄置"
+    },
+    {
+      "chapter": "又",
+      "para_index": 6,
+      "domains": ["V", "VII"],
+      "modes": ["observation", "proposition"],
+      "reason": "「戰國名義蕩然，攻鬬併吞，相詐相傾，機變之謀，唯恐其不深；捭闔之辭，唯恐其不工；風聲氣習，舉一世而皆然。」把一世的權力行為、群體風氣與道德失序連在一起；「君子所以舉而謂之邪說者，蓋通論當時習俗之敝，舉其重而名之也。」明示這是對社會習俗及善惡的整體判斷"
+    },
+    {
+      "chapter": "又",
+      "para_index": 7,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition"],
+      "reason": "「小人之於是書也，見其始利而終害，小得而大喪，則悔悟懲創之心生。」說明反省利害可以喚起悔悟；「使其得是書而究之，則將有不為者矣。」進一步主張閱讀與省察能改變原有行為"
+    }
+  ]
+}
