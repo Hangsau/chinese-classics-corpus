@@ -1,0 +1,208 @@
+{
+  "batch": "b29.md",
+  "rows": [
+    {
+      "chapter": "四國伐楚[1]",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「秦、楚之合，而燕、趙、魏不敢不聽，三國可定也。」收束的是各國合戰與聽從關係的形勢推演；整段所列戰勝、增兵、割地都只是定三國的策略條件"
+    },
+    {
+      "chapter": "楚懷王拘張儀",
+      "para_index": 1,
+      "domains": ["III"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「王惑於虞樂，必厚尊敬親愛之而忘子，子益賤而日疏矣。」把新寵如何使舊愛遭到疏遠的關係機制說了出來；靳尚用它威嚇鄭袖的工具性目的不使這句判空"
+    },
+    {
+      "chapter": "楚王將出張子",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「儀事王不善，臣請殺之。」是靳尚針對張儀此行提出的處置方案，只交代事件中的防範與殺害，沒有提出對人的通則性斷語"
+    },
+    {
+      "chapter": "楚王將出張子",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「楚、秦相難，則魏無患矣。」明示刺殺靳尚的目的在使秦楚交惡、解除魏患，整段是特定人物與國勢的連鎖算計"
+    },
+    {
+      "chapter": "楚王將出張子",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "補曰注文「杜忠言，惑邪說，玩弄於儀掌股之上，召寇衄師，喪國亡身，死有餘責。」以拒斥忠言、聽信邪說及招致國難的後果，評判君主的責任與品格"
+    },
+    {
+      "chapter": "秦敗楚漢中",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「王挾楚王，而與天下攻楚，則傷行矣。不與天下共攻之，則失利矣。」列的是拘留楚王後攻或不攻的外交利害，仁義語彙在此服務於盟誓與攻楚方案"
+    },
+    {
+      "chapter": "楚襄王為太子之時",
+      "para_index": 1,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「愛地不送死父，不義。臣故曰，獻之便。」明言土地利益不能凌駕送別亡父的親子義務，並以此作為應否獻地的品格判準"
+    },
+    {
+      "chapter": "楚襄王為太子之時",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「王明日朝群臣，皆令獻其計。」只是慎子安排楚王召集群臣議地的敘事過渡，未提出人的理由、標準或行為機制"
+    },
+    {
+      "chapter": "楚襄王為太子之時",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「與之信，攻之武。臣故曰與之。」把信與武分別用作先履行割地承諾、再行攻取的外交手段，是結盟能力與戰事安排的致利條件"
+    },
+    {
+      "chapter": "楚襄王為太子之時",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「今去東地五百里，是去戰國之半也，有萬乘之號而無千乘之用也，不可。」只以領土與兵力規模推算不可割地，屬國力條件和守地方案"
+    },
+    {
+      "chapter": "楚襄王為太子之時",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「楚亦不能獨守。臣請西索救於秦。」所說的是楚國無法獨守時向秦求援的外交方案；不義之名仍只在推演拒地後的國際處境"
+    },
+    {
+      "chapter": "楚襄王為太子之時",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「王發上柱國子良車五十乘，而北獻地五百里於齊。」以下依次部署獻地、守地、求秦三項行動，是把三策並行的程序與執行經過"
+    },
+    {
+      "chapter": "楚襄王為太子之時",
+      "para_index": 7,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "正曰注文「慎子不知擇其是非，決以大義，請皆用之，則兼其失矣。」以能否辨明是非、依大義決斷來評判臣下的政治責任與品格，不是無理由的國士品題"
+    },
+    {
+      "chapter": "女阿謂蘇子",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「太子不如善蘇子，蘇子必且為太子入矣。」是女阿替蘇子設計的特定傳話與自保方案，前後只推算楚王、太子和蘇子的政治去留"
+    },
+    {
+      "chapter": "蘇子謂楚王",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「夫進賢之難者，賢者用且使己廢，貴且使己賤，故人難之。」明說人因害怕自己失位降等而難以進賢，揭出妒忌、自利與公共用人的行為機制"
+    },
+    {
+      "chapter": "蘇秦之楚三日",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "expression"],
+      "reason": "「楚國之食貴於玉，薪貴於桂，謁者難得見如鬼，王難得見如天帝。」是蘇秦誇張表達物價與見王之難的機鋒；鬼與天帝只是比喻，不是超越主張"
+    },
+    {
+      "chapter": "楚王逐張儀於魏",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「不忠，王無以為臣；不信，王勿與為約。」把忠與信明定為任臣和締約的處人標準，拆離逐張儀的魏楚爭端後仍是關於品格及社會信任的規範"
+    },
+    {
+      "chapter": "張儀之楚貧",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「張儀之楚，貧。」只交代張儀初到楚國及舍人欲歸的故事起點，人物貧困與一時發怒尚未形成對人的斷語"
+    },
+    {
+      "chapter": "張儀之楚貧",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "expression"],
+      "reason": "「寡人之獨何為不好色也？」是楚王在張儀話術中的個別自答，只交代美色誘餌如何生效，沒有提出關於人的理由、標準或通則"
+    },
+    {
+      "chapter": "張儀之楚貧",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「南后、鄭褏聞之大恐。」是敘事套語，接著所寫贈金也只是兩人為阻止張儀帶回美人的情節，不能據一時恐懼填情緒領域"
+    },
+    {
+      "chapter": "張儀之楚貧",
+      "para_index": 4,
+      "domains": ["VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "補曰注文「愚謂，此正孟子所謂妾婦之道；莊生所謂所治愈下，則所得愈多者也。」以手段愈卑下反而所得愈多的關係，對張儀求用之術作出品格評判"
+    },
+    {
+      "chapter": "楚王令昭雎之秦重張儀",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「王不如復雎，而重儀於韓、魏。」是利用張儀、昭雎及秦韓魏人物親疏來保全方城的合縱連橫方案，沒有從特定國際鏈條中拆出人的斷語"
+    },
+    {
+      "chapter": "張儀逐惠施於魏",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「張儀逐惠施於魏。」只記惠施遭逐而投楚的事件起點，未對驅逐、接納或人物品格給出理由與標準"
+    },
+    {
+      "chapter": "張儀逐惠施於魏",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「而惠子窮人，而王奉之，又必德王。」只預測楚王送惠施入宋後，張儀與惠施兩名當事人各自感德的外交收益，是特定人脈交換的條件鏈"
+    },
+    {
+      "chapter": "五國伐秦（1）",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「楚將入之秦而使行和。」僅交代魏求和、惠施赴楚及楚欲使其入秦的軍事外交背景"
+    },
+    {
+      "chapter": "五國伐秦（1）",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「今施以魏來，而公入之秦，是明楚之伐而信魏之和也。」推算的是惠施入秦將如何分配楚魏的伐秦責任與求和利益，屬國際形勢和談判方案"
+    },
+    {
+      "chapter": "五國伐秦（1）",
+      "para_index": 3,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "正曰注文「赫陳楚陰請秦之謀以誑魏，今恐魏之折入秦，而復為是說，非有忠魏之心也。」以先前欺魏與此時恐魏入秦兩項行為，作為評斷杜赫是否忠誠的理由"
+    },
+    {
+      "chapter": "陳軫告楚之魏",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "「公不如以儀之言為資，而得復楚。」是左爽教陳軫反用張儀讒言、恢復楚國任用的權謀，後文只記該計成功"
+    },
+    {
+      "chapter": "秦伐宜陽",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「今山澤之獸，無黠於麋。」以下只敘麋與獵者鬥詐的動物寓言；「今諸侯明知此多詐，偽舉罔而進者必眾矣。」又落回各國如何困住韓侈的形勢預測"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "batch": "b27.md",
+  "rows": [
+    {
+      "chapter": "江乙說於安陵君",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "observation"],
+      "reason": "「君無咫尺之地，骨肉之親，處尊位，受厚祿」只交代安陵君的具體處境；「王過舉而已。」是對這一次受寵的回答，未提出可拆離情境的人性斷語"
+    },
+    {
+      "chapter": "江乙說於安陵君",
+      "para_index": 2,
+      "domains": ["V", "III"],
+      "modes": ["proposition"],
+      "reason": "「以財交者，財盡而交絕；以色交者，華落而愛渝。」把關係依附什麼說出來了，拆離安陵君固寵這件事仍是一句對人的斷語"
+    },
+    {
+      "chapter": "江乙說於安陵君",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「三年而弗言。」與其後江乙催問、安陵君答稱未得機會，都是前計尚未實施的情節推進，沒有另立對人的看法"
+    },
+    {
+      "chapter": "江乙說於安陵君",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative", "expression"],
+      "reason": "「大王萬歲千秋之後，願得以身試黃泉，蓐螻蟻」是安陵君針對楚王所作的殉身表態；「王大說，乃封壇為安陵君。」收束這次求寵事件，未把死亡或關係推成通則"
+    },
+    {
+      "chapter": "江乙說於安陵君",
+      "para_index": 5,
+      "domains": ["VII"],
+      "modes": ["observation", "prescription"],
+      "reason": "正文「江乙可謂善謀，安陵君可謂知時矣。」只是純人物品題；鮑彪注文「此非君子之言也。安陵君，妾婦也。江乙為之謀，又其卑者。安有君子而美此流哉？」則以君子不應讚美此類行止提出品格判準，故命中 VII"
+    },
+    {
+      "chapter": "江乙為魏使於楚",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「不蔽人之善，不言人之惡」和「左右俱曰『無有』，如出一口矣。」把不言權臣之惡、眾口一辭與亂政風險連起來，說的是公共言論與權力監督，不只是給州侯掛稱號"
+    },
+    {
+      "chapter": "郢人有獄三年不決",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「郢人有獄三年不決者，故令請其宅，以卜其罪。」是以求宅試探判案的情節；「郢人某氏，不當服罪，故其宅不得。」只判這一案件，未提出一般司法或人性原理"
+    },
+    {
+      "chapter": "郢人有獄三年不決",
+      "para_index": 2,
+      "domains": ["VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「謂而不得，有說色，非故如何也？」不是只報一個喜色，而是以所求未得卻面有喜色的不一致反推客人另有試探意圖，明說外顯情緒如何透露內在動機"
+    },
+    {
+      "chapter": "城渾出周",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「城渾出周，三人偶行，南游於楚，至於新城。」只是人物出行與抵達地點的敘事背景，沒有對人的評價、理由或行為機制"
+    },
+    {
+      "chapter": "城渾出周",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「新城、上梁相去五百里，秦人一夜而襲之，上梁亦不知也。」只用距離、行軍與邊防推出設置主郡的建議，屬形勢條件鏈，沒有對人的斷語"
+    },
+    {
+      "chapter": "城渾出周",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「城渾得之，遂南交於楚，楚王果以新城為主郡。」交代城渾得資、入楚及楚王採納建議的結果；「新城公大說」也是一次性情緒套語，不構成 VI"
+    },
+    {
+      "chapter": "韓公叔有齊魏",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「齊、魏必伐韓。韓氏急，必懸命於楚，又何新城、陽人之敢求？」是以諸國出兵、韓國求援推出土地不會被追索的政策鏈，人物只是外交行動單位"
+    },
+    {
+      "chapter": "楚杜赫說楚王以取趙",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「楚杜赫說楚王以取趙。王且予之五大夫，而令私行。」只交代杜赫受命及預定官賞，是後文論賞的事件背景"
+    },
+    {
+      "chapter": "楚杜赫說楚王以取趙",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「赫不能得趙，五大夫不可收也，得賞無功也。得趙而王無加焉，是無善也。」把賞與功績是否相稱列為評判，說明領導者如何公平認可成就；「王不如以十乘行之，事成，予之五大夫。」再據此提出辦法"
+    },
+    {
+      "chapter": "楚杜赫說楚王以取趙",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative", "observation"],
+      "reason": "「杜赫怒而不行。」是一次性的情緒與行動交代；「是不能得趙也。」只是陳軫對其辦事能力的具體判斷，沒有行為機制或一般標準"
+    },
+    {
+      "chapter": "楚王問於范環",
+      "para_index": 1,
+      "domains": ["VIII", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「甘茂事之，取十官而無罪，茂誠賢者也，然而不可相秦。」以歷次任職結果評估甘茂的才幹，且整段直接用於擇相；「夫公孫郝之於秦王，親也。少與之同衣，長與之同車」又以君臣關係判斷人選，涉及才能任用與領導權力"
+    },
+    {
+      "chapter": "蘇秦為趙合從說楚威王",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「楚強則秦弱，楚弱則秦強，此其勢不兩立。」是國勢推演；「治之其未亂，為之其未有也；患至而後憂之，則無及已。」在此只作及早合從的致策條件，未另行斷定人是什麼樣的"
+    },
+    {
+      "chapter": "蘇秦為趙合從說楚威王",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「從合則楚王，橫成則秦帝。」把盟約選擇直接換算為國際權位；後宮美人、良馬等只是遊說所列利益，沒有對關係、欲望或人的通則"
+    },
+    {
+      "chapter": "蘇秦為趙合從說楚威王",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative", "observation"],
+      "reason": "「秦，虎狼之國也，有吞天下之心。」是對敵國的動員式品題，沒有給出行為機制；本段其餘是六國地形兵力的合從推演"
+    },
+    {
+      "chapter": "蘇秦為趙合從說楚威王",
+      "para_index": 4,
+      "domains": ["VI", "V"],
+      "modes": ["expression", "proposition"],
+      "reason": "正文「寡人臥不安席，食不甘味，心搖搖如懸旌，而無所終薄。」不是單一「大恐」套語，而是第一人稱連續陳述失眠、失味與心無所泊的內在焦灼，故命中 VI；鮑彪注文「五國之聽蘇子也，革面而已，非能深究橫、從之利害也。唯威王雅有難秦之心，念之熟矣。」以是否深究利害、熟思國患評判君主的決策與領導，故命中 V"
+    }
+  ]
+}
