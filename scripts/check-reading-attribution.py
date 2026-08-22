@@ -60,15 +60,28 @@ def check(slug: str, report: Path, batches: dict):
     kinds = {'掛錯段': 0, '異體字': 0, '查無': 0}
     problems = []
     folded = {k: fold(v[1]) for k, v in batches.items()}
+    section = '(前言)'
+    seen, parsed = {}, {}
     for lineno, line in enumerate(report.read_text(encoding='utf-8').splitlines(), 1):
+        if line.startswith('## '):
+            section = line[3:].strip()
+            continue
         if not line.startswith('|'):
             continue
         cells = [c.strip() for c in line.strip().strip('|').split('|')]
         if len(cells) < 3:
             continue
+        if cells[1] == '段序':      # 這張表宣告了段序欄，底下每一列都該解析得到
+            seen[section] = seen.get(section, 0)
+            continue
+        if set(cells[1]) <= set('-: '):
+            continue
+        if section in seen:
+            seen[section] += 1
         m = IDX_RE.match(cells[1])
         if not m:
             continue
+        parsed[section] = parsed.get(section, 0) + 1
         rows += 1
         chapter, idx = norm_chapter(cells[0]), int(m.group(1))
         key = (chapter, idx)
@@ -90,15 +103,19 @@ def check(slug: str, report: Path, batches: dict):
             kinds[kind] += 1
             problems.append(
                 f'  L{lineno} {kind} {chapter}[{idx}]：「{q[:28]}」{where}')
+    # 「0 錯」可能只是解析器沒咬到：宣告了段序欄卻一列都沒解析出來要當失敗
+    skipped = [(s, n) for s, n in seen.items() if n and not parsed.get(s)]
     bad_quote = sum(kinds.values())
     print(f'{report.name}  表列 {rows}  引句 {quotes}  段不存在 {bad_key}  '
           f'引句不合 {bad_quote}（掛錯段 {kinds["掛錯段"]} '
           f'異體字 {kinds["異體字"]} 查無 {kinds["查無"]}）')
+    for s, n in skipped:
+        print(f'  ⚠ 整節未解析：{s}（{n} 列有段序欄卻一列都沒咬到，格式可能又漂移了）')
     for p in problems[:40]:
         print(p)
     if len(problems) > 40:
         print(f'  …另有 {len(problems) - 40} 條')
-    return rows, quotes, bad_key + bad_quote
+    return rows, quotes, bad_key + bad_quote + len(skipped)
 
 
 def main():
