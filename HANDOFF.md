@@ -9,7 +9,9 @@
 
 **2026-08-24：`qunshu-zhiyao`（群書治要）整部移出本庫**，raw、meta、83 個發包批次與 catalog 條目一併刪除，理由見第 17 條。三巨頭剩下的兩部已全數標完，**巨型書階段結束**。
 
-`verify.py`：71 部、9,695,527 bytes、**0 errors、16 warnings**（警告數 6 → 14 是因為擴檢，不是變差；14 → 12 是重抓戰國策與群書治要修掉的，見下方章標籤一節；12 → 15 是新入庫的方言、急就篇、說文解字帶進來的同類章標籤警告；**15 → 16 是 2026-08-11 修好截斷偵測器後咬到的焦氏易林**，見已知風險）。
+**2026-08-24：自 religions-history 收入五部諸子**——`huainanzi` 397 段／`mozi` 734／`wenzi` 190／`jiayi-xinshu` 279／`lujia-xinyu` 184，合計 **1,784 段**。使用者 2026-08-24 明示「收過來本庫沒關係，目前功能不太一樣」，**這是對 `CLAUDE.md`「已在宗教庫者一律不重複收」的一次明確豁免，只對這五部有效，不是通則**。`raw/` 逐位元組複製、SHA-256 與來源庫對拍相同，未經本庫爬蟲；每部 `meta.json` 的 `notes` 記了出處與裁決。`huainanzi` 入庫時去重一章——來源的〈墜形訓〉與〈墬形訓〉是 Wikisource 重導向造成的位元組相同重出，`assert` 確認內容全等後刪前者、保留正名，23→22 章、checksum 重算（前例：韓非子〈八奸〉／〈八姦〉）。
+
+`verify.py`：**76 部、10,821,535 bytes、0 errors、19 warnings**（警告數 6 → 14 是因為擴檢，不是變差；14 → 12 是重抓戰國策與群書治要修掉的，見下方章標籤一節；12 → 15 是新入庫的方言、急就篇、說文解字帶進來的同類章標籤警告；**15 → 16 是 2026-08-11 修好截斷偵測器後咬到的焦氏易林**，見已知風險；16 → 19 是新收五部裡 `wenzi`／`jiayi-xinshu`／`lujia-xinyu` 的序號章標籤）。
 
 | 部 | 段數 | 已判讀 | 命中領域 |
 |---|---|---|---|
@@ -358,6 +360,48 @@
 4. **一個邊界案例已記進 `psych_survey`，不要當穩固前例引用**：卷二 #112「言園圃種米，及殖果蓏，貧者食之，以免飢饉」判 IX+XIII。IX 站得住（有人在飢饉裡，文本在寫那件事），XIII 則是注家客觀說明園圃功用、沒有人替自己的處境開口，與鹽鐵論以下立的 XIII 觸發條件不完全相合。
 
 **小學四部至此全部標完**，四部合計 7,682 段，輪廓分成兩端（釋名 89% 判空／12 領域 vs 說文 99.3%、方言 98.7%、急就篇 96%）。**分界不在類別在方法**：聲訓解字必須說出「為什麼這樣叫」，理由就是對人的判斷；登錄字形、方俗異名與姓名字則不必。
+
+## 未標存量（2026-08-24 全量盤點，31 部／8,842 段／1,171,321 字）
+
+> 數字由 `split_paragraphs` 現算，不是抄的。**分組是「動工前還要做什麼」，不是價值排序**——`CLAUDE.md` §1 禁止憑書名或類別判定標註價值。
+>
+> 重算（未標＝沒有 `annotations.json` 者）：
+>
+> ```bash
+> PYTHONIOENCODING=utf-8 python -c "
+> import glob,os,sys; sys.path.insert(0,'scripts')
+> from corpus_text import split_paragraphs
+> for m in sorted(glob.glob('translations/*/meta.json')):
+>     d=os.path.dirname(m)
+>     if os.path.exists(os.path.join(d,'annotations.json')): continue
+>     ps=split_paragraphs(open(os.path.join(d,'raw','original.txt'),encoding='utf-8').read())
+>     n=sum(len(t) for _,_,_,t in ps); c=len(set(c for _,c,_,_ in ps))
+>     print(f'{os.path.basename(d):24s} {len(ps):5d}段 {n:7d}字 {n//max(1,len(ps)):5d}字/段 {c:3d}章')
+> "
+> ```
+
+**A. 可直接排批次（切段健康、章名可當錨點）——10 部、4,216 段**
+
+| 部 | 類 | 段 | 字 | 字/段 | 章 |
+|---|---|---|---|---|---|
+| `lushi-chunqiu` | 雜家 | 736 | 131,483 | 178 | 160 |
+| `mozi` | 墨家 | 734 | 90,414 | 123 | 53 |
+| `wuyue-chunqiu` | 雜史 | 493 | 49,942 | 101 | 38 |
+| `wenxin-diaolong` | 文論 | 424 | 48,401 | 114 | 52 |
+| `huainanzi` | 雜家 | 397 | 158,992 | 400 | 22 |
+| `jinlouzi` | 人論 | 515 | 64,863 | 125 | 17 |
+| `yanzi-chunqiu` | 雜史 | 218 | 50,430 | 231 | 215 |
+| `yuejueshu` | 雜史 | 307 | 38,206 | 124 | 19 |
+| `yi-zhoushu` | 雜史 | 175 | 56,233 | 321 | 66 |
+| `yulizi` | 雜著 | 217 | 50,298 | 231 | 182 |
+
+**B. 序號章標籤佔多數，發包前先補錨點——3 部、653 段**：`wenzi`（12/12 序號）、`jiayi-xinshu`（10/11）、`lujia-xinyu`（12/15）。**這不是硬阻擋**——`kongcongzi`（19/19 序號）、`shuowen-jiezi`、`qianfulun`、`fengsu-tongyi`、`shuijingzhu` 都是帶著同款警告標完的。做法是在 `MANIFEST` 與 SPEC 裡把序號章補上實際篇名（`卷一` → `卷一（道原）`），**不動 `raw/original.txt`**（動了破 SHA-256）。
+
+**C. 卡在上游「一章＝一段」缺陷，必須先做句讀切分——5 部、132 段**：`heguanzi` 19 段/19 章（997 字/段）、`zhonglun` 35/25（695）、`guiguzi` 72/21（546）、`yandanzi` 5/4（765）、`sanzijing` 1/1（1,411）。**重抓沒有用**——Wikisource 把整章包在單一 block element 裡，`extract_main_text()`（`scripts/download-*.py` 254–271 行）沒有 `\n` 可切。要寫一支標點＋語意雙軌的切分器，切完的段落序另存、不覆蓋 raw。**這是獨立工程，不要混進標註批次。**
+
+**D. 短小可成組發包——6 部、499 段**：`houheixue` 83、`qijing` 15、`lusheng-mobian-zhuxu` 4、`mu-tianzi-zhuan` 107、`xijing-zaji` 146、`songjingwen-gong-biji` 144。同體裁成組發包時試點只需做一次（§下一步第 5 條）。
+
+**E. 動工前先判體裁閘門歸屬——7 部、3,342 段**：`yilin` 1,321 段（類書輯句，43 字/段）、`shanhaijing` 843（術數，55 字/段）、`zhushu-jinian` 351（編年，34 字/段）、`jiaoshi-yilin` 258（**上游截斷：4 章 vs 應有 16，先補全再說**）、`zhoubi-suanjing` 243、`sunzi-suanjing` 217、`chuci` 109。前四部都是超短段密集型，**判空率會很高，但不得憑此跳過通讀**（`CLAUDE.md` Anti-pattern 第二條）。`chuci` 與 `shanhaijing` 的 `category` 已知標錯，**必須標完再改**（§下一步第 2c 條）。
 
 ## 下一步
 

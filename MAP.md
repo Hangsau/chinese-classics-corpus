@@ -1,6 +1,8 @@
 # 導航地圖
 
 > 冷啟動先讀本檔 §決策索引 + §踩雷點，別窮舉讀檔。狀態見 `HANDOFF.md`。
+>
+> last_verified: 2026-08-24
 
 ## 決策索引
 
@@ -11,7 +13,7 @@
 | 改標註欄位、加 `discourse_mode` 值 | `SCHEMA.md` §1–§2，改動前先在 `pilots/` 驗證 |
 | 理解為什麼標註要下放到段落級 | `pilots/2026-07-28-sunzi-jiuzhang.md` §3–§4 |
 | 改 downloader | `CLAUDE.md` §4 爬蟲倫理 + 本檔 §下載器結構陷阱（**五類已修過的問題，別退回去**） |
-| 查某部書在不在清單、為何某部結構特殊 | `scripts/catalog/chinese-classics-ws.json`（73 條、實收 72 部，特殊處置寫在該部的 `structure_note` / `coverage_note` / `excluded_reason`） |
+| 查某部書在不在清單、為何某部結構特殊 | `scripts/catalog/chinese-classics-ws.json`（77 條、實收 76 部，特殊處置寫在該部的 `structure_note` / `coverage_note` / `excluded_reason`） |
 | 抓完驗證 | `PYTHONIOENCODING=utf-8 python scripts/verify.py`；重生索引 `... scripts/build-index.py` |
 | 跑心理學標註 | 先讀 `SCHEMA.md` §3 分流 `text_role`；`reference` 預設不排批次，但**不得憑此宣告沒內容**（§3.1 釋名已證否） |
 | 標一部新書 | **預設走發包**，完整八步寫在 `HANDOFF.md` §下一步第 3 條：`make-delegation-input.py` 切批 → 寫 `delegation/<slug>/SPEC.md` → **先發 b01 試點、校準結果補回 spec 才放行其餘批** → `check-delegation-out.py` 檢查 → `apply-delegation.py` 回填。不發包時才用本檔 §標註工作流的手工五步。**一部書若跨視窗換了判讀者（配額耗盡改派另一個模型），回填一律加 `--tagged-by-batch bNN=<model>` 逐批分離歸屬**——兩個判讀者記在同一個 `tagged_by` 底下等於偽造校準資料（管子 b24 立下，2026-08-11） |
@@ -40,11 +42,21 @@ scripts/corpus_text.py           段落切分單一來源（make-scaffold 與 ve
 scripts/download-wikisource.py   下載器，含 --survey 預檢模式；natural_sort_key 會先把「卷篇第部回」
                                  後的中文數字轉阿拉伯數字（否則章序按 codepoint 排成一七三九二）；
                                  會跳過 catalog 裡標 excluded 的條目
+scripts/run-reading.sh           通讀階段發包（產 delegation/<slug>/READING.md，SPEC 的錨點來源）
+scripts/extract-reading-anchors.py  從通讀報告抽錨點候選（只信「逐字引句」欄，理由欄的引號當提示）
+scripts/check-reading-attribution.py  把通讀報告的引句逐條回原文對拍，防抄到他章引句或通讀者自撰
 scripts/make-scaffold.py         由本文生成標註骨架（錨點自動產，人只填 null）
 scripts/annotate.py              回填工具：put()／span() 寫對照表，apply() 雙向檢查後落盤；
                                  `annotate.py stats <slug>` 直接吐 psych_survey 要的數字
 scripts/verify.py                驗證，push 前必須全綠。含錨點漂移偵測 ＋ 索引新鮮度對拍
 scripts/build-index.py           由 meta.json + annotations.json 生成兩層索引
+delegation/<slug>/
+  ├── SPEC.md           發包規格（判準表 ＋ 錨點表 ＋ 驗收條件）
+  ├── READING.md        通讀報告，SPEC 錨點的唯一來源
+  ├── accept.py         該書專屬驗收器。**錨點一律現場解析 SPEC 表格，不得手抄**；
+  │                     `--check-spec` 自檢 SPEC 內部一致性
+  └── _selftest/make_cases.py  驗收器的反向驗證：合成「完美輸出」應 0 FAIL，
+                        再注入故意變異確認各自被對應條款抓到（`--verify` 自己對答案）
 translations/<slug>/
   ├── meta.json         書級 L1 + psych_survey
   ├── raw/original.txt  原文，唯讀（動了破 SHA-256）
@@ -56,7 +68,11 @@ translations/<slug>/
   └── domains/<id>.{md,json}  每個領域一頁，段級反向索引
 ```
 
-`translations/` 已有 **72 部**（phase 1 共 68 ＋ phase 2 小學 4：`shuowen-jiezi`／`shiming`／`fangyan`／`jijiupian`；`guangyun` 上游殘缺已在 catalog 標 `excluded`），`00-overview/` 已生成。`annotations.json` 目前 **41 部**（`sunzi-bingfa` 91 段、`jiuzhang-suanshu` 720 段、`haidao-suanjing` 24 段、`renwuzhi` 229 段、`qianfulun` 268 段、`yantielun` 346 段、`yanshi-jiaxun` 255 段、`shishuo-xinyu` 1,132 段、`shenyijing` 61 段、`dongmingji` 63 段、`gu-sanfen` 78 段、`nanjing` 243 段、`shanghanlun` 728 段、`jinkui-yaolue` 796 段、`lienuzhuan` 208 段、`shuowen-jiezi` 6,070 段、`shiming` 945 段、`fangyan` 385 段、`jijiupian` 282 段、`liutao` 60 段、`sima-fa` 67 段、`san-lue` 65 段、`wuzi` 43 段、`weiliaozi` 84 段、`shenzi` 75 段、`shangjunshu` 125 段、`jian-zhu-ke-shu` 4 段、`hanfeizi` 781 段、`guanzi` 668 段、`gongsun-longzi` 36 段、`yinwenzi` 80 段、`dengxizi` 38 段、`yuzi` 28 段、`sushu` 6 段、`zhongjing` 18 段、`xinxu` 218 段、`kongcongzi` 159 段、`shenjian` 105 段、`fengsu-tongyi` 230 段、`duduan` 152 段、`cai-zhonglang-ji` 471 段（判讀 361＝本次 207＋沿用獨斷 154，〈外集卷四〉110 段留 null）、`taixuanjing` 880 段、`jingshi-yizhuan` 784 段），共 **18,101 段**；**phase 2 小學四部、兵家五部（299 段）、法家三小部（204 段）、韓非子（781 段）、管子（668 段）與名家黃老小部四部（182 段）已全數標完**，**儒家著述組五部（506 段）已全數標完**，**風俗通義（230 段）已標完並立下 §2.7 考辨體閘門**，**獨斷（152 段）已標完、是第一部不立新閘門而用 §2.3＋§2.6②＋§2.7 合成判完的書**，**蔡中郎集（本次判讀 207 段）2026-08-21 已標完、是連續第二部不立新閘門的書（碑誄體）**，**太玄經（880 段）與京氏易傳（784 段）2026-08-22 已標完、是連續第三與第四部不立新閘門的書，兩部都用「一書兩道閘門」判完（象數／占筮體）**；其餘 29 部的 `psych_survey` 仍是 `null`＝未通讀。**這個數字是寫入當時的宣稱，據此行動前先跑本節下方的段數速查指令確認。**
+`translations/` 已有 **76 部**（phase 1 共 68 ＋ phase 2 小學 4 ＋ 2026-08-24 自 religions-history 收入諸子 5：`huainanzi`／`mozi`／`wenzi`／`jiayi-xinshu`／`lujia-xinyu`；`guangyun` 上游殘缺已在 catalog 標 `excluded`），`00-overview/` 已生成。`annotations.json` 目前 **45 部、20,068 段**（判讀 19,958，`cai-zhonglang-ji`〈外集卷四〉110 段留 `null`）。**逐書段數不在本檔列舉——那份清單會鏽掉，一律讀生成物 `00-overview/INDEX.json` 的 `texts[]`。**
+
+已標完的成組里程碑：phase 2 小學四部、兵家五部（299 段）、法家三小部（204 段）、韓非子（781 段）、管子（668 段）、名家黃老小部四部（182 段）、儒家著述組五部（506 段）；風俗通義（230 段）立下 §2.7 考辨體閘門；**其後連續四部不立新閘門而用既有七道組合判完**——獨斷（152 段，§2.3＋§2.6②＋§2.7）、蔡中郎集（207 段，碑誄體）、太玄經（880 段）與京氏易傳（784 段）（象數／占筮體，兩部都「一書兩道閘門」）。**三巨頭（說文 6,070／戰國策 1,034／水經注 933）已全部標完，巨型書階段結束。**
+
+未標 **31 部、8,842 段**（含 2026-08-24 新收五部）——動工前的分組與優先序見 `HANDOFF.md` §未標存量。
 
 **查一個領域在全庫的段落，看 `00-overview/domains/<id>.md`，不要自己 grep `annotations.json`。**每頁按書分節，欄位是篇名／段序／姿態／摘句／判讀，另附「已通讀但本領域零命中」的書單——命中與零命中放在同一頁，是為了讓零不會被讀成沒人看過（SCHEMA §5）。`DOMAINS.md` 是總表加缺口報告（未標註的 31 部）。三份都由 `build-index.py` 一次生成，不會各自漂移；`verify.py` 每跑一次就對拍一次，過期即 error，所以這頁的數字與 `annotations.json` 不會脫節。
 
