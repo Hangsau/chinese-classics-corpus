@@ -1,0 +1,40 @@
+{
+  "batch": "b34.md",
+  "rows": [
+    {
+      "chapter": "19",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，「又東過槐里縣南，又東，澇水從南來注之。」只記渭水所逕與澇水來注，屬水道登錄"
+    },
+    {
+      "chapter": "19",
+      "para_index": 2,
+      "domains": ["V", "XI"],
+      "modes": ["observation", "proposition"],
+      "reason": "酈注引《洪範五行傳》說「陰陽亂，秦用嚴刑，敗亂之象。」把嚴刑與政局敗亂相連，對權力運用下判斷；又以「是非不死之言，人稟五行之精氣，陰陽有終變，變無不化之理。」否定不死之說而主張人必有終變，屬破除靈驗，未把陵墓與災異登錄算作信仰"
+    },
+    {
+      "chapter": "19",
+      "para_index": 3,
+      "domains": ["VII"],
+      "modes": ["observation", "narrative"],
+      "reason": "酈注雖以水道、宮闕和神異傳說為主，仍在白起伏劍處評曰「嗟呼！有制勝之功，慚尹商之仁，是地即其伏劍處也。」以能制勝而欠仁作明確的品格衡量"
+    },
+    {
+      "chapter": "19",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["observation", "narrative"],
+      "reason": "酈注所載太子故事寫「太子出龍樓門不敢絶馳道，西至直城門，方乃得度。」顯示儲君也受公共道路規則約束，涉及權力與秩序；又在鄧艾祠辨名處直斷「讒勝道消，專忠受害矣。」以讒與忠評定品格及其後果"
+    },
+    {
+      "chapter": "19",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，「又東過霸陵縣北，霸水從縣西北流注之。」只記渭水所逕與霸水來注，屬水道登錄"
+    }
+  ]
+}
