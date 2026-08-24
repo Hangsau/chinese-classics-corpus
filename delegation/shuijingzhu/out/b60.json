@@ -1,0 +1,194 @@
+{
+  "batch": "b60.md",
+  "rows": [
+    {
+      "chapter": "沅水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄；「出牂柯且蘭縣，爲旁溝水，又東至鐔成縣，爲沅水，東逕無陽縣，」只記水源、異名與流向。"
+    },
+    {
+      "chapter": "沅水",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "注文（酈注）引盤瓠故事，「女聞之，以爲信不可違，請行，乃以配之。」把守信落成選擇，命中 VII；又記馬援之事後直評「忠公獲謗，信可悲矣。」指出忠者受謗的不公，命中 V。"
+    },
+    {
+      "chapter": "沅水",
+      "para_index": 3,
+      "domains": ["I", "VIII"],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）描寫沅岸生活時說「寒松上蔭，清泉下注，棲託者不能自絶于其側。」把山水寫成可棲託的生活所在，命中 I；又載李衡經營柑園的遺命「吾州里有木奴千頭，不責衣食，歲絹千匹。」以果園持續生產收益，命中 VIII。"
+    },
+    {
+      "chapter": "沅水",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄；「又東至長沙下雋縣西，北入于江。」只記沅水所至與入江方向。"
+    },
+    {
+      "chapter": "沅水",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「沅水下注洞庭湖，方會于江。」補記入湖會江的水道位置，未及於人。"
+    },
+    {
+      "chapter": "泿水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄；「出武陵鐔成縣北界沅水谷，」只記泿水發源地。"
+    },
+    {
+      "chapter": "泿水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）引書考水源，「《山海經》曰：禱過之山，泿水出焉，而南流注于海是也。」仍只服務水道來源。"
+    },
+    {
+      "chapter": "泿水",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄；「南至鬱林潭中縣，與鄰水合，」只記所至縣境與合流。"
+    },
+    {
+      "chapter": "泿水",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「俗謂之移溪，溪水南歷潭中，注于泿水。」記俗名及支流流向，屬水道與名義登錄。"
+    },
+    {
+      "chapter": "泿水",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄；「又東至蒼梧猛陵縣，爲鬱溪；又東至高要縣，爲大水。」只記所至地點與水名變化。"
+    },
+    {
+      "chapter": "泿水",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["narrative", "observation"],
+      "reason": "注文（酈注）雖敘步騭與吳巨的衝突，但「乃于廳事前中庭俱斬，以首徇衆，即此也。」是在定位殺戮史事；「毅與衆投水死者千有餘人。」也只記戰亡，未寫人如何面對死亡或下人生斷語。"
+    },
+    {
+      "chapter": "泿水",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄；「又東至南海番禺縣西，分爲二，其一南入于海；」只記分流與入海。"
+    },
+    {
+      "chapter": "泿水",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄；「其一又東過縣東，南入于海。」只記另一支流的流向與入海。"
+    },
+    {
+      "chapter": "泿水",
+      "para_index": 9,
+      "domains": ["VII", "XII"],
+      "modes": ["narrative", "observation"],
+      "reason": "注文（酈注）評趙佗墓制說「佗雖奢潛，慎終其身，乃令後人不知其處，有似松、喬遷景，牧豎固無所殘矣。」把慎終連到免遭發掘的後果，命中 VII；又敘盧耽「少棲仙術，善解雲飛，每夕輒凌虛歸家，曉則還州，嘗于元會至朝，不及朝列，化爲白鵠至闕前，迴翔欲下，威儀以石擲之，得一隻履，耽驚遠就列，內外左右，莫不駭異。」文本直接認證其仙術，命中 XII。"
+    },
+    {
+      "chapter": "泿水",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄；「其餘水又東至龍川，爲涅水，屈北入員水。」只記支流、水名與流向。"
+    },
+    {
+      "chapter": "泿水",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「鵕鸃，山雞也，光采鮮明，五色炫耀，利距善鬬，世以家雞鬬之，則可擒也。」記物產習性，又以「趙佗乘此縣而跨據南越矣。」補歷史沿革，均未形成對人的斷語。"
+    },
+    {
+      "chapter": "泿水",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "《水經》本文，水道里程序列；「員水又東南一千五百里，入南海。」只給方向、里數與入海處。"
+    },
+    {
+      "chapter": "泿水",
+      "para_index": 13,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「東歷揭陽縣，王莽之南海亭，而注于海也。」補記所歷縣地與入海，屬水道、地望登錄。"
+    },
+    {
+      "chapter": "資水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「舊傳後漢伐五溪蠻，蠻保此岡，故曰武岡，縣即其稱焉。」解釋武岡得名，其餘亦為水道、封邑與植物名義登錄。"
+    },
+    {
+      "chapter": "資水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「夫水又東注邵陵水，謂之邵陵浦，水口也。」記支流會合與水口名稱，未超出水道、封邑登錄。"
+    },
+    {
+      "chapter": "資水",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「自下東北出益陽縣，其間逕流山峽，名之爲茱萸江，蓋水變名也。」記水道流向與異名，前文郡縣沿革亦屬登錄。"
+    },
+    {
+      "chapter": "資水",
+      "para_index": 4,
+      "domains": ["VIII"],
+      "modes": ["narrative"],
+      "reason": "注文（酈注）載甘寧判斷「羽聞吾咳唾之聲，不敢渡也，渡則成擒矣。」並以「羽夜聞寧處分，曰：興霸聲也，遂不渡。」敘其判斷實現，凸顯軍事能力與威懾成效，命中 VIII。"
+    },
+    {
+      "chapter": "資水",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄；「又東與沅水合于湖中，東北入于江也。」只記資水與沅水會合後入江。"
+    },
+    {
+      "chapter": "資水",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「湖，即洞庭湖也。所入之處，謂之益陽江口。」辨明湖名與水口名稱，屬地望登錄。"
+    },
+    {
+      "chapter": "漣水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「漣水又逕湘鄉縣，南臨漣水，本屬零陵，長沙定王子昌邑。」記水道與封邑沿革；石中魚形亦為物產登錄。"
+    },
+    {
+      "chapter": "漣水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄；「東北過湘南縣南，又東北至臨湘縣西南，東入于湘。」只記所經縣境與入湘方向。"
+    },
+    {
+      "chapter": "漣水",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「漣水自湘南縣東流，至衡陽湘西縣界，入于湘水也。」校明流向與縣界，屬水道、地望登錄。"
+    }
+  ]
+}
