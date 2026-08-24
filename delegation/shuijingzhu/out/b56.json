@@ -1,0 +1,159 @@
+{
+  "batch": "b56.md",
+  "rows": [
+    {
+      "chapter": "35",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，「又東至華容縣西，夏水出焉。」只作水道流向與支流出口登錄"
+    },
+    {
+      "chapter": "35",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「江水左迆為中夏水，右則中郎浦出焉。」交代江浦分派，只有水道與地名登錄，未及於人"
+    },
+    {
+      "chapter": "35",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，「又東南當華容縣南，涌水入焉。」只作水道流向與匯入口登錄"
+    },
+    {
+      "chapter": "35",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「江水又東，涌水注之，水自夏水南通于江，謂之涌口。」登錄水道，陸抗築城與王濬攻城也只用來繫定城址，沒有對人的斷語"
+    },
+    {
+      "chapter": "35",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，「又東南，油水從東南來注之。」只作水道流向與會合登錄"
+    },
+    {
+      "chapter": "35",
+      "para_index": 6,
+      "domains": ["X", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "注文（酈注）在龍穴得名的故事中，禹以「生，性也；死，命也。」直接面對生死，命中 X；又以「何憂龍哉？」表明即使承認命分仍不受凶兆支配，命中 XI"
+    },
+    {
+      "chapter": "35",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，「又東至長沙下雋縣北，澧水、沅水、資水合，東流注之。」只作諸水會流登錄"
+    },
+    {
+      "chapter": "35",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「凡此諸水，皆注于洞庭之陂，是乃湘水，非江川。」校正水系歸屬，只有地理考辨"
+    },
+    {
+      "chapter": "35",
+      "para_index": 9,
+      "domains": ["II"],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）雖以龍穴得名為敘事框架，文帝在異象前自問「我何德以堪之。」把自身是否配受天命作成自我評價，命中 II；其餘以江道、城戍登錄為主"
+    },
+    {
+      "chapter": "35",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，「又東北至江夏沙羨縣西北，沔水從北來注之。」只作水道流向與會合登錄"
+    },
+    {
+      "chapter": "35",
+      "para_index": 11,
+      "domains": ["VII"],
+      "modes": ["observation", "proposition"],
+      "reason": "注文（酈注）在江道與城址登錄間，對禰衡作出「衡恃才倜儻，肆狂狷于無妄之世，保身不足，遇非其死，可謂咎悔之深矣。」的因果性品格評斷，將恃才狂狷連到不能保身，命中 VII"
+    },
+    {
+      "chapter": "35",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「舉水又西南逕顏城南，又西南逕齊安郡西，倒水注之。」等句登錄支流、城戍與地望；所附封國、戰陷史事也沒有對人的評斷"
+    },
+    {
+      "chapter": "35",
+      "para_index": 13,
+      "domains": ["VIII"],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）在武昌沿革與水道敘述中，以「魯子敬嘗言此，可謂明于事勢矣。」明評魯肅預見事勢的才識，命中 VIII"
+    },
+    {
+      "chapter": "35",
+      "para_index": 14,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，「又東過蘄春縣南，蘄水從北東注之。」只作水道流向與會合登錄"
+    },
+    {
+      "chapter": "35",
+      "para_index": 15,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「江水又東得空石口，江浦左右，臨江有空石山，南對石穴洲，洲上有蘄陽縣治。」登錄江浦、山洲與縣治，未及於人"
+    },
+    {
+      "chapter": "35",
+      "para_index": 16,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，「又東過下雉縣北，利水從東陵西南注之。」只作水道流向與會合登錄"
+    },
+    {
+      "chapter": "35",
+      "para_index": 17,
+      "domains": [],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）所載鳥女傳說以「故亦謂之夜飛遊女矣。」落到名物來源，童子預言也以「故謂之青林湖。」落到湖名來源；魚能辟寒暑則是物產效用登錄，均沒有可拆離地名的人生斷語"
+    },
+    {
+      "chapter": "青衣水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，「出青衣縣西蒙山，東與沫水合也。」只作水源與會流登錄"
+    },
+    {
+      "chapter": "青衣水",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）以政區沿革為框架，但「青衣王子心慕漢制，上求內附。」寫出對政治制度的認同與主動歸屬，超出單純郡縣登錄，命中 V"
+    },
+    {
+      "chapter": "青衣水",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「青衣水又東流，注于大江。」登錄水道，峨眉之名的山形說明亦屬地名來源考辨"
+    },
+    {
+      "chapter": "桓水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，「出蜀郡岷山，西南行羌中，入于南海。」只作水源、流向與入海登錄"
+    },
+    {
+      "chapter": "桓水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "注文（酈注）明言「余攷校諸書，以具聞見，今略緝綜川流沿注之緒，雖今古異容，本其流俗，麤陳所由。」其按語全在考辨桓水名義、文獻異說與水陸路徑，沒有落到人的斷語"
+    }
+  ]
+}

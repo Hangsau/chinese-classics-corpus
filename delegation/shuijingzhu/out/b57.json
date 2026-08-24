@@ -1,0 +1,173 @@
+{
+  "batch": "b57.md",
+  "rows": [
+    {
+      "chapter": "若水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "若水",
+      "para_index": 2,
+      "domains": ["VII"],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）在引書敘水源與帝系時，以「黃帝長子昌意，德劣不足紹承大位，降居斯水，爲諸侯焉。」把德性不足與不堪承位的後果相連，已超出地名來源與譜系登錄"
+    },
+    {
+      "chapter": "若水",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "若水",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation", "ritual"],
+      "reason": "注文（酈注）記「其源可燖雞豚，下湯沐洗，能治宿疾。」與「河中有貝子胎銅，以羊祠之，則可取也。」等地方用途、物產和祭取技術，並串接支流水道；這些仍是地望與異聞登錄，沒有對人的斷語"
+    },
+    {
+      "chapter": "若水",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "若水",
+      "para_index": 6,
+      "domains": ["V"],
+      "modes": ["observation", "proposition"],
+      "reason": "注文（酈注）引諸葛亮《表》說「五月渡瀘，并日而食，臣非不自惜也，顧王業不可偏安于蜀故也。」把個人安危讓位於王業與公共責任，命中 V；其餘多為瀘津行路與水道險阻登錄"
+    },
+    {
+      "chapter": "若水",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "若水",
+      "para_index": 8,
+      "domains": ["IV", "XII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "注文（酈注）敘隗叔通「性至孝，爲母給江膂水」，以具體奉母行動承載親子責任，命中 IV；又明斷「可謂至誠發中，而休應自天矣。」把至誠與天應直接相連，屬認證側，命中 XII"
+    },
+    {
+      "chapter": "沫水",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["observation", "formalization"],
+      "reason": "注文（酈注）記石紐鄉慣例，「有罪逃野，捕之者不逼，能藏三年，不爲人得，則共原之。」明列追捕與赦免的群體規則，命中 V；末句神祐僅是此地禁忌來源的地方傳說，不另填 XII"
+    },
+    {
+      "chapter": "沫水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "沫水",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「晉朝改護龍縣也。」交代黃龍出現後的縣名沿革，並續記沫水與蒙山地望；屬祥異、行政與水道登錄，沒有對人的斷語"
+    },
+    {
+      "chapter": "沫水",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）所述「二水于漢嘉青衣縣東，合爲一川，自下亦謂之爲青衣水。」只辨水流合分、縣置與名稱，屬水道地望登錄"
+    },
+    {
+      "chapter": "沫水",
+      "para_index": 5,
+      "domains": ["VIII"],
+      "modes": ["narrative"],
+      "reason": "注文（酈注）敘李冰治水，「蜀郡太守李冰發卒鑿平溷崖。」呈現組織工程以排除舟運之患的工作實踐；「通正水，路開，處即冰所穿也。」明記其成果，命中 VIII；與河神相鬥是敘事載體，不另作超越認證"
+    },
+    {
+      "chapter": "延江水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "延江水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「鄨水于其縣而東注延江水。」交代支流入江，並附縣置、山名與水名，屬水道地望登錄"
+    },
+    {
+      "chapter": "延江水",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "延江水",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）在水道敘述中插入張堪遇襲一事，「同心義士，選習水者筏渡堪于小別江，即此水也。」寫同伴協力救援，所剩不只是戰事地點，命中 V；後段復為峽谷與支流水程登錄"
+    },
+    {
+      "chapter": "延江水",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "延江水",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）引「《傳》曰：止戈爲武。《詩》云：高平曰陵。于是名焉。」只替武陵名稱還原字義與地名來源；其餘亦是水名、里程考辨，未及人的生活判斷"
+    },
+    {
+      "chapter": "延江水",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "存水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）以「益州大姓雍闓反，結壘于山，繫馬枊柱，柱生成林，今夷人名曰雍無梁林。」說明地名傳說，並續記存水所逕諸縣；刪去所少只是地方史與水道事實"
+    },
+    {
+      "chapter": "存水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "存水",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「存水又東逕鬱林定周縣爲周水，蓋水變名也。」交代河道所逕與水名變化，屬水道地望登錄"
+    },
+    {
+      "chapter": "存水",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    }
+  ]
+}
