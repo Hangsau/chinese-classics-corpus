@@ -1,0 +1,68 @@
+{
+  "batch": "b31.md",
+  "rows": [
+    {
+      "chapter": "甘水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「山在河南陸渾縣故城西北，俗謂之縱山。」及「水之所導，發于山曲之中，故世人目其所爲甘掌焉。」交代山水位置與名稱由來，屬地望、名義登錄，未及於人。"
+    },
+    {
+      "chapter": "甘水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄：「東北至河南縣南，北入洛。」"
+    },
+    {
+      "chapter": "甘水",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「甘水發源東北流，北屈逕一故城東，在非山上，世謂之石城也。」登錄水道城址，又以「《經》言縣南，非也。」校正地望；人物封邑與稱號只服務於故甘城的辨識，未形成關於人的獨立斷語。"
+    },
+    {
+      "chapter": "漆水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄：「出扶風杜陽縣俞山東，北入于渭。」"
+    },
+    {
+      "chapter": "漆水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）羅列經史對漆水源流的異說，末以「但川土奇異，今說互出，考之經史，各有所據，識淺見浮，無以辨之矣。」說明地望考辨未決；此處的自謙只限定其無法辨定水道，未另立人生或品格判斷。"
+    },
+    {
+      "chapter": "滻水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄：「出京兆藍田谷，北入于灞。」"
+    },
+    {
+      "chapter": "滻水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「滻水出南陵縣之藍田谷，西北流與一水合」及「滻水又北歷藍田川，北流注于灞水。」交代源流、支流與會合處，純屬水道登錄。"
+    },
+    {
+      "chapter": "沮水（1）",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄：「出北地直路縣，東過馮翊祋祤縣北，東入于洛。」"
+    },
+    {
+      "chapter": "沮水（1）",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）大部登錄水道、城邑與陵墓，但鄭國渠一則另有承重內容：「溉澤鹵之地四萬餘頃，皆畮一鍾，關中沃野，無復凶年，秦以富彊，卒竝諸侯，命曰鄭渠。」明載工程對民生與國力的公共後果（V）；「卒使就渠，渠成而用注填閼之水」寫鄭國在身分暴露後仍完成水利工程，呈現其專業工作與成就（VIII）。"
+    }
+  ]
+}
