@@ -1,0 +1,22 @@
+{
+  "slug": "jiayi-xinshu",
+  "name_zh": "新書",
+  "name_en": "Xinshu (Jia Yi)",
+  "category": "儒家著述",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 賈誼本",
+  "version_date": "漢",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/新書",
+  "downloaded_at": "2026-07-05T17:22:12+00:00",
+  "size_bytes": 145232,
+  "checksum_sha256": "3aa2ecadba286293426d0a9486e2df4ccf318c299ee93facc93eef8c5326b6e6",
+  "chapter_count": 11,
+  "expected_chapter_count": 11,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "重要",
+  "notes": "2026-08-24 自 religions-history 收入本庫（性質為諸子論說，屬「學術著述」而非信仰文本）。原檔未重抓，raw/ 逐位元組複製，SHA-256 已對拍相符。宗教庫仍保留一份，兩庫功能不同、暫不去重（使用者 2026-08-24 裁定）。",
+  "psych_survey": null
+}

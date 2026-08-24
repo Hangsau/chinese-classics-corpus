@@ -1,0 +1,22 @@
+{
+  "slug": "huainanzi",
+  "name_zh": "淮南子",
+  "name_en": "Huainanzi",
+  "category": "雜家",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "西漢",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/淮南子",
+  "downloaded_at": "2026-06-29T23:00:00+00:00",
+  "size_bytes": 478105,
+  "checksum_sha256": "6a23ac2fe90363da60febb9fc98d60c1ba4fbdced0cea157797d0d88774f60c4",
+  "chapter_count": 22,
+  "expected_chapter_count": 22,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "核心",
+  "notes": "2026-08-24 自 religions-history 收入本庫（性質為諸子論說，屬「學術著述」而非信仰文本）。原檔未重抓，raw/ 逐位元組複製，SHA-256 已對拍相符。宗教庫仍保留一份，兩庫功能不同、暫不去重（使用者 2026-08-24 裁定）。",
+  "psych_survey": null
+}

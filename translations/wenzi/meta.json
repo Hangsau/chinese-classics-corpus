@@ -1,0 +1,22 @@
+{
+  "slug": "wenzi",
+  "name_zh": "文子",
+  "name_en": "Wenzi",
+  "category": "黃老",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "戰國—西漢",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/文子",
+  "downloaded_at": "2026-06-29T22:58:34+00:00",
+  "size_bytes": 143683,
+  "checksum_sha256": "2e857c550cffc5b2822e371ddef61342443ea42d99b3a7ac11326683726d9a8e",
+  "chapter_count": 12,
+  "expected_chapter_count": 12,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "核心",
+  "notes": "2026-08-24 自 religions-history 收入本庫（性質為諸子論說，屬「學術著述」而非信仰文本）。原檔未重抓，raw/ 逐位元組複製，SHA-256 已對拍相符。宗教庫仍保留一份，兩庫功能不同、暫不去重（使用者 2026-08-24 裁定）。",
+  "psych_survey": null
+}

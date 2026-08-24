@@ -1,0 +1,22 @@
+{
+  "slug": "mozi",
+  "name_zh": "墨子",
+  "name_en": "Mozi",
+  "category": "墨家",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "通行本（現存 53 篇）",
+  "version_date": "戰國",
+  "source_platform": "ctext.org (api)",
+  "source_url": "https://api.ctext.org/gettext?urn=ctp:mozi",
+  "downloaded_at": "2026-07-04T05:21:13+00:00",
+  "size_bytes": 277979,
+  "checksum_sha256": "4064be3f5b92e513dfd86ceb0e7bbbe416780aab273671cce72960af6a9214c8",
+  "chapter_count": 53,
+  "expected_chapter_count": 53,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "核心",
+  "notes": "2026-08-24 自 religions-history 收入本庫（性質為諸子論說，屬「學術著述」而非信仰文本）。原檔未重抓，raw/ 逐位元組複製，SHA-256 已對拍相符。宗教庫仍保留一份，兩庫功能不同、暫不去重（使用者 2026-08-24 裁定）。",
+  "psych_survey": null
+}
