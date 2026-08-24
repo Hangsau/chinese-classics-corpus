@@ -1,0 +1,271 @@
+{
+  "batch": "b14.md",
+  "rows": [
+    {
+      "chapter": "慎大",
+      "para_index": 1,
+      "domains": ["V", "VI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「賢主愈大愈懼，愈彊愈恐」把權勢增長與恐懼相連；「於安思危，於達思窮，於得思喪」要求掌權者在順境預見風險，承重的是領導責任與內在警覺。"
+    },
+    {
+      "chapter": "慎大",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「桀愈自賢，矜過善非，主道重塞」寫暴君自以為賢、飾過為善而堵塞直諫；「眾志不堪，上下相疾，民心積怨」又把其品性連到權力關係的崩解，與湯的「至公」「至信」形成對照。"
+    },
+    {
+      "chapter": "慎大",
+      "para_index": 3,
+      "domains": ["XI", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "段中雖先說“晝見星而天雨血”，卻把更大的妖明定為“子不聽父，弟不聽兄，君令不行”，將妖異推回人間秩序失靈；「此非貴虜也，貴其言也」並肯定掌權者聽取真言，因此是破除側，不含 XII。"
+    },
+    {
+      "chapter": "慎大",
+      "para_index": 4,
+      "domains": ["VI", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "趙襄子得兩城而「有憂色」，並自問「亡其及我乎」；收束的「夫憂所以為昌也，而喜所以為亡也；勝非其難者也，持之其難者也」把面對成功的情緒姿態與能否守成直接相連。"
+    },
+    {
+      "chapter": "權勳",
+      "para_index": 1,
+      "domains": ["I", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「不去小利則大利不得，不去小忠則大忠不至」提出價值衝突與輕重取捨；「聖人去小取大」則把辨別大小忠利落成品格選擇。"
+    },
+    {
+      "chapter": "權勳",
+      "para_index": 2,
+      "domains": ["VII", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "子反「嗜酒，甘而不能絕於口」寫出節制失守；豎陽穀雖「其心以忠」，進酒卻適足殺主將並使國家罷戰，故「小忠，大忠之賊也」是在裁斷好意、責任與後果的次序。"
+    },
+    {
+      "chapter": "權勳",
+      "para_index": 3,
+      "domains": ["VII"],
+      "modes": ["narrative"],
+      "reason": "荀息的賄道之計以「虞公濫於寶與馬而欲許之」為關鍵，直接寫貪愛寶馬如何成為可被利用的品性弱點；本段止於宮之奇將諫，尚未承載後段的國勢結論。"
+    },
+    {
+      "chapter": "權勳",
+      "para_index": 4,
+      "domains": ["I", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「虞之與虢也，若車之有輔也」與“脣竭而齒寒”說明群體彼此依存；虞公為眼前之利拒聽而兩國相繼滅亡，收束「小利，大利之殘也」要求辨明短利與長遠存續。"
+    },
+    {
+      "chapter": "權勳",
+      "para_index": 5,
+      "domains": ["II", "VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「欲鐘之心勝則安厹繇之說塞矣」明說欲望壓過判斷，使忠告進不了心；「凡聽說，所勝不可不審也」進一步要求察看內心究竟被什麼支配。"
+    },
+    {
+      "chapter": "權勳",
+      "para_index": 6,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "齊王「恥而訾之」使觸子「苦之，欲齊軍之敗」，寫羞辱部屬如何反噬領導關係；其後拒絕賞金而敗亡，並以「此貪於小利以失大利者也」裁斷貪小失大的品性。"
+    },
+    {
+      "chapter": "下賢",
+      "para_index": 1,
+      "domains": ["II", "XII"],
+      "modes": ["proposition"],
+      "reason": "「貴為天子而不驕倨」與「卑為布衣而不瘁攝」把真正的自我價值置於貴賤貧富之外；「以天為法，以德為行，以道為宗」又明說其超越依歸，兩者共同界定「至貴」。"
+    },
+    {
+      "chapter": "下賢",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "堯以天子而對布衣「北面而問」，因自認「德行達智而弗若」；「得道之人，不可驕也」把禮賢建立在克服身分驕慢與公正承認他人所長上。"
+    },
+    {
+      "chapter": "下賢",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "周公身居宗室重位，仍朝訪「窮巷之中、甕牖之下者七十人」；結句「不唯以身下士邪」把成就政業所需的用人責任落在具體的謙下行為。"
+    },
+    {
+      "chapter": "下賢",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "齊桓公一日三訪布衣仍說「吾庸敢驁霸王乎」，指出求霸而輕士自相矛盾；段末又以「誠行之此論而內行修」把尊賢與自修並列為領導者應有的行為。"
+    },
+    {
+      "chapter": "下賢",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "子產把相位「遺之」於門外，與人「謀志論行，而以心與人相索」，具體呈現卸下權勢、以心相求的領導品格；後接刑少而路不拾遺，將此品格連到公共秩序。"
+    },
+    {
+      "chapter": "下賢",
+      "para_index": 6,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "文侯區分不受官祿的段干木與已受實祿的翟黃，提出「不肯受實者其禮之」；「禮士莫高乎節欲」又把禮賢落到掌權者節制欲求的品格，而非徒列待遇制度。"
+    },
+    {
+      "chapter": "報更",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「與天下之賢者為徒」被說成安國、免身與「大立功名」的共同途徑；末句「堪士不可以驕恣屈也」並直接界定領導者與有才之士相處時不可仗勢折辱。"
+    },
+    {
+      "chapter": "報更",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "宣孟救濟餓者，而餓者仍念「臣有老母，將以遺之」，後來更「請為君反死」以報恩；「德幾無小」與「人主胡可以不務哀士」把同情、施惠及回報連成可辨的德行與社會互助。"
+    },
+    {
+      "chapter": "報更",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "昭文君在張儀未遇時承諾「國雖小，請與客共之」並送資；張儀得勢後「所德於天下者，無若昭文君」，故事以跨越身分的禮遇與感恩回報說明人才關係。"
+    },
+    {
+      "chapter": "報更",
+      "para_index": 4,
+      "domains": ["III", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "淳于髡不直請救薛，而以“先君之廟在焉”所觸及的急處使齊王自悟；收束「見人之急也，若自在危厄之中」與「任不獨在所說，亦在說者」把設身處地及溝通責任說成說者本身的能力。"
+    },
+    {
+      "chapter": "順說",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「因人之力以自為力；因其來而與來，因其往而與往」只列順勢說服的操作，末以「所因便也」總結技巧；段落沒有在說服方法之外另說人的樣態，故領域判空。"
+    },
+    {
+      "chapter": "順說",
+      "para_index": 2,
+      "domains": ["XI", "III"],
+      "modes": ["narrative", "proposition"],
+      "reason": "惠盎逐層順著宋王所欲，把好勇引到使人「本無其志」及天下人相愛利；結語「宋王，俗主也，而心猶可服」明說人的心可以經溝通而轉變，不只是一份遊說步驟。"
+    },
+    {
+      "chapter": "順說",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "田贊把甲兵拆成「刈人之頸，刳人之腹」與「刑人之父子」，揭出權力使用的傷害；「苟慮害人，人亦必慮害之」更提出害人必招互害的道德與群體關係原理。"
+    },
+    {
+      "chapter": "順說",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "管子以「我為汝唱，汝為我和」使役人不倦而加速行路，末即把它稱為「以此術」用國；「役人得其所欲，己亦得其所欲」仍是使人與脫身的技術鏈，未獨立解釋人的樣態。"
+    },
+    {
+      "chapter": "不廣",
+      "para_index": 1,
+      "domains": ["XI", "XIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「時不可必成」承認結果不全由人決定，而「其人事則不廣，成亦可，不成亦可」要求做完可為之事後容納成敗；這同時界定人的可控範圍與面對不確定的安頓。"
+    },
+    {
+      "chapter": "不廣",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "蹶行走易顛，蛩蛩距虛平日為它取草，遇患又「必負而走」；寓言以彼此補足能力具體承載「以其所能託其所不能」的互助關係。"
+    },
+    {
+      "chapter": "不廣",
+      "para_index": 3,
+      "domains": ["XI", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "管仲因「事未可知」而讓三友分事兩位公子，既處理共同志業中的協作，也承認外在成敗難保；末句「其天邪，人事則盡之矣」明分命運與人能盡到的責任。"
+    },
+    {
+      "chapter": "不廣",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "歸還戰死者遺體原是用兵情境，但承重句是「民以此三者怨上，上無以使下，下無以事上」，直接說領導者棄置共同責任會使上下信任與合作斷裂；勝負傷亡本身不另標領域。"
+    },
+    {
+      "chapter": "不廣",
+      "para_index": 5,
+      "domains": ["VII", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "咎犯主張救天子之事成則立功、不成仍可「勤天子之難，成教垂名」，把義行設計成不依結果才有價值；「舉事義且利，以立大功」遂將品格選擇連到成就。"
+    },
+    {
+      "chapter": "不廣",
+      "para_index": 6,
+      "domains": ["VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "本段語義有歧；此處取命中讀法，因「卒為齊國良工，澤及子孫」把所得落在工藝成就的形成與延續，並把「知大禮，知大禮雖不知國可也」讀為掌握大原則足以成其技，而非單純的治國條目。"
+    },
+    {
+      "chapter": "貴因",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「因水之力」「因人之心」「因民之欲」「因其械」把水、人心、民欲與舟車並列為達成政業的可用條件；全段只說借力成功的策略，沒有把人的樣態另立為主張，故領域判空。"
+    },
+    {
+      "chapter": "貴因",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「讒慝勝良」「賢者出走」「百姓不敢誹怨」被列為暴政逐級加深的三個徵候；太公以「戮」「崩」「刑勝」命名，說明邪佞壓倒賢良與壓制民怨如何使政治共同體瓦解。"
+    },
+    {
+      "chapter": "貴因",
+      "para_index": 3,
+      "domains": ["VII", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "武王因已使膠鬲報定日期，明知失期會使他被殺，遂說「吾疾行以救膠鬲之死也」；故事把守信、代人承擔危險的義行連到眾人歸向與勝利。"
+    },
+    {
+      "chapter": "貴因",
+      "para_index": 4,
+      "domains": ["VII", "III"],
+      "modes": ["narrative", "proposition"],
+      "reason": "殷長者不忍「以其惡告王」，便以失約的行動示範亡國之由；周公由「期而不當，言而不信」讀懂未明說的訊息，段落同時承重於忠厚守信的品格與間接溝通。"
+    },
+    {
+      "chapter": "貴因",
+      "para_index": 5,
+      "domains": ["XI", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "從「裸入衣出」到在亂世「揚其義，成其功」，諸例都要求依情境調整行動；「因則功，專則拙」直接把適應變化與成事能力相連，而非僅登錄曆象或遊說事例。"
+    },
+    {
+      "chapter": "察今",
+      "para_index": 1,
+      "domains": ["II", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「人以自是，反以相誹」與學者「不求其實，務以相毀，以勝為故」揭出自是與求勝造成的認知偏差；「察己則可以知人，察今則可以知古」則提出由自知、近知擴充所見的學習方法。"
+    },
+    {
+      "chapter": "察今",
+      "para_index": 2,
+      "domains": ["XI", "II"],
+      "modes": ["narrative", "proposition"],
+      "reason": "荊人仍循舊水標而溺，譬喻人把曾經有效的準則誤當不變；「世易時移，變法宜矣」及「病變而藥不變」明說情境已變時必須修正判斷與行動。"
+    },
+    {
+      "chapter": "察今",
+      "para_index": 3,
+      "domains": ["XI", "II"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「時已徙矣，而法不徙」指出拒絕隨時勢改變的僵固；刻舟求劍被斷為「惑」，又以父善游便推子善游被斷為「悖」，具體揭示把舊位置或他人能力錯套到當下的判斷失誤。"
+    }
+  ]
+}

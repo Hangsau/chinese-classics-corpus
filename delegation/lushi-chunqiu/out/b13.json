@@ -1,0 +1,222 @@
+{
+  "batch": "b13.md",
+  "rows": [
+    {
+      "chapter": "適威",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「民善之則畜也，不善則讎也」把民眾對君主的親附或敵對繫於是否善待；「有必緣其心愛之謂也，有其形不可謂有之」又把真正擁有落在得人心，承重的是領導與群體關係。"
+    },
+    {
+      "chapter": "適威",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「抑之以方則方，抑之以圜則圜」只把民的可塑性當作「五帝三王之所以無敵」的治術投入；段落未在治國效果之外另立人的主張，故判空。"
+    },
+    {
+      "chapter": "適威",
+      "para_index": 3,
+      "domains": ["V", "VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「驟戰則民罷，驟勝則主驕」與「罷則怨，怨則極慮」寫出驕恣、疲憊和怨恨的反應；「故禮煩則不莊，業煩則無功，令苛則不聽，禁多則不行」再把過度要求如何破壞服從與成果拆成可辨後果，涉及權力治理與內在情緒。"
+    },
+    {
+      "chapter": "為欲",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「故人之欲多者，其可得用亦多；人之欲少者，其得用亦少；無欲者，不可得用也」把欲望立即換算成君主可利用的程度，整段鎖在「令人得欲」的使民政策鏈，故判空。"
+    },
+    {
+      "chapter": "為欲",
+      "para_index": 2,
+      "domains": ["II", "XI"],
+      "modes": ["proposition"],
+      "reason": "「久湛而不去則若性。性異非性」區分本性與習俗沉積成的假性；「不聞道者，何以去非性哉」又主張人可以辨識並去除這種假性，直接談自我形成與改變。"
+    },
+    {
+      "chapter": "為欲",
+      "para_index": 3,
+      "domains": ["V", "XI"],
+      "modes": ["proposition"],
+      "reason": "「投以炙雞，則相與爭矣」把爭鬥顯示為情境誘發，而「爭術存因爭，不爭之術存因不爭」進一步主張群體的競爭方式能改變其行為。"
+    },
+    {
+      "chapter": "為欲",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "晉文公以「信，國之寶也。得原失寶，吾不為也」拒絕失約取城，並以「以不信得原，不若勿得也，必誠信以得之」收束；故事把誠信拆成領導者可辨的取捨及其群體後果。"
+    },
+    {
+      "chapter": "貴信",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "「凡人主必信。信而又信，誰人不親」明定領導者須守信，且把守信連到他人親附；「非信則百事不滿也」又把信說成能使共同事務完成的品格。"
+    },
+    {
+      "chapter": "貴信",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「君臣不信，則百姓誹謗」到「交友不信，則離散鬱怨，不能相親」逐項說明失信如何破壞公共秩序與友誼；「可與為始，可與為終」則把信確立為可持續交往的品格。"
+    },
+    {
+      "chapter": "貴信",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "管仲以「許之而不予，不可謂信」勸桓公履行受脅而立的盟約，並指出「予之，雖亡地亦得信」；段落藉政治抉擇說明對仇敵仍守信如何建立公共信用。"
+    },
+    {
+      "chapter": "舉難",
+      "para_index": 1,
+      "domains": ["II", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「物豈可全哉」否定以完美衡量人；「君子責人則以人，自責則以義」與不肖者相反的雙重標準，具體談對他人及自我的評價方式和由此養成的品格。"
+    },
+    {
+      "chapter": "舉難",
+      "para_index": 2,
+      "domains": ["VII", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "孔子為求說行而「受養而便說」，段末以「夫欲立功者，豈得中繩哉？救溺者濡，追逃者趨」指出做成救急之事不能拘守表面潔淨，承重的是行事品格與成事方式。"
+    },
+    {
+      "chapter": "舉難",
+      "para_index": 3,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「季成，弟也，翟璜，友也，而猶不能知」揭示親近不等於知人；「疏賤者知，親習者不知，理無自然」直接糾正憑關係判斷人才的認知偏誤。"
+    },
+    {
+      "chapter": "舉難",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「師友也者，公可也；戚愛也者，私安也」區分公共選才與私愛，並以「以私勝公，衰國之政也」明斷徇私的政治及品格後果。"
+    },
+    {
+      "chapter": "舉難",
+      "para_index": 5,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "桓公拒絕因「小惡」而「亡人之大美」，收在「且人固難全，權而用其長者」；故事主張領導者應接受人的不完整並依長處任用人才。"
+    },
+    {
+      "chapter": "季冬紀",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "ritual"],
+      "reason": "「日在婺女」「其日壬癸」「律中大呂」登錄季冬的曆數配應，「命有司大儺」與「畢行山川之祀」登錄該月儀節；內容全掛在月份槽位，故判空。"
+    },
+    {
+      "chapter": "季冬紀",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization", "ritual"],
+      "reason": "「是月也，命漁師始漁」到「命司農，計耦耕事」是季冬漁事、藏冰與備耕政令，「先薦寢廟」及百祀薪燎是月令儀節，均不脫該月條文。"
+    },
+    {
+      "chapter": "季冬紀",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization", "ritual"],
+      "reason": "「歲將更始。專於農民，無有所使」規定歲末農政，「賦之犧牲，以供皇天上帝社稷之享」則規定季冬祭享供物；這些是月令政令與儀節，不另承載人的領域。"
+    },
+    {
+      "chapter": "季冬紀",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「季冬行秋令」「行春令」「行夏令」逐項配列失時所致的白露、固疾、水潦等災異，是月令錯置後果表，離開季冬即失去成立條件。"
+    },
+    {
+      "chapter": "士節",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「當理不避其難，臨患忘利，遺生行義」把士節拆成臨難、忘利與行義等行為；「人主之欲大立功名者，不可不務求此人」又落到領導者如何辨求這類人才。"
+    },
+    {
+      "chapter": "士節",
+      "para_index": 2,
+      "domains": ["IV", "V", "VII"],
+      "modes": ["narrative"],
+      "reason": "北郭騷先以“願乞所以養母”承擔養親，又以“於利不苟取，於害不苟免”及“吾將以身死白之”實踐其義，友人再因“北郭子為國故死”相繼赴死。三格不可再減：去掉 IV 會漏掉養親，去掉 V 會漏掉知士、交友與為國，去掉 VII 會漏掉不苟取及以死明義；“太息而歎”只是敘事反應套語，不據此標 VI。"
+    },
+    {
+      "chapter": "介立",
+      "para_index": 1,
+      "domains": ["I", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "介子推在文公貧賤時不去、富貴後反而隱退，並以「今世之逐利者」對照「今得之而務疾逃之」；「人心之不同」由此落在對利祿的輕重選擇及不逐利的品格。"
+    },
+    {
+      "chapter": "介立",
+      "para_index": 2,
+      "domains": ["VII", "X"],
+      "modes": ["narrative", "proposition"],
+      "reason": "爰旌目得知食物出自盜者後稱「吾義不食子之食也」，吐食而死；段末以眾人「冀幸以得活」反襯其「惡其義而不肯不死」，直接處理守義與求生、死亡間的選擇。"
+    },
+    {
+      "chapter": "誠廉",
+      "para_index": 1,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition"],
+      "reason": "「性也者，所受於天也，非擇取而為之也」把性說成非自由選取的天受；「豪士之自好者，其不可漫以汙也」再以石堅丹赤比喻不可污奪的廉潔品格。"
+    },
+    {
+      "chapter": "誠廉",
+      "para_index": 2,
+      "domains": ["I", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "伯夷、叔齊以「與其並乎周以漫吾身也，不若避之以潔吾行」拒絕同流，末段更明說「有所重則欲全之，有所輕則以養所重」及「棄生以立其意」；承重的是生命輕重與廉潔志行。"
+    },
+    {
+      "chapter": "不侵",
+      "para_index": 1,
+      "domains": ["I", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「天下輕於身，而士以身為人」先指出士對自身與天下的輕重選擇；「賢主必自知士，故士盡力竭智，直言交爭」再說領導者的理解如何換得人才投入。"
+    },
+    {
+      "chapter": "不侵",
+      "para_index": 2,
+      "domains": ["II", "V"],
+      "modes": ["proposition"],
+      "reason": "「尊貴富大不足以來士矣」否定以地位財富吸引士人的常見判斷，「必自知之然後可」則把關鍵放在領導者親自理解、辨認士人。"
+    },
+    {
+      "chapter": "不侵",
+      "para_index": 3,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "豫讓以「眾人畜我者，我亦眾人事之」對照「國士畜我者，我亦國士事之」，說明他人如何看待、定位自己會形成相應的自我定位與回報方式；末句又推及一般人的關係心理。"
+    },
+    {
+      "chapter": "不侵",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "公孫弘面對強秦，以孟嘗君所養之士「不得意則不肯為人臣」及受辱必死回應，終以「立千乘之義而不可凌，可謂士矣」收束；故事具體呈現權力前不受侵凌的士節。"
+    },
+    {
+      "chapter": "序意",
+      "para_index": 1,
+      "domains": ["II", "VII"],
+      "modes": ["proposition"],
+      "reason": "“夫私視使目盲，私聽使耳聾，私慮使心狂”把私心如何扭曲觀看、聆聽與思慮逐項說出；“智不公，則福日衰，災日隆”再把認知失公連到品格與後果，故必含 VII，並涉及自欺偏見。"
+    },
+    {
+      "chapter": "序意",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "青荓明言告密會「失相與友之道」，不告又會「失為人臣之道」，遂以死承擔兩種角色衝突；段末「重失人臣之節，惡廢交友之道」明確把故事落在交友、臣節與守義。"
+    }
+  ]
+}

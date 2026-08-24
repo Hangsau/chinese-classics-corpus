@@ -1,0 +1,187 @@
+{
+  "batch": "b18.md",
+  "rows": [
+    {
+      "chapter": "孟夏紀",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「日在畢，昏翼中，旦婺女中」以下登錄孟夏的日次、帝神、物候與律數，「天子居明堂左个」以下又列居處服食，都是繫於本月的曆數配應與生活規格"
+    },
+    {
+      "chapter": "孟夏紀",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization", "ritual"],
+      "reason": "「立夏之日，天子親率三公九卿大夫以迎夏於南郊」是迎夏儀節，「行爵出祿，必當其位」仍是立夏條目中的月令政令，不另提出關於人的通則"
+    },
+    {
+      "chapter": "孟夏紀",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "「無起土功，無發大眾，無伐大樹」逐項規定孟夏不得施作之事，是掛在「是月也」之下的禁令清單"
+    },
+    {
+      "chapter": "孟夏紀",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "「命野虞，出行田原，勞農勸民，無或失時」與「命農勉作」規定本月巡田勸農的官署操作，離開孟夏時令便不成立"
+    },
+    {
+      "chapter": "孟夏紀",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization", "ritual"],
+      "reason": "「無大田獵。農乃收麥」記孟夏禁獵與收麥，「天子乃以彘嘗麥，先薦寢廟」則是本月薦新儀節"
+    },
+    {
+      "chapter": "孟夏紀",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization", "ritual"],
+      "reason": "「斷薄刑，決小罪，出輕繫」雖涉及刑獄，位置是孟夏政令；「乃收繭稅……以給郊廟之祭服」也是本月蠶事與祭服供給規格"
+    },
+    {
+      "chapter": "孟夏紀",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["ritual"],
+      "reason": "「天子飲酎，用禮樂」只登錄孟夏天子的飲酎禮樂儀節，未在月份槽位之外提出人的主張"
+    },
+    {
+      "chapter": "孟夏紀",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「孟夏行秋令」「行冬令」「行春令」分別配列苦雨、大水、蟲蝗等失令災異，是月令的條件對應表"
+    },
+    {
+      "chapter": "勸學",
+      "para_index": 1,
+      "domains": ["VIII", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「不知理義，生於不學」把德行失序追到不學，「聖人生於疾學」「疾學在於尊師」又主張才德與成就由勤學尊師而來，承重的是學習及品格養成"
+    },
+    {
+      "chapter": "勸學",
+      "para_index": 2,
+      "domains": ["VIII", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「故為師之務，在於勝理，在於行義」把教師之所以受尊重繫於持理行義；「遺理釋義以要不可必」則明斷迎合偶然遇合會損害師者操守"
+    },
+    {
+      "chapter": "勸學",
+      "para_index": 3,
+      "domains": ["IV", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "曾參與顏淵兩則故事以「此言事師之猶事父也」明說師生關係比照父子，並以「其尊師若此，故師盡智竭道以教」連到教學投入"
+    },
+    {
+      "chapter": "尊師",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「神農師悉諸，黃帝師大撓」至「越王句踐師范蠡、大夫種」逐一登錄帝王師承；「未有不尊師者也」是對這份人物名單的總括，沒有拆出人的樣態或行為機制"
+    },
+    {
+      "chapter": "尊師",
+      "para_index": 2,
+      "domains": ["VIII", "XI"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「故凡學，非能益也，達天性也」主張學習使人的天賦得以實現；六人的事例又由「刑戮死辱之人」轉成「天下名士顯人」，明說人能因學而改變其人生走向"
+    },
+    {
+      "chapter": "尊師",
+      "para_index": 3,
+      "domains": ["VIII", "VII"],
+      "modes": ["prescription"],
+      "reason": "「凡學，必務進業，心則無營，疾諷誦，謹司聞」規定學習者的專注實踐，「得之無矜，失之無慚，必反其本」並要求不矜與反本的品格"
+    },
+    {
+      "chapter": "尊師",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["ritual", "prescription"],
+      "reason": "「治唐圃，疾灌寖，務種樹；織葩屨，結罝網，（梱）〔捆〕蒲葦」以下排比供養師者的勞作事項，前後的「死則敬祭」「此所以尊師也」也把它限定為奉師儀節與照料清單"
+    },
+    {
+      "chapter": "尊師",
+      "para_index": 5,
+      "domains": ["VIII", "VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「故教也者，義之大者也；學也者，知之盛者也」直接把教學界定為利人之義、把學習界定為成身之知；孔子所說「好學而不厭，好教而不倦」再將其落到持續實踐"
+    },
+    {
+      "chapter": "誣徒",
+      "para_index": 1,
+      "domains": ["VI", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「人之情，不能樂其所不安，不能得於其所不樂」把安全、愉悅與持續投入的心理條件明說出來，並以「反諸人情，則得所以勸學矣」用於教學"
+    },
+    {
+      "chapter": "誣徒",
+      "para_index": 2,
+      "domains": ["VI", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「志氣不和，取舍數變，固無恆心，若晏陰喜怒無處」描寫不能教者的內在失調，妒惡學生遂使「此師徒相與異心」；又以「不能親其所怨，不能譽其所惡」說明怨惡如何敗壞學業"
+    },
+    {
+      "chapter": "誣徒",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「視徒如己。反己以教」提出師生互易立場的教學原則；「人之情，愛同於己者，譽同於己者，助同於己者」則說出認同相同者的群體傾向如何促成教學"
+    },
+    {
+      "chapter": "誣徒",
+      "para_index": 4,
+      "domains": ["VIII", "VII"],
+      "modes": ["proposition"],
+      "reason": "「從師苦而欲學之功也，從師淺而欲學之深也」指出只求成果而不肯投入的學習心態；「用心則不專，好之則不深，就業則不疾」及「昏於小利，惑於嗜欲」進一步裁斷其習性與品格"
+    },
+    {
+      "chapter": "用眾",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "「善學者若齊王之食雞也，必食其跖數千而後足」以取眾多雞跖的譬喻說明善學者須從多處累積可取之長，承重在學習方法"
+    },
+    {
+      "chapter": "用眾",
+      "para_index": 2,
+      "domains": ["II", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「物固莫不有長，莫不有短。人亦然」明說每個人都有長短；「善學者，假人之長以補其短」把承認自身不足連到借他人之長的學習"
+    },
+    {
+      "chapter": "用眾",
+      "para_index": 3,
+      "domains": ["VII", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「無醜不能，無惡不知」勸人不以不能與不知為恥惡，並以「不醜不能、不惡不知，尚矣」評定這種求知態度；即使桀、紂也「有可畏可取者」，所以仍須向人取長"
+    },
+    {
+      "chapter": "用眾",
+      "para_index": 4,
+      "domains": ["VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「辯議不可不為」提出學者應行的求學實踐，「辯議而苟可為，是教也」又把可落實的辯議界定為教學，承重在學與教"
+    },
+    {
+      "chapter": "用眾",
+      "para_index": 5,
+      "domains": ["XI", "V"],
+      "modes": ["proposition", "observation"],
+      "reason": "「今使楚人長乎戎，戎人長乎楚，則楚人戎言，戎人楚言矣」說明語言隨成長群體而變；「亡國之主不可以為賢主也，其所生長者不可耳」進一步主張人的走向並非固定，而受社會環境塑造"
+    },
+    {
+      "chapter": "用眾",
+      "para_index": 6,
+      "domains": ["V"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「凡君之所以立，出乎眾也。立已定而舍其眾，是得其末而失其本」把領導的成立與安定繫於眾人；「以眾力」「以眾知」及田駢說齊王的事例共同申明集眾是君人的根本資源"
+    }
+  ]
+}

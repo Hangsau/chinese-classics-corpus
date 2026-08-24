@@ -1,0 +1,306 @@
+{
+  "batch": "b15.md",
+  "rows": [
+    {
+      "chapter": "審應",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「取其實以責其名，則說者不敢妄言」把名實核驗直接用作約束進言的君術程序，所得只落在「人主之所執其要」，沒有另說人的樣態"
+    },
+    {
+      "chapter": "審應",
+      "para_index": 2,
+      "domains": ["V", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「去駭從不駭，未可知也。去駭從駭，則鳥曷為舉矣」指出離開不肖之主並不保證投向較安全的歸屬，所談兼及君臣選擇與改變處境的不確定性"
+    },
+    {
+      "chapter": "審應",
+      "para_index": 3,
+      "domains": ["VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「是舉不義以行不義也」並以「適足以飾非遂過」收束，明說巧辯若只用來掩飾錯誤，反會加深品格上的過失"
+    },
+    {
+      "chapter": "審應",
+      "para_index": 4,
+      "domains": ["II", "III"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「昭王有非其有，田詘不察」指出田詘把對方未曾宣稱的自我位置塞回問話，承重於身分判斷與溝通誤置"
+    },
+    {
+      "chapter": "審應",
+      "para_index": 5,
+      "domains": ["II", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「兼愛天下，不可以虛名為也，必有其實」要求名實一致；「無禮慢易而求敬」「暴戾貪得而求定」又把相反行為與所求結果的品格矛盾逐一拆出"
+    },
+    {
+      "chapter": "審應",
+      "para_index": 6,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「其在於民而君弗知……其在於上而民弗知」揭出君民彼此不知的視角落差；「凡聽必反諸己」則把自我反省立為領導者聽取民意的依據"
+    },
+    {
+      "chapter": "審應",
+      "para_index": 7,
+      "domains": ["VI", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「戰者，不習也；使人戰者，嚴駔也」分辨緊張失態與他人威逼的來源；「自失不足以難，以嚴駔則可」又把偶然失態和驕厲品格分開評斷"
+    },
+    {
+      "chapter": "重言",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "高宗自言「余唯恐言之不類也，茲故不言」，末以「其重言如此」肯定領導者因言語影響四方而自我節制、慎重負責的品格"
+    },
+    {
+      "chapter": "重言",
+      "para_index": 2,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「天子無戲言」把承諾的莊重落實為封虞，收束又明言「令成王益重言，明愛弟之義」，同時承重於守言品格與兄弟責任"
+    },
+    {
+      "chapter": "重言",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「三年不動，將以定志意也；其不飛，將以長羽翼也；其不鳴，將以覽民則也」把沉默解作蓄積能力與考察民情，並以成公賈進諫促成莊王治績"
+    },
+    {
+      "chapter": "重言",
+      "para_index": 4,
+      "domains": ["III", "VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「君子有三色」逐一把喜樂、清靜與兵革之意連到面色手足，末稱「聽於無聲，視於無形」，明說內在情志會由非語言線索傳達"
+    },
+    {
+      "chapter": "精諭",
+      "para_index": 1,
+      "domains": ["III"],
+      "modes": ["narrative", "proposition"],
+      "reason": "開頭直言「聖人相諭不待言，有先言言者也」；父親一起取之心後「蜻無至者」，用故事表明意圖在話語之前已會改變信任與互動"
+    },
+    {
+      "chapter": "精諭",
+      "para_index": 2,
+      "domains": ["III", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「口㖧不言，以精相告」寫無聲傳意；「同惡同好，志皆有欲，雖為天子，弗能離矣」又明說共同好惡與志欲能結成不易拆散的群體聯結"
+    },
+    {
+      "chapter": "精諭",
+      "para_index": 3,
+      "domains": ["III"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「目擊而道存矣，不可以容聲矣」及「見其人而心與志皆見」都把彼此理解放在直接相知而非言語交換上，所承重的是非言語溝通"
+    },
+    {
+      "chapter": "精諭",
+      "para_index": 4,
+      "domains": ["III"],
+      "modes": ["narrative", "proposition"],
+      "reason": "孔子以「唯知言之謂者為可耳」限定能否微言，後文再說「言者，謂之屬也」「至言去言」，主張理解應越過字面而把握所指之意"
+    },
+    {
+      "chapter": "精諭",
+      "para_index": 5,
+      "domains": ["III", "VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "衛姬由「足高氣彊」與「動色」、管仲由「有慚色」察知桓公心志，末稱二人分別以「容貌音聲」「行步氣志」讀出未說出口的情緒與意圖"
+    },
+    {
+      "chapter": "精諭",
+      "para_index": 6,
+      "domains": ["II", "III"],
+      "modes": ["narrative", "proposition"],
+      "reason": "使者口稱祈福而現「客武色」，故以「形名不相當」指出表象與實意不合；「言不足以斷小事」則要求從語言之外辨認真實意圖"
+    },
+    {
+      "chapter": "離謂",
+      "para_index": 1,
+      "domains": ["II", "III"],
+      "modes": ["proposition"],
+      "reason": "「言意相離，凶也」指出話語與意圖斷裂會擾亂判斷；「惑者之患，不自以為惑」更直接說出迷惑者無法辨認自身迷惑的自欺狀態"
+    },
+    {
+      "chapter": "離謂",
+      "para_index": 2,
+      "domains": ["II", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「辨而不當理則偽，知而不當理則詐」把離開義理的聰辨判為偽詐，並以「理也者，是非之宗也」提出辨別真偽與品格善惡的依據"
+    },
+    {
+      "chapter": "離謂",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "溺者贖屍的兩面說辭被用來說明「無功不得民」與「有功得民」都能成為傷害忠臣的藉口，揭出無尺度權力使臣下無論成敗皆受害的不公"
+    },
+    {
+      "chapter": "離謂",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「所欲勝因勝，所欲罪因罪」寫人為私欲任意翻轉是非，結果是「鄭國大亂」；段落承重於訟辯者的詐偽品格及公共法律正義"
+    },
+    {
+      "chapter": "離謂",
+      "para_index": 5,
+      "domains": ["III", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "事君者以「凡事人以為利也。死不利，故不死」替背義辯解，文本判為「大不義」；「得其意則舍其言」又要求聽者越過辭面察看真實用心"
+    },
+    {
+      "chapter": "離謂",
+      "para_index": 6,
+      "domains": ["VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「其多能不若寡能，其有辯不若無辯」以從說、橫說相互抵消為證，並借「大巧之不可為」指出過度逞能反而妨礙事情完成"
+    },
+    {
+      "chapter": "淫辭",
+      "para_index": 1,
+      "domains": ["III", "VII"],
+      "modes": ["proposition"],
+      "reason": "「凡言者，以諭心也」界定言語本為傳心；「所言非所行也，所行非所言也」及「言行相詭」則把溝通失真落實為不誠實的品格問題"
+    },
+    {
+      "chapter": "淫辭",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "秦以「秦之所欲為，趙助之」責趙，公孫龍又以「趙欲救之，今秦王獨不助趙」反責秦；此段只展示盟約措辭可導出相反主張的外交說辭，未另說人的樣態"
+    },
+    {
+      "chapter": "淫辭",
+      "para_index": 3,
+      "domains": ["II"],
+      "modes": ["narrative"],
+      "reason": "孔穿以「從易而是者乎」對比「從難而非者乎」，使平原君看見自己曾被艱深雄辯吸引；故事承重於能否從炫技說辭中辨明真實"
+    },
+    {
+      "chapter": "淫辭",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「駕」卻答「無馬」、「取冠」卻答「進上」連列語辭歧解，整段是錯接問令的語例登錄，沒有由此提出關於人的主張"
+    },
+    {
+      "chapter": "淫辭",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「人有任臣不亡者，臣亡，莊伯決之，任者無罪」只是利用語辭歧出的判決短例，沒有解釋涉事者為何如此或另下人的斷語"
+    },
+    {
+      "chapter": "淫辭",
+      "para_index": 6,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "澄子對婦人「援而弗舍，欲取其衣」，明知「此實吾所自為也」仍以紡緇、禪緇偷換來奪衣，故事揭出自利巧辯如何侵害他人財物與公義"
+    },
+    {
+      "chapter": "淫辭",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「無辨其善與不善而時罪之，若此則群臣畏矣」把善惡與恐懼直接換算成隨機施刑的治術，結尾「唐鞅之對也，不若無對」只評這套答辭的反噬後果"
+    },
+    {
+      "chapter": "淫辭",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「善而不可行，何故」所問是成法能否施行，舉大木時「前呼輿謣，後亦應之」只是說明合用的協作手段；末句拉回「夫國亦木之大者也」，仍是制度可行性的類比"
+    },
+    {
+      "chapter": "不屈",
+      "para_index": 1,
+      "domains": ["VII", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「察而以達理明義，則察為福矣；察而以飾非惑愚，則察為禍矣」明說聰察辯才本身不足，能力的價值取決於用來明義或飾非的品格方向"
+    },
+    {
+      "chapter": "不屈",
+      "para_index": 2,
+      "domains": ["II", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "惠王、惠子僅憑讓國與辭國扮演堯、舜、許由，文本反駁說「他行稱此」才足以相稱，並以「凡自行不可以幸，為必誠」要求自我角色與真實品行一致"
+    },
+    {
+      "chapter": "不屈",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "惠子自比治絲治木的工者，文本卻以連年戰敗、民疲國虛證其「不工而治」；「以賊天下為實，以治之為名」追究無能掌權者對公共生活造成的實害"
+    },
+    {
+      "chapter": "不屈",
+      "para_index": 4,
+      "domains": ["III", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "白圭批評初見便「說我有大甚者」，惠子卻以自居父母的更大說教反擊；「誹者與所非同也」指出批評者若沿用同一過度方式，品格上便重犯所非"
+    },
+    {
+      "chapter": "應言",
+      "para_index": 1,
+      "domains": ["II"],
+      "modes": ["narrative", "proposition"],
+      "reason": "市丘之鼎對烹雞「無所可用」，置於三軍與甑的情境卻「莫宜之此鼎矣」；收束明判「白圭之論自悖」，揭出脫離條件評斷有用無用造成的自相矛盾"
+    },
+    {
+      "chapter": "應言",
+      "para_index": 2,
+      "domains": ["II"],
+      "modes": ["narrative", "proposition"],
+      "reason": "市丘之鼎對烹雞「無所可用」，置於三軍與甑的情境卻「莫宜之此鼎矣」；收束明判「白圭之論自悖」，揭出脫離條件評斷有用無用造成的自相矛盾"
+    },
+    {
+      "chapter": "應言",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "墨者先肯定「非攻」，再以「今趙興兵而攻中山，相國將是之乎」反轉立場，使司馬喜無以應；故事檢驗人在敵我互換時能否一致守住非攻與戰爭公義"
+    },
+    {
+      "chapter": "應言",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "路說只把「天下從則秦利」「公欲秦之利」接成「胡不為從矣」的遊說圈套，整段停在促成合從的外交應答，沒有另說人的樣態"
+    },
+    {
+      "chapter": "應言",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「大官，人臣之所欲也」下一句即以「孟卬令秦得其所欲，秦亦令孟卬得其所欲」核算官位與割地的交換，欲望只作外交酬責的治術材料"
+    },
+    {
+      "chapter": "應言",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "魏敬以河內、梁、身的輕重阻止入秦，末句「入與不入之時，不可不熟論也」仍在判斷國君何時入秦的戰略時機，沒有另立對人的主張"
+    },
+    {
+      "chapter": "具備",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "「賢非衰也，智非愚也，皆無其具也」把賢智與成事條件分開，結論「雖賢必有其具然後可成」明說才能要有相應資源才可能建立功名"
+    },
+    {
+      "chapter": "具備",
+      "para_index": 2,
+      "domains": ["III", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "掣肘之喻使魯君察覺自己妨礙宓子，後文以「誠乎此者刑乎彼」「誠有誠乃合於情」說明真誠能使心意相通並影響他人；收束「說與治之務莫若誠」承重於溝通與誠信，並非認證超越力量"
+    }
+  ]
+}

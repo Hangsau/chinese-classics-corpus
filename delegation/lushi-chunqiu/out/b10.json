@@ -1,0 +1,334 @@
+{
+  "batch": "b10.md",
+  "rows": [
+    {
+      "chapter": "節喪",
+      "para_index": 1,
+      "domains": ["I", "X"],
+      "modes": ["proposition"],
+      "reason": "「知生也者，不以害生，養生之謂也；知死也者，不以害死，安死之謂也」把如何理解生命與死亡並列為人的根本課題，既論生命的本末，也正面處理死亡"
+    },
+    {
+      "chapter": "節喪",
+      "para_index": 2,
+      "domains": ["IV", "X"],
+      "modes": ["proposition"],
+      "reason": "「凡生於天地之間，其必有死」先確認死亡不可免，又以「孝子之重其親也，慈親之愛其子也，痛於肌骨，性也」說明親子之愛與不忍棄死者之情如何生成葬義"
+    },
+    {
+      "chapter": "節喪",
+      "para_index": 3,
+      "domains": ["IV", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「父雖死，孝子之重之不怠；子雖死，慈親之愛之不懈」把喪葬連到持續的親子之愛；又以「徒以生者之誹譽為務」批評為榮名侈葬，區分真心為死者與虛榮炫示"
+    },
+    {
+      "chapter": "節喪",
+      "para_index": 4,
+      "domains": ["IV", "VII"],
+      "modes": ["proposition"],
+      "reason": "「民之於利也，犯流矢，蹈白刃……以求之」直說逐利足以壓過危險與禁令；末以「苟便於死……慈親孝子者之所不辭為也」反定真正親情應以死者之便為準，兼論貪欲品性與喪親責任"
+    },
+    {
+      "chapter": "安死",
+      "para_index": 1,
+      "domains": ["X", "I"],
+      "modes": ["proposition"],
+      "reason": "「夫死，其視萬歲猶一瞚也」以死後的無窮尺度反觀「久之不過百」的人壽，指出以短促生年規劃死亡必然失當，承重在有限生命與死亡的尺度"
+    },
+    {
+      "chapter": "安死",
+      "para_index": 2,
+      "domains": ["X"],
+      "modes": ["proposition"],
+      "reason": "「未有不亡之國也；無不亡之國者，是無不抇之墓也」由國必亡推到厚墓終必被掘，所說的是財富、國家與墓葬都逃不過時間流失的無常"
+    },
+    {
+      "chapter": "安死",
+      "para_index": 3,
+      "domains": ["IV", "VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「憚耕稼采薪之勞……祈美衣侈食之樂」把盜墓者寫成避勞逐樂的品性；「先王以儉節葬死也……以為死者慮也」則把薄葬落在真正替所愛死者設想的喪葬責任"
+    },
+    {
+      "chapter": "安死",
+      "para_index": 4,
+      "domains": ["IV", "II"],
+      "modes": ["proposition"],
+      "reason": "「夫愛之而反危之」揭出愛人者可能因不知如何愛而反害所愛，落在喪葬中的關係責任；後半「反以相非，反以相是」又明說人在未定是非前會倒置判斷並投入鬥爭，承重在認知迷惑"
+    },
+    {
+      "chapter": "安死",
+      "para_index": 5,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "孔子見「主人以璵璠收」便越過常禮疾趨而諫，段末明判「非禮也；雖然，以救過也」，藉喪葬事件說明守禮與制止錯誤衝突時的倫理取捨"
+    },
+    {
+      "chapter": "異寶",
+      "para_index": 1,
+      "domains": ["I", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "孫叔敖「知不以利為利矣，知以人之所惡為己之所喜」，不按俗眾的眼前利益決定所取；故事把何者值得珍視的輕重判斷連到不逐利的品格"
+    },
+    {
+      "chapter": "異寶",
+      "para_index": 2,
+      "domains": ["VII"],
+      "modes": ["narrative"],
+      "reason": "江上丈人拒絕國家重賞與「千金之劍」，並使「名不可得而聞，身不可得而見」，故事承載的是施助而不取利、不求留名的品格"
+    },
+    {
+      "chapter": "異寶",
+      "para_index": 3,
+      "domains": ["I", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "子罕說「子以玉為寶，我以不受為寶」，把珍寶從外物改定為不受財物的操守，既重排人生所寶，也具體落在拒利行為"
+    },
+    {
+      "chapter": "異寶",
+      "para_index": 4,
+      "domains": ["I"],
+      "modes": ["proposition"],
+      "reason": "由兒子取摶黍、鄙人取百金、賢者取至言，收束為「其知彌精，其所取彌精；其知彌觕，其所取彌觕」，直接主張理解層次決定一個人認為何者最值得取"
+    },
+    {
+      "chapter": "異用",
+      "para_index": 1,
+      "domains": ["XI"],
+      "modes": ["proposition"],
+      "reason": "「國廣巨，兵彊富，未必安也……在於用之」否定資源本身決定結局，並以桀紂、湯武用同類之材而成亡或王，明說人的運用能使既有條件走向相反結果"
+    },
+    {
+      "chapter": "異用",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "湯撤去三面之網並讓禽獸自行趨避，諸國因而說「湯之德及禽獸矣」而歸附；故事以克制捕盡之欲的行為顯德，也說明領導者如何取得群體信服"
+    },
+    {
+      "chapter": "異用",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "文王以「有一國者，一國之主也」承擔無主枯骨的安葬責任，天下由「澤及髊骨，又況於人乎」認出其賢；所承載的是領導責任與憐恤品格如何由行動被看見"
+    },
+    {
+      "chapter": "異用",
+      "para_index": 4,
+      "domains": ["IV", "V"],
+      "modes": ["narrative", "ritual"],
+      "reason": "孔子以持杖、揖杖、置杖等不同動作問候公、父母、兄弟與妻子，明說藉此「諭貴賤之等，辨疏親之義」，用儀節區分社會位階與家內親疏"
+    },
+    {
+      "chapter": "異用",
+      "para_index": 5,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition"],
+      "reason": "同是射藝與飴，古人、仁人用來「長幼養老」「養疾侍老」，今人與盜跖卻用於「攻戰侵奪」「開閉取楗」；對舉明說工具的善惡後果取決於人的用途選擇"
+    },
+    {
+      "chapter": "仲冬紀",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "「日在斗」「律中黃鐘」登錄仲冬曆數配應，「土事無作，無發蓋藏」則是依此月下達的閉藏政令；疾疫與喪仍是失時後果，沒有脫離月份另立人的主張"
+    },
+    {
+      "chapter": "仲冬紀",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization", "ritual"],
+      "reason": "「秫稻必齊，麴糱必時……兼用六物」逐項規格化仲冬釀造，又命有司「祈祀四海大川名原淵澤井泉」，全是當月制度與祭祀條目"
+    },
+    {
+      "chapter": "仲冬紀",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "「農有不收藏積聚者……取之不詰」及野虞教導、侵奪治罪，都是掛在「是月也」下的收藏、田獵與山澤管理條文"
+    },
+    {
+      "chapter": "仲冬紀",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization", "ritual"],
+      "reason": "「日短至」是整段槓桿，「君子齋戒，處必弇……安形性」是配合冬至陰陽未定的齋戒槽位，並與芸生、蚯蚓結、伐木取竹同列月令，不另作修身命中"
+    },
+    {
+      "chapter": "仲冬紀",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "「可以罷官之無事者，去器之無用者」及修築囹圄皆以「助天地之閉藏」為仲冬條件，是季節性的官務與營造規程"
+    },
+    {
+      "chapter": "仲冬紀",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「行夏令」「行秋令」「行春令」分別配列旱、雨汁、大兵、蟲螟與疾癘，是錯行他季政令的災異對照表，內容不脫仲冬月令"
+    },
+    {
+      "chapter": "至忠",
+      "para_index": 1,
+      "domains": ["V", "II"],
+      "modes": ["proposition"],
+      "reason": "「至忠逆於耳、倒於心」說忠言會觸犯接受者感受，而人主一面惡暴劫、一面「惡聞忠言」又日日招致它；樹根之喻揭出領導者因拒絕逆耳資訊而自我破壞的盲點"
+    },
+    {
+      "chapter": "至忠",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "申公子培冒「暴不敬之名」及死罪以保王，段末又明定「人知之不為勸，人不知不為沮」，把忠臣責任落在不因賞識或誤解而改變的操守"
+    },
+    {
+      "chapter": "至忠",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "文摯明知「非怒王則疾不可治，怒王則摯必死」仍以死治王，收束說「夫忠於治世易，忠於濁世難」及其為太子「行難以成其義」，承載亂世中的忠責與捨身成義"
+    },
+    {
+      "chapter": "忠廉",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "所寫之士以不可受辱為重，故「利不足以虞其意」，具體表現在居官不汙、將眾不撓及「便於主利於國」便不辭殺身，直接界定公共責任中的廉潔與忠勇品格"
+    },
+    {
+      "chapter": "忠廉",
+      "para_index": 2,
+      "domains": ["II", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "要離自判殺妻子為不仁、殺新主為不義，又以受人饒命為辱，因而不接受分國；「臨大利而不易其義」把自我尊嚴與不為賞利所動的廉操一併說出"
+    },
+    {
+      "chapter": "忠廉",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "弘演在君死國亡後「殺身出生以徇其君」，且其行動使衛國「宗廟復立，祭祀不絕」；故事把忠臣的自我犧牲連到延續共同體的責任與後果"
+    },
+    {
+      "chapter": "當務",
+      "para_index": 1,
+      "domains": ["VII", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「辨而不當論，信而不當理，勇而不當義，法而不當務」指出才辯、信用、勇力與法若離開正當目的反會致亂，主張能力與德性都須由其實際所行是否當義、當務衡量"
+    },
+    {
+      "chapter": "當務",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "盜跖以「中藏，聖也；入先，勇也；出後，義也；知時，智也；分均，仁也」替成盜步驟套上五德名稱，末句只判「辨若此不如無辨」；這是盜術的德目改名與詭辯例，不按字面作人格肯定"
+    },
+    {
+      "chapter": "當務",
+      "para_index": 3,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "直躬告發父親又請代死，孔子卻指出他「一父而載取名焉」，因而判「直躬之信，不若無信」；故事拆穿以父親反覆博取信孝名聲的家庭背叛與偽德"
+    },
+    {
+      "chapter": "當務",
+      "para_index": 4,
+      "domains": ["VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "兩名好勇者以彼此身肉為肉而「相啖，至死而止」，收束「勇若此，不若無勇」，用可辨的傷害後果裁斷脫離義理的勇不是德"
+    },
+    {
+      "chapter": "當務",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "太史只據「有妻之子，而不可置妾之子」的身分條文決定太子，段末僅收在「用法若此，不若無法」；這是繼承法適用失當的制度短例，沒有另說人何以如此"
+    },
+    {
+      "chapter": "長見",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "「智所以相過，以其長見與短見也」直接把人的智識差異繫於眼光長短，並主張由審今、知古而推知後世，所論是可辨的理解與遠見能力"
+    },
+    {
+      "chapter": "長見",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "荊文王使屢以義禮違逆自己的莧譆受爵，反把「持養吾意、吾所欲則先我為之」的申侯伯送走；後者終因阿順被殺，故事區分領導者應容納的正直與應遠離的逢迎"
+    },
+    {
+      "chapter": "長見",
+      "para_index": 3,
+      "domains": ["VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "師曠不從眾工之說，因「後世有知音者，將知鐘之不調也」堅持重鑄，後來師涓果然驗出不調；故事承載專業判斷超越當下共識及對長期品質負責"
+    },
+    {
+      "chapter": "長見",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "太公「尊賢上功」與周公「親親上恩」各自預測齊魯國勢，後文只登錄齊大而易姓、魯削而亡的政策後果；段落在比較治國路線，沒有另把人的樣態說成依據"
+    },
+    {
+      "chapter": "長見",
+      "para_index": 5,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "吳起說「君知我而使我畢能，西河可以王」，又因君主聽讒而預見西河將失；後果證成領導者是否識任人才，會決定才能能否施展及共同體興衰"
+    },
+    {
+      "chapter": "長見",
+      "para_index": 6,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "魏王把公叔痤薦鞅的遠見視為「悖」，後來秦強魏弱證明判斷倒置；「夫悖者之患，固以不悖為悖」直接說出自蔽者會把清醒當悖亂，也呈現領導者誤判人才與忠告的後果"
+    },
+    {
+      "chapter": "審分",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「公作則遲，有所匿其力也；分地則速，無所匿遲也」明說人在共同作業與責任分明時會投入不同程度的勞力，並以此作為君臣分責、防止藏邪的領導依據"
+    },
+    {
+      "chapter": "審分",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「凡為善難，任善易」以人乘車任驥勝過徒步競走說明授任，並明言適當分工會使「眾善皆盡力竭能」；所論是領導者委任與人才能力發揮的關係"
+    },
+    {
+      "chapter": "審分",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「自怙恃，奪其智能，多其教詔，而好自以」把人主自恃、奪下之能的行為具體列出，並接百官擾亂、權威分移的後果，承重在專斷品性如何損害領導責任"
+    },
+    {
+      "chapter": "審分",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "王良控轡使馬只是譬喻，落點明定人主使臣之轡為「正名審分，是治之轡已」；整段只給如何駕馭群臣的治術，未另解釋人為何如此"
+    },
+    {
+      "chapter": "審分",
+      "para_index": 5,
+      "domains": ["II", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「按其實而審其名」要求辨名實，又說堯舜之臣「不獨義」、桀紂之臣「不獨鄙」，差別在「得其數」「失其理」；文本否定固定品題，主張人的表現受角色安排與領導方法左右"
+    },
+    {
+      "chapter": "審分",
+      "para_index": 6,
+      "domains": ["V", "II"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「以牛為馬，以馬為牛」譬喻任用中的名實倒置，並以「故至治之務，在於正名」確立領導與職分原則；後文「神通乎六合」只是無為君術的效能修辭，不作信仰判讀，整段承重仍在正名、名實與治責"
+    }
+  ]
+}

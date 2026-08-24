@@ -1,0 +1,320 @@
+{
+  "batch": "b11.md",
+  "rows": [
+    {
+      "chapter": "君守",
+      "para_index": 1,
+      "domains": ["II", "V"],
+      "modes": ["proposition"],
+      "reason": "「其出彌遠者，其知彌少」與「眾智眾能之所持也」把個人耳目智慮的限度說成君主必須深藏己智、任用群能的依據，兼涉自我認知與領導分工。"
+    },
+    {
+      "chapter": "君守",
+      "para_index": 2,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "魯鄙人與大師文兩則故事收在「思慮自心傷也，智差自亡也，奮能自殃」；後文又說人主好自為會使「守職者舍職而阿主之為」，把自恃的盲點連到諂媚與職分顛倒。"
+    },
+    {
+      "chapter": "君守",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「此六人者所作當矣，然而非主道者」區分專門創作之能與領導之職；「任天下而不彊，此之謂全人」把善任眾工而不強作定為完整的君道。"
+    },
+    {
+      "chapter": "任數",
+      "para_index": 1,
+      "domains": ["II", "V"],
+      "modes": ["proposition"],
+      "reason": "「人主以好暴示能，以好唱自奮，人臣以不爭持位，以聽從取容」明說上下各自的自逞與求容；「君臣易操」又使耳目心知失效，故同時涉及自我蒙蔽與權責失序。"
+    },
+    {
+      "chapter": "任數",
+      "para_index": 2,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "韓昭釐侯察豕的故事由申不害反斷為「何以知其聾？以其耳之聰也」；段末直說「耳目心智，其所以知識甚闕」，以認知限度論證君主應因任而非自智。"
+    },
+    {
+      "chapter": "任數",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "齊桓公三次令有司「以告仲父」，結尾只以「桓公得管子，事猶大易」示範得臣後政事易辦，是委政的治理成效鏈，沒有另說人的樣態。"
+    },
+    {
+      "chapter": "任數",
+      "para_index": 4,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "孔子因顏回攫飯而誤判，親自承認「所信者目也，而目猶不可信；所恃者心也，而心猶不足恃」；「知人固不易矣」落在察覺自身判人限制，也關乎識人。"
+    },
+    {
+      "chapter": "勿躬",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「人之意苟善，雖不知可以為長」把善意而非事事親知列為領導條件；「人君而好為人官」則指出越俎代官會自蔽並陷入衰、暗、倦。"
+    },
+    {
+      "chapter": "勿躬",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「此二十官者，聖人之所以治天下也」先作發明者與官能登錄，後以「聖王不能二十官之事，然而使二十官盡其巧、畢其能」說君術效能；「神合乎太一」「精通乎鬼神」也是無為君術修辭，不是信仰主張。"
+    },
+    {
+      "chapter": "勿躬",
+      "para_index": 3,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "管子逐項承認「臣不若」五位專才，並以「不任己之不能，而以盡五子之能」說明知己所不能與任人；末稱「名實相保」，把自知、職名與領導責任相連。"
+    },
+    {
+      "chapter": "知度",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「知百官之要，故事省而國治也」與「明於人主之所執，故權專而姦止」只列君主掌要、百官行事的治理鏈，未另提出人的樣態。"
+    },
+    {
+      "chapter": "知度",
+      "para_index": 2,
+      "domains": ["II", "V"],
+      "modes": ["proposition"],
+      "reason": "「賢不肖各反其質。行其情，不雕其素」把人能否復其本質列為治世根據；又依「工拙愚智勇懼」使人「各當其任」，將人的差異連到合宜職分。"
+    },
+    {
+      "chapter": "知度",
+      "para_index": 3,
+      "domains": ["II", "V"],
+      "modes": ["proposition"],
+      "reason": "「人主自智而愚人，自巧而拙人」使請示無窮；更嚴重的是「窮而不知其窮，其患又將反以自多」，明說領導者的自高與不自知如何堵塞治理。"
+    },
+    {
+      "chapter": "知度",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "趙襄子以「吾舉登也，已耳而目之矣」拒絕無窮複核，結論「襄子何為任人，則賢者畢力」把信任薦舉者與賢才盡力連成用人主張。"
+    },
+    {
+      "chapter": "知度",
+      "para_index": 5,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「人主之患，必在任人而不能用之」指出任賢而又與不知者共議的領導弊病；以「量小大而知材木矣，訾功丈而知人數矣」說明才能配置與成事所需。"
+    },
+    {
+      "chapter": "知度",
+      "para_index": 6,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「夫成王霸者固有人，亡國者亦有人」把成敗繫於所用之人；「非其人而欲有功，譬之若夏至之日而欲夜之長也」明說錯置人才便不可能成就功業。"
+    },
+    {
+      "chapter": "慎勢",
+      "para_index": 1,
+      "domains": ["V", "XI"],
+      "modes": ["proposition"],
+      "reason": "「吞舟之魚，陸處則不勝螻蟻」說能力隨所處之勢而變；「權鈞則不能相使，勢等則不能相并」再把處境制約落到權力關係與治亂。"
+    },
+    {
+      "chapter": "慎勢",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「天下之地，方千里以為國」規定國土尺度，並以「眾封建……所以便勢全威」列封建配置的制度效用；它仍是疆域與權勢的制度條文。"
+    },
+    {
+      "chapter": "慎勢",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「彌近彌大，彌遠彌小」規定封國遠近與大小，「以大使小，以重使輕，以眾使寡」只說層級配置如何便於驅使，是制度安排。"
+    },
+    {
+      "chapter": "慎勢",
+      "para_index": 4,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「賢雖十全，不能成功」明說德才若無可藉之勢仍不能成事；「凡王也者，窮苦之救也」又界定掌勢者對困苦之民的領導責任。"
+    },
+    {
+      "chapter": "慎勢",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "逐兔之喻指出「由未定」便使百人競逐，而「分已定，人雖鄙不爭」；文本以人的欲求與爭競反應，論證權位、嫡庶和名分必須明定。"
+    },
+    {
+      "chapter": "慎勢",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「楚三圍宋矣而不能亡」記三次圍城結果，末句「凡功之立也，賢不肖彊弱治亂異也」仍只歸納攻戰成敗條件，沒有另談人的人生處境。"
+    },
+    {
+      "chapter": "慎勢",
+      "para_index": 7,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "齊簡公以「非而細人所能識也」拒絕諸御鞅的預警，事敗才悔；收束「不知恃可恃而恃不恃」把不能辨識可信之言的盲點連到領導失敗，「喟焉太息」只是敘事反應。"
+    },
+    {
+      "chapter": "不二",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "列舉諸家各有所貴後，以「愚智工拙，皆盡力竭能」承認群體才性不同，並主張用共同法令「一心」「一眾」「一力」使各種能力協同。"
+    },
+    {
+      "chapter": "執一",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「軍必有將」「國必有君」「天子必執一」只規定組織權柄須歸一，御馬四人各執一策的比喻也只證成「一則治，兩則亂」的制度鏈。"
+    },
+    {
+      "chapter": "執一",
+      "para_index": 2,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "詹子以「為國之本在於為身」回答楚王，並由「身為而家為，家為而國為」逐層推出天下之治，明確把自我修為當成公共領導的根本。"
+    },
+    {
+      "chapter": "執一",
+      "para_index": 3,
+      "domains": ["XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "田駢答齊王時把政術推廣為「變化應來而皆有章，因性任物而莫不宜當」，主張依事物之性回應變化；此處取其人能順變而調整的一讀。"
+    },
+    {
+      "chapter": "執一",
+      "para_index": 4,
+      "domains": ["II", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "吳起只見三項所長，卻「見其所以長，而不見其所以短；知其所以賢，而不知其所以不肖」；末以「知長短贏絀之化」說明全身全國須靠自知長短並辨勢之變。"
+    },
+    {
+      "chapter": "有始",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「天地合和，生之大經也」與「物合而成，離而生」說的是天地生成、合離與形情的宇宙原理，沒有在登錄之外另說人的人生問題。"
+    },
+    {
+      "chapter": "有始",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「天有九野，地有九州，土有九山」總列天地山澤風水的類目與數目，是後續名物登錄的綱目。"
+    },
+    {
+      "chapter": "有始",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「中央曰鈞天，其星角、亢、氐」以下逐方配列九野與星宿，是方位、天區和星名的技術對應。"
+    },
+    {
+      "chapter": "有始",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「河、漢之間為豫州，周也」以下逐項對應九州、地理區間與國名，是地理名物登錄。"
+    },
+    {
+      "chapter": "有始",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「會稽，太山，王屋，首山」至「孟門」只是九山名稱清單，未提出關於人的主張。"
+    },
+    {
+      "chapter": "有始",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「大汾，冥阨，荊阮，方城」至「居庸」逐一登錄九塞名目，內容止於地理分類。"
+    },
+    {
+      "chapter": "有始",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「吳之具區，楚之雲夢，秦之陽華」以下以國別配列九藪，是澤藪名稱與所在的登錄。"
+    },
+    {
+      "chapter": "有始",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「東北曰炎風，東方曰滔風」以下把八方與八風名稱一一配對，是方位名物系統。"
+    },
+    {
+      "chapter": "有始",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「河水，赤水，遼水，黑水，江水，淮水」僅列六川名稱，是水系名物清單。"
+    },
+    {
+      "chapter": "有始",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「東西二萬八千里，南北二萬六千里」及水道、通谷、名川諸數是四海尺度與水系數量登錄，數字不轉成人的問題。"
+    },
+    {
+      "chapter": "有始",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「東西五億有九萬七千里，南北亦五億有九萬七千里」只登錄四極的東西南北尺度。"
+    },
+    {
+      "chapter": "有始",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「極星與天俱游，而天極不移」陳述極星與天極的天文位置關係，仍屬天地技術登錄。"
+    },
+    {
+      "chapter": "有始",
+      "para_index": 13,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「冬至日行遠道」「夏至日行近道」以及日中無影、呼而無響，登錄至日運行與天地中心的天文地理條件。"
+    },
+    {
+      "chapter": "有始",
+      "para_index": 14,
+      "domains": ["I"],
+      "modes": ["proposition"],
+      "reason": "此處選整體觀而非單純類目收束的一讀：「天地萬物，一人之身也，此之謂大同」把一人之身與天地萬物置於同一整體，說的是人置身萬物秩序的存在關係。"
+    },
+    {
+      "chapter": "應同",
+      "para_index": 1,
+      "domains": ["XII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "“凡帝王者之將興也，天必先見祥乎下民”由文本直接認證天先示祥，黃帝、禹、湯、文王諸例則把祥兆配給將興之王；後段類感例證是技術側，不另成 XII 的理由。"
+    },
+    {
+      "chapter": "應同",
+      "para_index": 2,
+      "domains": ["XI", "XII"],
+      "modes": ["proposition"],
+      "reason": "“天降災布祥，並有其職”明確認證天降災祥；同一句隨即以“以言禍福人或召之也”把禍福部分推回人的作為，故認證側與人可改變的破除側並存。"
+    },
+    {
+      "chapter": "應同",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "“凡人之攻伐也，非為利則因為名也”直接提出攻伐者求利或求名的動機，並以“惟治為足”論證良好治理才能使求利求名者不攻；落點是人事與國治，不是天意。"
+    }
+  ]
+}

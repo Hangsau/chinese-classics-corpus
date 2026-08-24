@@ -1,0 +1,278 @@
+{
+  "batch": "b17.md",
+  "rows": [
+    {
+      "chapter": "孝行",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「人臣孝，則事君忠，處官廉，臨難死」與「士民孝，則耕芸疾，守戰固」立即把孝換算成官廉、耕戰等治國收益；這是以孝為治理槓桿的政策鏈，未另說人的樣態"
+    },
+    {
+      "chapter": "孝行",
+      "para_index": 2,
+      "domains": ["IV", "VII"],
+      "modes": ["proposition"],
+      "reason": "「愛其親，不敢惡人；敬其親，不敢慢人」把事親的愛敬推到不惡、不慢他人的具體品行，親屬實踐與品格後果都由段內文字承重"
+    },
+    {
+      "chapter": "孝行",
+      "para_index": 3,
+      "domains": ["IV", "VII"],
+      "modes": ["prescription"],
+      "reason": "「身者，父母之遺體也」確立身體來自父母，又以「居處不莊」「朋友不篤」等可辨行為界定不孝，兼說事親與品格實踐"
+    },
+    {
+      "chapter": "孝行",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「刑三百，罪莫重於不孝」只登錄刑罰中罪等的最高排序，沒有拆解不孝行為，也沒有另說人為何如此"
+    },
+    {
+      "chapter": "孝行",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「貴德，貴貴，貴老，敬長，慈幼」是五項治理綱目，且明收在「先王之所以定天下也」；後文只以近聖、近君、近親等配置名目，未提出治理之外的人的樣態"
+    },
+    {
+      "chapter": "孝行",
+      "para_index": 6,
+      "domains": ["IV"],
+      "modes": ["prescription"],
+      "reason": "「父母全之，子弗敢闕」並以不游危舟、不走捷徑、保全肢體等行為說明「以守宗廟」，把孝拆成可實行的事親與傳承責任"
+    },
+    {
+      "chapter": "孝行",
+      "para_index": 7,
+      "domains": ["IV"],
+      "modes": ["prescription", "formalization"],
+      "reason": "此段灰區採「養行為的拆解」一讀：「修宮室，安床笫，節飲食」至「龢顏色，說言語，敬進退」把善養分成五類可辨照護行為，不只是一串供物名目"
+    },
+    {
+      "chapter": "孝行",
+      "para_index": 8,
+      "domains": ["IV", "VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "樂正子春「傷足，瘳而數月不出，猶有憂色」，自承「余忘孝道，是以憂」；結語「身者非其私有也，嚴親之遺躬也」使憂愧的內在經驗落在親子孝責上"
+    },
+    {
+      "chapter": "孝行",
+      "para_index": 9,
+      "domains": ["IV", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「其行孝曰養。養可能也，敬為難。敬可能也，安為難。安可能也，卒為難」把孝逐級拆成養、敬、安、終，並以「無遺父母惡名」落實為終身的家庭與品格實踐"
+    },
+    {
+      "chapter": "本味",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「功名之立，由事之本也，得賢之化也」把成事的根本放在得賢，又以「非賢其孰知乎事化」明說人才的能力是功名成立的依據"
+    },
+    {
+      "chapter": "本味",
+      "para_index": 2,
+      "domains": ["V", "VIII", "XII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「夢有神告之曰：‘臼出水而東走，毋顧。’」隨後以邑沒於水、其母化為空桑認證神告應驗；後半又以「相得然後樂」「相為殫智竭力」說賢主與賢士相得而成大功。V、VIII 分別由用人合作與功名成就承重，XII 由有意圖的神告及其應驗承重，少一格便漏掉段內一條明說"
+    },
+    {
+      "chapter": "本味",
+      "para_index": 3,
+      "domains": ["III", "V", "X"],
+      "modes": ["narrative", "proposition"],
+      "reason": "鍾子期能聽出伯牙「志在太山」「志在流水」，承載被理解的知音關係；「鍾子期死，伯牙破琴絕弦，終身不復鼓琴」承載失去；末句「無禮以接之，賢奚由盡忠」再轉到禮遇人才。三格各對應知音、死亡失落與用人轉論，不能互相替代"
+    },
+    {
+      "chapter": "本味",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "前半雖長列至味，末尾明轉為「道者止彼在己，己成而天子成」與「成己所以成人也」，把領導他人與成事建立在先成就自身品格之上"
+    },
+    {
+      "chapter": "首時",
+      "para_index": 1,
+      "domains": ["VIII", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「似緩而急、似遲而速以待時」說明延後行動不等於懈怠；文王、武王與太公望的事例共同承重「時固不易得」，把成事繫於主動等待時機"
+    },
+    {
+      "chapter": "首時",
+      "para_index": 2,
+      "domains": ["VIII", "XI"],
+      "modes": ["narrative"],
+      "reason": "伍子胥說服王子光後「退而耕於野七年」，段末明斷「鄉之耕，非忘其父之讎也，待時也」，故事所承載的是為達成志業而延宕、等待可行時機"
+    },
+    {
+      "chapter": "首時",
+      "para_index": 3,
+      "domains": ["VIII", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "田鳩繞道楚國才得見秦王，後文直說「有道之士未遇時，隱匿分竄，勤以待時」及「人雖智而不遇時無功」，把能力能否成事與時機是否相合分開"
+    },
+    {
+      "chapter": "首時",
+      "para_index": 4,
+      "domains": ["V", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「眾因之以殺子陽、高國」寫群眾乘勢而動，收束「當其時，狗牛猶可以為人唱，而況乎以人為唱乎」則把集體行動是否被帶起繫於偶發時機與帶頭者"
+    },
+    {
+      "chapter": "首時",
+      "para_index": 5,
+      "domains": ["VI", "XI"],
+      "modes": ["proposition"],
+      "reason": "飢馬、飢狗未見食物時嗼然、見之則「動不可禁」，用來說亂世之民見賢者便趨赴，且明言「往者非其形，心之謂乎」；末以「天不再與，時不久留」指出內在趨向須遇短暫時機才發動"
+    },
+    {
+      "chapter": "義賞",
+      "para_index": 1,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "賞罰合義能使「忠信親愛之道彰」，久而「民之安之若性」；賞罰不當則使「姦偽賊亂貪戾之道興」而同樣積久若性，明說制度反覆能塑成或改壞品格"
+    },
+    {
+      "chapter": "義賞",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "雍季以「詐偽之道，雖今偷可，後將無復」區分短期取勝與長久品格，文公又以「一時之務」不得先於「百世之利」安排賞次；故事說的是領導者用獎賞公開選擇何種德行"
+    },
+    {
+      "chapter": "義賞",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "高赦在國危、身困時仍「與寡人交而不失君臣之禮」，襄子因此先賞；此處不是空泛品題，而是以逆境中不失責分的具體行為界定所賞品格與君臣責任"
+    },
+    {
+      "chapter": "長攻",
+      "para_index": 1,
+      "domains": ["VIII", "XI"],
+      "modes": ["proposition"],
+      "reason": "「湯、武雖賢，其王遇桀、紂也」與良農「未必收」的比喻都說能力與努力不能單獨保證成果；功業仍須「遇時雨」一類外在機遇才能成立"
+    },
+    {
+      "chapter": "長攻",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "吳王面對存亡算計仍說「不仁不義，雖得十越，吾不為也」，具體呈現領導者在國家利害與仁義品格間所作的選擇；其後被擒使這一選擇的政治代價也成為故事承重部分"
+    },
+    {
+      "chapter": "長攻",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "本段只敘楚王與蔡侯設宴襲息，終止於「遂取息。旋，舍於蔡，又取蔡」，提供的是如何用詐謀攻取兩國的事件經過，沒有收回對人的看法"
+    },
+    {
+      "chapter": "長攻",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "從「先君之命」登夏屋察代，到伏兵反斗殺代君與其妻「磨笄以自刺」，全段承載趙襄子取代的計謀與史事；死亡只作事件結果，未轉成對失去、親情或品格的論斷"
+    },
+    {
+      "chapter": "長攻",
+      "para_index": 5,
+      "domains": ["II", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「不備遵理，然而後世稱之，有功故也」直指後世會因成果而給人美名，把人物評價如何受成功遮蔽與功業本身並置來談"
+    },
+    {
+      "chapter": "慎人",
+      "para_index": 1,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition"],
+      "reason": "段落反覆區分「遇堯，天也」與舜耕陶漁、禹求賢利民等「人也」，末以「修身積善為義，以憂苦於民」說人在機遇之外仍能以品格修為承擔自己的部分"
+    },
+    {
+      "chapter": "慎人",
+      "para_index": 2,
+      "domains": ["II", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "舜由勞作凍餒轉為天子而「賢非加也」，即使盡無天下也「賢非損也」；「時使然也」明把自身賢德與處境、名位的變化分開"
+    },
+    {
+      "chapter": "慎人",
+      "para_index": 3,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "百里奚被任用後「謀無不當，舉必有功，非加賢也」，說被看見前後其才德未變；「人主之欲求士者，不可不務博」再把這一辨識問題落到領導者廣求人才的責任"
+    },
+    {
+      "chapter": "慎人",
+      "para_index": 4,
+      "domains": ["I", "XIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "孔子困於陳蔡仍以「內省而不疚於道，臨難而不失其德」安頓患難；收束「所樂非窮達也，道得於此，則窮達一也」更把安樂的來源放在所得之道，而非順逆處境"
+    },
+    {
+      "chapter": "遇合",
+      "para_index": 1,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「時不合，必待合而後行」先說任用須遇合，後又指出僥倖得位者「必不勝其任」；結語「君子不處幸，不為苟，必審諸己然後任」把不靠幸進落成自我審慎的品格"
+    },
+    {
+      "chapter": "遇合",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「凡能聽說者，必達乎論議者也」明說判斷說辭需要相應專業，而「世主之能識論議者寡」則把說客遇合不當連到領導者欠缺辨識能力"
+    },
+    {
+      "chapter": "遇合",
+      "para_index": 3,
+      "domains": ["III", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "女子外藏財物被逐，顯示親密關係中的好意會被讀成「外心」；「遇合也無常」以下又以美醜、甘脆、大臭有人喜歡及文王三年習慣昌蒲葅，說關係是否相合與偏好都非固定必然"
+    },
+    {
+      "chapter": "遇合",
+      "para_index": 4,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "陳侯因私愛讓敦洽讎糜治國，終致「三月然後喪」，呈現好惡與外觀如何扭曲能力判斷；末以「凡舉人之本，太上以志，其次以事，其次以功」提出領導者選人的評量次序"
+    },
+    {
+      "chapter": "必己",
+      "para_index": 1,
+      "domains": ["IV", "V", "XI"],
+      "modes": ["proposition"],
+      "reason": "總論「外物不可必」由兩條關係分別承重：「忠未必信」說君臣忠誠不能保證被信任，「孝未必愛」說親子孝行不能保證被愛。V、IV 分別記錄君臣與親子，XI 記錄兩者共有的外在不可控，三格少一便漏掉一條平行例證或總命題"
+    },
+    {
+      "chapter": "必己",
+      "para_index": 2,
+      "domains": ["XI", "XIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "材與不材都可能招累，莊子遂說應「與時俱化，而無肯專為」且「物物而不物於物」；這既承認萬物成毀離合不可必，也提出不被外物役使的自處方式"
+    },
+    {
+      "chapter": "必己",
+      "para_index": 3,
+      "domains": ["XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "牛缺因被知而遭追殺、孟賁因不被知而受辱，故明斷「知與不知，皆不足恃」；連和調也「猶未可必」，數則故事共同說禍福傳及與外在判斷都不可保證"
+    },
+    {
+      "chapter": "必己",
+      "para_index": 4,
+      "domains": ["XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "張毅以恭敬求全身卻內熱而死，單豹離俗養生卻為虎食；野人反被鄙人的說法打動，又收在「說如此其無方也而猶行，外物豈可必哉」，明說固定方法與外在結果都不足保證"
+    },
+    {
+      "chapter": "必己",
+      "para_index": 5,
+      "domains": ["II", "XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「敬人而不必見敬，愛人而不必見愛」區分自己的行動與他人的反應；「君子必在己者，不必在人者也」把可依靠之處放回自身，明說如何面對不可控的外在回應"
+    }
+  ]
+}

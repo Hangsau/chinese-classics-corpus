@@ -1,0 +1,201 @@
+{
+  "batch": "b16.md",
+  "rows": [
+    {
+      "chapter": "先識",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「有道者必先去」與「民從於賢」把國家存亡繫於賢者去留；「賢主得賢者而民得」直接提出領導者得人的社會依存原理"
+    },
+    {
+      "chapter": "先識",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "「暴虐百姓，窮其父兄，恥其功臣，輕其賢良，棄義聽讒」列出桀的具體失德行為，並以「眾庶咸怨，守法之臣，自歸于商」呈現暴政使民怨、守法臣離去的政治後果"
+    },
+    {
+      "chapter": "先識",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "「沈于酒德，辟遠箕子」與「賞罰無方，不用法式，殺三不辜」以具體行為刻畫紂的失德；「民大不服，守法之臣，出奔周國」落在失去民臣的政治後果"
+    },
+    {
+      "chapter": "先識",
+      "para_index": 4,
+      "domains": ["V", "VII", "XII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「天生民而令有別。有別，人之義也，所異於禽獸麋鹿也」明定人的道德區別（VII）；「求國之長者」並「以為諫臣，去苛令」落在領導與進諫（V）；「國之興也，天遺之賢人與極言之士」又把天寫成有意安排興亡人選（XII），三義各自承重"
+    },
+    {
+      "chapter": "先識",
+      "para_index": 5,
+      "domains": ["V", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「若使中山之王與齊王，聞五盡而更之，則必不亡矣」說亡勢可由聽聞後改變（XI）；「其患不聞，雖聞之又不信」與「人主之務，在乎善聽」把存亡落在領導者納諫能力（V）"
+    },
+    {
+      "chapter": "觀世",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「有道之士，必禮必知，然後其智能可盡也」同時說明領導者須識士禮士（V），以及人才必在被理解、尊重後才能充分發揮智能（VIII）"
+    },
+    {
+      "chapter": "觀世",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「俗人有功則德，德則驕」直說施恩後自矜的常態；晏子「反屈下之」且「遂以為客」，以謙下及尊重修補社會關係，故兼涉品格（VII）與待人用人（V）"
+    },
+    {
+      "chapter": "觀世",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「受人之養，而不死其難則不義，死其難則死無道也」揭出受養與效忠的社會責任兩難（V）；列子「方有饑寒之患矣，而猶不苟取」以困厄中的不苟取具體呈現操守（VII）"
+    },
+    {
+      "chapter": "知接",
+      "para_index": 1,
+      "domains": ["II", "V"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「無由接之患，自以為智，智必不接」把不能受知歸於自以為智的自欺，而「自知弗智」提出自知的反面可能（II）；「故亡國非無智士也，非無賢者也，其主無由接故也」說領導者接不住賢智才致危亡（V）"
+    },
+    {
+      "chapter": "知接",
+      "para_index": 2,
+      "domains": ["II", "IV", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "管仲以「人之情，非不愛其子也」及「人之情，非不愛其父也」把親屬之愛說成人情常態（IV）；桓公最終「固卻其忠言，而愛其所尊貴也」，既呈現偏愛遮蔽判斷（II），也呈現君主拒諫、誤用近臣的領導失敗（V），三層各非彼此替代"
+    },
+    {
+      "chapter": "悔過",
+      "para_index": 1,
+      "domains": ["II", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「智亦有所不至」指出人的認知有邊界，屬於對自身能力限度的認識（II）；「說者雖辯，為道雖精，不能見矣」又說明教說無法越過受者理解範圍（VIII）"
+    },
+    {
+      "chapter": "悔過",
+      "para_index": 2,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "繆公之敗被收束為「智不至也。智不至則不信」，把拒諫歸因於認知所不及（II）；「言之不信，師之不反也從此生」顯示領導者不信忠告造成軍政決策災難（V）"
+    },
+    {
+      "chapter": "樂成",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "「大器晚成」直接主張重大才器與成就需要較長時間形成，「大智不形」補充真正能力未必立即顯露，核心是才能與成就的成熟（VIII）"
+    },
+    {
+      "chapter": "樂成",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「禹之所見者遠也，而民莫之知」對比領導者遠見與群眾當下不解（V）；「民不可與慮化舉始，而可以樂成功」以治水成敗說明開創工作只能在完成後獲認可（VIII）"
+    },
+    {
+      "chapter": "樂成",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "魯人與鄭人由初時譏刺轉為三年後稱頌，文本據此說「當民之誹訿也而因弗遂用，則國必無功矣」；「此二君者，達乎任人也」把成就（VIII）繫於領導者能否承受議論並持續用人（V）"
+    },
+    {
+      "chapter": "樂成",
+      "para_index": 4,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「舟車之始見也，三世然後安之」說新事物需時方被接受；樂羊見兩篋反對書後由「有貴功之色」轉而歸功於君，並以「皆壹於為，則無敗事矣」主張艱難成就（VIII）有賴領導與群臣同向（V）"
+    },
+    {
+      "chapter": "樂成",
+      "para_index": 5,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「臣為之，民必大怨臣」與水成後「民大得其利」呈現公共工程前後的民意反轉；「誠能決善，眾雖諠譁而弗為變」說領導者（V）須在喧譁中持守判斷，才能「立功」（VIII）"
+    },
+    {
+      "chapter": "察微",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「治亂存亡，其始若秋毫」主張公共局勢的起點細微難辨；「察其秋毫，則大物不過矣」要求治理者在初始徵兆上運用判斷，承重在領導責任（V）"
+    },
+    {
+      "chapter": "察微",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "子貢不取金被判為「自今以往，魯人不贖人矣」，子路受牛則使「魯人必拯溺者矣」；故事說明個人的取受選擇會改變群體善行誘因（V），並把德行（VII）落到是否促成後續救助的行為後果"
+    },
+    {
+      "chapter": "察微",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["narrative", "prescription"],
+      "reason": "邊境處女受傷後，報復由「怒殺而去之」一路擴為吳楚戰爭；收束「凡持國，太上知始，其次知終，其次知中」把辨識衝突起點與防止失控定為治理責任（V）"
+    },
+    {
+      "chapter": "察微",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "羊斟因未得饗而驅車入敵只是戰敗例證，段末明定「戰，大機也」並收在「故凡戰必悉熟偏備，知彼知己，然後可也」；它只給戰場準備與操控條件，未另說人的樣態"
+    },
+    {
+      "chapter": "察微",
+      "para_index": 5,
+      "domains": ["V", "VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "昭公「不知仲、叔氏之恐而與季氏同患也」顯示恐懼如何促成政治結盟（VI）；「不達乎人心，位雖尊，何益於安也」把理解群體動機列為領導與權力運作的條件（V）"
+    },
+    {
+      "chapter": "去宥",
+      "para_index": 1,
+      "domains": ["II", "V", "X"],
+      "modes": ["narrative", "proposition"],
+      "reason": "惠王「不以善為之愨，而徒以取少主為之悖」顯示先入之見取代內容判斷（II），並使君主「失所以為聽」而誤國（V）；末句「人之老也，形益衰，而智益盛」另直接談老年身體衰退與心智增長（X），三者各有獨立句證"
+    },
+    {
+      "chapter": "去宥",
+      "para_index": 2,
+      "domains": ["V", "VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「數怒人主，以為姦人除路」揭出操弄君主情緒以排除賢者的權力機制（V）；「激主則悖，悖則無君子矣」把被激怒後失度的內在反應說成因果（VI）"
+    },
+    {
+      "chapter": "去宥",
+      "para_index": 3,
+      "domains": ["II"],
+      "modes": ["narrative", "proposition"],
+      "reason": "鄰人因求薪而反疑樹議、攫金者「殊不見人，徒見金耳」，兩例都把偏執遮蔽知覺具體化；「人有所宥者，固以晝為昏，以白為黑」及「必別宥然後知」直接處理自欺偏見與恢復判斷（II）"
+    },
+    {
+      "chapter": "正名",
+      "para_index": 1,
+      "domains": ["II", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「說淫則可不可而然不然，是不是而非不非」說語言可扭曲是非與名實（II）；「名正則治，名喪則亂」把這種辨名責任連到公共秩序（V），末段並規定君子之說的界限"
+    },
+    {
+      "chapter": "正名",
+      "para_index": 2,
+      "domains": ["II", "V"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「其患在乎所謂賢、從不肖也，所為善、而從邪辟」指出君主以錯名自以為用賢聽善，是名實與自我判斷的錯置（II）；齊王因而信任、任用錯人，落在領導與用人（V）"
+    },
+    {
+      "chapter": "正名",
+      "para_index": 3,
+      "domains": ["II", "V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「事親則孝，事君則忠，交友則信，居鄉則悌」把士的德性拆成具體關係行為（VII）；「未失其四行也」卻被王改稱為辱，揭出士之名與實、君主自相矛盾的認定（II）；「民無罪則罰之」又落到公共刑罰不公（V），三格各承一層"
+    }
+  ]
+}

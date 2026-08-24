@@ -1,0 +1,257 @@
+{
+  "batch": "b12.md",
+  "rows": [
+    {
+      "chapter": "去尤",
+      "para_index": 1,
+      "domains": ["II", "VI"],
+      "modes": ["proposition"],
+      "reason": "「所以尤者多故，其要必因人所喜，與因人所惡」把聽判失真追到個人的喜惡；「意有所在也」又指出注意被既有意向占住，故涉及自我盲點與內在偏好"
+    },
+    {
+      "chapter": "去尤",
+      "para_index": 2,
+      "domains": ["II"],
+      "modes": ["narrative", "proposition"],
+      "reason": "亡鈇者先把鄰人一切舉止都看成偷鈇，得鈇後觀感全改；「其鄰之子非變也，己則變矣」明說改變的是判斷者自己，揭示成見造成的自欺"
+    },
+    {
+      "chapter": "去尤",
+      "para_index": 3,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "邾君因公息忌家中製組而撤回政令，卻未按甲具本身判斷；「為甲以組而便，公息忌雖多為組何傷也」及「用組之心，不可不察也」把公共決策的失誤歸到對說者動機的偏執"
+    },
+    {
+      "chapter": "去尤",
+      "para_index": 4,
+      "domains": ["II", "VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "魯父「彼以至美不如至惡，尤乎愛也」，顯示愛著會倒置美惡判斷；投金時恐懼又以「外有所重者，泄蓋內掘」指出外在所重會擾亂內在與行動"
+    },
+    {
+      "chapter": "去尤",
+      "para_index": 5,
+      "domains": ["II", "VI"],
+      "modes": ["proposition"],
+      "reason": "「齊人之欲得金也，及秦墨者之相妒也，皆有所乎尤也」直接把欲得與相妒列為偏執判斷的來源，說的是內在欲妒如何形成認知盲點"
+    },
+    {
+      "chapter": "聽言",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「善不善本於義，不於愛」要求以義而非偏愛辨善惡；又以「誅不辜之民以求利」和見弱國便欲襲取的對照，裁斷統治者在公義與權力上的雙重標準，末以憂黔首為務"
+    },
+    {
+      "chapter": "聽言",
+      "para_index": 2,
+      "domains": ["VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「凡人亦必有所習其心，然後能聽說」把理解言說視為須訓練的能力；「不學而能聽說者，古今無有也」更明言學問是養成此能力的必要途徑"
+    },
+    {
+      "chapter": "謹聽",
+      "para_index": 1,
+      "domains": ["II", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「通乎己之不足」是接納諫言的起點；亡國之主卻「乃自賢而少人，少人則說者持容而不極」，明說領導者的自滿會壓抑真話，並要求連自以為已知者也加以查驗"
+    },
+    {
+      "chapter": "謹聽",
+      "para_index": 2,
+      "domains": ["II", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「太上知之，其次知其不知。不知則問，不能則學」把自知無知與求問學習連成具體行動；「不知而自以為知，百禍之宗也」則明斷自欺的後果"
+    },
+    {
+      "chapter": "謹聽",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "太公在紂世失而為文王所得，落點是「天子失之而千乘得之，知之與不知也」；「有道之士，必禮必知，然後其智能可盡」說明領導者如何辨識、尊重並使人才盡能"
+    },
+    {
+      "chapter": "務本",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "俗主之佐「皆患其身不貴於國也，而不患其主之不貴於天下也」，以私利壓過公共責任；末段「處官則荒亂，臨財則貪得」又把品格缺失拆成任官與臨財時可辨的行為"
+    },
+    {
+      "chapter": "務本",
+      "para_index": 2,
+      "domains": ["II", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「無功伐而求榮富，詐也；詐誣之道，君子不由」裁斷無功求榮的品格；「己，所制也，釋其所制，而奪乎其所不制，誖」則要求先處理可由自己掌握的行為，再據已做到之事論人"
+    },
+    {
+      "chapter": "務本",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "我把灰區末句「此二士者皆近知本矣」回接本段前述「必先服能然後任，必反情然後受。主雖過與，臣不徒取」，讀成臣子任職受祿前須驗能反情、不徒取的忠誠行為準則"
+    },
+    {
+      "chapter": "諭大",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "舜、禹、湯、武王及孔墨雖未成其最大志業，仍各有成就；「夫大義之不成，既有成矣已」與「故務在事，事在大」主張以宏大志業帶出實際成就"
+    },
+    {
+      "chapter": "諭大",
+      "para_index": 2,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "前列大地、大山、大水所生之物是類比，收束句「凡謀物之成也，必由廣大眾多長久，信也」轉向謀事成就所需的規模、眾力與時間，故判作工作與成事原理"
+    },
+    {
+      "chapter": "諭大",
+      "para_index": 3,
+      "domains": ["IV", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "燕雀寓言以不知火禍譏臣下只顧一家之樂；「一國盡亂，無有安家；一家皆亂，無有安身」明說家庭與國家安危相連，「小大貴賤，交相為恃」則提出上下群體互相依存"
+    },
+    {
+      "chapter": "離俗",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「世之所不足者，理義也；所有餘者，妄苟也」先判世俗品格失衡；又以駿馬亦有短、繩墨取木則宮室不成，指出肯定清廉理義不等於要求人毫無缺點"
+    },
+    {
+      "chapter": "離俗",
+      "para_index": 2,
+      "domains": ["I", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "石戶之農等四士拒位赴死後，文本總結其「視富貴也，苟可得已，則必不之賴」且「高節厲行，獨樂其意」，是在寫不受利益權勢牽引的生命取向與品格選擇"
+    },
+    {
+      "chapter": "離俗",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "餘子為失戟之責返戰，叔無孫依「君子濟人於患，必離其難」同行赴死；收束「人主之欲得廉士者，不可不務求」把不卸責、救人於難的品格連到領導者求士用人的責任"
+    },
+    {
+      "chapter": "離俗",
+      "para_index": 4,
+      "domains": ["II", "VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "賓卑聚僅在夢中受辱便「終夜坐不自快」，並以尋不到辱己者就死來維持自我形象；文本雖說「謂此當務則未也」，仍特別評其「心之不辱」，故涉及榮辱認同與受辱情緒"
+    },
+    {
+      "chapter": "高義",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「君子之窮通，有異乎俗者也」以是否誠義重定窮通；應辭不當之賞、受確當之罰，且須「內反於心不慚然後動」，把義落實為依良心行動的準則"
+    },
+    {
+      "chapter": "高義",
+      "para_index": 2,
+      "domains": ["VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "孔子因主張未被施行而拒受廩丘，理由是「君子當功以受祿」；段末以「取舍不苟也夫」明確評斷其不以無功之賞改變取捨的操守"
+    },
+    {
+      "chapter": "高義",
+      "para_index": 3,
+      "domains": ["I", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "墨子說「越王不聽吾言、不用吾道，雖全越以與我，吾無所用之」，把實踐其道置於封國利益之上；末評「恐虧其義而辭之，可謂能守行矣」，呈現志業意義與守義品格"
+    },
+    {
+      "chapter": "高義",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "子囊退兵後請死，因「遁者無罪，則後世之為王將者，皆依不利之名而效臣遁」，是在為公共職責與後世先例承擔後果；「子囊之節，非獨厲一世之人臣也」明評其節義能砥礪臣子"
+    },
+    {
+      "chapter": "高義",
+      "para_index": 5,
+      "domains": ["IV", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "石渚面對父親犯法，直陳「以父行法，不忍；阿有罪，廢國法，不可。失法伏罪，人臣之義也」；後又分說不私親之孝與不枉法之忠，具體呈現親子責任和公共法義的衝突"
+    },
+    {
+      "chapter": "上德",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "本段不只給施政結果，也以「愛惡不臧，虛素以公」拆出公正無私的領導品格，並以「嚴罰厚賞，此衰世之政也」反對只靠賞罰的權力方式"
+    },
+    {
+      "chapter": "上德",
+      "para_index": 2,
+      "domains": ["VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "舜拒絕禹的攻伐請求而說「以德可也」，並以「行德三年，而三苗服」把德行連到非武力的實際後果；孔子再以「德之速，疾乎以郵傳命」肯定這種品格力量"
+    },
+    {
+      "chapter": "上德",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "被瞻願以「殺臣以免國，臣願之」承擔忠諫後果；收束明言其「忠於其君」使鄭免患、行義又獲文公理解，並由「故義之為利博矣」評斷忠義對國與人際的廣大作用"
+    },
+    {
+      "chapter": "上德",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "孟勝說若不死，世人將不再向墨者求「嚴師」「賢友」「良臣」，並以「死之所以行墨者之義而繼其業者也」說明對角色信任與共同道義的承擔；「嚴罰厚賞，不足以致此」明指此種忠誠不能由獎懲製造"
+    },
+    {
+      "chapter": "用民",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「凡用民，太上以義，其次以賞罰」列的是使民的手段等級；「民無常用也，無常不用也，唯得其道為可」仍把人的反應完全鎖在是否得用民之道的政策鏈上，未另說人生領域"
+    },
+    {
+      "chapter": "用民",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「其民非不可用也，不得所以用之也」只把大國兵少診斷為未得動員方法，末句「用民之論，不可不熟」也明示全段仍在討論如何使民，沒有獨立的人之樣態主張"
+    },
+    {
+      "chapter": "用民",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「劍不徒斷，車不自行，或使之也」與種麥得麥都是工具、播種類比；落點「不審其種，而祈民之用」只要求審查使民的投入方法，屬用民政策鏈"
+    },
+    {
+      "chapter": "用民",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「欲榮利，惡辱害」在下一句立即被換算為「辱害所以為罰充也，榮利所以為賞實也」，全段用欲惡建立賞罰如何使民的紀綱，未讓欲惡成為獨立的人生主張"
+    },
+    {
+      "chapter": "用民",
+      "para_index": 5,
+      "domains": ["VI", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "闔廬、句踐試民是用兵例證，但末句另說「勇者以工，懼者以拙，能與不能也」，把勇懼差異明確追到熟練與不能，因而同時承重情緒狀態與能力養成"
+    },
+    {
+      "chapter": "用民",
+      "para_index": 6,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「夙沙之民，自攻其君，而歸神農。密須之民，自縛其主，而與文王」呈現民眾會轉移歸屬；收束「三代之道無二，以信為管」把跨越既有臣屬的合作建立在信任上，故涉及群體歸屬與領導關係"
+    },
+    {
+      "chapter": "用民",
+      "para_index": 7,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "宋人只學造父威馬而不學其道，映照人主「不得其道，而徒多其威。威愈多，民愈不用」；「故威不可無有，而不足專恃」及威須託於愛利，說明領導權力須受關懷利益節制，不能專靠恐嚇"
+    }
+  ]
+}
