@@ -1,0 +1,187 @@
+{
+  "batch": "b12.md",
+  "rows": [
+    {
+      "chapter": "汾水",
+      "para_index": 1,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）先記水功造成的群體代價，「苦役連年，轉運所經，凡三百八十九隘，死者無算。」承載公共責任問題；又以「訓隱括知其難立，具言肅宗，肅宗從之，全活數千人。」寫鄧訓判斷工程不可行並促成止役，呈現才幹的實際成效；「和熹鄧后之立，叔父陔以爲訓積善所致也。」更把後果明繫於積善，形成品格評斷"
+    },
+    {
+      "chapter": "汾水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄，「東南過晉陽縣東，晉水從縣南東流注之。」"
+    },
+    {
+      "chapter": "汾水",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）只作郡城、碑祠及史事位置登錄；「水上舊有梁，青荓殞于梁下，豫讓死于津側，亦襄子解衣之所在也。」所記死亡只是地點所繫史事，沒有寫人在面對死亡或另下人的評斷"
+    },
+    {
+      "chapter": "汾水",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄，「又南，洞過水從東來注之。」"
+    },
+    {
+      "chapter": "汾水",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）只校定梗陽故城及洞過水會流位置，「汾水又南逕梗陽縣故城東，故榆次之梗陽鄉也，魏獻子以邑大夫魏戊也。」屬水道與地望登錄"
+    },
+    {
+      "chapter": "汾水",
+      "para_index": 6,
+      "domains": ["III", "V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "注文（酈注）所引賈辛軼事以「辛貌醜，妻不爲言，與之如臯，射雉雙中之則笑也。」具體寫婚姻中的拒絕與回應；九原問答又以「納諫不忘其師，言身不失其友」提出師友關係的準則，並用「事君不援而進，不阿而退。」界定不攀援、不阿附的操守"
+    },
+    {
+      "chapter": "汾水",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄，「又南過平陶縣東，文水從西來流注之。」"
+    },
+    {
+      "chapter": "汾水",
+      "para_index": 8,
+      "domains": ["VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "注文（酈注）引晉文公自承封山的用意，「以志吾過，且旌善人。」同時把記過與表彰善人說成明確的品格判斷；其餘卒年、奔喪與碑銘套語不另作領域依據"
+    },
+    {
+      "chapter": "汾水",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）只登錄汾津道路的地勢與偏梁閣道形制，「數十里間道險隘，水左右悉結偏梁閣道，累石就路，縈帶巖側」未及於人的處境或評斷"
+    },
+    {
+      "chapter": "汾水",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄，「又南入河東界，又南過永安縣西。」"
+    },
+    {
+      "chapter": "汾水",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）只交代彘縣的沿革與霍伯都邑，「故彘縣也，周厲王流于彘，即此城也。」屬地名所繫史事"
+    },
+    {
+      "chapter": "汾水",
+      "para_index": 12,
+      "domains": ["XII"],
+      "modes": ["narrative", "ritual"],
+      "reason": "注文（酈注）不只登錄岳廟位置，而直接認證其靈驗及祭祀感應：「廟甚靈，鳥雀不棲其林，猛虎常守其庭，又有靈泉以供祭祀，鼓動則泉流，聲絶則水竭。」"
+    },
+    {
+      "chapter": "汾水",
+      "para_index": 13,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）只校記澗水所出、所逕及入汾位置，「其水西流入于汾水。汾水逕楊城西，不于東矣。」屬水道與地望考辨"
+    },
+    {
+      "chapter": "汾水",
+      "para_index": 14,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「亂流西北逕高梁城北，西流入于汾水。」登錄支流會合，所附秦納重耳、智伯築城等只是地方史事，未形成對人的看法"
+    },
+    {
+      "chapter": "汾水",
+      "para_index": 15,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以城邑、廟碑、陵墓和水道沿革為主；「淵以爲天授，改永鳳二年爲河瑞元年。」只記劉淵如何解讀出土印璽與改元，注文並未認證神應或另下人的評斷"
+    },
+    {
+      "chapter": "汾水",
+      "para_index": 16,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）只登錄天井水的泉源、流向及入汾處，「其水三泉奇發，西北流，總成一川，西逕堯城南，又西流入汾。」"
+    },
+    {
+      "chapter": "汾水",
+      "para_index": 17,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "注文（酈注）登錄汾水所逕與舊梁尺寸，並以「物在水，故能持久而不敗也。」作物理保存原因的判斷；命題只關於梁柱，未落到人的人生問題"
+    },
+    {
+      "chapter": "汾水",
+      "para_index": 18,
+      "domains": ["IV"],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）在大段水道與城邑登錄中另載夫妻行實，「昔臼季使，過冀野，見郤缺耨，其妻饁之，相敬如賓，言之文公，文公命之爲卿，復與之冀。」以具體相處寫出婚姻中的相敬"
+    },
+    {
+      "chapter": "汾水",
+      "para_index": 19,
+      "domains": ["XII"],
+      "modes": ["observation", "ritual"],
+      "reason": "注文（酈注）不止記神廟、祠名與祭日，而以「山上有神廟，廟側有靈泉，祈祭之日，周而不耗，世亦謂之子推祠。」斷言靈泉在祈祭時周用不竭，將祭祀與效驗相連；後文介推地望辨誤不另標 XI"
+    },
+    {
+      "chapter": "汾水",
+      "para_index": 20,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄，「又西至汾陰縣北，西注于河。」"
+    },
+    {
+      "chapter": "汾水",
+      "para_index": 21,
+      "domains": ["XII"],
+      "modes": ["narrative"],
+      "reason": "注文（酈注）把望氣所得徵兆與其後實際獲鼎相接，「汾陰男子公孫祥望氣，寶物之精上見，祥言之于武帝，武帝于水獲寶鼎焉。」以敘事認證占候與寶物出現的感應"
+    },
+    {
+      "chapter": "澮水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄，「出河東絳縣東澮交東高山，」"
+    },
+    {
+      "chapter": "澮水",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "注文（酈注）由智氏失國的軼事提出掌權者言語與邦國存亡的關係，「魯定公問：一言可以喪邦，有諸？孔子以爲幾乎，余覩智氏之談矣。」不是單純戰事登錄，而是對權力與領導後果的判斷"
+    },
+    {
+      "chapter": "澮水",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation", "ritual"],
+      "reason": "注文（酈注）記遷都地望，並以「首陽之神，有大貍身狐尾，其名曰者，飲酒得福，則徼之，蓋于是水之上也。」交代神名、形貌與祈福地點，屬傳說來源及祭祀技術登錄，沒有另說人的生活或品格"
+    },
+    {
+      "chapter": "澮水",
+      "para_index": 4,
+      "domains": ["V", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "注文（酈注）引師曠以「作事不時，怨讟動于民，則有非言之物言也。」把石言異象轉回民怨所動，破除石頭自行言語的詞面；又以「今宮室崇侈，民力彫盡，石言不亦宜乎。」直指統治奢侈耗盡民力及其公共後果"
+    },
+    {
+      "chapter": "澮水",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "注文（酈注）只敘王澤所繫的神異傳說與傳物記事，「遇三人于此澤，自帶以下不見，持竹二節與原過曰：爲我遺無䘏。」未認證德行感應，也未形成關於人的評斷"
+    }
+  ]
+}

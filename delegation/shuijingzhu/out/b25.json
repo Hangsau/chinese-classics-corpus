@@ -1,0 +1,159 @@
+{
+  "batch": "b25.md",
+  "rows": [
+    {
+      "chapter": "13",
+      "para_index": 3,
+      "domains": ["VII", "VIII", "IX"],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）以「三徵而輒不至。次仲履真懷道，窮數術之美。」把拒絕強召與持守志行相連，承載品格判斷；又記「郡人王次仲，少有異志，年及弱冠，變蒼頡舊文爲今隸書。秦始皇時官務煩多，以次仲所易文簡，便于事要，奇而召之」，寫出改造文字以應事務之需的才能與成就；另明言「此水炎熱，倍甚諸湯，下足便爛人體，療疾者要須別引，消息用之耳，不得言。」指出療疾者的身體風險與使用分寸"
+    },
+    {
+      "chapter": "13",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「㶟水又南出山，瀑布飛梁，懸河注壑，漰湍十許丈，謂之落馬洪，抑亦孟門之流也。」續錄水勢，又以「俗亦謂之曰千水，非也。」校正俗名，只屬水道與地名考辨，未及於人"
+    },
+    {
+      "chapter": "13",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["observation", "proposition"],
+      "reason": "注文（酈注）所引表文說「晉司隸校尉王密表靖，功加于民，宜在祀典。」把功業是否惠民作為應否入祀典的判準，承載公共功責評價；其餘為城池、馬像、陵墓與水道登錄"
+    },
+    {
+      "chapter": "13",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "13",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）引俗諺「高梁無上源，清泉無下尾。」並以支流分散、津流微薄解釋其義，只屬水勢與水名考辨，未及於人"
+    },
+    {
+      "chapter": "濕餘水",
+      "para_index": 1,
+      "domains": ["VI"],
+      "modes": ["observation"],
+      "reason": "注文（酈注）寫山關聲景時指出「曉禽暮獸，寒鳴相和，羈官遊子，聆之者莫不傷思矣。」直接呈現羈官遊子因所聞而生的傷思"
+    },
+    {
+      "chapter": "濕餘水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "濕餘水",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「濕餘水又東南流，左合芹城水」等句登錄支流與城址；公孫瓚敗走、吳漢受拜只用來定位舊城，未下對人的判斷"
+    },
+    {
+      "chapter": "濕餘水",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "濕餘水",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）雖記「昔彭寵使狐奴令王梁南助光武，起兵自是縣矣。」但只以史事定位縣城，餘文為濕餘水入沽河的水道登錄，未及於人的活法或評價"
+    },
+    {
+      "chapter": "沽河",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）雖記「并州刺史王霸爲燕所敗，退保此城。」但只作城址沿革，餘文為河源、支流、里數與地名考辨，未下對人的判斷"
+    },
+    {
+      "chapter": "沽河",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "沽河",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "注文（酈注）記張堪施政，「漁陽太守張堪，于縣開稻田，教民種殖，百姓得以殷富。」以教民生產而使百姓富足的因果承載公共治理與民生責任；又以「視事八年，匈奴不敢犯塞。」寫出其長期任職所達成的治安功效"
+    },
+    {
+      "chapter": "沽河",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "沽河",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）只以「濕水入焉，俗謂之合口也。」登錄合流處與俗名，未及於人"
+    },
+    {
+      "chapter": "沽河",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "沽河",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「沽水又東南合清河，今無水。」記水道今昔，並列諸水同歸於海，只屬水系登錄，未及於人"
+    },
+    {
+      "chapter": "鮑丘水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "鮑丘水",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）在戰事定位之外說「公孫瓚既害劉虞，烏丸思劉氏之德，迎其子和，合衆十萬，破瓚于是水之上，斬首一萬。」把對劉氏之德的記憶寫成群體追隨與政治行動的原因"
+    },
+    {
+      "chapter": "鮑丘水",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["formalization", "narrative"],
+      "reason": "注文（酈注）所錄修堰故事以「諸部王侯，不召而自至，繦負而事者，蓋數千人。《詩》載經始勿亟，《易》稱民忘其勞，斯之謂乎。」評述公共工程如何使群眾自願投入，承載治理與群體責任；又記「乃使帳下丁鴻，督軍士千人，以嘉平二年，立遏於水，導高梁河，造戾陵遏，開車箱渠。」具體呈現勘治水勢、組織人力並完成工程的工作成就"
+    },
+    {
+      "chapter": "鮑丘水",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "鮑丘水",
+      "para_index": 5,
+      "domains": ["IV", "V", "VII", "IX", "XII"],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）引《搜神記》說「雍伯，洛陽人，至性篤孝，父母終殁，葬之於無終山，山高八十里，而上無水，雍伯置飲焉，有人就飲，與石一斗，令種之，玉生其田。」以葬親與置飲的行動承載孝親；又記帛仲理「又于是山作金五千斤以救百姓。」寫出救濟百姓的公共責任；碑文所載「情不好寶，玉田自去」把不貪寶物連到具體後果，形成品格判斷；溫泉段明言「養疾者不能澡其炎漂，以其過灼故也。」呈現療養者所受的身體限制；《陽氏譜叙》以「愛人博施，天祚玉田」認證德行招致天賜的超越因果"
+    }
+  ]
+}

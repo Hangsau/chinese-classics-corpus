@@ -1,0 +1,110 @@
+{
+  "batch": "b14.md",
+  "rows": [
+    {
+      "chapter": "07",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄：「濟水出河東垣縣東王屋山，爲沇水；」未越出水源與水名。"
+    },
+    {
+      "chapter": "07",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）雖以水道與聲訓爲主，「君而殘之，無乃不可乎。公乃出陽人。」仍把君主不得殘害所治之民及其回應寫成公共權力的判斷，命中 V。"
+    },
+    {
+      "chapter": "07",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄：「又東至溫縣西北，爲濟水。又東過其縣北，」只列流向與所過縣境。"
+    },
+    {
+      "chapter": "07",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「濟水故瀆于溫城西北東南出，逕溫城北，又東逕虢公冢北。」續記故瀆、城址與冢址，並校驗河道變遷，屬水道及地望登錄，未對人下斷語。"
+    },
+    {
+      "chapter": "07",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄：「屈從縣東南流，過隤城西，又南當鞏縣北，南入于河。」只列流向、所過城地與入河處。"
+    },
+    {
+      "chapter": "07",
+      "para_index": 6,
+      "domains": ["V"],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）在李城地望中敘「秦攻趙，邯鄲且降，傳舍吏子李同說平原君勝，分家財饗士，得敢死者三千人，李同與赴秦軍，秦軍退。」李同散家財聚士、親赴危局而退敵，已超出戰地登錄，承重在群體動員與公共責任，命中 V。"
+    },
+    {
+      "chapter": "07",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄：「與河合流，又東過成臯縣北，又東過滎陽縣北，又東至礫溪南，東出過滎澤北。」只列合流及所過地點。"
+    },
+    {
+      "chapter": "07",
+      "para_index": 8,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）在長篇水道登錄中保留三組承重人事：「項伯曰：爲天下者不顧家，但益怨耳。羽從之。」以天下責任約束私家考量，命中 V；「項羽拔滎陽獲苛曰：吾以公爲上將軍，封三萬戶侯，能盡節乎？苛瞋目罵羽，羽怒，烹之。」寫周苛面對利誘仍守節，命中 VII；「漢明帝之世，司空伏恭薦樂浪人王景，字仲通，好學多藝，善能治水。」指出王景的才藝與治水能力，命中 VIII。"
+    },
+    {
+      "chapter": "07",
+      "para_index": 9,
+      "domains": ["VIII"],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）多在追記地名、祠寢與祥異，但「平少爲社宰，以善均肉稱，今民祠其社。」明寫陳平以一項具體職務能力獲得聲名，超出官歷登錄，命中 VIII；招魂、祠社與出生祥異未另作人的超越判斷。"
+    },
+    {
+      "chapter": "07",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「濟瀆又東逕酸棗縣之烏巢澤，澤北有故市亭。」定位澤、亭與長城故址；所引戰事只作地望憑據，未形成對人的判斷。"
+    },
+    {
+      "chapter": "07",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）所記「縣有臨濟亭，田儋死處也。」只是亭址與死亡地點登錄；誰死在此不構成面對死亡的書寫，故不命中 X。"
+    },
+    {
+      "chapter": "07",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「東逕濟陽縣故城北，圈稱《陳留風俗傳》曰：縣，故宋地也。」交代故城方位與沿革，屬地望、封國登錄，未及人的生活判斷。"
+    },
+    {
+      "chapter": "07",
+      "para_index": 13,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄：「又東過冤朐縣南，又東過定陶縣南，」只列所過縣境。"
+    },
+    {
+      "chapter": "07",
+      "para_index": 14,
+      "domains": ["VII", "VIII"],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）大部登錄陵墓與城邑，但范蠡一則以「富好行德」明寫致富後的德行取向，命中 VII；又以「治產致千金，富好行德，子孫修業，遂致巨萬。」交代經營、致富與後續事業成果，命中 VIII。"
+    },
+    {
+      "chapter": "07",
+      "para_index": 15,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）引「張晏曰：氾水在濟陰界，取其氾愛弘大而潤下也。」只作氾水名稱的名義訓詁；離開水名不另成對人的斷語，其餘亦爲支流會合登錄。"
+    }
+  ]
+}

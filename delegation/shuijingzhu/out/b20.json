@@ -1,0 +1,138 @@
+{
+  "batch": "b20.md",
+  "rows": [
+    {
+      "chapter": "濁漳水",
+      "para_index": 15,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "注文（酈注）引《春秋左傳》敘荀吳圍鼓：「鼓人告食竭力盡，而後取之，克鼓而返，不戮一人，以鼓子鳶鞮歸，既獻而返之。」把克城時對軍民與俘者的節制寫成公共權力的選擇；「獲一邑而教民怠，將焉用邑也。賈怠無卒，棄舊不祥，鼓人能事其君，我亦能事吾君，率義不爽，好惡不愆，城可獲也。」則明斷忠義、好惡與用兵品格"
+    },
+    {
+      "chapter": "濁漳水",
+      "para_index": 16,
+      "domains": ["XII"],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）敘白衣老父指路而不可復得，「尋求老父不得，議者以爲神。」記錄人們把不可解的援助理解為神明介入，命中信仰與超越；其餘為衡漳水道登錄"
+    },
+    {
+      "chapter": "濁漳水",
+      "para_index": 17,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "濁漳水",
+      "para_index": 18,
+      "domains": ["XII"],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）以擔生故事解釋淵湖稱名，「邑人有行于途者，見一小蛇，疑其有靈，持而養之，名曰擔生，長而吞噬人，里中患之，遂捕繫獄，擔生負而奔，邑淪爲湖，縣長及吏咸爲魚矣。」把疑其有靈所引發的豢養及里中受害連在一起，屬人對神異信念過度的一側；其餘為水道與地名登錄"
+    },
+    {
+      "chapter": "濁漳水",
+      "para_index": 19,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "濁漳水",
+      "para_index": 20,
+      "domains": [],
+      "modes": ["observation", "ritual"],
+      "reason": "注文（酈注）以「少翁是縣人，遭秦之亂，漁釣隱身，墜淵而死。景帝立，后遣使者填以葬父，起大墳于觀津城東南，故民號曰青山也。」說明青山稱名與墓葬沿革，又以「又東逕董仲舒廟南。仲舒，廣川人也，世猶謂之董府君祠，春秋禱祭不輟。」登錄祠廟祭祀；兩者都未就死亡或信仰另下人身判斷"
+    },
+    {
+      "chapter": "濁漳水",
+      "para_index": 21,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「楊津溝水又東北逕建成縣，左入衡水，謂之楊津口。」交代支流所逕與入水口，並校辨阜城地望，屬水道及城邑登錄"
+    },
+    {
+      "chapter": "濁漳水",
+      "para_index": 22,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "濁漳水",
+      "para_index": 23,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「清漳逕章武縣故城西，故濊邑也，枝瀆出焉，謂之濊水。」接續記水道分合，並考辨平舒、章武城名，未及於人"
+    },
+    {
+      "chapter": "清漳水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "清漳水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）以「秦伐趙閼與，惠文王使趙奢救之，奢納許歷之說，破秦于閼與，謂此也。」把戰事作為閼與地望旁證；其餘亦為水源、故城與引書異說的登錄，沒有對人的斷語"
+    },
+    {
+      "chapter": "清漳水",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "注文（酈注）說「漳水于此有涉河之稱，蓋名因地變也。」只解釋水名隨地而變，屬名義考辨，不是人的命運或改變"
+    },
+    {
+      "chapter": "清漳水",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "易水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）以「昔北平侯王譚，不從王莽之政，子興生五子，竝避時亂，隱居此山，故其舊居，世以爲五大夫城，卽此。」說明五大夫城稱名，後文續列五子封爵與水道；這是地名來源及官歷事實，未另作人的評判"
+    },
+    {
+      "chapter": "易水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "易水",
+      "para_index": 3,
+      "domains": ["I", "VI", "VIII", "X"],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）在地理敘述中另有四組承重句：「二館之城，澗曲泉淸，山髙林茂，風煙披薄，觸可棲情，方外之士，尚憑依舊居，取暢林木。」把山林寫成方外之士安頓生命與情志的所在；「諸耆舊咸言，昭王禮賓，廣延方士，至如郭隗、樂毅之徒，鄒衍、劇辛之儔，宦遊歴説之民，自遠而屆者多矣。」呈現招致與安置人才；「荊軻起爲壽，歌曰：風蕭蕭兮易水寒，壯士一去兮不復還。」直面赴死與不可復返；「髙漸離撃筑，宋如意和之，爲壯聲，士髮皆衝冠；爲哀聲，士皆流涕。」寫音聲引發的壯激與哀慟"
+    },
+    {
+      "chapter": "易水",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「易水逕縣南、鄚縣故城北，東至文安縣與滹沱合。」記水道所逕，又據疆界之說辨定南易之名，屬水道與名義考辨"
+    },
+    {
+      "chapter": "易水",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "易水",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）只以「《經》書水之所歴，沿次注海也。」說明《水經》依水程次序記至入海，屬水道編次說明"
+    }
+  ]
+}

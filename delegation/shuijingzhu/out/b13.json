@@ -1,0 +1,187 @@
+{
+  "batch": "b13.md",
+  "rows": [
+    {
+      "chapter": "涑水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文以「出河東聞喜縣東山黍葭谷，」登錄涑水源頭，未及於人"
+    },
+    {
+      "chapter": "涑水",
+      "para_index": 2,
+      "domains": ["VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "酈注先作水源與神名考辨，另以「臺駘，實沈之後，能業其官，帝用嘉之，國于汾川。」寫臺駘承任其官而因能力受嘉，涉及才能履職與成就"
+    },
+    {
+      "chapter": "涑水",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "酈注以「涑水西逕董池陂南，即古澤，東西四里，南北三里。」登錄水澤方位與尺度；所引戰事、封國與物產皆服務地望，未形成對人的斷語"
+    },
+    {
+      "chapter": "涑水",
+      "para_index": 4,
+      "domains": ["VII", "XII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "酈注引太子鬼魂故事，以「夷吾無禮，吾請帝以畀秦。」直接譴責無禮並連到報復，承載品格判斷；又以「故《傳》曰：鬼神所憑，有時而信矣。」明言鬼神憑依有時可信，屬超自然認證"
+    },
+    {
+      "chapter": "涑水",
+      "para_index": 5,
+      "domains": ["VI", "VIII", "XII"],
+      "modes": ["observation", "narrative"],
+      "reason": "酈注雖以地望與鹽池登錄為主，仍以「禹娶塗山氏女，思戀本國，築臺以望之，今城南門，臺基猶存。」把思鄉內在感受連到觀望行動；以「土俗裂水沃麻，分灌川野，畦水耗竭，土自成鹽，即所謂鹹鹺也，而味苦，號曰鹽田，鹽盬之名，始資是矣。」記錄地方勞作與製鹽方法；並以「有項寧都，學道升仙，忽復還此，河東號曰斥仙。」敘述修道與升仙，觸及超越信仰"
+    },
+    {
+      "chapter": "涑水",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文以「又南過解縣東，又西南注于張陽池。」登錄水流方位與歸注，未及於人"
+    },
+    {
+      "chapter": "涑水",
+      "para_index": 7,
+      "domains": ["VIII", "IX"],
+      "modes": ["narrative", "prescription"],
+      "reason": "酈注引《孔叢》，以「子欲速富，當畜五牸。于是乃適西河，大畜牛羊于猗氏之南，十年之間，其息不可計，貲擬王公，馳名天下，以興富于猗氏，故曰猗頓也。」把畜牧方法、十年積累與致富成就連起來；又以「猗頓，魯之窮士也，耕則常饑，桑則常寒。」明寫其勞作中長期飢寒的身體困境"
+    },
+    {
+      "chapter": "文水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文以「出大陵縣西山文谷，東到其縣，屈南到平陶縣東北，東入于汾。」登錄文水的源流與歸注，未及於人"
+    },
+    {
+      "chapter": "文水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "酈注以「俗云：暘雨愆時，是謁是禱，故山得其名，非所詳也。」交代謁泉山名的傳說來源並明言未詳，屬名義考辨；其餘為水道、城鎮與寺院登錄，沒有來源之外的人生斷語"
+    },
+    {
+      "chapter": "原公水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文以「出茲氏縣西羊頭山，東過其縣北，」登錄原公水源頭與流向，未及於人"
+    },
+    {
+      "chapter": "原公水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "酈注以「臣太農閻崇、離石令宗羣等二百三十四人，刊石立碑，以述勳德。」交代立碑者、數目與立碑目的；碑文所列封國、喪國及勳德是官歷譜系與碑文品題，沒有拆成行為標準或後果"
+    },
+    {
+      "chapter": "原公水",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "酈注以「水注文湖，不至汾也。」校正原公水的歸注，屬水道考辨，未及於人"
+    },
+    {
+      "chapter": "洞過水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "酈注以「水西阜上有原過祠，蓋懷道協靈，受書天使，憂結宿情，傳芳後日，棟宇雖淪，攢木猶茂，故水取名焉。」說明祠址與水名來源；頌語未拆成具體行為標準，屬祠廟、地名登錄"
+    },
+    {
+      "chapter": "洞過水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文以「西過榆次縣南，又西到晉陽縣南，」登錄洞過水所經縣界，未及於人"
+    },
+    {
+      "chapter": "洞過水",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "酈注以「縣南側水有鑿臺，韓、魏殺智伯瑤于其下，刳腹絶腸，折頸摺頤處也。」定位既往殺戮地點；這是誰死於何處的史事，並非人在面對死亡，其餘仍為水道與城邑登錄"
+    },
+    {
+      "chapter": "洞過水",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文以「西入于汾，出晉水下口者也。」登錄洞過水入汾的位置，未及於人"
+    },
+    {
+      "chapter": "洞過水",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "酈注以「劉琨之爲并州也，劉曜引兵邀擊之，合戰于洞過，即是水也。」用一次合戰定位水名，刪去只少一項戰事地望，沒有對人的評斷"
+    },
+    {
+      "chapter": "晉水",
+      "para_index": 1,
+      "domains": ["V", "XIII"],
+      "modes": ["narrative", "observation"],
+      "reason": "酈注引叔虞受封故事，以「公曰：天子無戲言。」提出君主言語須負公共責任的要求；又以「至有淫朋密友，羈遊宦子，莫不尋梁契集，用相娛慰，于晉川之中，最爲勝處。」寫朋友與羈旅者藉聚會遊賞相互娛樂慰藉，呈現安頓方式"
+    },
+    {
+      "chapter": "晉水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文以「又東過其縣南，又東入于汾水。」登錄晉水流向與歸注，未及於人"
+    },
+    {
+      "chapter": "晉水",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["narrative", "observation"],
+      "reason": "酈注在水渠登錄之外，以「漢末赤眉之難，郡掾劉茂負太守孫福匿于城門西下空穴中，其夜奔盂。」寫屬吏在亂中背負並藏護長官，承載危難中的角色責任與扶助"
+    },
+    {
+      "chapter": "湛水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "酈注以「是蓋聲形盡鄰，故字讀俱變，同于三豕之誤耳。」解釋湛水、椹水的音形訛變，屬聲訓與名義考辨，未及於人"
+    },
+    {
+      "chapter": "湛水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文以「東過其縣北，又東過波縣之北。」登錄湛水所經縣界，未及於人"
+    },
+    {
+      "chapter": "湛水",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "酈注以「湛水南逕向城東而南注。」登錄水流所經城址與方向，未及於人"
+    },
+    {
+      "chapter": "湛水",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "酈注以「原《經》所注，斯乃湨川之所由，非湛水之間關也，是乃《經》之誤證耳。」校正《經》的水道歸屬，屬地望與文本考辨，不是關於命運或改變的斷語"
+    },
+    {
+      "chapter": "湛水",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文以「又東南當平縣之東北，南入于河。」登錄湛水方位與入河處，未及於人"
+    },
+    {
+      "chapter": "湛水",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "酈注以「湛水又東南逕鄧，南流注于河，故河濟有鄧津之名矣。」登錄水流與鄧津得名，未及於人"
+    }
+  ]
+}
