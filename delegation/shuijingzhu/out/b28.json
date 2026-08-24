@@ -1,0 +1,89 @@
+{
+  "batch": "b28.md",
+  "rows": [
+    {
+      "chapter": "伊水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「伊水自熊耳東北逕鸞川亭北，葌水出葌山，北流際其城東而北入伊水。」記錄水流，並考述鸞川名稱；內容止於水道與地名登錄，未及人的人生問題"
+    },
+    {
+      "chapter": "伊水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）只以「陽水出陽山陽溪，世人謂之太陽谷，水亦取名焉。」及後續支流會合交代水源、俗名與流向，屬水道和地名登錄"
+    },
+    {
+      "chapter": "伊水",
+      "para_index": 3,
+      "domains": ["X"],
+      "modes": ["observation", "expression"],
+      "reason": "注文（酈注）在踏查前人遺跡時感歎「尋郭文之故居，訪胡昭之遺像，世去不停，莫識所在。」把世代流逝與人物遺蹟終至無人能識的失去寫了出來"
+    },
+    {
+      "chapter": "伊水",
+      "para_index": 4,
+      "domains": ["XII"],
+      "modes": ["observation", "ritual"],
+      "reason": "注文（酈注）引《晉書》記祈雨及其應驗，「惠帝使校尉陳總仲元詣洛陽山請雨，總盡除小祀，惟存大石而祈之，七日大雨。」把祭祈行動與降雨回應相連，超出祠址登錄而涉及信仰與超越"
+    },
+    {
+      "chapter": "伊水",
+      "para_index": 5,
+      "domains": ["VIII"],
+      "modes": ["observation"],
+      "reason": "注文（酈注）所錄石銘寫道「元康五年，河南府君循大禹之軌，部督郵辛曜、新城令王琨、部監作掾董猗、李褒，斬岸開石，平通伊闕，石文尚存也。」具體記下官吏開石通道的工程實作與成果"
+    },
+    {
+      "chapter": "伊水",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "伊水",
+      "para_index": 7,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "注文（酈注）引《戰國策》的游說之辭，「欲貧之，不如下水以病之。東周必復種稻，種稻而復奪之，是東周受命于君矣。」揭示以水源和生計操縱另一群體、迫其服從的權力策略"
+    },
+    {
+      "chapter": "瀍水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「澤北對原阜，即裴氏墓塋所在，碑闕存焉。」定位墓塋碑闕，前後則記瀍水流向與古亭位置，屬水道、地望及墓碑登錄"
+    },
+    {
+      "chapter": "瀍水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）所言「水西南有帛仲理墓，墓前有碑，題云：真人帛君之表。」只登錄墓碑題名、籍貫、立碑年月及附近水流，沒有就人的生活或信仰另下判斷"
+    },
+    {
+      "chapter": "瀍水",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "澗水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「世謂是山曰廣陽山，水曰赤岸水，亦曰石子澗。」核對山水名稱，並記澗水源流與所歷坂地，止於水道和名義考辨"
+    },
+    {
+      "chapter": "澗水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「按《山海經》則少水也，而非澗水，蓋習俗之誤耳。」等語並列諸水異說、校正俗稱並保留疑問，純屬水道與地望考辨，不是對靈驗或人生改變的破除"
+    }
+  ]
+}
