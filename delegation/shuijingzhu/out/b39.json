@@ -1,0 +1,33 @@
+{
+  "batch": "b39.md",
+  "rows": [
+    {
+      "chapter": "潩水",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["observation", "proposition"],
+      "reason": "酈注在登錄子產墓與廟宇朝向時，以「墳東有廟，竝東北向鄭城。杜元凱言不忘本。」把朝向故國解作不忘根本的品格，地望之外仍留下對人的評斷"
+    },
+    {
+      "chapter": "潧水",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["observation", "prescription"],
+      "reason": "酈注引史伯答桓公之言，「君以成周之衆，奉辭伐罪，若克虢、鄶君之土也，如前華後河，右洛左濟，主芣騩而食潧、洧，脩典刑以守之，可以少固。」提出用兵、守法與鞏固邦國的領導方略，刪去水名脈絡後仍是關於權力與治國責任的勸告"
+    },
+    {
+      "chapter": "潧水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "潧水",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "酈注據水道分合校正《水經》，「自鄶、潧東南，更無別瀆，不得逕新鄭而會洧也。鄭城東入洧者，黃崖水也，蓋《經》誤證耳。」屬水道與地望考辨，未及於人"
+    }
+  ]
+}
