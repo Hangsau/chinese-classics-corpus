@@ -1,8 +1,8 @@
 {
   "summary": {
-    "generated_at": "2026-08-24T10:30:53+00:00",
-    "text_count": 72,
-    "total_bytes": 11304281,
+    "generated_at": "2026-08-24T14:33:13+00:00",
+    "text_count": 71,
+    "total_bytes": 9695527,
     "by_category": {
       "雜史": 11,
       "儒家著述": 10,
@@ -18,13 +18,13 @@
       "志怪": 2,
       "名家": 2,
       "黃老": 2,
-      "類書": 2,
       "近代": 1,
       "地理": 1,
-      "文論": 1
+      "文論": 1,
+      "類書": 1
     },
     "by_text_role": {
-      "original": 66,
+      "original": 65,
       "reference": 4,
       "contested": 2
     },
@@ -1019,27 +1019,6 @@
       "tier": "重要",
       "size_bytes": 8300,
       "chapter_count": 15,
-      "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "domains_null": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
-    },
-    {
-      "slug": "qunshu-zhiyao",
-      "name_zh": "群書治要",
-      "name_en": "Essentials of Governance from Many Books",
-      "category": "類書",
-      "text_role": "original",
-      "language": "古典漢語",
-      "version": "Wikisource 通行本",
-      "version_date": "唐",
-      "source_platform": "zh.wikisource.org",
-      "tier": "核心",
-      "size_bytes": 1608754,
-      "chapter_count": 347,
       "verified": false,
       "surveyed": false,
       "domains_hit": null,
