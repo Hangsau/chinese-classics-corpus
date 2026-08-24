@@ -365,22 +365,29 @@
 
 > 數字由 `split_paragraphs` 現算，不是抄的。**分組是「動工前還要做什麼」，不是價值排序**——`CLAUDE.md` §1 禁止憑書名或類別判定標註價值。
 >
+> **切段健康度要用「整章＝一段的章數」＋「巨段（>2000 字）字數佔比」量，不要用書級中位數或字/段。**首版分組拿中位數與「>1200 字段落數」判，把淮南子放進 A 組——它中位數 240 字、只有 11 段超過 1200 字，看起來很正常，實際 **6/22 章整章崩成一段、佔全書 28% 字數**（俶真訓 6,074／時則訓 6,742／氾論訓 9,818／說山訓 6,534／說林訓 6,100／齊俗訓 8,789）。書級統計會被健康章稀釋，崩塌是**章級**現象，必須逐章看。全 31 部重掃後只有四部中招：`guiguzi` 巨段佔 39%、`huainanzi` 35.5%、`heguanzi` 15.2%、`yi-zhoushu` 13.3%（僅〈周月解〉一章），其餘 27 部全為 0%。
+>
 > 重算（未標＝沒有 `annotations.json` 者）：
 >
 > ```bash
 > PYTHONIOENCODING=utf-8 python -c "
 > import glob,os,sys; sys.path.insert(0,'scripts')
 > from corpus_text import split_paragraphs
+> from collections import defaultdict
 > for m in sorted(glob.glob('translations/*/meta.json')):
 >     d=os.path.dirname(m)
 >     if os.path.exists(os.path.join(d,'annotations.json')): continue
 >     ps=split_paragraphs(open(os.path.join(d,'raw','original.txt'),encoding='utf-8').read())
->     n=sum(len(t) for _,_,_,t in ps); c=len(set(c for _,c,_,_ in ps))
->     print(f'{os.path.basename(d):24s} {len(ps):5d}段 {n:7d}字 {n//max(1,len(ps)):5d}字/段 {c:3d}章')
+>     ch=defaultdict(list)
+>     for _,c,_,t in ps: ch[c].append(len(t))
+>     tot=sum(sum(v) for v in ch.values())
+>     badn=sum(1 for v in ch.values() if len(v)==1 and sum(v)>2000)
+>     mega=sum(x for v in ch.values() for x in v if x>2000)
+>     print(f'{os.path.basename(d):24s} {len(ps):5d}段 {tot:7d}字 整章一段{badn:3d}/{len(ch):<3d} 巨段{mega/tot*100:5.1f}%')
 > "
 > ```
 
-**A. 可直接排批次（切段健康、章名可當錨點）——10 部、4,216 段**
+**A. 可直接排批次（切段健康、章名可當錨點）——9 部、3,819 段**
 
 | 部 | 類 | 段 | 字 | 字/段 | 章 |
 |---|---|---|---|---|---|
@@ -388,7 +395,6 @@
 | `mozi` | 墨家 | 734 | 90,414 | 123 | 53 |
 | `wuyue-chunqiu` | 雜史 | 493 | 49,942 | 101 | 38 |
 | `wenxin-diaolong` | 文論 | 424 | 48,401 | 114 | 52 |
-| `huainanzi` | 雜家 | 397 | 158,992 | 400 | 22 |
 | `jinlouzi` | 人論 | 515 | 64,863 | 125 | 17 |
 | `yanzi-chunqiu` | 雜史 | 218 | 50,430 | 231 | 215 |
 | `yuejueshu` | 雜史 | 307 | 38,206 | 124 | 19 |
@@ -397,7 +403,9 @@
 
 **B. 序號章標籤佔多數，發包前先補錨點——3 部、653 段**：`wenzi`（12/12 序號）、`jiayi-xinshu`（10/11）、`lujia-xinyu`（12/15）。**這不是硬阻擋**——`kongcongzi`（19/19 序號）、`shuowen-jiezi`、`qianfulun`、`fengsu-tongyi`、`shuijingzhu` 都是帶著同款警告標完的。做法是在 `MANIFEST` 與 SPEC 裡把序號章補上實際篇名（`卷一` → `卷一（道原）`），**不動 `raw/original.txt`**（動了破 SHA-256）。
 
-**C. 卡在上游「一章＝一段」缺陷，必須先做句讀切分——5 部、132 段**：`heguanzi` 19 段/19 章（997 字/段）、`zhonglun` 35/25（695）、`guiguzi` 72/21（546）、`yandanzi` 5/4（765）、`sanzijing` 1/1（1,411）。**重抓沒有用**——Wikisource 把整章包在單一 block element 裡，`extract_main_text()`（`scripts/download-*.py` 254–271 行）沒有 `\n` 可切。要寫一支標點＋語意雙軌的切分器，切完的段落序另存、不覆蓋 raw。**這是獨立工程，不要混進標註批次。**
+**C. 卡在上游「一章＝一段」缺陷，必須先做句讀切分——6 部、529 段**：`heguanzi` 19 段/19 章（巨段佔 15.2%）、`zhonglun` 35/25、`guiguzi` 72/21（巨段佔 **39%**，最長 2,917）、`yandanzi` 5/4、`sanzijing` 1/1（整書 1,411 字一段）、**`huainanzi` 397/22——16 章健康、6 章崩塌**（巨段佔 35.5%）。
+
+  `huainanzi` 是部分崩塌，處理順序與其他五部不同：**健康的 16 章（353 段）可照常發包，崩塌的 6 章（44,057 字）等切分器**，該 6 章的段落先留 `null`＝未標（前例：`cai-zhonglang-ji`〈外集卷四〉110 段）。`yi-zhoushu` 只有〈周月解〉一章崩塌（巨段 13.3%），同樣做法，故仍留在 A 組。**重抓沒有用**——Wikisource 把整章包在單一 block element 裡，`extract_main_text()`（`scripts/download-*.py` 254–271 行）沒有 `\n` 可切。要寫一支標點＋語意雙軌的切分器，切完的段落序另存、不覆蓋 raw。**這是獨立工程，不要混進標註批次。**
 
 **D. 短小可成組發包——6 部、499 段**：`houheixue` 83、`qijing` 15、`lusheng-mobian-zhuxu` 4、`mu-tianzi-zhuan` 107、`xijing-zaji` 146、`songjingwen-gong-biji` 144。同體裁成組發包時試點只需做一次（§下一步第 5 條）。
 
