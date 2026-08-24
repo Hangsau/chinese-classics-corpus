@@ -1,0 +1,145 @@
+{
+  "batch": "b45.md",
+  "rows": [
+    {
+      "chapter": "沂水",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）以承宮避亂的行實承載品格判斷，「立性好仁，不與物競，人有認其黍者，捨之而去。」把不爭與讓物落成具體行為標準，命中善惡、良心與品格"
+    },
+    {
+      "chapter": "沂水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，「南過琅邪臨沂縣東，又南過開陽縣東，」只作水道所經縣邑的登錄"
+    },
+    {
+      "chapter": "沂水",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "注文（酈注）引孔子反對季氏攻伐顓臾的詰問，「昔者先王以爲東蒙主，社稷之臣，何以伐之爲？」對權力運用與社稷責任作出判斷，命中群體、社會與公義"
+    },
+    {
+      "chapter": "沂水",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，「又東過襄賁縣東，屈從縣南西流，又屈南過郯縣西，」只登錄水道流向與所經縣邑"
+    },
+    {
+      "chapter": "沂水",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "注文（酈注）記孔子向郯子學習後的判語，「既而告人曰：天子失官，學在四夷者也。」指出中央官制失落時知識轉存於邊緣群體，命中群體、社會與權力秩序"
+    },
+    {
+      "chapter": "沂水",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，「又南過良城縣西，又南過下邳縣西，南入于泗。」只登錄沂水所經縣邑及入泗處"
+    },
+    {
+      "chapter": "沂水",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）以「沂水于下邳縣北西流，分爲二水，一水于城北西南入泗，一水逕城東屈從縣南，亦注泗，謂之小沂水。」為主，並附張子房、曹操舊事定位橋與城，所增仍是水道和史事登錄，未形成關於人的斷語"
+    },
+    {
+      "chapter": "洙水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）所引「《地理志》曰：臨樂山，洙水所出，西北至蓋入泗水。」及後續封國、改縣資料，皆服務於水源、地望與沿革登錄"
+    },
+    {
+      "chapter": "洙水",
+      "para_index": 2,
+      "domains": ["VII"],
+      "modes": ["narrative", "observation"],
+      "reason": "注文（酈注）引《尸子》寫孔子面對名稱所採取的選擇，「孔子至于暮矣，而不宿于盜泉，渴矣而不飲，惡其名也。」離開泉名考證仍呈現寧忍渴也避惡名的品格行為，命中善惡、良心與品格"
+    },
+    {
+      "chapter": "沭水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「沭水又東南流，左合峴水，水北出大峴山，東南流逕邳鄉東，東南流注于沭水也。」登錄支流來源、流向與匯合，未及於人"
+    },
+    {
+      "chapter": "沭水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "注文（酈注）以「劉澄之以爲許由之所隱也，更爲巨謬矣。」否定箕山地望的附會；這是地名與遺跡考辨，不是對人或靈驗的判斷"
+    },
+    {
+      "chapter": "沭水",
+      "para_index": 3,
+      "domains": ["III", "IV", "X", "XII"],
+      "modes": ["narrative", "ritual"],
+      "reason": "注文（酈注）引《琴操》之「樂莫樂兮新相知，悲莫悲兮生別離。」直陳相知與生離的親密關係；杞梁妻以「如殖無罪，有先人之敝廬在，下妾不敢與郊弔。」堅持夫婦喪弔應回家進行，落在家庭婚姻；《列女傳》所記「齊人杞梁殖，襲莒戰死，其妻將赴之，道逢齊莊公，公將弔之。」寫妻子正面回應丈夫之死與失去；又以「哀感皇天，城爲之墮。」認證哀情感天的超越回應"
+    },
+    {
+      "chapter": "沭水",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，「又南過陽都縣，東入于沂。」只作沭水流向、所經縣邑與入水處的登錄"
+    },
+    {
+      "chapter": "沭水",
+      "para_index": 5,
+      "domains": ["VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "注文（酈注）引偪陽之役中的評斷，「荀罃曰：城小而固，勝之不武，弗勝爲笑。」把勝敗與是否稱得上勇武相連，提出可獨立於地名而成立的品格評價標準"
+    },
+    {
+      "chapter": "巨洋水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，「出朱虛縣泰山，北過其縣西，」只登錄巨洋水水源、流向與所經縣邑"
+    },
+    {
+      "chapter": "巨洋水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「丹水有二源，各導一山，世謂之東丹、西丹水也。」及後續河道描述辨認支流、水名和地望，未提出人生問題"
+    },
+    {
+      "chapter": "巨洋水",
+      "para_index": 3,
+      "domains": ["I", "XII"],
+      "modes": ["expression", "observation"],
+      "reason": "注文（酈注）中酈道元自陳山水遊處之於生命安頓的意義，「是焉棲寄，實可憑衿。」把此地寫成可以寄身憑心之所，命中存在與意義；同段又引「郭緣生《續述征記》曰：逢山在廣固南三十里，有祠并石鼓，齊地將亂，石人輒打石鼓，聞數十里。」認證石人鳴鼓預示亂事的超越作用，命中信仰、神聖與超越"
+    },
+    {
+      "chapter": "巨洋水",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）所記「時人咸謂之爲馬陵，而不知誰之丘壟也。」連同戰事、遷民與墓址，只用來辨認水道旁的城、臺、墓及沿革；死人與戰事均為史地登錄"
+    },
+    {
+      "chapter": "巨洋水",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "注文（酈注）以「伏琛、晏謨，竝言堯嘗頓駕于此，故受名焉，非也。」為水名來源辨誤，全文關於斟灌、斟尋的傳說與史事皆服務於地望考辨，並非破除靈驗或評斷人生"
+    },
+    {
+      "chapter": "巨洋水",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「又或言秦始皇升以望海，因曰望海臺，未詳也。」記錄並存疑於臺名來源，另附封國與入海位置，仍屬地名、水道和沿革考辨"
+    }
+  ]
+}
