@@ -1,0 +1,334 @@
+{
+  "batch": "b52.md",
+  "rows": [
+    {
+      "chapter": "潕水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "潕水",
+      "para_index": 2,
+      "domains": ["VIII"],
+      "modes": ["observation", "proposition"],
+      "reason": "注文（酈注）在水道考辨中記馬仁陂的農業運用，「隨年變種，境無儉歲」把因年調整作物與免於歉歲相連，承重於生產實作；其餘城邑、水脈與地名異說仍屬登錄"
+    },
+    {
+      "chapter": "潕水",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「縣有龍泉水，可以砥礪刀劒，特堅利。」登錄泉水、金鐵物產及其得名，未提出關於人的判斷"
+    },
+    {
+      "chapter": "潕水",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）僅以「郾縣故城，去此遠矣，不得過。」校正經文所逕地望，屬水道考辨"
+    },
+    {
+      "chapter": "潕水",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "潕水",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「漢安帝永初二年，分汝南郡之上蔡縣置定潁縣，順帝永建元年，以陽翟郭鎮爲尚書令，封定潁侯。即此邑也。」登錄縣置、官歷與封國，沒有拆得出的對人斷語"
+    },
+    {
+      "chapter": "溳水",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）引《春秋》，「子常欲之，弗與，止之三年，唐人竊馬而獻之子常，歸唐侯是也。」呈現掌權者因索馬不遂而長期扣人、獻馬才放歸的權力脅迫，離開地名仍是群體與權力問題"
+    },
+    {
+      "chapter": "溳水",
+      "para_index": 2,
+      "domains": ["VII"],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）記斷蛇傳說，「隨侯出而見大蛇中斷，因舉而藥之，故謂之斷蛇丘。後蛇銜明珠報德」以救治與報德構成施惠和回報的品格關係；雖兼作地名來源，這條行為線仍可拆離地名"
+    },
+    {
+      "chapter": "溳水",
+      "para_index": 3,
+      "domains": ["XI"],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）在張昌記事中明說「昔張昌作亂于其下，籠彩鳳以惑衆。」把異象的效力還原為人為造作與惑眾，屬破除靈驗；其餘主要是水道與城邑登錄"
+    },
+    {
+      "chapter": "溳水",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）只記「溳水又南分爲二水，東通灄水，西入于沔，謂之溳口也。」屬分流、入水與水口名稱登錄"
+    },
+    {
+      "chapter": "漻水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation", "ritual"],
+      "reason": "注文（酈注）以「父老相傳，云是神農所生處也，故《禮》謂之烈山氏。」說明地名與神農傳說的來源，並附社祠位置；這是名義、遺跡與祭祀登錄，未認證人的信德感應"
+    },
+    {
+      "chapter": "蘄水",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）稱「蠻左憑居，阻藉山川，世爲抄暴。宋世沈慶之于西陽上下誅伐蠻夷，即五水蠻也。」把族群概括、劫掠與武力誅伐置於同一權力衝突中，承重於群體關係與暴力"
+    },
+    {
+      "chapter": "蘄水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「晉改爲蘄陽縣，縣徙江洲，置大陽戍」登錄縣名、治所與戍守沿革，沒有對人的承重句"
+    },
+    {
+      "chapter": "蘄水",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）只記「蘄水南對蘄陽州，入于大江，謂之蘄口。洲上有蘄陽縣徙。」屬水口與縣治位置登錄"
+    },
+    {
+      "chapter": "決水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「俗名之爲檀公峴，蓋大別之異名也。」考釋山名，並記水行所絡，只有名義與水道登錄"
+    },
+    {
+      "chapter": "決水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）引「楚子、秦人侵吳及雩婁，聞吳有備而還是也。」來定位古國與縣界；刪去只少一項戰事地望史實，沒有對人的評斷"
+    },
+    {
+      "chapter": "決水",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["observation", "proposition"],
+      "reason": "注文（酈注）引臧文仲之言「德之不逮，民之無援，哀哉。」把上位者德行不足與人民失去援護直接相連，承重於治理責任與公義"
+    },
+    {
+      "chapter": "決水",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "注文（酈注）以「俗謂之澮口，非也。斯決、灌之口矣。」及親訪所得校正水口名稱；其「習俗害真耳」只針對水名訛變，並非改變或破除靈驗"
+    },
+    {
+      "chapter": "沘水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "沘水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「《地理志》曰：沘水出沘山，不言霍山，沘字或作淠。」考辨山水名稱與文字異體，兼記古城，未及人的人生問題"
+    },
+    {
+      "chapter": "沘水",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）記「今縣都陂中有大冢，民傳曰公琴者，即臯陶冢也。楚人謂冢爲琴矣。」只在登錄墓址、俗稱及郡國沿革，沒有死亡面對或人的斷語"
+    },
+    {
+      "chapter": "沘水",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）只以「水之決會謂之沘口也。」登錄水流會合處的名稱"
+    },
+    {
+      "chapter": "泄水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）記「泄水自縣上承沘水于麻步川，西北出，歷濡溪，謂之濡水也。」屬承流、方向與異名登錄"
+    },
+    {
+      "chapter": "泄水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）只記「泄水自濡溪逕安豐縣，北流注于淠，亦謂之濡須口。」屬水道與水口名稱登錄"
+    },
+    {
+      "chapter": "肥水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「北流分爲二水，施水出焉。」及後續所逕城丘、枝津會合登錄肥水水系，未及於人"
+    },
+    {
+      "chapter": "肥水",
+      "para_index": 2,
+      "domains": ["VIII"],
+      "modes": ["observation", "formalization"],
+      "reason": "注文（酈注）記大型水利的建造成就，「陂周百二十許里，在壽春縣南八十里，言楚相孫叔敖所造。」又以「陂有五門，吐納川流。」具體交代工程規模與控水構造，承重於工作與成就；孫叔敖祠一語只標示水道，不填信仰領域"
+    },
+    {
+      "chapter": "肥水",
+      "para_index": 3,
+      "domains": ["XIII"],
+      "modes": ["observation", "proposition"],
+      "reason": "注文（酈注）描述精廬所臨川溪後評「大不爲廣，小足閒居，亦勝境也。」把有限空間說成足以閒居安頓之所，承重於如何在環境中安居"
+    },
+    {
+      "chapter": "肥水",
+      "para_index": 4,
+      "domains": ["V", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "注文（酈注）記劉勔平亂後「琰降，不犯秋毫，百姓來蘇」，以軍事權力不侵掠及百姓復甦的後果承重 V；又先以實地所見說「余登其上，人馬之跡無聞矣，惟廟像存焉。」並就肥水戰事斷言「非八公之靈有助，蓋苻氏將亡之惑也。」把仙跡與神助移回無證及人的迷惑，承重 XI，故不填 XII"
+    },
+    {
+      "chapter": "施水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "施水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）的「余按川殊派別，無沿注之理。方知應、闞二說，非實證也。」只校正合肥水道來源，並非破除靈驗；「凌統被鎧落水，後到追亡，流涕津渚。」仍是攻合肥的戰場經過，未展開成情緒或人生判斷"
+    },
+    {
+      "chapter": "沮水（2）",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "沮水（2）",
+      "para_index": 2,
+      "domains": ["XII", "XIII"],
+      "modes": ["observation", "proposition"],
+      "reason": "注文（酈注）認證青溪靈泉的反應，「其泉甚靈潔，至于炎陽有亢，陰雨無時，以穢物投之，輒能暴雨。」直接把特定行為與靈驗降雨相連，承重 XII；又寫「是以林徒棲託，雲客宅心，泉側多結道士精廬焉。」把山水表成可棲託、安頓心志之處，承重 XIII"
+    },
+    {
+      "chapter": "沮水（2）",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "沮水（2）",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）只記「沮水又東南逕長城東，又東南流注于江，謂之沮口也。」屬水道與入江口名稱登錄"
+    },
+    {
+      "chapter": "漳水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "漳水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）以「昔關羽保麥城，詐降而遁，潘璋斬之于此。」定位戰事發生處，並用王仲宣賦句證漳水地望；死亡只作史事，未寫人如何面對死亡"
+    },
+    {
+      "chapter": "漳水",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "漳水",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "注文（酈注）以「非也。今漳水于當陽縣之東南百餘里而右會沮水也。」校正《地理志》的入水說，只是地望與水道考辨"
+    },
+    {
+      "chapter": "夏水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）引屈原「過夏首而西浮，顧龍門而不見也。」只為定位夏首與郢城龍門，離開所服務的地名沒有形成對人的斷語"
+    },
+    {
+      "chapter": "夏水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "注文（酈注）據碑校正墓主，「檢其碑，題云：故西戎令范君之墓。碑文缺落，不詳其人，稱蠡是其先也。」全段主要處理墓址、碑題、縣置與雲夢地望，沒有人的承重判斷"
+    },
+    {
+      "chapter": "夏水",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "夏水",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "注文（酈注）以「今按夏水是江流沔，非沔入夏。」及水勢方向駁正異說，所論是江、沔、夏三水的流向與名義，不是人的改變問題"
+    },
+    {
+      "chapter": "羌水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation", "narrative"],
+      "reason": "注文（酈注）以「維更從北道。渡橋頭入劒閣，緒追之不及。」附記姜維行軍路線，其餘皆支流、城戍與里程登錄；刪去只少戰事地望，未留下對人的判斷"
+    },
+    {
+      "chapter": "羌水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "涪水",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["observation", "formalization"],
+      "reason": "注文（酈注）記礦物加工工序，「水源有金銀礦，洗取火合之，以成金銀。」把洗取、火合與成品的次序具體說出，承重於生產技術；其餘征戰與水路仍作地望附記"
+    },
+    {
+      "chapter": "涪水",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "《水經》本文，水道登錄"
+    },
+    {
+      "chapter": "涪水",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "注文（酈注）以「小廣魏，即廣漢縣地，王莽更名曰廣信也。」考定縣地與改名沿革，沒有人的承重句"
+    }
+  ]
+}
