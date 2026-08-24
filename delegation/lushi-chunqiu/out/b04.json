@@ -1,0 +1,264 @@
+{
+  "batch": "b04.md",
+  "rows": [
+    {
+      "chapter": "情欲",
+      "para_index": 1,
+      "domains": ["VI", "VII"],
+      "modes": ["proposition"],
+      "reason": "「天生人而使有貪有欲」與「貴賤愚智賢不肖欲之若一」把欲望說成人所共有的內在樣態；「聖人修節以止欲」又把節制說成可修養的品格，因此標 VI、VII"
+    },
+    {
+      "chapter": "情欲",
+      "para_index": 2,
+      "domains": ["VI", "VII", "IX"],
+      "modes": ["proposition"],
+      "reason": "「身盡府種，筋骨沈滯，血脈壅塞」把縱欲落在俗主自身的病痛，支持 IX；「意氣易動，蹻然不固」與「愁心勞耳目」支持 VI；「胸中欺詐」「德義之緩，邪利之急」另對品格下判斷，支持 VII"
+    },
+    {
+      "chapter": "情欲",
+      "para_index": 3,
+      "domains": ["VI", "IX", "X"],
+      "modes": ["proposition"],
+      "reason": "「耳不可以聽，目不可以視，口不可以食」是人的身體失能，且「胸中大擾，妄言想見」「臨死之上，顛倒驚懼」分別承載內在擾亂與臨死恐懼；三者拿掉任一都會少掉本段的身體、情緒或死亡面向"
+    },
+    {
+      "chapter": "情欲",
+      "para_index": 4,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「盡傅其境內之勞與諸侯之憂於孫叔敖」寫權力下的責任轉嫁；「孫叔敖日夜不息」卻成就莊王「功迹著乎竹帛」，承載領導關係與勞動成就的失衡"
+    },
+    {
+      "chapter": "當染",
+      "para_index": 1,
+      "domains": ["XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「所以入者變，其色亦變」以染絲寓示外在作用會造成改變，收束為「故染不可不慎也」，故標改變而不把篇次標記當內容"
+    },
+    {
+      "chapter": "當染",
+      "para_index": 2,
+      "domains": ["V", "VII", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「行理生於當染」把領導是否得人連到行理；所染當者以「仁義」顯，所染不當者成「貪暴」，而「六君者，非不重其國、愛其身也，所染不當也」明說結果由所受影響而變，分別承載 V、VII、XI"
+    },
+    {
+      "chapter": "當染",
+      "para_index": 3,
+      "domains": ["VIII", "XI"],
+      "modes": ["observation", "proposition"],
+      "reason": "「孔子學於老聃、孟蘇夔、靖叔」及後續師承把學習傳遞具體化；「孔、墨之後學顯榮於天下者眾矣」並以「皆所染者得當也」歸因於所受影響"
+    },
+    {
+      "chapter": "功名",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「人主賢則豪桀歸之」把人才歸附繫於領導者品格；「故聖王不務歸之者，而務其所以歸」主張修成原因而非強求結果"
+    },
+    {
+      "chapter": "功名",
+      "para_index": 2,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "「（疆）〔彊〕令之笑，不樂，（疆）〔彊〕令之哭，不悲」分開受強制的外在表情與真實情緒；「（疆）〔彊〕令之為道也，可以成小，而不可以成大」也指出權力強迫的限度"
+    },
+    {
+      "chapter": "功名",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「桀、紂以去之之道致之也，罰雖重，刑雖嚴，何益」只以招致／去除的比喻評估刑罰手段是否奏效，仍是怎麼治的政策鏈，沒有另立人的樣態"
+    },
+    {
+      "chapter": "功名",
+      "para_index": 4,
+      "domains": ["V", "VI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「民無常處，見利之聚，無〔利〕之去」明說人民會依可得利益選擇歸附，並以「民絕望矣」寫出無處可走時的內在結果；不只剩下如何稱王的政策步驟"
+    },
+    {
+      "chapter": "功名",
+      "para_index": 5,
+      "domains": ["II", "VII"],
+      "modes": ["proposition"],
+      "reason": "「桀、紂貴為天子，富有天下」卻「不能得賢名」，忠諫者也不能被奪去賢名；「名固不可以相分，必由其理」把名實繫回賢不肖的品格"
+    },
+    {
+      "chapter": "恃君",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「凡人之性，爪牙不足以自守衛」先說個體不足自保；「群之可聚也，相與利之也」明說人靠互利結群，並以君道安排群體利益"
+    },
+    {
+      "chapter": "恃君",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「無親戚兄弟夫妻男女之別，無上下長幼之道」用無君狀態說社會秩序何以不能成立，並收束「故君臣之義，不可不明也」，核心是合法領導與公共利益"
+    },
+    {
+      "chapter": "恃君",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「有力者賢，暴傲者尊，日夜相殘」描寫權力失序；「置君非以阿君也」要求官長利人而非自利，末句又把忠廉拆成「諫其君之過」與「死人臣之義」兩項行為"
+    },
+    {
+      "chapter": "恃君",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "豫讓拒絕改事襄子，因那會「為故君賊新君矣」；他明說艱難復仇是「所以明君臣之義也，非從易也」，以具體選擇承載君臣責任與守義品格"
+    },
+    {
+      "chapter": "恃君",
+      "para_index": 5,
+      "domains": ["V", "VII", "X"],
+      "modes": ["narrative", "proposition"],
+      "reason": "柱厲叔以「吾將死之以醜後世人主之不知其臣者也」選擇赴死，既批評主上不識臣，也以死亡實踐忠義；「行激節厲，忠臣幸於得察」再收回領導與品格後果"
+    },
+    {
+      "chapter": "長利",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「利雖倍於今，而不便於後，弗為也」拒絕眼前私利；「安雖長久，而以私其子孫，弗行也」把公共長利置於私家延續之前，呈現公義責任與不自私的取舍"
+    },
+    {
+      "chapter": "長利",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "伯成子高明知諸侯之位「名顯榮，實佚樂，繼嗣皆得其澤」仍辭位，因「今賞罰甚數，而民爭利且不服」並欲「禁後世之亂」；故事承載公共秩序與克制私利的品格"
+    },
+    {
+      "chapter": "長利",
+      "para_index": 3,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "辛寬只求地險使「子孫彌隆」，南宮括則反問「夫賢者豈欲其子孫之阻山林之險以長為無道哉」；本段把家族延續與是否容許後代無道的品格判準直接相連"
+    },
+    {
+      "chapter": "長利",
+      "para_index": 4,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「愚庳之民，其為賢者慮」指出低下者妄替賢者設想，隨即以「固妄誹訾」判其任意毀謗，是一段對判人品格的批評"
+    },
+    {
+      "chapter": "長利",
+      "para_index": 5,
+      "domains": ["VII", "X"],
+      "modes": ["narrative", "proposition"],
+      "reason": "戎夷「解衣與弟子，夜半而死」以自身死亡救弟子；收束「欲利人之心，不可以加矣」與「以必死見其義」把死亡選擇明確評為仁愛守義，故標 X、VII，不因「太息」另標 VI"
+    },
+    {
+      "chapter": "知分",
+      "para_index": 1,
+      "domains": ["VII", "X", "XIII"],
+      "modes": ["proposition"],
+      "reason": "「達乎死生之分，則利害存亡弗能惑矣」把理解死亡連到安定；晏子「不變其義」及孫叔敖「不喜」「不憂」分別呈現守義與不受得失擾動，因此 X、VII、XIII 各有獨立承重句"
+    },
+    {
+      "chapter": "知分",
+      "para_index": 2,
+      "domains": ["VII", "X"],
+      "modes": ["narrative", "proposition"],
+      "reason": "次非明知蛟患仍「赴江刺蛟，殺之而復上船，舟中之人皆得活」，並以「余奚愛焉」放下保身；故事以面對死亡危險救眾人的選擇呈現勇義"
+    },
+    {
+      "chapter": "知分",
+      "para_index": 3,
+      "domains": ["X", "XI", "XIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "禹以「生，性也；死，命也。余何憂於龍焉」面對死亡，後文又說困達是「不得不然之數」；「古聖人不以感私傷神，俞然而以待耳」給出接受命限而安處的方式，X、XI、XIII 缺一會少掉一層"
+    },
+    {
+      "chapter": "知分",
+      "para_index": 4,
+      "domains": ["X", "XI", "XIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「命也者，不知所以然而然者也，人事智巧以舉錯者不得與焉」界定不可控制的命；在刀兵死亡威脅中，晏子仍說「疾不必生，徐不必死」，最後「以義為之決而安處之」，分別承載死亡、命運與安處"
+    },
+    {
+      "chapter": "知分",
+      "para_index": 5,
+      "domains": ["V", "VII", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "夏后啟說「以為可為，故為之」「以為不可為，故釋之」，且生利不能驅使、死害不能禁止，寫出不受外力支配的抉擇；「使賢以義」再把此品格轉成領導者用人原則"
+    },
+    {
+      "chapter": "召類",
+      "para_index": 1,
+      "domains": ["XI"],
+      "modes": ["proposition"],
+      "reason": "前半「類同相召，氣同則合，聲比則應」只是類感技術；承重的是「禍福之所自來，眾人以為命，焉不知其所由」，把禍福推回可追索的人事原因，故只標 XI，不標 XII"
+    },
+    {
+      "chapter": "召類",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「凡人之攻伐也，非為利則固為名也」在下一句立即化為「名實不得，國雖彊大，則無為攻矣」，全段只計算如何以治、利、名阻止攻伐，是兵政槓桿，沒有獨立的人生樣態"
+    },
+    {
+      "chapter": "召類",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「亂則用，治則止」規定何時用兵；「文者愛之徵也，武者惡之表也。愛惡循義」仍用來界定文武啟動條件，末句「事適於時者其功大」也只收在怎麼打、何時打的兵論"
+    },
+    {
+      "chapter": "召類",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "子罕因工人「吾恃為鞔以食三世矣」而不徙，又接受潦水過宮；敘事把仁具體拆成顧民生、讓利，並以「故仁節之為功大矣」連到領導成效"
+    },
+    {
+      "chapter": "召類",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "史默因衛君身邊「其佐多賢也」判不可襲，趙簡子遂按兵；收束「疑則從義斷事」與「察其理而得失榮辱定矣」，把領導決斷繫於賢佐與依義判斷"
+    },
+    {
+      "chapter": "達鬱",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「主德不通，民欲不達，此國之鬱也」把壅塞落在上下溝通；「貴豪士與忠臣也，為其敢直言而決鬱塞也」把忠直拆成敢於進言的行為，故標 V、VII。前半臟腑句只是國鬱的比喻，未另標 IX"
+    },
+    {
+      "chapter": "達鬱",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「國莫敢言，道路以目」呈現高壓下的沉默；「防民之口，甚於防川」及「治民者宣之使言」主張讓批評流通，故事以流放厲王收束壓制言路的權力後果"
+    },
+    {
+      "chapter": "達鬱",
+      "para_index": 3,
+      "domains": ["VI", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「厚於味者薄於德，沈於樂者反於憂」直接連起享樂、憂患與品格；管仲在「今主欲留而不許」時仍「貴樂弗為變」，以克制欲樂的行為守其德"
+    },
+    {
+      "chapter": "達鬱",
+      "para_index": 4,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "列精子高照井才知侍者阿諛，進而指出「人皆知說鏡之明己也，而惡士之明己也」；本段既談人拒絕真正自知，也談君主是否容納能照見自己的士"
+    },
+    {
+      "chapter": "達鬱",
+      "para_index": 5,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "趙簡子把當眾進諫誤作不愛，尹鐸辨明「愛君之過」與「愛君之醜」；「不質君於人中，恐君之不變也」說明糾錯須穿透羞恥，末句又繫於君主能否容納刻言"
+    }
+  ]
+}

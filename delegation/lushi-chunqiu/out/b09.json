@@ -1,0 +1,71 @@
+{
+  "batch": "b09.md",
+  "rows": [
+    {"chapter": "仲秋紀", "para_index": 1, "domains": [], "modes": ["formalization", "ritual"], "reason": "「其日庚辛」「律中南呂」列仲秋的曆數配應，後接天子居處、車服、飲食與祭祀槽位；整段所述都以該月為成立條件"},
+    {"chapter": "仲秋紀", "para_index": 2, "domains": [], "modes": ["formalization", "prescription"], "reason": "「是月也，養衰老，授几杖」及衣冠、刑罰規定都是仲秋當月的政令條目；養老與斷刑沒有脫離月份槓桿而成為通則主張"},
+    {"chapter": "仲秋紀", "para_index": 3, "domains": [], "modes": ["formalization", "ritual"], "reason": "「巡行犧牲：視全具」規格化檢驗祭牲，又記「天子乃儺」與寢廟之祭，整段是仲秋祭儀程序"},
+    {"chapter": "仲秋紀", "para_index": 4, "domains": [], "modes": ["formalization", "prescription"], "reason": "「可以築城郭」「務蓄菜，多積聚」「乃勸種麥」都是以「是月也」統攝的營建、收斂與農時命令"},
+    {"chapter": "仲秋紀", "para_index": 5, "domains": [], "modes": ["formalization", "observation"], "reason": "「日夜分」「水始涸」登錄物候，並以「一度量，平權衡，正鈞石」規定分日時的校準事項，沒有月份之外的人之主張"},
+    {"chapter": "仲秋紀", "para_index": 6, "domains": [], "modes": ["formalization", "prescription"], "reason": "「易關市，來商旅」是本月通商政令，末句「無逆天數，必順其時」更把效力明繫於時令"},
+    {"chapter": "仲秋紀", "para_index": 7, "domains": [], "modes": ["formalization", "observation"], "reason": "「仲秋行春令」「行夏令」「行冬令」逐項登錄錯行他令的災異後果，是月令失時表而非死亡、恐懼或信仰主張"},
+
+    {"chapter": "論威", "para_index": 1, "domains": ["V", "VII"], "modes": ["proposition"], "reason": "「義也者，萬事之紀也，君臣上下親䟽之所由起也」把義說成社會關係與秩序的根據；「勿求於他，必反於己」又把成敗責任收回自身品格"},
+    {"chapter": "論威", "para_index": 2, "domains": ["VI", "X"], "modes": ["proposition"], "reason": "「人情欲生而惡死，欲榮而惡辱」直接宣告普遍的欲惡，既說內在趨避，也以生死為其核心對象；後文把它用於三軍不抹去這一人情判斷"},
+    {"chapter": "論威", "para_index": 3, "domains": [], "modes": ["proposition"], "reason": "「三軍一心則令可使無敵矣」是軍令致勝鏈；「其藏於民心，捷於肌膚也，深痛執固，不可搖蕩」仍只描述命令內化後的戰鬥效能"},
+    {"chapter": "論威", "para_index": 4, "domains": ["VII"], "modes": ["proposition"], "reason": "「勇，天下之凶德也」並說「舉凶器，行凶德，猶不得已也」，不是只教作戰，而是對勇武與暴力下了僅可出於不得已的品格界線"},
+    {"chapter": "論威", "para_index": 5, "domains": [], "modes": ["proposition"], "reason": "「并氣專精，心無有慮，目無有視，耳無有聞，一諸武而已矣」是求取急疾捷先的決戰狀態，後接使敵「悼懼憚恐」的戰場操控，並非內在生活主張"},
+    {"chapter": "論威", "para_index": 6, "domains": [], "modes": ["proposition", "narrative"], "reason": "專諸「獨手舉劍至而已矣」只是攻取成功的短例，收束於「密其躅路，開敵之塗」的軍事部署，刪去此例只少一則戰術佐證"},
+
+    {"chapter": "簡選", "para_index": 1, "domains": [], "modes": ["proposition"], "reason": "以利劍不中不及的譬喻駁斥烏合之眾能勝精兵，結論「簡選精良，兵械銛利，令能將將之」全是選卒、兵械與將領的致勝條件"},
+    {"chapter": "簡選", "para_index": 2, "domains": ["V", "VII"], "modes": ["narrative", "proposition"], "reason": "湯勝後「行大仁慈，以恤黔首；反桀之事，遂其賢良，順民所喜」，把恤民、進賢與順應民意拆成具體領導行為，並以「遠近歸之」說明其社會後果"},
+    {"chapter": "簡選", "para_index": 3, "domains": ["V", "VII"], "modes": ["narrative", "proposition"], "reason": "「顯賢者之位，進殷之遺老，而問民之所欲」具體寫用人與聽民；「親殷如周，視人如己」則把公平待人連到天下對其德義的認可"},
+    {"chapter": "簡選", "para_index": 4, "domains": [], "modes": ["narrative"], "reason": "「良車三百乘，教卒萬人」後逐一記齊桓公征行、復立邢衛的軍事事跡，刪去此段少的是兵力與戰史例證，不是對人的看法"},
+    {"chapter": "簡選", "para_index": 5, "domains": [], "modes": ["narrative"], "reason": "「造五兩之士五乘，銳卒千人」列晉文公的兵力編成，後文只記接敵、服諸侯與尊天子的戰果"},
+    {"chapter": "簡選", "para_index": 6, "domains": [], "modes": ["narrative"], "reason": "「選多力者五百人，利趾者三千人」是選兵配置，五戰五勝及四方征伐是其戰史成效，沒有另說人的樣態"},
+    {"chapter": "簡選", "para_index": 7, "domains": [], "modes": ["prescription"], "reason": "「兵甲器械，欲其利也；選練角材，欲其精也；統率士民，欲其教也」明列兵備效能條件，且自收於「此勝之一策也」，仍在怎麼打之內"},
+
+    {"chapter": "決勝", "para_index": 1, "domains": [], "modes": ["proposition"], "reason": "「夫兵有本幹：必義，必智，必勇」中的三項隨即被換算為「敵孤獨」、知戰場虛實與決斷攻擊的勝兵條件；德目在此服務戰術，沒有獨立的人格論"},
+    {"chapter": "決勝", "para_index": 2, "domains": ["VI", "XI"], "modes": ["proposition"], "reason": "「夫民無常勇，亦無常怯」直接否定勇怯為固定屬性；「怯勇無常，儵忽往來」同時說出恐懼與勇氣的內在變動，以及人可因氣勢而改變"},
+
+    {"chapter": "愛士", "para_index": 1, "domains": ["V", "VII"], "modes": ["proposition", "prescription"], "reason": "「饑寒，人之大害也。救之，〔大〕義也」把救困定為義；「賢主必憐人之困也，必哀人之窮也」進一步要求領導者以憐恤回應弱者處境"},
+    {"chapter": "愛士", "para_index": 2, "domains": ["V", "VII"], "modes": ["narrative", "proposition"], "reason": "繆公寬待食馬者，後者遂冒死相救；末句「〔行德〕愛人則民親其上」把故事收成德行、愛民與群體信任互惠的主張"},
+    {"chapter": "愛士", "para_index": 3, "domains": ["V", "VII"], "modes": ["narrative", "proposition"], "reason": "簡子以「殺人以活畜，不亦不仁乎？殺畜以活人，不亦仁乎？」明辨生命取捨，實際捨愛畜救臣，並以廣門之官效力寫仁政的群體回應"},
+    {"chapter": "愛士", "para_index": 4, "domains": [], "modes": ["proposition"], "reason": "「凡敵人之來也，以求利也」將敵軍進退換算為生利與死害，結尾明言「此兵之精者也」；存亡死生在此只是接敵計算"},
+
+    {"chapter": "季夏紀", "para_index": 1, "domains": [], "modes": ["formalization", "ritual"], "reason": "「其日丙丁」「律中林鐘」列季夏曆數配應，後接神祀、物候及天子居乘服食，是月份名目槽位"},
+    {"chapter": "季夏紀", "para_index": 2, "domains": [], "modes": ["formalization", "prescription"], "reason": "「是月也，令漁師伐蛟取鼉」及命虞人收取材葦，都是季夏當月的物產作業命令"},
+    {"chapter": "季夏紀", "para_index": 3, "domains": [], "modes": ["formalization", "ritual"], "reason": "「令民無不咸出其力，以供皇天上帝、名山大川、四方之神」規定本月備牲與祭祀供役；神名與祈福是月令祭儀部件，不構成獨立信仰主張"},
+    {"chapter": "季夏紀", "para_index": 4, "domains": [], "modes": ["formalization", "ritual"], "reason": "「命婦官染采」後規格化顏色、品質及「貴賤等級之度」，用途明繫「郊廟祭祀之服」，是本月服章制度"},
+    {"chapter": "季夏紀", "para_index": 5, "domains": [], "modes": ["formalization", "prescription"], "reason": "「不可以興土功」「不可以起兵動眾」等禁令全由季夏樹盛、水潦與時氣推出；「舉大事則有天殃」仍是失時災異條文"},
+    {"chapter": "季夏紀", "para_index": 6, "domains": [], "modes": ["formalization"], "reason": "「燒薙行水，利以殺草」並說可糞田、美土，記的是溽暑雨季的除草肥田技術"},
+    {"chapter": "季夏紀", "para_index": 7, "domains": [], "modes": ["formalization", "observation"], "reason": "「季夏行春令」「行秋令」「行冬令」分列錯令後的穀落、災害與寒氣，是季夏失時後果表"},
+    {"chapter": "季夏紀", "para_index": 8, "domains": [], "modes": ["formalization", "ritual"], "reason": "「中央土：其日戊己」以下逐格登錄帝神、蟲音、律數、味臭、祭祀與天子服御，是中央土配應名目"},
+
+    {"chapter": "音律", "para_index": 1, "domains": [], "modes": ["formalization"], "reason": "「三分所生，益之一分以上生；三分所生，去其一分以下生」是十二律三分損益的生成算法，數字與律名不承載人生領域"},
+    {"chapter": "音律", "para_index": 2, "domains": [], "modes": ["formalization"], "reason": "「日至則月鐘其風，以生十二律」後把十二律逐月配對，天地之氣在此是律月計算的技術部件，不是超越信仰主張"},
+    {"chapter": "音律", "para_index": 3, "domains": [], "modes": ["formalization", "prescription"], "reason": "從「黃鐘之月，土事無作」到「應鐘之月」依十二律月逐項配置農事、刑令、用民與喪紀，是完整的月令操作表"},
+
+    {"chapter": "音初", "para_index": 1, "domains": [], "modes": ["narrative", "expression"], "reason": "孔甲雖歎「有疾，命矣夫」，全段落款是「乃作為《破斧》之歌，實始〔作〕為東音」；命運與斷足故事只串起東音沿革，未自行提出人的命運或身體主張"},
+    {"chapter": "音初", "para_index": 2, "domains": [], "modes": ["narrative", "expression"], "reason": "塗山氏之女所歌「候人兮猗」被立即落為「實始作為南音」，又接《周南》《召南》的取風沿革；等待情節沒有被展開成愛與內在生活的主張"},
+    {"chapter": "音初", "para_index": 3, "domains": [], "modes": ["narrative"], "reason": "救王受侯與殷整甲「猶思故處」都串在「實始作為西音」及「實始作為秦音」的傳承說明中，段落承重點是地域音樂沿革"},
+    {"chapter": "音初", "para_index": 4, "domains": [], "modes": ["narrative", "expression"], "reason": "二女「愛而爭（摶）〔搏〕之」是燕卵故事的事件環節，所作「燕燕往飛」明確收在「實始作為北音」；此段主要保存北音起源而未抽出人情通則"},
+    {"chapter": "音初", "para_index": 5, "domains": ["VI", "VII"], "modes": ["proposition", "prescription"], "reason": "「凡音者，產乎人心者也。感於心則蕩乎音」直接論聲音與內心的雙向作用；「邪慢之心感矣」及「君子反道以修德」又把音樂連到品格敗壞與修養"},
+
+    {"chapter": "制樂", "para_index": 1, "domains": ["XI", "XII"], "modes": ["narrative", "proposition"], "reason": "「祥者福之先者也」「妖者禍之先者也」認證祥妖為福禍先兆，成立 XII；同段又說「見祥而為不善則福不至」「見妖而為善則禍不至」，明言人的善惡可改變禍福，成立 XI"},
+    {"chapter": "制樂", "para_index": 2, "domains": ["VII", "XII"], "modes": ["narrative", "proposition"], "reason": "文王直認「我必有罪，故天以此罰我也」，把地動認作天罰，成立超越認證；他拒絕轉災並說「請改行重善以移之」，則以承責改過拆出品格行為"},
+    {"chapter": "制樂", "para_index": 3, "domains": ["VII", "XII"], "modes": ["narrative", "proposition"], "reason": "景公拒絕把死禍移給宰相、人民或歲收，說「民死，寡人將誰為君乎？寧獨死〔耳〕」，具體呈現負責與仁德；子韋又認證「天之處高而聽卑」「天必三賞君」"},
+
+    {"chapter": "明理", "para_index": 1, "domains": ["II"], "modes": ["proposition"], "reason": "「有天賞得為主，而未嘗得主之實」明分君主名位與其實，並以「此之謂大悲」判定徒有身分而無其實的自我錯置"},
+    {"chapter": "明理", "para_index": 2, "domains": ["V", "VII"], "modes": ["proposition", "observation"], "reason": "「眾邪之所積，其禍無不逮也」提出善惡積累的後果；「君臣相賊」「父子相忍」等關係崩解最後收在「心若禽獸，長邪苟利，不知義理」，兼說社會失序與品格敗壞"},
+    {"chapter": "明理", "para_index": 3, "domains": ["IX", "XII"], "modes": ["observation", "proposition"], "reason": "「上帝降禍，凶災必亟」明確認證上帝因亂降禍，成立 XII；末引「夫亂世之民，長短頡𢆖，百疾，民多疾癘」把亂世後果落到人民實際的疾病與身體殘損，成立 IX"},
+
+    {"chapter": "孟冬紀", "para_index": 1, "domains": [], "modes": ["formalization", "ritual"], "reason": "「其日壬癸」「律中應鐘」以下登錄孟冬的帝神、物候、祭祀及天子居乘服食，是月份配應表"},
+    {"chapter": "孟冬紀", "para_index": 2, "domains": [], "modes": ["formalization", "ritual"], "reason": "太史預告「某日立冬，盛德在水」並由天子齋戒、迎冬；「賞死事，恤孤寡」仍是迎冬後的當月儀程，不是獨立的恤民原則"},
+    {"chapter": "孟冬紀", "para_index": 3, "domains": [], "modes": ["formalization", "ritual"], "reason": "「命太卜，禱祠龜策占兆，審卦吉凶」是孟冬占卜職程，後接查辦亂法者的當月政令；占兆是儀制部件而非信仰立場"},
+    {"chapter": "孟冬紀", "para_index": 4, "domains": [], "modes": ["formalization", "ritual"], "reason": "「天地不通，閉而成冬」統攝蓋藏、城防與喪紀命令，棺槨丘壟又按「貴賤之等級」規定尺寸，是冬令制度表"},
+    {"chapter": "孟冬紀", "para_index": 5, "domains": [], "modes": ["formalization", "prescription"], "reason": "「工師效功」「物勒工名，以考其誠」規定本月驗收工器、署名考核及處罪程序，屬工官條文"},
+    {"chapter": "孟冬紀", "para_index": 6, "domains": [], "modes": ["formalization", "ritual"], "reason": "「大飲蒸」「祈來年于天宗」「饗先祖五祀」排列孟冬祭饗，並附休農與講武事項，整段是歲時儀程"},
+    {"chapter": "孟冬紀", "para_index": 7, "domains": [], "modes": ["formalization", "prescription"], "reason": "「無或敢侵削眾庶兆民」雖有護民語義，位置是「是月也」下水澤賦稅與執法條目，效力沒有脫離孟冬政令"},
+    {"chapter": "孟冬紀", "para_index": 8, "domains": [], "modes": ["formalization", "observation"], "reason": "「孟冬行春令」「行夏令」「行秋令」逐類列凍閉、風寒、蟲出、兵起等失時災異，是錯令後果登錄"}
+  ]
+}

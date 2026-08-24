@@ -1,0 +1,285 @@
+{
+  "batch": "b05.md",
+  "rows": [
+    {
+      "chapter": "行論",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「執民之命，重任也」把人主置於承擔民命的領導責任中；「不得以快志為故」又要求克制一己快意，分別承重於公共責任與品格"
+    },
+    {
+      "chapter": "行論",
+      "para_index": 2,
+      "domains": ["VI", "VII"],
+      "modes": ["narrative"],
+      "reason": "鯀「怒甚猛獸，欲以為亂」，禹則「不敢怨，而反事之」；敘事用受挫後的憤怒反叛與克制盡職作對照，落在人如何處理怨怒及其品格"
+    },
+    {
+      "chapter": "行論",
+      "para_index": 3,
+      "domains": ["IV", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "文王以「父雖無道，子敢不事父乎？君雖不惠，臣敢不事君乎？」並舉父子與君臣責任，故事同時落在家庭倫理與政治關係"
+    },
+    {
+      "chapter": "行論",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "凡繇阻止燕王因使者被殺而出兵，段末以「湣王以大齊驕而殘」及「將欲毀之，必重累之」指出權勢中的驕矜會導向敗亡"
+    },
+    {
+      "chapter": "行論",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「凡事之本在人主，人主之患，在先事而簡人」明說領導者輕忽人會使事窮；「以義進退」又把莊王能戰能止歸於義而非強力"
+    },
+    {
+      "chapter": "驕恣",
+      "para_index": 1,
+      "domains": ["II", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「必自驕，必自智，必輕物」描寫亡國之主的自我高估；「自驕則簡士，自智則專獨」把錯誤自評連到排斥人才與獨斷的領導後果"
+    },
+    {
+      "chapter": "驕恣",
+      "para_index": 2,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "厲公害臣而終被殺，段末明斷「知能害人，而不知害人之不當而反自及」並歸因「智短」，寫的是掌權者認知短淺造成自危"
+    },
+    {
+      "chapter": "驕恣",
+      "para_index": 3,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "武侯自稱「大夫之慮莫如寡人」，李悝以「其所擇而莫如己者亡」警醒；收束「不在於自少，而在於自多」直指自我高估與拒諫"
+    },
+    {
+      "chapter": "驕恣",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "春居用類比使宣王自承「寡人不肖，而好為大室」並止役；「忠臣之諫者，亦從入之，不可不慎」主張領導中的進諫須有能被接納的入口"
+    },
+    {
+      "chapter": "驕恣",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "簡子責鸞徼「是長吾過而絀善也」，並以「理督責於其臣」使人主「可與為善，而不可與為非」，同時關乎用人問責與善惡品格"
+    },
+    {
+      "chapter": "觀表",
+      "para_index": 1,
+      "domains": ["VI", "XI"],
+      "modes": ["proposition"],
+      "reason": "「事隨心，心隨欲。欲無度者，其心無度」把行為連到難測的欲與心；「非神非幸，其數不得不然」把看似神幸的結果還原為可察徵表，故標內在生活與改變／命運，不含 XII"
+    },
+    {
+      "chapter": "觀表",
+      "para_index": 2,
+      "domains": ["II", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "郈成子從「陳樂而不樂」「酒酣而送我以璧」讀出其志，並代養妻子、返璧；孔子稱「智可以微謀、仁可以託財」，既寫識人也寫可信仁行"
+    },
+    {
+      "chapter": "觀表",
+      "para_index": 3,
+      "domains": ["VI", "VIII"],
+      "modes": ["narrative"],
+      "reason": "吳起說「君誠知我，而使我畢能」本可成事，今卻「聽讒人之議，而不知我」；「先見而泣」不是套語，而是才不得展且預見敗局的哀痛"
+    },
+    {
+      "chapter": "觀表",
+      "para_index": 4,
+      "domains": ["II", "VIII"],
+      "modes": ["proposition"],
+      "reason": "相馬良工能由「馬之一徵」知其材能，段末推及「人亦有徵」且「非意之也，蓋有自云也」，主張識人與專業判斷須由徵表而來"
+    },
+    {
+      "chapter": "開春",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「王者厚其德，積眾善」而賢者歸附，共伯和也因「修其行，好賢仁」使海內來從；文本把領導感召奠基於德行"
+    },
+    {
+      "chapter": "開春",
+      "para_index": 2,
+      "domains": ["IV", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "太子原以如期葬父為義，惠公借「先王必欲少留而撫社稷安黔首也，故使雨雪甚」作說辭，使他兼顧民勞而改期；落在喪親與公共領導，不把天候說辭當信仰，故不含 XII"
+    },
+    {
+      "chapter": "開春",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "封人子高以「功若此其大也，而能無有罪戮者，未嘗有也」使段喬暗中釋吏；收束只評「說之行若此其精也」「善說」，是在示範怎麼說服，未另說人的樣態"
+    },
+    {
+      "chapter": "開春",
+      "para_index": 4,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "祈奚以「寧過而賞淫人，毋過而刑君子」說服宣子救人，段末由「行危苦、不避煩辱」收在「學豈可以已哉」，同時承重公共公義與學習能力"
+    },
+    {
+      "chapter": "察賢",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「立功名亦然，要在得賢」把領導成效繫於求賢；「賢主，豈必苦形愁慮哉？執其要而已矣」又把成就之道說成掌握並運用人才"
+    },
+    {
+      "chapter": "察賢",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "宓子說「我之謂任人，子之謂任力。任力者故勞，任人者故逸」，並以「逸四肢，全耳目，平心氣」對照親力親為；寫領導授權與工作方式"
+    },
+    {
+      "chapter": "期賢",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「人主有能明其德者，天下之士，其歸之也，若蟬之走明火也」把招徠賢士建立在領導者彰明德行；「必得賢士」承接為國家安顯之本"
+    },
+    {
+      "chapter": "期賢",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "簡子因十士指出攻衛「不義」而止兵，故「無侵小奪弱之名」；段末同時肯定衛之用人與簡子「好從諫」，寫公義與受諫品格"
+    },
+    {
+      "chapter": "期賢",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "文侯自比「光乎地」「富乎財」而承認段干木「光乎德」「富乎義」，以敬賢止秦兵；末又以大量無辜死亡說野人用兵「離仁義亦遠矣」，落在領導與仁義"
+    },
+    {
+      "chapter": "審為",
+      "para_index": 1,
+      "domains": ["I", "X"],
+      "modes": ["proposition"],
+      "reason": "「身者所為也，天下者所以為也」先辨目的與手段；「危身傷生、刈頸斷頭以徇利」則把逐利寫成錯置生命輕重，明涉存在本末與死亡代價"
+    },
+    {
+      "chapter": "審為",
+      "para_index": 2,
+      "domains": ["I", "X"],
+      "modes": ["narrative", "proposition"],
+      "reason": "太王說「不以所以養害所養」而棄地保民，段末又斷「雖富貴不以養傷身，雖貧賤不以利累形」；核心是生命與富貴利祿孰重及避免失生"
+    },
+    {
+      "chapter": "審為",
+      "para_index": 3,
+      "domains": ["I", "VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "子華子由「兩臂重於天下也，身又重於兩臂」推到不應為小地「愁身傷生以憂之」，以身與外物的輕重重整君主的憂懼"
+    },
+    {
+      "chapter": "審為",
+      "para_index": 4,
+      "domains": ["VI", "XIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "公子牟自承「雖知之，猶不能自勝」，詹子答「不能自勝則縱之」並警告強抑為「重傷」；文本正面處理內在衝突與不能克服時如何安頓"
+    },
+    {
+      "chapter": "愛類",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「仁也者，仁乎其類者也」以是否利人界定仁，神農親耕織與賢者奔走皆因「以民為務」；末以「憂民之利、除民之害」統攝王者責任與仁德"
+    },
+    {
+      "chapter": "愛類",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "墨子以「不得宋且不義」迫使荊王承認攻宋無據，再以守術「九卻之」免宋之難；敘事把抗拒不義強權與保民實踐寫成可見行為"
+    },
+    {
+      "chapter": "愛類",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "禹疏河決江而「所活者千八百國」，收束明說「勤勞為民，無苦乎禹者矣」，把巨大勞動成就放在為民責任之下"
+    },
+    {
+      "chapter": "愛類",
+      "para_index": 4,
+      "domains": ["I", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "惠子以「石代愛子頭」說明可用較輕手段保全人民，並說「利民豈一道哉？當其時而已矣」；主張公共責任應守住利民目的而變通手段"
+    },
+    {
+      "chapter": "貴卒",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "「力貴突，智貴卒」直接提出能力以迅速見效為貴；驥若「旬日取之，與駑駘同」、箭若終日才至則等於未至，所論是才智能否及時成事"
+    },
+    {
+      "chapter": "貴卒",
+      "para_index": 2,
+      "domains": ["VIII"],
+      "modes": ["narrative"],
+      "reason": "吳起臨死利用「麗兵於王尸者，盡加重罪」的法律使射者受罪，段末以「吳起之智，可謂捷矣」按具體行為評其急智，並非只列人物品題"
+    },
+    {
+      "chapter": "貴卒",
+      "para_index": 3,
+      "domains": ["VIII"],
+      "modes": ["narrative"],
+      "reason": "鮑叔令小白中鉤後佯死、疾驅先入而得國，段末明評「鮑叔之智應射而令公子小白僵也，其智若鏃矢也」，以行為拆出迅捷才智"
+    },
+    {
+      "chapter": "貴卒",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「伶悝僵，令其子速哭」使刺者誤認已死而受罪；本段只登載一次遇刺反制的計策與結果，沒有自行評斷人的樣態或把它連到人生領域"
+    },
+    {
+      "chapter": "貴卒",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「衣鐵甲、操鐵杖以戰，而所擊無不碎」到「幾至將所而後死」只列戰場武力與死亡結果，屬怎麼打的兵事短例，未另說人的樣態"
+    },
+    {
+      "chapter": "貴直",
+      "para_index": 1,
+      "domains": ["II", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「欲聞枉而惡直言」寫出人主自我遮蔽的偏好；「所以貴士，為其直言也」則把能否容納直言置於領導用士之本"
+    },
+    {
+      "chapter": "貴直",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "能意以身處亂國反證自己「惡能直」，仍在王怒時直說；收束稱其「必不阿主」，並分辨「賢主之所求」與「不肖主之所惡」，落在領導與守直品格"
+    },
+    {
+      "chapter": "貴直",
+      "para_index": 3,
+      "domains": ["V", "VI", "VII"],
+      "modes": ["narrative", "expression"],
+      "reason": "狐援「哭國三日」且作者明說「哀社稷與民人，故出若言」，承重其哀痛（VI）；「將以救敗也」是公共責任（V）；明知「固嫌於危」仍直言是守直品格（VII）。三者各少一格就會少掉情感動機、救國責任或冒險守直"
+    },
+    {
+      "chapter": "貴直",
+      "para_index": 4,
+      "domains": ["V", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "燭過以同一批士在獻公、惠公、文公時表現相反，斷言「亦有君不能耳，士何弊之有」；簡子改變身先方式後「一鼓而士畢乘之」，說明領導能使群體行為改變"
+    }
+  ]
+}

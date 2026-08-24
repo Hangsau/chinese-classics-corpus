@@ -1,0 +1,278 @@
+{
+  "batch": "b03.md",
+  "rows": [
+    {
+      "chapter": "季秋紀",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「季秋之月：日在房」至「律中無射」連同「天子居總章右個」登錄該月的曆數、物候與居服，整段以季秋為成立條件，沒有另說人的樣態"
+    },
+    {
+      "chapter": "季秋紀",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "「是月也，申嚴號令」及「農事備收」是季秋收藏政令與農事規程；「祗敬必飭」仍附著於神倉入藏條目"
+    },
+    {
+      "chapter": "季秋紀",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "「霜始降，則百工休」與「寒氣總至，民力不堪，其皆入室」把休工、入室和入學習吹都掛在本月寒候下，是月令條文"
+    },
+    {
+      "chapter": "季秋紀",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization", "ritual"],
+      "reason": "「大饗帝」與「為來歲受朔日」規定季秋祭饗、頒朔、稅法及貢職尺度；「以遠近土地所宜為度」顯示這是時令制度化條目"
+    },
+    {
+      "chapter": "季秋紀",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["ritual", "formalization"],
+      "reason": "「天子乃教於田獵，以習五戎」至「祭禽於四方」編列季秋田獵、誓眾與祭禽儀節，沒有把人的品格或內在生活另立為依據"
+    },
+    {
+      "chapter": "季秋紀",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "「草木黃落，乃伐薪為炭」以物候引出伐薪、墐戶、趣獄刑及清理祿秩等季秋政令，內容仍在月份槽位內"
+    },
+    {
+      "chapter": "季秋紀",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["ritual"],
+      "reason": "「天子乃以犬嘗稻，先薦寢廟」只記本月新稻先薦宗廟的儀節，沒有登錄之外的人生主張"
+    },
+    {
+      "chapter": "季秋紀",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「季秋行夏令」以及行冬令、春令後各有災異，是把失時之令與水患、盜賊、師旅相配的月令災異表；「民氣解墮」也只在此錯令條件下成立"
+    },
+    {
+      "chapter": "順民",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「先王先順民心，故功名成」並說「取民之所說而民取矣」，把領導者能否順應群眾所好作為取得民心與成事的依據"
+    },
+    {
+      "chapter": "順民",
+      "para_index": 2,
+      "domains": ["V", "XII"],
+      "modes": ["narrative", "ritual"],
+      "reason": "湯禱告「余一人有罪，無及萬夫」呈現君主代民任責；段末以「雨乃大至。則湯達乎鬼神之化」直接認證祈禱、鬼神與降雨的效力，故同時涉及領導責任與神聖信仰"
+    },
+    {
+      "chapter": "順民",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "文王辭去千里封地而「願為民請炮烙之刑」，文本明說他「非惡千里之地」而是「必欲得民心」，以捨私利、除酷刑刻畫品格與領導取向"
+    },
+    {
+      "chapter": "順民",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "越王「三年苦身勞力」且有甘肥便與民分、親自賙濟困窮，寫出以自制和同甘共苦取得民心；結尾「此先順民心也」把這些行為收束為領導與品格主張"
+    },
+    {
+      "chapter": "順民",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["narrative", "prescription"],
+      "reason": "齊莊子把越視作「已死」而鴞子警告「已死矣以為生」，段末明定「凡舉事，必先審民心然後可舉」，主張政治行動須先判明群眾意向"
+    },
+    {
+      "chapter": "知士",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「良工之與馬也，相得則然後成」被推及「士亦有千里」，說明高才之士須遇能識用他的賢者才能成就，兼及用人關係與才能發揮"
+    },
+    {
+      "chapter": "知士",
+      "para_index": 2,
+      "domains": ["II", "V"],
+      "modes": ["narrative"],
+      "reason": "靜郭君能在眾人「多訾」時仍知劑貌辨，結尾稱其「能自知人，故非之弗為阻」；劑貌辨也因此「外生樂、趨患難」，故事承重於不受毀譽遮蔽的知人與君士信任"
+    },
+    {
+      "chapter": "審己",
+      "para_index": 1,
+      "domains": ["II"],
+      "modes": ["proposition"],
+      "reason": "「凡物之然也，必有故」且「不知其故，雖當與不知同」，把偶然答對而不懂成因仍判作無知，主張人須辨明自身判斷所據"
+    },
+    {
+      "chapter": "審己",
+      "para_index": 2,
+      "domains": ["II", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "列子由只會射中進到「知子之所以中」並能「守而勿失」，呈現技能須建立在自知其所以然；末句「聖人不察存亡賢不肖，而察其所以也」把此原則推及人的成敗與品評"
+    },
+    {
+      "chapter": "審己",
+      "para_index": 3,
+      "domains": ["VII", "V"],
+      "modes": ["narrative"],
+      "reason": "柳下季拒絕替假岑鼎背書，說「破臣之國以免君之國，此臣之所難也」，以不犧牲自身信用的操守，反使「己之國」與魯君之國都得保存"
+    },
+    {
+      "chapter": "審己",
+      "para_index": 4,
+      "domains": ["II", "V"],
+      "modes": ["narrative"],
+      "reason": "齊湣王追問亡國之故，公玉丹卻以「王之所以亡也者，以賢也」迎合，段末直斷「此亦不知其所以也，此公玉丹之所以過也」，揭示統治者的自欺與諂諛進言"
+    },
+    {
+      "chapter": "審己",
+      "para_index": 5,
+      "domains": ["II", "V"],
+      "modes": ["narrative"],
+      "reason": "越王聽豫而殺子、激成國人圍宮，事後仍只說「余不聽豫之言，以罹此難也」；文本判他「亦不知所以亡也」，寫的是掌權者誤認敗亡原因及錯信進言"
+    },
+    {
+      "chapter": "精通",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "以兔絲、慈石等隱連作比，提出聖人若「以愛利民為心」，即使「號令未出」人民也會響應；末句「賊害於人，人亦然」把仁愛或傷害的品格連到群眾回應"
+    },
+    {
+      "chapter": "精通",
+      "para_index": 2,
+      "domains": ["X", "XII"],
+      "modes": ["proposition"],
+      "reason": "本段可有誇張或信仰兩讀；這裡依「非或聞之也，神者先告也」及「死而志氣不安，精或往來也」的直陳，採文本認證神靈預告與死後精氣往來的一讀，故標死亡與超越信仰"
+    },
+    {
+      "chapter": "精通",
+      "para_index": 3,
+      "domains": ["VII", "V"],
+      "modes": ["proposition"],
+      "reason": "月盈虧與蚌蛤變化只是類比，落點在「聖人形德乎己，而四方咸飭乎仁」，主張領導者彰顯德性會使群眾整飭於仁"
+    },
+    {
+      "chapter": "精通",
+      "para_index": 4,
+      "domains": ["IV", "VI", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "三條內容都由本段明說而不可省：養由基、伯樂與庖丁的「誠乎」及十九年用刀寫專注成就技藝，少標 VIII 就漏掉才能精熟；「悲存乎心而木石應之」寫內在悲情的傳達，少標 VI 就漏掉情緒經驗；「父母之於子也，子之於父母也，一體而兩分」並收於「此之謂骨肉之親」，直接成立 IV"
+    },
+    {
+      "chapter": "仲春紀",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「仲春之月：日在奎」至「律中夾鐘」登錄星次、帝神、音律、物候與天子居服；注文只訓解宿位、鳥名及配應，沒有脫離仲春槽位的人生判斷"
+    },
+    {
+      "chapter": "仲春紀",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "「是月也，安萌牙，養幼少，存諸孤」及省囹圄、去桎梏全是仲春政令；注文以「順春陽」明示其時令依據，故不另作仁政或家庭主張"
+    },
+    {
+      "chapter": "仲春紀",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["ritual"],
+      "reason": "「玄鳥至。至之日，以太牢祀于高禖」規定仲春祈嗣儀節，注文所釋后妃、九嬪與授弓矢也都是該月祭儀部件"
+    },
+    {
+      "chapter": "仲春紀",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "「先雷三日」發布戒慎容止的告令，並在「日夜分」校正度量衡；注文雖展開「生子不備」的災異說，整套警告仍由仲春雷候和分日觸發"
+    },
+    {
+      "chapter": "仲春紀",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "「耕者少舍」引出修門、備寢廟及「無作大事，以妨農功」，是按仲春農時編排的禁令，注文亦把大事訓作兵戈征伐"
+    },
+    {
+      "chapter": "仲春紀",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization", "ritual"],
+      "reason": "「無竭川澤」等禁令、獻羔開冰與上丁中丁入學習舞樂並列為仲春條目；注文「以樂教和」仍在解釋此月學禮，未獨立承載人的樣態"
+    },
+    {
+      "chapter": "仲春紀",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["ritual"],
+      "reason": "「祀不用犧牲，用圭璧，更皮幣」只規定仲春祭祀替代物，注文也僅訓解幣、皮與圭璧的儀節"
+    },
+    {
+      "chapter": "仲春紀",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "行秋、冬、夏令分別配上大水、麥不熟與大旱，是失時災異的月令對照；注文把「民多相掠」繫於陰盛、飢窮，仍未離開錯令條件"
+    },
+    {
+      "chapter": "貴生",
+      "para_index": 1,
+      "domains": ["I", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「莫貴於生」確立生命的本末優先，又以「耳目鼻口，不得擅行，必有所制」要求節制感官欲望；這同時回答何者最重及如何養成自制"
+    },
+    {
+      "chapter": "貴生",
+      "para_index": 2,
+      "domains": ["I", "IX"],
+      "modes": ["narrative"],
+      "reason": "子州支父因「適有幽憂之病，方將治之」而拒絕天下，注文又明釋「我心不悅」；結語「不以天下害其生」把親身病況與生命高於權位的取捨連在一起"
+    },
+    {
+      "chapter": "貴生",
+      "para_index": 3,
+      "domains": ["I", "X"],
+      "modes": ["narrative"],
+      "reason": "在「越人三世殺其君」的死亡風險下，王子搜逃入丹穴並被迫登車，文本說他「惡為君之患」且「不以國傷其生」，以生死危患衡量君位"
+    },
+    {
+      "chapter": "貴生",
+      "para_index": 4,
+      "domains": ["I", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "顏闔逃避聘幣並非厭惡富貴，而是「由重生惡之也」；末段批評人主「多以富貴驕得道之人，其不相知」，兼論生命取捨與掌權者不理解士人的關係"
+    },
+    {
+      "chapter": "貴生",
+      "para_index": 5,
+      "domains": ["I", "VII"],
+      "modes": ["proposition"],
+      "reason": "「道之真，以持身；其緒餘，以為國家」把持身置於帝王功業之前，又責問世俗君子何以「危身棄生以徇物」，對生命本末及逐物品性作出裁斷"
+    },
+    {
+      "chapter": "貴生",
+      "para_index": 6,
+      "domains": ["I"],
+      "modes": ["proposition"],
+      "reason": "以隨侯珠彈雀之所以可笑在於「所用重，所要輕」，再反問「夫生豈特隨侯珠之重也哉」，主張行動須依生命與外物的本末輕重衡量"
+    },
+    {
+      "chapter": "貴生",
+      "para_index": 7,
+      "domains": ["I", "VII", "X"],
+      "modes": ["proposition"],
+      "reason": "三格各有不可刪的承重句：以「全生為上」及六欲得宜建立生命狀態的高下，少標 I 會漏掉生命本末；「辱莫大於不義」把是否守義列為品格界線，少標 VII 會漏掉善惡裁斷；「迫生不若死」直接比較屈辱苟生與死亡，少標 X 會漏掉死生取捨"
+    }
+  ]
+}

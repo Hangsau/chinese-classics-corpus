@@ -1,0 +1,425 @@
+{
+  "batch": "b07.md",
+  "rows": [
+    {
+      "chapter": "別類",
+      "para_index": 1,
+      "domains": ["II"],
+      "modes": ["proposition"],
+      "reason": "「過者之患，不知而自以為知」直接指出把不知誤認為知的自欺；「小智，非大智之類也」又限定類推能力，承重在人的認知界限"
+    },
+    {
+      "chapter": "別類",
+      "para_index": 2,
+      "domains": ["II"],
+      "modes": ["narrative", "proposition"],
+      "reason": "魯人由「我固能治偏枯」推到加倍用藥便能起死人，結語「可以為小，不可以為大；可以為半，不可以為全」揭出把局部能力誤推為整體能力的判斷錯誤"
+    },
+    {
+      "chapter": "別類",
+      "para_index": 3,
+      "domains": ["II", "V"],
+      "modes": ["proposition"],
+      "reason": "「劍之情未革，而或以為良，或以為惡，說使之也」說明言說能左右判斷；「無以聰明聽說則堯、桀無別矣」並把辨言失準連到忠臣受患、賢者被廢"
+    },
+    {
+      "chapter": "別類",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「義，小為之則小有福，大為之則大有福。於禍則不然」只比較福禍與射物在大小尺度上的不同，收在「物固不必，安可推也」的類推命題，沒有另說人的樣態"
+    },
+    {
+      "chapter": "別類",
+      "para_index": 5,
+      "domains": ["II"],
+      "modes": ["narrative", "proposition"],
+      "reason": "高陽應以「木益枯則勁，塗益乾則輕」作局部推算而房屋終敗，結語明判他「好小察，而不通乎大理」，承重在自信於小辨而看不見整體的認知偏失"
+    },
+    {
+      "chapter": "別類",
+      "para_index": 6,
+      "domains": ["II"],
+      "modes": ["proposition"],
+      "reason": "「目固有不見也，智固有不知也，數固有不及也」直接承認感官、知識與推算都有界限；「不事心焉」主張不能把制度建立在逞心臆測上"
+    },
+    {
+      "chapter": "有度",
+      "para_index": 1,
+      "domains": ["II", "VI"],
+      "modes": ["proposition"],
+      "reason": "「昏乎其所未知」使人「易欺矣，可惶矣，可恐矣，可喜矣」，文本把知之不審說成受欺與惶恐、喜動的內在根源"
+    },
+    {
+      "chapter": "有度",
+      "para_index": 2,
+      "domains": ["VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "季子以「通乎性命之情者，當無私矣」回答舜是否為私，並說「節己，雖貪汙之心猶若止」，把節制自己與止息貪心明確連在一起"
+    },
+    {
+      "chapter": "有度",
+      "para_index": 3,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「許由非彊也，有所乎通也」否定其操守只是勉強，並以「有所通則貪汙之利外矣」說明看通之後，貪利不再進入其價值取向"
+    },
+    {
+      "chapter": "有度",
+      "para_index": 4,
+      "domains": ["II", "VII"],
+      "modes": ["proposition"],
+      "reason": "「仁義之術外也。夫以外勝內……不能行」區分外加教條與內在動力；「通乎性命之情，而仁義之術自行」把自我理解說成德行能落實的條件"
+    },
+    {
+      "chapter": "有度",
+      "para_index": 5,
+      "domains": ["VI", "XIII"],
+      "modes": ["proposition"],
+      "reason": "「惡、欲、喜、怒、哀、樂六者，累德者也」指出情欲對內在的牽累；其後「正則靜，靜則清明」描寫卸除牽累後由安靜到清明的安頓路徑"
+    },
+    {
+      "chapter": "分職",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「無智，故能使眾智也；智反無能，故能使眾能也」把領導者的工作界定為運用眾人智能；反面「處人臣之職而欲無壅塞」指出越俎代庖會破壞分工"
+    },
+    {
+      "chapter": "分職",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "武王本人對五佐之事「無能」，卻能「令智者謀」「令勇者怒」「令辯者語」；段落以此說明領導成就在於辨識、配置並發揮他人才能"
+    },
+    {
+      "chapter": "分職",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「使眾能與眾賢，功名大立於世」把成就繫於任用群才；反面的人主「自為人則不能，任賢者則惡之，與不肖者議之」具體寫出領導失職如何傷害功名與國家"
+    },
+    {
+      "chapter": "分職",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「以其民安」「以其地封」「以其財賞」依次列出占有並配置民、地、財的政治效果，天下不危、不說、皆競都只是政策鏈終端，沒有另行解釋人的樣態"
+    },
+    {
+      "chapter": "分職",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "白公掌國卻不肯分府庫，結語以「國非其有也而欲有之」判為「至貪」，又以「不能為人，又不能自為」判為「至愚」，直指掌權者侵占公共資源的品格失敗"
+    },
+    {
+      "chapter": "分職",
+      "para_index": 6,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "衛靈公由宛春的「君則不寒矣，民則寒矣」看見權位造成的處境差；末尾「受賞者無德，而抵誅者無怨矣，人自反而已」把任職、賞罰與責任歸屬說成公正領導的核心"
+    },
+    {
+      "chapter": "處方",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「凡為治必先定分」以下列舉君臣、父子、夫婦、貴賤與長少各自當位，是維持秩序的角色制度條文；「則下不踰節而上不苟為」仍是制度施行後的政策效果"
+    },
+    {
+      "chapter": "處方",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "百里奚與向摯換了所處國家而「智非加益」「典非加善」，成敗卻相反；文本以「有其本也」說明同一人的才智是否能成事，取決於組織是否先定好職分"
+    },
+    {
+      "chapter": "處方",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative"],
+      "reason": "章子明言「不可以戰而戰，可以戰而不戰，王不能得此於臣」，守住將領的專業判斷；又採用芻者對水深的在地知識，具體呈現職責自主與專長運用"
+    },
+    {
+      "chapter": "處方",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "御者之右未奉命便調正車靷，雖然事情做對，結語仍說「擅為妄意之道雖當，賢主不由也」，承重在共同職分下個人權責的界線"
+    },
+    {
+      "chapter": "處方",
+      "para_index": 5,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「法也者，眾之所同也」把法界定為共同規則；「賢不肖之所以其力也」又說共同尺度使不同能力者都能用力，故同時涉及公義秩序與才能協作"
+    },
+    {
+      "chapter": "慎小",
+      "para_index": 1,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "尊卑隔絕造成「上下不相知」，繼而「下怨上」；「人臣之情，不能為所怨；人主之情，不能愛所非」直接說出權力關係中怨、愛與判斷彼此加劇的機制"
+    },
+    {
+      "chapter": "慎小",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「巨防容螻，而漂邑殺人」至「主過一言，而國殘名辱」只是並列小失導致大禍的因果例句，沒有進一步說明人的欲求、性情或處境"
+    },
+    {
+      "chapter": "慎小",
+      "para_index": 3,
+      "domains": ["V", "VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "兩位衛君因怠慢臣下、侵奪戎州而積怨致禍，末句「人之情不蹙於山，而蹙於垤」更直接指出人未必被大難逼迫，反會被近身的小屈辱激怒"
+    },
+    {
+      "chapter": "慎小",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「去肉食之獸，去食粟之鳥，去絲罝之網」只登載齊桓公三項命令及群臣稱賢的結果，沒有拆解稱賢者或下令者的行為動機"
+    },
+    {
+      "chapter": "慎小",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "百姓先以「此必不信」懷疑吳起，見他確實授官後才「民信吳起之賞罰」；故事把公共權威的信用建立在可驗證、前後一致的履約上"
+    },
+    {
+      "chapter": "士容",
+      "para_index": 1,
+      "domains": ["VII", "XIII"],
+      "modes": ["observation"],
+      "reason": "國士被具體寫成「臨患涉難而處義不越」「富貴弗就而貧賤弗朅」，並且「難動以物而必不妄折」；這不是只列德名，而是描寫逆境中守義與不受外物動搖的行為"
+    },
+    {
+      "chapter": "士容",
+      "para_index": 2,
+      "domains": ["II", "III"],
+      "modes": ["narrative", "proposition"],
+      "reason": "良狗「其志在獐麋豕鹿，不在鼠」用來映照人的內在志向；「人亦然。誠有之則神應乎人矣，言豈足以諭之哉」主張真實心志能被感知，語言未必足以使人理解"
+    },
+    {
+      "chapter": "士容",
+      "para_index": 3,
+      "domains": ["II", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "客人外表「進退中度」仍被判非士，因其展示的正是士應收斂之處；末段以「不肯自足」「心甚素樸」刻畫真實品格，區分外在表演與內在自持"
+    },
+    {
+      "chapter": "士容",
+      "para_index": 4,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "故人對唐尚「可信而不信，不可信而信」，文本明判「此愚者之患也」；又以「知人情，不能自遺」和「愚之患，在必自用」說明掌權者判人時不能排除自身偏見的危害"
+    },
+    {
+      "chapter": "務大",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "俗主之佐只「患其身不貴於其國」，不患主與天下之大局，遂「欲榮而逾辱，欲安而逾危」；文本把成就追求的失敗歸於只顧個人地位而失去公共責任"
+    },
+    {
+      "chapter": "務大",
+      "para_index": 2,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "燕雀「自以為安」卻「不知禍之將及」，映照臣子沉溺一家爵祿而危及社稷；「細大賤貴，交相為贊」則把個人安全放回大小群體相互依存的關係中"
+    },
+    {
+      "chapter": "務大",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "薄疑與杜赫的兩則答問都以先談王術、安天下來回應一國之治，收束「以弗安而安」仍是遊說時以大包小的論辯槓桿，未另說人的樣態"
+    },
+    {
+      "chapter": "務大",
+      "para_index": 4,
+      "domains": ["V", "X"],
+      "modes": ["narrative", "proposition"],
+      "reason": "被瞻以「言不聽，道不行，則固不事君」界定臣下責任，又說若「言聽道行，又何死亡哉」；結語認為不為君枉死者反而更賢，正面處理忠誠與死亡的取捨"
+    },
+    {
+      "chapter": "務大",
+      "para_index": 5,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "舜、禹、湯武乃至孔墨的最高目標雖「不成」，仍各有較小層次的成就；「大義之不成，既有成已，故務事大」把志向尺度與失敗後仍能成事的關係說明白"
+    },
+    {
+      "chapter": "上農",
+      "para_index": 1,
+      "domains": ["VII", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「民農非徒為地利也，貴其志也」明言重農所塑造的是人的志；後半「多詐則巧法令，以是為非，以非為是」是對離農後品性的裁斷。「邊境安，主位尊」「公法立」只是政策終端，不另標 V"
+    },
+    {
+      "chapter": "上農",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["ritual", "formalization"],
+      "reason": "「天子親率諸侯耕帝籍田」與「后妃率九嬪蠶於郊」規定以耕籍、郊蠶示教的農事儀制；「非老不休，非疾不息」仍是這套勞作制度的紀律，沒有獨立的人生主張"
+    },
+    {
+      "chapter": "上農",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「上田，夫食九人。下田，夫食五人」計算不同地力所能供養的人數，「一人治之，十人食之」也是任地產能比例，屬農技尺度登錄"
+    },
+    {
+      "chapter": "上農",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「不興土功，不作師徒」到「農不出御，女不外嫁」逐項禁止妨害農時的活動，是按農時制定的野禁條文"
+    },
+    {
+      "chapter": "上農",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「野禁有五」以下依次規定未闢地、不出糞、不得營園囿、不得超力開渠、農不得行賈，整段是避免誤時的農政清單"
+    },
+    {
+      "chapter": "上農",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「制四時之禁」以下對伐木、灰僇、網捕與入淵作逐項限制，落點反覆是「為害其時也」，屬季節性資源與農事條文"
+    },
+    {
+      "chapter": "上農",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「農攻粟，工攻器，賈攻貨」先登錄三官分工，其後按土功、水事、兵事列出奪民時的國家後果；「皆知其末，莫知其本」仍收在農政政策鏈，未另立人的樣態"
+    },
+    {
+      "chapter": "任地",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「子能以窐為突乎」「子能使保溼安地而處乎」連問整地、排水、保墒及使穗米成形的操作能力，設問句式不改變其農技條目性質"
+    },
+    {
+      "chapter": "任地",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「力者欲柔，柔者欲力」「溼者欲燥，燥者欲溼」以成對條目規定不同土況的相反處理法，是耕作程序"
+    },
+    {
+      "chapter": "任地",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「上田棄畝，下田棄甽」規定地勢處理，又列耜、甽、耨柄與耨的尺寸及耕耨條件，整段是整地、除草和工具尺度的農技規格"
+    },
+    {
+      "chapter": "任地",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「冬至後五旬七日，菖始生，菖者百草之先生者也，於是始耕」用草木生死與節候決定耕、穫、種、藏的時點，是農時物候程序"
+    },
+    {
+      "chapter": "任地",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「皆時至而作，渴時而止」要求按時調度勞力，老弱可盡起、民郤與失功都用來比較排程成效；槓桿是農時管理，不是人的獨立樣態"
+    },
+    {
+      "chapter": "辯土",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「凡耕之道」以下依土澤、地勢規定處理方法，再把地、苗、草對收成的妨害列為「三盜」，結語只在去害而多粟的農技因果"
+    },
+    {
+      "chapter": "辯土",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「蚤者先時，晚者不及時」及高、陂、風、寒、熱等條件逐項解釋無穫原因，末尾規定「畮欲廣以平，甽欲小以清」，是田畝配置與時令操作"
+    },
+    {
+      "chapter": "辯土",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「勿使數，亦無使疏」「無使不足，亦無使有餘」規定播種與施土密度，並以縱橫成行、三苗為族說明通風扶持，是苗株配置程序"
+    },
+    {
+      "chapter": "辯土",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「長其兄而去其弟」是間苗法，後文依肥墝、厚薄土分列秕、死、不發等結果；兄弟只是禾苗先後生的比喻，整段仍是土性與除苗技術"
+    },
+    {
+      "chapter": "審時",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「斬木不時」「稼就而不穫」列失時後果，「人稼之容足，耨之容耨，據之容手」規格化種植、耨治與收割的農事尺度，收在「耕道」"
+    },
+    {
+      "chapter": "審時",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization", "observation"],
+      "reason": "「得時之禾」與「先時者」「後時者」分別登錄莖、葉、穗、糠、米的形態和食性，判準完全繫於禾是否得時"
+    },
+    {
+      "chapter": "審時",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization", "observation"],
+      "reason": "「得時之黍」以下對照先時、後時黍的莖穗、糠米與香味，是按播種時機編排的作物形態登錄"
+    },
+    {
+      "chapter": "審時",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization", "observation"],
+      "reason": "「得時之稻」與先時、後時三類只比較稻的本莖、秱穗、秕糠、米粒與成熟狀況，屬稻作得時規格"
+    },
+    {
+      "chapter": "審時",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization", "observation"],
+      "reason": "「得時之麻」以下登錄麻的長度、節距、色澤、莖與纖維均勻度，所有性狀都由得時這一農技條件統攝"
+    },
+    {
+      "chapter": "審時",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization", "observation"],
+      "reason": "「得時之菽」同先時、後時的對照只記豆類莖足、莢族、枝節、籽實、重量與香味，是作物時機和形態比較"
+    },
+    {
+      "chapter": "審時",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization", "observation"],
+      "reason": "「得時之麥」以下列麥的秱、頸、行列、重量與食效，再同先時、後時麥的病害形態對照；「使人肌澤且有力」仍是得時之麥的食效"
+    },
+    {
+      "chapter": "審時",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["formalization", "observation"],
+      "reason": "「得時之稼」與失時之稼依重量、出米、耐飢、香味逐項比較；「耳目聰明，心意叡智，四衛變彊」是得時五穀的食效，承重槓桿是穀而不是人的心理或身體處境"
+    }
+  ]
+}

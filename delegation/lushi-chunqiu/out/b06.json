@@ -1,0 +1,320 @@
+{
+  "batch": "b06.md",
+  "rows": [
+    {
+      "chapter": "直諫",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「言極則怒，怒則說者危」指出主上的怒使直言者承受危險；「要利之人，犯危何益」又分辨賢者與逐利者面對風險的不同動機，承重在領導關係與品格。"
+    },
+    {
+      "chapter": "直諫",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "鮑叔以「使公毋忘出奔在於莒也」進諫，桓公「避席再拜」，並由「可與言極言，故可與為霸」收束；故事把能記取困厄、謙受逆耳之言寫成領導與品格條件。"
+    },
+    {
+      "chapter": "直諫",
+      "para_index": 3,
+      "domains": ["VI", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "葆申明說「君子恥之，小人痛之。恥之不變，痛之何益？」把羞恥與肉體疼痛區分為不同的內在反應，並以文王「乃變更」說明知恥如何促成人格改過。"
+    },
+    {
+      "chapter": "知化",
+      "para_index": 1,
+      "domains": ["II", "XI"],
+      "modes": ["proposition"],
+      "reason": "「化未至則不知，化已至，雖知之與勿知一貫也」刻畫惑者總在變局之後才醒悟；「在於不先知化也」把自我蒙蔽與能否及時辨識改變列為危亡根由。"
+    },
+    {
+      "chapter": "知化",
+      "para_index": 2,
+      "domains": ["II", "VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "夫差先拒絕子胥之言，敗亡時才說「吾何面以見子胥於地下」；末句「故夫差之知慚於子胥也，不若勿知」把過晚的自知與羞慚寫成比無知更痛切的內在結局。"
+    },
+    {
+      "chapter": "過理",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「所以亡同者，樂不適也」以共同的失度品格統攝「剖孕婦而觀其化」「殺比干而視其心」等殘酷行為，承重在縱欲與不仁，而不只是夏、商亡國記事。"
+    },
+    {
+      "chapter": "過理",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "沮麛面對弒臣命令，以「賊民之主不忠，棄君之命不信，一於此不若死」辨析對君命、人民與信義的衝突；故事承重在權力關係中的良心抉擇。"
+    },
+    {
+      "chapter": "過理",
+      "para_index": 3,
+      "domains": ["II", "VII"],
+      "modes": ["narrative"],
+      "reason": "王丹把湣王亡國後「無重國之意」曲說成賢，湣王卻答「丹知寡人」；逢迎與自我認識互相強化，使失國者仍把麻木當成可稱許的品格。"
+    },
+    {
+      "chapter": "過理",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "左右以「湯、武勝人，今王勝天，賢不可以加矣」迎合宋王，眾人又「莫敢不應」萬歲；末評「不適也」把僭越、嗜諛與受權勢裹挾的附和判為失德。"
+    },
+    {
+      "chapter": "壅塞",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「亡國之主，不可以直言」直接刻畫拒絕直言的領導者，並以「過無道聞，而善無自至」說明封閉溝通如何使錯失無從上達。"
+    },
+    {
+      "chapter": "壅塞",
+      "para_index": 2,
+      "domains": ["II", "VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "戎王因女樂而「數飲食，日夜不休」，甚至射擊報警者；「未擒則不可知，已擒則又不知」把沉溺享樂造成的認知封閉寫成一種到受擒仍不醒悟的內在狀態。"
+    },
+    {
+      "chapter": "壅塞",
+      "para_index": 3,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "使者面臨「報其情，死；不報其情，又恐死」，只得謊報而受賞；末以「狂而以行賞罰」指出掌權者的錯覺和怒意會倒置真偽及獎懲。"
+    },
+    {
+      "chapter": "壅塞",
+      "para_index": 4,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "齊王竟自問太子能否「如堯乎？其如舜也」，末段直指「今自以賢過於堯、舜，彼且胡可以開說哉？說必不入」，把過高自評寫成拒絕溝通與教導的根因。"
+    },
+    {
+      "chapter": "壅塞",
+      "para_index": 5,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「宣王之情，所用不過三石，而終身自以為用九石」明寫逢迎如何製造終身錯誤的自我評價；「非直士其孰能不阿主」又把失真連到權力中的群體壓力。"
+    },
+    {
+      "chapter": "原亂",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「倒戈弛弓，示天下不用兵，所以守之也」把武王的做法列成取得、守住天下的政治鏈；「毋過亂門」也是避亂處方，本段沒有另說人的樣態。"
+    },
+    {
+      "chapter": "原亂",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "晉國二十年亂事最後收在「事慮不同情者，心異也」，指出作亂同盟各懷異心；「凡作亂之人，禍希不及身」又把不義結盟反噬自身說成通則。"
+    },
+    {
+      "chapter": "慎行",
+      "para_index": 1,
+      "domains": ["I", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「君子計行慮義，小人計行其利、乃不利」以義與眼前利益區分行動的輕重本末；「有知不利之利者」主張真正有價值的選擇可能不呈現為即時之利。"
+    },
+    {
+      "chapter": "慎行",
+      "para_index": 2,
+      "domains": ["II", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "費無忌反覆以讒言害人，結語「動而不論其義，知害人而不知人害己也」同時指出其不義品格與只看見害人、看不見反噬的自我盲點。"
+    },
+    {
+      "chapter": "慎行",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「凡亂人之動也，其始相助，後必相惡」揭示以惡結盟終將互害；相反的「始而相與，久而相信，卒而相親」把守義寫成信任與長久關係的基礎。"
+    },
+    {
+      "chapter": "無義",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「不知趨利。趨利固不可必也」指出只逐利者反而不能確保利益；「以義動」則使臣下乃至天下「皆且與之」，把品格與群體合作直接連結。"
+    },
+    {
+      "chapter": "無義",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "公孫鞅以舊交誘捕公子卬，後來襄疵以「吾無道知君」拒納他；「士自行不可不審也」由背信故事落到個人操行如何摧毀社會信任。"
+    },
+    {
+      "chapter": "無義",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "鄭平「欺交反主，為利故也」，有權時受重、失勢後受賤；「重以得之，輕必失之」說明逐利背信所得的地位不能維持，也會敗壞人際評價。"
+    },
+    {
+      "chapter": "無義",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "續經出賣同行者而得官後，「人莫與同朝，子孫不可以交友」；這則短例承重在背信品格造成當世排斥並延及後代的社會後果。"
+    },
+    {
+      "chapter": "無義",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "公孫竭反告陰君之事，雖「功非不大也」，卻「不得入三都」；段末以「又況乎無此其功而有行乎」指出不義操行會限制功勞所能換取的信任與位置。"
+    },
+    {
+      "chapter": "疑似",
+      "para_index": 1,
+      "domains": ["II", "V"],
+      "modes": ["proposition"],
+      "reason": "「賢主之所患，患人之博聞辯言而似通者」把似是而非的人才判斷列為領導難題；「愚者之所大惑，而聖人之所加慮」則直接比較受表象迷惑與審慎辨識。"
+    },
+    {
+      "chapter": "疑似",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "幽王為博褒姒一笑而「數擊鼓」，終使真有戎寇時諸侯不至；「賢者有小惡以致大惡」把濫用公共信號與取悅私欲寫成由小失德摧毀群體信任。"
+    },
+    {
+      "chapter": "疑似",
+      "para_index": 3,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "黎丘丈人因鬼貌似其子而刺殺真子，隨即類推為「惑於似士者而失於真士」；「疑似之跡，不可不察。察之必於其人也」明言判斷身份與人才不能只憑相似表象。"
+    },
+    {
+      "chapter": "壹行",
+      "para_index": 1,
+      "domains": ["III", "IV", "V"],
+      "modes": ["proposition"],
+      "reason": "「不可知則君臣、父子、兄弟、朋友、夫妻之際敗矣」逐項說明行止不可預期會破壞人倫：夫妻承重於親密（III），父子兄弟承重於家庭（IV），君臣朋友承重於群體關係（V）；拿掉任一格都會漏掉本段明列的一類關係。"
+    },
+    {
+      "chapter": "壹行",
+      "para_index": 2,
+      "domains": ["V", "VI"],
+      "modes": ["proposition"],
+      "reason": "「人之情不能愛其所疑」直接說出疑懼會阻斷信任與愛；全文再以強國、小國及王者的存亡說明可預期的行為如何維持政治關係。"
+    },
+    {
+      "chapter": "壹行",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "行人因大樹可靠而「安之若此者信也」，繼而說「士義可知故也，則期為必矣」；可辨、穩定的守義品格因此成為信賴與合作的根據。"
+    },
+    {
+      "chapter": "壹行",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「世之所以賢君子者，為其能行義而不能行邪辟也」把人們尊重君子的理由，明定為其操行穩定地守義而不行邪。"
+    },
+    {
+      "chapter": "壹行",
+      "para_index": 5,
+      "domains": ["II", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "孔子以「夫白而白，黑而黑，夫賁又何好乎」反對混雜不定，末稱「賢者所惡於物，無惡於無處」；卜卦只是故事載體，落點是身份界線與操行須有定處。"
+    },
+    {
+      "chapter": "壹行",
+      "para_index": 6,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「盜不與期，賊不與謀」說連姦人合作也需要可預期的伙伴；欲成大功更「必之士可知」，把可信賴的行止列為群體協作與成就的條件。"
+    },
+    {
+      "chapter": "求人",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「得賢人，國無不安，名無不榮；矢賢人，國無不危，名無不辱」全是取得人才與國勢結果的政策鏈；「今壽國有道，而君人者而不求，過矣」把益壽比喻也鎖在勸君求才，沒有另說人的樣態。"
+    },
+    {
+      "chapter": "求人",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative"],
+      "reason": "堯對舜「身請北面朝之」而不拘尊位，禹又「不有懈墮」遠行求賢；得到五人輔佐後「功績銘乎金石」，故事把謙下、勤求人才與完成大業連在一起。"
+    },
+    {
+      "chapter": "求人",
+      "para_index": 3,
+      "domains": ["I", "V", "XII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "許由以「啁焦巢於林，不過一枝；偃鼠飲於河，不過滿腹」表明知足而拒絕天下（I）；「戚愛習故，不以害之」要求求賢不受私親妨礙（V）；末句又由文本直接斷言賢者所聚則「鬼神不害」（XII），三格各承載一項不可互相替代的主張。"
+    },
+    {
+      "chapter": "求人",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「召南宮虔、孔伯產而眾口止」只記皋子眾召二人後議論停止這一結果，沒有說明二人的可辨品格、眾人為何改判，或提出可獨立成立的人之樣態。"
+    },
+    {
+      "chapter": "求人",
+      "para_index": 5,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "叔嚮由子產之詩判定「鄭有人，子產在焉，不可攻也」，孔子又以「無競惟人」收束；一名有才幹者的言行足以改變他國決策並保全群體。"
+    },
+    {
+      "chapter": "察傳",
+      "para_index": 1,
+      "domains": ["II", "V"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「數傳而白為黑，黑為白」指出信息經轉述會失真，「聞而審則為福矣，聞而不審，不若無聞矣」則把查證能力連到君主聽人後的存亡結果。"
+    },
+    {
+      "chapter": "察傳",
+      "para_index": 2,
+      "domains": ["II"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「凡聞言必熟論，其於人必驗之以理」先立查證原則；夔「一而足」與穿井「得一人」兩例都顯示字面相同而意義可異，承重在辨清名言與實情。"
+    },
+    {
+      "chapter": "察傳",
+      "para_index": 3,
+      "domains": ["II"],
+      "modes": ["narrative", "proposition"],
+      "reason": "子夏由字形辨出「三豕」實為「己亥」，結語「辭多類非而是，多類是而非。是非之經，不可不分」明說表象會顛倒真偽，須「緣物之情及人之情」核實。"
+    },
+    {
+      "chapter": "似順",
+      "para_index": 1,
+      "domains": ["II", "XI"],
+      "modes": ["proposition"],
+      "reason": "「事多似倒而順，多似順而倒」指出表面判斷與實際變化可能相反；能知「順之為倒、倒之為順」才可談化，承重在辨識與變化而非天命信仰。"
+    },
+    {
+      "chapter": "似順",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "寧國從「賦斂重也，則民怨上矣」及「民力罷矣」反判陳國可伐；本段不只給攻城條件，也明說重稅與勞役會造成百姓對掌權者的怨離。"
+    },
+    {
+      "chapter": "似順",
+      "para_index": 3,
+      "domains": ["V", "X"],
+      "modes": ["narrative", "proposition"],
+      "reason": "完子計畫以戰敗和賢良盡死換取田成子政權安定，作者因此指出「夫死敗，人之所惡也，而反以為安」；死亡這項普遍所惡之事，在權力算計中竟被倒置為安全手段。"
+    },
+    {
+      "chapter": "似順",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "簡子受諫後承認「寡人幾過」並改罰為賞，末段反列世主「恥不知而矜自用，好愎過而惡聽諫」的毛病；承重在領導者能否循理改過，以及固執拒諫的品格。"
+    }
+  ]
+}

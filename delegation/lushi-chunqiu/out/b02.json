@@ -1,0 +1,362 @@
+{
+  "batch": "b02.md",
+  "rows": [
+    {
+      "chapter": "去私",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「天無私覆也，地無私載也，日月無私燭也，四時無私行也」以無私為共同原理，並以「行其德而萬物得遂長焉」把它說成使萬物成長的品格作用"
+    },
+    {
+      "chapter": "去私",
+      "para_index": 2,
+      "domains": ["II", "VII"],
+      "modes": ["prescription"],
+      "reason": "本段以「聲禁重」「色禁重」等六禁要求自我節制；命中尤其由注文成立：注文說「不欲虛名過其實也」及「不欲好色至淫縱也」，分別點出名實失衡與欲望放縱"
+    },
+    {
+      "chapter": "去私",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「堯有子十人，不與其子而授舜；舜有子九人，不與其子而授禹」以不私子孫的傳位行為承載公共領導，並由「至公也」明下品格判斷"
+    },
+    {
+      "chapter": "去私",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "祁黃羊以「君問可，非問臣之讎也」及「非問臣之子也」把任官能力置於私恩私怨之前；孔子又以「外舉不避讎，內舉不避子」評定其公正品格"
+    },
+    {
+      "chapter": "去私",
+      "para_index": 5,
+      "domains": ["IV", "V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「其子殺人」與「子，人之所私也」構成親子牽絆，「殺人者死，傷人者刑」承載公共法義，「忍所私以行大義」則評斷克私品格；三層分別是家庭、公共公義與品格抉擇，拿掉任一層都會少掉這則兩難的一面"
+    },
+    {
+      "chapter": "去私",
+      "para_index": 6,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "以庖人「調和而弗敢食」作比，落到君主「誅暴而不私，以封天下之賢者」；文本把不據公器為己有說成領導正當性與無私品格的條件"
+    },
+    {
+      "chapter": "孟秋紀",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "ritual"],
+      "reason": "「其日庚辛。其帝少皞。其神蓐收」至「其祀門。祭先肝」是在孟秋月位下登錄日次、神祇、物候與祭祀配應，離開月份槽位便不成立"
+    },
+    {
+      "chapter": "孟秋紀",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["ritual", "prescription"],
+      "reason": "「先立秋三日」齋戒並「迎秋於西郊」，隨後「命將帥」選士厲兵，整段是立秋迎氣儀節及該月軍政命令，不抽成一般用人或善惡主張"
+    },
+    {
+      "chapter": "孟秋紀",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "「是月也，命有司，修法制，繕囹圄」明定本月司法行政程序；「決獄訟，必正平」仍是掛在孟秋的政令條目"
+    },
+    {
+      "chapter": "孟秋紀",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["ritual", "formalization"],
+      "reason": "「是月也，農乃升穀。天子嘗新，先薦寢廟」把收穀、薦新及「完隄防」等工程編入孟秋時序，是月令儀節與季節作業"
+    },
+    {
+      "chapter": "孟秋紀",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "「是月也，無以封侯、立大官」並禁割地、重幣與大使，是依孟秋設定的禁令清單，沒有另說人的樣態"
+    },
+    {
+      "chapter": "孟秋紀",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization", "observation"],
+      "reason": "「孟秋行冬令」「行春令」「行夏令」分列錯行他季之令所致的蟲害、旱災、火災與疾疫，是月令的失時災異表"
+    },
+    {
+      "chapter": "蕩兵",
+      "para_index": 1,
+      "domains": ["XI"],
+      "modes": ["proposition"],
+      "reason": "「民之有威力，性也」明說威力出於人性，並以「非人之所能為也，武者不能革，而工者不能移」判定它不是人力可以創造或改移，直接涉及人能否改變"
+    },
+    {
+      "chapter": "蕩兵",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「家無怒笞，則豎子嬰兒之有過也立見；國無刑罰，則百姓之相侵也立見」只把笞、刑、伐組成不可廢止的治理鏈，落點仍是「有義兵而無有偃兵」"
+    },
+    {
+      "chapter": "蕩兵",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「有以乘舟死者，欲禁天下之船」與水火、藥物的比喻只論工具應善用而不可因噎廢食，收束「義兵之為天下良藥」仍在論如何用兵"
+    },
+    {
+      "chapter": "蕩兵",
+      "para_index": 4,
+      "domains": ["II", "VI"],
+      "modes": ["proposition"],
+      "reason": "「在心而未發，兵也；疾視，兵也；作色，兵也；傲言，兵也」把爭鬥追到未發的內在及外顯反應；「終身用兵而不自知」又明指人可能看不見自己的攻擊性"
+    },
+    {
+      "chapter": "振亂",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「世主恣行，與民相離，黔首無所告愬」說暴政破壞君民關係，且「中人將逃其君、去其親」明示壓迫會使人的歸屬與忠誠瓦解"
+    },
+    {
+      "chapter": "振亂",
+      "para_index": 2,
+      "domains": ["II", "VII"],
+      "modes": ["proposition"],
+      "reason": "文本將立論錯誤分成「固不知，悖也」與「知而欺心，誣也」，後者直接指出明知而自欺的內在狀態，並把欺罔評為品格之失"
+    },
+    {
+      "chapter": "振亂",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「凡人之所以惡為無道不義者，為其罰也」及求義「為其賞也」立即把人的趨避換算成賞罰槓桿，整段終止於以賞善罰惡求治的政策鏈"
+    },
+    {
+      "chapter": "禁塞",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「未有不守無道而救不義也」只是判定救守會保全無道者，落點「為天下之民害莫深焉」仍是攻守取捨的兵論結論，未另說人的樣態"
+    },
+    {
+      "chapter": "禁塞",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「殺無罪之民以興無道與不義者也」把攻守問題落在無辜者所受的不公；末段又斷言「世之患，不在救守，而在於不肖者之幸也」，把惡人僥倖免責說成公共禍患與品格敗壞的根源"
+    },
+    {
+      "chapter": "懷寵",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「非苟辨也」「非苟語也」否定只求口才，並要求「必中理然後說，必當義然後議」，直接規定言說者應守的誠正品格"
+    },
+    {
+      "chapter": "懷寵",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「不虐五穀，不掘墳墓，不伐樹木，不燒積聚，不焚室屋，不取六畜」逐項規定義兵入境的操作，落點是軍隊如何取得敵境民眾配合"
+    },
+    {
+      "chapter": "懷寵",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["prescription", "formalization"],
+      "reason": "「先發聲出號曰」以下是出兵告示，並以「以家聽者，祿之以家」至「以國聽者，祿之以國」列出分級獎勵；恤孤敬老、復祀散粟也都置於克國鎮撫的操作程序中"
+    },
+    {
+      "chapter": "懷寵",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「能生死一人，則天下必爭事之矣」把受惠後的歸附直接換算成義兵的得民效果，收在「兵不接刃而民服若化」，仍是軍事政策鏈"
+    },
+    {
+      "chapter": "季春紀",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization", "ritual"],
+      "reason": "「其日甲乙。其帝太皞。其神句芒」至「其祀戶。祭先脾」登錄季春的日次、神祇、物候與祭祀配應，是月令槽位而非信仰主張"
+    },
+    {
+      "chapter": "季春紀",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["ritual", "formalization"],
+      "reason": "「天子乃薦鞠衣于先帝」及薦鮪、祈麥，連同「五覆五反」的驗舟程序，都是季春所繫的祭薦與乘舟儀程"
+    },
+    {
+      "chapter": "季春紀",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "「是月也，生氣方盛」限定時位，發倉、賜貧、聘士、禮賢全列作本月政令；「天子布德行惠」不因此成為脫離季節的仁政原理"
+    },
+    {
+      "chapter": "季春紀",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "「時雨將降，下水上騰」交代季節條件，隨後逐項命司空修隄、通溝、開路並禁獵具出門，是季春工程與禁令條文"
+    },
+    {
+      "chapter": "季春紀",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["ritual", "formalization"],
+      "reason": "「后妃齋戒，親東鄉躬桑」及分繭、稱絲、供郊廟服，把蠶事編成季春儀程與作業規格，不另抽取勤勞或節制領域"
+    },
+    {
+      "chapter": "季春紀",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "「命工師，令百工，審五庫之量」列材料品質、監工與禁淫巧，是本月百工管理條文；「無或不良」仍是製作規格"
+    },
+    {
+      "chapter": "季春紀",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["ritual", "formalization"],
+      "reason": "「是月之末，擇吉日，大合樂」限定季春月末、吉日及天子視樂，是時序化的禮樂儀節"
+    },
+    {
+      "chapter": "季春紀",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["ritual", "formalization"],
+      "reason": "「合纍牛騰馬游牝于牧」與「舉書其數」規定畜牧登錄，國人儺及「九門磔禳」則是畢春之儀，皆依月份成立"
+    },
+    {
+      "chapter": "季春紀",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["formalization", "observation"],
+      "reason": "「季春行冬令」「行夏令」「行秋令」分表寒害、疾疫、陰雨與兵革，是錯行季令的災異對照，民疾與恐懼均未脫離月令條件"
+    },
+    {
+      "chapter": "盡數",
+      "para_index": 1,
+      "domains": ["IX", "X"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「精神安乎形，而年壽得長焉」把身體安適與壽命相連，又說「畢數之務，在乎去害」；五味、情緒與氣候的過度均被列為致病因素，核心是防病並終其天年"
+    },
+    {
+      "chapter": "盡數",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「集於羽鳥與為飛揚，集於走獸與為流行」至「集於聖人與為敻明」是在登錄精氣依所入之物而顯效的養生醫理；「精氣」是技術術語，不是超越信仰或人的處境"
+    },
+    {
+      "chapter": "盡數",
+      "para_index": 3,
+      "domains": ["IX"],
+      "modes": ["proposition"],
+      "reason": "「形不動則精不流，精不流則氣鬱」建立不動、氣鬱與病變的身體機制，並具體列出頭、耳、目、鼻、腹、足所生諸疾；身體失動致病是整段主題而非偶然詞面"
+    },
+    {
+      "chapter": "盡數",
+      "para_index": 4,
+      "domains": ["IX"],
+      "modes": ["observation"],
+      "reason": "「輕水所多禿與癭人」至「苦水所多尪與傴人」逐類觀察水質與禿、癭、尰、躄、疽、痤等身體處境的關聯，疾病形態是全段的觀察對象"
+    },
+    {
+      "chapter": "盡數",
+      "para_index": 5,
+      "domains": ["IX"],
+      "modes": ["prescription"],
+      "reason": "「食能以時，身必無災」並規定「無飢無飽」、小口飲咽與端直姿勢，整段直接給出維持身體安適、避免疾病的飲食處方"
+    },
+    {
+      "chapter": "盡數",
+      "para_index": 6,
+      "domains": ["IX", "XI"],
+      "modes": ["proposition"],
+      "reason": "「今世上卜筮禱祠，故疾病愈來」否定以占禱處理疾病，並以「去其火則止矣」主張回到可改變的病因；它同時關乎治病與把療效從儀式推回人的因果行動，且不認證神聖力量"
+    },
+    {
+      "chapter": "先己",
+      "para_index": 1,
+      "domains": ["II", "IX"],
+      "modes": ["narrative", "proposition"],
+      "reason": "伊尹以「可取，身將先取」把外在事業的根本放回自身，接著說「必先治身」並以腠理通、邪氣去、終天年具體說明身體修養"
+    },
+    {
+      "chapter": "先己",
+      "para_index": 2,
+      "domains": ["II", "V"],
+      "modes": ["proposition"],
+      "reason": "「成其身而天下成，治其身而天下治」及「言正諸身也」把自我修治定為公共治理的起點；末段反以「謀失於胸，令困於彼」說內在失道如何外化為政治失敗"
+    },
+    {
+      "chapter": "先己",
+      "para_index": 3,
+      "domains": ["II", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "夏后戰敗先承認「是吾德薄而教不善也」並改變自身生活與用人，收束「欲勝人者必先自勝，欲論人者必先自論，欲知人者必先自知」，直指自知、自省與自制"
+    },
+    {
+      "chapter": "先己",
+      "para_index": 4,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "孔子將「執轡如組」解作「聖人組脩其身，而成文於天下矣」，主張自我修治會在公共世界形成秩序；丘陵、深淵與松柏之喻皆說自身成就如何庇益他者"
+    },
+    {
+      "chapter": "先己",
+      "para_index": 5,
+      "domains": ["II", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "孔子以「得之於身者得之人，失之於身者失之人」回答治國問題，並收在「知反於己身者乎」，把領導成敗繫於能否回身自省"
+    },
+    {
+      "chapter": "論人",
+      "para_index": 1,
+      "domains": ["II", "V"],
+      "modes": ["proposition"],
+      "reason": "「太上反諸己，其次求諸人」為君主排出自省先於求人之序；「其求之彌彊者，其失之彌遠」又說領導者向外強求反會偏離所求"
+    },
+    {
+      "chapter": "論人",
+      "para_index": 2,
+      "domains": ["II", "XIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「節嗜欲，釋智謀，去巧故」是返己的具體工夫，所得狀態則是「復歸於樸，嗜欲易足」與「離世自樂，中情潔白」；段落直接談自我整理及不受外在威嚴擾動的安頓"
+    },
+    {
+      "chapter": "論人",
+      "para_index": 3,
+      "domains": ["II", "V"],
+      "modes": ["formalization", "prescription"],
+      "reason": "「人同類而智殊，賢不肖異，皆巧言辯辭，以自防禦」指出言辭會遮蔽真實樣態；「八觀六驗」再把人在通、貴、富、喜、怒、懼等處境中的行為編成知人程序，用於領導與用人"
+    },
+    {
+      "chapter": "圜道",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「主執圜，臣處方，方圜不易，其國乃昌」把天地形制直接套成君臣分職與國家效果，整段停留在如何建立上下秩序的制度原理"
+    },
+    {
+      "chapter": "圜道",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition", "formalization"],
+      "reason": "日月、四時、水泉及九竅的循環全被用來形式化「令出於主口，官職受而行之」的號令周流；末以「號令不感，則不得而使矣」收束，仍只說君術如何通達"
+    },
+    {
+      "chapter": "圜道",
+      "para_index": 3,
+      "domains": ["II", "V"],
+      "modes": ["proposition"],
+      "reason": "本段以堯舜「皆以賢者為後，不肯與其子孫」對照世主私傳，並用「其所欲者之遠，而所知者之近也」解釋長遠欲望受短近認知破壞，涉及自我局限與公共任官"
+    }
+  ]
+}
