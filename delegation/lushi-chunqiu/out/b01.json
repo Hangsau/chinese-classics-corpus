@@ -1,0 +1,138 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {
+      "chapter": "孟春紀",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「其日甲乙。其帝太皞」「律中太蔟。其數八」以及天子居處、車服、飲食，都是孟春的曆數配應與月令槽位；注文只訓解宿度、五行和器服配應，未另立關於人的判斷"
+    },
+    {
+      "chapter": "孟春紀",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["ritual", "formalization"],
+      "reason": "「先立春三日，太史謁之天子」至「迎春於東郊」規定立春前後的迎氣儀程，「命相布德和令，行慶施惠」仍是該月政令；注文「自禋潔也」也只解釋齋戒儀節"
+    },
+    {
+      "chapter": "孟春紀",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["ritual", "formalization"],
+      "reason": "「以元日祈穀于上帝」及「天子三推，三公五推，卿諸侯大夫九推」登錄孟春祈穀、藉田與勞酒的儀節和推耕次數，沒有脫離月令而成立的人生主張"
+    },
+    {
+      "chapter": "孟春紀",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "「王布農事」後依次命令「修封疆」「善相丘陵阪險原隰」並辨「土地所宜，五穀所殖」，是孟春農事的官令與操作程序；「農乃不惑」只是準直既定後的政策效果"
+    },
+    {
+      "chapter": "孟春紀",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "「是月也，命樂正入學習舞」以下列祀典及「無覆巢，無殺孩蟲胎夭飛鳥」等當月禁令；注文「順木德而尚仁恩也」是在解釋月令配應，並非獨立的品格命題"
+    },
+    {
+      "chapter": "孟春紀",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "「是月也，不可以稱兵」與「兵戎不起，不可以從我始」是因春令而設的用兵禁條，「無亂人之紀」也列在同一月令禁令中，未另說人的普遍樣態"
+    },
+    {
+      "chapter": "孟春紀",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization", "proposition"],
+      "reason": "「孟春行夏令」「行秋令」「行冬令」分別接續風雨、疫病、水潦等失時災異，是錯行他季之令的月令後果表；「國乃有恐」也只是其中一項災異結果"
+    },
+    {
+      "chapter": "本生",
+      "para_index": 1,
+      "domains": ["I", "V"],
+      "modes": ["proposition"],
+      "reason": "「養成之者，人也」把生命的養成歸於人的作為，又以「立官者以全生也」規定官制與統治應服務於保全生命；「多官而反以害生」則指出制度背離此本旨的倒置"
+    },
+    {
+      "chapter": "本生",
+      "para_index": 2,
+      "domains": ["I"],
+      "modes": ["proposition"],
+      "reason": "「物也者，所以養性也，非所以性養也」直接區分生命與外物的本末；「惑者多以性養物，則不知輕重也」把人的失敗說成價值輕重倒置，而不只是治國政策鏈"
+    },
+    {
+      "chapter": "本生",
+      "para_index": 3,
+      "domains": ["VII", "IX"],
+      "modes": ["proposition", "prescription"],
+      "reason": "段落以悅耳、悅目、適口卻導致「聾」「盲」「瘖」說明感官享受可傷身，並主張「利於性則取之，害於性則舍之」；這同時承載身體利害與節制取捨的品格判斷"
+    },
+    {
+      "chapter": "本生",
+      "para_index": 4,
+      "domains": ["VII", "IX"],
+      "modes": ["proposition"],
+      "reason": "「故聖人之制萬物也，以全其天也」以下具體寫到「目明」「耳聰」「三百六十節皆通利」的全身狀態，又以「上為天子而不驕，下為匹夫而不惛」拆出不因地位失守的行為，故收束為「全德之人」"
+    },
+    {
+      "chapter": "本生",
+      "para_index": 5,
+      "domains": ["I", "IX"],
+      "modes": ["proposition"],
+      "reason": "「貴富而不知道，適足以為患」以下把奢逸、厚酒與聲色分別稱為「招蹷之機」「爛腸之食」「伐性之斧」，寫出身體代價；末言不肯貴富「由重生故也，非夸以名也，為其實也」，明定生命重於富貴虛名"
+    },
+    {
+      "chapter": "重己",
+      "para_index": 1,
+      "domains": ["I", "XI"],
+      "modes": ["proposition"],
+      "reason": "「富有天下，不可以易之」以爵位財富都不能交換自己的生命，確立生命的首要價值；後文又明說「死殃殘亡，非自至也，惑召之也」，把禍福由外在降臨推回人的迷惑與所作所為"
+    },
+    {
+      "chapter": "重己",
+      "para_index": 2,
+      "domains": ["I", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "烏獲逆引牛尾與豎子順引牛棬的對照，落在「凡生［之］長也，順之也；使生不順者，欲也」：文本既以生命為所重，也把能否「先適欲」說成節制欲望的品格工夫"
+    },
+    {
+      "chapter": "重己",
+      "para_index": 3,
+      "domains": ["VII", "IX"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「多陰則蹷，多陽則痿」及「理塞則氣不達」具體說明居處、衣食失度造成的身體病患；先王讓宮室、輿馬、飲食、聲色各止於所需，末句明言「非好儉而惡費也，節乎性也」，把身體養護連到節制"
+    },
+    {
+      "chapter": "貴公",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「其得之以公，其失之必以偏」把政權得失建立在公正或偏私上；《鴻範》所引「無偏無黨」「無或作好」「無或作惡」又把公拆成不結黨、不徇私好惡的可辨行為"
+    },
+    {
+      "chapter": "貴公",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「天下非一人之天下也，天下之天下也」主張共同之公，周公所言「利而勿利也」要求利民而不自利；遺弓故事逐步去掉「荊」與「人」，並以天地「生而弗子，成而弗有」推展不私有、不偏愛的德行"
+    },
+    {
+      "chapter": "貴公",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "管仲論相不只列人名，而以鮑叔牙「一聞人之過，終身不忘」和隰朋「上志而下求，醜不若黃帝，而哀不己若者」比較品性；「處大官者，不欲小察，不欲小智」再把識人用人的領導責任連到不苛察、不矜小智"
+    },
+    {
+      "chapter": "貴公",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「智而用私，不若愚而用公」直接判定才智不能抵銷偏私；「私利而立公，貪戾而求王，舜弗能為」則以自利、貪戾與公共領導目標互相矛盾，說明品格如何限制為政"
+    }
+  ]
+}
