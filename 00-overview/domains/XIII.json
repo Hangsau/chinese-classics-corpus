@@ -2,9 +2,9 @@
   "domain": "XIII",
   "name_zh": "安頓·修復·平安",
   "gist": "靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈",
-  "generated_at": "2026-08-24T14:54:44+00:00",
-  "para_count": 146,
-  "book_count": 21,
+  "generated_at": "2026-08-24T23:05:11+00:00",
+  "para_count": 156,
+  "book_count": 22,
   "surveyed_zero_hit": [
     "duduan",
     "fangyan",
@@ -906,6 +906,156 @@
       "note": "頌明言進仕遇害不若身安，拿灌園琴書對照高位而評斷職涯選擇。",
       "co_domains": [
         "VIII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "論人",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#14-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "何謂反諸己也？適耳目，節嗜欲，釋智謀，去巧故，而游意乎無窮之次，事心乎自然之塗，",
+      "note": "「節嗜欲，釋智謀，去巧故」是返己的具體工夫，所得狀態則是「復歸於樸，嗜欲易足」與「離世自樂，中情潔白」；段落直接談自我整理及不受外在威嚴擾動的安頓",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "知分",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#28-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "達士者，達乎死生之分。達乎死生之分，則利害存亡弗能惑矣。故晏子與崔杼盟而不變其義",
+      "note": "「達乎死生之分，則利害存亡弗能惑矣」把理解死亡連到安定；晏子「不變其義」及孫叔敖「不喜」「不憂」分別呈現守義與不受得失擾動，因此 X、VII、XIII 各有獨立承重句",
+      "co_domains": [
+        "VII",
+        "X"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "知分",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#28-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "禹南省，方濟乎江，黃龍負舟。舟中之人，五色無主。禹仰視天而歎曰：「吾受命於天，竭",
+      "note": "禹以「生，性也；死，命也。余何憂於龍焉」面對死亡，後文又說困達是「不得不然之數」；「古聖人不以感私傷神，俞然而以待耳」給出接受命限而安處的方式，X、XI、XIII 缺一會少掉一層",
+      "co_domains": [
+        "X",
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "知分",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#28-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "晏子與崔杼盟，其辭曰：「不與崔氏而與公孫氏者受其不祥」。晏子俛而飲血，仰而呼天曰",
+      "note": "「命也者，不知所以然而然者也，人事智巧以舉錯者不得與焉」界定不可控制的命；在刀兵死亡威脅中，晏子仍說「疾不必生，徐不必死」，最後「以義為之決而安處之」，分別承載死亡、命運與安處",
+      "co_domains": [
+        "X",
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "審為",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#37-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "中山公子牟謂詹子曰：「身在江海之上，心居乎魏闕之下，奈何？」詹子曰：「重生。重生",
+      "note": "公子牟自承「雖知之，猶不能自勝」，詹子答「不能自勝則縱之」並警告強抑為「重傷」；文本正面處理內在衝突與不能克服時如何安頓",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "有度",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#54-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "先王不能盡知，執一而萬物治。使人不能執一者，物感之也。故曰：通意之悖，解心之繆，",
+      "note": "「惡、欲、喜、怒、哀、樂六者，累德者也」指出情欲對內在的牽累；其後「正則靜，靜則清明」描寫卸除牽累後由安靜到清明的安頓路徑",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "士容",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#58-p01",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "士不偏不黨，柔而堅，虛而實。其狀朖然不儇，若失其一。傲小物而志屬於大，似無勇而未",
+      "note": "國士被具體寫成「臨患涉難而處義不越」「富貴弗就而貧賤弗朅」，並且「難動以物而必不妄折」；這不是只列德名，而是描寫逆境中守義與不受外物動搖的行為",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "不廣",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#129-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "智者之舉事必因時。時不可必成，其人事則不廣，成亦可，不成亦可。以其所能託其所不能",
+      "note": "「時不可必成」承認結果不全由人決定，而「其人事則不廣，成亦可，不成亦可」要求做完可為之事後容納成敗；這同時界定人的可控範圍與面對不確定的安頓。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "慎人",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#153-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孔子窮於陳、蔡之間，七日不嘗食，藜羹不糝。宰予備矣，孔子弦歌於室，顏回擇菜於外。",
+      "note": "孔子困於陳蔡仍以「內省而不疚於道，臨難而不失其德」安頓患難；收束「所樂非窮達也，道得於此，則窮達一也」更把安樂的來源放在所得之道，而非順逆處境",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "必己",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#155-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "莊子行於山中，見木甚美，長大，枝葉盛茂，伐木者止其旁而弗取，問其故，曰：“無所可",
+      "note": "材與不材都可能招累，莊子遂說應「與時俱化，而無肯專為」且「物物而不物於物」；這既承認萬物成毀離合不可必，也提出不被外物役使的自處方式",
+      "co_domains": [
+        "XI"
       ]
     },
     {

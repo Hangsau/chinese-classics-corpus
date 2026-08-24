@@ -2,9 +2,9 @@
   "domain": "VIII",
   "name_zh": "工作·成就·召喚",
   "gist": "工作與金錢、成就與意義、天賦與使命",
-  "generated_at": "2026-08-24T14:54:44+00:00",
-  "para_count": 1021,
-  "book_count": 39,
+  "generated_at": "2026-08-24T23:05:11+00:00",
+  "para_count": 1115,
+  "book_count": 40,
   "surveyed_zero_hit": [
     "duduan",
     "gu-sanfen",
@@ -4358,6 +4358,1340 @@
       "co_domains": [
         "II"
       ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "知士",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#18-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今有千里之馬於此，非得良工，猶若弗取。良工之與馬也，相得則然後成。譬之若枹與鼓。",
+      "note": "「良工之與馬也，相得則然後成」被推及「士亦有千里」，說明高才之士須遇能識用他的賢者才能成就，兼及用人關係與才能發揮",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "審己",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#19-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子列子常射中矣，請之於關尹子。關尹子曰：“知子之所以中乎？”答曰：“弗知也。”關",
+      "note": "列子由只會射中進到「知子之所以中」並能「守而勿失」，呈現技能須建立在自知其所以然；末句「聖人不察存亡賢不肖，而察其所以也」把此原則推及人的成敗與品評",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "精通",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#20-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "養由基射先，中石，矢乃飲羽，誠乎先也。伯樂學相馬，所見無非馬者，誠乎馬也。宋之庖",
+      "note": "三條內容都由本段明說而不可省：養由基、伯樂與庖丁的「誠乎」及十九年用刀寫專注成就技藝，少標 VIII 就漏掉才能精熟；「悲存乎心而木石應之」寫內在悲情的傳達，少標 VI 就漏掉情緒經驗；「父母之於子也，子之於父母也，一體而兩分」並收於「此之謂骨肉之親」，直接成立 IV",
+      "co_domains": [
+        "IV",
+        "VI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "情欲",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#23-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "世人之事君者，皆以孫叔敖之遇荊莊王為幸，〈孫叔敖，楚令尹，薳賈之子也。〉自有道者",
+      "note": "「盡傅其境內之勞與諸侯之憂於孫叔敖」寫權力下的責任轉嫁；「孫叔敖日夜不息」卻成就莊王「功迹著乎竹帛」，承載領導關係與勞動成就的失衡",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "當染",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#24-p03",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "非獨國有染也。孔子學於老聃、孟蘇夔、靖叔。魯惠公使宰讓請郊廟之禮於天子，桓王使史",
+      "note": "「孔子學於老聃、孟蘇夔、靖叔」及後續師承把學習傳遞具體化；「孔、墨之後學顯榮於天下者眾矣」並以「皆所染者得當也」歸因於所受影響",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "觀表",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#33-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "吳起治西河之外，王錯譖之於魏武侯，武侯使人召之。吳起至於岸門，止車而休，望西河，",
+      "note": "吳起說「君誠知我，而使我畢能」本可成事，今卻「聽讒人之議，而不知我」；「先見而泣」不是套語，而是才不得展且預見敗局的哀痛",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "觀表",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#33-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古之善相馬者：寒風是相口齒，麻朝相頰，子女厲相目，衛忌相髭，許鄙相𦙷，投伐褐相胸",
+      "note": "相馬良工能由「馬之一徵」知其材能，段末推及「人亦有徵」且「非意之也，蓋有自云也」，主張識人與專業判斷須由徵表而來",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "開春",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#34-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "叔嚮之弟羊舌虎善欒盈，欒盈有罪於晉，晉誅羊舌虎，叔嚮為之奴而朡。祈奚曰：「吾聞小",
+      "note": "祈奚以「寧過而賞淫人，毋過而刑君子」說服宣子救人，段末由「行危苦、不避煩辱」收在「學豈可以已哉」，同時承重公共公義與學習能力",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "察賢",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#35-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "今有良醫於此，治十人而起九人，所以求之萬也。故賢者之致功名也，必乎良醫，而君人者",
+      "note": "「立功名亦然，要在得賢」把領導成效繫於求賢；「賢主，豈必苦形愁慮哉？執其要而已矣」又把成就之道說成掌握並運用人才",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "察賢",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#35-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "宓子賤治單父，彈鳴琴，身不下堂而單父治。巫馬期以星出，以星入，日夜不居，以身親之",
+      "note": "宓子說「我之謂任人，子之謂任力。任力者故勞，任人者故逸」，並以「逸四肢，全耳目，平心氣」對照親力親為；寫領導授權與工作方式",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "愛類",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#38-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "聖王通士不出於利民者無有。昔上古龍門未開，呂梁未發，河出孟門，大溢逆流，無有丘陵",
+      "note": "禹疏河決江而「所活者千八百國」，收束明說「勤勞為民，無苦乎禹者矣」，把巨大勞動成就放在為民責任之下",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "貴卒",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#39-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "力貴突，智貴卒。得之同則速為上，勝之同則濕為下。所為貴驥者，為其一日千里也，旬日",
+      "note": "「力貴突，智貴卒」直接提出能力以迅速見效為貴；驥若「旬日取之，與駑駘同」、箭若終日才至則等於未至，所論是才智能否及時成事",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "貴卒",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#39-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "吳起謂荊王曰：「荊所有餘者地也，所不足者民也。今君王以所不足益所有餘，臣不得而為",
+      "note": "吳起臨死利用「麗兵於王尸者，盡加重罪」的法律使射者受罪，段末以「吳起之智，可謂捷矣」按具體行為評其急智，並非只列人物品題",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "貴卒",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#39-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊襄公即位，憎公孫無知，收其祿。無知不說，殺襄公。公子糾走魯，公子小白奔莒。既而",
+      "note": "鮑叔令小白中鉤後佯死、疾驅先入而得國，段末明評「鮑叔之智應射而令公子小白僵也，其智若鏃矢也」，以行為拆出迅捷才智",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "壹行",
+      "para_index": 6,
+      "para_id": "lushi-chunqiu#49-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫天下之所以惡，莫惡於不可知也。夫不可知，盜不與期，賊不與謀。盜賊大姦也，而猶所",
+      "note": "「盜不與期，賊不與謀」說連姦人合作也需要可預期的伙伴；欲成大功更「必之士可知」，把可信賴的行止列為群體協作與成就的條件。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "求人",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#50-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "堯傳天下於舜，禮之諸侯，妻以二女，臣以十子，身請北面朝之，至卑也。伊尹，庖廚之臣",
+      "note": "堯對舜「身請北面朝之」而不拘尊位，禹又「不有懈墮」遠行求賢；得到五人輔佐後「功績銘乎金石」，故事把謙下、勤求人才與完成大業連在一起。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "求人",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#50-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "晉人欲攻鄭，令叔嚮聘焉，視其有人與無人。子產為之詩曰：「子惠思我，褰裳涉洧；子不",
+      "note": "叔嚮由子產之詩判定「鄭有人，子產在焉，不可攻也」，孔子又以「無競惟人」收束；一名有才幹者的言行足以改變他國決策並保全群體。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "分職",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#55-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "四曰：先王用非其有，如己有之，通乎君道者也。夫君也者，處虛素服而無智，故能使眾智",
+      "note": "「無智，故能使眾智也；智反無能，故能使眾能也」把領導者的工作界定為運用眾人智能；反面「處人臣之職而欲無壅塞」指出越俎代庖會破壞分工",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "分職",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#55-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "武王之佐五人。武王之於五人者之事無能也，然而世皆曰：「取天下者武王也。」故武王取",
+      "note": "武王本人對五佐之事「無能」，卻能「令智者謀」「令勇者怒」「令辯者語」；段落以此說明領導成就在於辨識、配置並發揮他人才能",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "分職",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#55-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今召客者，酒酣，歌舞鼓瑟吹竽，明日不拜樂己者，而拜主人，主人使之也。先王之立功名",
+      "note": "「使眾能與眾賢，功名大立於世」把成就繫於任用群才；反面的人主「自為人則不能，任賢者則惡之，與不肖者議之」具體寫出領導失職如何傷害功名與國家",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "處方",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#56-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "今夫射者儀毫而失牆，畫者儀髮而易貌，言審本也。本不審，雖堯、舜不能以治。故凡亂也",
+      "note": "百里奚與向摯換了所處國家而「智非加益」「典非加善」，成敗卻相反；文本以「有其本也」說明同一人的才智是否能成事，取決於組織是否先定好職分",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "處方",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#56-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊令章子將而與韓、魏攻荊，荊令唐篾將而拒之。軍相當，六月而不戰，齊令周最趣章子急",
+      "note": "章子明言「不可以戰而戰，可以戰而不戰，王不能得此於臣」，守住將領的專業判斷；又採用芻者對水深的在地知識，具體呈現職責自主與專長運用",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "處方",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#56-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今有人於此，擅矯行則免國家，利輕重則若衡石，為方圜則若規矩，此則工矣巧矣，而不足",
+      "note": "「法也者，眾之所同也」把法界定為共同規則；「賢不肖之所以其力也」又說共同尺度使不同能力者都能用力，故同時涉及公義秩序與才能協作",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "務大",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#59-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "嘗試觀於上志，三王之佐，其名無不榮者，其實無不安者，功大故也。俗主之佐，其欲名實",
+      "note": "俗主之佐只「患其身不貴於其國」，不患主與天下之大局，遂「欲榮而逾辱，欲安而逾危」；文本把成就追求的失敗歸於只顧個人地位而失去公共責任",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "務大",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#59-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "昔有舜欲服海外而不成，既足以成帝矣。禹欲帝而不成，既足以王海內矣。湯、武欲繼禹而",
+      "note": "舜、禹、湯武乃至孔墨的最高目標雖「不成」，仍各有較小層次的成就；「大義之不成，既有成已，故務事大」把志向尺度與失敗後仍能成事的關係說明白",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "上農",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#60-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古先聖王之所以導其民者，先務於農。民農非徒為地利也，貴其志也。民農則樸，樸則易用",
+      "note": "「民農非徒為地利也，貴其志也」明言重農所塑造的是人的志；後半「多詐則巧法令，以是為非，以非為是」是對離農後品性的裁斷。「邊境安，主位尊」「公法立」只是政策終端，不另標 V",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "不苟",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#64-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "晉文公將伐鄴，趙衰言所以勝鄴之術，文公用之，果勝。還，將行賞。衰曰：「君將賞其本",
+      "note": "郤子虎雖非親自獻策仍受賞，收束為「凡行賞欲其博也，博則多助」及「疏遠者之所以盡能竭智」；這把公正承認功勞連到群體協力與才能投入",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "贊能",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#65-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "賢者善人以人，中人以事，不肖者以財。得十良馬，不若得一伯樂；得十良劍，不若得一歐",
+      "note": "「得十良馬，不若得一伯樂；得十良劍，不若得一歐冶」以識才者與工匠勝過物資，後舉皋陶、伊尹、呂望說明得到人才對領導與成事的價值",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "贊能",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#65-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孫叔敖、沈尹莖相與友。叔敖遊於郢三年，聲問不知，修行不聞。沈尹莖謂孫叔敖曰：「說",
+      "note": "沈尹莖辭令尹而薦孫叔敖，明說「王必用之，臣不若也」，結論「功無大乎進賢」把薦舉人才本身判為重大的公共功業",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "博志",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#68-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "先王有大務，去其害之者，故所欲以必得，所惡以必除，此功名之所以立也。俗主則不然，",
+      "note": "「賢者之舉事也，不聞無功」卻可能因「愚不肖為之任」而名利不及世，配合輕車與重載之喻，說明成事必須移除妨礙並配置合適承擔者",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "博志",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#68-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孔、墨、甯越，皆布衣之士也，慮於天下，以為無若先王之術者，故日夜學之。有便於學者",
+      "note": "孔、墨等人「日夜學之」而用志精熟，末句明斷「非鬼告之也，精而熟之也」；成就來自專精學習，所謂鬼告被還原為人的熟練，故不作信仰認證",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "博志",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#68-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "甯越，中牟之鄙人也，苦耕稼之勞，謂其友曰：「何為而可以免此苦也？」其友曰：「莫如",
+      "note": "甯越為免耕勞而學，承諾「人將休，吾將不敢休；人將臥，吾將不敢臥」，並以十五年成為國君之師；故事把持續自律連到學習與成就",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "博志",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#68-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "養由基、尹儒，皆文藝之人也。荊廷嘗有神白猿，荊之善射者莫之能中，荊王請養由基射之",
+      "note": "養由基能在發矢前先中，尹儒「學御三年」後由夢與師言相合而受教，收束稱二士「可謂能學」；神猿與夢是技藝熟成故事，不是神聖力量的認證",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "貴當",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#69-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "君有好獵者，曠日持久而不得獸，入則媿其家室，出則媿其知友州里。惟其所以不得之故，",
+      "note": "獵者先「還疾耕」而富，才得良狗並有收穫；結論又說賢與不肖「所欲與人同」而「所以為之異」，把成就差異落在是否選擇正當途徑",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "古樂",
+      "para_index": 10,
+      "para_id": "lushi-chunqiu#74-p10",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "禹立，勤勞天下，日夜不懈，通大川，決壅塞，鑿龍門，降通漻水以導河，䟽三江五湖，注",
+      "note": "禹「勤勞天下，日夜不懈」，以通川、決塞、鑿門、疏湖等勞作「以利黔首」，最後作樂「以昭其功」；具體公共責任、工作與功業不只是樂名登錄",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "當務",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#93-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "辨而不當論，信而不當理，勇而不當義，法而不當務，惑而乘驥也，狂而操“吳干將”也，",
+      "note": "「辨而不當論，信而不當理，勇而不當義，法而不當務」指出才辯、信用、勇力與法若離開正當目的反會致亂，主張能力與德性都須由其實際所行是否當義、當務衡量",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "長見",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#94-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "智所以相過，以其長見與短見也。今之於古也，猶古之於後世也。今之於後世，亦猶今之於",
+      "note": "「智所以相過，以其長見與短見也」直接把人的智識差異繫於眼光長短，並主張由審今、知古而推知後世，所論是可辨的理解與遠見能力",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "長見",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#94-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "晉平公鑄為大鐘，使工聽之，皆以為調矣。師曠曰：“不調，請更鑄之。”平公曰：“工皆",
+      "note": "師曠不從眾工之說，因「後世有知音者，將知鐘之不調也」堅持重鑄，後來師涓果然驗出不調；故事承載專業判斷超越當下共識及對長期品質負責",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "長見",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#94-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "吳起治西河之外，王錯譖之於魏武侯，武侯使人召之。吳起至於岸門，止車而望西河，泣數",
+      "note": "吳起說「君知我而使我畢能，西河可以王」，又因君主聽讒而預見西河將失；後果證成領導者是否識任人才，會決定才能能否施展及共同體興衰",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "審分",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#95-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "一曰──凡人主必審分，然後治可以至，姦偽邪辟之塗可以息，惡氣苛疾無自至。夫治身與",
+      "note": "「公作則遲，有所匿其力也；分地則速，無所匿遲也」明說人在共同作業與責任分明時會投入不同程度的勞力，並以此作為君臣分責、防止藏邪的領導依據",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "審分",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#95-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡為善難，任善易。奚以知之？人與驥俱走，則人不勝驥矣；居於車上而任驥，則驥不勝人",
+      "note": "「凡為善難，任善易」以人乘車任驥勝過徒步競走說明授任，並明言適當分工會使「眾善皆盡力竭能」；所論是領導者委任與人才能力發揮的關係",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "君守",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#96-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "奚仲作車，蒼頡作書，后稷作稼，皋陶作刑，昆吾作陶，夏鯀作城，此六人者所作當矣，然",
+      "note": "「此六人者所作當矣，然而非主道者」區分專門創作之能與領導之職；「任天下而不彊，此之謂全人」把善任眾工而不強作定為完整的君道。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "知度",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#99-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人主之患，必在任人而不能用之，用之而與不知者議之也。絕江者託於船，致遠者託於驥，",
+      "note": "「人主之患，必在任人而不能用之」指出任賢而又與不知者共議的領導弊病；以「量小大而知材木矣，訾功丈而知人數矣」說明才能配置與成事所需。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "知度",
+      "para_index": 6,
+      "para_id": "lushi-chunqiu#99-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫成王霸者固有人，亡國者亦有人。桀用羊辛，紂用惡來，宋用駃唐，齊用蘇秦，而天下知",
+      "note": "「夫成王霸者固有人，亡國者亦有人」把成敗繫於所用之人；「非其人而欲有功，譬之若夏至之日而欲夜之長也」明說錯置人才便不可能成就功業。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "慎勢",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#100-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "湯其無郼，武其無岐，賢雖十全，不能成功。湯、武之賢，而猶藉知乎勢，又況不及湯、武",
+      "note": "「賢雖十全，不能成功」明說德才若無可藉之勢仍不能成事；「凡王也者，窮苦之救也」又界定掌勢者對困苦之民的領導責任。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "不二",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#101-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "七曰──聽群眾議以治國，國危無日矣。何以知其然也？老耽貴柔，孔子貴仁，墨翟貴廉，",
+      "note": "列舉諸家各有所貴後，以「愚智工拙，皆盡力竭能」承認群體才性不同，並主張用共同法令「一心」「一眾」「一力」使各種能力協同。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "聽言",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#106-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "功先名，事先功，言先事。不知事惡能聽言？不知情惡能當言？其與人穀言也，其有辯乎？",
+      "note": "「凡人亦必有所習其心，然後能聽說」把理解言說視為須訓練的能力；「不學而能聽說者，古今無有也」更明言學問是養成此能力的必要途徑",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "謹聽",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#107-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫堯惡得賢天下而試舜？舜惡得賢天下而試禹？斷之於耳而已矣。耳之可以斷也，反性命之",
+      "note": "「太上知之，其次知其不知。不知則問，不能則學」把自知無知與求問學習連成具體行動；「不知而自以為知，百禍之宗也」則明斷自欺的後果",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "謹聽",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#107-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "主賢世治則賢者在上，主不肖世亂則賢者在下。今周室既滅，而天子已絕。亂莫大於無天子",
+      "note": "太公在紂世失而為文王所得，落點是「天子失之而千乘得之，知之與不知也」；「有道之士，必禮必知，然後其智能可盡」說明領導者如何辨識、尊重並使人才盡能",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "諭大",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#109-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "昔舜欲旗古今而不成，既足以成帝矣。禹欲帝而不成，既足以正殊俗矣。湯欲繼禹而不成，",
+      "note": "舜、禹、湯、武王及孔墨雖未成其最大志業，仍各有成就；「夫大義之不成，既有成矣已」與「故務在事，事在大」主張以宏大志業帶出實際成就",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "諭大",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#109-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "地大則有常祥、不庭、岐母、群抵、天翟、不周，山大則有虎豹熊螇蛆，水大則有蛟龍黿鼉",
+      "note": "前列大地、大山、大水所生之物是類比，收束句「凡謀物之成也，必由廣大眾多長久，信也」轉向謀事成就所需的規模、眾力與時間，故判作工作與成事原理",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "用民",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#113-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "闔廬試其民於五湖，劍皆加於肩，地流血幾不可止；句踐試其民於寑宮，民爭入水火，死者",
+      "note": "闔廬、句踐試民是用兵例證，但末句另說「勇者以工，懼者以拙，能與不能也」，把勇懼差異明確追到熟練與不能，因而同時承重情緒狀態與能力養成",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "舉難",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#117-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "季孫氏劫公家。孔子欲諭術則見外，於是受養而便說，魯國以訾。孔子曰：「龍食乎清而游",
+      "note": "孔子為求說行而「受養而便說」，段末以「夫欲立功者，豈得中繩哉？救溺者濡，追逃者趨」指出做成救急之事不能拘守表面潔淨，承重的是行事品格與成事方式。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "舉難",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#117-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "甯戚欲干齊桓公，窮困無以自進，於是為商旅將任車以至齊，暮宿於郭門之外。桓公郊迎客",
+      "note": "桓公拒絕因「小惡」而「亡人之大美」，收在「且人固難全，權而用其長者」；故事主張領導者應接受人的不完整並依長處任用人才。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "慎大",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#124-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "趙襄子攻翟，勝老人、中人，使使者來謁之，襄子方食摶飯，有憂色。左右曰：“一朝而兩",
+      "note": "趙襄子得兩城而「有憂色」，並自問「亡其及我乎」；收束的「夫憂所以為昌也，而喜所以為亡也；勝非其難者也，持之其難者也」把面對成功的情緒姿態與能否守成直接相連。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "報更",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#127-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "國雖小，其食足以食天下之賢者，其車足以乘天下之賢者，其財足以禮天下之賢者，與天下",
+      "note": "「與天下之賢者為徒」被說成安國、免身與「大立功名」的共同途徑；末句「堪士不可以驕恣屈也」並直接界定領導者與有才之士相處時不可仗勢折辱。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "不廣",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#129-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "晉文公欲合諸侯。咎犯曰：“不可。天下未知君之義也。”公曰：“何若？”咎犯曰：“天",
+      "note": "咎犯主張救天子之事成則立功、不成仍可「勤天子之難，成教垂名」，把義行設計成不依結果才有價值；「舉事義且利，以立大功」遂將品格選擇連到成就。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "不廣",
+      "para_index": 6,
+      "para_id": "lushi-chunqiu#129-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "管子、鮑叔佐齊桓公舉事，齊之東鄙人有常致苦者。管子死，豎刁、易牙用，國之人常致不",
+      "note": "本段語義有歧；此處取命中讀法，因「卒為齊國良工，澤及子孫」把所得落在工藝成就的形成與延續，並把「知大禮，知大禮雖不知國可也」讀為掌握大原則足以成其技，而非單純的治國條目。",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "貴因",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#130-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫審天者，察列星而知四時，因也。推歷者，視月行而知晦朔，因也。禹之裸國，裸入衣出",
+      "note": "從「裸入衣出」到在亂世「揚其義，成其功」，諸例都要求依情境調整行動；「因則功，專則拙」直接把適應變化與成事能力相連，而非僅登錄曆象或遊說事例。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "察今",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#131-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "上胡不法先王之法，非不賢也，為其不可得而法。先王之法，經乎上世而來者也，人或益之",
+      "note": "「人以自是，反以相誹」與學者「不求其實，務以相毀，以勝為故」揭出自是與求勝造成的認知偏差；「察己則可以知人，察今則可以知古」則提出由自知、近知擴充所見的學習方法。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "重言",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#133-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "荊莊王立三年，不聽而好讔。成公賈入諫。王曰：「不穀禁諫者，今子諫，何故？」對曰：",
+      "note": "「三年不動，將以定志意也；其不飛，將以長羽翼也；其不鳴，將以覽民則也」把沉默解作蓄積能力與考察民情，並以成公賈進諫促成莊王治績",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "離謂",
+      "para_index": 6,
+      "para_id": "lushi-chunqiu#135-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊人有淳于髡者，以從說魏王。魏王辯之，約車十乘，將使之荊。辭而行，有以橫說魏王，",
+      "note": "「其多能不若寡能，其有辯不若無辯」以從說、橫說相互抵消為證，並借「大巧之不可為」指出過度逞能反而妨礙事情完成",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "不屈",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#137-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "六曰──察士以為得道則未也。雖然，其應物也，辭難窮矣。辭雖窮，其為禍福猶未可知。",
+      "note": "「察而以達理明義，則察為福矣；察而以飾非惑愚，則察為禍矣」明說聰察辯才本身不足，能力的價值取決於用來明義或飾非的品格方向",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "不屈",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#137-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "匡章謂惠子於魏王之前曰：「蝗螟，農夫得而殺之，奚故？為其害稼也。今公行，多者數百",
+      "note": "惠子自比治絲治木的工者，文本卻以連年戰敗、民疲國虛證其「不工而治」；「以賊天下為實，以治之為名」追究無能掌權者對公共生活造成的實害",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "具備",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#139-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "八曰──今有羿、逢蒙，繁弱於此，而無弦，則必不能中也。中非獨弦也，而弦為弓中之具",
+      "note": "「賢非衰也，智非愚也，皆無其具也」把賢智與成事條件分開，結論「雖賢必有其具然後可成」明說才能要有相應資源才可能建立功名",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "觀世",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#141-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "天下雖有有道之士，國猶少。千里而有一士，比肩也；累世而有一聖人，繼踵也。士與聖人",
+      "note": "「有道之士，必禮必知，然後其智能可盡也」同時說明領導者須識士禮士（V），以及人才必在被理解、尊重後才能充分發揮智能（VIII）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "悔過",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#143-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "穴深尋則人之臂必不能極矣，是何也？不至故也。智亦有所不至。所不至，說者雖辯，為道",
+      "note": "「智亦有所不至」指出人的認知有邊界，屬於對自身能力限度的認識（II）；「說者雖辯，為道雖精，不能見矣」又說明教說無法越過受者理解範圍（VIII）",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "樂成",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#144-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大智不形，大器晚成，大音希聲。",
+      "note": "「大器晚成」直接主張重大才器與成就需要較長時間形成，「大智不形」補充真正能力未必立即顯露，核心是才能與成就的成熟（VIII）",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "樂成",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#144-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "禹之決江水也，民聚瓦礫。事已成，功已立，為萬世利。禹之所見者遠也，而民莫之知，故",
+      "note": "「禹之所見者遠也，而民莫之知」對比領導者遠見與群眾當下不解（V）；「民不可與慮化舉始，而可以樂成功」以治水成敗說明開創工作只能在完成後獲認可（VIII）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "樂成",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#144-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孔子始用於魯。魯人鷖誦之曰：「麛裘而韠，投之無戾；韠而麛裘，投之無郵。」用三年，",
+      "note": "魯人與鄭人由初時譏刺轉為三年後稱頌，文本據此說「當民之誹訿也而因弗遂用，則國必無功矣」；「此二君者，達乎任人也」把成就（VIII）繫於領導者能否承受議論並持續用人（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "樂成",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#144-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "舟車之始見也，三世然後安之。夫開善豈易哉？故聽無事治。事治之立也，人主賢也。魏攻",
+      "note": "「舟車之始見也，三世然後安之」說新事物需時方被接受；樂羊見兩篋反對書後由「有貴功之色」轉而歸功於君，並以「皆壹於為，則無敗事矣」主張艱難成就（VIII）有賴領導與群臣同向（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "樂成",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#144-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魏襄王與群臣飲，酒酣，王為群臣祝，令群臣皆得志。史起興而對曰：「群臣或賢或不肖，",
+      "note": "「臣為之，民必大怨臣」與水成後「民大得其利」呈現公共工程前後的民意反轉；「誠能決善，眾雖諠譁而弗為變」說領導者（V）須在喧譁中持守判斷，才能「立功」（VIII）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "本味",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#149-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "求之其本，經旬必得；求之其末，勞而無功。功名之立，由事之本也，得賢之化也。非賢其",
+      "note": "「功名之立，由事之本也，得賢之化也」把成事的根本放在得賢，又以「非賢其孰知乎事化」明說人才的能力是功名成立的依據",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "本味",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#149-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "有侁氏女子採桑，得嬰兒于空桑之中，獻之其君。其君令烰人養之。察其所以然，曰：“其",
+      "note": "「夢有神告之曰：‘臼出水而東走，毋顧。’」隨後以邑沒於水、其母化為空桑認證神告應驗；後半又以「相得然後樂」「相為殫智竭力」說賢主與賢士相得而成大功。V、VIII 分別由用人合作與功名成就承重，XII 由有意圖的神告及其應驗承重，少一格便漏掉段內一條明說",
+      "co_domains": [
+        "V",
+        "XII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "首時",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#150-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "聖人之於事，似緩而急、似遲而速以待時。王季歷困而死，文王苦之，有不忘羑里之醜，時",
+      "note": "「似緩而急、似遲而速以待時」說明延後行動不等於懈怠；文王、武王與太公望的事例共同承重「時固不易得」，把成事繫於主動等待時機",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "首時",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#150-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "伍子胥欲見吳王而不得。客有言之於王子光者，見之而惡其貌，不聽其說而辭之。客請之王",
+      "note": "伍子胥說服王子光後「退而耕於野七年」，段末明斷「鄉之耕，非忘其父之讎也，待時也」，故事所承載的是為達成志業而延宕、等待可行時機",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "首時",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#150-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "墨者有田鳩欲見秦惠王，留秦三年而弗得見。客有言之於楚王者，往見楚王，楚王說之，與",
+      "note": "田鳩繞道楚國才得見秦王，後文直說「有道之士未遇時，隱匿分竄，勤以待時」及「人雖智而不遇時無功」，把能力能否成事與時機是否相合分開",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "長攻",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#152-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡治亂存亡，安危強弱，必有其遇，然後可成，各一則不設。故桀、紂雖不肖，其亡遇湯、",
+      "note": "「湯、武雖賢，其王遇桀、紂也」與良農「未必收」的比喻都說能力與努力不能單獨保證成果；功業仍須「遇時雨」一類外在機遇才能成立",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "長攻",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#152-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "此三君者，其有所自而得之。不備遵理，然而後世稱之，有功故也。有功於此而無其失，雖",
+      "note": "「不備遵理，然而後世稱之，有功故也」直指後世會因成果而給人美名，把人物評價如何受成功遮蔽與功業本身並置來談",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "遇合",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#154-p02",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "凡能聽說者，必達乎論議者也。世主之能識論議者寡，所遇惡得不苟？凡能聽音者，必達於",
+      "note": "「凡能聽說者，必達乎論議者也」明說判斷說辭需要相應專業，而「世主之能識論議者寡」則把說客遇合不當連到領導者欠缺辨識能力",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "勸學",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#157-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "二曰：先王之教，莫榮於孝，莫顯於忠。忠孝，人君人親之所甚欲也。顯榮，（人子人臣）",
+      "note": "「不知理義，生於不學」把德行失序追到不學，「聖人生於疾學」「疾學在於尊師」又主張才德與成就由勤學尊師而來，承重的是學習及品格養成",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "勸學",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#157-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡說者，兌之也，非說之也。今世之說者，多弗能兌，而反說之。夫弗能兌而反說，是拯溺",
+      "note": "「故為師之務，在於勝理，在於行義」把教師之所以受尊重繫於持理行義；「遺理釋義以要不可必」則明斷迎合偶然遇合會損害師者操守",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "勸學",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#157-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "曾子曰：「君子行於道路，其有父者可知也，其有師者可知也。夫無父而無師者，餘若夫何",
+      "note": "曾參與顏淵兩則故事以「此言事師之猶事父也」明說師生關係比照父子，並以「其尊師若此，故師盡智竭道以教」連到教學投入",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "尊師",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#158-p02",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "且天生人也，而使其耳可以聞，不學，其聞不若聾；使其目可以見，不學，其見不若盲；使",
+      "note": "「故凡學，非能益也，達天性也」主張學習使人的天賦得以實現；六人的事例又由「刑戮死辱之人」轉成「天下名士顯人」，明說人能因學而改變其人生走向",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "尊師",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#158-p03",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "凡學，必務進業，心則無營，疾諷誦，謹司聞，觀驩愉，問書意，順耳目，不逆志，退思慮",
+      "note": "「凡學，必務進業，心則無營，疾諷誦，謹司聞」規定學習者的專注實踐，「得之無矜，失之無慚，必反其本」並要求不矜與反本的品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "尊師",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#158-p05",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "君子之學也，說義必稱師以論道，聽從必盡力以光明。聽從不盡力，命之曰背；說義不稱師",
+      "note": "「故教也者，義之大者也；學也者，知之盛者也」直接把教學界定為利人之義、把學習界定為成身之知；孔子所說「好學而不厭，好教而不倦」再將其落到持續實踐",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "誣徒",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#159-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "四曰：達師之教也，使弟子安焉、樂焉、休焉、游焉、肅焉、嚴焉。此六者得於學，則邪辟",
+      "note": "「人之情，不能樂其所不安，不能得於其所不樂」把安全、愉悅與持續投入的心理條件明說出來，並以「反諸人情，則得所以勸學矣」用於教學",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "誣徒",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#159-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "不能教者：志氣不和，取舍數變，固無恆心，若晏陰喜怒無處；言談日易，以恣自行，失之",
+      "note": "「志氣不和，取舍數變，固無恆心，若晏陰喜怒無處」描寫不能教者的內在失調，妒惡學生遂使「此師徒相與異心」；又以「不能親其所怨，不能譽其所惡」說明怨惡如何敗壞學業",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "誣徒",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#159-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "善教者則不然，視徒如己。反己以教，則得教之情也。所加於人，必可行於己，若此則師徒",
+      "note": "「視徒如己。反己以教」提出師生互易立場的教學原則；「人之情，愛同於己者，譽同於己者，助同於己者」則說出認同相同者的群體傾向如何促成教學",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "誣徒",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#159-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "不能學者：從師苦而欲學之功也，從師淺而欲學之深也。草木雞狗牛馬，不可譙詬遇之，譙",
+      "note": "「從師苦而欲學之功也，從師淺而欲學之深也」指出只求成果而不肯投入的學習心態；「用心則不專，好之則不深，就業則不疾」及「昏於小利，惑於嗜欲」進一步裁斷其習性與品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "用眾",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#160-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "五曰：善學者若齊王之食雞也，必食其跖數千而後足，雖不足，猶若有跖。",
+      "note": "「善學者若齊王之食雞也，必食其跖數千而後足」以取眾多雞跖的譬喻說明善學者須從多處累積可取之長，承重在學習方法",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "用眾",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#160-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "物固莫不有長，莫不有短。人亦然。故善學者，假人之長以補其短。故假人者遂有天下。",
+      "note": "「物固莫不有長，莫不有短。人亦然」明說每個人都有長短；「善學者，假人之長以補其短」把承認自身不足連到借他人之長的學習",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "用眾",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#160-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "無醜不能，無惡不知。醜不能、惡不知，病矣；不醜不能、不惡不知，尚矣。雖桀、紂猶有",
+      "note": "「無醜不能，無惡不知」勸人不以不能與不知為恥惡，並以「不醜不能、不惡不知，尚矣」評定這種求知態度；即使桀、紂也「有可畏可取者」，所以仍須向人取長",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "用眾",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#160-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "故學士曰：「辯議不可不為。」辯議而苟可為，是教也。教大議也。辯議而不可為，是被褐",
+      "note": "「辯議不可不為」提出學者應行的求學實踐，「辯議而苟可為，是教也」又把可落實的辯議界定為教學，承重在學與教",
+      "co_domains": []
     },
     {
       "slug": "nanjing",

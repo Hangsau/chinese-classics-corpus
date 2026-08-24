@@ -2,9 +2,9 @@
   "domain": "IV",
   "name_zh": "家庭與傳承",
   "gist": "婚姻與家庭、原生家庭的傷、為人父母、記憶與和解、留下什麼給後代",
-  "generated_at": "2026-08-24T14:54:44+00:00",
-  "para_count": 594,
-  "book_count": 31,
+  "generated_at": "2026-08-24T23:05:11+00:00",
+  "para_count": 621,
+  "book_count": 32,
   "surveyed_zero_hit": [
     "fangyan",
     "gongsun-longzi",
@@ -3356,6 +3356,404 @@
       "co_domains": [
         "V",
         "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "去私",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#05-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "墨者有鉅子腹𪏆，居秦，〈鉅，姓。子，通稱。腹𪏆，字也。𪏆讀曰車𥫱之𥫱。〉其子殺人",
+      "note": "「其子殺人」與「子，人之所私也」構成親子牽絆，「殺人者死，傷人者刑」承載公共法義，「忍所私以行大義」則評斷克私品格；三層分別是家庭、公共公義與品格抉擇，拿掉任一層都會少掉這則兩難的一面",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "精通",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#20-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "養由基射先，中石，矢乃飲羽，誠乎先也。伯樂學相馬，所見無非馬者，誠乎馬也。宋之庖",
+      "note": "三條內容都由本段明說而不可省：養由基、伯樂與庖丁的「誠乎」及十九年用刀寫專注成就技藝，少標 VIII 就漏掉才能精熟；「悲存乎心而木石應之」寫內在悲情的傳達，少標 VI 就漏掉情緒經驗；「父母之於子也，子之於父母也，一體而兩分」並收於「此之謂骨肉之親」，直接成立 IV",
+      "co_domains": [
+        "VI",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "長利",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#27-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "辛寬見魯繆公曰：「臣而今而後知吾先君周公之不若太公望封之知也。昔者太公望封於營丘",
+      "note": "辛寬只求地險使「子孫彌隆」，南宮括則反問「夫賢者豈欲其子孫之阻山林之險以長為無道哉」；本段把家族延續與是否容許後代無道的品格判準直接相連",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "行論",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#31-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "昔者紂為無道，殺梅伯而醢之，殺鬼侯而脯之，以禮諸侯於廟。文王流涕而咨之。紂恐其畔",
+      "note": "文王以「父雖無道，子敢不事父乎？君雖不惠，臣敢不事君乎？」並舉父子與君臣責任，故事同時落在家庭倫理與政治關係",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "開春",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#34-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魏惠王死，葬有日矣。天大雨雪，至於牛目。群臣多諫於太子者曰：「雪甚。如此而行葬，",
+      "note": "太子原以如期葬父為義，惠公借「先王必欲少留而撫社稷安黔首也，故使雨雪甚」作說辭，使他兼顧民勞而改期；落在喪親與公共領導，不把天候說辭當信仰，故不含 XII",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "壹行",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#49-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "先王所惡，無惡於不可知，不可知則君臣、父子、兄弟、朋友、夫妻之際敗矣。十際皆敗，",
+      "note": "「不可知則君臣、父子、兄弟、朋友、夫妻之際敗矣」逐項說明行止不可預期會破壞人倫：夫妻承重於親密（III），父子兄弟承重於家庭（IV），君臣朋友承重於群體關係（V）；拿掉任一格都會漏掉本段明列的一類關係。",
+      "co_domains": [
+        "III",
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "節喪",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#86-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡生於天地之間，其必有死。所不免也。孝子之重其親也，慈親之愛其子也，痛於肌骨，性",
+      "note": "「凡生於天地之間，其必有死」先確認死亡不可免，又以「孝子之重其親也，慈親之愛其子也，痛於肌骨，性也」說明親子之愛與不忍棄死者之情如何生成葬義",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "節喪",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#86-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "古之人有藏於廣野深山而安者矣，非珠玉國寶之謂也，葬不可不藏也。葬淺則狐狸抇之，深",
+      "note": "「父雖死，孝子之重之不怠；子雖死，慈親之愛之不懈」把喪葬連到持續的親子之愛；又以「徒以生者之誹譽為務」批評為榮名侈葬，區分真心為死者與虛榮炫示",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "節喪",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#86-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "民之於利也，犯流矢，蹈白刃，涉血抽肝以求之。野人之無聞者，忍親戚兄弟知交以求利。",
+      "note": "「民之於利也，犯流矢，蹈白刃……以求之」直說逐利足以壓過危險與禁令；末以「苟便於死……慈親孝子者之所不辭為也」反定真正親情應以死者之便為準，兼論貪欲品性與喪親責任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "安死",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#87-p03",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "君之不令民，父之不孝子，兄之不悌弟，皆鄉里之所釜(鬲瓦)者而逐之，憚耕稼采薪之勞",
+      "note": "「憚耕稼采薪之勞……祈美衣侈食之樂」把盜墓者寫成避勞逐樂的品性；「先王以儉節葬死也……以為死者慮也」則把薄葬落在真正替所愛死者設想的喪葬責任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "安死",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#87-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "先王之所惡，惟死者之辱也。發則必辱，儉則不發，故先王之葬，必儉、必合、必同。何謂",
+      "note": "「夫愛之而反危之」揭出愛人者可能因不知如何愛而反害所愛，落在喪葬中的關係責任；後半「反以相非，反以相是」又明說人在未定是非前會倒置判斷並投入鬥爭，承重在認知迷惑",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "安死",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#87-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魯季孫有喪，孔子往弔之。入門而左，從客也。主人以璵璠收，孔子徑庭而趨，歷級而上，",
+      "note": "孔子見「主人以璵璠收」便越過常禮疾趨而諫，段末明判「非禮也；雖然，以救過也」，藉喪葬事件說明守禮與制止錯誤衝突時的倫理取捨",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "異用",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#89-p04",
+      "modes": [
+        "narrative",
+        "ritual"
+      ],
+      "excerpt": "孔子之弟子從遠方來者，孔子荷杖而問之曰：“子之公不有恙乎？”搏杖而揖之，問曰：“",
+      "note": "孔子以持杖、揖杖、置杖等不同動作問候公、父母、兄弟與妻子，明說藉此「諭貴賤之等，辨疏親之義」，用儀節區分社會位階與家內親疏",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "當務",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#93-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "楚有直躬者，其父竊羊而謁之上，上執而將誅之。直躬者請代之。將誅矣，告吏曰：“父竊",
+      "note": "直躬告發父親又請代死，孔子卻指出他「一父而載取名焉」，因而判「直躬之信，不若無信」；故事拆穿以父親反覆博取信孝名聲的家庭背叛與偽德",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "諭大",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#109-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "季子曰：“燕雀爭善處於一屋之下，子母相哺也，姁姁焉相樂也，自以為安矣。灶突決，則",
+      "note": "燕雀寓言以不知火禍譏臣下只顧一家之樂；「一國盡亂，無有安家；一家皆亂，無有安身」明說家庭與國家安危相連，「小大貴賤，交相為恃」則提出上下群體互相依存",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "高義",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#111-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "荊昭王之時，有士焉，曰石渚。其為人也，公直無私，王使為政廷。有殺人者，石渚追之，",
+      "note": "石渚面對父親犯法，直陳「以父行法，不忍；阿有罪，廢國法，不可。失法伏罪，人臣之義也」；後又分說不私親之孝與不枉法之忠，具體呈現親子責任和公共法義的衝突",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "士節",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#119-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊有北郭騷者，結罘罔，捆蒲葦，織萉屨，以養其母猶不足，踵門見晏子曰：“願乞所以養",
+      "note": "北郭騷先以“願乞所以養母”承擔養親，又以“於利不苟取，於害不苟免”及“吾將以身死白之”實踐其義，友人再因“北郭子為國故死”相繼赴死。三格不可再減：去掉 IV 會漏掉養親，去掉 V 會漏掉知士、交友與為國，去掉 VII 會漏掉不苟取及以死明義；“太息而歎”只是敘事反應套語，不據此標 VI。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "重言",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#133-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "成王與唐叔虞燕居，援梧葉以為珪，而授唐叔虞曰：「余以此封女。」叔虞喜，以告周公。",
+      "note": "「天子無戲言」把承諾的莊重落實為封虞，收束又明言「令成王益重言，明愛弟之義」，同時承重於守言品格與兄弟責任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "知接",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#142-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "管仲有疾。桓公往問之曰：“仲父之疾病矣，將何以教寡人？”管仲曰：“齊鄙人有諺曰：",
+      "note": "管仲以「人之情，非不愛其子也」及「人之情，非不愛其父也」把親屬之愛說成人情常態（IV）；桓公最終「固卻其忠言，而愛其所尊貴也」，既呈現偏愛遮蔽判斷（II），也呈現君主拒諫、誤用近臣的領導失敗（V），三層各非彼此替代",
+      "co_domains": [
+        "II",
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "孝行",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#148-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫執一術而百善至、百邪去、天下從者，其惟孝也。故論人必先以所親而後及所疏，必先以",
+      "note": "「愛其親，不敢惡人；敬其親，不敢慢人」把事親的愛敬推到不惡、不慢他人的具體品行，親屬實踐與品格後果都由段內文字承重",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "孝行",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#148-p03",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "曾子曰：“身者，父母之遺體也。行父母之遺體，敢不敬乎？居處不莊，非孝也。事君不忠",
+      "note": "「身者，父母之遺體也」確立身體來自父母，又以「居處不莊」「朋友不篤」等可辨行為界定不孝，兼說事親與品格實踐",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "孝行",
+      "para_index": 6,
+      "para_id": "lushi-chunqiu#148-p06",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "曾子曰：“父母生之，子弗敢殺。父母置之，子弗敢廢。父母全之，子弗敢闕。故舟而不游",
+      "note": "「父母全之，子弗敢闕」並以不游危舟、不走捷徑、保全肢體等行為說明「以守宗廟」，把孝拆成可實行的事親與傳承責任",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "孝行",
+      "para_index": 7,
+      "para_id": "lushi-chunqiu#148-p07",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "養有五道：修宮室，安床笫，節飲食，養體之道也。樹五色，施五采，列文章，養目之道也",
+      "note": "此段灰區採「養行為的拆解」一讀：「修宮室，安床笫，節飲食」至「龢顏色，說言語，敬進退」把善養分成五類可辨照護行為，不只是一串供物名目",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "孝行",
+      "para_index": 8,
+      "para_id": "lushi-chunqiu#148-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "樂正子春下堂而傷足，瘳而數月不出，猶有憂色。門人問之曰：“夫子下堂而傷足，瘳而數",
+      "note": "樂正子春「傷足，瘳而數月不出，猶有憂色」，自承「余忘孝道，是以憂」；結語「身者非其私有也，嚴親之遺躬也」使憂愧的內在經驗落在親子孝責上",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "孝行",
+      "para_index": 9,
+      "para_id": "lushi-chunqiu#148-p09",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "民之本教曰孝，其行孝曰養。養可能也，敬為難。敬可能也，安為難。安可能也，卒為難。",
+      "note": "「其行孝曰養。養可能也，敬為難。敬可能也，安為難。安可能也，卒為難」把孝逐級拆成養、敬、安、終，並以「無遺父母惡名」落實為終身的家庭與品格實踐",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "必己",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#155-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "外物不可必，故龍逄誅，比干戮，箕子狂，惡來死，桀、紂亡。人主莫不欲其臣之忠，而忠",
+      "note": "總論「外物不可必」由兩條關係分別承重：「忠未必信」說君臣忠誠不能保證被信任，「孝未必愛」說親子孝行不能保證被愛。V、IV 分別記錄君臣與親子，XI 記錄兩者共有的外在不可控，三格少一便漏掉一條平行例證或總命題",
+      "co_domains": [
+        "V",
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "勸學",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#157-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "曾子曰：「君子行於道路，其有父者可知也，其有師者可知也。夫無父而無師者，餘若夫何",
+      "note": "曾參與顏淵兩則故事以「此言事師之猶事父也」明說師生關係比照父子，並以「其尊師若此，故師盡智竭道以教」連到教學投入",
+      "co_domains": [
+        "VIII"
       ]
     },
     {

@@ -2,9 +2,9 @@
   "domain": "XII",
   "name_zh": "信仰·神聖·超越",
   "gist": "神存在嗎、信與疑、敬畏與美、神秘經驗",
-  "generated_at": "2026-08-24T14:54:44+00:00",
-  "para_count": 283,
-  "book_count": 24,
+  "generated_at": "2026-08-24T23:05:11+00:00",
+  "para_count": 295,
+  "book_count": 25,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -750,6 +750,184 @@
       "note": "頌稱母親深知天道，並以陰德使人不死得壽表述德行與天道的關係。",
       "co_domains": [
         "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "順民",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#17-p02",
+      "modes": [
+        "narrative",
+        "ritual"
+      ],
+      "excerpt": "昔者湯克夏而正天下，天大旱，五年不收，湯乃以身禱於桑林，曰：“余一人有罪，無及萬",
+      "note": "湯禱告「余一人有罪，無及萬夫」呈現君主代民任責；段末以「雨乃大至。則湯達乎鬼神之化」直接認證祈禱、鬼神與降雨的效力，故同時涉及領導責任與神聖信仰",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "精通",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#20-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今夫攻者，砥厲五兵，侈衣美食，發且有日矣，所被攻者不樂，非或聞之也，神者先告也。",
+      "note": "本段可有誇張或信仰兩讀；這裡依「非或聞之也，神者先告也」及「死而志氣不安，精或往來也」的直陳，採文本認證神靈預告與死後精氣往來的一讀，故標死亡與超越信仰",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "求人",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#50-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "昔者堯朝許由於沛澤之中，曰：「十日出而焦火不息，不亦勞乎？夫子為天子，而天下已治",
+      "note": "許由以「啁焦巢於林，不過一枝；偃鼠飲於河，不過滿腹」表明知足而拒絕天下（I）；「戚愛習故，不以害之」要求求賢不受私親妨礙（V）；末句又由文本直接斷言賢者所聚則「鬼神不害」（XII），三格各承載一項不可互相替代的主張。",
+      "co_domains": [
+        "I",
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "制樂",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#83-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "四曰：欲觀至樂，必於至治。其治厚者其樂治厚，其治薄者其樂治薄，亂世則慢以樂矣。今",
+      "note": "「祥者福之先者也」「妖者禍之先者也」認證祥妖為福禍先兆，成立 XII；同段又說「見祥而為不善則福不至」「見妖而為善則禍不至」，明言人的善惡可改變禍福，成立 XI",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "制樂",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#83-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "周文王立國八年，歲六月，文王寢疾五日而地動，東西南北，不出國郊，百吏皆請曰：「臣",
+      "note": "文王直認「我必有罪，故天以此罰我也」，把地動認作天罰，成立超越認證；他拒絕轉災並說「請改行重善以移之」，則以承責改過拆出品格行為",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "制樂",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#83-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "宋景公之時，熒惑在心，公懼，召子韋而問焉，曰：「熒惑在心，何也？」子韋曰：「熒惑",
+      "note": "景公拒絕把死禍移給宰相、人民或歲收，說「民死，寡人將誰為君乎？寧獨死〔耳〕」，具體呈現負責與仁德；子韋又認證「天之處高而聽卑」「天必三賞君」",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "明理",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#84-p03",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "其雲狀：有若犬、若馬、若白鵠、若眾車；有其狀若人，蒼衣赤首，不動，其名曰天（衡）",
+      "note": "「上帝降禍，凶災必亟」明確認證上帝因亂降禍，成立 XII；末引「夫亂世之民，長短頡𢆖，百疾，民多疾癘」把亂世後果落到人民實際的疾病與身體殘損，成立 IX",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "應同",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#104-p01",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "凡帝王者之將興也，天必先見祥乎下民。黃帝之時，天先見大螾大螻，黃帝曰“土氣勝”，",
+      "note": "“凡帝王者之將興也，天必先見祥乎下民”由文本直接認證天先示祥，黃帝、禹、湯、文王諸例則把祥兆配給將興之王；後段類感例證是技術側，不另成 XII 的理由。",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "應同",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#104-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫覆巢毀卵，則鳳凰不至；刳獸食胎，則麒麟不來；乾澤涸漁，則龜龍不往。物之從同，不",
+      "note": "“天降災布祥，並有其職”明確認證天降災祥；同一句隨即以“以言禍福人或召之也”把禍福部分推回人的作為，故認證側與人可改變的破除側並存。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "下賢",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#126-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "有道之士固驕人主，人主之不肖者亦驕有道之士，日以相驕，奚時相得？若儒、墨之議與齊",
+      "note": "「貴為天子而不驕倨」與「卑為布衣而不瘁攝」把真正的自我價值置於貴賤貧富之外；「以天為法，以德為行，以道為宗」又明說其超越依歸，兩者共同界定「至貴」。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "先識",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#140-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "晉太史屠黍見晉之亂也，見晉公之驕而無德義也，以其圖法歸周。周威公見而問焉，曰：“",
+      "note": "「天生民而令有別。有別，人之義也，所異於禽獸麋鹿也」明定人的道德區別（VII）；「求國之長者」並「以為諫臣，去苛令」落在領導與進諫（V）；「國之興也，天遺之賢人與極言之士」又把天寫成有意安排興亡人選（XII），三義各自承重",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "本味",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#149-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "有侁氏女子採桑，得嬰兒于空桑之中，獻之其君。其君令烰人養之。察其所以然，曰：“其",
+      "note": "「夢有神告之曰：‘臼出水而東走，毋顧。’」隨後以邑沒於水、其母化為空桑認證神告應驗；後半又以「相得然後樂」「相為殫智竭力」說賢主與賢士相得而成大功。V、VIII 分別由用人合作與功名成就承重，XII 由有意圖的神告及其應驗承重，少一格便漏掉段內一條明說",
+      "co_domains": [
+        "V",
+        "VIII"
       ]
     },
     {

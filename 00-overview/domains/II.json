@@ -2,9 +2,9 @@
   "domain": "II",
   "name_zh": "自我與認同",
   "gist": "我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我",
-  "generated_at": "2026-08-24T14:54:44+00:00",
-  "para_count": 590,
-  "book_count": 33,
+  "generated_at": "2026-08-24T23:05:11+00:00",
+  "para_count": 712,
+  "book_count": 34,
   "surveyed_zero_hit": [
     "duduan",
     "fangyan",
@@ -2063,6 +2063,1766 @@
       ],
       "excerpt": "武王問太公曰：「練士之道奈何？」太公曰：「軍中有大勇力，敢死樂傷者，聚為一卒，名",
       "note": "按勇力、失勢求復功、為將報仇、貧窮快志、逃恥及材技等身分、動機與才具分類編伍，既涉及名譽身分，也依能力與動機安排軍事用途",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "去私",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#05-p02",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "黃帝言曰：「聲禁重，〈不欲虛名過其實也。〉色禁重，〈不欲好色至淫縱也。〉衣禁重，",
+      "note": "本段以「聲禁重」「色禁重」等六禁要求自我節制；命中尤其由注文成立：注文說「不欲虛名過其實也」及「不欲好色至淫縱也」，分別點出名實失衡與欲望放縱",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "蕩兵",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#07-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "且兵之所自來者遠矣，未嘗少選不用，貴賤長少賢者不肖相與同，有巨有微而已矣。察兵之",
+      "note": "「在心而未發，兵也；疾視，兵也；作色，兵也；傲言，兵也」把爭鬥追到未發的內在及外顯反應；「終身用兵而不自知」又明指人可能看不見自己的攻擊性",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "振亂",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#08-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡為天下之民長也，慮莫如長有道而息無道，賞有義而罰不義。今之世，學者多非乎攻伐。",
+      "note": "文本將立論錯誤分成「固不知，悖也」與「知而欺心，誣也」，後者直接指出明知而自欺的內在狀態，並把欺罔評為品格之失",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "先己",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#13-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "（二）〔三〕曰：湯問於伊尹曰：「欲取天下若何？」伊尹對曰：「欲取天下，天下不可取",
+      "note": "伊尹以「可取，身將先取」把外在事業的根本放回自身，接著說「必先治身」並以腠理通、邪氣去、終天年具體說明身體修養",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "先己",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#13-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "昔者先聖王，成其身而天下成，治其身而天下治。故善響者不於響於聲，善影者不於影於形",
+      "note": "「成其身而天下成，治其身而天下治」及「言正諸身也」把自我修治定為公共治理的起點；末段反以「謀失於胸，令困於彼」說內在失道如何外化為政治失敗",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "先己",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#13-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "夏后相與有扈戰於甘澤而不勝，六卿請復之，夏后相曰：「不可。吾地不淺，吾民不寡，戰",
+      "note": "夏后戰敗先承認「是吾德薄而教不善也」並改變自身生活與用人，收束「欲勝人者必先自勝，欲論人者必先自論，欲知人者必先自知」，直指自知、自省與自制",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "先己",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#13-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "《詩》曰：「執轡如組。」孔子曰：「審此言也可以為天下。」子貢曰：「何其躁也？」孔",
+      "note": "孔子將「執轡如組」解作「聖人組脩其身，而成文於天下矣」，主張自我修治會在公共世界形成秩序；丘陵、深淵與松柏之喻皆說自身成就如何庇益他者",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "先己",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#13-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孔子見魯哀公，哀公曰：「有語寡人曰：『為國家者，為之堂上而已矣。』寡人以為迂言也",
+      "note": "孔子以「得之於身者得之人，失之於身者失之人」回答治國問題，並收在「知反於己身者乎」，把領導成敗繫於能否回身自省",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "論人",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#14-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "四曰：主道約，君守近。太上反諸己，其次求諸人。其索之彌遠者，其推之彌䟽；其求之彌",
+      "note": "「太上反諸己，其次求諸人」為君主排出自省先於求人之序；「其求之彌彊者，其失之彌遠」又說領導者向外強求反會偏離所求",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "論人",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#14-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "何謂反諸己也？適耳目，節嗜欲，釋智謀，去巧故，而游意乎無窮之次，事心乎自然之塗，",
+      "note": "「節嗜欲，釋智謀，去巧故」是返己的具體工夫，所得狀態則是「復歸於樸，嗜欲易足」與「離世自樂，中情潔白」；段落直接談自我整理及不受外在威嚴擾動的安頓",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "論人",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#14-p03",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "何謂求諸人？人同類而智殊，賢不肖異，皆巧言辯辭，以自防禦，此不肖（王）〔主〕之所",
+      "note": "「人同類而智殊，賢不肖異，皆巧言辯辭，以自防禦」指出言辭會遮蔽真實樣態；「八觀六驗」再把人在通、貴、富、喜、怒、懼等處境中的行為編成知人程序，用於領導與用人",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "圜道",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#15-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "先王之立（高）官也，必使之方。方則分定，分定則下不相隱。堯、舜，賢主也，皆以賢者",
+      "note": "本段以堯舜「皆以賢者為後，不肯與其子孫」對照世主私傳，並用「其所欲者之遠，而所知者之近也」解釋長遠欲望受短近認知破壞，涉及自我局限與公共任官",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "知士",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#18-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "靜郭君善劑貌辨。劑貌辨之為人也多訾，門人弗說。士尉以証靜郭君，靜郭君弗聽，士尉辭",
+      "note": "靜郭君能在眾人「多訾」時仍知劑貌辨，結尾稱其「能自知人，故非之弗為阻」；劑貌辨也因此「外生樂、趨患難」，故事承重於不受毀譽遮蔽的知人與君士信任",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "審己",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#19-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡物之然也，必有故。而不知其故，雖當與不知同，其卒必困。先王名士達師之所以過俗者",
+      "note": "「凡物之然也，必有故」且「不知其故，雖當與不知同」，把偶然答對而不懂成因仍判作無知，主張人須辨明自身判斷所據",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "審己",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#19-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子列子常射中矣，請之於關尹子。關尹子曰：“知子之所以中乎？”答曰：“弗知也。”關",
+      "note": "列子由只會射中進到「知子之所以中」並能「守而勿失」，呈現技能須建立在自知其所以然；末句「聖人不察存亡賢不肖，而察其所以也」把此原則推及人的成敗與品評",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "審己",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#19-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊湣王亡居於衛，晝日步足，謂公玉丹曰：“我已亡矣，而不知其故。吾所以亡者，果何故",
+      "note": "齊湣王追問亡國之故，公玉丹卻以「王之所以亡也者，以賢也」迎合，段末直斷「此亦不知其所以也，此公玉丹之所以過也」，揭示統治者的自欺與諂諛進言",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "審己",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#19-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "越王授有子四人。越王之弟曰豫，欲盡殺之，而為之後。惡其三人而殺之矣，國人不說，大",
+      "note": "越王聽豫而殺子、激成國人圍宮，事後仍只說「余不聽豫之言，以罹此難也」；文本判他「亦不知所以亡也」，寫的是掌權者誤認敗亡原因及錯信進言",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "功名",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#25-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "賢不肖不可以（不）相分，若命之不可易，若美惡之不可移。桀、紂貴為天子，富有天下，",
+      "note": "「桀、紂貴為天子，富有天下」卻「不能得賢名」，忠諫者也不能被奪去賢名；「名固不可以相分，必由其理」把名實繫回賢不肖的品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "達鬱",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#30-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "列精子高聽行乎齊湣王，善衣東布衣，白縞冠，顙推之履，特會朝雨袪步堂下，謂其侍者曰",
+      "note": "列精子高照井才知侍者阿諛，進而指出「人皆知說鏡之明己也，而惡士之明己也」；本段既談人拒絕真正自知，也談君主是否容納能照見自己的士",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "達鬱",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#30-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "趙簡子曰：「厥也愛我，鐸也不愛我。厥之諫我也，必於無人之所；鐸之諫我也，喜質我於",
+      "note": "趙簡子把當眾進諫誤作不愛，尹鐸辨明「愛君之過」與「愛君之醜」；「不質君於人中，恐君之不變也」說明糾錯須穿透羞恥，末句又繫於君主能否容納刻言",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "驕恣",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#32-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "亡國之主，必自驕，必自智，必輕物。自驕則簡士，自智則專獨，輕物則無備。無備召禍，",
+      "note": "「必自驕，必自智，必輕物」描寫亡國之主的自我高估；「自驕則簡士，自智則專獨」把錯誤自評連到排斥人才與獨斷的領導後果",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "驕恣",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#32-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "晉厲公侈淫，好聽讒人，欲盡去其大臣而立其左右。胥童謂厲公曰：「必先殺三郤。族大多",
+      "note": "厲公害臣而終被殺，段末明斷「知能害人，而不知害人之不當而反自及」並歸因「智短」，寫的是掌權者認知短淺造成自危",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "驕恣",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#32-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魏武侯謀事而當，攘臂疾言於庭曰：「大夫之慮莫如寡人矣！」立有間，再三言。李悝趨進",
+      "note": "武侯自稱「大夫之慮莫如寡人」，李悝以「其所擇而莫如己者亡」警醒；收束「不在於自少，而在於自多」直指自我高估與拒諫",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "觀表",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#33-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "郈成子為魯聘於晉，過衛，右宰穀臣止而觴之，陳樂而不樂，酒酣而送之以璧，顧反，過而",
+      "note": "郈成子從「陳樂而不樂」「酒酣而送我以璧」讀出其志，並代養妻子、返璧；孔子稱「智可以微謀、仁可以託財」，既寫識人也寫可信仁行",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "觀表",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#33-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古之善相馬者：寒風是相口齒，麻朝相頰，子女厲相目，衛忌相髭，許鄙相𦙷，投伐褐相胸",
+      "note": "相馬良工能由「馬之一徵」知其材能，段末推及「人亦有徵」且「非意之也，蓋有自云也」，主張識人與專業判斷須由徵表而來",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "貴直",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#40-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "賢主所貴莫如士。所以貴士，為其直言也。言直則枉者見矣。人主之患，欲聞枉而惡直言，",
+      "note": "「欲聞枉而惡直言」寫出人主自我遮蔽的偏好；「所以貴士，為其直言也」則把能否容納直言置於領導用士之本",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "知化",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#42-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫以勇事人者以死也，未死而言死，不論，以雖知之與勿知同。凡智之貴也，貴知化也。人",
+      "note": "「化未至則不知，化已至，雖知之與勿知一貫也」刻畫惑者總在變局之後才醒悟；「在於不先知化也」把自我蒙蔽與能否及時辨識改變列為危亡根由。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "知化",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#42-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "吳王夫差將伐齊，子胥曰：「不可。夫齊之與吳也，習俗不同，言語不通，我得其地不能處",
+      "note": "夫差先拒絕子胥之言，敗亡時才說「吾何面以見子胥於地下」；末句「故夫差之知慚於子胥也，不若勿知」把過晚的自知與羞慚寫成比無知更痛切的內在結局。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "過理",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#43-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊湣王亡居衛，謂公王丹曰：「我何如主也？」王丹對曰：「王賢主也。臣聞古人有辭天下",
+      "note": "王丹把湣王亡國後「無重國之意」曲說成賢，湣王卻答「丹知寡人」；逢迎與自我認識互相強化，使失國者仍把麻木當成可稱許的品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "壅塞",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#44-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "秦繆公時，戎彊大，秦繆公遺之女樂二八與良宰焉。戎王大喜，以其故，數飲食，日夜不休",
+      "note": "戎王因女樂而「數飲食，日夜不休」，甚至射擊報警者；「未擒則不可知，已擒則又不知」把沉溺享樂造成的認知封閉寫成一種到受擒仍不醒悟的內在狀態。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "壅塞",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#44-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊攻宋，宋王使人候齊寇之所至。使者還，曰：「齊寇近矣，國人恐矣。」左右皆謂宋王曰",
+      "note": "使者面臨「報其情，死；不報其情，又恐死」，只得謊報而受賞；末以「狂而以行賞罰」指出掌權者的錯覺和怒意會倒置真偽及獎懲。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "壅塞",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#44-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊王欲以淳于髡傅太子，髡辭曰：「臣不肖，不足以當此大任也，王不若擇國之長者而使之",
+      "note": "齊王竟自問太子能否「如堯乎？其如舜也」，末段直指「今自以賢過於堯、舜，彼且胡可以開說哉？說必不入」，把過高自評寫成拒絕溝通與教導的根因。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "壅塞",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#44-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊宣王好射，說人之謂己能用彊弓也。其嘗所用不過三石，以示左右。左右皆試引之，中關",
+      "note": "「宣王之情，所用不過三石，而終身自以為用九石」明寫逢迎如何製造終身錯誤的自我評價；「非直士其孰能不阿主」又把失真連到權力中的群體壓力。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "慎行",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#46-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "荊平王有臣曰費無忌，害太子建，欲去之。王為建取妻於秦而美，無忌勸王奪。王已奪之，",
+      "note": "費無忌反覆以讒言害人，結語「動而不論其義，知害人而不知人害己也」同時指出其不義品格與只看見害人、看不見反噬的自我盲點。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "疑似",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#48-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "使人大迷惑者，必物之相似也。玉人之所患，患石之似玉者；相劍者之所患，患劍之似吳干",
+      "note": "「賢主之所患，患人之博聞辯言而似通者」把似是而非的人才判斷列為領導難題；「愚者之所大惑，而聖人之所加慮」則直接比較受表象迷惑與審慎辨識。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "疑似",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#48-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "梁北有黎丘部，有奇鬼焉，喜效人之子姪昆弟之狀。邑丈人有之市而醉歸者，黎丘之鬼效其",
+      "note": "黎丘丈人因鬼貌似其子而刺殺真子，隨即類推為「惑於似士者而失於真士」；「疑似之跡，不可不察。察之必於其人也」明言判斷身份與人才不能只憑相似表象。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "壹行",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#49-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孔子卜，得賁。孔子曰：「不吉。」子貢曰：「夫賁亦好矣，何謂不吉乎？」孔子曰：「夫",
+      "note": "孔子以「夫白而白，黑而黑，夫賁又何好乎」反對混雜不定，末稱「賢者所惡於物，無惡於無處」；卜卦只是故事載體，落點是身份界線與操行須有定處。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "察傳",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#51-p01",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "夫得言不可以不察，數傳而白為黑，黑為白。故狗似玃，玃似母猴，母猴似人，人之與狗則",
+      "note": "「數傳而白為黑，黑為白」指出信息經轉述會失真，「聞而審則為福矣，聞而不審，不若無聞矣」則把查證能力連到君主聽人後的存亡結果。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "察傳",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#51-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "凡聞言必熟論，其於人必驗之以理。魯哀公問於孔子曰：「樂正夔一足，信乎？」孔子曰：",
+      "note": "「凡聞言必熟論，其於人必驗之以理」先立查證原則；夔「一而足」與穿井「得一人」兩例都顯示字面相同而意義可異，承重在辨清名言與實情。",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "察傳",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#51-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子夏之晉，過衛，有讀史記者曰：「晉師三豕涉河。」子夏曰：「非也，是己亥也。夫『己",
+      "note": "子夏由字形辨出「三豕」實為「己亥」，結語「辭多類非而是，多類是而非。是非之經，不可不分」明說表象會顛倒真偽，須「緣物之情及人之情」核實。",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "似順",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#52-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "一曰：事多似倒而順，多似順而倒。有知順之為倒、倒之為順者，則可與言化矣。至長反短",
+      "note": "「事多似倒而順，多似順而倒」指出表面判斷與實際變化可能相反；能知「順之為倒、倒之為順」才可談化，承重在辨識與變化而非天命信仰。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "別類",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#53-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "二曰：知不知上矣。過者之患，不知而自以為知。物多類然而不然，故亡國僇民無已。夫草",
+      "note": "「過者之患，不知而自以為知」直接指出把不知誤認為知的自欺；「小智，非大智之類也」又限定類推能力，承重在人的認知界限",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "別類",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#53-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魯人有公孫綽者，告人曰：「我能起死人。」人問其故。對曰：「我固能治偏枯，今吾倍所",
+      "note": "魯人由「我固能治偏枯」推到加倍用藥便能起死人，結語「可以為小，不可以為大；可以為半，不可以為全」揭出把局部能力誤推為整體能力的判斷錯誤",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "別類",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#53-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "相劍者曰：「白所以為堅也，黃所以為牣也，黃白雜則堅且牣，良劍也。」難者曰：「白所",
+      "note": "「劍之情未革，而或以為良，或以為惡，說使之也」說明言說能左右判斷；「無以聰明聽說則堯、桀無別矣」並把辨言失準連到忠臣受患、賢者被廢",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "別類",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#53-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "高陽應將為室家，匠對曰：「未可也。木尚生，加塗其上，必將撓。以生為室，今雖善，後",
+      "note": "高陽應以「木益枯則勁，塗益乾則輕」作局部推算而房屋終敗，結語明判他「好小察，而不通乎大理」，承重在自信於小辨而看不見整體的認知偏失",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "別類",
+      "para_index": 6,
+      "para_id": "lushi-chunqiu#53-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "驥驁綠耳背日而西走，至乎夕則日在其前矣。目固有不見也，智固有不知也，數固有不及也",
+      "note": "「目固有不見也，智固有不知也，數固有不及也」直接承認感官、知識與推算都有界限；「不事心焉」主張不能把制度建立在逞心臆測上",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "有度",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#54-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "三曰：賢主有度而聽，故不過。有度而以聽，則不可欺矣，不可惶矣，不可恐矣，不可喜矣",
+      "note": "「昏乎其所未知」使人「易欺矣，可惶矣，可恐矣，可喜矣」，文本把知之不審說成受欺與惶恐、喜動的內在根源",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "有度",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#54-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孔、墨之弟子徒屬充滿天下，皆以仁義之術教導於天下，然而無所行，教者術猶不能行，又",
+      "note": "「仁義之術外也。夫以外勝內……不能行」區分外加教條與內在動力；「通乎性命之情，而仁義之術自行」把自我理解說成德行能落實的條件",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "士容",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#58-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊有善相狗者，其鄰假以買取鼠之狗，期年乃得之，曰：「是良狗也。」其鄰畜之數年，而",
+      "note": "良狗「其志在獐麋豕鹿，不在鼠」用來映照人的內在志向；「人亦然。誠有之則神應乎人矣，言豈足以諭之哉」主張真實心志能被感知，語言未必足以使人理解",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "士容",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#58-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "客有見田駢者，被服中法，進退中度，趨翔閑雅，辭令遜敏。田駢聽之畢而辭之。客出，田",
+      "note": "客人外表「進退中度」仍被判非士，因其展示的正是士應收斂之處；末段以「不肯自足」「心甚素樸」刻畫真實品格，區分外在表演與內在自持",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "士容",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#58-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "唐尚敵年為史，其故人謂唐尚願之，以謂唐尚。唐尚曰：「吾非不得為史也，羞而不為也。",
+      "note": "故人對唐尚「可信而不信，不可信而信」，文本明判「此愚者之患也」；又以「知人情，不能自遺」和「愚之患，在必自用」說明掌權者判人時不能排除自身偏見的危害",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "務大",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#59-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孔子曰：「燕爵爭善處於一屋之下，母子相哺也，區區焉相樂也，自以為安矣。灶突決，上",
+      "note": "燕雀「自以為安」卻「不知禍之將及」，映照臣子沉溺一家爵祿而危及社稷；「細大賤貴，交相為贊」則把個人安全放回大小群體相互依存的關係中",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "自知",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#66-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "欲知平直，則必準繩；欲知方圓，則必規矩；人主欲自知，則必直士。故天子立輔弼，設師",
+      "note": "「夫人故不能自知，人主猶其」直接指出人的自知盲點，因而主張人主必須藉「直士」舉過；自我認識與領導者接受校正共同承重",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "自知",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#66-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "堯有欲諫之鼓，舜有誹謗之木，湯有司過之士，武王有戒慎之鞀，猶恐不能自知，今賢非堯",
+      "note": "堯、舜、湯、武設諫鼓、謗木與司過之士仍「恐不能自知」，反問受掩蔽者「奚繇自知哉」，說的是自我認識需要外在糾偏而非自然具足",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "自知",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#66-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "荊成、齊莊不自知而殺，吳王、智伯不自知而亡，宋、中山不自知而滅，晉惠公、趙括不自",
+      "note": "列舉成、亡、滅、虜、死的諸例後收在「敗莫大於不自知」，那些禍敗都用來承載對自我蒙蔽的判斷，而非只記事",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "自知",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#66-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "范氏之亡也，百姓有得鍾者，欲負而走，則鍾大不可負，以椎毀之，鍾況然有音，恐人聞之",
+      "note": "掩耳者「惡己自聞之悖矣」，隨即比作人主「惡聞其過」；寓言把拒絕知道自己的過失揭為自欺，也指出掌權者拒諫的問題",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "自知",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#66-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "魏文侯燕飲，皆令諸大夫論己。或言君之智也。至於任座，任座曰：「君不肖君也。得中山",
+      "note": "任座直指「君不肖君也」，翟黃再以「其臣之言直」反證主賢並使文侯迎回忠臣；故事呈現領導者如何由直言修正自我評價並保全人才",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "貴當",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#69-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "名號大顯，不可彊求，必繇其道。治物者不於物於人，治人者不於事於君，治君者不於君於",
+      "note": "「性者萬物之本也，不可長，不可短，因其固然而然之」限定欲與性的可變範圍，末句「君子審在己者而已矣」則把可負責之處收回自身",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "侈樂",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#72-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "三曰：人莫不以其生生，而不知其所以生。人莫不以其知知，而不知其所以知。知其所以知",
+      "note": "「人莫不以其知知，而不知其所以知」指出人會使用能力卻不識其根源，並以錯認珠玉為寶類比錯認躁聲為樂；「駭心氣、動耳目、搖蕩生」說明這種自誤造成內在擾動",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "明理",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#84-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "五曰：五帝三王之於樂盡之矣。亂國之主，未嘗知樂者，是常主也。夫有天賞得為主，而未",
+      "note": "「有天賞得為主，而未嘗得主之實」明分君主名位與其實，並以「此之謂大悲」判定徒有身分而無其實的自我錯置",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "安死",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#87-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "先王之所惡，惟死者之辱也。發則必辱，儉則不發，故先王之葬，必儉、必合、必同。何謂",
+      "note": "「夫愛之而反危之」揭出愛人者可能因不知如何愛而反害所愛，落在喪葬中的關係責任；後半「反以相非，反以相是」又明說人在未定是非前會倒置判斷並投入鬥爭，承重在認知迷惑",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "至忠",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#91-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "至忠逆於耳、倒於心，非賢主其孰能聽之？故賢主之所說，不肖主之所誅也。人主無不惡暴",
+      "note": "「至忠逆於耳、倒於心」說忠言會觸犯接受者感受，而人主一面惡暴劫、一面「惡聞忠言」又日日招致它；樹根之喻揭出領導者因拒絕逆耳資訊而自我破壞的盲點",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "忠廉",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#92-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "吳王欲殺王子慶忌而莫之能殺，吳王患之。要離曰：“臣能之。”吳王曰：“汝惡能乎？吾",
+      "note": "要離自判殺妻子為不仁、殺新主為不義，又以受人饒命為辱，因而不接受分國；「臨大利而不易其義」把自我尊嚴與不為賞利所動的廉操一併說出",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "長見",
+      "para_index": 6,
+      "para_id": "lushi-chunqiu#94-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魏公叔痤疾。惠王往問之，曰：“公叔之疾，嗟！疾甚矣！將奈社稷何？”公叔對曰：“臣",
+      "note": "魏王把公叔痤薦鞅的遠見視為「悖」，後來秦強魏弱證明判斷倒置；「夫悖者之患，固以不悖為悖」直接說出自蔽者會把清醒當悖亂，也呈現領導者誤判人才與忠告的後果",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "審分",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#95-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "故按其實而審其名，以求其情；聽其言而察其類，無使放悖。夫名多不當其實、而事多不當",
+      "note": "「按其實而審其名」要求辨名實，又說堯舜之臣「不獨義」、桀紂之臣「不獨鄙」，差別在「得其數」「失其理」；文本否定固定品題，主張人的表現受角色安排與領導方法左右",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "審分",
+      "para_index": 6,
+      "para_id": "lushi-chunqiu#95-p06",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "今有人於此，求牛則名馬，求馬則名牛，所求必不得矣；而因用威怒，有司必誹怨矣，牛馬",
+      "note": "「以牛為馬，以馬為牛」譬喻任用中的名實倒置，並以「故至治之務，在於正名」確立領導與職分原則；後文「神通乎六合」只是無為君術的效能修辭，不作信仰判讀，整段承重仍在正名、名實與治責",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "君守",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#96-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "二曰──得道者必靜。靜者無知，知乃無知，可以言君道也。故曰中欲不出謂之扃，外欲不",
+      "note": "「其出彌遠者，其知彌少」與「眾智眾能之所持也」把個人耳目智慮的限度說成君主必須深藏己智、任用群能的依據，兼涉自我認知與領導分工。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "君守",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#96-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "夫一能應萬、無方而出之務者，唯有道者能之。魯鄙人遺宋元王閉，元王號令於國，有巧者",
+      "note": "魯鄙人與大師文兩則故事收在「思慮自心傷也，智差自亡也，奮能自殃」；後文又說人主好自為會使「守職者舍職而阿主之為」，把自恃的盲點連到諂媚與職分顛倒。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "任數",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#97-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "三曰──凡官者，以治為任，以亂為罪。今亂而無責，則亂愈長矣。人主以好暴示能，以好",
+      "note": "「人主以好暴示能，以好唱自奮，人臣以不爭持位，以聽從取容」明說上下各自的自逞與求容；「君臣易操」又使耳目心知失效，故同時涉及自我蒙蔽與權責失序。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "任數",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#97-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "且夫耳目知巧，固不足恃，惟脩其數、行其理為可。韓昭釐侯視所以祠廟之牲，其豕小，昭",
+      "note": "韓昭釐侯察豕的故事由申不害反斷為「何以知其聾？以其耳之聰也」；段末直說「耳目心智，其所以知識甚闕」，以認知限度論證君主應因任而非自智。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "任數",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#97-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孔子窮乎陳、蔡之間，藜羹不斟，七日不嘗粒，晝寢。顏回索米，得而爨之，幾熟。孔子望",
+      "note": "孔子因顏回攫飯而誤判，親自承認「所信者目也，而目猶不可信；所恃者心也，而心猶不足恃」；「知人固不易矣」落在察覺自身判人限制，也關乎識人。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "勿躬",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#98-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "管子復於桓公，曰：「墾田大邑，辟土藝粟，盡地力之利，臣不若甯速，請置以為大田。登",
+      "note": "管子逐項承認「臣不若」五位專才，並以「不任己之不能，而以盡五子之能」說明知己所不能與任人；末稱「名實相保」，把自知、職名與領導責任相連。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "知度",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#99-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "至治之世，其民不好空言虛辭，不好淫學流說，賢不肖各反其質。行其情，不雕其素；蒙厚",
+      "note": "「賢不肖各反其質。行其情，不雕其素」把人能否復其本質列為治世根據；又依「工拙愚智勇懼」使人「各當其任」，將人的差異連到合宜職分。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "知度",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#99-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人主自智而愚人，自巧而拙人，若此則愚拙者請矣，巧智者詔矣。詔多則請者愈多矣，請者",
+      "note": "「人主自智而愚人，自巧而拙人」使請示無窮；更嚴重的是「窮而不知其窮，其患又將反以自多」，明說領導者的自高與不自知如何堵塞治理。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "慎勢",
+      "para_index": 7,
+      "para_id": "lushi-chunqiu#100-p07",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊簡公有臣曰諸御鞅，諫於簡公曰：「陳成常與宰予，之二臣者甚相憎也，臣恐其相攻也。",
+      "note": "齊簡公以「非而細人所能識也」拒絕諸御鞅的預警，事敗才悔；收束「不知恃可恃而恃不恃」把不能辨識可信之言的盲點連到領導失敗，「喟焉太息」只是敘事反應。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "執一",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#102-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "楚王問為國於詹子。詹子對曰：「何聞為身，不聞為國。」詹子豈以國可無為哉？以為為國",
+      "note": "詹子以「為國之本在於為身」回答楚王，並由「身為而家為，家為而國為」逐層推出天下之治，明確把自我修為當成公共領導的根本。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "執一",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#102-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "吳起謂商文曰：「事君果有命矣夫！」商文曰：「何謂也？」吳起曰：「治四境之內，成馴",
+      "note": "吳起只見三項所長，卻「見其所以長，而不見其所以短；知其所以賢，而不知其所以不肖」；末以「知長短贏絀之化」說明全身全國須靠自知長短並辨勢之變。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "去尤",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#105-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "世之聽者，多有所尤，多有所尤則聽必悖矣。所以尤者多故，其要必因人所喜，與因人所惡",
+      "note": "「所以尤者多故，其要必因人所喜，與因人所惡」把聽判失真追到個人的喜惡；「意有所在也」又指出注意被既有意向占住，故涉及自我盲點與內在偏好",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "去尤",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#105-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "人有亡鈇者，意其鄰之子，視其行步竊鈇也，顏色竊鈇也，言語竊鈇也，動作態度無為而不",
+      "note": "亡鈇者先把鄰人一切舉止都看成偷鈇，得鈇後觀感全改；「其鄰之子非變也，己則變矣」明說改變的是判斷者自己，揭示成見造成的自欺",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "去尤",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#105-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "邾之故法，為甲裳以帛。公息忌謂邾君曰：“不若以組。凡甲之所以為固者，以滿竅也。今",
+      "note": "邾君因公息忌家中製組而撤回政令，卻未按甲具本身判斷；「為甲以組而便，公息忌雖多為組何傷也」及「用組之心，不可不察也」把公共決策的失誤歸到對說者動機的偏執",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "去尤",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#105-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魯有惡者，其父出而見商咄，反而告其鄰曰：“商咄不若吾子矣。”且其子至惡也，商咄至",
+      "note": "魯父「彼以至美不如至惡，尤乎愛也」，顯示愛著會倒置美惡判斷；投金時恐懼又以「外有所重者，泄蓋內掘」指出外在所重會擾亂內在與行動",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "去尤",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#105-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "解在乎齊人之欲得金也，及秦墨者之相妒也，皆有所乎尤也。老聃則得之矣。若植木而立乎",
+      "note": "「齊人之欲得金也，及秦墨者之相妒也，皆有所乎尤也」直接把欲得與相妒列為偏執判斷的來源，說的是內在欲妒如何形成認知盲點",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "謹聽",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#107-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "昔者禹一沐而三捉髮，一食而三起，以禮有道之士，通乎己之不足也。通乎己之不足，則不",
+      "note": "「通乎己之不足」是接納諫言的起點；亡國之主卻「乃自賢而少人，少人則說者持容而不極」，明說領導者的自滿會壓抑真話，並要求連自以為已知者也加以查驗",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "謹聽",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#107-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫堯惡得賢天下而試舜？舜惡得賢天下而試禹？斷之於耳而已矣。耳之可以斷也，反性命之",
+      "note": "「太上知之，其次知其不知。不知則問，不能則學」把自知無知與求問學習連成具體行動；「不知而自以為知，百禍之宗也」則明斷自欺的後果",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "務本",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#108-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "今有人於此，修身會計則可恥，臨財物資盡則為己，若此而富者，非盜則無所取。故榮富非",
+      "note": "「無功伐而求榮富，詐也；詐誣之道，君子不由」裁斷無功求榮的品格；「己，所制也，釋其所制，而奪乎其所不制，誖」則要求先處理可由自己掌握的行為，再據已做到之事論人",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "離俗",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#110-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊莊公之時，有士曰賓卑聚，夢有壯子，白縞之冠，丹績之䘩，東布之衣，新素履，墨劍室",
+      "note": "賓卑聚僅在夢中受辱便「終夜坐不自快」，並以尋不到辱己者就死來維持自我形象；文本雖說「謂此當務則未也」，仍特別評其「心之不辱」，故涉及榮辱認同與受辱情緒",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "為欲",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#115-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "善為上者，能令人得欲無窮，故人之可得用亦無窮也。蠻夷反舌殊俗異習之國，其衣服冠帶",
+      "note": "「久湛而不去則若性。性異非性」區分本性與習俗沉積成的假性；「不聞道者，何以去非性哉」又主張人可以辨識並去除這種假性，直接談自我形成與改變。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "舉難",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#117-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "八曰──以全舉人固難，物之情也。人傷堯以不慈之名，舜以卑父之號，禹以貪位之意，湯",
+      "note": "「物豈可全哉」否定以完美衡量人；「君子責人則以人，自責則以義」與不肖者相反的雙重標準，具體談對他人及自我的評價方式和由此養成的品格。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "舉難",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#117-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魏文侯弟曰季成，友曰翟璜。文侯欲相之而未能決，以問李克。李克對曰：「君欲置相，則",
+      "note": "「季成，弟也，翟璜，友也，而猶不能知」揭示親近不等於知人；「疏賤者知，親習者不知，理無自然」直接糾正憑關係判斷人才的認知偏誤。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "不侵",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#122-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "湯、武，千乘也，而士皆歸之。桀、紂，天子也，而士皆去之。孔、墨，布衣之士也；萬乘",
+      "note": "「尊貴富大不足以來士矣」否定以地位財富吸引士人的常見判斷，「必自知之然後可」則把關鍵放在領導者親自理解、辨認士人。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "不侵",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#122-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "豫讓之友謂豫讓曰：“子之行何其惑也？子嘗事范氏、中行氏，諸侯盡滅之，而子不為報，",
+      "note": "豫讓以「眾人畜我者，我亦眾人事之」對照「國士畜我者，我亦國士事之」，說明他人如何看待、定位自己會形成相應的自我定位與回報方式；末句又推及一般人的關係心理。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "序意",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#123-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "維秦八年，歲在涒灘，秋，甲子朔，朔之日，良人請問十二紀。文信侯曰：“嘗得學黃帝之",
+      "note": "“夫私視使目盲，私聽使耳聾，私慮使心狂”把私心如何扭曲觀看、聆聽與思慮逐項說出；“智不公，則福日衰，災日隆”再把認知失公連到品格與後果，故必含 VII，並涉及自欺偏見。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "權勳",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#125-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "中山之國有厹繇者。智伯欲攻之而無道也，為鑄大鐘，方車二軌以遺之。厹繇之君將斬岸堙",
+      "note": "「欲鐘之心勝則安厹繇之說塞矣」明說欲望壓過判斷，使忠告進不了心；「凡聽說，所勝不可不審也」進一步要求察看內心究竟被什麼支配。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "下賢",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#126-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "有道之士固驕人主，人主之不肖者亦驕有道之士，日以相驕，奚時相得？若儒、墨之議與齊",
+      "note": "「貴為天子而不驕倨」與「卑為布衣而不瘁攝」把真正的自我價值置於貴賤貧富之外；「以天為法，以德為行，以道為宗」又明說其超越依歸，兩者共同界定「至貴」。",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "察今",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#131-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "上胡不法先王之法，非不賢也，為其不可得而法。先王之法，經乎上世而來者也，人或益之",
+      "note": "「人以自是，反以相誹」與學者「不求其實，務以相毀，以勝為故」揭出自是與求勝造成的認知偏差；「察己則可以知人，察今則可以知古」則提出由自知、近知擴充所見的學習方法。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "察今",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#131-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "荊人欲襲宋，使人先表澭水。澭水暴益，荊人弗知，循表而夜涉，溺死者千有餘人，軍驚而",
+      "note": "荊人仍循舊水標而溺，譬喻人把曾經有效的準則誤當不變；「世易時移，變法宜矣」及「病變而藥不變」明說情境已變時必須修正判斷與行動。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "察今",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#131-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "夫不敢議法者，眾庶也；以死守者，有司也；因時變法者，賢主也。是故有天下七十一聖，",
+      "note": "「時已徙矣，而法不徙」指出拒絕隨時勢改變的僵固；刻舟求劍被斷為「惑」，又以父善游便推子善游被斷為「悖」，具體揭示把舊位置或他人能力錯套到當下的判斷失誤。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "審應",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#132-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魏昭王問於田詘曰：「寡人之在東宮之時，聞先生之議曰：『為聖易。』有諸乎？」田詘對",
+      "note": "「昭王有非其有，田詘不察」指出田詘把對方未曾宣稱的自我位置塞回問話，承重於身分判斷與溝通誤置",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "審應",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#132-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "趙惠王謂公孫龍曰：「寡人事偃兵十餘年矣而不成，兵不可偃乎？」公孫龍對曰：「偃兵之",
+      "note": "「兼愛天下，不可以虛名為也，必有其實」要求名實一致；「無禮慢易而求敬」「暴戾貪得而求定」又把相反行為與所求結果的品格矛盾逐一拆出",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "審應",
+      "para_index": 6,
+      "para_id": "lushi-chunqiu#132-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "衛嗣君欲重稅以聚粟，民弗安，以告薄疑曰：「民甚愚矣。夫聚粟也，將以為民也。其自藏",
+      "note": "「其在於民而君弗知……其在於上而民弗知」揭出君民彼此不知的視角落差；「凡聽必反諸己」則把自我反省立為領導者聽取民意的依據",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "精諭",
+      "para_index": 6,
+      "para_id": "lushi-chunqiu#134-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "晉襄公使人於周曰：「弊邑寡君寢疾，卜以守龜曰：『三塗為祟。』弊邑寡君使下臣願藉途",
+      "note": "使者口稱祈福而現「客武色」，故以「形名不相當」指出表象與實意不合；「言不足以斷小事」則要求從語言之外辨認真實意圖",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "離謂",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#135-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "四曰──言者，以諭意也。言意相離，凶也。亂國之俗，甚多流言，而不顧其實，務以相毀",
+      "note": "「言意相離，凶也」指出話語與意圖斷裂會擾亂判斷；「惑者之患，不自以為惑」更直接說出迷惑者無法辨認自身迷惑的自欺狀態",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "離謂",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#135-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "鄭國多相縣以書者。子產令無縣書，鄧析致之。子產令無致書，鄧析倚之。令無窮，則鄧析",
+      "note": "「辨而不當理則偽，知而不當理則詐」把離開義理的聰辨判為偽詐，並以「理也者，是非之宗也」提出辨別真偽與品格善惡的依據",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "淫辭",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#136-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔穿、公孫龍相與論於平原君所，深而辯，至於藏三牙，公孫龍言藏之三牙甚辯，孔穿不應",
+      "note": "孔穿以「從易而是者乎」對比「從難而非者乎」，使平原君看見自己曾被艱深雄辯吸引；故事承重於能否從炫技說辭中辨明真實",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "不屈",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#137-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魏惠王謂惠子曰：「上世之有國，必賢者也。今寡人實不若先生，願得傳國。」惠子辭。王",
+      "note": "惠王、惠子僅憑讓國與辭國扮演堯、舜、許由，文本反駁說「他行稱此」才足以相稱，並以「凡自行不可以幸，為必誠」要求自我角色與真實品行一致",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "應言",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#138-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "七曰──白圭謂魏王曰：「市丘之鼎以烹雞，多洎之則淡而不可食，少洎之則焦而不熟，然",
+      "note": "市丘之鼎對烹雞「無所可用」，置於三軍與甑的情境卻「莫宜之此鼎矣」；收束明判「白圭之論自悖」，揭出脫離條件評斷有用無用造成的自相矛盾",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "應言",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#138-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "白圭謂魏王曰：「市丘之鼎以烹雞，多洎之則淡而不可食，少洎之則焦而不熟，然而視之蝺",
+      "note": "市丘之鼎對烹雞「無所可用」，置於三軍與甑的情境卻「莫宜之此鼎矣」；收束明判「白圭之論自悖」，揭出脫離條件評斷有用無用造成的自相矛盾",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "知接",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#142-p01",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "人之目以照見之也，以瞑則與不見，同，其所以為照、所以為瞑異。瞑士未嘗照，故未嘗見",
+      "note": "「無由接之患，自以為智，智必不接」把不能受知歸於自以為智的自欺，而「自知弗智」提出自知的反面可能（II）；「故亡國非無智士也，非無賢者也，其主無由接故也」說領導者接不住賢智才致危亡（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "知接",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#142-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "管仲有疾。桓公往問之曰：“仲父之疾病矣，將何以教寡人？”管仲曰：“齊鄙人有諺曰：",
+      "note": "管仲以「人之情，非不愛其子也」及「人之情，非不愛其父也」把親屬之愛說成人情常態（IV）；桓公最終「固卻其忠言，而愛其所尊貴也」，既呈現偏愛遮蔽判斷（II），也呈現君主拒諫、誤用近臣的領導失敗（V），三層各非彼此替代",
+      "co_domains": [
+        "IV",
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "悔過",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#143-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "穴深尋則人之臂必不能極矣，是何也？不至故也。智亦有所不至。所不至，說者雖辯，為道",
+      "note": "「智亦有所不至」指出人的認知有邊界，屬於對自身能力限度的認識（II）；「說者雖辯，為道雖精，不能見矣」又說明教說無法越過受者理解範圍（VIII）",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "悔過",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#143-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "昔秦繆公興師以襲鄭，蹇叔諫曰：“不可。臣聞之，襲國邑，以車不過百里，以人不過三十",
+      "note": "繆公之敗被收束為「智不至也。智不至則不信」，把拒諫歸因於認知所不及（II）；「言之不信，師之不反也從此生」顯示領導者不信忠告造成軍政決策災難（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "去宥",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#146-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "東方之墨者謝子將西見秦惠王。惠王問秦之墨者唐姑果。唐姑果恐王之親謝子賢於己也，對",
+      "note": "惠王「不以善為之愨，而徒以取少主為之悖」顯示先入之見取代內容判斷（II），並使君主「失所以為聽」而誤國（V）；末句「人之老也，形益衰，而智益盛」另直接談老年身體衰退與心智增長（X），三者各有獨立句證",
+      "co_domains": [
+        "V",
+        "X"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "去宥",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#146-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "鄰父有與人鄰者，有枯梧樹。其鄰之父言梧樹之不善也，鄰人遽伐之。鄰父因請而以為薪。",
+      "note": "鄰人因求薪而反疑樹議、攫金者「殊不見人，徒見金耳」，兩例都把偏執遮蔽知覺具體化；「人有所宥者，固以晝為昏，以白為黑」及「必別宥然後知」直接處理自欺偏見與恢復判斷（II）",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "正名",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#147-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "名正則治，名喪則亂。使名喪者，淫說也。說淫則可不可而然不然，是不是而非不非。故君",
+      "note": "「說淫則可不可而然不然，是不是而非不非」說語言可扭曲是非與名實（II）；「名正則治，名喪則亂」把這種辨名責任連到公共秩序（V），末段並規定君子之說的界限",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "正名",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#147-p02",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "凡亂者，刑名不當也。人主雖不肖，猶若用賢，猶若聽善，猶若為可者。其患在乎所謂賢、",
+      "note": "「其患在乎所謂賢、從不肖也，所為善、而從邪辟」指出君主以錯名自以為用賢聽善，是名實與自我判斷的錯置（II）；齊王因而信任、任用錯人，落在領導與用人（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "正名",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#147-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "尹文見齊王。齊王謂尹文曰：『寡人甚好士。』尹文曰：『願聞何謂士？』王未有以應。尹",
+      "note": "「事親則孝，事君則忠，交友則信，居鄉則悌」把士的德性拆成具體關係行為（VII）；「未失其四行也」卻被王改稱為辱，揭出士之名與實、君主自相矛盾的認定（II）；「民無罪則罰之」又落到公共刑罰不公（V），三格各承一層",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "長攻",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#152-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "此三君者，其有所自而得之。不備遵理，然而後世稱之，有功故也。有功於此而無其失，雖",
+      "note": "「不備遵理，然而後世稱之，有功故也」直指後世會因成果而給人美名，把人物評價如何受成功遮蔽與功業本身並置來談",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "慎人",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#153-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "舜之耕漁，其賢不肖與為天子同。其未遇時也，以其徒屬，堀地財，取水利，編蒲葦，結罘",
+      "note": "舜由勞作凍餒轉為天子而「賢非加也」，即使盡無天下也「賢非損也」；「時使然也」明把自身賢德與處境、名位的變化分開",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "慎人",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#153-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "百里奚之未遇時也，亡虢而虜晉，飯牛於秦，傳鬻以五羊之皮。公孫枝得而說之，獻諸繆公",
+      "note": "百里奚被任用後「謀無不當，舉必有功，非加賢也」，說被看見前後其才德未變；「人主之欲求士者，不可不務博」再把這一辨識問題落到領導者廣求人才的責任",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "遇合",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#154-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "陳有惡人焉，曰敦洽讎糜，雄顙廣顏，色如浹赬，垂眼臨鼻，長肘而盭。陳侯見而甚說之，",
+      "note": "陳侯因私愛讓敦洽讎糜治國，終致「三月然後喪」，呈現好惡與外觀如何扭曲能力判斷；末以「凡舉人之本，太上以志，其次以事，其次以功」提出領導者選人的評量次序",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "必己",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#155-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "君子之自行也，敬人而不必見敬，愛人而不必見愛。敬愛人者，己也；見敬愛者，人也。君",
+      "note": "「敬人而不必見敬，愛人而不必見愛」區分自己的行動與他人的反應；「君子必在己者，不必在人者也」把可依靠之處放回自身，明說如何面對不可控的外在回應",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "用眾",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#160-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "物固莫不有長，莫不有短。人亦然。故善學者，假人之長以補其短。故假人者遂有天下。",
+      "note": "「物固莫不有長，莫不有短。人亦然」明說每個人都有長短；「善學者，假人之長以補其短」把承認自身不足連到借他人之長的學習",
       "co_domains": [
         "VIII"
       ]

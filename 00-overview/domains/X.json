@@ -2,9 +2,9 @@
   "domain": "X",
   "name_zh": "無常·老·死·失去",
   "gist": "老與時間、失去與哀傷、死亡、耐心與等待",
-  "generated_at": "2026-08-24T14:54:44+00:00",
-  "para_count": 326,
-  "book_count": 23,
+  "generated_at": "2026-08-24T23:05:11+00:00",
+  "para_count": 350,
+  "book_count": 24,
   "surveyed_zero_hit": [
     "dengxizi",
     "duduan",
@@ -1096,6 +1096,360 @@
       "note": "丈夫死後她哀哭無歸並拒絕更二，整段把喪偶失依與夫妻承諾本身寫成問題",
       "co_domains": [
         "III"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "盡數",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#12-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "二曰：天生陰陽寒暑燥濕，四時之化，萬物之變，莫不為利，莫不為害。聖人察陰陽之宜，",
+      "note": "「精神安乎形，而年壽得長焉」把身體安適與壽命相連，又說「畢數之務，在乎去害」；五味、情緒與氣候的過度均被列為致病因素，核心是防病並終其天年",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "精通",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#20-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今夫攻者，砥厲五兵，侈衣美食，發且有日矣，所被攻者不樂，非或聞之也，神者先告也。",
+      "note": "本段可有誇張或信仰兩讀；這裡依「非或聞之也，神者先告也」及「死而志氣不安，精或往來也」的直陳，採文本認證神靈預告與死後精氣往來的一讀，故標死亡與超越信仰",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "貴生",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#22-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "越人三世殺其君，王子搜患之，〈王子搜，《淮南記》云「越王翳也」。〉逃乎丹穴。〈《",
+      "note": "在「越人三世殺其君」的死亡風險下，王子搜逃入丹穴並被迫登車，文本說他「惡為君之患」且「不以國傷其生」，以生死危患衡量君位",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "貴生",
+      "para_index": 7,
+      "para_id": "lushi-chunqiu#22-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子華子曰：「全生為上，〈子華子，古體道人。無欲，故全其生。長生是行之上也。〉虧生",
+      "note": "三格各有不可刪的承重句：以「全生為上」及六欲得宜建立生命狀態的高下，少標 I 會漏掉生命本末；「辱莫大於不義」把是否守義列為品格界線，少標 VII 會漏掉善惡裁斷；「迫生不若死」直接比較屈辱苟生與死亡，少標 X 會漏掉死生取捨",
+      "co_domains": [
+        "I",
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "情欲",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#23-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古人得道者，生以壽長，〈體道無欲象天，天予之福，故必壽長，終其性命。〉聲色滋味，",
+      "note": "「耳不可以聽，目不可以視，口不可以食」是人的身體失能，且「胸中大擾，妄言想見」「臨死之上，顛倒驚懼」分別承載內在擾亂與臨死恐懼；三者拿掉任一都會少掉本段的身體、情緒或死亡面向",
+      "co_domains": [
+        "VI",
+        "IX"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "恃君",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#26-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "柱厲叔事莒敖公，自以為不知，而去居於海上，夏日則食菱芡，冬日則食橡栗。莒敖公有難",
+      "note": "柱厲叔以「吾將死之以醜後世人主之不知其臣者也」選擇赴死，既批評主上不識臣，也以死亡實踐忠義；「行激節厲，忠臣幸於得察」再收回領導與品格後果",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "長利",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#27-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "戎夷違齊如魯，天大寒而後門，與弟子一人宿於郭外，寒愈甚，謂其弟子曰：「子與我衣，",
+      "note": "戎夷「解衣與弟子，夜半而死」以自身死亡救弟子；收束「欲利人之心，不可以加矣」與「以必死見其義」把死亡選擇明確評為仁愛守義，故標 X、VII，不因「太息」另標 VI",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "知分",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#28-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "達士者，達乎死生之分。達乎死生之分，則利害存亡弗能惑矣。故晏子與崔杼盟而不變其義",
+      "note": "「達乎死生之分，則利害存亡弗能惑矣」把理解死亡連到安定；晏子「不變其義」及孫叔敖「不喜」「不憂」分別呈現守義與不受得失擾動，因此 X、VII、XIII 各有獨立承重句",
+      "co_domains": [
+        "VII",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "知分",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#28-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "荊有次非者，得寶劍于干遂，還反涉江，至於中流，有兩蛟夾繞其船。次非謂舟人曰：「子",
+      "note": "次非明知蛟患仍「赴江刺蛟，殺之而復上船，舟中之人皆得活」，並以「余奚愛焉」放下保身；故事以面對死亡危險救眾人的選擇呈現勇義",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "知分",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#28-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "禹南省，方濟乎江，黃龍負舟。舟中之人，五色無主。禹仰視天而歎曰：「吾受命於天，竭",
+      "note": "禹以「生，性也；死，命也。余何憂於龍焉」面對死亡，後文又說困達是「不得不然之數」；「古聖人不以感私傷神，俞然而以待耳」給出接受命限而安處的方式，X、XI、XIII 缺一會少掉一層",
+      "co_domains": [
+        "XI",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "知分",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#28-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "晏子與崔杼盟，其辭曰：「不與崔氏而與公孫氏者受其不祥」。晏子俛而飲血，仰而呼天曰",
+      "note": "「命也者，不知所以然而然者也，人事智巧以舉錯者不得與焉」界定不可控制的命；在刀兵死亡威脅中，晏子仍說「疾不必生，徐不必死」，最後「以義為之決而安處之」，分別承載死亡、命運與安處",
+      "co_domains": [
+        "XI",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "審為",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#37-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "身者所為也，天下者所以為也，審所以為而輕重得矣。今有人於此，斷首以易冠，殺身以易",
+      "note": "「身者所為也，天下者所以為也」先辨目的與手段；「危身傷生、刈頸斷頭以徇利」則把逐利寫成錯置生命輕重，明涉存在本末與死亡代價",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "審為",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#37-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "太王亶父居邠，狄人攻之，事以皮帛而不受，事以珠玉而不肯，狄人之所求者地也。太王亶",
+      "note": "太王說「不以所以養害所養」而棄地保民，段末又斷「雖富貴不以養傷身，雖貧賤不以利累形」；核心是生命與富貴利祿孰重及避免失生",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "似順",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#52-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "田成子之所以得有國至今者，有兄曰完子，仁且有勇。越人興師誅田成子曰：「奚故殺君而",
+      "note": "完子計畫以戰敗和賢良盡死換取田成子政權安定，作者因此指出「夫死敗，人之所惡也，而反以為安」；死亡這項普遍所惡之事，在權力算計中竟被倒置為安全手段。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "務大",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#59-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "鄭君問於被瞻曰：「聞先生之義，不死君，不亡君，信有之乎？」被瞻對曰：「有之。夫言",
+      "note": "被瞻以「言不聽，道不行，則固不事君」界定臣下責任，又說若「言聽道行，又何死亡哉」；結語認為不為君枉死者反而更賢，正面處理忠誠與死亡的取捨",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "適音",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#73-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫樂（之）有適，心（非）〔亦〕有適。人之情，欲壽而惡夭，欲安而惡危，欲榮而惡辱，",
+      "note": "「人之情，欲壽而惡夭，欲安而惡危，欲榮而惡辱，欲逸而惡勞」明列普遍欲惡，並說四欲得、四惡除則心適；其中壽夭與安危也使生存、死亡成為承重內容",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "論威",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#76-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人情欲生而惡死，欲榮而惡辱。死生榮辱之道一，則三軍之士可使一心矣。",
+      "note": "「人情欲生而惡死，欲榮而惡辱」直接宣告普遍的欲惡，既說內在趨避，也以生死為其核心對象；後文把它用於三軍不抹去這一人情判斷",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "節喪",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#86-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "審知生，聖人之要也；審知死，聖人之極也。知生也者，不以害生，養生之謂也；知死也者",
+      "note": "「知生也者，不以害生，養生之謂也；知死也者，不以害死，安死之謂也」把如何理解生命與死亡並列為人的根本課題，既論生命的本末，也正面處理死亡",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "節喪",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#86-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡生於天地之間，其必有死。所不免也。孝子之重其親也，慈親之愛其子也，痛於肌骨，性",
+      "note": "「凡生於天地之間，其必有死」先確認死亡不可免，又以「孝子之重其親也，慈親之愛其子也，痛於肌骨，性也」說明親子之愛與不忍棄死者之情如何生成葬義",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "安死",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#87-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "世之為丘壟也，其高大若山，其樹之若林，其設闕庭、為宮室、造賓阼也若都邑，以此觀世",
+      "note": "「夫死，其視萬歲猶一瞚也」以死後的無窮尺度反觀「久之不過百」的人壽，指出以短促生年規劃死亡必然失當，承重在有限生命與死亡的尺度",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "安死",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#87-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今有人於此，為石銘置之壟上，曰：“此其中之物，具珠玉玩好財物寶器甚多，不可不抇，",
+      "note": "「未有不亡之國也；無不亡之國者，是無不抇之墓也」由國必亡推到厚墓終必被掘，所說的是財富、國家與墓葬都逃不過時間流失的無常",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "介立",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#120-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "東方有士焉曰爰旌目，將有適也，而餓於道。狐父之盜曰丘，見而下壺餐以餔之。爰旌目三",
+      "note": "爰旌目得知食物出自盜者後稱「吾義不食子之食也」，吐食而死；段末以眾人「冀幸以得活」反襯其「惡其義而不肯不死」，直接處理守義與求生、死亡間的選擇。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "去宥",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#146-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "東方之墨者謝子將西見秦惠王。惠王問秦之墨者唐姑果。唐姑果恐王之親謝子賢於己也，對",
+      "note": "惠王「不以善為之愨，而徒以取少主為之悖」顯示先入之見取代內容判斷（II），並使君主「失所以為聽」而誤國（V）；末句「人之老也，形益衰，而智益盛」另直接談老年身體衰退與心智增長（X），三者各有獨立句證",
+      "co_domains": [
+        "II",
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "本味",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#149-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "伯牙鼓琴，鍾子期聽之，方鼓琴而志在太山，鍾子期曰：“善哉乎鼓琴，巍巍乎若太山。”",
+      "note": "鍾子期能聽出伯牙「志在太山」「志在流水」，承載被理解的知音關係；「鍾子期死，伯牙破琴絕弦，終身不復鼓琴」承載失去；末句「無禮以接之，賢奚由盡忠」再轉到禮遇人才。三格各對應知音、死亡失落與用人轉論，不能互相替代",
+      "co_domains": [
+        "III",
+        "V"
       ]
     },
     {

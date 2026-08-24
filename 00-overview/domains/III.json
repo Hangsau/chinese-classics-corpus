@@ -2,9 +2,9 @@
   "domain": "III",
   "name_zh": "愛與親密",
   "gist": "愛與性、被拒絕、承諾、信任與脆弱、溝通與被理解",
-  "generated_at": "2026-08-24T14:54:44+00:00",
-  "para_count": 126,
-  "book_count": 18,
+  "generated_at": "2026-08-24T23:05:11+00:00",
+  "para_count": 146,
+  "book_count": 19,
   "surveyed_zero_hit": [
     "dengxizi",
     "duduan",
@@ -810,6 +810,299 @@
       "note": "頌以淫通、淫亂及維女為亂明斥關係背叛與惡行，而不只是列殺人結果",
       "co_domains": [
         "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "壹行",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#49-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "先王所惡，無惡於不可知，不可知則君臣、父子、兄弟、朋友、夫妻之際敗矣。十際皆敗，",
+      "note": "「不可知則君臣、父子、兄弟、朋友、夫妻之際敗矣」逐項說明行止不可預期會破壞人倫：夫妻承重於親密（III），父子兄弟承重於家庭（IV），君臣朋友承重於群體關係（V）；拿掉任一格都會漏掉本段明列的一類關係。",
+      "co_domains": [
+        "IV",
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "士容",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#58-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊有善相狗者，其鄰假以買取鼠之狗，期年乃得之，曰：「是良狗也。」其鄰畜之數年，而",
+      "note": "良狗「其志在獐麋豕鹿，不在鼠」用來映照人的內在志向；「人亦然。誠有之則神應乎人矣，言豈足以諭之哉」主張真實心志能被感知，語言未必足以使人理解",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "報更",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#127-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孟嘗君前在於薛，荊人攻之。淳于髡為齊使於荊，還反，過於薛。孟嘗君令人禮貌而親郊送",
+      "note": "淳于髡不直請救薛，而以“先君之廟在焉”所觸及的急處使齊王自悟；收束「見人之急也，若自在危厄之中」與「任不獨在所說，亦在說者」把設身處地及溝通責任說成說者本身的能力。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "順說",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#128-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "惠盎見宋康王。康王蹀足謦欬，疾言曰：“寡人之所說者勇有力，而無為仁義者。客將何以",
+      "note": "惠盎逐層順著宋王所欲，把好勇引到使人「本無其志」及天下人相愛利；結語「宋王，俗主也，而心猶可服」明說人的心可以經溝通而轉變，不只是一份遊說步驟。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "貴因",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#130-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "武王入殷，聞殷有長者。武王往見之，而問殷之所以亡。殷長者對曰：“王欲知之，則請以",
+      "note": "殷長者不忍「以其惡告王」，便以失約的行動示範亡國之由；周公由「期而不當，言而不信」讀懂未明說的訊息，段落同時承重於忠厚守信的品格與間接溝通。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "審應",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#132-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魏昭王問於田詘曰：「寡人之在東宮之時，聞先生之議曰：『為聖易。』有諸乎？」田詘對",
+      "note": "「昭王有非其有，田詘不察」指出田詘把對方未曾宣稱的自我位置塞回問話，承重於身分判斷與溝通誤置",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "重言",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#133-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊桓公與管仲謀伐莒，謀未發而聞於國，桓公怪之曰：「與仲父謀伐莒，謀未發而聞於國，",
+      "note": "「君子有三色」逐一把喜樂、清靜與兵革之意連到面色手足，末稱「聽於無聲，視於無形」，明說內在情志會由非語言線索傳達",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "精諭",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#134-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "三曰──聖人相諭不待言，有先言言者也。海上之人有好蜻者，每居海上，從蜻游，蜻之至",
+      "note": "開頭直言「聖人相諭不待言，有先言言者也」；父親一起取之心後「蜻無至者」，用故事表明意圖在話語之前已會改變信任與互動",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "精諭",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#134-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "勝書說周公旦曰：「廷小人眾，徐言則不聞，疾言則人知之，徐言乎？疾言乎？」周公旦曰",
+      "note": "「口㖧不言，以精相告」寫無聲傳意；「同惡同好，志皆有欲，雖為天子，弗能離矣」又明說共同好惡與志欲能結成不易拆散的群體聯結",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "精諭",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#134-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孔子見溫伯雪子，不言而出。子貢曰：「夫子之欲見溫伯雪子好矣，今也見之而不言，其故",
+      "note": "「目擊而道存矣，不可以容聲矣」及「見其人而心與志皆見」都把彼此理解放在直接相知而非言語交換上，所承重的是非言語溝通",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "精諭",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#134-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "白公問於孔子曰：「人可與微言乎？」孔子不應。白公曰：「若以石投水奚若？」孔子曰：",
+      "note": "孔子以「唯知言之謂者為可耳」限定能否微言，後文再說「言者，謂之屬也」「至言去言」，主張理解應越過字面而把握所指之意",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "精諭",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#134-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊桓公合諸侯，衛人後至。公朝而與管仲謀伐衛，退朝而入，衛姬望見君，下堂再拜，請衛",
+      "note": "衛姬由「足高氣彊」與「動色」、管仲由「有慚色」察知桓公心志，末稱二人分別以「容貌音聲」「行步氣志」讀出未說出口的情緒與意圖",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "精諭",
+      "para_index": 6,
+      "para_id": "lushi-chunqiu#134-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "晉襄公使人於周曰：「弊邑寡君寢疾，卜以守龜曰：『三塗為祟。』弊邑寡君使下臣願藉途",
+      "note": "使者口稱祈福而現「客武色」，故以「形名不相當」指出表象與實意不合；「言不足以斷小事」則要求從語言之外辨認真實意圖",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "離謂",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#135-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "四曰──言者，以諭意也。言意相離，凶也。亂國之俗，甚多流言，而不顧其實，務以相毀",
+      "note": "「言意相離，凶也」指出話語與意圖斷裂會擾亂判斷；「惑者之患，不自以為惑」更直接說出迷惑者無法辨認自身迷惑的自欺狀態",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "離謂",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#135-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊有事人者，所事有難而弗死也，遇故人於塗。故人曰：「固不死乎？」對曰：「然。凡事",
+      "note": "事君者以「凡事人以為利也。死不利，故不死」替背義辯解，文本判為「大不義」；「得其意則舍其言」又要求聽者越過辭面察看真實用心",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "淫辭",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#136-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "五曰──非辭無以相期，從辭則亂。亂辭之中又有辭焉，心之謂也。言不欺心，則近之矣。",
+      "note": "「凡言者，以諭心也」界定言語本為傳心；「所言非所行也，所行非所言也」及「言行相詭」則把溝通失真落實為不誠實的品格問題",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "不屈",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#137-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "白圭新與惠子相見也，惠子說之以彊，白圭無以應。惠子出。白圭告人曰：「人有新取婦者",
+      "note": "白圭批評初見便「說我有大甚者」，惠子卻以自居父母的更大說教反擊；「誹者與所非同也」指出批評者若沿用同一過度方式，品格上便重犯所非",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "具備",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#139-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "宓子賤治亶父，恐魯君之聽讒人，而令己不得行其術也。將辭而行，請近吏二人於魯君，與",
+      "note": "掣肘之喻使魯君察覺自己妨礙宓子，後文以「誠乎此者刑乎彼」「誠有誠乃合於情」說明真誠能使心意相通並影響他人；收束「說與治之務莫若誠」承重於溝通與誠信，並非認證超越力量",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "本味",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#149-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "伯牙鼓琴，鍾子期聽之，方鼓琴而志在太山，鍾子期曰：“善哉乎鼓琴，巍巍乎若太山。”",
+      "note": "鍾子期能聽出伯牙「志在太山」「志在流水」，承載被理解的知音關係；「鍾子期死，伯牙破琴絕弦，終身不復鼓琴」承載失去；末句「無禮以接之，賢奚由盡忠」再轉到禮遇人才。三格各對應知音、死亡失落與用人轉論，不能互相替代",
+      "co_domains": [
+        "V",
+        "X"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "遇合",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#154-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "人有為人妻者。人告其父母曰：“嫁不必生也。衣器之物，可外藏之，以備不生。”其父母",
+      "note": "女子外藏財物被逐，顯示親密關係中的好意會被讀成「外心」；「遇合也無常」以下又以美醜、甘脆、大臭有人喜歡及文王三年習慣昌蒲葅，說關係是否相合與偏好都非固定必然",
+      "co_domains": [
+        "XI"
       ]
     },
     {

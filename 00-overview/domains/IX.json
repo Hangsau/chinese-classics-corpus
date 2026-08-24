@@ -2,9 +2,9 @@
   "domain": "IX",
   "name_zh": "苦難·疾病·身體",
   "gist": "疾病與身體、受苦的意義、照顧與被照顧",
-  "generated_at": "2026-08-24T14:54:44+00:00",
-  "para_count": 148,
-  "book_count": 23,
+  "generated_at": "2026-08-24T23:05:11+00:00",
+  "para_count": 163,
+  "book_count": 24,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -745,6 +745,216 @@
       "co_domains": [
         "V",
         "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "本生",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#02-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "今有聲於此，耳聽之必慊，〈慊，快也。〉已聽之則使人聾，必弗聽。〈以聾，故不當聽也",
+      "note": "段落以悅耳、悅目、適口卻導致「聾」「盲」「瘖」說明感官享受可傷身，並主張「利於性則取之，害於性則舍之」；這同時承載身體利害與節制取捨的品格判斷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "本生",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#02-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "萬人操弓，共射一招，招無不中。〈招，埻的也。眾人所見，會弓射之，故曰無不中也。〉",
+      "note": "「故聖人之制萬物也，以全其天也」以下具體寫到「目明」「耳聰」「三百六十節皆通利」的全身狀態，又以「上為天子而不驕，下為匹夫而不惛」拆出不因地位失守的行為，故收束為「全德之人」",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "本生",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#02-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "貴富而不知道，適足以為患，〈不知持盈止足之道，以至破亡，故曰「適足以為患」。〉不",
+      "note": "「貴富而不知道，適足以為患」以下把奢逸、厚酒與聲色分別稱為「招蹷之機」「爛腸之食」「伐性之斧」，寫出身體代價；末言不肯貴富「由重生故也，非夸以名也，為其實也」，明定生命重於富貴虛名",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "重己",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#03-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "室大則多陰，臺高則多陽，多陰則蹷，〈蹶，逆寒疾也。〉多陽則痿，〈痿，躄不能行也。",
+      "note": "「多陰則蹷，多陽則痿」及「理塞則氣不達」具體說明居處、衣食失度造成的身體病患；先王讓宮室、輿馬、飲食、聲色各止於所需，末句明言「非好儉而惡費也，節乎性也」，把身體養護連到節制",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "盡數",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#12-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "二曰：天生陰陽寒暑燥濕，四時之化，萬物之變，莫不為利，莫不為害。聖人察陰陽之宜，",
+      "note": "「精神安乎形，而年壽得長焉」把身體安適與壽命相連，又說「畢數之務，在乎去害」；五味、情緒與氣候的過度均被列為致病因素，核心是防病並終其天年",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "盡數",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#12-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "流水不腐，戶樞不螻，動也。形氣亦然，形不動則精不流，精不流則氣鬱。鬱處頭則為腫為",
+      "note": "「形不動則精不流，精不流則氣鬱」建立不動、氣鬱與病變的身體機制，並具體列出頭、耳、目、鼻、腹、足所生諸疾；身體失動致病是整段主題而非偶然詞面",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "盡數",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#12-p04",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "輕水所多禿與癭人，重水所多尰與躄人，甘水所多好與美人，辛水所多疽與痤人，苦水所多",
+      "note": "「輕水所多禿與癭人」至「苦水所多尪與傴人」逐類觀察水質與禿、癭、尰、躄、疽、痤等身體處境的關聯，疾病形態是全段的觀察對象",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "盡數",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#12-p05",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "凡食無（疆）〔彊〕厚，味無以烈味重酒，是以謂之疾首。食能以時，身必無災。凡食之道",
+      "note": "「食能以時，身必無災」並規定「無飢無飽」、小口飲咽與端直姿勢，整段直接給出維持身體安適、避免疾病的飲食處方",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "盡數",
+      "para_index": 6,
+      "para_id": "lushi-chunqiu#12-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今世上卜筮禱祠，故疾病愈來。譬之若射者，射而不中，反修于招，何益於中？夫以湯止沸",
+      "note": "「今世上卜筮禱祠，故疾病愈來」否定以占禱處理疾病，並以「去其火則止矣」主張回到可改變的病因；它同時關乎治病與把療效從儀式推回人的因果行動，且不認證神聖力量",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "先己",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#13-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "（二）〔三〕曰：湯問於伊尹曰：「欲取天下若何？」伊尹對曰：「欲取天下，天下不可取",
+      "note": "伊尹以「可取，身將先取」把外在事業的根本放回自身，接著說「必先治身」並以腠理通、邪氣去、終天年具體說明身體修養",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "貴生",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#22-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "堯以天下讓於子州支父。〈子州支父，古賢人也。〉子州支父對曰：「以我為天子猶可也。",
+      "note": "子州支父因「適有幽憂之病，方將治之」而拒絕天下，注文又明釋「我心不悅」；結語「不以天下害其生」把親身病況與生命高於權位的取捨連在一起",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "情欲",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#23-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "俗主虧情，故每動為亡敗。〈俗主，凡君也。敗，滅亡也。〉耳不可贍，目不可厭，口不可",
+      "note": "「身盡府種，筋骨沈滯，血脈壅塞」把縱欲落在俗主自身的病痛，支持 IX；「意氣易動，蹻然不固」與「愁心勞耳目」支持 VI；「胸中欺詐」「德義之緩，邪利之急」另對品格下判斷，支持 VII",
+      "co_domains": [
+        "VI",
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "情欲",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#23-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古人得道者，生以壽長，〈體道無欲象天，天予之福，故必壽長，終其性命。〉聲色滋味，",
+      "note": "「耳不可以聽，目不可以視，口不可以食」是人的身體失能，且「胸中大擾，妄言想見」「臨死之上，顛倒驚懼」分別承載內在擾亂與臨死恐懼；三者拿掉任一都會少掉本段的身體、情緒或死亡面向",
+      "co_domains": [
+        "VI",
+        "X"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "古樂",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#74-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "昔陶唐氏之始，陰多滯伏而湛積，（水）〔陽〕道壅塞，不行其（原）〔序〕，民氣鬱閼而",
+      "note": "此處採身體機制一讀：文本不只交代舞的沿革，還明寫人有「民氣鬱閼而滯著，筋骨瑟縮不達」的身體困境，並以作舞「宣導之」作為解除方法",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "明理",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#84-p03",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "其雲狀：有若犬、若馬、若白鵠、若眾車；有其狀若人，蒼衣赤首，不動，其名曰天（衡）",
+      "note": "「上帝降禍，凶災必亟」明確認證上帝因亂降禍，成立 XII；末引「夫亂世之民，長短頡𢆖，百疾，民多疾癘」把亂世後果落到人民實際的疾病與身體殘損，成立 IX",
+      "co_domains": [
+        "XII"
       ]
     },
     {

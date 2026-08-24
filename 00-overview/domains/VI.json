@@ -2,9 +2,9 @@
   "domain": "VI",
   "name_zh": "情緒與內在生活",
   "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡",
-  "generated_at": "2026-08-24T14:54:44+00:00",
-  "para_count": 610,
-  "book_count": 28,
+  "generated_at": "2026-08-24T23:05:11+00:00",
+  "para_count": 661,
+  "book_count": 29,
   "surveyed_zero_hit": [
     "dongmingji",
     "duduan",
@@ -3525,6 +3525,745 @@
       "co_domains": [
         "III",
         "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "蕩兵",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#07-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "且兵之所自來者遠矣，未嘗少選不用，貴賤長少賢者不肖相與同，有巨有微而已矣。察兵之",
+      "note": "「在心而未發，兵也；疾視，兵也；作色，兵也；傲言，兵也」把爭鬥追到未發的內在及外顯反應；「終身用兵而不自知」又明指人可能看不見自己的攻擊性",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "精通",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#20-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "養由基射先，中石，矢乃飲羽，誠乎先也。伯樂學相馬，所見無非馬者，誠乎馬也。宋之庖",
+      "note": "三條內容都由本段明說而不可省：養由基、伯樂與庖丁的「誠乎」及十九年用刀寫專注成就技藝，少標 VIII 就漏掉才能精熟；「悲存乎心而木石應之」寫內在悲情的傳達，少標 VI 就漏掉情緒經驗；「父母之於子也，子之於父母也，一體而兩分」並收於「此之謂骨肉之親」，直接成立 IV",
+      "co_domains": [
+        "IV",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "情欲",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#23-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天生人而使有貪有欲。欲有情，情有節。〈節，適也。〉聖人修節以止欲，〈「止」一作「",
+      "note": "「天生人而使有貪有欲」與「貴賤愚智賢不肖欲之若一」把欲望說成人所共有的內在樣態；「聖人修節以止欲」又把節制說成可修養的品格，因此標 VI、VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "情欲",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#23-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "俗主虧情，故每動為亡敗。〈俗主，凡君也。敗，滅亡也。〉耳不可贍，目不可厭，口不可",
+      "note": "「身盡府種，筋骨沈滯，血脈壅塞」把縱欲落在俗主自身的病痛，支持 IX；「意氣易動，蹻然不固」與「愁心勞耳目」支持 VI；「胸中欺詐」「德義之緩，邪利之急」另對品格下判斷，支持 VII",
+      "co_domains": [
+        "VII",
+        "IX"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "情欲",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#23-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古人得道者，生以壽長，〈體道無欲象天，天予之福，故必壽長，終其性命。〉聲色滋味，",
+      "note": "「耳不可以聽，目不可以視，口不可以食」是人的身體失能，且「胸中大擾，妄言想見」「臨死之上，顛倒驚懼」分別承載內在擾亂與臨死恐懼；三者拿掉任一都會少掉本段的身體、情緒或死亡面向",
+      "co_domains": [
+        "IX",
+        "X"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "功名",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#25-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "（疆）〔彊〕令之笑，不樂，（疆）〔彊〕令之哭，不悲。（疆）〔彊〕令之為道也，可以",
+      "note": "「（疆）〔彊〕令之笑，不樂，（疆）〔彊〕令之哭，不悲」分開受強制的外在表情與真實情緒；「（疆）〔彊〕令之為道也，可以成小，而不可以成大」也指出權力強迫的限度",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "功名",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#25-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "大寒既至，民煗是利；大熱在上，民清是走。故民無常處，見利之聚，無〔利〕之去。欲為",
+      "note": "「民無常處，見利之聚，無〔利〕之去」明說人民會依可得利益選擇歸附，並以「民絕望矣」寫出無處可走時的內在結果；不只剩下如何稱王的政策步驟",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "達鬱",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#30-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "管仲觴桓公。日暮矣，桓公樂之而徵燭。管仲曰：「臣卜其晝，未卜其夜。君可以出矣。」",
+      "note": "「厚於味者薄於德，沈於樂者反於憂」直接連起享樂、憂患與品格；管仲在「今主欲留而不許」時仍「貴樂弗為變」，以克制欲樂的行為守其德",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "行論",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#31-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "堯以天下讓舜。鯀為諸侯，怒於堯曰：「得天之道者為帝，得地之道者為三公。今我得地之",
+      "note": "鯀「怒甚猛獸，欲以為亂」，禹則「不敢怨，而反事之」；敘事用受挫後的憤怒反叛與克制盡職作對照，落在人如何處理怨怒及其品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "觀表",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#33-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡論人心，觀事傳，不可不熟，不可不深。天為高矣，而日月星辰雲氣雨露未嘗休矣；地為",
+      "note": "「事隨心，心隨欲。欲無度者，其心無度」把行為連到難測的欲與心；「非神非幸，其數不得不然」把看似神幸的結果還原為可察徵表，故標內在生活與改變／命運，不含 XII",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "觀表",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#33-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "吳起治西河之外，王錯譖之於魏武侯，武侯使人召之。吳起至於岸門，止車而休，望西河，",
+      "note": "吳起說「君誠知我，而使我畢能」本可成事，今卻「聽讒人之議，而不知我」；「先見而泣」不是套語，而是才不得展且預見敗局的哀痛",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "審為",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#37-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "韓、魏相與爭侵地。子華子見昭釐侯，昭釐侯有憂色。子華子曰：「今使天下書銘於君之前",
+      "note": "子華子由「兩臂重於天下也，身又重於兩臂」推到不應為小地「愁身傷生以憂之」，以身與外物的輕重重整君主的憂懼",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "審為",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#37-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "中山公子牟謂詹子曰：「身在江海之上，心居乎魏闕之下，奈何？」詹子曰：「重生。重生",
+      "note": "公子牟自承「雖知之，猶不能自勝」，詹子答「不能自勝則縱之」並警告強抑為「重傷」；文本正面處理內在衝突與不能克服時如何安頓",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "貴直",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#40-p03",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "狐援說齊湣王曰：「殷之鼎陳於周之廷，其社蓋於周之屏，其干戚之音，在人之游。亡國之",
+      "note": "狐援「哭國三日」且作者明說「哀社稷與民人，故出若言」，承重其哀痛（VI）；「將以救敗也」是公共責任（V）；明知「固嫌於危」仍直言是守直品格（VII）。三者各少一格就會少掉情感動機、救國責任或冒險守直",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "直諫",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#41-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "荊文王得茹黃之狗，宛路之矰，以畋於雲夢，三月不反；得丹之姬，淫，期年不聽朝。葆申",
+      "note": "葆申明說「君子恥之，小人痛之。恥之不變，痛之何益？」把羞恥與肉體疼痛區分為不同的內在反應，並以文王「乃變更」說明知恥如何促成人格改過。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "知化",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#42-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "吳王夫差將伐齊，子胥曰：「不可。夫齊之與吳也，習俗不同，言語不通，我得其地不能處",
+      "note": "夫差先拒絕子胥之言，敗亡時才說「吾何面以見子胥於地下」；末句「故夫差之知慚於子胥也，不若勿知」把過晚的自知與羞慚寫成比無知更痛切的內在結局。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "壅塞",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#44-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "秦繆公時，戎彊大，秦繆公遺之女樂二八與良宰焉。戎王大喜，以其故，數飲食，日夜不休",
+      "note": "戎王因女樂而「數飲食，日夜不休」，甚至射擊報警者；「未擒則不可知，已擒則又不知」把沉溺享樂造成的認知封閉寫成一種到受擒仍不醒悟的內在狀態。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "壹行",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#49-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "強大未必王也，而王必強大。王者之所藉以成也何？藉其威與其利。非強大則其威不威，其",
+      "note": "「人之情不能愛其所疑」直接說出疑懼會阻斷信任與愛；全文再以強國、小國及王者的存亡說明可預期的行為如何維持政治關係。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "有度",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#54-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "三曰：賢主有度而聽，故不過。有度而以聽，則不可欺矣，不可惶矣，不可恐矣，不可喜矣",
+      "note": "「昏乎其所未知」使人「易欺矣，可惶矣，可恐矣，可喜矣」，文本把知之不審說成受欺與惶恐、喜動的內在根源",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "有度",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#54-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "先王不能盡知，執一而萬物治。使人不能執一者，物感之也。故曰：通意之悖，解心之繆，",
+      "note": "「惡、欲、喜、怒、哀、樂六者，累德者也」指出情欲對內在的牽累；其後「正則靜，靜則清明」描寫卸除牽累後由安靜到清明的安頓路徑",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "慎小",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#57-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "六曰：上尊下卑。卑則不得以小觀上。尊則恣，恣則輕小物，輕小物則上無道知下。下無道",
+      "note": "尊卑隔絕造成「上下不相知」，繼而「下怨上」；「人臣之情，不能為所怨；人主之情，不能愛所非」直接說出權力關係中怨、愛與判斷彼此加劇的機制",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "慎小",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#57-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "衛獻公戒孫林父、甯殖食。鴻集于囿，虞人以告，公如囿射鴻。二子待君，日晏，公不來至",
+      "note": "兩位衛君因怠慢臣下、侵奪戎州而積怨致禍，末句「人之情不蹙於山，而蹙於垤」更直接指出人未必被大難逼迫，反會被近身的小屈辱激怒",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "大樂",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#71-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天下太平，萬物安寧，皆化其上，樂乃可成。成樂有具，必節嗜慾。嗜慾不辟，樂乃可務。",
+      "note": "「君臣失位，父子失處，夫婦失宜，民人呻吟」指出關係與秩序失常時，笑、歌、舞也不等於真樂；「平出於公」把共同安寧與人的真實歡樂連在一起",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "大樂",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#71-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡樂，天地之和，陰陽之調也。始生人者天也，人無事焉。天使人有欲，人弗得不求。天使",
+      "note": "「天使人有欲」「天使人有惡」直接把欲惡說成人的天受內在傾向，並斷為「不可變，不可易」；承重在情欲經驗及其不可自選、不可改易",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "侈樂",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#72-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "三曰：人莫不以其生生，而不知其所以生。人莫不以其知知，而不知其所以知。知其所以知",
+      "note": "「人莫不以其知知，而不知其所以知」指出人會使用能力卻不識其根源，並以錯認珠玉為寶類比錯認躁聲為樂；「駭心氣、動耳目、搖蕩生」說明這種自誤造成內在擾動",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "侈樂",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#72-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡古聖王之所為貴樂者，為其樂也。夏桀、殷紂作為侈樂，大鼓鐘磬管簫之音，以鉅為美，",
+      "note": "桀、紂與衰世「務以相過，不用度量」，文本斷言「失樂之情，其樂不樂」且使民怨、生傷；承重在競侈失度的品格及表面聲色不等於真樂的內在判準",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "侈樂",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#72-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "樂之有情，譬之若肌膚形體之有情性也，有情性則必有性養矣。寒溫勞逸饑飽，此六者非適",
+      "note": "「遂而不返，制乎嗜欲」說明人若任由欲望牽制，便生「貪鄙悖亂之心，淫佚姦詐之事」，繼而強凌弱、眾暴寡；欲望失衡與品格敗壞形成明確因果",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "適音",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#73-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "四曰：耳之情欲聲，心不樂，五音在前弗聽。目之情欲色，心弗樂，五色在前弗視。鼻之情",
+      "note": "耳目鼻口雖各有欲，卻在「心不樂」時不聽、不視、不嗅、不食；「心必和平然後樂」並以「和心在於行適」給出調整內在狀態的原理與處方",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "適音",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#73-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫樂（之）有適，心（非）〔亦〕有適。人之情，欲壽而惡夭，欲安而惡危，欲榮而惡辱，",
+      "note": "「人之情，欲壽而惡夭，欲安而惡危，欲榮而惡辱，欲逸而惡勞」明列普遍欲惡，並說四欲得、四惡除則心適；其中壽夭與安危也使生存、死亡成為承重內容",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "適音",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#73-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫音亦有適。太鉅則志蕩，以蕩聽鉅則耳不容，弗容則橫塞，橫塞則振動。太小則志嫌，以",
+      "note": "太鉅、太小、太清、太濁分別使「志蕩」「志嫌」「志危」「志下」，最終可至「怒」；聲音尺度如何改變心志與情緒是本段所說的人之樣態",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "論威",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#76-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人情欲生而惡死，欲榮而惡辱。死生榮辱之道一，則三軍之士可使一心矣。",
+      "note": "「人情欲生而惡死，欲榮而惡辱」直接宣告普遍的欲惡，既說內在趨避，也以生死為其核心對象；後文把它用於三軍不抹去這一人情判斷",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "決勝",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#78-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫民無常勇，亦無常怯。有氣則實，實則勇；無氣則虛，虛則怯。怯勇虛實，其由甚微，不",
+      "note": "「夫民無常勇，亦無常怯」直接否定勇怯為固定屬性；「怯勇無常，儵忽往來」同時說出恐懼與勇氣的內在變動，以及人可因氣勢而改變",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "音初",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#82-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡音者，產乎人心者也。感於心則蕩乎音，音成於外而化乎內，是故聞其聲而知其風，察其",
+      "note": "「凡音者，產乎人心者也。感於心則蕩乎音」直接論聲音與內心的雙向作用；「邪慢之心感矣」及「君子反道以修德」又把音樂連到品格敗壞與修養",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "去尤",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#105-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "世之聽者，多有所尤，多有所尤則聽必悖矣。所以尤者多故，其要必因人所喜，與因人所惡",
+      "note": "「所以尤者多故，其要必因人所喜，與因人所惡」把聽判失真追到個人的喜惡；「意有所在也」又指出注意被既有意向占住，故涉及自我盲點與內在偏好",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "去尤",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#105-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魯有惡者，其父出而見商咄，反而告其鄰曰：“商咄不若吾子矣。”且其子至惡也，商咄至",
+      "note": "魯父「彼以至美不如至惡，尤乎愛也」，顯示愛著會倒置美惡判斷；投金時恐懼又以「外有所重者，泄蓋內掘」指出外在所重會擾亂內在與行動",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "去尤",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#105-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "解在乎齊人之欲得金也，及秦墨者之相妒也，皆有所乎尤也。老聃則得之矣。若植木而立乎",
+      "note": "「齊人之欲得金也，及秦墨者之相妒也，皆有所乎尤也」直接把欲得與相妒列為偏執判斷的來源，說的是內在欲妒如何形成認知盲點",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "離俗",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#110-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊莊公之時，有士曰賓卑聚，夢有壯子，白縞之冠，丹績之䘩，東布之衣，新素履，墨劍室",
+      "note": "賓卑聚僅在夢中受辱便「終夜坐不自快」，並以尋不到辱己者就死來維持自我形象；文本雖說「謂此當務則未也」，仍特別評其「心之不辱」，故涉及榮辱認同與受辱情緒",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "用民",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#113-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "闔廬試其民於五湖，劍皆加於肩，地流血幾不可止；句踐試其民於寑宮，民爭入水火，死者",
+      "note": "闔廬、句踐試民是用兵例證，但末句另說「勇者以工，懼者以拙，能與不能也」，把勇懼差異明確追到熟練與不能，因而同時承重情緒狀態與能力養成",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "適威",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#114-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魏武侯之居中山也，問於李克曰：「吳之所以亡者何也？」李克對曰：「驟戰而驟勝。」武",
+      "note": "「驟戰則民罷，驟勝則主驕」與「罷則怨，怨則極慮」寫出驕恣、疲憊和怨恨的反應；「故禮煩則不莊，業煩則無功，令苛則不聽，禁多則不行」再把過度要求如何破壞服從與成果拆成可辨後果，涉及權力治理與內在情緒。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "慎大",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#124-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "賢主愈大愈懼，愈彊愈恐。凡大者，小鄰國也；彊者，勝其敵也。勝其敵則多怨，小鄰國則",
+      "note": "「賢主愈大愈懼，愈彊愈恐」把權勢增長與恐懼相連；「於安思危，於達思窮，於得思喪」要求掌權者在順境預見風險，承重的是領導責任與內在警覺。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "慎大",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#124-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "趙襄子攻翟，勝老人、中人，使使者來謁之，襄子方食摶飯，有憂色。左右曰：“一朝而兩",
+      "note": "趙襄子得兩城而「有憂色」，並自問「亡其及我乎」；收束的「夫憂所以為昌也，而喜所以為亡也；勝非其難者也，持之其難者也」把面對成功的情緒姿態與能否守成直接相連。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "權勳",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#125-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "中山之國有厹繇者。智伯欲攻之而無道也，為鑄大鐘，方車二軌以遺之。厹繇之君將斬岸堙",
+      "note": "「欲鐘之心勝則安厹繇之說塞矣」明說欲望壓過判斷，使忠告進不了心；「凡聽說，所勝不可不審也」進一步要求察看內心究竟被什麼支配。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "審應",
+      "para_index": 7,
+      "para_id": "lushi-chunqiu#132-p07",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "公子沓相周，申向說之而戰。公子沓訾之曰：「申子說我而戰，為吾相也夫？」申向曰：「",
+      "note": "「戰者，不習也；使人戰者，嚴駔也」分辨緊張失態與他人威逼的來源；「自失不足以難，以嚴駔則可」又把偶然失態和驕厲品格分開評斷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "重言",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#133-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊桓公與管仲謀伐莒，謀未發而聞於國，桓公怪之曰：「與仲父謀伐莒，謀未發而聞於國，",
+      "note": "「君子有三色」逐一把喜樂、清靜與兵革之意連到面色手足，末稱「聽於無聲，視於無形」，明說內在情志會由非語言線索傳達",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "精諭",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#134-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊桓公合諸侯，衛人後至。公朝而與管仲謀伐衛，退朝而入，衛姬望見君，下堂再拜，請衛",
+      "note": "衛姬由「足高氣彊」與「動色」、管仲由「有慚色」察知桓公心志，末稱二人分別以「容貌音聲」「行步氣志」讀出未說出口的情緒與意圖",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "察微",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#145-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魯季氏與郈氏鬥雞。郈氏介其雞，季氏為之金距。季氏之雞不勝。季平子怒，因歸郈氏之宮",
+      "note": "昭公「不知仲、叔氏之恐而與季氏同患也」顯示恐懼如何促成政治結盟（VI）；「不達乎人心，位雖尊，何益於安也」把理解群體動機列為領導與權力運作的條件（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "去宥",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#146-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "荊威王學書於沈尹華，昭釐惡之。威王好制。有中謝佐制者，為昭釐謂威王曰：「國人皆曰",
+      "note": "「數怒人主，以為姦人除路」揭出操弄君主情緒以排除賢者的權力機制（V）；「激主則悖，悖則無君子矣」把被激怒後失度的內在反應說成因果（VI）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "孝行",
+      "para_index": 8,
+      "para_id": "lushi-chunqiu#148-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "樂正子春下堂而傷足，瘳而數月不出，猶有憂色。門人問之曰：“夫子下堂而傷足，瘳而數",
+      "note": "樂正子春「傷足，瘳而數月不出，猶有憂色」，自承「余忘孝道，是以憂」；結語「身者非其私有也，嚴親之遺躬也」使憂愧的內在經驗落在親子孝責上",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "首時",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#150-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "飢馬盈廄，嗼然，未見芻也；飢狗盈窖，嗼然，未見骨也；見骨與芻，動不可禁。亂世之民",
+      "note": "飢馬、飢狗未見食物時嗼然、見之則「動不可禁」，用來說亂世之民見賢者便趨赴，且明言「往者非其形，心之謂乎」；末以「天不再與，時不久留」指出內在趨向須遇短暫時機才發動",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "誣徒",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#159-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "四曰：達師之教也，使弟子安焉、樂焉、休焉、游焉、肅焉、嚴焉。此六者得於學，則邪辟",
+      "note": "「人之情，不能樂其所不安，不能得於其所不樂」把安全、愉悅與持續投入的心理條件明說出來，並以「反諸人情，則得所以勸學矣」用於教學",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "誣徒",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#159-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "不能教者：志氣不和，取舍數變，固無恆心，若晏陰喜怒無處；言談日易，以恣自行，失之",
+      "note": "「志氣不和，取舍數變，固無恆心，若晏陰喜怒無處」描寫不能教者的內在失調，妒惡學生遂使「此師徒相與異心」；又以「不能親其所怨，不能譽其所惡」說明怨惡如何敗壞學業",
+      "co_domains": [
+        "VIII"
       ]
     },
     {
