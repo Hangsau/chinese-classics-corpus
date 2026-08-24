@@ -1,8 +1,8 @@
 {
   "summary": {
-    "generated_at": "2026-08-24T23:05:11+00:00",
+    "generated_at": "2026-08-24T23:39:45+00:00",
     "text_count": 76,
-    "total_bytes": 10821535,
+    "total_bytes": 10821040,
     "by_category": {
       "儒家著述": 12,
       "雜史": 11,
@@ -1000,9 +1000,9 @@
       "language": "古典漢語",
       "version": "通行本（現存 53 篇）",
       "version_date": "戰國",
-      "source_platform": "ctext.org (api)",
+      "source_platform": "zh.wikisource.org",
       "tier": "核心",
-      "size_bytes": 277979,
+      "size_bytes": 277484,
       "chapter_count": 53,
       "verified": true,
       "surveyed": false,

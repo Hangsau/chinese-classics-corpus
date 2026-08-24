@@ -27,6 +27,9 @@ def main() -> int:
                     help="逐字相同的段落不發包（該書已獨立收錄，標註由 SLUG 沿用）")
     ap.add_argument("--exclude-chapter", metavar="CHAPTER", action="append", default=[],
                     help="整章不發包（重出但切段粒度／異體字不同，逐字比對咬不到）；可重複")
+    ap.add_argument("--split-before", metavar="CHAPTER", action="append", default=[],
+                    help="該章一定另起一批。體例群的邊界要對齊批次邊界，"
+                         "否則同一個 API call 會同時拿到兩道閘門；可重複")
     args = ap.parse_args()
 
     raw = ROOT / "translations" / args.slug / "raw" / "original.txt"
@@ -60,10 +63,18 @@ def main() -> int:
             chapters.append((label, []))
         chapters[-1][1].append((para_index, text))
 
+    split_before = set(args.split_before)
+    unknown = split_before - {label for label, _ in chapters}
+    if unknown:
+        print(f"[error] --split-before 在本書找不到：{sorted(unknown)}")
+        return 1
+
     batches: list[list[tuple[str, list[tuple[int, str]]]]] = []
     running = 0
     for label, paras in chapters:
         size = sum(len(t) for _, t in paras)
+        if label in split_before:
+            running = args.max_chars + 1  # 強制另起一批
         if size > args.max_chars and len(paras) > 1:
             # 單章自己就超過上限：章內切塊，每塊自成一批。章名與 para_index 都不動，
             # 所以後續片段的 para_index 不從 1 起——批次抬頭會標出來。

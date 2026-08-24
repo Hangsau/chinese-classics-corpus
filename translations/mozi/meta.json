@@ -7,16 +7,16 @@
   "language": "古典漢語",
   "version": "通行本（現存 53 篇）",
   "version_date": "戰國",
-  "source_platform": "ctext.org (api)",
-  "source_url": "https://api.ctext.org/gettext?urn=ctp:mozi",
-  "downloaded_at": "2026-07-04T05:21:13+00:00",
-  "size_bytes": 277979,
-  "checksum_sha256": "4064be3f5b92e513dfd86ceb0e7bbbe416780aab273671cce72960af6a9214c8",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/墨子",
+  "downloaded_at": "2026-08-24T23:37:10+00:00",
+  "size_bytes": 277484,
+  "checksum_sha256": "aa06e4de6f56ca37f170f77f9e36a82e15fcf7e2ecaa3b7ec8399d8c843afc3d",
   "chapter_count": 53,
   "expected_chapter_count": 53,
   "license": "CC BY-SA 4.0",
   "verified": true,
   "tier": "核心",
-  "notes": "2026-08-24 自 religions-history 收入本庫（性質為諸子論說，屬「學術著述」而非信仰文本）。原檔未重抓，raw/ 逐位元組複製，SHA-256 已對拍相符。宗教庫仍保留一份，兩庫功能不同、暫不去重（使用者 2026-08-24 裁定）。",
-  "psych_survey": null
+  "psych_survey": null,
+  "notes": "2026-08-25 自 Wikisource 重抓，取代 2026-08-24 由 religions-history 逐位元組複製的 ctext 版。換底本的理由是舊版〈經上〉只剩 8 條 105 字（傳世約 98 條，殘存的是尾段端／似／辯／知／爲／異／循所聞／執所言）、〈經下〉45 條 719 字且起於「物盡同名」而非篇首「止，類以行人」；新版兩篇各 751／1074 字，起訖完整。逐章對拍 53 篇字數，除該二篇外累計絕對差 1,498 字，全屬 ctext 與孫詒讓本的異體字與校勘差異（爲／為、衆／眾、𠊱／候、㯕／撕），無整段增刪；〈備城門〉與〈號令〉的章界劃分兩本不同（前者 -267 字、後者 +256 字），總字數守恆。副帶修好篇名：舊版為英文 slug（canon-i、fortification-of-the-city-gate），新版 53 篇全中文。已知殘留缺陷：〈經上〉〈經下〉在 Wikisource 是各一整塊未斷條，故各只切出 1 段（〈經說上〉65 條、〈經說下〉76 條則正常分條）。全書 606 段（舊版 734 段，差額主要來自城守諸篇與此二篇的切段粒度）。墨經的承重內容在〈經說上下〉已有條級粒度，此二段暫按整塊判讀，待句讀切分器（HANDOFF C 組待辦）處理。宗教庫 religions-history 仍保留原 ctext 版一份，兩庫不去重（使用者 2026-08-24 裁定）。"
 }
