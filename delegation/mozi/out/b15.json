@@ -1,0 +1,173 @@
+{
+  "batch": "b15.md",
+  "rows": [
+    {
+      "chapter": "備城門",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「守者必善，而君尊用之，然後可以守也」把能否守城歸到守者的能力以及君主是否尊重任用他，涉及領導與用人關係，不只是在列守具"
+    },
+    {
+      "chapter": "備城門",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「爲縣門沈機，長二丈，廣八尺，爲之兩相如」規定縣門機關的尺寸與構造，通段沒有離開城門器械規格"
+    },
+    {
+      "chapter": "備城門",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「門扇薄植皆鑿半寸，一寸一涿弋」以及「各一垂水，容三石以上」是在編列防火孔、塗層與儲水設備的規格"
+    },
+    {
+      "chapter": "備城門",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「門關再重，鍱之以鐵，必堅」並配以查驗封印及不得挾斧斤等規定，是城門加固與管制程序"
+    },
+    {
+      "chapter": "備城門",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「城上二步一渠」與「二步一荅，廣九尺，袤十二尺」只列守城設施的間距和尺寸"
+    },
+    {
+      "chapter": "備城門",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「二步置連梃、長斧、長椎各一物，槍二十枚」是兵具種類、數量與配置間距的表列"
+    },
+    {
+      "chapter": "備城門",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「二步一木弩，必射五十步以上」並指定製矢材料，是木弩射程與箭材的技術要求"
+    },
+    {
+      "chapter": "備城門",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「二步積石，石重中鈞以上者五百枚」以下按步數列石、木、水、竈與沙的重量和數量，是守具配置表"
+    },
+    {
+      "chapter": "備城門",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「三十步置坐𠊱樓」至「城上四隅童異，高五尺，四尉舍焉」逐項規定樓、井、薪、櫓等設施的間距與尺寸"
+    },
+    {
+      "chapter": "備城門",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「城上五十步一道陛，高二尺五寸，長十步」等句密集列出渠、表、廁、陛、樓與積藉的配置規格"
+    },
+    {
+      "chapter": "備城門",
+      "para_index": 11,
+      "domains": ["V"],
+      "modes": ["formalization", "prescription"],
+      "reason": "「尉必取有重厚忠信可任事者」明定應依重厚、忠信與可任事的品性選尉，承重點在領導職位如何用人"
+    },
+    {
+      "chapter": "備城門",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「城上之備，渠譫、藉車、行棧、行樓」以下逐項清點器械、瓦石、沙、水罌與木橋的尺寸和存量"
+    },
+    {
+      "chapter": "備城門",
+      "para_index": 13,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「失𠊱，斬」及「可以益城之備者，盡上之。不從令者，斬」規定偵候、反穴、徵材與違令處置，是守城軍法程序"
+    },
+    {
+      "chapter": "備城門",
+      "para_index": 14,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「長斧，柄長八尺，十步一」與「長椎，柄長六尺」只規定築具和兵具的長度、形制及間距"
+    },
+    {
+      "chapter": "備城門",
+      "para_index": 15,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「吏民和」「主信以義，萬民樂之無窮」並以「此十四者具，則民亦不宜上矣」收束，把守城成敗連到統治者與吏民的關係"
+    },
+    {
+      "chapter": "備城門",
+      "para_index": 16,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「五十步丈夫十人，丁女二十人，老小十人」按城長計算人員配額，後文也只核算攻守正面與所需人數，是編制表"
+    },
+    {
+      "chapter": "備城門",
+      "para_index": 17,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「持出不操填章」者須由將領止行，違者「皆斬，具以聞於上」，是通行憑證與集體行動的軍法禁令"
+    },
+    {
+      "chapter": "備城門",
+      "para_index": 18,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「令亓廣厚能任三丈五尺之城以上」並說明柴搏、樹木、塗土的接合方式，是堵塞穴隊或衝隊的工程規格"
+    },
+    {
+      "chapter": "備城門",
+      "para_index": 19,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「大城丈五爲閨門，廣四尺」以下規定郭門、樓、堞、轉射機的形制及操作員配置，沒有離開防守工程程序"
+    },
+    {
+      "chapter": "備城門",
+      "para_index": 20,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「城上百步一樓」及「城上九尺一弩、一戟、一椎、一斧、一艾」按距離配置樓、突、火具和兵器，是守具規格表"
+    },
+    {
+      "chapter": "備城門",
+      "para_index": 21,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「持水者必以布麻斗、革盆，十步一」與「爲卒乾飯，人二斗」規定滅火器材、糧食及棧門配置，屬後勤作業規格"
+    },
+    {
+      "chapter": "備城門",
+      "para_index": 22,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「城上爲爵穴，下堞三尺」並規定縣梁、聾竈與燃苣照明的間距和操作，是城防設施及警報程序"
+    },
+    {
+      "chapter": "備城門",
+      "para_index": 23,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「藉車之柱長丈七尺」以下詳列藉車、水甬、炭火投物、疾犁與狗走的尺寸、結構和投放方式"
+    },
+    {
+      "chapter": "備城門",
+      "para_index": 24,
+      "domains": ["VIII"],
+      "modes": ["proposition", "formalization"],
+      "reason": "「壯者有挈，弱者有挈，皆稱亓任。凡挈輕重所爲，吏人各得亓任」主張依各人的能力分派相稱工作；其後雖轉列壕塹機關，此任事原則仍是人的才能運用"
+    }
+  ]
+}
