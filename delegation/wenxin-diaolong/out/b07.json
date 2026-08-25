@@ -1,0 +1,355 @@
+{
+  "batch": "b07.md",
+  "rows": [
+    {
+      "chapter": "隱秀",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「隱也者，文外之重旨者也；秀也者，篇中之獨拔者也」是在界定隱、秀兩種文辭效果，沒有把人的狀態當作依據或結論"
+    },
+    {
+      "chapter": "隱秀",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「始正而末奇，內明而外潤」以下以珠玉、煙靄與容華說明隱秀的技法和效果；人物與身體形象只作譬喻，落點仍在文辭"
+    },
+    {
+      "chapter": "隱秀",
+      "para_index": 3,
+      "domains": ["IX"],
+      "modes": ["proposition"],
+      "reason": "「嘔心吐膽，不足語窮；煆歲煉年，奚能喻苦」直接把長期求奇臻美寫成耗身受苦的處境，承重在人的苦難與身體負荷（IX）"
+    },
+    {
+      "chapter": "隱秀",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "本段以「氣寒而事傷，此覉旅之怨曲也」品析秀句，並比較自然成妙與潤色取美；採秀句舉例一讀，未把羈旅者處境作為本段自己的斷語"
+    },
+    {
+      "chapter": "隱秀",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「深文隱蔚，餘味曲包。辭生互體，有似變爻」概括隱辭的複意與餘味，是文辭技法的收束，沒有落到人"
+    },
+    {
+      "chapter": "隱秀",
+      "para_index": 6,
+      "domains": ["VI"],
+      "modes": ["proposition"],
+      "reason": "「動心驚耳」把秀辭的結果明說為使人的內心受感、感官驚動，不只停在篇章形式，承重於情緒與內在反應（VI）"
+    },
+    {
+      "chapter": "雜文",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「藻溢於辭，辭盈乎氣」以智術、博雅品題作者的文才，結論是文辭能日新殊致，仍屬誰寫得好的文學評騭"
+    },
+    {
+      "chapter": "雜文",
+      "para_index": 2,
+      "domains": ["VII"],
+      "modes": ["observation", "proposition"],
+      "reason": "「蓋七竅所發，發乎嗜欲，始邪末正，所以戒膏粱之子也」明說嗜欲須由邪返正並以作品勸戒貴家子弟，是品格教化的判斷（VII）"
+    },
+    {
+      "chapter": "雜文",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「雖迭相祖述，然屬篇之高者也」總結東方朔至郭璞等人的作品沿襲與工拙，是歷代作品登錄和品題，沒有可指認的人生行為或後果"
+    },
+    {
+      "chapter": "雜文",
+      "para_index": 4,
+      "domains": ["XIII"],
+      "modes": ["proposition"],
+      "reason": "「身挫憑乎道勝，時屯寄於情泰」說人在受挫、困頓時憑道自持並寄心於安泰，是逆境中的安頓與修復（XIII）"
+    },
+    {
+      "chapter": "雜文",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「作者繼踵」以下逐一列舉《七激》《七依》《七辨》等作品及其文辭特色，是作者與作品的歷史登錄"
+    },
+    {
+      "chapter": "雜文",
+      "para_index": 6,
+      "domains": ["VI"],
+      "modes": ["proposition"],
+      "reason": "「甘意搖骨體，豔詞動魂識」直接說甘美豔麗的聲色會搖動人的身體與心識，承重於感受和內在反應（VI）"
+    },
+    {
+      "chapter": "雜文",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「欲穿明珠，多貫魚目」以壽陵學步、東施效顰譏評擬作不工，譬喻的落點仍是作品優劣，沒有另立關於人的結論"
+    },
+    {
+      "chapter": "雜文",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「夫文小易周，思閑可贍」到「可稱珠耳」是在說短篇連珠如何做到義明詞淨，屬篇章技術與作品品評"
+    },
+    {
+      "chapter": "雜文",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「名號多品」以下把典誥、誓問、篇章、歌謠等類聚到雜文之區，是文體名目與範圍的分類整理"
+    },
+    {
+      "chapter": "雜文",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「偉矣前修，學堅多飽。負文餘力，飛靡弄巧」是對前代雜文作者學力與文巧的贊語，屬純人物品題而無事件"
+    },
+    {
+      "chapter": "雜文",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「枝辭攢映」與「慕嚬之心，於焉祇攪」收束雜文枝辭及模擬失真的批評，落點是文體和擬作成敗"
+    },
+    {
+      "chapter": "頌讚",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「頌者，容也，所以美盛德而述形容也」以下溯源並解釋頌體功能；「頌主告神」只是文體用來告神的功能描述，不構成信仰領域"
+    },
+    {
+      "chapter": "頌讚",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["proposition", "observation"],
+      "reason": "「夫民各有心，勿壅惟口」承認民眾各有意見並主張不可堵塞其言路，直接涉及公共表達與社會權力（V）"
+    },
+    {
+      "chapter": "頌讚",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「頌惟典雅，辭必清鑠」以下規定頌體須清雅而不可流於華侈，全文承重在這一文體應如何寫"
+    },
+    {
+      "chapter": "頌讚",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「讚者，明也，助也」以下訓釋名稱並登錄虞舜、史書紀傳及郭璞諸用例，是讚體的名義與源流考述"
+    },
+    {
+      "chapter": "頌讚",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「必結言於四字之句，盤桓乎數韻之辭」規定讚體篇幅、句式和收束方法，沒有另說人是什麼樣的"
+    },
+    {
+      "chapter": "頌讚",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「容體底頌，勳業垂讚。鏤影摛文，聲理有爛」概括頌與讚記述形容勳業的文體功能及聲文效果"
+    },
+    {
+      "chapter": "頌讚",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「年積愈遠，音徽如旦」說讚文使聲名留存，後句批評降格品物而成炫辭玩物，落點仍是讚體功用與流變"
+    },
+    {
+      "chapter": "風骨",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「結言端直，則文骨成焉；意氣駿爽，則文風清焉」是在界定文章風骨及成文條件，心、志、氣在此皆是寫作術語"
+    },
+    {
+      "chapter": "風骨",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「練於骨者，析辭必精」以下列出有骨、無骨、有風、無風的文字徵驗，並以「可以定文」落在評文和作文方法"
+    },
+    {
+      "chapter": "風骨",
+      "para_index": 3,
+      "domains": ["II"],
+      "modes": ["proposition"],
+      "reason": "「氣之清濁有體，不可力強而致」把清濁氣質說成個體既有且不能勉強取得的差異，是人的稟性與自我差異（II）"
+    },
+    {
+      "chapter": "風骨",
+      "para_index": 4,
+      "domains": ["VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「明者弗授，學者弗師」把有識者不傳授、學習者不從師指出為失序原因，直接涉及教學與學習能否成立（VIII）"
+    },
+    {
+      "chapter": "風骨",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「情與氣偕，辭共體並。文明以健」濃縮情氣、辭體與健全文風的配合，仍是風骨的篇章技術命題"
+    },
+    {
+      "chapter": "風骨",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「蔚彼風力，嚴此骨鯁。才鋒峻立，符采克炳」以贊語收束風骨與辭采的文章效果，未另提出人的生活斷語"
+    },
+    {
+      "chapter": "養氣",
+      "para_index": 1,
+      "domains": ["IX"],
+      "modes": ["proposition"],
+      "reason": "「率志委和，則理融而情暢；鑽礪過分，則神疲而氣衰；此性情之數也」明說過度用心會使人神疲氣衰，是身心耗損的規律（IX）"
+    },
+    {
+      "chapter": "養氣",
+      "para_index": 2,
+      "domains": ["IX", "X"],
+      "modes": ["proposition"],
+      "reason": "「器分有限，智用無涯，或慚鳧企鶴，瀝辭鐫思，於是精氣內銷，有似尾閭之波，神志外傷，同乎牛山之木」指出逞智過度造成精氣與神志損傷（IX）；「凡童少鑒淺而志盛，長艾識堅而氣衰」直述年歲增長伴隨氣力衰退（X）"
+    },
+    {
+      "chapter": "養氣",
+      "para_index": 3,
+      "domains": ["IX"],
+      "modes": ["prescription"],
+      "reason": "「若銷鑠精膽，蹙迫和氣，秉牘以驅齡，灑翰以伐性」反對以寫作消耗精力、和氣與生命，承重在身心受損（IX）"
+    },
+    {
+      "chapter": "養氣",
+      "para_index": 4,
+      "domains": ["XIII"],
+      "modes": ["prescription"],
+      "reason": "「逍遙以針勞，談笑以藥勌」把放鬆、談笑明定為解除勞倦的方法，是人在疲憊後如何修復與安頓（XIII）"
+    },
+    {
+      "chapter": "養氣",
+      "para_index": 5,
+      "domains": ["IX"],
+      "modes": ["prescription"],
+      "reason": "「勞矣千想。元神宜寶，素氣資養」承認萬般思慮使人疲勞，並主張珍護精神、養育元氣，直接關涉身心健康（IX）"
+    },
+    {
+      "chapter": "養氣",
+      "para_index": 6,
+      "domains": ["XIII"],
+      "modes": ["prescription"],
+      "reason": "「無擾文慮，鬱此精爽」以水停火靜為喻，主張不擾心慮而保存清明精神，是維持內在安定的工夫（XIII）"
+    },
+    {
+      "chapter": "體性",
+      "para_index": 1,
+      "domains": ["II"],
+      "modes": ["proposition"],
+      "reason": "「然才有庸俊，氣有剛柔，學有淺深，習有雅鄭，並情性所鑠，陶染所凝」明說人的差異由情性與後天陶染凝成，是個體稟性差異（II）"
+    },
+    {
+      "chapter": "體性",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「則數窮八體」以下列舉典雅、遠奧、精約等八種文章風格；本段是風格分類名目，不是對人的分類，也不是可計算程序"
+    },
+    {
+      "chapter": "體性",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「典雅者」至「輕靡者」逐項解釋八體的文字特徵及彼此反對關係，是文章風格釋義"
+    },
+    {
+      "chapter": "體性",
+      "para_index": 4,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "「若夫八體屢遷，功以學成，才力居中，肇自血氣」把學習所得之功與天生才力分別說明，直接論人的學習與才能來源（VIII）"
+    },
+    {
+      "chapter": "體性",
+      "para_index": 5,
+      "domains": ["VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「夫才由天資，學慎始習」區分天賦才能與起初學習，並主張從童蒙階段培養，是才能與教育成就的命題（VIII）"
+    },
+    {
+      "chapter": "體性",
+      "para_index": 6,
+      "domains": ["II"],
+      "modes": ["proposition"],
+      "reason": "「才性異區，文辭繁詭」明說人的才質與性情分屬不同區域，並以此解釋文辭多樣，是個體稟性的差異（II）"
+    },
+    {
+      "chapter": "體性",
+      "para_index": 7,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "「習亦凝真，功沿漸靡」把反覆學習說成能凝定實質、功力則循序漸進，直接落到人的學習與成就形成（VIII）"
+    },
+    {
+      "chapter": "麗辭",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「夫心生文辭，運裁百慮，高下相須，自然成對」只用心思說明對偶文辭如何生成，離開文章便失去命題，屬麗辭技術側"
+    },
+    {
+      "chapter": "麗辭",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「自揚馬張蔡，崇盛麗辭」以下登錄漢魏晉對偶由自然到精密的沿革，並品評契機與浮假，是文學史及作品工拙"
+    },
+    {
+      "chapter": "麗辭",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「凡有四對：言對為易，事對為難，反對為優，正對為劣」建立的是四種對偶的分類及用例，不是人的心理分類"
+    },
+    {
+      "chapter": "麗辭",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「若斯重出，即對句之駢枝也」引用張華、劉琨詩句示範對偶中的詞語重出，是具體文例的技術評判"
+    },
+    {
+      "chapter": "麗辭",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「言對為美，貴在精巧；事對所先，務在允當」以下規定對偶配事、奇偶與章句配置應如何處理，落點全在手藝"
+    },
+    {
+      "chapter": "麗辭",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「體植必兩，辭動有配。左提右挈，精味兼載」以贊語概括對偶須成雙相配的文辭原理"
+    },
+    {
+      "chapter": "麗辭",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「炳爍聯華，鏡靜含態。玉潤雙流，如彼珩珮」描寫成對文辭聯華雙流的審美效果，沒有把人的狀態當依據或結論"
+    }
+  ]
+}
