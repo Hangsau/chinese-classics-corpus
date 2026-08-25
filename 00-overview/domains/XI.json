@@ -2,9 +2,9 @@
   "domain": "XI",
   "name_zh": "自由·命運·改變",
   "gist": "自由意志與命運、選擇與代價、改變與重來",
-  "generated_at": "2026-08-24T23:39:45+00:00",
-  "para_count": 532,
-  "book_count": 33,
+  "generated_at": "2026-08-25T12:02:53+00:00",
+  "para_count": 562,
+  "book_count": 34,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -3396,6 +3396,433 @@
       "co_domains": [
         "V"
       ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "親士",
+      "para_index": 2,
+      "para_id": "mozi#01-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "昔者文公出走而正天下，桓公去國而霸諸侯，越王句踐遇吳王之醜，而尚攝中國之賢君。三",
+      "note": "文公、桓公、句踐都從受挫走向「達名成功」，而「君子自難而易彼」「進不敗其志」把轉敗爲成繫於堅持與自我要求",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "所染",
+      "para_index": 1,
+      "para_id": "mozi#03-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子墨子言見染絲者而歎，曰：染於蒼則蒼，染於黃則黃，所入者變，其色亦變。五入必，而",
+      "note": "染絲「所入者變，其色亦變」後收束爲「染不可不愼也」，以受染而改變的譬喻主張人會因所受影響而變",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "所染",
+      "para_index": 2,
+      "para_id": "mozi#03-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "非獨染絲然也，國亦有染。舜染於許由、伯陽，禹染於皋陶、伯益，湯染於伊尹、仲虺，武",
+      "note": "歷舉諸王因「所染當」而興、因「所染不當」而亡，最後以「善爲君者，勞於論人」把領導成敗繫於選擇身邊之人及其可塑影響",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "所染",
+      "para_index": 3,
+      "para_id": "mozi#03-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "非獨國有染也，士亦有染。其友皆好仁義，淳謹畏令，則家日益、身日安、名日榮，處官得",
+      "note": "「其友皆好仁義」與「其友皆好矜奮，創作比周」分別導向身安名榮或身危名辱，說明朋友關係會改變人的處境，故須「必擇所堪」",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "七患",
+      "para_index": 3,
+      "para_id": "mozi#05-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "今有負其子而汲者，隊其子於井中，其母必從而道之。今歲凶、民飢、道饉，此疚重於隊其",
+      "note": "本段採品性受物質處境改變的一讀：「年歲善，則民仁且良」「年歲凶，則民吝且惡」，並以「民何常此之有」否定品性固定不變",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "兼愛中",
+      "para_index": 3,
+      "para_id": "mozi#15-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "然而今天下之士君子曰：然，乃若兼則善矣。雖然，天下之難物于故也。子墨子言曰：天下",
+      "note": "「攻城野戰，殺身爲名」雖難而「苟君說之，則士衆能爲之」，說明權力偏好能使人完成難事，從而反駁兼愛不可實行的看法",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "兼愛中",
+      "para_index": 4,
+      "para_id": "mozi#15-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "昔者晉文公好士之惡衣，故文公之臣皆牂羊之裘，韋以帶劍，練帛之冠，入以見於君，出以",
+      "note": "文公、靈王、句踐三例都以「君說之，故臣爲之也」一類收束，具體顯示領袖喜好能改變群體的衣食、身體乃至赴死行爲",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "兼愛中",
+      "para_index": 5,
+      "para_id": "mozi#15-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是故子墨子言曰：乃若夫少食、惡衣、殺身而爲名，此天下百姓之所皆難也。若苟君說之，",
+      "note": "「少食、惡衣、殺身而爲名」雖是衆人所難，但「若苟君說之，則衆能爲之」，據此斷定兼相愛並非人所不能改行",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "兼愛中",
+      "para_index": 6,
+      "para_id": "mozi#15-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "然而今天下之士君子曰：然，乃若兼則善矣。雖然，不可行之物也，譬若挈太山越河濟也。",
+      "note": "先以「自古及今，未有能行」區分移山的真不能，再以「古者聖王行之」及禹利民、文王不使強暴欺弱的史例，證成兼愛可以由人實行並保護弱者",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "兼愛下",
+      "para_index": 7,
+      "para_id": "mozi#16-p07",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "然而天下之非兼者之言猶未止，曰：意不忠親之利，而害爲孝乎？子墨子曰：姑嘗本原之孝",
+      "note": "「愛利人之親，然後人報我以愛利吾親」回答孝與事親，不能拿掉 IV；靈王、句踐、文公的事例又以「未踰於世而民可移」明說人民可被改變，且改變取決於在上者的好尚與賞罰，分別承重 XI 與 V",
+      "co_domains": [
+        "IV",
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非命上",
+      "para_index": 1,
+      "para_id": "mozi#28-p01",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "子墨子言曰：古者王公大人爲政國家者，皆欲國家之富，人民之衆，刑政之治。然而不得富",
+      "note": "有命說以「命雖强勁，何益哉」否定努力，因而「駔百姓之從事」，直接涉及宿命如何阻礙工作；末段再列本、原、用三表作辨言方法",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非命上",
+      "para_index": 2,
+      "para_id": "mozi#28-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "然而今天下之士君子或以命爲有，葢嘗尚觀於聖王之事。古者桀之所亂，湯受而治之；紂之",
+      "note": "「此世未易，民未渝」而桀紂使亂、湯武使治，將同一社會的不同結果歸於領導者而反問「豈可謂有命哉」",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非命上",
+      "para_index": 3,
+      "para_id": "mozi#28-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "然而今天下之士君子或以命爲有，葢嘗尚觀於先王之書。先王之書，所以出國家、布施百姓",
+      "note": "逐查憲、刑、誓皆沒有「福不可請，禍不可諱，敬無益，暴無傷」，藉先王制度反駁福禍不可改、努力無效的命定說",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非命上",
+      "para_index": 5,
+      "para_id": "mozi#28-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是故古之聖王發憲出令，設以爲賞罰以勸賢。是以入則孝慈於親戚，出則弟長於鄉里，坐處",
+      "note": "有命說使人「不慈孝於親戚」「不弟長於鄉里」，破壞父子兄弟之道；又否認賢暴與賞罰相關，終成「凶言」「暴人之道」，分別落在家庭倫理、品格責任與宿命觀的後果",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非命上",
+      "para_index": 6,
+      "para_id": "mozi#28-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "然則何以知命之爲暴人之道？昔上世之窮民，貪於飲食，惰於從事，是以衣食之財不足，而",
+      "note": "窮民不承認「我罷不肖，從事不疾」、暴王不承認「爲政不善」，反稱「命固且貧」「命固失之」，直指以命運掩飾自己的怠惰、失德與責任",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非命上",
+      "para_index": 7,
+      "para_id": "mozi#28-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今用執有命者之言，則上不聽治，下不從事。上不聽治，則刑政亂；下不從事，則財用不足",
+      "note": "「用執有命者之言」便導致「上不聽治，下不從事」，把宿命信念與放棄治理、勞動相連，並指出財用不足等實際後果",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非命上",
+      "para_index": 8,
+      "para_id": "mozi#28-p08",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "是故子墨子言曰：今天下之士君子，忠實欲天下之富而惡其貧，欲天下之治而惡其亂，執有",
+      "note": "「執有命者之言不可不非，此天下之大害也」明確要求破除有命說，落點是拒絕命定而非反對天或鬼神",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非命中",
+      "para_index": 1,
+      "para_id": "mozi#29-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "子墨子言曰：凡出言談、由文學之爲道也，則不可而不先立義法。若言而無義，譬猶立朝夕",
+      "note": "「亦嘗有見命之物、聞命之聲者乎？則未嘗有也」否定命的可驗證性，又以「上變政而民易教」把治亂變化歸於人的施政，主張並非定命；「天鬼之志」只列為立言之法，並未在此認證天鬼",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非命中",
+      "para_index": 2,
+      "para_id": "mozi#29-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今夫有命者言曰：我非作之後世也，自昔三代有若言以傳流矣。今故先生對之？曰：夫有命",
+      "note": "「慎言知行」的列士大夫能規諫君長、教順百姓，所得賞譽「天下皆曰其力也」，把聲名成就歸於履職之力而非命定",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非命中",
+      "para_index": 3,
+      "para_id": "mozi#29-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "是故昔者三代之暴王，不繆其耳目之淫，不慎其心志之辟，外之敺騁田獵畢弋，內沈於酒樂",
+      "note": "暴王「沈於酒樂，而不顧其國家百姓之政」、窮民「貪飲食而惰從事」卻各以「我命」卸責，段末遂判定執有命是「天下之厚害」而要求「不可不疾非」，兼論自主責任與品格敗壞",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非命下",
+      "para_index": 2,
+      "para_id": "mozi#30-p02",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "故昔者三代聖王禹湯文武方爲政乎天下之時，曰：「必務舉孝子而勸之事親，尊賢良之人而",
+      "note": "「世不渝而民不易，上變政而民改俗」後明斷「天下之治也，湯武之力也；天下之亂也，桀紂之罪也」，以歷史對照把治亂歸於領導者的作爲與責任，且明言不可謂命",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非命下",
+      "para_index": 3,
+      "para_id": "mozi#30-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "然今以命爲有者，昔三代暴王桀紂幽厲，貴爲天子，富有天下。於此乎不而矯其耳目之欲，",
+      "note": "桀紂「從其心意之辟」而失宗廟，罷民「貪飲食而惰從事」而陷飢寒，卻都說「吾命固將……」，以具體惡行揭出拿命定掩飾自身過失的品格問題",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非命下",
+      "para_index": 4,
+      "para_id": "mozi#30-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "昔者暴王作之，窮人術之，此皆疑衆遲樸，先聖王之患之也，固在前矣。是以書之竹帛，鏤",
+      "note": "所引《太誓》一面斥「謂人有命」，一面稱「上帝不常，九有以亡；上帝不順，祝降其喪」，以天意隨德行而改變、降喪來反駁固定之命，故反宿命與神聖認證並存",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非命下",
+      "para_index": 5,
+      "para_id": "mozi#30-p05",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "是故子墨子曰：今天下之君子之爲文學、出言談也，非將勤勞其喉舌，而利其脣呡也，中實",
+      "note": "王公、卿大夫、農夫、婦人皆因相信「强必治」「强必貴」「强必富」而「不敢怠倦」，反之信命便怠於治政、耕織，直接把生活結果與各職分的努力相連；末尾事天鬼語只是怠政後果，主論不在認證天鬼",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非命下",
+      "para_index": 6,
+      "para_id": "mozi#30-p06",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "是故子墨子言曰：今天下之士君子，中實將欲求興天下之利，除天下之害，當若執有命者之",
+      "note": "「命者，暴王所作，窮人所術，非仁者之言也」把命說判作人造之害，並以「不可不察而强非」要求主動破除宿命觀",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非儒下",
+      "para_index": 3,
+      "para_id": "mozi#31-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "有强執有命以說議曰：「壽夭貧富，安危治亂，固有天命，不可損益。窮達賞罰，幸否有極",
+      "note": "所駁命說稱「人之知力，不能爲焉」，而文本指出羣吏信之便「怠於分職」、庶人信之便「怠於從事」，明說宿命信念會削弱履職與勞作，進而致貧亂",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "貴義",
+      "para_index": 19,
+      "para_id": "mozi#39-p19",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子墨子北之齊，遇日者。日者曰：「帝以今日殺黑龍於北方，而先生之色黑，不可以北。」",
+      "note": "墨子以各方皆有黑白之人反駁日者的方位色禁，指出「若用子之言，則是禁天下之行者也」，破除吉凶術數對人行動自由的限制，且不認證天鬼",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 6,
+      "para_id": "mozi#40-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "公孟子曰：「貧富壽夭，齰然在天，不可損益。」又曰：「君子必學。」子墨子曰：「教人",
+      "note": "「教人學而執有命」被比作「命人葆而去亓冠」，指出一面宣稱貧富壽夭不可改、一面要求學習，在改變可能性上自相抵牾",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 15,
+      "para_id": "mozi#40-p15",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子墨子謂程子曰：「儒之道足以喪天下者，四政焉。儒以天爲不明，以鬼爲不神，天鬼不說",
+      "note": "「貧富壽夭、治亂安危有極矣，不可損益」說的是命定（XI）；其後「爲上者行之，必不聽治矣」「爲下者行之，必不從事矣」分別落在治理責任（V）與勞作（VIII），三者都是四政致害論證不可刪的部分",
+      "co_domains": [
+        "V",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "魯問",
+      "para_index": 16,
+      "para_id": "mozi#41-p16",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "彭輕生子曰：「往者可知，來者不可知。」子墨子曰：「籍設而親在百里之外，則遇難焉，",
+      "note": "針對「來者不可知」，以親人遇難時選「良馬固車，可以速至」為例，說明未來生死雖未發生，仍可由當下選擇改變其可及結果",
+      "co_domains": []
     },
     {
       "slug": "qianfulun",

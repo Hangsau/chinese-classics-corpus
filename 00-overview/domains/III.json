@@ -2,9 +2,9 @@
   "domain": "III",
   "name_zh": "愛與親密",
   "gist": "愛與性、被拒絕、承諾、信任與脆弱、溝通與被理解",
-  "generated_at": "2026-08-24T23:39:45+00:00",
-  "para_count": 146,
-  "book_count": 19,
+  "generated_at": "2026-08-25T12:02:53+00:00",
+  "para_count": 149,
+  "book_count": 20,
   "surveyed_zero_hit": [
     "dengxizi",
     "duduan",
@@ -1104,6 +1104,47 @@
       "co_domains": [
         "XI"
       ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "辭過",
+      "para_index": 5,
+      "para_id": "mozi#06-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡回於天地之閒，包於四海之內，天壤之情，陰陽之和，莫不有也，雖至聖不能更也。何以",
+      "note": "君主「拘女累千」使男子無妻、女子無夫而「男女失時」，把親密婚配受阻歸到權勢壟斷，因而要求「蓄私不可不節」",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 11,
+      "para_id": "mozi#36-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "愛人不外己，己在所愛之中。己在所愛，愛加於己。倫列之愛己，愛人也。",
+      "note": "「愛人不外己，己在所愛之中」明說自我也包含在所愛者之內，處理自我認同與愛人之間的關係",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 39,
+      "para_id": "mozi#36-p39",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "藉臧也死，而天下害，吾持養臧也萬倍，吾愛臧也不加厚。",
+      "note": "「吾持養臧也萬倍，吾愛臧也不加厚」區分照養投入的增加與愛的深厚，對親愛本身作出實質判斷",
+      "co_domains": []
     },
     {
       "slug": "qianfulun",

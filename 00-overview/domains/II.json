@@ -2,9 +2,9 @@
   "domain": "II",
   "name_zh": "自我與認同",
   "gist": "我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我",
-  "generated_at": "2026-08-24T23:39:45+00:00",
-  "para_count": 712,
-  "book_count": 34,
+  "generated_at": "2026-08-25T12:02:53+00:00",
+  "para_count": 728,
+  "book_count": 35,
   "surveyed_zero_hit": [
     "duduan",
     "fangyan",
@@ -3825,6 +3825,239 @@
       "note": "「物固莫不有長，莫不有短。人亦然」明說每個人都有長短；「善學者，假人之長以補其短」把承認自身不足連到借他人之長的學習",
       "co_domains": [
         "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "修身",
+      "para_index": 1,
+      "para_id": "mozi#02-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "君子戰雖有陳，而勇爲本焉；喪雖有禮，而哀爲本焉；士雖有學，而行爲本焉。是故置本不",
+      "note": "「士雖有學，而行爲本」把行爲置於學問之本，又把脩身界定爲「見毀而反之身」，主張由自我反省修正品行",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非命上",
+      "para_index": 6,
+      "para_id": "mozi#28-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "然則何以知命之爲暴人之道？昔上世之窮民，貪於飲食，惰於從事，是以衣食之財不足，而",
+      "note": "窮民不承認「我罷不肖，從事不疾」、暴王不承認「爲政不善」，反稱「命固且貧」「命固失之」，直指以命運掩飾自己的怠惰、失德與責任",
+      "co_domains": [
+        "VII",
+        "XI"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 11,
+      "para_id": "mozi#36-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "愛人不外己，己在所愛之中。己在所愛，愛加於己。倫列之愛己，愛人也。",
+      "note": "「愛人不外己，己在所愛之中」明說自我也包含在所愛者之內，處理自我認同與愛人之間的關係",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 18,
+      "para_id": "mozi#36-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "臧之愛己，非爲愛己之人也。厚人不外己，愛無厚薄。",
+      "note": "「厚人不外己，愛無厚薄」主張普遍愛人不排除自己且不分厚薄，直接界定自我在共同關懷中的位置",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "耕柱",
+      "para_index": 14,
+      "para_id": "mozi#38-p14",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "子墨子曰：「世俗之君子，貧而謂之富則怒，無義而謂之有義則喜，豈不悖哉！」",
+      "note": "「貧而謂之富則怒，無義而謂之有義則喜」揭出人對財富名實敏感、對自身無義卻樂受美名的自我欺瞞",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "耕柱",
+      "para_index": 22,
+      "para_id": "mozi#38-p22",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子墨子謂駱滑氂曰：「吾聞子好勇。」駱滑氂曰：「然，我聞其鄉有勇士焉，吾必從而殺之",
+      "note": "駱滑氂自稱「好勇」卻必殺勇士，墨子據「欲與其所好，度其所惡」判其實為「惡勇」，揭出自我標榜與行為實質相反",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "貴義",
+      "para_index": 10,
+      "para_id": "mozi#39-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子墨子曰：今瞽曰「鉅者，白也。黔者，黑也」，雖明目者無以易之。兼白黑，使瞽取焉，",
+      "note": "以瞽者能說白黑之名卻不能實取作比，指出君子雖能「名仁」，在「兼仁與不仁」時不能選取，故其道德知識只有名而無實",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "貴義",
+      "para_index": 11,
+      "para_id": "mozi#39-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子墨子曰：今士之用身，不若商人之用一布之慎也。商人用一布布，不敢繼苟而讐焉，必擇",
+      "note": "「士之用身，不若商人之用一布之慎也」以商人擇布反襯士人隨「意之所欲」行事，指出對自身選擇失慎會招致刑罰與毀醜",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "貴義",
+      "para_index": 12,
+      "para_id": "mozi#39-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子墨子曰：世之君子欲其義之成，而助之脩其身則慍，是猶欲其墻之成，而人助之築則慍也",
+      "note": "「欲其義之成」卻在別人「助之脩其身」時發怒，被比作想成牆又怒人助築，揭出願望與拒絕自我修養之間的矛盾",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "貴義",
+      "para_index": 16,
+      "para_id": "mozi#39-p16",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子墨子仕人於衛，所仕者至而反。子墨子曰：「何故反？」對曰：「與我言而不當，曰『待",
+      "note": "仕者先稱因承諾「不當」而離去，卻承認若授過千盆便「不去」，墨子遂揭明「非爲其不審也，爲其寡也」，辨出原則說辭下的逐利動機",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 3,
+      "para_id": "mozi#40-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "公孟子義章甫、搢忽、儒服，而以見子墨子，曰：「君子服然後行乎？其行然後服乎？」子",
+      "note": "「行不在服」以四位君主服飾不同而治行相同，區分人的外在裝束與實際品行，末段又指出為換服而相見的自相矛盾",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 4,
+      "para_id": "mozi#40-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "公孟子曰：「君子必古言服，然後仁。」子墨子曰：「昔者商王紂卿士費仲爲天下之暴人，",
+      "note": "「此同言而或仁或不仁」及「此同服或仁或不仁」否定以古言古服判定仁德，要求把名貌與真實品格分開",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 12,
+      "para_id": "mozi#40-p12",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "公孟子謂子墨子曰：「知有賢於人，則可謂知乎？」子墨子曰：「愚之知有以賢於人，而愚",
+      "note": "「愚之知有以賢於人，而愚豈可謂知矣哉」指出局部勝過別人不足以改變一個人是否可稱為智者的整體評價",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 21,
+      "para_id": "mozi#40-p21",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "二三子有復於子墨子學射者。子墨子曰：「不可，夫知者必量亓力所能至，而從事焉。國士",
+      "note": "「知者必量亓力所能至，而從事焉」要求先認清自己的能力界限，再在學業與射藝之間集中投入，避免兩事皆不能成",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 22,
+      "para_id": "mozi#40-p22",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "二三子復於子墨子曰：「告子曰言義而行甚惡，請棄之。」子墨子曰：「不可，稱我言以毀",
+      "note": "段首明揭告子「言義而行甚惡」的言行分裂，墨子仍以「言仁義而不吾毀」「告子毀，猶愈亡也」判定不完美的善言勝於全無，區分人的實行缺失與言論價值",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 23,
+      "para_id": "mozi#40-p23",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "二三子復於子墨子曰：「告子勝爲仁。」子墨子曰：「未必然也，告子爲仁，譬猶跂以爲長",
+      "note": "「告子爲仁，譬猶跂以爲長，隱以爲廣，不可久也」把勉強做出的仁比作踮腳冒充高長，指出外顯形象與可持續品格有別",
+      "co_domains": [
+        "VII"
       ]
     },
     {

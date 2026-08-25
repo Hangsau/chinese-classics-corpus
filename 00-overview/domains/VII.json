@@ -2,9 +2,9 @@
   "domain": "VII",
   "name_zh": "善惡·良心·品格",
   "gist": "罪咎與贖罪、惡與殘忍與同理、誠實與虛偽、勇氣",
-  "generated_at": "2026-08-24T23:39:45+00:00",
-  "para_count": 2444,
-  "book_count": 39,
+  "generated_at": "2026-08-25T12:02:53+00:00",
+  "para_count": 2635,
+  "book_count": 40,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -16837,6 +16837,2728 @@
       "note": "「無醜不能，無惡不知」勸人不以不能與不知為恥惡，並以「不醜不能、不惡不知，尚矣」評定這種求知態度；即使桀、紂也「有可畏可取者」，所以仍須向人取長",
       "co_domains": [
         "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "親士",
+      "para_index": 2,
+      "para_id": "mozi#01-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "昔者文公出走而正天下，桓公去國而霸諸侯，越王句踐遇吳王之醜，而尚攝中國之賢君。三",
+      "note": "文公、桓公、句踐都從受挫走向「達名成功」，而「君子自難而易彼」「進不敗其志」把轉敗爲成繫於堅持與自我要求",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "親士",
+      "para_index": 3,
+      "para_id": "mozi#01-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "是故爲其所難者，必得其所欲焉；未聞爲其所欲，而免其所惡者也。是故偪臣傷君，諂下傷",
+      "note": "「君必有弗弗之臣，上必有詻詻之下」要求容納直諫，又以臣下戀棧不言、近臣喑默與諂諛蔽議說明失職和諂媚會危國",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "親士",
+      "para_index": 6,
+      "para_id": "mozi#01-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是故天地不昭昭，大水不潦潦，大火不燎燎，王德不堯堯。者乃千人之長也。其直如矢，其",
+      "note": "「其直如矢，其平如砥，不足以覆萬物」反對狹直的王者品格，並以「王者淳澤，不出宮中，則不能流國」要求德澤及於國人",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "修身",
+      "para_index": 1,
+      "para_id": "mozi#02-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "君子戰雖有陳，而勇爲本焉；喪雖有禮，而哀爲本焉；士雖有學，而行爲本焉。是故置本不",
+      "note": "「士雖有學，而行爲本」把行爲置於學問之本，又把脩身界定爲「見毀而反之身」，主張由自我反省修正品行",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "修身",
+      "para_index": 2,
+      "para_id": "mozi#02-p02",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "譖慝之言，無入之耳；批扞之聲，無出之口；殺傷人之孩，無存之心，雖有詆訐之民，無所",
+      "note": "「譖慝之言，無入之耳」「批扞之聲，無出之口」並要求心中不存殺傷之意，是對言語、心念與品行的直接約束",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "修身",
+      "para_index": 3,
+      "para_id": "mozi#02-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "君子之道也，貧則見廉，富則見義，生則見愛，死則見哀。四行者，不可虛假反之身者也。",
+      "note": "「貧則見廉，富則見義，生則見愛，死則見哀」以不同處境檢驗德行，並說這些行爲「不可虛假反之身」",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "修身",
+      "para_index": 4,
+      "para_id": "mozi#02-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "志不彊者智不達，言不信者行不果。據財不能以分人者，不足與友。守道不篤，徧物不博，",
+      "note": "「言不信者行不果」「務言而緩行，雖辯必不聽」把誠信、實行與不伐功連到成事及名譽，兼論品格與成就",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "法儀",
+      "para_index": 2,
+      "para_id": "mozi#04-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "然則奚以爲治法而可？當皆法其父母奚若？天下之爲父母者衆，而仁者寡，若皆法其父母，",
+      "note": "以父母、學者、君主中「仁者寡」而判定三者不可直接作治法，主張公共標準不能只憑角色權威，還須通過仁與不仁的品格檢驗",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "法儀",
+      "para_index": 3,
+      "para_id": "mozi#04-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "然則奚以爲治法而可？故曰：莫若法天。天之行廣而無私，其施厚而不德，其明久而不衰，",
+      "note": "「莫若法天」認證天有欲惡，且「天必欲人之相愛相利」並會福愛人者、禍賊人者，以天意作爲善惡行爲的神聖準則",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "法儀",
+      "para_index": 4,
+      "para_id": "mozi#04-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "昔之聖王禹湯文武，兼愛天下之百姓，率以尊天事鬼，其利人多，故天福之，使立爲天子，",
+      "note": "禹湯文武因「尊天事鬼」「愛人利人」而受天福，桀紂幽厲因「詬天侮鬼」「惡人賊人」而受天禍，明確認證神聖賞罰與善惡後果",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "七患",
+      "para_index": 3,
+      "para_id": "mozi#05-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "今有負其子而汲者，隊其子於井中，其母必從而道之。今歲凶、民飢、道饉，此疚重於隊其",
+      "note": "本段採品性受物質處境改變的一讀：「年歲善，則民仁且良」「年歲凶，則民吝且惡」，並以「民何常此之有」否定品性固定不變",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "辭過",
+      "para_index": 1,
+      "para_id": "mozi#06-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "子墨子曰：古之民，未知爲宮室時，就陵阜而居，穴而處。下潤濕傷民，故聖王作爲宮室，",
+      "note": "當今之主以厚斂和暴奪建造華飾宮室，使國貧且不能「振孤寡」，末句「當爲宮室不可不節」把治理與節儉品格同時立爲要求",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "辭過",
+      "para_index": 2,
+      "para_id": "mozi#06-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "古之民未知爲衣服時，衣皮帶茭，冬則不輕而溫，夏則不輕而凊。聖王以爲不中人之情，故",
+      "note": "衣服本應「適身體、和肌膚而足」，奢華服飾卻耗民財並使「其君奢侈而難諫」，故以「爲衣服不可不節」規勸君主節制",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "辭過",
+      "para_index": 3,
+      "para_id": "mozi#06-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "古之民未知爲飲食時，素食而分處。故聖人作誨男耕稼樹藝，以爲民食。其爲食也，足以增",
+      "note": "人君厚斂以求「美食芻豢」造成富貴者奢侈、孤寡者凍餒與國亂，末句要求「爲食飲不可不節」，兼涉公義和節制",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "辭過",
+      "para_index": 4,
+      "para_id": "mozi#06-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "古之民未知爲舟車時，重任不移，遠道不至。故聖王作爲舟車，以便民之事。其爲舟車也，",
+      "note": "華飾舟車使男女離開紡織耕稼而民飢寒，繼而「姦衺多則刑罰深，刑罰深則國亂」，故要求掌權者節制用度",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "辭過",
+      "para_index": 6,
+      "para_id": "mozi#06-p06",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡此五者，聖人之所儉節也，小人之所淫佚也。儉節則昌，淫佚則亡。此五者不可不節，夫",
+      "note": "以「聖人之所儉節」「小人之所淫佚」對舉品格，並用「儉節則昌，淫佚則亡」主張五事皆須節制",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "三辯",
+      "para_index": 2,
+      "para_id": "mozi#07-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "程繁曰：「子曰『聖王無樂』，此亦樂已，若之何其謂聖王無樂也？」子墨子曰：「聖王之",
+      "note": "面對有樂何以稱無樂的追問，以「今聖有樂而少，此亦無也」把聖王之樂的關鍵放在少，延續對享樂節制的主張",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "尚賢上",
+      "para_index": 4,
+      "para_id": "mozi#08-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是故古者聖王之爲政也，言曰：「不義不富，不義不貴，不義不親，不義不近。」是以國之",
+      "note": "富貴、親者、近者各自說「始我所恃者」而在不避貧賤親疏的選舉原則下「皆競爲義」，明說人會依所倚恃的權勢與公平標準調整品行",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "尚賢中",
+      "para_index": 4,
+      "para_id": "mozi#09-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今王公大人亦欲效人以尚賢使能爲政，高予之爵，而祿不從也。夫高爵而無祿，民不信也。",
+      "note": "受爵而無祿者判斷「此非中實愛我也，假藉而用我也」，明說工具化用人會破壞親信；其後又把賞罰失當連到不孝、盜竊、倍畔等品行後果",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "尚賢中",
+      "para_index": 8,
+      "para_id": "mozi#09-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "然則富貴爲暴以得其罰者，誰也？曰：若昔者三代暴王桀紂幽厲者是也。何以知其然也？曰",
+      "note": "桀紂幽厲「兼而憎之，從而賊之」寫暴政，「賊殺萬民」寫明惡行，而「天鬼罰之」宣告神聖懲罰；拿掉任一格都會少掉本段的一層判斷",
+      "co_domains": [
+        "V",
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "尚賢中",
+      "para_index": 9,
+      "para_id": "mozi#09-p09",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "然則親而不善以得其罰者，誰也？曰：若昔者伯鯀，帝之元子，廢帝之德庸，旣乃刑之于羽",
+      "note": "伯鯀雖爲「帝之元子」，卻因「親而不善」受刑而「帝亦不愛」，以父子親情、掌權者不徇親的公正及不善之行三者構成同一衝突",
+      "co_domains": [
+        "IV",
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "尚賢中",
+      "para_index": 10,
+      "para_id": "mozi#09-p10",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "然則天之所使能者，誰也？曰：若昔者禹稷皋陶是也。何以知其然也？先王之書《呂刑》道",
+      "note": "禹稷皋陶「謹其言，愼其行，精其思慮」並使萬民長久受利，拆出了德行與利民責任；「上事天，則天鄉其德」又宣告天會欣賞其德",
+      "co_domains": [
+        "V",
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "尚賢下",
+      "para_index": 5,
+      "para_id": "mozi#10-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "曰：今也天下之士君子，皆欲富貴而惡貧賤。然女何爲而得富貴而辟貧賤？曰：莫若爲賢。",
+      "note": "「有力者疾以助人，有財者勉以分人，有道者勸以教人」把成爲賢者拆成助人、分財與教人的行動，並連到飢寒得濟與亂者得治，分別涉及公益、品格及才能傳授",
+      "co_domains": [
+        "V",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "尚賢下",
+      "para_index": 6,
+      "para_id": "mozi#10-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今天下之士君子，皆欲富貴而惡貧賤。然女何爲而得富貴而辟貧賤哉？曰：莫若爲王公大人",
+      "note": "「皆欲富貴而惡貧賤」先說人的欲惡；當賞罰只依不可學的親貴美貌時，百姓便「沮以爲善」、不肯勞作、分財與教誨，明說不公如何摧毀品行及投入",
+      "co_domains": [
+        "V",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "尚同上",
+      "para_index": 1,
+      "para_id": "mozi#11-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子墨子言曰：古者民始生未有刑政之時，蓋其語，人異義。是以一人則一義，二人則二義，",
+      "note": "「人是其義，以非人之義」把人人自是、互相非難說成亂源，並明寫其後果是父子兄弟怨惡離散及百姓相害不相助，分別落在品格判斷、家庭與社會關係",
+      "co_domains": [
+        "IV",
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "尚同中",
+      "para_index": 1,
+      "para_id": "mozi#12-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子墨子言曰：方今之時，復古之民始生未有正長之時，蓋其語曰：「天下之人異義。」是以",
+      "note": "「人是其義，而非人之義，故交相非也」又說人們不相勞、不相教、不相分，把各自認定自己的義與彼此隔絕說成家人離散及天下衝突的根源",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "尚同中",
+      "para_index": 9,
+      "para_id": "mozi#12-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今天下之人曰：方今之時，天下之正長猶未廢乎天下也，而天下之所以亂者，何故之以也？",
+      "note": "「則此豈刑不善哉？用刑則不善也」並以善用口出好、不善用口成讒賊作對照，把禍福歸到使用者如何運用刑與言語的善惡責任",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "兼愛上",
+      "para_index": 2,
+      "para_id": "mozi#14-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "聖人以治天下爲事者也，不可不察亂之所自起。當察亂何自起？起不相愛。臣子之不孝君父",
+      "note": "「子自愛不愛父，故虧父而自利」一路推至盜賊、亂家與攻國，把只愛自己或本群而犧牲他人說成不孝、不慈及社會侵害的共同根源",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "兼愛上",
+      "para_index": 3,
+      "para_id": "mozi#14-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "察此何自起？皆起不相愛。若使天下兼相愛，愛人若愛其身，猶有不孝者乎？視父兄與君若",
+      "note": "「視父兄與君若其身」及「視人國若其國」把同等看待他人連到孝慈、止盜與止攻，主張不偏私的品格可重整家庭與群體關係",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "兼愛上",
+      "para_index": 4,
+      "para_id": "mozi#14-p04",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "故聖人以治天下爲事者，惡得不禁惡而勸愛？故天下兼相愛則治，交相惡則亂。故子墨子曰",
+      "note": "「禁惡而勸愛」及「兼相愛則治，交相惡則亂」把勸人相愛、禁止相惡同時說成品格要求與群體治亂的原理",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "兼愛中",
+      "para_index": 1,
+      "para_id": "mozi#15-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子墨子言曰：仁人之所以爲事者，必興天下之利，除去天下之害，以此爲事者也。然則天下",
+      "note": "「强必執弱，衆必劫寡，富必侮貧，貴必敖賤，詐必欺愚」具體拆開權勢欺凌，並以「不相愛」說明偏私如何生出禍篡怨恨",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "兼愛中",
+      "para_index": 2,
+      "para_id": "mozi#15-p02",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "旣以非之，何以易之？子墨子言曰：以兼相愛、交相利之法易之。然則兼相愛、交相利之法",
+      "note": "「視人之國若視其國，視人之家若視其家，視人之身若視其身」要求不偏私地待人，並連到不戰、不篡、不賊及君臣父子兄弟和調",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "兼愛中",
+      "para_index": 7,
+      "para_id": "mozi#15-p07",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "是故子墨子言曰：今天下之士君子，忠實欲天下之富，而惡其貧；欲天下之治，而惡其亂，",
+      "note": "套語之後的承重句是「當兼相愛、交相利」，把互愛互利明定爲士君子的行爲責任與天下治道，而不是只列富國治亂的政策目標",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "兼愛下",
+      "para_index": 1,
+      "para_id": "mozi#16-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "子墨子言曰：仁人之事者，必務求興天下之利，除天下之害。然當今之時，天下之害孰爲大",
+      "note": "「强之劫弱，衆之暴寡」與「君者之不惠也，臣者之不忠也」把天下之害落在人際權力失衡與不惠不忠的品格上，並以「仁人之事者，必務求興天下之利」提出規範",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "兼愛下",
+      "para_index": 2,
+      "para_id": "mozi#16-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "子墨子曰：非人者，必有以易之。若非人而無以易之，譬之猶以水救火也，其說將必無可焉",
+      "note": "「爲人之國若爲其國」主張把他國、他都、他家視同己有便不相攻亂，並以「兼以易別」要求用愛人利人的品格取代交別",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "兼愛下",
+      "para_index": 4,
+      "para_id": "mozi#16-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "然而天下之士非兼者之言猶未止也，曰：「兼卽善矣，雖然，豈可用哉？」子墨子曰：用而",
+      "note": "「爲其友之身若爲其身，爲其友之親若爲其親」把友誼中的照護與託付說成可檢驗的行爲，而「言必信，行必果」又明定可信品格；危難時人必託付於兼士，故非空",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "兼愛下",
+      "para_index": 6,
+      "para_id": "mozi#16-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "然而天下之士非兼者之言猶未止也，曰：兼卽仁矣，義矣。雖然，豈可爲哉？吾譬兼之不可",
+      "note": "本段反覆以「卽此文王兼也」「卽此禹兼也」「卽此湯兼也」把史例接回無私、利天下與自我犧牲的公義品格；我把「以祠說于上帝鬼神」讀作湯兼愛的引證而非本段另行認證鬼神，故不標 XII",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "兼愛下",
+      "para_index": 8,
+      "para_id": "mozi#16-p08",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "故兼者，聖王之道也，王公大人之所以安也，萬民衣食之所以足也。故君子莫若審兼而務行",
+      "note": "「爲人君必惠，爲人臣必忠」規範公共角色與領導責任，不能拿掉 V；「爲人父必慈，爲人子必孝，爲人兄必友，爲人弟必悌」同時明定家庭責任與惠忠慈孝的品格，分別承重 IV 與 VII",
+      "co_domains": [
+        "V",
+        "IV"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非攻上",
+      "para_index": 1,
+      "para_id": "mozi#17-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子墨子言曰：古者王公大人情欲得而惡失，欲安而惡危，故當攻戰而不可不非。今有一人，",
+      "note": "從竊桃李、攘牲畜到殺人與攻國，段落以「苟虧人愈多，其不仁茲甚，罪益厚」建立傷害越大越不仁不義的尺度，並批評公共權力反而稱攻國爲義",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非攻上",
+      "para_index": 2,
+      "para_id": "mozi#17-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "殺一人謂之不義，必有一死罪矣。若以此說往，殺十人十重不義，必有十死罪矣；殺百人百",
+      "note": "「殺一人謂之不義」卻在殺十人、百人乃至攻國時轉而譽之爲義，指出人的道德判斷隨規模增大反而失準，核心是義與不義的良心辨別",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非攻上",
+      "para_index": 3,
+      "para_id": "mozi#17-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今有人於此，少見黑曰黑，多見黑曰白，則以此人不知白黑之辯矣；少嘗苦曰苦，多嘗苦曰",
+      "note": "「少見黑曰黑，多見黑曰白」與小非、大非的對照，收束於「天下之君子也，辯義與不義之亂也」，明說人對善惡的辨別發生矛盾",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非攻中",
+      "para_index": 3,
+      "para_id": "mozi#18-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "飾攻戰者也言曰：南則荆吳之王，北則齊晉之君，始封於天下之時，其土地之方，未至有數",
+      "note": "以萬人服藥僅四五人得利比擬少數國家因攻戰獲利，並說「故孝子不以食其親，忠臣不以食其君」，把照護者不應以僥倖危害所負責之人的品格接回多國因戰而亡的公共後果",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非攻中",
+      "para_index": 4,
+      "para_id": "mozi#18-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "飾攻戰者之言曰：彼不能收用彼衆，是故亡。我能收用我衆，以此攻戰於天下，誰敢不賓服",
+      "note": "夫差「自恃其力，伐其攻，譽其智，怠於教」而使吳人有「離罷之心」，把驕矜失德與上下離心、國亡相連；智伯擴張又促成三家合力，承重領導品格與群體權力關係",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非攻下",
+      "para_index": 1,
+      "para_id": "mozi#19-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "子墨子言曰：今天下之所譽善者，其說將何哉？爲其上中天之利，而中中鬼之利，而下中人",
+      "note": "「天賞之，鬼富之，人譽之」明確認證天與鬼會賞富行義者，承重 XII；又以盲者只能同稱白黑之名卻不能辨物，要求「順慮其義而後爲之行」，承重善惡的實質辨別",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非攻下",
+      "para_index": 6,
+      "para_id": "mozi#19-p06",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "則夫好攻伐之君又飾其說曰：我非以金玉子女壤地爲不足也，我欲以義名立於天下，以德來",
+      "note": "「大國之攻小國也，則同救之」並在城壞、糧缺時修城供給，規範強弱國間的公共責任；「寬以惠，緩易急，民必移」又把仁惠品格與人民願意歸附的反應說成依據",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非攻下",
+      "para_index": 7,
+      "para_id": "mozi#19-p07",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "是故子墨子曰：今且天下之王公大人士君子，中情將欲求興天下之利，除天下之害，當若繁",
+      "note": "「繁爲攻伐，此實天下之巨害也」判定戰爭損害國家百姓的公共利益，並以「欲爲仁義，求爲上士」要求士君子依仁義品格實踐非攻",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "節用中",
+      "para_index": 1,
+      "para_id": "mozi#21-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子墨子言曰：古者明王聖人所以王天下、正諸侯者，彼其愛民謹忠，利民謹厚，忠信相連，",
+      "note": "「愛民謹忠，利民謹厚，忠信相連」把王天下的根據落在領導者對人民的關係（V）與忠信且「終身不饜」的品格（VII）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "節葬下",
+      "para_index": 1,
+      "para_id": "mozi#22-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "子墨子言曰：仁者之爲天下度也，辟之無以異乎孝子之爲親度也。今孝子之爲親度也，將柰",
+      "note": "「親貧則從事乎富之」並不遺餘力，拆明孝子照顧親人的責任（IV）；再推到仁者爲天下盡力（V），而孝與仁都由具體盡責行爲界定（VII），三格各少不得",
+      "co_domains": [
+        "IV",
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "節葬下",
+      "para_index": 2,
+      "para_id": "mozi#22-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "今逮至昔者三代聖王既沒，天下失義。後世之君子，或以厚葬久喪以爲仁也、義也、孝子之",
+      "note": "本段把厚葬久喪是否「孝子之事」（IV）與是否爲「仁也，義也」（VII）交給富、衆、治三項後果檢驗，並據結果主張勸行或沮止",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "節葬下",
+      "para_index": 5,
+      "para_id": "mozi#22-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "欲以治刑政，意者可乎？其說又不可矣。今惟無以厚葬久喪者爲政，國家必貧，人民必寡，",
+      "note": "「上不聽治」「盜賊衆」寫群體秩序崩解（V），弟怨兄、子怨親明寫怨的內在反應（VI），「僻淫邪行」「淫暴」又把匱乏連到品行敗壞（VII）",
+      "co_domains": [
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "節葬下",
+      "para_index": 10,
+      "para_id": "mozi#22-p10",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "今王公大人之爲葬埋，則異於此。必大棺、中棺，革闠三操，璧玉即具，戈劒鼎鼓壺濫、文",
+      "note": "本段把葬埋與「孝子之事」相連（IV），明判厚葬久喪爲「非仁」「非義」（VII），又說求上帝鬼神之福反而「得禍」（XII）；親屬義務、道德判斷與神聖賞罰各有獨立落點",
+      "co_domains": [
+        "IV",
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "節葬下",
+      "para_index": 11,
+      "para_id": "mozi#22-p11",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "今執厚葬久喪者言曰：厚葬久喪果非聖王之道，夫胡說中國之君子爲而不已、操而不擇哉？",
+      "note": "三國異俗與末段葬法都在處理親戚、祭親與孝的家族實踐（IV）及死後安葬（X）；「便其習而義其俗」則明辨習俗未必就是仁義（VII），三層皆由本段展開",
+      "co_domains": [
+        "IV",
+        "X"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "天志上",
+      "para_index": 1,
+      "para_id": "mozi#23-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子墨子言曰：今天下之士君子，知小而不知大。何以知之？以其處家者知之。若處家得罪於",
+      "note": "「天下之士君子，知小而不知大」及「忽然不知以相儆戒」批評其失於戒慎（VII），而「天不可爲林谷幽閒無人，明必見之」明認天的監察無可逃避（XII）",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "天志上",
+      "para_index": 2,
+      "para_id": "mozi#23-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "然則天亦何欲何惡？天欲義而惡不義。然則率天下之百姓以從事於義，則我乃爲天之所欲也",
+      "note": "「天欲義而惡不義」直接賦予天以意志（XII），並把人是否從事於義及其禍福後果連成善惡判準（VII）",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "天志上",
+      "para_index": 3,
+      "para_id": "mozi#23-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "然則何以知天之欲義而惡不義？曰：天下有義則生，無義則死；有義則富，無義則貧；有義",
+      "note": "「有義則生，無義則死」等排比把義與不義立爲善惡因果（VII），再由天欲生、富、治推出「天欲義而惡不義」（XII）",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "天志上",
+      "para_index": 5,
+      "para_id": "mozi#23-p05",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "故天子者，天下之窮貴也，天下之窮富也。故欲富且貴者，當天意而不可不順。順天意者，",
+      "note": "「兼相愛、交相利」與賊人分別寫公共關係（V）及善惡行爲（VII），天意使前者受賞、後者受罰則認證神聖賞罰（XII）；禹湯文武與桀紂幽厲的史例承載三層主張",
+      "co_domains": [
+        "V",
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "天志上",
+      "para_index": 6,
+      "para_id": "mozi#23-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "然則何以知天之愛天下之百姓？以其兼而明之。何以知其兼而明之？以其兼而有之。何以知",
+      "note": "「天之愛天下之百姓」把所有人納入共同關切（V），殺一無辜被判爲不可爲（VII），而不祥由天所予直接認證天的愛與制裁（XII），三格各有明句",
+      "co_domains": [
+        "V",
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "天志上",
+      "para_index": 7,
+      "para_id": "mozi#23-p07",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "順天意者，義政也。反天意者，力政也。然義政將柰何哉？子墨子言曰：處大國不攻小國，",
+      "note": "不以大攻小、强劫弱、貴傲賤是權力與公義規範（V），欺愚與否及聖王、暴王之名是品格判斷（VII），整套又明定爲順逆天意並利害天鬼（XII）",
+      "co_domains": [
+        "V",
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "天志上",
+      "para_index": 8,
+      "para_id": "mozi#23-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子墨子言曰：我有天志，譬若輪人之有規，匠人之有矩。輪匠執其規矩，以度天下之方圜，",
+      "note": "「我有天志，譬若輪人之有規，匠人之有矩」把天志立爲超越的明法（XII），並用以判定士君子言說是否合於仁義（VII）",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "天志中",
+      "para_index": 5,
+      "para_id": "mozi#24-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "且夫天下蓋有不仁不祥者，曰：當若子之不事父，弟之不事兄，臣之不事君也。故天下之君",
+      "note": "「天兼天下而愛之」認證天對萬民的普遍恩惠；「獨無報夫天，而不知其爲不仁不祥也」又把不知報天明判爲品格上的不仁不祥",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "天志中",
+      "para_index": 6,
+      "para_id": "mozi#24-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "且吾所以知天之愛民之厚者，有矣。曰：以曆爲日月星辰，以昭道之；制爲四時春秋冬夏，",
+      "note": "「雷降雪霜雨露，以長遂五穀麻絲，使民得而財利之」被用來證成天厚愛人民，末以「無報夫天」爲「不仁不祥」評斷人的忘恩，兼有超越信念與品格判斷",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "天志中",
+      "para_index": 7,
+      "para_id": "mozi#24-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "且吾所以知天愛民之厚者，不止此而已矣。曰：殺不辜者，天予不祥。不辜者誰也？曰：人",
+      "note": "「殺不辜者，天予不祥」與「愛人利人，順天之意，得天之賞」明說天按人的害人或利人行爲賞罰，將神聖報應建立在善惡行止上",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "天志中",
+      "para_index": 10,
+      "para_id": "mozi#24-p10",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "是故子墨子之有天之，辟之無以異乎輪人之有規，匠人之有矩也。今夫輪人操其規，將以量",
+      "note": "「置此以爲法，立此以爲儀」把天意設成衡量言、行、刑政善惡及「仁與不仁」的明確尺度，既以超越意志爲準，也實質區分人的德行",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "天志中",
+      "para_index": 11,
+      "para_id": "mozi#24-p11",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "是故子墨子曰：今天下之王公大人士君子，中實將欲遵道利民，本察仁義之本，天之意不可",
+      "note": "「天之意不可不順也。順天之意者，義之法也」直接勸人順從天意，並把它定爲義的準則，兼具信仰實踐與善惡規範",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "天志下",
+      "para_index": 1,
+      "para_id": "mozi#25-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "子墨子言曰：天下之所以亂者，其說將何哉？則是天下士君子皆明於小而不明於大。何以知",
+      "note": "「得罪於天，將無所以避逃之者矣」主張人無法逃離天的問責；末句「必爲天之所欲，而去天之所惡」把這一信念化爲善惡行止的警戒",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "天志下",
+      "para_index": 2,
+      "para_id": "mozi#25-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "曰：天之所欲者何也？所惡者何也？天欲義而惡其不義者也。何以知其然也？曰：義者，正",
+      "note": "「天欲義而惡其不義」明認天有道德意向，又以「天子有善，天能賞之；天子有過，天能罰之」證其賞罰，並要求欲爲義者順天意",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "天志下",
+      "para_index": 4,
+      "para_id": "mozi#25-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "且天之愛百姓也，不盡物而止矣。今天下之國，粒食之民，國殺一不辜，必有一不祥。曰：",
+      "note": "「天以爲從其所愛而愛之，從其所利而利之」明認天依善惡施行賞罰；三代聖王與暴王的對例又把愛利百姓、殘害百姓拆成可判的德行",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "天志下",
+      "para_index": 6,
+      "para_id": "mozi#25-p06",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "故子墨子置立天之，以爲儀法，若輪人之有規，匠人之有矩也。今輪人以規，匠人以矩，以",
+      "note": "「置立天之，以爲儀法」以天志作超越判準；段中反覆說攻伐之君與鄰君「不知此爲不仁不義」，並寫後子沿襲，明指道德盲點如何世代延續",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "天志下",
+      "para_index": 7,
+      "para_id": "mozi#25-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "所謂小物則知之者，何若？今有人於此，入人之場園，取人之桃李瓜薑者，上得且罰之，衆",
+      "note": "「或殺人，其國家禁之」卻在「多殺其鄰國之人」時「因以爲大義」，以黑白甘苦之辨揭露統治者對個人殺害與國家攻伐採雙重標準，直指公共正義與良知判斷",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "天志下",
+      "para_index": 8,
+      "para_id": "mozi#25-p08",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "故子墨子置天之，以爲儀法。非獨子墨子以天之志爲法也，於先王之書《大夏》之道之然：",
+      "note": "「天之志者，義之經也」把天志立爲義的常準，並要求真欲仁義及百姓之利者「當天之志而不可不察也」，是依神聖準則作道德勸誡",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "明鬼下",
+      "para_index": 1,
+      "para_id": "mozi#26-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子墨子言曰：逮自昔三代聖王既沒，天下失義，諸侯力正，是以存夫爲人君臣上下者之不惠",
+      "note": "「皆以疑惑鬼神之有與無之別，不明乎鬼神之能賞賢而罰暴也」把失義與暴亂歸因於不信鬼神賞賢罰暴，兼及信仰與品格後果",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "明鬼下",
+      "para_index": 3,
+      "para_id": "mozi#26-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "今執無鬼者言曰：夫天下之爲聞見鬼神之物者，不可勝計也。亦孰爲聞見鬼神有無之物哉？",
+      "note": "杜伯顯形射殺宣王的故事收束為「凡殺不辜者，其得不祥，鬼神之誅，若此之憯遫也」，以鬼神懲罰不義殺人",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "明鬼下",
+      "para_index": 4,
+      "para_id": "mozi#26-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "非惟若書之說爲然也，昔者鄭穆公當晝日中處乎廟，有神入門而左，鳥身，素服三絕，面狀",
+      "note": "句芒稱「帝享女明德，使予錫女壽十年有九」，把明德與神所賜的壽命、國家蕃昌直接相連",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "明鬼下",
+      "para_index": 5,
+      "para_id": "mozi#26-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "非惟若書之說爲然也，昔者燕簡公殺其臣莊子儀而不辜，莊子儀曰：「吾君王殺我而不辜，",
+      "note": "莊子儀死後擊殺燕簡公的敘事以「凡殺不辜者，其得不祥，鬼神之誅」作結，主張冤殺會受鬼罰",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "明鬼下",
+      "para_index": 6,
+      "para_id": "mozi#26-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "非惟若書之說爲然也，昔者宋文君鮑之時，有臣曰𥙐觀辜固嘗從事於厲，祩子杖楫出，與言",
+      "note": "祩子因祭品不潔而殺觀辜，結語「諸不敬慎祭祀者，鬼神之誅」把敬慎祭祀的品行連到鬼神懲罰",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "明鬼下",
+      "para_index": 7,
+      "para_id": "mozi#26-p07",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "非惟若書之說爲然也，昔者齊莊君之臣有所謂王里國、中里徼者。此二子者，訟三年而獄不",
+      "note": "神羊懲罰盟誓不實者，並以「施行不可以不董，見有鬼神視之」主張無人處也須自持，因鬼神正在監察",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "明鬼下",
+      "para_index": 13,
+      "para_id": "mozi#26-p13",
+      "modes": [
+        "proposition",
+        "ritual"
+      ],
+      "excerpt": "且《商書》獨鬼，而《夏書》不鬼，則未足以爲法也。然則姑嘗上觀乎《夏書》，《禹誓》",
+      "note": "「故古聖王必以鬼神爲賞賢而罰暴」明說鬼神依善暴施行賞罰，祖社的賞僇儀節用來承載此主張",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "明鬼下",
+      "para_index": 14,
+      "para_id": "mozi#26-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是故子墨子曰：嘗若鬼神之能賞賢如罰暴也，蓋本施之國家，施之萬民，實所以治國家、利",
+      "note": "「鬼神見之」使官吏「不敢不絜廉」、暴亂盜賊由此止，主張相信神明監察會約束人的善惡行止",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "明鬼下",
+      "para_index": 15,
+      "para_id": "mozi#26-p15",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "故鬼神之明，不可爲幽閒、廣澤、山林、深谷，鬼神之明必知之。鬼神之罰，不可爲富貴衆",
+      "note": "「鬼神之罰必勝之」主張富貴、勇武與甲兵皆不能抵禦神罰，桀因「詬天侮鬼」「殃傲萬民」受罰作為例證",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "明鬼下",
+      "para_index": 16,
+      "para_id": "mozi#26-p16",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "且不惟此爲然。昔者殷王紂貴爲天子，富有天下，上詬天侮鬼，下殃傲天下之萬民，播棄黎",
+      "note": "紂「誅賊孩子，楚毒無罪」而終不能「圉鬼神之誅」，敘事落在鬼神無論對象大小都賞善罰惡的原則",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非樂上",
+      "para_index": 1,
+      "para_id": "mozi#27-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子墨子言曰：仁人之事者，必務求興天下之利，除天下之害。將以爲法乎天下，利人乎即爲",
+      "note": "「利人乎即爲，不利人乎即止」界定仁人的行事尺度，並以「虧奪民衣食之財，仁者弗爲」把品格落到公共利益",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非樂上",
+      "para_index": 2,
+      "para_id": "mozi#27-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是故子墨子之所以非樂者，非以大鍾、鳴鼓、琴瑟、竽笙之聲以爲不樂也，非以刻鏤華文章",
+      "note": "雖承認「身知其安」「口知其甘」「目知其美」「耳知其樂」，仍以是否「中萬民之利」判定「爲樂非也」，主張個人享受須受公共善約束",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非樂上",
+      "para_index": 9,
+      "para_id": "mozi#27-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "何以知其然也？曰：先王之書湯之《官刑》有之，曰：「其恒舞於宮，是謂巫風。其刑，君",
+      "note": "本段把古書引文接回「徒從飾樂也」與「下者萬民弗利」，讀作縱樂致亡、傷害萬民的品格與社會主張；「上帝弗常」在此作非樂的徵引論據，不另標 XII",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非命上",
+      "para_index": 5,
+      "para_id": "mozi#28-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是故古之聖王發憲出令，設以爲賞罰以勸賢。是以入則孝慈於親戚，出則弟長於鄉里，坐處",
+      "note": "有命說使人「不慈孝於親戚」「不弟長於鄉里」，破壞父子兄弟之道；又否認賢暴與賞罰相關，終成「凶言」「暴人之道」，分別落在家庭倫理、品格責任與宿命觀的後果",
+      "co_domains": [
+        "IV",
+        "XI"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非命上",
+      "para_index": 6,
+      "para_id": "mozi#28-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "然則何以知命之爲暴人之道？昔上世之窮民，貪於飲食，惰於從事，是以衣食之財不足，而",
+      "note": "窮民不承認「我罷不肖，從事不疾」、暴王不承認「爲政不善」，反稱「命固且貧」「命固失之」，直指以命運掩飾自己的怠惰、失德與責任",
+      "co_domains": [
+        "II",
+        "XI"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非命中",
+      "para_index": 3,
+      "para_id": "mozi#29-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "是故昔者三代之暴王，不繆其耳目之淫，不慎其心志之辟，外之敺騁田獵畢弋，內沈於酒樂",
+      "note": "暴王「沈於酒樂，而不顧其國家百姓之政」、窮民「貪飲食而惰從事」卻各以「我命」卸責，段末遂判定執有命是「天下之厚害」而要求「不可不疾非」，兼論自主責任與品格敗壞",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非命下",
+      "para_index": 3,
+      "para_id": "mozi#30-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "然今以命爲有者，昔三代暴王桀紂幽厲，貴爲天子，富有天下。於此乎不而矯其耳目之欲，",
+      "note": "桀紂「從其心意之辟」而失宗廟，罷民「貪飲食而惰從事」而陷飢寒，卻都說「吾命固將……」，以具體惡行揭出拿命定掩飾自身過失的品格問題",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非儒下",
+      "para_index": 1,
+      "para_id": "mozi#31-p01",
+      "modes": [
+        "ritual",
+        "proposition"
+      ],
+      "excerpt": "儒者曰：「親親有術，尊賢有等。」言親疏尊卑之異也。其禮曰：「喪父母三年，妻、後子",
+      "note": "本段逐項比較父母、妻子與宗族的喪期，指出其親疏尊卑相互顛倒；又以求死者若信其仍在則「戇愚」、若知其亡仍求則「僞亦大矣」，把喪親禮制連到真僞品格",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非儒下",
+      "para_index": 2,
+      "para_id": "mozi#31-p02",
+      "modes": [
+        "ritual",
+        "proposition"
+      ],
+      "excerpt": "取妻身迎，祗褍爲僕，秉轡授綏，如仰嚴親。昏禮威儀，如承祭祀。顛覆上下，悖逆父母，",
+      "note": "「顛覆上下，悖逆父母，下則妻子，妻子上侵」批評婚禮與服喪倒置親屬次序，並以「厚所至私，輕所至重」斷爲偏私與欺誣，兼論家庭倫理及品格",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非儒下",
+      "para_index": 4,
+      "para_id": "mozi#31-p04",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "且夫繁飾禮樂以淫人，久喪僞哀以謾親，立命緩貧而高浩居，倍本棄事而安怠徹。貪於飲食",
+      "note": "「貪於飲食，惰於作務」把儒者的貪惰落到具體行止，後文又寫其見富人有喪便喜稱「此衣食之端也」，批評以他人喪事謀食的品格與棄業怠作",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非儒下",
+      "para_index": 5,
+      "para_id": "mozi#31-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "儒者曰：「君子必古服言，然後仁。」應之曰：所謂古之服言者，皆嘗新矣，而古人服之、",
+      "note": "儒者以「古服言」作爲成仁條件，反詰則指出那些服言在古人當時也曾是新的，從而否定僅憑仿古外表與語言即可成爲君子的品格標準",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非儒下",
+      "para_index": 6,
+      "para_id": "mozi#31-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "又曰：「君子循而不作。」應之曰：古者羿作弓，伃作甲，奚仲作車，巧垂作舟。然則今之",
+      "note": "以羿作弓、伃作甲、奚仲作車、巧垂作舟反駁「君子循而不作」，指出一切所循之物「人必或作之」，不應以創制或承襲作爲君子與小人的界線",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非儒下",
+      "para_index": 7,
+      "para_id": "mozi#31-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "又曰：「君子勝不逐奔，揜函弗射，强則助之胥車。」應之曰：若皆仁人也，則無說而相與",
+      "note": "文本稱仁人會以「取舍是非之理相告」而「見善必遷」，又指出若姑息暴亂使「天下害不除」，便是「不義莫大焉」，直接討論公共除害與善惡判準",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非儒下",
+      "para_index": 8,
+      "para_id": "mozi#31-p08",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "又曰：「君子若鍾，擊之則鳴，弗擊不鳴。」應之曰：夫仁人事上竭忠，事親得孝，務善則",
+      "note": "「事上竭忠，事親得孝，務善則美，有過則諫」把臣子的忠孝與主動進諫拆成行爲準則；明知君親將遇大亂卻「不問不言」則被判爲不忠不良，承重在關係責任與品格",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非儒下",
+      "para_index": 9,
+      "para_id": "mozi#31-p09",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "夫一道術學業，仁義也。皆大以治人，小以任官，遠用徧施，近以脩身，不義不處，非理不",
+      "note": "先以「大以治人，小以任官」及「不義不處，非理不行」界定君子之道，再藉晏子所述孔丘助白公亂上、使君臣受危的故事，評判政治責任與仁義品格",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非儒下",
+      "para_index": 10,
+      "para_id": "mozi#31-p10",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孔丘之齊，見景公。景公說，欲封之以尼谿，以告晏子。晏子曰：「不可。夫儒，浩居而自",
+      "note": "晏子以「不可使親治」「不可使守職」「不可以導衆」評估儒者不適任公共職責，後敘孔丘因怒而布置列國相攻，終致「齊吳破國之難，伏尸以言術數」，將私憤與操弄連到群體災害",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非儒下",
+      "para_index": 12,
+      "para_id": "mozi#31-p12",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孔丘窮於蔡陳之閒，藜羹不糂。十日，子路爲享豚，孔丘不問肉之所由來而食。褫人衣以酤",
+      "note": "孔丘在陳蔡「藜羹不糂」十日的飢困中不問肉酒來路，飽後卻席割不正不取；收束句以「飢約則不辭妄取以活身，贏飽則僞行以自飾」批評身體困境前後的虛僞品格",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非儒下",
+      "para_index": 13,
+      "para_id": "mozi#31-p13",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孔丘與其門弟子閒坐，曰：「夫舜見瞽叟就然，此時天下圾乎！周公旦非其人也邪？何爲舍",
+      "note": "列舉孔丘弟子效法其師而參與叛亂後，以「夫爲弟子，後生其師，必脩其言，法其行」明說師徒學習會傳承言行，並由教師行止推及弟子的品格後果",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經上",
+      "para_index": 1,
+      "para_id": "mozi#32-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "故，所得而後成也。體，分於兼也。知，材也。慮，求也。知，接也。智，明也。仁，體愛",
+      "note": "`經上`[1] 內第7條「仁，體愛也」與第8條「義，利也」直接界定德性，承重於善惡品格；第13條「孝，利親也」把孝落在利親，涉及家庭倫理；第34至38條以「君，臣萌通約也」「功，利民也」「賞，上報下之功也」界定君臣、利民與上下責任，若拿掉便少了群體權力關係這一層。其餘如第59條「圜，一中同長也」等幾何、認知與名實條只作技術定義，不另給領域",
+      "co_domains": [
+        "IV",
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經下",
+      "para_index": 1,
+      "para_id": "mozi#33-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "止，類以行之，說在同。推類之難，說在之大小。物盡同名，二與鬭，愛，食與招，白與視",
+      "note": "`經下`[1] 內第83條「仁義之爲內外也，孛」針對仁義本身否定一種矛盾界說，不能把德目換成任意中性符號而仍保持同一主張，故涉及品格倫理；第84條「學之益也」直接主張學習有益，涉及學與成就。第1條「止，類以行之」及影、鑑、堅白諸條仍是論式、光學與名實的技術 formalization，不因整段非空而獲得領域",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經說上",
+      "para_index": 7,
+      "para_id": "mozi#34-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "仁，愛民者，非爲用民也，不若愛馬者，若明。",
+      "note": "「愛民者，非爲用民也，不若愛馬者」把仁界定為不把人當工具的愛，直接說明德性的內容",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經說上",
+      "para_index": 8,
+      "para_id": "mozi#34-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "義，志以天下爲芬，而能能利之，不必用。",
+      "note": "「志以天下爲芬，而能能利之」把義說成以天下為志向並有利天下的能力，同時涉及公共責任與德性",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經說上",
+      "para_index": 11,
+      "para_id": "mozi#34-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "實，其志氣之見也，使人如己，不若金聲玉服。",
+      "note": "「其志氣之見也，使人如己，不若金聲玉服」把真實的感召歸於志氣的顯現而非華飾，提出品格真實性的判準",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經說上",
+      "para_index": 12,
+      "para_id": "mozi#34-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "忠，不利弱子亥足將入止容。",
+      "note": "「忠，不利弱子亥足將入止容」雖文句殘澀，仍以「忠」為題並就利害弱者的行為拆解此德目，不是可任意換名的論式",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經說上",
+      "para_index": 14,
+      "para_id": "mozi#34-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "信，不以其言之當也，使人視城得金。",
+      "note": "「信，不以其言之當也」指出可信不等同於話語偶然說中，藉「使人視城得金」區分品格與結果",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經說上",
+      "para_index": 15,
+      "para_id": "mozi#34-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "𧨜，爲是之台彼也，弗爲也。",
+      "note": "「爲是之台彼也，弗爲也」以對此彼之事做或不做來解說𧨜，將德目落到具體行為選擇",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經說上",
+      "para_index": 16,
+      "para_id": "mozi#34-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "廉，己惟爲之，知其也𦖷也。",
+      "note": "「廉，己惟爲之，知其也𦖷也」以自己是否去做及明知其情來拆解廉，屬對品格行為的界定",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經說上",
+      "para_index": 17,
+      "para_id": "mozi#34-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "任，爲身之所惡，以成人之所急。",
+      "note": "「爲身之所惡，以成人之所急」把任界定為承受自己所厭惡之事以成全他人急需，明說自我犧牲的品格",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經說上",
+      "para_index": 18,
+      "para_id": "mozi#34-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "勇，以其敢於是也，命之，不以其不敢於彼也，害之。",
+      "note": "「以其敢於是也，命之，不以其不敢於彼也，害之」主張應按具體所敢之事評定勇，而不能因他事不敢便貶損",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經說上",
+      "para_index": 24,
+      "para_id": "mozi#34-p24",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "譽之，必其行也、其言也使人忻。",
+      "note": "「必其行也、其言也使人忻」把稱譽繫於言行使人欣悅的實際效果，兼及情緒反應與品格評價",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經說上",
+      "para_index": 25,
+      "para_id": "mozi#34-p25",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "誹之，必其行也、其言也使人督。",
+      "note": "「必其行也、其言也使人督」把誹責繫於言行引起他人督責的效果，兼及內在反應與善惡評價",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經說上",
+      "para_index": 30,
+      "para_id": "mozi#34-p30",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "罪不在禁，惟害無罪殆姑。",
+      "note": "「罪不在禁」直接判斷罪與禁令的關係，並以「害無罪」觸及對無罪者的傷害，涉及公義與罪責",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經說上",
+      "para_index": 47,
+      "para_id": "mozi#34-p47",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "爲，欲𩁥其指，智不知其害，是智之罪也。若智之、慎之也，無遺於其害也，而猶欲𩁥之，",
+      "note": "「是不以所疑止所欲也」與「是以所疑止所欲也」對照人在利害未明時是否約束欲望，並以知、慎、愚、謀評價其選擇",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經說下",
+      "para_index": 70,
+      "para_id": "mozi#35-p70",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "仁，仁，愛也。義，利也。愛利，此也；所愛、所利，彼也。愛利不相爲內外，所愛利亦不",
+      "note": "「仁，愛也。義，利也」直接界定仁與義的實質內容，並以愛、所愛及利、所利駁仁內義外，德目不可換成中性項而不失主張",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 6,
+      "para_id": "mozi#36-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "殺一人以存天下，非殺一人以利天下也。殺己以存天下，是殺己以利天下。",
+      "note": "「殺一人以存天下，非殺一人以利天下也；殺己以存天下，是殺己以利天下」區分犧牲他人與犧牲自己的道德性質",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 9,
+      "para_id": "mozi#36-p09",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "義可厚，厚之；義可薄，薄之，之謂倫列。德行、君上、老長、親戚，此皆所厚也。爲長厚",
+      "note": "「德行、君上、老長、親戚，此皆所厚也」並說「親厚，厚；親薄，薄」，把義的厚薄落到德行、長幼與親族次序",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 10,
+      "para_id": "mozi#36-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "爲天下厚禹，非爲禹也；爲天下厚愛禹，乃爲禹之愛人也。厚禹之爲加於天下，而厚禹不加",
+      "note": "「爲天下厚愛禹，乃爲禹之愛人也」又以「惡盜之爲加於天下」作對照，主張褒貶應按其是否利害天下",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 12,
+      "para_id": "mozi#36-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "聖人惡疾病，不惡危難。正體不動。",
+      "note": "「聖人惡疾病，不惡危難。正體不動」以不因危難而動搖刻畫聖人的操守，不只是列舉疾病或身體名詞",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 16,
+      "para_id": "mozi#36-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "有厚薄而毋倫列之興利，爲己。",
+      "note": "「有厚薄而毋倫列之興利，爲己」把沒有倫列準則的厚薄興利判定爲爲己，對自利動機作出品格評價",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 26,
+      "para_id": "mozi#36-p26",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "爲賞譽利一人，非爲賞譽利人也。亓不至，無貴於人。",
+      "note": "「爲賞譽利一人，非爲賞譽利人也」以賞譽動機辨別利人的道德性質，重點在行爲是否只是求名",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 34,
+      "para_id": "mozi#36-p34",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "仁而無利愛，利愛生於慮。昔者之慮也，非今日之慮也；昔者之愛人也，非今之愛人也。愛",
+      "note": "「仁而無利愛，利愛生於慮」並辨愛臧、愛獲所由之利，將仁愛的道德性質繫於其考慮與動機",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 35,
+      "para_id": "mozi#36-p35",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "去其愛而天下利，弗能去也？",
+      "note": "「去其愛而天下利，弗能去也」以天下之利追問是否應放下原有之愛，提出個人所愛與公共利益的道德取捨",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 38,
+      "para_id": "mozi#36-p38",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "二子事親，或遇孰，或遇凶，其親也相若，非彼其行益也，外埶無能厚吾利者。",
+      "note": "「二子事親，或遇孰，或遇凶」而「非彼其行益也」，主張外在豐歉不會使其中一人的事親行爲更厚",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 47,
+      "para_id": "mozi#36-p47",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "愛之相若，擇而殺其一人，其類在阬下之鼠。",
+      "note": "「愛之相若，擇而殺其一人」提出在愛相等時仍選殺一人的道德難題，不能換成無關詞項而保持其倫理問題",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 48,
+      "para_id": "mozi#36-p48",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "小仁與大仁，行厚相若，其類在申凡。",
+      "note": "「小仁與大仁，行厚相若」直接比較大小之仁與行爲厚度，對德行的衡量作出判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 49,
+      "para_id": "mozi#36-p49",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "興利除害也，其類在漏雍。",
+      "note": "「興利除害也」把增益與除害表述爲行事準則，而非只掛仁義名號，內容承載明確的善惡方向",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 50,
+      "para_id": "mozi#36-p50",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "厚親不稱行，而類行，其類在江上井。",
+      "note": "「厚親不稱行，而類行」主張對親族的厚待不能脫離其行爲類別，將親疏與德行評量相互制約",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 51,
+      "para_id": "mozi#36-p51",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "不爲己之可學也，其類在獵走。",
+      "note": "「不爲己之可學也」明說不爲私己的取向可以學得，兼及品格方向與後天學習的可能",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 52,
+      "para_id": "mozi#36-p52",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "愛人非爲譽也，其類在逆旅。",
+      "note": "「愛人非爲譽也」排除求譽作爲愛人的真正動機，對善行是否出於名聲作出品格判準",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "小取",
+      "para_index": 4,
+      "para_id": "mozi#37-p04",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "有諸己不非諸人，無諸己不求諸人。",
+      "note": "「有諸己不非諸人，無諸己不求諸人」規定責人與責己須採一致標準，提出不雙重衡量的品格要求",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "耕柱",
+      "para_index": 3,
+      "para_id": "mozi#38-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "治徒娛、縣子碩問於子墨子曰：「爲義孰爲大務？」子墨子曰：「譬若築墻然，能築者築，",
+      "note": "「能談辯者談辯，能說書者說書，能從事者從事，然後義事成也」主張各按所能投入共同義事，兼及行義與才能分工",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "耕柱",
+      "para_index": 4,
+      "para_id": "mozi#38-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "巫馬子謂子墨子曰：「子兼愛天下，未云利也；我不愛天下，未云賊也。功皆未至，子何獨",
+      "note": "在功效尚未出現時仍以奉水、益火兩種「意」分是非，末句「吾亦是吾意，而非子之意也」把道德評價落在行動意向",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "耕柱",
+      "para_index": 5,
+      "para_id": "mozi#38-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子墨子游荆耕柱子於楚，二三子過之，食之三升，客之不厚。二三子復於子墨子曰：「耕柱",
+      "note": "墨子兩次說「未可智也」，而耕柱子後來「遺十金」印證不可由一次薄待客人的表象倉促判定其品行",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "耕柱",
+      "para_index": 6,
+      "para_id": "mozi#38-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "巫馬子謂子墨子曰：「子之爲義也，人不見而助，鬼不見而富，而子爲之，有狂疾！」子墨",
+      "note": "「見子亦從事，不見子亦從事」者較可貴，將無人看見、無外在賞助時仍行義說成品格的價值",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "耕柱",
+      "para_index": 7,
+      "para_id": "mozi#38-p07",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子夏之徒問於子墨子曰：「君子有鬭乎？」子墨子曰：「君子無鬭。」子夏之徒曰：「狗豨",
+      "note": "「言則稱於湯文，行則譬於狗豨」譴責言談崇尚聖王、行為卻以爭鬭比同禽獸的不一致，承重於品格",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "耕柱",
+      "para_index": 8,
+      "para_id": "mozi#38-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "巫馬子謂子墨子曰：「舍今之人而譽先王，是譽槁骨也。譬若匠人然，智槁木也，而不智生",
+      "note": "「天下之所以生者，以先王之道教也」肯定先王之教的作用，又以「可譽而不譽，非仁也」把是否稱揚可譽者連到仁德",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "耕柱",
+      "para_index": 9,
+      "para_id": "mozi#38-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子墨子曰：「和氏之璧，隋侯之珠，三棘六異，此諸侯之所謂良寶也。可以富國家，衆人民",
+      "note": "段落以能否「利民」重估寶物，並以「義可以利人，故曰：義，天下之良寶也」把公共治理與義的價值直接相連",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "耕柱",
+      "para_index": 12,
+      "para_id": "mozi#38-p12",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子墨子曰：「言足以復行者，常之；不足以舉行者，勿常。不足以舉行而常之，是蕩口也。",
+      "note": "「言足以復行者，常之；不足以舉行者，勿常」要求所言能落實於行，否則只是「蕩口」，是對言行品格的規範",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "耕柱",
+      "para_index": 13,
+      "para_id": "mozi#38-p13",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子墨子使管黔𣷫游高石子於衛，衛君致祿甚厚，設之於卿。高石子三朝必盡言，而言無行者",
+      "note": "高石子因「三朝必盡言，而言無行」去位，並以「倍祿而鄉義」受稱許，說明身處君臣仕祿關係仍應以道義而非名利作取捨",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "耕柱",
+      "para_index": 14,
+      "para_id": "mozi#38-p14",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "子墨子曰：「世俗之君子，貧而謂之富則怒，無義而謂之有義則喜，豈不悖哉！」",
+      "note": "「貧而謂之富則怒，無義而謂之有義則喜」揭出人對財富名實敏感、對自身無義卻樂受美名的自我欺瞞",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "耕柱",
+      "para_index": 16,
+      "para_id": "mozi#38-p16",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "有反子墨子而反者，「我豈有罪哉？吾反後。」子墨子曰：「是猶三軍北，失後之人求賞也",
+      "note": "以「三軍北，失後之人求賞」譬喻叛離後才返回者仍不可自稱無罪，判斷的是犯錯後對責任的承擔而非返回先後",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "耕柱",
+      "para_index": 17,
+      "para_id": "mozi#38-p17",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "公孟子曰：「君子不作，術而已。」子墨子曰：「不然，人之其不君子者，古之善者不訹，",
+      "note": "「古之善者則訹之，今之善者則作之，欲善之益多也」主張既傳習古善也創作今善，使善行與人的創造共同增多",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "耕柱",
+      "para_index": 18,
+      "para_id": "mozi#38-p18",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "巫馬子謂子墨子曰：「我與子異，我不能兼愛。我愛鄒人於越人，愛魯人於鄒人，愛我鄉人",
+      "note": "巫馬子主張「有殺彼以利我」，墨子把此說普遍化為「天下欲殺子以利己」，揭示極端自利原則會摧毀共同生活且反噬其倡議者",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "耕柱",
+      "para_index": 19,
+      "para_id": "mozi#38-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子墨子曰：「子之言惡利也？若無所利而不言，是蕩口也。」",
+      "note": "「若無所利而不言，是蕩口也」以是否有所利作為發言是否只是空談的判準，要求言語負有實質善益",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "耕柱",
+      "para_index": 20,
+      "para_id": "mozi#38-p20",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子墨子謂魯陽文君曰：「今有一人於此，羊牛芻豢，雍人但割而和之，食之不可勝食也。見",
+      "note": "楚地已「曠蕪而不可勝辟」仍竊宋鄭閒邑，被比作食物有餘卻竊餅的「竊疾」，把侵略判為權力貪欲與不義",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "耕柱",
+      "para_index": 21,
+      "para_id": "mozi#38-p21",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子墨子曰：「季孫紹與孟伯常治魯國之政，不能相信，而祝於樷社，曰：『苟使我和。』是",
+      "note": "兩位治政者「不能相信」卻只祝求和，被比作「弇其目」而祈求皆視，批評不處理彼此信任與責任、只求外力代勞的悖謬",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "耕柱",
+      "para_index": 22,
+      "para_id": "mozi#38-p22",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子墨子謂駱滑氂曰：「吾聞子好勇。」駱滑氂曰：「然，我聞其鄉有勇士焉，吾必從而殺之",
+      "note": "駱滑氂自稱「好勇」卻必殺勇士，墨子據「欲與其所好，度其所惡」判其實為「惡勇」，揭出自我標榜與行為實質相反",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "貴義",
+      "para_index": 1,
+      "para_id": "mozi#39-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子墨子曰：萬事莫貴於義。今謂人曰：「予子冠履，而斷子之手足，子爲之乎？」必不爲。",
+      "note": "以冠履不若手足、天下不若身逐層比較價值，最後由「萬事莫貴於義也」把義置於生命取捨的最高位置",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "貴義",
+      "para_index": 2,
+      "para_id": "mozi#39-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子墨子自魯之齊，即過故人，謂子墨子曰：「今天下莫爲義，子獨自苦而爲義，子不若已。",
+      "note": "面對「天下莫爲義」仍以一人耕養九人說「耕者不可以不益急」，主張行義者越少，個人對共同需要的道德責任反而越重",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "貴義",
+      "para_index": 4,
+      "para_id": "mozi#39-p04",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子墨子曰：凡言、凡動，利於天鬼百姓者爲之；凡言、凡動，害於天鬼百姓者舍之。凡言、",
+      "note": "「利於天鬼百姓者爲之」與「害於天鬼百姓者舍之」直接以利害規定言動取捨，並以聖王、暴王之行作善惡對照；本段未另行認證鬼神意志或賞罰",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "貴義",
+      "para_index": 5,
+      "para_id": "mozi#39-p05",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子墨子曰：言足以遷行者，常之；不足以遷行者，勿常。不足以遷行而常之，是蕩口也。",
+      "note": "「言足以遷行者，常之；不足以遷行者，勿常」以能否改變行動衡量言語，並斥不能實行而常說者為「蕩口」",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "貴義",
+      "para_index": 6,
+      "para_id": "mozi#39-p06",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "子墨子曰：嘿則思，言則誨，動則事，使三者代御，必爲聖人。",
+      "note": "「嘿則思，言則誨，動則事，使三者代御」把思考、教誨與做事的交替實踐列為成聖的修養途徑",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "貴義",
+      "para_index": 7,
+      "para_id": "mozi#39-p07",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "必去六辟，必去喜、去怒、去樂、去悲、去愛，而用仁義。手足口鼻耳從事於義，必爲聖人",
+      "note": "「必去喜、去怒、去樂、去悲、去愛，而用仁義」明言調御多種情感，並使全身從事於義，以內在節制通向品格養成",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "貴義",
+      "para_index": 8,
+      "para_id": "mozi#39-p08",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "子墨子謂二三子曰：爲義而不能，必無排其道。譬若匠人之斵而不能，無排其繩。",
+      "note": "以匠人斵木失敗也不「排其繩」為喻，要求「爲義而不能」者不可因自身能力未逮便排斥正道，兼及道德堅持與習作改進",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "貴義",
+      "para_index": 10,
+      "para_id": "mozi#39-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子墨子曰：今瞽曰「鉅者，白也。黔者，黑也」，雖明目者無以易之。兼白黑，使瞽取焉，",
+      "note": "以瞽者能說白黑之名卻不能實取作比，指出君子雖能「名仁」，在「兼仁與不仁」時不能選取，故其道德知識只有名而無實",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "貴義",
+      "para_index": 11,
+      "para_id": "mozi#39-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子墨子曰：今士之用身，不若商人之用一布之慎也。商人用一布布，不敢繼苟而讐焉，必擇",
+      "note": "「士之用身，不若商人之用一布之慎也」以商人擇布反襯士人隨「意之所欲」行事，指出對自身選擇失慎會招致刑罰與毀醜",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "貴義",
+      "para_index": 12,
+      "para_id": "mozi#39-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子墨子曰：世之君子欲其義之成，而助之脩其身則慍，是猶欲其墻之成，而人助之築則慍也",
+      "note": "「欲其義之成」卻在別人「助之脩其身」時發怒，被比作想成牆又怒人助築，揭出願望與拒絕自我修養之間的矛盾",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "貴義",
+      "para_index": 16,
+      "para_id": "mozi#39-p16",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子墨子仕人於衛，所仕者至而反。子墨子曰：「何故反？」對曰：「與我言而不當，曰『待",
+      "note": "仕者先稱因承諾「不當」而離去，卻承認若授過千盆便「不去」，墨子遂揭明「非爲其不審也，爲其寡也」，辨出原則說辭下的逐利動機",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "貴義",
+      "para_index": 17,
+      "para_id": "mozi#39-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子墨子曰：世俗之君子，視義士不若視負粟者。今有人於此，負粟息於路側，欲起而不能，",
+      "note": "世俗君子見負粟者「必起之」卻對「爲義之君子」非毀，以兩種助人反應的落差批評群體對義士的不公與道德失準",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "貴義",
+      "para_index": 18,
+      "para_id": "mozi#39-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子墨子曰：商人之四方，市賈倍徙，雖有關梁之難、盜賊之危，必爲之。今士坐而言義，無",
+      "note": "商人為倍利雖有「關梁之難、盜賊之危」仍必行，士人坐而言義、獲利更大且無此危卻不為，藉努力差距批評行義意志與計利能力不足",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 1,
+      "para_id": "mozi#40-p01",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "公孟子謂子墨子曰：「君子共己以待，問焉則言，不問焉則止。譬若鍾然，扣則鳴，不扣則",
+      "note": "「君子之必以諫」「大人舉不義之異行」與「雖不扣必鳴」主張面對掌權者的不義，即使未被詢問也負有進諫責任",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 2,
+      "para_id": "mozi#40-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "公孟子謂子墨子曰：「實爲善人，孰不知？譬若良玉，處而不出，有餘精。譬若美女，處而",
+      "note": "「今求善者寡，不强說人，人莫之知」並以「行說人者，其功善亦多」肯定主動傳揚仁義的勞作與成效",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 3,
+      "para_id": "mozi#40-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "公孟子義章甫、搢忽、儒服，而以見子墨子，曰：「君子服然後行乎？其行然後服乎？」子",
+      "note": "「行不在服」以四位君主服飾不同而治行相同，區分人的外在裝束與實際品行，末段又指出為換服而相見的自相矛盾",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 4,
+      "para_id": "mozi#40-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "公孟子曰：「君子必古言服，然後仁。」子墨子曰：「昔者商王紂卿士費仲爲天下之暴人，",
+      "note": "「此同言而或仁或不仁」及「此同服或仁或不仁」否定以古言古服判定仁德，要求把名貌與真實品格分開",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 7,
+      "para_id": "mozi#40-p07",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "公孟子謂子墨子曰：「有義不義，無祥不祥。」子墨子曰：「古者聖王皆以鬼神爲神明，而",
+      "note": "「鬼神爲神明，而爲禍福」及「爲不善之有罰，爲善之有賞」明確認證鬼神依善惡施行禍福賞罰",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 10,
+      "para_id": "mozi#40-p10",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "公孟子曰：「無鬼神。」又曰：「君子必學祭礼。」子墨子曰：「執無鬼而學祭禮，是猶無",
+      "note": "「執無鬼而學祭禮，是猶無客而學客禮也」把否認鬼神卻研習祭禮判為信念、宗教實踐與行為不一致",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 11,
+      "para_id": "mozi#40-p11",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "公孟子謂子墨子曰：「子以三年之喪爲非，子之三日之喪亦非也。」子墨子曰：「子以三年",
+      "note": "「子以三年之喪非三日之喪，是猶倮謂撅者不恭也」以同類失度者互責的譬喻，批評喪制爭論中的尺度失當",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 16,
+      "para_id": "mozi#40-p16",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子墨子與程子辯，稱於孔子。程子曰：「非儒，何故稱於孔子也？」子墨子曰：「是亦當而",
+      "note": "「是亦當而不可易者也」說明即使反對儒家，也應承認孔子不可更易的正確之言，呈現不因門派廢言的求知態度與公正品格",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 17,
+      "para_id": "mozi#40-p17",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "有游於子墨子之門者，謂子墨子曰：「先生以鬼神爲明知，能爲禍福，爲善者富之，爲暴者",
+      "note": "面對「我何故不得福」的質疑，答以「雖子不得福，吾言何遽不善？而鬼神何遽不明」，並用匿藏眾人善行的過失說明個人未得福不能推翻鬼神賞罰",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 19,
+      "para_id": "mozi#40-p19",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "有游於子墨子之門者，身體强良，思慮徇通，欲使隨而學。子墨子曰：「姑學乎，吾將仕子",
+      "note": "「今子爲義，我亦爲義，豈獨我義也哉？子不學，則人將笑子」主張學習與行義本是學者自己的責任，不應把仕進當作交換條件",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 20,
+      "para_id": "mozi#40-p20",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "有游於子墨子之門者，子墨子曰：「盍學乎？」對曰：「吾族人無學者。」子墨子曰：「不",
+      "note": "「夫義，天下之大器也，何以視人？必強爲之」以人追求美與富貴不待族人為例，要求學義行義不隨群體是否學習而轉移",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 22,
+      "para_id": "mozi#40-p22",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "二三子復於子墨子曰：「告子曰言義而行甚惡，請棄之。」子墨子曰：「不可，稱我言以毀",
+      "note": "段首明揭告子「言義而行甚惡」的言行分裂，墨子仍以「言仁義而不吾毀」「告子毀，猶愈亡也」判定不完美的善言勝於全無，區分人的實行缺失與言論價值",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 23,
+      "para_id": "mozi#40-p23",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "二三子復於子墨子曰：「告子勝爲仁。」子墨子曰：「未必然也，告子爲仁，譬猶跂以爲長",
+      "note": "「告子爲仁，譬猶跂以爲長，隱以爲廣，不可久也」把勉強做出的仁比作踮腳冒充高長，指出外顯形象與可持續品格有別",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 24,
+      "para_id": "mozi#40-p24",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "告子謂子墨子曰：「我治國爲政。」子墨子曰：「政者，口言之，身必行之。今子口言之而",
+      "note": "「政者，口言之，身必行之」以言行一致作為從政條件，並以「子不能治子之身，惡能治國政」把自我治理連到公共領導資格",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "魯問",
+      "para_index": 1,
+      "para_id": "mozi#41-p01",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "魯君謂子墨子曰：「吾恐齊之攻我也，可救乎？」子墨子曰：「可。昔者三代之聖王禹湯文",
+      "note": "面對亡國之憂，墨子以「說忠行義，取天下」對照「讐怨行暴，失天下」，再勸愛利百姓與交鄰，重點是君主的德行、民政和外交自救；「尊天事鬼」只是此番說服中的一項勸辭",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "魯問",
+      "para_index": 2,
+      "para_id": "mozi#41-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊將伐魯，子墨子謂項子牛曰：「伐魯，齊之大過也。昔者吳王東伐越，棲諸會稽；西伐楚",
+      "note": "「大國之攻小國也，是交相賊也，過必反於國」以吳、智伯的覆亡說明侵略使百姓勞苦離心，並把強國攻弱國判為會反噬自身的不義權力行為",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "魯問",
+      "para_index": 3,
+      "para_id": "mozi#41-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子墨子見齊大王，曰：「今有刀於此，試之人頭，倅然斷之，可謂利乎？」大王曰：「利。",
+      "note": "由試刀殺人推到「并國覆軍，賊𢽅百姓，孰將受其不祥」，使齊王承認「我受其不祥」，把戰爭決策的道德責任歸回掌權者",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "魯問",
+      "para_index": 4,
+      "para_id": "mozi#41-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魯陽文君將攻鄭，子墨子聞而止之，謂陽文君曰：「今使魯四境之內，大都攻其小都，大家",
+      "note": "墨子以大都侵小都與鄰人擅打他人之子反駁攻鄭，並把「殺其民人，取其牛馬粟米貨財」比作賤人劫鄰，主題是制止侵略與校正權力者的善惡判斷；天志之語是魯陽文君遭駁回的說辭",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "魯問",
+      "para_index": 5,
+      "para_id": "mozi#41-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子墨子謂魯陽文君曰：「世俗之君子，皆知小物而不知大物。今有人於此，竊一犬一彘則謂",
+      "note": "「竊一犬一彘則謂之不仁，竊一國一都則以爲義」揭出世俗君子對私人竊取與國家掠奪採相反尺度的道德盲點",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "魯問",
+      "para_index": 6,
+      "para_id": "mozi#41-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魯陽文君語子墨子曰：「楚之南有啖人之國者焉，其國之長子生，則解而食之，謂之宜弟。",
+      "note": "「殺其父而賞其子，何以異食其子而賞其父者哉」把中國戰爭中父子受害的制度與異俗並置，指出不用仁義便無資格只譴責他者的家庭惡俗",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "魯問",
+      "para_index": 7,
+      "para_id": "mozi#41-p07",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魯君之嬖人死，魯君爲之誄，魯人因說而用之。子墨子聞之，曰：「誄者，道死人之志也。",
+      "note": "「上有過則微之以諫」與「匡其邪而入其善」把忠臣界定為能進諫、保密並導正君主的人，而非「令之俯則俯」的影響式服從",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "魯問",
+      "para_index": 8,
+      "para_id": "mozi#41-p08",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "魯君謂子墨子曰：「我有二子，一人者好學，一人者好分人財，孰以爲太子而可？」子墨子",
+      "note": "面對太子人選，墨子以釣魚、餌鼠說明恭敬施予可能另有所圖，故勸「合其志功而觀焉」，要求領導選擇兼察動機與實效",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "魯問",
+      "para_index": 11,
+      "para_id": "mozi#41-p11",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "吳慮謂子墨子曰：「義耳義耳，焉用言之哉？」子墨子曰：「籍設而天下不知耕，教人耕，",
+      "note": "以「教人耕者其功多」和鼓眾進戰為比，推出「教天下以義者功亦多」，主張教導與言說能放大眾人行義的成效",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "魯問",
+      "para_index": 12,
+      "para_id": "mozi#41-p12",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子墨子游公尚過於越，公尚過說越王，越王大說，謂公尚過曰：「先生苟能使子墨子至於越",
+      "note": "墨子說越王若用其道便「自比於羣臣，奚能以封爲哉」，若不用道而仍往則是「我以義䊮也」，把服務君主與受封取決於是否守義而非厚利",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "魯問",
+      "para_index": 14,
+      "para_id": "mozi#41-p14",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子墨子曰出曹公子而於宋，三年而反，睹子墨子曰：「始吾游於子之門，短褐之衣，藜藿之",
+      "note": "「鬼神之所欲於人者多」明言鬼神要求有爵者讓賢、有財者分貧；「今子事鬼神，唯祭而已矣」則批評只祭祀而不行善，兼具鬼神意志的認證與品格判斷",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "魯問",
+      "para_index": 15,
+      "para_id": "mozi#41-p15",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魯祝以一豚祭，而求百福於鬼神。子墨子聞之，曰：「是不可。今施人薄而望人厚，則人唯",
+      "note": "「施人薄而望人厚」與「以一豚祭而求百福」把少付出、求厚報的祭祀心態判為失當，重點在貪求回報的品格而非認證鬼神",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "魯問",
+      "para_index": 17,
+      "para_id": "mozi#41-p17",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孟山譽王子閭曰：「昔白公之禍，執王子閭，斧鉞鉤要，直兵當心，謂之曰：『爲王則生，",
+      "note": "王子閭拒絕不義王位雖難能，墨子仍以「難則難矣，然而未仁也」區分個人守節與承擔治理、誅逆復王的公共仁責",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "魯問",
+      "para_index": 18,
+      "para_id": "mozi#41-p18",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子墨子使勝綽事項子牛，項子牛三侵魯地，而勝綽三從。子墨子聞之，使高孫子請而退之，",
+      "note": "勝綽受命本為「濟驕而正嬖」，卻三次隨項子牛侵魯；「言義而弗行」及「祿勝義也」判明公職中的明知、行義與俸祿誘惑之衝突",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "魯問",
+      "para_index": 19,
+      "para_id": "mozi#41-p19",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "昔者楚人與越人舟戰於江，楚人順流而進，迎流而退，見利而進，見不利則其退難。越人迎",
+      "note": "「鉤之以愛，揣之以恭」說明不用愛則不親、不用恭則易狎而離，最後以「交相愛，交相恭，猶若相利」主張群體互愛互敬勝於彼此強制傷害",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "魯問",
+      "para_index": 21,
+      "para_id": "mozi#41-p21",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "公輸子謂子墨子曰：「吾未得見之時，我欲得宋，自我得見之後，予我宋而不義，我不爲。",
+      "note": "公輸子由欲取宋轉為「予我宋而不義，我不爲」，墨子遂說「子務爲義，翟又將與子天下」，呈現勸說使掌兵者把公義置於領土利益之上的改變",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公輸",
+      "para_index": 1,
+      "para_id": "mozi#42-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "公輸般爲楚造雲梯之械成，將以攻宋。子墨子聞之，起於齊，行十日十夜，而至於郢，見公",
+      "note": "墨子以「宋無罪而攻之，不可謂仁」揭出攻宋之不義，又親赴楚國、九距攻械並預置弟子守宋以止戰；末句「治於神者，衆人不知其功」評議公共善功常不為人所見",
+      "co_domains": [
+        "V"
       ]
     },
     {

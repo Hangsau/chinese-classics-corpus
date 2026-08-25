@@ -2,9 +2,9 @@
   "domain": "IV",
   "name_zh": "家庭與傳承",
   "gist": "婚姻與家庭、原生家庭的傷、為人父母、記憶與和解、留下什麼給後代",
-  "generated_at": "2026-08-24T23:39:45+00:00",
-  "para_count": 621,
-  "book_count": 32,
+  "generated_at": "2026-08-25T12:02:53+00:00",
+  "para_count": 649,
+  "book_count": 33,
   "surveyed_zero_hit": [
     "fangyan",
     "gongsun-longzi",
@@ -3754,6 +3754,424 @@
       "note": "曾參與顏淵兩則故事以「此言事師之猶事父也」明說師生關係比照父子，並以「其尊師若此，故師盡智竭道以教」連到教學投入",
       "co_domains": [
         "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "尚賢中",
+      "para_index": 9,
+      "para_id": "mozi#09-p09",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "然則親而不善以得其罰者，誰也？曰：若昔者伯鯀，帝之元子，廢帝之德庸，旣乃刑之于羽",
+      "note": "伯鯀雖爲「帝之元子」，卻因「親而不善」受刑而「帝亦不愛」，以父子親情、掌權者不徇親的公正及不善之行三者構成同一衝突",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "尚同上",
+      "para_index": 1,
+      "para_id": "mozi#11-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子墨子言曰：古者民始生未有刑政之時，蓋其語，人異義。是以一人則一義，二人則二義，",
+      "note": "「人是其義，以非人之義」把人人自是、互相非難說成亂源，並明寫其後果是父子兄弟怨惡離散及百姓相害不相助，分別落在品格判斷、家庭與社會關係",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "兼愛下",
+      "para_index": 3,
+      "para_id": "mozi#16-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "且鄉吾本言曰：仁人之事者，必務求興天下之利，除天下之害。今吾本原兼之所生天下之大",
+      "note": "「有道肆相教誨」及老而無妻子者得侍養、無父母的孤童得依靠，說的是共同照護與家庭缺位時的扶養，不只是一條行政投入產出鏈",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "兼愛下",
+      "para_index": 7,
+      "para_id": "mozi#16-p07",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "然而天下之非兼者之言猶未止，曰：意不忠親之利，而害爲孝乎？子墨子曰：姑嘗本原之孝",
+      "note": "「愛利人之親，然後人報我以愛利吾親」回答孝與事親，不能拿掉 IV；靈王、句踐、文公的事例又以「未踰於世而民可移」明說人民可被改變，且改變取決於在上者的好尚與賞罰，分別承重 XI 與 V",
+      "co_domains": [
+        "V",
+        "XI"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "兼愛下",
+      "para_index": 8,
+      "para_id": "mozi#16-p08",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "故兼者，聖王之道也，王公大人之所以安也，萬民衣食之所以足也。故君子莫若審兼而務行",
+      "note": "「爲人君必惠，爲人臣必忠」規範公共角色與領導責任，不能拿掉 V；「爲人父必慈，爲人子必孝，爲人兄必友，爲人弟必悌」同時明定家庭責任與惠忠慈孝的品格，分別承重 IV 與 VII",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "節葬下",
+      "para_index": 1,
+      "para_id": "mozi#22-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "子墨子言曰：仁者之爲天下度也，辟之無以異乎孝子之爲親度也。今孝子之爲親度也，將柰",
+      "note": "「親貧則從事乎富之」並不遺餘力，拆明孝子照顧親人的責任（IV）；再推到仁者爲天下盡力（V），而孝與仁都由具體盡責行爲界定（VII），三格各少不得",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "節葬下",
+      "para_index": 2,
+      "para_id": "mozi#22-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "今逮至昔者三代聖王既沒，天下失義。後世之君子，或以厚葬久喪以爲仁也、義也、孝子之",
+      "note": "本段把厚葬久喪是否「孝子之事」（IV）與是否爲「仁也，義也」（VII）交給富、衆、治三項後果檢驗，並據結果主張勸行或沮止",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "節葬下",
+      "para_index": 3,
+      "para_id": "mozi#22-p03",
+      "modes": [
+        "proposition",
+        "ritual"
+      ],
+      "excerpt": "何以知其然也？今天下之士君子，將猶多皆疑惑厚葬久喪之爲中是非利害也。故子墨子言曰",
+      "note": "厚葬與三年喪是親屬喪制（IV）；「飢」「寒」至耳目手足衰弱寫服喪者的身體處境（IX）；農夫、百工與婦人皆不能從事則獨立寫出勞動停頓（VIII），三者共同承擔反對久喪的論證",
+      "co_domains": [
+        "VIII",
+        "IX"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "節葬下",
+      "para_index": 4,
+      "para_id": "mozi#22-p04",
+      "modes": [
+        "proposition",
+        "ritual"
+      ],
+      "excerpt": "欲以衆人民，意者可邪？其說又不可矣。今惟無以厚葬久喪者爲政。君死喪之三年，父母死",
+      "note": "父母、妻子等服喪年限與「敗男女之交」是家族及傳承問題（IV）；强飢薄衣而衰弱染病是身體受苦（IX）；「作疾病死者不可勝計」另明說死亡（X），三格各有本段文字承重",
+      "co_domains": [
+        "IX",
+        "X"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "節葬下",
+      "para_index": 10,
+      "para_id": "mozi#22-p10",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "今王公大人之爲葬埋，則異於此。必大棺、中棺，革闠三操，璧玉即具，戈劒鼎鼓壺濫、文",
+      "note": "本段把葬埋與「孝子之事」相連（IV），明判厚葬久喪爲「非仁」「非義」（VII），又說求上帝鬼神之福反而「得禍」（XII）；親屬義務、道德判斷與神聖賞罰各有獨立落點",
+      "co_domains": [
+        "VII",
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "節葬下",
+      "para_index": 11,
+      "para_id": "mozi#22-p11",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "今執厚葬久喪者言曰：厚葬久喪果非聖王之道，夫胡說中國之君子爲而不已、操而不擇哉？",
+      "note": "三國異俗與末段葬法都在處理親戚、祭親與孝的家族實踐（IV）及死後安葬（X）；「便其習而義其俗」則明辨習俗未必就是仁義（VII），三層皆由本段展開",
+      "co_domains": [
+        "VII",
+        "X"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "明鬼下",
+      "para_index": 17,
+      "para_id": "mozi#26-p17",
+      "modes": [
+        "proposition",
+        "ritual"
+      ],
+      "excerpt": "今執無鬼者曰：意不忠親之利，而害爲孝子乎？子墨子曰：古之今之爲鬼，非他也，有天鬼",
+      "note": "「若神有」則祭品可奉父母姒兄，保留事親祭祖；「雖使鬼神請亡」仍能「合驩聚衆，取親於鄉里」，而結語又明言「上以交鬼之福」，三面分別承載家庭、群體與信仰",
+      "co_domains": [
+        "V",
+        "XII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非命上",
+      "para_index": 5,
+      "para_id": "mozi#28-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是故古之聖王發憲出令，設以爲賞罰以勸賢。是以入則孝慈於親戚，出則弟長於鄉里，坐處",
+      "note": "有命說使人「不慈孝於親戚」「不弟長於鄉里」，破壞父子兄弟之道；又否認賢暴與賞罰相關，終成「凶言」「暴人之道」，分別落在家庭倫理、品格責任與宿命觀的後果",
+      "co_domains": [
+        "VII",
+        "XI"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非儒下",
+      "para_index": 1,
+      "para_id": "mozi#31-p01",
+      "modes": [
+        "ritual",
+        "proposition"
+      ],
+      "excerpt": "儒者曰：「親親有術，尊賢有等。」言親疏尊卑之異也。其禮曰：「喪父母三年，妻、後子",
+      "note": "本段逐項比較父母、妻子與宗族的喪期，指出其親疏尊卑相互顛倒；又以求死者若信其仍在則「戇愚」、若知其亡仍求則「僞亦大矣」，把喪親禮制連到真僞品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非儒下",
+      "para_index": 2,
+      "para_id": "mozi#31-p02",
+      "modes": [
+        "ritual",
+        "proposition"
+      ],
+      "excerpt": "取妻身迎，祗褍爲僕，秉轡授綏，如仰嚴親。昏禮威儀，如承祭祀。顛覆上下，悖逆父母，",
+      "note": "「顛覆上下，悖逆父母，下則妻子，妻子上侵」批評婚禮與服喪倒置親屬次序，並以「厚所至私，輕所至重」斷爲偏私與欺誣，兼論家庭倫理及品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經上",
+      "para_index": 1,
+      "para_id": "mozi#32-p01",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "故，所得而後成也。體，分於兼也。知，材也。慮，求也。知，接也。智，明也。仁，體愛",
+      "note": "`經上`[1] 內第7條「仁，體愛也」與第8條「義，利也」直接界定德性，承重於善惡品格；第13條「孝，利親也」把孝落在利親，涉及家庭倫理；第34至38條以「君，臣萌通約也」「功，利民也」「賞，上報下之功也」界定君臣、利民與上下責任，若拿掉便少了群體權力關係這一層。其餘如第59條「圜，一中同長也」等幾何、認知與名實條只作技術定義，不另給領域",
+      "co_domains": [
+        "VII",
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經說上",
+      "para_index": 13,
+      "para_id": "mozi#34-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孝，以親爲芬，而能能利親，不必得。",
+      "note": "「以親爲芬，而能能利親，不必得」把孝界定為以父母親屬為志並能利親，核心是事親關係",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 9,
+      "para_id": "mozi#36-p09",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "義可厚，厚之；義可薄，薄之，之謂倫列。德行、君上、老長、親戚，此皆所厚也。爲長厚",
+      "note": "「德行、君上、老長、親戚，此皆所厚也」並說「親厚，厚；親薄，薄」，把義的厚薄落到德行、長幼與親族次序",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 15,
+      "para_id": "mozi#36-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "聖人不得爲子之事。聖人之法，死亡親，爲天下也。厚親，分也；以死亡之，體渴興利。",
+      "note": "「死亡親，爲天下也」並以「厚親，分也」對舉，實質處理親族責任與爲天下興利之間的取捨",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 27,
+      "para_id": "mozi#36-p27",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "智親之一利，未爲孝也。亓不至，於智不爲己之利於親也。",
+      "note": "「智親之一利，未爲孝也」明說只知父母的一項利益尚不足稱孝，界定事親責任的範圍",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 38,
+      "para_id": "mozi#36-p38",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "二子事親，或遇孰，或遇凶，其親也相若，非彼其行益也，外埶無能厚吾利者。",
+      "note": "「二子事親，或遇孰，或遇凶」而「非彼其行益也」，主張外在豐歉不會使其中一人的事親行爲更厚",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 50,
+      "para_id": "mozi#36-p50",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "厚親不稱行，而類行，其類在江上井。",
+      "note": "「厚親不稱行，而類行」主張對親族的厚待不能脫離其行爲類別，將親疏與德行評量相互制約",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 53,
+      "para_id": "mozi#36-p53",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "愛人之親，若愛其親，其類在官苟。",
+      "note": "「愛人之親，若愛其親」要求把他人的父母親屬如自己的親屬般看待，連結家庭關係與普遍社會關懷",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "貴義",
+      "para_index": 13,
+      "para_id": "mozi#39-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子墨子曰：古之聖王欲傳其道於後世，是故書之竹帛，鏤之金石，傳遺後世子孫，欲後世子",
+      "note": "古之聖王將道「傳遺後世子孫」並書刻保存，目的在「欲後世子孫法之也」，承重於跨世代傳承與後人的學習實踐",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 8,
+      "para_id": "mozi#40-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子墨子謂公孟子曰：「喪禮，君與父母、妻、後子死，三年喪服。伯父、叔父、兄弟期，族",
+      "note": "「三年喪服」等親屬喪期與反問「君子何日以聽治？庶人何日以從事？」把久喪禮制同治理及日常勞作的耗損相連",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 11,
+      "para_id": "mozi#40-p11",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "公孟子謂子墨子曰：「子以三年之喪爲非，子之三日之喪亦非也。」子墨子曰：「子以三年",
+      "note": "「子以三年之喪非三日之喪，是猶倮謂撅者不恭也」以同類失度者互責的譬喻，批評喪制爭論中的尺度失當",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 13,
+      "para_id": "mozi#40-p13",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "公孟子曰：「三年之喪，學吾之慕父母。」子墨子曰：「夫嬰兒子之知，獨慕父母而已。父",
+      "note": "「獨慕父母而已。父母不可得也，然號而不止」把三年之喪所稱的慕親比作嬰兒因父母不在而不停哭號，直接評議依戀與哀情",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "魯問",
+      "para_index": 6,
+      "para_id": "mozi#41-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魯陽文君語子墨子曰：「楚之南有啖人之國者焉，其國之長子生，則解而食之，謂之宜弟。",
+      "note": "「殺其父而賞其子，何以異食其子而賞其父者哉」把中國戰爭中父子受害的制度與異俗並置，指出不用仁義便無資格只譴責他者的家庭惡俗",
+      "co_domains": [
+        "VII"
       ]
     },
     {

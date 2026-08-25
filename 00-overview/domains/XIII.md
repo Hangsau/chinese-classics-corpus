@@ -1,7 +1,7 @@
 # XIII 安頓·修復·平安
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 156 段命中｜跨 22 部｜生成時間 2026-08-24T23:39:45+00:00
+> 156 段命中｜跨 22 部｜生成時間 2026-08-25T12:02:53+00:00
 
 靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈
 
@@ -11,7 +11,7 @@
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`duduan`（獨斷）　`fangyan`（方言）　`gongsun-longzi`（公孫龍子）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jingshi-yizhuan`（京氏易傳）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`nanjing`（難經）　`qianfulun`（潛夫論）　`shanghanlun`（傷寒論）　`shangjunshu`（商君書）　`shenyijing`（神異經）　`shuowen-jiezi`（說文解字）　`sima-fa`（司馬法）　`sunzi-bingfa`（孫子兵法）　`sushu`（素書）　`weiliaozi`（尉繚子）　`wuzi`（吳子）　`yinwenzi`（尹文子）　`yuzi`（鬻子）　`zhongjing`（忠經）
+`duduan`（獨斷）　`fangyan`（方言）　`gongsun-longzi`（公孫龍子）　`gu-sanfen`（古三墳）　`haidao-suanjing`（海島算經）　`jian-zhu-ke-shu`（諫逐客書）　`jingshi-yizhuan`（京氏易傳）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`liutao`（六韜）　`mozi`（墨子）　`nanjing`（難經）　`qianfulun`（潛夫論）　`shanghanlun`（傷寒論）　`shangjunshu`（商君書）　`shenyijing`（神異經）　`shuowen-jiezi`（說文解字）　`sima-fa`（司馬法）　`sunzi-bingfa`（孫子兵法）　`sushu`（素書）　`weiliaozi`（尉繚子）　`wuzi`（吳子）　`yinwenzi`（尹文子）　`yuzi`（鬻子）　`zhongjing`（忠經）
 
 ## 世說新語（人論）　25 段
 

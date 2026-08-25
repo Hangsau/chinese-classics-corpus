@@ -2,9 +2,9 @@
   "domain": "X",
   "name_zh": "無常·老·死·失去",
   "gist": "老與時間、失去與哀傷、死亡、耐心與等待",
-  "generated_at": "2026-08-24T23:39:45+00:00",
-  "para_count": 350,
-  "book_count": 24,
+  "generated_at": "2026-08-25T12:02:53+00:00",
+  "para_count": 358,
+  "book_count": 25,
   "surveyed_zero_hit": [
     "dengxizi",
     "duduan",
@@ -1450,6 +1450,128 @@
       "co_domains": [
         "III",
         "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "親士",
+      "para_index": 4,
+      "para_id": "mozi#01-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今有五錐，此其銛，銛者必先挫。有五刀，此其錯，錯者必先靡。是以甘井近竭，招木近伐",
+      "note": "「彼人者，寡不死其所長」以比干之抗、孟賁之勇等例斷言人的突出所長也可能招致死亡，落在才能及由此而來的失去",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "尚賢中",
+      "para_index": 11,
+      "para_id": "mozi#09-p11",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "今王公大人欲王天下、正諸侯，夫無德義，將何以哉？其說將必挾震威彊。今王公大人將焉",
+      "note": "「民，生爲甚欲，死爲甚憎」直說百姓對生死的欲惡，並以強威使「民之死」解釋何以不能成就天下領導；社會權力、內在欲惡與死亡各是不可省的一層",
+      "co_domains": [
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非攻中",
+      "para_index": 1,
+      "para_id": "mozi#18-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子墨子言曰：古者王公大人爲政於國家者，情欲毀譽之審，賞罰之當，刑政之不過失，故當",
+      "note": "本段以攻戰「廢民耕稼樹藝」說公共決策侵奪民生，不能拿掉 V；「飢寒凍餒」「疾病」寫人民的身體苦難，不能拿掉 IX；多次直言百姓、牛馬與軍士「死亡而不反」「死者不可勝數」，又獨立承重 X",
+      "co_domains": [
+        "V",
+        "IX"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "節用上",
+      "para_index": 4,
+      "para_id": "mozi#20-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "今天下爲政者，其所以寡人之道多。其使民勞，其籍斂厚，民財不足，凍餓死者不可勝數也",
+      "note": "「其籍斂厚」與興師攻伐寫政權加給人民的負擔（V），「居處不安、飲食不時、作疾病」寫身體受苦（IX），「凍餓死者」與戰死寫死亡（X）；三者各自承重，末句才勸「去無用之務」",
+      "co_domains": [
+        "V",
+        "IX"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "節葬下",
+      "para_index": 4,
+      "para_id": "mozi#22-p04",
+      "modes": [
+        "proposition",
+        "ritual"
+      ],
+      "excerpt": "欲以衆人民，意者可邪？其說又不可矣。今惟無以厚葬久喪者爲政。君死喪之三年，父母死",
+      "note": "父母、妻子等服喪年限與「敗男女之交」是家族及傳承問題（IV）；强飢薄衣而衰弱染病是身體受苦（IX）；「作疾病死者不可勝計」另明說死亡（X），三格各有本段文字承重",
+      "co_domains": [
+        "IV",
+        "IX"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "節葬下",
+      "para_index": 11,
+      "para_id": "mozi#22-p11",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "今執厚葬久喪者言曰：厚葬久喪果非聖王之道，夫胡說中國之君子爲而不已、操而不擇哉？",
+      "note": "三國異俗與末段葬法都在處理親戚、祭親與孝的家族實踐（IV）及死後安葬（X）；「便其習而義其俗」則明辨習俗未必就是仁義（VII），三層皆由本段展開",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "魯問",
+      "para_index": 9,
+      "para_id": "mozi#41-p09",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魯人有因子墨子而學其子者，其子戰而死，其父讓子墨子。子墨子曰：「子欲學子之子，今",
+      "note": "父親原欲兒子受學，卻在其「戰而死」後怨師；「是猶欲糶糴，讎則慍也」評議人面對學成後死亡結果時願望與承受之間的矛盾",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "號令",
+      "para_index": 8,
+      "para_id": "mozi#52-p08",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "吏卒民死者，輒召其人與次司空葬之，勿令得坐泣。傷甚者令歸治病，家善養，予醫給藥，",
+      "note": "「守使吏身行死傷家，臨戶而悲哀之」並要求「必身行死傷者家以弔哀之，身見死事之後」，把戰後領導責任轉向親臨喪傷之家、表達哀痛與承認失去",
+      "co_domains": [
+        "VI"
       ]
     },
     {

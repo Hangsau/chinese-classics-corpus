@@ -2,9 +2,9 @@
   "domain": "VI",
   "name_zh": "情緒與內在生活",
   "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡",
-  "generated_at": "2026-08-24T23:39:45+00:00",
-  "para_count": 661,
-  "book_count": 29,
+  "generated_at": "2026-08-25T12:02:53+00:00",
+  "para_count": 673,
+  "book_count": 30,
   "surveyed_zero_hit": [
     "dongmingji",
     "duduan",
@@ -4264,6 +4264,172 @@
       "note": "「志氣不和，取舍數變，固無恆心，若晏陰喜怒無處」描寫不能教者的內在失調，妒惡學生遂使「此師徒相與異心」；又以「不能親其所怨，不能譽其所惡」說明怨惡如何敗壞學業",
       "co_domains": [
         "VIII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "尚賢中",
+      "para_index": 11,
+      "para_id": "mozi#09-p11",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "今王公大人欲王天下、正諸侯，夫無德義，將何以哉？其說將必挾震威彊。今王公大人將焉",
+      "note": "「民，生爲甚欲，死爲甚憎」直說百姓對生死的欲惡，並以強威使「民之死」解釋何以不能成就天下領導；社會權力、內在欲惡與死亡各是不可省的一層",
+      "co_domains": [
+        "V",
+        "X"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "節葬下",
+      "para_index": 5,
+      "para_id": "mozi#22-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "欲以治刑政，意者可乎？其說又不可矣。今惟無以厚葬久喪者爲政，國家必貧，人民必寡，",
+      "note": "「上不聽治」「盜賊衆」寫群體秩序崩解（V），弟怨兄、子怨親明寫怨的內在反應（VI），「僻淫邪行」「淫暴」又把匱乏連到品行敗壞（VII）",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經說上",
+      "para_index": 21,
+      "para_id": "mozi#34-p21",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "利，得是而喜，則是利也。其害也，非是也。",
+      "note": "「得是而喜，則是利也」直接以得到某物後的喜悅界定利，把內在的好惡感受列為判準",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經說上",
+      "para_index": 22,
+      "para_id": "mozi#34-p22",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "害，得是而惡，則是害也。其利也，非是也。",
+      "note": "「得是而惡，則是害也」直接以得到某物後的厭惡界定害，把內在的好惡感受列為判準",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經說上",
+      "para_index": 24,
+      "para_id": "mozi#34-p24",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "譽之，必其行也、其言也使人忻。",
+      "note": "「必其行也、其言也使人忻」把稱譽繫於言行使人欣悅的實際效果，兼及情緒反應與品格評價",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經說上",
+      "para_index": 25,
+      "para_id": "mozi#34-p25",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "誹之，必其行也、其言也使人督。",
+      "note": "「必其行也、其言也使人督」把誹責繫於言行引起他人督責的效果，兼及內在反應與善惡評價",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經說上",
+      "para_index": 47,
+      "para_id": "mozi#34-p47",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "爲，欲𩁥其指，智不知其害，是智之罪也。若智之、慎之也，無遺於其害也，而猶欲𩁥之，",
+      "note": "「是不以所疑止所欲也」與「是以所疑止所欲也」對照人在利害未明時是否約束欲望，並以知、慎、愚、謀評價其選擇",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 33,
+      "para_id": "mozi#36-p33",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "正欲惡者，人右以其請得焉。諸所遭執而欲惡生者，人不必以其請得焉。聖人之拊𣿦也。",
+      "note": "「諸所遭執而欲惡生者，人不必以其請得焉」區分人的欲惡由內情而得或因遭遇而生，直接說明欲惡的內在來源",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "貴義",
+      "para_index": 7,
+      "para_id": "mozi#39-p07",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "必去六辟，必去喜、去怒、去樂、去悲、去愛，而用仁義。手足口鼻耳從事於義，必爲聖人",
+      "note": "「必去喜、去怒、去樂、去悲、去愛，而用仁義」明言調御多種情感，並使全身從事於義，以內在節制通向品格養成",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 13,
+      "para_id": "mozi#40-p13",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "公孟子曰：「三年之喪，學吾之慕父母。」子墨子曰：「夫嬰兒子之知，獨慕父母而已。父",
+      "note": "「獨慕父母而已。父母不可得也，然號而不止」把三年之喪所稱的慕親比作嬰兒因父母不在而不停哭號，直接評議依戀與哀情",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "迎敵祠",
+      "para_index": 3,
+      "para_id": "mozi#50-p03",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "凡守城之法，縣師受事，出葆循溝防，築薦通塗，脩城。百官共財，百工即事，司馬視城脩",
+      "note": "段末明說夜間鼓噪「所以閹客之氣也，所以固民之意也，故時謲則民不疾矣」，把程序的作用落在削弱敵方氣勢、安定民心，直接涉及群體的恐懼與士氣",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "號令",
+      "para_index": 8,
+      "para_id": "mozi#52-p08",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "吏卒民死者，輒召其人與次司空葬之，勿令得坐泣。傷甚者令歸治病，家善養，予醫給藥，",
+      "note": "「守使吏身行死傷家，臨戶而悲哀之」並要求「必身行死傷者家以弔哀之，身見死事之後」，把戰後領導責任轉向親臨喪傷之家、表達哀痛與承認失去",
+      "co_domains": [
+        "X"
       ]
     },
     {

@@ -2,9 +2,9 @@
   "domain": "I",
   "name_zh": "存在與意義",
   "gist": "我為何在此、活著有沒有意義、與想不通的問題共處、在歷史洪流中的渺小",
-  "generated_at": "2026-08-24T23:39:45+00:00",
-  "para_count": 97,
-  "book_count": 17,
+  "generated_at": "2026-08-25T12:02:53+00:00",
+  "para_count": 105,
+  "book_count": 18,
   "surveyed_zero_hit": [
     "cai-zhonglang-ji",
     "dengxizi",
@@ -818,6 +818,110 @@
       "co_domains": [
         "XIII"
       ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非攻中",
+      "para_index": 2,
+      "para_id": "mozi#18-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "國家發政，奪民之用、廢民之利若此甚衆，然而何爲爲之？曰：我貪伐勝之名，及得之利，",
+      "note": "「奪民之用、廢民之利」批評爲政者用萬千人命換取攻城名利，屬公共責任；「土地者，所有餘也；王民者，所不足也」更以「棄所不足，而重所有餘」明辨本末輕重",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "非攻下",
+      "para_index": 3,
+      "para_id": "mozi#19-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今夫師者之相爲不利者也，曰將不勇，士不分，兵不利，教不習，師不衆，卒不和，威不圉",
+      "note": "興師使官、農、婦各失其務並「反相賊」，不能拿掉 V；厮役「飢寒凍餒疾病而轉死溝壑」是具體身體苦難，不能拿掉 IX；末以「人不足而地有餘」「虧不足而重有餘」另行判斷人與土地的本末，承重 I",
+      "co_domains": [
+        "V",
+        "IX"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 4,
+      "para_id": "mozi#36-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "斷指以存腕，利之中取大，害之中取小也。害之中取小，子非取害也，取利也。其所取者，",
+      "note": "「斷指以存腕，利之中取大，害之中取小也」以保全整體爲準則處理利害輕重，提出取捨本末的原理",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 5,
+      "para_id": "mozi#36-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "斷指與斷腕，利於天下相若，無擇也。死生利若，一無擇也。",
+      "note": "「死生利若，一無擇也」主張若對天下之利相等，連生死之間也無從選擇，直接衡量生命與所求之利的輕重",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 8,
+      "para_id": "mozi#36-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "利之中取大，非不得已也；害之中取小，不得已也。所未有而取焉，是利之中取大也；於所",
+      "note": "「所未有而取焉，是利之中取大也；於所既有而棄焉，是害之中取小也」把取得與放棄置於利害權衡，說明選擇的輕重原則",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "大取",
+      "para_index": 44,
+      "para_id": "mozi#36-p44",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或壽或卒，其利天下也相若，其類在譽石。",
+      "note": "「或壽或卒，其利天下也相若」主張壽與早死不必改變一生對天下的價值，把生命長短與意義輕重分開",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "貴義",
+      "para_index": 1,
+      "para_id": "mozi#39-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子墨子曰：萬事莫貴於義。今謂人曰：「予子冠履，而斷子之手足，子爲之乎？」必不爲。",
+      "note": "以冠履不若手足、天下不若身逐層比較價值，最後由「萬事莫貴於義也」把義置於生命取捨的最高位置",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "公孟",
+      "para_index": 14,
+      "para_id": "mozi#40-p14",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子墨子問於儒者曰：「何故爲樂？」曰：「樂以爲樂也。」子墨子曰：「子未我應也。今我",
+      "note": "「何故爲樂」所問的是活動的目的，而「樂以爲樂也」被比作「室以爲室也」，主張不能用循環說法代替對所為之事意義的交代",
+      "co_domains": []
     },
     {
       "slug": "qianfulun",
