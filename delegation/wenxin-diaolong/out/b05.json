@@ -1,0 +1,355 @@
+{
+  "batch": "b05.md",
+  "rows": [
+    {
+      "chapter": "詔策",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「誥命動民，若天下之有風矣」明說王者命令會驅動百姓，將群體如何受政治權威影響作為結論（V）"
+    },
+    {
+      "chapter": "詔策",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「命有四品」至「並本經典以立名目」是在列策、制、詔、敕的沿革與名義，只有文體分類，沒有另論人如何生活"
+    },
+    {
+      "chapter": "詔策",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["observation", "proposition"],
+      "reason": "「豈直取美當時，亦敬慎來葉矣」把王言入史後對後世的慎重責任說成用人的理由，是公共責任判斷（V）"
+    },
+    {
+      "chapter": "詔策",
+      "para_index": 4,
+      "domains": ["III"],
+      "modes": ["observation"],
+      "reason": "「孝宣璽書，賜太守陳遂，亦故舊之厚也」明說詔書承載君臣舊交的深厚情分，落到信任與親密關係（III）"
+    },
+    {
+      "chapter": "詔策",
+      "para_index": 5,
+      "domains": ["VI"],
+      "modes": ["observation"],
+      "reason": "「而造次喜怒，時或偏濫」直接指出光武在倉促間受喜怒支配而失於偏濫，是對情緒狀態及失控的判斷（VI）"
+    },
+    {
+      "chapter": "詔策",
+      "para_index": 6,
+      "domains": ["V"],
+      "modes": ["observation"],
+      "reason": "「至於作威作福，其萬慮之一弊乎」把帝王以威福自專視為施政之弊，落到權力運用與領導責任（V）"
+    },
+    {
+      "chapter": "詔策",
+      "para_index": 7,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「所以百辟其刑，萬邦作孚」說上位者的王言會使百官效法、萬邦信服，是政治示範與群體信任的命題（V）"
+    },
+    {
+      "chapter": "詔策",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["observation", "prescription"],
+      "reason": "「戒者，慎也」以下列敕都督、戒州牧、敕太子、戒子與家戒，說明戒敕的名義、對象和歷代作品，未另立關於家庭生活的斷語"
+    },
+    {
+      "chapter": "詔策",
+      "para_index": 9,
+      "domains": ["V"],
+      "modes": ["proposition", "observation"],
+      "reason": "「出言而民效也」明說在上者的言教會成為百姓所效法的行為準則，是領導與群體教化的判斷（V）"
+    },
+    {
+      "chapter": "詔策",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「今詔重而命輕者，古今之變也」只比較詔與命在古今名義輕重上的變化，屬文體名目考辨"
+    },
+    {
+      "chapter": "詔策",
+      "para_index": 11,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「我有絲言，兆民尹好」把皇王發言與萬民接受相連，是對政治言令如何形成群體認同的判斷（V）"
+    },
+    {
+      "chapter": "詔策",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「輝音峻舉，鴻風遠蹈」與「騰義飛辭，渙其大號」全在贊詔策聲辭與號令氣勢，沒有另說人的處境"
+    },
+    {
+      "chapter": "詮賦",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「賦者，鋪也」至「斯蓋別詩之原始，命賦之厥初也」追溯賦的釋名、體源與早期作品，沒有把作者或讀者當成人的命題來論"
+    },
+    {
+      "chapter": "詮賦",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation", "prescription"],
+      "reason": "「信興楚而盛漢矣」總結賦的源流，後半「言務纖密」「理貴側附」規定大小賦的作法，落點都在文體與技法"
+    },
+    {
+      "chapter": "詮賦",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「凡此十家，並辭賦之英傑也」以下逐一評騭歷代賦家的篇章風格與工拙，是選文定篇的作品品題"
+    },
+    {
+      "chapter": "詮賦",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「情以物興，故義必明雅；物以情觀，故詞必巧麗」建立賦的情物—文辭規則；「繁華損枝，膏腴害骨」的後果仍落在作品結構，故不另標人的領域"
+    },
+    {
+      "chapter": "詮賦",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「賦自詩出，分歧異派。寫物圖貌，蔚似雕畫」只收束賦的來源與描摹特徵，沒有另論人的狀態"
+    },
+    {
+      "chapter": "詮賦",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「㭊滯必揚，言曠無隘。風歸麗則，辭翦美稗」全是對賦文辭取捨與風格的規定，沒有落到人"
+    },
+    {
+      "chapter": "誄碑",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation", "ritual"],
+      "reason": "「誄者，累也。累其德行，旌之不朽也」是在釋名並說明喪誄儀制；「賤不誄貴，幼不誄長」也是禮制適用規則，未另論死亡經驗"
+    },
+    {
+      "chapter": "誄碑",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「始及于士」「哀公作誄」至「古式存焉」登錄誄體擴及士人的沿革與早期作品，哀詞是作品品題，不等於在論失去"
+    },
+    {
+      "chapter": "誄碑",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「揚雄之誄元后，文實煩穢」以下逐一評騭漢代誄文的繁簡、體序和聲律，是歷代作品品題"
+    },
+    {
+      "chapter": "誄碑",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「並得憲章，工在簡要」至「其乖甚矣」仍評各家誄文工拙；「誄述祖宗」只是交代文體題材與法則"
+    },
+    {
+      "chapter": "誄碑",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「至於序述哀情，則觸類而長」及「始序致感，遂為後式」規定誄文如何鋪寫哀情，落點在寫法和作品效果"
+    },
+    {
+      "chapter": "誄碑",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「選言錄行，傳體而頌文，榮始而哀終」界定誄的結構；「論其人也」「道其哀也」是在說文體呈現什麼，不另把人或哀傷作結論"
+    },
+    {
+      "chapter": "誄碑",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["observation", "ritual"],
+      "reason": "「上古帝皇，紀號封禪，樹石埤岳，故曰碑也」至「後代用碑，以石代金」追溯碑的名稱、儀用與材質沿革"
+    },
+    {
+      "chapter": "誄碑",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「碑碣雲起。才鋒所斷，莫高蔡邕」以下評蔡邕諸碑的敘事、綴采與才鋒，是歷代作者與作品登錄"
+    },
+    {
+      "chapter": "誄碑",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「有摹伯喈」「辭多枝雜」「最為辨裁」逐一品評孔融、孫綽等人的碑誄文辭，沒有越出作品工拙"
+    },
+    {
+      "chapter": "誄碑",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「夫屬碑之體，資乎史才，其序則傳，其文則銘」以下規定碑文的體制與德行書寫效果，只是在敷理舉統"
+    },
+    {
+      "chapter": "誄碑",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「碑實銘器，銘實碑文，因器立名」辨析碑、銘、誄依器物與用途而分的名義和範圍"
+    },
+    {
+      "chapter": "誄碑",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「寫實追虛，碑誄以立。銘德慕行，文采允集」是篇末對碑誄功能與文采的收束，德行只是文體所銘的內容"
+    },
+    {
+      "chapter": "誄碑",
+      "para_index": 13,
+      "domains": ["X"],
+      "modes": ["proposition"],
+      "reason": "「觀風似面，聽辭如泣。石墨鐫華，頹影豈忒」把已逝者只能由行跡與碑辭重現、並以哭泣相接的失落寫出來，承重於死亡後的追憶（X）"
+    },
+    {
+      "chapter": "論說",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「述經敘理曰論。論者，倫也」與《論語》以前後的考辨只在追溯「論」的名義和起源"
+    },
+    {
+      "chapter": "論說",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「八名區分，一揆宗論」列議、說、傳、注、贊、評、序、引與論的關係，屬文體分類，不是可計算程序"
+    },
+    {
+      "chapter": "論說",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「聚述聖言通經，論家之正體也」以下登錄從石渠、白虎通到正始玄論的文體沿革與作者"
+    },
+    {
+      "chapter": "論說",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「並師心獨見，鋒穎精密，蓋人倫之英也」以下仍逐一品題論家與學說得失；「徒銳偏解」的落點是所論之理，不另論人的自我"
+    },
+    {
+      "chapter": "論說",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「原夫論之為體，所以辨正然否」以下規定論說應「義貴圓通，辭忌枝碎」，是論體功能和寫作準則"
+    },
+    {
+      "chapter": "論說",
+      "para_index": 6,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「覽文雖巧，而檢跡知妄」揭出巧辭掩飾虛妄；「唯君子能通天下之志，安可以曲論哉」又把不作曲論歸為君子應有的誠正品格（VII）"
+    },
+    {
+      "chapter": "論說",
+      "para_index": 7,
+      "domains": ["VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「過悅必偽」把一味討好判為必然失真；後文辨士因勢游說的事例承載了對諂說與誠偽的品格判斷（VII）"
+    },
+    {
+      "chapter": "論說",
+      "para_index": 8,
+      "domains": ["VII"],
+      "modes": ["prescription", "observation"],
+      "reason": "「自非譎敵，則唯忠與信。披肝膽以獻主」明定游說若非對敵用譎，對君主就應以忠信與坦誠為本，是品格規範（VII）"
+    },
+    {
+      "chapter": "論說",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「理形於言，敘理成論」與「詞深人天，致遠方寸」只贊論體以文辭窮理的功能；「人天」「方寸」不是獨立的人論"
+    },
+    {
+      "chapter": "論說",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「陰陽莫貳，鬼神靡遯」與「說爾飛鉗，呼吸沮勸」是贊論說能窮理、施行勸阻的文體效能，沒有作信仰認證或獨立的人論"
+    },
+    {
+      "chapter": "諧讔",
+      "para_index": 1,
+      "domains": ["VI"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「夫心險如山，口壅若川，怨怒之情不一，歡謔之言無方」直接把隱蔽難宣的內心、怨怒與歡謔並列為諧辭所出的人的情緒狀態（VI）"
+    },
+    {
+      "chapter": "諧讔",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「並譎辭飾說，抑止昏暴」寫俳優以曲言制止掌權者的昏暴（V）；「辭雖傾回，意歸義正也」則以歸於義正評定其道德動機（VII）"
+    },
+    {
+      "chapter": "諧讔",
+      "para_index": 3,
+      "domains": ["VII"],
+      "modes": ["observation", "proposition"],
+      "reason": "「無所匡正，而詆嫚媟弄」把只求嘲弄、不作匡正的行為判為失當；「見視如倡，亦有悔矣」又寫出其人格聲譽後果（VII）"
+    },
+    {
+      "chapter": "諧讔",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["observation", "proposition"],
+      "reason": "「魏晉滑稽，盛相驅扇」指出群體相互煽動仿效的風氣（V）；「曾是莠言，有虧德音」則把以形貌取笑判成有損德行的言語（VII）"
+    },
+    {
+      "chapter": "諧讔",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「大者興治濟身，其次弼違曉惑」明說隱語可用來興治、救身、輔正過失與解除疑惑，落到危局中匡政與自救的社會行動（V）"
+    },
+    {
+      "chapter": "諧讔",
+      "para_index": 6,
+      "domains": ["VII"],
+      "modes": ["observation", "proposition"],
+      "reason": "「纖巧以弄思，淺察以衒辭」批評以小巧淺見炫耀辭藻；「雖有小巧，用乖遠大」把這種賣弄判作志趣失正（VII）"
+    },
+    {
+      "chapter": "諧讔",
+      "para_index": 7,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「若效而不已，則髡袒而入室，旃孟之石交乎」把不斷仿效俳諧的後果落到與俳優親密結交及身分邊界的改變，是群體交往判斷（V）"
+    },
+    {
+      "chapter": "諧讔",
+      "para_index": 8,
+      "domains": ["XIII"],
+      "modes": ["proposition"],
+      "reason": "「古之嘲隱，振危釋憊」明說嘲隱能扶救危困、解除困憊，承重於人在困厄後得到舒解與恢復（XIII）"
+    },
+    {
+      "chapter": "諧讔",
+      "para_index": 9,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「空戲滑稽，德音大壞」把只作空戲的滑稽直接判為嚴重敗壞德音，是對言語品格的斷語（VII）"
+    }
+  ]
+}
