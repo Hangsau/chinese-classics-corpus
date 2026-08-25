@@ -1,0 +1,208 @@
+{
+  "batch": "b02.md",
+  "rows": [
+    {
+      "chapter": "尚賢上",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「皆欲國家之富，人民之衆，刑政之治」只列施政者想要的政策結果，繼而說「不得富而得貧」並追問原因，尚未說明人爲何會如此"
+    },
+    {
+      "chapter": "尚賢上",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「賢良之士衆，則國家之治厚；賢良之士寡，則國家之治薄」把治理品質繫於人才多寡，並以「大人之務」指出領導者延攬人才的責任"
+    },
+    {
+      "chapter": "尚賢上",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「富之貴之，敬之譽之，然後國之良士亦將可得而衆也」只是以富貴敬譽增加人才的誘因投入產出，沒有另說人爲何如此"
+    },
+    {
+      "chapter": "尚賢上",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "富貴、親者、近者各自說「始我所恃者」而在不避貧賤親疏的選舉原則下「皆競爲義」，明說人會依所倚恃的權勢與公平標準調整品行"
+    },
+    {
+      "chapter": "尚賢上",
+      "para_index": 5,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「爵位不高則民弗敬，蓄祿不厚則民不信，政令不斷則民不畏」說出任事所需的敬信畏，又以「有能則舉之，無能則下之」主張才能、職位與報酬相稱"
+    },
+    {
+      "chapter": "尚賢上",
+      "para_index": 6,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "堯舉舜等史例收束於「士者，所以爲輔相承嗣也」及「得士則謀不困，體不勞，名立而功成」，明說人才如何支援領導並促成事業"
+    },
+    {
+      "chapter": "尚賢上",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「賢士不可不舉」與「尚賢者，政之本也」只總結應採尚賢政策，沒有在本段另行說出人的樣態或其所以然"
+    },
+    {
+      "chapter": "尚賢中",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「自貴且智者爲政乎愚且賤者則治」把治理成敗繫於任事者能力，並以「聽其言，迹其行，察其所能而愼予官」說明領導者應按實際才能授職"
+    },
+    {
+      "chapter": "尚賢中",
+      "para_index": 2,
+      "domains": ["V", "VIII", "XII"],
+      "modes": ["proposition"],
+      "reason": "「蚤朝晏退」「夜寢夙興」說明賢者任事的勤勞，「萬民親之，賢人歸之」說其群體效果，而「天鬼富之」又明認天鬼會降福，三者分別承載才能、社會與神聖因果"
+    },
+    {
+      "chapter": "尚賢中",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「賢人唯毋得明君而事之，竭四肢之力，以任君之事，終身不倦」把明君與賢臣的相得、任事投入及功過分配寫成君臣合作的條件"
+    },
+    {
+      "chapter": "尚賢中",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "受爵而無祿者判斷「此非中實愛我也，假藉而用我也」，明說工具化用人會破壞親信；其後又把賞罰失當連到不孝、盜竊、倍畔等品行後果"
+    },
+    {
+      "chapter": "尚賢中",
+      "para_index": 5,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「夫無故富貴、面目佼好則使之，豈必智且有慧哉」批評任人唯親，並以不能治百人卻授千人之官說明能力與職責失配必使治理失敗"
+    },
+    {
+      "chapter": "尚賢中",
+      "para_index": 6,
+      "domains": ["V", "VIII", "XII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "舜、伊摯、傅說皆「始賤卒而貴，始貧卒而富」，說明出身不礙才能受用；末句「天亦不辯貧富貴賤、遠邇親疏，賢者舉而尚之」又把天認作公正尚賢的依據"
+    },
+    {
+      "chapter": "尚賢中",
+      "para_index": 7,
+      "domains": ["V", "XII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "堯舜禹湯文武以「兼而愛之，從而利之」治理萬民，呈現利民的領導；「天鬼賞之，立爲天子」則明確認證天鬼會因其作爲降賞"
+    },
+    {
+      "chapter": "尚賢中",
+      "para_index": 8,
+      "domains": ["V", "VII", "XII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "桀紂幽厲「兼而憎之，從而賊之」寫暴政，「賊殺萬民」寫明惡行，而「天鬼罰之」宣告神聖懲罰；拿掉任一格都會少掉本段的一層判斷"
+    },
+    {
+      "chapter": "尚賢中",
+      "para_index": 9,
+      "domains": ["IV", "V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "伯鯀雖爲「帝之元子」，卻因「親而不善」受刑而「帝亦不愛」，以父子親情、掌權者不徇親的公正及不善之行三者構成同一衝突"
+    },
+    {
+      "chapter": "尚賢中",
+      "para_index": 10,
+      "domains": ["V", "VII", "XII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "禹稷皋陶「謹其言，愼其行，精其思慮」並使萬民長久受利，拆出了德行與利民責任；「上事天，則天鄉其德」又宣告天會欣賞其德"
+    },
+    {
+      "chapter": "尚賢中",
+      "para_index": 11,
+      "domains": ["V", "VI", "X"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「民，生爲甚欲，死爲甚憎」直說百姓對生死的欲惡，並以強威使「民之死」解釋何以不能成就天下領導；社會權力、內在欲惡與死亡各是不可省的一層"
+    },
+    {
+      "chapter": "尚賢下",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "從賞貴能射御或忠信者，到「使天下之爲善者勸，爲暴者沮」，全段只給賞罰誘導行爲的政策鏈，沒有解釋人爲何如此"
+    },
+    {
+      "chapter": "尚賢下",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "王公對牛羊衣裳尚且索良工良宰，治理國家卻舉骨肉富貴美貌者；「親其國家也，不若其親一危弓」藉此揭出領導判斷失序及對專業才能的輕視"
+    },
+    {
+      "chapter": "尚賢下",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "舜、伊尹、傅說皆由卑微處境被舉，不因「骨肉之親、無故富貴、面目美好」，而因「法其言，用其謀，行其道」，主張公共任用應看人的實際才行"
+    },
+    {
+      "chapter": "尚賢下",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "先王書的徵引只收束爲「必選擇賢者，以爲其羣屬輔佐」，仍是如何選任官屬的制度主張，本段未另說人的樣態"
+    },
+    {
+      "chapter": "尚賢下",
+      "para_index": 5,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「有力者疾以助人，有財者勉以分人，有道者勸以教人」把成爲賢者拆成助人、分財與教人的行動，並連到飢寒得濟與亂者得治，分別涉及公益、品格及才能傳授"
+    },
+    {
+      "chapter": "尚賢下",
+      "para_index": 6,
+      "domains": ["V", "VII", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「皆欲富貴而惡貧賤」先說人的欲惡；當賞罰只依不可學的親貴美貌時，百姓便「沮以爲善」、不肯勞作、分財與教誨，明說不公如何摧毀品行及投入"
+    },
+    {
+      "chapter": "尚賢下",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["narrative", "prescription"],
+      "reason": "堯舜等「得此推而上之」便天下和、庶民阜的史例，最後只收束爲「尚賢者，天鬼百姓之利，而政事之本也」，是尚賢政策的成效鏈，沒有另解人爲何如此"
+    },
+    {
+      "chapter": "尚同上",
+      "para_index": 1,
+      "domains": ["IV", "V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「人是其義，以非人之義」把人人自是、互相非難說成亂源，並明寫其後果是父子兄弟怨惡離散及百姓相害不相助，分別落在品格判斷、家庭與社會關係"
+    },
+    {
+      "chapter": "尚同上",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "從立天子、三公、諸侯、正長，到逐級「聞善而不善，必以告其上」及賞罰，全段都在規定官階、通報與統一命令的制度程序"
+    },
+    {
+      "chapter": "尚同上",
+      "para_index": 3,
+      "domains": ["XII"],
+      "modes": ["proposition"],
+      "reason": "「天飄風苦雨」被明定爲「天之所以罰百姓之不上同於天者」，直接認證天有意圖並以災異施罰"
+    },
+    {
+      "chapter": "尚同上",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「聖王爲五刑，請以治其民」只把刑罰比作絲紀與網綱，用來收束不尚同者，是治理工具的說明而非人的樣態"
+    }
+  ]
+}
