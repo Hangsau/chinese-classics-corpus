@@ -1,0 +1,425 @@
+{
+  "batch": "b06.md",
+  "rows": [
+    {
+      "chapter": "諧隱",
+      "para_index": 1,
+      "domains": ["VI", "V"],
+      "modes": ["observation", "proposition"],
+      "reason": "「夫心險如山，口壅若川，怨怒之情不一，歡謔之言無方」把諧辭所出的怨怒、歡謔落到人的內在情緒（VI）；「臧紇喪師，國人造侏儒之歌；并嗤戲形貌，內怨為俳也」寫群眾用嘲歌表達公共怨懟（V）"
+    },
+    {
+      "chapter": "諧隱",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["observation", "proposition"],
+      "reason": "「并譎辭飾說，抑止昏暴」說諷諫能約束掌權者的昏暴，落到權力與公共責任（V）；「曾是莠言，有虧德音」又把放縱嘲弄判為損德的行為（VII）"
+    },
+    {
+      "chapter": "諧隱",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["observation", "proposition"],
+      "reason": "「大者興治濟身，其次弼違曉惑」明說隱語可以興治、救身、糾正過失並解除迷惑，承重在公共治理與勸諫作用（V）"
+    },
+    {
+      "chapter": "諧隱",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "「謎也者，回互其辭，使昏迷也」界定謎語的構辭方式，後文品評歷代謎作是否纖巧、遠大，仍只在說此體的沿革與寫法"
+    },
+    {
+      "chapter": "諧隱",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「會義適時，頗益諷誡」肯定適時嘲隱對公共勸戒的作用（V）；「空戲滑稽，德音大壞」則斷言空泛戲謔會敗壞德行（VII）"
+    },
+    {
+      "chapter": "諸子",
+      "para_index": 1,
+      "domains": ["II", "V"],
+      "modes": ["proposition", "observation"],
+      "reason": "「君子之處世，疾名德之不章」把人在世時名德能否彰顯列為自我關切（II）；「百姓之群居，苦紛雜而莫顯」直說個體在群居中容易被紛雜淹沒（V）"
+    },
+    {
+      "chapter": "諸子",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「孟軻膺儒以磬折，莊周述道以翱翔」以下逐一登錄戰國諸子所承學派及其著述特色，是諸子體的源流與人物簿錄"
+    },
+    {
+      "chapter": "諸子",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「《七略》芬菲，九流鱗萃，殺青所編，百有八十餘家矣」記錄秦火之後諸子書的校錄、聚合與存量，是書目沿革考述"
+    },
+    {
+      "chapter": "諸子",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "「其純粹者入矩，踳駁者出規」以下用書中語例區分合於經矩與虛誕駁雜兩類，落點是諸子文本的內容品評"
+    },
+    {
+      "chapter": "諸子",
+      "para_index": 5,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「棄孝廢仁，轘藥之禍，非虛至也」把背棄孝仁與實際災禍連在一起，是對道德選擇及其後果的斷語（VII）"
+    },
+    {
+      "chapter": "諸子",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「孟荀所述，理懿而辭雅」以下逐家評比義理、辭采與篇章長短，是諸子書目及作品風格的登錄品題"
+    },
+    {
+      "chapter": "諸子",
+      "para_index": 7,
+      "domains": ["I"],
+      "modes": ["observation", "proposition"],
+      "reason": "「身與時舛，志共道申，標心於萬古之上，而送懷於千載之下」說人即使與時代乖舛，仍能藉志業跨越時間而留下意義（I）"
+    },
+    {
+      "chapter": "諸子",
+      "para_index": 8,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "「丈夫處世，懷寶挺秀。辨雕萬物，智周宇宙」描寫人在世應展露所具才智並通辨萬物，承重在才能的發揮與成就（VIII）"
+    },
+    {
+      "chapter": "諸子",
+      "para_index": 9,
+      "domains": ["VII", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「立德何隱」主張德行不應隱沒，是人格實踐的要求（VII）；「含道必授」主張有所得便應傳授，落到教與傳承的召喚（VIII）"
+    },
+    {
+      "chapter": "議對",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「議之言宜，審事宜也」先作名義訓釋，以下由經典、三代至戰國追溯議體來源，是文體溯源而非人的斷語"
+    },
+    {
+      "chapter": "議對",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「迄至有漢，始立駁議」以下說明駁議命名並列舉賈誼、主父、安國等作例，是體制沿革與作者登錄"
+    },
+    {
+      "chapter": "議對",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「事實允當，可謂達議體矣」以下逐一品題張敏、郭躬、應劭、傅咸、陸機等人的議文工拙，屬選文定篇"
+    },
+    {
+      "chapter": "議對",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「郊祀必洞於禮，戎事必練於兵，田穀先曉於農，斷訟務精於律」規定議文作者應備的專門知識，仍是寫作技術要求"
+    },
+    {
+      "chapter": "議對",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「若文浮於理，末勝其本」所批評的是文辭掩埋事理的寫作失衡；秦女、楚珠只是用來說明本末倒置的譬喻"
+    },
+    {
+      "chapter": "議對",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「對策者，應詔而陳政也；射策者，探事而獻說也」界定兩種文體，後文登錄漢代取士沿革與文體功能"
+    },
+    {
+      "chapter": "議對",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「凡此五家，並前代之明範也」總結晁錯、董仲舒、公孫弘、杜欽、魯丕五家對策的繁簡與文質，是作品品題"
+    },
+    {
+      "chapter": "議對",
+      "para_index": 8,
+      "domains": ["V"],
+      "modes": ["observation", "proposition"],
+      "reason": "「及其來選，又稱疾不會，雖欲求文，弗可得也」寫應選者規避到場而使取士失效，並以「選失之異耳」把怪象歸因於制度失當（V）"
+    },
+    {
+      "chapter": "議對",
+      "para_index": 9,
+      "domains": ["VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「或練治而寡文，或工文而疎治，對策所選，實屬通才」明說人的政務與文辭能力常有偏缺，取士所難在選出兼備的通才（VIII）"
+    },
+    {
+      "chapter": "議對",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「斷理必綱，摛辭無懦」以贊語規定議文辨理、措辭應有的綱要與力度，落點仍是文體寫法"
+    },
+    {
+      "chapter": "議對",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「對策王庭，同時酌和。治體高秉，雅謨遠播」收束對策在朝廷陳治與傳播雅謨的文體功用，沒有另立人的命題"
+    },
+    {
+      "chapter": "辨騷",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「班固以為露才揚己，忿懟沉江」這是登錄班固的評語，不是文本自己的斷語；全段在比較淮南、班固、王逸等對《離騷》的褒貶及經典關係"
+    },
+    {
+      "chapter": "辨騷",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "「觀茲四事，同於《風》、《雅》者也」與「摘此四事，異乎經典者也」分類《楚辭》合經、異經的題材與文辭，落點是作品判準"
+    },
+    {
+      "chapter": "辨騷",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation", "prescription"],
+      "reason": "「其衣被詞人，非一代也」考述《楚辭》對後世作者的影響，「酌奇而不失其真，翫華而不墜其實」則是取法寫作的規定"
+    },
+    {
+      "chapter": "辨騷",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「不有屈原，豈見《離騷》」是屈原與作品在文學史上的關係判斷，「驚才風逸」亦只在品題其文才"
+    },
+    {
+      "chapter": "辨騷",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「金相玉式，豔溢錙毫」以贊語評《離騷》的文質與艷采，「情理實勞」在此也是作品情理的總評"
+    },
+    {
+      "chapter": "通變",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「非文理之數盡，乃通變之術疎耳」把寫作停滯歸因於未通變，草木、綆短與足疲皆服務於文體常變的技術命題"
+    },
+    {
+      "chapter": "通變",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "「黃唐淳而質，虞夏質而辨，商周麗而雅」以下逐代排比文風；「競今疎古，風昧氣衰也」仍在解釋文體遞變"
+    },
+    {
+      "chapter": "通變",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation", "prescription"],
+      "reason": "「多略漢篇，師範宋集」觀察當時學文者近附遠疎，「矯訛翻淺，還宗經誥」則規定取法古今的寫作路徑"
+    },
+    {
+      "chapter": "通變",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「此並廣寓極狀，而五家如一」以枚乘、相如、馬融、揚雄、張衡的相似句證明文辭相循，是歷代文風用例登錄"
+    },
+    {
+      "chapter": "通變",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「宜宏大體，先博覽以精閱，總綱紀而攝契」規定通變作文要先掌握大體、再調和質文；所斥偏解也限於此項手藝"
+    },
+    {
+      "chapter": "通變",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「變則可久，通則不乏」以贊語收束文章因通變而長久不竭的原理，結論落在文律與創作"
+    },
+    {
+      "chapter": "通變",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「望今制奇，參古定法」規定寫作者觀今求新、參古定法，是通變方法的簡要口訣"
+    },
+    {
+      "chapter": "銘箴",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["observation"],
+      "reason": "「昔帝軒刻輿几以弼違，大禹勒筍簴而招諫」記領導者以銘刻糾偏並主動招納諫言，把公共權力置於勸戒與問責之下（V）"
+    },
+    {
+      "chapter": "銘箴",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「天子令德，諸侯計功，大夫稱伐」是引用臧武仲來界定銘文按身分記德、功、伐的內容，後文皆為器銘例證"
+    },
+    {
+      "chapter": "銘箴",
+      "para_index": 3,
+      "domains": ["VII"],
+      "modes": ["observation", "proposition"],
+      "reason": "「夸誕示後，吁可笑也！」直接把秦昭等人刻石向後世夸示的行為判為夸誕可笑，是對虛榮品格的否定（VII）"
+    },
+    {
+      "chapter": "銘箴",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「蔡邕銘思，獨冠古今」以下評橋公鉞銘、朱穆鼎銘的體式與長短，是歷代銘作的作品品題"
+    },
+    {
+      "chapter": "銘箴",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「事非其物，繁略違中」以下逐一評論敬通、崔駰、李尤、魏文、張載器銘是否得宜，是選文定篇的工拙登錄"
+    },
+    {
+      "chapter": "銘箴",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「箴者，所以攻疾防患，喻鍼石也」用治病作譬喻來釋箴名，以下追溯三代箴文，並非在寫人的疾病身體"
+    },
+    {
+      "chapter": "銘箴",
+      "para_index": 7,
+      "domains": ["VII"],
+      "modes": ["observation", "proposition"],
+      "reason": "「戰代以來，棄德務功，銘辭代興，箴文委絕」把箴體衰落奠基在世人捨棄德行、專務功業的價值選擇上（VII）"
+    },
+    {
+      "chapter": "銘箴",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「凡斯繼作，鮮有克衷」以下評潘勖、溫嶠、王濟、潘尼、王朗諸箴的繁簡、正蕪與施用，是作品品題"
+    },
+    {
+      "chapter": "銘箴",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「箴全禦過，故文資確切；銘兼褒賛，故體貴弘潤」區分兩體功能並規定取事、摛文方法，末句亦是對秉文者的寫作要求"
+    },
+    {
+      "chapter": "銘箴",
+      "para_index": 10,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「箴惟德軌。有佩於言，無鑒於水」不只說箴的體用，也主張人應把警戒之言佩持在身，作為德行的準繩（VII）"
+    },
+    {
+      "chapter": "銘箴",
+      "para_index": 11,
+      "domains": ["VII"],
+      "modes": ["prescription"],
+      "reason": "「秉茲貞勵，警乎立履」勸人持守貞正勉勵並警醒自己的立身行履，是直接的品格修養要求（VII）"
+    },
+    {
+      "chapter": "鎔裁",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「規範本體謂之鎔，翦截浮詞謂之裁」界定鎔意裁辭的技術；駢拇、枝指與贅肬都只是文章枝贅的身體譬喻"
+    },
+    {
+      "chapter": "鎔裁",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「先標三準：履端於始，則設情以位體；舉正於中，則酌事以取類；歸餘於終，則撮辭以舉要」列作文布局步驟，是鎔裁手藝"
+    },
+    {
+      "chapter": "鎔裁",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「句有可削，足見其疎；字不得減，乃知其密」以下辨析繁略、敷刪的得失，才思之別也只用來說明這項寫作操作"
+    },
+    {
+      "chapter": "鎔裁",
+      "para_index": 4,
+      "domains": ["IV"],
+      "modes": ["observation", "proposition"],
+      "reason": "「蓋崇友于耳」把陸雲明知陸機文繁仍加稱許的原因，明指為看重兄弟之情，承重在手足親情（IV）"
+    },
+    {
+      "chapter": "鎔裁",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「辭如川流，溢則汎濫」以門戶、川流譬喻篇章彼此照應及辭語過量，仍是篇章剪裁原理"
+    },
+    {
+      "chapter": "鎔裁",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「權衡損益，斟酌濃淡。芟繁剪穢」是刪繁調節文辭的技術口訣，「弛於負擔」也只是文章減負的比喻"
+    },
+    {
+      "chapter": "附會",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「謂總文理，統首尾，定與奪，合涯際」界定附會如何統合全篇；神明、骨髓、肌膚、聲氣全是文章構件的身體譬喻"
+    },
+    {
+      "chapter": "附會",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["prescription", "proposition"],
+      "reason": "「附辭會義，務總綱領」以下規定篇章統攝繁理的方法，畫者與射者的失誤只是用來說明不可因細巧而失全體"
+    },
+    {
+      "chapter": "附會",
+      "para_index": 3,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "「才分不同，思緒各異」並以「通製者蓋寡，接附者甚衆」斷言人的統整能力有差別且能通盤規畫者稀少；抽掉文章手藝後仍是才能發揮的判斷（VIII）"
+    },
+    {
+      "chapter": "附會",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "「附會巧拙，相去遠哉」以張湯、虞松、倪寬、鍾會等改文得失驗證篇章附會之難，落點仍是寫作者的手藝工拙"
+    },
+    {
+      "chapter": "附會",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「原始要終，疎條布葉」以贊語概括篇章從首至尾安排枝條脈絡的附會方法"
+    },
+    {
+      "chapter": "附會",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「道味相附，懸緒自接。如樂之和，心聲克協」稱述義理、文味與線索和諧相接；心聲在此是篇章協調的寫作術語"
+    }
+  ]
+}
