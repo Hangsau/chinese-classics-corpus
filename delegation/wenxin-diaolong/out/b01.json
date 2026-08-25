@@ -1,0 +1,488 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {
+      "chapter": "事類",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「事類者，蓋文章之外，據事以類義，援古以證今者也」界定援引古事以證今義的寫作手法；後文列舉經典先例，落點仍是用事技術"
+    },
+    {
+      "chapter": "事類",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「至於崔班張蔡，遂捃摭經史」以下登錄歷代作者採用經史材料的演變，是用事手法的文學史溯源"
+    },
+    {
+      "chapter": "事類",
+      "para_index": 3,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "「才自內發，學以外成，有學飽而才餒，有才富而學貧」把人的天資與後天學習分開，指出兩者會形成不同的成就條件（VIII）"
+    },
+    {
+      "chapter": "事類",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「綜學在博，取事貴約，校練務精，捃理須覈」規定蒐集、選取與核實典故的方法，後面的正反例也只檢驗用事是否精當"
+    },
+    {
+      "chapter": "事類",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「此引事之實謬也」以下逐一核對曹植、陸機等人的典故錯誤，是選文定篇式的作品與用事品評"
+    },
+    {
+      "chapter": "事類",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「經籍深富，辭理遐亙」稱述經籍可供文章取材的豐富與廣遠，沒有另行斷定人是什麼樣的"
+    },
+    {
+      "chapter": "事類",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「文梓共採，瓊珠交贈。用人若己」總結採用他人文辭而使之融入己文的用事效果，仍是寫作手藝的評準"
+    },
+    {
+      "chapter": "原道第一",
+      "para_index": 1,
+      "domains": ["I"],
+      "modes": ["proposition"],
+      "reason": "「惟人參之，性靈所鍾，是謂三才。為五行之秀，實天地之心」直接把人定位為參贊天地、居於三才之一的存在（I）"
+    },
+    {
+      "chapter": "原道第一",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「人文之元，肇自太極，幽贊神明，《易》象惟先」追溯文字與《易》象的神聖起源，做的是人文源流論述，沒有另說人的處境"
+    },
+    {
+      "chapter": "原道第一",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「自鳥跡代繩文字始炳」以下依次登錄唐虞、夏商周至孔子的文章發展，是文學源流與聖賢著述史"
+    },
+    {
+      "chapter": "原道第一",
+      "para_index": 4,
+      "domains": ["XII"],
+      "modes": ["proposition"],
+      "reason": "「莫不原道心以敷章，研神理而設教，取象乎《河》、《洛》，問數乎蓍龜」以神理、河洛與蓍龜認證聖人設教的超越根據（XII）"
+    },
+    {
+      "chapter": "原道第一",
+      "para_index": 5,
+      "domains": ["XII"],
+      "modes": ["proposition"],
+      "reason": "「道心惟微，神理設教」明言教化由幽微道心與神理而設，肯定其神聖超越的認證作用（XII）"
+    },
+    {
+      "chapter": "原道第一",
+      "para_index": 6,
+      "domains": ["XII"],
+      "modes": ["proposition"],
+      "reason": "「龍圖獻體，龜書呈貌」把龍圖、龜書的顯現當作人文秩序的神聖徵驗，落在超越認證（XII）"
+    },
+    {
+      "chapter": "原文集注",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「《淮南子》有《原道訓》。高誘注云」以下彙錄篇名出處、舊注與劉勰原文，是清人集注的來源比對"
+    },
+    {
+      "chapter": "原文集注",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「原，本也」以下是高誘對「原道」一詞的訓詁，所做的是名義還原，不是對人的心理或生活作判斷"
+    },
+    {
+      "chapter": "原文集注",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「按彥和於篇中屢言」後連引三處正文以互證篇旨，是集注者輯錄文本內證的觀察"
+    },
+    {
+      "chapter": "原文集注",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「劉勰所謂道，就是《易》道」用《繫辭》引文判定劉勰「道」的思想來源，是集注的語源說明"
+    },
+    {
+      "chapter": "原文集注",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「周禮太宰以九兩繫邦國之民，其四曰」以下引出「儒以道得民。」並彙列鄭注與孫疏，是「儒」字義及出處的集注材料"
+    },
+    {
+      "chapter": "原文集注",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「儒，諸侯保氏有六藝以教民者」是單獨摘出的鄭玄舊注，內容在訓釋「儒」的名義與職掌"
+    },
+    {
+      "chapter": "原文集注",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「儒則泛指誦說詩書，通該術藝者而言」是孫詒讓對「儒」的訓釋，屬集注來源而非正文的人論"
+    },
+    {
+      "chapter": "原文集注",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「自漢以來，論文者罕能及此」以下彙錄紀昀對〈原道〉立意與文體地位的評語，是後人評論資料"
+    },
+    {
+      "chapter": "史傳",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「史者，使也。執筆左右，使之記也」訓釋史官名稱，並追述左右史、典謨誥誓與國史的制度源流"
+    },
+    {
+      "chapter": "史傳",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「夫子閔王道之缺」以下敘述孔子正《雅》《頌》、修《春秋》及左丘明創傳體，是史傳文體的起源故事"
+    },
+    {
+      "chapter": "史傳",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「及至縱橫之世，史職猶存」以下登錄戰國、楚漢至司馬遷的史書沿革、體例及作品得失"
+    },
+    {
+      "chapter": "史傳",
+      "para_index": 4,
+      "domains": ["VII"],
+      "modes": ["observation"],
+      "reason": "「遺親攘美之罪，徵賄鬻筆之愆」指認攘取父功、受賄曲筆等行為並明稱為罪愆，是對史家品格的負面判斷（VII）"
+    },
+    {
+      "chapter": "史傳",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「宣后亂秦，呂氏危漢，豈唯政事難假，亦名號宜慎矣」藉女性執政事例主張政治權力與名分的限制，是社會權力秩序的斷語（V）"
+    },
+    {
+      "chapter": "史傳",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「至於《後漢》紀傳，發源《東觀》」以下逐一登錄後漢與三國史書的作者、可信度及文體得失"
+    },
+    {
+      "chapter": "史傳",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「至於晉代之書，繁乎著作」以下列舉晉史作者、成書狀況與條例沿革，是史書體例的文學史登錄"
+    },
+    {
+      "chapter": "史傳",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「立義選言，宜依經以樹則；勸戒與奪，必附聖以居宗」規定史家蒐集資料及立義選言的方法，落點是史傳應如何寫"
+    },
+    {
+      "chapter": "史傳",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「歲遠則同異難密，事積則起訖易疎」分析紀傳編年在材料久遠、事跡交錯時的編纂困難，是史書技術問題"
+    },
+    {
+      "chapter": "史傳",
+      "para_index": 10,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「然俗皆愛奇，莫顧實理」把捨同求異、穿鑿傳聞的根源落在世俗共同的好奇心理與風氣上（V）"
+    },
+    {
+      "chapter": "史傳",
+      "para_index": 11,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「勳榮之家，雖庸夫而盡飾；迍敗之士，雖令德而常嗤」指出權勢使庸人獲美化、失勢使有德者受貶，是不公的世情（V）"
+    },
+    {
+      "chapter": "史傳",
+      "para_index": 12,
+      "domains": ["VIII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "「史之為任，乃彌綸一代，負海內之責，而嬴是非之尤。秉筆荷擔，莫此之勞」明說史家職任承擔一代公論及其工作重負（VIII）"
+    },
+    {
+      "chapter": "史傳",
+      "para_index": 13,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「史肇軒黃，體備周孔。世歷斯編，善惡偕總」以贊語總括史傳的起源、體制與記載範圍，仍在界定文體"
+    },
+    {
+      "chapter": "史傳",
+      "para_index": 14,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「騰褒裁貶，萬古魂動。辭宗邱明，直歸南董」總結史傳褒貶之用及文辭所宗，是篇末對史家筆法與典範的稱述"
+    },
+    {
+      "chapter": "哀弔",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「短折曰哀。哀者，依也」訓釋哀辭名稱，並用夭亡舊例說明這一文體施用的對象，死亡是體例條件"
+    },
+    {
+      "chapter": "哀弔",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「霍子侯暴亡，帝傷而作詩，亦哀辭之類矣」以下登錄漢代哀辭的作品源流並品評崔瑗篇章"
+    },
+    {
+      "chapter": "哀弔",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「至于蘇順張升，並述哀文」以下逐一品評建安至潘岳哀辭的情辭、句式與作品成就"
+    },
+    {
+      "chapter": "哀弔",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「隱心而結文則事愜，觀文而屬心則體奢」只比較兩條寫作路徑，後果分別落在敘事與文體是否浮奢"
+    },
+    {
+      "chapter": "哀弔",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation", "ritual"],
+      "reason": "「弔者，至也」先作名義訓釋，「故賓之慰主，以至到為言也」再說賓客慰問喪主的弔禮體例"
+    },
+    {
+      "chapter": "哀弔",
+      "para_index": 6,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「虐民搆敵，亦亡之道」把虐待人民、招致敵對與政權敗亡連成因果，是對統治、公義及群體後果的判斷（V）"
+    },
+    {
+      "chapter": "哀弔",
+      "para_index": 7,
+      "domains": ["XI"],
+      "modes": ["proposition"],
+      "reason": "「或有志而無時，或美才而兼累」指出志向與才華會受時運及自身牽累所限，落在人能否掌握命運與施展自己的問題（XI）"
+    },
+    {
+      "chapter": "哀弔",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「自賈誼浮湘，發憤弔屈」以下登錄賈誼、司馬相如、揚雄等弔文的體式、情辭與作品得失"
+    },
+    {
+      "chapter": "哀弔",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「胡阮之弔夷齊」以下逐篇品評胡阮、王粲、禰衡及陸機弔文的褒譏、繁麗與成就"
+    },
+    {
+      "chapter": "哀弔",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「固宜正義以繩理，昭德而塞違，割析褒貶，哀而有正」規定弔文避免變成賦體並妥善安排褒貶的寫法"
+    },
+    {
+      "chapter": "哀弔",
+      "para_index": 11,
+      "domains": ["X"],
+      "modes": ["proposition"],
+      "reason": "「苗而不秀，自古斯慟」以幼苗未能開花比喻生命早夭，直接承載人對未及長成便死亡的悲慟（X）"
+    },
+    {
+      "chapter": "哀弔",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「雖有通才，迷方失控」承接本篇評弔文作者即使有才仍可能失去文體準則，落點是寫作方向"
+    },
+    {
+      "chapter": "夸飾",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「神道難摹，精言不能追其極；形器易寫，壯辭可得喻其真」用題材難易解釋夸飾何以產生，是修辭原理"
+    },
+    {
+      "chapter": "夸飾",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「自宋玉景差，夸飾始盛」以下列舉宋玉、司馬相如、揚雄、張衡的夸飾用例並評其失當"
+    },
+    {
+      "chapter": "夸飾",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「莫不因夸以成狀，沿飾而得奇也」說明誇張如何摹寫景物、渲染歡戚並形成文辭效果，是手藝命題"
+    },
+    {
+      "chapter": "夸飾",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「使夸而有節，飾而不誣」要求夸飾合乎事理、節制而不虛妄，後果落在文章名實是否相符"
+    },
+    {
+      "chapter": "夸飾",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「夸飾在用，文豈循檢。言必鵬運」以贊語概括夸飾突破常度、使言辭高舉的修辭特性"
+    },
+    {
+      "chapter": "夸飾",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「曠而不溢，奢而無玷」用贊語規定誇大鋪陳仍須不過度、無瑕疵，是夸飾手法的尺度"
+    },
+    {
+      "chapter": "奏啟",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「昔唐虞之臣，敷奏以言；秦漢之輔，上書稱奏」追述奏體來源、用途與早期作品特色，是文體史登錄"
+    },
+    {
+      "chapter": "奏啟",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「自漢以來，奏事或稱上疏」以下列舉賈誼、晁錯、匡衡等奏疏的題材與文辭，是歷代作者和作品品題"
+    },
+    {
+      "chapter": "奏啟",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「後漢群賢，嘉言罔伏」以下按後漢、魏晉登錄奏文作者及其作品的骨鯁、博雅、忠規等特色"
+    },
+    {
+      "chapter": "奏啟",
+      "para_index": 4,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「名儒之與險士，固殊心焉」把如實揭奸與誣陷他人的差別歸到執筆者心術，明判兩種人的品格不同（VII）"
+    },
+    {
+      "chapter": "奏啟",
+      "para_index": 5,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「世人為文，競於詆訶，吹毛取瑕，次骨為戾」指認人們競相辱罵、苛求深害的行為，並把它判為失中與品格偏失（VII）"
+    },
+    {
+      "chapter": "奏啟",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["observation", "prescription"],
+      "reason": "「啟者開也」以下訓釋啟體名稱及沿革，「必斂飭入規」以下則規定其音節與文辭，皆屬文體說明"
+    },
+    {
+      "chapter": "奏啟",
+      "para_index": 7,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「夫王臣匪躬，必吐謇諤」主張臣子不應謀求自身安逸而必須直言，將忠直無私說成任官者的品格責任（VII）"
+    },
+    {
+      "chapter": "奏啟",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「筆銳干將，墨含淳酖」以贊語形容奏劾文辭銳利嚴峻、足以整飭風禁，是對文體功用的概括"
+    },
+    {
+      "chapter": "奏啟",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「雖有次骨，無或膚浸。獻政陳宜，事必勝任」規定奏文雖嚴厲但不可浸潤誣害，並應切合所陳政事"
+    },
+    {
+      "chapter": "宗經",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「故能開學養正，昭明有融」明說經典能開啟學習並涵養端正品格，把人的道德養成視為經教的作用（VII）"
+    },
+    {
+      "chapter": "宗經",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「此聖文之殊致，表裏之異體者也」總結《易》《書》《詩》《禮》《春秋》各自的文辭、訓詁與表意特色"
+    },
+    {
+      "chapter": "宗經",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「論說辭序，則《易》統其首」以下逐一把各類文體追溯到五經，論證文章制式與雅言的來源"
+    },
+    {
+      "chapter": "宗經",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「故文能宗經，體有六義」以下列出情、風、事、義、體、文六項文章準則，是宗經寫作的規範名目"
+    },
+    {
+      "chapter": "宗經",
+      "para_index": 5,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「夫文以行立，行以文傳」將文章與人的德行相互繫結；「勵德樹聲，莫不師聖」又明言立德須以聖人為師（VII）"
+    },
+    {
+      "chapter": "宗經",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「三極彝訓，道深稽古，致化惟一，分教斯五」以贊語總括五經的道統、教化與分科，是經書體系的稱述"
+    },
+    {
+      "chapter": "宗經",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「文章奧府，淵哉鑠乎，群言之祖」以贊語稱五經為文章寶庫與眾言之祖，落點是經典的文學地位"
+    }
+  ]
+}
