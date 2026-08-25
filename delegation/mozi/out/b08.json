@@ -1,0 +1,159 @@
+{
+  "batch": "b08.md",
+  "rows": [
+    {
+      "chapter": "非命中",
+      "para_index": 1,
+      "domains": ["XI"],
+      "modes": ["formalization", "proposition"],
+      "reason": "「亦嘗有見命之物、聞命之聲者乎？則未嘗有也」否定命的可驗證性，又以「上變政而民易教」把治亂變化歸於人的施政，主張並非定命；「天鬼之志」只列為立言之法，並未在此認證天鬼"
+    },
+    {
+      "chapter": "非命中",
+      "para_index": 2,
+      "domains": ["XI", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「慎言知行」的列士大夫能規諫君長、教順百姓，所得賞譽「天下皆曰其力也」，把聲名成就歸於履職之力而非命定"
+    },
+    {
+      "chapter": "非命中",
+      "para_index": 3,
+      "domains": ["XI", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "暴王「沈於酒樂，而不顧其國家百姓之政」、窮民「貪飲食而惰從事」卻各以「我命」卸責，段末遂判定執有命是「天下之厚害」而要求「不可不疾非」，兼論自主責任與品格敗壞"
+    },
+    {
+      "chapter": "非命下",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「有考之者，有原之者，有用之者」只是把立言分成考先王、察耳目與施政驗用三項論證程序，尚未對人的命運或生活提出實質主張"
+    },
+    {
+      "chapter": "非命下",
+      "para_index": 2,
+      "domains": ["XI", "V"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「世不渝而民不易，上變政而民改俗」後明斷「天下之治也，湯武之力也；天下之亂也，桀紂之罪也」，以歷史對照把治亂歸於領導者的作爲與責任，且明言不可謂命"
+    },
+    {
+      "chapter": "非命下",
+      "para_index": 3,
+      "domains": ["XI", "VII"],
+      "modes": ["proposition"],
+      "reason": "桀紂「從其心意之辟」而失宗廟，罷民「貪飲食而惰從事」而陷飢寒，卻都說「吾命固將……」，以具體惡行揭出拿命定掩飾自身過失的品格問題"
+    },
+    {
+      "chapter": "非命下",
+      "para_index": 4,
+      "domains": ["XI", "XII"],
+      "modes": ["proposition"],
+      "reason": "所引《太誓》一面斥「謂人有命」，一面稱「上帝不常，九有以亡；上帝不順，祝降其喪」，以天意隨德行而改變、降喪來反駁固定之命，故反宿命與神聖認證並存"
+    },
+    {
+      "chapter": "非命下",
+      "para_index": 5,
+      "domains": ["XI", "VIII"],
+      "modes": ["observation", "proposition"],
+      "reason": "王公、卿大夫、農夫、婦人皆因相信「强必治」「强必貴」「强必富」而「不敢怠倦」，反之信命便怠於治政、耕織，直接把生活結果與各職分的努力相連；末尾事天鬼語只是怠政後果，主論不在認證天鬼"
+    },
+    {
+      "chapter": "非命下",
+      "para_index": 6,
+      "domains": ["XI"],
+      "modes": ["prescription"],
+      "reason": "「命者，暴王所作，窮人所術，非仁者之言也」把命說判作人造之害，並以「不可不察而强非」要求主動破除宿命觀"
+    },
+    {
+      "chapter": "非儒下",
+      "para_index": 1,
+      "domains": ["IV", "VII"],
+      "modes": ["ritual", "proposition"],
+      "reason": "本段逐項比較父母、妻子與宗族的喪期，指出其親疏尊卑相互顛倒；又以求死者若信其仍在則「戇愚」、若知其亡仍求則「僞亦大矣」，把喪親禮制連到真僞品格"
+    },
+    {
+      "chapter": "非儒下",
+      "para_index": 2,
+      "domains": ["IV", "VII"],
+      "modes": ["ritual", "proposition"],
+      "reason": "「顛覆上下，悖逆父母，下則妻子，妻子上侵」批評婚禮與服喪倒置親屬次序，並以「厚所至私，輕所至重」斷爲偏私與欺誣，兼論家庭倫理及品格"
+    },
+    {
+      "chapter": "非儒下",
+      "para_index": 3,
+      "domains": ["XI", "VIII"],
+      "modes": ["proposition"],
+      "reason": "所駁命說稱「人之知力，不能爲焉」，而文本指出羣吏信之便「怠於分職」、庶人信之便「怠於從事」，明說宿命信念會削弱履職與勞作，進而致貧亂"
+    },
+    {
+      "chapter": "非儒下",
+      "para_index": 4,
+      "domains": ["VII", "VIII"],
+      "modes": ["observation", "proposition"],
+      "reason": "「貪於飲食，惰於作務」把儒者的貪惰落到具體行止，後文又寫其見富人有喪便喜稱「此衣食之端也」，批評以他人喪事謀食的品格與棄業怠作"
+    },
+    {
+      "chapter": "非儒下",
+      "para_index": 5,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "儒者以「古服言」作爲成仁條件，反詰則指出那些服言在古人當時也曾是新的，從而否定僅憑仿古外表與語言即可成爲君子的品格標準"
+    },
+    {
+      "chapter": "非儒下",
+      "para_index": 6,
+      "domains": ["VIII", "VII"],
+      "modes": ["proposition"],
+      "reason": "以羿作弓、伃作甲、奚仲作車、巧垂作舟反駁「君子循而不作」，指出一切所循之物「人必或作之」，不應以創制或承襲作爲君子與小人的界線"
+    },
+    {
+      "chapter": "非儒下",
+      "para_index": 7,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "文本稱仁人會以「取舍是非之理相告」而「見善必遷」，又指出若姑息暴亂使「天下害不除」，便是「不義莫大焉」，直接討論公共除害與善惡判準"
+    },
+    {
+      "chapter": "非儒下",
+      "para_index": 8,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「事上竭忠，事親得孝，務善則美，有過則諫」把臣子的忠孝與主動進諫拆成行爲準則；明知君親將遇大亂卻「不問不言」則被判爲不忠不良，承重在關係責任與品格"
+    },
+    {
+      "chapter": "非儒下",
+      "para_index": 9,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "先以「大以治人，小以任官」及「不義不處，非理不行」界定君子之道，再藉晏子所述孔丘助白公亂上、使君臣受危的故事，評判政治責任與仁義品格"
+    },
+    {
+      "chapter": "非儒下",
+      "para_index": 10,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "晏子以「不可使親治」「不可使守職」「不可以導衆」評估儒者不適任公共職責，後敘孔丘因怒而布置列國相攻，終致「齊吳破國之難，伏尸以言術數」，將私憤與操弄連到群體災害"
+    },
+    {
+      "chapter": "非儒下",
+      "para_index": 11,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "「孔丘爲魯司寇，舍公家而於季孫」記其身居公職卻轉向季氏私門的選擇，這則行止的承重點是公家、權臣與臣屬責任的取捨"
+    },
+    {
+      "chapter": "非儒下",
+      "para_index": 12,
+      "domains": ["VII", "IX"],
+      "modes": ["narrative", "proposition"],
+      "reason": "孔丘在陳蔡「藜羹不糂」十日的飢困中不問肉酒來路，飽後卻席割不正不取；收束句以「飢約則不辭妄取以活身，贏飽則僞行以自飾」批評身體困境前後的虛僞品格"
+    },
+    {
+      "chapter": "非儒下",
+      "para_index": 13,
+      "domains": ["VIII", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "列舉孔丘弟子效法其師而參與叛亂後，以「夫爲弟子，後生其師，必脩其言，法其行」明說師徒學習會傳承言行，並由教師行止推及弟子的品格後果"
+    }
+  ]
+}
