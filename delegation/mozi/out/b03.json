@@ -1,0 +1,243 @@
+{
+  "batch": "b03.md",
+  "rows": [
+    {
+      "chapter": "尚同中",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「人是其義，而非人之義，故交相非也」又說人們不相勞、不相教、不相分，把各自認定自己的義與彼此隔絕說成家人離散及天下衝突的根源"
+    },
+    {
+      "chapter": "尚同中",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「唯其耳目之請，不能獨一同天下之義」以個人耳目與能力不足解釋爲何須選賢分職、共同治理，承重點在領導與能力互補"
+    },
+    {
+      "chapter": "尚同中",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「凡聞見善者必以告其上」以下逐項規定告舉、附上與賞罰；末句「皆欲得上之賞譽，而畏上之毀罰」把欲畏直接換算成制度槓桿，沒有另說人的樣態"
+    },
+    {
+      "chapter": "尚同中",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「皆尚同乎鄉長，而不敢下比」及「去而不善言，學鄉長之善言」是里民服從鄉長的政令，收束也只說一同其義便使鄉治"
+    },
+    {
+      "chapter": "尚同中",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「皆上同乎國君，而不敢下比」到「唯以其能一同其國之義，是以國治」完整停留在統一政令便得治理的政策鏈，未解釋人爲何如此"
+    },
+    {
+      "chapter": "尚同中",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「皆上同乎天子，而不敢下比」是逐級服從的政令；「天子者，固天下之仁人也」只是品題，未拆成行爲，末尾仍只以一同天下之義解釋天下治"
+    },
+    {
+      "chapter": "尚同中",
+      "para_index": 7,
+      "domains": ["XII"],
+      "modes": ["proposition"],
+      "reason": "「此天之降罰也，將以罰下人之不尚同乎天者也」明確認證天有意圖，並以寒熱、霜雨、疾疫等降罰"
+    },
+    {
+      "chapter": "尚同中",
+      "para_index": 8,
+      "domains": ["XII", "V"],
+      "modes": ["ritual", "proposition"],
+      "reason": "「明天鬼之所欲，而避天鬼之所憎」及「則天鬼之福可得也」認證天鬼的欲憎與賜福；「聽獄不敢不中，分財不敢不均」又把公正施政列爲正長的責任"
+    },
+    {
+      "chapter": "尚同中",
+      "para_index": 9,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「則此豈刑不善哉？用刑則不善也」並以善用口出好、不善用口成讒賊作對照，把禍福歸到使用者如何運用刑與言語的善惡責任"
+    },
+    {
+      "chapter": "尚同中",
+      "para_index": 10,
+      "domains": ["V", "XII"],
+      "modes": ["proposition"],
+      "reason": "「非高其爵、厚其祿、富貴佚而錯之也，將以爲萬民興利除害」界定官長服務萬民而非自享特權的責任，並明說「上帝鬼神之建設國都立正長」"
+    },
+    {
+      "chapter": "尚同中",
+      "para_index": 11,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「民知上置正長之非正以治民也，是以皆比周隱匿」把任用親信造成的失正連到民衆結黨；即使得上賞仍受衆非，也說明群體評價會瓦解統治正當性"
+    },
+    {
+      "chapter": "尚同中",
+      "para_index": 12,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「非神也，夫唯能使人之耳目助己視聽」並續以衆人的吻、心、股肱助其言談、思慮、動作，明說領導者藉集體能力擴展認知並加速成事"
+    },
+    {
+      "chapter": "尚同中",
+      "para_index": 13,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「所以濟事成功，垂名於後世者」被歸於共同通報與協作，史例又以「賞當賢，罰當暴，不殺不辜，不失有罪」連到成就、公正與領導責任"
+    },
+    {
+      "chapter": "尚同中",
+      "para_index": 14,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「欲富其國家，衆其人民，治其刑政，定其社稷」之後只接「尚同之不可不察」作治國方法的勸令，沒有另行說出人的樣態"
+    },
+    {
+      "chapter": "尚同下",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「得下之情則治，不得下之情則亂」隨即展開爲知善暴、施賞罰、得治亂的行政鏈，落點仍是賞罰如何取得資訊，沒有說明人爲何如此"
+    },
+    {
+      "chapter": "尚同下",
+      "para_index": 2,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「一人一義，十人十義」使人各是其義而爭鬥，又反覆說天子、三公與諸侯「知力爲未足獨治」，以價值分歧及個人能力有限支撐協作分職"
+    },
+    {
+      "chapter": "尚同下",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「若人唯使得上之賞，而辟百姓之毀」仍不足勸善，反向亦然，明說上下價值不同時群體毀譽可以壓過官方賞罰"
+    },
+    {
+      "chapter": "尚同下",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「若見愛利家者必以告」以下規定告舉、賞譽與毀罰，最後以得善人賞、得暴人罰推出家治，是完整的家級政策鏈"
+    },
+    {
+      "chapter": "尚同下",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「若見愛利國者必以告」以下把通報、賞罰和國治逐項相連；欲賞避罰只作制度運轉的槓桿，沒有成爲獨立的人性主張"
+    },
+    {
+      "chapter": "尚同下",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「若見愛利天下者必以告」到「善人賞而暴人罰，天下必治矣」是把同一告舉賞罰制度放大至天下，沒有離開治理程序"
+    },
+    {
+      "chapter": "尚同下",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["prescription", "formalization"],
+      "reason": "「大用之治天下而不窕，小用之治一國一家而不橫」只說制度可按尺度套用；引文「見姦巧乃聞，不言也，發罪鈞」則是知情不報同罪的條文"
+    },
+    {
+      "chapter": "尚同下",
+      "para_index": 8,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「一目之視也，不若二目之視也」以眼、耳、手的協作說明個人能力有限；聖王因選良佐並使衆人助其視聽，才能先得謀、先成事"
+    },
+    {
+      "chapter": "尚同下",
+      "para_index": 9,
+      "domains": ["V"],
+      "modes": ["prescription", "proposition"],
+      "reason": "「愛民不疾，民無可使」與「致信而持之」把能否領導民衆明確連到愛民與取得信任，不只列富貴、明罰等外在手段"
+    },
+    {
+      "chapter": "兼愛上",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "「必知亂之所自起，焉能治之」並以醫者須知疾病起因作比，提出有效從事一項工作須先掌握原因的能力原則"
+    },
+    {
+      "chapter": "兼愛上",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「子自愛不愛父，故虧父而自利」一路推至盜賊、亂家與攻國，把只愛自己或本群而犧牲他人說成不孝、不慈及社會侵害的共同根源"
+    },
+    {
+      "chapter": "兼愛上",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「視父兄與君若其身」及「視人國若其國」把同等看待他人連到孝慈、止盜與止攻，主張不偏私的品格可重整家庭與群體關係"
+    },
+    {
+      "chapter": "兼愛上",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "「禁惡而勸愛」及「兼相愛則治，交相惡則亂」把勸人相愛、禁止相惡同時說成品格要求與群體治亂的原理"
+    },
+    {
+      "chapter": "兼愛中",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「强必執弱，衆必劫寡，富必侮貧，貴必敖賤，詐必欺愚」具體拆開權勢欺凌，並以「不相愛」說明偏私如何生出禍篡怨恨"
+    },
+    {
+      "chapter": "兼愛中",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "「視人之國若視其國，視人之家若視其家，視人之身若視其身」要求不偏私地待人，並連到不戰、不篡、不賊及君臣父子兄弟和調"
+    },
+    {
+      "chapter": "兼愛中",
+      "para_index": 3,
+      "domains": ["V", "XI"],
+      "modes": ["proposition"],
+      "reason": "「攻城野戰，殺身爲名」雖難而「苟君說之，則士衆能爲之」，說明權力偏好能使人完成難事，從而反駁兼愛不可實行的看法"
+    },
+    {
+      "chapter": "兼愛中",
+      "para_index": 4,
+      "domains": ["V", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "文公、靈王、句踐三例都以「君說之，故臣爲之也」一類收束，具體顯示領袖喜好能改變群體的衣食、身體乃至赴死行爲"
+    },
+    {
+      "chapter": "兼愛中",
+      "para_index": 5,
+      "domains": ["V", "XI"],
+      "modes": ["proposition"],
+      "reason": "「少食、惡衣、殺身而爲名」雖是衆人所難，但「若苟君說之，則衆能爲之」，據此斷定兼相愛並非人所不能改行"
+    },
+    {
+      "chapter": "兼愛中",
+      "para_index": 6,
+      "domains": ["V", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "先以「自古及今，未有能行」區分移山的真不能，再以「古者聖王行之」及禹利民、文王不使強暴欺弱的史例，證成兼愛可以由人實行並保護弱者"
+    },
+    {
+      "chapter": "兼愛中",
+      "para_index": 7,
+      "domains": ["V", "VII"],
+      "modes": ["prescription"],
+      "reason": "套語之後的承重句是「當兼相愛、交相利」，把互愛互利明定爲士君子的行爲責任與天下治道，而不是只列富國治亂的政策目標"
+    }
+  ]
+}
