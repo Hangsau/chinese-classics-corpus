@@ -16,7 +16,7 @@
 | 查某部書在不在清單、為何某部結構特殊 | `scripts/catalog/chinese-classics-ws.json`（77 條、實收 76 部，特殊處置寫在該部的 `structure_note` / `coverage_note` / `excluded_reason`） |
 | 抓完驗證 | `PYTHONIOENCODING=utf-8 python scripts/verify.py`；重生索引 `... scripts/build-index.py` |
 | 跑心理學標註 | 先讀 `SCHEMA.md` §3 分流 `text_role`；`reference` 預設不排批次，但**不得憑此宣告沒內容**（§3.1 釋名已證否） |
-| 標一部新書 | **預設走發包**，完整八步寫在 `HANDOFF.md` §下一步第 3 條：`make-delegation-input.py` 切批 → 寫 `delegation/<slug>/SPEC.md` → **先發 b01 試點、校準結果補回 spec 才放行其餘批** → `check-delegation-out.py` 檢查 → `apply-delegation.py` 回填。不發包時才用本檔 §標註工作流的手工五步。**一部書若跨視窗換了判讀者（配額耗盡改派另一個模型），回填一律加 `--tagged-by-batch bNN=<model>` 逐批分離歸屬**——兩個判讀者記在同一個 `tagged_by` 底下等於偽造校準資料（管子 b24 立下，2026-08-11） |
+| 標一部新書 | **預設走發包**，完整八步寫在 `HANDOFF.md` §下一步第 3 條：`make-delegation-input.py` 切批 → 寫 `delegation/<slug>/SPEC.md` → **先發 b01 試點、校準結果補回 spec 才放行其餘批** → `check-delegation-out.py` ＋ `check-reason-quotes.py` 檢查 → `apply-delegation.py` 回填。不發包時才用本檔 §標註工作流的手工五步。**一部書若跨視窗換了判讀者（配額耗盡改派另一個模型），回填一律加 `--tagged-by-batch bNN=<model>` 逐批分離歸屬**——兩個判讀者記在同一個 `tagged_by` 底下等於偽造校準資料（管子 b24 立下，2026-08-11） |
 | 寫發包 spec | 抄 `delegation/yanshi-jiaxun/SPEC.md` 的骨架：**13 領域分流表（哪類內容歸哪格，逐格指定）** ＋ 該書特有的陷阱與例外體例 ＋ 硬規則 ＋ 輸出格式。分流表不寫，領域區辨不會自己發生——顏氏家訓的 IV 86 > V 47 就是這樣拿到的。**規訓一律帶數字**（「預設一到兩個領域，第三個要寫得出拿掉它少講什麼」）；只寫「不要濫用」不會生效，世說新語 b01 就是這樣疊出 6/8 段三領域 |
 | 串行發包 codex | `bash scripts/run-delegation.sh <slug> b01 b02 ...`（吃 slug 參數，**已取代 `delegation/shishuo-xinyu/run-batches{,2}.sh` 兩支寫死 slug 的版本，不要再逐書複製**）。它的 prompt 內含三條反例：不准先問「確認後開始」、交付物是檔案本身要讀回確認、只准寫自己那一批的 out 檔——**三條都是實際踩過的靜默失效，別精簡掉**（見 `HANDOFF.md` §靜默失效）。**clobber 偵測器 2026-08-09 才真正修好**——在那之前它因 Git Bash 的 `sha256sum` 輸出 `<hash> *<path>` 而無條件誤報，等於沒有偵測器 |
 | 查 13 領域怎麼分／`discourse_mode` 八值定義 | `vocab/psych-domains.json`、`vocab/discourse-modes.json`（v0.2）。**友誼在 V 不在 III**；`Z-wisdom` 等 crosscurrents 不得填進 `psych_domains` |
@@ -45,6 +45,9 @@ scripts/download-wikisource.py   下載器，含 --survey 預檢模式；natural
 scripts/run-reading.sh           通讀階段發包（產 delegation/<slug>/READING.md，SPEC 的錨點來源）
 scripts/extract-reading-anchors.py  從通讀報告抽錨點候選（只信「逐字引句」欄，理由欄的引號當提示）
 scripts/check-reading-attribution.py  把通讀報告的引句逐條回原文對拍，防抄到他章引句或通讀者自撰
+scripts/check-reason-quotes.py   回收後對拍 out/*.json 的 reason 引句是否逐字出自該段自己的正文
+                                 （`……` 節引逐段比對），並列出「有 domains 卻一句都沒引」的段；
+                                 check-delegation-out.py 只驗鍵與值域、不看 reason 文字
 scripts/make-scaffold.py         由本文生成標註骨架（錨點自動產，人只填 null）
 scripts/annotate.py              回填工具：put()／span() 寫對照表，apply() 雙向檢查後落盤；
                                  `annotate.py stats <slug>` 直接吐 psych_survey 要的數字
@@ -57,10 +60,14 @@ delegation/<slug>/
   │                     `--check-spec` 自檢 SPEC 內部一致性
   ├── _selftest/make_cases.py  驗收器的反向驗證：合成「完美輸出」應 0 FAIL，
   │                     再注入故意變異確認各自被對應條款抓到（`--verify` 自己對答案）
-  └── _selftest/probe_s13.py   **擾動探針**（範本在 `delegation/mozi/`）：逐條改掉 SPEC
-                        的宣告值，確認每條斷言真的會叫、還原後位元組不變。
-                        **改過 SPEC 之後必跑**——驗收器咬 SPEC 散文的 regex 會因
-                        SPEC 改寫而靜默失效，症狀是自檢「更綠」不是報錯
+  └── _selftest/probe_s13.py   **擾動探針**（範本在 `delegation/mozi/` 與
+                        `delegation/yanzi-chunqiu/`，後者直接 in-process 收 FAIL 碼集合，
+                        不去 parse stdout）：逐條改掉 SPEC 的宣告值，確認每條斷言真的
+                        會叫、還原後位元組不變。**改過 SPEC 之後必跑**——驗收器咬 SPEC
+                        散文的 regex 會因 SPEC 改寫而靜默失效，症狀是自檢「更綠」不是報錯。
+                        晏子春秋抓到第二種形態：斷言還活著但只驗「至少解析到一條」，
+                        三個 bullet 壞掉一個照樣全綠。**凡從 SPEC 解析清單一律驗數量、
+                        不驗非空**
 translations/<slug>/
   ├── meta.json         書級 L1 + psych_survey
   ├── raw/original.txt  原文，唯讀（動了破 SHA-256）
@@ -72,9 +79,9 @@ translations/<slug>/
   └── domains/<id>.{md,json}  每個領域一頁，段級反向索引
 ```
 
-`translations/` 已有 **76 部**（phase 1 共 68 ＋ phase 2 小學 4 ＋ 2026-08-24 自 religions-history 收入諸子 5：`huainanzi`／`mozi`／`wenzi`／`jiayi-xinshu`／`lujia-xinyu`；`guangyun` 上游殘缺已在 catalog 標 `excluded`），`00-overview/` 已生成。`annotations.json` 目前 **47 部、21,410 段**（判讀 21,300，`cai-zhonglang-ji`〈外集卷四〉110 段留 `null`）。**逐書段數不在本檔列舉——那份清單會鏽掉，一律讀生成物 `00-overview/INDEX.json` 的 `texts[]`。**
+`translations/` 已有 **76 部**（phase 1 共 68 ＋ phase 2 小學 4 ＋ 2026-08-24 自 religions-history 收入諸子 5：`huainanzi`／`mozi`／`wenzi`／`jiayi-xinshu`／`lujia-xinyu`；`guangyun` 上游殘缺已在 catalog 標 `excluded`），`00-overview/` 已生成。`annotations.json` 目前 **48 部、21,628 段**（判讀 21,518，`cai-zhonglang-ji`〈外集卷四〉110 段留 `null`）。**逐書段數不在本檔列舉——那份清單會鏽掉，一律讀生成物 `00-overview/INDEX.json` 的 `texts[]`。**
 
-已標完的成組里程碑：phase 2 小學四部、兵家五部（299 段）、法家三小部（204 段）、韓非子（781 段）、管子（668 段）、名家黃老小部四部（182 段）、儒家著述組五部（506 段）；風俗通義（230 段）立下 §2.7 考辨體閘門；**其後連續四部不立新閘門而用既有七道組合判完**——獨斷（152 段，§2.3＋§2.6②＋§2.7）、蔡中郎集（207 段，碑誄體）、太玄經（880 段）與京氏易傳（784 段）（象數／占筮體，兩部都「一書兩道閘門」）。**三巨頭（說文 6,070／戰國策 1,034／水經注 933）已全部標完，巨型書階段結束。****其後兩部（呂氏春秋 736 段、墨子 606 段）確立「一部書一道閘門是巧合不是規則」**——兩部都在 SPEC 裡列「章名 → 體例群 → 閘門」分派表把章分派給五個體例群，墨子更用到四道不同閘門；墨子的墨語群 88／88 零判空是本庫唯一。
+已標完的成組里程碑：phase 2 小學四部、兵家五部（299 段）、法家三小部（204 段）、韓非子（781 段）、管子（668 段）、名家黃老小部四部（182 段）、儒家著述組五部（506 段）；風俗通義（230 段）立下 §2.7 考辨體閘門；**其後連續四部不立新閘門而用既有七道組合判完**——獨斷（152 段，§2.3＋§2.6②＋§2.7）、蔡中郎集（207 段，碑誄體）、太玄經（880 段）與京氏易傳（784 段）（象數／占筮體，兩部都「一書兩道閘門」）。**三巨頭（說文 6,070／戰國策 1,034／水經注 933）已全部標完，巨型書階段結束。****其後兩部（呂氏春秋 736 段、墨子 606 段）確立「一部書一道閘門是巧合不是規則」**——兩部都在 SPEC 裡列「章名 → 體例群 → 閘門」分派表把章分派給五個體例群，墨子更用到四道不同閘門；墨子的墨語群 88／88 零判空是本庫唯一。**分派表第三次用在晏子春秋（218 段），首次出現「兩群命中率幾乎相同」（99%／98%）——分派表擋掉的是問錯問句，不是命中率差異，分完發現一樣也是結果。**
 
 未標 **31 部、8,842 段**（含 2026-08-24 新收五部）——動工前的分組與優先序見 `HANDOFF.md` §未標存量。
 
