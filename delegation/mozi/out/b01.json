@@ -1,0 +1,215 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {
+      "chapter": "親士",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「非賢無急，非士無與慮國」並以「緩賢忘士」導致亡國，主張領導者須保存、延攬賢士共同治國"
+    },
+    {
+      "chapter": "親士",
+      "para_index": 2,
+      "domains": ["XI", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "文公、桓公、句踐都從受挫走向「達名成功」，而「君子自難而易彼」「進不敗其志」把轉敗爲成繫於堅持與自我要求"
+    },
+    {
+      "chapter": "親士",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「君必有弗弗之臣，上必有詻詻之下」要求容納直諫，又以臣下戀棧不言、近臣喑默與諂諛蔽議說明失職和諂媚會危國"
+    },
+    {
+      "chapter": "親士",
+      "para_index": 4,
+      "domains": ["VIII", "X"],
+      "modes": ["proposition"],
+      "reason": "「彼人者，寡不死其所長」以比干之抗、孟賁之勇等例斷言人的突出所長也可能招致死亡，落在才能及由此而來的失去"
+    },
+    {
+      "chapter": "親士",
+      "para_index": 5,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「不勝其任而處其位」辨職位與能力是否相稱，「良才難令，然可以致君見尊」則提出領導者任用難馴良才的取捨"
+    },
+    {
+      "chapter": "親士",
+      "para_index": 6,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「其直如矢，其平如砥，不足以覆萬物」反對狹直的王者品格，並以「王者淳澤，不出宮中，則不能流國」要求德澤及於國人"
+    },
+    {
+      "chapter": "修身",
+      "para_index": 1,
+      "domains": ["VII", "II"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「士雖有學，而行爲本」把行爲置於學問之本，又把脩身界定爲「見毀而反之身」，主張由自我反省修正品行"
+    },
+    {
+      "chapter": "修身",
+      "para_index": 2,
+      "domains": ["VII"],
+      "modes": ["prescription"],
+      "reason": "「譖慝之言，無入之耳」「批扞之聲，無出之口」並要求心中不存殺傷之意，是對言語、心念與品行的直接約束"
+    },
+    {
+      "chapter": "修身",
+      "para_index": 3,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「貧則見廉，富則見義，生則見愛，死則見哀」以不同處境檢驗德行，並說這些行爲「不可虛假反之身」"
+    },
+    {
+      "chapter": "修身",
+      "para_index": 4,
+      "domains": ["VII", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「言不信者行不果」「務言而緩行，雖辯必不聽」把誠信、實行與不伐功連到成事及名譽，兼論品格與成就"
+    },
+    {
+      "chapter": "所染",
+      "para_index": 1,
+      "domains": ["XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "染絲「所入者變，其色亦變」後收束爲「染不可不愼也」，以受染而改變的譬喻主張人會因所受影響而變"
+    },
+    {
+      "chapter": "所染",
+      "para_index": 2,
+      "domains": ["V", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "歷舉諸王因「所染當」而興、因「所染不當」而亡，最後以「善爲君者，勞於論人」把領導成敗繫於選擇身邊之人及其可塑影響"
+    },
+    {
+      "chapter": "所染",
+      "para_index": 3,
+      "domains": ["V", "XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「其友皆好仁義」與「其友皆好矜奮，創作比周」分別導向身安名榮或身危名辱，說明朋友關係會改變人的處境，故須「必擇所堪」"
+    },
+    {
+      "chapter": "法儀",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「天下從事者，不可以無法儀」由百工依矩、規、繩等成事，推到治國也必須有準則，兼論工作方法與公共治理"
+    },
+    {
+      "chapter": "法儀",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "以父母、學者、君主中「仁者寡」而判定三者不可直接作治法，主張公共標準不能只憑角色權威，還須通過仁與不仁的品格檢驗"
+    },
+    {
+      "chapter": "法儀",
+      "para_index": 3,
+      "domains": ["XII", "VII"],
+      "modes": ["proposition"],
+      "reason": "「莫若法天」認證天有欲惡，且「天必欲人之相愛相利」並會福愛人者、禍賊人者，以天意作爲善惡行爲的神聖準則"
+    },
+    {
+      "chapter": "法儀",
+      "para_index": 4,
+      "domains": ["XII", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "禹湯文武因「尊天事鬼」「愛人利人」而受天福，桀紂幽厲因「詬天侮鬼」「惡人賊人」而受天禍，明確認證神聖賞罰與善惡後果"
+    },
+    {
+      "chapter": "七患",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["formalization", "proposition"],
+      "reason": "把耗民力、賞無能、臣不敢拂、君不問事與錯置信任等列爲「國有七患」，並斷言七患足以使國傾，核心是領導與制度責任"
+    },
+    {
+      "chapter": "七患",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「一穀不收謂之饉」至「五穀不收謂之饑」是災荒五級分類，後接各級「損祿五分之一」等減俸與物資縮減條文"
+    },
+    {
+      "chapter": "七患",
+      "para_index": 3,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "本段採品性受物質處境改變的一讀：「年歲善，則民仁且良」「年歲凶，則民吝且惡」，並以「民何常此之有」否定品性固定不變"
+    },
+    {
+      "chapter": "七患",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "由「倉無備粟」到「心無備慮」列出無備之害，並以桀紂因不備而亡收束爲「備者，國之重也」，要求治理者預作準備"
+    },
+    {
+      "chapter": "七患",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「民所苦者」是上層厚斂、賞無功及營造享樂，造成「上不厭其樂，下不堪其苦」，把國家危困歸到權力者不公的資源運用"
+    },
+    {
+      "chapter": "辭過",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "當今之主以厚斂和暴奪建造華飾宮室，使國貧且不能「振孤寡」，末句「當爲宮室不可不節」把治理與節儉品格同時立爲要求"
+    },
+    {
+      "chapter": "辭過",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "衣服本應「適身體、和肌膚而足」，奢華服飾卻耗民財並使「其君奢侈而難諫」，故以「爲衣服不可不節」規勸君主節制"
+    },
+    {
+      "chapter": "辭過",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "人君厚斂以求「美食芻豢」造成富貴者奢侈、孤寡者凍餒與國亂，末句要求「爲食飲不可不節」，兼涉公義和節制"
+    },
+    {
+      "chapter": "辭過",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "華飾舟車使男女離開紡織耕稼而民飢寒，繼而「姦衺多則刑罰深，刑罰深則國亂」，故要求掌權者節制用度"
+    },
+    {
+      "chapter": "辭過",
+      "para_index": 5,
+      "domains": ["III", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "君主「拘女累千」使男子無妻、女子無夫而「男女失時」，把親密婚配受阻歸到權勢壟斷，因而要求「蓄私不可不節」"
+    },
+    {
+      "chapter": "辭過",
+      "para_index": 6,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "以「聖人之所儉節」「小人之所淫佚」對舉品格，並用「儉節則昌，淫佚則亡」主張五事皆須節制"
+    },
+    {
+      "chapter": "三辯",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "程繁以君臣、農夫勞作後需「息於」音樂提出工作與休息問題，墨子則歷舉諸王後斷言「樂逾繁者，其治逾寡」，落到治理效用"
+    },
+    {
+      "chapter": "三辯",
+      "para_index": 2,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "面對有樂何以稱無樂的追問，以「今聖有樂而少，此亦無也」把聖王之樂的關鍵放在少，延續對享樂節制的主張"
+    }
+  ]
+}
