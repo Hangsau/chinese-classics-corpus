@@ -2,9 +2,9 @@
   "domain": "X",
   "name_zh": "無常·老·死·失去",
   "gist": "老與時間、失去與哀傷、死亡、耐心與等待",
-  "generated_at": "2026-08-25T14:17:27+00:00",
-  "para_count": 372,
-  "book_count": 26,
+  "generated_at": "2026-08-25T22:49:46+00:00",
+  "para_count": 378,
+  "book_count": 27,
   "surveyed_zero_hit": [
     "dengxizi",
     "duduan",
@@ -4185,6 +4185,86 @@
       "note": "「馴義忘生。賴於天貞……受命必也」寫人為義忘生，明確把品格選擇置於生命死亡之前。",
       "co_domains": [
         "VII"
+      ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "哀弔",
+      "para_index": 11,
+      "para_id": "wenxin-diaolong#05-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "辭定所一，在彼弱弄。苗而不秀，自古斯慟。",
+      "note": "「苗而不秀，自古斯慟」以幼苗未能開花比喻生命早夭，直接承載人對未及長成便死亡的悲慟（X）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "序志",
+      "para_index": 2,
+      "para_id": "wenxin-diaolong#11-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫宇宙綿邈，黎獻紛雜，拔萃出類，智術而已，歲月飄忽，性靈不居，騰聲飛實，制作而已",
+      "note": "「是以君子處世樹德建言，豈好辯哉，不得已也」把立德立言提出為有限人生的安身立意（I）；「形同草木之脆，名踰金石之堅」直陳生命易逝而名可久存（X）",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "序志",
+      "para_index": 8,
+      "para_id": "wenxin-diaolong#11-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "生也有涯，無涯惟智，逐物實難，憑性良易。",
+      "note": "「無涯惟智，逐物實難，憑性良易」在有限條件中提出不逐外物、依憑本性的生命取向（I）；「生也有涯」直接點明人生有盡（X）",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "徵聖",
+      "para_index": 6,
+      "para_id": "wenxin-diaolong#12-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "鑒懸日月，辭富山海。百齡影徂，千載心在。",
+      "note": "「千載心在」以精神跨越千載寫出立言所承載的長久意義（I）；「百齡影徂」則直寫人的百年生命終將消逝（X）",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "誄碑",
+      "para_index": 13,
+      "para_id": "wenxin-diaolong#35-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "觀風似面，聽辭如泣。石墨鐫華，頹影豈忒。",
+      "note": "「觀風似面，聽辭如泣。石墨鐫華，頹影豈忒」把已逝者只能由行跡與碑辭重現、並以哭泣相接的失落寫出來，承重於死亡後的追憶（X）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "養氣",
+      "para_index": 2,
+      "para_id": "wenxin-diaolong#50-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡童少鑒淺而志盛，長艾識堅而氣衰，志盛者思銳以勝勞，氣衰者慮密以傷神，斯實中人之",
+      "note": "「器分有限，智用無涯，或慚鳧企鶴，瀝辭鐫思，於是精氣內銷，有似尾閭之波，神志外傷，同乎牛山之木」指出逞智過度造成精氣與神志損傷（IX）；「凡童少鑒淺而志盛，長艾識堅而氣衰」直述年歲增長伴隨氣力衰退（X）",
+      "co_domains": [
+        "IX"
       ]
     },
     {

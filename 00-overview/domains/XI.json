@@ -2,9 +2,9 @@
   "domain": "XI",
   "name_zh": "自由·命運·改變",
   "gist": "自由意志與命運、選擇與代價、改變與重來",
-  "generated_at": "2026-08-25T14:17:27+00:00",
-  "para_count": 589,
-  "book_count": 35,
+  "generated_at": "2026-08-25T22:49:46+00:00",
+  "para_count": 593,
+  "book_count": 36,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -6932,6 +6932,57 @@
       "note": "以財富流向區分國家盛衰並主張舉賢、明法、養勞，最後否定時日卜筮禱祠而把成敗歸於人事。",
       "co_domains": [
         "V"
+      ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "哀弔",
+      "para_index": 7,
+      "para_id": "wenxin-diaolong#05-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或驕貴以殞身，或狷忿以乖道，或有志而無時，或美才而兼累，追而慰之，並名為弔。",
+      "note": "「或有志而無時，或美才而兼累」指出志向與才華會受時運及自身牽累所限，落在人能否掌握命運與施展自己的問題（XI）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "正緯",
+      "para_index": 2,
+      "para_id": "wenxin-diaolong#21-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫六經彪炳，而緯候稠疊；《孝》、《論》昭晳，而《鉤》、《讖》葳蕤，按經驗緯，其偽",
+      "note": "「按經驗緯，其偽有四」明言用經典逐項檢驗緯書並證其偽，破除符讖對天命的壟斷而把判斷交還人的考辨（XI），不作神聖認證",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "正緯",
+      "para_index": 6,
+      "para_id": "wenxin-diaolong#21-p06",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "世歷二漢，朱紫騰沸。芟夷譎詭，糅其雕蔚。",
+      "note": "「世歷二漢，朱紫騰沸。芟夷譎詭，糅其雕蔚」可讀為要求剷除兩漢混雜的欺誑，只取文采；此處採破除側，標擺脫讖緯支配（XI）而不標神聖",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "祝盟",
+      "para_index": 4,
+      "para_id": "wenxin-diaolong#25-p04",
+      "modes": [
+        "ritual",
+        "proposition"
+      ],
+      "excerpt": "盟者，明也。騂毛白馬，珠盤玉敦，陳辭乎方明之下，祝告於神明者也。在昔三王，詛盟不",
+      "note": "「崇替在人，咒何預焉」把興亡成敗從咒術推回人的作為，承載人力與命運之辨（XI）；「故知信不由衷，盟無益也」又把盟誓能否成立繫於內在誠信，是品格判斷（VII）",
+      "co_domains": [
+        "VII"
       ]
     },
     {

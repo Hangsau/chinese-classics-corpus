@@ -1,0 +1,7194 @@
+[
+  {
+    "para_id": "wenxin-diaolong#01-p01",
+    "anchor": {
+      "chapter": "事類",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「事類者，蓋文章之外，據事以類義，援古以證今者也」界定援引古事以證今義的寫作手法；後文列舉經典先例，落點仍是用事技術",
+    "excerpt": "事類者，蓋文章之外，據事以類義，援古以證今者也。昔文王繇《易》，剖判爻位，《既濟",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#01-p02",
+    "anchor": {
+      "chapter": "事類",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「至於崔班張蔡，遂捃摭經史」以下登錄歷代作者採用經史材料的演變，是用事手法的文學史溯源",
+    "excerpt": "觀夫屈宋屬篇，號依詩人，雖引古事而莫取舊辭。唯賈誼《鵩賦》，始用鶡冠之說；相如《",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#01-p03",
+    "anchor": {
+      "chapter": "事類",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「才自內發，學以外成，有學飽而才餒，有才富而學貧」把人的天資與後天學習分開，指出兩者會形成不同的成就條件（VIII）",
+    "excerpt": "夫薑桂同地，辛在本性，文章由學，能在天資。才自內發，學以外成，有學飽而才餒，有才",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#01-p04",
+    "anchor": {
+      "chapter": "事類",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「綜學在博，取事貴約，校練務精，捃理須覈」規定蒐集、選取與核實典故的方法，後面的正反例也只檢驗用事是否精當",
+    "excerpt": "夫經典沈深，載籍浩瀚，實群言之奧區，而才思之神皋也。揚班以下，莫不取資，任力耕耨",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#01-p05",
+    "anchor": {
+      "chapter": "事類",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「此引事之實謬也」以下逐一核對曹植、陸機等人的典故錯誤，是選文定篇式的作品與用事品評",
+    "excerpt": "陳思，群才之英也。《報孔璋書》云：葛天氏之樂，千人唱，萬人和，聽者因以蔑《韶夏》",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#01-p06",
+    "anchor": {
+      "chapter": "事類",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「經籍深富，辭理遐亙」稱述經籍可供文章取材的豐富與廣遠，沒有另行斷定人是什麼樣的",
+    "excerpt": "經籍深富，辭理遐亙。皜如江海，鬱若崐鄧。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#01-p07",
+    "anchor": {
+      "chapter": "事類",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「文梓共採，瓊珠交贈。用人若己」總結採用他人文辭而使之融入己文的用事效果，仍是寫作手藝的評準",
+    "excerpt": "文梓共採，瓊珠交贈。用人若己，古來無懵。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#02-p01",
+    "anchor": {
+      "chapter": "原道第一",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "I"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「惟人參之，性靈所鍾，是謂三才。為五行之秀，實天地之心」直接把人定位為參贊天地、居於三才之一的存在（I）",
+    "excerpt": "文之為德也大矣，與天地並生者何哉！夫玄黃色雜，方圓體分，日月疊璧，以垂麗天之象；",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#02-p02",
+    "anchor": {
+      "chapter": "原道第一",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「人文之元，肇自太極，幽贊神明，《易》象惟先」追溯文字與《易》象的神聖起源，做的是人文源流論述，沒有另說人的處境",
+    "excerpt": "人文之元，肇自太極，幽贊神明，《易》象惟先。庖犧畫其始，仲尼翼其終。而《乾》、《",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#02-p03",
+    "anchor": {
+      "chapter": "原道第一",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「自鳥跡代繩文字始炳」以下依次登錄唐虞、夏商周至孔子的文章發展，是文學源流與聖賢著述史",
+    "excerpt": "自鳥跡代繩文字始炳，炎皞遺事，紀在《三墳》，而年世渺邈，聲采靡追。唐虞文章，則煥",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#02-p04",
+    "anchor": {
+      "chapter": "原道第一",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「莫不原道心以敷章，研神理而設教，取象乎《河》、《洛》，問數乎蓍龜」以神理、河洛與蓍龜認證聖人設教的超越根據（XII）",
+    "excerpt": "爰自風姓，暨于孔氏，玄聖創典，素王述訓，莫不原道心以敷章，研神理而設教，取象乎《",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#02-p05",
+    "anchor": {
+      "chapter": "原道第一",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「道心惟微，神理設教」明言教化由幽微道心與神理而設，肯定其神聖超越的認證作用（XII）",
+    "excerpt": "道心惟微，神理設教。光采元聖，炳燿仁孝。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#02-p06",
+    "anchor": {
+      "chapter": "原道第一",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「龍圖獻體，龜書呈貌」把龍圖、龜書的顯現當作人文秩序的神聖徵驗，落在超越認證（XII）",
+    "excerpt": "龍圖獻體，龜書呈貌。天文斯觀，民胥以傚。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#03-p01",
+    "anchor": {
+      "chapter": "原文集注",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「《淮南子》有《原道訓》。高誘注云」以下彙錄篇名出處、舊注與劉勰原文，是清人集注的來源比對",
+    "excerpt": "《淮南子》有《原道訓》。高誘注云：「原，本也。本道根真，包裹天地，以歷萬物，故曰",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#03-p02",
+    "anchor": {
+      "chapter": "原文集注",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「原，本也」以下是高誘對「原道」一詞的訓詁，所做的是名義還原，不是對人的心理或生活作判斷",
+    "excerpt": "高誘注云：「原，本也。本道根真，包裹天地，以歷萬物，故曰原道。」",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#03-p03",
+    "anchor": {
+      "chapter": "原文集注",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「按彥和於篇中屢言」後連引三處正文以互證篇旨，是集注者輯錄文本內證的觀察",
+    "excerpt": "按彥和於篇中屢言「心生而言立，言立而文明，自然之道也；」「夫豈外飾，蓋自然耳；」",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#03-p04",
+    "anchor": {
+      "chapter": "原文集注",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「劉勰所謂道，就是《易》道」用《繫辭》引文判定劉勰「道」的思想來源，是集注的語源說明",
+    "excerpt": "《易‧繫辭上》：「一陰一陽之謂道，繼之者善也，成之者性也。仁者見之謂之仁，知者見",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#03-p05",
+    "anchor": {
+      "chapter": "原文集注",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「周禮太宰以九兩繫邦國之民，其四曰」以下引出「儒以道得民。」並彙列鄭注與孫疏，是「儒」字義及出處的集注材料",
+    "excerpt": "周禮太宰以九兩繫邦國之民，其四曰「儒以道得民。」鄭注曰「儒，諸侯保氏有六藝以教民",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#03-p06",
+    "anchor": {
+      "chapter": "原文集注",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「儒，諸侯保氏有六藝以教民者」是單獨摘出的鄭玄舊注，內容在訓釋「儒」的名義與職掌",
+    "excerpt": "鄭注曰「儒，諸侯保氏有六藝以教民者。」",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#03-p07",
+    "anchor": {
+      "chapter": "原文集注",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「儒則泛指誦說詩書，通該術藝者而言」是孫詒讓對「儒」的訓釋，屬集注來源而非正文的人論",
+    "excerpt": "孫詒讓疏云：「儒則泛指誦說詩書，通該術藝者而言，若荀子儒效篇所稱俗儒雅儒大儒，道",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#03-p08",
+    "anchor": {
+      "chapter": "原文集注",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「自漢以來，論文者罕能及此」以下彙錄紀昀對〈原道〉立意與文體地位的評語，是後人評論資料",
+    "excerpt": "紀昀評云：「自漢以來，論文者罕能及此。彥和以此發端，所見在六朝文士之上。」又評云",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#04-p01",
+    "anchor": {
+      "chapter": "史傳",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「史者，使也。執筆左右，使之記也」訓釋史官名稱，並追述左右史、典謨誥誓與國史的制度源流",
+    "excerpt": "開闢草昧，歲紀綿邈，居今識古，其載籍乎！軒轅之世，史有蒼頡，主文之職，其來久矣。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#04-p02",
+    "anchor": {
+      "chapter": "史傳",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「夫子閔王道之缺」以下敘述孔子正《雅》《頌》、修《春秋》及左丘明創傳體，是史傳文體的起源故事",
+    "excerpt": "昔者夫子閔王道之缺。傷斯文之墜，靜居以歎鳳，臨衢而泣麟，於是就太師以正《雅》《頌",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#04-p03",
+    "anchor": {
+      "chapter": "史傳",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「及至縱橫之世，史職猶存」以下登錄戰國、楚漢至司馬遷的史書沿革、體例及作品得失",
+    "excerpt": "及至縱橫之世，史職猶存。秦并七王，而戰國有策。蓋錄而弗敘，故即簡而為名也。漢滅嬴",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#04-p04",
+    "anchor": {
+      "chapter": "史傳",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「遺親攘美之罪，徵賄鬻筆之愆」指認攘取父功、受賄曲筆等行為並明稱為罪愆，是對史家品格的負面判斷（VII）",
+    "excerpt": "及班固述漢，因循前業，觀司馬遷之辭，思實過半。其十志該富，讚序弘麗，儒雅彬彬，信",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#04-p05",
+    "anchor": {
+      "chapter": "史傳",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「宣后亂秦，呂氏危漢，豈唯政事難假，亦名號宜慎矣」藉女性執政事例主張政治權力與名分的限制，是社會權力秩序的斷語（V）",
+    "excerpt": "觀夫左氏綴事，附經間出，於文為約，而氏族難明。及史遷各傳，人始區詳而易覽，述者宗",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#04-p06",
+    "anchor": {
+      "chapter": "史傳",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「至於《後漢》紀傳，發源《東觀》」以下逐一登錄後漢與三國史書的作者、可信度及文體得失",
+    "excerpt": "至於《後漢》紀傳，發源《東觀》。袁張所製，偏駁不倫。薛謝之作，疎謬少信。若司馬彪",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#04-p07",
+    "anchor": {
+      "chapter": "史傳",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「至於晉代之書，繁乎著作」以下列舉晉史作者、成書狀況與條例沿革，是史書體例的文學史登錄",
+    "excerpt": "至於晉代之書，繁乎著作。陸機肇始而未備，王韶續末而不終，干寶述紀，以審正得序；孫",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#04-p08",
+    "anchor": {
+      "chapter": "史傳",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「立義選言，宜依經以樹則；勸戒與奪，必附聖以居宗」規定史家蒐集資料及立義選言的方法，落點是史傳應如何寫",
+    "excerpt": "原夫載籍之作也，必貫乎百氏，被之千載，表徵盛衰，殷鑒興廢，使一代之制，共日月而長",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#04-p09",
+    "anchor": {
+      "chapter": "史傳",
+      "para_index": 9
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「歲遠則同異難密，事積則起訖易疎」分析紀傳編年在材料久遠、事跡交錯時的編纂困難，是史書技術問題",
+    "excerpt": "然紀傳為式，編年綴事，文非泛論，按實而書，歲遠則同異難密，事積則起訖易疎，斯固總",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#04-p10",
+    "anchor": {
+      "chapter": "史傳",
+      "para_index": 10
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「然俗皆愛奇，莫顧實理」把捨同求異、穿鑿傳聞的根源落在世俗共同的好奇心理與風氣上（V）",
+    "excerpt": "若夫追述遠代，代遠多偽，公羊高云傳聞異辭；荀況稱錄遠略近；蓋文疑則闕，貴信史也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#04-p11",
+    "anchor": {
+      "chapter": "史傳",
+      "para_index": 11
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「勳榮之家，雖庸夫而盡飾；迍敗之士，雖令德而常嗤」指出權勢使庸人獲美化、失勢使有德者受貶，是不公的世情（V）",
+    "excerpt": "至於記編同時，時同多詭，雖定、哀微辭，而世情利害。勳榮之家，雖庸夫而盡飾；迍敗之",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#04-p12",
+    "anchor": {
+      "chapter": "史傳",
+      "para_index": 12
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「史之為任，乃彌綸一代，負海內之責，而嬴是非之尤。秉筆荷擔，莫此之勞」明說史家職任承擔一代公論及其工作重負（VIII）",
+    "excerpt": "若乃尊賢隱諱，固尼父之聖旨，蓋纖瑕不能玷瑾瑜也，奸慝懲戒，實良史之直筆，農夫見莠",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#04-p13",
+    "anchor": {
+      "chapter": "史傳",
+      "para_index": 13
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「史肇軒黃，體備周孔。世歷斯編，善惡偕總」以贊語總括史傳的起源、體制與記載範圍，仍在界定文體",
+    "excerpt": "史肇軒黃，體備周孔。世歷斯編，善惡偕總。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#04-p14",
+    "anchor": {
+      "chapter": "史傳",
+      "para_index": 14
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「騰褒裁貶，萬古魂動。辭宗邱明，直歸南董」總結史傳褒貶之用及文辭所宗，是篇末對史家筆法與典範的稱述",
+    "excerpt": "騰褒裁貶，萬古魂動。辭宗邱明，直歸南董。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#05-p01",
+    "anchor": {
+      "chapter": "哀弔",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「短折曰哀。哀者，依也」訓釋哀辭名稱，並用夭亡舊例說明這一文體施用的對象，死亡是體例條件",
+    "excerpt": "賦憲之謚，短折曰哀。哀者，依也。悲實依心，故曰哀也。以辭遣哀，蓋下流之悼，故不在",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#05-p02",
+    "anchor": {
+      "chapter": "哀弔",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「霍子侯暴亡，帝傷而作詩，亦哀辭之類矣」以下登錄漢代哀辭的作品源流並品評崔瑗篇章",
+    "excerpt": "暨漢武封禪，而霍子侯暴亡，帝傷而作詩，亦哀辭之類矣。及後漢汝陽王亡，崔瑗哀辭，始",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#05-p03",
+    "anchor": {
+      "chapter": "哀弔",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「至于蘇順張升，並述哀文」以下逐一品評建安至潘岳哀辭的情辭、句式與作品成就",
+    "excerpt": "至于蘇順張升，並述哀文，雖發其精華，而未極心實。建安哀辭，惟偉長差善，《行女》一",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#05-p04",
+    "anchor": {
+      "chapter": "哀弔",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「隱心而結文則事愜，觀文而屬心則體奢」只比較兩條寫作路徑，後果分別落在敘事與文體是否浮奢",
+    "excerpt": "原夫哀辭大體，情主於痛傷，而辭窮乎愛惜。幼未成德，故譽止於察惠；弱不勝務，故悼加",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#05-p05",
+    "anchor": {
+      "chapter": "哀弔",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「弔者，至也」先作名義訓釋，「故賓之慰主，以至到為言也」再說賓客慰問喪主的弔禮體例",
+    "excerpt": "弔者，至也。《詩》云：神之弔矣，言神至也。君子令終定謚，事極理哀，故賓之慰主，以",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#05-p06",
+    "anchor": {
+      "chapter": "哀弔",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「虐民搆敵，亦亡之道」把虐待人民、招致敵對與政權敗亡連成因果，是對統治、公義及群體後果的判斷（V）",
+    "excerpt": "及晉築虒臺，齊襲燕城，史趙蘇秦，翻賀為弔，虐民搆敵，亦亡之道。凡斯之例，弔之所設",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#05-p07",
+    "anchor": {
+      "chapter": "哀弔",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「或有志而無時，或美才而兼累」指出志向與才華會受時運及自身牽累所限，落在人能否掌握命運與施展自己的問題（XI）",
+    "excerpt": "或驕貴以殞身，或狷忿以乖道，或有志而無時，或美才而兼累，追而慰之，並名為弔。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#05-p08",
+    "anchor": {
+      "chapter": "哀弔",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「自賈誼浮湘，發憤弔屈」以下登錄賈誼、司馬相如、揚雄等弔文的體式、情辭與作品得失",
+    "excerpt": "自賈誼浮湘，發憤弔屈，體同而事覈，辭清而理哀，蓋首出之作也，及相如之弔二世，全為",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#05-p09",
+    "anchor": {
+      "chapter": "哀弔",
+      "para_index": 9
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「胡阮之弔夷齊」以下逐篇品評胡阮、王粲、禰衡及陸機弔文的褒譏、繁麗與成就",
+    "excerpt": "胡阮之弔夷齊，褒而無聞，仲宣所制，譏呵實工。然則胡阮嘉其清，王子傷其隘，各志也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#05-p10",
+    "anchor": {
+      "chapter": "哀弔",
+      "para_index": 10
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「固宜正義以繩理，昭德而塞違，割析褒貶，哀而有正」規定弔文避免變成賦體並妥善安排褒貶的寫法",
+    "excerpt": "夫弔雖古義，而華辭末造；華過韻緩，則化而為賦。固宜正義以繩理，昭德而塞違，割析褒",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#05-p11",
+    "anchor": {
+      "chapter": "哀弔",
+      "para_index": 11
+    },
+    "psych_domains": [
+      "X"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「苗而不秀，自古斯慟」以幼苗未能開花比喻生命早夭，直接承載人對未及長成便死亡的悲慟（X）",
+    "excerpt": "辭定所一，在彼弱弄。苗而不秀，自古斯慟。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#05-p12",
+    "anchor": {
+      "chapter": "哀弔",
+      "para_index": 12
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「雖有通才，迷方失控」承接本篇評弔文作者即使有才仍可能失去文體準則，落點是寫作方向",
+    "excerpt": "雖有通才，迷方失控。千載可傷，寓言以送。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#06-p01",
+    "anchor": {
+      "chapter": "夸飾",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「神道難摹，精言不能追其極；形器易寫，壯辭可得喻其真」用題材難易解釋夸飾何以產生，是修辭原理",
+    "excerpt": "夫形而上者謂之道，形而下者謂之器。神道難摹，精言不能追其極；形器易寫，壯辭可得喻",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#06-p02",
+    "anchor": {
+      "chapter": "夸飾",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「自宋玉景差，夸飾始盛」以下列舉宋玉、司馬相如、揚雄、張衡的夸飾用例並評其失當",
+    "excerpt": "自宋玉景差，夸飾始盛，相如憑風，詭濫愈甚。故上林之館，奔星與宛虹入軒；從禽之盛，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#06-p03",
+    "anchor": {
+      "chapter": "夸飾",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「莫不因夸以成狀，沿飾而得奇也」說明誇張如何摹寫景物、渲染歡戚並形成文辭效果，是手藝命題",
+    "excerpt": "至如氣貌山海，體勢宮殿，嵯峨揭業，熠燿焜煌之狀，光采煒煒而欲然，聲貌岌岌其將動矣",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#06-p04",
+    "anchor": {
+      "chapter": "夸飾",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「使夸而有節，飾而不誣」要求夸飾合乎事理、節制而不虛妄，後果落在文章名實是否相符",
+    "excerpt": "然飾窮其要，則心聲鋒起，夸過其理，則名實兩乖。若能酌《詩》《書》之曠旨，翦揚馬之",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#06-p05",
+    "anchor": {
+      "chapter": "夸飾",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「夸飾在用，文豈循檢。言必鵬運」以贊語概括夸飾突破常度、使言辭高舉的修辭特性",
+    "excerpt": "夸飾在用，文豈循檢。言必鵬運，氣靡鴻漸。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#06-p06",
+    "anchor": {
+      "chapter": "夸飾",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「曠而不溢，奢而無玷」用贊語規定誇大鋪陳仍須不過度、無瑕疵，是夸飾手法的尺度",
+    "excerpt": "倒海探珠，傾崐取琰。曠而不溢，奢而無玷。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#07-p01",
+    "anchor": {
+      "chapter": "奏啟",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「昔唐虞之臣，敷奏以言；秦漢之輔，上書稱奏」追述奏體來源、用途與早期作品特色，是文體史登錄",
+    "excerpt": "昔唐虞之臣，敷奏以言；秦漢之輔，上書稱奏。陳政事，獻典儀，上急變，劾愆謬，總謂之",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#07-p02",
+    "anchor": {
+      "chapter": "奏啟",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「自漢以來，奏事或稱上疏」以下列舉賈誼、晁錯、匡衡等奏疏的題材與文辭，是歷代作者和作品品題",
+    "excerpt": "自漢以來，奏事或稱上疏。儒雅繼踵，殊采可觀。若夫賈誼之務農，晁錯之兵事，匡衡之定",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#07-p03",
+    "anchor": {
+      "chapter": "奏啟",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「後漢群賢，嘉言罔伏」以下按後漢、魏晉登錄奏文作者及其作品的骨鯁、博雅、忠規等特色",
+    "excerpt": "後漢群賢，嘉言罔伏。楊秉耿介於災異，陳蕃憤懣於尺一，骨鯁得焉；張衡指摘於史職，蔡",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#07-p04",
+    "anchor": {
+      "chapter": "奏啟",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「名儒之與險士，固殊心焉」把如實揭奸與誣陷他人的差別歸到執筆者心術，明判兩種人的品格不同（VII）",
+    "excerpt": "夫奏之為筆，固以明允篤誠為本，辨析疏通為首。強志足以成務，博見足以窮理，酌古御今",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#07-p05",
+    "anchor": {
+      "chapter": "奏啟",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「世人為文，競於詆訶，吹毛取瑕，次骨為戾」指認人們競相辱罵、苛求深害的行為，並把它判為失中與品格偏失（VII）",
+    "excerpt": "後之彈事，迭相斟酌，惟新日用，而舊準弗差。然函人欲全，矢人欲傷，術在糾惡，勢必深",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#07-p06",
+    "anchor": {
+      "chapter": "奏啟",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「啟者開也」以下訓釋啟體名稱及沿革，「必斂飭入規」以下則規定其音節與文辭，皆屬文體說明",
+    "excerpt": "啟者開也。高宗云，啟乃心，沃朕心，取其義也。孝景諱啟，故兩漢無稱。至魏國箋記，始",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#07-p07",
+    "anchor": {
+      "chapter": "奏啟",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「夫王臣匪躬，必吐謇諤」主張臣子不應謀求自身安逸而必須直言，將忠直無私說成任官者的品格責任（VII）",
+    "excerpt": "又表奏確切。號為讜言。讜者，偏也。王道有偏，乖乎蕩蕩。其偏，故曰讜言也。孝成稱班",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#07-p08",
+    "anchor": {
+      "chapter": "奏啟",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「筆銳干將，墨含淳酖」以贊語形容奏劾文辭銳利嚴峻、足以整飭風禁，是對文體功用的概括",
+    "excerpt": "皁飾司直，肅清風禁。筆銳干將，墨含淳酖。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#07-p09",
+    "anchor": {
+      "chapter": "奏啟",
+      "para_index": 9
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「雖有次骨，無或膚浸。獻政陳宜，事必勝任」規定奏文雖嚴厲但不可浸潤誣害，並應切合所陳政事",
+    "excerpt": "雖有次骨，無或膚浸。獻政陳宜，事必勝任。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#08-p01",
+    "anchor": {
+      "chapter": "宗經",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「故能開學養正，昭明有融」明說經典能開啟學習並涵養端正品格，把人的道德養成視為經教的作用（VII）",
+    "excerpt": "三極彝訓，其書曰經。經也者，恆久之至道，不刊之鴻教也。故象天地，效鬼神，忝物序，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#08-p02",
+    "anchor": {
+      "chapter": "宗經",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「此聖文之殊致，表裏之異體者也」總結《易》《書》《詩》《禮》《春秋》各自的文辭、訓詁與表意特色",
+    "excerpt": "夫《易》惟談天，入神致用。故《繫》稱旨遠辭文，言中事隱，韋編三絕，固哲人之驪淵也",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#08-p03",
+    "anchor": {
+      "chapter": "宗經",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「論說辭序，則《易》統其首」以下逐一把各類文體追溯到五經，論證文章制式與雅言的來源",
+    "excerpt": "故論說辭序，則《易》統其首；詔策章奏，則《書》發其源；賦頌歌讚，則《詩》立其本；",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#08-p04",
+    "anchor": {
+      "chapter": "宗經",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「故文能宗經，體有六義」以下列出情、風、事、義、體、文六項文章準則，是宗經寫作的規範名目",
+    "excerpt": "故文能宗經，體有六義；一則情深而不詭，二則風清而不雜，三則事信而不誕，四則義直而",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#08-p05",
+    "anchor": {
+      "chapter": "宗經",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「夫文以行立，行以文傳」將文章與人的德行相互繫結；「勵德樹聲，莫不師聖」又明言立德須以聖人為師（VII）",
+    "excerpt": "夫文以行立，行以文傳，四教所先，符采相濟，勵德樹聲，莫不師聖，而建言脩辭，鮮克宗",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#08-p06",
+    "anchor": {
+      "chapter": "宗經",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「三極彝訓，道深稽古，致化惟一，分教斯五」以贊語總括五經的道統、教化與分科，是經書體系的稱述",
+    "excerpt": "三極彝訓，道深稽古，致化惟一，分教斯五。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#08-p07",
+    "anchor": {
+      "chapter": "宗經",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「文章奧府，淵哉鑠乎，群言之祖」以贊語稱五經為文章寶庫與眾言之祖，落點是經典的文學地位",
+    "excerpt": "性靈鎔匠，文章奧府，淵哉鑠乎，群言之祖。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#09-p01",
+    "anchor": {
+      "chapter": "定勢",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「莫不因情立體，即體成勢也」以下界定文章體勢如何隨體而成，譬喻與例證的落點都在文體規律，沒有獨立的人之斷語",
+    "excerpt": "夫情致異區，文變殊術，莫不因情立體，即體成勢也。勢者，乘利而為制也。如機發矢直，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#09-p02",
+    "anchor": {
+      "chapter": "定勢",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「奇正雖反，必兼解以俱通；剛柔雖殊，必隨時而適用」規定作者應兼通各種文勢；抽掉寫作後只剩手藝的運用要求",
+    "excerpt": "是以繪事圖色，文辭盡情，色糅而犬馬殊形，情交而雅俗異勢，鎔範所擬，各有司匠，雖無",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#09-p03",
+    "anchor": {
+      "chapter": "定勢",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「章表奏議，則準的乎典雅；賦頌歌詩，則羽儀乎清麗」以下是各文體之勢的分類配對，屬技法框架而不落到人",
+    "excerpt": "是以括囊雜體，功在銓別，宮商朱紫，隨勢各配。章表奏議，則準的乎典雅；賦頌歌詩，則",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#09-p04",
+    "anchor": {
+      "chapter": "定勢",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「桓譚稱文家各有所慕」以下登錄桓譚、陳思、劉楨、陸雲的論文主張；「先迷後能從善」也只指陸雲改從一種文章觀",
+    "excerpt": "桓譚稱文家各有所慕，或好浮華而不知實覈，或美眾多而不見要約。陳思亦云：世之作者，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#09-p05",
+    "anchor": {
+      "chapter": "定勢",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「舊練之才，則執正以馭奇；新學之銳，則逐奇而失正」以熟練程度說明文章守正或失體，後果落在「文體遂弊」，不是人的差異來源",
+    "excerpt": "自近代辭人，率好詭巧，原其為體，訛勢所變，厭黷舊式，故穿鑿取新，察其訛意，似難而",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#09-p06",
+    "anchor": {
+      "chapter": "定勢",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「形生勢成，始末相承」用水流與飛矢收束形體、文勢相生的技術命題，沒有談人的處境或性質",
+    "excerpt": "形生勢成，始末相承。湍迴似規，矢激如繩。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#09-p07",
+    "anchor": {
+      "chapter": "定勢",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「因利騁節，情采自凝」仍在總結順勢成文；「枉轡學步」只是警戒不當模仿的技法譬喻，沒有獨立落到人",
+    "excerpt": "因利騁節，情采自凝。枉轡學步，力止襄陵。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#10-p01",
+    "anchor": {
+      "chapter": "封禪",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「義勝欲則從，欲勝義則凶」把人的行止與吉凶繫於義能否節制欲望，並以戒慎崇德作結，是善惡與品格的斷語（VII）",
+    "excerpt": "夫正位北辰，嚮明南面，所以運天樞，毓黎獻者，何嘗不經道緯德，以勒皇跡者哉！錄圖曰",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#10-p02",
+    "anchor": {
+      "chapter": "封禪",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「固禋祀之殊禮，銘號之秘祝，祀天之壯觀矣」說明封禪的儀節性質，並登錄帝王與篇作者；神瑞、祀天在此是文體與儀式沿革",
+    "excerpt": "昔黃帝神靈，克膺鴻瑞，勒功喬岳，鑄鼎荊山。大舜巡岳，顯乎《虞典》。成康封禪，聞之",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#10-p03",
+    "anchor": {
+      "chapter": "封禪",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「觀相如封禪，蔚為唱首」及「及光武勒碑，則文自張純」逐篇敘述兩漢封禪文的內容與工拙，是作品登錄品題",
+    "excerpt": "鋪觀兩漢隆盛，孝武禪號於肅然，光武巡封於梁父。誦德銘勳，乃鴻筆耳。觀相如封禪，蔚",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#10-p04",
+    "anchor": {
+      "chapter": "封禪",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「故稱《封禪》麗而不典，《劇秦》典而不實」以下逐一品評揚雄、班固等人的篇章成敗，落點全在作品",
+    "excerpt": "及揚雄《劇秦》，班固《典引》，事非鐫石，而體因紀禪。觀《劇秦》為文，影寫長卿，詭",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#10-p05",
+    "anchor": {
+      "chapter": "封禪",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「搆位之始，宜明大體」以下規定封禪文應如何立骨、選言及兼顧古今深淺，是敷理舉統的寫作規範",
+    "excerpt": "茲文為用，蓋一代之典章也。搆位之始，宜明大體，樹骨於訓典之區，選言於宏富之路，使",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#10-p06",
+    "anchor": {
+      "chapter": "封禪",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「封勒帝勣，對越天休」濃縮刻錄帝業、對揚天命的封禪功能，是儀節與頌辭描述，並非對信仰經驗或人的斷語",
+    "excerpt": "封勒帝勣，對越天休。逖聽高岳，聲英克彪。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#10-p07",
+    "anchor": {
+      "chapter": "封禪",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「樹石九旻，泥金入幽」描寫立石、泥金等封禪儀節，再以龍虬比文章采勢，沒有另說人是什麼樣的",
+    "excerpt": "樹石九旻，泥金入幽。鴻律蟠采，如龍如虬。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#11-p01",
+    "anchor": {
+      "chapter": "序志",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「夫文心者，言為文之用心也」是在釋書名「文心」並交代取名所本，屬名義與著述緣起，不構成人的心理斷語",
+    "excerpt": "夫文心者，言為文之用心也，昔《涓子》琴心，《王孫》巧心。心哉美矣，故用之焉。古來",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#11-p02",
+    "anchor": {
+      "chapter": "序志",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "I",
+      "X"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「是以君子處世樹德建言，豈好辯哉，不得已也」把立德立言提出為有限人生的安身立意（I）；「形同草木之脆，名踰金石之堅」直陳生命易逝而名可久存（X）",
+    "excerpt": "夫宇宙綿邈，黎獻紛雜，拔萃出類，智術而已，歲月飄忽，性靈不居，騰聲飛實，制作而已",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#11-p03",
+    "anchor": {
+      "chapter": "序志",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "expression"
+    ],
+    "confidence": null,
+    "note": "此處採作者自述立志動機的一讀；「隨仲尼而南行，旦而寤，迺怡然而喜」把夢中追隨聖人及醒後喜悅寫成志業召喚（VIII）",
+    "excerpt": "予生七齡，乃夢彩雲若錦，則攀而採之，齒在踰立，則嘗夜夢執丹漆之禮器，隨仲尼而南行",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#11-p04",
+    "anchor": {
+      "chapter": "序志",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「辭人愛奇，言貴浮詭，飾羽尚畫，文繡鞶帨，離本彌甚，將遂訛濫」不只論文法，也把尚奇浮詭的動機判為背本趨訛的品格取向（VII）",
+    "excerpt": "敷讚聖旨，莫若注經，而馬鄭諸儒，弘之已精，就有深解，未足立家。唯文章之用，實經典",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#11-p05",
+    "anchor": {
+      "chapter": "序志",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「各照隅隙，鮮觀衢路」以下逐一評騭魏文、陳思、應瑒、陸機等人的文論得失，是前作述評與本書定位",
+    "excerpt": "詳觀近代之論文者多矣；至如魏文述典，陳思序書，應瑒文論，陸機《文賦》，仲洽流別，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#11-p06",
+    "anchor": {
+      "chapter": "序志",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「原始以表末，釋名以章義，選文以定篇，敷理以舉統」明列全書篇章配置與論述方法，沒有獨立的人之內容",
+    "excerpt": "蓋《文心》之作也，本乎道，師乎聖，體乎經，酌乎緯，變乎騷，文之樞紐，亦云極矣。若",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#11-p07",
+    "anchor": {
+      "chapter": "序志",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "II"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「言不盡意，聖人所難，識在缾管，何能矩矱」既承認表意的普遍限度，也明言作者自身見識有限，是自知與自我定位的斷語（II）",
+    "excerpt": "夫銓序，文為易，彌綸群言為難，雖復輕采毛髮，深極骨髓，或有曲意密源，似近而遠，辭",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#11-p08",
+    "anchor": {
+      "chapter": "序志",
+      "para_index": 8
+    },
+    "psych_domains": [
+      "I",
+      "X"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「無涯惟智，逐物實難，憑性良易」在有限條件中提出不逐外物、依憑本性的生命取向（I）；「生也有涯」直接點明人生有盡（X）",
+    "excerpt": "生也有涯，無涯惟智，逐物實難，憑性良易。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#11-p09",
+    "anchor": {
+      "chapter": "序志",
+      "para_index": 9
+    },
+    "psych_domains": [
+      "XIII"
+    ],
+    "discourse_mode": [
+      "expression"
+    ],
+    "confidence": null,
+    "note": "「傲岸泉石，咀嚼文義。文果載心，余心有寄」以第一人稱說明自己在山水與文義中有所寄託，落在內心安頓（XIII）",
+    "excerpt": "傲岸泉石，咀嚼文義。文果載心，余心有寄。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#12-p01",
+    "anchor": {
+      "chapter": "徵聖",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「泛論君子，則云情欲信，辭欲巧；此修身貴文之徵也」要求內情真誠並明指修身，將文辭建立在人的誠信品格上（VII）",
+    "excerpt": "夫作者曰聖，述者曰明，陶鑄性情，功在上哲，夫子文章，可得而聞，則聖人之情，見乎辭",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#12-p02",
+    "anchor": {
+      "chapter": "徵聖",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「繁略殊形，隱顯異術，抑引隨時，變通會適」歸納經典文章繁簡、隱顯的不同作法，結論是「文有師矣」，仍屬寫作法式",
+    "excerpt": "夫鑒周日月，妙極機神；文成規矩，思合符契。或簡言以達旨，或博文以該情，或明理以立",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#12-p03",
+    "anchor": {
+      "chapter": "徵聖",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「是以論文，必徵於聖；窺聖必宗於經」規定論文取法，後文也只調和正言、微辭、體要等文章原則",
+    "excerpt": "是以論文，必徵於聖；窺聖必宗於經。《易》稱辨物正言，斷辭則備；《書》云辭尚體要，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#12-p04",
+    "anchor": {
+      "chapter": "徵聖",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「若徵聖立言，則文其庶矣」由顏闔評孔子華辭的舊說轉成取法聖文的勸告，所規定的仍是文章如何立言",
+    "excerpt": "顏闔以為仲尼飾羽而畫，徒事華辭。雖欲訾聖，弗可得已。然則聖文之雅麗，固銜華而佩實",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#12-p05",
+    "anchor": {
+      "chapter": "徵聖",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「妙極生知，睿哲惟宰」把最高妙的理解歸於生知與睿智，明說人的先天認知能力如何支撐成就（VIII）",
+    "excerpt": "妙極生知，睿哲惟宰。精理為文，秀氣成采。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#12-p06",
+    "anchor": {
+      "chapter": "徵聖",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "I",
+      "X"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「千載心在」以精神跨越千載寫出立言所承載的長久意義（I）；「百齡影徂」則直寫人的百年生命終將消逝（X）",
+    "excerpt": "鑒懸日月，辭富山海。百齡影徂，千載心在。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#13-p01",
+    "anchor": {
+      "chapter": "情采",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「文附質也」與「質待文也」用水木、虎豹等譬喻界定文采與質實的關係；「性靈」在此只是文章所綜述的內容",
+    "excerpt": "聖賢書辭，總稱文章，非采而何！夫水性虛而淪漪結，木體實而華萼振，文附質也。虎豹無",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#13-p02",
+    "anchor": {
+      "chapter": "情采",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「立文之道，其理有三」建立形文、聲文、情文的文采分類，末段「馭文采」也是辨華實、邪正的寫作原則，沒有獨立落到人",
+    "excerpt": "故立文之道，其理有三：一曰形文，五色是也；二曰聲文，五音是也；三曰情文，五性是也",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#13-p03",
+    "anchor": {
+      "chapter": "情采",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「情者，文之經，辭者，理之緯」是在界定情、辭、理於成文中的技術位置，所謂「本於情性」沒有另說人的心理狀態",
+    "excerpt": "夫鉛黛所以飾容，而盻[1]倩生於淑姿；文采所以飾言，而辯麗本於情性。故情者，文之",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#13-p04",
+    "anchor": {
+      "chapter": "情采",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "II",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「故有志深軒冕，而汎詠臯壤，心纒幾務，而虛述人外，真宰弗存，翩其反矣」揭出內在志向與自我呈現相反的失真（II）；「諸子之徒，心非鬱陶，苟馳夸飾，鬻聲釣世」直指無真情而求名的動機與品格（VII）",
+    "excerpt": "昔詩人什篇，為情而造文，辭人賦頌，為文而造情。何以明其然，蓋風雅之興，志思蓄憤，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#13-p05",
+    "anchor": {
+      "chapter": "情采",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「心定而後結音，理正而後摛藻，使文不滅質，博不溺心」規定安排情理與辭采的下筆次序，判準的落點仍是文章不以文害質",
+    "excerpt": "是以聯辭結采，將欲明理一作「經」，采濫辭詭，則心理愈翳。固知翠綸桂餌，反所以失魚",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#13-p06",
+    "anchor": {
+      "chapter": "情采",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "II"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「心術既形，茲華乃贍」把文采視為作者內在心術已經顯形後的結果，明說人的內在如何由言辭呈現（II）",
+    "excerpt": "言以文遠，誠哉斯驗。心術既形，茲華乃贍。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#13-p07",
+    "anchor": {
+      "chapter": "情采",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「繁采寡情，味之必厭」不只判文章繁豔少情，也明言品味者必然生厭，將文采過盛的後果落到人的情緒反應上（VI）",
+    "excerpt": "吳錦好渝，舜英徒豔。繁采寡情，味之必厭。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#14-p01",
+    "anchor": {
+      "chapter": "才略",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「虞夏文章」至「商周之世」依時代登錄作品、辭義與典範地位，是九代文章的文學史概述",
+    "excerpt": "九代之文，富矣盛矣；其辭令華采，可略而詳也。虞夏文章，則有臯陶六德，夔序八音，益",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#14-p02",
+    "anchor": {
+      "chapter": "才略",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「皆文名之標者也」收束春秋至戰國人物的辭令、作品與文名，後續「文質相稱」亦是作者作品品題，沒有獨立的人生事件斷語",
+    "excerpt": "及乎春秋大夫，則修辭聘會，磊落如琅玕之圃，琨燿似縟錦之肆，薳敖一作「教」擇楚國之",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#14-p03",
+    "anchor": {
+      "chapter": "才略",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "全段從「漢室陸賈」起逐一衡量兩漢作者的才、學、辭、理及篇章優劣，是密集的選文定篇與純人物品題",
+    "excerpt": "漢室陸賈，首案奇采，賦孟春而選典誥，其辯之富矣。賈誼才頴，陵軼飛兔，議愜而賦清，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#14-p04",
+    "anchor": {
+      "chapter": "才略",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「仲宣溢才，捷而能密，文多兼善」等句逐一品評魏代作家的文才與作品；即使提到性情，判斷仍只服務於文學高下",
+    "excerpt": "魏文之才，洋洋清綺，舊談抑之，謂去植千里，然子建思捷而才儁，詩麗而表逸；子桓慮詳",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#14-p05",
+    "anchor": {
+      "chapter": "才略",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「各其善也」概括晉代眾多作者各擅何體、作品何失，整段是歷代作品與作者工拙的登錄品題",
+    "excerpt": "張華短章，奕奕一作「弈弈」清暢，其《鷦鷯》寓意，即韓飛之《說難》也。左思奇才，業",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#14-p06",
+    "anchor": {
+      "chapter": "才略",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「崇文之盛世，招才之嘉會哉」把人才得以聚集、發揮繫於時代機會，並以「此古人所以貴乎時也」明說成才需時（VIII）",
+    "excerpt": "宋代逸才，辭翰鱗萃，世近易明，無勞甄序。觀夫後漢才林，可參西京；晉世文苑，足儷鄴",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#14-p07",
+    "anchor": {
+      "chapter": "才略",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "II",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「性各異禀」斷言人的天性稟賦彼此不同（II）；「才難然乎」則指出人才之難得，落在才能與成就條件（VIII）",
+    "excerpt": "才難然乎，性各異禀。一朝綜文，千年凝錦。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#14-p08",
+    "anchor": {
+      "chapter": "才略",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「餘采徘徊，遺風籍一作「藉」甚。無曰紛雜，皎然可品」收束歷代文采雖多仍可辨品，落點是文學遺風與品評",
+    "excerpt": "餘采徘徊，遺風籍一作「藉」甚。無曰紛雜，皎然可品。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#15-p01",
+    "anchor": {
+      "chapter": "指瑕",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「慮動難圓，鮮無瑕病」在此用來說明才思運作文時難免留下作品瑕疵，落點仍是引出文章指瑕，而非人的普遍處境",
+    "excerpt": "管仲有言：「無翼而飛者聲也，無根而固者情也。」然則聲不假翼，其飛甚易；情不待根，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#15-p02",
+    "anchor": {
+      "chapter": "指瑕",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「繁例難載，故略舉四條」點明全段是在列舉陳思、左思、潘岳、崔瑗等作品用語與比擬失當的四類例證",
+    "excerpt": "陳思之文，羣才之俊也，而武帝誄云，尊靈永蟄；明帝頌云，聖體浮輕。浮輕有似於胡蝶，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#15-p03",
+    "anchor": {
+      "chapter": "指瑕",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「字以訓正，義以理宣」以下考辨「賞」「撫」等字的訓義及用法，所論是用字瑕疵與文風沿襲",
+    "excerpt": "若夫立文之道，惟字與義。字以訓正，義以理宣，而晉末篇章，依希其旨，始有賞際奇至之",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#15-p04",
+    "anchor": {
+      "chapter": "指瑕",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「若排一作「掠」人美辭，以為己力，寳玉大弓，終非其有」把掠取他人美辭冒充己力判為竊取，是可指認的品格過失（VII）",
+    "excerpt": "近代辭人，率多猜忌，至乃比語求媸一作「蚩」，反音取瑕，雖不屑於古，而有擇於今焉。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#15-p05",
+    "anchor": {
+      "chapter": "指瑕",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「注解為書，所以明正事理，然謬於研求，或率意而斷」以下考正兩則舊注，並以失理為戒；它規範的是注解研求的技術準確性",
+    "excerpt": "若夫注解為書，所以明正事理，然謬於研求，或率意而斷。《西京賦》稱中黃育獲之疇，而",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#15-p06",
+    "anchor": {
+      "chapter": "指瑕",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「雖有儁才，謬則多謝」越出單一文法，概括人即使有出眾才能，犯錯仍會招致失敗與譴責，是才能發揮的限制（VIII）",
+    "excerpt": "羿氏舛射，東野敗駕。雖有儁才，謬則多謝。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#15-p07",
+    "anchor": {
+      "chapter": "指瑕",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「斯言一玷，千載弗化。令章靡疚，亦善之亞」說的是一句文字瑕疵會長久留在篇章，結果落在作品傳存與品質",
+    "excerpt": "斯言一玷，千載弗化。令章靡疚，亦善之亞。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#16-p01",
+    "anchor": {
+      "chapter": "明詩",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「人稟七情，應物斯感，感物吟志，莫非自然」直接斷言人具有七情，接物便自然感發，是人的情緒與內在反應（VI）",
+    "excerpt": "大舜云︰詩言志，歌永言，聖謨所析，義已明矣。是以在心為志，發言為詩，舒文載實，其",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#16-p02",
+    "anchor": {
+      "chapter": "明詩",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「自商暨周」以下按時代追溯四言、五言及相關作者作品，兼作真偽考辨和篇章品題，是詩體源流登錄",
+    "excerpt": "自商暨周，《雅》、《頌》圓備，四始彪炳，六義環深。子夏監絢素之章，子貢悟琢磨之句",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#16-p03",
+    "anchor": {
+      "chapter": "明詩",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「此其大略也」所概括的是建安至宋初各代詩風、題材與作者工拙的變化；慷慨、玄風等詞在此都是詩史品題",
+    "excerpt": "暨建安之初，五言騰踊，文帝陳思，縱轡以騁節；王徐應劉，望路而爭驅；並憐風月，狎池",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#16-p04",
+    "anchor": {
+      "chapter": "明詩",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「四言正體，則雅潤為本；五言流調，則清麗居宗」比較四言五言體制，後續列舉雜言、離合、回文、聯句，仍是詩體分類",
+    "excerpt": "故鋪觀列代，而情變之數可監，撮舉同異，而綱領之要可明矣。若夫四言正體，則雅潤為本",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#16-p05",
+    "anchor": {
+      "chapter": "明詩",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「民生而志，詠歌所含」把志意說成人生而具有、由歌詠承載的內在內容，是對人之情志的斷語（VI）",
+    "excerpt": "民生而志，詠歌所含。興資皇世，風流二南。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#16-p06",
+    "anchor": {
+      "chapter": "明詩",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「神理共契，政序相參」是贊語對詩與義理、政序相契的文體功能總結；「神理」並非信仰認證，也沒有另說人的狀態",
+    "excerpt": "神理共契，政序相參。英華彌縟，萬代永耽。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#17-p01",
+    "anchor": {
+      "chapter": "時序",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V",
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「風動於上，而波震於下者」把上位者的政治風氣如何傳到民間說成因果（V）；「幽厲昬而板蕩怒，平王微而黍離哀」把亂政、衰微所引出的怒哀寫成群體內在反應（VI）",
+    "excerpt": "時運交移，質文代變，古今情理，如可言乎！昔在陶唐，德盛化鈞，野老吐何力之談，郊童",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#17-p02",
+    "anchor": {
+      "chapter": "時序",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「故知煒燁之奇意，出乎縱橫之詭俗也」把一代文風追溯到列國競逐形成的社會風俗，是關於群體環境的因果判斷（V）",
+    "excerpt": "春秋之後，角戰英雄，六經泥蟠，百家飊駭。方是時也，韓魏力政，燕趙任權，五蠹六蝨，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#17-p03",
+    "anchor": {
+      "chapter": "時序",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「高祖尚武，戲儒簡學」記掌權者如何輕重文武、對待儒者與學問，所述已超出作品品題而落到領導與文化權力（V）",
+    "excerpt": "爰至有漢，運接燔書，高祖尚武，戲儒簡學，雖禮律草創，詩書未遑，然《大風》《鴻鵠》",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#17-p04",
+    "anchor": {
+      "chapter": "時序",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「降及靈帝，時好辭製，造羲皇之書，開鴻都之賦，而樂松之徒，招集淺陋」把朝廷風尚及其用人造成的文化後果寫出，是權力與世風的觀察（V）",
+    "excerpt": "自哀平陵替，光武中興，深懷圖讖，頗略文華，然杜篤獻誄以免刑，班彪參奏一作「表」以",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#17-p05",
+    "anchor": {
+      "chapter": "時序",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「良由世積亂離，風衰俗怨」明說長期戰亂、風俗衰敗與群體怨氣構成文風的社會根源（V）",
+    "excerpt": "自獻帝播遷，文學蓬轉，建安之末，區宇方輯。魏武以相王之尊，雅愛詩章；文帝以副君之",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#17-p06",
+    "anchor": {
+      "chapter": "時序",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「運涉季世，人未盡才」直接指出人處在末世便不能充分施展才能，是關於才能實現受阻的斷語（VIII）",
+    "excerpt": "逮晉宣始基，景文克構，並跡沈儒雅，而務深方術。至武帝惟新，承平受命，而膠序篇章，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#17-p07",
+    "anchor": {
+      "chapter": "時序",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「故知文變染乎世情，興廢繫乎時序」把文學變化與興廢繫於整體世情及時局，是社會環境作用的明確命題（V）",
+    "excerpt": "元皇中興，披文建學，劉刁禮吏而寵榮，景純文敏而優擢，逮明帝秉哲一作「束皙」，雅好",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#17-p08",
+    "anchor": {
+      "chapter": "時序",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「蓋聞之於世，故略舉大較」自明此段只略錄宋代帝王好文與王、袁、顏、謝等作者群，是文學史登錄，沒有另說人如何生活",
+    "excerpt": "自宋武愛文，文帝彬雅，秉文之德，孝武多才，英采雲搆。自明帝以下，文理替矣。爾其縉",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#17-p09",
+    "anchor": {
+      "chapter": "時序",
+      "para_index": 9
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「太祖以聖武膺籙，高祖以睿文纂業，文帝以貳離含章，中宗以上哲興運」把當朝諸帝的領導及承統列為盛世根基，落在政治權力與公共秩序（V）",
+    "excerpt": "暨皇齊馭寶，運集休明；太祖以聖武膺籙，高祖以睿文纂業，文帝以貳離含章，中宗以上哲",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#17-p10",
+    "anchor": {
+      "chapter": "時序",
+      "para_index": 10
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「蔚映十代，辭采九變」只收束前文所錄十代文辭的流變，「樞中所動，環流無倦」仍以文運為落點，沒有人的承重句",
+    "excerpt": "蔚映十代，辭采九變。樞中所動，環流無倦。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#17-p11",
+    "anchor": {
+      "chapter": "時序",
+      "para_index": 11
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「質文沿時，崇替在選」概括質樸與華美隨時代升降的文學史規律，結論仍落在文體取選而非人的處境",
+    "excerpt": "質文沿時，崇替在選。終古雖遠，曠一作「曖」焉如面。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p01",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "II",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「言，心聲也；書，心畫也」把言書視為內在自我的外現（II）；「聲畫形，君子小人見矣」又說人的君子、小人品格會由此顯露（VII）",
+    "excerpt": "大舜云：書用識哉！所以記時事也。蓋聖賢言辭，總為之書，書之為體，主言者也。揚雄曰",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p02",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「詳觀四書，辭若對面」以下依次登錄先秦至漢代書信及其辭氣風采，是原始表末與選文品題，沒有獨立的人生斷語",
+    "excerpt": "三代政暇，文翰頗疎，春秋聘繁，書介彌盛：繞朝贈士會以策，子家與趙宣以書，巫臣之遺",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p03",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「魏之元瑜，號稱翩翩；文舉屬章，半簡必錄」以下逐一評騭崔瑗、阮瑀、孔融等人的尺牘成就，屬純作者與作品品題",
+    "excerpt": "逮後漢書記，則崔瑗尤善。魏之元瑜，號稱翩翩；文舉屬章，半簡必錄；休璉好事，留意詞",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p04",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「言以散鬱陶，託風采，故宜滌暢以任氣，優柔以懌懷」明說言語能疏散鬱結並使心懷和悅，落到人的情緒調節（VI）",
+    "excerpt": "詳總書體，本在盡言，言以散鬱陶，託風采，故宜滌暢以任氣，優柔以懌懷。文明從容，亦",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p05",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「使敬而不懾，簡而無傲，清美以惠其才，彪蔚以文其響，蓋牋記之分也」是在規定牋記應有的語氣與文采，後果仍落在文體",
+    "excerpt": "迄至後漢，稍有名品，公府奏記，而郡將奏牋。記之言志，進己志也。牋者，表也，表識其",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p06",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「夫書記廣大，衣被事體，筆劄雜名，古今多品」領起譜籍、方術、律令、符契等公文類別及用途，是文書分類總目",
+    "excerpt": "夫書記廣大，衣被事體，筆劄雜名，古今多品。是以總領黎庶，則有譜籍簿錄；醫歷星筮，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p07",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「故謂譜者，普也」以及籍、簿、錄的逐項解說，都在作名稱訓詁並登錄舊例，沒有把其中人物行事立為人的結論",
+    "excerpt": "故謂譜者，普也。注序世統，事資周普，鄭氏譜《詩》，蓋取乎此。籍者，借也。歲借民力",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p08",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「方者，隅也」至「故藥術稱方」只用醫藥各主一隅來還原「方」的名義，是純語義訓釋，不因提到疾病而標身體領域",
+    "excerpt": "方者，隅也。醫藥攻病，各有所主，專精一隅，故藥術稱方。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p09",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 9
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「術者，路也」並以算歷、《九章》、《萬畢》說明「術」名所由，是術語訓釋與書目舉例，不是人的命題",
+    "excerpt": "術者，路也。算歷極數，見路乃明，《九章》積微，故以為術，淮南《萬畢》，皆其類也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p10",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 10
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「占者，覘也」以下解說觀星候象何以名「占」，是在界定文書名目與技術用途，不是在認證信仰或談人的命運",
+    "excerpt": "占者，覘也。星辰飛伏，伺候乃見，精觀書雲，故曰占也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p11",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 11
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「式者，則也」以下用陰陽、五行雖變而有則解釋名稱，是名義分類；它沒有給出可計算程序，也沒有人的承重句",
+    "excerpt": "式者，則也。陰陽盈虛，五行消息，變雖不常，而稽之有則也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p12",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 12
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「律者，中也」以下以黃鐘、五音、法律與八刑說明「律」取中正之義，是指定的純名義訓釋段",
+    "excerpt": "律者，中也，黃鐘調起，五音以正，法律馭民，八刑克平，以律為名，取中正也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p13",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 13
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「令者，命也」並舉管仲下命為例，只在說明令體名稱及命令功能；「使民從也」未被另立為對人的論斷",
+    "excerpt": "令者，命也。出命申禁，有若自天，管仲下命如流水，使民從也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p14",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 14
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「法者，象也」以兵謀的奇正有象解釋何以稱法，是一句式的名義訓釋，落點仍是文書類名",
+    "excerpt": "法者，象也。兵謀無方，而奇正有象，故曰法也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p15",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 15
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「制者，裁也」以匠人制器比擬上令下行，只解釋「制」這一文書名目，不把上下關係展開成人的議題",
+    "excerpt": "制者，裁也。上行於下，如匠之制器也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p16",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 16
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「符者，孚也」以下說明符用於徵召、防偽及其材質沿革，是符契功能與制度史，沒有另外評斷信任或品格",
+    "excerpt": "符者，孚也。徵召防偽，事資中孚。三代玉瑞，漢世金竹，末代從省，易以書翰矣。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p17",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 17
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「契者，結也」以下從結繩執契說到羌胡販運記數，旨在追溯契券名稱與形式的遺風，是文書史觀察",
+    "excerpt": "契者，結也。上古純質，結繩執契，今羌胡徵數，負販記緡，其遺風歟！",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p18",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 18
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「券者，束也」與「明白約束，以備情偽」都在界定券的防偽用途，後舉鐵券及王褒券作為體式例證，未另論人的善惡",
+    "excerpt": "券者，束也。明白約束，以備情偽，字形半分，故周稱判書。古有鐵券，以堅信誓，王褒髯",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p19",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 19
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「疏者，布也」以下只由布置物類、撮題近意解釋小券短書何以稱疏，是純名義與形式說明",
+    "excerpt": "疏者，布也。布置物類，撮題近意，故小券短書，號為疏也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p20",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 20
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「關者，閉也」是詞義還原，「庶務在政，通塞應詳」則規定關文處理政務應詳審；兩句都服務於文書名目與用法",
+    "excerpt": "關者，閉也。出入由門，關閉當審；庶務在政，通塞應詳。韓非云：孫亶回聖相也，而關於",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p21",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 21
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「刺者，達也」以下以諷刺、三刺及針通結解說「刺」的相達之義，是語義類比而非人的心理或品格判斷",
+    "excerpt": "刺者，達也。詩人諷刺，《周禮》三刺，事敘相達，若針之通結矣。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p22",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 22
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「解者，釋也。解釋結滯，徵事以對也」完整內容只為「解」下定義並說明答問功能，故領域判空",
+    "excerpt": "解者，釋也。解釋結滯，徵事以對也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p23",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 23
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「牒者，葉也」至「籤者，纖密者也」依次訓釋牒、籤並交代議政咨謀的用途，是文書分類說明",
+    "excerpt": "牒者，葉也。短簡編牒，如葉在枝，溫舒截蒲，即其事也。議政未定，故短牒咨謀。牒之尤",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p24",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 24
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「狀者，貌也」以下說明行狀應取人物事實並以先賢謚狀為例，落點是「狀」體的名稱與規模",
+    "excerpt": "狀者，貌也。體貌本原，取其事實，先賢表謚，並有行狀，狀之大者也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p25",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 25
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「列者，陳也。陳列事情，昭然可見也」只是以陳列解釋列文之名與呈現作用，沒有關於人的獨立主張",
+    "excerpt": "列者，陳也。陳列事情，昭然可見也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p26",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 26
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「辭者，舌端之文，通己於人」是在界定辭作為傳達文書的功能，子產之例也只證明此類言辭有用，仍屬名義分類",
+    "excerpt": "辭者，舌端之文，通己於人。子產有辭，諸侯所賴，不可已也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p27",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 27
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「諺者，直語也」領起諺語的名義、經典及辭賦用例，末句「況踰於此，豈可忽哉」也只是勸寫作者勿棄俗說",
+    "excerpt": "諺者，直語也。喪言亦不及文，故弔亦稱諺。廛路淺言，有實無華。鄒穆公云：囊漏儲中，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p28",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 28
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「言既身文，信亦邦瑞」不只規定文書精要，還把信實說成足以表現其人、祥益國家的品格價值（VII）",
+    "excerpt": "觀此四條，並書記所總︰或事本相通，而文意各異，或全任質素，或雜用文綺，隨事立體，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p29",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 29
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「文藻條流，託在筆札。既馳金相，亦運木訥」只總讚筆札能承載華美或質樸的文辭，落點全在文書表現",
+    "excerpt": "文藻條流，託在筆札。既馳金相，亦運木訥。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#18-p30",
+    "anchor": {
+      "chapter": "書記",
+      "para_index": 30
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「萬古聲薦，千里應拔。庶務紛綸，因書乃察」總結書記傳聲、通遠與察辦事務的功能，仍是文體功用描述",
+    "excerpt": "萬古聲薦，千里應拔。庶務紛綸，因書乃察。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#19-p01",
+    "anchor": {
+      "chapter": "樂府",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「是以師曠覘風於盛衰，季札鑒微於興廢」說能由民間聲樂辨識社會風氣及政治興廢，落到群體與公共秩序（V）",
+    "excerpt": "樂府者，聲依永，律和聲也。鈞天九奏，既其上帝；葛天八闋，爰及皇時。自咸英以降，亦",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#19-p02",
+    "anchor": {
+      "chapter": "樂府",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "VI"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「先王慎焉，務塞淫濫。敷訓胄子，必歌九德」把音樂置於教化與治理之中（V）；「夫樂本心術，故響浹肌髓」明說聲音作用於人的內心感受（VI）",
+    "excerpt": "夫樂本心術，故響浹肌髓，先王慎焉，務塞淫濫。敷訓胄子，必歌九德，故能情感七始，化",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#19-p03",
+    "anchor": {
+      "chapter": "樂府",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「然俗聽飛馳，職競新異，雅詠溫恭，必欠伸魚睨；奇辭切至，則拊髀雀躍」具體斷言群眾競逐新奇、厭雅樂而逐刺激的共同風尚（V）",
+    "excerpt": "故知詩為樂心，聲為樂體，樂體在聲，瞽師務調其器；樂心在詩，君子宜正其文。好樂無荒",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#19-p04",
+    "anchor": {
+      "chapter": "樂府",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「凡樂辭曰詩，詩聲曰歌」以下界分詩、歌及入樂條件，再登錄歷代作品與分類，是文體界定和文學史考辨",
+    "excerpt": "凡樂辭曰詩，詩聲曰歌，聲來被辭，辭繁難節，故陳思稱李延年閑於增損古辭，多者則宜減",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#19-p05",
+    "anchor": {
+      "chapter": "樂府",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「八音摛文，樹辭為體。謳吟坰野，金石雲陛」以對句總讚樂辭從郊野到宮廷、由歌辭配合聲器，沒有人的承重句",
+    "excerpt": "八音摛文，樹辭為體。謳吟坰野，金石雲陛。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#19-p06",
+    "anchor": {
+      "chapter": "樂府",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「豈惟觀樂，於焉識禮」主張由音樂不僅可見聲樂，還可辨一個社會的禮制秩序，落在群體文化（V）",
+    "excerpt": "韶響難追，鄭聲易啟。豈惟觀樂，於焉識禮。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#20-p01",
+    "anchor": {
+      "chapter": "檄移",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「帝世戒兵，三王誓師，宣訓我眾，未及敵人也」追溯出師誓戒到檄文的源流，主旨是原始表末，不以雷兵喻中的恐懼另立領域",
+    "excerpt": "震雷始於曜電，出師先乎威聲。故觀電而懼雷壯，聽聲而懼兵威。兵先乎聲，其來已久。昔",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#20-p02",
+    "anchor": {
+      "chapter": "檄移",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「檄者，皦也。宣露于外，皦然明白也」是檄名的語義還原，齊桓、晉厲、張儀等事例則用來登錄體式沿革",
+    "excerpt": "及春秋征伐，自諸侯出，懼敵弗服，故兵出須名，振此威風，暴彼昏亂。劉獻公之所謂告之",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#20-p03",
+    "anchor": {
+      "chapter": "檄移",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「搖奸宄之膽，訂信慎之心」把檄文作用明確落到敵方膽懼與己方心志的改變，是人的情緒及內在反應（VI）",
+    "excerpt": "夫兵以定亂，莫敢自專，天子親戎，則稱恭行天罰；諸侯御師則云肅將王誅。故分閫推轂，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#20-p04",
+    "anchor": {
+      "chapter": "檄移",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「隴右文士，得檄之體矣」與「並壯筆也」顯示全段在逐一品評隗囂、陳琳、鍾會、桓溫檄文的得失，是選文定篇",
+    "excerpt": "觀隗囂之檄亡新，布其三逆，文不雕飾，而辭切事明，隴右文士，得檄之體矣。陳琳之檄豫",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#20-p05",
+    "anchor": {
+      "chapter": "檄移",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「雖本國信，實參兵詐」直接揭出檄文即使以本國信實為本，仍摻入戰爭欺詐，形成誠信與詭詐的品格判斷（VII）",
+    "excerpt": "凡檄之大體，或述此休明，或敘彼苛虐，指天時，審人事，算彊弱，角權勢，標蓍龜于前驗",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#20-p06",
+    "anchor": {
+      "chapter": "檄移",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「移風易俗，令往而民隨者也」明說政令使民眾跟從並改變共同風俗，所論落到治理、群體與社會塑造（V）",
+    "excerpt": "移者，易也。移風易俗，令往而民隨者也。相如之難蜀老，文曉而喻博，有移檄之骨焉。及",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#20-p07",
+    "anchor": {
+      "chapter": "檄移",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「鞶鑑吉凶，蓍龜成敗」在贊語中概括檄文以既驗與占兆營造聲勢的技術，並未認證神聖或另論人的命運",
+    "excerpt": "三驅弛剛，九伐先話。鞶鑑吉凶，蓍龜成敗。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#20-p08",
+    "anchor": {
+      "chapter": "檄移",
+      "para_index": 8
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「移寶易俗，草偃風邁」把移文的力量說成能改易共同風俗、使民眾隨風而化，落在社會教化與權力作用（V）",
+    "excerpt": "摧壓鯨鯢，抵落蜂蠆。移寶易俗，草偃風邁。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#21-p01",
+    "anchor": {
+      "chapter": "正緯",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「夫神道闡幽，天命微顯，馬龍出而大《易》興，神龜見而《洪范》燿」把龍馬神龜的出現認作天命顯現及聖典來源，是超越認證（XII）",
+    "excerpt": "夫神道闡幽，天命微顯，馬龍出而大《易》興，神龜見而《洪范》燿。故《繫辭》稱河出圖",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#21-p02",
+    "anchor": {
+      "chapter": "正緯",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「按經驗緯，其偽有四」明言用經典逐項檢驗緯書並證其偽，破除符讖對天命的壟斷而把判斷交還人的考辨（XI），不作神聖認證",
+    "excerpt": "夫六經彪炳，而緯候稠疊；《孝》、《論》昭晳，而《鉤》、《讖》葳蕤，按經驗緯，其偽",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#21-p03",
+    "anchor": {
+      "chapter": "正緯",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "XII",
+      "VII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「原夫圖籙之見，迺昊天休命」認證原初圖籙是上天嘉命（XII）；「至於光武之世，篤信斯術，風化所靡，學者比肩，沛獻集緯以通經，曹褒撰讖以定禮，乖道謬典，亦已甚矣」又譴責人的篤信與造作已乖道謬典（VII）",
+    "excerpt": "原夫圖籙之見，迺昊天休命，事以瑞聖，義非配經。故河不出圖，夫子有歎，如或可造，無",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#21-p04",
+    "anchor": {
+      "chapter": "正緯",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「無益經典而有助文章」衡量緯書作為經典或文辭材料的價值，平子、仲豫的禁存意見也是來源處置之爭，未另立人的命題",
+    "excerpt": "若乃羲農軒皞之源，山瀆鍾律之要，白魚赤烏之符，黃金紫玉之瑞，事豐奇偉，辭富膏腴，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#21-p05",
+    "anchor": {
+      "chapter": "正緯",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「榮河溫洛，是孕圖緯。神寶藏用，理隱文貴」可讀為承認河洛孕生圖緯、視之為隱藏待用的神寶；此處採認證側，故標超越（XII）",
+    "excerpt": "榮河溫洛，是孕圖緯。神寶藏用，理隱文貴。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#21-p06",
+    "anchor": {
+      "chapter": "正緯",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "XI"
+    ],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「世歷二漢，朱紫騰沸。芟夷譎詭，糅其雕蔚」可讀為要求剷除兩漢混雜的欺誑，只取文采；此處採破除側，標擺脫讖緯支配（XI）而不標神聖",
+    "excerpt": "世歷二漢，朱紫騰沸。芟夷譎詭，糅其雕蔚。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#22-p01",
+    "anchor": {
+      "chapter": "比興",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「故比者，附也；興者，起也」以下界定比、興的作用並比較直比與隱興，整段都在說修辭如何成立",
+    "excerpt": "詩文弘奧，包韞六義，毛公述傳，獨標興體，豈不以風通而賦同，比顯而興隱哉！故比者，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#22-p02",
+    "anchor": {
+      "chapter": "比興",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「《關雎》有別，故后妃方德；《尸鳩》貞一，故夫人象義」只是以詩篇中的后妃、夫人作興體取義的例證，不是在論婚姻或家庭",
+    "excerpt": "觀夫興之託諭，婉而成章，稱名也小，取類也大。《關雎》有別，故后妃方德；《尸鳩》貞",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#22-p03",
+    "anchor": {
+      "chapter": "比興",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「楚襄信讒，而三閭忠烈」離開比興技法仍是對一人信讒、一人忠烈的可辨行為與品格判斷，故命中善惡品格（VII）",
+    "excerpt": "且何謂為比？蓋寫物以附意，颺言以切事者也。故金錫以喻明德，珪璋以譬秀民，螟蛉以類",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#22-p04",
+    "anchor": {
+      "chapter": "比興",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「或喻於聲，或方於貌，或擬於心，或譬於事」以下逐項列舉比聲、比貌、比理、比心、比辯、比物的作品例證，是修辭分類表",
+    "excerpt": "夫比之為義，取類不常：或喻於聲，或方於貌，或擬於心，或譬於事。宋玉《高唐》云：纖",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#22-p05",
+    "anchor": {
+      "chapter": "比興",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「故比類雖繁，以切至為貴，若刻鵠類鶩，則無所取焉」以歷代寫景例證收束出比喻應切合的寫作準則",
+    "excerpt": "至於揚班之倫，曹劉以下，圖狀山川，影寫雲物，莫不纖綜比義，以敷其華，驚聽回視，資",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#22-p06",
+    "anchor": {
+      "chapter": "比興",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「詩人比興，觸物圓覽。物雖胡越，合則肝膽」總讚詩人把相遠之物聯成貼切比興；肝膽只是相合的譬喻，不是身體處境",
+    "excerpt": "詩人比興，觸物圓覽。物雖胡越，合則肝膽。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#22-p07",
+    "anchor": {
+      "chapter": "比興",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「擬容取心，斷辭必敢」規定比興應由外貌取意、下辭果斷，末句仍描述詠歌聚合的效果，純屬技法",
+    "excerpt": "擬容取心，斷辭必敢。攢雜詠歌，如川之渙。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#23-p01",
+    "anchor": {
+      "chapter": "物色",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「情以物遷，辭以情發。一葉且或迎意，蟲聲有足引心」明說人的情意會隨外物遷動，葉與蟲聲足以引發內心感受（VI）",
+    "excerpt": "春秋代序，陰陽慘舒，物色之動，心亦搖焉。蓋陽氣萌而玄駒步，陰律凝而丹鳥羞，微蟲猶",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#23-p02",
+    "anchor": {
+      "chapter": "物色",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「寫氣圖貌，既隨物以宛轉；屬采附聲，亦與心而徘徊」在說詩人描形、配色、附聲的構辭過程，後列桃柳日雪等都是寫景用例",
+    "excerpt": "是以詩人感物，聯類不窮。流連萬象之際，沈吟視聽之區；寫氣圖貌，既隨物以宛轉；屬采",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#23-p03",
+    "anchor": {
+      "chapter": "物色",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「凡摛表五色，貴在時見，若青黃屢出，則繁而不珍」規定顏色詞應適時少用，後文仍以形似、密附與見貌知時為寫景標準",
+    "excerpt": "至如雅詠棠華，或黃或白；騷述秋蘭，綠葉紫莖；凡摛表五色，貴在時見，若青黃屢出，則",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#23-p04",
+    "anchor": {
+      "chapter": "物色",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「物有恒姿，而思無定檢。或率爾造極，或精思愈疎」此處的「思」落在寫作者造境成文的成敗，後文也只規定入興、折辭與因革，故判技法側",
+    "excerpt": "然物有恒姿，而思無定檢。或率爾造極，或精思愈疎。且詩騷所標，並據要害；故後進銳筆",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#23-p05",
+    "anchor": {
+      "chapter": "物色",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「山林臯壤，實文思之奧府」與「抑亦江山之助乎」都只主張山水有助於文思及作品生成，落點仍是寫作來源",
+    "excerpt": "若乃山林臯壤，實文思之奧府，略語則闕，詳說則繁。然屈平所以能洞監風騷之情者，抑亦",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#23-p06",
+    "anchor": {
+      "chapter": "物色",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「目既往還，心亦吐納」把人在山水雲樹間反覆觀看時，內心也隨之吸納、發抒的經驗直接說出（VI）",
+    "excerpt": "山沓水匝，樹雜雲合。目既往還，心亦吐納。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#23-p07",
+    "anchor": {
+      "chapter": "物色",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「情往似贈，興來如答」把人面對春日秋風時情感外往、感興回應的內在互動直接寫出（VI）",
+    "excerpt": "春日遲遲，秋風颯颯。情往似贈，興來如答。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#24-p01",
+    "anchor": {
+      "chapter": "知音",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「故魏文稱文人相輕，非虛談也」把同業間崇己抑人的群體傾向明說為真實現象，是關於社會比較與群體關係的斷語（V）",
+    "excerpt": "知音其難哉！音實難知，知實難逢，逢其知音，千載其一乎！夫古來知音，多賤同而思古，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#24-p02",
+    "anchor": {
+      "chapter": "知音",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「形器易徵，謬乃若是；文情難鑒，誰曰易分」以誤認麟鳳、珠石的故事譬喻文章難辨，落點仍是鑒文之難，沒有獨立的人生斷語",
+    "excerpt": "夫麟鳳與麏雉懸絕，珠玉與礫石超殊，白日垂其照，青眸寫其形。然魯臣以麟為麏，楚人已",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#24-p03",
+    "anchor": {
+      "chapter": "知音",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "II"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「知多偏好，人莫圓該」直接指出人的偏好各有所蔽、識見難以周全，是對個體認知局限的斷語（II）",
+    "excerpt": "夫篇章雜沓，質文交加，知多偏好，人莫圓該。慷慨者逆聲而擊節，醞藉一作「籍」者見密",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#24-p04",
+    "anchor": {
+      "chapter": "知音",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「無私於輕重，不偏於憎愛」要求評判者排除私心與愛憎，將公正無偏立為人的品格要求（VII）",
+    "excerpt": "凡操千曲而後曉聲，觀千劍而後識器；故圓照之象，務先博觀。閱喬岳以形培塿，酌滄波以",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#24-p05",
+    "anchor": {
+      "chapter": "知音",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "II"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「豈成篇之足深，患識照之自淺耳」把不能理解作品的原因落在鑒賞者自身識見淺薄，是對自我認知能力的斷語（II）",
+    "excerpt": "夫綴文者情動而辭發，見文者披文以入情，沿波討源，雖幽必顯。世遠莫見其面，覘文輒見",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#24-p06",
+    "anchor": {
+      "chapter": "知音",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「良書盈篋，妙鑒迺訂」只是贊語中說佳作須由高明鑒賞加以評定，仍在說文章評鑒的條件，未越出這門手藝",
+    "excerpt": "洪鐘一作「鍾」萬鈞，夔曠所定。良書盈篋，妙鑒迺訂。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#24-p07",
+    "anchor": {
+      "chapter": "知音",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「流鄭淫人，無或失聽」明說鄭聲能使人失其正並告誡勿受其惑，將影響落到人的品格上（VII）",
+    "excerpt": "流鄭淫人，無或失聽。獨有此律，不謬蹊徑。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#25-p01",
+    "anchor": {
+      "chapter": "祝盟",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「昔伊耆始蜡，以祭八神」以下追溯祝文在祭祀中的起源並登錄古辭；告神是文體功能，未據此另標信仰領域",
+    "excerpt": "天地定位，祀徧群神。六宗既禋，三望咸秩，甘雨和風，是生黍稷，兆民所仰，美報興焉。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#25-p02",
+    "anchor": {
+      "chapter": "祝盟",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「春秋已下，黷祀諂祭，祝幣史辭，靡神不至」批評人們以繁濫祭祀諂媚求福，是對過度行為與品格的負面判斷（VII），不是對神聖的認證",
+    "excerpt": "至於商履，聖敬日躋，玄牡告天，以萬方罪己，即郊禋之詞也；素車禱旱，以六事責躬，則",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#25-p03",
+    "anchor": {
+      "chapter": "祝盟",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「修辭立誠，在於無媿」把祝祭實踐的合宜性落在行禮者真誠無愧，而不只交代告神用途，故記品格（VII）；神祇語彙本身不另記XII",
+    "excerpt": "若乃禮之祭祀，事止告饗；而中代祭文兼讚言行，祭而兼讚，蓋引神而作也。又漢代山陵，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#25-p04",
+    "anchor": {
+      "chapter": "祝盟",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "XI",
+      "VII"
+    ],
+    "discourse_mode": [
+      "ritual",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「崇替在人，咒何預焉」把興亡成敗從咒術推回人的作為，承載人力與命運之辨（XI）；「故知信不由衷，盟無益也」又把盟誓能否成立繫於內在誠信，是品格判斷（VII）",
+    "excerpt": "盟者，明也。騂毛白馬，珠盤玉敦，陳辭乎方明之下，祝告於神明者也。在昔三王，詛盟不",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#25-p05",
+    "anchor": {
+      "chapter": "祝盟",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "ritual",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "此灰區採文體技術讀：「立誠在肅，脩辭必甘」濃縮祝辭須肅敬而辭美的寫法，未另立一條關於人的判斷",
+    "excerpt": "毖祀欽明，祝史惟談。立誠在肅，脩辭必甘。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#25-p06",
+    "anchor": {
+      "chapter": "祝盟",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "ritual",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "此灰區採儀式與文體收束讀：「神之來格，所貴無慚」承接季世祝辭務飾之論，所說仍是祝辭迎神時的合式標準，不另標人的領域",
+    "excerpt": "季代彌飾，絢言朱藍，神之來格，所貴無慚。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#26-p01",
+    "anchor": {
+      "chapter": "神思",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「文之思也，其神遠矣」以下界定構思如何接通千載萬里；心、神、思都在充當寫作術語，沒有把人的一般狀態另作結論",
+    "excerpt": "古人云：形在江海之上，心存魏闕之下；神思之謂也。文之思也，其神遠矣。故寂然凝慮，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#26-p02",
+    "anchor": {
+      "chapter": "神思",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "此灰區採寫作準備工夫讀：「貴在虛靜，疏瀹五藏，澡雪精神」後明言「此蓋馭文之首術」，所列靜心、積學皆服務於謀篇，故判空",
+    "excerpt": "故思理為妙，神與物游。神居胸臆，而志氣統其關鍵；物沿耳目，而辭令管其樞機。樞機方",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#26-p03",
+    "anchor": {
+      "chapter": "神思",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「意翻空而易奇，言徵實而難巧也」分析意念轉成文字時的落差，「無務苦慮」也是構思方法，後果仍落在成篇而非人的處境",
+    "excerpt": "夫神思方運，萬塗競萌，規矩虛位，刻鏤無形，登山則情滿於山，觀海則意溢於海，我才之",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#26-p04",
+    "anchor": {
+      "chapter": "神思",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「人之稟才，遲速異分」明說人的天賦使思考與完成工作的速度不同，是才能發揮與成就方式的差異（VIII）",
+    "excerpt": "人之稟才，遲速異分，文之制體，大小殊功，相如含筆而腐毫，揚雄輟翰而驚夢，桓譚疾感",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#26-p05",
+    "anchor": {
+      "chapter": "神思",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "II",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「若夫駿發之士，心總要術，敏在慮前，應機立斷；覃思之人，情饒歧路，鑒在疑後，研慮方定」區分兩種稟賦與認知類型（II）；「機敏故造次而成功，慮疑故愈久而致績」說兩型各自抵達成果的路徑（VIII）",
+    "excerpt": "若夫駿發之士，心總要術，敏在慮前，應機立斷；覃思之人，情饒歧路，鑒在疑後，研慮方",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#26-p06",
+    "anchor": {
+      "chapter": "神思",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「言所不追，筆固知止」說文字不能窮盡精微意旨，伊摯與輪扁只是技藝難言的譬喻，落點仍是表達限度而非人的生活",
+    "excerpt": "若情數詭雜，體變遷貿，拙辭或孕於巧義，庸事或萌於新意，視布於麻，雖云未費，杼軸獻",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#26-p07",
+    "anchor": {
+      "chapter": "神思",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「物以貌求，心以理應」是贊語對寫作構思中物、心、理關係的概括，心在此是構思機制，沒有獨立的人之斷語",
+    "excerpt": "神用象通，情變所孕。物以貌求，心以理應。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#26-p08",
+    "anchor": {
+      "chapter": "神思",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「刻鏤聲律，萌芽比興」收束聲律、比興與制篇的技術流程，所說全是文章如何形成，沒有越出寫作手藝",
+    "excerpt": "刻鏤聲律，萌芽比興。結慮司契，垂帷制勝。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#27-p01",
+    "anchor": {
+      "chapter": "程器",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「後人雷同，混之一貫，吁可悲矣」批評後世把文人的細行問題一概而論，是對群體標籤與不公評價的斷語（V）",
+    "excerpt": "《周書》論士，方之梓材，蓋貴器用而兼文采也。是以樸斵成而丹艧一作「雘」施，垣墉立",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#27-p02",
+    "anchor": {
+      "chapter": "程器",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「略觀文士之疵：相如竊妻而受金，揚雄嗜酒而少算，敬通之不循廉隅，杜篤之請求無厭，班固諂竇以作威，馬融黨梁而黷貨，文舉傲誕以速誅，正平狂憨以致戮，仲宣輕脆以躁競，孔璋惚恫以麤疎，丁儀貪婪以乞貨，路粹餔啜而無恥，潘岳詭譸於愍懷，陸機傾仄於賈郭，傅玄剛隘而詈臺，孫楚悢一作「狠」愎而訟府，諸有此類，並文士之瑕累」列出可指認的失德行為而非純才名品題，承載品格判斷（VII）",
+    "excerpt": "略觀文士之疵：相如竊妻而受金，揚雄嗜酒而少算，敬通之不循廉隅，杜篤之請求無厭，班",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#27-p03",
+    "anchor": {
+      "chapter": "程器",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「然子夏無虧於名儒，濬冲不塵乎竹林者，名崇而譏減也」指出名位會減輕社會非議，涉及地位造成的評價偏差（V）；「若夫屈賈之忠貞，鄒枚之機覺，黃香之淳孝，徐幹之沈默，豈曰文士，必其玷歟」又以忠貞淳孝反駁文士必有玷污的品格定見（VII）",
+    "excerpt": "文既有之，武亦宜然。古之將相，疵咎實多：至如管仲之盜竊，吳起之貪淫，陳平之污點，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#27-p04",
+    "anchor": {
+      "chapter": "程器",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "II",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「蓋人禀五材，修短殊用，自非上哲，難以求備」明說人的資質各有長短、難以全備（II）；「然將相以位隆特達，文士以職卑多誚」指出職位高低造成聲譽待遇不均（V）",
+    "excerpt": "蓋人禀五材，修短殊用，自非上哲，難以求備。然將相以位隆特達，文士以職卑多誚，此江",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#27-p05",
+    "anchor": {
+      "chapter": "程器",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "I",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「窮則獨善以垂文，達則奉時以騁績」提出困窮與顯達兩種處世立身之道（I）；「君子藏器，待時而動，發揮事業，固宜蓄素以綳一作「弸」中，散采一作「悉」以彪外，楩柟其質，豫章其幹，摛文必在緯軍國，負一作「賢」重必在任棟梁」要求蓄養才能、把握時機並擔當事業（VIII）",
+    "excerpt": "是以君子藏器，待時而動，發揮事業，固宜蓄素以綳一作「弸」中，散采一作「悉」以彪外",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#27-p06",
+    "anchor": {
+      "chapter": "程器",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「瞻彼前修，有懿文德」在贊語中以懿德肯定前代典範，承接本篇對文士不能只論文采、還須論德行的品格主張（VII）",
+    "excerpt": "瞻彼前修，有懿文德。聲昭楚南，采動梁北。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#27-p07",
+    "anchor": {
+      "chapter": "程器",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "VIII",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「雕而不器，貞幹誰則」反對只有文飾而不能任事，要求人成為可用之材（VIII）；「亦有光國」又把才幹的價值落在對國家的公共貢獻（V）",
+    "excerpt": "雕而不器，貞幹誰則。豈無華身，亦有光國。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#28-p01",
+    "anchor": {
+      "chapter": "章句",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「宅情曰章，位言曰句」逐級界定字、句、章、篇的組成關係，是章句名義與層級的技法界定，沒有關於人的承重句",
+    "excerpt": "夫設情有宅，置言有位；宅情曰章，位言曰句。故章者，明也；句者，局也。局言者，聯字",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#28-p02",
+    "anchor": {
+      "chapter": "章句",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「搜句忌於顛倒，裁章貴於順序」規定篇章須首尾相承、章句依次，是文章結構的操作準則；友旅等語皆為文字關係的譬喻",
+    "excerpt": "夫裁文匠筆，篇有大小；離章合句，調有緩急，隨變適會，莫見定準。句司數字，待相接以",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#28-p03",
+    "anchor": {
+      "chapter": "章句",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「四字密而不促，六字格而非緩」以下分類句長並追溯二言至七言的沿革，所述是句式體制及其歷史，故判空",
+    "excerpt": "若夫筆句無常，而字有條數，四字密而不促，六字格而非緩，或變之以三五，蓋應機之權節",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#28-p04",
+    "anchor": {
+      "chapter": "章句",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「兩韻輒易，則聲韻微躁；百句不遷，則唇吻告勞」比較換韻頻率的文字效果；唇吻告勞是聲韻技法的譬喻，不是人的身體處境",
+    "excerpt": "若乃改韻從調，所以節文辭氣，賈誼枚乘，兩韻輒易；劉歆桓譚，百句不遷；亦各有其志也",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#28-p05",
+    "anchor": {
+      "chapter": "章句",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「之而於以者，乃劄句之舊體；乎哉矣也，亦送末之常科」說明虛字在句首句末的用途並規定如何運用，純屬句法技術",
+    "excerpt": "又詩人以兮字入於句限，《楚辭》用之，字出句外。尋兮字承句，乃語助餘聲。舜詠《南風",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#28-p06",
+    "anchor": {
+      "chapter": "章句",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「斷章有檢，積句不恆」是贊語對章句剪裁、配主與連屬的技術收束，沒有把判斷落到人身上",
+    "excerpt": "斷章有檢，積句不恆。理資配主，辭忌失朋。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#28-p07",
+    "anchor": {
+      "chapter": "章句",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「離合同異，以盡厥能」仍在概括章句離合與調勢的寫作能力，抽掉文章手藝後沒有獨立的人生內容",
+    "excerpt": "環情草調，宛轉相騰。離合同異，以盡厥能。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#29-p01",
+    "anchor": {
+      "chapter": "章表",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「然則敷奏以言，則章表之義也」由古代朝廷陳辭追溯章表功能與起源，屬原始以表末，官職人物只是沿革材料",
+    "excerpt": "夫設官分職，高卑聯事。天子垂珠以聽，諸侯鳴玉以朝。敷奏以言，明試以功。故堯咨四岳",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#29-p02",
+    "anchor": {
+      "chapter": "章表",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「章以謝恩，奏以按劾，表以陳請，議以執異」列四種公文功能，繼而訓釋章、表名義，是文體分類與語義還原",
+    "excerpt": "周監二代，文理彌盛，再拜稽首，對揚休命，承文受冊，敢當丕顯，雖言筆未分，而陳謝可",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#29-p03",
+    "anchor": {
+      "chapter": "章表",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「前漢表謝，遺篇寡存」以下登錄章奏的收錄情況、考試制度與歷代名篇，是文體史觀察和作品品題",
+    "excerpt": "按《七略》藝文，謠詠必錄；章表奏議，經國之樞機，蓋闕而不纂者，乃各有故事而在職司",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#29-p04",
+    "anchor": {
+      "chapter": "章表",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「陳思之表，獨冠群才」以下逐一評騭孔融、諸葛亮、琳瑀與陳思章表之工拙，是選文定篇的作品品題，依錨點判空",
+    "excerpt": "昔晉文受冊，三辭從命，是以漢末讓表，以三為斷。曹公稱為表不止三讓，又勿得浮華。所",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#29-p05",
+    "anchor": {
+      "chapter": "章表",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「逮晉初筆札，則張華為儁」以下依次品評張華、羊祜、庾亮、劉琨、張駿的章表，是歷代作者與作品登錄",
+    "excerpt": "逮晉初筆札，則張華為儁。其三讓公封，理周辭要，引義比事，必得其偶，世珍《鷦鷯》，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#29-p06",
+    "anchor": {
+      "chapter": "章表",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "此灰區採誠偽斷語讀：「然懇惻者辭為心使，浮侈者情為文使」不只分兩種文辭，更把真誠與浮侈歸到人的內在主從關係，故記品格（VII）",
+    "excerpt": "原夫章表之為用也，所以對揚王庭，昭明心曲。既其身文，且亦國華。章以造闕，風矩應明",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#29-p07",
+    "anchor": {
+      "chapter": "章表",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「言必貞明，義則弘偉」是贊語對章表言辭與義旨的風格要求，貞明在此修飾文辭，沒有另作人的品格判斷",
+    "excerpt": "敷表降闕，獻替黼扆。言必貞明，義則弘偉。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#29-p08",
+    "anchor": {
+      "chapter": "章表",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「肅恭節文，條理首尾」規定章表須節制而有條理；「君子秉文」只是執筆者角色，結論仍落在辭令有斐",
+    "excerpt": "肅恭節文，條理首尾。君子秉文，辭令有斐。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#30-p01",
+    "anchor": {
+      "chapter": "練字",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「又吏民上書，字謬輒劾；是以馬字缺畫，而石建懼死，雖云性慎，亦時重文也」寫出制度以懲罰約束書寫及其造成的畏懼，並據此判斷一時社會風尚（V）",
+    "excerpt": "夫文象列而結繩移，鳥跡明而書契作，斯乃言語之體貌，而文章之宅宇也。蒼頡造之，鬼哭",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#30-p02",
+    "anchor": {
+      "chapter": "練字",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「後世所同曉者，雖難斯易，時所共廢，雖易斯難」以時代通行與否說明選字難易，落點是文字可讀性的技術判準",
+    "excerpt": "至孝武之世則相如譔篇。及宣成二帝，徵集小學，張敞以正讀傳業，揚雄以奇字纂訓，並貫",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#30-p03",
+    "anchor": {
+      "chapter": "練字",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「異體相資，如左右肩股，該舊而知新，亦可以屬文」說《爾雅》《倉頡》與字音字形如何供作文取用，身體語只是譬喻",
+    "excerpt": "夫《爾雅》者，孔徒之所纂，而《詩》《書》之襟帶也；《倉頡》者，李斯之所輯，而鳥籀",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#30-p04",
+    "anchor": {
+      "chapter": "練字",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「一避詭異，二省聯邊，三權重出，四調單複」是選字四項分類與寫作規範，不是可計算程序，故不標formalization，領域亦判空",
+    "excerpt": "是以綴字屬篇，必須練擇：一避詭異，二省聯邊，三權重出，四調單複。詭異者，字體瓌怪",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#30-p05",
+    "anchor": {
+      "chapter": "練字",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "II"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「固知愛奇之心，古今一也」從傅毅沿用訛字推出人古今皆有好奇求新的內在偏好，已越出校字技術而成為人的心理斷語（II）",
+    "excerpt": "至於經典隱曖，方冊紛綸，簡蠹帛裂，三寫易字，或以音訛，或以文變。子思弟子，於穆不",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#30-p06",
+    "anchor": {
+      "chapter": "練字",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「篆隸相鎔，蒼雅品訓」是贊語對篆隸沿革、字書訓詁及字形美醜的概括，內容仍是文字學與用字技術",
+    "excerpt": "篆隸相鎔，蒼雅品訓。古今殊跡，妍媸異分。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#30-p07",
+    "anchor": {
+      "chapter": "練字",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「字靡異流，文阻難運」說異字會阻礙文章運行，繼而稱許聲畫墨采，所述後果全落在文本上",
+    "excerpt": "字靡異流，文阻難運。聲畫昭精，墨采騰奮。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#31-p01",
+    "anchor": {
+      "chapter": "總術",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「予以為發口為言，屬筆曰翰，常道曰經，述經曰傳」辨析文、筆、言、經、傳的名義並駁前說，是文論概念界定",
+    "excerpt": "今一作「令」之常言，有文有筆，以為無韻者筆也，有韻者文也。夫文以足言，理兼詩書，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#31-p02",
+    "anchor": {
+      "chapter": "總術",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「才之能通，必資曉術，自非圓鑒區域，大判條例，豈能控引情一作「清」源，制勝文苑哉」雖提到通才，結論只是寫作者須明白作文方法才能辨文制勝；換成別門手藝仍只是該手藝的熟練要求",
+    "excerpt": "凡精慮造文，各競新麗，多欲練辭，莫肯研術。落落之玉，或亂乎石；碌碌之石，時似乎玉",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#31-p03",
+    "anchor": {
+      "chapter": "總術",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「若夫善弈之文，則術有恒數，按部整伍，以待情會」用弈棋比喻依術制篇，整段比較任心碰巧與按術作文，落點均在文章成敗",
+    "excerpt": "是以執術馭篇，似善弈之窮數；棄一作「築」術任心，如博塞之邀遇。故博塞之文，借巧儻",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#31-p04",
+    "anchor": {
+      "chapter": "總術",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「務先大體，鑑必窮源」是贊語要求作文先掌握總體並窮究根源，屬寫作程序的總括，沒有人的領域",
+    "excerpt": "文場筆苑，有術有門。務先大體，鑑必窮源。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#31-p05",
+    "anchor": {
+      "chapter": "總術",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「乘一總萬，舉要治繁」概括以總術統攝繁多文理；思、理在此都是制文術語，未形成關於人的獨立判斷",
+    "excerpt": "乘一總萬，舉要治繁。思無定契，理有恒存。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#32-p01",
+    "anchor": {
+      "chapter": "聲律",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「夫音律所始，本於人聲者也」以人聲作為宮商音律與文章聲律的物質起點，是聲音技術的來源說明，並非人在自身身體處境中的敘述",
+    "excerpt": "夫音律所始，本於人聲者也。聲合一作「含」宮商，肇自血氣，先王因之以制樂歌。故知器",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#32-p02",
+    "anchor": {
+      "chapter": "聲律",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "II"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「故外聽之易，絃以手定，內聽之難，聲與心紛，可以數求，難以辭逐」將外在聲音易校與內在聲音難辨相對，明說人對自身內聽的認知限制（II）",
+    "excerpt": "古之教歌，先揆以法，使疾呼中宮，徐呼中徵。夫商徵響高，宮羽聲下；抗喉矯舌之差，攢",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#32-p03",
+    "anchor": {
+      "chapter": "聲律",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「其為疾病，亦文家之吃也」把雙聲疊韻不調比作口吃，喉脣是聲律毛病的譬喻而非人的身體處境，依錨點判空且不標IX",
+    "excerpt": "凡聲有飛沈，響有雙疊，雙聲隔字而每舛，疊韻雜句而必睽；沈則響發而斷，飛則聲颺不還",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#32-p04",
+    "anchor": {
+      "chapter": "聲律",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「異音相從謂之和，同聲相應謂之韻」界定和、韻及其配字難易，氣力與脣吻皆在說文章聲律的技術效果",
+    "excerpt": "是以聲畫妍蚩，寄在吟詠，吟詠滋味，流於字句。氣力窮於和韻。異音相從謂之和，同聲相",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#32-p05",
+    "anchor": {
+      "chapter": "聲律",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「陳思潘岳，吹籥之調也；陸機左思，瑟柱之和也」用籥瑟兩型品評歷代作者的聲律風格，是作品分類與品題",
+    "excerpt": "若夫宮商大和，譬諸吹籥；翻廻取均，頗似調瑟。瑟資移柱，故有時而乖貳；籥含定管，故",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#32-p06",
+    "anchor": {
+      "chapter": "聲律",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「又詩人綜韻，率多清切，《楚辭》辭楚，故訛韻實繁」考察用韻得失，後文亦只規定如何辨字鑽響，未越出聲律手藝",
+    "excerpt": "又詩人綜韻，率多清切，《楚辭》辭楚，故訛韻實繁。及張華論韻，謂士衡多楚，《文賦》",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#32-p07",
+    "anchor": {
+      "chapter": "聲律",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「標情務遠，比音則近」是贊語對立意與配音遠近的寫作原則，胸臆、脣吻只指發聲位置，沒有人的承重句",
+    "excerpt": "標情務遠，比音則近。吹律胸臆，調鍾脣吻。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#32-p08",
+    "anchor": {
+      "chapter": "聲律",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「割棄支離，宮商難隱」要求刪去支離聲病以使宮商顯明，是聲律修整的技術收束，故領域判空",
+    "excerpt": "聲得鹽梅，響滑榆槿。割棄支離，宮商難隱。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#33-p01",
+    "anchor": {
+      "chapter": "詔策",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「誥命動民，若天下之有風矣」明說王者命令會驅動百姓，將群體如何受政治權威影響作為結論（V）",
+    "excerpt": "皇帝御寓，其言也神。淵嘿黼扆，而響盈四表，唯詔策乎！昔軒轅唐虞，同稱為命。命之為",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#33-p02",
+    "anchor": {
+      "chapter": "詔策",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「命有四品」至「並本經典以立名目」是在列策、制、詔、敕的沿革與名義，只有文體分類，沒有另論人如何生活",
+    "excerpt": "降及七國，並稱曰令。令者，使也。秦并天下，改命曰制。漢初定儀則，則命有四品：一曰",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#33-p03",
+    "anchor": {
+      "chapter": "詔策",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「豈直取美當時，亦敬慎來葉矣」把王言入史後對後世的慎重責任說成用人的理由，是公共責任判斷（V）",
+    "excerpt": "記稱絲綸，所以應接群后。虞重納言，周貴喉舌。故兩漢詔誥，職在尚書。王言之大，動入",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#33-p04",
+    "anchor": {
+      "chapter": "詔策",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "III"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「孝宣璽書，賜太守陳遂，亦故舊之厚也」明說詔書承載君臣舊交的深厚情分，落到信任與親密關係（III）",
+    "excerpt": "觀文景以前，詔體浮新；武帝崇儒，選言弘奧。策封三王，文同訓典；勸戒淵雅，垂範後代",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#33-p05",
+    "anchor": {
+      "chapter": "詔策",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「而造次喜怒，時或偏濫」直接指出光武在倉促間受喜怒支配而失於偏濫，是對情緒狀態及失控的判斷（VI）",
+    "excerpt": "逮光武撥亂，留意斯文，而造次喜怒，時或偏濫。詔賜鄧禹，稱司徒為堯，敕責侯霸，稱黃",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#33-p06",
+    "anchor": {
+      "chapter": "詔策",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「至於作威作福，其萬慮之一弊乎」把帝王以威福自專視為施政之弊，落到權力運用與領導責任（V）",
+    "excerpt": "自魏晉誥策，職在中書，劉放張華，互管斯任，施令發號，洋洋盈耳。魏文帝下詔，辭義多",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#33-p07",
+    "anchor": {
+      "chapter": "詔策",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「所以百辟其刑，萬邦作孚」說上位者的王言會使百官效法、萬邦信服，是政治示範與群體信任的命題（V）",
+    "excerpt": "夫王言崇秘，大觀在上，所以百辟其刑，萬邦作孚。故授官選賢，則義炳重離之輝；優文封",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#33-p08",
+    "anchor": {
+      "chapter": "詔策",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「戒者，慎也」以下列敕都督、戒州牧、敕太子、戒子與家戒，說明戒敕的名義、對象和歷代作品，未另立關於家庭生活的斷語",
+    "excerpt": "戒敕為文，實詔之切者，周穆命郊父受敕憲，此其事也。魏武稱作敕戒，當指事而語，勿得",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#33-p09",
+    "anchor": {
+      "chapter": "詔策",
+      "para_index": 9
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「出言而民效也」明說在上者的言教會成為百姓所效法的行為準則，是領導與群體教化的判斷（V）",
+    "excerpt": "教者，效也。出言而民效也。契敷五教，故王侯稱教。昔鄭弘之守南陽，條教為後所述，乃",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#33-p10",
+    "anchor": {
+      "chapter": "詔策",
+      "para_index": 10
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「今詔重而命輕者，古今之變也」只比較詔與命在古今名義輕重上的變化，屬文體名目考辨",
+    "excerpt": "自教以下，則又有命。《詩》云，有命自天，明為重也。《周禮》曰：師氏詔王，明為輕也",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#33-p11",
+    "anchor": {
+      "chapter": "詔策",
+      "para_index": 11
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「我有絲言，兆民尹好」把皇王發言與萬民接受相連，是對政治言令如何形成群體認同的判斷（V）",
+    "excerpt": "皇王施令，寅嚴宗誥。我有絲言，兆民尹好。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#33-p12",
+    "anchor": {
+      "chapter": "詔策",
+      "para_index": 12
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「輝音峻舉，鴻風遠蹈」與「騰義飛辭，渙其大號」全在贊詔策聲辭與號令氣勢，沒有另說人的處境",
+    "excerpt": "輝音峻舉，鴻風遠蹈。騰義飛辭，渙其大號。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#34-p01",
+    "anchor": {
+      "chapter": "詮賦",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「賦者，鋪也」至「斯蓋別詩之原始，命賦之厥初也」追溯賦的釋名、體源與早期作品，沒有把作者或讀者當成人的命題來論",
+    "excerpt": "詩有六義，其二曰賦。賦者，鋪也，鋪采摛文，體物寫志也。昔邵公稱公卿獻詩，師箴瞍賦",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#34-p02",
+    "anchor": {
+      "chapter": "詮賦",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「信興楚而盛漢矣」總結賦的源流，後半「言務纖密」「理貴側附」規定大小賦的作法，落點都在文體與技法",
+    "excerpt": "秦世不文，頗有雜賦。漢初詞人，順流而作，陸賈扣其端，賈誼振其緒，枚馬同其風，王揚",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#34-p03",
+    "anchor": {
+      "chapter": "詮賦",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「凡此十家，並辭賦之英傑也」以下逐一評騭歷代賦家的篇章風格與工拙，是選文定篇的作品品題",
+    "excerpt": "觀夫荀結隱語，事數自環；宋發夸談，實始淫麗。枚乘《菟園》，舉要以會新；相如《上林",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#34-p04",
+    "anchor": {
+      "chapter": "詮賦",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「情以物興，故義必明雅；物以情觀，故詞必巧麗」建立賦的情物—文辭規則；「繁華損枝，膏腴害骨」的後果仍落在作品結構，故不另標人的領域",
+    "excerpt": "原夫登高之旨，蓋覩物興情。情以物興，故義必明雅；物以情觀，故詞必巧麗。麗詞雅義，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#34-p05",
+    "anchor": {
+      "chapter": "詮賦",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「賦自詩出，分歧異派。寫物圖貌，蔚似雕畫」只收束賦的來源與描摹特徵，沒有另論人的狀態",
+    "excerpt": "賦自詩出，分歧異派。寫物圖貌，蔚似雕畫。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#34-p06",
+    "anchor": {
+      "chapter": "詮賦",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「㭊滯必揚，言曠無隘。風歸麗則，辭翦美稗」全是對賦文辭取捨與風格的規定，沒有落到人",
+    "excerpt": "㭊滯必揚，言曠無隘。風歸麗則，辭翦美稗。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#35-p01",
+    "anchor": {
+      "chapter": "誄碑",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「誄者，累也。累其德行，旌之不朽也」是在釋名並說明喪誄儀制；「賤不誄貴，幼不誄長」也是禮制適用規則，未另論死亡經驗",
+    "excerpt": "周世盛德，有銘誄之文。大夫之材，臨喪能誄。誄者，累也。累其德行，旌之不朽也。夏商",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#35-p02",
+    "anchor": {
+      "chapter": "誄碑",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「始及于士」「哀公作誄」至「古式存焉」登錄誄體擴及士人的沿革與早期作品，哀詞是作品品題，不等於在論失去",
+    "excerpt": "自魯莊戰乘丘，始及于士。逮尼父卒，哀公作誄。觀其憗遺之切，嗚呼之歎，雖非叡作，古",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#35-p03",
+    "anchor": {
+      "chapter": "誄碑",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「揚雄之誄元后，文實煩穢」以下逐一評騭漢代誄文的繁簡、體序和聲律，是歷代作品品題",
+    "excerpt": "暨乎漢世。承流而作。揚雄之誄元后，文實煩穢，沙麓撮其要，而摯疑成篇，安有累德述尊",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#35-p04",
+    "anchor": {
+      "chapter": "誄碑",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「並得憲章，工在簡要」至「其乖甚矣」仍評各家誄文工拙；「誄述祖宗」只是交代文體題材與法則",
+    "excerpt": "至如崔駰誄趙，劉陶誄黃，並得憲章，工在簡要。陳思叨名而體實繁緩，文皇誄末，旨言自",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#35-p05",
+    "anchor": {
+      "chapter": "誄碑",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「至於序述哀情，則觸類而長」及「始序致感，遂為後式」規定誄文如何鋪寫哀情，落點在寫法和作品效果",
+    "excerpt": "至於序述哀情，則觸類而長。傅毅之誄北海，云「白日幽光，雰霧杳冥」，始序致感，遂為",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#35-p06",
+    "anchor": {
+      "chapter": "誄碑",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「選言錄行，傳體而頌文，榮始而哀終」界定誄的結構；「論其人也」「道其哀也」是在說文體呈現什麼，不另把人或哀傷作結論",
+    "excerpt": "詳夫誄之為制，蓋選言錄行，傳體而頌文，榮始而哀終。論其人也，曖乎若可覿；道其哀也",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#35-p07",
+    "anchor": {
+      "chapter": "誄碑",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "ritual"
+    ],
+    "confidence": null,
+    "note": "「上古帝皇，紀號封禪，樹石埤岳，故曰碑也」至「後代用碑，以石代金」追溯碑的名稱、儀用與材質沿革",
+    "excerpt": "碑者，埤也。上古帝皇，紀號封禪，樹石埤岳，故曰碑也。周穆紀跡于弇山之石，亦古碑之",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#35-p08",
+    "anchor": {
+      "chapter": "誄碑",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「碑碣雲起。才鋒所斷，莫高蔡邕」以下評蔡邕諸碑的敘事、綴采與才鋒，是歷代作者與作品登錄",
+    "excerpt": "自後漢以來，碑碣雲起。才鋒所斷，莫高蔡邕。觀楊賜之碑，骨鯁訓典，陳郭二文，詞無擇",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#35-p09",
+    "anchor": {
+      "chapter": "誄碑",
+      "para_index": 9
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「有摹伯喈」「辭多枝雜」「最為辨裁」逐一品評孔融、孫綽等人的碑誄文辭，沒有越出作品工拙",
+    "excerpt": "孔融所創，有摹伯喈。張陳兩文，辨給足采，亦其亞也。及孫綽為文，志在碑誄；溫王郤庾",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#35-p10",
+    "anchor": {
+      "chapter": "誄碑",
+      "para_index": 10
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「夫屬碑之體，資乎史才，其序則傳，其文則銘」以下規定碑文的體制與德行書寫效果，只是在敷理舉統",
+    "excerpt": "夫屬碑之體，資乎史才，其序則傳，其文則銘，標序盛德，必見清風之華；昭紀鴻懿，必見",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#35-p11",
+    "anchor": {
+      "chapter": "誄碑",
+      "para_index": 11
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「碑實銘器，銘實碑文，因器立名」辨析碑、銘、誄依器物與用途而分的名義和範圍",
+    "excerpt": "夫碑實銘器，銘實碑文，因器立名，事先於誄。是以勒石讚勳者，入銘之域；樹碑述已者，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#35-p12",
+    "anchor": {
+      "chapter": "誄碑",
+      "para_index": 12
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「寫實追虛，碑誄以立。銘德慕行，文采允集」是篇末對碑誄功能與文采的收束，德行只是文體所銘的內容",
+    "excerpt": "寫實追虛，碑誄以立。銘德慕行，文采允集。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#35-p13",
+    "anchor": {
+      "chapter": "誄碑",
+      "para_index": 13
+    },
+    "psych_domains": [
+      "X"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「觀風似面，聽辭如泣。石墨鐫華，頹影豈忒」把已逝者只能由行跡與碑辭重現、並以哭泣相接的失落寫出來，承重於死亡後的追憶（X）",
+    "excerpt": "觀風似面，聽辭如泣。石墨鐫華，頹影豈忒。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#36-p01",
+    "anchor": {
+      "chapter": "論說",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「述經敘理曰論。論者，倫也」與《論語》以前後的考辨只在追溯「論」的名義和起源",
+    "excerpt": "聖哲彝訓曰經，述經敘理曰論。論者，倫也；倫理無爽，則聖意不墜。昔仲尼微言，門人追",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#36-p02",
+    "anchor": {
+      "chapter": "論說",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「八名區分，一揆宗論」列議、說、傳、注、贊、評、序、引與論的關係，屬文體分類，不是可計算程序",
+    "excerpt": "詳觀論體，條流多品，陳政，則與議說合契，釋經，則與傳注參體；辨史，則與贊評齊行；",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#36-p03",
+    "anchor": {
+      "chapter": "論說",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「聚述聖言通經，論家之正體也」以下登錄從石渠、白虎通到正始玄論的文體沿革與作者",
+    "excerpt": "是以莊周《齊物》，以論為名；不韋《春秋》，六論昭列；至石渠論藝，白虎通講；聚述聖",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#36-p04",
+    "anchor": {
+      "chapter": "論說",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「並師心獨見，鋒穎精密，蓋人倫之英也」以下仍逐一品題論家與學說得失；「徒銳偏解」的落點是所論之理，不另論人的自我",
+    "excerpt": "詳觀蘭石之《才性》，仲宣之《去伐》，叔夜之《辨聲》，太初之《本元》輔嗣之《兩例》",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#36-p05",
+    "anchor": {
+      "chapter": "論說",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「原夫論之為體，所以辨正然否」以下規定論說應「義貴圓通，辭忌枝碎」，是論體功能和寫作準則",
+    "excerpt": "至如張衡《譏世》，韻似俳說；孔融《孝廉》，但談嘲戲；曹植《辨道》，體同書抄；言不",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#36-p06",
+    "anchor": {
+      "chapter": "論說",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「覽文雖巧，而檢跡知妄」揭出巧辭掩飾虛妄；「唯君子能通天下之志，安可以曲論哉」又把不作曲論歸為君子應有的誠正品格（VII）",
+    "excerpt": "是以論如析薪，貴能破理。斤利者，越理而橫斷，辭辨者，反義而取通；覽文雖巧，而檢跡",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#36-p07",
+    "anchor": {
+      "chapter": "論說",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「過悅必偽」把一味討好判為必然失真；後文辨士因勢游說的事例承載了對諂說與誠偽的品格判斷（VII）",
+    "excerpt": "說者，悅也；兌為口舌，故言資悅懌，過悅必偽，故舜驚讒說。說之善者，伊尹以論味隆殷",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#36-p08",
+    "anchor": {
+      "chapter": "論說",
+      "para_index": 8
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「自非譎敵，則唯忠與信。披肝膽以獻主」明定游說若非對敵用譎，對君主就應以忠信與坦誠為本，是品格規範（VII）",
+    "excerpt": "夫說貴撫會，弛張相隨，不專緩頰，亦在刀筆。范雎之言事，李斯之止逐客，並煩情入機，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#36-p09",
+    "anchor": {
+      "chapter": "論說",
+      "para_index": 9
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「理形於言，敘理成論」與「詞深人天，致遠方寸」只贊論體以文辭窮理的功能；「人天」「方寸」不是獨立的人論",
+    "excerpt": "理形於言，敘理成論。詞深人天，致遠方寸。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#36-p10",
+    "anchor": {
+      "chapter": "論說",
+      "para_index": 10
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「陰陽莫貳，鬼神靡遯」與「說爾飛鉗，呼吸沮勸」是贊論說能窮理、施行勸阻的文體效能，沒有作信仰認證或獨立的人論",
+    "excerpt": "陰陽莫貳，鬼神靡遯。說爾飛鉗，呼吸沮勸。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#37-p01",
+    "anchor": {
+      "chapter": "諧讔",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「夫心險如山，口壅若川，怨怒之情不一，歡謔之言無方」直接把隱蔽難宣的內心、怨怒與歡謔並列為諧辭所出的人的情緒狀態（VI）",
+    "excerpt": "芮良夫之詩云：自有肺腸，俾民卒狂。夫心險如山，口壅若川，怨怒之情不一，歡謔之言無",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#37-p02",
+    "anchor": {
+      "chapter": "諧讔",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「並譎辭飾說，抑止昏暴」寫俳優以曲言制止掌權者的昏暴（V）；「辭雖傾回，意歸義正也」則以歸於義正評定其道德動機（VII）",
+    "excerpt": "諧之言皆也，辭淺會俗，皆悅笑也。昔齊威酣樂，而淳于說甘酒；楚襄讌集，而宋玉賦好色",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#37-p03",
+    "anchor": {
+      "chapter": "諧讔",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「無所匡正，而詆嫚媟弄」把只求嘲弄、不作匡正的行為判為失當；「見視如倡，亦有悔矣」又寫出其人格聲譽後果（VII）",
+    "excerpt": "但本體不雅，其流易弊，於是東方枚皋，餔糟啜醨，無所匡正，而詆嫚媟弄，故其自稱為賦",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#37-p04",
+    "anchor": {
+      "chapter": "諧讔",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「魏晉滑稽，盛相驅扇」指出群體相互煽動仿效的風氣（V）；「曾是莠言，有虧德音」則把以形貌取笑判成有損德行的言語（VII）",
+    "excerpt": "然而懿文之士，未免枉轡；潘岳醜婦之屬，束皙賣餅之類，尤而效之，蓋以百數。魏晉滑稽",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#37-p05",
+    "anchor": {
+      "chapter": "諧讔",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「大者興治濟身，其次弼違曉惑」明說隱語可用來興治、救身、輔正過失與解除疑惑，落到危局中匡政與自救的社會行動（V）",
+    "excerpt": "讔者，隱也；遯辭以隱意，譎譬以指事也。昔還社求拯於楚師，喻眢井而稱麥麴；叔儀乞糧",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#37-p06",
+    "anchor": {
+      "chapter": "諧讔",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「纖巧以弄思，淺察以衒辭」批評以小巧淺見炫耀辭藻；「雖有小巧，用乖遠大」把這種賣弄判作志趣失正（VII）",
+    "excerpt": "漢世隱書十有八篇，歆固編文，錄之歌末。昔楚莊齊威，性好隱語。至東方曼倩，尤巧辭述",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#37-p07",
+    "anchor": {
+      "chapter": "諧讔",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「若效而不已，則髡袒而入室，旃孟之石交乎」把不斷仿效俳諧的後果落到與俳優親密結交及身分邊界的改變，是群體交往判斷（V）",
+    "excerpt": "然文辭之有諧讔，譬九流之有小說。蓋稗官所采，以廣視聽，若效而不已，則髡袒而入室，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#37-p08",
+    "anchor": {
+      "chapter": "諧讔",
+      "para_index": 8
+    },
+    "psych_domains": [
+      "XIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「古之嘲隱，振危釋憊」明說嘲隱能扶救危困、解除困憊，承重於人在困厄後得到舒解與恢復（XIII）",
+    "excerpt": "古之嘲隱，振危釋憊。雖有絲麻，無棄菅蒯。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#37-p09",
+    "anchor": {
+      "chapter": "諧讔",
+      "para_index": 9
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「空戲滑稽，德音大壞」把只作空戲的滑稽直接判為嚴重敗壞德音，是對言語品格的斷語（VII）",
+    "excerpt": "會義適時，頗益諷誡。空戲滑稽，德音大壞。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#38-p01",
+    "anchor": {
+      "chapter": "諧隱",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VI",
+      "V"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「夫心險如山，口壅若川，怨怒之情不一，歡謔之言無方」把諧辭所出的怨怒、歡謔落到人的內在情緒（VI）；「臧紇喪師，國人造侏儒之歌；并嗤戲形貌，內怨為俳也」寫群眾用嘲歌表達公共怨懟（V）",
+    "excerpt": "芮良夫之詩云︰\"自有肺腸，俾民卒狂。\"夫心險如山，口壅若川，怨怒之情不一，歡謔之",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#38-p02",
+    "anchor": {
+      "chapter": "諧隱",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「并譎辭飾說，抑止昏暴」說諷諫能約束掌權者的昏暴，落到權力與公共責任（V）；「曾是莠言，有虧德音」又把放縱嘲弄判為損德的行為（VII）",
+    "excerpt": "諧之言皆也，辭淺會俗，皆悅笑也。昔齊威酣樂，而淳于說甘酒；楚襄宴集，而宋玉賦好色",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#38-p03",
+    "anchor": {
+      "chapter": "諧隱",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「大者興治濟身，其次弼違曉惑」明說隱語可以興治、救身、糾正過失並解除迷惑，承重在公共治理與勸諫作用（V）",
+    "excerpt": "讔者，隱也。遁辭以隱意，譎譬以指事也。昔還社求拯于楚師，喻眢井而稱麥麴；叔儀乞糧",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#38-p04",
+    "anchor": {
+      "chapter": "諧隱",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「謎也者，回互其辭，使昏迷也」界定謎語的構辭方式，後文品評歷代謎作是否纖巧、遠大，仍只在說此體的沿革與寫法",
+    "excerpt": "昔楚莊、齊威，性好隱語。至東方曼倩，尤巧辭述。但謬辭詆戲，無益規補。自魏代以來，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#38-p05",
+    "anchor": {
+      "chapter": "諧隱",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「會義適時，頗益諷誡」肯定適時嘲隱對公共勸戒的作用（V）；「空戲滑稽，德音大壞」則斷言空泛戲謔會敗壞德行（VII）",
+    "excerpt": "贊曰︰古之嘲隱，振危釋憊。雖有絲麻，無棄菅蒯。會義適時，頗益諷誡。空戲滑稽，德音",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#39-p01",
+    "anchor": {
+      "chapter": "諸子",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "II",
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「君子之處世，疾名德之不章」把人在世時名德能否彰顯列為自我關切（II）；「百姓之群居，苦紛雜而莫顯」直說個體在群居中容易被紛雜淹沒（V）",
+    "excerpt": "諸子者，入道見志之書。太上立德，其次立言。百姓之群居，苦紛雜而莫顯；君子之處世，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#39-p02",
+    "anchor": {
+      "chapter": "諸子",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「孟軻膺儒以磬折，莊周述道以翱翔」以下逐一登錄戰國諸子所承學派及其著述特色，是諸子體的源流與人物簿錄",
+    "excerpt": "逮及七國力政，俊乂蠭起。孟軻膺儒以磬折，莊周述道以翱翔，墨翟執儉确之教，尹文課名",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#39-p03",
+    "anchor": {
+      "chapter": "諸子",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「《七略》芬菲，九流鱗萃，殺青所編，百有八十餘家矣」記錄秦火之後諸子書的校錄、聚合與存量，是書目沿革考述",
+    "excerpt": "暨於暴秦烈火，勢炎崐岡，而煙燎之毒，不及諸子。逮漢成留思，子政讎校，於是《七略》",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#39-p04",
+    "anchor": {
+      "chapter": "諸子",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「其純粹者入矩，踳駁者出規」以下用書中語例區分合於經矩與虛誕駁雜兩類，落點是諸子文本的內容品評",
+    "excerpt": "然繁辭雖積，而本體易總，述道言治，枝條五經。其純粹者入矩，踳駁者出規。《禮記‧月",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#39-p05",
+    "anchor": {
+      "chapter": "諸子",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「棄孝廢仁，轘藥之禍，非虛至也」把背棄孝仁與實際災禍連在一起，是對道德選擇及其後果的斷語（VII）",
+    "excerpt": "至如商韓六蝨五蠹，棄孝廢仁，轘藥之禍，非虛至也。公孫之白馬孤犢，辭巧理拙，魏牟比",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#39-p06",
+    "anchor": {
+      "chapter": "諸子",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「孟荀所述，理懿而辭雅」以下逐家評比義理、辭采與篇章長短，是諸子書目及作品風格的登錄品題",
+    "excerpt": "研夫孟荀所述，理懿而辭雅；管晏屬篇，事覈而言練；列御寇之書，氣偉而采奇；鄒子之說",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#39-p07",
+    "anchor": {
+      "chapter": "諸子",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "I"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「身與時舛，志共道申，標心於萬古之上，而送懷於千載之下」說人即使與時代乖舛，仍能藉志業跨越時間而留下意義（I）",
+    "excerpt": "若夫陸賈《典語》，賈誼《新書》，揚雄《法言》，劉向《說苑》，王符《潛夫》，崔實《",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#39-p08",
+    "anchor": {
+      "chapter": "諸子",
+      "para_index": 8
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「丈夫處世，懷寶挺秀。辨雕萬物，智周宇宙」描寫人在世應展露所具才智並通辨萬物，承重在才能的發揮與成就（VIII）",
+    "excerpt": "丈夫處世，懷寶挺秀。辨雕萬物，智周宇宙。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#39-p09",
+    "anchor": {
+      "chapter": "諸子",
+      "para_index": 9
+    },
+    "psych_domains": [
+      "VII",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「立德何隱」主張德行不應隱沒，是人格實踐的要求（VII）；「含道必授」主張有所得便應傳授，落到教與傳承的召喚（VIII）",
+    "excerpt": "立德何隱，含道必授。條流殊述，若有區囿。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#40-p01",
+    "anchor": {
+      "chapter": "議對",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「議之言宜，審事宜也」先作名義訓釋，以下由經典、三代至戰國追溯議體來源，是文體溯源而非人的斷語",
+    "excerpt": "周爰諮謀，是謂為議。議之言宜，審事宜也。《易》之節卦，君子以制度數議德行。《周書",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#40-p02",
+    "anchor": {
+      "chapter": "議對",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「迄至有漢，始立駁議」以下說明駁議命名並列舉賈誼、主父、安國等作例，是體制沿革與作者登錄",
+    "excerpt": "迄至有漢，始立駁議。駁者，雜也。雜議不純，故曰駁也。自兩漢文明，楷式昭備，藹藹多",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#40-p03",
+    "anchor": {
+      "chapter": "議對",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「事實允當，可謂達議體矣」以下逐一品題張敏、郭躬、應劭、傅咸、陸機等人的議文工拙，屬選文定篇",
+    "excerpt": "若乃張敏之斷輕侮，郭躬之議擅誅，程曉之駁校事，司馬芝之議貨錢，何曾蠲出女之科，秦",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#40-p04",
+    "anchor": {
+      "chapter": "議對",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「郊祀必洞於禮，戎事必練於兵，田穀先曉於農，斷訟務精於律」規定議文作者應備的專門知識，仍是寫作技術要求",
+    "excerpt": "夫動先擬議，明用稽疑，所以敬慎群務，弛張治術。故其大體所資，必樞紐經典：採故實於",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#40-p05",
+    "anchor": {
+      "chapter": "議對",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「若文浮於理，末勝其本」所批評的是文辭掩埋事理的寫作失衡；秦女、楚珠只是用來說明本末倒置的譬喻",
+    "excerpt": "若不達政體，而舞筆弄文，支離構辭，穿鑿會巧，空騁其華，固為事實所擯，設得其理，亦",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#40-p06",
+    "anchor": {
+      "chapter": "議對",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「對策者，應詔而陳政也；射策者，探事而獻說也」界定兩種文體，後文登錄漢代取士沿革與文體功能",
+    "excerpt": "又對策者，應詔而陳政也；射策者，探事而獻說也。言中理準，譬射侯中的，二名雖殊，即",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#40-p07",
+    "anchor": {
+      "chapter": "議對",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「凡此五家，並前代之明範也」總結晁錯、董仲舒、公孫弘、杜欽、魯丕五家對策的繁簡與文質，是作品品題",
+    "excerpt": "觀晁氏之對，證驗古今，辭裁以辨，事通而贍，超升高第，信有徵矣。仲舒之對，祖述春秋",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#40-p08",
+    "anchor": {
+      "chapter": "議對",
+      "para_index": 8
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「及其來選，又稱疾不會，雖欲求文，弗可得也」寫應選者規避到場而使取士失效，並以「選失之異耳」把怪象歸因於制度失當（V）",
+    "excerpt": "魏晉以來，稍務文麗，以文紀實，所失已多，及其來選，又稱疾不會，雖欲求文，弗可得也",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#40-p09",
+    "anchor": {
+      "chapter": "議對",
+      "para_index": 9
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「或練治而寡文，或工文而疎治，對策所選，實屬通才」明說人的政務與文辭能力常有偏缺，取士所難在選出兼備的通才（VIII）",
+    "excerpt": "夫駁議偏辨，各執異見；對策揄揚，大明治道。使事深於政術，理密於時務，酌三五以鎔世",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#40-p10",
+    "anchor": {
+      "chapter": "議對",
+      "para_index": 10
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「斷理必綱，摛辭無懦」以贊語規定議文辨理、措辭應有的綱要與力度，落點仍是文體寫法",
+    "excerpt": "議惟疇政，名實相課。斷理必綱，摛辭無懦。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#40-p11",
+    "anchor": {
+      "chapter": "議對",
+      "para_index": 11
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「對策王庭，同時酌和。治體高秉，雅謨遠播」收束對策在朝廷陳治與傳播雅謨的文體功用，沒有另立人的命題",
+    "excerpt": "對策王庭，同時酌和。治體高秉，雅謨遠播。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#41-p01",
+    "anchor": {
+      "chapter": "辨騷",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「班固以為露才揚己，忿懟沉江」這是登錄班固的評語，不是文本自己的斷語；全段在比較淮南、班固、王逸等對《離騷》的褒貶及經典關係",
+    "excerpt": "自《風》、《雅》寢聲，莫或抽緒，奇文鬱起，其《離騷》哉！固已軒翥詩人之後，奮飛辭",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#41-p02",
+    "anchor": {
+      "chapter": "辨騷",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「觀茲四事，同於《風》、《雅》者也」與「摘此四事，異乎經典者也」分類《楚辭》合經、異經的題材與文辭，落點是作品判準",
+    "excerpt": "將覈其論，必徵言焉。故其陳堯舜之耿介，稱湯武之祗敬，典誥之體也；譏桀紂之猖披，傷",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#41-p03",
+    "anchor": {
+      "chapter": "辨騷",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「其衣被詞人，非一代也」考述《楚辭》對後世作者的影響，「酌奇而不失其真，翫華而不墜其實」則是取法寫作的規定",
+    "excerpt": "自《九懷》以下，遽躡其跡，而屈宋逸步，莫之能追。故其敘情怨，則鬱伊而易感；述離居",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#41-p04",
+    "anchor": {
+      "chapter": "辨騷",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「不有屈原，豈見《離騷》」是屈原與作品在文學史上的關係判斷，「驚才風逸」亦只在品題其文才",
+    "excerpt": "不有屈原，豈見《離騷》。驚才風逸，壯志煙高。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#41-p05",
+    "anchor": {
+      "chapter": "辨騷",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「金相玉式，豔溢錙毫」以贊語評《離騷》的文質與艷采，「情理實勞」在此也是作品情理的總評",
+    "excerpt": "山川無極，情理實勞，金相玉式，豔溢錙毫。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#42-p01",
+    "anchor": {
+      "chapter": "通變",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「非文理之數盡，乃通變之術疎耳」把寫作停滯歸因於未通變，草木、綆短與足疲皆服務於文體常變的技術命題",
+    "excerpt": "夫設文之體有常，變文之數無方，何以明其然耶？凡詩賦書記，名理相因，此有常之體也；",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#42-p02",
+    "anchor": {
+      "chapter": "通變",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「黃唐淳而質，虞夏質而辨，商周麗而雅」以下逐代排比文風；「競今疎古，風昧氣衰也」仍在解釋文體遞變",
+    "excerpt": "是以九代詠歌，志合文則。黃歌斷竹，質之至也；唐歌在昔，則廣於黃世；虞歌卿雲，則文",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#42-p03",
+    "anchor": {
+      "chapter": "通變",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「多略漢篇，師範宋集」觀察當時學文者近附遠疎，「矯訛翻淺，還宗經誥」則規定取法古今的寫作路徑",
+    "excerpt": "今才穎之士，刻意學文，多略漢篇，師範宋集，雖古今備閱，然近附而遠疎矣。夫青生於藍",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#42-p04",
+    "anchor": {
+      "chapter": "通變",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「此並廣寓極狀，而五家如一」以枚乘、相如、馬融、揚雄、張衡的相似句證明文辭相循，是歷代文風用例登錄",
+    "excerpt": "夫誇張聲貌，則漢初已極，自茲厥後，循環相因，雖軒翥出轍，而終入籠內。枚乘《七發》",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#42-p05",
+    "anchor": {
+      "chapter": "通變",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「宜宏大體，先博覽以精閱，總綱紀而攝契」規定通變作文要先掌握大體、再調和質文；所斥偏解也限於此項手藝",
+    "excerpt": "是以規略文統，宜宏大體，先博覽以精閱，總綱紀而攝契，然後拓衢路，置關鍵，長轡遠馭",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#42-p06",
+    "anchor": {
+      "chapter": "通變",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「變則可久，通則不乏」以贊語收束文章因通變而長久不竭的原理，結論落在文律與創作",
+    "excerpt": "文律運周，日新其業。變則可久，通則不乏。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#42-p07",
+    "anchor": {
+      "chapter": "通變",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「望今制奇，參古定法」規定寫作者觀今求新、參古定法，是通變方法的簡要口訣",
+    "excerpt": "趨時必果，乘機無怯。望今制奇，參古定法。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#43-p01",
+    "anchor": {
+      "chapter": "銘箴",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「昔帝軒刻輿几以弼違，大禹勒筍簴而招諫」記領導者以銘刻糾偏並主動招納諫言，把公共權力置於勸戒與問責之下（V）",
+    "excerpt": "昔帝軒刻輿几以弼違，大禹勒筍簴而招諫，成湯盤盂，著日新之規，武王戶席，題必戒之訓",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#43-p02",
+    "anchor": {
+      "chapter": "銘箴",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「天子令德，諸侯計功，大夫稱伐」是引用臧武仲來界定銘文按身分記德、功、伐的內容，後文皆為器銘例證",
+    "excerpt": "故銘者，名也，觀器必也正名，審用貴乎盛德。蓋臧武仲之論銘也，曰：「天子令德，諸侯",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#43-p03",
+    "anchor": {
+      "chapter": "銘箴",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「夸誕示後，吁可笑也！」直接把秦昭等人刻石向後世夸示的行為判為夸誕可笑，是對虛榮品格的否定（VII）",
+    "excerpt": "若乃飛廉有石槨之錫，靈公有蒿里之謚。銘發幽石，吁可怪矣！趙靈勒跡於番吾，秦昭刻博",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#43-p04",
+    "anchor": {
+      "chapter": "銘箴",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「蔡邕銘思，獨冠古今」以下評橋公鉞銘、朱穆鼎銘的體式與長短，是歷代銘作的作品品題",
+    "excerpt": "至于始皇勒岳，政暴而文澤，亦有疎通之美焉。若班固燕然之勒，張昶華陰之碣，序亦盛矣",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#43-p05",
+    "anchor": {
+      "chapter": "銘箴",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「事非其物，繁略違中」以下逐一評論敬通、崔駰、李尤、魏文、張載器銘是否得宜，是選文定篇的工拙登錄",
+    "excerpt": "至如敬通雜器，準矱武銘，而事非其物，繁略違中。崔駰品物，讚多戒少；李尤積篇，義儉",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#43-p06",
+    "anchor": {
+      "chapter": "銘箴",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「箴者，所以攻疾防患，喻鍼石也」用治病作譬喻來釋箴名，以下追溯三代箴文，並非在寫人的疾病身體",
+    "excerpt": "箴者，所以攻疾防患，喻鍼石也。斯文之興，盛於三代。夏商二箴，餘句頗存。及周之辛甲",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#43-p07",
+    "anchor": {
+      "chapter": "銘箴",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「戰代以來，棄德務功，銘辭代興，箴文委絕」把箴體衰落奠基在世人捨棄德行、專務功業的價值選擇上（VII）",
+    "excerpt": "迄至春秋，微而未絕。故魏絳諷君於后羿，楚子訓民於在勤。戰代以來，棄德務功，銘辭代",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#43-p08",
+    "anchor": {
+      "chapter": "銘箴",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「凡斯繼作，鮮有克衷」以下評潘勖、溫嶠、王濟、潘尼、王朗諸箴的繁簡、正蕪與施用，是作品品題",
+    "excerpt": "至於潘勖《符節》，要而失淺；溫嶠《侍臣》，博而患繁；王濟《國子》，引廣事雜；潘尼",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#43-p09",
+    "anchor": {
+      "chapter": "銘箴",
+      "para_index": 9
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「箴全禦過，故文資確切；銘兼褒賛，故體貴弘潤」區分兩體功能並規定取事、摛文方法，末句亦是對秉文者的寫作要求",
+    "excerpt": "夫箴誦於官，銘題於器，名目雖異，而警戒實同，箴全禦過，故文資確切；銘兼褒賛，故體",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#43-p10",
+    "anchor": {
+      "chapter": "銘箴",
+      "para_index": 10
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「箴惟德軌。有佩於言，無鑒於水」不只說箴的體用，也主張人應把警戒之言佩持在身，作為德行的準繩（VII）",
+    "excerpt": "銘實器表，箴惟德軌。有佩於言，無鑒於水。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#43-p11",
+    "anchor": {
+      "chapter": "銘箴",
+      "para_index": 11
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「秉茲貞勵，警乎立履」勸人持守貞正勉勵並警醒自己的立身行履，是直接的品格修養要求（VII）",
+    "excerpt": "秉茲貞勵，警乎立履。義典則弘，文約為美。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#44-p01",
+    "anchor": {
+      "chapter": "鎔裁",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「規範本體謂之鎔，翦截浮詞謂之裁」界定鎔意裁辭的技術；駢拇、枝指與贅肬都只是文章枝贅的身體譬喻",
+    "excerpt": "情理設位，文采行乎其中。剛柔以立本，變通以趨時。立本有體，意或偏長；趨時無方，辭",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#44-p02",
+    "anchor": {
+      "chapter": "鎔裁",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「先標三準：履端於始，則設情以位體；舉正於中，則酌事以取類；歸餘於終，則撮辭以舉要」列作文布局步驟，是鎔裁手藝",
+    "excerpt": "凡思緒初發，辭采苦雜，心非權衡，勢必輕重。是以草創鳴一作「鴻」筆，先標三準：履端",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#44-p03",
+    "anchor": {
+      "chapter": "鎔裁",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「句有可削，足見其疎；字不得減，乃知其密」以下辨析繁略、敷刪的得失，才思之別也只用來說明這項寫作操作",
+    "excerpt": "故三準既定，次討字句。句有可削，足見其疎；字不得減，乃知其密。精論要語，極略之體",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#44-p04",
+    "anchor": {
+      "chapter": "鎔裁",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "IV"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「蓋崇友于耳」把陸雲明知陸機文繁仍加稱許的原因，明指為看重兄弟之情，承重在手足親情（IV）",
+    "excerpt": "昔謝艾王濟，西河文士，張駿以為艾繁而不可刪，濟略而不可益，若二子者，可謂練鎔裁而",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#44-p05",
+    "anchor": {
+      "chapter": "鎔裁",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「辭如川流，溢則汎濫」以門戶、川流譬喻篇章彼此照應及辭語過量，仍是篇章剪裁原理",
+    "excerpt": "篇章戶牖，左右相瞰。辭如川流，溢則汎濫。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#44-p06",
+    "anchor": {
+      "chapter": "鎔裁",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「權衡損益，斟酌濃淡。芟繁剪穢」是刪繁調節文辭的技術口訣，「弛於負擔」也只是文章減負的比喻",
+    "excerpt": "權衡損益，斟酌濃淡。芟繁剪穢，弛於負擔。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#45-p01",
+    "anchor": {
+      "chapter": "附會",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「謂總文理，統首尾，定與奪，合涯際」界定附會如何統合全篇；神明、骨髓、肌膚、聲氣全是文章構件的身體譬喻",
+    "excerpt": "何謂附會？謂總文理，統首尾，定與奪，合涯際，彌綸一篇，使雜而不越者也。若築室之須",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#45-p02",
+    "anchor": {
+      "chapter": "附會",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「附辭會義，務總綱領」以下規定篇章統攝繁理的方法，畫者與射者的失誤只是用來說明不可因細巧而失全體",
+    "excerpt": "凡大體文章，類多枝派，整派者依源，理枝者循幹，是以附辭會義，務總綱領，驅萬塗於同",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#45-p03",
+    "anchor": {
+      "chapter": "附會",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「才分不同，思緒各異」並以「通製者蓋寡，接附者甚衆」斷言人的統整能力有差別且能通盤規畫者稀少；抽掉文章手藝後仍是才能發揮的判斷（VIII）",
+    "excerpt": "夫文變無一作「多」方，意見浮雜，約則義孤，博則辭叛，率故多尤，需為事賊。且才分不",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#45-p04",
+    "anchor": {
+      "chapter": "附會",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「附會巧拙，相去遠哉」以張湯、虞松、倪寬、鍾會等改文得失驗證篇章附會之難，落點仍是寫作者的手藝工拙",
+    "excerpt": "故善附者異旨如肝膽，拙會者同音如胡越，改章難於造篇，易字艱於代句，此已然之驗也。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#45-p05",
+    "anchor": {
+      "chapter": "附會",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「原始要終，疎條布葉」以贊語概括篇章從首至尾安排枝條脈絡的附會方法",
+    "excerpt": "篇統間關，情數稠疊。原始要終，疎條布葉。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#45-p06",
+    "anchor": {
+      "chapter": "附會",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「道味相附，懸緒自接。如樂之和，心聲克協」稱述義理、文味與線索和諧相接；心聲在此是篇章協調的寫作術語",
+    "excerpt": "道味相附，懸緒自接。如樂之和，心聲克協。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#46-p01",
+    "anchor": {
+      "chapter": "隱秀",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「隱也者，文外之重旨者也；秀也者，篇中之獨拔者也」是在界定隱、秀兩種文辭效果，沒有把人的狀態當作依據或結論",
+    "excerpt": "夫心術之動遠矣，文情之變深矣，源奧而派生，根盛而穎峻，是以文之英蕤[1]，有秀有",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#46-p02",
+    "anchor": {
+      "chapter": "隱秀",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「始正而末奇，內明而外潤」以下以珠玉、煙靄與容華說明隱秀的技法和效果；人物與身體形象只作譬喻，落點仍在文辭",
+    "excerpt": "夫隱之為體，義主一作「生」文外[2]，秘響傍通，伏采潛發，譬爻象之變互體，川瀆之",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#46-p03",
+    "anchor": {
+      "chapter": "隱秀",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "IX"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「嘔心吐膽，不足語窮；煆歲煉年，奚能喻苦」直接把長期求奇臻美寫成耗身受苦的處境，承重在人的苦難與身體負荷（IX）",
+    "excerpt": "夫立意之士，務欲造奇，每馳心於玄默之表；工辭之人，必欲臻美，恆溺思於佳麗之鄉。嘔",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#46-p04",
+    "anchor": {
+      "chapter": "隱秀",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "本段以「氣寒而事傷，此覉旅之怨曲也」品析秀句，並比較自然成妙與潤色取美；採秀句舉例一讀，未把羈旅者處境作為本段自己的斷語",
+    "excerpt": "「凉飈動秋草，邊馬有歸心」，氣寒而事傷，此覉旅之怨曲也。凡文集勝篇，不盈十一；篇",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#46-p05",
+    "anchor": {
+      "chapter": "隱秀",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「深文隱蔚，餘味曲包。辭生互體，有似變爻」概括隱辭的複意與餘味，是文辭技法的收束，沒有落到人",
+    "excerpt": "深文隱蔚，餘味曲包。辭生互體，有似變爻。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#46-p06",
+    "anchor": {
+      "chapter": "隱秀",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「動心驚耳」把秀辭的結果明說為使人的內心受感、感官驚動，不只停在篇章形式，承重於情緒與內在反應（VI）",
+    "excerpt": "言之秀矣，萬慮一交。動心驚耳，逸響笙匏。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#47-p01",
+    "anchor": {
+      "chapter": "雜文",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「藻溢於辭，辭盈乎氣」以智術、博雅品題作者的文才，結論是文辭能日新殊致，仍屬誰寫得好的文學評騭",
+    "excerpt": "智術之子，博雅之人，藻溢於辭，辭盈乎氣。苑囿文情，故日新殊致。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#47-p02",
+    "anchor": {
+      "chapter": "雜文",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "observation",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「蓋七竅所發，發乎嗜欲，始邪末正，所以戒膏粱之子也」明說嗜欲須由邪返正並以作品勸戒貴家子弟，是品格教化的判斷（VII）",
+    "excerpt": "宋玉含才，頗亦負俗，始造對問，以申其志，放懷寥廓，氣實使文。及枚乘摛豔，首製《七",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#47-p03",
+    "anchor": {
+      "chapter": "雜文",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「雖迭相祖述，然屬篇之高者也」總結東方朔至郭璞等人的作品沿襲與工拙，是歷代作品登錄和品題，沒有可指認的人生行為或後果",
+    "excerpt": "自對問以後，東方朔效而廣之，名為「客難」。託古慰志，疎而有辨。揚雄《解嘲》，雜以",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#47-p04",
+    "anchor": {
+      "chapter": "雜文",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "XIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「身挫憑乎道勝，時屯寄於情泰」說人在受挫、困頓時憑道自持並寄心於安泰，是逆境中的安頓與修復（XIII）",
+    "excerpt": "至於陳思《客問》，辭高而理疎；庾敳《客咨》，意榮而文悴。斯類甚眾，無所取矣。原茲",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#47-p05",
+    "anchor": {
+      "chapter": "雜文",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「作者繼踵」以下逐一列舉《七激》《七依》《七辨》等作品及其文辭特色，是作者與作品的歷史登錄",
+    "excerpt": "自《七發》以下，作者繼踵。觀枚氏首唱，信獨拔而偉麗矣。及傅毅《七激》，會清要之工",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#47-p06",
+    "anchor": {
+      "chapter": "雜文",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "VI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「甘意搖骨體，豔詞動魂識」直接說甘美豔麗的聲色會搖動人的身體與心識，承重於感受和內在反應（VI）",
+    "excerpt": "自桓麟《七說》以下，左思《七諷》以上，枝附影從，十有餘家。或文麗而義暌，或理粹而",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#47-p07",
+    "anchor": {
+      "chapter": "雜文",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「欲穿明珠，多貫魚目」以壽陵學步、東施效顰譏評擬作不工，譬喻的落點仍是作品優劣，沒有另立關於人的結論",
+    "excerpt": "自《連珠》以下，擬者間出。杜篤賈逵之曹，劉珍潘勖之輩，欲穿明珠，多貫魚目。可謂壽",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#47-p08",
+    "anchor": {
+      "chapter": "雜文",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「夫文小易周，思閑可贍」到「可稱珠耳」是在說短篇連珠如何做到義明詞淨，屬篇章技術與作品品評",
+    "excerpt": "唯士衡運思，理新文敏，而裁章置句，廣於舊篇。豈慕朱仲四寸之璫乎！夫文小易周，思閑",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#47-p09",
+    "anchor": {
+      "chapter": "雜文",
+      "para_index": 9
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「名號多品」以下把典誥、誓問、篇章、歌謠等類聚到雜文之區，是文體名目與範圍的分類整理",
+    "excerpt": "詳夫漢來雜文，名號多品。或典誥誓問，或覽略篇章，或曲操弄引，或吟諷謠詠，總括其名",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#47-p10",
+    "anchor": {
+      "chapter": "雜文",
+      "para_index": 10
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「偉矣前修，學堅多飽。負文餘力，飛靡弄巧」是對前代雜文作者學力與文巧的贊語，屬純人物品題而無事件",
+    "excerpt": "偉矣前修，學堅多飽。負文餘力，飛靡弄巧。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#47-p11",
+    "anchor": {
+      "chapter": "雜文",
+      "para_index": 11
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「枝辭攢映」與「慕嚬之心，於焉祇攪」收束雜文枝辭及模擬失真的批評，落點是文體和擬作成敗",
+    "excerpt": "枝辭攢映，嚖若參昴。慕嚬之心，於焉祇攪。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#48-p01",
+    "anchor": {
+      "chapter": "頌讚",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「頌者，容也，所以美盛德而述形容也」以下溯源並解釋頌體功能；「頌主告神」只是文體用來告神的功能描述，不構成信仰領域",
+    "excerpt": "四始之至，頌居其極。頌者，容也，所以美盛德而述形容也。昔帝嚳之世，咸墨為頌，以歌",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#48-p02",
+    "anchor": {
+      "chapter": "頌讚",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「夫民各有心，勿壅惟口」承認民眾各有意見並主張不可堵塞其言路，直接涉及公共表達與社會權力（V）",
+    "excerpt": "夫民各有心，勿壅惟口。晉輿之稱原田，魯民之刺裘鞸，直言不詠，短辭以諷，邱明子高，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#48-p03",
+    "anchor": {
+      "chapter": "頌讚",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「頌惟典雅，辭必清鑠」以下規定頌體須清雅而不可流於華侈，全文承重在這一文體應如何寫",
+    "excerpt": "原夫頌惟典雅，辭必清鑠，敷寫似賦，而不入華侈之區；敬慎如銘，而異乎規戒之域；揄揚",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#48-p04",
+    "anchor": {
+      "chapter": "頌讚",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「讚者，明也，助也」以下訓釋名稱並登錄虞舜、史書紀傳及郭璞諸用例，是讚體的名義與源流考述",
+    "excerpt": "讚者，明也，助也。昔虞舜之祀，樂正重讚，蓋唱發之辭也。及益讚於禹，伊陟讚於巫咸，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#48-p05",
+    "anchor": {
+      "chapter": "頌讚",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「必結言於四字之句，盤桓乎數韻之辭」規定讚體篇幅、句式和收束方法，沒有另說人是什麼樣的",
+    "excerpt": "然本其為義，事在獎歎，所以古來篇體，促而不廣，必結言於四字之句，盤桓乎數韻之辭；",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#48-p06",
+    "anchor": {
+      "chapter": "頌讚",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「容體底頌，勳業垂讚。鏤影摛文，聲理有爛」概括頌與讚記述形容勳業的文體功能及聲文效果",
+    "excerpt": "容體底頌，勳業垂讚。鏤影摛文，聲理有爛。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#48-p07",
+    "anchor": {
+      "chapter": "頌讚",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「年積愈遠，音徽如旦」說讚文使聲名留存，後句批評降格品物而成炫辭玩物，落點仍是讚體功用與流變",
+    "excerpt": "年積愈遠，音徽如旦。降及品物，炫辭作翫。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#49-p01",
+    "anchor": {
+      "chapter": "風骨",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「結言端直，則文骨成焉；意氣駿爽，則文風清焉」是在界定文章風骨及成文條件，心、志、氣在此皆是寫作術語",
+    "excerpt": "《詩》總六義，風冠其首，斯乃化感之本源，志氣之符契也。是以怊悵述情，必始乎風，沈",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#49-p02",
+    "anchor": {
+      "chapter": "風骨",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「練於骨者，析辭必精」以下列出有骨、無骨、有風、無風的文字徵驗，並以「可以定文」落在評文和作文方法",
+    "excerpt": "故練於骨者，析辭必精，深乎風者，述情必顯。捶字堅而難移，結響凝而不滯，此風骨之力",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#49-p03",
+    "anchor": {
+      "chapter": "風骨",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "II"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「氣之清濁有體，不可力強而致」把清濁氣質說成個體既有且不能勉強取得的差異，是人的稟性與自我差異（II）",
+    "excerpt": "故魏文稱文以氣為主，氣之清濁有體，不可力強而致；故其論孔融，則云體氣高妙；論徐幹",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#49-p04",
+    "anchor": {
+      "chapter": "風骨",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「明者弗授，學者弗師」把有識者不傳授、學習者不從師指出為失序原因，直接涉及教學與學習能否成立（VIII）",
+    "excerpt": "若夫鎔鑄經典之範，翔集子史之術，洞曉情變，曲昭文體，然後能孚甲新意，雕畫奇辭。昭",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#49-p05",
+    "anchor": {
+      "chapter": "風骨",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「情與氣偕，辭共體並。文明以健」濃縮情氣、辭體與健全文風的配合，仍是風骨的篇章技術命題",
+    "excerpt": "情與氣偕，辭共體並。文明以健，珪璋乃聘。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#49-p06",
+    "anchor": {
+      "chapter": "風骨",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「蔚彼風力，嚴此骨鯁。才鋒峻立，符采克炳」以贊語收束風骨與辭采的文章效果，未另提出人的生活斷語",
+    "excerpt": "蔚彼風力，嚴此骨鯁。才鋒峻立，符采克炳。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#50-p01",
+    "anchor": {
+      "chapter": "養氣",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "IX"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「率志委和，則理融而情暢；鑽礪過分，則神疲而氣衰；此性情之數也」明說過度用心會使人神疲氣衰，是身心耗損的規律（IX）",
+    "excerpt": "昔王充著述，制養氣之篇，驗己而作，豈虛造哉！夫耳目鼻口，生之役也；心慮言辭，神之",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#50-p02",
+    "anchor": {
+      "chapter": "養氣",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "IX",
+      "X"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「器分有限，智用無涯，或慚鳧企鶴，瀝辭鐫思，於是精氣內銷，有似尾閭之波，神志外傷，同乎牛山之木」指出逞智過度造成精氣與神志損傷（IX）；「凡童少鑒淺而志盛，長艾識堅而氣衰」直述年歲增長伴隨氣力衰退（X）",
+    "excerpt": "凡童少鑒淺而志盛，長艾識堅而氣衰，志盛者思銳以勝勞，氣衰者慮密以傷神，斯實中人之",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#50-p03",
+    "anchor": {
+      "chapter": "養氣",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "IX"
+    ],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「若銷鑠精膽，蹙迫和氣，秉牘以驅齡，灑翰以伐性」反對以寫作消耗精力、和氣與生命，承重在身心受損（IX）",
+    "excerpt": "夫學業在勤，功庸弗怠，故有錐股自厲，和熊以苦之人，志於文也，則申寫鬱滯，故宜從容",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#50-p04",
+    "anchor": {
+      "chapter": "養氣",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "XIII"
+    ],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「逍遙以針勞，談笑以藥勌」把放鬆、談笑明定為解除勞倦的方法，是人在疲憊後如何修復與安頓（XIII）",
+    "excerpt": "且夫思有利鈍，時有通塞，沐則心覆，且或反常，神之方昏，再三愈黷。是以吐納文蓺，務",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#50-p05",
+    "anchor": {
+      "chapter": "養氣",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "IX"
+    ],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「勞矣千想。元神宜寶，素氣資養」承認萬般思慮使人疲勞，並主張珍護精神、養育元氣，直接關涉身心健康（IX）",
+    "excerpt": "紛哉萬象，勞矣千想。元神宜寶，素氣資養。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#50-p06",
+    "anchor": {
+      "chapter": "養氣",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "XIII"
+    ],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「無擾文慮，鬱此精爽」以水停火靜為喻，主張不擾心慮而保存清明精神，是維持內在安定的工夫（XIII）",
+    "excerpt": "水停以鑒，火靜而朗。無擾文慮，鬱此精爽。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#51-p01",
+    "anchor": {
+      "chapter": "體性",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "II"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「然才有庸俊，氣有剛柔，學有淺深，習有雅鄭，並情性所鑠，陶染所凝」明說人的差異由情性與後天陶染凝成，是個體稟性差異（II）",
+    "excerpt": "夫情動而言形，理發而文見，蓋沿隱以至顯，因內而符外者也。然才有庸俊，氣有剛柔，學",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#51-p02",
+    "anchor": {
+      "chapter": "體性",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「則數窮八體」以下列舉典雅、遠奧、精約等八種文章風格；本段是風格分類名目，不是對人的分類，也不是可計算程序",
+    "excerpt": "故辭理庸俊，莫能翻其才；風趣剛柔，寧或改其氣；事義淺深，未聞乖其學；體式雅鄭，鮮",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#51-p03",
+    "anchor": {
+      "chapter": "體性",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「典雅者」至「輕靡者」逐項解釋八體的文字特徵及彼此反對關係，是文章風格釋義",
+    "excerpt": "典雅者，鎔式經誥，方軌儒門者也；遠奧者，馥采典文，經理玄宗者也；精約者，覈字省句",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#51-p04",
+    "anchor": {
+      "chapter": "體性",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「若夫八體屢遷，功以學成，才力居中，肇自血氣」把學習所得之功與天生才力分別說明，直接論人的學習與才能來源（VIII）",
+    "excerpt": "若夫八體屢遷，功以學成，才力居中，肇自血氣；氣以實志，志以定言，吐納英華，莫非情",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#51-p05",
+    "anchor": {
+      "chapter": "體性",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「夫才由天資，學慎始習」區分天賦才能與起初學習，並主張從童蒙階段培養，是才能與教育成就的命題（VIII）",
+    "excerpt": "夫才由天資，學慎始習，斲梓染絲，功在初化，成綵定，難可翻移。故童子雕琢，必先雅製",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#51-p06",
+    "anchor": {
+      "chapter": "體性",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "II"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「才性異區，文辭繁詭」明說人的才質與性情分屬不同區域，並以此解釋文辭多樣，是個體稟性的差異（II）",
+    "excerpt": "才性異區，文辭繁詭。辭為膚根，志實骨髓。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#51-p07",
+    "anchor": {
+      "chapter": "體性",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「習亦凝真，功沿漸靡」把反覆學習說成能凝定實質、功力則循序漸進，直接落到人的學習與成就形成（VIII）",
+    "excerpt": "雅麗黼黻，淫巧朱紫。習亦凝真，功沿漸靡。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#52-p01",
+    "anchor": {
+      "chapter": "麗辭",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「夫心生文辭，運裁百慮，高下相須，自然成對」只用心思說明對偶文辭如何生成，離開文章便失去命題，屬麗辭技術側",
+    "excerpt": "造化賦形，支體必雙，神理為用，事不孤立。夫心生文辭，運裁百慮，高下相須，自然成對",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#52-p02",
+    "anchor": {
+      "chapter": "麗辭",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「自揚馬張蔡，崇盛麗辭」以下登錄漢魏晉對偶由自然到精密的沿革，並品評契機與浮假，是文學史及作品工拙",
+    "excerpt": "至於詩人偶章，大夫聯辭，奇偶適變，不勞經營。自揚馬張蔡，崇盛麗辭，如宋畫吳冶，刻",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#52-p03",
+    "anchor": {
+      "chapter": "麗辭",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「凡有四對：言對為易，事對為難，反對為優，正對為劣」建立的是四種對偶的分類及用例，不是人的心理分類",
+    "excerpt": "故麗辭之體，凡有四對：言對為易，事對為難，反對為優，正對為劣。言對者，雙比空辭者",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#52-p04",
+    "anchor": {
+      "chapter": "麗辭",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「若斯重出，即對句之駢枝也」引用張華、劉琨詩句示範對偶中的詞語重出，是具體文例的技術評判",
+    "excerpt": "張華詩稱︰“游雁比翼翔，歸鴻知接翮。“劉琨詩言：“宣尼悲獲麟，西狩泣孔丘。“若斯",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#52-p05",
+    "anchor": {
+      "chapter": "麗辭",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「言對為美，貴在精巧；事對所先，務在允當」以下規定對偶配事、奇偶與章句配置應如何處理，落點全在手藝",
+    "excerpt": "是以言對為美，貴在精巧；事對所先，務在允當。若兩事相配，而優劣不均，是驥在左驂，",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#52-p06",
+    "anchor": {
+      "chapter": "麗辭",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「體植必兩，辭動有配。左提右挈，精味兼載」以贊語概括對偶須成雙相配的文辭原理",
+    "excerpt": "體植必兩，辭動有配。左提右挈，精味兼載。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  },
+  {
+    "para_id": "wenxin-diaolong#52-p07",
+    "anchor": {
+      "chapter": "麗辭",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「炳爍聯華，鏡靜含態。玉潤雙流，如彼珩珮」描寫成對文辭聯華雙流的審美效果，沒有把人的狀態當依據或結論",
+    "excerpt": "炳爍聯華，鏡靜含態。玉潤雙流，如彼珩珮。",
+    "tagged_by": "gpt-5.6-sol",
+    "tagged_at": "2026-08-26T06:46:03+08:00"
+  }
+]

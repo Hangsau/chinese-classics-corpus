@@ -2,9 +2,9 @@
   "domain": "VI",
   "name_zh": "情緒與內在生活",
   "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡",
-  "generated_at": "2026-08-25T14:17:27+00:00",
-  "para_count": 684,
-  "book_count": 31,
+  "generated_at": "2026-08-25T22:49:46+00:00",
+  "para_count": 699,
+  "book_count": 32,
   "surveyed_zero_hit": [
     "dongmingji",
     "duduan",
@@ -8649,6 +8649,197 @@
       ],
       "excerpt": "攻者不下十餘萬之眾，其有必救之軍者，則有必守之城；無必救之軍者，則無必守之城。若",
       "note": "對照救援可信時人人血戰與救援不實時愚夫蠢婦守城落淚，且明言這是人之常情，直接描寫內在情緒反應。",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "情采",
+      "para_index": 7,
+      "para_id": "wenxin-diaolong#13-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "吳錦好渝，舜英徒豔。繁采寡情，味之必厭。",
+      "note": "「繁采寡情，味之必厭」不只判文章繁豔少情，也明言品味者必然生厭，將文采過盛的後果落到人的情緒反應上（VI）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "明詩",
+      "para_index": 1,
+      "para_id": "wenxin-diaolong#16-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大舜云︰詩言志，歌永言，聖謨所析，義已明矣。是以在心為志，發言為詩，舒文載實，其",
+      "note": "「人稟七情，應物斯感，感物吟志，莫非自然」直接斷言人具有七情，接物便自然感發，是人的情緒與內在反應（VI）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "明詩",
+      "para_index": 5,
+      "para_id": "wenxin-diaolong#16-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "民生而志，詠歌所含。興資皇世，風流二南。",
+      "note": "「民生而志，詠歌所含」把志意說成人生而具有、由歌詠承載的內在內容，是對人之情志的斷語（VI）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "時序",
+      "para_index": 1,
+      "para_id": "wenxin-diaolong#17-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "時運交移，質文代變，古今情理，如可言乎！昔在陶唐，德盛化鈞，野老吐何力之談，郊童",
+      "note": "「風動於上，而波震於下者」把上位者的政治風氣如何傳到民間說成因果（V）；「幽厲昬而板蕩怒，平王微而黍離哀」把亂政、衰微所引出的怒哀寫成群體內在反應（VI）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "書記",
+      "para_index": 4,
+      "para_id": "wenxin-diaolong#18-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "詳總書體，本在盡言，言以散鬱陶，託風采，故宜滌暢以任氣，優柔以懌懷。文明從容，亦",
+      "note": "「言以散鬱陶，託風采，故宜滌暢以任氣，優柔以懌懷」明說言語能疏散鬱結並使心懷和悅，落到人的情緒調節（VI）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "樂府",
+      "para_index": 2,
+      "para_id": "wenxin-diaolong#19-p02",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "夫樂本心術，故響浹肌髓，先王慎焉，務塞淫濫。敷訓胄子，必歌九德，故能情感七始，化",
+      "note": "「先王慎焉，務塞淫濫。敷訓胄子，必歌九德」把音樂置於教化與治理之中（V）；「夫樂本心術，故響浹肌髓」明說聲音作用於人的內心感受（VI）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "檄移",
+      "para_index": 3,
+      "para_id": "wenxin-diaolong#20-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫兵以定亂，莫敢自專，天子親戎，則稱恭行天罰；諸侯御師則云肅將王誅。故分閫推轂，",
+      "note": "「搖奸宄之膽，訂信慎之心」把檄文作用明確落到敵方膽懼與己方心志的改變，是人的情緒及內在反應（VI）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "物色",
+      "para_index": 1,
+      "para_id": "wenxin-diaolong#23-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "春秋代序，陰陽慘舒，物色之動，心亦搖焉。蓋陽氣萌而玄駒步，陰律凝而丹鳥羞，微蟲猶",
+      "note": "「情以物遷，辭以情發。一葉且或迎意，蟲聲有足引心」明說人的情意會隨外物遷動，葉與蟲聲足以引發內心感受（VI）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "物色",
+      "para_index": 6,
+      "para_id": "wenxin-diaolong#23-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "山沓水匝，樹雜雲合。目既往還，心亦吐納。",
+      "note": "「目既往還，心亦吐納」把人在山水雲樹間反覆觀看時，內心也隨之吸納、發抒的經驗直接說出（VI）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "物色",
+      "para_index": 7,
+      "para_id": "wenxin-diaolong#23-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "春日遲遲，秋風颯颯。情往似贈，興來如答。",
+      "note": "「情往似贈，興來如答」把人面對春日秋風時情感外往、感興回應的內在互動直接寫出（VI）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "詔策",
+      "para_index": 5,
+      "para_id": "wenxin-diaolong#33-p05",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "逮光武撥亂，留意斯文，而造次喜怒，時或偏濫。詔賜鄧禹，稱司徒為堯，敕責侯霸，稱黃",
+      "note": "「而造次喜怒，時或偏濫」直接指出光武在倉促間受喜怒支配而失於偏濫，是對情緒狀態及失控的判斷（VI）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "諧讔",
+      "para_index": 1,
+      "para_id": "wenxin-diaolong#37-p01",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "芮良夫之詩云：自有肺腸，俾民卒狂。夫心險如山，口壅若川，怨怒之情不一，歡謔之言無",
+      "note": "「夫心險如山，口壅若川，怨怒之情不一，歡謔之言無方」直接把隱蔽難宣的內心、怨怒與歡謔並列為諧辭所出的人的情緒狀態（VI）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "諧隱",
+      "para_index": 1,
+      "para_id": "wenxin-diaolong#38-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "芮良夫之詩云︰\"自有肺腸，俾民卒狂。\"夫心險如山，口壅若川，怨怒之情不一，歡謔之",
+      "note": "「夫心險如山，口壅若川，怨怒之情不一，歡謔之言無方」把諧辭所出的怨怒、歡謔落到人的內在情緒（VI）；「臧紇喪師，國人造侏儒之歌；并嗤戲形貌，內怨為俳也」寫群眾用嘲歌表達公共怨懟（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "隱秀",
+      "para_index": 6,
+      "para_id": "wenxin-diaolong#46-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "言之秀矣，萬慮一交。動心驚耳，逸響笙匏。",
+      "note": "「動心驚耳」把秀辭的結果明說為使人的內心受感、感官驚動，不只停在篇章形式，承重於情緒與內在反應（VI）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "雜文",
+      "para_index": 6,
+      "para_id": "wenxin-diaolong#47-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "自桓麟《七說》以下，左思《七諷》以上，枝附影從，十有餘家。或文麗而義暌，或理粹而",
+      "note": "「甘意搖骨體，豔詞動魂識」直接說甘美豔麗的聲色會搖動人的身體與心識，承重於感受和內在反應（VI）",
       "co_domains": []
     },
     {

@@ -2,9 +2,9 @@
   "domain": "IX",
   "name_zh": "苦難·疾病·身體",
   "gist": "疾病與身體、受苦的意義、照顧與被照顧",
-  "generated_at": "2026-08-25T14:17:27+00:00",
-  "para_count": 179,
-  "book_count": 26,
+  "generated_at": "2026-08-25T22:49:46+00:00",
+  "para_count": 184,
+  "book_count": 27,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -1989,6 +1989,68 @@
       "co_domains": [
         "V"
       ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "隱秀",
+      "para_index": 3,
+      "para_id": "wenxin-diaolong#46-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫立意之士，務欲造奇，每馳心於玄默之表；工辭之人，必欲臻美，恆溺思於佳麗之鄉。嘔",
+      "note": "「嘔心吐膽，不足語窮；煆歲煉年，奚能喻苦」直接把長期求奇臻美寫成耗身受苦的處境，承重在人的苦難與身體負荷（IX）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "養氣",
+      "para_index": 1,
+      "para_id": "wenxin-diaolong#50-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "昔王充著述，制養氣之篇，驗己而作，豈虛造哉！夫耳目鼻口，生之役也；心慮言辭，神之",
+      "note": "「率志委和，則理融而情暢；鑽礪過分，則神疲而氣衰；此性情之數也」明說過度用心會使人神疲氣衰，是身心耗損的規律（IX）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "養氣",
+      "para_index": 2,
+      "para_id": "wenxin-diaolong#50-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡童少鑒淺而志盛，長艾識堅而氣衰，志盛者思銳以勝勞，氣衰者慮密以傷神，斯實中人之",
+      "note": "「器分有限，智用無涯，或慚鳧企鶴，瀝辭鐫思，於是精氣內銷，有似尾閭之波，神志外傷，同乎牛山之木」指出逞智過度造成精氣與神志損傷（IX）；「凡童少鑒淺而志盛，長艾識堅而氣衰」直述年歲增長伴隨氣力衰退（X）",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "養氣",
+      "para_index": 3,
+      "para_id": "wenxin-diaolong#50-p03",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "夫學業在勤，功庸弗怠，故有錐股自厲，和熊以苦之人，志於文也，則申寫鬱滯，故宜從容",
+      "note": "「若銷鑠精膽，蹙迫和氣，秉牘以驅齡，灑翰以伐性」反對以寫作消耗精力、和氣與生命，承重在身心受損（IX）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "養氣",
+      "para_index": 5,
+      "para_id": "wenxin-diaolong#50-p05",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "紛哉萬象，勞矣千想。元神宜寶，素氣資養。",
+      "note": "「勞矣千想。元神宜寶，素氣資養」承認萬般思慮使人疲勞，並主張珍護精神、養育元氣，直接關涉身心健康（IX）",
+      "co_domains": []
     },
     {
       "slug": "yanshi-jiaxun",

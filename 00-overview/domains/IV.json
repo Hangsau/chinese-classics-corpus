@@ -2,9 +2,9 @@
   "domain": "IV",
   "name_zh": "家庭與傳承",
   "gist": "婚姻與家庭、原生家庭的傷、為人父母、記憶與和解、留下什麼給後代",
-  "generated_at": "2026-08-25T14:17:27+00:00",
-  "para_count": 669,
-  "book_count": 34,
+  "generated_at": "2026-08-25T22:49:46+00:00",
+  "para_count": 670,
+  "book_count": 35,
   "surveyed_zero_hit": [
     "fangyan",
     "gongsun-longzi",
@@ -6911,6 +6911,19 @@
       "co_domains": [
         "VIII"
       ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "鎔裁",
+      "para_index": 4,
+      "para_id": "wenxin-diaolong#44-p04",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "昔謝艾王濟，西河文士，張駿以為艾繁而不可刪，濟略而不可益，若二子者，可謂練鎔裁而",
+      "note": "「蓋崇友于耳」把陸雲明知陸機文繁仍加稱許的原因，明指為看重兄弟之情，承重在手足親情（IV）",
+      "co_domains": []
     },
     {
       "slug": "xinxu",

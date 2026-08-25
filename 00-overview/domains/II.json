@@ -2,9 +2,9 @@
   "domain": "II",
   "name_zh": "自我與認同",
   "gist": "我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我",
-  "generated_at": "2026-08-25T14:17:27+00:00",
-  "para_count": 742,
-  "book_count": 36,
+  "generated_at": "2026-08-25T22:49:46+00:00",
+  "para_count": 757,
+  "book_count": 37,
   "surveyed_zero_hit": [
     "duduan",
     "fangyan",
@@ -9007,6 +9007,201 @@
       "co_domains": [
         "VIII"
       ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "序志",
+      "para_index": 7,
+      "para_id": "wenxin-diaolong#11-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫銓序，文為易，彌綸群言為難，雖復輕采毛髮，深極骨髓，或有曲意密源，似近而遠，辭",
+      "note": "「言不盡意，聖人所難，識在缾管，何能矩矱」既承認表意的普遍限度，也明言作者自身見識有限，是自知與自我定位的斷語（II）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "情采",
+      "para_index": 4,
+      "para_id": "wenxin-diaolong#13-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "昔詩人什篇，為情而造文，辭人賦頌，為文而造情。何以明其然，蓋風雅之興，志思蓄憤，",
+      "note": "「故有志深軒冕，而汎詠臯壤，心纒幾務，而虛述人外，真宰弗存，翩其反矣」揭出內在志向與自我呈現相反的失真（II）；「諸子之徒，心非鬱陶，苟馳夸飾，鬻聲釣世」直指無真情而求名的動機與品格（VII）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "情采",
+      "para_index": 6,
+      "para_id": "wenxin-diaolong#13-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "言以文遠，誠哉斯驗。心術既形，茲華乃贍。",
+      "note": "「心術既形，茲華乃贍」把文采視為作者內在心術已經顯形後的結果，明說人的內在如何由言辭呈現（II）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "才略",
+      "para_index": 7,
+      "para_id": "wenxin-diaolong#14-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "才難然乎，性各異禀。一朝綜文，千年凝錦。",
+      "note": "「性各異禀」斷言人的天性稟賦彼此不同（II）；「才難然乎」則指出人才之難得，落在才能與成就條件（VIII）",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "書記",
+      "para_index": 1,
+      "para_id": "wenxin-diaolong#18-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大舜云：書用識哉！所以記時事也。蓋聖賢言辭，總為之書，書之為體，主言者也。揚雄曰",
+      "note": "「言，心聲也；書，心畫也」把言書視為內在自我的外現（II）；「聲畫形，君子小人見矣」又說人的君子、小人品格會由此顯露（VII）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "知音",
+      "para_index": 3,
+      "para_id": "wenxin-diaolong#24-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫篇章雜沓，質文交加，知多偏好，人莫圓該。慷慨者逆聲而擊節，醞藉一作「籍」者見密",
+      "note": "「知多偏好，人莫圓該」直接指出人的偏好各有所蔽、識見難以周全，是對個體認知局限的斷語（II）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "知音",
+      "para_index": 5,
+      "para_id": "wenxin-diaolong#24-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫綴文者情動而辭發，見文者披文以入情，沿波討源，雖幽必顯。世遠莫見其面，覘文輒見",
+      "note": "「豈成篇之足深，患識照之自淺耳」把不能理解作品的原因落在鑒賞者自身識見淺薄，是對自我認知能力的斷語（II）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "神思",
+      "para_index": 5,
+      "para_id": "wenxin-diaolong#26-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "若夫駿發之士，心總要術，敏在慮前，應機立斷；覃思之人，情饒歧路，鑒在疑後，研慮方",
+      "note": "「若夫駿發之士，心總要術，敏在慮前，應機立斷；覃思之人，情饒歧路，鑒在疑後，研慮方定」區分兩種稟賦與認知類型（II）；「機敏故造次而成功，慮疑故愈久而致績」說兩型各自抵達成果的路徑（VIII）",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "程器",
+      "para_index": 4,
+      "para_id": "wenxin-diaolong#27-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "蓋人禀五材，修短殊用，自非上哲，難以求備。然將相以位隆特達，文士以職卑多誚，此江",
+      "note": "「蓋人禀五材，修短殊用，自非上哲，難以求備」明說人的資質各有長短、難以全備（II）；「然將相以位隆特達，文士以職卑多誚」指出職位高低造成聲譽待遇不均（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "練字",
+      "para_index": 5,
+      "para_id": "wenxin-diaolong#30-p05",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "至於經典隱曖，方冊紛綸，簡蠹帛裂，三寫易字，或以音訛，或以文變。子思弟子，於穆不",
+      "note": "「固知愛奇之心，古今一也」從傅毅沿用訛字推出人古今皆有好奇求新的內在偏好，已越出校字技術而成為人的心理斷語（II）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "聲律",
+      "para_index": 2,
+      "para_id": "wenxin-diaolong#32-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古之教歌，先揆以法，使疾呼中宮，徐呼中徵。夫商徵響高，宮羽聲下；抗喉矯舌之差，攢",
+      "note": "「故外聽之易，絃以手定，內聽之難，聲與心紛，可以數求，難以辭逐」將外在聲音易校與內在聲音難辨相對，明說人對自身內聽的認知限制（II）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "諸子",
+      "para_index": 1,
+      "para_id": "wenxin-diaolong#39-p01",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "諸子者，入道見志之書。太上立德，其次立言。百姓之群居，苦紛雜而莫顯；君子之處世，",
+      "note": "「君子之處世，疾名德之不章」把人在世時名德能否彰顯列為自我關切（II）；「百姓之群居，苦紛雜而莫顯」直說個體在群居中容易被紛雜淹沒（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "風骨",
+      "para_index": 3,
+      "para_id": "wenxin-diaolong#49-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故魏文稱文以氣為主，氣之清濁有體，不可力強而致；故其論孔融，則云體氣高妙；論徐幹",
+      "note": "「氣之清濁有體，不可力強而致」把清濁氣質說成個體既有且不能勉強取得的差異，是人的稟性與自我差異（II）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "體性",
+      "para_index": 1,
+      "para_id": "wenxin-diaolong#51-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫情動而言形，理發而文見，蓋沿隱以至顯，因內而符外者也。然才有庸俊，氣有剛柔，學",
+      "note": "「然才有庸俊，氣有剛柔，學有淺深，習有雅鄭，並情性所鑠，陶染所凝」明說人的差異由情性與後天陶染凝成，是個體稟性差異（II）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "體性",
+      "para_index": 6,
+      "para_id": "wenxin-diaolong#51-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "才性異區，文辭繁詭。辭為膚根，志實骨髓。",
+      "note": "「才性異區，文辭繁詭」明說人的才質與性情分屬不同區域，並以此解釋文辭多樣，是個體稟性的差異（II）",
+      "co_domains": []
     },
     {
       "slug": "wuzi",

@@ -2,9 +2,9 @@
   "domain": "VIII",
   "name_zh": "工作·成就·召喚",
   "gist": "工作與金錢、成就與意義、天賦與使命",
-  "generated_at": "2026-08-25T14:17:27+00:00",
-  "para_count": 1205,
-  "book_count": 42,
+  "generated_at": "2026-08-25T22:49:46+00:00",
+  "para_count": 1225,
+  "book_count": 43,
   "surveyed_zero_hit": [
     "duduan",
     "gu-sanfen",
@@ -12707,6 +12707,266 @@
       "co_domains": [
         "IV"
       ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "事類",
+      "para_index": 3,
+      "para_id": "wenxin-diaolong#01-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫薑桂同地，辛在本性，文章由學，能在天資。才自內發，學以外成，有學飽而才餒，有才",
+      "note": "「才自內發，學以外成，有學飽而才餒，有才富而學貧」把人的天資與後天學習分開，指出兩者會形成不同的成就條件（VIII）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "史傳",
+      "para_index": 12,
+      "para_id": "wenxin-diaolong#04-p12",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "若乃尊賢隱諱，固尼父之聖旨，蓋纖瑕不能玷瑾瑜也，奸慝懲戒，實良史之直筆，農夫見莠",
+      "note": "「史之為任，乃彌綸一代，負海內之責，而嬴是非之尤。秉筆荷擔，莫此之勞」明說史家職任承擔一代公論及其工作重負（VIII）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "序志",
+      "para_index": 3,
+      "para_id": "wenxin-diaolong#11-p03",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "予生七齡，乃夢彩雲若錦，則攀而採之，齒在踰立，則嘗夜夢執丹漆之禮器，隨仲尼而南行",
+      "note": "此處採作者自述立志動機的一讀；「隨仲尼而南行，旦而寤，迺怡然而喜」把夢中追隨聖人及醒後喜悅寫成志業召喚（VIII）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "徵聖",
+      "para_index": 5,
+      "para_id": "wenxin-diaolong#12-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "妙極生知，睿哲惟宰。精理為文，秀氣成采。",
+      "note": "「妙極生知，睿哲惟宰」把最高妙的理解歸於生知與睿智，明說人的先天認知能力如何支撐成就（VIII）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "才略",
+      "para_index": 6,
+      "para_id": "wenxin-diaolong#14-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "宋代逸才，辭翰鱗萃，世近易明，無勞甄序。觀夫後漢才林，可參西京；晉世文苑，足儷鄴",
+      "note": "「崇文之盛世，招才之嘉會哉」把人才得以聚集、發揮繫於時代機會，並以「此古人所以貴乎時也」明說成才需時（VIII）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "才略",
+      "para_index": 7,
+      "para_id": "wenxin-diaolong#14-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "才難然乎，性各異禀。一朝綜文，千年凝錦。",
+      "note": "「性各異禀」斷言人的天性稟賦彼此不同（II）；「才難然乎」則指出人才之難得，落在才能與成就條件（VIII）",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "指瑕",
+      "para_index": 6,
+      "para_id": "wenxin-diaolong#15-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "羿氏舛射，東野敗駕。雖有儁才，謬則多謝。",
+      "note": "「雖有儁才，謬則多謝」越出單一文法，概括人即使有出眾才能，犯錯仍會招致失敗與譴責，是才能發揮的限制（VIII）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "時序",
+      "para_index": 6,
+      "para_id": "wenxin-diaolong#17-p06",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "逮晉宣始基，景文克構，並跡沈儒雅，而務深方術。至武帝惟新，承平受命，而膠序篇章，",
+      "note": "「運涉季世，人未盡才」直接指出人處在末世便不能充分施展才能，是關於才能實現受阻的斷語（VIII）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "神思",
+      "para_index": 4,
+      "para_id": "wenxin-diaolong#26-p04",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "人之稟才，遲速異分，文之制體，大小殊功，相如含筆而腐毫，揚雄輟翰而驚夢，桓譚疾感",
+      "note": "「人之稟才，遲速異分」明說人的天賦使思考與完成工作的速度不同，是才能發揮與成就方式的差異（VIII）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "神思",
+      "para_index": 5,
+      "para_id": "wenxin-diaolong#26-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "若夫駿發之士，心總要術，敏在慮前，應機立斷；覃思之人，情饒歧路，鑒在疑後，研慮方",
+      "note": "「若夫駿發之士，心總要術，敏在慮前，應機立斷；覃思之人，情饒歧路，鑒在疑後，研慮方定」區分兩種稟賦與認知類型（II）；「機敏故造次而成功，慮疑故愈久而致績」說兩型各自抵達成果的路徑（VIII）",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "程器",
+      "para_index": 5,
+      "para_id": "wenxin-diaolong#27-p05",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "是以君子藏器，待時而動，發揮事業，固宜蓄素以綳一作「弸」中，散采一作「悉」以彪外",
+      "note": "「窮則獨善以垂文，達則奉時以騁績」提出困窮與顯達兩種處世立身之道（I）；「君子藏器，待時而動，發揮事業，固宜蓄素以綳一作「弸」中，散采一作「悉」以彪外，楩柟其質，豫章其幹，摛文必在緯軍國，負一作「賢」重必在任棟梁」要求蓄養才能、把握時機並擔當事業（VIII）",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "程器",
+      "para_index": 7,
+      "para_id": "wenxin-diaolong#27-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "雕而不器，貞幹誰則。豈無華身，亦有光國。",
+      "note": "「雕而不器，貞幹誰則」反對只有文飾而不能任事，要求人成為可用之材（VIII）；「亦有光國」又把才幹的價值落在對國家的公共貢獻（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "諸子",
+      "para_index": 8,
+      "para_id": "wenxin-diaolong#39-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "丈夫處世，懷寶挺秀。辨雕萬物，智周宇宙。",
+      "note": "「丈夫處世，懷寶挺秀。辨雕萬物，智周宇宙」描寫人在世應展露所具才智並通辨萬物，承重在才能的發揮與成就（VIII）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "諸子",
+      "para_index": 9,
+      "para_id": "wenxin-diaolong#39-p09",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "立德何隱，含道必授。條流殊述，若有區囿。",
+      "note": "「立德何隱」主張德行不應隱沒，是人格實踐的要求（VII）；「含道必授」主張有所得便應傳授，落到教與傳承的召喚（VIII）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "議對",
+      "para_index": 9,
+      "para_id": "wenxin-diaolong#40-p09",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫駁議偏辨，各執異見；對策揄揚，大明治道。使事深於政術，理密於時務，酌三五以鎔世",
+      "note": "「或練治而寡文，或工文而疎治，對策所選，實屬通才」明說人的政務與文辭能力常有偏缺，取士所難在選出兼備的通才（VIII）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "附會",
+      "para_index": 3,
+      "para_id": "wenxin-diaolong#45-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫文變無一作「多」方，意見浮雜，約則義孤，博則辭叛，率故多尤，需為事賊。且才分不",
+      "note": "「才分不同，思緒各異」並以「通製者蓋寡，接附者甚衆」斷言人的統整能力有差別且能通盤規畫者稀少；抽掉文章手藝後仍是才能發揮的判斷（VIII）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "風骨",
+      "para_index": 4,
+      "para_id": "wenxin-diaolong#49-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "若夫鎔鑄經典之範，翔集子史之術，洞曉情變，曲昭文體，然後能孚甲新意，雕畫奇辭。昭",
+      "note": "「明者弗授，學者弗師」把有識者不傳授、學習者不從師指出為失序原因，直接涉及教學與學習能否成立（VIII）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "體性",
+      "para_index": 4,
+      "para_id": "wenxin-diaolong#51-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "若夫八體屢遷，功以學成，才力居中，肇自血氣；氣以實志，志以定言，吐納英華，莫非情",
+      "note": "「若夫八體屢遷，功以學成，才力居中，肇自血氣」把學習所得之功與天生才力分別說明，直接論人的學習與才能來源（VIII）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "體性",
+      "para_index": 5,
+      "para_id": "wenxin-diaolong#51-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫才由天資，學慎始習，斲梓染絲，功在初化，成綵定，難可翻移。故童子雕琢，必先雅製",
+      "note": "「夫才由天資，學慎始習」區分天賦才能與起初學習，並主張從童蒙階段培養，是才能與教育成就的命題（VIII）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "體性",
+      "para_index": 7,
+      "para_id": "wenxin-diaolong#51-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "雅麗黼黻，淫巧朱紫。習亦凝真，功沿漸靡。",
+      "note": "「習亦凝真，功沿漸靡」把反覆學習說成能凝定實質、功力則循序漸進，直接落到人的學習與成就形成（VIII）",
+      "co_domains": []
     },
     {
       "slug": "wuzi",

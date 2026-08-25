@@ -2,9 +2,9 @@
   "domain": "I",
   "name_zh": "存在與意義",
   "gist": "我為何在此、活著有沒有意義、與想不通的問題共處、在歷史洪流中的渺小",
-  "generated_at": "2026-08-25T14:17:27+00:00",
-  "para_count": 105,
-  "book_count": 18,
+  "generated_at": "2026-08-25T22:49:46+00:00",
+  "para_count": 111,
+  "book_count": 19,
   "surveyed_zero_hit": [
     "cai-zhonglang-ji",
     "dengxizi",
@@ -1396,6 +1396,88 @@
       "co_domains": [
         "V"
       ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "原道第一",
+      "para_index": 1,
+      "para_id": "wenxin-diaolong#02-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文之為德也大矣，與天地並生者何哉！夫玄黃色雜，方圓體分，日月疊璧，以垂麗天之象；",
+      "note": "「惟人參之，性靈所鍾，是謂三才。為五行之秀，實天地之心」直接把人定位為參贊天地、居於三才之一的存在（I）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "序志",
+      "para_index": 2,
+      "para_id": "wenxin-diaolong#11-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫宇宙綿邈，黎獻紛雜，拔萃出類，智術而已，歲月飄忽，性靈不居，騰聲飛實，制作而已",
+      "note": "「是以君子處世樹德建言，豈好辯哉，不得已也」把立德立言提出為有限人生的安身立意（I）；「形同草木之脆，名踰金石之堅」直陳生命易逝而名可久存（X）",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "序志",
+      "para_index": 8,
+      "para_id": "wenxin-diaolong#11-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "生也有涯，無涯惟智，逐物實難，憑性良易。",
+      "note": "「無涯惟智，逐物實難，憑性良易」在有限條件中提出不逐外物、依憑本性的生命取向（I）；「生也有涯」直接點明人生有盡（X）",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "徵聖",
+      "para_index": 6,
+      "para_id": "wenxin-diaolong#12-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "鑒懸日月，辭富山海。百齡影徂，千載心在。",
+      "note": "「千載心在」以精神跨越千載寫出立言所承載的長久意義（I）；「百齡影徂」則直寫人的百年生命終將消逝（X）",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "程器",
+      "para_index": 5,
+      "para_id": "wenxin-diaolong#27-p05",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "是以君子藏器，待時而動，發揮事業，固宜蓄素以綳一作「弸」中，散采一作「悉」以彪外",
+      "note": "「窮則獨善以垂文，達則奉時以騁績」提出困窮與顯達兩種處世立身之道（I）；「君子藏器，待時而動，發揮事業，固宜蓄素以綳一作「弸」中，散采一作「悉」以彪外，楩柟其質，豫章其幹，摛文必在緯軍國，負一作「賢」重必在任棟梁」要求蓄養才能、把握時機並擔當事業（VIII）",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "諸子",
+      "para_index": 7,
+      "para_id": "wenxin-diaolong#39-p07",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "若夫陸賈《典語》，賈誼《新書》，揚雄《法言》，劉向《說苑》，王符《潛夫》，崔實《",
+      "note": "「身與時舛，志共道申，標心於萬古之上，而送懷於千載之下」說人即使與時代乖舛，仍能藉志業跨越時間而留下意義（I）",
+      "co_domains": []
     },
     {
       "slug": "xinxu",

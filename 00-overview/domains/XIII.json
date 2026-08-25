@@ -2,9 +2,9 @@
   "domain": "XIII",
   "name_zh": "安頓·修復·平安",
   "gist": "靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈",
-  "generated_at": "2026-08-25T14:17:27+00:00",
-  "para_count": 160,
-  "book_count": 23,
+  "generated_at": "2026-08-25T22:49:46+00:00",
+  "para_count": 165,
+  "book_count": 24,
   "surveyed_zero_hit": [
     "duduan",
     "fangyan",
@@ -1980,6 +1980,66 @@
       ],
       "excerpt": "次三：窮思達。測曰：窮思達。師在心也。",
       "note": "「窮思達……師在心也」說身處窮境可由內心思索通達，把安頓困境的資源置於自身。",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "序志",
+      "para_index": 9,
+      "para_id": "wenxin-diaolong#11-p09",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "傲岸泉石，咀嚼文義。文果載心，余心有寄。",
+      "note": "「傲岸泉石，咀嚼文義。文果載心，余心有寄」以第一人稱說明自己在山水與文義中有所寄託，落在內心安頓（XIII）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "諧讔",
+      "para_index": 8,
+      "para_id": "wenxin-diaolong#37-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古之嘲隱，振危釋憊。雖有絲麻，無棄菅蒯。",
+      "note": "「古之嘲隱，振危釋憊」明說嘲隱能扶救危困、解除困憊，承重於人在困厄後得到舒解與恢復（XIII）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "雜文",
+      "para_index": 4,
+      "para_id": "wenxin-diaolong#47-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "至於陳思《客問》，辭高而理疎；庾敳《客咨》，意榮而文悴。斯類甚眾，無所取矣。原茲",
+      "note": "「身挫憑乎道勝，時屯寄於情泰」說人在受挫、困頓時憑道自持並寄心於安泰，是逆境中的安頓與修復（XIII）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "養氣",
+      "para_index": 4,
+      "para_id": "wenxin-diaolong#50-p04",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "且夫思有利鈍，時有通塞，沐則心覆，且或反常，神之方昏，再三愈黷。是以吐納文蓺，務",
+      "note": "「逍遙以針勞，談笑以藥勌」把放鬆、談笑明定為解除勞倦的方法，是人在疲憊後如何修復與安頓（XIII）",
+      "co_domains": []
+    },
+    {
+      "slug": "wenxin-diaolong",
+      "chapter": "養氣",
+      "para_index": 6,
+      "para_id": "wenxin-diaolong#50-p06",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "水停以鑒，火靜而朗。無擾文慮，鬱此精爽。",
+      "note": "「無擾文慮，鬱此精爽」以水停火靜為喻，主張不擾心慮而保存清明精神，是維持內在安定的工夫（XIII）",
       "co_domains": []
     },
     {
