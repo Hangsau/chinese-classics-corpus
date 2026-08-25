@@ -1,0 +1,446 @@
+{
+  "batch": "b04.md",
+  "rows": [
+    {
+      "chapter": "知音",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "observation"],
+      "reason": "「故魏文稱文人相輕，非虛談也」把同業間崇己抑人的群體傾向明說為真實現象，是關於社會比較與群體關係的斷語（V）"
+    },
+    {
+      "chapter": "知音",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["narrative", "proposition"],
+      "reason": "「形器易徵，謬乃若是；文情難鑒，誰曰易分」以誤認麟鳳、珠石的故事譬喻文章難辨，落點仍是鑒文之難，沒有獨立的人生斷語"
+    },
+    {
+      "chapter": "知音",
+      "para_index": 3,
+      "domains": ["II"],
+      "modes": ["proposition"],
+      "reason": "「知多偏好，人莫圓該」直接指出人的偏好各有所蔽、識見難以周全，是對個體認知局限的斷語（II）"
+    },
+    {
+      "chapter": "知音",
+      "para_index": 4,
+      "domains": ["VII"],
+      "modes": ["prescription"],
+      "reason": "「無私於輕重，不偏於憎愛」要求評判者排除私心與愛憎，將公正無偏立為人的品格要求（VII）"
+    },
+    {
+      "chapter": "知音",
+      "para_index": 5,
+      "domains": ["II"],
+      "modes": ["proposition"],
+      "reason": "「豈成篇之足深，患識照之自淺耳」把不能理解作品的原因落在鑒賞者自身識見淺薄，是對自我認知能力的斷語（II）"
+    },
+    {
+      "chapter": "知音",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「良書盈篋，妙鑒迺訂」只是贊語中說佳作須由高明鑒賞加以評定，仍在說文章評鑒的條件，未越出這門手藝"
+    },
+    {
+      "chapter": "知音",
+      "para_index": 7,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「流鄭淫人，無或失聽」明說鄭聲能使人失其正並告誡勿受其惑，將影響落到人的品格上（VII）"
+    },
+    {
+      "chapter": "祝盟",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation", "ritual"],
+      "reason": "「昔伊耆始蜡，以祭八神」以下追溯祝文在祭祀中的起源並登錄古辭；告神是文體功能，未據此另標信仰領域"
+    },
+    {
+      "chapter": "祝盟",
+      "para_index": 2,
+      "domains": ["VII"],
+      "modes": ["observation", "ritual"],
+      "reason": "「春秋已下，黷祀諂祭，祝幣史辭，靡神不至」批評人們以繁濫祭祀諂媚求福，是對過度行為與品格的負面判斷（VII），不是對神聖的認證"
+    },
+    {
+      "chapter": "祝盟",
+      "para_index": 3,
+      "domains": ["VII"],
+      "modes": ["prescription", "ritual"],
+      "reason": "「修辭立誠，在於無媿」把祝祭實踐的合宜性落在行禮者真誠無愧，而不只交代告神用途，故記品格（VII）；神祇語彙本身不另記XII"
+    },
+    {
+      "chapter": "祝盟",
+      "para_index": 4,
+      "domains": ["XI", "VII"],
+      "modes": ["ritual", "proposition"],
+      "reason": "「崇替在人，咒何預焉」把興亡成敗從咒術推回人的作為，承載人力與命運之辨（XI）；「故知信不由衷，盟無益也」又把盟誓能否成立繫於內在誠信，是品格判斷（VII）"
+    },
+    {
+      "chapter": "祝盟",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["ritual", "proposition"],
+      "reason": "此灰區採文體技術讀：「立誠在肅，脩辭必甘」濃縮祝辭須肅敬而辭美的寫法，未另立一條關於人的判斷"
+    },
+    {
+      "chapter": "祝盟",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["ritual", "proposition"],
+      "reason": "此灰區採儀式與文體收束讀：「神之來格，所貴無慚」承接季世祝辭務飾之論，所說仍是祝辭迎神時的合式標準，不另標人的領域"
+    },
+    {
+      "chapter": "神思",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「文之思也，其神遠矣」以下界定構思如何接通千載萬里；心、神、思都在充當寫作術語，沒有把人的一般狀態另作結論"
+    },
+    {
+      "chapter": "神思",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "此灰區採寫作準備工夫讀：「貴在虛靜，疏瀹五藏，澡雪精神」後明言「此蓋馭文之首術」，所列靜心、積學皆服務於謀篇，故判空"
+    },
+    {
+      "chapter": "神思",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「意翻空而易奇，言徵實而難巧也」分析意念轉成文字時的落差，「無務苦慮」也是構思方法，後果仍落在成篇而非人的處境"
+    },
+    {
+      "chapter": "神思",
+      "para_index": 4,
+      "domains": ["VIII"],
+      "modes": ["proposition", "observation"],
+      "reason": "「人之稟才，遲速異分」明說人的天賦使思考與完成工作的速度不同，是才能發揮與成就方式的差異（VIII）"
+    },
+    {
+      "chapter": "神思",
+      "para_index": 5,
+      "domains": ["II", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「若夫駿發之士，心總要術，敏在慮前，應機立斷；覃思之人，情饒歧路，鑒在疑後，研慮方定」區分兩種稟賦與認知類型（II）；「機敏故造次而成功，慮疑故愈久而致績」說兩型各自抵達成果的路徑（VIII）"
+    },
+    {
+      "chapter": "神思",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「言所不追，筆固知止」說文字不能窮盡精微意旨，伊摯與輪扁只是技藝難言的譬喻，落點仍是表達限度而非人的生活"
+    },
+    {
+      "chapter": "神思",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「物以貌求，心以理應」是贊語對寫作構思中物、心、理關係的概括，心在此是構思機制，沒有獨立的人之斷語"
+    },
+    {
+      "chapter": "神思",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「刻鏤聲律，萌芽比興」收束聲律、比興與制篇的技術流程，所說全是文章如何形成，沒有越出寫作手藝"
+    },
+    {
+      "chapter": "程器",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "observation"],
+      "reason": "「後人雷同，混之一貫，吁可悲矣」批評後世把文人的細行問題一概而論，是對群體標籤與不公評價的斷語（V）"
+    },
+    {
+      "chapter": "程器",
+      "para_index": 2,
+      "domains": ["VII"],
+      "modes": ["observation"],
+      "reason": "「略觀文士之疵：相如竊妻而受金，揚雄嗜酒而少算，敬通之不循廉隅，杜篤之請求無厭，班固諂竇以作威，馬融黨梁而黷貨，文舉傲誕以速誅，正平狂憨以致戮，仲宣輕脆以躁競，孔璋惚恫以麤疎，丁儀貪婪以乞貨，路粹餔啜而無恥，潘岳詭譸於愍懷，陸機傾仄於賈郭，傅玄剛隘而詈臺，孫楚悢一作「狠」愎而訟府，諸有此類，並文士之瑕累」列出可指認的失德行為而非純才名品題，承載品格判斷（VII）"
+    },
+    {
+      "chapter": "程器",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["observation", "proposition"],
+      "reason": "「然子夏無虧於名儒，濬冲不塵乎竹林者，名崇而譏減也」指出名位會減輕社會非議，涉及地位造成的評價偏差（V）；「若夫屈賈之忠貞，鄒枚之機覺，黃香之淳孝，徐幹之沈默，豈曰文士，必其玷歟」又以忠貞淳孝反駁文士必有玷污的品格定見（VII）"
+    },
+    {
+      "chapter": "程器",
+      "para_index": 4,
+      "domains": ["II", "V"],
+      "modes": ["proposition"],
+      "reason": "「蓋人禀五材，修短殊用，自非上哲，難以求備」明說人的資質各有長短、難以全備（II）；「然將相以位隆特達，文士以職卑多誚」指出職位高低造成聲譽待遇不均（V）"
+    },
+    {
+      "chapter": "程器",
+      "para_index": 5,
+      "domains": ["I", "VIII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "「窮則獨善以垂文，達則奉時以騁績」提出困窮與顯達兩種處世立身之道（I）；「君子藏器，待時而動，發揮事業，固宜蓄素以綳一作「弸」中，散采一作「悉」以彪外，楩柟其質，豫章其幹，摛文必在緯軍國，負一作「賢」重必在任棟梁」要求蓄養才能、把握時機並擔當事業（VIII）"
+    },
+    {
+      "chapter": "程器",
+      "para_index": 6,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「瞻彼前修，有懿文德」在贊語中以懿德肯定前代典範，承接本篇對文士不能只論文采、還須論德行的品格主張（VII）"
+    },
+    {
+      "chapter": "程器",
+      "para_index": 7,
+      "domains": ["VIII", "V"],
+      "modes": ["proposition"],
+      "reason": "「雕而不器，貞幹誰則」反對只有文飾而不能任事，要求人成為可用之材（VIII）；「亦有光國」又把才幹的價值落在對國家的公共貢獻（V）"
+    },
+    {
+      "chapter": "章句",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「宅情曰章，位言曰句」逐級界定字、句、章、篇的組成關係，是章句名義與層級的技法界定，沒有關於人的承重句"
+    },
+    {
+      "chapter": "章句",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「搜句忌於顛倒，裁章貴於順序」規定篇章須首尾相承、章句依次，是文章結構的操作準則；友旅等語皆為文字關係的譬喻"
+    },
+    {
+      "chapter": "章句",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「四字密而不促，六字格而非緩」以下分類句長並追溯二言至七言的沿革，所述是句式體制及其歷史，故判空"
+    },
+    {
+      "chapter": "章句",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "「兩韻輒易，則聲韻微躁；百句不遷，則唇吻告勞」比較換韻頻率的文字效果；唇吻告勞是聲韻技法的譬喻，不是人的身體處境"
+    },
+    {
+      "chapter": "章句",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「之而於以者，乃劄句之舊體；乎哉矣也，亦送末之常科」說明虛字在句首句末的用途並規定如何運用，純屬句法技術"
+    },
+    {
+      "chapter": "章句",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「斷章有檢，積句不恆」是贊語對章句剪裁、配主與連屬的技術收束，沒有把判斷落到人身上"
+    },
+    {
+      "chapter": "章句",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「離合同異，以盡厥能」仍在概括章句離合與調勢的寫作能力，抽掉文章手藝後沒有獨立的人生內容"
+    },
+    {
+      "chapter": "章表",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「然則敷奏以言，則章表之義也」由古代朝廷陳辭追溯章表功能與起源，屬原始以表末，官職人物只是沿革材料"
+    },
+    {
+      "chapter": "章表",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「章以謝恩，奏以按劾，表以陳請，議以執異」列四種公文功能，繼而訓釋章、表名義，是文體分類與語義還原"
+    },
+    {
+      "chapter": "章表",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「前漢表謝，遺篇寡存」以下登錄章奏的收錄情況、考試制度與歷代名篇，是文體史觀察和作品品題"
+    },
+    {
+      "chapter": "章表",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「陳思之表，獨冠群才」以下逐一評騭孔融、諸葛亮、琳瑀與陳思章表之工拙，是選文定篇的作品品題，依錨點判空"
+    },
+    {
+      "chapter": "章表",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「逮晉初筆札，則張華為儁」以下依次品評張華、羊祜、庾亮、劉琨、張駿的章表，是歷代作者與作品登錄"
+    },
+    {
+      "chapter": "章表",
+      "para_index": 6,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "此灰區採誠偽斷語讀：「然懇惻者辭為心使，浮侈者情為文使」不只分兩種文辭，更把真誠與浮侈歸到人的內在主從關係，故記品格（VII）"
+    },
+    {
+      "chapter": "章表",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「言必貞明，義則弘偉」是贊語對章表言辭與義旨的風格要求，貞明在此修飾文辭，沒有另作人的品格判斷"
+    },
+    {
+      "chapter": "章表",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「肅恭節文，條理首尾」規定章表須節制而有條理；「君子秉文」只是執筆者角色，結論仍落在辭令有斐"
+    },
+    {
+      "chapter": "練字",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["observation", "narrative"],
+      "reason": "「又吏民上書，字謬輒劾；是以馬字缺畫，而石建懼死，雖云性慎，亦時重文也」寫出制度以懲罰約束書寫及其造成的畏懼，並據此判斷一時社會風尚（V）"
+    },
+    {
+      "chapter": "練字",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "「後世所同曉者，雖難斯易，時所共廢，雖易斯難」以時代通行與否說明選字難易，落點是文字可讀性的技術判準"
+    },
+    {
+      "chapter": "練字",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "「異體相資，如左右肩股，該舊而知新，亦可以屬文」說《爾雅》《倉頡》與字音字形如何供作文取用，身體語只是譬喻"
+    },
+    {
+      "chapter": "練字",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「一避詭異，二省聯邊，三權重出，四調單複」是選字四項分類與寫作規範，不是可計算程序，故不標formalization，領域亦判空"
+    },
+    {
+      "chapter": "練字",
+      "para_index": 5,
+      "domains": ["II"],
+      "modes": ["observation", "proposition"],
+      "reason": "「固知愛奇之心，古今一也」從傅毅沿用訛字推出人古今皆有好奇求新的內在偏好，已越出校字技術而成為人的心理斷語（II）"
+    },
+    {
+      "chapter": "練字",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「篆隸相鎔，蒼雅品訓」是贊語對篆隸沿革、字書訓詁及字形美醜的概括，內容仍是文字學與用字技術"
+    },
+    {
+      "chapter": "練字",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「字靡異流，文阻難運」說異字會阻礙文章運行，繼而稱許聲畫墨采，所述後果全落在文本上"
+    },
+    {
+      "chapter": "總術",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「予以為發口為言，屬筆曰翰，常道曰經，述經曰傳」辨析文、筆、言、經、傳的名義並駁前說，是文論概念界定"
+    },
+    {
+      "chapter": "總術",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「才之能通，必資曉術，自非圓鑒區域，大判條例，豈能控引情一作「清」源，制勝文苑哉」雖提到通才，結論只是寫作者須明白作文方法才能辨文制勝；換成別門手藝仍只是該手藝的熟練要求"
+    },
+    {
+      "chapter": "總術",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「若夫善弈之文，則術有恒數，按部整伍，以待情會」用弈棋比喻依術制篇，整段比較任心碰巧與按術作文，落點均在文章成敗"
+    },
+    {
+      "chapter": "總術",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「務先大體，鑑必窮源」是贊語要求作文先掌握總體並窮究根源，屬寫作程序的總括，沒有人的領域"
+    },
+    {
+      "chapter": "總術",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「乘一總萬，舉要治繁」概括以總術統攝繁多文理；思、理在此都是制文術語，未形成關於人的獨立判斷"
+    },
+    {
+      "chapter": "聲律",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「夫音律所始，本於人聲者也」以人聲作為宮商音律與文章聲律的物質起點，是聲音技術的來源說明，並非人在自身身體處境中的敘述"
+    },
+    {
+      "chapter": "聲律",
+      "para_index": 2,
+      "domains": ["II"],
+      "modes": ["proposition"],
+      "reason": "「故外聽之易，絃以手定，內聽之難，聲與心紛，可以數求，難以辭逐」將外在聲音易校與內在聲音難辨相對，明說人對自身內聽的認知限制（II）"
+    },
+    {
+      "chapter": "聲律",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「其為疾病，亦文家之吃也」把雙聲疊韻不調比作口吃，喉脣是聲律毛病的譬喻而非人的身體處境，依錨點判空且不標IX"
+    },
+    {
+      "chapter": "聲律",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「異音相從謂之和，同聲相應謂之韻」界定和、韻及其配字難易，氣力與脣吻皆在說文章聲律的技術效果"
+    },
+    {
+      "chapter": "聲律",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「陳思潘岳，吹籥之調也；陸機左思，瑟柱之和也」用籥瑟兩型品評歷代作者的聲律風格，是作品分類與品題"
+    },
+    {
+      "chapter": "聲律",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["observation", "prescription"],
+      "reason": "「又詩人綜韻，率多清切，《楚辭》辭楚，故訛韻實繁」考察用韻得失，後文亦只規定如何辨字鑽響，未越出聲律手藝"
+    },
+    {
+      "chapter": "聲律",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「標情務遠，比音則近」是贊語對立意與配音遠近的寫作原則，胸臆、脣吻只指發聲位置，沒有人的承重句"
+    },
+    {
+      "chapter": "聲律",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「割棄支離，宮商難隱」要求刪去支離聲病以使宮商顯明，是聲律修整的技術收束，故領域判空"
+    }
+  ]
+}
