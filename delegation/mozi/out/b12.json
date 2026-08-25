@@ -1,0 +1,495 @@
+{
+  "batch": "b12.md",
+  "rows": [
+    {
+      "chapter": "大取",
+      "para_index": 1,
+      "domains": ["XII"],
+      "modes": ["proposition"],
+      "reason": "「天之愛人也，薄於聖人之愛人也；其利人也，厚於聖人之利人也」明確認證天對人的愛與施利，將天寫成有意向的超越主體"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「以臧爲其親也而愛之，非愛其親也」用臧、親、子辨析同一對象在不同描述下能否替換，是語義指涉練習"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「於所體之中而權輕重，之謂權」是在界定『權』這個衡量操作，未把任何人生處境本身立爲主張"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 4,
+      "domains": ["I"],
+      "modes": ["proposition"],
+      "reason": "「斷指以存腕，利之中取大，害之中取小也」以保全整體爲準則處理利害輕重，提出取捨本末的原理"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 5,
+      "domains": ["I"],
+      "modes": ["proposition"],
+      "reason": "「死生利若，一無擇也」主張若對天下之利相等，連生死之間也無從選擇，直接衡量生命與所求之利的輕重"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 6,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「殺一人以存天下，非殺一人以利天下也；殺己以存天下，是殺己以利天下」區分犧牲他人與犧牲自己的道德性質"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「求爲義，非爲義也」連同『陳執既有所爲／未有所爲』都在辨析行爲目的與語句歸屬，義與暴人是論式材料"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 8,
+      "domains": ["I"],
+      "modes": ["proposition"],
+      "reason": "「所未有而取焉，是利之中取大也；於所既有而棄焉，是害之中取小也」把取得與放棄置於利害權衡，說明選擇的輕重原則"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 9,
+      "domains": ["IV", "VII"],
+      "modes": ["prescription"],
+      "reason": "「德行、君上、老長、親戚，此皆所厚也」並說「親厚，厚；親薄，薄」，把義的厚薄落到德行、長幼與親族次序"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 10,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「爲天下厚愛禹，乃爲禹之愛人也」又以「惡盜之爲加於天下」作對照，主張褒貶應按其是否利害天下"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 11,
+      "domains": ["II", "III"],
+      "modes": ["proposition"],
+      "reason": "「愛人不外己，己在所愛之中」明說自我也包含在所愛者之內，處理自我認同與愛人之間的關係"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 12,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「聖人惡疾病，不惡危難。正體不動」以不因危難而動搖刻畫聖人的操守，不只是列舉疾病或身體名詞"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 13,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「欲人之利也，非惡人之愛也」把希望他人得利與排斥他人之愛分開，說明面向他人的利愛立場"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 14,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「聖人不爲其室臧之，故在於臧」以聖人、室、臧作行爲指涉的簡短例式，未展開可獨立承重的人生主張"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 15,
+      "domains": ["IV", "V"],
+      "modes": ["proposition"],
+      "reason": "「死亡親，爲天下也」並以「厚親，分也」對舉，實質處理親族責任與爲天下興利之間的取捨"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 16,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「有厚薄而毋倫列之興利，爲己」把沒有倫列準則的厚薄興利判定爲爲己，對自利動機作出品格評價"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 17,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「語經，語經也非白馬焉執駒焉」以白馬、駒等詞項串接語句辨析，通條停留在論式與語詞操作"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 18,
+      "domains": ["II", "V"],
+      "modes": ["proposition"],
+      "reason": "「厚人不外己，愛無厚薄」主張普遍愛人不排除自己且不分厚薄，直接界定自我在共同關懷中的位置"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 19,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「有有於秦馬，有有於馬也」用秦馬與馬演示存在、類屬及所知對象的指涉關係，名詞可換而論式不變"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 20,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「愛衆衆世，與愛寡世相若」且「愛尚世與愛後世，一若今之世」，主張兼愛跨越人數與世代而相若"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 21,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「俔日之言也，乃客之言也」與「子墨子之言也」是在分辨兩句話的說話者歸屬，沒有承接其中字面命題爲本文立場"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 22,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「不得已而欲之，非欲之也」及「專殺盜，非殺盜也」用欲與殺辨析動詞、被迫條件和對象範圍，主體是語義形式"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 23,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「小圜之圜，與大圜之圜同」及尺、千里、璜、玉諸例都在形式化同異、遠近與類屬關係"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 24,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「意楹，非意木也」逐一用楹木、指人、獲禽辨析意向對象，末句「志、功不可以相從」仍是意圖與結果的邏輯關係"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 25,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「利富人，非爲其人也」區分真正爲人興利與只使富者更富，對利益如何分配及爲誰而爲作出社會判斷"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 26,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「爲賞譽利一人，非爲賞譽利人也」以賞譽動機辨別利人的道德性質，重點在行爲是否只是求名"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 27,
+      "domains": ["IV"],
+      "modes": ["proposition"],
+      "reason": "「智親之一利，未爲孝也」明說只知父母的一項利益尚不足稱孝，界定事親責任的範圍"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 28,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「智是室之有盜也，不盡是室也」用世界、房室與盜人演示存在量詞不能推及全集，愛惡只是集合推論的材料"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 29,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「名，實名。實不必名」後以白石、山丘、室廟分列形貌命名與居運命名，是名實及分類規則"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 30,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「重同，具同，連同，同類之同，同名之同」列出同與異的多種形式，是概念分類表"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 31,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「一曰乃是而然，二曰乃是而不然，三曰遷，四曰强」直接枚舉四種論式，沒有離開形式分類"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 32,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「深其深，淺其淺，益其益，尊其尊」以同詞反覆構成述謂範式，未把尊卑或其他社會內容展開成主張"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 33,
+      "domains": ["VI"],
+      "modes": ["proposition"],
+      "reason": "「諸所遭執而欲惡生者，人不必以其請得焉」區分人的欲惡由內情而得或因遭遇而生，直接說明欲惡的內在來源"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 34,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「仁而無利愛，利愛生於慮」並辨愛臧、愛獲所由之利，將仁愛的道德性質繫於其考慮與動機"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 35,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「去其愛而天下利，弗能去也」以天下之利追問是否應放下原有之愛，提出個人所愛與公共利益的道德取捨"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 36,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「昔之知墻，非今日之知墻也」用昨日與今日之知說明認知事件的時間指涉，是概念辨析而非人物心理敘述"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 37,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「貴爲天子，其利人不厚於匹夫」否定地位尊貴必然增加利人之實，直接評論權位與公共貢獻的關係"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 38,
+      "domains": ["IV", "VII"],
+      "modes": ["proposition"],
+      "reason": "「二子事親，或遇孰，或遇凶」而「非彼其行益也」，主張外在豐歉不會使其中一人的事親行爲更厚"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 39,
+      "domains": ["III"],
+      "modes": ["proposition"],
+      "reason": "「吾持養臧也萬倍，吾愛臧也不加厚」區分照養投入的增加與愛的深厚，對親愛本身作出實質判斷"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 40,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「長人之異短人之同」以下以人、劒、木、面及鬼演示整體、部分、形貌的同異；「人之鬼」只是語詞組合，不認證鬼神"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 41,
+      "domains": ["VIII"],
+      "modes": ["formalization", "proposition"],
+      "reason": "本段雖以「夫辭以故生，以理長，以類行」界定論辭，我採末句承重讀法：「唯有强股肱，而不明於道，其困也，可立而待也」主張只有力量而不懂方法必陷困境"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 42,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「故浸淫之辭，其類在於鼓栗」只把一種辭式配到其類例，未展開關於人的判斷"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 43,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「聖人也，爲天下也」以爲天下界定聖人的行爲指向，將領導者的責任落在公共群體而非私己"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 44,
+      "domains": ["I"],
+      "modes": ["proposition"],
+      "reason": "「或壽或卒，其利天下也相若」主張壽與早死不必改變一生對天下的價值，把生命長短與意義輕重分開"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 45,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「一日而百萬生，愛不加厚」主張人數驟增不使愛的厚度改變，說的是面向衆人的普遍關懷"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 46,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「愛二世有厚薄，而愛二世相若」討論跨兩世之愛雖有厚薄仍可相若，實質處理普遍關懷的世代範圍"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 47,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「愛之相若，擇而殺其一人」提出在愛相等時仍選殺一人的道德難題，不能換成無關詞項而保持其倫理問題"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 48,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「小仁與大仁，行厚相若」直接比較大小之仁與行爲厚度，對德行的衡量作出判斷"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 49,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「興利除害也」把增益與除害表述爲行事準則，而非只掛仁義名號，內容承載明確的善惡方向"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 50,
+      "domains": ["IV", "VII"],
+      "modes": ["proposition"],
+      "reason": "「厚親不稱行，而類行」主張對親族的厚待不能脫離其行爲類別，將親疏與德行評量相互制約"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 51,
+      "domains": ["VII", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「不爲己之可學也」明說不爲私己的取向可以學得，兼及品格方向與後天學習的可能"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 52,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「愛人非爲譽也」排除求譽作爲愛人的真正動機，對善行是否出於名聲作出品格判準"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 53,
+      "domains": ["IV", "V"],
+      "modes": ["proposition"],
+      "reason": "「愛人之親，若愛其親」要求把他人的父母親屬如自己的親屬般看待，連結家庭關係與普遍社會關懷"
+    },
+    {
+      "chapter": "大取",
+      "para_index": 54,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「兼愛相若，一愛相若」直接比較兼愛與一人之愛的相若，主題是普遍愛人的群體倫理"
+    },
+    {
+      "chapter": "小取",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「夫辯者，將以明是非之分」以下列治亂、同異、名實、利害爲辯論所處理的項目，是對『辯』的功能定義"
+    },
+    {
+      "chapter": "小取",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「摹略萬物之然，論求羣言之比」概括摹物與比較言辭的推論工作，沒有另立人生問題"
+    },
+    {
+      "chapter": "小取",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「以名舉實，以辭抒意，以說出故」分列名、辭、說各自的形式功能，是語言論的程序化界定"
+    },
+    {
+      "chapter": "小取",
+      "para_index": 4,
+      "domains": ["VII"],
+      "modes": ["prescription"],
+      "reason": "「有諸己不非諸人，無諸己不求諸人」規定責人與責己須採一致標準，提出不雙重衡量的品格要求"
+    },
+    {
+      "chapter": "小取",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「效者，爲之法也」並以中效爲是、不中效爲非，完整定義『效』這一論證標準"
+    },
+    {
+      "chapter": "小取",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「辟也者，舉也物而以明之也」只是『辟』這一論式的分類定義"
+    },
+    {
+      "chapter": "小取",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「子然，我奚獨不可以然也」被用來界定『援』的推論句型，子與我都是論式位置"
+    },
+    {
+      "chapter": "小取",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「以其所不取之，同於其所取者，予之也」是在定義『推』如何把兩項置於同類，未主張其中任何具體內容"
+    },
+    {
+      "chapter": "小取",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["formalization", "prescription"],
+      "reason": "「辟、侔、援、推之辭，行而異，轉而危」分析類推何時失效，並以「不可常用」「不可偏觀」規定推論檢查方法"
+    },
+    {
+      "chapter": "小取",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「白馬，馬也；乘白馬，乘馬也」與「獲，人也；愛獲，愛人也」同爲『是而然』的論式材料，不是在主張愛人或人際關係"
+    },
+    {
+      "chapter": "小取",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "本段採純論式讀法：「獲事其親，非事人也」至「殺盜人非殺人也」連列複合語不隨類名替換的例子，並以「此乃是而不然者也」收束"
+    },
+    {
+      "chapter": "小取",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "本段採純論式讀法：讀書、鬭雞、入井、出門、夭與「執有命」均作同型語例，落點是「此乃不是而然者也」，不把命字讀成信仰或宿命主張"
+    },
+    {
+      "chapter": "小取",
+      "para_index": 13,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「愛人，待周愛人」與「乘馬，不待周乘馬」對照全稱與存在條件，愛人只是量詞範圍的演算材料"
+    },
+    {
+      "chapter": "小取",
+      "para_index": 14,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「問人之病，問人也；惡人之病，非惡人也」連同國宅、桃棘、鬼祭各例都在辨複合語能否由部分推到整體"
+    },
+    {
+      "chapter": "小取",
+      "para_index": 15,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「馬之目眇，則爲之馬眇」但眼大不稱馬大，並以牛毛黃或衆作對照，是部分性質如何述謂整體的語法辨析"
+    },
+    {
+      "chapter": "小取",
+      "para_index": 16,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「一馬而四足也，非兩馬而四足也」及二馬或白的例子形式化單數、複數與存在量化，通段沒有離開論式"
+    }
+  ]
+}
