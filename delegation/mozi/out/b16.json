@@ -1,0 +1,166 @@
+{
+  "batch": "b16.md",
+  "rows": [
+    {
+      "chapter": "備高臨",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「守爲臺城，以臨羊黔，左右出巨各二十尺，行城三十尺」是在列羊黔攻法的守禦配置；「羊黔者，將之拙者也」也只用來識別攻法，沒有越出怎麼守城"
+    },
+    {
+      "chapter": "備高臨",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「兩軸三輪，輪居筐中」至「十人主此車」逐項規定連弩車的尺寸、構件與人數，通篇是器械規格"
+    },
+    {
+      "chapter": "備梯",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "formalization"],
+      "reason": "「內不親民，外不約治，以少閒衆，以弱輕强，身死國亡」把敗亡歸因於不親民與治理失當，明說領導者和群體關係；後文才轉入雲梯守禦規程"
+    },
+    {
+      "chapter": "備梯",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「堞高六尺而一等」「三尺而一」「五步一竈」以及按鼓音出入，都是行堞、火具與伏兵的配置程序，沒有另說人的處境或關係"
+    },
+    {
+      "chapter": "備水",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「二十船爲一隊，選材士有力者三十人共船」連同決隄、船隊與射檥配置，是水攻守備的編制和操作規格；供養家屬作質也只作防叛制度條件"
+    },
+    {
+      "chapter": "備突",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「城百步一突門，突門各爲窯竈」並規定塞門、鼓橐熏敵的做法，整段是突門器械與操作程序"
+    },
+    {
+      "chapter": "備穴",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「五步一井」「使聰耳者伏罌而聽之」及橐竈、連版、矛竇的安排，逐項說明偵測並封熏地道的方法，沒有越出攻防技術"
+    },
+    {
+      "chapter": "備穴",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「二十步一置穴，穴高十尺」以下列出穴道、罌、鑪橐、門戶與守戰次序；「狗吠即有人也」也是偵敵裝置的判準"
+    },
+    {
+      "chapter": "備穴",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「鑿井傅城足，三丈一」及頡臯、煙橐、鐵鎖、矛竇的尺寸和配員，都是地道守備的工程與編制規格"
+    },
+    {
+      "chapter": "備穴",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「爲短矛、短戟、短弩、䖟矢，財自足」連同聽罌、熏具、斧鋸與櫓的數量，是穴戰器材清單及用法"
+    },
+    {
+      "chapter": "備蛾傅",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「蛾傅者，將之忿者也」只是在辨認敵將採用的攻法，落點隨即是「燒荅覆之，沙石雨之」等守禦操作，未形成對品格的主張"
+    },
+    {
+      "chapter": "備蛾傅",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「以木板厚二寸，前後三尺，㫄廣五尺，高五尺」並規定鐵璅、機與四人操作，是縣脾的尺寸及配置規格"
+    },
+    {
+      "chapter": "備蛾傅",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「荅廣從丈各二尺」至「燒荅以覆之」規定纍荅的材料、尺寸與施放方式，通篇停留在守具操作"
+    },
+    {
+      "chapter": "備蛾傅",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「命曰火捽，一曰傳湯，以當隊」及勇士隨擊、城下植杙，是火具和反擊隊伍的戰術配置，沒有把勇士本身作為人的議題"
+    },
+    {
+      "chapter": "備蛾傅",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「爲連殳」「椎，柄長六尺」「斧，柄長六尺」以下密列兵具、荅樓、杜格與爵穴的尺寸和布置，是器械規格清單"
+    },
+    {
+      "chapter": "備蛾傅",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「二十步一殺」「五昌一竈」及按鼓音出入、夜間設伏的內容，是阻敵與追擊的工程、傳令和作戰程序"
+    },
+    {
+      "chapter": "迎敵祠",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["ritual", "formalization"],
+      "reason": "「敵以南方來，迎之南壇，壇高七尺」等四方壇高、旗色、人數與牲類的對應，是守城前祭祀作業規格，沒有認證神意或賞罰"
+    },
+    {
+      "chapter": "迎敵祠",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「舉巫、醫、卜有所長，具藥宮之，善爲舍」與對流言的察罪，是巫醫卜及技術人員的安置、保密和軍法規程，不是在寫信仰或身體處境"
+    },
+    {
+      "chapter": "迎敵祠",
+      "para_index": 3,
+      "domains": ["VI"],
+      "modes": ["formalization", "proposition"],
+      "reason": "段末明說夜間鼓噪「所以閹客之氣也，所以固民之意也，故時謲則民不疾矣」，把程序的作用落在削弱敵方氣勢、安定民心，直接涉及群體的恐懼與士氣"
+    },
+    {
+      "chapter": "迎敵祠",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["ritual", "formalization"],
+      "reason": "從太廟誓詞、置旂旌到「祝、史、宗人告社，覆之以甑」依次規定誓師、射告與告社儀節，是守城前的祭祀作業程序"
+    },
+    {
+      "chapter": "旗幟",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「木爲蒼旗，火爲赤旗」以下把物資、兵種與旗名逐項配對，並說明舉旗索取，是旗號編碼與傳令規則"
+    },
+    {
+      "chapter": "旗幟",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「石有積，樵薪有積」以下盤點物資、井竈、兵器旗號、法令和道路職掌，是守城資源與制度配置表"
+    },
+    {
+      "chapter": "旗幟",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「到水中周，鼓四，舉二幟」以下按敵軍位置規定鼓數、幟數、佩章、通行信符與賞賜程序，通篇是訊號和軍法編制"
+    }
+  ]
+}
