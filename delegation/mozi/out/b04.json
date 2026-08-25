@@ -1,0 +1,166 @@
+{
+  "batch": "b04.md",
+  "rows": [
+    {
+      "chapter": "兼愛下",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「强之劫弱，衆之暴寡」與「君者之不惠也，臣者之不忠也」把天下之害落在人際權力失衡與不惠不忠的品格上，並以「仁人之事者，必務求興天下之利」提出規範"
+    },
+    {
+      "chapter": "兼愛下",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「爲人之國若爲其國」主張把他國、他都、他家視同己有便不相攻亂，並以「兼以易別」要求用愛人利人的品格取代交別"
+    },
+    {
+      "chapter": "兼愛下",
+      "para_index": 3,
+      "domains": ["V", "IV"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「有道肆相教誨」及老而無妻子者得侍養、無父母的孤童得依靠，說的是共同照護與家庭缺位時的扶養，不只是一條行政投入產出鏈"
+    },
+    {
+      "chapter": "兼愛下",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「爲其友之身若爲其身，爲其友之親若爲其親」把友誼中的照護與託付說成可檢驗的行爲，而「言必信，行必果」又明定可信品格；危難時人必託付於兼士，故非空"
+    },
+    {
+      "chapter": "兼愛下",
+      "para_index": 5,
+      "domains": ["V", "IX"],
+      "modes": ["proposition"],
+      "reason": "「必先萬民之身，後爲其身」刻畫領導者對人民的責任；又以「癘疫」下萬民勤苦凍餒、轉死溝壑的身體處境檢驗人會追隨哪一種君主"
+    },
+    {
+      "chapter": "兼愛下",
+      "para_index": 6,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "本段反覆以「卽此文王兼也」「卽此禹兼也」「卽此湯兼也」把史例接回無私、利天下與自我犧牲的公義品格；我把「以祠說于上帝鬼神」讀作湯兼愛的引證而非本段另行認證鬼神，故不標 XII"
+    },
+    {
+      "chapter": "兼愛下",
+      "para_index": 7,
+      "domains": ["IV", "V", "XI"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「愛利人之親，然後人報我以愛利吾親」回答孝與事親，不能拿掉 IV；靈王、句踐、文公的事例又以「未踰於世而民可移」明說人民可被改變，且改變取決於在上者的好尚與賞罰，分別承重 XI 與 V"
+    },
+    {
+      "chapter": "兼愛下",
+      "para_index": 8,
+      "domains": ["V", "IV", "VII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "「爲人君必惠，爲人臣必忠」規範公共角色與領導責任，不能拿掉 V；「爲人父必慈，爲人子必孝，爲人兄必友，爲人弟必悌」同時明定家庭責任與惠忠慈孝的品格，分別承重 IV 與 VII"
+    },
+    {
+      "chapter": "非攻上",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "從竊桃李、攘牲畜到殺人與攻國，段落以「苟虧人愈多，其不仁茲甚，罪益厚」建立傷害越大越不仁不義的尺度，並批評公共權力反而稱攻國爲義"
+    },
+    {
+      "chapter": "非攻上",
+      "para_index": 2,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「殺一人謂之不義」卻在殺十人、百人乃至攻國時轉而譽之爲義，指出人的道德判斷隨規模增大反而失準，核心是義與不義的良心辨別"
+    },
+    {
+      "chapter": "非攻上",
+      "para_index": 3,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「少見黑曰黑，多見黑曰白」與小非、大非的對照，收束於「天下之君子也，辯義與不義之亂也」，明說人對善惡的辨別發生矛盾"
+    },
+    {
+      "chapter": "非攻中",
+      "para_index": 1,
+      "domains": ["V", "IX", "X"],
+      "modes": ["proposition"],
+      "reason": "本段以攻戰「廢民耕稼樹藝」說公共決策侵奪民生，不能拿掉 V；「飢寒凍餒」「疾病」寫人民的身體苦難，不能拿掉 IX；多次直言百姓、牛馬與軍士「死亡而不反」「死者不可勝數」，又獨立承重 X"
+    },
+    {
+      "chapter": "非攻中",
+      "para_index": 2,
+      "domains": ["V", "I"],
+      "modes": ["proposition"],
+      "reason": "「奪民之用、廢民之利」批評爲政者用萬千人命換取攻城名利，屬公共責任；「土地者，所有餘也；王民者，所不足也」更以「棄所不足，而重所有餘」明辨本末輕重"
+    },
+    {
+      "chapter": "非攻中",
+      "para_index": 3,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "以萬人服藥僅四五人得利比擬少數國家因攻戰獲利，並說「故孝子不以食其親，忠臣不以食其君」，把照護者不應以僥倖危害所負責之人的品格接回多國因戰而亡的公共後果"
+    },
+    {
+      "chapter": "非攻中",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "夫差「自恃其力，伐其攻，譽其智，怠於教」而使吳人有「離罷之心」，把驕矜失德與上下離心、國亡相連；智伯擴張又促成三家合力，承重領導品格與群體權力關係"
+    },
+    {
+      "chapter": "非攻中",
+      "para_index": 5,
+      "domains": ["VIII", "V"],
+      "modes": ["prescription", "proposition"],
+      "reason": "「君子不鏡於水，而鏡於人」要求從他人與智伯的事例學得吉凶，承重學習；所得結論是「功戰爲利」其實不吉而凶，仍落在公共攻戰的判斷"
+    },
+    {
+      "chapter": "非攻下",
+      "para_index": 1,
+      "domains": ["XII", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「天賞之，鬼富之，人譽之」明確認證天與鬼會賞富行義者，承重 XII；又以盲者只能同稱白黑之名卻不能辨物，要求「順慮其義而後爲之行」，承重善惡的實質辨別"
+    },
+    {
+      "chapter": "非攻下",
+      "para_index": 2,
+      "domains": ["V", "XII"],
+      "modes": ["proposition"],
+      "reason": "攻無罪之國被具體寫成芟禾、毀廟、殺民、覆老弱與耗盡百姓財用，構成群體公義問題；同時「取天之人，以攻天之邑」及「滅鬼神之主」把天、鬼的利益當作真實判準，故含 XII"
+    },
+    {
+      "chapter": "非攻下",
+      "para_index": 3,
+      "domains": ["V", "IX", "I"],
+      "modes": ["proposition"],
+      "reason": "興師使官、農、婦各失其務並「反相賊」，不能拿掉 V；厮役「飢寒凍餒疾病而轉死溝壑」是具體身體苦難，不能拿掉 IX；末以「人不足而地有餘」「虧不足而重有餘」另行判斷人與土地的本末，承重 I"
+    },
+    {
+      "chapter": "非攻下",
+      "para_index": 4,
+      "domains": ["V", "XII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "本段以「彼非所謂攻，謂誅也」區分侵略與恢復秩序的公共暴力；三苗、桀、紂三例又反覆寫「天命殛之」「天乃命湯」「天命周文王伐殷」，直接認證神意介入與授命"
+    },
+    {
+      "chapter": "非攻下",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「萬有餘皆滅，而四國獨立」及醫治萬餘人僅「四人愈」只用成功比例反駁兼并有利的政策論證，落點是攻戰成效，沒有另說人爲何如此"
+    },
+    {
+      "chapter": "非攻下",
+      "para_index": 6,
+      "domains": ["V", "VII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "「大國之攻小國也，則同救之」並在城壞、糧缺時修城供給，規範強弱國間的公共責任；「寬以惠，緩易急，民必移」又把仁惠品格與人民願意歸附的反應說成依據"
+    },
+    {
+      "chapter": "非攻下",
+      "para_index": 7,
+      "domains": ["V", "VII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "「繁爲攻伐，此實天下之巨害也」判定戰爭損害國家百姓的公共利益，並以「欲爲仁義，求爲上士」要求士君子依仁義品格實踐非攻"
+    }
+  ]
+}
