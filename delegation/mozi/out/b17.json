@@ -1,0 +1,250 @@
+{
+  "batch": "b17.md",
+  "rows": [
+    {
+      "chapter": "號令",
+      "para_index": 1,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition", "formalization"],
+      "reason": "「地得其任則功成，地不得其任則勞而無功。人亦如此」提出人須適任的原則；「吏卒民多心不一者皆在其將長」又把群體同心與公正賞罰歸責於領導者，已超出守具配置"
+    },
+    {
+      "chapter": "號令",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「分里以爲四部」以下逐項規定守門、巡察、信符、伍保與刑罰；「皆逮父母、妻子、同產」只是連坐範圍，不是在談家庭關係"
+    },
+    {
+      "chapter": "號令",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「伍人不得，斬；得之，除」與「女子賜錢五千」把守城行爲換算成連坐、爵賞和免稅級距，是勸守的賞罰表"
+    },
+    {
+      "chapter": "號令",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「曹無過二人」至符節、門籥與鼓號皆是門禁巡查程序；「五日，官各上喜戲、居處不莊、好侵侮人者一」也是定期上報項目，未展開品格主張"
+    },
+    {
+      "chapter": "號令",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「命必足畏，賞必足利，令必行」只列號令生效、越界收捕、告反折罪及材木登記等執行條件，沒有另說人爲何如此"
+    },
+    {
+      "chapter": "號令",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「各葆其左右」規定互保追責，「百步一積，積五百」規定守具存量，其餘皆換防、清場、入葆等守城程序"
+    },
+    {
+      "chapter": "號令",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「傳言者十步一人」規格化傳令與出入查驗；「諸盜守器械財物及相盜者，直一錢以上，皆斷」等句是軍法禁令，未離開制度條文"
+    },
+    {
+      "chapter": "號令",
+      "para_index": 8,
+      "domains": ["VI", "X"],
+      "modes": ["prescription"],
+      "reason": "「守使吏身行死傷家，臨戶而悲哀之」並要求「必身行死傷者家以弔哀之，身見死事之後」，把戰後領導責任轉向親臨喪傷之家、表達哀痛與承認失去"
+    },
+    {
+      "chapter": "號令",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「左右知，不捕告，皆與同罪」以下是互保、禁行、禁書信、禁私事與告發賞金的軍法清單，親屬只出現在連坐條款"
+    },
+    {
+      "chapter": "號令",
+      "para_index": 10,
+      "domains": ["V"],
+      "modes": ["prescription"],
+      "reason": "「有怨仇讎不相解者，召其人，明白爲之解之」要求守將主動調解城中仇怨；「若貧人食不能自給食者，上食之」又把照顧弱者列爲領導責任"
+    },
+    {
+      "chapter": "號令",
+      "para_index": 11,
+      "domains": ["V"],
+      "modes": ["prescription"],
+      "reason": "「巫、祝、史與望氣者必以善言告民」而「無與望氣妄爲不善言驚恐民，斷勿赦」，落點是掌權者須約束公共言說、不得以恐懼擾民，不是認證望氣或鬼神"
+    },
+    {
+      "chapter": "號令",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「皆爲平直其賈，與主人券，書之」規定徵收估價與償還；「某縣某里某子家食口二人，積粟六百石」是戶口存糧的登記格式，不是問題實例"
+    },
+    {
+      "chapter": "號令",
+      "para_index": 13,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「𠊱三發三信，重賜之」與「爲養其親若妻子」規定斥候的派遣、覆核、家屬安置和賞格，親屬在此只是取信與激勵配置"
+    },
+    {
+      "chapter": "號令",
+      "para_index": 14,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「望見寇，舉一垂；入竟，舉二垂」是烽燧分級信號，後接伐木、窒井、材料入城與券書程序，通篇服務偵候和清場"
+    },
+    {
+      "chapter": "號令",
+      "para_index": 15,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「有司見有罪而不誅，同罰」連同對讙囂、車馳、歌哭、失法等罪的刑級，是軍中行爲與執法責任條文"
+    },
+    {
+      "chapter": "號令",
+      "para_index": 16,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「四人夾令門內坐，二人夾散門外坐」規定侍衛席位，並配置樓候、復道、屯道、鼓與廁所，是宮門警戒和設施規格"
+    },
+    {
+      "chapter": "雜守",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "問答落在「以禦雲梯之法應之」及「渠長丈五尺，其埋者三尺」等攻守尺寸；「民心百倍，多執數賞」只是賞罰所求的戰術效果，未另成心理主張"
+    },
+    {
+      "chapter": "雜守",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「葆者或欲從兄弟、知識者，許之」只是撤入城中時的安置選項，隨後即規定外宅粟米、畜產與財物入城，沒有討論親友關係本身"
+    },
+    {
+      "chapter": "雜守",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「𠊱無過五十，寇至隨葉去」只給斥候人數上限與敵至退行方式，是極短的偵候規程"
+    },
+    {
+      "chapter": "雜守",
+      "para_index": 4,
+      "domains": ["VIII", "V"],
+      "modes": ["proposition"],
+      "reason": "「使人各得其所長，天下事當」把成事連到才能適配，「鈞其分職，天下事得」又提出公平分職的組織原則，已不只是糧帛估價程序"
+    },
+    {
+      "chapter": "雜守",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「望見寇，舉一烽；入境，舉二烽」至五烽五鼓建立敵情與烽鼓的對應表，其餘是郵亭尺寸、輪值與傳警程序"
+    },
+    {
+      "chapter": "雜守",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「升食，終歲三十六石」以下逐級列年糧與日糧，「日二升者二十日」再換算可支撐日數，是救荒口糧計算表"
+    },
+    {
+      "chapter": "雜守",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「積木，各以長短、小大、惡美形相從」規定守材徵集、分類、入城與不能入城時焚毀的流程，沒有離開物資準備"
+    },
+    {
+      "chapter": "雜守",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「父母、昆弟、妻子有質在主所，乃可以堅守」及「諸吏必有質，乃得任事」明指以親屬爲質的防叛條件，不是家庭關係或品性論"
+    },
+    {
+      "chapter": "雜守",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「三十步一弩廬，廬廣十尺，袤丈二尺」規定障礙、弩廬與隊距尺寸，末句只安排遇急時的鄰隊增援"
+    },
+    {
+      "chapter": "雜守",
+      "para_index": 10,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「主節必疏書，署其情」並「須其還報以劍驗之」，是出入使節的書面登記與回報核驗程序"
+    },
+    {
+      "chapter": "雜守",
+      "para_index": 11,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「閤通守舍，相錯穿室。治復道，爲築墉」全段只描述守舍、穿室、復道與墉牆的建築配置"
+    },
+    {
+      "chapter": "雜守",
+      "para_index": 12,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「令民家有三年畜蔬食，以備湛旱、歲不爲常」是災年儲糧與邊縣預種材料的備荒規程，沒有把無常或受苦本身作爲主題"
+    },
+    {
+      "chapter": "雜守",
+      "para_index": 13,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「諸門戶皆令鑿而類竅之，各爲二類」並規定繩長四尺、粗大如指，是門戶機關的製作尺寸"
+    },
+    {
+      "chapter": "雜守",
+      "para_index": 14,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「先殺牛、羊、雞、狗、鳧、鴈、彘」後逐項收皮革、筋、角、脂與羽，只是戰前材料回收清單"
+    },
+    {
+      "chapter": "雜守",
+      "para_index": 15,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「重五斤已上」與「塗茅屋若積薪者，厚五寸已上」分別限定守具重量及防火塗層厚度，是材料工程規格"
+    },
+    {
+      "chapter": "雜守",
+      "para_index": 16,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「吏各舉其步界中財物可以左守備者，上」只命各吏上報轄區內可供守備的財物，是物資清查條文"
+    },
+    {
+      "chapter": "雜守",
+      "para_index": 17,
+      "domains": ["V"],
+      "modes": ["prescription"],
+      "reason": "列出「有讒人，有利人，有惡人，有善人」等稱目後，要求「守必察其所以然者，應名乃內之」；又把民怨與議吏之事留書參驗，主張用人及裁斷不可只憑標籤"
+    },
+    {
+      "chapter": "雜守",
+      "para_index": 18,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「輪軲廣十尺，轅長丈」以下列解車的輪、轅、三輻與板箱尺寸，前句也只要求器材分部定量存放"
+    },
+    {
+      "chapter": "雜守",
+      "para_index": 19,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「凡不守者有五」列城與人口、糧食、市場、畜積的五項守城可行性條件，「率萬家而城方三里」再給城邑比例，仍是技術判準"
+    }
+  ]
+}
