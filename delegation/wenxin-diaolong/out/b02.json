@@ -1,0 +1,404 @@
+{
+  "batch": "b02.md",
+  "rows": [
+    {
+      "chapter": "定勢",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「莫不因情立體，即體成勢也」以下界定文章體勢如何隨體而成，譬喻與例證的落點都在文體規律，沒有獨立的人之斷語"
+    },
+    {
+      "chapter": "定勢",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「奇正雖反，必兼解以俱通；剛柔雖殊，必隨時而適用」規定作者應兼通各種文勢；抽掉寫作後只剩手藝的運用要求"
+    },
+    {
+      "chapter": "定勢",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「章表奏議，則準的乎典雅；賦頌歌詩，則羽儀乎清麗」以下是各文體之勢的分類配對，屬技法框架而不落到人"
+    },
+    {
+      "chapter": "定勢",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「桓譚稱文家各有所慕」以下登錄桓譚、陳思、劉楨、陸雲的論文主張；「先迷後能從善」也只指陸雲改從一種文章觀"
+    },
+    {
+      "chapter": "定勢",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「舊練之才，則執正以馭奇；新學之銳，則逐奇而失正」以熟練程度說明文章守正或失體，後果落在「文體遂弊」，不是人的差異來源"
+    },
+    {
+      "chapter": "定勢",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「形生勢成，始末相承」用水流與飛矢收束形體、文勢相生的技術命題，沒有談人的處境或性質"
+    },
+    {
+      "chapter": "定勢",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「因利騁節，情采自凝」仍在總結順勢成文；「枉轡學步」只是警戒不當模仿的技法譬喻，沒有獨立落到人"
+    },
+    {
+      "chapter": "封禪",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「義勝欲則從，欲勝義則凶」把人的行止與吉凶繫於義能否節制欲望，並以戒慎崇德作結，是善惡與品格的斷語（VII）"
+    },
+    {
+      "chapter": "封禪",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation", "ritual"],
+      "reason": "「固禋祀之殊禮，銘號之秘祝，祀天之壯觀矣」說明封禪的儀節性質，並登錄帝王與篇作者；神瑞、祀天在此是文體與儀式沿革"
+    },
+    {
+      "chapter": "封禪",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「觀相如封禪，蔚為唱首」及「及光武勒碑，則文自張純」逐篇敘述兩漢封禪文的內容與工拙，是作品登錄品題"
+    },
+    {
+      "chapter": "封禪",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「故稱《封禪》麗而不典，《劇秦》典而不實」以下逐一品評揚雄、班固等人的篇章成敗，落點全在作品"
+    },
+    {
+      "chapter": "封禪",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「搆位之始，宜明大體」以下規定封禪文應如何立骨、選言及兼顧古今深淺，是敷理舉統的寫作規範"
+    },
+    {
+      "chapter": "封禪",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["ritual"],
+      "reason": "「封勒帝勣，對越天休」濃縮刻錄帝業、對揚天命的封禪功能，是儀節與頌辭描述，並非對信仰經驗或人的斷語"
+    },
+    {
+      "chapter": "封禪",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["ritual"],
+      "reason": "「樹石九旻，泥金入幽」描寫立石、泥金等封禪儀節，再以龍虬比文章采勢，沒有另說人是什麼樣的"
+    },
+    {
+      "chapter": "序志",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「夫文心者，言為文之用心也」是在釋書名「文心」並交代取名所本，屬名義與著述緣起，不構成人的心理斷語"
+    },
+    {
+      "chapter": "序志",
+      "para_index": 2,
+      "domains": ["I", "X"],
+      "modes": ["proposition"],
+      "reason": "「是以君子處世樹德建言，豈好辯哉，不得已也」把立德立言提出為有限人生的安身立意（I）；「形同草木之脆，名踰金石之堅」直陳生命易逝而名可久存（X）"
+    },
+    {
+      "chapter": "序志",
+      "para_index": 3,
+      "domains": ["VIII"],
+      "modes": ["narrative", "expression"],
+      "reason": "此處採作者自述立志動機的一讀；「隨仲尼而南行，旦而寤，迺怡然而喜」把夢中追隨聖人及醒後喜悅寫成志業召喚（VIII）"
+    },
+    {
+      "chapter": "序志",
+      "para_index": 4,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「辭人愛奇，言貴浮詭，飾羽尚畫，文繡鞶帨，離本彌甚，將遂訛濫」不只論文法，也把尚奇浮詭的動機判為背本趨訛的品格取向（VII）"
+    },
+    {
+      "chapter": "序志",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「各照隅隙，鮮觀衢路」以下逐一評騭魏文、陳思、應瑒、陸機等人的文論得失，是前作述評與本書定位"
+    },
+    {
+      "chapter": "序志",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「原始以表末，釋名以章義，選文以定篇，敷理以舉統」明列全書篇章配置與論述方法，沒有獨立的人之內容"
+    },
+    {
+      "chapter": "序志",
+      "para_index": 7,
+      "domains": ["II"],
+      "modes": ["proposition"],
+      "reason": "「言不盡意，聖人所難，識在缾管，何能矩矱」既承認表意的普遍限度，也明言作者自身見識有限，是自知與自我定位的斷語（II）"
+    },
+    {
+      "chapter": "序志",
+      "para_index": 8,
+      "domains": ["I", "X"],
+      "modes": ["proposition"],
+      "reason": "「無涯惟智，逐物實難，憑性良易」在有限條件中提出不逐外物、依憑本性的生命取向（I）；「生也有涯」直接點明人生有盡（X）"
+    },
+    {
+      "chapter": "序志",
+      "para_index": 9,
+      "domains": ["XIII"],
+      "modes": ["expression"],
+      "reason": "「傲岸泉石，咀嚼文義。文果載心，余心有寄」以第一人稱說明自己在山水與文義中有所寄託，落在內心安頓（XIII）"
+    },
+    {
+      "chapter": "徵聖",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「泛論君子，則云情欲信，辭欲巧；此修身貴文之徵也」要求內情真誠並明指修身，將文辭建立在人的誠信品格上（VII）"
+    },
+    {
+      "chapter": "徵聖",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「繁略殊形，隱顯異術，抑引隨時，變通會適」歸納經典文章繁簡、隱顯的不同作法，結論是「文有師矣」，仍屬寫作法式"
+    },
+    {
+      "chapter": "徵聖",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「是以論文，必徵於聖；窺聖必宗於經」規定論文取法，後文也只調和正言、微辭、體要等文章原則"
+    },
+    {
+      "chapter": "徵聖",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「若徵聖立言，則文其庶矣」由顏闔評孔子華辭的舊說轉成取法聖文的勸告，所規定的仍是文章如何立言"
+    },
+    {
+      "chapter": "徵聖",
+      "para_index": 5,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "「妙極生知，睿哲惟宰」把最高妙的理解歸於生知與睿智，明說人的先天認知能力如何支撐成就（VIII）"
+    },
+    {
+      "chapter": "徵聖",
+      "para_index": 6,
+      "domains": ["I", "X"],
+      "modes": ["proposition"],
+      "reason": "「千載心在」以精神跨越千載寫出立言所承載的長久意義（I）；「百齡影徂」則直寫人的百年生命終將消逝（X）"
+    },
+    {
+      "chapter": "情采",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「文附質也」與「質待文也」用水木、虎豹等譬喻界定文采與質實的關係；「性靈」在此只是文章所綜述的內容"
+    },
+    {
+      "chapter": "情采",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["proposition", "prescription"],
+      "reason": "「立文之道，其理有三」建立形文、聲文、情文的文采分類，末段「馭文采」也是辨華實、邪正的寫作原則，沒有獨立落到人"
+    },
+    {
+      "chapter": "情采",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「情者，文之經，辭者，理之緯」是在界定情、辭、理於成文中的技術位置，所謂「本於情性」沒有另說人的心理狀態"
+    },
+    {
+      "chapter": "情采",
+      "para_index": 4,
+      "domains": ["II", "VII"],
+      "modes": ["proposition"],
+      "reason": "「故有志深軒冕，而汎詠臯壤，心纒幾務，而虛述人外，真宰弗存，翩其反矣」揭出內在志向與自我呈現相反的失真（II）；「諸子之徒，心非鬱陶，苟馳夸飾，鬻聲釣世」直指無真情而求名的動機與品格（VII）"
+    },
+    {
+      "chapter": "情采",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「心定而後結音，理正而後摛藻，使文不滅質，博不溺心」規定安排情理與辭采的下筆次序，判準的落點仍是文章不以文害質"
+    },
+    {
+      "chapter": "情采",
+      "para_index": 6,
+      "domains": ["II"],
+      "modes": ["proposition"],
+      "reason": "「心術既形，茲華乃贍」把文采視為作者內在心術已經顯形後的結果，明說人的內在如何由言辭呈現（II）"
+    },
+    {
+      "chapter": "情采",
+      "para_index": 7,
+      "domains": ["VI"],
+      "modes": ["proposition"],
+      "reason": "「繁采寡情，味之必厭」不只判文章繁豔少情，也明言品味者必然生厭，將文采過盛的後果落到人的情緒反應上（VI）"
+    },
+    {
+      "chapter": "才略",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「虞夏文章」至「商周之世」依時代登錄作品、辭義與典範地位，是九代文章的文學史概述"
+    },
+    {
+      "chapter": "才略",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「皆文名之標者也」收束春秋至戰國人物的辭令、作品與文名，後續「文質相稱」亦是作者作品品題，沒有獨立的人生事件斷語"
+    },
+    {
+      "chapter": "才略",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "全段從「漢室陸賈」起逐一衡量兩漢作者的才、學、辭、理及篇章優劣，是密集的選文定篇與純人物品題"
+    },
+    {
+      "chapter": "才略",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「仲宣溢才，捷而能密，文多兼善」等句逐一品評魏代作家的文才與作品；即使提到性情，判斷仍只服務於文學高下"
+    },
+    {
+      "chapter": "才略",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「各其善也」概括晉代眾多作者各擅何體、作品何失，整段是歷代作品與作者工拙的登錄品題"
+    },
+    {
+      "chapter": "才略",
+      "para_index": 6,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "「崇文之盛世，招才之嘉會哉」把人才得以聚集、發揮繫於時代機會，並以「此古人所以貴乎時也」明說成才需時（VIII）"
+    },
+    {
+      "chapter": "才略",
+      "para_index": 7,
+      "domains": ["II", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「性各異禀」斷言人的天性稟賦彼此不同（II）；「才難然乎」則指出人才之難得，落在才能與成就條件（VIII）"
+    },
+    {
+      "chapter": "才略",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「餘采徘徊，遺風籍一作「藉」甚。無曰紛雜，皎然可品」收束歷代文采雖多仍可辨品，落點是文學遺風與品評"
+    },
+    {
+      "chapter": "指瑕",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「慮動難圓，鮮無瑕病」在此用來說明才思運作文時難免留下作品瑕疵，落點仍是引出文章指瑕，而非人的普遍處境"
+    },
+    {
+      "chapter": "指瑕",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「繁例難載，故略舉四條」點明全段是在列舉陳思、左思、潘岳、崔瑗等作品用語與比擬失當的四類例證"
+    },
+    {
+      "chapter": "指瑕",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「字以訓正，義以理宣」以下考辨「賞」「撫」等字的訓義及用法，所論是用字瑕疵與文風沿襲"
+    },
+    {
+      "chapter": "指瑕",
+      "para_index": 4,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「若排一作「掠」人美辭，以為己力，寳玉大弓，終非其有」把掠取他人美辭冒充己力判為竊取，是可指認的品格過失（VII）"
+    },
+    {
+      "chapter": "指瑕",
+      "para_index": 5,
+      "domains": [],
+      "modes": ["observation", "prescription"],
+      "reason": "「注解為書，所以明正事理，然謬於研求，或率意而斷」以下考正兩則舊注，並以失理為戒；它規範的是注解研求的技術準確性"
+    },
+    {
+      "chapter": "指瑕",
+      "para_index": 6,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "「雖有儁才，謬則多謝」越出單一文法，概括人即使有出眾才能，犯錯仍會招致失敗與譴責，是才能發揮的限制（VIII）"
+    },
+    {
+      "chapter": "指瑕",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「斯言一玷，千載弗化。令章靡疚，亦善之亞」說的是一句文字瑕疵會長久留在篇章，結果落在作品傳存與品質"
+    },
+    {
+      "chapter": "明詩",
+      "para_index": 1,
+      "domains": ["VI"],
+      "modes": ["proposition"],
+      "reason": "「人稟七情，應物斯感，感物吟志，莫非自然」直接斷言人具有七情，接物便自然感發，是人的情緒與內在反應（VI）"
+    },
+    {
+      "chapter": "明詩",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「自商暨周」以下按時代追溯四言、五言及相關作者作品，兼作真偽考辨和篇章品題，是詩體源流登錄"
+    },
+    {
+      "chapter": "明詩",
+      "para_index": 3,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「此其大略也」所概括的是建安至宋初各代詩風、題材與作者工拙的變化；慷慨、玄風等詞在此都是詩史品題"
+    },
+    {
+      "chapter": "明詩",
+      "para_index": 4,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「四言正體，則雅潤為本；五言流調，則清麗居宗」比較四言五言體制，後續列舉雜言、離合、回文、聯句，仍是詩體分類"
+    },
+    {
+      "chapter": "明詩",
+      "para_index": 5,
+      "domains": ["VI"],
+      "modes": ["proposition"],
+      "reason": "「民生而志，詠歌所含」把志意說成人生而具有、由歌詠承載的內在內容，是對人之情志的斷語（VI）"
+    },
+    {
+      "chapter": "明詩",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「神理共契，政序相參」是贊語對詩與義理、政序相契的文體功能總結；「神理」並非信仰認證，也沒有另說人的狀態"
+    }
+  ]
+}
