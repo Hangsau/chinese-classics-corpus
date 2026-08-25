@@ -430,14 +430,26 @@ def _parse_accept(s, body):
             for p in parts:
                 s['b_clauses'].append((p.strip(), g))
     m = re.search(r'`([^`]+)`\[(\d+)\]（(b\d\d)）與 `([^`]+)`\[(\d+)\]（(b\d\d)）'
-                  r'相似度 ([\d.]+)，是全書唯一通過 ≥([\d.]+) 門檻', bbody)
-    if m:
+                  r'相似度 ([\d.]+)', bbody)
+    mt = re.search(r'全書跨批 ≥([\d.]+) 的對子共 (\d+) 對（最高 `([^`]+)`\[(\d+)\]'
+                   r'／`([^`]+)`\[(\d+)\]＝([\d.]+)）', bbody)
+    if m and mt:
         s['blind'] = {'a': (m.group(1), int(m.group(2))), 'ab': m.group(3),
                       'b': (m.group(4), int(m.group(5))), 'bb': m.group(6),
-                      'ratio': float(m.group(7)), 'thr': float(m.group(8))}
-        mm = re.search(r'相似度 ([\d.]+)[–\-]([\d.]+)', bbody)
+                      'ratio': float(m.group(7)), 'thr': float(mt.group(1)),
+                      'n_pairs': int(mt.group(2)),
+                      'top': ((mt.group(3), int(mt.group(4))),
+                              (mt.group(5), int(mt.group(6))), float(mt.group(7)))}
+        mm = re.search(r'章級\*\*相似度實測 ([\d.]+)[–\-]([\d.]+)', bbody)
         if mm:
-            s['blind']['band'] = (float(mm.group(1)), float(mm.group(2)))
+            s['blind']['ch_band'] = (float(mm.group(1)), float(mm.group(2)))
+        mp = re.search(r'段級\*\*另有 (\d+) 對超出 ([\d.]+)（最高 `([^`]+)`\[(\d+)\]'
+                       r'／`([^`]+)`\[(\d+)\]＝([\d.]+)）', bbody)
+        if mp:
+            s['blind']['para_over'] = (int(mp.group(1)), float(mp.group(2)),
+                                       (mp.group(3), int(mp.group(4))),
+                                       (mp.group(5), int(mp.group(6))),
+                                       float(mp.group(7)))
 
 
 def parse_req(cell):
@@ -943,17 +955,18 @@ def check_spec():
             if abs(r - blind['ratio']) > 0.005:
                 F.append('S13 盲測對子宣告相似度 %.3f，實測 %.3f' % (blind['ratio'], r))
         others = [x for x in hits if (x[1], x[3]) != pair and (x[3], x[1]) != pair]
+        if len(others) + 1 != blind['n_pairs']:
+            F.append('S13 SPEC 宣告全書跨批 ≥%.2f 共 %d 對，實測 %d 對'
+                     % (thr, blind['n_pairs'], len(others) + 1))
+        ta, tb, tr = blind['top']
         if others:
-            N.append('S13 SPEC 宣稱這一對是「全書唯一通過 ≥%.2f 門檻」的，實測另有 %d 對達標，'
-                     '最高 %.3f（%s[%d]／%s[%d]）——「唯一」不成立'
-                     % (thr, len(others), others[0][0], others[0][1][0], others[0][1][1],
-                        others[0][3][0], others[0][3][1]))
-            for r, ka, ba, kb, bb in others[:12]:
-                N.append('      %.3f  %s[%d]（%s） / %s[%d]（%s）'
-                         % (r, ka[0], ka[1], ba, kb[0], kb[1], bb))
-        if blind.get('band'):
-            # 「其餘十論上中下三篇 0.06–0.30」沒寫明是章級還是段級，兩種讀法都量給我看
-            lo, hi = blind['band']
+            got = (others[0][1], others[0][3], others[0][0])
+            if {got[0], got[1]} != {ta, tb} or abs(got[2] - tr) > 0.005:
+                F.append('S13 SPEC 宣告最高對子 %s[%d]／%s[%d]＝%.3f，實測 %s[%d]／%s[%d]＝%.3f'
+                         % (ta[0], ta[1], tb[0], tb[1], tr,
+                            got[0][0], got[0][1], got[1][0], got[1][1], got[2]))
+        if blind.get('ch_band'):
+            lo, hi = blind['ch_band']
             g0 = gmap.get(blind['a'][0])
             trio = sorted([c for c in chapter_len
                            if gmap.get(c) == g0 and c[-1] in '上中下'])
@@ -968,14 +981,15 @@ def check_spec():
                     ch_pairs.append((difflib.SequenceMatcher(
                         None, full[trio[i]], full[trio[j]]).ratio(), trio[i], trio[j]))
             ch_pairs.sort()
-            out_ch = [x for x in ch_pairs if x[0] < lo or x[0] > hi]
-            if ch_pairs:
-                N.append('S13 章級讀法：同題上中下 %d 對，實測 %.3f–%.3f，%s'
-                         % (len(ch_pairs), ch_pairs[0][0], ch_pairs[-1][0],
-                            '全落在宣稱的 %.2f–%.2f 內' % (lo, hi) if not out_ch
-                            else '有 %d 對落在宣稱的 %.2f–%.2f 之外（最低 %.3f %s／%s）'
-                                 % (len(out_ch), lo, hi, out_ch[0][0],
-                                    out_ch[0][1], out_ch[0][2])))
+            if ch_pairs and (abs(ch_pairs[0][0] - lo) > 0.005
+                             or abs(ch_pairs[-1][0] - hi) > 0.005):
+                F.append('S13 SPEC 宣告章級實測 %.3f–%.3f，實得 %.3f–%.3f'
+                         % (lo, hi, ch_pairs[0][0], ch_pairs[-1][0]))
+        if blind.get('para_over'):
+            n_over, bound, pa, pb, pr = blind['para_over']
+            g0 = gmap.get(blind['a'][0])
+            trio = sorted([c for c in chapter_len
+                           if gmap.get(c) == g0 and c[-1] in '上中下'])
             same = []
             for i in range(len(trio)):
                 for j in range(i + 1, len(trio)):
@@ -988,17 +1002,18 @@ def check_spec():
                             if c2 != trio[j] or b1 == b2 or (c1, i1) == blind['a']:
                                 continue
                             r = difflib.SequenceMatcher(None, t1, t2).ratio()
-                            if r > hi:
+                            if r > bound:
                                 same.append((r, c1, i1, c2, i2))
             same.sort(reverse=True)
+            if len(same) != n_over:
+                F.append('S13 SPEC 宣告段級超出 %.2f 的有 %d 對，實測 %d 對'
+                         % (bound, n_over, len(same)))
             if same:
-                N.append('S13 段級讀法：同題上中下另有 %d 對段落超出宣稱上界 %.2f，'
-                         '最高 %.3f（%s[%d]／%s[%d]）——盲測門檻 %.2f 以上的還有 %d 對'
-                         % (len(same), hi, same[0][0], same[0][1], same[0][2],
-                            same[0][3], same[0][4], thr,
-                            len([x for x in same if x[0] >= thr])))
-                for r, c1, i1, c2, i2 in same[:5]:
-                    N.append('      %.3f  %s[%d] / %s[%d]' % (r, c1, i1, c2, i2))
+                got = ((same[0][1], same[0][2]), (same[0][3], same[0][4]), same[0][0])
+                if {got[0], got[1]} != {pa, pb} or abs(got[2] - pr) > 0.005:
+                    F.append('S13 SPEC 宣告段級最高 %s[%d]／%s[%d]＝%.3f，實測 %s[%d]／%s[%d]＝%.3f'
+                             % (pa[0], pa[1], pb[0], pb[1], pr,
+                                got[0][0], got[0][1], got[1][0], got[1][1], got[2]))
 
     # ---- 報告
     print('=== 發包前自檢：SPEC.md vs b01–b%02d.md ===' % len(batch_chapters))
