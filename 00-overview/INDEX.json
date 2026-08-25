@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-08-25T12:02:53+00:00",
+    "generated_at": "2026-08-25T14:17:27+00:00",
     "text_count": 76,
     "total_bytes": 10821040,
     "by_category": {
@@ -29,40 +29,40 @@
       "reference": 4,
       "contested": 2
     },
-    "surveyed_count": 47,
-    "annotated_count": 47,
+    "surveyed_count": 48,
+    "annotated_count": 48,
     "scaffolded_count": 0,
-    "paras_judged": 21300,
+    "paras_judged": 21518,
     "paras_pending": 110,
     "domain_hit_counts": {
       "I": 18,
-      "II": 35,
-      "III": 20,
-      "IV": 33,
-      "IX": 25,
-      "V": 43,
-      "VI": 30,
-      "VII": 40,
-      "VIII": 41,
-      "X": 25,
-      "XI": 34,
-      "XII": 26,
-      "XIII": 22
+      "II": 36,
+      "III": 21,
+      "IV": 34,
+      "IX": 26,
+      "V": 44,
+      "VI": 31,
+      "VII": 41,
+      "VIII": 42,
+      "X": 26,
+      "XI": 35,
+      "XII": 27,
+      "XIII": 23
     },
     "domain_para_counts": {
       "I": 105,
-      "II": 728,
-      "III": 149,
-      "IV": 649,
-      "V": 3425,
-      "VI": 673,
-      "VII": 2635,
-      "VIII": 1189,
-      "IX": 172,
-      "X": 358,
-      "XI": 562,
-      "XII": 363,
-      "XIII": 156
+      "II": 742,
+      "III": 156,
+      "IV": 669,
+      "V": 3600,
+      "VI": 684,
+      "VII": 2748,
+      "VIII": 1205,
+      "IX": 179,
+      "X": 372,
+      "XI": 589,
+      "XII": 366,
+      "XIII": 160
     }
   },
   "texts": [
@@ -2060,12 +2060,27 @@
       "size_bytes": 167041,
       "chapter_count": 215,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "domains_null": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII"
+      ],
+      "domains_null": [
+        "I"
+      ],
+      "paras_total": 218,
+      "paras_judged": 218,
+      "annotated": true
     },
     {
       "slug": "yi-zhoushu",

@@ -2,9 +2,9 @@
   "domain": "XII",
   "name_zh": "信仰·神聖·超越",
   "gist": "神存在嗎、信與疑、敬畏與美、神秘經驗",
-  "generated_at": "2026-08-25T12:02:53+00:00",
-  "para_count": 363,
-  "book_count": 26,
+  "generated_at": "2026-08-25T14:17:27+00:00",
+  "para_count": 366,
+  "book_count": 27,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -5122,6 +5122,53 @@
       "note": "",
       "co_domains": [
         "V"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公遊公阜一日有三過言晏子諫第十八",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#18-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "景公出遊於公阜，北面望睹齊國曰：「嗚呼！使古而無死，何如？」晏子曰：「昔者上帝以",
+      "note": "「所謂和者，君甘則臣酸，君淡則臣鹹」把君臣之和界定為有異議的互補而非逢迎（V）；「昔者上帝以人之死為善，仁者息焉，不仁者伏焉」正面處理人之必死及其歸宿（X）；「今君若設文而受諫，謁聖賢人，雖不去彗，星將自亡」把解除警象繫於納諫與親賢等可改行動（XI）；「彗星之出，天為民之亂見之，故詔之妖祥，以戒不敬」明說天以彗星示警並有告誡意圖（XII）",
+      "co_domains": [
+        "V",
+        "X",
+        "XI"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公將伐宋瞢二丈夫立而怒晏子諫第二十二",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#22-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "景公舉兵將伐宋，師過泰山，公瞢見二丈夫立而怒，其怒甚盛。公恐，覺，辟門召占瞢者，",
+      "note": "「夫湯、太甲、武丁、祖乙，天下之盛君也，不宜無後，今惟宋耳，而公伐之」以宋之無罪與存續責問侵伐的公共正當性（V）；「此非泰山之神，是宋之先湯與伊尹也」明認夢中二人為神靈，且「軍進再舍，鼓毀將殪」由敘事結果證實其降殃警告（XII）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公問聖人之不得意何如晏子對以不與世陷乎邪第二十二",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#74-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "景公問晏子曰：「聖人之不得意何如？」晏子對曰：「上作事反天時，從政逆鬼神，藉斂殫",
+      "note": "「潔身守道，不與世陷乎邪」把亂世中拒絕同流定為聖人的品格選擇（VII）；「神祇並怨」與「神降福而不靡」由文本直接認證神祇會怨並降福（XII）；「卑而不失義，瘁而不失廉」寫聖人失意困頓時如何守住自身而與處境相處（XIII）",
+      "co_domains": [
+        "VII",
+        "XIII"
       ]
     },
     {

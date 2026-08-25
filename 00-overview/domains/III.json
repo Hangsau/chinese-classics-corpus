@@ -2,9 +2,9 @@
   "domain": "III",
   "name_zh": "愛與親密",
   "gist": "愛與性、被拒絕、承諾、信任與脆弱、溝通與被理解",
-  "generated_at": "2026-08-25T12:02:53+00:00",
-  "para_count": 149,
-  "book_count": 20,
+  "generated_at": "2026-08-25T14:17:27+00:00",
+  "para_count": 156,
+  "book_count": 21,
   "surveyed_zero_hit": [
     "dengxizi",
     "duduan",
@@ -2106,6 +2106,109 @@
       "co_domains": [
         "VII",
         "VIII"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公欲殺犯所愛之槐者晏子諫第二",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#84-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "景公有所愛槐，令吏謹守之，植木縣之下令曰：「犯槐者刑，傷槐者死。」有不聞令，醉而",
+      "note": "女子以「請有道于相國，不勝其欲，願得充數乎下陳」迂迴求見，晏子卻由「雖然，是必有故」看出表面求愛背後另有訴求，這一段承重於訊息如何被理解（III）",
+      "co_domains": []
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公惡故人晏子退國亂復召晏子第五",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#112-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "景公與晏子立于曲潢之上，晏子稱曰：「衣莫若新，人莫若故。」公曰：「衣之新也，信善",
+      "note": "「衣莫若新，人莫若故」肯定長久相知的人際關係有新交不能替代的價值（III）；「公自治國，身弱于高、國，百姓大亂。公恐，復召晏子」則以失去又召回晏子說明辨識並信任能臣對治理的作用（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公游牛山，少樂，請晏子一願第八",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#145-p01",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "景公游于牛山，少樂，曰：「請晏子一願。」晏子對曰：「不，嬰何願？」公曰：「晏子一",
+      "note": "「有妻而材，則使嬰不忘」把伴侶能提醒自己列為理想的親密支持（III）；「有子而可遺」與「有子而可怒」明寫對子女傳付、教責的家庭期待（IV）；「有君而明」及「有君而可輔」則以君主是否明智、可受輔佐表達理想君臣關係（V）",
+      "co_domains": [
+        "IV",
+        "V"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "田無宇非晏子有老妻，晏子對以去老謂之亂第十",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#147-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "田無宇見晏子獨立於閨內，有婦人出於室者，髮斑白，衣緇布之衣，而無裡裘，田無宇譏之",
+      "note": "「去老者謂之亂，納少者謂之淫」拒絕因妻年老而棄舊納少，把長久承諾置於親密關係中心（III）；「見色而忘義，處富貴而失倫，謂之逆道」把富貴後逐色忘義明定為失德行為（VII）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "工女欲入身于晏子，晏子辭不受第十一",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#148-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "有工女，託于晏子之家者，曰：「婢妾，東郭之野人也，願得入身，比數于下陳焉。」晏子",
+      "note": "工女自陳「願得入身，比數于下陳焉」，晏子則以「男女有別而不通」拒絕，正文處理性與親密接近的界線（III）；「女欲奔僕，僕必色見而行無廉也」把接受此事連到好色與失廉的品格後果（VII）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公欲誅羽人，晏子以為法不宜殺第十二",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#149-p01",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "景公蓋姣，有羽人視景公僣者。公謂左右曰：「問之，何視寡人之僣也？」羽人對曰：「言",
+      "note": "羽人說「竊姣公也」，晏子亦以「雖使色君」正面承認其愛慕欲望，正文直接處理性吸引與拒受（III）；「於法不宜殺也」要求君主不得因被愛慕而任意處死對方，承重在法律、公義與權力節制（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公以晏子妻老且惡欲納愛女晏子再拜以辭第二十四",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#179-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "景公有愛女，請嫁于晏子。公乃往燕晏子之家，飲酒，酣，公見其妻曰：「此子之內子邪？",
+      "note": "「人固以壯托乎老，姣托乎惡，彼嘗托而嬰受之矣」把婚姻理解為伴侶把未來託付給彼此、不可因色衰而背棄的承諾（III）；「嬰與之居故矣，故及其少而姣也」正面面對妻子從少姣到老惡的生命變化（X）",
+      "co_domains": [
+        "X"
       ]
     },
     {

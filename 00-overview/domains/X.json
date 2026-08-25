@@ -2,9 +2,9 @@
   "domain": "X",
   "name_zh": "無常·老·死·失去",
   "gist": "老與時間、失去與哀傷、死亡、耐心與等待",
-  "generated_at": "2026-08-25T12:02:53+00:00",
-  "para_count": 358,
-  "book_count": 25,
+  "generated_at": "2026-08-25T14:17:27+00:00",
+  "para_count": 372,
+  "book_count": 26,
   "surveyed_zero_hit": [
     "dengxizi",
     "duduan",
@@ -5124,6 +5124,220 @@
         "IV",
         "VII",
         "VIII"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公登牛山悲去國而死晏子諫第十七",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#17-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "景公游于牛山，北臨其國城而流涕曰：「若何滂滂去此而死乎？」艾孔、梁丘據皆從而泣，",
+      "note": "「以其迭處之，迭去之，至於君也，而獨為之流涕，是不仁也」正面處理君主面對死亡與失去國位時的哀懼（X）；「不仁之君見一，諂諛之臣見二」同時批評君主與附和哭泣之臣的權力關係（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公遊公阜一日有三過言晏子諫第十八",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#18-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "景公出遊於公阜，北面望睹齊國曰：「嗚呼！使古而無死，何如？」晏子曰：「昔者上帝以",
+      "note": "「所謂和者，君甘則臣酸，君淡則臣鹹」把君臣之和界定為有異議的互補而非逢迎（V）；「昔者上帝以人之死為善，仁者息焉，不仁者伏焉」正面處理人之必死及其歸宿（X）；「今君若設文而受諫，謁聖賢人，雖不去彗，星將自亡」把解除警象繫於納諫與親賢等可改行動（XI）；「彗星之出，天為民之亂見之，故詔之妖祥，以戒不敬」明說天以彗星示警並有告誡意圖（XII）",
+      "co_domains": [
+        "V",
+        "XI",
+        "XII"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公置酒泰山四望而泣晏子諫第二",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#27-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "景公置酒于泰山之上，酒酣，公四望其地，喟然歎，泣數行而下，曰：「寡人將去此堂堂國",
+      "note": "「夫盛之有衰，生之有死，天之分也」正面處理衰亡、老死與對死亡的恐懼（X）；「君之行義回邪，無德于國」以及公歸後「薄賦斂，緩刑罰」把彗星之懼轉回可改變的人事作為（XI）",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公問古而無死其樂若何晏子諫第四",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#29-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "景公飲酒，樂。公曰：「古而無死，其樂若何？」晏子對曰：「古而無死，則古之樂也，君",
+      "note": "「古而無死，則古之樂也，君何得焉」並列歷代先居此地者，說明死亡與世代更替正是今人得以承有生活的條件（X）",
+      "co_domains": []
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公春夏遊獵興役晏子諫第八",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#90-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "景公春夏遊獵，又起大台之役。晏子諫曰：「春秋起役，且遊獵，奪民農時，國家空虛，不",
+      "note": "「春秋起役，且遊獵，奪民農時，國家空虛，不可」以百姓農時與國家安危約束君主逐樂，落在領導責任（V）；景公自言「吾年無幾矣，欲遂吾所樂，卒吾所好」以餘年有限為理由追求所好，正文確實寫他面對生命將盡（X）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公嬖妾死守之三日不斂晏子諫第二十一",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#103-p01",
+      "modes": [
+        "narrative",
+        "ritual"
+      ],
+      "excerpt": "景公之嬖妾嬰子死，公守之，三日不食，膚著于席而不去，左右以復，而君無聽焉。晏子入",
+      "note": "「君獨不知死者之不可以生邪？」迫使景公承認死亡不可逆，並以收斂亡者來面對失去（X）；「哭泣處哀、不以害生道」與「循哀以害性」區分合宜哀悼和被哀傷吞沒的內在狀態（VI）。「彼亦將有鬼神之事焉」只是支開景公、讓棺人入斂的說辭，沒有認證神意",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "莊公不用晏子晏子致邑而退後有崔氏之禍第二",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#109-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "晏子為莊公臣，言大用，每朝賜爵益邑。俄而不用，每朝致邑與爵，爵邑盡，退朝而乘，喟",
+      "note": "「君為社稷死則死之，為社稷亡則亡之。若君為己死，而為己亡，非其私昵，孰能任之」把臣子的責任繫於公共社稷而非君主私欲（V）；面對莊公被弑與自己是否殉死，晏子說「吾何為死」及「以死為義者不足以立功」，直接辨析何時死亡有義、何時徒死（X）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "晏子死，景公馳往哭，哀畢而去第十六",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#153-p01",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "景公游于菑，聞晏子死，公乘侈輿服繁駔驅之。自以為遲，下車而趨。知不若車之速，則又",
+      "note": "「子大夫日夜責寡人，不遺尺寸」及「百姓將誰告夫」寫晏子作為諫臣與百姓申告管道的公共作用（V）；景公「四下而趨，行哭而往，至，伏屍而號」具體呈現急切而深重的哀痛（VI）；「今天降禍于齊，不加于寡人，而加于夫子」是面對晏子死亡、承認不可挽回失去的哀辭（X）",
+      "co_domains": [
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "晏子死，景公哭之，稱：莫復陳告吾過第十七",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#154-p01",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "晏子死，景公操玉加于晏子屍上而哭之，涕沾襟，章子諫曰：「非禮也。」公曰：「安用禮",
+      "note": "「一日而三不聽寡人，今其孰能然乎」追念晏子敢於拒諫君意的臣職，並以「吾失夫子則亡」說明其政治依賴（V）；景公「涕沾襟」且「免而哭，哀盡而去」明寫喪友的悲慟流露（VI）；他伏屍哭訴失去夫子，整段正面承載對死亡與永別的面對（X）",
+      "co_domains": [
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公以晏子妻老且惡欲納愛女晏子再拜以辭第二十四",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#179-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "景公有愛女，請嫁于晏子。公乃往燕晏子之家，飲酒，酣，公見其妻曰：「此子之內子邪？",
+      "note": "「人固以壯托乎老，姣托乎惡，彼嘗托而嬰受之矣」把婚姻理解為伴侶把未來託付給彼此、不可因色衰而背棄的承諾（III）；「嬰與之居故矣，故及其少而姣也」正面面對妻子從少姣到老惡的生命變化（X）",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "晏子老辭邑景公不許致車一乘而後止第二十八",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#183-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "晏子相景公，老辭邑。公曰：「自吾先君定公至今用世多矣，齊大夫未有老辭邑者。今夫子",
+      "note": "「嬰老，德薄無能而厚受祿」是晏子面對年老與能力衰退而重新安排退祿的處境（X）；「德厚而受祿，德薄則辭祿」把所得是否配得上德行定為進退準則，並以辭祿維持上下清潔（VII）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "晏子病將死，妻問所欲言，云毋變爾俗第二十九",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#184-p01",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "晏子病，將死，其妻曰：「夫子無欲言乎？」晏子曰：「吾恐死而俗變。謹視爾家，毋變爾",
+      "note": "「吾恐死而俗變」直寫晏子臨死時所面對的死亡及其後事之憂（X）；他囑妻「謹視爾家，毋變爾俗也」，把臨終關切落在家庭生活與家風的延續（IV）",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "晏子病將死鑿楹納書命子壯而示之第三十",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#185-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "晏子病，將死，鑿楹納書焉，謂其妻曰：「楹語也，子壯而示之。」及壯，發書，書之言曰",
+      "note": "「晏子病，將死，鑿楹納書焉」寫他在死亡將至時預作安排，使遺言能留到身後（X）；「楹語也，子壯而示之」把書中教訓託付給尚未長成的兒子，構成跨世代傳承（IV）",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "晉叔向問齊國若何晏子對以齊德衰民歸田氏第十七",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#202-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "晏子使于晉，叔向從之宴，相與語。叔向曰：「齊其何如？」晏子對曰：「此季世也，吾弗",
+      "note": "「公棄其民，而歸於田氏」及「其愛之如父母，而歸之如流水」以公室暴棄、田氏慈惠解釋民心歸屬與權力轉移（V）；「人事畢矣，待天而已矣」明分人事已盡與等待天命（XI）；「肸之宗十一族，唯羊舌氏在而已，肸又無子」直面宗族凋落與無後的傳承處境（IV）；「幸而得死，豈其獲祀焉」是叔向面對自己的死亡及死後無人祭祀（X）",
+      "co_domains": [
+        "V",
+        "XI",
+        "IV"
       ]
     },
     {

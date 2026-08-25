@@ -2,9 +2,9 @@
   "domain": "VIII",
   "name_zh": "工作·成就·召喚",
   "gist": "工作與金錢、成就與意義、天賦與使命",
-  "generated_at": "2026-08-25T12:02:53+00:00",
-  "para_count": 1189,
-  "book_count": 41,
+  "generated_at": "2026-08-25T14:17:27+00:00",
+  "para_count": 1205,
+  "book_count": 42,
   "surveyed_zero_hit": [
     "duduan",
     "gu-sanfen",
@@ -15274,6 +15274,244 @@
       ],
       "excerpt": "文學曰：「誌善者忘惡，謹小者致大。俎豆之間足以觀禮，閨門之內足以論行。夫服古之服",
       "note": "",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "吳王問齊君僈暴吾子何容焉，晏子對以豈能以道食人第十七",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#42-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "晏子使吳，吳王曰：「寡人得寄僻陋蠻夷之鄉，希見教君子之行，請私而無為罪。」晏子蹴",
+      "note": "「如臣者，豈能以道食人者哉」是晏子面對譏刺後對自身能力與位置的自我評價（II）；「大事不得，小事不為者必貧」並說「此臣之所以仕也」，把能耐、生計與出仕選擇連在一起（VIII）",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "晏子使高糾治家三年而未嘗弼過逐之第二十三",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#48-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "晏子使高糾治家，三年而辭焉。儐者諫曰：「高糾之事夫子三年，曾無以爵祿而逐之，敢請",
+      "note": "「若夫左嬰右嬰之人，不舉四維，四維將不正」說人需要身邊人扶正過失，將受諫與改過連到品格維持（VII）；「今此子事吾三年，未嘗弼吾過也，吾是以辭之」以是否履行勸正職能評定治家者的工作（VIII）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公伐斄勝之問所當賞晏子對以謀勝祿臣第四",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#56-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "景公伐斄，勝之，問晏子曰：「吾欲賞於斄，何如？」對曰：「臣聞之，以臣謀勝國者，益",
+      "note": "「以臣謀勝國者，益臣之祿；以民力勝國者，益民之利」主張戰果利益應按臣民貢獻向下分配，處理賞酬公義（V）；「故用智者不偷業，用力者不傷苦」明說公平回報如何維持謀臣與士卒的投入及工作承擔（VIII）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公問欲善齊國之政幹霸王晏子對以官未具第六",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#58-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "景公問晏子曰：「吾欲善治齊國之政，以幹霸王之諸侯，可乎？」晏子對曰：「宮未具也。",
+      "note": "「未有能士敢以聞者，臣故曰官未具也」把政失歸因於朝廷缺少敢諫而可任用的人，落在領導與用人（V）；「先君能以人之長續其短，以人之厚補其薄」主張依不同人的長處補足君主短處，落在才能發揮（VIII）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公問善為國家者何如晏子對以舉賢官能第十三",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#65-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "景公問晏子曰：「蒞國治民，善為國家者何如？」晏子對曰：「舉賢以臨國，官能以敕民，",
+      "note": "「舉賢官能，則民與君矣」把人民是否親附連到君主能否公正任用賢能（V）；「通則視其所舉，窮則視其所不為，富則視其所分，貧者視其所不取」提出從實際行為考察人才的方法（VIII）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公問天下之所以存亡晏子對以六說第十五",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#67-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "景公問晏子曰：「寡人持不仁，其無義耳也，不然，北面與夫子而義。」晏子對曰：「嬰，",
+      "note": "「修道立義，大不能專，小不能附者滅」把能否持守並實行道義連到人的存亡處境（VII）；「身無以用人，而又不為人用者卑」把能否用人及讓自身能力為人所用視為立身條件（VIII）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公問古之蒞國者任人如何晏子對以人不同能第二十四",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#76-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "景公問晏子曰：「古之蒞國治民者，其任人何如？」晏子對曰：「地不同生，而任之以一種",
+      "note": "「諂諛不邇乎左右，阿黨不治乎本朝」把排除諂諛與黨附列為明王用人的權力準則（V）；「人不同能，而任之以一事，不可責遍成」及「任人之長，不強其短」承認能力差異並主張按長處任職（VIII）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公問得賢之道晏子對以舉之以語考之以事第二十七",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#79-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "景公問晏子曰：「取人得賢之道何如？」晏子對曰：「舉之以語，考之以事，能諭則尚而親",
+      "note": "「舉之以語，考之以事，能諭則尚而親之」提出君主取人、親賢而不辱的用人準則（V）；「拙于文而工於事，言不中不言，行不法不為也」把實際辦事能力置於文飾之上（VIII）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公為履飾以金玉晏子諫第十三",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#95-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "景公為履，黃金之綦，飾以銀，連以珠，良玉之絢，其長尺，冰月服之以聽朝。晏子朝，公",
+      "note": "「履重不節，是過任也，失生之情矣」把鞋履能否合乎寒暖、輕重與身體活動作為判斷核心（IX）；「魯工不知寒溫之節、輕重之量，以害正生，其罪一也」依工匠作品是否適身、盡職來追究職業責任（VIII）",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公欲見高糾晏子辭以祿仕之臣第二十八",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#135-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "景公謂晏子曰：「吾聞高糾與夫子游，寡人請見之。」晏子對曰：「臣聞之，為地戰者，不",
+      "note": "「為地戰者，不能成其王」與「何足以補君乎」以能否成就君主、匡補政治衡量臣屬價值（V）；「為祿仕者，不能正其君」則把只為俸祿的工作動機連到無法履行諫正職責，涉及職業志向與成就（VIII）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公為大鐘，晏子與仲尼、柏常騫知將毀第九",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#146-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "景公為大鐘，將縣之，晏子、仲尼、柏常騫，三人朝，俱曰：「鐘將毀。」沖之，果毀。公",
+      "note": "晏子以「不祀先君而以燕，非禮」把大鐘用於私宴而不祭先君判為失禮行為（VII）；仲尼以「鐘大而縣下，沖之，其氣下回而上薄」說明毀鐘的物理原因，與三人各憑所知作答共同呈現知識與專業判斷（VIII）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "田無宇請求四方之學士晏子謂君子難得第十三",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#168-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "田桓子見晏子獨立于牆陰，曰：「子何為獨立而不憂？何不求四方之學士可者而與坐？」晏",
+      "note": "「共立似君子，出言而非也」與小人如部婁、近之則傷的譬喻，從言行而非名貌分辨君子與小人（VII）；「靜處遠慮，見歲若月，學問不厭，不知老之將至」把獨處用於深思與不倦學習（VIII）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "梁丘據自患不及晏子晏子勉據以常為常行第二十七",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#182-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "梁丘據謂晏子曰：「吾至死不及夫子矣！」晏子曰：「嬰聞之，為者常成、行者常至。嬰非",
+      "note": "「為者常成、行者常至」把成就歸於持續實作，而非一次性的才具（VIII）；「嬰非有異於人也，常為而不置，常行而不休者，故難及也」明說人並無先天之異，持續行動能改變是否可及的結果（XI）",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公問桓公何以致霸晏子對以下賢以身第二",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#187-p01",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "景公問于晏子曰：「昔吾先君桓公善飲酒，窮樂，食味方丈，好色，無別辟，若此，何以能",
+      "note": "「先君見賢不留，使能不怠」把霸業歸因於領導者及時任賢、使能的用人方式，且以「內政則民懷之」寫出民眾回應（V）；「知其能，足以安國濟功」及聽甯戚歌而「舉以為大田」，具體寫辨識並任用才能（VIII）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公問賢不肖可學乎晏子對以勉強為上第六",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#191-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "景公問晏子曰：「人性有賢不肖，可學乎？」晏子對曰：「詩云：『高山仰之，景行行之』",
+      "note": "「列士並學，終善者為師」把持續學習與足以成為他人之師相連，直接討論學習與成就（VIII）；「善而不怠者為長」回應人性賢不肖是否可學，將人的提升歸於不懈努力而非固定資質（XI）",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "叔向問事君徒處之義奚如晏子對以大賢無擇第二十",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#205-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "叔向問晏子曰：「事君之倫，徒處之義，奚如？」晏子對曰：「事君之倫，知慮足以安國，",
+      "note": "「知慮足以安國，譽厚足以導民，和柔足以懷眾」以安國、導民、懷眾界定事君者的公共責任（V）；「潔於治己，不飾過以求先，不讒諛以求進，不阿以私，不誣所能」把廉正落到不飾過、不讒諛、不徇私等行為（VII）；「盡力守職，不怠奉官」直接規定任職者在職務與官事上應有的勤勉（VIII）",
       "co_domains": [
         "V",
         "VII"

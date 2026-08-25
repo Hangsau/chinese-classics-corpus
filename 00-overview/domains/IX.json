@@ -2,9 +2,9 @@
   "domain": "IX",
   "name_zh": "苦難·疾病·身體",
   "gist": "疾病與身體、受苦的意義、照顧與被照顧",
-  "generated_at": "2026-08-25T12:02:53+00:00",
-  "para_count": 172,
-  "book_count": 25,
+  "generated_at": "2026-08-25T14:17:27+00:00",
+  "para_count": 179,
+  "book_count": 26,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -2487,6 +2487,110 @@
       "note": "",
       "co_domains": [
         "V"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公飲酒不恤天災致能歌者晏子諫第五",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#05-p01",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "景公之時，霖雨十有七日。公飲酒，日夜相繼。晏子請發粟於民，三請，不見許。公命柏遽",
+      "note": "「狗馬保妾，不已厚乎？民氓百姓，不亦薄乎？」直接責問資源分配對權貴厚、對百姓薄的不公（V）；「百姓老弱，凍寒不得短褐，饑餓不得糟糠，敝撤無走。四顧無告」具體寫出災民身處饑寒、無衣無食的身體困境（IX）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公遊寒途不恤死胔晏子諫第十九",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#19-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "景公出遊於寒途，睹死胔，默然不間。晏子諫曰：「昔吾先君桓公出遊，睹饑者與之食，睹",
+      "note": "「財屈力竭，下無以親上；驕泰奢侈，上無以親下」指出厚斂與奢侈使上下離心，落在領導與民眾關係（V）；「民氓饑寒凍餒，死胔相望」直接寫百姓身處饑餓、寒凍而至死亡的身體苦境（IX）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公衣狐白裘不知天寒晏子諫第二十",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#20-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "景公之時，雨雪三日而不霽。公被狐白之裘，坐堂側陛。晏子入見，立有間。公曰：「怪哉",
+      "note": "「飽而知人之飢，溫而知人之寒，逸而知人之勞」以能否體察他人困苦界定賢君的領導責任（V）；「乃令出裘發粟，與飢寒」以發衣發粟回應百姓正在承受的饑寒身體處境（IX）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公為履飾以金玉晏子諫第十三",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#95-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "景公為履，黃金之綦，飾以銀，連以珠，良玉之絢，其長尺，冰月服之以聽朝。晏子朝，公",
+      "note": "「履重不節，是過任也，失生之情矣」把鞋履能否合乎寒暖、輕重與身體活動作為判斷核心（IX）；「魯工不知寒溫之節、輕重之量，以害正生，其罪一也」依工匠作品是否適身、盡職來追究職業責任（VIII）",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公為巨冠長衣以聽朝晏子諫第十六",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#98-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "景公為巨冠長衣以聽朝，疾視矜立，日晏不罷。晏子進曰：「聖人之服，中侻而不駔，可以",
+      "note": "「今君之服，駔華不可以導眾，疾視矜立，不可以奉生」指出衣冠與姿態已妨礙身體活動與養生（IX）；「是以下皆法其服，而民爭學其容」說明君主的穿著舉止會成為民眾模仿的領導示範（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公病水瞢與日鬥晏子教占瞢者以對第六",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#161-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "景公病水，臥十數日，夜瞢與二日鬥，不勝。晏子朝，公曰：「夕者，吾瞢與二日鬥，而寡",
+      "note": "「景公病水，臥十數日」與「居三日，公病大愈」使景公親歷的病程成為情節所寫的身體處境（IX）；「以晏子不奪人之功，以占瞢者不蔽人之能」把不奪功、不蔽能明定為二人的可取品格（VII）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "yanzi-chunqiu",
+      "chapter": "景公病瘍晏子撫而對之乃知群臣之野第七",
+      "para_index": 1,
+      "para_id": "yanzi-chunqiu#162-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "景公病疽，在背。高子國子請公曰：「職當撫瘍。」高子進而撫瘍。公曰：「熱乎？」曰：",
+      "note": "「寡人有病，不能勝衣冠」寫景公在背疽中連衣冠都難以承受的親身處境（IX）；「吾不見君子，不知野人之拙也」以兩種撫瘍應對的差別評判體貼得宜與粗拙的品格（VII）",
+      "co_domains": [
+        "VII"
       ]
     },
     {
