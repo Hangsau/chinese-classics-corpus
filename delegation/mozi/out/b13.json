@@ -1,0 +1,299 @@
+{
+  "batch": "b13.md",
+  "rows": [
+    {
+      "chapter": "耕柱",
+      "para_index": 1,
+      "domains": ["VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「驥足以責」與「我亦以子爲足以責」以能任事的驥作喻，說明能力較高者也承受較高要求，落在才能發揮與成就責任"
+    },
+    {
+      "chapter": "耕柱",
+      "para_index": 2,
+      "domains": ["XII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「而鬼神智之」並收束為「鬼神之明智於聖人也」，由文本正面認證鬼神能預知數百年後之事，承重於神聖超越"
+    },
+    {
+      "chapter": "耕柱",
+      "para_index": 3,
+      "domains": ["VII", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「能談辯者談辯，能說書者說書，能從事者從事，然後義事成也」主張各按所能投入共同義事，兼及行義與才能分工"
+    },
+    {
+      "chapter": "耕柱",
+      "para_index": 4,
+      "domains": ["VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "在功效尚未出現時仍以奉水、益火兩種「意」分是非，末句「吾亦是吾意，而非子之意也」把道德評價落在行動意向"
+    },
+    {
+      "chapter": "耕柱",
+      "para_index": 5,
+      "domains": ["VII"],
+      "modes": ["narrative"],
+      "reason": "墨子兩次說「未可智也」，而耕柱子後來「遺十金」印證不可由一次薄待客人的表象倉促判定其品行"
+    },
+    {
+      "chapter": "耕柱",
+      "para_index": 6,
+      "domains": ["VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「見子亦從事，不見子亦從事」者較可貴，將無人看見、無外在賞助時仍行義說成品格的價值"
+    },
+    {
+      "chapter": "耕柱",
+      "para_index": 7,
+      "domains": ["VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「言則稱於湯文，行則譬於狗豨」譴責言談崇尚聖王、行為卻以爭鬭比同禽獸的不一致，承重於品格"
+    },
+    {
+      "chapter": "耕柱",
+      "para_index": 8,
+      "domains": ["VII", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「天下之所以生者，以先王之道教也」肯定先王之教的作用，又以「可譽而不譽，非仁也」把是否稱揚可譽者連到仁德"
+    },
+    {
+      "chapter": "耕柱",
+      "para_index": 9,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "段落以能否「利民」重估寶物，並以「義可以利人，故曰：義，天下之良寶也」把公共治理與義的價值直接相連"
+    },
+    {
+      "chapter": "耕柱",
+      "para_index": 10,
+      "domains": ["VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「問所以爲之若之何也」指出求問的是方法，而「不以人之所不智告人，以所智告之」批評只重述已知目標，承重於教與知的方法"
+    },
+    {
+      "chapter": "耕柱",
+      "para_index": 11,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「攻者農夫不得耕，婦人不得織」且被攻者也同樣停業，藉雙方勞動皆受破壞來批評大國攻小國的公共傷害"
+    },
+    {
+      "chapter": "耕柱",
+      "para_index": 12,
+      "domains": ["VII"],
+      "modes": ["prescription"],
+      "reason": "「言足以復行者，常之；不足以舉行者，勿常」要求所言能落實於行，否則只是「蕩口」，是對言行品格的規範"
+    },
+    {
+      "chapter": "耕柱",
+      "para_index": 13,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "高石子因「三朝必盡言，而言無行」去位，並以「倍祿而鄉義」受稱許，說明身處君臣仕祿關係仍應以道義而非名利作取捨"
+    },
+    {
+      "chapter": "耕柱",
+      "para_index": 14,
+      "domains": ["II", "VII"],
+      "modes": ["observation", "proposition"],
+      "reason": "「貧而謂之富則怒，無義而謂之有義則喜」揭出人對財富名實敏感、對自身無義卻樂受美名的自我欺瞞"
+    },
+    {
+      "chapter": "耕柱",
+      "para_index": 15,
+      "domains": ["VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「孰先人而曰有則三而已矣」追問把法則封閉在先人三則的根據，並以「人之先有後生」指出後生者仍會接續產生，承重於知識與創造不應封閉"
+    },
+    {
+      "chapter": "耕柱",
+      "para_index": 16,
+      "domains": ["VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "以「三軍北，失後之人求賞」譬喻叛離後才返回者仍不可自稱無罪，判斷的是犯錯後對責任的承擔而非返回先後"
+    },
+    {
+      "chapter": "耕柱",
+      "para_index": 17,
+      "domains": ["VII", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「古之善者則訹之，今之善者則作之，欲善之益多也」主張既傳習古善也創作今善，使善行與人的創造共同增多"
+    },
+    {
+      "chapter": "耕柱",
+      "para_index": 18,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "巫馬子主張「有殺彼以利我」，墨子把此說普遍化為「天下欲殺子以利己」，揭示極端自利原則會摧毀共同生活且反噬其倡議者"
+    },
+    {
+      "chapter": "耕柱",
+      "para_index": 19,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「若無所利而不言，是蕩口也」以是否有所利作為發言是否只是空談的判準，要求言語負有實質善益"
+    },
+    {
+      "chapter": "耕柱",
+      "para_index": 20,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "楚地已「曠蕪而不可勝辟」仍竊宋鄭閒邑，被比作食物有餘卻竊餅的「竊疾」，把侵略判為權力貪欲與不義"
+    },
+    {
+      "chapter": "耕柱",
+      "para_index": 21,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "兩位治政者「不能相信」卻只祝求和，被比作「弇其目」而祈求皆視，批評不處理彼此信任與責任、只求外力代勞的悖謬"
+    },
+    {
+      "chapter": "耕柱",
+      "para_index": 22,
+      "domains": ["II", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "駱滑氂自稱「好勇」卻必殺勇士，墨子據「欲與其所好，度其所惡」判其實為「惡勇」，揭出自我標榜與行為實質相反"
+    },
+    {
+      "chapter": "貴義",
+      "para_index": 1,
+      "domains": ["I", "VII"],
+      "modes": ["proposition"],
+      "reason": "以冠履不若手足、天下不若身逐層比較價值，最後由「萬事莫貴於義也」把義置於生命取捨的最高位置"
+    },
+    {
+      "chapter": "貴義",
+      "para_index": 2,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "面對「天下莫爲義」仍以一人耕養九人說「耕者不可以不益急」，主張行義者越少，個人對共同需要的道德責任反而越重"
+    },
+    {
+      "chapter": "貴義",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "以草藥雖賤而能治疾、伊尹雖賤而如「良醫善藥」為喻，主張君主應按實際用處接受人才與建言，不以出身賤棄之"
+    },
+    {
+      "chapter": "貴義",
+      "para_index": 4,
+      "domains": ["VII"],
+      "modes": ["prescription"],
+      "reason": "「利於天鬼百姓者爲之」與「害於天鬼百姓者舍之」直接以利害規定言動取捨，並以聖王、暴王之行作善惡對照；本段未另行認證鬼神意志或賞罰"
+    },
+    {
+      "chapter": "貴義",
+      "para_index": 5,
+      "domains": ["VII"],
+      "modes": ["prescription"],
+      "reason": "「言足以遷行者，常之；不足以遷行者，勿常」以能否改變行動衡量言語，並斥不能實行而常說者為「蕩口」"
+    },
+    {
+      "chapter": "貴義",
+      "para_index": 6,
+      "domains": ["VII", "VIII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "「嘿則思，言則誨，動則事，使三者代御」把思考、教誨與做事的交替實踐列為成聖的修養途徑"
+    },
+    {
+      "chapter": "貴義",
+      "para_index": 7,
+      "domains": ["VI", "VII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "「必去喜、去怒、去樂、去悲、去愛，而用仁義」明言調御多種情感，並使全身從事於義，以內在節制通向品格養成"
+    },
+    {
+      "chapter": "貴義",
+      "para_index": 8,
+      "domains": ["VII", "VIII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "以匠人斵木失敗也不「排其繩」為喻，要求「爲義而不能」者不可因自身能力未逮便排斥正道，兼及道德堅持與習作改進"
+    },
+    {
+      "chapter": "貴義",
+      "para_index": 9,
+      "domains": ["V", "VIII"],
+      "modes": ["observation", "proposition"],
+      "reason": "「爲一彘之宰，不能則辭之；使爲一國之相，不能而爲之」對照小職與國相，批評無能力者反而冒任重大公共職責"
+    },
+    {
+      "chapter": "貴義",
+      "para_index": 10,
+      "domains": ["II", "VII"],
+      "modes": ["proposition"],
+      "reason": "以瞽者能說白黑之名卻不能實取作比，指出君子雖能「名仁」，在「兼仁與不仁」時不能選取，故其道德知識只有名而無實"
+    },
+    {
+      "chapter": "貴義",
+      "para_index": 11,
+      "domains": ["II", "VII"],
+      "modes": ["proposition"],
+      "reason": "「士之用身，不若商人之用一布之慎也」以商人擇布反襯士人隨「意之所欲」行事，指出對自身選擇失慎會招致刑罰與毀醜"
+    },
+    {
+      "chapter": "貴義",
+      "para_index": 12,
+      "domains": ["II", "VII"],
+      "modes": ["proposition"],
+      "reason": "「欲其義之成」卻在別人「助之脩其身」時發怒，被比作想成牆又怒人助築，揭出願望與拒絕自我修養之間的矛盾"
+    },
+    {
+      "chapter": "貴義",
+      "para_index": 13,
+      "domains": ["IV", "VIII"],
+      "modes": ["proposition"],
+      "reason": "古之聖王將道「傳遺後世子孫」並書刻保存，目的在「欲後世子孫法之也」，承重於跨世代傳承與後人的學習實踐"
+    },
+    {
+      "chapter": "貴義",
+      "para_index": 14,
+      "domains": ["VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "墨子以「民聽不鈞，是以書多也」解釋教材因人而異，又說公尚過能「數逆於精微」而只須知要，主張學習與教法須依理解能力調整"
+    },
+    {
+      "chapter": "貴義",
+      "para_index": 15,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "本段採命中讀法：「取飾車食馬之費與繡衣之財以畜士」不是單純算式，而是勸小國領導者把奢用轉為養士、以公共安全決定資源優先次序"
+    },
+    {
+      "chapter": "貴義",
+      "para_index": 16,
+      "domains": ["II", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "仕者先稱因承諾「不當」而離去，卻承認若授過千盆便「不去」，墨子遂揭明「非爲其不審也，爲其寡也」，辨出原則說辭下的逐利動機"
+    },
+    {
+      "chapter": "貴義",
+      "para_index": 17,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "世俗君子見負粟者「必起之」卻對「爲義之君子」非毀，以兩種助人反應的落差批評群體對義士的不公與道德失準"
+    },
+    {
+      "chapter": "貴義",
+      "para_index": 18,
+      "domains": ["VII", "VIII"],
+      "modes": ["proposition"],
+      "reason": "商人為倍利雖有「關梁之難、盜賊之危」仍必行，士人坐而言義、獲利更大且無此危卻不為，藉努力差距批評行義意志與計利能力不足"
+    },
+    {
+      "chapter": "貴義",
+      "para_index": 19,
+      "domains": ["XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "墨子以各方皆有黑白之人反駁日者的方位色禁，指出「若用子之言，則是禁天下之行者也」，破除吉凶術數對人行動自由的限制，且不認證天鬼"
+    },
+    {
+      "chapter": "貴義",
+      "para_index": 20,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "「吾言足用矣」後以舍穫攈粟比喻棄可用之言追逐別思，又以卵投石說明其理不可毀，承重於如何取用與守持所學之言"
+    }
+  ]
+}
