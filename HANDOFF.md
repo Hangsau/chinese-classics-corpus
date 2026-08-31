@@ -1,7 +1,36 @@
 # HANDOFF — chinese-classics-corpus
 
 > 狀態快照。行為規範見 [`CLAUDE.md`](./CLAUDE.md)，結構導航見 [`MAP.md`](./MAP.md)，資料契約見 [`SCHEMA.md`](./SCHEMA.md)。
-> 最後更新：2026-08-26
+> 最後更新：2026-09-01
+
+## 進行中：吳越春秋 493 段標註發包（2026-09-01 未完）
+
+**進度**：SPEC 已寫完並硬化，三份通讀報告全部落地，**試點批 b02＋b10＋b01（125 段）已發包給 codex，回收物尚未驗收**。
+
+| 階段 | 狀態 |
+|---|---|
+| 分派表（G1–G5）／SPEC／accept.py／擾動探針 | ✅ 41/41 族斷言確認會叫、`--check-spec` 0 FAIL |
+| g01 通讀（b01＋b10，38 段，G5＋G4） | ✅ 已併入 SPEC |
+| g02 通讀（b02–b05，239 段，G1） | ✅ 已併入 SPEC（commit 99fdd4d） |
+| g03 通讀（b06–b09，216 段，G2＋G3） | ✅ 已落地（commit 768b71e），**尚未併入 SPEC** |
+| 試點批 b02＋b10＋b01 | ⏳ codex 執行中，產物落 `delegation/wuyue-chunqiu/out/bNN.json` |
+| 其餘七批 b03–b09 | ⬜ 未發 |
+
+**下一手（照這個順序）**：
+
+1. **驗收試點**：確認 `out/b02.json`／`b10.json`／`b01.json` 存在且非空 → `PYTHONIOENCODING=utf-8 python accept.py`（A 類硬條件）→ `scripts/check-delegation-out.py --slug wuyue-chunqiu` → `scripts/check-reason-quotes.py --slug wuyue-chunqiu`。**exit 0 不算數，看實際產物。**
+2. **g03 併入 SPEC**：先由我獨立把 g03 的逐字引句回 `raw/original.txt` 用 `split_paragraphs` 對拍（**§8 自述不算通過**，g02 那次是兩邊獨立收斂才採信）；補進 SPEC 後同步補擾動探針案例，再跑 `probe_spec.py` 確認新斷言族真的會叫。
+3. 試點校準結果回填 SPEC，再 `bash scripts/run-delegation.sh wuyue-chunqiu b03 b04 b05 b06 b07 b08 b09`。
+4. 回收：`check-delegation-out.py` → `check-reason-quotes.py` → **`make-scaffold.py`（必須在 apply 之前，否則 `FileNotFoundError`）** → `apply-delegation.py --slug wuyue-chunqiu --tagged-by <model>` → `annotate.py stats` → `verify.py` → `build-index.py`。
+
+**踩雷點**：
+
+- 探針改寫 SPEC 一律 `read_bytes`／`write_bytes`（`read_text` 會把 LF 轉 CRLF，破 SHA-256）。
+- 驗收器**按章名歸群不按批次**——b06 橫跨 G2 與 G3。
+- SPEC 自我矛盾 `--check-spec` 抓不到（它只對拍數字與引句、不讀立場）：把某段升為硬錨時，要同步把它從灰區移走。g02 這次的文種賜死就是。
+- 數量帶寬本庫已連錯九次，位置錨點零校準全過。帶寬只寫「別把整張表填滿」，不要寫成硬門檻。
+
+**配額**：2026-09-01 收工時 Claude 5H 99%／7D 96%（撞牆邊緣），codex 300m 窗僅 26%。**批量工作一律走 codex**。
 
 ## 現在在哪
 
