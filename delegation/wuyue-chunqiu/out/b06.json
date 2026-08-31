@@ -1,0 +1,180 @@
+{
+  "batch": "b06.md",
+  "rows": [
+    {
+      "chapter": "吳太伯傳",
+      "para_index": 1,
+      "domains": ["IV", "VIII"],
+      "modes": ["narrative"],
+      "reason": "「姜嫄怪而棄于阨狹之巷，牛馬過者折易而避之」把后稷的棄養與被保全寫成親子及養育處境（IV）；「堯聘棄使教民山居，隨地造區，研營種之術」明寫他以農業專長受任並教民（VIII）"
+    },
+    {
+      "chapter": "吳太伯傳",
+      "para_index": 2,
+      "domains": ["VII", "V"],
+      "modes": ["narrative"],
+      "reason": "「公劉慈仁，行不履生草，運車以避葭葦」以不傷生物刻畫慈仁品格（VII）；「變易風俗，民化其政」寫其施政改變群體風俗（V）"
+    },
+    {
+      "chapter": "吳太伯傳",
+      "para_index": 3,
+      "domains": ["VII", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「脩公劉后稷之業，積德行義，為狄人所慕」以積德行義定其品格（VII）；「君子不以養害害所養」使古公為免以人民奉養自身而選擇離國，落在君主對群體的責任（V）"
+    },
+    {
+      "chapter": "吳太伯傳",
+      "para_index": 4,
+      "domains": ["IV"],
+      "modes": ["narrative"],
+      "reason": "「古公知昌聖，欲傳國以及昌」引出太伯、仲雍離國自廢資格的讓位行動，段落承重在家族傳承與王位安排（IV）"
+    },
+    {
+      "chapter": "吳太伯傳",
+      "para_index": 5,
+      "domains": ["II", "V"],
+      "modes": ["narrative"],
+      "reason": "「吾以伯長居國，絕嗣者也，其當有封者，吳仲也」由太伯親自界定自身名號、排行與繼嗣位置（II）；「荊蠻義之，從而歸之者千有餘家，共立以為勾吳」寫群眾擁立及共同體形成（V）"
+    },
+    {
+      "chapter": "吳太伯傳",
+      "para_index": 6,
+      "domains": ["IV", "V"],
+      "modes": ["narrative"],
+      "reason": "「令季歷讓國於太伯，而三讓不受」直接承載兄弟間的王位讓受與傳承（IV）；「遵公劉、古公之術業於養老，天下歸之」把承繼先業的養老施政寫成天下歸附之因（V）"
+    },
+    {
+      "chapter": "吳太伯傳",
+      "para_index": 7,
+      "domains": ["V"],
+      "modes": ["observation"],
+      "reason": "「與中國時通朝會，而國斯霸焉」在世系之末收束吳國與諸侯往來及稱霸，承重為國際與群體政治秩序（V）"
+    },
+    {
+      "chapter": "壽夢元年",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "「孤在夷蠻，徒以椎髻為俗，豈有斯之服哉！」以自身風俗對照諸侯禮樂，段落實質在不同群體的禮俗與文化位置（V）"
+    },
+    {
+      "chapter": "壽夢二年",
+      "para_index": 1,
+      "domains": [],
+      "modes": [],
+      "reason": "本段只以「教吳射御，導之伐楚」串起用人、交戰、敗師與結讎的編年事目；依 G3 判空側 rider，沒有停下來處理可獨立承重的人生問題，故判空"
+    },
+    {
+      "chapter": "壽夢十六年",
+      "para_index": 1,
+      "domains": [],
+      "modes": [],
+      "reason": "「乃舉兵伐吳，至衡山而還」只記某年出兵及退還，屬 G3 純繫年條目；段內沒有登錄之外可獨立承重的人生問題，故判空"
+    },
+    {
+      "chapter": "壽夢十七年",
+      "para_index": 1,
+      "domains": [],
+      "modes": [],
+      "reason": "「壽夢以巫臣子狐庸為相，任以國政」只是某年任相的編年骨架；依 G3 判空側 rider，沒有進一步展開用人原則或人物處境，故判空"
+    },
+    {
+      "chapter": "壽夢二十五年",
+      "para_index": 1,
+      "domains": ["X", "IV"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「二十五年，壽夢病將卒」讓當事人臨終與死亡成為傳位決定的直接處境（X）；「禮有舊制，奈何廢前王之禮，而行父子之私乎？」由季札以禮制拒絕父子私授，承載家族傳承規範（IV）"
+    },
+    {
+      "chapter": "壽夢二十五年",
+      "para_index": 2,
+      "domains": ["IV"],
+      "modes": ["narrative", "prescription"],
+      "reason": "「我欲傳國季札，爾無忘寡人之言。」是壽夢對諸樊的臨終傳位囑託，整段圍繞父子如何履行家族繼承安排（IV）"
+    },
+    {
+      "chapter": "壽夢二十五年",
+      "para_index": 3,
+      "domains": ["IV"],
+      "modes": ["observation"],
+      "reason": "「諸樊以適長攝行事，當國政」明記壽夢死後由嫡長子暫攝國政，承重在王位與家族傳承的接續（IV）"
+    },
+    {
+      "chapter": "諸樊元年",
+      "para_index": 1,
+      "domains": ["IV"],
+      "modes": ["narrative"],
+      "reason": "「今國者，子之國也，吾願達前王之義。」是諸樊服喪後依父命向季札讓國，段落承重在喪後履行家族傳位託付（IV）"
+    },
+    {
+      "chapter": "諸樊元年",
+      "para_index": 2,
+      "domains": ["IV"],
+      "modes": ["proposition"],
+      "reason": "「夫適長當國，非前王之私，乃宗廟社稷之制，豈可變乎？」以嫡長繼位為不可任意改變的宗廟制度，直接討論家族與政權傳承（IV）"
+    },
+    {
+      "chapter": "諸樊元年",
+      "para_index": 3,
+      "domains": ["V", "IV"],
+      "modes": ["proposition"],
+      "reason": "「苟可施於國，何先王之命有！」主張是否有利於國家應優先於成例，承重在公共治理（V）；「太王改為季歷，二伯來入荊蠻，遂城為國」援引改變繼承安排的先例來論證傳位（IV）"
+    },
+    {
+      "chapter": "諸樊元年",
+      "para_index": 4,
+      "domains": ["II", "VII"],
+      "modes": ["proposition"],
+      "reason": "「札雖不才，願附子臧之義」明示季札選擇以子臧的行義定位自己（II）；「諸侯與曹人不義而立於國」直接以不義裁斷違反正當繼位者的品格與行為（VII）"
+    },
+    {
+      "chapter": "諸樊元年",
+      "para_index": 5,
+      "domains": ["IV", "VII"],
+      "modes": ["narrative"],
+      "reason": "「必以國及季札。」是諸樊命弟繼續把國位傳到季札的家族傳承安排（IV）；「諸樊驕恣，輕慢鬼神，仰天求死」以驕恣、輕慢對其品格作明確負面刻畫（VII）；本段的死亡只推進傳位，不另標 X"
+    },
+    {
+      "chapter": "餘祭十二年",
+      "para_index": 1,
+      "domains": [],
+      "modes": [],
+      "reason": "「即舉兵伐楚，取二邑而去」只是把收留慶封、受伐與報復連成某年戰事的編年記錄；依 G3 判空側 rider，不另抽取人生問題領域，故判空"
+    },
+    {
+      "chapter": "餘祭十三年",
+      "para_index": 1,
+      "domains": [],
+      "modes": [],
+      "reason": "「心恨不解，伐吳，至乾谿，吳擊之，楚師敗走」只記怨恨引發交戰及勝負；心恨在此是戰事銜接語，不是內在生活的展開，依 G3 rider 判空"
+    },
+    {
+      "chapter": "餘祭十七年",
+      "para_index": 1,
+      "domains": ["II", "VII"],
+      "modes": ["narrative"],
+      "reason": "「吾不受位明矣」是季札再次明示不以王位界定自身的選擇（II）；「潔身清行，仰高履尚，惟仁是處，富貴之於我，如秋風之過耳。」把守仁、清行與輕富貴作為自持標準（VII）"
+    },
+    {
+      "chapter": "十一年",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "「十一年，夫差北伐齊」釘明本章是夫差紀年，後續齊使陳說國困並請免戰，整段承重在兩國戰和與外交協商（V）"
+    },
+    {
+      "chapter": "十二年",
+      "para_index": 1,
+      "domains": ["V", "X"],
+      "modes": ["narrative", "prescription"],
+      "reason": "此為夫差十二年的伐齊敘事；「願王釋齊而前越，不然悔之無及」是伍胥針對國家安危的進諫（V）；「今見吳之亡矣。汝與吾俱亡，亡無為也。」寫他面對自己與兒子可能同亡並作託付（X）"
+    },
+    {
+      "chapter": "十二年",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "「太宰嚭既與子胥有隙，因讒之」寫太宰因私隙在君前讒害子胥，承重在君臣關係與宮廷權力運作（V）"
+    }
+  ]
+}

@@ -2,9 +2,9 @@
   "domain": "XI",
   "name_zh": "自由·命運·改變",
   "gist": "自由意志與命運、選擇與代價、改變與重來",
-  "generated_at": "2026-08-25T22:49:46+00:00",
-  "para_count": 593,
-  "book_count": 36,
+  "generated_at": "2026-08-31T23:55:17+00:00",
+  "para_count": 611,
+  "book_count": 37,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -6984,6 +6984,251 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐伐吳外傳",
+      "para_index": 6,
+      "para_id": "wuyue-chunqiu#02-p06",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "大夫種曰：“臣觀吳王得誌於齊晉，謂當遂涉吾地，以兵臨境。今疲師休卒，一年而不試，",
+      "note": "“我不可以怠”與“夫占，兆人事，又見於卜筮”把成敗的落點放回戒怠、察人事與掌握時機（XI）；“不如詮其間，以知其意”是大夫為伐吳提出試探敵情的國政進言（V），故不標 XII",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐伐吳外傳",
+      "para_index": 53,
+      "para_id": "wuyue-chunqiu#02-p53",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "范蠡從吳欲去，恐勾踐未返，失人臣之義，乃從入越。行，謂文種曰：“子來去矣！越王必",
+      "note": "“知進退存亡而不失其正，惟賢人乎”主張人在盛衰轉折中應辨明進退、主動改變處境（XI）；“可與共患難，而不可共處樂；可與履危，不可與安”判斷勾踐對功臣的政治關係並勸文種離去（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐伐吳外傳",
+      "para_index": 81,
+      "para_id": "wuyue-chunqiu#02-p81",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "興夷即位一年卒，子翁；翁卒，子不揚；不揚卒，子無彊；彊卒，子玉；玉卒，子尊；尊卒",
+      "note": "“親眾皆失，而去瑯邪，徙於吳矣”在連列諸王之後落到霸業衰失與遷徙，承重在政權由盛而衰的變化（XI）",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "越王勾踐五年",
+      "para_index": 3,
+      "para_id": "wuyue-chunqiu#03-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "沉後揚。禍為德根，憂為福堂。威人者滅，服從者昌。王雖牽致，其",
+      "note": "“禍為德根，憂為福堂”把眼前的禍憂說成德福轉化的起點，主張困厄可以轉成昌盛（XI）",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "越王勾踐五年",
+      "para_index": 7,
+      "para_id": "wuyue-chunqiu#03-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫扶同曰：“何言之鄙也？昔湯繫於夏臺，伊尹不離其側；文王囚於石室，太公不棄其國",
+      "note": "“興衰在天，存亡繫於人”把存亡的實際落點放在人力而非神意（XI）；“故湯王不以窮自傷，周文不以困為病”以古人不被困厄擊垮說明受苦時的自處（XIII）",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "越王勾踐五年",
+      "para_index": 8,
+      "para_id": "wuyue-chunqiu#03-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "越王曰：“昔堯任舜、禹而天下治，雖有洪水之害，不為人災。變異不及於民，豈況於人君",
+      "note": "“昔堯任舜、禹而天下治”以任用賢能解釋天下治理（V）；“雖有洪水之害，不為人災”主張恰當的人事作為能阻止自然災害轉成人禍（XI）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "越王勾踐五年",
+      "para_index": 9,
+      "para_id": "wuyue-chunqiu#03-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫若成曰：“不如君王之言。天有曆數，德有薄厚。黃帝不讓，堯傳天子。三王臣弒其君",
+      "note": "“不幸陷厄，求伸而已”把當世的困局理解為必須以謀略求取轉機的處境，承重在因時應變與人的能動性（XI）",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "越王勾踐五年",
+      "para_index": 11,
+      "para_id": "wuyue-chunqiu#03-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "於是大夫種、范蠡曰：“聞古人曰：『居不幽，誌不廣；形不愁，思不遠。』聖王賢主皆遇",
+      "note": "“處卑而不以為惡，居危而不以為薄”提出身受卑辱危難時仍不自棄的安頓方式（XIII）；“夫吉者，兇之門；福者，禍之根”以禍福相轉勸勾踐不要把當下困厄視為定局（XI）",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "越王勾踐五年",
+      "para_index": 28,
+      "para_id": "wuyue-chunqiu#03-p28",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "越王夫人乃據船哭，顧烏鵲啄江渚之蝦，飛去復來，因哭而歌之，曰：“仰飛鳥兮烏鳶，淩",
+      "note": "“任厥兮往還”所寫飛鳥來去自如，與夫人被迫西行、未知歸期形成自由與受制的對照（XI）；“心惙惙兮若割，淚泫泫兮雙懸”把離國之痛直接化為第一人稱感受（VI）",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "越王勾踐五年",
+      "para_index": 36,
+      "para_id": "wuyue-chunqiu#03-p36",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "果子胥諫吳王曰：“昔桀囚湯而不誅，紂囚文王而不殺，天道還反，禍轉成福。故夏為湯所",
+      "note": "“天道還反，禍轉成福”以湯、文王由囚禁轉為勝者說明局勢反轉（XI）；“今大王既囚越君而不行誅，臣謂大王惑之深也”是子胥以亡國風險進諫君主的政事判斷（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐歸國外傳",
+      "para_index": 19,
+      "para_id": "wuyue-chunqiu#04-p19",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "范蠡曰：“臣聞：『謀國破敵，動觀其符。』孟津之會，諸侯曰可，武王辭之。方今吳楚結",
+      "note": "“日中則移，月滿則虧，四時不並盛，五行不俱馳”用盛衰相替說明強弱必會轉變（XI）；“臣請按師整兵，待其壞敗，隨而襲之”把這一判斷落成等待時機的伐吳策略（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐歸國外傳",
+      "para_index": 22,
+      "para_id": "wuyue-chunqiu#04-p22",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫句如曰：“天有四時，人有五勝。昔湯武乘四時之利而制夏殷，桓繆據五勝之便而列六",
+      "note": "“天有四時，人有五勝”並收束為“此乘其時而勝者也”，主張成敗取決於辨認並把握可變時機（XI），不是神明認證",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐歸國外傳",
+      "para_index": 23,
+      "para_id": "wuyue-chunqiu#04-p23",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王曰：“未有四時之利，五勝之便，願各就職也。”",
+      "note": "“未有四時之利，五勝之便”使越王暫不行動、命眾人回任，寫在條件未成熟時克制行動的時機判斷（XI）",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐十一年",
+      "para_index": 7,
+      "para_id": "wuyue-chunqiu#06-p07",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "計研曰：“春種八榖，夏長而養，秋成而聚，冬畜而藏。夫天時有生而不救種，是一死也；",
+      "note": "“夫天時有生而不救種，是一死也”明說即使天時可生，人的不播種仍會造成失敗，把成敗落回人力（XI）；“留意省察，謹除苗穢，穢除苗盛”列出耕作管理的具體技術（VIII），不標 XII",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐十三年",
+      "para_index": 40,
+      "para_id": "wuyue-chunqiu#08-p40",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "音曰：“道出於天，事在於人，人之所習，無有不神。”",
+      "note": "“事在於人”把成術的關鍵明確落在人力與能動作為（XI）；“人之所習，無有不神”主張反覆學習可使射藝臻於神妙，承重在技能養成（VIII），不作神明認證。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚十三年",
+      "para_index": 1,
+      "para_id": "wuyue-chunqiu#31-p01",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "十三年，春，吳欲因楚葬而伐之，使公子蓋餘、燭傭以兵圍楚，使季札於晉，以觀諸侯之變",
+      "note": "「時不再來，不可失也」把成敗落在能否抓住當下機會並立即行動（XI）；「且光真王嗣也」以王位繼承資格為刺殺王僚、奪取政權的政治理由（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "闔閭二年",
+      "para_index": 3,
+      "para_id": "wuyue-chunqiu#33-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "闔閭曰：「昔武王討，紂而後殺武庚，周人無怨色。今若斯議，何乃天乎？」",
+      "note": "「今若斯議，何乃天乎？」直接排除以天意阻斷行動，把判斷推回人事（XI）；「周人無怨色」以政治先例論證討殺之正當與群體接受（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "第006卷",
+      "para_index": 26,
+      "para_id": "wuyue-chunqiu#39-p26",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "壬生無擇(手改目)，擇專心守國，不失上天之命。無擇卒，或為夫譚。夫譚生元常，常立",
+      "note": "“壬生無擇(手改目)”以及後續生卒、在位時代是世系登錄；但“擇專心守國，不失上天之命”把未失天命落在無擇專心守國的人事作為（XI），依方向護欄不標 XII。",
+      "co_domains": []
     },
     {
       "slug": "xinxu",

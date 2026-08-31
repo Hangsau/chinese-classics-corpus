@@ -2,9 +2,9 @@
   "domain": "IV",
   "name_zh": "家庭與傳承",
   "gist": "婚姻與家庭、原生家庭的傷、為人父母、記憶與和解、留下什麼給後代",
-  "generated_at": "2026-08-25T22:49:46+00:00",
-  "para_count": 670,
-  "book_count": 35,
+  "generated_at": "2026-08-31T23:55:17+00:00",
+  "para_count": 722,
+  "book_count": 36,
   "surveyed_zero_hit": [
     "fangyan",
     "gongsun-longzi",
@@ -6924,6 +6924,729 @@
       "excerpt": "昔謝艾王濟，西河文士，張駿以為艾繁而不可刪，濟略而不可益，若二子者，可謂練鎔裁而",
       "note": "「蓋崇友于耳」把陸雲明知陸機文繁仍加稱許的原因，明指為看重兄弟之情，承重在手足親情（IV）",
       "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "佚文",
+      "para_index": 5,
+      "para_id": "wuyue-chunqiu#01-p05",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "4闔闆死〈覺案：《吳郡志》卷三十九引無「死」字，卷十六引有「死」字〉，葬于國西北",
+      "note": "「葬于國西北」將篇幅落在墓葬安排與送葬形制，而非亡者面對死亡（IV）；「金精上揚為白虎，據墳，故曰虎丘」由敘事者以超常變化解釋虎丘得名，屬文本認證的神異因果（XII）",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐伐吳外傳",
+      "para_index": 5,
+      "para_id": "wuyue-chunqiu#02-p05",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "越王曰：“聽孤說國人之辭：寡人不知其力之不足以大國報讎，以暴露百姓之骨於中原。此",
+      "note": "“乃葬死問傷，弔有憂，賀有喜，送往迎來，除民所害”列出復國後照顧百姓、重建共同體的治理作為（V）；“女子十七未嫁，其父母有罪；丈夫二十不娶，其父母有罪”把婚育與家族延續納入國家安排（IV）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐伐吳外傳",
+      "para_index": 32,
+      "para_id": "wuyue-chunqiu#02-p32",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王乃令國中不行者，與之訣而告之曰：“爾安土守職，吾方往征討我宗廟之讎，以謝於二三",
+      "note": "“軍士各與父兄昆弟取訣”把出征前與父兄昆弟告別寫成家庭離散的實事（IV）；“吾方往征討我宗廟之讎，以謝於二三子”把個人離別置於國家復仇與公共責任之中（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐伐吳外傳",
+      "para_index": 36,
+      "para_id": "wuyue-chunqiu#02-p36",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "勾踐乃命有司大徇軍，曰：“其有父母無昆弟者，來告我。我有大事，子離父母之養，親老",
+      "note": "“子離父母之養，親老之愛，赴國家之急”正面寫從軍者離開奉養父母的家庭代價（IV）；“其有死亡者，吾葬埋殯送之，如吾父母昆弟之有死亡葬埋之矣”把照料軍屬與治喪定為國家責任（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐伐吳外傳",
+      "para_index": 73,
+      "para_id": "wuyue-chunqiu#02-p73",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "越王使人如木客山取元常之喪，欲徙葬瑯邪。三穿元常之墓，墓中生熛風，飛砂石以射人，",
+      "note": "“取元常之喪，欲徙葬瑯邪”把遷葬前君遺體作為祖先傳承與喪葬問題（IV）；“墓中生熛風，飛砂石以射人，人莫能入”由敘事直接認證墓中異力阻止遷葬（XII）",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐伐吳外傳",
+      "para_index": 80,
+      "para_id": "wuyue-chunqiu#02-p80",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "之幹戈。跨江涉淮，從晉齊之地，功德巍巍。自致於斯，其可不誡乎？夫霸者之後，難以久",
+      "note": "“自致於斯，其可不誡乎”與“遂卒”把勾踐對功業無常的自誡收成臨終之言（X）；“夫霸者之後，難以久立，其慎之哉”把霸業難以長傳化為給後代的慎守告誡（IV）",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "越王勾踐五年",
+      "para_index": 16,
+      "para_id": "wuyue-chunqiu#03-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "越王曰：“夫國者，前王之國。孤力弱勢劣，不能遵守社稷，奉承宗廟。吾聞父死子代，君",
+      "note": "“吾聞父死子代”把承接先王之國放在父子傳承秩序中（IV）；“夫推國任賢，度功績成者，君之命也；奉教順理，不失分者，臣之職也”明定君臣各自的政治職分（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐十三年",
+      "para_index": 32,
+      "para_id": "wuyue-chunqiu#08-p32",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "音曰：“古者人民樸質，飢食鳥獸，渴飲霧露，死則裹以白茅，投於中野。孝子不忍見父母",
+      "note": "“孝子不忍見父母為禽獸所食，故作彈以守之”以護守父母遺體說明器具發明的親子責任（IV）；“琴氏乃橫弓著臂，施機設樞，加之以力，然後諸侯可服”記弩機改造及其歷代傳授，承重在技藝創製與傳承（VIII）。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "吳太伯傳",
+      "para_index": 1,
+      "para_id": "wuyue-chunqiu#09-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "吳之前君太伯者，后稷之苗裔也。后稷其母台氏之女姜嫄，為帝嚳元妃。年少未孕，出游於",
+      "note": "「姜嫄怪而棄于阨狹之巷，牛馬過者折易而避之」把后稷的棄養與被保全寫成親子及養育處境（IV）；「堯聘棄使教民山居，隨地造區，研營種之術」明寫他以農業專長受任並教民（VIII）",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "吳太伯傳",
+      "para_index": 4,
+      "para_id": "wuyue-chunqiu#09-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "古公三子，長曰太伯，次曰仲雍，雍一名吳仲，少曰季歷。季歷娶妻太任氏，生子昌。昌有",
+      "note": "「古公知昌聖，欲傳國以及昌」引出太伯、仲雍離國自廢資格的讓位行動，段落承重在家族傳承與王位安排（IV）",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "吳太伯傳",
+      "para_index": 6,
+      "para_id": "wuyue-chunqiu#09-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "古公病將卒，令季歷讓國於太伯，而三讓不受，故云太伯三以天下讓。於是季歷蒞政，脩先",
+      "note": "「令季歷讓國於太伯，而三讓不受」直接承載兄弟間的王位讓受與傳承（IV）；「遵公劉、古公之術業於養老，天下歸之」把承繼先業的養老施政寫成天下歸附之因（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "壽夢二十五年",
+      "para_index": 1,
+      "para_id": "wuyue-chunqiu#15-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "二十五年，壽夢病將卒。有子四人：長曰諸樊，次曰餘祭，次曰餘昧，次曰季札。季札賢，",
+      "note": "「二十五年，壽夢病將卒」讓當事人臨終與死亡成為傳位決定的直接處境（X）；「禮有舊制，奈何廢前王之禮，而行父子之私乎？」由季札以禮制拒絕父子私授，承載家族傳承規範（IV）",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "壽夢二十五年",
+      "para_index": 2,
+      "para_id": "wuyue-chunqiu#15-p02",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "壽夢乃命諸樊曰：「我欲傳國季札，爾無忘寡人之言。」諸樊曰：「周之太王知西伯之聖，",
+      "note": "「我欲傳國季札，爾無忘寡人之言。」是壽夢對諸樊的臨終傳位囑託，整段圍繞父子如何履行家族繼承安排（IV）",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "壽夢二十五年",
+      "para_index": 3,
+      "para_id": "wuyue-chunqiu#15-p03",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "壽夢卒，諸樊以適長攝行事，當國政。",
+      "note": "「諸樊以適長攝行事，當國政」明記壽夢死後由嫡長子暫攝國政，承重在王位與家族傳承的接續（IV）",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "諸樊元年",
+      "para_index": 1,
+      "para_id": "wuyue-chunqiu#16-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "吳王諸樊元年，已除喪，讓季札，曰：「昔前王未薨之時，嘗晨昧不安，吾望其色也，意在",
+      "note": "「今國者，子之國也，吾願達前王之義。」是諸樊服喪後依父命向季札讓國，段落承重在喪後履行家族傳位託付（IV）",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "諸樊元年",
+      "para_index": 2,
+      "para_id": "wuyue-chunqiu#16-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "季札謝曰：「夫適長當國，非前王之私，乃宗廟社稷之制，豈可變乎？」",
+      "note": "「夫適長當國，非前王之私，乃宗廟社稷之制，豈可變乎？」以嫡長繼位為不可任意改變的宗廟制度，直接討論家族與政權傳承（IV）",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "諸樊元年",
+      "para_index": 3,
+      "para_id": "wuyue-chunqiu#16-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "諸樊曰：「苟可施於國，何先王之命有！太王改為季歷，二伯來入荊蠻，遂城為國，周道就",
+      "note": "「苟可施於國，何先王之命有！」主張是否有利於國家應優先於成例，承重在公共治理（V）；「太王改為季歷，二伯來入荊蠻，遂城為國」援引改變繼承安排的先例來論證傳位（IV）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "諸樊元年",
+      "para_index": 5,
+      "para_id": "wuyue-chunqiu#16-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "吳人固立季札，季札不受而耕於野，吳人舍之。諸樊驕恣，輕慢鬼神，仰天求死。將死，命",
+      "note": "「必以國及季札。」是諸樊命弟繼續把國位傳到季札的家族傳承安排（IV）；「諸樊驕恣，輕慢鬼神，仰天求死」以驕恣、輕慢對其品格作明確負面刻畫（VII）；本段的死亡只推進傳位，不另標 X",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "二十三年",
+      "para_index": 10,
+      "para_id": "wuyue-chunqiu#25-p10",
+      "modes": [
+        "narrative",
+        "ritual"
+      ],
+      "excerpt": "越王乃葬吳王以禮於秦餘杭山卑猶。越王使軍士集于我戎之功，人一隰土以葬之。宰嚭亦葬",
+      "note": "「越王乃葬吳王以禮於秦餘杭山卑猶」以敵國君主仍按禮安葬為段落主事，承重在喪葬與身後禮制（IV）",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 4,
+      "para_id": "wuyue-chunqiu#27-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "楚平王有太子名建，平王以伍奢為太子太傅，費無忌為少傅。平王使無忌為太子娶於秦，秦",
+      "note": "「王遂納秦女為夫人而幸愛之，生子珍；而更為太子娶齊女」寫父王奪取太子原定婚配、改動家庭關係（IV）；「乃復讒太子建」寫費無忌為自保而反覆構陷太子（VII）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 5,
+      "para_id": "wuyue-chunqiu#27-p05",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "頃之，無忌日夜言太子之短，曰：「太子以秦女之故，不能無怨望之心，願王自備。太子居",
+      "note": "「王獨奈何以讒賊小臣而疏骨肉乎」直指讒言造成父子骨肉疏離（IV）；「奢知無忌之讒」明定費無忌指控太子是讒害而非忠告（VII）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 6,
+      "para_id": "wuyue-chunqiu#27-p06",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "無忌復言平王曰：「伍奢有二子，皆賢，不誅且為楚憂。可以其父為質而召之。」",
+      "note": "「可以其父為質而召之」把父親性命當作召回兩子的籌碼，直接扭曲父子關係（IV）；「皆賢，不誅且為楚憂」寫權臣以國患之名主張清除賢者（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 7,
+      "para_id": "wuyue-chunqiu#27-p07",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "王使使謂奢曰：「能致二子則生，不然，則死。」",
+      "note": "「能致二子則生，不然，則死」以父親生死要脅他召來兩子，整段承重在政權對父子親情的強迫利用（IV）",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 8,
+      "para_id": "wuyue-chunqiu#27-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "伍奢曰：「臣有二子，長曰尚，少曰胥。尚為人慈溫仁信，若聞臣召輒來。胥為人少好於文",
+      "note": "「臣有二子，長曰尚，少曰胥」是父親依性情辨識兩子的家庭評述（IV）；「文治邦國，武定天下」把子胥的文武能力說成可治理國家、成就大事的才能（VIII）",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 9,
+      "para_id": "wuyue-chunqiu#27-p09",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "平王謂伍奢之譽二子，即遣使者駕駟馬，封函印綬往許召子尚、子胥。令曰：「賀二子父奢",
+      "note": "「封函印綬往許召子尚、子胥」以爵位和印綬包裝王命、誘使二子入朝，承重在政治操控（V）；「奢久囚繫，憂思二子」把父子牽掛納入召人的說辭（IV）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 10,
+      "para_id": "wuyue-chunqiu#27-p10",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "尚曰：「父繫三年，中心切怛，食不甘味，嘗苦飢渴，晝夜感思，憂父不活，惟父獲免，何",
+      "note": "「憂父不活，惟父獲免」明示子尚只求父親生還、不貪封爵的孝親選擇（IV）；「中心切怛，食不甘味，嘗苦飢渴」具體展開憂父所致的長期痛苦（VI）",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 12,
+      "para_id": "wuyue-chunqiu#27-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "尚乃入報子胥，曰：「父幸免死，二子為侯，使者在門，兼封印綬，汝可見使。」",
+      "note": "「父幸免死，二子為侯」是子尚向弟弟轉報父親獲釋與兄弟受封，承重在父子兄弟共同面對家難的消息（IV）",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 14,
+      "para_id": "wuyue-chunqiu#27-p14",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "尚曰：「豈貪於侯，思見父耳。一面而別，雖死而生。」",
+      "note": "「豈貪於侯，思見父耳」表明子尚應召只為再見父親（IV）；「一面而別，雖死而生」寫他明知可能赴死，仍以父子一見賦予死亡意義（X）",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 15,
+      "para_id": "wuyue-chunqiu#27-p15",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子胥曰：「尚且無往。父當我活，楚畏我勇，勢不敢殺；兄若誤往，必死不脫。」",
+      "note": "「父當我活，楚畏我勇，勢不敢殺；兄若誤往，必死不脫」是子胥從父兄安危出發勸阻兄長，承重在家人彼此承擔的生死抉擇（IV）",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 16,
+      "para_id": "wuyue-chunqiu#27-p16",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "尚曰：「父子之愛，恩從中出，徼倖相見，以自濟達。」",
+      "note": "「父子之愛，恩從中出」直接把父子之愛說成子尚甘冒危險求見父親的內在根源，整段以親恩承重（IV）",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 17,
+      "para_id": "wuyue-chunqiu#27-p17",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "於是子胥歎曰：「與父俱誅，何明於世，冤讎不除，恥辱日大。尚從是往，我從是決。」",
+      "note": "「與父俱誅，何明於世」是子胥衡量自己若與父同死是否有意義（X）；「冤讎不除，恥辱日大」說明他選擇活下來是為雪父兄之冤（IV）",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 18,
+      "para_id": "wuyue-chunqiu#27-p18",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "尚泣曰：「吾之生也，為世所笑，終老地上，而亦何之？」不能報仇，畢為廢物。汝懷文武",
+      "note": "「父兄之讎，汝可復也」是兄長將家族復仇責任託付子胥（IV）；「其遂沉埋，亦吾所喜」寫子尚預想自己不能生還，並表達對死亡結局的接受（X）",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 19,
+      "para_id": "wuyue-chunqiu#27-p19",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "胥曰：「尚且行矣，吾去不顧，勿使臨難，雖悔何追！」",
+      "note": "「尚且行矣，吾去不顧」是子胥與兄長分道赴難前的決別，並勸兄長不要臨難後悔，承重在兄弟離散（IV）",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 20,
+      "para_id": "wuyue-chunqiu#27-p20",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "旋泣辭行，與使俱往。楚得子尚，執而囚之，復遣追捕子胥，胥乃貫弓執矢去楚。楚追之，",
+      "note": "「釋吾父兄」明示子胥逃亡與威脅楚王都以救父兄為核心（IV）；「若不爾者，楚為墟矣」把私人家難轉成對楚國政權的公開報復威脅（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 21,
+      "para_id": "wuyue-chunqiu#27-p21",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "子胥行至大江，仰天行哭林澤之中，言：「楚王無道，殺吾父兄，願吾因於諸侯以報讎矣。",
+      "note": "「楚王無道，殺吾父兄」點明子胥哭訴與求助諸侯都是為報父兄之仇（IV）；「仰天行哭林澤之中」把失親後持續哭行的悲憤具體呈現（VI）",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 23,
+      "para_id": "wuyue-chunqiu#27-p23",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "伍員奔宋，道遇申包胥，謂曰：「楚王殺吾兄父，為之奈何？」申包胥曰：「於乎！吾欲教",
+      "note": "「吾欲教子報楚，則為不忠；教子不報，則為無親友也」正面衡量忠誠與朋友義務的道德衝突（VII）；「父母之讎，不與戴天履地；兄弟之讎，不與同域接壤」把報父母兄弟之仇立為家族責任（IV）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 32,
+      "para_id": "wuyue-chunqiu#27-p32",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "公子光聞之，私喜曰：「吾聞楚殺忠臣伍奢，其子子胥勇而且智，彼必復父之讎來入於吳。",
+      "note": "「其子子胥勇而且智」是公子光評估並準備招納子胥的用人判斷（V）；「彼必復父之讎來入於吳」點明子胥投吳由父仇所驅動（IV）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 33,
+      "para_id": "wuyue-chunqiu#27-p33",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "市吏於是與子胥俱入見王，王僚怪其狀偉：身長一丈，腰十圍，眉間一尺。王僚與語三日，",
+      "note": "「王僚與語三日，辭無復者」寫王僚以長談考察子胥並認定其賢能（V）；「欲為興師復讎」寫君臣交談最終落到為子胥之仇動用國家軍隊（IV）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 38,
+      "para_id": "wuyue-chunqiu#27-p38",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "光既得專諸而禮待之。公子光曰：「天以夫子輔孤之失根也。」專諸曰：「前王餘昧卒，僚",
+      "note": "「適長之後，即光之身也」以嫡長傳承說明公子光主張自身繼位的家族依據（IV）；「吾故求同憂之士，欲與之并力」寫他為奪位招募專諸並共同策劃弒君（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "闔閭元年",
+      "para_index": 6,
+      "para_id": "wuyue-chunqiu#32-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "闔閭既寶莫耶，復命於國中作金鉤。令曰：「能為善鉤者，賞之百金。」吳作鉤者甚眾。而",
+      "note": "「貪而殺二子，舋成二鉤」寫父親為賞金殺害兩子、以血製鉤，家庭關係成為故事核心代價（IV）；「兩鉤俱飛著父之胸」由敘事直接使二子之神回應呼名並驅鉤飛起（XII）",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "闔閭二年",
+      "para_index": 12,
+      "para_id": "wuyue-chunqiu#33-p12",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "王曰：「子何為者？」要離曰：「臣國東千里之人，臣細小無力，迎風則僵，負風則伏。大",
+      "note": "「臣詐以負罪出奔，願王戮臣妻子，斷臣右手，慶忌必信臣矣」把妻子家人當作取信計謀的犧牲核心（IV）；「安其妻子之樂，不盡事君之義，非忠也」明以忠義裁斷家庭之愛（VII）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "闔閭三年",
+      "para_index": 9,
+      "para_id": "wuyue-chunqiu#34-p09",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "吳王有女滕玉，因謀伐楚，與夫人及女會蒸魚，王前嘗半而與女，女怒曰：「王食魚辱我，",
+      "note": "「闔閭痛之，葬於國西閶門」寫父親面對女兒自殺後的哀痛與安葬（IV）；「殺生以送死，國人非之」使喪葬如何對待死者及陪葬者成為全段的死亡議題（X）",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "闔閭九年",
+      "para_index": 10,
+      "para_id": "wuyue-chunqiu#37-p10",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "吳王入郢，止留。伍胥以不得昭王，乃掘平王之墓，出其屍，鞭之三百，左足踐腹，右手抉",
+      "note": "「殺我父兄，豈不冤哉？」明示伍胥鞭屍由父兄被殺之家庭冤仇承重（IV）；「以辱楚之君臣也」把強制婚配明定為戰勝者羞辱敵國君臣的權力行動（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "闔閭十年",
+      "para_index": 9,
+      "para_id": "wuyue-chunqiu#38-p09",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "有頃，一老嫗行哭而來，人問曰：「何哭之悲？」嫗曰：「吾有女子，守居三十不嫁。往年",
+      "note": "「吾有女子，守居三十不嫁」由母親親述女兒生前處境，確立母女關係為哀哭核心（IV）；「自傷虛死，是故悲耳」明說母親因女兒未得報償、徒然死去而悲傷（X）",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "闔閭十年",
+      "para_index": 12,
+      "para_id": "wuyue-chunqiu#38-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "是時太子亦病而死，闔閭謀擇諸公子可立者，未有定計。波太子夫差日夜告於伍胥曰：「王",
+      "note": "「闔閭謀擇諸公子可立者，未有定計」寫太子死後在家系諸子中另擇繼承人（IV）；「王欲立太子，非我而誰當立？此計在君耳」寫夫差遊說伍胥介入王位人選（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "闔閭十年",
+      "para_index": 13,
+      "para_id": "wuyue-chunqiu#38-p13",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "闔閭有頃召子胥，謀立太子，子胥曰：「臣聞祀廢於絕後，興於有嗣。今太子不祿，早失侍",
+      "note": "「祀廢於絕後，興於有嗣」以宗祀延續論證必須立嗣（IV）；「夫差信以愛人，端於守節，敦於禮義」以信、節、禮義評定夫差足以承統的品格（VII）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "闔閭十年",
+      "para_index": 14,
+      "para_id": "wuyue-chunqiu#38-p14",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "立夫差為太子，使太子屯兵守楚留止，自治宮室：立射臺於安里，華池在平昌，南城宮在長",
+      "note": "「立夫差為太子」落實前段的繼嗣選擇，確立王室父子間的傳位安排（IV）；其餘為宮室與遊獵處所登錄",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "第006卷",
+      "para_index": 11,
+      "para_id": "wuyue-chunqiu#39-p11",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "禹三十未娶，行到塗山，恐時之暮，失其度制，乃辭雲：“吾娶也，必有應矣。”乃有白狐",
+      "note": "“乃有白狐九尾造於禹”由敘事者把白狐寫成禹求婚配之應，禹據此行動，屬神聖徵兆的認證側（XII）；“啟生不見父，晝夕呱呱啼泣”把成家後的父子分離與缺席寫成實質家庭處境（IV）。",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "第006卷",
+      "para_index": 17,
+      "para_id": "wuyue-chunqiu#39-p17",
+      "modes": [
+        "narrative",
+        "ritual"
+      ],
+      "excerpt": "堯崩，禹服三年之喪，如喪考妣，晝哭夜泣，氣不屬聲。",
+      "note": "“堯崩，禹服三年之喪”讓禹以長期服喪面對堯之死與失去（X）；“如喪考妣”把這份喪禮明確比作父母之喪，承載事親式的家庭倫理與傳承（IV）。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "第006卷",
+      "para_index": 23,
+      "para_id": "wuyue-chunqiu#39-p23",
+      "modes": [
+        "narrative",
+        "ritual"
+      ],
+      "excerpt": "禹崩，傳位與益。益服三年，思禹未嘗不言。喪畢，益避禹之子啟於箕山之陽，諸侯去益而",
+      "note": "“啟使使以歲時春秋而祭禹於越，立宗廟於南山之上”把祭祖與建廟化為延續禹統緒的固定實踐（IV）；“諸侯去益而朝啟”寫諸侯以集體歸附決定王位承接，形成公共權力關係（V）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "第006卷",
+      "para_index": 24,
+      "para_id": "wuyue-chunqiu#39-p24",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "禹以下六世而得帝少康。少康恐禹祭之絕祀，乃封其庶子於越，號曰無余。余始受封，人民",
+      "note": "“少康恐禹祭之絕祀，乃封其庶子於越，號曰無余”以封立後裔保存禹祭，承重在家族祭祀與傳承（IV）；“乃復隨陵陸而耕種，或逐禽鹿而給食”實寫人民以耕作、逐獵維生的勞動（VIII）。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "第006卷",
+      "para_index": 25,
+      "para_id": "wuyue-chunqiu#39-p25",
+      "modes": [
+        "narrative",
+        "ritual"
+      ],
+      "excerpt": "無余傳世十餘，末君微劣，不能自立，轉從眾庶為編戶之民，禹祀斷絕。十有餘歲，有人生",
+      "note": "“我方修前君祭祀，復我禹墓之祀”以後裔身分恢復斷絕的祖先祭祀與越君統緒（IV）；“眾民悅喜，皆助奉禹祭，四時致貢，因共封立”寫眾民共同支持、奉祭並立君，重建君臣公共秩序（V）。“為民請福於天，以通鬼神之道”是人物籌措復祀的說辭，本段未敘靈驗，故不另標 XII。",
+      "co_domains": [
+        "V"
+      ]
     },
     {
       "slug": "xinxu",

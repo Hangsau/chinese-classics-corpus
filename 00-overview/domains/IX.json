@@ -2,9 +2,9 @@
   "domain": "IX",
   "name_zh": "苦難·疾病·身體",
   "gist": "疾病與身體、受苦的意義、照顧與被照顧",
-  "generated_at": "2026-08-25T22:49:46+00:00",
-  "para_count": 184,
-  "book_count": 27,
+  "generated_at": "2026-08-31T23:55:17+00:00",
+  "para_count": 201,
+  "book_count": 28,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -2051,6 +2051,241 @@
       "excerpt": "紛哉萬象，勞矣千想。元神宜寶，素氣資養。",
       "note": "「勞矣千想。元神宜寶，素氣資養」承認萬般思慮使人疲勞，並主張珍護精神、養育元氣，直接關涉身心健康（IX）",
       "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐伐吳外傳",
+      "para_index": 37,
+      "para_id": "wuyue-chunqiu#02-p37",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "明日，又徇於軍，曰：“士有疾病不能隨軍從兵者，吾予其醫藥，給其麋粥，與之同食。”",
+      "note": "“士有疾病不能隨軍從兵者”把患病而不能行軍的身體處境列為段落主體（IX）；“吾予其醫藥，給其麋粥，與之同食”規定組織須提供醫療、食物與陪伴（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐伐吳外傳",
+      "para_index": 38,
+      "para_id": "wuyue-chunqiu#02-p38",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "明日，又徇於軍，曰：“筋力不足以勝甲兵，誌行不足以聽王命者，吾輕其重，和其任。”",
+      "note": "“筋力不足以勝甲兵”直接處理士卒體力無法負荷甲兵的身體限制（IX）；“吾輕其重，和其任”規定依能力調整負重與任務（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐伐吳外傳",
+      "para_index": 75,
+      "para_id": "wuyue-chunqiu#02-p75",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "曰：“渡河梁兮渡河梁，舉兵所伐攻秦王。孟冬十月多雪霜，隆寒道路誠難當。陣兵未濟秦",
+      "note": "“孟冬十月多雪霜，隆寒道路誠難當”由軍歌寫出士卒行軍所承受的嚴寒困境（IX）；“聲傳海內威遠邦，稱霸穆桓齊楚莊”抒發越國以軍威震懾諸侯、建立霸權的集體願望（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "越王勾踐五年",
+      "para_index": 33,
+      "para_id": "wuyue-chunqiu#03-p33",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "越王服犢鼻，著樵頭夫人衣無緣之裳，施左關之襦。夫斫剉養馬，妻給水、除糞、灑掃。三",
+      "note": "“夫斫剉養馬，妻給水、除糞、灑掃”具體寫勾踐夫妻三年承受的勞役與污穢身體處境（IX）；“雖在窮厄之地，不失君臣之禮”寫他們在受辱後仍以禮維持秩序與自處（XIII）",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "越王勾踐五年",
+      "para_index": 40,
+      "para_id": "wuyue-chunqiu#03-p40",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "越王明日謂太宰嚭曰：“囚臣欲一見問疾。”太宰嚭即入言於吳王，王召而見之。適遇吳王",
+      "note": "“即以手取其便與惡而嘗之”具體寫勾踐以自身口舌承受污穢、其後又患口臭的身體處境（IX）；“聞糞者順榖味，逆時氣者死，順時氣者生”提出依味與時氣診斷病勢的技術原理（VIII）",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐歸國外傳",
+      "para_index": 10,
+      "para_id": "wuyue-chunqiu#04-p10",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "越王念復吳讎非一旦也，苦身勞心，夜以接日。目臥，則攻之以蓼；足寒，則漬之以水。冬",
+      "note": "“目臥，則攻之以蓼；足寒，則漬之以水。冬常抱冰，夏還握火”具體寫勾踐刻苦其身的身體處境（IX）；“愁心苦誌，懸膽於戶，出入嘗之，不絕於口”把復讎憂苦與反覆自激本身寫成對象（VI）",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐十年",
+      "para_index": 24,
+      "para_id": "wuyue-chunqiu#05-p24",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "吳王不聽，遂受而起姑蘇之臺。三年聚材，五年乃成，高見二百里。行路之人，道死巷哭，",
+      "note": "“吳王不聽，遂受而起姑蘇之臺”寫君王拒諫後發動巨型工程的治理選擇及公共代價（V）；“民疲士苦，人不聊生”直接把百姓士卒的困苦處境寫成結果（IX），路死是災難敘事而非面對死亡，故不標 X",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "十三年",
+      "para_index": 16,
+      "para_id": "wuyue-chunqiu#22-p16",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "越王再拜，曰：「昔者吳王分其民之眾以殘吾國，殺敗吾民，鄙吾百姓，夷吾宗廟，國為墟",
+      "note": "「孤之怨吳，深於骨髓」明說勾踐三年謀戰所由的深怨，情緒有清楚對象（VI）；「焦脣乾舌，苦身勞力」把復仇等待落到長期節食勞身的身體處境（IX）。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "二十三年",
+      "para_index": 2,
+      "para_id": "wuyue-chunqiu#25-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "吳王率群臣遁去，晝馳夜走，三日三夕，達於秦餘杭山，胸中愁憂，目視茫茫，行步猖狂，",
+      "note": "「胸中愁憂，目視茫茫，行步猖狂」把亡國奔逃時的惶亂本身展開來寫（VI）；「腹餒口飢，顧得生稻而食之，伏地而飲水」具體呈現飢餓與疲困的身體處境（IX）",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "二十三年",
+      "para_index": 3,
+      "para_id": "wuyue-chunqiu#25-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王行有頃，因得生瓜已熟，吳王掇而食之。謂左右曰：「何冬而生瓜，近道人不食何也？」",
+      "note": "「吳王掇而食之」寫逃亡中的吳王拾食路旁、為人所惡的糞種生瓜，段落承重在失勢後迫切而屈辱的飲食處境（IX）",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 28,
+      "para_id": "wuyue-chunqiu#27-p28",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子胥既渡，漁父乃視之有其飢色。乃謂曰：「子俟我此樹下，為子取餉。」漁父去後，子胥",
+      "note": "「漁父乃視之有其飢色」明寫子胥逃亡途中顯於身體的飢餓（IX）；「吾見子有飢色，為子取餉」寫漁父取來飯羹、漿水救助窮士（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 30,
+      "para_id": "wuyue-chunqiu#27-p30",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子胥默然，遂行至吳。疾於中道，乞食溧陽。適會女子擊綿於瀨水之上，筥中有飯。子胥遇",
+      "note": "「疾於中道，乞食溧陽」具體寫子胥在逃亡中患病、乞食的身體困境（IX）；「貞明執操，其丈夫女哉」由敘事者直接推尊女子守貞自持的品格（VII）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "闔閭九年",
+      "para_index": 13,
+      "para_id": "wuyue-chunqiu#37-p13",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "申包胥知不可，乃之於秦，求救楚。晝馳夜趨，足踵蹠劈，裂裳裹膝，鶴倚哭於秦庭，七日",
+      "note": "「晝馳夜趨，足踵蹠劈，裂裳裹膝」具體寫申包胥求援時足裂裹膝的身體苦難（IX）；「寡君出在草澤，使來告急」寫臣受流亡君主之命向秦國求取國際救援（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "闔閭九年",
+      "para_index": 14,
+      "para_id": "wuyue-chunqiu#37-p14",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "包胥曰：「臣聞戾德無厭，王不憂鄰國疆場之患？逮吳之未定，王其取分焉。若楚遂亡，於",
+      "note": "「若楚遂亡，於秦何利？則亦亡君之土也」以鄰國存亡和秦國利益勸說出兵，是外交進言（V）；「復立於庭，倚牆而哭，日夜不絕聲，水不入口」把拒絕安歇與飲水的身體困頓寫成求援代價（IX）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "第006卷",
+      "para_index": 3,
+      "para_id": "wuyue-chunqiu#39-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "莘氏之女，名曰女嬉。年壯未孳。嬉於砥山得薏苡而吞之，意若為人",
+      "note": "“年壯未孳。嬉於砥山得薏苡而吞之”直接寫女嬉未能生育及吞食薏苡的身體處境與變化起點，承重在生育身體（IX），不借用下一段的妊孕結果。",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "第006卷",
+      "para_index": 4,
+      "para_id": "wuyue-chunqiu#39-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "所感，因而妊孕，剖脅而產高密。家於西羌，地曰石紐。石紐在蜀西川也。",
+      "note": "“因而妊孕，剖脅而產高密”把妊娠與剖脅生產作為本段實際事件，聚焦女嬉的生育身體處境（IX）；後面的石紐位置只是地理登錄。",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "第006卷",
+      "para_index": 19,
+      "para_id": "wuyue-chunqiu#39-p19",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "舜崩，禪位命禹。禹服三年，形體枯槁，面目黎黑，讓位商均，退處陽山之南，陰阿之北。",
+      "note": "“禹服三年，形體枯槁，面目黎黑”把服喪造成的身體耗損寫成實質處境，此處採身體苦難一讀（IX）；“萬民不附商均，追就禹之所”寫民眾以歸附選擇統治者，並促成禹即位的公共政治關係（V）。",
+      "co_domains": [
+        "V"
+      ]
     },
     {
       "slug": "yanshi-jiaxun",

@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-08-25T22:49:46+00:00",
+    "generated_at": "2026-08-31T23:55:17+00:00",
     "text_count": 76,
     "total_bytes": 10821040,
     "by_category": {
@@ -29,40 +29,40 @@
       "reference": 4,
       "contested": 2
     },
-    "surveyed_count": 49,
-    "annotated_count": 49,
+    "surveyed_count": 50,
+    "annotated_count": 50,
     "scaffolded_count": 0,
-    "paras_judged": 21942,
+    "paras_judged": 22435,
     "paras_pending": 110,
     "domain_hit_counts": {
       "I": 19,
-      "II": 37,
-      "III": 22,
-      "IV": 35,
-      "IX": 27,
-      "V": 45,
-      "VI": 32,
-      "VII": 42,
-      "VIII": 43,
-      "X": 27,
-      "XI": 36,
-      "XII": 28,
-      "XIII": 24
+      "II": 38,
+      "III": 23,
+      "IV": 36,
+      "IX": 28,
+      "V": 46,
+      "VI": 33,
+      "VII": 43,
+      "VIII": 44,
+      "X": 28,
+      "XI": 37,
+      "XII": 29,
+      "XIII": 25
     },
     "domain_para_counts": {
       "I": 111,
-      "II": 757,
-      "III": 157,
-      "IV": 670,
-      "V": 3641,
-      "VI": 699,
-      "VII": 2790,
-      "VIII": 1225,
-      "IX": 184,
-      "X": 378,
-      "XI": 593,
-      "XII": 372,
-      "XIII": 165
+      "II": 766,
+      "III": 159,
+      "IV": 722,
+      "V": 3950,
+      "VI": 743,
+      "VII": 2867,
+      "VIII": 1319,
+      "IX": 201,
+      "X": 413,
+      "XI": 611,
+      "XII": 397,
+      "XIII": 172
     }
   },
   "texts": [
@@ -1868,12 +1868,27 @@
       "size_bytes": 151717,
       "chapter_count": 39,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "domains_null": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII",
+        "XIII"
+      ],
+      "domains_null": [
+        "I"
+      ],
+      "paras_total": 493,
+      "paras_judged": 493,
+      "annotated": true
     },
     {
       "slug": "wuzi",

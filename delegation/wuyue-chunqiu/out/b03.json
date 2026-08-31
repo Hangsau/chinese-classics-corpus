@@ -1,0 +1,320 @@
+{
+  "batch": "b03.md",
+  "rows": [
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "“與大夫種、范蠡入臣於吳，群臣皆送至浙江之上”交代越王率臣入吳為臣及群臣送行，承重在國君、臣僚與國際從屬關係（V）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 2,
+      "domains": ["XII"],
+      "modes": ["narrative", "ritual"],
+      "reason": "“臨水祖道”與“大夫文種前為祝”明示送行祝禱儀節，本段又直接祈求“皇天祐助”，把神聖助佑當作儀式所求（XII）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 3,
+      "domains": ["XI"],
+      "modes": ["proposition"],
+      "reason": "“禍為德根，憂為福堂”把眼前的禍憂說成德福轉化的起點，主張困厄可以轉成昌盛（XI）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 4,
+      "domains": ["XII", "VI"],
+      "modes": ["ritual"],
+      "reason": "“君臣生離，感動上皇”把離別之情上達神聖者作為祝辭效力（XII）；“眾夫哀悲，莫不感傷”直接以共同哀傷為描寫對象（VI）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 5,
+      "domains": ["XII"],
+      "modes": ["narrative", "ritual"],
+      "reason": "“大王德壽，無疆無極，乾坤受靈，神祇輔翼”是文種進祝酒辭時對神祇助佑的正面祈請，祝辭儀節本身即為本段主體（XII）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 6,
+      "domains": ["II", "V"],
+      "modes": ["narrative"],
+      "reason": "“將孤之罪耶”顯示勾踐追問受辱究竟是不是自己的過失，落在自我責任辨認（II）；“諸大夫之責也？吾不知其咎，願二三子論其意”把國難責任交付君臣共同論辨（V）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 7,
+      "domains": ["XI", "XIII"],
+      "modes": ["proposition"],
+      "reason": "“興衰在天，存亡繫於人”把存亡的實際落點放在人力而非神意（XI）；“故湯王不以窮自傷，周文不以困為病”以古人不被困厄擊垮說明受苦時的自處（XIII）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 8,
+      "domains": ["V", "XI"],
+      "modes": ["proposition"],
+      "reason": "“昔堯任舜、禹而天下治”以任用賢能解釋天下治理（V）；“雖有洪水之害，不為人災”主張恰當的人事作為能阻止自然災害轉成人禍（XI）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 9,
+      "domains": ["XI"],
+      "modes": ["proposition"],
+      "reason": "“不幸陷厄，求伸而已”把當世的困局理解為必須以謀略求取轉機的處境，承重在因時應變與人的能動性（XI）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 10,
+      "domains": ["X"],
+      "modes": ["narrative"],
+      "reason": "“往而不返，客死敵國”是勾踐親自想像自己入吳後不歸、死於敵國的結局，文本停在當事人面對自身死亡與遺骸棄置的恐懼（X）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 11,
+      "domains": ["XIII", "XI"],
+      "modes": ["proposition"],
+      "reason": "“處卑而不以為惡，居危而不以為薄”提出身受卑辱危難時仍不自棄的安頓方式（XIII）；“夫吉者，兇之門；福者，禍之根”以禍福相轉勸勾踐不要把當下困厄視為定局（XI）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 12,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "“君王何為謾辭譁說，用而相欺？臣誠不取”是計研直接批評勾踐以悲苦言辭欺動群臣，承重在對虛偽言行的品格裁斷（VII）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 13,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "“以國累諸侯大夫，願各自述，吾將屬焉”是勾踐出行前要求諸臣自陳並決定國政託付，承重在君臣分工與國家治理（V）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 14,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "“大夫種忠而善慮，民親其知，士樂為用”以忠誠、謀慮及民士擁戴為託國依據，核心是國家用人與群體信任（V）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 15,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "“大夫文種者，國之梁棟，君之爪牙”把文種定位為國君所倚重的政治支柱（V）；“君王委國於種，則萬綱千紀無不舉者”評定他足以完成繁複政務（VIII）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 16,
+      "domains": ["IV", "V"],
+      "modes": ["proposition"],
+      "reason": "“吾聞父死子代”把承接先王之國放在父子傳承秩序中（IV）；“夫推國任賢，度功績成者，君之命也；奉教順理，不失分者，臣之職也”明定君臣各自的政治職分（V）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 17,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "“出亡之君，敕臣守禦”以君主離國而命臣守國說明政治託付（V）；“各陳其情，舉其能者，議其宜也”主張依眾臣所長分派任務（VIII）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 18,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "“大夫之論是也。吾將逝矣，願諸君之風”是勾踐採納臣議並請眾臣繼續陳述，推進出行前的君臣議政（V）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 19,
+      "domains": ["VIII", "V"],
+      "modes": ["proposition"],
+      "reason": "“內修封疆之役，外修耕戰之備”是文種對自己工程、農戰職責的專業陳述（VIII）；“荒無遺土，百姓親附”把土地利用與民眾歸附列為治國成果（V）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 20,
+      "domains": ["VIII", "XIII"],
+      "modes": ["proposition"],
+      "reason": "“輔危主，存亡國”是范蠡自陳所任工作的核心使命（VIII）；“不恥屈厄之難，安守被辱之地”把忍受屈辱並守住處境說成復國前的自處方式（XIII）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 21,
+      "domains": ["VIII", "V"],
+      "modes": ["proposition"],
+      "reason": "“統煩理亂，使民知分”是苦成自陳整頓繁亂的行政職能（VIII）；“發君之令，明君之德”把其工作置於傳達政令與建立政治秩序之中（V）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 22,
+      "domains": ["VIII", "V"],
+      "modes": ["proposition"],
+      "reason": "“奉令受使，結和諸侯”明列曳庸出使交涉的專業職責（VIII）；“通命達旨，賂往遺來，解憂釋患”說明此職服務於諸侯邦交與國家疑患的化解（V）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 23,
+      "domains": ["VII", "V"],
+      "modes": ["proposition"],
+      "reason": "“修德履義，守信溫故”把德、義、信列為臣子的品格要求（VII）；“君誤臣諫，直心不撓”要求臣在君主犯錯時仍直諫，落在君臣公共責任（V）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 24,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "“望敵設陣，飛矢揚兵，履腹涉屍”是諸稽郢對臨陣、設陣及攻敵職能的自陳，整段承重在軍事工作與戰鬥本領（VIII）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 25,
+      "domains": ["V", "VIII"],
+      "modes": ["proposition"],
+      "reason": "“修德行惠，撫慰百姓”把照顧民眾列為公共治理責任（V）；“身臨憂勞，動輒躬親”以親身任事說明臯如自陳的工作方式（VIII）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 26,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "“候天察地，紀歷陰陽，觀變參災，分別妖祥，日月含色，五精錯行，福見知吉，妖出知兇”列舉計研占候辨災的專門技藝，並收束為“臣之事也”，是職守而非神聖認證（VIII）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 27,
+      "domains": ["X", "VI"],
+      "modes": ["narrative"],
+      "reason": "“死者，人之所畏”是勾踐在離國當下親自把死亡提出為自己必須面對之事（X）；“其於心胸中曾無怵惕”直接追問自己對死亡是否毫無恐懼，描寫有明確對象的內在感受（VI）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 28,
+      "domains": ["XI", "VI"],
+      "modes": ["expression"],
+      "reason": "“任厥兮往還”所寫飛鳥來去自如，與夫人被迫西行、未知歸期形成自由與受制的對照（XI）；“心惙惙兮若割，淚泫泫兮雙懸”把離國之痛直接化為第一人稱感受（VI）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 29,
+      "domains": ["III", "VI"],
+      "modes": ["expression"],
+      "reason": "“妻衣褐兮為婢，夫去冕兮為奴”把夫妻共同受辱與相隨的關係放在歌辭中心（III）；“冤悲痛兮心惻”直接抒寫離國為奴所生的悲痛與委屈（VI）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 30,
+      "domains": ["VI"],
+      "modes": ["narrative"],
+      "reason": "“越王聞夫人怨歌，心中內慟”明確交代勾踐的痛苦由夫人的離國怨歌而起，情緒的來由與對象都在本段中（VI）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 31,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "“夫差遂不誅越王，令駕車養馬”是吳廷君臣爭論後對降君作出的政治處置（V）；“誅降殺服，禍及三世”把是否殺害已降服者提為仁德與報應問題（VII）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 32,
+      "domains": ["VII", "VI"],
+      "modes": ["narrative"],
+      "reason": "“子既不移其誌”確認范蠡即使獲得轉仕機會仍不改其忠貞立場（VII）；“此時越王伏地流涕，自謂遂失范蠡矣”把勾踐的哭明確繫於自認將失去范蠡的念頭（VI）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 33,
+      "domains": ["IX", "XIII"],
+      "modes": ["narrative"],
+      "reason": "“夫斫剉養馬，妻給水、除糞、灑掃”具體寫勾踐夫妻三年承受的勞役與污穢身體處境（IX）；“雖在窮厄之地，不失君臣之禮”寫他們在受辱後仍以禮維持秩序與自處（XIII）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 34,
+      "domains": ["VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "“無德不復。大王垂仁恩加越，越豈敢不報哉”以施仁必獲報答勸夫差完成赦免，承重在仁恩與報德的品格判斷（VII）；“承天之神靈”只是夫差為既有戰功加重的說辭，不另標 XII"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 35,
+      "domains": ["VIII", "VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "“功曹為騰蛇而臨戊，謀利事在青龍”以干支、神煞關係推演赦免吉兇，是范蠡運用的占候技術（VIII）；“心獨喜之，又恐其不卒也”明寫勾踐在喜悅與恐懼之間的矛盾心情（VI）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 36,
+      "domains": ["XI", "V"],
+      "modes": ["prescription"],
+      "reason": "“天道還反，禍轉成福”以湯、文王由囚禁轉為勝者說明局勢反轉（XI）；“今大王既囚越君而不行誅，臣謂大王惑之深也”是子胥以亡國風險進諫君主的政事判斷（V）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 37,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "“越王復拘於石室”交代吳王在赦殺爭議中再次拘禁勾踐，范蠡、文種占問並由太宰嚭確認，承重在兩國君臣的政治處置（V）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 38,
+      "domains": ["V", "VII"],
+      "modes": ["prescription"],
+      "reason": "“王者攻敵國克之則加以誅，故後無報復之憂”是子胥從國家與子孫安全進諫處置敵君（V）；“功立而名稱，軍敗而德存”是太宰嚭以義名與德行提出相反的品格評價（VII）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 39,
+      "domains": ["V", "VIII"],
+      "modes": ["prescription"],
+      "reason": "“人臣之道，主疾臣憂”把關心君主疾病表述為臣子的關係義務（V）；“因求其糞而嘗之，觀其顏色”是范蠡設計用身體徵象判病並取信夫差的具體技術（VIII）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 40,
+      "domains": ["IX", "VIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "“即以手取其便與惡而嘗之”具體寫勾踐以自身口舌承受污穢、其後又患口臭的身體處境（IX）；“聞糞者順榖味，逆時氣者死，順時氣者生”提出依味與時氣診斷病勢的技術原理（VIII）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 41,
+      "domains": ["V", "XII"],
+      "modes": ["narrative", "ritual"],
+      "reason": "“今日為越王陳北面之坐，群臣以客禮事之”表示勾踐在吳廷由囚臣轉為受客禮者的政治身分變化（V）；“上感太陽，降瑞翼翼。大王延壽萬歲”是奉觴祝壽儀節中對天降祥瑞與延壽的正面祈祝（XII）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 42,
+      "domains": ["VII", "V"],
+      "modes": ["prescription"],
+      "reason": "“內懷虎狼之心，外執美詞之說”是子胥對勾踐內外不一、以美辭存身的品格裁斷（VII）；“放棄忠直之言，聽用讒夫之語”直諫夫差辨別忠讒以免國患（V）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 43,
+      "domains": ["VII", "V"],
+      "modes": ["proposition"],
+      "reason": "“夫為人臣不仁不慈，焉能知其忠信者乎”以仁、慈、忠、信判斷臣子品格（VII）；“寡人曾聽相國而誅之，是寡人之不智也”是夫差反駁子胥、為赦越的君臣決策辯護（V）；末句“豈不負皇天乎”只為加重辯詞，不標 XII"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 44,
+      "domains": ["VIII", "V"],
+      "modes": ["prescription"],
+      "reason": "“青龍在酉，德在上，刑在金”是子胥用歲時方位推演君臣逆節的占候技術（VIII）；“一旦社稷丘墟，宗廟荊棘，其悔可追乎”以亡國後果催促夫差採納進諫（V）"
+    },
+    {
+      "chapter": "越王勾踐五年",
+      "para_index": 45,
+      "domains": ["XIII", "VI"],
+      "modes": ["narrative", "ritual"],
+      "reason": "“使得生全還國”與“豈料再還，重復鄉國”把從受囚、絕望到復歸故國寫成苦難後的恢復（XIII）；“言竟掩面，涕泣闌幹”把重見鄉國時的激動與悲喜直接寫成身體化情緒（VI）"
+    }
+  ]
+}

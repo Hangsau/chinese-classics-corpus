@@ -1,0 +1,460 @@
+{
+  "batch": "b04.md",
+  "rows": [
+    {
+      "chapter": "勾踐歸國外傳",
+      "para_index": 1,
+      "domains": [],
+      "modes": [],
+      "reason": "本段只有《吳越春秋》篇名與卷次標籤，沒有故事事件、人生問題或可判定的話語體裁，故兩欄判空"
+    },
+    {
+      "chapter": "勾踐歸國外傳",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "“勾踐臣吳至歸越”與“百姓拜之於道”寫君王歸國及民眾迎拜，承重在統治者與國人的公共關係（V）"
+    },
+    {
+      "chapter": "勾踐歸國外傳",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "“復於越國，霸王之跡，自斯而起”把歸國理解為政權與霸業重新開展，承重在國家政治秩序（V）；受天之福出自本段話語的慶賀說辭，不另標 XII"
+    },
+    {
+      "chapter": "勾踐歸國外傳",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["expression"],
+      "reason": "“今勞萬姓擁於岐路，將何德化以報國人？”是第一人稱反省如何回報迎候的百姓，承重在君王對國人的公共責任（V）"
+    },
+    {
+      "chapter": "勾踐歸國外傳",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "“顧謂范蠡曰”及“孤欲以此到國”寫抵國時刻由君臣商議決定，承重在君臣問對與國事安排（V）"
+    },
+    {
+      "chapter": "勾踐歸國外傳",
+      "para_index": 6,
+      "domains": ["VIII", "V"],
+      "modes": ["narrative", "observation"],
+      "reason": "“大王且留，以臣卜日”把擇日當作范蠡運用的專門技術（VIII）；“吳封地百里於越”並逐一劃定四境，寫兩國封地安排（V）"
+    },
+    {
+      "chapter": "勾踐歸國外傳",
+      "para_index": 7,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "“今欲定國立城，人民不足，其功不可以興”提出復國後建都與動員人民的治理難題（V）；“欲築城立郭，分設裏閭，欲委屬於相國”把營城交付相國的專業職掌（VIII）"
+    },
+    {
+      "chapter": "勾踐歸國外傳",
+      "para_index": 8,
+      "domains": ["VIII", "V"],
+      "modes": ["narrative", "observation"],
+      "reason": "“築作小城，周千一百二十二步，一圓三方”詳寫范蠡規劃城郭的技術與成果（VIII）；“內以取吳，故缺西北，而吳不知也”明示城制服務於臣服假象與取吳國策（V）。怪山與應天語在此用來抬高築城霸業，按說辭／傳奇側不另標 XII"
+    },
+    {
+      "chapter": "勾踐歸國外傳",
+      "para_index": 9,
+      "domains": ["VIII", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "“今日丙午日也。丙，陽將也。是日吉矣”把干支與時日判斷作為臨政技術（VIII）；“越王是日立政，翼翼小心”寫君王採納群臣判斷而開始執政（V），未把吉日說成神明認證"
+    },
+    {
+      "chapter": "勾踐歸國外傳",
+      "para_index": 10,
+      "domains": ["IX", "VI"],
+      "modes": ["narrative"],
+      "reason": "“目臥，則攻之以蓼；足寒，則漬之以水。冬常抱冰，夏還握火”具體寫勾踐刻苦其身的身體處境（IX）；“愁心苦誌，懸膽於戶，出入嘗之，不絕於口”把復讎憂苦與反覆自激本身寫成對象（VI）"
+    },
+    {
+      "chapter": "勾踐歸國外傳",
+      "para_index": 11,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative"],
+      "reason": "“吾欲采葛，使女工織細布獻之，以求吳王之心”是以貢物籠絡吳王的國策（V）；“使國中男女入山采葛，以作黃絲之布”寫採葛織布的集體勞作（VIII）"
+    },
+    {
+      "chapter": "勾踐歸國外傳",
+      "para_index": 12,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "“吳王聞越王盡心自守”後決定“增之以封”，寫吳王根據越王治國表現加封土地的兩國政治關係（V）"
+    },
+    {
+      "chapter": "勾踐歸國外傳",
+      "para_index": 13,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "“此越小心念功，不忘吳之效也”顯示吳王把越國回禮誤認為臣服效忠，而子胥隨即憂其放虎歸山，整段承重在外交判斷與君臣異議（V）"
+    },
+    {
+      "chapter": "勾踐歸國外傳",
+      "para_index": 14,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "“乃復增越之封，賜羽毛之飾、機杖、諸侯之服”寫貢獻換來封地與諸侯禮遇，承重在兩國政治交換（V）；大悅只是敘事結果，不另標 VI"
+    },
+    {
+      "chapter": "勾踐歸國外傳",
+      "para_index": 15,
+      "domains": ["VI", "VIII"],
+      "modes": ["expression"],
+      "reason": "“采葛之婦，傷越王用心之苦”明說作歌源於對越王苦心的感傷（VI）；歌中“女工織兮不敢遲”由勞作者自述織布任務（VIII），全段以詩歌抒發承載"
+    },
+    {
+      "chapter": "勾踐歸國外傳",
+      "para_index": 16,
+      "domains": ["V", "VII"],
+      "modes": ["prescription", "narrative"],
+      "reason": "“利之無害，成之無敗，生之無殺，與之無奪”展開減刑、薄賦與不擾民的治理準則（V）；“遇民如父母之愛其子，如兄之愛其弟”把愛民立為統治者應有的德性（VII）"
+    },
+    {
+      "chapter": "勾踐歸國外傳",
+      "para_index": 17,
+      "domains": ["VI", "V"],
+      "modes": ["expression"],
+      "reason": "“身為窮虜，恥聞天下，辱流諸侯”具體交代勾踐念念不忘的羞恥來源（VI）；“孤未知策謀，惟大夫誨之”則是君王向大夫求取國策（V）"
+    },
+    {
+      "chapter": "勾踐歸國外傳",
+      "para_index": 18,
+      "domains": ["V"],
+      "modes": ["prescription", "proposition"],
+      "reason": "“大王宜親於齊，深結於晉，陰固於楚，而厚事於吳”提出隱藏意圖、締結盟援並乘吳之弊的完整外交戰略，承重在國際群體關係與伐吳國策（V）"
+    },
+    {
+      "chapter": "勾踐歸國外傳",
+      "para_index": 19,
+      "domains": ["XI", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "“日中則移，月滿則虧，四時不並盛，五行不俱馳”用盛衰相替說明強弱必會轉變（XI）；“臣請按師整兵，待其壞敗，隨而襲之”把這一判斷落成等待時機的伐吳策略（V）"
+    },
+    {
+      "chapter": "勾踐歸國外傳",
+      "para_index": 20,
+      "domains": ["VII", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "“大夫嚭者，狂佞之人，達於策慮，輕於朝事”直接裁斷其佞與輕慢的品格（VII）；“願王虛心自匿，無示謀計，則吳可滅矣”提出利用吳臣失衡的國策（V）"
+    },
+    {
+      "chapter": "勾踐歸國外傳",
+      "para_index": 21,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "“外有侵境之敵，內有爭臣之震，其可攻也”以吳國內外政治與軍事情勢論證可攻，承重在國家衝突與決策（V）"
+    },
+    {
+      "chapter": "勾踐歸國外傳",
+      "para_index": 22,
+      "domains": ["XI"],
+      "modes": ["proposition"],
+      "reason": "“天有四時，人有五勝”並收束為“此乘其時而勝者也”，主張成敗取決於辨認並把握可變時機（XI），不是神明認證"
+    },
+    {
+      "chapter": "勾踐歸國外傳",
+      "para_index": 23,
+      "domains": ["XI"],
+      "modes": ["narrative"],
+      "reason": "“未有四時之利，五勝之便”使越王暫不行動、命眾人回任，寫在條件未成熟時克制行動的時機判斷（XI）"
+    },
+    {
+      "chapter": "勾踐十年",
+      "para_index": 1,
+      "domains": ["VI", "XII"],
+      "modes": ["narrative"],
+      "reason": "“深念遠思：侵辱於吳”把受辱後的反覆思念明寫為內在活動（VI）；“蒙天祉福，得越國”由敘事直接認定天福帶來歸國結果，屬認證側（XII）"
+    },
+    {
+      "chapter": "勾踐十年",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "“群臣教誨，各畫一策，辭合意同，勾踐敬從”寫群臣進策、君王採納並使國家富強，承重在君臣協作與治國（V）"
+    },
+    {
+      "chapter": "勾踐十年",
+      "para_index": 3,
+      "domains": ["V", "VI"],
+      "modes": ["narrative"],
+      "reason": "“反越五年，未聞敢死之友”提出君王未得死士的用人與忠誠難題（V）；“雖懷憂患，不形顏色”明寫群臣內懷憂慮而外表不露（VI）"
+    },
+    {
+      "chapter": "勾踐十年",
+      "para_index": 4,
+      "domains": ["VI", "V"],
+      "modes": ["narrative", "ritual"],
+      "reason": "“寡人獲辱受恥，上愧周王，下慚晉楚”交代勾踐羞愧的具體所指（VI）；“須賢任仁，然後討吳”把盟誓中的痛陳落到求賢、任臣與雪恥國策（V）"
+    },
+    {
+      "chapter": "勾踐十年",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "“非大夫易見而難使，君王之不能使也”由低位的計研公開反駁君王，把問題轉為統治者能否善用群臣（V）"
+    },
+    {
+      "chapter": "勾踐十年",
+      "para_index": 6,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "“今王易財之所輕，而責士之所重”指出君王以自己輕視的財賞換取士人冒死，批評君臣交換失衡與用人不當（V）；投死只是一般風險論述，不標 X"
+    },
+    {
+      "chapter": "勾踐十年",
+      "para_index": 7,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "“孤之所得士心者何等？”是君王受批評後轉而詢問如何獲得士心，承重在領導者與臣士的關係（V）；愧色單獨只是敘事節拍，不標 VI"
+    },
+    {
+      "chapter": "勾踐十年",
+      "para_index": 8,
+      "domains": ["VII", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "“開門固根，莫如正身”把君王端正自身列為治道根本（VII）；“願王明選左右，得賢而已”要求辨選賢臣，並以得士則昌說明用人關乎國運（V）"
+    },
+    {
+      "chapter": "勾踐十年",
+      "para_index": 9,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "“吾使賢任能，各殊其事”後仍“不聞其語”，是君王檢討為何群臣不進復讎之謀的用人問題（V）"
+    },
+    {
+      "chapter": "勾踐十年",
+      "para_index": 10,
+      "domains": ["V", "VII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "“選賢實士，各有一等”以下列出遠使、密告、論事、飲酒與指使等選士程序，服務於君主任用人才（V）；“遠使以難，以效其誠；內告以匿，以知其信”把誠信品格列為考察對象（VII）"
+    },
+    {
+      "chapter": "勾踐十年",
+      "para_index": 11,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "“士有未盡進辭有益寡人也”表示即使已考核謀士，仍有人未充分進獻有益之言，承重在君王如何促使臣士盡智（V）"
+    },
+    {
+      "chapter": "勾踐十年",
+      "para_index": 12,
+      "domains": ["V"],
+      "modes": ["prescription"],
+      "reason": "“願王請大夫種與深議”依范蠡知內、文種見外的才能推薦具體謀臣，承重在選人議政與霸王之術（V）"
+    },
+    {
+      "chapter": "勾踐十年",
+      "para_index": 13,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "“今欲奉不羈之計，以雪吾之宿讎，何行而功乎？”是勾踐向大夫種詢問復讎伐吳的可行國策（V）"
+    },
+    {
+      "chapter": "勾踐十年",
+      "para_index": 14,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "“今欲伐吳，必前求其所好，參其所願，然後能得其實”以鳥魚死於誘餌作比，提出先掌握敵王欲望再行控制的戰略（V）"
+    },
+    {
+      "chapter": "勾踐十年",
+      "para_index": 15,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "“人之所好雖其願，何以定而制之死乎？”追問如何利用敵人的欲好制勝，承接的是對吳國君主的政治操控策略（V）；死在此是計策結果，不標 X"
+    },
+    {
+      "chapter": "勾踐十年",
+      "para_index": 16,
+      "domains": ["V"],
+      "modes": ["prescription"],
+      "reason": "“欲報怨復讎，破吳滅敵者，有九術”把九術明定為復讎與滅敵的國家謀略，承重在群體衝突與政治行動（V）"
+    },
+    {
+      "chapter": "勾踐十年",
+      "para_index": 17,
+      "domains": ["VI"],
+      "modes": ["expression"],
+      "reason": "“寡人被辱懷憂，內慚朝臣，外愧諸侯，中心迷惑，精神空虛”逐項說出憂、慚、愧、迷惑與空虛的對象，整段承重在受辱後的內在生活（VI）"
+    },
+    {
+      "chapter": "勾踐十年",
+      "para_index": 18,
+      "domains": ["V"],
+      "modes": ["prescription"],
+      "reason": "“二曰重財幣以遺其君，多貨賄以喜其臣”是九術清單中操控敵國君臣的一項，整段列舉取吳的政治謀略（V）；“尊天事鬼”只是一項待用之術，並未在本段施行或驗證，故不標 XII"
+    },
+    {
+      "chapter": "勾踐十年",
+      "para_index": 19,
+      "domains": ["XII", "V"],
+      "modes": ["narrative", "ritual"],
+      "reason": "“立東郊以祭陽，名曰東皇公，立西郊以祭陰，名曰西王母”把事鬼之術實施為國家祭祀，且“事鬼神一年，國不被災”由文本認證其效（XII）；“善哉，大夫之術！願論其餘。”寫君王採納臣策並繼續推行九術（V）"
+    },
+    {
+      "chapter": "勾踐十年",
+      "para_index": 20,
+      "domains": ["V"],
+      "modes": ["prescription"],
+      "reason": "“吳王好起宮室，用工不輟”據敵王偏好提出“王選名山神材，奉而獻之”，是以供材誘使吳國耗費的政治計策（V）"
+    },
+    {
+      "chapter": "勾踐十年",
+      "para_index": 21,
+      "domains": ["VI", "VIII"],
+      "modes": ["narrative"],
+      "reason": "“作士思歸，皆有怨望之心”明寫長期伐木者思鄉怨望的內在感受（VI）；“巧工施校，制以規繩，雕治圓轉，刻削磨礱”細寫工匠加工巨木的技藝（VIII）。神木在此是獻材故事的傳奇過橋，不另標 XII"
+    },
+    {
+      "chapter": "勾踐十年",
+      "para_index": 22,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "“有餘材，謹再拜獻之”以役臣自稱和再拜之禮包裝獻木，承重在越國對吳國的臣服外交與欺敵行動（V）"
+    },
+    {
+      "chapter": "勾踐十年",
+      "para_index": 23,
+      "domains": ["V", "VII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "“王勿受也”與“大王受之，必為越王所戮”構成臣下對君王的政治諫阻（V）；“昔者，桀起靈臺，紂起鹿臺”以亡國暴君的奢侈作為品格警戒（VII）。天災語出自諫臣論證，不是文本認證，故不標 XII"
+    },
+    {
+      "chapter": "勾踐十年",
+      "para_index": 24,
+      "domains": ["V", "IX"],
+      "modes": ["narrative"],
+      "reason": "“吳王不聽，遂受而起姑蘇之臺”寫君王拒諫後發動巨型工程的治理選擇及公共代價（V）；“民疲士苦，人不聊生”直接把百姓士卒的困苦處境寫成結果（IX），路死是災難敘事而非面對死亡，故不標 X"
+    },
+    {
+      "chapter": "勾踐十年",
+      "para_index": 25,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "“善哉，第二術也！”是越王確認獻木疲吳之策已奏效，承重在君臣謀略的評估與國家對抗（V）"
+    },
+    {
+      "chapter": "勾踐十一年",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "“越王深念永思，惟欲伐吳，乃請計研問曰：”在本段內完整呈現君王為伐吳召臣問策的起頭，承重在君臣議兵與國家衝突（V）"
+    },
+    {
+      "chapter": "勾踐十一年",
+      "para_index": 2,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "“早欲興師，惟問於子”在本段自身寫出準備興兵而向對方求教，承重在軍政決策與問策關係（V），不借上一段補說話者"
+    },
+    {
+      "chapter": "勾踐十一年",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["prescription"],
+      "reason": "“內蓄五穀，實其金銀，滿其府庫，勵其甲兵”規定興兵前應完成的國家戰備（V）；“察天地之氣，原於陰陽，明於孤虛，審於存亡，乃可量敵”把候氣量敵當成專業判斷技術（VIII），不標 XII"
+    },
+    {
+      "chapter": "勾踐十一年",
+      "para_index": 4,
+      "domains": ["VIII"],
+      "modes": ["narrative"],
+      "reason": "“『天地』、『存亡』，其要柰何？”針對前述術語追問其技術要領，承重在求取量敵與備戰知識（VIII），沒有認證神聖效力"
+    },
+    {
+      "chapter": "勾踐十一年",
+      "para_index": 5,
+      "domains": ["VIII"],
+      "modes": ["proposition"],
+      "reason": "“原陰陽者，物貴賤也；明孤虛者，知會際也；審存亡者，別真偽也”逐一定義物價、時機與真偽的判讀方法，屬經濟軍政專業知識（VIII）而非信仰主張"
+    },
+    {
+      "chapter": "勾踐十一年",
+      "para_index": 6,
+      "domains": ["VIII"],
+      "modes": ["narrative"],
+      "reason": "“何謂『死生』、『真偽』乎？”是要求澄清術語與判別方法的技術性問句（VIII）；死生在此是物候分類，並非有人面對死亡，故不標 X"
+    },
+    {
+      "chapter": "勾踐十一年",
+      "para_index": 7,
+      "domains": ["XI", "VIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "“夫天時有生而不救種，是一死也”明說即使天時可生，人的不播種仍會造成失敗，把成敗落回人力（XI）；“留意省察，謹除苗穢，穢除苗盛”列出耕作管理的具體技術（VIII），不標 XII"
+    },
+    {
+      "chapter": "勾踐十一年",
+      "para_index": 8,
+      "domains": ["VIII"],
+      "modes": ["narrative"],
+      "reason": "“何子之年少，於物之長也？”驚歎計研年輕卻長於物理，承重在對其專業知識與能力的辨認（VIII）"
+    },
+    {
+      "chapter": "勾踐十一年",
+      "para_index": 9,
+      "domains": ["II"],
+      "modes": ["proposition"],
+      "reason": "“有美之士，不拘長少”明言有才之士的價值不由年齡身分拘限，承重在人的自我定位與外界識別（II）"
+    },
+    {
+      "chapter": "勾踐十一年",
+      "para_index": 10,
+      "domains": ["VIII", "V"],
+      "modes": ["narrative"],
+      "reason": "“虛設八倉，從陰收著，望陽出糶，筴其極計，三年五倍”寫勾踐實施倉儲買賣方法並取得倍增成果（VIII）；“越國熾富”交代此術使國家富強的公共治理結果（V）"
+    },
+    {
+      "chapter": "勾踐十二年",
+      "para_index": 1,
+      "domains": ["VII", "V"],
+      "modes": ["narrative"],
+      "reason": "“吳王淫而好色，惑亂沉湎”直接評斷吳王放縱欲望的品格（VII）；“不領政”指出其因此荒廢政治職責（V），只依本段殘句判讀"
+    },
+    {
+      "chapter": "勾踐十二年",
+      "para_index": 2,
+      "domains": ["VII", "V"],
+      "modes": ["prescription", "narrative"],
+      "reason": "“吳王淫而好色，宰嚭佞以曳心”以淫與佞評斷兩人的品格弱點（VII）；“往獻美女，其必受之”據此提出以二女操控敵王的國策（V）"
+    },
+    {
+      "chapter": "勾踐十二年",
+      "para_index": 3,
+      "domains": ["V", "VIII"],
+      "modes": ["narrative"],
+      "reason": "“乃使相者國中得苧蘿山鬻薪之女”顯示國家選取二女作為疲吳之術的工具（V）；“教以容步，習於土城，臨於都巷。三年學服”寫長期訓練儀容步態的過程（VIII），不因女性姓名反射標 III／IV"
+    },
+    {
+      "chapter": "勾踐十二年",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "“越國洿下困迫，不敢稽留，謹使臣蠡獻之”以卑辭向吳王進獻二女，承重在兩國臣屬外交與范蠡執行國策（V）"
+    },
+    {
+      "chapter": "勾踐十二年",
+      "para_index": 5,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "“乃勾踐之盡忠於吳之證也”寫吳王把二女之貢判作越王效忠證據，承重在對臣屬關係的政治誤判（V）；大悅只是敘事套語，不標 VI"
+    },
+    {
+      "chapter": "勾踐十二年",
+      "para_index": 6,
+      "domains": ["V", "VII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "“賢士國之寶，美女國之咎”以國家利害勸吳王重賢拒獻，整段是臣對君的政治諫諍（V）；“越王服誠行仁，聽諫進賢”則以誠、仁、納諫與進賢評述對手品格（VII）"
+    },
+    {
+      "chapter": "勾踐十二年",
+      "para_index": 7,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "“善哉，第三術也。”是越王確認獻女惑吳之策完成，承重在評估對敵國策與九術進程（V）"
+    }
+  ]
+}

@@ -2,9 +2,9 @@
   "domain": "VI",
   "name_zh": "情緒與內在生活",
   "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡",
-  "generated_at": "2026-08-25T22:49:46+00:00",
-  "para_count": 699,
-  "book_count": 32,
+  "generated_at": "2026-08-31T23:55:17+00:00",
+  "para_count": 743,
+  "book_count": 33,
   "surveyed_zero_hit": [
     "dongmingji",
     "duduan",
@@ -8841,6 +8841,625 @@
       "excerpt": "自桓麟《七說》以下，左思《七諷》以上，枝附影從，十有餘家。或文麗而義暌，或理粹而",
       "note": "「甘意搖骨體，豔詞動魂識」直接說甘美豔麗的聲色會搖動人的身體與心識，承重於感受和內在反應（VI）",
       "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "佚文",
+      "para_index": 10,
+      "para_id": "wuyue-chunqiu#01-p10",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "9文種者，本楚南郢人也〈此上依《文選．豪士賦序》注補〉。大夫種姓文名種，字子禽〈",
+      "note": "「且人身而犬吠者，謂我是人也」把異常的犬吠重新解釋為對自己身分的承認，直接處理文種如何理解自我（II）；「從吏恐文種慚，令人引衣而鄣之」點明羞慚的具體來由，而「無鄣也」寫出文種對它的內在應對（VI）",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "佚文",
+      "para_index": 12,
+      "para_id": "wuyue-chunqiu#01-p12",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "11文种，荆平王时为宛令，不治官职，有若狂颠，惟叹咲也。〈《抄本书钞》七十八。觉",
+      "note": "“不治官职”直接寫其不履行宛令職事，承重在工作角色的失常（VIII）；“有若狂颠，惟叹咲也”把近似狂顛及反覆嘆笑的狀態本身作為描述對象（VI）",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐伐吳外傳",
+      "para_index": 40,
+      "para_id": "wuyue-chunqiu#02-p40",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "恐軍士畏法不使，自謂未能得士之死力，道見蛙張腹而怒，將有戰爭之氣，即為之軾。其士",
+      "note": "“吾思士卒之怒久矣，而未有稱吾意者”把如何激發士卒怒氣與死戰意願本身當作對象（VI）；“於是軍士聞之，莫不懷心樂死，人致其命”寫君王以敬蛙示範完成軍心動員（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐伐吳外傳",
+      "para_index": 58,
+      "para_id": "wuyue-chunqiu#02-p58",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "臾而生。夫恥辱之心，不可以大，流汗之愧，不可以忍。幸賴宗廟之",
+      "note": "“夫恥辱之心，不可以大，流汗之愧，不可以忍”直接把恥辱與羞愧本身及其難以忍受寫成內在經驗（VI）",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐伐吳外傳",
+      "para_index": 59,
+      "para_id": "wuyue-chunqiu#02-p59",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "神靈，大王之威德，以敗為成，斯湯武克夏商而成王業者。定功雪恥，臣所以當席日久。臣",
+      "note": "“定功雪恥，臣所以當席日久。臣請從斯辭矣”是功臣在國功完成後正式請辭的君臣事件（V）；“越王惻然泣下霑衣”緊接請辭而寫出君王因將失范蠡所生的悲痛（VI）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "越王勾踐五年",
+      "para_index": 4,
+      "para_id": "wuyue-chunqiu#03-p04",
+      "modes": [
+        "ritual"
+      ],
+      "excerpt": "後無殃。君臣生離，感動上皇。眾夫哀悲，莫不感傷。臣請薦脯，行酒二觴。”",
+      "note": "“君臣生離，感動上皇”把離別之情上達神聖者作為祝辭效力（XII）；“眾夫哀悲，莫不感傷”直接以共同哀傷為描寫對象（VI）",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "越王勾踐五年",
+      "para_index": 27,
+      "para_id": "wuyue-chunqiu#03-p27",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "越王曰：“孤雖入於北國，為吳窮虜，有諸大夫懷德抱術，各守一分，以保社稷，孤何憂焉",
+      "note": "“死者，人之所畏”是勾踐在離國當下親自把死亡提出為自己必須面對之事（X）；“其於心胸中曾無怵惕”直接追問自己對死亡是否毫無恐懼，描寫有明確對象的內在感受（VI）",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "越王勾踐五年",
+      "para_index": 28,
+      "para_id": "wuyue-chunqiu#03-p28",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "越王夫人乃據船哭，顧烏鵲啄江渚之蝦，飛去復來，因哭而歌之，曰：“仰飛鳥兮烏鳶，淩",
+      "note": "“任厥兮往還”所寫飛鳥來去自如，與夫人被迫西行、未知歸期形成自由與受制的對照（XI）；“心惙惙兮若割，淚泫泫兮雙懸”把離國之痛直接化為第一人稱感受（VI）",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "越王勾踐五年",
+      "para_index": 29,
+      "para_id": "wuyue-chunqiu#03-p29",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "又哀今曰：“彼飛鳥兮鳶烏，已迴翔兮翕蘇。心在專兮素蝦，何居食兮江湖？徊復翔兮遊颺",
+      "note": "“妻衣褐兮為婢，夫去冕兮為奴”把夫妻共同受辱與相隨的關係放在歌辭中心（III）；“冤悲痛兮心惻”直接抒寫離國為奴所生的悲痛與委屈（VI）",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "越王勾踐五年",
+      "para_index": 30,
+      "para_id": "wuyue-chunqiu#03-p30",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "越王聞夫人怨歌，心中內慟，乃曰：“孤何憂？吾之六翮備矣。”",
+      "note": "“越王聞夫人怨歌，心中內慟”明確交代勾踐的痛苦由夫人的離國怨歌而起，情緒的來由與對象都在本段中（VI）",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "越王勾踐五年",
+      "para_index": 32,
+      "para_id": "wuyue-chunqiu#03-p32",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "三月，吳王召越王入見，越王伏於前，范蠡立於後。吳王謂范蠡曰：“寡人聞貞婦不嫁破亡",
+      "note": "“子既不移其誌”確認范蠡即使獲得轉仕機會仍不改其忠貞立場（VII）；“此時越王伏地流涕，自謂遂失范蠡矣”把勾踐的哭明確繫於自認將失去范蠡的念頭（VI）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "越王勾踐五年",
+      "para_index": 35,
+      "para_id": "wuyue-chunqiu#03-p35",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "越王聞之，召范蠡告之曰：“孤聞於外，心獨喜之，又恐其不卒也。”范蠡曰：“大王安心",
+      "note": "“功曹為騰蛇而臨戊，謀利事在青龍”以干支、神煞關係推演赦免吉兇，是范蠡運用的占候技術（VIII）；“心獨喜之，又恐其不卒也”明寫勾踐在喜悅與恐懼之間的矛盾心情（VI）",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "越王勾踐五年",
+      "para_index": 45,
+      "para_id": "wuyue-chunqiu#03-p45",
+      "modes": [
+        "narrative",
+        "ritual"
+      ],
+      "excerpt": "於是遂赦越王歸國，送於蛇門之外，群臣祖道。吳王曰：“寡人赦君使其返國，必念終始。",
+      "note": "“使得生全還國”與“豈料再還，重復鄉國”把從受囚、絕望到復歸故國寫成苦難後的恢復（XIII）；“言竟掩面，涕泣闌幹”把重見鄉國時的激動與悲喜直接寫成身體化情緒（VI）",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐歸國外傳",
+      "para_index": 10,
+      "para_id": "wuyue-chunqiu#04-p10",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "越王念復吳讎非一旦也，苦身勞心，夜以接日。目臥，則攻之以蓼；足寒，則漬之以水。冬",
+      "note": "“目臥，則攻之以蓼；足寒，則漬之以水。冬常抱冰，夏還握火”具體寫勾踐刻苦其身的身體處境（IX）；“愁心苦誌，懸膽於戶，出入嘗之，不絕於口”把復讎憂苦與反覆自激本身寫成對象（VI）",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐歸國外傳",
+      "para_index": 15,
+      "para_id": "wuyue-chunqiu#04-p15",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "采葛之婦，傷越王用心之苦，乃作苦之詩，曰：“葛不連蔓棻臺臺，我君心苦命更之。嘗膽",
+      "note": "“采葛之婦，傷越王用心之苦”明說作歌源於對越王苦心的感傷（VI）；歌中“女工織兮不敢遲”由勞作者自述織布任務（VIII），全段以詩歌抒發承載",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐歸國外傳",
+      "para_index": 17,
+      "para_id": "wuyue-chunqiu#04-p17",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "九年正月，越王召五大夫而告之曰：“昔者越國遁棄宗廟，身為窮虜，恥聞天下，辱流諸侯",
+      "note": "“身為窮虜，恥聞天下，辱流諸侯”具體交代勾踐念念不忘的羞恥來源（VI）；“孤未知策謀，惟大夫誨之”則是君王向大夫求取國策（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐十年",
+      "para_index": 1,
+      "para_id": "wuyue-chunqiu#05-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "越王勾踐十年二月，越王深念遠思：侵辱於吳，蒙天祉福，得越國。",
+      "note": "“深念遠思：侵辱於吳”把受辱後的反覆思念明寫為內在活動（VI）；“蒙天祉福，得越國”由敘事直接認定天福帶來歸國結果，屬認證側（XII）",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐十年",
+      "para_index": 3,
+      "para_id": "wuyue-chunqiu#05-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "反越五年，未聞敢死之友。或謂諸大夫愛其身、惜其軀者。乃登漸臺望觀其群臣有憂與否。",
+      "note": "“反越五年，未聞敢死之友”提出君王未得死士的用人與忠誠難題（V）；“雖懷憂患，不形顏色”明寫群臣內懷憂慮而外表不露（VI）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐十年",
+      "para_index": 4,
+      "para_id": "wuyue-chunqiu#05-p04",
+      "modes": [
+        "narrative",
+        "ritual"
+      ],
+      "excerpt": "越王即鳴鍾驚檄，而召群臣與之盟曰：“寡人獲辱受恥，上愧周王，下慚晉楚。幸蒙諸大夫",
+      "note": "“寡人獲辱受恥，上愧周王，下慚晉楚”交代勾踐羞愧的具體所指（VI）；“須賢任仁，然後討吳”把盟誓中的痛陳落到求賢、任臣與雪恥國策（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐十年",
+      "para_index": 17,
+      "para_id": "wuyue-chunqiu#05-p17",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "越王曰：“寡人被辱懷憂，內慚朝臣，外愧諸侯，中心迷惑，精神空虛，雖有九術，安能知",
+      "note": "“寡人被辱懷憂，內慚朝臣，外愧諸侯，中心迷惑，精神空虛”逐項說出憂、慚、愧、迷惑與空虛的對象，整段承重在受辱後的內在生活（VI）",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐十年",
+      "para_index": 21,
+      "para_id": "wuyue-chunqiu#05-p21",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "越王乃使木工三千餘人入山伐木，一年，師無所幸。作士思歸，皆有怨望之心，而歌木客之",
+      "note": "“作士思歸，皆有怨望之心”明寫長期伐木者思鄉怨望的內在感受（VI）；“巧工施校，制以規繩，雕治圓轉，刻削磨礱”細寫工匠加工巨木的技藝（VIII）。神木在此是獻材故事的傳奇過橋，不另標 XII",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐十三年",
+      "para_index": 8,
+      "para_id": "wuyue-chunqiu#08-p08",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "子胥曰：“臣聞：『士窮非難，抑心下人，其後有激人之色。』臣聞越王飢餓，民之困窮，",
+      "note": "“士窮非難，抑心下人，其後有激人之色”把受抑後轉為激憤的內在變化直接當作判斷對象（VI）；“可因而破也”據此勸王把握越國困窮而處置敵國，是國策進諫（V）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "十三年",
+      "para_index": 16,
+      "para_id": "wuyue-chunqiu#22-p16",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "越王再拜，曰：「昔者吳王分其民之眾以殘吾國，殺敗吾民，鄙吾百姓，夷吾宗廟，國為墟",
+      "note": "「孤之怨吳，深於骨髓」明說勾踐三年謀戰所由的深怨，情緒有清楚對象（VI）；「焦脣乾舌，苦身勞力」把復仇等待落到長期節食勞身的身體處境（IX）。",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "十三年",
+      "para_index": 25,
+      "para_id": "wuyue-chunqiu#22-p25",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子貢返魯，吳王果興九郡之兵，將與齊戰。道出胥門，因過姑胥之臺，忽晝假寐於姑胥之臺",
+      "note": "「及寤而起，其心恬然悵焉」把夢醒後持續不安的內在感受寫成求問起因（VI）；「請占之，得無所憂哉」顯示吳王認定夢兆可預示禍福並據此召人占驗（XII）。",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "十三年",
+      "para_index": 30,
+      "para_id": "wuyue-chunqiu#22-p30",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "公孫聖伏地而泣，有項而起。其妻從旁謂聖曰：「子何性鄙！希睹人主，卒得急召，涕泣如",
+      "note": "「卒得急召，涕泣如雨」由妻子直接把公孫聖受召後異常哭泣當成追問對象，情緒本身承重（VI）。",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "十三年",
+      "para_index": 31,
+      "para_id": "wuyue-chunqiu#22-p31",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "公孫聖仰天歎曰：「悲哉！非子所知也。今日壬午，時加南方，命屬上天，不得逃亡。非但",
+      "note": "「命屬上天，不得逃亡」是公孫聖親自面對自己此行不可逃的死命（X）；「非但自哀，誠傷吳王」又分明交代其哀傷同時指向自身與吳王（VI）。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "十三年",
+      "para_index": 47,
+      "para_id": "wuyue-chunqiu#22-p47",
+      "modes": [
+        "expression",
+        "proposition"
+      ],
+      "excerpt": "於是子胥據地垂涕，曰：「於乎，哀哉！遭此默默，忠臣掩口，讒夫在側；政敗道壞，諂諛",
+      "note": "「於乎，哀哉！遭此默默」把伍子胥面對忠臣失語、讒人當道的悲哀直接抒出（VI）；「政敗道壞，諂諛無極」則把哀痛所指落在政治敗壞與亡國後果（V）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "十三年",
+      "para_index": 54,
+      "para_id": "wuyue-chunqiu#22-p54",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "王孫駱聞之，不朝，王召而問曰：「子何非寡人而不朝乎？」駱曰：「臣恐耳。」曰：「子",
+      "note": "「臣命何異於子胥？臣以是恐也」把王孫駱不朝的恐懼及其原因完整說明（VI）；「人君者，必有敢諫之臣，在上位者，必有敢言之交」提出君主必須容納諫臣的政治原則（V）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "十四年",
+      "para_index": 6,
+      "para_id": "wuyue-chunqiu#23-p06",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "及報，與諸侯、大夫列坐於晉定公前。既以通命，乃告趙鞅曰：「臣觀吳王之色，類有大憂",
+      "note": "「臣觀吳王之色，類有大憂」由使者從神色辨認吳王有喪親或國難之愁，內在憂懼是判勢依據（VI）；「主君宜許之以前，期無以爭行而危國也」據此勸晉退讓名次但索取明信（V）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "十四年",
+      "para_index": 7,
+      "para_id": "wuyue-chunqiu#23-p07",
+      "modes": [
+        "narrative",
+        "ritual"
+      ],
+      "excerpt": "於是吳王愧晉之義，乃退幕而會。二國君臣並在，吳王稱公前晉侯次之，群臣畢盟。",
+      "note": "「吳王愧晉之義，乃退幕而會」寫羞愧於晉之守義直接促成退讓（VI）；「二國君臣並在，吳王稱公前晉侯次之，群臣畢盟」以會盟次序正式重定兩國地位（V）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "二十三年",
+      "para_index": 2,
+      "para_id": "wuyue-chunqiu#25-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "吳王率群臣遁去，晝馳夜走，三日三夕，達於秦餘杭山，胸中愁憂，目視茫茫，行步猖狂，",
+      "note": "「胸中愁憂，目視茫茫，行步猖狂」把亡國奔逃時的惶亂本身展開來寫（VI）；「腹餒口飢，顧得生稻而食之，伏地而飲水」具體呈現飢餓與疲困的身體處境（IX）",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "二十三年",
+      "para_index": 4,
+      "para_id": "wuyue-chunqiu#25-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "謂太宰嚭曰：「吾戮公孫聖投胥山之巔，吾以畏責天下之慚，吾足不能進，心不能往。」太",
+      "note": "「吾以畏責天下之慚，吾足不能進，心不能往」明寫吳王因殺公孫聖而生的羞慚與悔恨（VI）；「三反呼聖，從山中應曰」由敘事直接讓死者回應呼喚，認證超常感應確實發生（XII）",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "二十三年",
+      "para_index": 9,
+      "para_id": "wuyue-chunqiu#25-p09",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "吳王臨欲伏劍，顧謂左右曰：「吾生既慚，死亦愧矣。使死者有知，吾羞前君地下，不忍睹",
+      "note": "「生不昭我，死勿見我形」是吳王臨死為自身遺體與死後相見所作的安排（X）；「吾生既慚，死亦愧矣」把自殺前的羞慚與愧疚明確當作內在對象（VI）",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 10,
+      "para_id": "wuyue-chunqiu#27-p10",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "尚曰：「父繫三年，中心切怛，食不甘味，嘗苦飢渴，晝夜感思，憂父不活，惟父獲免，何",
+      "note": "「憂父不活，惟父獲免」明示子尚只求父親生還、不貪封爵的孝親選擇（IV）；「中心切怛，食不甘味，嘗苦飢渴」具體展開憂父所致的長期痛苦（VI）",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 21,
+      "para_id": "wuyue-chunqiu#27-p21",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "子胥行至大江，仰天行哭林澤之中，言：「楚王無道，殺吾父兄，願吾因於諸侯以報讎矣。",
+      "note": "「楚王無道，殺吾父兄」點明子胥哭訴與求助諸侯都是為報父兄之仇（IV）；「仰天行哭林澤之中」把失親後持續哭行的悲憤具體呈現（VI）",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 27,
+      "para_id": "wuyue-chunqiu#27-p27",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "子胥即止蘆之漪。漁父又歌曰：「日已夕兮，予心憂悲；月已馳兮，何不渡為？事寖急兮，",
+      "note": "「予心憂悲」是漁父因子胥處境危急而發的明確憂懼（VI）；「漁父知其意也，乃渡之千潯之津」把這份關切落成冒險渡江的實際援助（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚十二年",
+      "para_index": 1,
+      "para_id": "wuyue-chunqiu#30-p01",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "十二年，冬，楚平王卒。伍子胥謂白公勝曰：「平王卒，吾志不悉矣！然楚國有，吾何憂矣",
+      "note": "「平王卒，吾志不悉矣」明寫伍子胥因仇人先死、心志未盡而產生的失落，末句坐泣使這份悲憤成為段落主體（VI）",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "闔閭元年",
+      "para_index": 9,
+      "para_id": "wuyue-chunqiu#32-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "吳大夫被離承宴問子胥曰：「何見而信喜？」子胥曰：「吾之怨與喜同。子不聞河上歌乎？",
+      "note": "「同病相憐，同憂相救」把共同受難所生的同情與互助說成子胥信任白喜的心理根據（VI）；「專功擅殺之性，不可親也」是被離對白喜性情與品格風險的明確警告（VII）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "闔閭二年",
+      "para_index": 1,
+      "para_id": "wuyue-chunqiu#33-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "二年，吳王前既殺王僚，又憂慶忌之在鄰國，恐合諸侯來伐。問子胥曰：「昔專諸之事，於",
+      "note": "「吾食不甘味，臥不安席」把對慶忌結盟來伐的憂懼寫成失去食慾與安眠（VI）；「以付於子」把解除君王威脅託付給子胥，承重在君臣謀國（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "闔閭三年",
+      "para_index": 4,
+      "para_id": "wuyue-chunqiu#34-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "吳王內計二子皆怨楚，深恐以兵往破滅而已。登臺向南風而嘯，有頃而嘆，群臣莫有曉王意",
+      "note": "「深恐以兵往破滅而已」明寫吳王對二臣私怨主導戰事的內在疑懼（VI）；「乃薦孫子於王」寫子胥察知君意未定後轉而推薦將才（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "闔閭十年",
+      "para_index": 7,
+      "para_id": "wuyue-chunqiu#38-p07",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "吳軍去後，昭王反國。樂師扈子非荊王信讒佞，殺伍子奢、白州犁而寇不絕於境，至乃掘平",
+      "note": "「願王更隱撫忠節，勿為讒口能謗褻」以琴曲勸王安撫忠臣、停止信讒，直指治國與君臣信任（V）；「昭王垂涕，深知琴曲之情」寫君王由樂曲理解亡國迫厄而落淚的內在感受（VI）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "闔閭十年",
+      "para_index": 11,
+      "para_id": "wuyue-chunqiu#38-p11",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "諸將既從還楚，因更名閶門曰破楚門。復謀伐齊，齊子使女為質於吳，吳王因為太子波聘齊",
+      "note": "「女少思齊，日夜號泣，因乃為病」完整交代思鄉、哭泣到成病的情緒歷程（VI）；「令死者有知，必葬我於虞山之巔，以望齊國」是女子面對自己的死而安排身後仍望故國（X）",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "第006卷",
+      "para_index": 7,
+      "para_id": "wuyue-chunqiu#39-p07",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "禹傷父功不成，循江，泝河，盡濟，甄淮，乃勞身焦思以行，七年，聞樂不聽，過門不入，",
+      "note": "“乃勞身焦思以行，七年，聞樂不聽，過門不入”寫禹長期投入治水、克制私生活的職守（VIII）；“功未及成，愁然沉思”明示憂愁所指正是功業未成，讓內在情緒本身成為敘寫對象（VI）。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "第006卷",
+      "para_index": 14,
+      "para_id": "wuyue-chunqiu#39-p14",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "南到計於蒼梧，而見縛人，禹拊其背而哭。益曰：“斯人犯法，自合如此，哭之何也？”禹",
+      "note": "“天下有道，民不罹辜；天下無道，罪及善人”直接議論政治秩序、法律與無辜者的公義問題（V）；“今乃罹法如斯，此吾得薄，不能化民證也。故哭之悲耳”交代禹因自責未能安民而哭，情緒的對象與原因都被說明（VI）。",
+      "co_domains": [
+        "V"
+      ]
     },
     {
       "slug": "xinxu",

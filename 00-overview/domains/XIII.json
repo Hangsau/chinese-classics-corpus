@@ -2,9 +2,9 @@
   "domain": "XIII",
   "name_zh": "安頓·修復·平安",
   "gist": "靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈",
-  "generated_at": "2026-08-25T22:49:46+00:00",
-  "para_count": 165,
-  "book_count": 24,
+  "generated_at": "2026-08-31T23:55:17+00:00",
+  "para_count": 172,
+  "book_count": 25,
   "surveyed_zero_hit": [
     "duduan",
     "fangyan",
@@ -2041,6 +2041,103 @@
       "excerpt": "水停以鑒，火靜而朗。無擾文慮，鬱此精爽。",
       "note": "「無擾文慮，鬱此精爽」以水停火靜為喻，主張不擾心慮而保存清明精神，是維持內在安定的工夫（XIII）",
       "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "越王勾踐五年",
+      "para_index": 7,
+      "para_id": "wuyue-chunqiu#03-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫扶同曰：“何言之鄙也？昔湯繫於夏臺，伊尹不離其側；文王囚於石室，太公不棄其國",
+      "note": "“興衰在天，存亡繫於人”把存亡的實際落點放在人力而非神意（XI）；“故湯王不以窮自傷，周文不以困為病”以古人不被困厄擊垮說明受苦時的自處（XIII）",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "越王勾踐五年",
+      "para_index": 11,
+      "para_id": "wuyue-chunqiu#03-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "於是大夫種、范蠡曰：“聞古人曰：『居不幽，誌不廣；形不愁，思不遠。』聖王賢主皆遇",
+      "note": "“處卑而不以為惡，居危而不以為薄”提出身受卑辱危難時仍不自棄的安頓方式（XIII）；“夫吉者，兇之門；福者，禍之根”以禍福相轉勸勾踐不要把當下困厄視為定局（XI）",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "越王勾踐五年",
+      "para_index": 20,
+      "para_id": "wuyue-chunqiu#03-p20",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大夫范蠡曰：“輔危主，存亡國，不恥屈厄之難，安守被辱之地，往而必反，與君復讎者：",
+      "note": "“輔危主，存亡國”是范蠡自陳所任工作的核心使命（VIII）；“不恥屈厄之難，安守被辱之地”把忍受屈辱並守住處境說成復國前的自處方式（XIII）",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "越王勾踐五年",
+      "para_index": 33,
+      "para_id": "wuyue-chunqiu#03-p33",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "越王服犢鼻，著樵頭夫人衣無緣之裳，施左關之襦。夫斫剉養馬，妻給水、除糞、灑掃。三",
+      "note": "“夫斫剉養馬，妻給水、除糞、灑掃”具體寫勾踐夫妻三年承受的勞役與污穢身體處境（IX）；“雖在窮厄之地，不失君臣之禮”寫他們在受辱後仍以禮維持秩序與自處（XIII）",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "越王勾踐五年",
+      "para_index": 45,
+      "para_id": "wuyue-chunqiu#03-p45",
+      "modes": [
+        "narrative",
+        "ritual"
+      ],
+      "excerpt": "於是遂赦越王歸國，送於蛇門之外，群臣祖道。吳王曰：“寡人赦君使其返國，必念終始。",
+      "note": "“使得生全還國”與“豈料再還，重復鄉國”把從受囚、絕望到復歸故國寫成苦難後的恢復（XIII）；“言竟掩面，涕泣闌幹”把重見鄉國時的激動與悲喜直接寫成身體化情緒（VI）",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "十四年",
+      "para_index": 11,
+      "para_id": "wuyue-chunqiu#23-p11",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "吳王還歸自池，息民散兵。",
+      "note": "「息民散兵」在遠征與會盟之後以休養百姓、解散軍隊收束故事，落點是戰後恢復安定（XIII）。",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "王僚五年",
+      "para_index": 31,
+      "para_id": "wuyue-chunqiu#27-p31",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子胥之吳，乃被髮佯狂，跣足塗面，行乞於市，市人觀罔有識者。翌日，吳市吏善相者見之",
+      "note": "「被髮佯狂，跣足塗面，行乞於市」寫子胥在流亡受辱後以偽裝與乞食求生（XIII）；「王宜召之」寫市吏辨識人才並向王僚舉薦，使他重新進入政治共同體（V）",
+      "co_domains": [
+        "V"
+      ]
     },
     {
       "slug": "xinxu",

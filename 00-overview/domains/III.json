@@ -2,9 +2,9 @@
   "domain": "III",
   "name_zh": "愛與親密",
   "gist": "愛與性、被拒絕、承諾、信任與脆弱、溝通與被理解",
-  "generated_at": "2026-08-25T22:49:46+00:00",
-  "para_count": 157,
-  "book_count": 22,
+  "generated_at": "2026-08-31T23:55:17+00:00",
+  "para_count": 159,
+  "book_count": 23,
   "surveyed_zero_hit": [
     "dengxizi",
     "duduan",
@@ -1877,6 +1877,34 @@
       "excerpt": "觀文景以前，詔體浮新；武帝崇儒，選言弘奧。策封三王，文同訓典；勸戒淵雅，垂範後代",
       "note": "「孝宣璽書，賜太守陳遂，亦故舊之厚也」明說詔書承載君臣舊交的深厚情分，落到信任與親密關係（III）",
       "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "越王勾踐五年",
+      "para_index": 29,
+      "para_id": "wuyue-chunqiu#03-p29",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "又哀今曰：“彼飛鳥兮鳶烏，已迴翔兮翕蘇。心在專兮素蝦，何居食兮江湖？徊復翔兮遊颺",
+      "note": "“妻衣褐兮為婢，夫去冕兮為奴”把夫妻共同受辱與相隨的關係放在歌辭中心（III）；“冤悲痛兮心惻”直接抒寫離國為奴所生的悲痛與委屈（VI）",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "十三年",
+      "para_index": 33,
+      "para_id": "wuyue-chunqiu#22-p33",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "公孫聖曰：「愚哉！女子之言也。吾受道十年，隱身避害，欲紹壽命，不意卒得急召，中世",
+      "note": "「欲紹壽命，不意卒得急召，中世自棄」寫公孫聖原欲避害延命、如今自知中途喪生（X）；「故悲與子相離耳」把最終悲痛明確落在與妻子永別（III）。",
+      "co_domains": [
+        "X"
+      ]
     },
     {
       "slug": "yanshi-jiaxun",

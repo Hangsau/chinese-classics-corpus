@@ -2,9 +2,9 @@
   "domain": "II",
   "name_zh": "自我與認同",
   "gist": "我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我",
-  "generated_at": "2026-08-25T22:49:46+00:00",
-  "para_count": 757,
-  "book_count": 37,
+  "generated_at": "2026-08-31T23:55:17+00:00",
+  "para_count": 766,
+  "book_count": 38,
   "surveyed_zero_hit": [
     "duduan",
     "fangyan",
@@ -9202,6 +9202,129 @@
       "excerpt": "才性異區，文辭繁詭。辭為膚根，志實骨髓。",
       "note": "「才性異區，文辭繁詭」明說人的才質與性情分屬不同區域，並以此解釋文辭多樣，是個體稟性的差異（II）",
       "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "佚文",
+      "para_index": 10,
+      "para_id": "wuyue-chunqiu#01-p10",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "9文種者，本楚南郢人也〈此上依《文選．豪士賦序》注補〉。大夫種姓文名種，字子禽〈",
+      "note": "「且人身而犬吠者，謂我是人也」把異常的犬吠重新解釋為對自己身分的承認，直接處理文種如何理解自我（II）；「從吏恐文種慚，令人引衣而鄣之」點明羞慚的具體來由，而「無鄣也」寫出文種對它的內在應對（VI）",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐伐吳外傳",
+      "para_index": 64,
+      "para_id": "wuyue-chunqiu#02-p64",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "知難。其知相國何如人也？”種曰：“哀哉！大王知臣勇也，不知臣",
+      "note": "“知難。其知相國何如人也”追問君王究竟如何認識相國，也回扣人難以自知的界線，承重在自我與他者認識（II）",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐伐吳外傳",
+      "para_index": 65,
+      "para_id": "wuyue-chunqiu#02-p65",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "仁也；知臣忠也，不知臣信也。臣誠數以損聲色，滅淫樂奇說怪論，",
+      "note": "“知臣忠也，不知臣信也”由文種區分君王所知與不知的自己，承重在身份與被認識（II）；“臣誠數以損聲色，滅淫樂奇說怪論”以反對淫樂怪論陳明自己的操守（VII）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐伐吳外傳",
+      "para_index": 72,
+      "para_id": "wuyue-chunqiu#02-p72",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "越王既已誅忠臣，霸於關東，從瑯邪，起觀臺，周七里，以望東海。死士八千人，戈船三百",
+      "note": "“越性脆而愚，水行山處，以船為車，以楫為馬”由越王界定越人的集體性情與生活身份（II）；“夫子何以教之”及孔子終而辭去，寫君王如何面對前來施教的賢士（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "越王勾踐五年",
+      "para_index": 6,
+      "para_id": "wuyue-chunqiu#03-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "越王曰：“孤承前王餘德，守國於邊，幸蒙諸大夫之謀，遂保前王丘墓。今遭辱恥為天下笑",
+      "note": "“將孤之罪耶”顯示勾踐追問受辱究竟是不是自己的過失，落在自我責任辨認（II）；“諸大夫之責也？吾不知其咎，願二三子論其意”把國難責任交付君臣共同論辨（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "勾踐十一年",
+      "para_index": 9,
+      "para_id": "wuyue-chunqiu#06-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "計研曰：“有美之士，不拘長少。”",
+      "note": "“有美之士，不拘長少”明言有才之士的價值不由年齡身分拘限，承重在人的自我定位與外界識別（II）",
+      "co_domains": []
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "吳太伯傳",
+      "para_index": 5,
+      "para_id": "wuyue-chunqiu#09-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "古公卒，太伯、仲雍歸，赴喪畢，還荊蠻。國民君而事之，自號為勾吳。吳人或問何像而為",
+      "note": "「吾以伯長居國，絕嗣者也，其當有封者，吳仲也」由太伯親自界定自身名號、排行與繼嗣位置（II）；「荊蠻義之，從而歸之者千有餘家，共立以為勾吳」寫群眾擁立及共同體形成（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "諸樊元年",
+      "para_index": 4,
+      "para_id": "wuyue-chunqiu#16-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "札復謝曰：「昔曹公卒，廢存適亡，諸侯與曹人不義而立於國。子臧聞之，行吟而歸。曹君",
+      "note": "「札雖不才，願附子臧之義」明示季札選擇以子臧的行義定位自己（II）；「諸侯與曹人不義而立於國」直接以不義裁斷違反正當繼位者的品格與行為（VII）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "wuyue-chunqiu",
+      "chapter": "餘祭十七年",
+      "para_index": 1,
+      "para_id": "wuyue-chunqiu#19-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "十七年，餘祭卒。餘昧立四年卒。欲授位季札，季札讓，逃去。曰：「吾不受位明矣。昔前",
+      "note": "「吾不受位明矣」是季札再次明示不以王位界定自身的選擇（II）；「潔身清行，仰高履尚，惟仁是處，富貴之於我，如秋風之過耳。」把守仁、清行與輕富貴作為自持標準（VII）",
+      "co_domains": [
+        "VII"
+      ]
     },
     {
       "slug": "wuzi",
