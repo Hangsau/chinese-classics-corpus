@@ -5,7 +5,11 @@ CLAUDE.md 規定回收後要主動查兩件事，第一件是「命中段的 rea
 來源（本段逐字、**他章的對照引句**、通讀者自己的概括），抄進 SPEC 或寫進 reason
 後，按段對拍就會變成假 FAIL 或假 PASS。
 
-判準：reason 裡每一段 `「…」` 都必須是該段正文的子字串。
+判準：reason 裡每一段 `「…」` 或 `“…”` 都必須是該段正文的子字串。
+- **兩種引號都要抽**：本庫底本的引號體例逐批不同（吳越春秋 b02–b05、b10 用彎引號，
+  b01 用直角引號），judge 會跟著底本走。只抽 `「…」` 會把彎引號批次整批誤判成
+  「有格無引句」，而總結行仍印「0 條不在本段」——綠得像通過，實際只比對了
+  125 段裡的 16 段。這與晏子 S11 是同一種靜默失效：斷言還活著，但覆蓋率悄悄掉了。
 - 節引用 `……` 連接的，逐段各自比對（`嬰之族……待嬰以祀其先人者五百家` 算合法）
 - 太短的引號（少於 4 字）多半是詞語標記不是承重句，不比對
 - 有 domains 卻一句都沒引，單獨列出——那是複述 spec 的徵候
@@ -71,7 +75,8 @@ def main() -> int:
                 foreign.append(f"{f.name} {key} 不在語料裡")
                 continue
             reason = str(row.get("reason") or "")
-            quotes = [q for q in re.findall(r"「([^」]+)」", reason)
+            quotes = [q for q in (re.findall(r"「([^」]+)」", reason)
+                                  + re.findall(r"“([^”]+)”", reason))
                       if len(q.replace("……", "")) >= MIN_LEN]
             if row.get("domains") and not quotes:
                 silent.append(f"{key[0]}[{key[1]}] 標了 "
