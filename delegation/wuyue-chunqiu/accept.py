@@ -558,6 +558,32 @@ def check_spec(spec: Spec, corpus: Corpus, r: Report) -> dict[str, str]:
         for key in sorted(actual_r - set(listed_r)):
             r.fail("S16", f"`{key[0]}`[{key[1]}] 含括號類來源殘留，但沒列進全表")
 
+    # S17 發包輸入 bNN.md 的段落文字必須與底本逐字相同、且剛好涵蓋全部段落。
+    # 兩邊一旦漂開，判者讀的與驗收器對拍的就是兩份文本，A15 與
+    # check-reason-quotes.py 的每一條結果都變成噪音，而且不會有任何斷言報錯。
+    covered: set[tuple[str, int]] = set()
+    for path in sorted(HERE.glob("b*.md")):
+        chapter = None
+        for line in path.read_text(encoding="utf-8").splitlines():
+            head = re.match(r"^## (.+?)（\d+ 段）\s*$", line)
+            if head:
+                chapter = head.group(1)
+                continue
+            row = re.match(r"^\[(\d+)\] (.*)$", line)
+            if not row or chapter is None:
+                continue
+            key = (chapter, int(row.group(1)))
+            covered.add(key)
+            got = corpus.para.get(key)
+            if got is None:
+                r.fail("S17", f"{path.name} 有 `{key[0]}`[{key[1]}]，底本裡沒有這一段")
+            elif got[1] != row.group(2):
+                r.fail("S17", f"{path.name} `{key[0]}`[{key[1]}] 的文字與底本不符")
+    if not covered:
+        r.fail("S17", "一段發包輸入都沒解析到——bNN.md 格式已變，斷言已停跑")
+    for key in sorted(set(corpus.para) - covered):
+        r.fail("S17", f"底本的 `{key[0]}`[{key[1]}] 沒有出現在任何 bNN.md")
+
     return gmap
 
 
