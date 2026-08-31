@@ -46,6 +46,7 @@ SECTION_SEMANTICS = {
     ("認證側", 0): {"require": [{"XII"}]},
     ("技術側", 0): {"nonempty": True, "forbid_d": {"XII"}},
     ("破除側／人力側", 0): {"require": [{"XI"}], "forbid_d": {"XII"}},
+    ("說辭側與過度側", 0): {"nonempty": True, "forbid_d": {"XII"}},
     ("X 的兩側", 0): {"require": [{"X"}]},
     ("X 的兩側", 1): {"nonempty": True, "forbid_d": {"X"}},
     ("G3 不是判空群", 0): {"nonempty": True},
@@ -316,7 +317,7 @@ def check_spec(spec: Spec, corpus: Corpus, r: Report) -> dict[str, str]:
 
     # S2 標題宣告段數 == 表格列數
     for frag in ["必須判空的錨點", "認證側", "技術側", "破除側／人力側",
-                 "G3 不是判空群", "G4 登錄之外"]:
+                 "說辭側與過度側", "G3 不是判空群", "G4 登錄之外"]:
         declared = spec.heading_count(frag)
         rows = spec.table(frag, 0)
         if rows is None:
@@ -427,6 +428,8 @@ def check_spec(spec: Spec, corpus: Corpus, r: Report) -> dict[str, str]:
                 ("認證側", 0, r"認證側 (\d+) 段全部含 XII"),
                 ("技術側", 0, r"技術側 (\d+) 段 `domains` 全部非空"),
                 ("破除側／人力側", 0, r"破除側 (\d+) 段全部含 XI"),
+                ("說辭側與過度側", 0,
+                 r"說辭側與過度側 (\d+) 段 `domains` 全部非空"),
                 ("X 的兩側", 0, r"X 命中側 (\d+) 段全部含 X")]
     for frag, idx, pat in a_counts:
         n = spec.number(pat)
