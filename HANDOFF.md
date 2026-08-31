@@ -13,15 +13,21 @@
 | g01 通讀（b01＋b10，38 段，G5＋G4） | ✅ 已併入 SPEC |
 | g02 通讀（b02–b05，239 段，G1） | ✅ 已併入 SPEC（commit 99fdd4d） |
 | g03 通讀（b06–b09，216 段，G2＋G3） | ✅ 已落地（commit 768b71e），**尚未併入 SPEC** |
-| 試點批 b02＋b10＋b01 | ⏳ codex 執行中，產物落 `delegation/wuyue-chunqiu/out/bNN.json` |
-| 其餘七批 b03–b09 | ⬜ 未發 |
+| 試點批 b02＋b10＋b01（125 段） | ✅ 已回收驗收：`accept.py` 0 FAIL、判空 14 段（11%） |
+| 試點校準回填 SPEC（硬規則 15b） | ✅ 已補，`--check-spec` 0 FAIL、探針 41/41 |
+| 其餘七批 b03–b09（368 段） | ⏳ codex 執行中 |
+
+**試點回收的兩項發現（重要，跨書）**：
+
+1. **`scripts/check-reason-quotes.py` 有彎引號盲點**（已修）。它只抽 `「…」`，而本庫底本引號體例逐批不同，judge 跟著底本走是對的。結果 125 段裡 104 段被誤報成「有格無引句」，總結行卻仍印「0 條不在本段」——**綠得像通過，實際只比對了 16 段**。補抽 `“…”` 後比對數 16 → 173、誤報全消。**與晏子 S11 同型：斷言還活著，覆蓋率悄悄掉了。**
+2. **修好後浮出 6 條 FOREIGN，全是同一型**：judge 把「敘述＋`：`＋人物話語」接成一條引句、吞掉內層 `“`，該引句在底本裡逐字不存在。內容都在本段、只有標點被併掉（`勾踐伐吳外傳` [12][15][29][30][31][46]）。照本庫慣例**記誤差、不鬆判準**，改的是 SPEC——新增硬規則 15b。b02 不重發包（晏子 519 段 1 條的前例）。
 
 **下一手（照這個順序）**：
 
-1. **驗收試點**：確認 `out/b02.json`／`b10.json`／`b01.json` 存在且非空 → `PYTHONIOENCODING=utf-8 python accept.py`（A 類硬條件）→ `scripts/check-delegation-out.py --slug wuyue-chunqiu` → `scripts/check-reason-quotes.py --slug wuyue-chunqiu`。**exit 0 不算數，看實際產物。**
-2. **g03 併入 SPEC**：先由我獨立把 g03 的逐字引句回 `raw/original.txt` 用 `split_paragraphs` 對拍（**§8 自述不算通過**，g02 那次是兩邊獨立收斂才採信）；補進 SPEC 後同步補擾動探針案例，再跑 `probe_spec.py` 確認新斷言族真的會叫。
-3. 試點校準結果回填 SPEC，再 `bash scripts/run-delegation.sh wuyue-chunqiu b03 b04 b05 b06 b07 b08 b09`。
-4. 回收：`check-delegation-out.py` → `check-reason-quotes.py` → **`make-scaffold.py`（必須在 apply 之前，否則 `FileNotFoundError`）** → `apply-delegation.py --slug wuyue-chunqiu --tagged-by <model>` → `annotate.py stats` → `verify.py` → `build-index.py`。
+1. **驗收 b03–b09**：`PYTHONIOENCODING=utf-8 python accept.py out/*.json` → `scripts/check-delegation-out.py --slug wuyue-chunqiu`（應不再有「輸出不存在」）→ `scripts/check-reason-quotes.py --slug wuyue-chunqiu`。**exit 0 不算數，看實際產物。**預期 15b 生效後 FOREIGN 應明顯少於試點比例。
+2. **g03 併入 SPEC**：先由我獨立把 g03 的逐字引句回 `raw/original.txt` 用 `split_paragraphs` 對拍（**§8 自述不算通過**，g02 那次是兩邊獨立收斂才採信）；補進 SPEC 後同步補擾動探針案例，再跑 `probe_spec.py`。**注意 `split_paragraphs(text)` 吃字串不吃路徑。**
+3. 回收：**`make-scaffold.py`（必須在 apply 之前，否則 `FileNotFoundError`）** → `apply-delegation.py --slug wuyue-chunqiu --tagged-by <model>` → `annotate.py stats` → `verify.py` → `build-index.py`。
+4. 書級 `meta.json` 的 `psych_survey` 要同時記 `domains_hit` 與 `domains_null`（試點三批已見 I／III／XIII 掛零，全書回收後再定案）。
 
 **踩雷點**：
 
