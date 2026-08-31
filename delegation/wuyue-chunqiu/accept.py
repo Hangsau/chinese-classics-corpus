@@ -399,7 +399,8 @@ def check_spec(spec: Spec, corpus: Corpus, r: Report) -> dict[str, str]:
     # S7 底本異體字與引號總數
     base = [("為", r"`為`（全書 (\d+) 次"), ("眾", r"`眾`（(\d+) 次"),
             ("裏", r"`裏`（(\d+) 次"), ("於", r"`於`（(\d+)）"),
-            ("于", r"`于`（(\d+)）")]
+            ("于", r"`于`（(\d+)）"), ("高", r"`高`（(\d+) 次）"),
+            ("髙", r"`髙`（(\d+) 次）")]
     for ch, pat in base:
         n = spec.number(pat)
         if n is None:
@@ -529,6 +530,33 @@ def check_spec(spec: Spec, corpus: Corpus, r: Report) -> dict[str, str]:
             r.fail("S15", f"硬斷行段全表列了 `{key[0]}`[{key[1]}]，但它在語料裡是{n}，不是 30 字")
         for key in sorted(actual - listed):
             r.fail("S15", f"`{key[0]}`[{key[1]}] 是 30 字硬斷行段，但沒列進全表")
+
+    # S16 底本事實 8 的來源殘留全表，雙向對拍
+    # 「〈 〉」是佚文的校勘夾注（底本事實 3 管），這裡只咬括號類殘留。
+    m = re.search(r"\*\*來源殘留全表（(\d+) 處）\*\*：(.+?)。", spec.raw, re.S)
+    if not m:
+        r.fail("S16", "讀不到來源殘留全表——底本事實 8 被改寫，斷言已停跑")
+    else:
+        declared_n = int(m.group(1))
+        listed_r: dict[tuple[str, int], str] = {}
+        for chunk in m.group(2).split("、"):
+            cm = re.match(r"`([^`]+)`\[(\d+)\]\s*`([^`]+)`$", chunk.strip())
+            if not cm:
+                r.fail("S16", f"來源殘留全表格式壞掉，解析不出：{chunk.strip()!r}")
+                continue
+            listed_r[(cm.group(1), int(cm.group(2)))] = cm.group(3)
+        if len(listed_r) != declared_n:
+            r.fail("S16", f"來源殘留全表宣告 {declared_n} 處，實際列出 {len(listed_r)} 處")
+        for key, frag in sorted(listed_r.items()):
+            got = corpus.para.get(key)
+            if got is None:
+                r.fail("S16", f"來源殘留全表列了 `{key[0]}`[{key[1]}]，語料裡沒有這一段")
+            elif frag not in got[1]:
+                r.fail("S16", f"`{key[0]}`[{key[1]}] 裡找不到宣告的殘留 {frag!r}")
+        actual_r = {(ch, i) for (ch, i), (_b, t) in corpus.para.items()
+                    if any(c in t for c in "（）()[]")}
+        for key in sorted(actual_r - set(listed_r)):
+            r.fail("S16", f"`{key[0]}`[{key[1]}] 含括號類來源殘留，但沒列進全表")
 
     return gmap
 
