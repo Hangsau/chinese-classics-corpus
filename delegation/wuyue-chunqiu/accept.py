@@ -505,6 +505,31 @@ def check_spec(spec: Spec, corpus: Corpus, r: Report) -> dict[str, str]:
         if probe not in a_block and spec.table(frag, idx):
             r.fail("S14", f"錨點表「{frag}」沒有任何 A 類條文引用它")
 
+    # S15 底本事實 7 的硬斷行段全表，逐段回語料對拍
+    m = re.search(r"\*\*硬斷行段全表（(\d+) 段）\*\*：(.+?)。", spec.raw, re.S)
+    if not m:
+        r.fail("S15", "讀不到硬斷行段全表——底本事實 7 被改寫，斷言已停跑")
+    else:
+        declared_n = int(m.group(1))
+        listed: set[tuple[str, int]] = set()
+        for chunk in m.group(2).split("、"):
+            cm = re.match(r"`([^`]+)`((?:\[\d+\])+)$", chunk.strip())
+            if not cm:
+                r.fail("S15", f"硬斷行段全表格式壞掉，解析不出：{chunk.strip()!r}")
+                continue
+            ch = cm.group(1)
+            for i in (int(x) for x in re.findall(r"\[(\d+)\]", cm.group(2))):
+                listed.add((ch, i))
+        if len(listed) != declared_n:
+            r.fail("S15", f"硬斷行段全表宣告 {declared_n} 段，實際列出 {len(listed)} 段")
+        actual = {(ch, i) for (ch, i), (_b, t) in corpus.para.items() if len(t) == 30}
+        for key in sorted(listed - actual):
+            got = corpus.para.get(key)
+            n = "不存在" if got is None else f"{len(got[1])} 字"
+            r.fail("S15", f"硬斷行段全表列了 `{key[0]}`[{key[1]}]，但它在語料裡是{n}，不是 30 字")
+        for key in sorted(actual - listed):
+            r.fail("S15", f"`{key[0]}`[{key[1]}] 是 30 字硬斷行段，但沒列進全表")
+
     return gmap
 
 
