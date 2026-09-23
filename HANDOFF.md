@@ -16,8 +16,20 @@
 | `SPEC.md` 錨點節＋A 類第 8 條起 | ✅ 錨點填完、`ANCHORS-PENDING` 已刪，A 類 22 條 |
 | `accept.py`＋擾動探針 | ✅ `--check-spec` 0 FAIL；`_selftest/probe_spec.py` 54 條毒化全叫 |
 | `_selftest/make_cases.py`（輸出層變異） | ✅ 307 段完美輸出 0 FAIL ＋ 19 條變異拿到完整 FAIL 集合 |
-| 發包 17 批 → 回收 | 🔄 b01 試點 ✅ 0 FAIL；b02–b17 串行發包中（2026-09-23） |
-| 回填 → 索引 → verify | ⬜ scaffold → apply → `psych_survey` 手寫 → `build-index.py` → `verify.py` |
+| 發包 17 批 → 回收 | 🔶 **b01–b04 已回收 141/307 段，0 FAIL**；b05–b17（166 段）**撞 codex 7D 牆未發包** |
+| 回填 → 索引 → verify | ⬜ 等 13 批補齊才能動：scaffold → apply → `psych_survey` 手寫 → `build-index.py` → `verify.py` |
+
+**2026-09-23 發包中斷點**：b05 起每批 6 秒失敗，codex 回 `usage_limit_exceeded`，訊息寫 **try again at Sep 28th, 2026 6:58 AM**——撞的是 **7D 窗**（當天 08:35 快照已 84%），不是 5H，所以當天等不到。照規矩停派不重試、進度落盤、不自動排恢復（codex 重置時點不固定）。
+
+**剩餘清單（13 批 166 段，直接照發即可，SPEC 與驗收器都不必再動）**：
+
+```
+bash scripts/run-delegation.sh yuejueshu b05 b06 b07 b08 b09 b10 b11 b12 b13 b14 b15 b16 b17
+```
+
+腳本對已存在的 `out/*.json` 會跳過，重跑整串是安全的。每批回收後跑 `accept.py out/bNN.json` ＋ `check-reason-quotes.py --slug yuejueshu --batch bNN`，兩支都綠才 commit。
+
+**已回收四批的樣貌（供續跑時對照，不是拿來當預期值）**：141 段裡 108 段判空（77%），`observation=106`、`V=22`、`VII=14`。b03 是 G1 地志 106 段，判空率高是體裁使然（§2.3「登錄之外」閘門），命中都落在條目後的斷語上。**b05 起多為 G2–G6，命中率預期會明顯高於此，不要拿 77% 當基準。**
 
 **分派表（章名 → 群 → 閘門，段數已核對 ＝ 307）**：
 
