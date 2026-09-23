@@ -833,10 +833,10 @@ def check_rows(batch: str, rows: list, spec: Spec, corpus: Corpus,
         if ch in corpus.chapter_paras and ch not in gmap:
             r.fail("A14", f"{batch} {ch} 不屬於分派表任何一群")
 
-        # A15 引號種類：本書全書統一 `「 」`，reason 出現彎引號即退回
+        # A6 引號種類：本書全書統一 `「 」`，reason 出現彎引號即退回
         for mark in "“”":
             if mark in reason:
-                r.fail("A15", f"{batch} {ch}[{pi}] reason 出現 `{mark}`，"
+                r.fail("A6", f"{batch} {ch}[{pi}] reason 出現 `{mark}`，"
                               f"本書全書統一 `「 」`")
                 break
 
@@ -854,10 +854,21 @@ def check_rows(batch: str, rows: list, spec: Spec, corpus: Corpus,
                               f"`「`：{span[:24]}")
 
         # A21 `〈 〉` 夾注不得被引為承重句
+        #
+        # 本書六處夾注一律是 `一作「X」。`，**自己就含一對 `「 」`**——只拿
+        # `「([^「」]{4,})」` 掃 reason 的引句永遠掃不到它們，這一條會變成文心型
+        # 的死斷言（看著活，肯定的那一半從來不叫）。所以夾注原文直接比對，不經
+        # 引句切割；下面的 span 迴圈留給夾注是成句評斷語的書。
         if doms:
-            for span in re.findall(r"「([^「」]{4,})」", reason):
-                for jm in re.findall(r"〈(.+?)〉", text):
-                    if span and span in jm:
+            spans = re.findall(r"「([^「」]{4,})」", reason)
+            for jm in re.findall(r"〈(.+?)〉", text):
+                core = jm.strip("。，")
+                if core and core in reason:
+                    r.fail("A21", f"{batch} {ch}[{pi}] reason 引了 `〈 〉` 夾注："
+                                  f"{core[:24]}")
+                    continue
+                for span in spans:
+                    if span in jm:
                         r.fail("A21", f"{batch} {ch}[{pi}] 承重引句落在 "
                                       f"`〈 〉` 夾注裡：{span[:24]}")
 
