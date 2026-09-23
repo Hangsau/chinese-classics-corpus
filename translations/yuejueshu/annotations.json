@@ -1,0 +1,5270 @@
+[
+  {
+    "para_id": "yuejueshu#01-p01",
+    "anchor": {
+      "chapter": "越絕外傳本事第一",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「越者，國之氏也。」與「絕者，絕也。謂句踐時也。」解釋書名，子貢事蹟與賢者述作亦用來交代成書緣由；依 G5 閘門，本段停留在語義與編纂背景，沒有另立對人的斷語，故判空。",
+    "excerpt": "問曰：「何謂越絕？」「越者，國之氏也。」「何以言之？」「按《春秋》序齊魯，皆以國",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#01-p02",
+    "anchor": {
+      "chapter": "越絕外傳本事第一",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「於是句踐抑彊扶弱，絕惡反之於善，取舍以道」以扶弱與合道的取舍評價政治作為，超出書名解釋，承重在群體公義（V）；「故作此者，貴其內能自約，外能絕人也。」明說作者所貴包含內在自我約束，承重在品格評價（VII）。問答以此論證越何以獨有其功，故取 proposition。",
+    "excerpt": "問曰：「何不稱越經書記，而言絕乎？」曰：「不也。絕者，絕也。句踐之時，天子微弱，",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#01-p03",
+    "anchor": {
+      "chapter": "越絕外傳本事第一",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "VII",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「躬自省約，率道諸侯」把省察節制列為句踐值得稱許的行為，承重在品格（VII）；「躬而自苦，任用賢臣，轉死為生，以敗為成。」將成敗轉變連於自身努力與任賢，承重在人力改變處境（XI）。本段藉齊越起點不同評定功業，已越過 G5 的純書名解釋；死生在此指成敗轉折，不另給 X。",
+    "excerpt": "問曰：「桓公九合諸侯，一匡天下，任用賢者，誅服彊楚，何不言齊絕乎？」曰：「桓公，",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#01-p04",
+    "anchor": {
+      "chapter": "越絕外傳本事第一",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「反邦七年，焦思苦身，克己自責，任用賢人。」把句踐的自制、自責與任賢列為弱越成事的依據；編次說明因而包含對其品格的肯定（VII），超出單純交代何篇在先。全段以吳越強弱及句踐作為論證編排用意，故取 proposition。",
+    "excerpt": "問曰：「然越專其功而有之，何不第一，而卒本吳太伯為？」曰：「小越而大吳。」「小越",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#01-p05",
+    "anchor": {
+      "chapter": "越絕外傳本事第一",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "XI",
+      "XII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「皆人也。夫差失道，越亦賢矣。」把興亡歸於人的行為與賢否，承重在人事決定成敗（XI）；「天生宰嚭者，欲以亾吳。吳今未亾，宰何病乎？」又明言天藉宰嚭使吳亡，隨後以死訊被否證及「聖人不妄言」認可此說，承重在天意有效（XII）。此處保留人事與天意兩層因果，不把天意讀成裝飾或外交說辭；問答主張以故事作證。",
+    "excerpt": "問曰：「吳亾而越興，在天與？在人乎？」「皆人也。夫差失道，越亦賢矣。濕易雨，饑易",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#01-p06",
+    "anchor": {
+      "chapter": "越絕外傳本事第一",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「吳越賢者所作也。」回答作者身分，其後敘述賢者見孔子修書而決意成書，仍在交代著作緣起。嗟歎與決意只是此一緣起的敘述，沒有獨立展開情緒、召喚或品格的主張，依 G5 閘門判空。",
+    "excerpt": "問曰：「越絕誰所作？」「吳越賢者所作也。當此之時，見夫子刪書作《春秋》，定王制，",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#01-p07",
+    "anchor": {
+      "chapter": "越絕外傳本事第一",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "VI",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「夫人情，泰而不作，窮則怨恨，怨恨則作，猶詩人失職怨恨，憂嗟作詩也。」明說困頓、怨恨與寫作的關係，承重在內在情緒如何促成表達（VI）；「子胥懷忠，不忍君沈惑於讒，社稷之傾。」則在子胥作者說之內肯定其忠誠與憂國之心，承重在品格評價（VII）。兩者均超出匿名與作者考辨，故命中；以人情通則配合子胥遭際敘述承載。",
+    "excerpt": "問曰：「作事欲以自著，今但言賢者，不言姓字何？」曰：「是人有大雅之才，直道一國之",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#01-p08",
+    "anchor": {
+      "chapter": "越絕外傳本事第一",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「經者，論其事。傳者，道其意。」及後文說明內外篇、多人述作與刪定重複的編纂體例，並未另對人的生活或評價下斷語，依 G5 閘門判空。末尾校勘夾注只記異文，不作正文承重句。",
+    "excerpt": "問曰：「或經或傳，或內或外，何謂？」曰：「經者，論其事。傳者，道其意。外者，非一",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#02-p01",
+    "anchor": {
+      "chapter": "越絕荊平王內傳第二",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「胥且奔吳邦，君王必早閉而晏開，胥將使邊境有大憂。」指出君王處置臣下將招致跨國報復，承重在君臣關係及其政治後果（V）；「尚為人也，仁且智，來之必入；胥為人也，勇且智，來必不入。」以仁、勇與智的品格差異解釋二子的行動選擇（VII）。",
+    "excerpt": "昔者，荊平王有臣伍子奢。奢得罪於王，且殺之，其二子出走，伍子尚奔吳，伍子胥奔鄭。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#02-p02",
+    "anchor": {
+      "chapter": "越絕荊平王內傳第二",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "IV",
+      "X"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「入則免父之死，不入則不仁。」把入召救父視為兒子的責任，與子胥留身報讐的選擇構成兄弟對事親義務的分歧（IV）；「入者皆死，是不智也。死而不報父之讐，是非勇也。」直接衡量赴死是否有意義，生死取捨是雙方爭論的核心（X）。",
+    "excerpt": "於是王即使使者召子尚於吳，曰：「子父有罪，子入，則免之，不入，則殺之。」子胥聞之",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#02-p03",
+    "anchor": {
+      "chapter": "越絕荊平王內傳第二",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「王以奢為無罪，赦而蓄之，其子又何適乎？」以赦免無罪臣下反問君王的召子要求，揭出以父命脅迫兒子入朝的君臣權力關係（V）。段末殺父與殺兄交代脅迫失敗後的結果，未另展開死亡意義，不據死亡字面加標 X。",
+    "excerpt": "荊平王復使使者召子胥於鄭，曰：「子入，則免父死，不入，則殺之。」子胥介冑彀弓，出",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#02-p04",
+    "anchor": {
+      "chapter": "越絕荊平王內傳第二",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "VII",
+      "X"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「今吾不欲得荊平王之千金，何以百金之劍為？」以拒絕懸賞與酬劍表明漁者援人不為財利的品格（VII）；「子胥行，即覆船，挾匕首自刎而死江水之中，明無洩也。」明說漁者以死證明不洩密，死亡被賦予取信於人的意義，超出交代死訊（X）。",
+    "excerpt": "子胥聞之，即徔橫嶺上大山，北望齊晉，謂其舍人曰：「去，此邦堂堂，被山帶河，其民重",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#02-p05",
+    "anchor": {
+      "chapter": "越絕荊平王內傳第二",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「即發簞飯，清其壺漿而食之。」呈現女子答應求食並立即施助的行動，繼以應允隱藏飲食痕跡的情節，承重在對求助者的援助與承諾（VII）。投水是敘事結局，本段未明說死亡的意義，不借前段的解釋增標 X。",
+    "excerpt": "子胥遂行。至溧陽界中，見一女子擊絮於瀨水之中，子胥曰：「豈可得託食乎？」女子曰：",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#02-p06",
+    "anchor": {
+      "chapter": "越絕荊平王內傳第二",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "IV",
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「彼必經諸侯之邦可以報其父仇者。」將尋求他國援助的動機落在父讐，與子胥自陳父兄無辜被殺相應，親屬責任推動其求援（IV）；「無貴賤長少，有不聽子胥之教者，猶不聽寡人也，罪至死，不赦。」以君命授予子胥權威，呈現君主識人、任人與建立服從關係（V）。",
+    "excerpt": "子胥遂行。至吳。徒跣被髮，乞於吳市。三日，市正疑之，而道於闔廬曰：「中人有非常人",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#02-p07",
+    "anchor": {
+      "chapter": "越絕荊平王內傳第二",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "IV",
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「昔者吾先人無罪而子殺之，今此報子也。」使鞭墓成為替父申冤報讐的行動，承重在父子責任（IV）；「臣聞諸侯不為匹夫興師。」以國家興兵不應只為個人私讐限制君主的決策，區分公共用兵與私人復仇（V）。墓與已死在此服務報讐敘事，不另給 X。",
+    "excerpt": "子胥居吳三年，大得吳眾。闔廬將為之報仇，子胥曰：「不可。臣聞諸侯不為匹夫興師。」",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#02-p08",
+    "anchor": {
+      "chapter": "越絕荊平王內傳第二",
+      "para_index": 8
+    },
+    "psych_domains": [
+      "IV",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「父已死，子食其祿，非父之義也。」以對亡父的義務拒絕接受仇家的俸祿，父子倫理持續約束其選擇（IV）；「前為父報仇，後求其利，賢者不為也。」則把報仇後轉求名利判為賢者不取，承重在守義與逐利的品格界線（VII）。",
+    "excerpt": "後子昭王、臣司馬子其、令尹子西歸，相與計謀：「子胥不死，又不入荊，邦猶未得安，為",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p01",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "本段敘吳國先君、世數、築城與亡國年次；「立二十三年，越王句踐滅之。」只交代史事結果，未論興亡與人的品性或抉擇。",
+    "excerpt": "昔者，吳之先君太伯，周之世，武王封太伯於吳，到夫差，計二十六世，且千歲。闔廬之時",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p02",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「射臺二，一在華池昌里，一在安陽里。」只記射臺數量及所在，沒有役民、勞費或對人的後果。",
+    "excerpt": "射臺二，一在華池昌里，一在安陽里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p03",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "登錄南城宮位置及吳王四時居處、飲食遊射的地點；「旦食於紐山，晝遊於胥母」是活動行程，未評驕奢或內在感受，異文夾注也不承重。",
+    "excerpt": "南城宮，在長樂里，東到春申君府。秋冬治城中，春夏治姑胥之臺。旦食於紐山，晝遊於胥",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p04",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記吳城興造者、時代、城郭周長及水陸門配置；「闔廬所造也。」只是興造登錄，未說明築城對人的影響。",
+    "excerpt": "越走犬長洲。吳王大霸，楚昭王、孔子時也。吳大城，周四十七里二百一十步二尺。陸門八",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p05",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「吳小城，周十二里。」以下均為城牆尺寸、門樓與通路配置，屬建築登錄，數值也不是待解的問題。",
+    "excerpt": "吳小城，周十二里。其下廣二丈七尺，高四丈七尺。門三，皆有樓，其二增水門二，其一有",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p06",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記兩宮周長、所在及失火毀壞的年代；「守宮者照燕失火，燒之。」只是建築沿革，沒有對照燕品格或失去經驗的描寫。",
+    "excerpt": "東宮周一里二百七十步。路西宮在長秋，周一里二十六步。秦始皇帝十一年，守宮者照燕失",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p07",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "逐項記伍子胥城、小城及門間水陸道路的位置與尺度；「水道廣二十八步。」是地理測量，未涉及人的處境。",
+    "excerpt": "伍子胥城，周九里二百七十步。小城東西從武里，面從小城北。邑中徑從閶門到婁門，九里",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p08",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「吳古故陸道，出胥門」以下列陸路經行地點，只提供路線資訊，沒有登錄之外的人的主張。",
+    "excerpt": "吳古故陸道，出胥門，奏出土山，度灌邑，奏高頸，過猶山，奏太湖，隨北顧以西，度陽下",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p09",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 9
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「吳古故水道，出平門」以下列水路所經湖浦江流，只記交通路線，沒有心理或社會關係的承重內容。",
+    "excerpt": "吳古故水道，出平門，上郭池，入瀆，出巢湖，上歷地，過梅亭，入楊湖，出漁浦，入大江",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p10",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 10
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記由拳至山陰道路、候塞與吳王遊城；「辟塞者，吳備候塞也。」只是地點用途，未說軍政措施如何作用於人。",
+    "excerpt": "吳古故從由拳辟塞，度會夷，奏山陰。辟塞者，吳備候塞也。居東城者，闔廬所遊城也，去",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p11",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 11
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「柴碎亭到語兒就李，吳侵以為戰地。」只辨認戰地範圍及使用者，沒有戰爭中人的經驗或評斷。",
+    "excerpt": "柴碎亭到語兒就李，吳侵以為戰地。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p12",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 12
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「百尺瀆，奏江，吳以達糧。」只記水道通向與運糧用途，未談民生公義或人的勞作處境。",
+    "excerpt": "百尺瀆，奏江，吳以達糧。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p13",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 13
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記鑄劍遺址、參與人數、距離與水路；「闔廬以鑄干將劍」僅說場所用途，沒有展開鑄劍技藝或工作意義。",
+    "excerpt": "千里廬虛者，闔廬以鑄干將劍。歐冶僮女三百人。去縣二里，南達江。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p14",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 14
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記高頸山東石人的古名與里數；「去縣二十里。」等資訊均為定位，石人名稱不構成信仰主張。",
+    "excerpt": "閶門外高頸山東桓石人，古者名「石公」，去縣二十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p15",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 15
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「閶門外郭中冢者，闔廬冰室也。」只辨認地點的實際用途，冢字並未承載死亡經驗。",
+    "excerpt": "閶門外郭中冢者，闔廬冰室也。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p16",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 16
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記闔廬冢位置、規模、葬具、築墓人數及虎丘得名；「葬三日而白虎居上，故號為虎丘。」用於說明地名，未另寫死亡意義或人依神聖而行動，不給 X 或 XII。",
+    "excerpt": "闔廬冢，在閶門外，名虎丘。下池廣六十步，水深丈五尺。銅槨三重。墳池六尺。玉鳧之流",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p17",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 17
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「古賢者避世冢」只是墓主身分的簡述，連同墓名與里數構成冢墓登錄，未展開避世者的選擇與安頓。",
+    "excerpt": "虎丘北莫格冢，古賢者避世冢，去縣二十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p18",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 18
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「被奏冢，鄧大冢是也」辨認墓名，後附距離；沒有對死亡、失去或人的評斷。",
+    "excerpt": "被奏冢，鄧大冢是也，去縣四十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p19",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 19
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "本段登錄子女冢的池隧尺度及送葬作法；「舞鶴吳市，殺生以送死。」仍是葬制記述，沒有另行展開生者處境或死的意義，不因殉葬詞面給 X。",
+    "excerpt": "闔廬子女冢，在閶門外道北。下方池廣四十八步，水深二丈五尺。池廣六十步，水深丈五寸",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p20",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 20
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「餘杭城者，襄王時神女所葬也。神多靈。」是地名由來的登錄；神女與所葬都未超出此用途，不給 XII 或 X。",
+    "excerpt": "餘杭城者，襄王時神女所葬也。神多靈。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p21",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 21
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative",
+      "observation"
+    ],
+    "confidence": null,
+    "note": "以交戰、死亡與安葬的短故事交代城邑和墓地沿革；「毋頭騎歸」是故事中的奇異細節，未提出神聖效力或人的生死觀。",
+    "excerpt": "巫門外麋湖西城，越宋王城也。時與搖城王周宋君戰於語招，殺周宋君。毋頭騎歸，至武里",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p22",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 22
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「巫門外冢者，闔廬冰室也。」只記遺址用途，巫門是地名，冢也不承載死亡反思。",
+    "excerpt": "巫門外冢者，闔廬冰室也。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p23",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 23
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記孫武墓位置、里數及墓主特長；「善為兵法。」用於辨識墓主，未展開專業實踐或成就問題。",
+    "excerpt": "巫門外大冢，吳王客齊孫武冢也，去縣十里。善為兵法。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p24",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 24
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「故曰王世子造以為田。」只記塘的興造者與農田用途，另附里數，沒有土地分配或民生的評斷。",
+    "excerpt": "地門外塘波洋中世子塘者，故曰王世子造以為田。塘去縣二十五里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p25",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 25
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「蛇門外大丘，吳王不審名冢也，去縣十五里。」純記不知名王墓的位置，沒有死亡經驗，不給 X。",
+    "excerpt": "蛇門外大丘，吳王不審名冢也，去縣十五里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p26",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 26
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「吳王不審名冢也」與距離只辨認築塘北山的墓址，未說人的失去或生死意義。",
+    "excerpt": "築塘北山者，吳王不審名冢也，去縣二十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p27",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 27
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「吳故神巫所葬也」只交代墓主身分，另記所在與里數；神巫不構成信仰效力，墓址也不構成死亡主題。",
+    "excerpt": "近門外欐溪櫝中連鄉大丘者，吳故神巫所葬也，去縣十五里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p28",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 28
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記復城所在地、舊治者及相關記事的存錄處；「不可繼述」說明記載的限制，沒有據此對人的身分或命運下判斷。",
+    "excerpt": "婁門外馬亭溪上復城者，故越王餘復君所治也，去縣八十里。是時烈王歸於越，所載襄王之",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p29",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 29
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「故越王城也，去縣百五十里。」只記鴻城的所屬與距離，登錄之外沒有人的內容。",
+    "excerpt": "婁門外鴻城者，故越王城也，去縣百五十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p30",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 30
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「故吳王所畜雞處，使李保養之」只說遺址用途與管理者，未寫工作經驗或君臣相待。",
+    "excerpt": "婁門外雞陂墟，故吳王所畜雞處，使李保養之，去縣二十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p31",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 31
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「以望太湖中，闚百姓」交代九曲路與臺的遊觀用途；未說出觀看百姓的治理主張或對百姓的後果，仍屬興造登錄。",
+    "excerpt": "胥門外有九曲路，闔廬造以游姑胥之臺，以望太湖中，闚百姓。去縣三十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p32",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 32
+    },
+    "psych_domains": [
+      "V",
+      "VI"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「取齊王女為質子」寫戰勝者以王女作政治人質的權力關係（V）；「齊女思其國死，葬虞西山。」明言離國後的思念及其致死後果，承重在思鄉的內在經驗（VI），超出門臺墓址登錄。",
+    "excerpt": "齊門，闔廬伐齊，大克，取齊王女為質子，為造齊門，置於水海虛。其臺在車道左、水海右",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p33",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 33
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「吳王田也，去縣八十里。」只辨認吳北野大疁的田主與距離，沒有土地關係的進一步評斷。",
+    "excerpt": "吳北野禺櫟東所舍大疁者，吳王田也，去縣八十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p34",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 34
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「吳王田也。今分為耦瀆。」記鹿陂舊用途與後來變化，未涉及人的工作或社會處境。",
+    "excerpt": "吳西野鹿陂者，吳王田也。今分為耦瀆。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p35",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 35
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「吳王女胥主田也」只交代田地歸屬，父女身分是辨識田主的資料，不承載家庭關係。",
+    "excerpt": "吳北野胥主疁者，吳王女胥主田也，去縣八十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p36",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 36
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「闔廬所置麋也」只記麋湖城的設置用途，另附里數，沒有人的性情或治理後果。",
+    "excerpt": "麋湖城者，闔廬所置麋也，去縣五十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p37",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 37
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「闔廬所置船宮也。闔廬所造。」只記欐溪城的用途及興造者，沒有工作或群體問題的承重句。",
+    "excerpt": "欐溪城者，闔廬所置船宮也。闔廬所造。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p38",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 38
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「闔廬所造，以備外越。」只記設施的建造者與防禦用途，登錄之外沒有關於人的斷語。",
+    "excerpt": "婁門外力士者，闔廬所造，以備外越。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p39",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 39
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「闔廬所置諸侯遠客離城也」只說巫欐城供何人居住，未寫賓主相待或群體關係。",
+    "excerpt": "巫欐城者，闔廬所置諸侯遠客離城也，去縣十五里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p40",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 40
+    },
+    "psych_domains": [
+      "X"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「子胥死，民思祭之。」從山地物產轉寫民眾面對子胥之死，以追念和祭祀回應失去，承重在死後哀思（X）；未認證子胥神力，不給 XII。",
+    "excerpt": "由鍾窮隆山者，古赤松子所取赤石脂也，去縣二十里。子胥死，民思祭之。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p41",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 41
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「更名莋碓。」收束移山傳說，整段只解釋山的來歷與改名；未呈現人依神聖而行動的信仰主張。",
+    "excerpt": "莋碓山，故為鶴阜山，禹遊天下，引湖中柯山置之鶴阜，更名莋碓。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p42",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 42
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「吳王惡其名，內郭中，名通陵鄉。」用於解釋鄉名變更，未展開吳王的情緒經驗或改名對人的後果；異文夾注不作承重。",
+    "excerpt": "放山者，在莋碓山南。以取長之〈一作「人」。〉莋碓山下，故有鄉名莋邑。吳王惡其名，",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p43",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 43
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記大石的古名及所在；「去縣二十里。」是定位資訊，墜星之名本身不構成神聖關係。",
+    "excerpt": "莋碓山南有大石，古者名為「墜星」，去縣二十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p44",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 44
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「故闔廬治以諸侯冢次」只說撫侯山的墓地用途及設置者，未寫死亡意義或君臣相待。",
+    "excerpt": "撫侯山者，故闔廬治以諸侯冢次，去縣二十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p45",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 45
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「越荊王所置，與麋湖相通也。」記溪流開鑿者與相通水域，沒有登錄之外的人的判斷。",
+    "excerpt": "吳東徐亭東西南北通溪者，越荊王所置，與麋湖相通也。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p46",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 46
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「越干王之城也，去縣七十里。」只辨認干城所屬與距離，未涉及人的經驗。",
+    "excerpt": "馬安溪上干城者，越干王之城也，去縣七十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p47",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 47
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「故越王王史冢也」只交代冢墓所屬，另附里數，不因墓主身分或冢字給領域。",
+    "excerpt": "巫門外冤山大冢，故越王王史冢也，去縣二十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p48",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 48
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記搖城歷來居住者、田畝、土壤水況與里數；「稻田三百頃」是田地登錄，沒有人的勞作或民生評斷。",
+    "excerpt": "搖城者，吳王子居焉，後越搖王居之。稻田三百頃，在邑東南，肥饒，水絕。去縣五十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p49",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 49
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「吳王不審名冢也」只辨認胥女大冢，另記距離，未書寫死亡或失去的意義。",
+    "excerpt": "胥女大冢，吳王不審名冢也，去縣四十五里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p50",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 50
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「蒲姑大冢，吳王不審名冢也，去縣三十里。」是純冢墓登錄，沒有死亡經驗，不給 X。",
+    "excerpt": "蒲姑大冢，吳王不審名冢也，去縣三十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p51",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 51
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「吳王闔廬所置美人離城也」只交代石城用途，未描述親密關係、欲望經驗或對人的後果。",
+    "excerpt": "石城者，吳王闔廬所置美人離城也，去縣七十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p52",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 52
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「搖越所鑿，以伐上舍君。」只交代通江南陵的開鑿者與軍事用途，未論用兵與人的關係。",
+    "excerpt": "通江南陵，搖越所鑿，以伐上舍君。去縣五十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p53",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 53
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記坑的古名、來歷說法與里數；「從海上來」未展開為關於人的故事或神聖效力主張。",
+    "excerpt": "婁東十里坑者，古名長人坑，從海上來。去縣十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p54",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 54
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「闔廬所以候外越也」只記武城的軍事用途，另說後為鄉邑，沒有治理或人的性情評斷。",
+    "excerpt": "婁北武城，闔廬所以候外越也，去縣三十里。今為鄉也。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p55",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 55
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「吳宿兵候外越也」與「搖王冢也」分別說明駐兵地和墓地，都是位置、用途與所屬登錄。",
+    "excerpt": "宿甲者，吳宿兵候外越也，去縣百里，其東大冢，搖王冢也。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p56",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 56
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「秦始皇帝刻石徙之。」交代各縣移民的由來，只記遷徙史實，未寫移民的身分經驗、苦難或遷徙正當性。",
+    "excerpt": "烏程、餘杭、黝、歙、無湖、石城縣以南，皆故大越徙民也。秦始皇帝刻石徙之。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p57",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 57
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「古人所採藥也，高且神。」只記常山用途及山貌描述，未寫疾病中的人或依神聖而行動的信仰。",
+    "excerpt": "烏傷縣常山，古人所採藥也，高且神。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p58",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 58
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "逐項記齊鄉城郭周長、牆高、門數與屋宇；「竹格門三，其二有屋。」是建築登錄，沒有人的承重內容。",
+    "excerpt": "齊鄉，周十里二百一十步，其城六里三十步，牆高丈二尺，百七十步，竹格門三，其二有屋",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p59",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 59
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「虞山者，巫咸所出也。虞故神出奇怪。」用於交代地名來歷，另附里數，沒有神聖認證與據之行動，不給 XII。",
+    "excerpt": "虞山者，巫咸所出也。虞故神出奇怪。去縣百五里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p60",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 60
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記陵道修造年代、太守及城郭門牆規模；「陽朔三年太守周君造陵道語昭」只是興造沿革，未寫勞役後果。",
+    "excerpt": "母陵道，陽朔三年太守周君造陵道語昭。郭周十里百一十步，牆高丈二尺。陵門四，皆有屋",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p61",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 61
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「無錫城，周二里十九步」以下皆是城郭周長、牆高與門樓形制，屬尺寸登錄。",
+    "excerpt": "無錫城，周二里十九步，高二丈七尺，門一樓四。其郭周十一里百二十八步，牆一丈七尺，",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p62",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 62
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「春申君時盛祠以牛，立無錫塘。」記歷山祭祀與築塘舊事，未認證神聖效力或說人因神助而改變行動，仍屬地方沿革。",
+    "excerpt": "無錫歷山，春申君時盛祠以牛，立無錫塘。去吳百二十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p63",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 63
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記無錫湖陂塘與相接水道的開鑿路線、田名及里數；「以寫西野」只是水利用途，未展開民生公義或工作經驗。",
+    "excerpt": "無錫湖者，春申君治以為陂，鑿語昭瀆以東到大田。田名胥卑。鑿胥卑下以南注大湖，以寫",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p64",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 64
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「春申君初封吳所造也」交代陵道興造者，另記行政所屬與路線，沒有關於人的斷語。",
+    "excerpt": "無錫西龍尾陵道者，春申君初封吳所造也。屬於無錫縣。以奏吳北野胥主疁。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p65",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 65
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「毗陵，故為延陵，吳季子所居。」只記古今地名與居住者，沒有家庭、傳承或人格評價。",
+    "excerpt": "毗陵，故為延陵，吳季子所居。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p66",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 66
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記古淹君地及其子女墓址；「吳所葬。」只補安葬者，親屬名稱與葬字均未承載家庭或死亡主題。",
+    "excerpt": "毗陵縣南城，故古淹君地也。東南大冢，淹君子女冢也。去縣十八里。吳所葬。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p67",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 67
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「延陵季子冢也」與古名、湖洲相通及里數構成墓址登錄，未寫失去或死的意義。",
+    "excerpt": "毗陵上湖中冢者，延陵季子冢也，去縣七十里。上湖通上洲。季子冢古名延陵墟。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p68",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 68
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「越王不審名冢，去縣三十五里。」只記墓主所屬未詳的墓址，沒有人的死亡經驗。",
+    "excerpt": "蒸山南面夏駕大冢者，越王不審名冢，去縣三十五里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p69",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 69
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「越王棲吳夫差山也」只辨認山的歷史用途，另記湖水與距離；未展開夫差受困時的處境或感受。",
+    "excerpt": "秦餘杭山者，越王棲吳夫差山也，去縣五十里。山有湖水，近太湖。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p70",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 70
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「一累土以葬之」記夫差墓的築葬方式，連同墓址及里數仍屬葬制登錄，沒有當事人的生死觀或哀失經驗。",
+    "excerpt": "夫差冢，在猶亭西卑猶位。越王候干戈人一累土以葬之。近太湖七里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p71",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 71
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「太宰嚭、逢同妻子死所在也」只用死亡事件定位三臺，未寫親屬關係或面對死亡的經驗。",
+    "excerpt": "三臺者，太宰嚭、逢同妻子死所在也，去縣十七里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p72",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 72
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「太湖，周三萬六千頃。」以下只記湖面面積、所屬與里數，沒有人的內容，也不是計算問題。",
+    "excerpt": "太湖，周三萬六千頃。其千頃，烏程也。去縣五十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p73",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 73
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「無錫湖，周萬五千頃。」以下記湖面、相屬湖區、里數與別名，屬地理登錄。",
+    "excerpt": "無錫湖，周萬五千頃。其一千三頃，毗陵上湖也。去縣五十里。一名射貴湖。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p74",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 74
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「尸湖，周二千二百頃，去縣百七十里。」僅記湖名、面積與距離，沒有可給領域的人的主張。",
+    "excerpt": "尸湖，周二千二百頃，去縣百七十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p75",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 75
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「小湖，周千三百二十頃，去縣百里。」是面積與里數登錄，沒有人的處境。",
+    "excerpt": "小湖，周千三百二十頃，去縣百里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p76",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 76
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「耆湖，周六萬五千頃，去縣百二十里。」只記湖面與距離，沒有登錄之外的內容。",
+    "excerpt": "耆湖，周六萬五千頃，去縣百二十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p77",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 77
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「乘湖，周五百頃，去縣五里。」只記面積、里數，數字不承載規範或問題求解。",
+    "excerpt": "乘湖，周五百頃，去縣五里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p78",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 78
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「猶湖，周三百二十頃，去縣十七里。」只提供湖泊規模及所在，沒有人的主張。",
+    "excerpt": "猶湖，周三百二十頃，去縣十七里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p79",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 79
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「語昭湖，周二百八十頃，去縣五十里。」純為湖面與里數登錄，未涉及人的生活經驗。",
+    "excerpt": "語昭湖，周二百八十頃，去縣五十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p80",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 80
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「聚魚多物」連同湖面與里數是物產和地理記錄，未說人如何以之謀生或從事工作。",
+    "excerpt": "作湖，周百八十頃，聚魚多物，去縣五十五里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p81",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 81
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「昆湖，周七十六頃一畝」連同距離、別名只記湖泊資訊，不承載人的領域。",
+    "excerpt": "昆湖，周七十六頃一畝，去縣一百七十五里。一名隱湖。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p82",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 82
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記江漢祭祀的位置、沿革及方牆水利用途；「到闔廬時絕」只交代祭祀中止，未聲稱神聖有效或展開人的信仰經驗。",
+    "excerpt": "吳古故祠江漢於棠浦東，江南為方牆，以利朝夕水。古太伯君吳，到闔廬時絕。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p83",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 83
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「春申君客衛公子冢也」只說小蜀山墓主身分，另附里數，不承載死亡或賓主關係的評斷。",
+    "excerpt": "胥女南小蜀山，春申君客衛公子冢也，去縣三十五里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p84",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 84
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「更名為白石。」記春申君經過後改山名，未寫認同或命運改變，仍是地名沿革。",
+    "excerpt": "白石山，故為胥女山，春申君初封吳，過，更名為白石。去縣四十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p85",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 85
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「春申君所造」及後殿作桃夏宮的記載只說太守舍來歷與用途，沒有宮室對人的後果。",
+    "excerpt": "今太守舍者，春申君所造，後殿屋以為桃夏宮。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p86",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 86
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "長段逐項列宮殿、屋庫、戶霤、檐高及周長；「春申君所造。」只補興造者，篇幅雖長仍是建築尺寸登錄，沒有役民或人的評斷。",
+    "excerpt": "今宮者，春申君子假君宮也。前殿屋蓋地東西十七丈五尺，南北十五丈七尺。堂高四丈，十",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p87",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 87
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記兩倉名稱、規模、火災與改建；「太守李君治東倉為屬縣屋，不成。」只記工程未成，未論工作挫敗或人的能力。",
+    "excerpt": "吳兩倉，春申君所造。西倉名曰均輸，東倉周一里八步。後燒。更始五年，太守李君治東倉",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p88",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 88
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「春申君所造，闕兩城以為市。」只記吳市興造方式與位置，沒有交易關係或民生公義的主張。",
+    "excerpt": "吳市者，春申君所造，闕兩城以為市。在湖里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p89",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 89
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「吳諸里大閈，春申君所造。」只記里門興造者，沒有治理措施或對人的後果。",
+    "excerpt": "吳諸里大閈，春申君所造。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p90",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 90
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「吳獄庭，周三里，春申君時造。」只記獄庭大小及興造年代，未討論刑罰、公義或囚者處境。",
+    "excerpt": "吳獄庭，周三里，春申君時造。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p91",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 91
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「治以為貴人冢次」只說土山的墓地用途，另附里數，沒有對階序、死亡或喪失的評斷。",
+    "excerpt": "土山者，春申君時治以為貴人冢次，去縣十六里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p92",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 92
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「楚人從之，故為楚門。」只解釋門名由來，未論楚人的群體認同或相待關係。",
+    "excerpt": "楚門，春申君所造。楚人從之，故為楚門。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p93",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 93
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記路丘大冢所屬、形制說明及里數；「不立，以道終之。」未展開墓主的內在抉擇或死之意義，不補入本段未明說的品格評價。",
+    "excerpt": "路丘大冢，春申君客冢。不立，以道終之。去縣十里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p94",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 94
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "依次記春申君父子的官職、治吳年數、被徵被殺與楚越沿革；「二君治吳凡十四年。」顯示重點是人物編年，未評親情、君臣相待或死亡意義。",
+    "excerpt": "春申君，楚考烈王相也。烈王死，幽王立，封春申君於吳。三年，幽王徵春申為楚令尹，春",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p95",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 95
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「春申君去吳，假君所思處也。」用去吳舊事與所思之處辨識罘罳遺址，沒有展開思念的內在經驗；不借鄰段補出親情主題。",
+    "excerpt": "巫門外罘罳者，春申君去吳，假君所思處也。去縣二十三里。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p96",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 96
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "列王墓、王統及陵道水道的修築沿革；「秦始皇發會稽適戍卒」只交代施工人員來源，未寫徵役的人的處境或政治評斷，長段仍以登錄為主。",
+    "excerpt": "壽春東鳧陵亢者，古諸侯王所葬也。楚威王與越王無疆並。威王後烈王，子幽王，後懷王也",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p97",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 97
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「秦始皇帝三十七年，壞諸侯郡縣城。」只記拆城事件與年次，沒有對政策、公義或人的後果的說明。",
+    "excerpt": "秦始皇帝三十七年，壞諸侯郡縣城。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p98",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 98
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記太守府大殿起建、焚毀及官池開鑿年代與尺度；「東西十五丈七尺，南北三十丈。」是尺寸登錄，不承載人的問題。",
+    "excerpt": "太守府大殿者，秦始皇刻石所起也。到更始元年，太守許時燒。六年十二月乙卯鑿官池，東",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p99",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 99
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "敘劉賈與劉濞封王、築城、叛亂及被殺的年次；「漢高帝封有功」是封爵事件的交代，未發展為用人、公義或品格的判斷。",
+    "excerpt": "漢高帝封有功，劉賈為荊王，并有吳。賈築吳市西城，名曰定錯城，屬小城，北到平門，丁",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p100",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 100
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記宗廟位置、供奉配置及請罷年次；「貢大夫請罷之。」未交代動機或神聖效力，宗廟本身不構成家庭或信仰主題。",
+    "excerpt": "匠門外信士里東廣平地者，吳王濞時宗廟也。太公、高祖在西，孝文在東。去縣五里。永光",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p101",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 101
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「故吳所畜牛、羊、豕、雞也」與「今以為園。」只記牛宮舊用途及後來改作，沒有工作經驗或人的評斷。",
+    "excerpt": "桑里東今舍西者，故吳所畜牛、羊、豕、雞也，名為牛宮。今以為園。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p102",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 102
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「太守治故鄣，都尉治山陰。」及後來治所變更，只記行政區併合與官署所在，未論治理如何影響人。",
+    "excerpt": "漢文帝前九年，會稽并故鄣郡。太守治故鄣，都尉治山陰。前十六年，太守治吳郡，都尉治",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p103",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 103
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "記會稽屬漢、由鍾設置的年代與距離；「屬漢者，始并事也。」只是行政沿革的解釋，沒有人的身分或政治評斷。",
+    "excerpt": "漢孝景帝五年五月，會稽屬漢。屬漢者，始并事也。漢孝武帝元封元年，陽都侯歸義，置由",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p104",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 104
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「漢孝武元封二年，故鄣以為丹陽郡。」只記改置郡名與年次，沒有登錄之外的人的內容。",
+    "excerpt": "漢孝武元封二年，故鄣以為丹陽郡。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p105",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 105
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「岑石不見」與「岑石復見」只記石體消失及再現的年次，未連結人的禍福、命運或神聖效力。",
+    "excerpt": "天漢五年四月，錢唐浙江岑石不見，到七年，岑石復見。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#03-p106",
+    "anchor": {
+      "chapter": "越絕外傳記吳地傳第三",
+      "para_index": 106
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "計列句踐徙瑯邪、楚秦漢兼併至建武二十八年的年距；「凡五百六十七年。」是紀年登錄，未把時代變遷寫成人的無常感或命運主張。",
+    "excerpt": "越王句踐徙瑯邪，凡二百四十年，楚考烈王并越於瑯邪。後四十餘年，秦并楚。復四十年，",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#04-p01",
+    "anchor": {
+      "chapter": "越絕吳內傳第四",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "IV",
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「臣聞事君猶事父也，虧君之行，報父之仇，不可。」把父仇與事父之義置於行動取捨之中，承重在家庭責任的界限（IV）；「諸侯不為匹夫報仇。」則限制君主動用國家力量替私人雪恨，提出君臣與公私責任的判斷（V）。",
+    "excerpt": "吳何以稱人乎？夷狄之也。憂中邦奈何乎？伍子胥父誅於楚，子胥挾弓，身干闔廬。闔廬曰",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#04-p02",
+    "anchor": {
+      "chapter": "越絕吳內傳第四",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "IV",
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「昔者吾先君無罪，而子殺之，今此以報子也！」以先人無辜被殺作為鞭墳報仇的理由，承載家仇的追索（IV）；「蔡非有罪，楚為無道。」明判拘蔡、伐蔡之不義，並據此勸吳救蔡，承重在權力濫用與出兵的公義理由（V）。墳墓是復仇對象，未展開對死亡或失去的體會。",
+    "excerpt": "蔡昭公南朝楚，被羔裘，囊瓦求之，昭公不與。即拘昭公南郢，三年然後歸之。昭公去，至",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#04-p03",
+    "anchor": {
+      "chapter": "越絕吳內傳第四",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「吳者，夷狄也，而救中邦，稱人，賤之也。」明言吳雖救援中邦，仍因夷狄身分在稱謂上受貶；這項解釋承載群體區隔與尊卑評價（V），超出囊瓦官職與郢都位置的史料說明。",
+    "excerpt": "囊瓦者何？楚之相也。郢者何？楚王治處也。吳師何以稱人？吳者，夷狄也，而救中邦，稱",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#04-p04",
+    "anchor": {
+      "chapter": "越絕吳內傳第四",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "V",
+      "XI"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「人貴節事，節事者，言王者已下，公卿大夫，當調陰陽，和順天下。」把節事落到君臣治理與天下秩序，承重在進諫及統治責任（V）；「因惛視動者，言存亡吉凶之應，善惡之敘，必有漸也。」要求辨察變化的漸進徵兆，以節制主動出兵，討論人如何在成敗條件中選擇行動（XI）。本段採以宇宙秩序勸止戰事的說辭側讀法，福殃語服務於順勢決策，不另給 XII。",
+    "excerpt": "越王句踐欲伐吳王闔廬，范蠡諫曰：「不可。臣聞之，天貴持盈，持盈者，言不失陰陽、日",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#04-p05",
+    "anchor": {
+      "chapter": "越絕吳內傳第四",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「范蠡值吳伍子胥教化，天下從之，未有死亡之失」以教化得到民眾歸從作為不宜進攻的依據，將用兵判斷建立在對方治理與民心之上（V）。農時與天道的解說最後落在人事條件，死亡之失指國家失政的徵候，並非當事人面對死亡。",
+    "excerpt": "范蠡值吳伍子胥教化，天下從之，未有死亡之失，故以天道未作，不先為客。言客者，去其",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#04-p06",
+    "anchor": {
+      "chapter": "越絕吳內傳第四",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「上無明天子，下無賢方伯，諸侯力政，疆者為君。」直接評斷權威失序、強力支配的政治處境，並以孔子作春秋重立名分來解釋死亡稱謂（V）。刪去此段會失去對公共秩序崩壞的看法；薨、卒之辨本身不構成對死亡經驗的書寫。",
+    "excerpt": "吳人敗於就李，吳之戰地。敗者，言越之伐吳，未戰，吳闔廬卒，敗而去也。卒者，闔廬死",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#04-p07",
+    "anchor": {
+      "chapter": "越絕吳內傳第四",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「敬賢明法，率諸侯朝天子，於是諸侯皆從，天子乃尊。」將尊賢、明法與諸侯歸從、政治秩序恢復相連，故事承載領導者如何取得群體支持的看法（V），超出重耳出奔與返國的行跡記錄。",
+    "excerpt": "晉公子重耳之時，天子微弱，諸侯力政，疆者為君。文公為所侵暴，失邦，奔於翟。三月得",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#04-p08",
+    "anchor": {
+      "chapter": "越絕吳內傳第四",
+      "para_index": 8
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「小白反國，用管仲，九合諸侯，一匡天下，故為桓公。」以任用管仲、會合諸侯說明小白成就霸業，承重在用人與公共秩序的關係（V）；前述魯莊公以立君索求齊國臣服，也呈現政治擁立如何受權力交易左右。",
+    "excerpt": "齊公子小白，亦反齊國而匡天下者。齊大夫無知，弒其君諸兒。其子二人出奔。公子糾奔魯",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#04-p09",
+    "anchor": {
+      "chapter": "越絕吳內傳第四",
+      "para_index": 9
+    },
+    "psych_domains": [
+      "IV",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「堯知不可用，退丹朱而以天下傳舜。」把親子繼承與擇賢傳位放在同一抉擇中，說明不慈之名的由來（IV）；「堯太子丹朱倨驕，懷禽獸之心」直接貶評丹朱的品性，作為不宜繼位的理由（VII）。",
+    "excerpt": "堯有不慈之名。堯太子丹朱倨驕，懷禽獸之心，堯知不可用，退丹朱而以天下傳舜。此之謂",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#04-p10",
+    "anchor": {
+      "chapter": "越絕吳內傳第四",
+      "para_index": 10
+    },
+    "psych_domains": [
+      "IV",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「瞽瞍欲殺舜，未嘗可得。呼而使之，未嘗不在側。」將躲避父親殺害與仍然應召事親並置，承載受迫害下的親子責任（IV）；「舜不為失孝行，天下稱之。」則明確肯定舜在此處境中維持孝行的品格（VII），不是單純登錄親屬與世系。",
+    "excerpt": "舜有不孝之行。舜親父假母，母常殺舜。舜去，耕歷山。三年大熟，身自外養，父母皆饑。",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#04-p11",
+    "anchor": {
+      "chapter": "越絕吳內傳第四",
+      "para_index": 11
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「立為齊相。天下莫不向服慕義。」把任用昔日敵手與天下向服相連，提出君主用人如何取得政治認同的看法（V）；「桓公受之，赦其大罪」以赦免曾射傷自己的管仲表現容人的品格，作為稱霸故事的關鍵轉折（VII）。",
+    "excerpt": "桓公召其賊而霸諸侯者，管仲臣於桓公兄公子糾，糾與桓爭國，管仲張弓射桓公，中其帶鉤",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#04-p12",
+    "anchor": {
+      "chapter": "越絕吳內傳第四",
+      "para_index": 12
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「曉知王事，達於君臣之義。」明評夏啟懂得為君及對待臣子的責任，後續每年祭益的行動承接這項君臣倫理評價（V）。父子、禪位與祭祀的記事各有交代，但本段沒有神明效驗的認證，不因獻犧另給 XII。",
+    "excerpt": "夏啟獻犧於益。啟者，禹之子。益與禹臣於舜，舜傳之禹，薦益而封之百里。禹崩，啟立，",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#04-p13",
+    "anchor": {
+      "chapter": "越絕吳內傳第四",
+      "para_index": 13
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「湯行仁義，敬鬼神，天下皆一心歸之。」將湯的行事與天下歸心相連，獻牛又促使未服的荊伯委以誠心，故事承載以禮敬取得政治認同的看法（V）。敬鬼神是湯的行為描述，敘事未認證神明施力或降福，不給 XII。",
+    "excerpt": "湯獻牛荊之伯。之伯者，荊州之君也。湯行仁義，敬鬼神，天下皆一心歸之。當是時，荊伯",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#04-p14",
+    "anchor": {
+      "chapter": "越絕吳內傳第四",
+      "para_index": 14
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "本段記備甲、舟船與操練，並逐項解釋越語；「維甲者，治甲系斷。」與「夷，海也。」都是器物動作或詞義說明。民眾歸從只作備戰背景，怒貌與勇士也只作釋詞；刪去此段少的是軍備史料與語詞知識，故判空。",
+    "excerpt": "越王句踐反國六年，皆得士民之眾，而欲伐吳。於是乃使之維甲。維甲者，治甲系斷。修內",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#04-p15",
+    "anchor": {
+      "chapter": "越絕吳內傳第四",
+      "para_index": 15
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「舜明知人情，審於地形，知鯀不能治」把識人、辨察地形與判斷治水人選的能力相連；全段以鯀不從令統攝治水失敗、進諫與處置，承載對任用是否得當及政令服從的判斷（V）。",
+    "excerpt": "舜之時，鯀不從令。堯遭帝嚳之後亂，洪水滔天，堯使鯀治之，九年弗能治。堯七十年而得",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#04-p16",
+    "anchor": {
+      "chapter": "越絕吳內傳第四",
+      "para_index": 16
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「革亂補弊，移風易俗，改制作新，海內畢貢，天下承風。」把制度與風俗的改革連到天下歸從，承載治理與群體秩序的看法（V）；「殷湯遭夏桀無道，殘賊天下，於是湯用伊尹，行至聖之心。」對桀之殘害與湯之聖心作明確善惡裁斷，構成故事的品格評價（VII）。",
+    "excerpt": "殷湯遭夏桀無道，殘賊天下，於是湯用伊尹，行至聖之心。見桀無道虐行，故伐夏放桀，而",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#04-p17",
+    "anchor": {
+      "chapter": "越絕吳內傳第四",
+      "para_index": 17
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「文王以聖事紂，天下皆盡誠知其賢聖，從之。」將民眾認可賢德與轉向歸從相連，承重在統治者如何取得人心（V）；「紂為天下，殘賊奢佚，不顧邦政。」直接貶評紂的殘暴與奢佚，與文王仁義之行形成品格對照（VII）。",
+    "excerpt": "文王以務爭者，紂為天下，殘賊奢佚，不顧邦政。文王百里，見紂無道，誅殺無刑，賞賜不",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#04-p18",
+    "anchor": {
+      "chapter": "越絕吳內傳第四",
+      "para_index": 18
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「武王未下車，封比干之墓，發太倉之粟，以贍天下，封微子於宋。」以褒賢、救濟民生的行動呈現新政權的公共責任（V）；「盡知武王忠信，欲從武王，與之伐紂。」明言諸侯因認可武王忠信而自願歸從，承重在品格的評價與效力（VII）。",
+    "excerpt": "武王以禮信。文王死九年，天下八百諸侯，皆一旦會於孟津之上。不言同辭，不呼自來，盡",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#04-p19",
+    "anchor": {
+      "chapter": "越絕吳內傳第四",
+      "para_index": 19
+    },
+    "psych_domains": [
+      "V",
+      "XII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「賞賜不加於無功，刑罰不加於無罪。」以賞罰有據說明周公輔政的公義（V）；「周公反國，天應之福。五穀皆生，樹木皆起，天下皆實。」由敘事者認證天因周公返國而降福，並與出巡後的災變相應，神聖效驗直接推進成王迎回周公的故事，屬認證側（XII）。",
+    "excerpt": "周公以盛德。武王封周公，使傅相成王。成王少，周公臣事之。當是之時，賞賜不加於無功",
+    "tagged_by": "codex-gpt-6-astra",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#05-p01",
+    "anchor": {
+      "chapter": "越絕計倪內經第五",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V",
+      "VIII",
+      "XI"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「王興師以年數，恐一旦而亡。失邦無明，筋骨為野」是計倪對句踐陳述用兵節奏與亡國代價，承重在君臣謀議（V）；「興師者必先蓄積食、錢、布、帛。不先蓄積，士卒數饑」直說糧食積蓄為將帥首務，承重在備戰之術（VIII）；「未必天之罪也，亦在其將」直接把敗仗之責從天轉回人將，承重在破除天命歸人力（XI）",
+    "excerpt": "昔者，越王句踐既得反國，欲陰謀吳。乃召計倪而問焉，曰：「吾欲伐吳，恐弗能取。山林",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#05-p02",
+    "anchor": {
+      "chapter": "越絕計倪內經第五",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "VIII",
+      "XI"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「王審用臣之議，大則可以王，小則可以霸」是計倪以治術建言句踐，承重在君臣謀議（V）；「臣聞炎帝有天下，以傳黃帝……並有五方，以為綱紀。是以易地而輔，萬物之常」以五方分治五材為治世之術的根據，承重在治術知識（VIII）；「時斷則循，智斷則備。知此二者，形於體萬物之情，短長逆順，可觀而已」斷言人能以時智把握萬物，承重在人力洞察取代天命（XI）",
+    "excerpt": "計倪對曰：「人之生無幾，必先憂積蓄，以備妖祥。凡人生或老或弱，或疆或怯，不早備生",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#05-p03",
+    "anchor": {
+      "chapter": "越絕計倪內經第五",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V",
+      "VII",
+      "IV"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「任賢使能，則轉轂乎千里外，貨可來也……諫者則誅，則邦貧兵弱」以任賢諫諍為富強關鍵，承重在君臣公義（V）；「諛者反有德，忠者反有刑，去刑就德，人之情也」直說人性趨賞避罰，是對人的品性斷語，承重在忠諛之辨（VII）；「父子不和，兄弟不調，雖欲富也，必貧而日衰」以父子兄弟不睦為家業敗亡之根，承重在家庭關係（IV）",
+    "excerpt": "越王曰：「請問其要。」計倪對曰：「太陰三歲處金則穰，三歲處水則毀，三歲處木則康，",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#05-p04",
+    "anchor": {
+      "chapter": "越絕計倪內經第五",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「是故聖主置臣不以少長，有道者進，無道者退」直言聖主用人之道，承重在君臣制度的公義原則（V）；「慧種生聖，癡種生狂……愚者日以退，聖者日以長，人主無私，賞者有功」對人的賢愚品性與賞罰原則下直接斷語，承重在品格判斷（VII）",
+    "excerpt": "越王曰：「善。子何年少，於物之長也？」計倪對曰：「人固不同。慧種生聖，癡種生狂。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#05-p05",
+    "anchor": {
+      "chapter": "越絕計倪內經第五",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "VIII",
+      "XI",
+      "VII"
+    ],
+    "discourse_mode": [
+      "formalization",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「故聖人能明其刑而處其鄉，從其德而避其衡。凡舉百事，必順天地四時，參以陰陽」指出聖人通曉陰陽以制收發，承重在治術知識（VIII）；「順之有德，逆之有殃」斷言人順逆天時決定禍福，落點在人如何回應以取得結果（XI）；「眾人容容，盡欲富貴，莫知其鄉」直評普通人盲目追逐富貴，承重在品性判斷（VII）",
+    "excerpt": "越王曰：「善。論事若是，其審也。物有妖祥乎？」計倪對曰：「有。陰陽萬物，各有紀綱",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#05-p06",
+    "anchor": {
+      "chapter": "越絕計倪內經第五",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "V",
+      "VIII",
+      "XI"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「糴石二十則傷農，九十則病末……故糴高不過八十，下不過三十，農末俱利矣」直說糴價關乎農末兩利，承重在民生公義（V）；「非有道術，又無上賜，貧乏故長久」斷言道術能力決定貧富長久，承重在術業知識（VIII）；「動作不同術，貧富故不等」直說貧富差異源於行動方式不同而非天定，承重在人力決定處境（XI）",
+    "excerpt": "越王曰：「善。今歲比熟，尚有貧乞者，何也？」計倪對曰：「是故不等，猶同母之人，異",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#05-p07",
+    "anchor": {
+      "chapter": "越絕計倪內經第五",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "甲乙丙丁戊己庚辛壬癸十天干逐條配貨物名稱與糴石定價（七十至無賈），純為物價登錄表，登錄之外無對人的斷語，§2.6 第②點：制度條文判空",
+    "excerpt": "乃著其法，治牧江南，七年而禽吳也。甲貨之戶曰粢，為上物，賈七十。乙貨之戶曰黍，為",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#06-p01",
+    "anchor": {
+      "chapter": "卷五",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「其大臣好相傷，莫能信也」與「君王卑身重禮，以素忠為信，以請糴於吳，天若棄之，吳必許諾」是大夫種據吳國君臣相待的情狀定出請糴之計，承重在君臣與邦交（V）；「喜安佚而不聽諫，細誣而寡智，信讒諛而遠士」逐項評夫差的品格（VII）。「天若棄之」出自進言的條件句，是說辭不是信仰主張，不給 XII",
+    "excerpt": "昔者，越王句踐與吳王夫差戰，大敗，保棲於會稽山上，乃使大夫種求行成於吳。吳許之。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#06-p02",
+    "anchor": {
+      "chapter": "卷五",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "申胥諫吳王勿與粟，「是養寇而貧邦家也」與「拂勝，則社稷固，諛勝，則社稷危」把進諫與邦國存亡綁在一起，承重在君臣與邦國公義（V）；「忠諫者逆，而諛諫者反親」是對吳廷忠諛兩類人的斷語（VII）",
+    "excerpt": "於是乃卑身重禮，以素忠為信，以請於吳。將與，申胥進諫曰：「不可。夫王與越也，接地",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#06-p03",
+    "anchor": {
+      "chapter": "卷五",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "太宰嚭與申胥當廷爭辯人臣事君之道，「率諸侯以殺其君，雖勝，可謂義乎」與「今我以忠辨吾君王」爭的是臣該怎麼對君（V）；「美惡相入，或甚美以亡，或甚惡以昌」與「太宰嚭面諛以求親」是對善惡與諛佞下的斷語（VII）",
+    "excerpt": "太宰嚭從旁對曰：「武王非紂臣耶？率諸侯以殺其君，雖勝，可謂義乎？」申胥曰：「武王",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#06-p04",
+    "anchor": {
+      "chapter": "卷五",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "太宰嚭密告申胥「外貌類親，中情甚疏，類有外心」，而吳王以「夫申胥，先王之忠臣，天下之健士也」回護，爭的是人君如何看待諫臣（V）；「有知不竭，是不忠，竭而顧難，是不勇，下而令上，是無法」逐項界定忠、勇與法（VII）",
+    "excerpt": "因遜遯之舍，使人微告申胥於吳王曰：「申胥進諫，外貌類親，中情甚疏，類有外心。君王",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#06-p05",
+    "anchor": {
+      "chapter": "卷五",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "申胥歎「君王不圖社稷之危，而聽一日之說」，把與粟之失落在人君的取捨上（V）；「不聽輔弼之臣，而信讒諛容身之徒」是對輔弼與讒諛兩類臣子的分判（VII）",
+    "excerpt": "吳王乃聽太宰嚭之言，果與粟。申胥遜遯之舍，歎曰：「於乎嗟！君王不圖社稷之危，而聽",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#06-p06",
+    "anchor": {
+      "chapter": "卷五",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "申胥責逢同「子事太宰嚭，又不圖邦權而惑吾君王」，講的是臣子結黨與邦權歸屬（V）；同段「君王忘邦，嚭之罪也」把忘邦之責歸到嚭身上，是對其人的裁斷（VII）",
+    "excerpt": "太宰嚭之交逢同，謂太宰嚭曰：「子難人申胥，請為卜焉。」因往見申胥，胥方與被離坐。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#06-p07",
+    "anchor": {
+      "chapter": "卷五",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "逢同為吳王設計處置申胥，「君王親之不親？逐之不逐？」把人君如何待老臣攤成選項（V）；「今申胥進諫類忠，然中情至惡，內其身而心野狼」是對申胥其人的品格構陷（VII）",
+    "excerpt": "逢同出見吳王，慚然有憂色。逢同垂泣不對。吳王曰：「夫嚭，我之忠臣，子為寡人遊目長",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#06-p08",
+    "anchor": {
+      "chapter": "卷五",
+      "para_index": 8
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "申胥末諫以「越王句踐寢不安席，食不求飽，而善貴有道」數說越王儉約自持，是對其人品性的評斷（VII）；「臣聞愚夫之言，聖主擇焉」與「以申胥為不忠，賜劍殺申胥」承重在人君納諫與殺諫臣（V）",
+    "excerpt": "於是吳王欲伐齊。召申胥，對曰：「臣老矣，耳無聞，目無見，不可與謀。」吳王召太宰嚭",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#06-p09",
+    "anchor": {
+      "chapter": "卷五",
+      "para_index": 9
+    },
+    "psych_domains": [
+      "V",
+      "X"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "申胥臨刑自陳「今吳殺臣，參桀紂而顯吳邦之亡也」，是當事人自己在說自己的死並賦予意義（X）；王孫駱以「君人者，必有敢言之臣，在上位者，必有敢言之士」把敢言之臣當成邦國的條件（V）",
+    "excerpt": "申胥且死，曰：「昔者桀殺關龍逢，紂殺王子比干。今吳殺臣，參桀紂而顯吳邦之亡也。」",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#06-p10",
+    "anchor": {
+      "chapter": "卷五",
+      "para_index": 10
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "吳王以「寡人屬子邦，請早暮無時」把邦事全付太宰嚭，嚭以「駟馬方馳，驚前者斬，其數必正」自陳用權之法，整段承重在君臣託付與權柄該如何行使（V）",
+    "excerpt": "太宰嚭又曰：「圖越，雖以我邦為事，王無憂。」王曰：「寡人屬子邦，請早暮無時。」太",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#06-p11",
+    "anchor": {
+      "chapter": "卷五",
+      "para_index": 11
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "范蠡止越王受降，「君王圖之廊廟，失之中野，可乎？謀之七年，須臾棄之」是臣對君謀的進言，且「臣不敢殺主」自陳人臣之分（V）；越王數夫差「進讒諛容身之徒，殺忠信之士」是對其用人之惡的裁斷（VII）",
+    "excerpt": "居三年，越興師伐吳，至五湖。太宰嚭率徒謂之曰。謝戰者五父。越王不忍，而欲許之。范",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#07-p01",
+    "anchor": {
+      "chapter": "越絕外傳紀策考第七",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "子胥答闔廬以「邦其不長，王其圖之。存無忘傾，安無忘亡」，落點是君臣之間的進諫與邦之存亡（V）；「虹蜺牽牛，其異女，黃氣在上，青黑於下」的星氣太歲之數只是這場進諫的論據，屬技術側，不給 XII",
+    "excerpt": "昔者，吳王闔廬始得子胥之時，甘心以賢之，以為上客，曰：「聖人前知乎千歲，後睹萬世",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#07-p02",
+    "anchor": {
+      "chapter": "越絕外傳紀策考第七",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "本段在漁者之事後自下斷語「故無往不復，何德不報」，講的是受人之惠必當回報，是對人的品行主張（VII）",
+    "excerpt": "吳使子胥救蔡，誅疆楚，笞平王墓，久而不去，意欲報楚。楚乃購之千金，眾人莫能止之。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#07-p03",
+    "anchor": {
+      "chapter": "越絕外傳紀策考第七",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「子胥諫而誅。宰嚭諛心，卒以亡吳」把吳之亡歸到人君用諫臣還是用諛臣（V）；末句「子胥策於吳，可謂明乎」是對子胥謀策本領的評斷（VIII）",
+    "excerpt": "范蠡興師戰於就李，闔廬見中於飛矢，子胥還師，中媿於吳，被秦號年。至夫差復霸諸侯，",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#07-p04",
+    "anchor": {
+      "chapter": "越絕外傳紀策考第七",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "灰區取君臣進諫一讀：子胥解夢解風的落點是「願大王急行，是越將凶，吳將昌也」這句勸戰進言（V）；「胥聞災異或吉或凶，物有相勝」把災異當成可推算的物性，是技術側論據不是信仰主張，不給 XII",
+    "excerpt": "昔者，吳王夫差興師伐越，敗兵就李。大風發狂，日夜不止。車敗馬失，騎士墮死。大船陵",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#07-p05",
+    "anchor": {
+      "chapter": "越絕外傳紀策考第七",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "V",
+      "VII",
+      "X"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「胥聞事君猶事父也，愛同也，嚴等也」是子胥自陳事君之分（V）；「子胥至直，不同邪曲」與「胥執忠信，死貴於生」是對其品格的斷語（VII）；范蠡責他「知數不用，知懼不去，豈謂智與？」而他自答「今雖屈冤，猶止死焉」，整段在寫去與死的抉擇（X）",
+    "excerpt": "子胥至直，不同邪曲。捐軀切諫，虧命為邦。愛君如軀，憂邦如家。是非不諱，直言不休。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#07-p06",
+    "anchor": {
+      "chapter": "越絕外傳紀策考第七",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "IV",
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「奢盡忠入諫，守朝不休，欲匡正之。而王拒之諫」是人臣進諫與人君拒諫（V）；「待二子而死」與「尚孝而入，子胥勇而難欺」寫父被繫而二子各以孝與勇相應（IV）；「累世忠信，不遇其時」與「讒人罔極，交亂四國」是對忠信與讒人的斷語（VII）",
+    "excerpt": "伍子胥父子奢，為楚王大臣。為世子聘秦女，夫有色，王私悅之，欲自御焉。奢盡忠入諫，",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#07-p07",
+    "anchor": {
+      "chapter": "越絕外傳紀策考第七",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「見清知濁，見曲知直，人君選士，各象其德」把選士與人君自身的德綁在一起（V）；「諛心自納，操獨斷之利」與「夫差淺短」分別評嚭與夫差的品格（VII）",
+    "excerpt": "太宰者，官號，嚭者，名也，伯州之孫。伯州為楚臣，以過誅，嚭以困奔於吳。是時吳王闔",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#07-p08",
+    "anchor": {
+      "chapter": "越絕外傳紀策考第七",
+      "para_index": 8
+    },
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "大夫種求賢以「以為狂夫多賢士，眾賤有君子」為據，二人入越後「臣主同心」，承重在識人與君臣相得（V）；「種善圖始，蠡能慮終」是對二人本領長短的評斷（VIII）",
+    "excerpt": "范蠡其始居楚也，生於宛橐，或伍戶之虛。其為結僮之時，一癡一醒，時人盡以為狂。然獨",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#08-p01",
+    "anchor": {
+      "chapter": "越絕外傳記范伯第八",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "II",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「自謂衰賤，未嘗世祿，故自菲薄」與「復被髮佯狂，不與於世」寫范蠡如何自我安放（II）；「霸王之氣，見於地戶」是他據望氣之數決定去處，望氣在本書是技藝（VIII），屬技術側，不給 XII",
+    "excerpt": "昔者，范蠡其始居楚，曰范伯。自謂衰賤，未嘗世祿，故自菲薄。飲食則甘天下之無味，居",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#08-p02",
+    "anchor": {
+      "chapter": "越絕外傳記范伯第八",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "石買以「衒女不貞，衒士不信」與「殆非真賢」疑范蠡其人（VII）；大夫種以「有智之士，不在遠近取也」與「成大功者不拘於俗，論大道者不合於眾」爭人君該如何取士（V）",
+    "excerpt": "此時馮同相與共戒之，伍子胥在，自與不能關其辭。蠡曰：「吳越二邦，同氣共俗，地戶之",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#08-p03",
+    "anchor": {
+      "chapter": "越絕外傳記范伯第八",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "越王自陳「石買知往而不知來，其使寡人棄賢」，而困於會稽之後「更用種、蠡之策，得以存」，整段承重在用賢與棄賢的後果（V）",
+    "excerpt": "於是石買益疏。其後使將兵於外，遂為軍士所殺。是時句踐失眾，棲於會稽之山，更用種、",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#08-p04",
+    "anchor": {
+      "chapter": "越絕外傳記范伯第八",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「薦一言，得及身，任一賢，得顯名」與「寧失千金，毋失一人之心」講薦賢任賢與人心向背（V）；「負德忘恩，其反形傷」與「壞人之善毋後世」是對負恩害善者的斷語（VII）。「敗人之成天誅行」的天誅是格言修辭，落點仍在人事，不給 XII",
+    "excerpt": "子貢曰：「薦一言，得及身，任一賢，得顯名。」傷賢喪邦，蔽能有殃。負德忘恩，其反形",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#09-p01",
+    "anchor": {
+      "chapter": "越絕內傳陳成恒第九",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「今魯，父母之邦也，丘墓存焉，今齊將伐之，可無一出乎？」是孔子把救魯說成門人對父母之邦應盡的義務，承重在邦國存亡與該由誰出面（V）；同段「諸侯有相伐者，尚恥之」是對諸侯相互攻伐這件事下的恥感判斷，不只是交代齊將伐魯（VII）",
+    "excerpt": "昔者，陳成恒相齊簡公，欲為亂，憚齊邦鮑、晏故徙其兵而伐魯。魯君憂也。孔子患之，乃",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#09-p02",
+    "anchor": {
+      "chapter": "越絕內傳陳成恒第九",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「且夫上驕則犯，臣驕則爭，是君上於主有卻，下與大臣交爭也」是子貢據君主與大臣的相處態勢論陳成恒何以危殆，承重在君臣相待與權位（V）；「其君愚而不仁，其大臣偽而無用」逐項評魯之君臣品性，「仁人不困厄，以廣其德，智者不棄時，以舉其功，王者不絕世，以立其義」又把仁、智、義當成行事準則說給吳王聽（VII）",
+    "excerpt": "子貢行之齊，見陳成恒曰：「夫魯，難伐之邦而伐之，過矣。」陳成恒曰：「魯之難伐，何",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#09-p03",
+    "anchor": {
+      "chapter": "越絕內傳陳成恒第九",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V",
+      "VI",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「明主任人不失其能，直士舉賢不容於世」與「故臨財分利則使仁，涉危拒難則使勇，用眾治民則使賢，正天下定諸侯則使聖人」是子貢直說人主該按人的能耐分派任事（V）；「孤身不安床席，口不甘厚味，目不視好色，耳不聽鐘鼓者，已三年矣」與「今孤之怨吳王，深於骨髓」是越王句踐自陳三年來的怨與苦身，不是敘事套語（VI）；「善為偽詐以事其君，知前而不知後，順君之過以安其私，是殘國之吏滅君之臣也」是對太宰嚭其人下的品格斷語（VII）",
+    "excerpt": "子貢東見越王，越王聞之，除道郊迎至縣，身御子貢至舍而問曰：「此乃僻陋之邦，蠻夷之",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#09-p04",
+    "anchor": {
+      "chapter": "越絕內傳陳成恒第九",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「越王送之金百鎰、寶劍一、良馬二，子貢不受，遂行」只交代饋贈的品目與子貢沒有接受，文本對這個舉動一句評斷也沒有，刪掉這一則少掉的是史料事實不是對人的看法",
+    "excerpt": "子貢去而行，越王送之金百鎰、寶劍一、良馬二，子貢不受，遂行。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#09-p05",
+    "anchor": {
+      "chapter": "越絕內傳陳成恒第九",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "本段是子貢回吳覆命，所引越王之辭「賴大王之賜，使得奉俎豆而修祭祀」是臣服求全的外交套語，末句「其志甚恐，似將使使者來」只把情節推向越使將至，全段沒有一句對人下斷語",
+    "excerpt": "至吳，報吳王曰：「敬以下吏之言告越王，越王大恐，乃懼曰：『昔孤不幸，少失先人。內",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#09-p06",
+    "anchor": {
+      "chapter": "越絕內傳陳成恒第九",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「故曰子貢一出，存魯，亂齊，破吳，疆晉，霸越，是也」是全篇收束，把五個邦國的存亡治亂歸到一次遊說上，承重在邦國安危與遊說者的作用（V）；「夫空人之邦，悉人之眾，又從其君，不仁也」是子貢阻止吳王盡取越人之師與其君時下的道德判斷（VII）",
+    "excerpt": "子貢至五日，越使果至，曰：「東海役臣孤句踐使使臣種，敢修下吏問於左右：昔孤不幸，",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p01",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "observation"
+    ],
+    "confidence": null,
+    "note": "本段是開篇總敘不是條目。「尚以為居之者樂，為之者苦，無以報民功，教民鳥田」把鳥田說成禹對民功的補償，「憂民救水」也是同一路，這是對君與民相待的斷語（V）；灰區的「以為禹葬以法度，不煩人眾」我取評斷役民那一讀，併入 V。「神農嘗百草、水土甘苦，黃帝造衣裳，后稷產穡，制器械，人事備矣」是把人的生業如何備足歸給這些勞作與創制（VIII）",
+    "excerpt": "昔者，越之先君無餘，乃禹之世，別封於越，以守禹冢。問天地之道，萬物之紀，莫失其本",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p02",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「夫越性脆而愚，水行而山處」與「銳兵任死，越之常性也」是句踐對越人群體性情下的斷語，不是地理登錄（VII）；「躬求賢聖」以下寫他陳兵見孔子又辭之，落在君主如何待賢上（V）",
+    "excerpt": "無餘初封大越，都秦餘望南，千有餘歲而至句踐。句踐徙治山北，引屬東海，內、外越別封",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p03",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "整段是越王世系與年數登錄，「親以上至句踐，凡八君，都瑯琊二百二十四歲」是這一型的收束句；照配套 (3) 世系不反射填 III／IV，登錄之外沒有對人的斷語",
+    "excerpt": "越王夫鐔以上至無餘，久遠，世不可紀也。夫鐔子允常。允常子句踐，大霸稱王，徙瑯琊，",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p04",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「周二里二百二十三步，陸門四，水門一」以下全是城郭與宮臺的尺寸方位，屬興造登錄，照配套 (4) 第二點不給 V",
+    "excerpt": "句踐小城，山陰城也。周二里二百二十三步，陸門四，水門一。今倉庫是其宮臺處也。周六",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p05",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「山陰大城者，范蠡所築治也」只登錄興造者、門數與後來城廢，登錄之外沒有對人的判斷",
+    "excerpt": "山陰大城者，范蠡所築治也，今傳謂之蠡城。陸門三，水門三，決西北，亦有事。到始建國",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p06",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「往古一夜自來，民怪之，故謂怪山」是山名由來，照配套 (4) 第一點不給 XII；「因以炤龜」「又仰望天氣，觀天怪也」是這座臺的用途登錄，屬技術側，一格都不填",
+    "excerpt": "龜山者，句踐起怪游臺也。東南司馬門，因以炤龜。又仰望天氣，觀天怪也。高四十六丈五",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p07",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「駕臺，周六百步，今安城里。」全段只有尺寸與今地方位，純登錄",
+    "excerpt": "駕臺，周六百步，今安城里。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p08",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「離臺，周五百六十步，今淮陽里丘。」同前條，只有周長與今地，登錄之外一無所剩",
+    "excerpt": "離臺，周五百六十步，今淮陽里丘。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p09",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 9
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「句踐所習教美女西施、鄭旦宮臺也」與「自謂東垂僻陋，恐女樸鄙，故近大道居」都在交代這座宮臺為誰所設、為何設在大道旁，是興造由來的登錄；照配套 (3) 不因出現美女而填 III",
+    "excerpt": "美人宮，周五百九十步，陸門二，水門一，今北壇利里丘土城，句踐所習教美女西施、鄭旦",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p10",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 10
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「越之弋獵處，大樂，故謂樂野」是地名由來，其餘為石室用途與里數，登錄之外沒有對人的斷語",
+    "excerpt": "樂野者，越之弋獵處，大樂，故謂樂野。其山上石室，句踐所休謀也。去縣七里。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p11",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 11
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「中宿臺馬丘，周六百步，今高平里丘。」只有周長與今地，純登錄",
+    "excerpt": "中宿臺馬丘，周六百步，今高平里丘。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p12",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 12
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「東郭外南小城者，句踐冰室，去縣三里。」只登錄此城是何用途、距縣幾里",
+    "excerpt": "東郭外南小城者，句踐冰室，去縣三里。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p13",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 13
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「句踐之出入也，齊於稷山」以下逐處串起前面各條的臺、丘、宮、室，是行程與地點的總登錄；「藏其形，隱其情」只附註其用意，沒有落到人會怎麼樣，仍屬登錄之內",
+    "excerpt": "句踐之出入也，齊於稷山，往從田里，去從北郭門。炤龜龜山，更駕臺，馳於離丘，遊於美",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p14",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 14
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「句踐軍敗失眾，懣於此」是浦陽這個地名的由來，照本書登錄體只記某人曾在此如何，不是在寫情緒本身，不反射填 VI",
+    "excerpt": "浦陽者，句踐軍敗失眾，懣於此。去縣五十里。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p15",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 15
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「其山上大冢，句踐庶子冢也」是冢墓登錄，照配套 (2) 有墳不等於在寫死亡，不給 X；絕糧困頓同屬地名由來",
+    "excerpt": "夫山者，句踐絕糧，困也。其山上大冢，句踐庶子冢也。去縣十五里。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p16",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 16
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "本段不是條目而是整則史事。「盛衰存亡，在於用臣」「治道萬端，要在得賢」是文本自己下的斷語，配上「王不聽，遂遣之」的用人之失，承重在君臣與用人（V）；「夫石買，人與為怨，家與為仇，貪而好利，細人也，無長策」是耆老壯長對其品性的逐項評斷（VII）。子胥的「此越未戰而服，天以賜吳，其逆天乎？」是他反對受降的進言修辭，屬說辭側，不給 XII",
+    "excerpt": "句踐與吳戰於浙江之上，石買為將。耆老、壯長進諫曰：「夫石買，人與為怨，家與為仇，",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p17",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 17
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「陽城里者，范蠡城也」只登錄築者與水陸門數，登錄之外沒有對人的判斷",
+    "excerpt": "陽城里者，范蠡城也。西至水路，水門一，陸門二。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p18",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 18
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「北陽里城，大夫種城也，取土西山以濟之」是築城者、取土處與徑步數的登錄，並附一說異名",
+    "excerpt": "北陽里城，大夫種城也，取土西山以濟之。徑百九十四步。或為南安。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p19",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 19
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「富陽里者，外越賜義也。處里門，美以練塘田。」只登錄此里的由來與田土，登錄之外一無所剩",
+    "excerpt": "富陽里者，外越賜義也。處里門，美以練塘田。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p20",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 20
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「築庫高閣之」與「周二百三十步，今安城里」是興造由來與規模登錄，照配套 (4) 第二點不給 V",
+    "excerpt": "安城里高庫者，句踐伐吳，禽夫差，以為勝兵，築庫高閣之。周二百三十步，今安城里。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p21",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 21
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「故禹宗廟，在小城南門外大城內」只記廟與稷的方位，宗廟是地物名目，不因此給 XII",
+    "excerpt": "故禹宗廟，在小城南門外大城內。禹稷在廟西，今南里。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p22",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 22
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「獨山大冢者，句踐自治以為冢」是冢墓登錄，連同冢不成與里數，照配套 (2) 不給 X",
+    "excerpt": "獨山大冢者，句踐自治以為冢。徙瑯琊，冢不成。去縣九里。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p23",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 23
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「種麻以為弓弦，使齊人守之」與越語釋名是山名由來；「以山下田封功臣」只登錄一次封賞，沒有一句說出人是什麼樣的",
+    "excerpt": "麻林山，一名多山。句踐欲伐吳，種麻以為弓弦，使齊人守之，越謂齊人「多」，故曰麻林",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p24",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 24
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "本條登錄此城是戰敗所棲之處，「因以下為目魚池，其利不租」只記池的歸屬與不徵租，是地利登錄不是對公義的主張",
+    "excerpt": "會稽山上城者，句踐與吳戰，大敗，棲其中。因以下為目魚池，其利不租。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p25",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 25
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「會稽山北城者，子胥浮兵以守城是也。」全段只交代此城為何人所守，登錄之外一無所剩",
+    "excerpt": "會稽山北城者，子胥浮兵以守城是也。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p26",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 26
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「句踐所徙葬先君夫鐔冢也」是冢墓登錄，照配套 (2) 不給 X，照配套 (3) 也不因先君而填 IV",
+    "excerpt": "若耶大冢者，句踐所徙葬先君夫鐔冢也，去縣二十五里。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p27",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 27
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「種葛，使越女織治葛布，獻於吳王夫差」是葛山得名的由來與一次進獻，登錄之外沒有對人的斷語",
+    "excerpt": "葛山者，句踐罷吳，種葛，使越女織治葛布，獻於吳王夫差。去縣七里。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p28",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 28
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「姑中山者，越銅官之山也」只登錄山的職屬、越人稱呼與長度里數",
+    "excerpt": "姑中山者，越銅官之山也，越人謂之銅姑瀆。長二百五十步，去縣二十五里。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p29",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 29
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「句踐治以為義田，為肥饒，謂之富中」是塘與田的興治與名稱由來，文本沒有一句說出這樣做對人有什麼後果",
+    "excerpt": "富中大塘者，句踐治以為義田，為肥饒，謂之富中。去縣二十里二十二步。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p30",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 30
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「畜犬獵南山白鹿，欲得獻吳，神不可得，故曰犬山」整句都在解釋山名，神不可得是地名由來的一部分，照配套 (4) 第一點不給 XII",
+    "excerpt": "犬山者，句踐罷吳，畜犬獵南山白鹿，欲得獻吳，神不可得，故曰犬山。其高為犬亭。去縣",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p31",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 31
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「白鹿山，在犬山之南，去縣二十九里。」只有方位與里數，純登錄",
+    "excerpt": "白鹿山，在犬山之南，去縣二十九里。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p32",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 32
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「句踐以畜雞豕，將伐吳，以食士也」是兩山得名的由來，其餘為方位里數與一句存疑之詞，登錄之外沒有對人的判斷",
+    "excerpt": "雞山、豕山者，句踐以畜雞豕，將伐吳，以食士也。雞山在錫山南，去縣五十里。豕山在民",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p33",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 33
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「句踐時采鍚山為炭」與「各因事名之」明說本條只在交代這些地名怎麼來，是純名義登錄",
+    "excerpt": "練塘者，句踐時采鍚山為炭，稱「炭聚」，載從炭瀆至練塘，各因事名之。去縣五十里。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p34",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 34
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「木客大冢者，句踐父允常冢也」是冢墓登錄，照配套 (2) 不給 X；「使樓船卒二千八百人伐松柏以為桴，故曰木客」與後附一說都只解釋冢名由來",
+    "excerpt": "木客大冢者，句踐父允常冢也。初徙瑯琊，使樓船卒二千八百人伐松柏以為桴，故曰木客。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p35",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 35
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「官瀆者，句踐工官也。去縣十四里。」只登錄此瀆的職屬與里數",
+    "excerpt": "官瀆者，句踐工官也。去縣十四里。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p36",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 36
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「范蠡苦勤功篤，故封其子於是」不只是品題語，文本把這句評語直接接到封其子的處置上，是對功臣如何被酬報下的斷語（V）；「因為民治田」同屬這一路。此條的城、徑步數與塘長仍是登錄，不另給格",
+    "excerpt": "苦竹城者，句踐伐吳還，封范蠡子也。其僻居，徑六十步。因為民治田，塘長千五百三十三",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p37",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 37
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「句踐築鼓鍾宮也」是興造登錄，連同里數與邑名，照配套 (4) 第二點不給 V",
+    "excerpt": "北郭外路南溪北城者，句踐築鼓鍾宮也，去縣七里。其邑為龔錢。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p38",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 38
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「舟室者，句踐船宮也，去縣五十里。」只登錄此室的用途與里數",
+    "excerpt": "舟室者，句踐船宮也，去縣五十里。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p39",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 39
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「民西大冢者，句踐客秦伊善炤龜者冢也，因名冢為秦伊山。」冢與善炤龜都只是這座山為何得名，照配套 (2) 不給 X、照配套 (4) 第一點不給 XII",
+    "excerpt": "民西大冢者，句踐客秦伊善炤龜者冢也，因名冢為秦伊山。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p40",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 40
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「句踐教習兵處也」是用途登錄，「射卒陳音死，葬民西，故曰陳音山」是地名由來，文本沒有一句在寫這個人面對死亡，照配套 (2) 不給 X",
+    "excerpt": "射浦者，句踐教習兵處也。今射浦去縣五里。射卒陳音死，葬民西，故曰陳音山。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p41",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 41
+    },
+    "psych_domains": [
+      "X"
+    ],
+    "discourse_mode": [
+      "observation",
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "外殼是「句踐所葬大夫種也」加葬制登錄，但「種將死，自策」以下停下來寫當事人自己安排身後：「後有賢者，百年而至，置我三蓬，自章後世」是他將死時對自己之死如何被後世看見所下的話（X）。這與同章純冢墓條目的分界就在這一句",
+    "excerpt": "種山者，句踐所葬大夫種也。樓船卒二千人，鈞足羡，葬之三蓬下。種將死，自策：「後有",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p42",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 42
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「句踐所徙巫為一里」是里的由來登錄，「其亭祠今為和公群社稷墟」是今地沿革，巫與祠在此是地物名目，不給 XII",
+    "excerpt": "巫里，句踐所徙巫為一里，去縣二十五里。其亭祠今為和公群社稷墟。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p43",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 43
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "本條只登錄巫山因「神巫之官也，死葬其上」而得名，連同里數；神巫是官名、葬是地名由來，既不給 XII 也不給 X",
+    "excerpt": "巫山者，越𩴄，神巫之官也，死葬其上，去縣十三里許。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p44",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 44
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「句踐鑄銅，鑄銅不爍，埋之東阪」與「飾治為馬箠，獻之吳」是六山得名的由來與一次進獻，屬器物與興作登錄",
+    "excerpt": "六山者，句踐鑄銅，鑄銅不爍，埋之東阪，其上馬箠。句踐遣使者取於南社，徙種六山，飾",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p45",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 45
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「越神巫無杜子孫也」與「巫神，欲使覆禍吳人船」是這處江中葬所的由來與當初的用意；文本並沒有出面認定此事應驗或有效，照配套 (4) 第一點與 XII 的過度側，本條不給 XII",
+    "excerpt": "江東中巫葬者，越神巫無杜子孫也。死，句踐於中江而葬之。巫神，欲使覆禍吳人船。去縣",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p46",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 46
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「石塘者，越所害軍船也」加廣長步數與里數，是塘的用途與規模登錄",
+    "excerpt": "石塘者，越所害軍船也。塘廣六十五步，長三百五十三步。去縣四十里。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p47",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 47
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「防塢者，越所以遏吳軍也。去縣四十里。」只登錄此塢的軍事用途與里數",
+    "excerpt": "防塢者，越所以遏吳軍也。去縣四十里。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p48",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 48
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「杭塢者，句踐杭也」加卒數與里數，是船塢的歸屬與規模登錄",
+    "excerpt": "杭塢者，句踐杭也。二百石長買卒七士人，度之會夷。去縣四十里。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p49",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 49
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「塗山者，禹所取妻之山也」是山名由來，照配套 (3) 取妻屬世系登錄，不給 III 也不給 IV",
+    "excerpt": "塗山者，禹所取妻之山也，去縣五十里。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p50",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 50
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「朱餘者，越鹽官也」加越語釋名與里數，是純語義還原式的地名登錄",
+    "excerpt": "朱餘者，越鹽官也。越人謂鹽曰「餘」。去縣三十五里。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p51",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 51
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「使吳人築吳塘，東西千步，名辟首」只登錄興造者、役者、尺寸與名稱沿革，沒有一句說出役民的後果，照配套 (4) 第二點不給 V",
+    "excerpt": "句踐已滅吳，使吳人築吳塘，東西千步，名辟首。後因以為名曰塘。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p52",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 52
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "灰區我取國家處置那一讀：「徙寡婦致獨山上，以為死士示，得專一也」把遷徙寡婦的用意直接說成使死士專一，用意落在人會變成什麼樣，「後說之者，蓋句踐所以遊軍士也」是同一路的另一說（V）。照配套 (3)，不因出現寡婦而填 III／IV",
+    "excerpt": "獨婦山者，句踐將伐吳，徙寡婦致獨山上，以為死士示，得專一也。去縣四十里。後說之者",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p53",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 53
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「車敗馬失，騎士墮死，疋馬啼嗥」是馬嗥這個地名的由來並註明出處，照配套 (2) 墮死是登錄不是在寫死亡",
+    "excerpt": "馬嗥者，吳伐越，道逢大風，車敗馬失，騎士墮死，疋馬啼嗥，事見吳史。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p54",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 54
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「其陵固可守，故謂之固陵」是地名由來，其餘登錄築者與大船軍所置，登錄之外沒有對人的判斷",
+    "excerpt": "浙江南路西城者，范蠡敦兵城也。其陵固可守，故謂之固陵。所以然者，以其大船軍所置也",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p55",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 55
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「山陰古故陸道，出東郭，隨直瀆陽春亭」與水道同型，是路線與里數登錄",
+    "excerpt": "山陰古故陸道，出東郭，隨直瀆陽春亭。山陰故水道，出東郭，從郡陽春亭。去縣五十里。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p56",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 56
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「語兒鄉，故越界，名曰就李」是疆界與舊名登錄，登錄之外一無所剩",
+    "excerpt": "語兒鄉，故越界，名曰就李。吳疆越地以為戰地，至於柴辟亭。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p57",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 57
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「夫人從，道產女此亭，養於李鄉」與「句踐勝吳，更名女陽」是亭名與鄉名的改易由來，照配套 (3) 生女屬世系登錄，不給 III／IV",
+    "excerpt": "女陽亭者，句踐入官於吳，夫人從，道產女此亭，養於李鄉，句踐勝吳，更名女陽，更就李",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p58",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 58
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「吳王復還封句踐於越，東西百里」以下是封地範圍、朝向與故界四至的登錄，只交代疆域事實",
+    "excerpt": "吳王夫差伐越，有其邦，句踐服為臣。三年，吳王復還封句踐於越，東西百里，北鄉臣事吳",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p59",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 59
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「覲鄉北有武原」以下逐條對應古今地名，是純地名沿革登錄",
+    "excerpt": "覲鄉北有武原。武原，今海鹽。姑末，今大末。寫干，今屬豫章。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p60",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 60
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「傳聞越王子孫，在丹陽皋鄉，更姓梅」是後裔所在與地名由來的登錄，照配套 (3) 世系不填 IV",
+    "excerpt": "自無餘初封於越以來，傳聞越王子孫，在丹陽皋鄉，更姓梅，梅里是也。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p61",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 61
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "本段雖長，通篇是秦諸王立年與滅亡的年數表，「秦元王至子嬰，凡十王，百七十歲」是其收束句，登錄之外沒有對人的斷語",
+    "excerpt": "自秦以來，至秦元王不絕年。元王立二十年，平王立二十三年，惠文王立二十七年，武王立",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#10-p62",
+    "anchor": {
+      "chapter": "越絕外傳記地傳第十",
+      "para_index": 62
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "本段逐項登錄秦滅六國的將名與所得之王、始皇東遊會稽的路線、岑石尺寸與更名，「因徙天下有罪適吏民，置海南故大越處，以備東海外越」與「乃更名大越曰山陰」同屬徙民與建置登錄，文本沒有一句評斷這些作為對人如何",
+    "excerpt": "政使將魏舍、內史教攻韓，得韓王安。政使將王賁攻魏，得魏王歇。政使將王涉攻趙，得趙",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#11-p01",
+    "anchor": {
+      "chapter": "越絕外傳計倪第十一",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「夫官位財幣，王之所輕，死者，是士之所重也。王愛所輕，責士所重，豈不艱哉？」是計倪直說君王拿自己看輕的東西去換士人看重的東西，承重在君臣相待與使臣之道（V）；「非大夫易見難使，是大王不能使臣也。」把群臣默然無對的原因歸到君王這一側，同樣是對君臣關係下的斷語。此處的「死者」是士所重的東西，不是有人在面對自己的死，不給 X",
+    "excerpt": "昔者，越王句踐近侵於疆吳，遠媿於諸侯，兵革散空，國且滅亡，乃脅諸臣而與之盟：「吾",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#11-p02",
+    "anchor": {
+      "chapter": "越絕外傳計倪第十一",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "prescription",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「夫仁義者，治之門，士民者，君之根本也。」與「今置臣而不尊，使賢而不用」是計倪論君王該如何選左右、任賢與收爵賞刑罰之柄，落點在君臣與用人（V）；「非君子至誠之士，無與居家」與「臣聞智者不妄言，以成其勞，賢者始於難動，終於有成。」是對君子、智者、賢者其人的品性下斷語，不只是任官程序（VII）",
+    "excerpt": "計倪對曰：「夫仁義者，治之門，士民者，君之根本也。闓門固根，莫如正身。正身之道，",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#11-p03",
+    "anchor": {
+      "chapter": "越絕外傳計倪第十一",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「與民同苦樂，激河泉井，示不獨食。」與「行之六年，士民一心，不謀同辭，不呼自來，皆欲伐吳。」把開倉賑貸、問疾視喪這些做法連到士民一心的後果，說的是君與民如何相待而不只是交代越國做過什麼；段末引「寬則得眾。」作斷語（V）",
+    "excerpt": "越王大媿，乃壞池填塹，開倉穀，貸貧乏，乃使群臣身問疾病，躬視死喪，不厄窮僻，尊有",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#11-p04",
+    "anchor": {
+      "chapter": "越絕外傳計倪第十一",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "V",
+      "VI",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「為人臣，上不能令主，下令百姓被兵刃之咎。」是子胥以人臣之責自問，承重在臣對主與百姓的位置（V）；「自責內傷，莫能知者。」與「三年自咎，不親妻子，饑不飽食，寒不重綵」是整段在寫他敗軍之後的內疚與自苦，不是一句敘事套語（VI）；「夫有勇見於外，必有仁於內。」是開篇對人下的通則斷語，全段以子胥為例證（VII）",
+    "excerpt": "夫有勇見於外，必有仁於內。子胥戰於就李，闔廬傷焉，軍敗而還。是時死傷者不可稱數，",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#11-p05",
+    "anchor": {
+      "chapter": "越絕外傳計倪第十一",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「子胥爭諫，以是不容。」與「夫差聽嚭，不殺仇人。」把西江與會稽之役的結果歸到進諫不被納、聽信宰嚭這件事上，「興師十萬，與不敵同。」則是對此下的評斷，承重在君臣進諫與用人而不只是戰事年次（V）。詐兵兩翼、夜火相應是怎麼打的部分，照閘門不另給格",
+    "excerpt": "越乃興師，與戰西江。二國爭疆，未知存亡。子胥知時變，為詐兵，為兩翼，夜火相應。句",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#11-p06",
+    "anchor": {
+      "chapter": "越絕外傳計倪第十一",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "V",
+      "VII",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "「夫差不信伍子胥，而任太宰嚭」與「思昭示於後王」是把吳之敗歸到信誰任誰，並明說要給後王作鑑（V）；「極凶悖於人理」是對驪姬、褒姒一類人下的品格斷語（VII）；「進有退之義，存有亡之幾，得有喪之理」與「伏念居安思危，日謹一日。」把存亡得喪講成可以由人自處的理，落點在人力而非天意（XI）。「敬之如神明」是勸戒的比擬不是信仰主張，不給 XII",
+    "excerpt": "哀哉！夫差不信伍子胥，而任太宰嚭，乃此禍晉之驪姬、亡周之褒姒，盡妖妍於圖畫，極凶",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#12-p01",
+    "anchor": {
+      "chapter": "越絕外傳記吳王占夢第十二",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「子為寡人精占之，吉則言吉，凶則言凶，無諛寡人之心所從。」是夫差對占者提出的要求，太宰嚭卻逐項吉解，末了「吳王大悅，而賜太宰嚭雜繒四十疋。」，承重在君臣之間占與賞的相待（V）；太宰嚭開口即「善哉！大王興師伐齊。」，把所有凶象一律讀成吉兆，正是王明白要求不要做的諛（VII）。占夢在本段是諛臣曲解的載體，不給 XII。",
+    "excerpt": "昔者，吳王夫差之時，其民殷眾，禾稼登熟，兵革堅利，其民習於鬥戰，闔廬□剬子胥之教",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#12-p02",
+    "anchor": {
+      "chapter": "越絕外傳記吳王占夢第十二",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "王孫駱自承「臣智淺能薄，無方術之事，不能占大王夢。」而轉薦他人，承重在臣對君的薦舉之道（V）；所薦者「為人幼而好學，長而埙遊，博聞疆識，通於方來之事」，是以學養與專業能力定其可用（VIII）。",
+    "excerpt": "王心不已，召王孫駱而告之。對曰：「臣智淺能薄，無方術之事，不能占大王夢。臣知有東",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#12-p03",
+    "anchor": {
+      "chapter": "越絕外傳記吳王占夢第十二",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "X",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "公孫聖得記自占「今日壬午，時加南方，命屬蒼天，不可逃亡。」，是當事人自己說出今日必死（X）；同段「諛心而言，師道不明；正言直諫，身死無功。」把諛與直諫兩條路一併說死，而他仍「上車不顧」前往，是對品格的斷語（VII）。占法在此是他自陳的專業，不給 XII。",
+    "excerpt": "聖得記，發而讀之，伏地而泣，有頃不起。其妻大君從旁接而起之，曰：「何若子性之大也",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#12-p04",
+    "anchor": {
+      "chapter": "越絕外傳記吳王占夢第十二",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "V",
+      "VII",
+      "X"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「吳王忿聖言不祥，乃使其身自受其殃。」是君因惡聞直言而殺諫臣，承重在君臣與用人（V）；公孫聖自陳「諛讒申者，師道不明。正言切諫，身死無功。」，太宰嚭收場又說「逆言已滅，讒諛已亡，因酌行觴，時可以行矣。」，一段之內把讒諛與直諫對立說盡（VII）；臨刑時「令吾家無葬我，提我山中，後世為聲響。」是當事人自己安排身後（X）。",
+    "excerpt": "吳王勞曰：「越公弟子公孫聖也，寡人晝臥姑胥之臺，夢入章明之宮。入門，見兩缔炊而不",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#12-p05",
+    "anchor": {
+      "chapter": "越絕外傳記吳王占夢第十二",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "范蠡當面數吳王之過，「夫齊無罪，空復伐之，使鬼神不血食，社稷廢蕪，父子離散，兄弟異居。」把興兵的後果落到民與邦（V）；「太宰嚭讒諛佞諂，斷絕王世，聽而用之。」與「胥為人先知、忠信」對舉，是對人的品格評斷（VII）。「太宰嚭即上山三呼，聖三應。」在本段只作應驗的敘事裝飾，段落靠范蠡列過推進，不給 XII。",
+    "excerpt": "王孫駱為左校司馬，太宰嚭為右校司馬，王從騎三千，旌旗羽蓋，自處中軍。伐齊大剋。師",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#12-p06",
+    "anchor": {
+      "chapter": "越絕外傳記吳王占夢第十二",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "X",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "吳王臨終自陳「以三寸之帛，幎吾兩目，使死者有知，吾慚見伍子胥、公孫聖，以為無知，吾恥生。」，是當事人自己在處理自己的死（X）；越王先說「世無千歲之人，死一耳。」同屬此格。結尾「越王殺太宰嚭，戮其妻子，以其不忠信。」以忠信與否斷其該死，是對品格下的裁斷（VII）。范蠡「上天蒼蒼，若存若亡。」是出自人物口中的說辭，不給 XII。",
+    "excerpt": "越王撫步光之劍，杖屈盧之矛，瞋目謂范蠡曰：「子何不早圖之乎？」范蠡曰：「臣不敢殺",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#13-p01",
+    "anchor": {
+      "chapter": "越絕外傳記寶劍第十三",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VIII",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「客有能相劍者，名薛燭。」起，整段是薛燭以相劍之術逐一品第五劍，「下階而深惟，簡衣而坐望之。」寫他面對純鈞時的專業程序，承重在這門技藝與行家身分（VIII）；「闔廬無道，子女死，殺生以送之。」是對闔廬行事的斷語，同段「遂弒王僚。」以弒字定調他取國的手段（VII）。鑄劍一節的「雨師掃灑，雷公擊橐」我取技術側一讀，視為薛燭誇言此劍不可再得的說辭，不給 XII。",
+    "excerpt": "昔者，越王句踐有寶劍五，聞於天下。客有能相劍者，名薛燭。王召而問之，曰：「吾有寶",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#13-p02",
+    "anchor": {
+      "chapter": "越絕外傳記寶劍第十三",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VIII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "楚王品第兩位鑄劍者「此二人甲世而生，天下未嘗有。」，並願傾邦之重寶求其作劍，承重在匠人之術與由此而來的聲名（VIII）；後半「歐冶子、干將鑿茨山，洩其溪，取鐵英，作為鐵劍三枚」與三劍釽文的品評都是這門技藝的內容。「精誠上通天」是楚王稱許二人手藝的誇辭，不是信仰主張，不給 XII。",
+    "excerpt": "楚王召風胡子而問之曰：「寡人聞吳有干將，越有歐冶子，此二人甲世而生，天下未嘗有。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#13-p03",
+    "anchor": {
+      "chapter": "越絕外傳記寶劍第十三",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "VII",
+      "XI"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "楚王自問「此劍威耶？寡人力耶？」，風胡子的答語把兵器之效一路收回到人：歷數石兵玉兵銅兵之世而問「豈非聖主之力哉？」，是把成敗歸於人主之力而不歸於器物自有（XI）；結語「此亦鐵兵之神，大王有聖德。」則直接以德行斷定這位君主（VII）。「夫玉，亦神物也」一類的神字是風胡子應對君王的說辭，不作信仰主張讀，不給 XII。",
+    "excerpt": "晉鄭王聞而求之，不得，興師圍楚之城，三年不解。倉穀粟索，庫無兵革。左右群臣、賢士",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#14-p01",
+    "anchor": {
+      "chapter": "越絕內經九術第十四",
+      "para_index": 1
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "prescription"
+    ],
+    "confidence": null,
+    "note": "整段是大夫種列舉伐吳的九條術目，逐條都是「遺之好美，以為勞其志」這一型的槓桿加推論，沒有一句說出人是什麼樣的；「一曰尊天地，事鬼神」只是九術的首目，是取吳的手段不是信仰主張；收尾「故曰九者勿患，戒口勿傳」講的是此術如何保密，術目之外沒有對人的斷語。",
+    "excerpt": "昔者，越王句踐問大夫種曰：「吾欲伐吳，奈何能有功乎？」大夫種對曰：「伐吳有九術。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#14-p02",
+    "anchor": {
+      "chapter": "越絕內經九術第十四",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "申胥舉桀紂起靈門鹿臺力阻吳王受策楯，吳王「不聽，遂受之而起姑胥臺。」，接著「三年聚材，五年乃成。」的興造把役民之費寫到「行路之人，道死尸哭。」，承重在君臣之間納不納諫與此舉對民的後果（V）。申胥口中的「天與之災」是他勸諫時的論據，出自人物之口而非文本自己認證，不給 XII。",
+    "excerpt": "於是作為策楯，嬰以白璧，鏤以黃金，類龍蛇而行者。乃使大夫種獻之於吳，曰：「東海役",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#14-p03",
+    "anchor": {
+      "chapter": "越絕內經九術第十四",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "申胥力諫的落點是用人：「胥聞賢士，邦之寶也；美女，邦之咎也。」把賢士與美女對舉成邦之得失，而吳王「以申胥為不忠而殺之」，承重在君臣用人與納諫（V）；同段「胥聞越王句踐服誠行仁，聽諫，進賢士，是人不死，必得其名。」是對句踐品行的正面斷語（VII）。西施、鄭旦在此是伐吳之計的一著，不作親密關係讀，不給 III；段末殺申胥是敘事推進，沒有人在面對自己的死，不給 X。",
+    "excerpt": "越乃飾美女西施、鄭旦，使大夫種獻之於吳王，曰：「昔者，越王句踐竊有天之遺西施、鄭",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#14-p04",
+    "anchor": {
+      "chapter": "越絕內經九術第十四",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "本段只是史事交代，「越乃興師伐吳，大敗之於秦餘杭山」以下逐項記滅吳、禽夫差與戮太宰嚭，刪掉它少的是誰在何處做了什麼，沒有一句對人下判斷。",
+    "excerpt": "越乃興師伐吳，大敗之於秦餘杭山，滅吳，禽夫差，而戮太宰嚭與其妻子。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#15-p01",
+    "anchor": {
+      "chapter": "越絕外傳記軍氣第十五",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「小人則不然，以疆厭弱，取利於危，不知逆順，快心於非」與前文「夫聖人行兵，上與天合德，下與地合明，中與人合心」對舉，是就聖人與小人兩種品性下的斷語，不是望氣條目（VII）。「上與天合德」是行兵的德性比擬，段末「凡氣有五色」以下才轉入氣色條目，兩處都不作信仰主張讀，不給 XII。",
+    "excerpt": "夫聖人行兵，上與天合德，下與地合明，中與人合心。義合乃動，見可乃取。小人則不然，",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#15-p02",
+    "anchor": {
+      "chapter": "越絕外傳記軍氣第十五",
+      "para_index": 2
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "自「軍上有赤色氣者」起整段是五色氣配五個方位的占候對照表，「青氣在上，其謀未定；青氣在右，將弱兵多」「黃氣在右，將智而明，兵多卒疆，穀足而不可降」逐條把氣色與方位換算成敵軍將卒穀糧的強弱與可攻與否。將勇、將弱是望氣讀出的軍情指標，不是對人下的斷語；「為逆兵氣，衰去乃可攻」同樣只講怎麼看出勝負，除此之外沒有說關於人的什麼。",
+    "excerpt": "軍上有赤色氣者，徑抵天，軍有應於天，攻者其誅乃身。軍上有青氣盛明，從□，其本廣末",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#15-p03",
+    "anchor": {
+      "chapter": "越絕外傳記軍氣第十五",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「故明將知氣變之形，氣在軍上，其謀未定」以下逐條由氣的方位高低推敵方的布置，「其氣在前而低者，欲為前伏陣也」「其氣間其軍，欲有入邑」都是看氣判軍情的條目，怎麼看出勝負之外沒有說關於人的什麼。",
+    "excerpt": "故明將知氣變之形，氣在軍上，其謀未定；其在右而低者，欲為右伏兵之謀；其氣在前而低",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#15-p04",
+    "anchor": {
+      "chapter": "越絕外傳記軍氣第十五",
+      "para_index": 4
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「右子胥相氣取敵大數，其法如是」是把上列望氣之法登錄歸屬，其下「一、五、九，西向吉，東向敗亡，無東」逐組列月日數與方位的吉凶，「此其用兵月日數，吉凶所避也」自陳這是一套推算程序。登錄與算法之外沒有對人的斷語，吉凶之語是這門術的術語，不給 XII。",
+    "excerpt": "右子胥相氣取敵大數，其法如是。軍無氣，算於廟堂，以知疆弱。一、五、九，西向吉，東",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#15-p05",
+    "anchor": {
+      "chapter": "越絕外傳記軍氣第十五",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「韓故治，今京兆郡，角、亢也」只登錄韓的故治今屬何郡與所配星次，登錄之外沒有說關於人的什麼。",
+    "excerpt": "韓故治，今京兆郡，角、亢也。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#15-p06",
+    "anchor": {
+      "chapter": "越絕外傳記軍氣第十五",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「燕故治，今上漁陽、右北平、遼東、莫郡，尾、箕也」逐項登錄燕的故治今屬諸郡與分野星次，沒有一句落到人身上。",
+    "excerpt": "燕故治，今上漁陽、右北平、遼東、莫郡，尾、箕也。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#15-p07",
+    "anchor": {
+      "chapter": "越絕外傳記軍氣第十五",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「越故治，今大越山陰，南斗也」只記越的故治所在與所配星次，登錄之外一無所剩。",
+    "excerpt": "越故治，今大越山陰，南斗也。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#15-p08",
+    "anchor": {
+      "chapter": "越絕外傳記軍氣第十五",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「吳故治西江，都牛、須女也」只記吳的故治與所配星次，沒有說關於人的什麼。",
+    "excerpt": "吳故治西江，都牛、須女也。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#15-p09",
+    "anchor": {
+      "chapter": "越絕外傳記軍氣第十五",
+      "para_index": 9
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「齊故治臨菑，今濟北、平原、北海郡、菑川、遼東、城陽，虛、危也」是齊的故治、今屬諸郡與星次的登錄，沒有對人的判斷。",
+    "excerpt": "齊故治臨菑，今濟北、平原、北海郡、菑川、遼東、城陽，虛、危也。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#15-p10",
+    "anchor": {
+      "chapter": "越絕外傳記軍氣第十五",
+      "para_index": 10
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「衛故治濮陽，今廣陽、韓郡，營室、壁也」只登錄衛的故治、今屬何郡與所配星次，登錄之外沒有說關於人的什麼。",
+    "excerpt": "衛故治濮陽，今廣陽、韓郡，營室、壁也。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#15-p11",
+    "anchor": {
+      "chapter": "越絕外傳記軍氣第十五",
+      "para_index": 11
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「魯故治太山、東溫、周固水，今魏東，奎、婁也」只登錄魯的故治地望、今屬與星次，沒有一句在說人。",
+    "excerpt": "魯故治太山、東溫、周固水，今魏東，奎、婁也。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#15-p12",
+    "anchor": {
+      "chapter": "越絕外傳記軍氣第十五",
+      "para_index": 12
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「梁故治，今濟陰、山陽、濟北、東郡，畢也」只登錄梁的故治今屬諸郡與所配星次，登錄之外一無所剩。",
+    "excerpt": "梁故治，今濟陰、山陽、濟北、東郡，畢也。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#15-p13",
+    "anchor": {
+      "chapter": "越絕外傳記軍氣第十五",
+      "para_index": 13
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「晉故治，今代郡、常山、中山、河間、廣平郡，觜也」只登錄晉的故治今屬諸郡與所配星次，沒有關於人的內容。",
+    "excerpt": "晉故治，今代郡、常山、中山、河間、廣平郡，觜也。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#15-p14",
+    "anchor": {
+      "chapter": "越絕外傳記軍氣第十五",
+      "para_index": 14
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「秦故治雍，今內史也，巴郡、漢中、隴西、定襄、太原、安邑，東井也」只登錄秦的故治與今屬諸郡及星次，登錄之外沒有說關於人的什麼。",
+    "excerpt": "秦故治雍，今內史也，巴郡、漢中、隴西、定襄、太原、安邑，東井也。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#15-p15",
+    "anchor": {
+      "chapter": "越絕外傳記軍氣第十五",
+      "para_index": 15
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「周故治雒，今河南郡，柳、七星、張也」只登錄周的故治、今屬何郡與所配星次，沒有對人的斷語。",
+    "excerpt": "周故治雒，今河南郡，柳、七星、張也。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#15-p16",
+    "anchor": {
+      "chapter": "越絕外傳記軍氣第十五",
+      "para_index": 16
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「楚故治郢，今南郡、南陽、汝南、淮陽、六安、九江、廬江、豫章、長沙，翼、軫也」逐項登錄楚的故治與今屬諸郡及星次，沒有對人的斷語。",
+    "excerpt": "楚故治郢，今南郡、南陽、汝南、淮陽、六安、九江、廬江、豫章、長沙，翼、軫也。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#15-p17",
+    "anchor": {
+      "chapter": "越絕外傳記軍氣第十五",
+      "para_index": 17
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "「趙故治邯鄲，今遼東、隴西、北地、上郡、雁門、北郡、清河，參也」只登錄趙的故治與今屬諸郡及星次，登錄之外沒有說關於人的什麼。",
+    "excerpt": "趙故治邯鄲，今遼東、隴西、北地、上郡、雁門、北郡、清河，參也。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#16-p01",
+    "anchor": {
+      "chapter": "越絕外傳枕中第十六",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "本段范子論道、術、末、實，四者之中的末與實都落到人身上：「故名過實，則百姓不附親，賢士不為用。」是把名實失衡連到百姓離心與賢士不肯任用，「所謂實者，穀□也，得人心，任賢士也。」把得人心與用賢並列為邦之寶，承重在君主與百姓、賢士的相待（V）。「術者，天意也。」與盛夏遂長那一段是把治術比附天地秩序的說辭，不是文本認證神聖有效，不給 XII",
+    "excerpt": "昔者，越王句踐問范子曰：「古之賢主、聖王之治，何左何右？何去何取？」范子對曰：「",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#16-p02",
+    "anchor": {
+      "chapter": "越絕外傳枕中第十六",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「知保人之身者，可以王天下；不知保人之身，失天下者也。」把王天下的條件放在能不能保人之身，下文「人得穀即不死，穀能生人，能殺人。」直說穀這個物質條件決定人的生死；同段舉湯「舉伊尹，收天下雄雋之士」而「萬民皆歌而歸之」，承重在用人與民心（V）。全段沒有一句把禍福歸給天，不給 XII",
+    "excerpt": "越王曰：「寡人躬行節儉，下士求賢，不使名過實，此寡人所能行也。多貯穀，富百姓，此",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#16-p03",
+    "anchor": {
+      "chapter": "越絕外傳枕中第十六",
+      "para_index": 3
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "整段是八穀貴賤的推算程序：「夫八穀貴賤之法，必察天之三表，即決矣。」以下逐條列水勝金、金勝木的五行對照與歲大敗、歲大美的對應；「故天下之君，發號施令，必順於四時。」是順時施令的政令條文，只給順四時則歲美、四時不正則五穀不登的因果鏈，沒有一句說出人是什麼樣的。逐句掃過沒有物質條件連到人的品行或好惡那一型的斷言句，故判空。三表五行在本書是可推算的技術，不給 XII",
+    "excerpt": "越王曰：「善哉。今寡人欲保穀，為之奈何？」范子曰：「欲保，必親於野，睹諸所多少為",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#16-p04",
+    "anchor": {
+      "chapter": "越絕外傳枕中第十六",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「困其士民，以為須臾之樂，百姓皆有悲心，瓦解而倍畔者，桀紂是也。」把君主耗民與百姓離畔連成一線，承重在君與民的相待（V）；「漸漬乎滋味之費，沒溺於聲色之類，牽孿於珍怪貴重之器」逐項數落人主的耽溺，並以「執其中則昌，行奢侈則亡。」下品格斷語（VII）",
+    "excerpt": "越王問范子曰：「何執而昌？何行而亡？」范子曰：「執其中則昌，行奢侈則亡。」越王曰",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#16-p05",
+    "anchor": {
+      "chapter": "越絕外傳枕中第十六",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "V",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "越王聽完四時災異說後自己歸結「寒暑不時，治在於人，可知也。」，把寒暑失序的責任從天挪回人事，是破除側（XI），同段「夫陰陽錯繆，即為惡歲；人生失治，即為亂世。」並舉天道與人治兩線；范子的「春肅而不生者，王德不究也；夏寒而不長者，臣下不奉主命也」逐條把四時失次歸到君德、臣下奉命與百官刑斷，承重在君臣百官的職守（V）。全段落點在人事，不給 XII",
+    "excerpt": "越王問范子曰：「春肅，夏寒，秋榮，冬泄，人治使然乎？將道也？」范子曰：「天道三千",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#16-p06",
+    "anchor": {
+      "chapter": "越絕外傳枕中第十六",
+      "para_index": 6
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "整段是用魂魄、神氣這套術語推八穀貴賤的占法：「欲知八穀之貴賤、上下、衰極，必察其魂魄，視其動靜，觀其所舍，萬不失一。」，末句「故觀其魂魄，即知歲之善惡矣。」把落點收回歲之善惡；「魂者，橐也；魄者，生氣之源也。」是術語界定。逐句掃過，「天地之間，人最為貴」只是引出「物之生，穀為貴，以生人」的類比前件，沒有一句落到人怎麼活或人是什麼樣的，故判空。魂魄神氣在此是占候術語，不給 XII",
+    "excerpt": "越王問於范子曰：「寡人聞人失其魂魄者，死；得其魂魄者，生。物皆有之，將人也？」范",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#16-p07",
+    "anchor": {
+      "chapter": "越絕外傳枕中第十六",
+      "para_index": 7
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "整段只講陰陽二氣的藏伏與萬物生殺：「臣聞陰陽氣不同處，萬物生焉。」以下說冬三月陽氣下藏、夏三月陰氣下藏，收在「故一時失度，即四序為不行。」。逐句掃過沒有任何一句連到人的品行、知覺或好惡，連君主施令都未提，判空",
+    "excerpt": "越王問於范子曰：「寡人聞陰陽之治，不同力而功成，不同氣而物生，可得而知乎？願聞其",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#16-p08",
+    "anchor": {
+      "chapter": "越絕外傳枕中第十六",
+      "para_index": 8
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "整段是寒溫與穀價的對應法則：「陽者主貴，陰者主賤。」「故當寒而不寒者，穀為之暴貴；當溫而不溫者，穀為之暴賤。」是可據以推算的糴價程序；末句「以丹書帛，置之枕中，以為國寶。」只交代越王把這套說法收藏起來，不是對人的判斷。逐句掃過無人性斷言，判空",
+    "excerpt": "越王曰：「善。寡人已聞陰陽之事，穀之貴賤，可得而知乎？」范子曰：「陽者主貴，陰者",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#16-p09",
+    "anchor": {
+      "chapter": "越絕外傳枕中第十六",
+      "para_index": 9
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "范子答越王報仇之問，落點全在人怎麼做才被天下所與：「昔者神農之治天下，務利之而已矣，不望其報。不貪天下之財，而天下共富之。」講治天下者與百姓的相待（V）；「今王利地貪財，接兵血刃，僵尸流血，欲以顯於世，不亦謬乎？」當面判越王貪與求顯為謬，並以「臣聞聖主為不可為之行，不惡人之謗己；為足舉之德，不德人之稱己。」立下品格標準（VII）",
+    "excerpt": "越五日，困於吳，請於范子曰：「寡人守國無術，負於萬物，幾亡邦危社稷，為旁邦所議，",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#16-p10",
+    "anchor": {
+      "chapter": "越絕外傳枕中第十六",
+      "para_index": 10
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition",
+      "formalization"
+    ],
+    "confidence": null,
+    "note": "「且夫廣天下，尊萬乘之主，使百姓安其居、樂其業者，唯兵。兵之要在於人，人之要在於穀。故民眾則主安，穀多則兵疆。」把兵、人、穀與百姓安居串成一條，承重在民生與君主的相安（V）；越王自陳「父辱則子死，君辱則臣死。」范子答「君辱則死，固其義也。」是對君臣之義下斷語（VII）。後半「其術：天高五寸，減天寸六分以成地。」以下是天門地戶的推算程序，故 modes 兼 formalization；該段天變地變是可司可算的技術，不給 XII",
+    "excerpt": "越王曰：「上不逮於神農，下不及於堯舜，今子以至聖之道以說寡人，誠非吾所及也。且吾",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#16-p11",
+    "anchor": {
+      "chapter": "越絕外傳枕中第十六",
+      "para_index": 11
+    },
+    "psych_domains": [
+      "V",
+      "VIII"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "大夫種指出「然而范子豫見之策，未肯為王言者也。」，越王因而「寡人虛心垂意，聽於下風。」，整段寫的是勝吳自雄之後君主如何再向臣下求教、臣下如何斟酌可不可言，承重在君臣相待（V）；范子把陰陽進退講成一門「故聖人見物不疑，是謂知時，固聖人所不傳也。」的不傳之業，並以「夫堯舜禹湯，皆有豫見之勞，雖有凶年而民不窮。」說明這門本事的用處，承重在這項專業本身（VIII）。「固天道自然，不足怪也」是把豫見化約為自然之理，不給 XII",
+    "excerpt": "越王既已勝吳三日，反邦未至，息，自雄，問大夫種曰：「夫聖人之術，何以加於此乎？」",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#16-p12",
+    "anchor": {
+      "chapter": "越絕外傳枕中第十六",
+      "para_index": 12
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "全段只有「范子已告越王，立志入海，此謂天地之圖也。」一句，交代進言已畢與范子的去向，並回扣篇名所謂天地之圖；文本沒有寫他為何入海、也沒有對這個去就下任何判斷，登錄與交代之外沒有對人的斷語，判空",
+    "excerpt": "范子已告越王，立志入海，此謂天地之圖也。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#17-p01",
+    "anchor": {
+      "chapter": "越絕外傳春申君第十七",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "「春申君，貴人也，千里之佐，吾何託敢言？」是李園以身分懸隔判斷自己無從開口，而女環定計的起點是「我聞王老無嗣」這個邦嗣空缺，承重在君臣名位與邦國繼嗣（V）；她預先編好「園有女弟，魯相聞之，使使者來求之園」這套託辭教李園照說，整段寫的是一場騙局如何被設計出來（VII）",
+    "excerpt": "昔者，楚考烈王相春申君吏李園。園女弟女環謂園曰：「我聞王老無嗣，可見我於春申君。",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#17-p02",
+    "anchor": {
+      "chapter": "越絕外傳春申君第十七",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "本段是那套託辭的實地操作：李園照稿對春申君說「園有女弟，魯相聞之，使使求之」，又照稿答「能鼓音，讀書通一經」，春申君隨即說「可得見乎？明日，使待於離亭。」——段落自己寫的是一句謊話如何被原樣說出並奏效，承重在詐（VII）",
+    "excerpt": "明日，辭春申君：「才人有遠道客，請歸待之。」春申君果問：「汝家何等遠道客？」對曰",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#17-p03",
+    "anchor": {
+      "chapter": "越絕外傳春申君第十七",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "女環把私通翻成政事問題——「妾聞王老無嗣，屬邦於君。君外淫，不顧政事」，並指其「君上負於王」，承重在受託國政的君臣分際（V）；她接著要他封口，「無泄此口，君召而戒之」，春申君遂令官屬「莫有聞淫女也」，段落寫的是掩蓋（VII）",
+    "excerpt": "春申君到，園馳人呼女環到，黃昏，女環至，大縱酒。女環鼓琴，曲未終，春申君大悅。留",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#17-p04",
+    "anchor": {
+      "chapter": "越絕外傳春申君第十七",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "女環以「君即王公也，而何為佐乎？」誘春申君，把他從人臣之位推向實質的君父，承重在君臣名位（V）；所憑的是「今懷君子一月矣，可見妾於王，幸產子男」——以移易血胤取邦嗣，段落在寫一樁詐謀（VII）",
+    "excerpt": "與女環通，未終月，女環謂春申君曰：「妾聞王老無嗣，今懷君子一月矣，可見妾於王，幸",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#17-p05",
+    "anchor": {
+      "chapter": "越絕外傳春申君第十七",
+      "para_index": 5
+    },
+    "psych_domains": [],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "本段只交代春申君向烈王薦舉——「邦中有好女，中相，可屬嗣者。」——烈王召取、十月產子男，是這樁謀劃的事實進程。刪掉之後少的是史事而不是對人的看法，故判空",
+    "excerpt": "五日而道之：「邦中有好女，中相，可屬嗣者。」烈王曰：「諾。」即召之。烈王悅，取之",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#17-p06",
+    "anchor": {
+      "chapter": "越絕外傳春申君第十七",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "幽王立後「女環使園相春申君」，又「相之三年」才發話「以吳封春申君，使備東邊」——邦相之位與封地自此出於她，當初的合謀者被移出中樞，承重在權柄與用人（V）。段末自「秦始皇帝使王翦滅之」一線只是世系年代交代，不另給格",
+    "excerpt": "十年，烈王死，幽王嗣立。女環使園相春申君。相之三年，然後告園：「以吳封春申君，使",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#18-p01",
+    "anchor": {
+      "chapter": "越絕德序外傳記第十八",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V",
+      "XI"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "全段收在君臣相配的斷語上——「管仲能知人，桓公能任賢，蠡善慮患，句踐能行焉」，並反問「臣主若斯，其不伯，得乎？」，承重在用人與君臣（V）；所引傳文「句踐執於會稽，能因以伯」把困厄扭成霸業歸給人自己的作為（XI）。范蠡進言中的「天若棄彼」出自人物之口、為當下那場勸說服務，照說辭側不給 XII",
+    "excerpt": "昔者，越王句踐困於會稽，嘆曰：「我其不伯乎！」欲殺妻子，角戰以死。蠡對曰：「殆哉",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#18-p02",
+    "anchor": {
+      "chapter": "越絕德序外傳記第十八",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「夫吳知子胥賢，猶昏然誅之」是論贊直評吳之用人，同段「句踐至賢，種曷為誅？」並列相詰，承重在君臣與用人（V）；「夫差狂惑，賊殺子胥」是對其人下的品格斷語，所引「邦之將亡，惡聞忠臣之氣」亦以忠佞立判（VII）",
+    "excerpt": "吳越之事煩而文不喻，聖人略焉。賢者垂意，深省厥辭，觀斯智愚。夫差狂惑，賊殺子胥，",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#18-p03",
+    "anchor": {
+      "chapter": "越絕德序外傳記第十八",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「句踐知其仁也，不知其信」判君之識臣有限，段末「知始無終，厥道必窮」同指君臣相與之道（V）；「種立休功，其後厥過自伐」是對大夫種品格的斷語（VII）。段中「卜省其辭，吉耶凶耶」是范蠡自用的占問技藝，照技術側不給 XII",
+    "excerpt": "種立休功，其後厥過自伐。句踐知其仁也，不知其信。見種為吳通越，稱：「君子不危窮，",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#18-p04",
+    "anchor": {
+      "chapter": "越絕德序外傳記第十八",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "V",
+      "X",
+      "XI"
+    ],
+    "discourse_mode": [
+      "narrative"
+    ],
+    "confidence": null,
+    "note": "子胥自陳「王不親輔弼之臣而親眾豕之言」，指君之取捨（V）；「莫如早死，從吾先王於地下，蓋吾之志也」是他自己把死講成本志，前有「此吾命也，亡將安之」（X）；「非智衰也，先遇明，後遭險，君之易移也已矣」把榮僇歸於時遇與君心之變而不歸於己智（XI）。段末「後世稱述，蓋子胥，水僊也」我取過度側讀法，當論贊收尾的傳聞記述，不給 XII",
+    "excerpt": "子胥賜劍將自殺，歎曰：「嗟乎！眾曲矯直，一人固不能獨立。吾挾弓矢以逸鄭楚之間，自",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#18-p05",
+    "anchor": {
+      "chapter": "越絕德序外傳記第十八",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「察乎馮同、宰嚭，能知諂臣之所移」與「內痛子胥忠諫邪君，反受其咎」把各篇讀法收束到君臣忠佞之上（V）；「觀乎德敘，能知忠直所死，狂懜通拙」以忠直與狂懜對舉立品格之判（VII）。本段闕字處照抄不補",
+    "excerpt": "子胥挾弓去楚，唯夫子獨知其道。事□世□有退，至今實之，實秘文之事。深述厥兆，徵為",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#19-p01",
+    "anchor": {
+      "chapter": "越絕篇敘外傳記第十九",
+      "para_index": 1
+    },
+    "psych_domains": [
+      "V"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "本段大半在交代這部書怎麼來、為何題作越絕，但「睹麟垂涕，傷民不得其所，非聖人孰能痛世若此」越過了登錄線，落到民不得其所這件事上；同段「至於三王，爭心生，兵革越，作肉刑」亦是對治人之世如何轉壞所下的判斷（V）",
+    "excerpt": "維先古九頭之世，蒙水之際，興敗有數，承三繼五。故曰眾者傳目，多者信德。自此之時，",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#19-p02",
+    "anchor": {
+      "chapter": "越絕篇敘外傳記第十九",
+      "para_index": 2
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "答篇次之問卻不止於體例：「子謀父，臣殺主，天地所不容載」是對陳恒之事所下的公義裁斷，「富邦安民，故次計倪」亦以民生為序（V）；「仁能生勇」「智能生詐」把篇序架在德性相生的斷語上，並以「勇子胥忠、正、信、智以明也」品第其人（VII）",
+    "excerpt": "問曰：「越絕始於太伯，終於陳恒，何？」「論語曰：『雖小道，必有可觀者焉。』乃太伯",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#19-p03",
+    "anchor": {
+      "chapter": "越絕篇敘外傳記第十九",
+      "para_index": 3
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「臣不討賊，子不復仇，非臣子也」以臣子之分立論，答的是君無道而臣仇主何以可取（V）；「非義不為，非義不死也」與「並義復仇，傾諸侯也」是對子胥行事的品格裁斷（VII）",
+    "excerpt": "問曰：「易之卜將，春秋無將。今荊平何善乎？君無道，臣仇主，以次太伯，何？」曰：「",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#19-p04",
+    "anchor": {
+      "chapter": "越絕篇敘外傳記第十九",
+      "para_index": 4
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「受闔廬厚恩，不忍去而自存，欲著其諫之功也」與「言不用，策不從」寫的是臣事君的進退（V）；「賢其復仇，惡其妻楚王母也」及「量功掩過」「不求備於一人」是對其人功過如何評斷的明文主張（VII）。「子胥死，伯名成」與「管仲生，伯業興」對舉，死生在此是成名的對照詞而非有人在面對自己的死，不給 X",
+    "excerpt": "問曰：「子胥妻楚王母，無罪而死於吳。其行如是，何義乎？」曰：「孔子固貶之矣。賢其",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#19-p05",
+    "anchor": {
+      "chapter": "越絕篇敘外傳記第十九",
+      "para_index": 5
+    },
+    "psych_domains": [
+      "VII",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「聖人不悅下愚，而況乎子胥？」答的是賢者是否必能化人，落在賢與愚的品第上（VII）；「瞽瞍不移，商均不化」與「湯繫夏臺，文王拘於殷」並舉，說的是人未必可改、聖人亦困於所遭之時（XI）。段首「盲者不可示以文繡，聾者不可語以調聲」是說理譬喻，不給 IX",
+    "excerpt": "問曰：「子胥未賢耳。賢者所過化，子胥賜劍，欲無死，得乎？」「盲者不可示以文繡，聾",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#19-p06",
+    "anchor": {
+      "chapter": "越絕篇敘外傳記第十九",
+      "para_index": 6
+    },
+    "psych_domains": [
+      "V",
+      "VII",
+      "XI"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「當時無天子，疆者為右，使句踐無權，滅邦久矣」把伯德放回當時邦際秩序上衡量（V）；「行偽以勝，滅人以伯，其賢奈何？」與所引「危人自安，君子弗為」是正面詰問其德（VII）；答語「遭逢變亂，權以自存，不亦賢乎？」及「因時順宜，隨而可之」把賢不賢收到人如何應變上（XI）",
+    "excerpt": "問曰：「句踐何德也？」曰：「伯德，賢君也。」「傳曰：『危人自安，君子弗為；奪人自",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#19-p07",
+    "anchor": {
+      "chapter": "越絕篇敘外傳記第十九",
+      "para_index": 7
+    },
+    "psych_domains": [
+      "V",
+      "VII",
+      "X"
+    ],
+    "discourse_mode": [
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "「去止，事君之義也」與「事君以道言耳」答的是臣事君的進退（V）；「子胥重其信，范蠡貴其義」是對兩人品格的分判（VII）；「死與生，敗與成，其同奈何？」一問直接把該死該去當題目，答以「可去則去，可死則死」並引「有殺身以成仁」（X）",
+    "excerpt": "問曰：「子胥、范蠡何人也？」「子胥勇而智，正而信。范蠡智而明，皆賢人。」問曰：「",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#19-p08",
+    "anchor": {
+      "chapter": "越絕篇敘外傳記第十九",
+      "para_index": 8
+    },
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
+    "discourse_mode": [
+      "narrative",
+      "proposition"
+    ],
+    "confidence": null,
+    "note": "前半述笞墓、申包胥請救、于斧漁子進諫是史事；承重在後半的裁斷——「子之復仇，臣之討賊」把笞墓放進臣子分位上衡量（V），「大道不誅，誅首惡」與「乳狗哺虎，不計禍福」判其矯枉過直而仍可不究（VII）。「至誠感天」的落點在人事的功過權衡，照方向護欄不給 XII",
+    "excerpt": "問曰：「子胥伐楚宮，射其子，不殺，何也？」「弗及耳。楚世子奔逃雲夢之山。子胥兵笞",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  },
+  {
+    "para_id": "yuejueshu#19-p09",
+    "anchor": {
+      "chapter": "越絕篇敘外傳記第十九",
+      "para_index": 9
+    },
+    "psych_domains": [
+      "II",
+      "V"
+    ],
+    "discourse_mode": [
+      "observation"
+    ],
+    "confidence": null,
+    "note": "末段以隱語自署，「不直自斥，託類自明」明說不直陳其名而託類見意，我取的是這一段在寫這個人是誰、而非只是題署體例的讀法（II）；「時莫能與，伏竄自容」與「時莫能用」寫的是賢者不見用於當世，並以「屈原隔界，放於南楚」相比（V）。段中闕字一律照抄不補",
+    "excerpt": "維子胥之述吳越也，因事類，以曉後世。著善為誠，譏惡為誠。句踐以來，至乎更始之元，",
+    "tagged_by": "claude-sonnet-4-6",
+    "tagged_at": "2026-09-23T16:48:31+08:00"
+  }
+]

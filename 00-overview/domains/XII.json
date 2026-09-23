@@ -2,9 +2,9 @@
   "domain": "XII",
   "name_zh": "信仰·神聖·超越",
   "gist": "神存在嗎、信與疑、敬畏與美、神秘經驗",
-  "generated_at": "2026-08-31T23:55:17+00:00",
-  "para_count": 397,
-  "book_count": 29,
+  "generated_at": "2026-09-23T08:50:40+00:00",
+  "para_count": 399,
+  "book_count": 30,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -5593,6 +5593,35 @@
       "co_domains": [
         "VII",
         "XIII"
+      ]
+    },
+    {
+      "slug": "yuejueshu",
+      "chapter": "越絕外傳本事第一",
+      "para_index": 5,
+      "para_id": "yuejueshu#01-p05",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "問曰：「吳亾而越興，在天與？在人乎？」「皆人也。夫差失道，越亦賢矣。濕易雨，饑易",
+      "note": "「皆人也。夫差失道，越亦賢矣。」把興亡歸於人的行為與賢否，承重在人事決定成敗（XI）；「天生宰嚭者，欲以亾吳。吳今未亾，宰何病乎？」又明言天藉宰嚭使吳亡，隨後以死訊被否證及「聖人不妄言」認可此說，承重在天意有效（XII）。此處保留人事與天意兩層因果，不把天意讀成裝飾或外交說辭；問答主張以故事作證。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "yuejueshu",
+      "chapter": "越絕吳內傳第四",
+      "para_index": 19,
+      "para_id": "yuejueshu#04-p19",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "周公以盛德。武王封周公，使傅相成王。成王少，周公臣事之。當是之時，賞賜不加於無功",
+      "note": "「賞賜不加於無功，刑罰不加於無罪。」以賞罰有據說明周公輔政的公義（V）；「周公反國，天應之福。五穀皆生，樹木皆起，天下皆實。」由敘事者認證天因周公返國而降福，並與出巡後的災變相應，神聖效驗直接推進成王迎回周公的故事，屬認證側（XII）。",
+      "co_domains": [
+        "V"
       ]
     },
     {
