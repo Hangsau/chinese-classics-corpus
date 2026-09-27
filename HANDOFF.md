@@ -1,7 +1,21 @@
 # HANDOFF — chinese-classics-corpus
 
 > 狀態快照。行為規範見 [`CLAUDE.md`](./CLAUDE.md)，結構導航見 [`MAP.md`](./MAP.md)，資料契約見 [`SCHEMA.md`](./SCHEMA.md)。
-> 最後更新：2026-09-25
+> 最後更新：2026-09-28
+
+## 2026-09-28：盤點清理，76 → 72 部
+
+使用者看過全庫盤點後裁定。依據是收錄三條件（古典漢語／乾淨全文／公有領域）與收錄範圍，**不是**命中率或書名印象（`CLAUDE.md` §1）：
+
+| 書 | 處置 | 理由 |
+|---|---|---|
+| `jiaoshi-yilin` 焦氏易林 | 移出（catalog `excluded`，目錄刪） | 上游只有 4 卦 ≈ 全書 6%，不符「乾淨全文」；前例 `guangyun` |
+| `yilin` 意林 | 移出 | 唐代類書輯句，所摘諸子多已全書入庫，標了會重複計數 |
+| `chuci` 楚辭 | 移出 | 辭賦（集部）不在本庫範圍；原 `category=術數` 亦誤歸。要收的話另議歸宗教庫 |
+| `lusheng-mobian-zhuxu` 魯勝墨辯注敘 | 併入 `mozi` | 375 字單篇、原載《晉書》；原檔與 SHA-256 原樣搬到 `translations/mozi/appendix/lusheng-mobian-zhuxu/`，`mozi/meta.json` 加 `appendices` 欄，不進標註、不計段數。catalog 標 `excluded`＋`merged_into: mozi` |
+| `houheixue` 厚黑學 | **保留**（使用者明示） | 近代半文白，照收 |
+
+catalog 條目一律保留、只加 `excluded_reason`（`download-wikisource.py` 會拒抓），`verify.py` 的 phase-1 未下載提示已改成跳過 `excluded`。清理後 `verify.py`：**72 部、0 errors、18 warnings**（少掉的 1 條是焦氏易林的序號章警告）。未標存量 24 → 20 部、5,415 → 3,723 段。
 
 ## 已完成：金樓子 515 段全數標完（2026-09-25）
 
@@ -687,7 +701,7 @@ PYTHONIOENCODING=utf-8 python scripts/make-delegation-input.py --slug wenxin-dia
 
 **發包順序**：`bash scripts/run-reading.sh wenxin-diaolong g01 b01 b02 b03` → `g02 b04 b05 b06 b07` → 寫 `SPEC.md` → `accept.py` ＋ `_selftest/` → `--check-spec` 到 0 FAIL → 變異測試 → `probe_s13.py` 擾動 → `run-delegation.sh` 串行發包 → 逐批驗 → `check-delegation-out.py` ＋ `check-reason-quotes.py` → `make-scaffold.py` → `apply-delegation.py` → `psych_survey` → `build-index.py` → `verify.py` → 對齊文件 → push。
 
-## 未標存量（2026-09-25 現算：24 部／5,415 段／697,582 字）
+## 未標存量（2026-09-28 現算：20 部／3,723 段／613,930 字；盤點清理移出 3 部、併入 1 部，見頂部專節）
 
 > 數字由 `split_paragraphs` 現算，不是抄的。**分組是「動工前還要做什麼」，不是價值排序**——`CLAUDE.md` §1 禁止憑書名或類別判定標註價值。
 >
@@ -728,9 +742,9 @@ PYTHONIOENCODING=utf-8 python scripts/make-delegation-input.py --slug wenxin-dia
 
   切分器的待辦清單另加 `mozi`〈經上〉（1 段 751 字）與〈經下〉（1 段 1,074 字）——同一個上游成因（Wikisource 整篇一個 block），但這兩篇的墨經條目本來就用「A，B 也」的定義句串成，切分器該優先拿它們當測試案例。**沒有阻擋 mozi 發包**（2026-08-25 已標完）：承重的德目定義在〈經說上〉65 條／〈經說下〉76 條已有條級粒度，此二段按整塊判讀、各命中 1 格，**切分器完成後要回頭重判這兩段**。
 
-**D. 短小可成組發包——6 部、499 段**：`houheixue` 83、`qijing` 15、`lusheng-mobian-zhuxu` 4、`mu-tianzi-zhuan` 107、`xijing-zaji` 146、`songjingwen-gong-biji` 144。同體裁成組發包時試點只需做一次（§下一步第 5 條）。
+**D. 短小可成組發包——5 部、495 段**：`houheixue` 83、`qijing` 15、`mu-tianzi-zhuan` 107、`xijing-zaji` 146、`songjingwen-gong-biji` 144。同體裁成組發包時試點只需做一次（§下一步第 5 條）。
 
-**E. 動工前先判體裁閘門歸屬——7 部、3,342 段**：`yilin` 1,321 段（類書輯句，43 字/段）、`shanhaijing` 843（術數，55 字/段）、`zhushu-jinian` 351（編年，34 字/段）、`jiaoshi-yilin` 258（**上游截斷：4 章 vs 應有 16，先補全再說**）、`zhoubi-suanjing` 243、`sunzi-suanjing` 217、`chuci` 109。前四部都是超短段密集型，**判空率會很高，但不得憑此跳過通讀**（`CLAUDE.md` Anti-pattern 第二條）。`chuci` 與 `shanhaijing` 的 `category` 已知標錯，**必須標完再改**（§下一步第 2c 條）。
+**E. 動工前先判體裁閘門歸屬——4 部、1,654 段**（`yilin`／`jiaoshi-yilin`／`chuci` 2026-09-28 移出）：`shanhaijing` 843（術數，55 字/段）、`zhushu-jinian` 351（編年，34 字/段）、`zhoubi-suanjing` 243、`sunzi-suanjing` 217。前兩部都是超短段密集型，**判空率會很高，但不得憑此跳過通讀**（`CLAUDE.md` Anti-pattern 第二條）。`shanhaijing` 的 `category` 已知可疑，**必須標完再改**（§下一步第 2c 條）。
 
 ## 下一步
 
@@ -738,7 +752,7 @@ PYTHONIOENCODING=utf-8 python scripts/make-delegation-input.py --slug wenxin-dia
 2. **~~第九至十四部~~ —— 皆已完成（2026-08-09）**：`shenyijing`／`dongmingji`／`gu-sanfen`／`nanjing`／`shanghanlun`／`jinkui-yaolue`。結論見上方三節。**挑第十五部的準則**：十四部已經把「方法找不找得到東西」「說不說得出沒有」「離開算書還切不切得動」「V 是不是萬用桶」「XIII 靠什麼觸發」「敘事段能不能判領域」「沒有敘事者時判準會不會空轉」「同一部書內部體例分歧能不能分開讀」「IX 在它本來的語境裡靠什麼觸發」都問過了。**還沒被檢驗的軸**：
    - (a) ~~**phase 2 小學**~~ —— **四部全數完成（2026-08-09）**。說文 6,070 段／釋名 945 段／方言 385 段（`46d373b`）＋急就篇 282 段 v2（按卷分層抽查通過後回填）。結果與教訓見上方兩節。
    - (b) ~~**一部「已知會大量命中」的書當上界對照**~~ —— **已完成（列女傳 208 段，2026-08-09）**，結論見上方列女傳一節：96% 命中、12／13，**判準沒有漂向保守**。
-   - (c) `chuci` 與 `shanhaijing` 的 `category` 修正（見已知風險）——**兩者都必須先標完再改分類**，順序同古三墳。
+   - (c) `shanhaijing` 的 `category` 修正（見已知風險）——**必須先標完再改分類**，順序同古三墳。（`chuci` 已於 2026-09-28 移出，此條只剩山海經）
 
 3. **發包流程已固定成四支腳本，取代原本每部書臨時重寫的做法**：`make-delegation-input.py --slug X` 切批（不拆章、字數軟上限 8000、錨點取自 `split_paragraphs`）→ 寫 `delegation/X/SPEC.md` → **先發 b01 當試點，校準出的規則補回 spec 才放行其餘批次** → `bash scripts/run-delegation.sh X b01 b02 ...` 串行發包 codex → `check-delegation-out.py --slug X` 做回填前雙向錨點與值域檢查 → **`make-scaffold.py --slug X` 建骨架**（`apply-delegation.py` 只改寫既有的 `annotations.json`，不會自己建；沒先跑這步會 `FileNotFoundError`，六韜就踩到了）→ `apply-delegation.py --slug X --tagged-by <model>` 回填 → `annotate.py stats X` 取數字寫 `psych_survey` → `verify.py` → `build-index.py` → 對齊 HANDOFF／MAP → commit + push。
    - **試點那一步不可省。** b01 是校準條文寫進 spec 之前判的，12/36 段疊到三個以上 `modes`、自述家規漏了 IV；b02 之後讀新版 spec 判出來 0 段疊加。**規則寫進 spec 就會生效，靠範例檔傳遞不會。**
@@ -778,7 +792,7 @@ PYTHONIOENCODING=utf-8 python scripts/make-delegation-input.py --slug wenxin-dia
    - **目錄章要事先點名。**〈韓非子全文〉18 段是卷目次不是正文，spec 寫死「18／18 判空＋`formalization`，reason 統一寫『卷目次，非正文』」，回收完全照辦。**這是「章名誘因要指名道姓」在整章層的變體**，之後遇到來源把目次當一章的書照這樣處理。
    - **`guanzi`（472K／24 批／668 段）已於 2026-08-11 標完並回填，紀錄見下方第 8 條。**
    - 之後的順序：~~名家與黃老小部~~（已於 2026-08-11 標完，見第 9 條）→ 儒家著述十部。
-   - `chuci` 與 `shanhaijing` 排進批次時要記得它們同時掛著 `category` 修正待辦（見已知風險），順序仍是標完才改。
+   - `shanhaijing` 排進批次時要記得它同時掛著 `category` 修正待辦（見已知風險），順序仍是標完才改。
 8. **管子已標完並回填（2026-08-11）——668 段、13／13 全覆蓋、判空 159 段（24%）。本庫第一部由兩個判讀者分段完成的書。** `translations/guanzi/`（`annotations.json` ＋ `meta.json.psych_survey`）已落地，`verify.py` 0 errors／15 warnings，`build-index.py` 已重生。逐體例數字與四個結構預測的最終驗證全部寫進 `psych_survey.verdict`，此處只留可重用的方法結果。
 
    - **判讀者換人，逐段記在 `tagged_by`，這是本條最該被下一部書照抄的做法。** b01–b23（651 段）由 codex gpt-5.6-sol 判；b24（17 段：〈第84篇輕重戊〉7 ＋〈第85篇輕重己〉10）撞上 codex 7D 配額耗盡（97% → 100%，reset 2026-08-16 04:30），改由 claude-sonnet-4-6 依同一份 SPEC 補判。回填用 `apply-delegation.py --tagged-by codex-gpt-5.6-sol --tagged-by-batch b24=claude-sonnet-4-6`（`--tagged-by-batch` 為此新增），落盤後實測 651／17 分佈正確。**把兩個判讀者記在同一個 `tagged_by` 底下等於偽造校準資料**——往後任何跨視窗、跨模型接力的書一律走這個旗標。
@@ -1048,11 +1062,11 @@ PYTHONIOENCODING=utf-8 python scripts/make-delegation-input.py --slug wenxin-dia
 
 - **ctext.org 是紅線**：明文禁自動批量下載。本庫現在完全不碰它
 - **`expected_chapter_count` 已從粗估改成驗證後凍結的觀測值**，用途變成回歸護欄。之後若下載器行為改變導致章數變動，verify 會叫——那時要判斷是修好還是弄壞，**不要反射性再同步一次數字**
-- **焦氏易林上游殘缺**：全書 64 卦、傳統書目 16 卷，Wikisource 只有 乾之／坤之／屯之／艮之 4 個子頁、18,321 bytes ≈ 全書 6%。已寫進 catalog `coverage_note`。catalog 的 expected=4 是「來源有多少」，meta 那份 16 才是書目值。**`verify.py` 的截斷偵測器 2026-08-11 修好後會永久對這部叫一次**（`only 4 chapters against an expected 16`）——**這是真陽性，留著不要消音**。內容值得標，但要標之前得另尋來源補完；未補完前不排進標註批次
+- **（已移出 2026-09-28，保留作紀錄）焦氏易林上游殘缺**：全書 64 卦、傳統書目 16 卷，Wikisource 只有 乾之／坤之／屯之／艮之 4 個子頁、18,321 bytes ≈ 全書 6%。已寫進 catalog `coverage_note`。catalog 的 expected=4 是「來源有多少」，meta 那份 16 才是書目值。**`verify.py` 的截斷偵測器 2026-08-11 修好後會永久對這部叫一次**（`only 4 chapters against an expected 16`）——**這是真陽性，留著不要消音**。內容值得標，但要標之前得另尋來源補完；未補完前不排進標註批次
 - **`verify.py` 的截斷偵測器從 `361be49` 起死了將近全程，2026-08-11 才修**。死因：那次下載把 catalog 的書目卷數覆寫成實際抓到的章數，於是拿實際值跟實際值比，永遠相等。meta 那份也不全可信（19 部被另一次寫入改過，例如 shuowen meta=540 vs catalog=15、zhanguoce meta=511 vs catalog=33）。**現行修法是取 `max(catalog, meta)` 當下界、且只在短缺時報**（多出來是粒度差異不是問題：六韜 6 卷 66 篇兩個數字都對；用 `abs()` 會讓 34 部長期噪音，噪音多了就沒人看）。**真正的修法是重查 72 部的書目卷數，那是研究不是修補**，沒做
 - **五部因「一章＝一段」暫緩標註，根因在上游 HTML 不是下載器**：`heguanzi` 19 段／19 章／段長中位 **989 字**（最長 2,874）、`sanzijing` 1 段 1,411 字、`yandanzi` 5 段中位 742、`zhonglun` 35 段中位 534、`guiguzi` 72 段中位 127（最長 2,917）。對照論說書正常值（尹文子中位 91 字）差一個數量級。**Wikisource 把整章包在單一 block 元素裡，`extract_main_text()`（`scripts/download-*.py` 第 254–271 行）沒有 `\n` 可切**，所以**重抓救不了**。段落級標註在 989 字的單位上等於章級標註，判準會失效。要標得先寫一道句讀切分（標點＋語意雙軌），那是獨立工項，未做
 - **`古三墳`、`竹書紀年（今本）`標 `contested`**：偽託／存疑，標註時要記版本立場
-- **`category` 欄還有兩處可疑，但未讀原文所以沒動**：`chuci`（楚辭）現歸 `術數`，楚辭是辭賦不是術數，這一條在任何讀法下都不對，但本庫沒有合適的既有類別（`文論` 收的是文心雕龍＝文學批評），要嘛新增 `辭賦` 要嘛併入 `雜著`；`shanhaijing` 現歸 `術數`，四庫入子部小說家類、傳統多歸地理，本庫已有 `地理`（水經注）與 `志怪` 兩個更貼近的類別。**兩者都要讀過才動**——古三墳的教訓正是「讀完 78 段才敢說它不是志怪」。`category` 只驅動 `--category` 下載選取與索引分組，不影響標註，所以不急
+- **`category` 欄還有一處可疑，但未讀原文所以沒動**（`chuci` 那一處已隨 2026-09-28 移出而消失）：`shanhaijing` 現歸 `術數`，四庫入子部小說家類、傳統多歸地理，本庫已有 `地理`（水經注）與 `志怪` 兩個更貼近的類別。**兩者都要讀過才動**——古三墳的教訓正是「讀完 78 段才敢說它不是志怪」。`category` 只驅動 `--category` 下載選取與索引分組，不影響標註，所以不急
 - ~~**判空率連續偏高，需要一部反向樣本**~~ —— **已解除（2026-08-09）**。第九至十四部判空率 77%／86%／55%／98%／98%／99%，六連之後無法只憑內部證據排除「判準整體漂向保守」；列女傳在同一道閘門、同一管道、同一模型下判出 **4% 判空、96% 命中、12／13**，是本庫判空率最低的一部。**九章 99% 判空與列女傳 96% 命中之間的差距是內容差距，不是判準差距。**
 - **`shanghanlun` 來源缺〈辨發汗吐下後病脈證並治第十八〉**（〈辨可吐第十九〉之後直接跳到第二十）。已寫進該部 `psych_survey` 與 spec 硬規則。`raw/original.txt` 不動（動了破 SHA-256）
 - **未涵蓋的第二批候選**：藝文類聚、太平廣記、太平御覽、通典、康熙字典、墨子閒詁、墨經校釋
@@ -1067,6 +1081,8 @@ PYTHONIOENCODING=utf-8 python scripts/make-delegation-input.py --slug wenxin-dia
 | 詩說 | religions-history | 詩經注 |
 | 小說、正史 | 兩庫都不收 | 使用者明確排除 |
 | 申不害 | 不收 | ctext 路線整條移除 |
+| 焦氏易林、意林、楚辭 | 2026-09-28 移出（catalog `excluded`） | 殘缺／類書重複／範圍外，見頂部專節 |
+| 魯勝墨辯注敘 | 2026-09-28 併入 `mozi/appendix/` | 單篇、出自正史 |
 | 移轉宗教庫既有文本過來 | 不做 | 會破 SHA-256 鏈、143 部完整三軸標籤、GitHub 歷史，收益近零 |
 
 ## 尚未做、不可當結論的推測

@@ -312,7 +312,8 @@ def main():
 
     total = sum(r.get("bytes", 0) for r in rows)
     print(f"\n{len(rows)} texts, {total:,} bytes, {n_err} errors, {n_warn} warnings")
-    pending = [s for s in catalog if catalog[s].get("phase", 1) == 1 and s not in downloaded]
+    pending = [s for s in catalog if catalog[s].get("phase", 1) == 1
+               and not catalog[s].get("excluded") and s not in downloaded]
     if pending:
         print(f"phase-1 not yet downloaded ({len(pending)}): {', '.join(pending)}")
     smallest = sorted((r for r in rows if "bytes" in r), key=lambda r: r["bytes"])[:5]

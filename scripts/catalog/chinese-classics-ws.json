@@ -26,7 +26,9 @@
       "version": "Wikisource 通行本",
       "version_date": "戰國–漢",
       "tier": "核心",
-      "expected_chapter_count": 29
+      "expected_chapter_count": 29,
+      "excluded": true,
+      "excluded_reason": "2026-09-28 使用者盤點後移出：辭賦（集部），不在本庫「諸子・兵家・算書・字書・雜史・志怪・權謀」範圍；原 category=術數 亦屬誤歸。〈九歌〉為祭祀歌，若要收宜另議歸宗教庫。"
     },
     {
       "slug": "dengxizi",
@@ -240,7 +242,9 @@
       "version": "Wikisource 通行本",
       "version_date": "西漢",
       "tier": "重要",
-      "expected_chapter_count": 4
+      "expected_chapter_count": 4,
+      "excluded": true,
+      "excluded_reason": "2026-09-28 使用者盤點後移出：Wikisource 只有 乾之／坤之／屯之／艮之 4 個子頁（≈全書 6%），不符收錄判準第二條「有乾淨全文」。前例 guangyun。補得到全文來源再恢復。"
     },
     {
       "slug": "jiayi-xinshu",
@@ -378,7 +382,10 @@
       "version": "Wikisource 通行本",
       "version_date": "晉",
       "tier": "單篇",
-      "expected_chapter_count": 1
+      "expected_chapter_count": 1,
+      "excluded": true,
+      "excluded_reason": "2026-09-28 使用者盤點後併入 mozi：375 字單篇、原載《晉書·魯勝傳》（正史），不單獨成部；全文與原 meta 保存在 translations/mozi/appendix/lusheng-mobian-zhuxu/，不進標註管線。",
+      "merged_into": "mozi"
     },
     {
       "slug": "lushi-chunqiu",
@@ -913,7 +920,9 @@
       "version": "Wikisource 通行本",
       "version_date": "唐",
       "tier": "重要",
-      "expected_chapter_count": 104
+      "expected_chapter_count": 104,
+      "excluded": true,
+      "excluded_reason": "2026-09-28 使用者盤點後移出：唐代類書，內容是從諸子摘錄的輯句，所摘各書多已全書入庫；標註會與原書重複計數。"
     },
     {
       "slug": "yinwenzi",
