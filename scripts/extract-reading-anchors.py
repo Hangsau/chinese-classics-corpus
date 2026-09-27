@@ -26,7 +26,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 
-from corpus_text import split_paragraphs  # noqa: E402
+from corpus_text import read_paragraphs  # noqa: E402
 
 SECTION_RE = re.compile(r"^##\s*§(\d+)")
 PARA_RE = re.compile(r"\[(\d+)\]")
@@ -62,9 +62,8 @@ def norm(s: str) -> str:
 
 
 def load_paras(slug: str) -> dict[tuple[str, int], str]:
-    raw = ROOT / "translations" / slug / "raw" / "original.txt"
     out = {}
-    for _, chapter, para_index, text in split_paragraphs(raw.read_text(encoding="utf-8")):
+    for _, chapter, para_index, text in read_paragraphs(ROOT / "translations" / slug):
         out[(chapter, para_index)] = text
     return out
 

@@ -26,11 +26,20 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / "scripts"))
+from corpus_text import read_paragraphs  # noqa: E402
 MIN_LEN = 4
 
 
 def load_paragraphs(base: Path) -> dict[tuple[str, int], str]:
-    """從發包單位 b*.md 讀回每段正文。"""
+    """每段正文一律取正本（raw ＋ segmentation.json 覆蓋層），與發包、回填同一來源。
+
+    舊版從發包單位 b*.md 讀回正文；書被 scripts/segment.py 重切之後，舊批次檔裡
+    還是切分前的整塊，新段落會全部對不到。正本不存在時才退回讀 b*.md。
+    """
+    book = ROOT / "translations" / base.name
+    if (book / "raw" / "original.txt").exists():
+        return {(ch, i): t for _, ch, i, t in read_paragraphs(book)}
     para: dict[tuple[str, int], str] = {}
     for f in sorted(base.glob("b*.md")):
         chapter = None

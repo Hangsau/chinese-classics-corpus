@@ -18,7 +18,7 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from corpus_text import split_paragraphs  # noqa: E402
+from corpus_text import read_paragraphs  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 TZ = timezone(timedelta(hours=8))
@@ -81,8 +81,8 @@ def main() -> int:
         # annotations.json 的 excerpt 只留 40 字，拿來比對會把長段全部漏掉。段落文字
         # 一律由 split_paragraphs 從兩書的 raw/original.txt 重算，與發包時同一來源。
         def texts(s: str) -> dict[tuple[str, int], str]:
-            raw = (ROOT / "translations" / s / "raw" / "original.txt").read_text(encoding="utf-8")
-            return {(label, idx): t.strip() for _, label, idx, t in split_paragraphs(raw)}
+            return {(label, idx): t.strip()
+                    for _, label, idx, t in read_paragraphs(ROOT / "translations" / s)}
 
         src_text = texts(args.inherit_from)
         by_text = {}

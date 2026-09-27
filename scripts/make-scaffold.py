@@ -20,7 +20,7 @@ import argparse
 import json
 from pathlib import Path
 
-from corpus_text import MIN_CHARS_DEFAULT, split_paragraphs
+from corpus_text import MIN_CHARS_DEFAULT, read_paragraphs
 
 ROOT = Path(__file__).resolve().parent.parent
 TRANSLATIONS_DIR = ROOT / "translations"
@@ -36,7 +36,6 @@ def main() -> None:
     args = p.parse_args()
 
     d = TRANSLATIONS_DIR / args.slug
-    text = (d / "raw" / "original.txt").read_text(encoding="utf-8")
     out_p = d / "annotations.json"
 
     done = {}
@@ -46,7 +45,7 @@ def main() -> None:
                 done[r["para_id"]] = r
 
     rows = []
-    for ch_no, ch_label, idx, body in split_paragraphs(text, args.min_chars):
+    for ch_no, ch_label, idx, body in read_paragraphs(d, args.min_chars):
         pid = f"{args.slug}#{ch_no:02d}-p{idx:02d}"
         if pid in done:
             rows.append(done[pid])

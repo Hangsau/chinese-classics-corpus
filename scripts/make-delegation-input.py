@@ -13,7 +13,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from corpus_text import split_paragraphs  # noqa: E402
+from corpus_text import read_paragraphs  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -37,14 +37,14 @@ def main() -> int:
         print(f"[error] {raw} 不存在")
         return 1
 
-    rows = split_paragraphs(raw.read_text(encoding="utf-8"))
+    rows = read_paragraphs(raw.parent.parent)
 
     if args.exclude_dup_of:
         other = ROOT / "translations" / args.exclude_dup_of / "raw" / "original.txt"
         if not other.exists():
             print(f"[error] {other} 不存在")
             return 1
-        dup = {t.strip() for *_, t in split_paragraphs(other.read_text(encoding="utf-8"))}
+        dup = {t.strip() for *_, t in read_paragraphs(other.parent.parent)}
         before = len(rows)
         rows = [r for r in rows if r[3].strip() not in dup]
         print(f"扣除與 {args.exclude_dup_of} 逐字相同的 {before - len(rows)} 段")

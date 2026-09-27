@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-27T19:16:15+00:00",
+    "generated_at": "2026-09-27T19:50:25+00:00",
     "text_count": 72,
     "total_bytes": 10561266,
     "by_category": {
@@ -31,7 +31,7 @@
     "surveyed_count": 52,
     "annotated_count": 52,
     "scaffolded_count": 0,
-    "paras_judged": 23257,
+    "paras_judged": 23283,
     "paras_pending": 110,
     "domain_hit_counts": {
       "I": 20,
@@ -53,8 +53,8 @@
       "II": 798,
       "III": 161,
       "IV": 751,
-      "V": 4169,
-      "VI": 758,
+      "V": 4171,
+      "VI": 764,
       "VII": 3011,
       "VIII": 1366,
       "IX": 204,
@@ -973,8 +973,8 @@
       "domains_null": [
         "XIII"
       ],
-      "paras_total": 606,
-      "paras_judged": 606,
+      "paras_total": 632,
+      "paras_judged": 632,
       "annotated": true
     },
     {

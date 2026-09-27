@@ -2,8 +2,8 @@
   "domain": "VI",
   "name_zh": "情緒與內在生活",
   "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡",
-  "generated_at": "2026-09-27T19:16:15+00:00",
-  "para_count": 758,
+  "generated_at": "2026-09-27T19:50:25+00:00",
+  "para_count": 764,
   "book_count": 35,
   "surveyed_zero_hit": [
     "dongmingji",
@@ -4457,6 +4457,82 @@
         "V",
         "VII"
       ]
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經上",
+      "para_index": 3,
+      "para_id": "mozi#32-p03",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "生，刑與知處也。卧，知無知也。夢，卧而以爲然也。平，知無欲惡也。",
+      "note": "「生，刑與知處也。卧，知無知也。夢，卧而以爲然也」是生理與睡夢的技術定義；但「平，知無欲惡也」把內心的平靜界定為沒有欲惡，是對內在狀態的實質主張，換成中性符號就不成其為這一條，選承重一讀給 VI",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經上",
+      "para_index": 4,
+      "para_id": "mozi#32-p04",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "利，所得而喜也。害，所得而惡也。治，求得也。譽，明美也。誹，明惡也。",
+      "note": "「利，所得而喜也。害，所得而惡也」以喜與惡界定利害，把價值落在得到時的感受上，灰區，選承重一讀給 VI；「譽，明美也。誹，明惡也」是評價語詞的定義，不另給領域",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經上",
+      "para_index": 10,
+      "para_id": "mozi#32-p10",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "爲，窮知而𠐴於欲也。已，成、亡。使，謂、故。",
+      "note": "「爲，窮知而𠐴於欲也」把行動界定為知窮盡處被欲牽動，是對人為何行動的實質主張，選承重一讀給 VI；「已，成、亡。使，謂、故」是分類條",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經上",
+      "para_index": 12,
+      "para_id": "mozi#32-p12",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "欲正權利，且惡正權害。爲，存、亡、易、蕩、治、化。同，重、體、合、類。異，二、不",
+      "note": "「欲正權利，且惡正權害」要求欲與惡都經過權衡利害，是對如何處置欲惡的主張，給 VI；其後「同，重、體、合、類。異，二、不體、不合、不類」是同異的分類表，不另給領域",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經下",
+      "para_index": 6,
+      "para_id": "mozi#33-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "無說而懼，說在弗必。或，過名也，說在實。知知之否之足用也，誖，說在無以也。謂辯無",
+      "note": "「無說而懼，說在弗必」主張沒有理由的恐懼出自結果不確定，是對懼這種情緒從何而來的主張，給 VI；「謂辯無勝，必不當」等其餘條是論辯技術",
+      "co_domains": []
+    },
+    {
+      "slug": "mozi",
+      "chapter": "經下",
+      "para_index": 8,
+      "para_id": "mozi#33-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "五行毋常勝，說在宜。無欲惡之爲益損也，說在宜。損而不害。說在餘。",
+      "note": "「無欲惡之爲益損也，說在宜」主張沒有欲惡本身無所謂增益損害，要看是否合宜，是對欲惡的實質主張，給 VI；「五行毋常勝，說在宜」是自然論條，不給 XII",
+      "co_domains": []
     },
     {
       "slug": "mozi",

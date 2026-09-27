@@ -23,7 +23,7 @@ import sys
 import tempfile
 from pathlib import Path
 
-from corpus_text import split_paragraphs
+from corpus_text import SegmentationError, load_segmentation, split_paragraphs
 
 ROOT = Path(__file__).resolve().parent.parent
 CATALOG_DIR = ROOT / "scripts" / "catalog"
@@ -68,7 +68,7 @@ def check_vocab_drift() -> list[str]:
 
 def check_annotations(path: Path, labels: list[str], slug: str,
                       domain_ids: set[str], mode_ids: set[str],
-                      text: str) -> list[str]:
+                      text: str, segmentation: dict | None) -> list[str]:
     errors: list[str] = []
     try:
         rows = json.loads(path.read_text(encoding="utf-8"))
@@ -85,7 +85,7 @@ def check_annotations(path: Path, labels: list[str], slug: str,
     # current text so a shifted index is caught instead of silently re-pointing an
     # annotation at someone else's paragraph.
     para_at = {(ch_label, idx): body
-               for _, ch_label, idx, body in split_paragraphs(text)}
+               for _, ch_label, idx, body in split_paragraphs(text, segmentation=segmentation)}
     drifted = 0
     for i, r in enumerate(rows):
         where = f"annotations[{i}]"
@@ -221,10 +221,19 @@ def check(slug: str, entry: dict, domain_ids: set[str], mode_ids: set[str]) -> t
     if "psych_survey" not in meta:
         errors.append("meta.psych_survey field absent (SCHEMA §5)")
 
+    # 段落切分覆蓋層（scripts/segment.py）必須仍對得上原文，否則所有錨點一起漂。
+    segmentation = None
+    try:
+        segmentation = load_segmentation(d)
+        split_paragraphs(text, segmentation=segmentation)
+    except (SegmentationError, json.JSONDecodeError, KeyError) as e:
+        errors.append(f"segmentation.json: {e}")
+        segmentation = None
+
     ann_p = d / "annotations.json"
     info["annotated"] = ann_p.exists()
     if ann_p.exists():
-        errors += check_annotations(ann_p, labels, slug, domain_ids, mode_ids, text)
+        errors += check_annotations(ann_p, labels, slug, domain_ids, mode_ids, text, segmentation)
         # 重抓會整份覆寫 meta.json。書級 survey 是讀完全書才生得出來的，被沖掉
         # 就等於白讀一部，而「欄位存在但為 null」過得了上面那道存在性檢查。
         if not meta.get("psych_survey"):

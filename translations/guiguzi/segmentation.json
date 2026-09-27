@@ -1,0 +1,206 @@
+{
+  "overrides": [
+    {
+      "chapter": "捭闔第一",
+      "para_index": 2,
+      "sha256": "93ae7b12345c60f43401c76850e0b4a029dc578af81779a228b0e9aa56885268",
+      "method": "auto(min=120,max=320)",
+      "cuts": [
+        612,
+        1351,
+        2049
+      ]
+    },
+    {
+      "chapter": "反應第二",
+      "para_index": 2,
+      "sha256": "3c8b52356faa357b2057820b84ad72ac201bb2d84033ec72272eeb617485ddc6",
+      "method": "auto(min=120,max=320)",
+      "cuts": [
+        1011,
+        1969
+      ]
+    },
+    {
+      "chapter": "內揵第三",
+      "para_index": 2,
+      "sha256": "89db3b427245a633a47395a5dca6876e6cab5ca7f8b5552300b0209f242833ca",
+      "method": "auto(min=120,max=320)",
+      "cuts": [
+        687,
+        1266
+      ]
+    },
+    {
+      "chapter": "抵巇第四",
+      "para_index": 2,
+      "sha256": "b5332aed19dbe48e674e96969f09c92abdb9734ac6a1dd4ff7b42c42b29103ed",
+      "method": "auto(min=120,max=320)",
+      "cuts": [
+        527
+      ]
+    },
+    {
+      "chapter": "飛箝第五",
+      "para_index": 2,
+      "sha256": "4e123a1a7f77a59b251503aedefe9a518a55d90a87bc4c8fa1da38f2a01797a1",
+      "method": "auto(min=120,max=320)",
+      "cuts": [
+        1311
+      ]
+    },
+    {
+      "chapter": "忤合第六",
+      "para_index": 2,
+      "sha256": "cb4023a1ad829a6242c39decf1e6ea0b20259ac413d6c20534f6083c2c9af500",
+      "method": "auto(min=120,max=320)",
+      "cuts": [
+        709
+      ]
+    },
+    {
+      "chapter": "揣篇第七",
+      "para_index": 2,
+      "sha256": "10975c60958c5a694e58b250e105b2e3040a534c25d66e492a2412d6f066b8e1",
+      "method": "auto(min=120,max=320)",
+      "cuts": [
+        575
+      ]
+    },
+    {
+      "chapter": "摩篇第八",
+      "para_index": 2,
+      "sha256": "077f5c714fbb8bf582d31a46f91d72e4ba321d52af51513466ad710c1e12240f",
+      "method": "auto(min=120,max=320)",
+      "cuts": [
+        546,
+        1164
+      ]
+    },
+    {
+      "chapter": "權篇第九",
+      "para_index": 2,
+      "sha256": "67bc1adc7667972359eef31a7d7fe2091b5a4ebc94f689a9fc8d1d4c7d19e67a",
+      "method": "auto(min=120,max=320)",
+      "cuts": [
+        669,
+        1235,
+        2141
+      ]
+    },
+    {
+      "chapter": "謀篇第十",
+      "para_index": 2,
+      "sha256": "c8ddb914683c5055f1de6166ade7cfc2f4787cc4dc8ef1225134f623cf83caf6",
+      "method": "auto(min=120,max=320)",
+      "cuts": [
+        872,
+        1773,
+        2271
+      ]
+    },
+    {
+      "chapter": "決篇第十一",
+      "para_index": 1,
+      "sha256": "39ef3040ed0a9b089a76f3cd3866ab602a9d9cceb5d50b4c3b28f7a0f2891a0e",
+      "method": "auto(min=120,max=320)",
+      "cuts": []
+    },
+    {
+      "chapter": "符言第十二",
+      "para_index": 2,
+      "sha256": "7a8493c876e62bdb7788bd85dc410b23c137764aabb8d74b9f8ef19ed35ad9d6",
+      "method": "auto(min=120,max=320)",
+      "cuts": [
+        1171
+      ]
+    },
+    {
+      "chapter": "符言第十二",
+      "para_index": 3,
+      "sha256": "d040a19cec0840b52612b9ce2e8e5ea2e1a4fdd58b93fa43cdf849814f762cd5",
+      "method": "auto(min=120,max=320)",
+      "cuts": []
+    },
+    {
+      "chapter": "夲經隂符七術",
+      "para_index": 2,
+      "sha256": "934216422b829975d9d9e369e6de7bb914b8ad3b77ba9154aef8b8468c53ac6d",
+      "method": "auto(min=120,max=320)",
+      "cuts": [
+        671
+      ]
+    },
+    {
+      "chapter": "夲經隂符七術",
+      "para_index": 4,
+      "sha256": "de7ad447a301e3c18cdb19b5398e0f2f14aa846524f8773fab888a749e733e76",
+      "method": "auto(min=120,max=320)",
+      "cuts": []
+    },
+    {
+      "chapter": "夲經隂符七術",
+      "para_index": 5,
+      "sha256": "4ce35fd15965fde88bfec1b0f82a15fd33ee758c3eca01484fb0ba270bb256aa",
+      "method": "auto(min=120,max=320)",
+      "cuts": []
+    },
+    {
+      "chapter": "夲經隂符七術",
+      "para_index": 7,
+      "sha256": "16662f83c4c2526d56790e4096528e5c09ff584b39ef74f97ba9b5925feaa76d",
+      "method": "auto(min=120,max=320)",
+      "cuts": []
+    },
+    {
+      "chapter": "夲經隂符七術",
+      "para_index": 8,
+      "sha256": "b03cc09d4b42e3dd7008cebc8b0de87eac7bfff2223e505e8a99d4565e50b675",
+      "method": "auto(min=120,max=320)",
+      "cuts": []
+    },
+    {
+      "chapter": "中經",
+      "para_index": 2,
+      "sha256": "5a89cee4f54fb172f36c51f3d6722d1dec6f11721b216715bd729d55d843ef2b",
+      "method": "auto(min=120,max=320)",
+      "cuts": [
+        957,
+        1669
+      ]
+    },
+    {
+      "chapter": "序",
+      "para_index": 1,
+      "sha256": "86df0a146284fe5b55cd76c9a585b3c869e5ee14f6e4a4b1e50093e4923829db",
+      "method": "auto(min=120,max=320)",
+      "cuts": [
+        279,
+        618
+      ]
+    },
+    {
+      "chapter": "周廣業跋",
+      "para_index": 1,
+      "sha256": "acb667dc9f66e01c6b3c88824f1709159fb2e1ad47f527ac9b50ee1df7fb76e9",
+      "method": "auto(min=120,max=320)",
+      "cuts": [
+        289,
+        636,
+        956
+      ]
+    },
+    {
+      "chapter": "盧文弨跋",
+      "para_index": 1,
+      "sha256": "1d2851627f87d9a34ed8ab35b11ee2efe22615bdf6a678cc7c46bafeeaadd18f",
+      "method": "auto(min=120,max=320)",
+      "cuts": [
+        305,
+        477
+      ]
+    }
+  ],
+  "note": "上游整章一個 block 的巨段切分覆蓋層；由 scripts/segment.py 產生，原文不動。corpus_text.read_paragraphs 套用。",
+  "updated": "2026-09-28"
+}

@@ -1,0 +1,33 @@
+{
+  "batch": "b09r（2026-09-28 經上／經下切分後重判，取代 superseded/b09-v1-whole-block.json）",
+  "rows": [
+    {"chapter": "經上", "para_index": 1, "domains": [], "modes": ["formalization"], "reason": "「知，材也。慮，求也。知，接也。智，明也。」是認知能力的定義條目，照 SPEC G3 詞面陷阱第 2 條判空；「故，所得而後成也」是因果的技術定義"},
+    {"chapter": "經上", "para_index": 2, "domains": ["VII", "IV", "V"], "modes": ["formalization", "proposition"], "reason": "「仁，體愛也。義，利也。」把德目下定義，替換測試過不去，給 VII；「孝，利親也」界定事親，拿掉就少了家庭一層，給 IV；「任，士損己而益所爲也」與「忠，以爲利而强低也」界定人對所事者與群體的承擔，給 V"},
+    {"chapter": "經上", "para_index": 3, "domains": ["VI"], "modes": ["formalization", "proposition"], "reason": "「生，刑與知處也。卧，知無知也。夢，卧而以爲然也」是生理與睡夢的技術定義；但「平，知無欲惡也」把內心的平靜界定為沒有欲惡，是對內在狀態的實質主張，換成中性符號就不成其為這一條，選承重一讀給 VI"},
+    {"chapter": "經上", "para_index": 4, "domains": ["VI"], "modes": ["formalization", "proposition"], "reason": "「利，所得而喜也。害，所得而惡也」以喜與惡界定利害，把價值落在得到時的感受上，灰區，選承重一讀給 VI；「譽，明美也。誹，明惡也」是評價語詞的定義，不另給領域"},
+    {"chapter": "經上", "para_index": 5, "domains": [], "modes": ["formalization"], "reason": "「舉，擬實也。言，出舉也。且，且言然也」是語言與指稱的論式定義，換成中性符號照樣成立"},
+    {"chapter": "經上", "para_index": 6, "domains": ["V"], "modes": ["formalization", "proposition"], "reason": "「君，臣萌通約也。功，利民也」把君位界定為臣民共同的約定、把功界定為利民，「賞，上報下之功也」「罰，上報下之罪也」界定上下責任，屬君臣與公義"},
+    {"chapter": "經上", "para_index": 7, "domains": [], "modes": ["formalization"], "reason": "「久，彌異時也。宇，彌異所也」「動，或徙也。止，以久也」是時空與運動的技術定義"},
+    {"chapter": "經上", "para_index": 8, "domains": [], "modes": ["formalization"], "reason": "「圜，一中同長也。方，柱隅四讙也」「端，體之無序而最前者也」是幾何定義條"},
+    {"chapter": "經上", "para_index": 9, "domains": [], "modes": ["formalization"], "reason": "「法，所若而然也」「辯，爭彼也。辯勝，當也」是論式與辯的技術定義"},
+    {"chapter": "經上", "para_index": 10, "domains": ["VI"], "modes": ["formalization", "proposition"], "reason": "「爲，窮知而𠐴於欲也」把行動界定為知窮盡處被欲牽動，是對人為何行動的實質主張，選承重一讀給 VI；「已，成、亡。使，謂、故」是分類條"},
+    {"chapter": "經上", "para_index": 11, "domains": [], "modes": ["formalization"], "reason": "「名，達、類、私。謂，移、舉、加。知，聞、說、親」是名、謂、知的分類表，論式材料"},
+    {"chapter": "經上", "para_index": 12, "domains": ["VI"], "modes": ["prescription", "formalization"], "reason": "「欲正權利，且惡正權害」要求欲與惡都經過權衡利害，是對如何處置欲惡的主張，給 VI；其後「同，重、體、合、類。異，二、不體、不合、不類」是同異的分類表，不另給領域"},
+    {"chapter": "經上", "para_index": 13, "domains": [], "modes": ["formalization"], "reason": "「循所聞而得其意，心之察也」「執所言而意得見，心之辯也」是認知能力的定義條目，照 SPEC G3 詞面陷阱第 2 條判空"},
+    {"chapter": "經上", "para_index": 14, "domains": [], "modes": ["formalization"], "reason": "「法同，則觀其同。法異，則觀其宜」「正，無非」是辯論程序的規則"},
+    {"chapter": "經下", "para_index": 1, "domains": [], "modes": ["formalization"], "reason": "「止，類以行之，說在同。推類之難，說在之大小」是推類論式；「物盡同名，二與鬭，愛，食與招」裡的「愛」是同名異實的詞例，不是對愛的主張"},
+    {"chapter": "經下", "para_index": 2, "domains": [], "modes": ["formalization"], "reason": "「物之所以然，與所以知之，與所以使人知之，不必同，說在病」與「堅白，說在因」是知識論與名實的技術條"},
+    {"chapter": "經下", "para_index": 3, "domains": [], "modes": ["formalization"], "reason": "「景不徙，說在改爲」「臨鑑而立，景到，多而若少」是影與鏡的光學條"},
+    {"chapter": "經下", "para_index": 4, "domains": [], "modes": ["formalization"], "reason": "「貞而不撓，說在勝」「倚者不可正，說在剃」是力學條"},
+    {"chapter": "經下", "para_index": 5, "domains": [], "modes": ["formalization"], "reason": "「買無貴，說在仮其賈。賈宜則讐，說在盡」是價格原理，換成任意貨物照樣成立"},
+    {"chapter": "經下", "para_index": 6, "domains": ["VI"], "modes": ["proposition"], "reason": "「無說而懼，說在弗必」主張沒有理由的恐懼出自結果不確定，是對懼這種情緒從何而來的主張，給 VI；「謂辯無勝，必不當」等其餘條是論辯技術"},
+    {"chapter": "經下", "para_index": 7, "domains": [], "modes": ["formalization"], "reason": "「於一有知焉，有不知焉，說在存」「知狗而自謂不知犬，過也，說在重」是知與指稱的論式，「逃臣」只是不能指認的例子"},
+    {"chapter": "經下", "para_index": 8, "domains": ["VI"], "modes": ["proposition"], "reason": "「無欲惡之爲益損也，說在宜」主張沒有欲惡本身無所謂增益損害，要看是否合宜，是對欲惡的實質主張，給 VI；「五行毋常勝，說在宜」是自然論條，不給 XII"},
+    {"chapter": "經下", "para_index": 9, "domains": [], "modes": ["formalization"], "reason": "「知而不以五路，說在久」「知其所以不知，說在以名取」「擢慮不疑，說在有無」是知識論條，照 SPEC G3 認知定義一類判空"},
+    {"chapter": "經下", "para_index": 10, "domains": [], "modes": ["formalization"], "reason": "「堯之義也，生於今而處於古，而異時，說在所義」問的是稱謂跨時的指稱，換成任意人名與屬性論證照樣成立；「狗，犬也，而殺狗非殺犬也，可，說在重」是名實論式"},
+    {"chapter": "經下", "para_index": 11, "domains": [], "modes": ["formalization"], "reason": "「一少於二，而多於五，說在建位」「行脩以久，說在先後」是數位與時空運動條"},
+    {"chapter": "經下", "para_index": 12, "domains": [], "modes": ["formalization"], "reason": "「狂舉不可以知異，說在有」「彼彼此此，與彼此同，說在異」是名的論式"},
+    {"chapter": "經下", "para_index": 13, "domains": ["V"], "modes": ["proposition"], "reason": "「無窮不害兼，說在盈否」「不知其所處，不害愛之，說在喪子者」主張兼愛不因人數無窮或所在不明而失效，兼愛依 SPEC 落 V，「喪子者」是例證不另給 IV"},
+    {"chapter": "經下", "para_index": 14, "domains": ["VII", "VIII"], "modes": ["proposition"], "reason": "「仁義之爲內外也，孛，說在仵顏」否定把仁義分內外的界說，涉及品格，給 VII；「學之益也，說在誹者」主張學有益，給 VIII；「誹之可否，不以衆寡，說在可非」是評斷批評的條件"}
+  ]
+}

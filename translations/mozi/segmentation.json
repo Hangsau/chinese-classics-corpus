@@ -1,0 +1,48 @@
+{
+  "overrides": [
+    {
+      "chapter": "經上",
+      "para_index": 1,
+      "sha256": "c0c39eaed6c8b8bd04adff739490236bef67ae975799ee6c309f0a7ce9ac1769",
+      "method": "starts:delegation/mozi/seg-jingshang.txt",
+      "cuts": [
+        36,
+        141,
+        173,
+        207,
+        226,
+        264,
+        348,
+        491,
+        534,
+        556,
+        608,
+        665,
+        705
+      ]
+    },
+    {
+      "chapter": "經下",
+      "para_index": 1,
+      "sha256": "5e9a1e17ce5747d26cf3ad902f7377d228b4a1cfd46cd46d44c77990bf3acfb2",
+      "method": "starts:delegation/mozi/seg-jingxia.txt",
+      "cuts": [
+        123,
+        231,
+        336,
+        374,
+        393,
+        455,
+        554,
+        586,
+        655,
+        757,
+        830,
+        949,
+        992
+      ]
+    }
+  ],
+  "note": "上游整章一個 block 的巨段切分覆蓋層；由 scripts/segment.py 產生，原文不動。corpus_text.read_paragraphs 套用。",
+  "updated": "2026-09-28"
+}
