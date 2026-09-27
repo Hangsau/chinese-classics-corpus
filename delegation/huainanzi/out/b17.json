@@ -1,0 +1,82 @@
+{
+  "batch": "b17.md",
+  "rows": [
+    {
+      "chapter": "氾論訓",
+      "para_index": 29,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「貴則觀其所舉，富則觀其所施，窮則觀其所不受，賤則觀其所不為，貧則觀其所不取」是評人之道，落於君臣用人（V）；「唯赫不失君臣之禮」以品格斷忠臣之德（VII）；趙襄子、齊威王故事承載善賞善罰之治術。"
+    },
+    {
+      "chapter": "氾論訓",
+      "para_index": 30,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「故至賞不費，至刑不濫」是善賞善罰的治理主張（V）；以秦穆公飲野人、齊桓公矯箭鑄金、孔子誅少正卯、子產誅鄧析等故事為例證。"
+    },
+    {
+      "chapter": "氾論訓",
+      "para_index": 31,
+      "domains": ["VI"],
+      "modes": ["proposition"],
+      "reason": "「所謂為善者，靜而無為也；所謂為不善者，躁而多欲也」以善／不善繫於內在靜躁（VI）；「由嗜慾無厭，不循度量之故也」是嗜慾致罪之主張。"
+    },
+    {
+      "chapter": "氾論訓",
+      "para_index": 32,
+      "domains": ["XI", "VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「事或欲之，適足以失之；或避之，適足以就之」是禍福相倚之理（XI）；「志所欲，則忘其為矣」以盜金者說嗜欲蔽人（VI）；楚人遇風自投亦同此例。"
+    },
+    {
+      "chapter": "氾論訓",
+      "para_index": 33,
+      "domains": ["VI", "XIII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「聖人審動靜之變，而適受與之度，理好憎之情，和喜怒之節」是調節情欲之主張（VI）；「孫叔敖三去令尹而無憂色」是面對爵祿進退而能安頓（XIII）；「荊佽非兩蛟夾繞其船而志不動」亦同此意。"
+    },
+    {
+      "chapter": "氾論訓",
+      "para_index": 34,
+      "domains": ["VI"],
+      "modes": ["proposition", "observation"],
+      "reason": "「聖人心平志易，精神內守，物莫足以惑之」主張守心不為外物所動（VI）；「夫醉者，俛入城門，以為七尺之閨也」以醉者、怯者為例說明心之擾動。"
+    },
+    {
+      "chapter": "氾論訓",
+      "para_index": 35,
+      "domains": ["V"],
+      "modes": ["observation", "proposition"],
+      "reason": "「是故因鬼神禨祥而為之立禁，總形推類而為之變象」是借鬼神以立社會禁忌的治術（V）；「此皆不著於法令，而聖人之所不口傳也」是對禁忌運作的觀察。"
+    },
+    {
+      "chapter": "氾論訓",
+      "para_index": 36,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「故託鬼神以伸誡之也」揭穿鬼神禁忌背後是借神以申誡之治術（V）；「因其便以尊之」「因其資以讋之」逐一說明諸禁忌背後的功利基礎，非真有神意。"
+    },
+    {
+      "chapter": "氾論訓",
+      "para_index": 37,
+      "domains": ["V", "XI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「為愚者之不知其害，乃借鬼神之威以聲其教」揭穿鬼神禁忌為教化工具（V）；「知所以免於難，而不知所以無難，論事如此，豈不惑哉」以任俠者批評恃倖免而不知避患者（XI）。"
+    },
+    {
+      "chapter": "氾論訓",
+      "para_index": 38,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「知為出藏財，而不知藏財所以出也」批評只見小利而不知本旨之誤（V）；「亂國之治，有似於此」把宋人嫁子、僦載者、楚王佩玦三則比喻落到治國。"
+    },
+    {
+      "chapter": "氾論訓",
+      "para_index": 39,
+      "domains": ["I", "V"],
+      "modes": ["proposition"],
+      "reason": "「大小尊卑，未足以論也，唯道之在者為貴」主張以道為本末之貴（I）；「帝者誠能包稟道，合至和，則禽獸草木莫不被其澤矣，而況兆民乎」把此落到治國（V）。"
+    }
+  ]
+}
