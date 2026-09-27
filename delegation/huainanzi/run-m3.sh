@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # 串行發包淮南子給 MiniMax-M3（claude-m3-lite，不吃 Claude 配額）。
+# 每批上限 15 分鐘（timeout 900；2026-09-28 b05 曾無輸出卡 15 分鐘）。
 # 每批：判讀 → accept.py 驗收 → 過了才 commit 並派下一批；失敗重試一次，再失敗就停。
 #   bash delegation/huainanzi/run-m3.sh b01 b02 ...
 set -u
@@ -16,7 +17,7 @@ for b in "$@"; do
   for try in 1 2; do
     rm -f "$out"
     echo "=== $b 第 $try 次 $(date +%H:%M:%S)"
-    claude-m3-lite -p "$(cat <<PROMPT
+    timeout 900 claude-m3-lite -p "$(cat <<PROMPT
 你要替《淮南子》的一批段落做心理學領域標註。本次只處理 $b。工作目錄是 $REPO。
 
 **立即執行，不要輸出計畫、不要等確認。這是非互動呼叫，沒有人會回你「開始」；沒寫出檔案就是失敗。**
