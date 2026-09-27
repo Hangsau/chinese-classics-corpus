@@ -3,6 +3,35 @@
 > 狀態快照。行為規範見 [`CLAUDE.md`](./CLAUDE.md)，結構導航見 [`MAP.md`](./MAP.md)，資料契約見 [`SCHEMA.md`](./SCHEMA.md)。
 > 最後更新：2026-09-28
 
+## 2026-09-28（下午）：句讀切分器上線；墨子經上下、厚黑學、鬼谷子完成；淮南子發包中
+
+使用者要求「鬼谷子、墨子、厚黑學快點處理好」，並要淮南子接著做。
+
+**1. 句讀切分器（C 組的解鎖工具，`ac17856`）**
+
+- `scripts/segment.py`：`--auto` 標點軌（正文 。！？ 後找切點、夾注黏前句、累積過 `--min` 後遇論述起頭語「是故／夫／凡／昔…」就切、超過 `--max` 硬切）＋`--starts` 語意軌（檔案逐行列新段開頭字串）
+- 結果寫進 `translations/<slug>/segmentation.json`（記每個被切段的 sha256＋切點 offset），**raw 一個位元組都不動**。`corpus_text.read_paragraphs()` 是唯一入口；verify／make-scaffold／make-delegation-input／apply-delegation／extract-reading-anchors 全改走它，verify 會驗覆蓋層仍對得上原文
+- `check-reason-quotes.py` 改讀正本段落（舊版讀發包時的 `b*.md`，書一重切就對不到）。**副作用：mozi 舊報的 33 條 FOREIGN 裡 26 條是 b*.md 與正本不一致的假象，實際 7 條**（8 月遺留，未處理）
+- **已切**：guiguzi 22 巨段（72 → 102 段）、huainanzi 8 章＋人間訓等（397 → 620 段；時則訓按十二月令＋五位／六合／制度語意切，說山說林 max 250，其餘 max 400）、mozi 經上／經下（語意軌按墨經主題群各 14 段，切點檔 `delegation/mozi/seg-*.txt`）
+- **還沒切**：heguanzi、zhonglun、yandanzi、sanzijing、yi-zhoushu〈周月解〉——工具現成，照 guiguzi 的參數跑即可
+
+**2. 三部完成（全由 claude-opus-5-5 通讀後手判，未發包）**
+
+| 書 | 段 | 覆蓋 | 命中 | 判準檔 |
+|---|---|---|---|---|
+| mozi 經上／經下重判 | 28（全書 606 → 632） | — | 12／28 | `delegation/mozi/out/b09r.json`；舊整塊判讀移 `out/superseded/` |
+| houheixue 厚黑學 | 83 | 6／13 | 61（73%） | `delegation/houheixue/SPEC.md`：戲仿經句只換字判空、另立主張給領域；仿經腔調不給 XII |
+| guiguzi 鬼谷子 | 102 | 7／13 | 56（55%） | `delegation/guiguzi/SPEC.md`：正文＋注 74%／七術 89%／序跋考錄 22% |
+
+**這三部與本庫慣例的差異（據實記錄）**：沒有做 READING 通讀報告、沒有 `accept.py` 自檢與變異測試，驗收只跑 `check-delegation-out` ＋ `check-reason-quotes`（三部引句 0 誤差）。理由是體量小（28／83／102 段）且由 Opus 直接逐段判讀，不存在「判者讀不到 SPEC」的風險；**日後若要重判，判讀者是 claude-opus-5-5、判準見各自 SPEC.md**。mozi 的 28 段是用 script 直接寫進 annotations.json（依 read_paragraphs 重算錨點），沒走 annotate.py，verify 錨點檢查全過。
+
+**3. 淮南子（620 段）發包中**
+
+- `delegation/huainanzi/SPEC.md`：六群六閘門（G1 天地曆數登錄之外／G2 道論替換測試／G3 政論兵論怎麼治之外／G4 故事刪掉這一則／G5 格言串逐條／G6 書序），六條配套，硬規則第 7 條把「刪原文引號再引」的失敗形態逐字寫死
+- `delegation/huainanzi/accept.py bNN`：A1 覆蓋、A2 值域與上限、A3 九個位置錨點、A4 引句（>1 條不符即 FAIL）
+- `delegation/huainanzi/run-m3.sh b01 …`：串行派 `claude-m3-lite`（MiniMax-M3，不吃 Claude 配額），每批驗收過才 commit 才派下一批，兩次不過即停
+- 32 批（每章另起一批，≤7000 字）。進度看 `delegation/huainanzi/out/` 與 git log。**全部回收後**：`make-scaffold` → `apply-delegation --tagged-by minimax-m3` → psych_survey（逐群命中率）→ build-index → verify
+
 ## 2026-09-28：盤點清理，76 → 72 部
 
 使用者看過全庫盤點後裁定。依據是收錄三條件（古典漢語／乾淨全文／公有領域）與收錄範圍，**不是**命中率或書名印象（`CLAUDE.md` §1）：
