@@ -2,9 +2,9 @@
   "domain": "V",
   "name_zh": "群體·社會·公義",
   "gist": "孤獨與歸屬、友誼、我群他群與偏見、公義與權力、責任與領導",
-  "generated_at": "2026-09-27T19:53:31+00:00",
-  "para_count": 4205,
-  "book_count": 49,
+  "generated_at": "2026-09-27T19:58:53+00:00",
+  "para_count": 4252,
+  "book_count": 50,
   "surveyed_zero_hit": [
     "haidao-suanjing",
     "jinkui-yaolue",
@@ -8237,6 +8237,605 @@
       "co_domains": [
         "VIII"
       ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "捭闔第一",
+      "para_index": 2,
+      "para_id": "guiguzi#01-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "粵若稽古，聖人之在天地間也，〈若，順；稽，考也。聖人在天地間，觀人設教，必順考古",
+      "note": "「籌策萬類之終始，逹人心之理」而「度權量能，校其伎巧短長」，注說「聖人之用人，必量度其謀能之優劣」，講的是知人用人",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "捭闔第一",
+      "para_index": 3,
+      "para_id": "guiguzi#01-p03",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "夫賢不肖、智愚、勇怯、仁義有差，乃可捭，乃可闔，乃可進，乃可退，乃可賤，乃可貴，",
+      "note": "「隨其嗜欲，以見其志意」以對方的嗜欲窺其志意，「捭之者，料其情也；闔之者，結其誠也」是對人心的操作",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "捭闔第一",
+      "para_index": 4,
+      "para_id": "guiguzi#01-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故捭者，或捭而出之，或捭而納〈○案︰「內」，《道藏》夲作「納」，古字「內」通作「",
+      "note": "「口者，心之門戶也；心者，神之主也」「志意、喜欲、思慮、智謀，此皆由門戶」把內在活動與言語開閉連起來，用於說人",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "捭闔第一",
+      "para_index": 5,
+      "para_id": "guiguzi#01-p05",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "故言死亡、憂患、貧賤、苦辱、棄損、亡利、失意、有害、刑戮、誅罰，爲隂，曰終。〈凡",
+      "note": "「故與陽言者，依崇高；與隂言者，依卑小」「可以說人，可以說家，可以說國，可以說天下」按對方性向調整說辭",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "反應第二",
+      "para_index": 2,
+      "para_id": "guiguzi#02-p02",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "古之大化者，乃與無形俱生。〈大化者，謂古之聖人，以大道化物也。無形者，道也，動必",
+      "note": "「其釣語合事，得人實也」「此釣人之網也」教以設辭套出對方實情",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "反應第二",
+      "para_index": 3,
+      "para_id": "guiguzi#02-p03",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "聖人所誘愚智，事皆不疑。〈聖人誘愚，則閉藏以知其誠；誘智，則撥動以盡其情。咸得其",
+      "note": "「欲聞其聲反默，欲張反歛」「欲高反下，欲取反與」誘出對方之情，「喜怒由此以見其式」讀其情緒",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "反應第二",
+      "para_index": 4,
+      "para_id": "guiguzi#02-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故知之始己，自知而後知人也。〈知人者智，自知者明。智從明生，明能生智。故欲知人，",
+      "note": "「故知之始己，自知而後知人也」把知人建立在自知上，屬自我；「己不先定，牧人不正」連到用人",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "內揵第三",
+      "para_index": 1,
+      "para_id": "guiguzi#03-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "〈揵者，持之令固也。言君臣之際，上下之交，必內情相得，然後結固而不離。〉",
+      "note": "題解「言君臣之際，上下之交，必內情相得，然後結固而不離」是對君臣結合的主張",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "內揵第三",
+      "para_index": 2,
+      "para_id": "guiguzi#03-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "君臣上下之事，有逺而親，近而疏；〈道合則逺而親，情乖則近而疏。〉就之不用，去之反",
+      "note": "「君臣上下之事，有逺而親，近而疏」「或結以道徳，或結以黨友，或結以財貨」論臣結君的門路",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "內揵第三",
+      "para_index": 3,
+      "para_id": "guiguzi#03-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫內有不合者，不可施行也。〈計慮不合於君，則不可施行也。〉乃揣切時宜，從便所爲，",
+      "note": "「故逺而親者，有隂徳也。近而疏者，志不合也」解釋君臣親疏的成因",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "內揵第三",
+      "para_index": 4,
+      "para_id": "guiguzi#03-p04",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "故曰：不見其類而爲〈○案︰「爲」，《道藏》夲作「說」。〉之者，見逆；不得其情而說",
+      "note": "「不得其情而說之者，見非」「若欲去之，因危與之」論進說與全身而退",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "抵巇第四",
+      "para_index": 2,
+      "para_id": "guiguzi#04-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "物有自然，〈○案︰《文選》注引樂氏注曰︰「自然，繼夲名也。」〉事有合離。〈此言合",
+      "note": "「事之危也，聖人知之，獨保其身」「以識細㣲」論在事態裂隙初萌時應對",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "抵巇第四",
+      "para_index": 3,
+      "para_id": "guiguzi#04-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天下紛錯，上無明主，公侯無道徳，則小人讒賊，賢人不用，聖人竄匿，貪利詐僞者作，君",
+      "note": "「天下紛錯，上無明主」「賢人不用，聖人竄匿」「父子離散」為亂政之巇，「世無可抵，則深隱而待時」論出處",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "飛箝第五",
+      "para_index": 1,
+      "para_id": "guiguzi#05-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "〈飛，謂作聲譽以飛揚之；箝，謂牽持緘束，令不得脫也。言取人之道，先作聲譽，以飛揚",
+      "note": "題解「言取人之道，先作聲譽，以飛揚之。彼必露情竭志而無隱」說明取人之術",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "飛箝第五",
+      "para_index": 2,
+      "para_id": "guiguzi#05-p02",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "凡度權量能，所以徵逺來近。〈凡度其權畧，量其材能，爲遠作聲譽者，所以徵逺而來近也",
+      "note": "「引鉤箝之辭，飛而箝之」「審其意，知其所好惡，乃就說其所重」以譽與利牽制人",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "飛箝第五",
+      "para_index": 3,
+      "para_id": "guiguzi#05-p03",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "用之於人則空往而實來，綴而不失，以究其辭，可箝而從，可箝而橫，可引而東，可引而西",
+      "note": "「用之於人則空往而實來」「可箝而從，可箝而橫」論以聲譽使人歸附",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "忤合第六",
+      "para_index": 1,
+      "para_id": "guiguzi#06-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "〈大道旣隱，正道不得坦然而行，故將合於此，必忤於彼，令其不疑，然後可行其意，若伊",
+      "note": "題解「將合於此，必忤於彼，令其不疑」「若伊、吕之去就是也」論去就",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "忤合第六",
+      "para_index": 2,
+      "para_id": "guiguzi#06-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡趨合倍反，計有適合。〈言趨合倍反，雖參差不齊，然施之計謀，理乃適合也。〉化轉環",
+      "note": "「世無常貴，事無常師」「合於彼而離於此，計謀不兩忠」論擇主與忠不兩施",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "忤合第六",
+      "para_index": 3,
+      "para_id": "guiguzi#06-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古之善背向者，乃恊四海、包諸侯、忤合之地，而化轉之，然後求合。〈言古之深識背向之",
+      "note": "「伊尹五就湯，五就桀」然後合於湯；「己必自度材能知𥈠，量長短逺近孰不如」要求先度量自己才行忤合",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "揣篇第七",
+      "para_index": 2,
+      "para_id": "guiguzi#07-p02",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "古之善用天下者，必量天下之權，而揣諸侯之情。量權不審，不知强弱輕重之稱；揣情不審",
+      "note": "「必以其甚喜之時，往而極其欲也」「必以其甚懼之時，往而極其惡也」利用喜懼使人不能隱其情",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "揣篇第七",
+      "para_index": 3,
+      "para_id": "guiguzi#07-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫情變於內者，形見於外。故常必以其見者而知其隱者，此所以〈○案︰一夲無「以」字。",
+      "note": "「夫情變於內者，形見於外」「故常必以其見者而知其隱者」論由外貌讀內情",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "摩篇第八",
+      "para_index": 2,
+      "para_id": "guiguzi#08-p02",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "摩者，揣之術也。〈○案︰《太平御覽》引《摩意篇》云：「摩者，揣之也。」〉內符者，",
+      "note": "「摩之以其所欲，測而探之，因符必應」「隱貌逃情而人不知，故成其事而無患」",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "摩篇第八",
+      "para_index": 3,
+      "para_id": "guiguzi#08-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故曰：主事日成，而人不知；主兵日勝，而人不畏也。〈釣者露餌而藏鉤，故魚不見鉤而可",
+      "note": "「用民安之，不知其所以利」「有以喜，有以怒」論潛移人心而民不知",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "摩篇第八",
+      "para_index": 4,
+      "para_id": "guiguzi#08-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故聖所獨用者，衆人皆有之，然無成功者，其用之非也。〈言上十事，聖人獨用以爲摩，而",
+      "note": "「說者聴必合於情，故曰：情合者聴」「摩之以其欲焉，有不聽者」論說服須合對方之情",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "權篇第九",
+      "para_index": 2,
+      "para_id": "guiguzi#09-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "說者，說之也；說之者，資之也。〈說者，說之於彼人也。說之者，有資於彼人也。資，取",
+      "note": "「佞言者，謟而干忠」「諛言者，博而干智」「㔻言者，決而干勇」把幾種言辭界定為假借德目求名，是對品格偽裝的斷語",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "權篇第九",
+      "para_index": 3,
+      "para_id": "guiguzi#09-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故曰：參調而應，利道而動。〈口者，所以發言語，故曰「機闗也」。情意宣否，在於機闗",
+      "note": "「衆口爍金，言有曲故也」「人之情，出言則欲聽，舉事則欲成」論言語的危險與人情",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "權篇第九",
+      "para_index": 4,
+      "para_id": "guiguzi#09-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是故智者不用其所短，而用愚人之所長；不用其所拙，而用愚人之所工，故不困也。〈智者",
+      "note": "「辭言五，曰病，曰怨，曰憂，曰怒，曰喜」並逐一界定其失，如「怒者，妄動而不治也」；「與貴者言依於勢」按對象調整說辭",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "權篇第九",
+      "para_index": 5,
+      "para_id": "guiguzi#09-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是故與智者言，將此以明之；與不智者言，將此以教之，而甚難爲也。〈與智者語，將以其",
+      "note": "「與不智者言，將此以教之，而甚難爲也」「聽貴聰，智貴明，辭貴竒」論與人言之要",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "謀篇第十",
+      "para_index": 2,
+      "para_id": "guiguzi#10-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡謀有道，〈○案︰《道藏》夲「凡謀」上有「爲人」二字。〉必得其所因，以求其情。〈",
+      "note": "「同情而相親者，其俱成者也；同欲而相疏者，其偏害者也」「相益則親，相損則疏」論人際親疏之理",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "謀篇第十",
+      "para_index": 3,
+      "para_id": "guiguzi#10-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫仁人輕貨，不可誘以利，可使出費；勇士輕難，不可懼以患，可使據危；智者逹於數，明",
+      "note": "「夫仁人輕貨，不可誘以利」「勇士輕難」「故愚者易蔽也，不肖者易懼也，貪者易誘也」按品格用人與制人",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "謀篇第十",
+      "para_index": 4,
+      "para_id": "guiguzi#10-p04",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "故說人主者，必與之言奇；說人臣者，必與之言私。〈與人主言奇，則非常之功可立；與人",
+      "note": "「說人主者，必與之言奇；說人臣者，必與之言私」「無以人之所不欲而强之於人」",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "謀篇第十",
+      "para_index": 5,
+      "para_id": "guiguzi#10-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故曰：事貴制人，而不貴見制於人。制人者，握權也；〈○案︰「也」字，錢夲無。〉見制",
+      "note": "「事貴制人，而不貴見制於人」論權；「非獨忠信仁義也，中正而已矣」把德目降為次要，是對品格標準的主張",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "決篇第十一",
+      "para_index": 1,
+      "para_id": "guiguzi#11-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡決物，必託於疑者，善其用福，惡其有患，害至於誘也。〈有疑然後決，故曰「必託於疑",
+      "note": "「凡決物，必託於疑者，善其用福，惡其有患」論決斷；「故先王乃用蓍龜者，以自決也」文本自己肯定以卜筮決疑，給 XII",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "符言第十二",
+      "para_index": 2,
+      "para_id": "guiguzi#12-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "安徐正靜，其被節先肉。〈被，及也。肉，肥也。謂饒裕也。言人若居位能安徐正靜，則所",
+      "note": "「以天下之目視者，則無不見」「用賞貴信，用刑貴正」「爲善者，君與之賞」是君道諸條",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "符言第十二",
+      "para_index": 3,
+      "para_id": "guiguzi#12-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "聖人用之，故能賞之；因之循理，固〈○案︰一夲作「故」，《鄧析子》亦作「故」。故、",
+      "note": "「人主不可不周，人主不周，則羣臣生亂」「名當則生於實」論君道與名實",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "夲經隂符七術",
+      "para_index": 4,
+      "para_id": "guiguzi#13-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "養志法靈龜：〈志者察是非，龜者知吉凶，故曰「養志法靈龜」。〉養志者，心氣之思不逹",
+      "note": "「欲多則心散，心散則志衰，志衰則思不逹」主張寡欲養志；「內以養志，外以知人」連到用人",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "夲經隂符七術",
+      "para_index": 6,
+      "para_id": "guiguzi#13-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "分威法伏熊︰〈精虛動物謂之威，發近震逺謂之分。熊之搏擊，必先伏而後動，故分威法伏",
+      "note": "「故靜意固志，神歸其舍，則威覆盛矣」由內在定靜生出對人的威勢",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "夲經隂符七術",
+      "para_index": 7,
+      "para_id": "guiguzi#13-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "散勢法鷙鳥︰〈勢散而後物服，猶鳥擊禽獲，故散勢法鷙鳥也。〉散勢者，神之使也。〈勢",
+      "note": "「用之必循間而動」「勢者，利害之決，權變之威」論乘隙造勢",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "夲經隂符七術",
+      "para_index": 8,
+      "para_id": "guiguzi#13-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "轉圓〈○案︰孫季逑云︰「疑即轉丸。」〉法猛獸︰〈聖智之不窮，若轉圓之無止。猶獸威",
+      "note": "「天地無極，人事無窮」「必知其吉凶成敗之所終」論計謀的轉圓應變",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "夲經隂符七術",
+      "para_index": 9,
+      "para_id": "guiguzi#13-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "損兊法靈蓍︰〈《老子》曰：「塞其兊。」河上公曰：「兊，目也。」《莊子》曰：「心有",
+      "note": "「故智者不以言失人之言」「機危之動，不可不察」論決斷時機與聽取眾言",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "持樞",
+      "para_index": 2,
+      "para_id": "guiguzi#14-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "持樞，謂春生夏長，秋収冬藏，天之正也，〈言春夏秋冬，四時運行，不爲而自然也。不爲",
+      "note": "「故人君亦有天樞，生養成藏」「逆之者，雖盛必衰」以四時論君道",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "中經",
+      "para_index": 2,
+      "para_id": "guiguzi#15-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "中經，謂振窮趨急，施之能言厚德之人。拘物執窮者，不忘恩也。〈振，起也。趨，向也。",
+      "note": "「振窮趨急」「拘物執窮者，不忘恩也」論以恩結人；「有守之人，目不視非，耳不聴邪」「不可象貌而得也」論品格；「蓋士遭世異時」「或當戚戚自善，或當敗敗自立」論士在不同時勢下的處境",
+      "co_domains": [
+        "VII",
+        "XI"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "中經",
+      "para_index": 3,
+      "para_id": "guiguzi#15-p03",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "故音不和則悲，是以聲散、傷、醜、害者，言必逆於耳也。〈散、傷、醜、害，不和之音，",
+      "note": "「弱者哀其負、傷其卑、汙其名、耻其宗」「弱者聞哀其負，見其傷，則强大力倍」利用勝負雙方的情緒",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "盧文弨跋",
+      "para_index": 1,
+      "para_id": "guiguzi#18-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《鬼谷子》，小人之書也。凡其《捭闔》、《鉤箝》之術，祗可施於闇君耳。其意欲探厥意",
+      "note": "「《鬼谷子》，小人之書也」「千古姦邪之愚，美其主者，莫不如是」是對此術與行此術者品格的斷語；「是其術遇正人而窮也」",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "鬼谷子附録",
+      "para_index": 1,
+      "para_id": "guiguzi#21-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《說苑‧善說篇》引《鬼谷子》曰：「人之不善而能矯之者難矣。說之不行，言之不從者，",
+      "note": "「說之不行，言之不從者，其辨之不明也」「未中其心之所善也」論說服他人的條件",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "鬼谷子附録",
+      "para_index": 2,
+      "para_id": "guiguzi#21-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《史記‧太史公自序》云︰「故曰『聖人不朽，時變自守。虛者道之常也，因者君之綱』也",
+      "note": "「虛者道之常也，因者君之綱」是君道主張",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "鬼谷子附録",
+      "para_index": 4,
+      "para_id": "guiguzi#21-p04",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "《太平御覽‧治道部》引《鬼谷子》曰：「事聖君有聴從，無諫爭；事中君有諫諍，無謟諛",
+      "note": "「事聖君有聴從，無諫爭；事中君有諫諍，無謟諛；事暴君有補削，無矯拂」按君主之品分事君之道",
+      "co_domains": []
     },
     {
       "slug": "hanfeizi",

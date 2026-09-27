@@ -2,9 +2,9 @@
   "domain": "VIII",
   "name_zh": "工作·成就·召喚",
   "gist": "工作與金錢、成就與意義、天賦與使命",
-  "generated_at": "2026-09-27T19:53:31+00:00",
-  "para_count": 1379,
-  "book_count": 47,
+  "generated_at": "2026-09-27T19:58:53+00:00",
+  "para_count": 1380,
+  "book_count": 48,
   "surveyed_zero_hit": [
     "duduan",
     "gu-sanfen",
@@ -2069,6 +2069,18 @@
       "co_domains": [
         "V"
       ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "鬼谷子附録",
+      "para_index": 13,
+      "para_id": "guiguzi#21-p13",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王嘉《拾遺記》曰︰「張儀、蘇秦二人，遞剪髮以相活，或傭力寫書。行遇聖人之文，無以",
+      "note": "「遞剪髮以相活，或傭力寫書」「剝樹皮爲囊，以盛天下良書」寫蘇、張困頓中苦學",
+      "co_domains": []
     },
     {
       "slug": "hanfeizi",

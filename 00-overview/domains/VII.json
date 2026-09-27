@@ -2,9 +2,9 @@
   "domain": "VII",
   "name_zh": "善惡·良心·品格",
   "gist": "罪咎與贖罪、惡與殘忍與同理、誠實與虛偽、勇氣",
-  "generated_at": "2026-09-27T19:53:31+00:00",
-  "para_count": 3043,
-  "book_count": 46,
+  "generated_at": "2026-09-27T19:58:53+00:00",
+  "para_count": 3052,
+  "book_count": 47,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -7153,6 +7153,127 @@
       "co_domains": [
         "VIII"
       ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "權篇第九",
+      "para_index": 2,
+      "para_id": "guiguzi#09-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "說者，說之也；說之者，資之也。〈說者，說之於彼人也。說之者，有資於彼人也。資，取",
+      "note": "「佞言者，謟而干忠」「諛言者，博而干智」「㔻言者，決而干勇」把幾種言辭界定為假借德目求名，是對品格偽裝的斷語",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "謀篇第十",
+      "para_index": 3,
+      "para_id": "guiguzi#10-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫仁人輕貨，不可誘以利，可使出費；勇士輕難，不可懼以患，可使據危；智者逹於數，明",
+      "note": "「夫仁人輕貨，不可誘以利」「勇士輕難」「故愚者易蔽也，不肖者易懼也，貪者易誘也」按品格用人與制人",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "謀篇第十",
+      "para_index": 5,
+      "para_id": "guiguzi#10-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故曰：事貴制人，而不貴見制於人。制人者，握權也；〈○案︰「也」字，錢夲無。〉見制",
+      "note": "「事貴制人，而不貴見制於人」論權；「非獨忠信仁義也，中正而已矣」把德目降為次要，是對品格標準的主張",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "中經",
+      "para_index": 2,
+      "para_id": "guiguzi#15-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "中經，謂振窮趨急，施之能言厚德之人。拘物執窮者，不忘恩也。〈振，起也。趨，向也。",
+      "note": "「振窮趨急」「拘物執窮者，不忘恩也」論以恩結人；「有守之人，目不視非，耳不聴邪」「不可象貌而得也」論品格；「蓋士遭世異時」「或當戚戚自善，或當敗敗自立」論士在不同時勢下的處境",
+      "co_domains": [
+        "V",
+        "XI"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "中經",
+      "para_index": 4,
+      "para_id": "guiguzi#15-p04",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "故多必有數短之處，識其短驗之。〈言多不能無短，既察其短，必記識之，取驗以明也。〉",
+      "note": "「動以忌諱，示以時禁」「其人恐畏」「遭淫色酒者，爲之術音樂，動之以爲必死，生日少之憂」以恐懼與憂死攝人心；「小人比人，則左道而用之，至能敗家奪國」「非賢智不能守家以義」是品格斷語",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "盧文弨跋",
+      "para_index": 1,
+      "para_id": "guiguzi#18-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《鬼谷子》，小人之書也。凡其《捭闔》、《鉤箝》之術，祗可施於闇君耳。其意欲探厥意",
+      "note": "「《鬼谷子》，小人之書也」「千古姦邪之愚，美其主者，莫不如是」是對此術與行此術者品格的斷語；「是其術遇正人而窮也」",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "盧文弨跋",
+      "para_index": 2,
+      "para_id": "guiguzi#18-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或問曰︰「如此，則是書何以不毁？」曰︰「凡夫姦邪之情狀，畢見於斯。爲人主者，不可",
+      "note": "「吾甚惜其方寸之間，神明之舍，惟詭譎變詐之是務，而終不免於窮」評斷用心於變詐之人",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "鬼谷子篇目考",
+      "para_index": 4,
+      "para_id": "guiguzi#20-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "栁宗元《鬼谷子辯》曰：「元冀好讀古書，然甚賢《鬼谷子》，爲其《指要》幾千言。《鬼",
+      "note": "柳宗元「險盩峭薄，恐其妄言亂世」「使人狂狙失守，而易於䧟墜」斷言此書敗壞人的操守",
+      "co_domains": []
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "鬼谷子篇目考",
+      "para_index": 7,
+      "para_id": "guiguzi#20-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "晁公武《讀書志》：「《鬼谷子》三卷，鬼谷先生𢰅。按︰《史記》，戰國時隱居潁川陽城",
+      "note": "來鵠「鬼谷子昔教人詭紿繳訐，揣測憸猾之術」並說不讀此書者「其行事皆得自然符契」，是對世人品格的斷語",
+      "co_domains": []
     },
     {
       "slug": "hanfeizi",

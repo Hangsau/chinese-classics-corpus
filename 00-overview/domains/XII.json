@@ -2,9 +2,9 @@
   "domain": "XII",
   "name_zh": "信仰·神聖·超越",
   "gist": "神存在嗎、信與疑、敬畏與美、神秘經驗",
-  "generated_at": "2026-09-27T19:53:31+00:00",
-  "para_count": 405,
-  "book_count": 31,
+  "generated_at": "2026-09-27T19:58:53+00:00",
+  "para_count": 409,
+  "book_count": 32,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -627,6 +627,62 @@
       "note": "桓公把尺人視為登山之神的指引，管仲則以「臣非聖也，善承教也」自定身分，兼涉神聖徵兆與自我評價",
       "co_domains": [
         "II"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "決篇第十一",
+      "para_index": 1,
+      "para_id": "guiguzi#11-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡決物，必託於疑者，善其用福，惡其有患，害至於誘也。〈有疑然後決，故曰「必託於疑",
+      "note": "「凡決物，必託於疑者，善其用福，惡其有患」論決斷；「故先王乃用蓍龜者，以自決也」文本自己肯定以卜筮決疑，給 XII",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "夲經隂符七術",
+      "para_index": 2,
+      "para_id": "guiguzi#13-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "盛神法五龍︰〈五龍，五行之龍也。龍則變化無窮，神則隂陽不測，故盛神之道，法五龍也",
+      "note": "「生受於天，謂之眞人；眞人者，與天爲一」文本肯定人與天合一，給 XII；「盛神中有五氣，神爲之長，心爲之舍」論內在修養",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "夲經隂符七術",
+      "para_index": 3,
+      "para_id": "guiguzi#13-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "聖人者，以類知之。〈內修練，謂假學而知者也。然聖人雖聖，猶假學而知，假學卽非自然",
+      "note": "「眞人者，同天而合道」給 XII；「靜和者養氣」「氣得其和」是內在修養",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "夲經隂符七術",
+      "para_index": 5,
+      "para_id": "guiguzi#13-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "實意法螣蛇︰〈意有委曲，蛇能屈伸，故實意者法螣蛇也。〉實意者，氣之慮也。〈意實則",
+      "note": "「心欲安靜，慮欲深逺」「乃能內視，反聽，定志」論心的修養；「是謂道知，以通神明」肯定通於神明，給 XII",
+      "co_domains": [
+        "VI"
       ]
     },
     {

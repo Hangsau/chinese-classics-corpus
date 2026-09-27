@@ -17,6 +17,50 @@
   "license": "CC BY-SA 4.0",
   "verified": false,
   "tier": "核心",
-  "psych_survey": null,
+  "psych_survey": {
+    "surveyed_at": "2026-09-28",
+    "method": "先以 scripts/segment.py 標點軌把 22 個巨段切開（72 → 102 段，覆蓋層 segmentation.json），claude-opus-5-5 通讀後單批手判；判準 delegation/guiguzi/SPEC.md（三群：正文＋注／本經陰符七術／序跋考錄）；check-delegation-out 全過、check-reason-quotes 168 條 0 不在本段",
+    "domains_hit": [
+      "II",
+      "V",
+      "VI",
+      "VII",
+      "VIII",
+      "XI",
+      "XII"
+    ],
+    "domains_null": [
+      "I",
+      "III",
+      "IV",
+      "IX",
+      "X",
+      "XIII"
+    ],
+    "domain_para_counts": {
+      "II": 2,
+      "V": 47,
+      "VI": 14,
+      "VII": 9,
+      "VIII": 1,
+      "XI": 2,
+      "XII": 4
+    },
+    "discourse_mode_counts": {
+      "proposition": 42,
+      "observation": 31,
+      "prescription": 13,
+      "formalization": 11,
+      "narrative": 5
+    },
+    "paras_total": 102,
+    "paras_no_domain": 46,
+    "group_hit_rates": {
+      "G1 正文＋注": "39/53 (74%)",
+      "G2 本經陰符七術": "8/9 (89%)",
+      "G3 序跋考錄": "9/40 (22%)"
+    },
+    "verdict": "鬼谷子 102 段，7／13、命中 56 段（55%）。**命中幾乎全在正文**，判空集中在序跋考錄群（書目與注家考證）與十一條只訓詁篇名的題解。V 47 段獨大——全書的主題就是如何讀人、說人、結君、制人；VI 14 段全落在利用喜懼憂怒的技術（「必以其甚喜之時，往而極其欲也」）與七術的寡欲養志，這兩側方向相反：一側把情緒當成撬開別人的槓桿，一側要求自己的情欲收斂。\n\n**VII 9 段有一半來自書外**：正文的 VII 是把德目當偽裝（「佞言者，謟而干忠」）或把品格當用人分類（「仁人輕貨，不可誘以利」），而盧文弨、柳宗元、來鵠的評語直接對此書下品格斷語（「《鬼谷子》，小人之書也」）——**同一部書裡，術與對術的道德審判並存**。XII 4 段都有文本自身的認證：蓍龜決疑與七術的眞人同天。"
+  },
   "notes": null
 }

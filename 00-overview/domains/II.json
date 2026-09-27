@@ -2,9 +2,9 @@
   "domain": "II",
   "name_zh": "自我與認同",
   "gist": "我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我",
-  "generated_at": "2026-09-27T19:53:31+00:00",
-  "para_count": 798,
-  "book_count": 40,
+  "generated_at": "2026-09-27T19:58:53+00:00",
+  "para_count": 800,
+  "book_count": 41,
   "surveyed_zero_hit": [
     "duduan",
     "fangyan",
@@ -346,6 +346,34 @@
       "note": "萬民見造囷者受聘顯名便捨業仿效，文本以「功立而名成」「名實俱在」明說名望與成就對行動的驅力",
       "co_domains": [
         "VIII"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "反應第二",
+      "para_index": 4,
+      "para_id": "guiguzi#02-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故知之始己，自知而後知人也。〈知人者智，自知者明。智從明生，明能生智。故欲知人，",
+      "note": "「故知之始己，自知而後知人也」把知人建立在自知上，屬自我；「己不先定，牧人不正」連到用人",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "忤合第六",
+      "para_index": 3,
+      "para_id": "guiguzi#06-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古之善背向者，乃恊四海、包諸侯、忤合之地，而化轉之，然後求合。〈言古之深識背向之",
+      "note": "「伊尹五就湯，五就桀」然後合於湯；「己必自度材能知𥈠，量長短逺近孰不如」要求先度量自己才行忤合",
+      "co_domains": [
+        "V"
       ]
     },
     {

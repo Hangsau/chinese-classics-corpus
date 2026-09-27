@@ -2,9 +2,9 @@
   "domain": "XI",
   "name_zh": "自由·命運·改變",
   "gist": "自由意志與命運、選擇與代價、改變與重來",
-  "generated_at": "2026-09-27T19:53:31+00:00",
-  "para_count": 649,
-  "book_count": 40,
+  "generated_at": "2026-09-27T19:58:53+00:00",
+  "para_count": 651,
+  "book_count": 41,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -1739,6 +1739,35 @@
       "note": "歷數虙戲以下諸王之作，明說「九州之民乃知穀食」「封土爲社，置木爲閭，始民知禮也」，把民的知識與禮從何而來當成論證骨幹，而非只列政策",
       "co_domains": [
         "VII"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "中經",
+      "para_index": 2,
+      "para_id": "guiguzi#15-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "中經，謂振窮趨急，施之能言厚德之人。拘物執窮者，不忘恩也。〈振，起也。趨，向也。",
+      "note": "「振窮趨急」「拘物執窮者，不忘恩也」論以恩結人；「有守之人，目不視非，耳不聴邪」「不可象貌而得也」論品格；「蓋士遭世異時」「或當戚戚自善，或當敗敗自立」論士在不同時勢下的處境",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "鬼谷子附録",
+      "para_index": 5,
+      "para_id": "guiguzi#21-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《意林》引《鬼谷子》曰︰「人動我靜，人言我聽。能固能去，在我而問。知性則寡累，知",
+      "note": "「知性則寡累，知命則不憂。憂累去則心平」以知命去憂，涉及命與內心平靜",
+      "co_domains": [
+        "VI"
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-27T19:53:31+00:00",
+    "generated_at": "2026-09-27T19:58:53+00:00",
     "text_count": 72,
     "total_bytes": 10561266,
     "by_category": {
@@ -28,39 +28,39 @@
       "reference": 4,
       "contested": 2
     },
-    "surveyed_count": 53,
-    "annotated_count": 53,
+    "surveyed_count": 54,
+    "annotated_count": 54,
     "scaffolded_count": 0,
-    "paras_judged": 23366,
+    "paras_judged": 23468,
     "paras_pending": 110,
     "domain_hit_counts": {
       "I": 20,
-      "II": 40,
+      "II": 41,
       "III": 24,
       "IV": 39,
       "IX": 29,
-      "V": 49,
-      "VI": 36,
-      "VII": 46,
-      "VIII": 47,
+      "V": 50,
+      "VI": 37,
+      "VII": 47,
+      "VIII": 48,
       "X": 30,
-      "XI": 40,
-      "XII": 31,
+      "XI": 41,
+      "XII": 32,
       "XIII": 26
     },
     "domain_para_counts": {
       "I": 126,
-      "II": 798,
+      "II": 800,
       "III": 161,
       "IV": 753,
-      "V": 4205,
-      "VI": 767,
-      "VII": 3043,
-      "VIII": 1379,
+      "V": 4252,
+      "VI": 781,
+      "VII": 3052,
+      "VIII": 1380,
       "IX": 204,
       "X": 446,
-      "XI": 649,
-      "XII": 405,
+      "XI": 651,
+      "XII": 409,
       "XIII": 179
     }
   },
@@ -401,12 +401,27 @@
       "size_bytes": 118764,
       "chapter_count": 21,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "domains_null": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [
+        "II",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "XI",
+        "XII"
+      ],
+      "domains_null": [
+        "I",
+        "III",
+        "IV",
+        "IX",
+        "X",
+        "XIII"
+      ],
+      "paras_total": 102,
+      "paras_judged": 102,
+      "annotated": true
     },
     {
       "slug": "haidao-suanjing",

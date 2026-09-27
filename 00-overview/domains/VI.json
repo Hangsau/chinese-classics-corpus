@@ -2,9 +2,9 @@
   "domain": "VI",
   "name_zh": "情緒與內在生活",
   "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡",
-  "generated_at": "2026-09-27T19:53:31+00:00",
-  "para_count": 767,
-  "book_count": 36,
+  "generated_at": "2026-09-27T19:58:53+00:00",
+  "para_count": 781,
+  "book_count": 37,
   "surveyed_zero_hit": [
     "dongmingji",
     "duduan",
@@ -2154,6 +2154,202 @@
       "note": "商賈被「水上之樂」吸引而離市遊飲，遂賤賣貴買，明說娛樂欲望如何使人荒廢交易並改變勞作成果",
       "co_domains": [
         "VIII"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "捭闔第一",
+      "para_index": 3,
+      "para_id": "guiguzi#01-p03",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "夫賢不肖、智愚、勇怯、仁義有差，乃可捭，乃可闔，乃可進，乃可退，乃可賤，乃可貴，",
+      "note": "「隨其嗜欲，以見其志意」以對方的嗜欲窺其志意，「捭之者，料其情也；闔之者，結其誠也」是對人心的操作",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "捭闔第一",
+      "para_index": 4,
+      "para_id": "guiguzi#01-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故捭者，或捭而出之，或捭而納〈○案︰「內」，《道藏》夲作「納」，古字「內」通作「",
+      "note": "「口者，心之門戶也；心者，神之主也」「志意、喜欲、思慮、智謀，此皆由門戶」把內在活動與言語開閉連起來，用於說人",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "反應第二",
+      "para_index": 3,
+      "para_id": "guiguzi#02-p03",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "聖人所誘愚智，事皆不疑。〈聖人誘愚，則閉藏以知其誠；誘智，則撥動以盡其情。咸得其",
+      "note": "「欲聞其聲反默，欲張反歛」「欲高反下，欲取反與」誘出對方之情，「喜怒由此以見其式」讀其情緒",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "揣篇第七",
+      "para_index": 2,
+      "para_id": "guiguzi#07-p02",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "古之善用天下者，必量天下之權，而揣諸侯之情。量權不審，不知强弱輕重之稱；揣情不審",
+      "note": "「必以其甚喜之時，往而極其欲也」「必以其甚懼之時，往而極其惡也」利用喜懼使人不能隱其情",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "揣篇第七",
+      "para_index": 3,
+      "para_id": "guiguzi#07-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫情變於內者，形見於外。故常必以其見者而知其隱者，此所以〈○案︰一夲無「以」字。",
+      "note": "「夫情變於內者，形見於外」「故常必以其見者而知其隱者」論由外貌讀內情",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "權篇第九",
+      "para_index": 4,
+      "para_id": "guiguzi#09-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是故智者不用其所短，而用愚人之所長；不用其所拙，而用愚人之所工，故不困也。〈智者",
+      "note": "「辭言五，曰病，曰怨，曰憂，曰怒，曰喜」並逐一界定其失，如「怒者，妄動而不治也」；「與貴者言依於勢」按對象調整說辭",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "夲經隂符七術",
+      "para_index": 2,
+      "para_id": "guiguzi#13-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "盛神法五龍︰〈五龍，五行之龍也。龍則變化無窮，神則隂陽不測，故盛神之道，法五龍也",
+      "note": "「生受於天，謂之眞人；眞人者，與天爲一」文本肯定人與天合一，給 XII；「盛神中有五氣，神爲之長，心爲之舍」論內在修養",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "夲經隂符七術",
+      "para_index": 3,
+      "para_id": "guiguzi#13-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "聖人者，以類知之。〈內修練，謂假學而知者也。然聖人雖聖，猶假學而知，假學卽非自然",
+      "note": "「眞人者，同天而合道」給 XII；「靜和者養氣」「氣得其和」是內在修養",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "夲經隂符七術",
+      "para_index": 4,
+      "para_id": "guiguzi#13-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "養志法靈龜：〈志者察是非，龜者知吉凶，故曰「養志法靈龜」。〉養志者，心氣之思不逹",
+      "note": "「欲多則心散，心散則志衰，志衰則思不逹」主張寡欲養志；「內以養志，外以知人」連到用人",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "夲經隂符七術",
+      "para_index": 5,
+      "para_id": "guiguzi#13-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "實意法螣蛇︰〈意有委曲，蛇能屈伸，故實意者法螣蛇也。〉實意者，氣之慮也。〈意實則",
+      "note": "「心欲安靜，慮欲深逺」「乃能內視，反聽，定志」論心的修養；「是謂道知，以通神明」肯定通於神明，給 XII",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "夲經隂符七術",
+      "para_index": 6,
+      "para_id": "guiguzi#13-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "分威法伏熊︰〈精虛動物謂之威，發近震逺謂之分。熊之搏擊，必先伏而後動，故分威法伏",
+      "note": "「故靜意固志，神歸其舍，則威覆盛矣」由內在定靜生出對人的威勢",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "中經",
+      "para_index": 3,
+      "para_id": "guiguzi#15-p03",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "故音不和則悲，是以聲散、傷、醜、害者，言必逆於耳也。〈散、傷、醜、害，不和之音，",
+      "note": "「弱者哀其負、傷其卑、汙其名、耻其宗」「弱者聞哀其負，見其傷，則强大力倍」利用勝負雙方的情緒",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "中經",
+      "para_index": 4,
+      "para_id": "guiguzi#15-p04",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "故多必有數短之處，識其短驗之。〈言多不能無短，既察其短，必記識之，取驗以明也。〉",
+      "note": "「動以忌諱，示以時禁」「其人恐畏」「遭淫色酒者，爲之術音樂，動之以爲必死，生日少之憂」以恐懼與憂死攝人心；「小人比人，則左道而用之，至能敗家奪國」「非賢智不能守家以義」是品格斷語",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "guiguzi",
+      "chapter": "鬼谷子附録",
+      "para_index": 5,
+      "para_id": "guiguzi#21-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《意林》引《鬼谷子》曰︰「人動我靜，人言我聽。能固能去，在我而問。知性則寡累，知",
+      "note": "「知性則寡累，知命則不憂。憂累去則心平」以知命去憂，涉及命與內心平靜",
+      "co_domains": [
+        "XI"
       ]
     },
     {
