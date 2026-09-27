@@ -1,0 +1,550 @@
+{
+  "batch": "b11.md",
+  "rows": [
+    {
+      "chapter": "天文訓",
+      "para_index": 1,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「天墬未形，馮馮翼翼」、「道始于虛霩，虛霩生宇宙，宇宙生氣」敘述天地未形與氣化生成，是宇宙生成之登錄"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 2,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「天傾西北，故日月星辰移焉；地不滿東南，故水潦塵埃歸焉」述共工觸山後天地傾陷的方位結構，後接「天道曰圓，地道曰方」之天文定義"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 3,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「陰陽相薄，感而為雷，激而為霆，亂而為霧」、「毛羽者，飛行之類也，故屬於陽」分述陰陽之氣化為雷雨霜雪、毛羽介鱗之分類"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 4,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「物類相動，本標相應，故陽燧見日則燃而為火」列舉物類相動之感應現象，是天文物候的對應登錄"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 5,
+      "domains": [
+        "XII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「人主之情，上通于天，故誅暴則多飄風，枉法令則多蟲螟」文本斷言君主之行為上通天意、天會以災異回應，是天人感應之斷言"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 6,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「四時者，天之吏也；日月者，天之使也；星辰者，天之期也；虹蜺彗星者，天之忌也」以官制比喻定義天象之分類"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 7,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「天有九野，九千九百九十九隅，去地五億萬里」列舉天之分野、星官名稱與尺度，是天文數度之總覽"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 8,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「何謂九野？中央曰鈞天，其星角、亢、氐」逐一登錄九野與其對應之星宿方位"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 9,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「何謂五星？東方，木也，其帝太皞，其佐句芒」分五方登錄五帝、五佐、五星、五獸、五音與天干"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 10,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「太陰在四仲，則歲星行三宿」登錄歲星、熒惑、鎮星、太白、辰星之運行度數與出入方位，是星象運行之技術表"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 11,
+      "domains": [],
+      "modes": [
+        "formalization",
+        "ritual"
+      ],
+      "reason": "「何謂八風？距日冬至四十五日條風至」、「條風至則出輕繫，去稽留」八風各對應四十五日之政令條文，是時令制度之登錄"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 12,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「何謂五官？東方為田，南方為司馬」登錄五官之名稱與方位"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 13,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「何謂六府？子午、丑未、寅申、卯酉、辰戌、巳亥是也」登錄六府之辰次對"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 14,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「太微者，太一之庭也。紫宮者，太一之居也」分述太微、紫宮、軒轅、咸池、天阿、四宮之性質與日行度數"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 15,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「天一元始，正月建寅，日月俱入營室五度」述天一紀年與日月運行之數度推算"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 16,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「子午、卯酉為二繩」、「德南則生，刑南則殺，故曰二月會而萬物生，八月會而草木死」述陰陽刑德七舍與二繩四鉤之時令對應"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 17,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「兩維之間，九十一度十六分度之五」、「斗指子則冬至，音比黃鐘」逐一登錄二十四節氣之方位、音律與長度變化"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 18,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「斗杓為小歲，正月建寅，月從左行十二辰」述小歲與太歲之運行方向差異"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 19,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「天維建元，常以寅始起，右徙一歲而移，十二歲而大周天」述天維運行之周期"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 20,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「淮南元年冬，太一在丙子，冬至甲午，立春丙子」以淮南元年實例登錄日行、月行、歲餘、閏法之數度"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 21,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「壬午冬至，甲子受制，木用事」、「甲子受制則行柔惠，挺群禁，開闔扇」登錄五甲子日各應行之事，是政令之數度表"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 22,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「甲子氣燥濁，丙子氣燥陽」、「戊子干甲子，胎夭卵毈，鳥蟲多傷」登錄各甲子日之氣候與天干相干之災異對應"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 23,
+      "domains": [],
+      "modes": [
+        "observation",
+        "ritual"
+      ],
+      "reason": "「季春三月，豐隆乃出，以將其雨」、「孟夏之月，以熟穀禾，雄鳩長鳴，為帝候歲」登錄季春至孟夏之物候與月令事項"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 24,
+      "domains": [],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「是故天不發其陰，則萬物不生；地不發其陽，則萬物不成」總述天地陰陽為萬物生成之條件，未對人立主張"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 25,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「日出于暘谷，浴于咸池，拂于扶桑，是謂晨明」登錄太陽於一日內經過之十六處名稱"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 26,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「夏日至則陰乘陽，是以萬物就而死；冬日至則陽乘陰，是以萬物仰而生」述陰陽消長決定日夜長短與萬物向背"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 27,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「帝張四維，運之以斗，月徙一辰」、「指寅，則萬物螾螾也，律受太蔟」逐一登錄十二月之萬物狀態與對應十二律之解釋"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 28,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「道曰規，始於一」、「故曰「一生二，二生三，三生萬物」」、「黃鐘之律九寸而宮音調」從陰陽生成推至黃鐘之數、十二律之度數與相生關係，是音律數度之登錄"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 29,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「古之為度量輕重，生乎天道」、「律之數十二，故十二蔈而當一粟」以天地之數度推出丈尺、銖兩、鈞石之度量制度"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 30,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「太陰元始，建于甲寅，一終而建甲戌」述太陰三終之建元周期"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 31,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「太陰所建，蟄蟲首穴而處，鵲巢鄉而爲户」述太陰所在辰位與四方神獸之對應"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 32,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「寅爲建，卯爲除，辰爲滿，巳爲平，主生」登錄十二辰之建除滿平主生之吉凶主屬"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 33,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「亥爲收」、「主大德」登錄十二辰之收閉主屬"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 34,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「丑爲閉」登錄十二辰之閉主屬"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 35,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「太陰在寅，歲名曰攝提格，其雄爲歲星」是歲星紀年之佔驗表，把年分對到歲星所在宿度與對沖之宿"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 36,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「太陰在卯，歲名曰單閼」歲星紀年之佔驗表，逐年登錄歲星所舍與對沖宿度"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 37,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「太陰在辰，歲名曰執徐」歲星紀年之佔驗表，逐年登錄歲星所舍與對沖宿度"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 38,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「太陰在巳，歲名曰大荒落」歲星紀年之佔驗表，逐年登錄歲星所舍與對沖宿度"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 39,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「太陰在午，歲名曰敦牂」歲星紀年之佔驗表，逐年登錄歲星所舍與對沖宿度"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 40,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「太陰在未，歲名曰協洽」歲星紀年之佔驗表，逐年登錄歲星所舍與對沖宿度"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 41,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「太陰在申，歲名曰涒灘」歲星紀年之佔驗表，逐年登錄歲星所舍與對沖宿度"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 42,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「太陰在酉，歲名曰作鄂」歲星紀年之佔驗表，逐年登錄歲星所舍與對沖宿度"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 43,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「太陰在戌，歲名曰閹茂」歲星紀年之佔驗表，逐年登錄歲星所舍與對沖宿度"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 44,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「太陰在亥，歲名曰大淵獻」歲星紀年之佔驗表，逐年登錄歲星所舍與對沖宿度"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 45,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「太陰在子，歲名曰困敦」歲星紀年之佔驗表，逐年登錄歲星所舍與對沖宿度"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 46,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「太陰在丑，歲名曰赤奮若」歲星紀年之佔驗表，逐年登錄歲星所舍與對沖宿度"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 47,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「太陰在甲子，刑德合東方宮」、「合四歲而離，離十六歲而復合」登錄太陰刑德之離合周期與刑德分居之規則"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 48,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「凡徙諸神，朱鳥在太陰前一，鉤陳在後三」登錄四神相對於太陰之前後位次"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 49,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「凡日，甲剛乙柔，丙剛丁柔，以至於癸」登錄十天干之剛柔屬性"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 50,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「木生於亥，壯於卯，死於未，三辰皆木也」登錄木行之三辰生死位"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 51,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「火生於寅，壯於午，死於戌，三辰皆火也」登錄火行之三辰生死位"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 52,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「土生於午，壯於戌，死於寅，三辰皆土也」登錄土行之三辰生死位"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 53,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「金生於巳，壯於酉，死於丑，三辰皆金也」登錄金行之三辰生死位"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 54,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「水生於申，壯於子，死於辰，三辰皆水也」登錄水行之三辰生死位"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 55,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「故五勝生一，壯五，終九，五九四十五」以五勝之數推算神位八徙一歲終之周期"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 56,
+      "domains": [],
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "reason": "「凡用太陰，左前刑，右背德，擊鉤陳之衝辰，以戰必勝」以天象方位定用兵方向之技術條文"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 57,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「欲知天道，以日爲主，六月當心，左周而行」述以日為主計算十二月天象之方法"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 58,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「星正月建營室，二月建奎、婁」逐月登錄所建之星宿"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 59,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「角十二，亢九，氐十五」、「凡二十八宿也」登錄二十八宿之廣度分數"
+    },
+    {
+      "chapter": "天文訓",
+      "para_index": 60,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「角、亢，鄭；氐、房、心宋」、「翼、軫，楚」登錄二十八宿與各國之對應"
+    }
+  ]
+}
