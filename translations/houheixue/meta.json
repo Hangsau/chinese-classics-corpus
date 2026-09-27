@@ -17,6 +17,45 @@
   "license": "CC BY-SA 4.0",
   "verified": false,
   "tier": "核心",
-  "psych_survey": null,
+  "psych_survey": {
+    "surveyed_at": "2026-09-28",
+    "method": "claude-opus-5-5 通讀全書 83 段（22 章 11,890 字）後單批手判（比照 jinlouzi b14／b24 微單位不發包）；判準 delegation/houheixue/SPEC.md（戲仿經句只換字判空、另立主張給領域；仿經腔調不給 XII；求官做官十二字一律 V）；check-delegation-out 全過、check-reason-quotes 131 條引句 0 不在本段",
+    "domains_hit": [
+      "IV",
+      "V",
+      "VI",
+      "VII",
+      "VIII",
+      "XI"
+    ],
+    "domains_null": [
+      "I",
+      "II",
+      "III",
+      "IX",
+      "X",
+      "XII",
+      "XIII"
+    ],
+    "domain_para_counts": {
+      "IV": 2,
+      "V": 34,
+      "VI": 3,
+      "VII": 32,
+      "VIII": 13,
+      "XI": 1
+    },
+    "discourse_mode_counts": {
+      "proposition": 35,
+      "prescription": 21,
+      "narrative": 15,
+      "formalization": 13,
+      "observation": 9,
+      "expression": 1
+    },
+    "paras_total": 83,
+    "paras_no_domain": 22,
+    "verdict": "厚黑學 83 段，6／13、命中 61 段（73%）、判空 22 段。命中幾乎全落在兩格：V 34（權力、官場、人與人之間的利用）與 VII 32（人性論與品格的反寫），其次 VIII 13（功業、學習與謀生）。\n\n**判空 22 段集中在兩處，都是體裁而非內容稀薄**：自序 5 段是書目登錄；〈厚黑經〉26 段有 12 段判空，因為它們只是把《論語》《孟子》《中庸》原句的德目換成「厚黑」，沒有另立主張。同章另外 14 段命中，分界就在換字之後主張有沒有翻轉或新增——「厚黑也者，其為人之本與」把孝弟換掉後成了本書的人性立場（VII），「喜怒哀樂皆不發謂之厚，發而無顧忌，謂之黑」把情緒收放界定為心術（VI VII）。\n\n**XII 為零是本書的刻意結果**：全書充滿「天命之謂厚黑」「鬼神懼焉」「天生厚黑於予」，全屬仿經腔調；感應篇、陰騭文出現時是被批評的對象。**求官六字、做官六字、鋸箭補鍋二法 21 段全數落 V**，是本庫至今最純的一套權力操作手冊。"
+  },
   "notes": null
 }

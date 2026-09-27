@@ -1,0 +1,909 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {
+      "chapter": "自序",
+      "para_index": 1,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「曾寫一文曰《厚黑學》」「每日寫一二段，在成都《華西日報》發表」是著作與刊行經過的登錄"
+    },
+    {
+      "chapter": "自序",
+      "para_index": 2,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「讀者只讀叢話，即無須再讀二書」交代舊著與叢話的關係，屬書目說明"
+    },
+    {
+      "chapter": "自序",
+      "para_index": 3,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「李君澄波，周君雁翔，曾作有序」列舊序作者，屬書目登錄"
+    },
+    {
+      "chapter": "自序",
+      "para_index": 4,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「寄存四川圖書館」交代寄存圖書館，屬書目登錄"
+    },
+    {
+      "chapter": "自序",
+      "para_index": 5,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「中華民國二十五年四月十二日李宗吾於成都」是署款"
+    },
+    {
+      "chapter": "緒論",
+      "para_index": 1,
+      "domains": [
+        "V",
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「古人成功的秘訣，不過是臉厚心黑罷了」把歷史上的成敗歸到臉皮與心術，是對權力場成功之道（V）與品格（VII）的主張"
+    },
+    {
+      "chapter": "緒論",
+      "para_index": 2,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「竟洋溢乎四川，成為普通的名詞」與「你是不是發明厚黑學的李某」是這套說法傳播經過的敘述，引他人口頭語不構成本段主張"
+    },
+    {
+      "chapter": "緒論",
+      "para_index": 3,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「厚黑是天性中固有之物」並以「小兒見了母親口中的糕餅，自然會取來放在自己口中」為證，與性善說對舉，是人性論主張"
+    },
+    {
+      "chapter": "緒論",
+      "para_index": 4,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「我們研究人性，不能斷定他是善是惡，猶之研究水火之性質」主張人性無善惡可言，是人性論"
+    },
+    {
+      "chapter": "緒論",
+      "para_index": 5,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「讀者如果不明了這個道理，認真厚黑起來，是要終歸失敗的」自承偏說，並要人「提防人在我們名下施行厚黑」，前者關品格、後者關人與人之間的防範"
+    },
+    {
+      "chapter": "厚黑學",
+      "para_index": 1,
+      "domains": [
+        "VIII",
+        "VII"
+      ],
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "reason": "「我自讀書識字以來，就想為英雄豪傑」寫求取功業的志向，結論「古之為英雄豪傑者，不過面厚心黑而已」把成就歸到品格的反面"
+    },
+    {
+      "chapter": "厚黑學",
+      "para_index": 2,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "「寧我負人，毋人負我」與連殺數人「悍然不顧」被當成曹操「一世之雄」的根據，是以狠心論權力"
+    },
+    {
+      "chapter": "厚黑學",
+      "para_index": 3,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "劉備「寄人籬下，恬不為恥」「對人痛哭一場，立即轉敗為功」，把不知恥與善哭當成爭天下的本事"
+    },
+    {
+      "chapter": "厚黑學",
+      "para_index": 4,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "孫權「黑不到底」「厚不到底」而仍「二者兼備」，以兩種心術的程度解釋三分天下"
+    },
+    {
+      "chapter": "厚黑學",
+      "para_index": 5,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "司馬懿「能欺人寡婦孤兒」「能夠受巾幗之辱」而「集厚黑學之大成」，把統一歸到忍辱與狠心"
+    },
+    {
+      "chapter": "厚黑學",
+      "para_index": 6,
+      "domains": [
+        "VIII",
+        "V"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「王佐之才，也不是厚黑名家的敵手」以諸葛亮「鞠躬盡瘁，死而後已」而終不能取中原，論才能敵不過心術"
+    },
+    {
+      "chapter": "厚黑學",
+      "para_index": 7,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「一部二十四史，可一以貫之：「厚黑而己。」」把整部歷史的成敗收到一個原則"
+    },
+    {
+      "chapter": "厚黑學",
+      "para_index": 8,
+      "domains": [
+        "VII",
+        "VI",
+        "XI"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "「婦人之仁，是心有所不忍」「匹夫之勇，是受不得氣」論品格；項羽「何面目見之」「籍獨不愧於心乎」是羞愧的情緒；「此天亡我，非戰之罪」被駁為「恐怕上天不能任咎吧」，把成敗從天命推回人，三格各承一層"
+    },
+    {
+      "chapter": "厚黑學",
+      "para_index": 9,
+      "domains": [
+        "VII",
+        "IV"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "劉邦對父親「要分一杯羹」、對親生兒女「能夠推他下車」，以對家人的狠心證明心術，拿掉家人這層主張就不成立"
+    },
+    {
+      "chapter": "厚黑學",
+      "para_index": 10,
+      "domains": [
+        "VIII",
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「可見這種學問，全是關乎資質，明師固然難得，好徒弟也不容易尋找」論學習、資質與師承"
+    },
+    {
+      "chapter": "厚黑學",
+      "para_index": 11,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「把流俗所傳君臣、父子、兄弟、夫婦、朋友五倫，一一打破，又把禮義廉恥，掃除凈盡」被當成統一海內的原因"
+    },
+    {
+      "chapter": "厚黑學",
+      "para_index": 12,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "韓信「繫念著劉邦解衣推食的恩惠」以致「身首異處，夷及九族」，把感恩與忠誠寫成失敗的原因"
+    },
+    {
+      "chapter": "厚黑學",
+      "para_index": 13,
+      "domains": [
+        "VI",
+        "VII"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "范增「受不得氣」「增大怒求去」，結論「大凡做大事的人，那有動輒生氣的道理」「因小不忍，壞了大事」是論怒與隱忍"
+    },
+    {
+      "chapter": "厚黑學",
+      "para_index": 14,
+      "domains": [
+        "VIII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「小用小效，大用大效」「身死之後，史傳中也占了一席之地」「可見厚黑學終不負人」論功業與身後名"
+    },
+    {
+      "chapter": "厚黑學",
+      "para_index": 15,
+      "domains": [
+        "VII",
+        "VIII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「給我們一顆心，而黑即在其中」主張稟賦本有，「凡人世的功名富貴、宮室妻妾、衣服車馬，無一不從這區區之地出來」連到功名"
+    },
+    {
+      "chapter": "厚黑學",
+      "para_index": 16,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「厚黑學共分三步功夫，第一步是「厚如城墻，黑如煤炭」」把修養功夫倒過來講，是品格養成的反寫"
+    },
+    {
+      "chapter": "厚黑學",
+      "para_index": 17,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「心子漆黑，招牌透亮」寫心術與名聲的反差，「中原名流，傾心歸服」涉及人心歸附"
+    },
+    {
+      "chapter": "厚黑學",
+      "para_index": 18,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「厚而無形，黑而無色」「至厚至黑，天上後世，皆以為不厚不黑」是修養極境的反寫；引中庸與佛語是比擬，不給 XII"
+    },
+    {
+      "chapter": "厚黑學",
+      "para_index": 19,
+      "domains": [
+        "VIII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「茍其事之有成，無一不出於此」把一切事功歸於此道"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 1,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「不薄之謂厚，不白之謂黑」與「放之則彌六合，捲之則退藏於面與心」是仿程子題解的戲仿框架，只換字不增主張"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 2,
+      "domains": [
+        "VI",
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「喜怒哀樂皆不發謂之厚，發而無顧忌，謂之黑」把情緒的收與放界定為兩種心術，是在戲仿句裡新加的主張；「天命之謂厚黑」「鬼神懼焉」是仿經腔調，不給 XII"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 3,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「以去夫外誘之仁義，而充其本然之厚黑」主張仁義是外加的、厚黑是本然的，是人性論"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 4,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「厚黑之道，易而難」把《中庸》原句的道換成厚黑，只換字不增主張"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 5,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「人皆曰予黑，騙而納諸煤炭之中」套《中庸》句式換字，沒有另立主張"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 6,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「考諸三王而不繆，建諸天地而不悖」照抄《中庸》句式換主語，沒有另立主張"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 7,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「厚黑也者，其為人之本與」把原句的孝弟換成厚黑，主張它是為人的根本，這一換就是本書的人性立場"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 8,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「擇其厚黑者而從之」套《論語》句式換字"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 9,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「天生厚黑於予，世人其如予何」套《論語》句式換字，不給 XII"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 10,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「十室之邑，必有厚黑如宗吾者焉」套《論語》句式換字"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 11,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「君子無終食之間違厚黑」套《論語》句式換字"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 12,
+      "domains": [
+        "VIII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「如有項羽之才之美，使厚且黑，劉邦不足觀也已」主張才能要配上心術才成事，是就項羽另立的判斷"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 13,
+      "domains": [
+        "VIII",
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「厚黑之人，能得千乘之國；茍不厚黑，簞食豆羹不可得」把得國與溫飽都繫於此，改寫後的主張與原句相反"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 14,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「夫厚黑亦在乎熟之而已矣」套《孟子》句式換字"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 15,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「道學先生；厚黑賊也。居之似忠信，行之似廉潔」把鄉愿之罵移到道學先生身上，是對一類人品格的斷語，罵德目算"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 16,
+      "domains": [
+        "VIII"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「不專心致志，則不得也」並以兩人同學、一人「思竊聖賢之名」為例，論學習的專心"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 17,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「君子必自反也，我必不厚」一路推到「反對我者，是亦妄人也已矣」，把反省戲寫成歸咎他人，是對自省品格的反諷"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 18,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「身不厚黑，不能行於妻子」照抄《孟子》句式換字，妻子只是原句成分"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 19,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「意在使初學的人便於諷誦」是作者交代經文體例"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 20,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「人的心，生來是黑的」「拿些道德仁義蒙在上面，才不會黑」主張道德是外覆、本性是黑，是人性論"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 21,
+      "domains": [
+        "VII",
+        "IV"
+      ],
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "reason": "「小孩坐在母親的懷中吃奶或者吃餅的時候，哥哥走至面前，他就要用手推他打他」與唐太宗殺兄弟、「逼著父親把天下讓與他」，以手足與親子之間的爭奪證本性"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 22,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「故茍得其養，厚黑日長；茍失其養，厚黑日消」並說被「感應篇、陰騭文或道學先生的學說壓伏下去」，主張本性被教化摧殘；提到善書是對象不給 XII"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 23,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「人能充其搶母親口中糕餅之心，而厚黑不可勝用也」把赤子之心改讀為爭奪之心"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 24,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「有一種天資絕高的人，他自己明白這個道理，就實力奉行，秘不告人」與「終身由之，而不知厚黑者眾也」陳述世人不自覺地如此行事"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 25,
+      "domains": [
+        "VIII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「就是走到了山窮水盡，當乞丐的時候，討口飯，也比別人多討點」把謀生成敗繫於此"
+    },
+    {
+      "chapter": "厚黑經",
+      "para_index": 26,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「期月而已可也，三年有成」套《論語》句式換字"
+    },
+    {
+      "chapter": "厚黑傳習錄",
+      "para_index": 1,
+      "domains": [
+        "VIII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「可見西洋科學，是後人勝過前人，學生勝過先生」論學問傳承與師生，並以「凡是發明家，都不可登峰造極」自解"
+    },
+    {
+      "chapter": "厚黑傳習錄",
+      "para_index": 2,
+      "domains": [
+        "VIII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「你們的孔夫子，究竟做出了多少轟轟烈烈的事情」反問立說者與事功的關係"
+    },
+    {
+      "chapter": "厚黑傳習錄",
+      "para_index": 3,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「我於是傳他求官六字真言，做官六字真言和辦事二妙法」是引出下文的框架敘述"
+    },
+    {
+      "chapter": "求官六字真言",
+      "para_index": 1,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「空、貢、沖、捧、恐、送」是六字綱目"
+    },
+    {
+      "chapter": "空（1）",
+      "para_index": 1,
+      "domains": [
+        "V",
+        "VIII"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「一心一意，專門求官」「今日不生效，明日又來」教人為求官放下本業並耐心等候"
+    },
+    {
+      "chapter": "貢",
+      "para_index": 1,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「有孔必鉆，無孔也要入」教鑽營門路"
+    },
+    {
+      "chapter": "沖",
+      "para_index": 1,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「口頭上又分普通場所及上峰的面前兩種」教在上位者面前吹噓"
+    },
+    {
+      "chapter": "捧",
+      "para_index": 1,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「就是捧場的捧字」並以華歆為模範，教奉承上位者"
+    },
+    {
+      "chapter": "恐",
+      "para_index": 1,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「凡是當軸諸公，都有軟處，只要尋著他的要害，輕輕點他一下」教以恐嚇挾持上位者並拿捏分寸"
+    },
+    {
+      "chapter": "送",
+      "para_index": 1,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「一是操用舍之權者，二是未操用舍之權而能予我以助力者」教按權力位置行賄"
+    },
+    {
+      "chapter": "送",
+      "para_index": 2,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「某缺著某人署理」前逐字交代六字各自在上位者心中起的作用"
+    },
+    {
+      "chapter": "做官六字真言",
+      "para_index": 1,
+      "domains": [],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「空、恭、繃、兇、聾、弄」是六字綱目"
+    },
+    {
+      "chapter": "空（2）",
+      "para_index": 1,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「有時辦得雷厲風行，其實暗中藏有退路」教為官辦事預留退路"
+    },
+    {
+      "chapter": "恭",
+      "para_index": 1,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「直接是指對上司而言，間接是指對上司的親戚朋友」教對權力來源卑躬"
+    },
+    {
+      "chapter": "繃",
+      "para_index": 1,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「恭字對飯甑子所在地而言」「繃字對非飯甑子所在地而言」按權力所在決定恭或繃"
+    },
+    {
+      "chapter": "兇",
+      "para_index": 1,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「他人亡身滅家，賣兒貼婦，都不必顧忌」而「兇字上面，定要蒙一層道德仁義」，是對良心的公然棄置與偽裝"
+    },
+    {
+      "chapter": "聾",
+      "para_index": 1,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「笑罵由他笑罵，好官我自為之」教為官不理輿論"
+    },
+    {
+      "chapter": "弄",
+      "para_index": 1,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「弄字與求官之送字是對照的，有了送就有弄」「是要能夠在公事上通得過才成功」教斂財"
+    },
+    {
+      "chapter": "弄",
+      "para_index": 2,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「以上十二個字，我不過粗舉大綱」是收束語"
+    },
+    {
+      "chapter": "鋸箭法",
+      "para_index": 1,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "醫生「將箭干鋸下，即索謝禮」並說「那是內科的事」，寓推卸責任"
+    },
+    {
+      "chapter": "鋸箭法",
+      "para_index": 2,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "prescription",
+        "observation"
+      ],
+      "reason": "「「很贊成」三字是鋸箭干，「某人」是內科」說明官場推卸責任的公文與應對"
+    },
+    {
+      "chapter": "補鍋法",
+      "para_index": 1,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "補鍋匠「用鐵錘在鍋上輕輕的敲幾下，那裂痕就增長了許多」，寓先擴大問題再居功"
+    },
+    {
+      "chapter": "補鍋法",
+      "para_index": 2,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「鄭莊公縱容共叔段，使他多行不義，才舉兵征討」與「把好肉割壞了來醫」，以史事與變法說補鍋法"
+    },
+    {
+      "chapter": "補鍋法",
+      "para_index": 3,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「無論古今中外，合乎這個公例的就成功，違反這個公例的即失敗」以管仲說二法是辦事公例"
+    },
+    {
+      "chapter": "補鍋法",
+      "para_index": 4,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「岳飛想恢復中原，迎回二帝，他剛剛才起了取箭頭的念頭，就遭殺身之禍」「違反公例故」，論權力場中真做事者的下場"
+    },
+    {
+      "chapter": "補鍋法",
+      "para_index": 5,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "王導「我遵養時晦，以待足下」與新亭「何至作楚囚對泣」，被讀為說漂亮話而不取箭頭"
+    },
+    {
+      "chapter": "結論",
+      "para_index": 1,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「厚黑的施用，定要糊一層仁義道德」並以王莽「露出了厚黑」而敗為例，教把心術藏在德目之下"
+    },
+    {
+      "chapter": "結論",
+      "para_index": 2,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「面子上應當糊以甚麼東西，是在學者因時因地」而「裏子的厚黑二字，則萬變不離其宗」，把一切主義都當成外衣"
+    }
+  ]
+}

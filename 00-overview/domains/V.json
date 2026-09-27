@@ -2,9 +2,9 @@
   "domain": "V",
   "name_zh": "群體·社會·公義",
   "gist": "孤獨與歸屬、友誼、我群他群與偏見、公義與權力、責任與領導",
-  "generated_at": "2026-09-27T19:50:25+00:00",
-  "para_count": 4171,
-  "book_count": 48,
+  "generated_at": "2026-09-27T19:53:31+00:00",
+  "para_count": 4205,
+  "book_count": 49,
   "surveyed_zero_hit": [
     "haidao-suanjing",
     "jinkui-yaolue",
@@ -13868,6 +13868,450 @@
       ],
       "excerpt": "明主之道，必明於公私之分，明法制，去私恩。夫令必行，禁必止，人主之公義也；必行其",
       "note": "段落明分人臣公義與私心，並斷言君臣以利害計合、臣不肯害身利國，只有明賞嚴刑才會盡力死事，說明公私關係與品格如何受制度改變。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "緒論",
+      "para_index": 1,
+      "para_id": "houheixue#02-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "我讀中國歷史，發現了許多罅漏，覺得一部二十四史的成敗興衰和史臣的論斷，是完全相反",
+      "note": "「古人成功的秘訣，不過是臉厚心黑罷了」把歷史上的成敗歸到臉皮與心術，是對權力場成功之道（V）與品格（VII）的主張",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "緒論",
+      "para_index": 5,
+      "para_id": "houheixue#02-p05",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "孟子的性善說，荀子的性惡說，俱是一偏之見，我所講的《厚黑學》，自然是更偏了，其偏",
+      "note": "「讀者如果不明了這個道理，認真厚黑起來，是要終歸失敗的」自承偏說，並要人「提防人在我們名下施行厚黑」，前者關品格、後者關人與人之間的防範",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 2,
+      "para_id": "houheixue#03-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "三國英雄，首推曹操，他的特長，全在心黑：他殺呂伯奢，殺孔融，殺楊修，殺董承伏完，",
+      "note": "「寧我負人，毋人負我」與連殺數人「悍然不顧」被當成曹操「一世之雄」的根據，是以狠心論權力",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 3,
+      "para_id": "houheixue#03-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "其次要算劉備，他的特長，全在於臉皮厚：他依曹操，依呂布，依劉表，依孫權，依袁紹，",
+      "note": "劉備「寄人籬下，恬不為恥」「對人痛哭一場，立即轉敗為功」，把不知恥與善哭當成爭天下的本事",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 4,
+      "para_id": "houheixue#03-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "此外還有一個孫權，他和劉備同盟，並且是郎舅之親，忽然奪取荊州，把關羽殺了，心之黑",
+      "note": "孫權「黑不到底」「厚不到底」而仍「二者兼備」，以兩種心術的程度解釋三分天下",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 5,
+      "para_id": "houheixue#03-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "後來曹操、劉備、孫權，相繼死了，司馬氏父子乘時崛起，他算是受了曹劉諸人的薰陶，集",
+      "note": "司馬懿「能欺人寡婦孤兒」「能夠受巾幗之辱」而「集厚黑學之大成」，把統一歸到忍辱與狠心",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 6,
+      "para_id": "houheixue#03-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "諸葛武候，天下奇才，是三代下第一人，遇著司馬懿還是沒有辦法，他下了「鞠躬盡瘁，死",
+      "note": "「王佐之才，也不是厚黑名家的敵手」以諸葛亮「鞠躬盡瘁，死而後已」而終不能取中原，論才能敵不過心術",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 7,
+      "para_id": "houheixue#03-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "我把他幾個人物的事，反復研究，就把這千古不傳的秘訣，發現出來。一部二十四史，可一",
+      "note": "「一部二十四史，可一以貫之：「厚黑而己。」」把整部歷史的成敗收到一個原則",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 11,
+      "para_id": "houheixue#03-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "劉邦天資既高，學歷又深，把流俗所傳君臣、父子、兄弟、夫婦、朋友五倫，一一打破，又",
+      "note": "「把流俗所傳君臣、父子、兄弟、夫婦、朋友五倫，一一打破，又把禮義廉恥，掃除凈盡」被當成統一海內的原因",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 12,
+      "para_id": "houheixue#03-p12",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "楚漢的時候，有一個人，臉皮最厚，心不黑，終歸失敗，此人為誰？就是人人知道的韓信。",
+      "note": "韓信「繫念著劉邦解衣推食的恩惠」以致「身首異處，夷及九族」，把感恩與忠誠寫成失敗的原因",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 17,
+      "para_id": "houheixue#03-p17",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "第二步是「厚而硬，黑而亮」。深於厚學的人，任你如何攻打，他一點不動，劉備就是這類",
+      "note": "「心子漆黑，招牌透亮」寫心術與名聲的反差，「中原名流，傾心歸服」涉及人心歸附",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑經",
+      "para_index": 13,
+      "para_id": "houheixue#04-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "宗吾曰：「厚黑之人，能得千乘之國；茍不厚黑，簞食豆羹不可得。」",
+      "note": "「厚黑之人，能得千乘之國；茍不厚黑，簞食豆羹不可得」把得國與溫飽都繫於此，改寫後的主張與原句相反",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "空（1）",
+      "para_index": 1,
+      "para_id": "houheixue#07-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "即空閒之意，分兩種：一指事務而言，求官的人，定要把一切事放下，不工不商，不農不賈",
+      "note": "「一心一意，專門求官」「今日不生效，明日又來」教人為求官放下本業並耐心等候",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "貢",
+      "para_index": 1,
+      "para_id": "houheixue#08-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "這個字是借用的，是四川的俗語，其意義等於鉆營的鉆字，「鉆進鉆出」，可以說「貢進貢",
+      "note": "「有孔必鉆，無孔也要入」教鑽營門路",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "沖",
+      "para_index": 1,
+      "para_id": "houheixue#09-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "普通所謂之「吹牛」，四川話是「沖帽殼子」。沖的工夫有兩種：一是口頭上，二是文字上",
+      "note": "「口頭上又分普通場所及上峰的面前兩種」教在上位者面前吹噓",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "捧",
+      "para_index": 1,
+      "para_id": "houheixue#10-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "就是捧場的捧字。戲臺上魏公出來了，那華歆的舉動，是絕好的模範的人物。",
+      "note": "「就是捧場的捧字」並以華歆為模範，教奉承上位者",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "恐",
+      "para_index": 1,
+      "para_id": "houheixue#11-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "是恐嚇的意思，是及物動詞。這個字的道理很精深，我不妨多說幾句。官之為物，何等寶貴",
+      "note": "「凡是當軸諸公，都有軟處，只要尋著他的要害，輕輕點他一下」教以恐嚇挾持上位者並拿捏分寸",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "送",
+      "para_index": 1,
+      "para_id": "houheixue#12-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "即是送東西，分大小二種：大送，把銀元鈔票一包一包的拿去送；小送，如春茶、火肘及請",
+      "note": "「一是操用舍之權者，二是未操用舍之權而能予我以助力者」教按權力位置行賄",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "送",
+      "para_index": 2,
+      "para_id": "houheixue#12-p02",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "這六字做到了，包管字字發生奇效，那大人先生，獨居深念，自言自語說：某人想做官，已",
+      "note": "「某缺著某人署理」前逐字交代六字各自在上位者心中起的作用",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "空（2）",
+      "para_index": 1,
+      "para_id": "houheixue#14-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "空即空洞的意思。一是文字上，凡是批呈詞、出文告，都是空空洞洞的，其中奧妙，我難細",
+      "note": "「有時辦得雷厲風行，其實暗中藏有退路」教為官辦事預留退路",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "恭",
+      "para_index": 1,
+      "para_id": "houheixue#15-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "就是卑躬折節，脅肩謅笑之類，分直接間接兩種，直接是指對上司而言，間接是指對上司的",
+      "note": "「直接是指對上司而言，間接是指對上司的親戚朋友」教對權力來源卑躬",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "繃",
+      "para_index": 1,
+      "para_id": "houheixue#16-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "即俗語所謂繃勁，是恭字的反面字，指對下屬及老百姓而言。分兩種：一是儀表上，赫赫然",
+      "note": "「恭字對飯甑子所在地而言」「繃字對非飯甑子所在地而言」按權力所在決定恭或繃",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "兇",
+      "para_index": 1,
+      "para_id": "houheixue#17-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "只要能達到我的目的，他人亡身滅家，賣兒貼婦，都不必顧忌；但有一層應當註意，兇字上",
+      "note": "「他人亡身滅家，賣兒貼婦，都不必顧忌」而「兇字上面，定要蒙一層道德仁義」，是對良心的公然棄置與偽裝",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "聾",
+      "para_index": 1,
+      "para_id": "houheixue#18-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "就是耳聾：「笑罵由他笑罵，好官我自為之。」但，聾字中包含有瞎子的意義，文字上的詆",
+      "note": "「笑罵由他笑罵，好官我自為之」教為官不理輿論",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "弄",
+      "para_index": 1,
+      "para_id": "houheixue#19-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "即弄錢之弄，川省俗語讀作平聲。千里來龍，此處結穴，前面的十一個字，都是為了這個字",
+      "note": "「弄字與求官之送字是對照的，有了送就有弄」「是要能夠在公事上通得過才成功」教斂財",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "鋸箭法",
+      "para_index": 1,
+      "para_id": "houheixue#20-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "有人中了箭，請外科醫生治療，醫生將箭干鋸下，即索謝禮。問他為什麼不把箭頭取出？他",
+      "note": "醫生「將箭干鋸下，即索謝禮」並說「那是內科的事」，寓推卸責任",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "鋸箭法",
+      "para_index": 2,
+      "para_id": "houheixue#20-p02",
+      "modes": [
+        "prescription",
+        "observation"
+      ],
+      "excerpt": "現在各軍政機關，與夫大辦事家，都是用的這種方法。譬如批呈詞：「據呈某某等情，實屬",
+      "note": "「「很贊成」三字是鋸箭干，「某人」是內科」說明官場推卸責任的公文與應對",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "補鍋法",
+      "para_index": 1,
+      "para_id": "houheixue#21-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "做飯的鍋漏了，請補鍋匠來補。補鍋匠一面用鐵片刮鍋底煤煙，一面對主人說：「請點火來",
+      "note": "補鍋匠「用鐵錘在鍋上輕輕的敲幾下，那裂痕就增長了許多」，寓先擴大問題再居功",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "補鍋法",
+      "para_index": 2,
+      "para_id": "houheixue#21-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "鄭莊公縱容共叔段，使他多行不義，才舉兵征討，這就是補鍋法了。歷史上這類事情是很多",
+      "note": "「鄭莊公縱容共叔段，使他多行不義，才舉兵征討」與「把好肉割壞了來醫」，以史事與變法說補鍋法",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "補鍋法",
+      "para_index": 3,
+      "para_id": "houheixue#21-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "上述二妙法，是辦事的公例，無論古今中外，合乎這個公例的就成功，違反這個公例的即失",
+      "note": "「無論古今中外，合乎這個公例的就成功，違反這個公例的即失敗」以管仲說二法是辦事公例",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "補鍋法",
+      "para_index": 4,
+      "para_id": "houheixue#21-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明季武臣，把流寇圍住了，故意放他出來，本是用的補鍋法，後來制他不住，竟至國破君亡",
+      "note": "「岳飛想恢復中原，迎回二帝，他剛剛才起了取箭頭的念頭，就遭殺身之禍」「違反公例故」，論權力場中真做事者的下場",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "補鍋法",
+      "para_index": 5,
+      "para_id": "houheixue#21-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "晉朝王導為宰相，有一個叛賊，他不去討伐。陶侃責備他，他復信說：「我遵養時晦，以待",
+      "note": "王導「我遵養時晦，以待足下」與新亭「何至作楚囚對泣」，被讀為說漂亮話而不取箭頭",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "結論",
+      "para_index": 1,
+      "para_id": "houheixue#22-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "說了一大堆的話，在這收頭結大瓜的時候，不妨告訴讀者一點秘訣：厚黑的施用，定要糊一",
+      "note": "「厚黑的施用，定要糊一層仁義道德」並以王莽「露出了厚黑」而敗為例，教把心術藏在德目之下",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "結論",
+      "para_index": 2,
+      "para_id": "houheixue#22-p02",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "還有一點，我前面說：「厚黑上面，要糊上一層仁義道德。」這是指遇著道學先生而言。假",
+      "note": "「面子上應當糊以甚麼東西，是在學者因時因地」而「裏子的厚黑二字，則萬變不離其宗」，把一切主義都當成外衣",
       "co_domains": [
         "VII"
       ]

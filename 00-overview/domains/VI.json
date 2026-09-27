@@ -2,9 +2,9 @@
   "domain": "VI",
   "name_zh": "情緒與內在生活",
   "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡",
-  "generated_at": "2026-09-27T19:50:25+00:00",
-  "para_count": 764,
-  "book_count": 35,
+  "generated_at": "2026-09-27T19:53:31+00:00",
+  "para_count": 767,
+  "book_count": 36,
   "surveyed_zero_hit": [
     "dongmingji",
     "duduan",
@@ -3282,6 +3282,51 @@
       "note": "指出以大誅報小罪會因仇敵眾多而生禍，未有罪便顯怒與懷誅心會使自己與天下為讎",
       "co_domains": [
         "V"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 8,
+      "para_id": "houheixue#03-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "項羽拔山蓋世之雄。咽鳴叱咤，千人皆廢，為什麼身死東城，為天下笑！他失敗的原因，韓",
+      "note": "「婦人之仁，是心有所不忍」「匹夫之勇，是受不得氣」論品格；項羽「何面目見之」「籍獨不愧於心乎」是羞愧的情緒；「此天亡我，非戰之罪」被駁為「恐怕上天不能任咎吧」，把成敗從天命推回人，三格各承一層",
+      "co_domains": [
+        "VII",
+        "XI"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 13,
+      "para_id": "houheixue#03-p13",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "同時又有一個人，心最黑，臉皮不厚，也歸失敗，此人也是人人知道的，姓范名增。劉邦破",
+      "note": "范增「受不得氣」「增大怒求去」，結論「大凡做大事的人，那有動輒生氣的道理」「因小不忍，壞了大事」是論怒與隱忍",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑經",
+      "para_index": 2,
+      "para_id": "houheixue#04-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「天命之謂厚黑，率厚黑之謂道，修厚黑之謂教；厚黑也者，不得須臾離也，可離非厚黑也",
+      "note": "「喜怒哀樂皆不發謂之厚，發而無顧忌，謂之黑」把情緒的收與放界定為兩種心術，是在戲仿句裡新加的主張；「天命之謂厚黑」「鬼神懼焉」是仿經腔調，不給 XII",
+      "co_domains": [
+        "VII"
       ]
     },
     {

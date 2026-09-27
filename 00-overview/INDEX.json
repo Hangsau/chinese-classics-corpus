@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-27T19:50:25+00:00",
+    "generated_at": "2026-09-27T19:53:31+00:00",
     "text_count": 72,
     "total_bytes": 10561266,
     "by_category": {
@@ -28,23 +28,23 @@
       "reference": 4,
       "contested": 2
     },
-    "surveyed_count": 52,
-    "annotated_count": 52,
+    "surveyed_count": 53,
+    "annotated_count": 53,
     "scaffolded_count": 0,
-    "paras_judged": 23283,
+    "paras_judged": 23366,
     "paras_pending": 110,
     "domain_hit_counts": {
       "I": 20,
       "II": 40,
       "III": 24,
-      "IV": 38,
+      "IV": 39,
       "IX": 29,
-      "V": 48,
-      "VI": 35,
-      "VII": 45,
-      "VIII": 46,
+      "V": 49,
+      "VI": 36,
+      "VII": 46,
+      "VIII": 47,
       "X": 30,
-      "XI": 39,
+      "XI": 40,
       "XII": 31,
       "XIII": 26
     },
@@ -52,14 +52,14 @@
       "I": 126,
       "II": 798,
       "III": 161,
-      "IV": 751,
-      "V": 4171,
-      "VI": 764,
-      "VII": 3011,
-      "VIII": 1366,
+      "IV": 753,
+      "V": 4205,
+      "VI": 767,
+      "VII": 3043,
+      "VIII": 1379,
       "IX": 204,
       "X": 446,
-      "XI": 648,
+      "XI": 649,
       "XII": 405,
       "XIII": 179
     }
@@ -513,12 +513,27 @@
       "size_bytes": 36224,
       "chapter_count": 22,
       "verified": false,
-      "surveyed": false,
-      "domains_hit": null,
-      "domains_null": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "XI"
+      ],
+      "domains_null": [
+        "I",
+        "II",
+        "III",
+        "IX",
+        "X",
+        "XII",
+        "XIII"
+      ],
+      "paras_total": 83,
+      "paras_judged": 83,
+      "annotated": true
     },
     {
       "slug": "huainanzi",

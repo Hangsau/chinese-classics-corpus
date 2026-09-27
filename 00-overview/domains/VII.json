@@ -2,9 +2,9 @@
   "domain": "VII",
   "name_zh": "善惡·良心·品格",
   "gist": "罪咎與贖罪、惡與殘忍與同理、誠實與虛偽、勇氣",
-  "generated_at": "2026-09-27T19:50:25+00:00",
-  "para_count": 3011,
-  "book_count": 45,
+  "generated_at": "2026-09-27T19:53:31+00:00",
+  "para_count": 3043,
+  "book_count": 46,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -10752,6 +10752,440 @@
       ],
       "excerpt": "明主之道，必明於公私之分，明法制，去私恩。夫令必行，禁必止，人主之公義也；必行其",
       "note": "段落明分人臣公義與私心，並斷言君臣以利害計合、臣不肯害身利國，只有明賞嚴刑才會盡力死事，說明公私關係與品格如何受制度改變。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "緒論",
+      "para_index": 1,
+      "para_id": "houheixue#02-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "我讀中國歷史，發現了許多罅漏，覺得一部二十四史的成敗興衰和史臣的論斷，是完全相反",
+      "note": "「古人成功的秘訣，不過是臉厚心黑罷了」把歷史上的成敗歸到臉皮與心術，是對權力場成功之道（V）與品格（VII）的主張",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "緒論",
+      "para_index": 3,
+      "para_id": "houheixue#02-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "我當初本是一種遊戲的文字，不料會發生這種影響，我自己也十分詫異，心想這種議論，能",
+      "note": "「厚黑是天性中固有之物」並以「小兒見了母親口中的糕餅，自然會取來放在自己口中」為證，與性善說對舉，是人性論主張",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "緒論",
+      "para_index": 4,
+      "para_id": "houheixue#02-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "有孟子的性善說，就有荀子的性惡說與之對抗，有王陽明的「致知良」三字，這「厚黑學」",
+      "note": "「我們研究人性，不能斷定他是善是惡，猶之研究水火之性質」主張人性無善惡可言，是人性論",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "緒論",
+      "para_index": 5,
+      "para_id": "houheixue#02-p05",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "孟子的性善說，荀子的性惡說，俱是一偏之見，我所講的《厚黑學》，自然是更偏了，其偏",
+      "note": "「讀者如果不明了這個道理，認真厚黑起來，是要終歸失敗的」自承偏說，並要人「提防人在我們名下施行厚黑」，前者關品格、後者關人與人之間的防範",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 1,
+      "para_id": "houheixue#03-p01",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "我自讀書識字以來，就想為英雄豪傑，求之四書五經，茫無所得，求之諸子百家，與夫廿四",
+      "note": "「我自讀書識字以來，就想為英雄豪傑」寫求取功業的志向，結論「古之為英雄豪傑者，不過面厚心黑而已」把成就歸到品格的反面",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 2,
+      "para_id": "houheixue#03-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "三國英雄，首推曹操，他的特長，全在心黑：他殺呂伯奢，殺孔融，殺楊修，殺董承伏完，",
+      "note": "「寧我負人，毋人負我」與連殺數人「悍然不顧」被當成曹操「一世之雄」的根據，是以狠心論權力",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 3,
+      "para_id": "houheixue#03-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "其次要算劉備，他的特長，全在於臉皮厚：他依曹操，依呂布，依劉表，依孫權，依袁紹，",
+      "note": "劉備「寄人籬下，恬不為恥」「對人痛哭一場，立即轉敗為功」，把不知恥與善哭當成爭天下的本事",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 4,
+      "para_id": "houheixue#03-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "此外還有一個孫權，他和劉備同盟，並且是郎舅之親，忽然奪取荊州，把關羽殺了，心之黑",
+      "note": "孫權「黑不到底」「厚不到底」而仍「二者兼備」，以兩種心術的程度解釋三分天下",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 5,
+      "para_id": "houheixue#03-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "後來曹操、劉備、孫權，相繼死了，司馬氏父子乘時崛起，他算是受了曹劉諸人的薰陶，集",
+      "note": "司馬懿「能欺人寡婦孤兒」「能夠受巾幗之辱」而「集厚黑學之大成」，把統一歸到忍辱與狠心",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 8,
+      "para_id": "houheixue#03-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "項羽拔山蓋世之雄。咽鳴叱咤，千人皆廢，為什麼身死東城，為天下笑！他失敗的原因，韓",
+      "note": "「婦人之仁，是心有所不忍」「匹夫之勇，是受不得氣」論品格；項羽「何面目見之」「籍獨不愧於心乎」是羞愧的情緒；「此天亡我，非戰之罪」被駁為「恐怕上天不能任咎吧」，把成敗從天命推回人，三格各承一層",
+      "co_domains": [
+        "VI",
+        "XI"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 9,
+      "para_id": "houheixue#03-p09",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "我們又拿劉邦的本事研究一下，史記載：項羽問漢王曰：「天下匈匈數歲，徒以吾兩人耳，",
+      "note": "劉邦對父親「要分一杯羹」、對親生兒女「能夠推他下車」，以對家人的狠心證明心術，拿掉家人這層主張就不成立",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 10,
+      "para_id": "houheixue#03-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "劉邦的面，劉邦的心，比較別人特別不同，可稱天縱之聖。黑之一字，真是「生和安行，從",
+      "note": "「可見這種學問，全是關乎資質，明師固然難得，好徒弟也不容易尋找」論學習、資質與師承",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 11,
+      "para_id": "houheixue#03-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "劉邦天資既高，學歷又深，把流俗所傳君臣、父子、兄弟、夫婦、朋友五倫，一一打破，又",
+      "note": "「把流俗所傳君臣、父子、兄弟、夫婦、朋友五倫，一一打破，又把禮義廉恥，掃除凈盡」被當成統一海內的原因",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 12,
+      "para_id": "houheixue#03-p12",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "楚漢的時候，有一個人，臉皮最厚，心不黑，終歸失敗，此人為誰？就是人人知道的韓信。",
+      "note": "韓信「繫念著劉邦解衣推食的恩惠」以致「身首異處，夷及九族」，把感恩與忠誠寫成失敗的原因",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 13,
+      "para_id": "houheixue#03-p13",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "同時又有一個人，心最黑，臉皮不厚，也歸失敗，此人也是人人知道的，姓范名增。劉邦破",
+      "note": "范增「受不得氣」「增大怒求去」，結論「大凡做大事的人，那有動輒生氣的道理」「因小不忍，壞了大事」是論怒與隱忍",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 15,
+      "para_id": "houheixue#03-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "上天生人，給我們一張臉，而厚即在其中，給我們一顆心，而黑即在其中。從表面上看去，",
+      "note": "「給我們一顆心，而黑即在其中」主張稟賦本有，「凡人世的功名富貴、宮室妻妾、衣服車馬，無一不從這區區之地出來」連到功名",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 16,
+      "para_id": "houheixue#03-p16",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "厚黑學共分三步功夫，第一步是「厚如城墻，黑如煤炭」。起初的臉皮，好象一張紙，由分",
+      "note": "「厚黑學共分三步功夫，第一步是「厚如城墻，黑如煤炭」」把修養功夫倒過來講，是品格養成的反寫",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 17,
+      "para_id": "houheixue#03-p17",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "第二步是「厚而硬，黑而亮」。深於厚學的人，任你如何攻打，他一點不動，劉備就是這類",
+      "note": "「心子漆黑，招牌透亮」寫心術與名聲的反差，「中原名流，傾心歸服」涉及人心歸附",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 18,
+      "para_id": "houheixue#03-p18",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "第三步是「厚而無形，黑而無色」。至厚至黑，天上後世，皆以為不厚不黑，這個境界，很",
+      "note": "「厚而無形，黑而無色」「至厚至黑，天上後世，皆以為不厚不黑」是修養極境的反寫；引中庸與佛語是比擬，不給 XII",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑經",
+      "para_index": 2,
+      "para_id": "houheixue#04-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「天命之謂厚黑，率厚黑之謂道，修厚黑之謂教；厚黑也者，不得須臾離也，可離非厚黑也",
+      "note": "「喜怒哀樂皆不發謂之厚，發而無顧忌，謂之黑」把情緒的收與放界定為兩種心術，是在戲仿句裡新加的主張；「天命之謂厚黑」「鬼神懼焉」是仿經腔調，不給 XII",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑經",
+      "para_index": 3,
+      "para_id": "houheixue#04-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "右第一章，宗吾述古人不傳之秘以立言，首明厚黑之本原出於天而不可易，其實厚黑備己於",
+      "note": "「以去夫外誘之仁義，而充其本然之厚黑」主張仁義是外加的、厚黑是本然的，是人性論",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑經",
+      "para_index": 7,
+      "para_id": "houheixue#04-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "宗吾曰：「君子務本，本立而道生。厚黑也者，其為人之本與？」",
+      "note": "「厚黑也者，其為人之本與」把原句的孝弟換成厚黑，主張它是為人的根本，這一換就是本書的人性立場",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑經",
+      "para_index": 15,
+      "para_id": "houheixue#04-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "宗吾曰：「道學先生；厚黑賊也。居之似忠信，行之似廉潔，眾皆悅之，自以為是，而不可",
+      "note": "「道學先生；厚黑賊也。居之似忠信，行之似廉潔」把鄉愿之罵移到道學先生身上，是對一類人品格的斷語，罵德目算",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑經",
+      "para_index": 17,
+      "para_id": "houheixue#04-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "宗吾曰：「有失敗之事於此，君子必自反也，我必不厚；其自反而厚矣，而失敗猶是也，君",
+      "note": "「君子必自反也，我必不厚」一路推到「反對我者，是亦妄人也已矣」，把反省戲寫成歸咎他人，是對自省品格的反諷",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑經",
+      "para_index": 20,
+      "para_id": "houheixue#04-p20",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "宗吾曰：「不曰厚乎，磨而不薄；不曰黑乎，洗而不白。」後來我改為：「不曰厚乎，越磨",
+      "note": "「人的心，生來是黑的」「拿些道德仁義蒙在上面，才不會黑」主張道德是外覆、本性是黑，是人性論",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑經",
+      "para_index": 21,
+      "para_id": "houheixue#04-p21",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "宗吾曰：「厚黑者，非由外鑠我也，我固有之也。天生庶民，有厚有黑，民之秉彜，好是厚",
+      "note": "「小孩坐在母親的懷中吃奶或者吃餅的時候，哥哥走至面前，他就要用手推他打他」與唐太宗殺兄弟、「逼著父親把天下讓與他」，以手足與親子之間的爭奪證本性",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑經",
+      "para_index": 22,
+      "para_id": "houheixue#04-p22",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "厚黑這個道理，很明白的擺在面前，不論什麼人都可見到，不過剛剛一見到，就被感應篇、",
+      "note": "「故茍得其養，厚黑日長；茍失其養，厚黑日消」並說被「感應篇、陰騭文或道學先生的學說壓伏下去」，主張本性被教化摧殘；提到善書是對象不給 XII",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑經",
+      "para_index": 23,
+      "para_id": "houheixue#04-p23",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "宗吾曰：「小孩見母親口中有糕餅，皆知搶而奪之矣，人能充其搶母親口中糕餅之心，而厚",
+      "note": "「人能充其搶母親口中糕餅之心，而厚黑不可勝用也」把赤子之心改讀為爭奪之心",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑經",
+      "para_index": 24,
+      "para_id": "houheixue#04-p24",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "有一種天資絕高的人，他自己明白這個道理，就實力奉行，秘不告人。又有一種人資質魯鈍",
+      "note": "「有一種天資絕高的人，他自己明白這個道理，就實力奉行，秘不告人」與「終身由之，而不知厚黑者眾也」陳述世人不自覺地如此行事",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "兇",
+      "para_index": 1,
+      "para_id": "houheixue#17-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "只要能達到我的目的，他人亡身滅家，賣兒貼婦，都不必顧忌；但有一層應當註意，兇字上",
+      "note": "「他人亡身滅家，賣兒貼婦，都不必顧忌」而「兇字上面，定要蒙一層道德仁義」，是對良心的公然棄置與偽裝",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "結論",
+      "para_index": 1,
+      "para_id": "houheixue#22-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "說了一大堆的話，在這收頭結大瓜的時候，不妨告訴讀者一點秘訣：厚黑的施用，定要糊一",
+      "note": "「厚黑的施用，定要糊一層仁義道德」並以王莽「露出了厚黑」而敗為例，教把心術藏在德目之下",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "結論",
+      "para_index": 2,
+      "para_id": "houheixue#22-p02",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "還有一點，我前面說：「厚黑上面，要糊上一層仁義道德。」這是指遇著道學先生而言。假",
+      "note": "「面子上應當糊以甚麼東西，是在學者因時因地」而「裏子的厚黑二字，則萬變不離其宗」，把一切主義都當成外衣",
       "co_domains": [
         "V"
       ]

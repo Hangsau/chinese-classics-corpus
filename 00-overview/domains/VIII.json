@@ -2,9 +2,9 @@
   "domain": "VIII",
   "name_zh": "工作·成就·召喚",
   "gist": "工作與金錢、成就與意義、天賦與使命",
-  "generated_at": "2026-09-27T19:50:25+00:00",
-  "para_count": 1366,
-  "book_count": 46,
+  "generated_at": "2026-09-27T19:53:31+00:00",
+  "para_count": 1379,
+  "book_count": 47,
   "surveyed_zero_hit": [
     "duduan",
     "gu-sanfen",
@@ -3346,6 +3346,175 @@
       "note": "本段既以魏趙燕說常法決定國家強弱，又說名譽巧說使稱賢明與暴亂失其類，並說請謁上交排擠有功材臣而使民勞無功，三項分別涉及公權、名實與功業。",
       "co_domains": [
         "II",
+        "V"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 1,
+      "para_id": "houheixue#03-p01",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "我自讀書識字以來，就想為英雄豪傑，求之四書五經，茫無所得，求之諸子百家，與夫廿四",
+      "note": "「我自讀書識字以來，就想為英雄豪傑」寫求取功業的志向，結論「古之為英雄豪傑者，不過面厚心黑而已」把成就歸到品格的反面",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 6,
+      "para_id": "houheixue#03-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "諸葛武候，天下奇才，是三代下第一人，遇著司馬懿還是沒有辦法，他下了「鞠躬盡瘁，死",
+      "note": "「王佐之才，也不是厚黑名家的敵手」以諸葛亮「鞠躬盡瘁，死而後已」而終不能取中原，論才能敵不過心術",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 10,
+      "para_id": "houheixue#03-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "劉邦的面，劉邦的心，比較別人特別不同，可稱天縱之聖。黑之一字，真是「生和安行，從",
+      "note": "「可見這種學問，全是關乎資質，明師固然難得，好徒弟也不容易尋找」論學習、資質與師承",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 14,
+      "para_id": "houheixue#03-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "據上面的研究，厚黑學這種學問，法子很簡單，用起來卻很神妙，小用小效，大用大效，劉",
+      "note": "「小用小效，大用大效」「身死之後，史傳中也占了一席之地」「可見厚黑學終不負人」論功業與身後名",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 15,
+      "para_id": "houheixue#03-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "上天生人，給我們一張臉，而厚即在其中，給我們一顆心，而黑即在其中。從表面上看去，",
+      "note": "「給我們一顆心，而黑即在其中」主張稟賦本有，「凡人世的功名富貴、宮室妻妾、衣服車馬，無一不從這區區之地出來」連到功名",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 19,
+      "para_id": "houheixue#03-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "總之，由三代以至於今，王候將相，豪傑聖賢，不可勝數，茍其事之有成，無一不出於此；",
+      "note": "「茍其事之有成，無一不出於此」把一切事功歸於此道",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑經",
+      "para_index": 12,
+      "para_id": "houheixue#04-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "宗吾曰：「如有項羽之才之美，使厚且黑，劉邦不足觀也已！」",
+      "note": "「如有項羽之才之美，使厚且黑，劉邦不足觀也已」主張才能要配上心術才成事，是就項羽另立的判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑經",
+      "para_index": 13,
+      "para_id": "houheixue#04-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "宗吾曰：「厚黑之人，能得千乘之國；茍不厚黑，簞食豆羹不可得。」",
+      "note": "「厚黑之人，能得千乘之國；茍不厚黑，簞食豆羹不可得」把得國與溫飽都繫於此，改寫後的主張與原句相反",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑經",
+      "para_index": 16,
+      "para_id": "houheixue#04-p16",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "宗吾曰：「無惑乎人之不厚黑也！雖有天下易生之物也，一日暴之，十日寒之，未有能生者",
+      "note": "「不專心致志，則不得也」並以兩人同學、一人「思竊聖賢之名」為例，論學習的專心",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑經",
+      "para_index": 25,
+      "para_id": "houheixue#04-p25",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "世間學說，每每誤人，惟有厚黑學絕不會誤人，就是走到了山窮水盡，當乞丐的時候，討口",
+      "note": "「就是走到了山窮水盡，當乞丐的時候，討口飯，也比別人多討點」把謀生成敗繫於此",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑傳習錄",
+      "para_index": 1,
+      "para_id": "houheixue#05-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "有人問我道：「你發明厚黑學，為什麼你做事每每失敗，為什麼你的學生的本領還比你大，",
+      "note": "「可見西洋科學，是後人勝過前人，學生勝過先生」論學問傳承與師生，並以「凡是發明家，都不可登峰造極」自解",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑傳習錄",
+      "para_index": 2,
+      "para_id": "houheixue#05-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "又有人問道：「你把厚黑學講得這樣神妙，為什麼不見你做出一些轟轟烈烈的事情？」我說",
+      "note": "「你們的孔夫子，究竟做出了多少轟轟烈烈的事情」反問立說者與事功的關係",
+      "co_domains": []
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "空（1）",
+      "para_index": 1,
+      "para_id": "houheixue#07-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "即空閒之意，分兩種：一指事務而言，求官的人，定要把一切事放下，不工不商，不農不賈",
+      "note": "「一心一意，專門求官」「今日不生效，明日又來」教人為求官放下本業並耐心等候",
+      "co_domains": [
         "V"
       ]
     },

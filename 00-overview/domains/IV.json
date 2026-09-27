@@ -2,9 +2,9 @@
   "domain": "IV",
   "name_zh": "家庭與傳承",
   "gist": "婚姻與家庭、原生家庭的傷、為人父母、記憶與和解、留下什麼給後代",
-  "generated_at": "2026-09-27T19:50:25+00:00",
-  "para_count": 751,
-  "book_count": 38,
+  "generated_at": "2026-09-27T19:53:31+00:00",
+  "para_count": 753,
+  "book_count": 39,
   "surveyed_zero_hit": [
     "fangyan",
     "gongsun-longzi",
@@ -2111,6 +2111,36 @@
       "note": "反駁管仲三難後，改以臣下借勢侵主、貴妾並后與愛庶危嫡為真正難題，直論權力及家內繼承關係",
       "co_domains": [
         "V"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑學",
+      "para_index": 9,
+      "para_id": "houheixue#03-p09",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "我們又拿劉邦的本事研究一下，史記載：項羽問漢王曰：「天下匈匈數歲，徒以吾兩人耳，",
+      "note": "劉邦對父親「要分一杯羹」、對親生兒女「能夠推他下車」，以對家人的狠心證明心術，拿掉家人這層主張就不成立",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "houheixue",
+      "chapter": "厚黑經",
+      "para_index": 21,
+      "para_id": "houheixue#04-p21",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "宗吾曰：「厚黑者，非由外鑠我也，我固有之也。天生庶民，有厚有黑，民之秉彜，好是厚",
+      "note": "「小孩坐在母親的懷中吃奶或者吃餅的時候，哥哥走至面前，他就要用手推他打他」與唐太宗殺兄弟、「逼著父親把天下讓與他」，以手足與親子之間的爭奪證本性",
+      "co_domains": [
+        "VII"
       ]
     },
     {
