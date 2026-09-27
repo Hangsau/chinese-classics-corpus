@@ -1,0 +1,33 @@
+{
+  "batch": "b02.md",
+  "rows": [
+    {"chapter": "主術訓", "para_index": 21, "domains": ["V"], "modes": ["prescription"],
+     "reason": "「君臣不和，唐、虞不能以為治。執術而禦之，則管、晏之智盡矣；明分以示之，則蹠、蹻之奸止矣」以造父御馬為喻，主張君主當執術任臣、明分止奸，是君臣用人之治術"},
+    {"chapter": "主術訓", "para_index": 22, "domains": ["V"], "modes": ["prescription", "proposition"],
+     "reason": "「明主之耳目不勞，精神不竭，物至而觀其象，事來而應其化」寫明主虛心任下之治，末云「故治者不貴其自是，而貴其不得為非也」是治術與君臣用人之主張"},
+    {"chapter": "主術訓", "para_index": 23, "domains": ["V"], "modes": ["proposition"],
+     "reason": "「法律度量者，人主之所以執下」、「有術則制人，無術則制於人」主張君主當以法律度量馭下、有術則能制人，是治術與群體秩序之論"},
+    {"chapter": "主術訓", "para_index": 24, "domains": ["V"], "modes": ["proposition"],
+     "reason": "「君人者不任能而好自為之，則智日困而自負其責也」、「智不足以為治，威不足以行誅，則無以與天下交也」批君主親自操事而致百官離正，是君臣用人之失"},
+    {"chapter": "主術訓", "para_index": 25, "domains": ["V", "VII"], "modes": ["proposition", "narrative"],
+     "reason": "「君人者，無為而有守也，有為而無好也」主張君主當無為有守；「齊桓公好味，而易牙烹其首子而餌之」以三君王好欲致禍之例，斷君主當制欲之德"},
+    {"chapter": "主術訓", "para_index": 26, "domains": ["V"], "modes": ["proposition", "narrative"],
+     "reason": "「得勢之利者，所持甚小，其存甚大；所守甚約，所制甚廣」以孔丘墨翟、楚莊王、趙武靈王等例，主張居勢之要與君臣任使之理"},
+    {"chapter": "主術訓", "para_index": 27, "domains": ["V"], "modes": ["prescription", "proposition"],
+     "reason": "「下必行之令，從之者利，逆之者凶」、「天子發號，令行禁止，以眾為勢也」論君主當順民心下令、令行禁止，是治術與民心之主張"},
+    {"chapter": "主術訓", "para_index": 28, "domains": ["V"], "modes": ["narrative", "proposition"],
+     "reason": "「桓公三舉而九合諸侯，紂再舉而不得為匹夫」以桓公之義舉得民心、紂之暴舉失天下的對比，論君德與民心向背之關係"},
+    {"chapter": "主術訓", "para_index": 29, "domains": ["V", "VII"], "modes": ["proposition"],
+     "reason": "「故古之君人者，其慘怛於民也」寫仁君之體恤，又云「仁君明王，其取下有節，自養有度」、「貪主暴君，撓于其下，侵漁其民」以君主節用愛民之德對比暴君"},
+    {"chapter": "主術訓", "para_index": 30, "domains": ["V"], "modes": ["prescription"],
+     "reason": "「先王之法，畋不掩群，不取蓏夭。不涸澤而漁，不焚林而獵」列先王政令以時取用、富國利民，是治術與群體生養之條目"},
+    {"chapter": "主術訓", "para_index": 31, "domains": ["VII"], "modes": ["proposition"],
+     "reason": "「心欲小者，慮患未生，備禍未發，戒過慎微」、「行欲方者，直立而不撓，素白而不汙，窮不易操，通不肆志」逐項定義心小志大智員行方能多事鮮之聖人品格"},
+    {"chapter": "主術訓", "para_index": 32, "domains": ["V", "VII"], "modes": ["narrative", "proposition"],
+     "reason": "「堯置敢諫之鼓，舜立誹謗之木，湯有司直之人，武王立戒慎之鞀」寫古聖王聽諫之制；「由此觀之，則聖人之心小矣……聖人之志大也……聖人之智員矣……聖人之行方矣」逐一歸結聖人心志智行之德"},
+    {"chapter": "主術訓", "para_index": 33, "domains": ["V"], "modes": ["proposition"],
+     "reason": "「智者先忤而後合，愚者始于樂而終於哀」、「瞽師有以言白黑，無以知白黑，故言白黑與人同，其別白黑與人異」以智愚先後之別與瞽師言知之辨，論治者當明察賢愚之智"},
+    {"chapter": "主術訓", "para_index": 34, "domains": ["VII", "V"], "modes": ["proposition"],
+     "reason": "「凡人之性，莫貴于仁，莫急於智。仁以為質，智以行之」、「入孝於親，出忠於君」以仁智為人之本，又舉孝悌忠信為人之道，是德性與群體倫常之主張"}
+  ]
+}
