@@ -18,5 +18,58 @@
   "verified": true,
   "tier": "核心",
   "notes": "2026-08-24 自 religions-history 收入本庫（性質為諸子論說，屬「學術著述」而非信仰文本）。原檔未重抓，raw/ 逐位元組複製，SHA-256 已對拍相符。宗教庫仍保留一份，兩庫功能不同、暫不去重（使用者 2026-08-24 裁定）。",
-  "psych_survey": null
+  "psych_survey": {
+    "surveyed_at": "2026-09-28",
+    "method": "先以 scripts/segment.py 切段（時則訓走語意軌、說山說林 auto min120/max250、其餘 8 巨段 min150/max400；397 → 620 段，覆蓋層 segmentation.json）；32 批（每章另起、≤7000 字）串行發包 minimax-m3（claude-m3-lite），判準 delegation/huainanzi/SPEC.md（六群六閘門）；每批 accept.py 0 FAIL 才 commit，b27 由 Claude 手修 3 條引句（巢狀引號、省略號）；check-delegation-out 全過；check-reason-quotes 1644 段引句中 8 條為「…」節引（天文訓 62–90），屬已知類別",
+    "domains_hit": [
+      "I",
+      "II",
+      "IV",
+      "V",
+      "VI",
+      "VII",
+      "VIII",
+      "IX",
+      "X",
+      "XI",
+      "XII",
+      "XIII"
+    ],
+    "domains_null": [
+      "III"
+    ],
+    "domain_para_counts": {
+      "V": 245,
+      "VII": 129,
+      "XI": 86,
+      "VI": 67,
+      "VIII": 53,
+      "XIII": 36,
+      "II": 22,
+      "I": 20,
+      "X": 16,
+      "IX": 12,
+      "IV": 6,
+      "XII": 4
+    },
+    "discourse_mode_counts": {
+      "proposition": 415,
+      "narrative": 167,
+      "observation": 93,
+      "formalization": 75,
+      "prescription": 28,
+      "ritual": 15
+    },
+    "paras_total": 620,
+    "paras_no_domain": 192,
+    "group_hit_rates": {
+      "G1 天地曆數": "2/126 (2%)",
+      "G2 道論": "100/108 (93%)",
+      "G3 政論與兵論": "175/199 (88%)",
+      "G4 故事": "98/102 (96%)",
+      "G5 格言串": "50/54 (93%)",
+      "G6 書序": "3/31 (10%)"
+    },
+    "verdict": "淮南子 620 段，12／13、命中 428 段（69%）。**命中與否幾乎完全由體例群決定**：天文、墬形、時則三篇 126 段只過了 2 段（登錄之外閘門的預期結果），書序群 31 段過 3 段；其餘四群都在 88%–96%。V 245 段獨大——主術、兵略、氾論、泰族都在談君主怎麼用人、怎麼因勢，淮南子的政治論是這部書的主體；VII 129 段與 XI 86 段次之，後者集中在人間訓的禍福相倚故事與道論群的「時」。**III（愛）全書掛零**，是本庫大部頭少見的空格：淮南子談人情幾乎全從治術與養生角度切入，不從親密關係切入。XII 只 4 段——覽冥訓的感應論多被判為 I／XIII 的宇宙觀與安頓，而非信仰實踐。判讀者 minimax-m3 全書單一，b27 一批有手修記錄（見 method）。"
+  }
 }

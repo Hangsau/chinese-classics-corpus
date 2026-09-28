@@ -25,12 +25,15 @@
 
 **這三部與本庫慣例的差異（據實記錄）**：沒有做 READING 通讀報告、沒有 `accept.py` 自檢與變異測試，驗收只跑 `check-delegation-out` ＋ `check-reason-quotes`（三部引句 0 誤差）。理由是體量小（28／83／102 段）且由 Opus 直接逐段判讀，不存在「判者讀不到 SPEC」的風險；**日後若要重判，判讀者是 claude-opus-5-5、判準見各自 SPEC.md**。mozi 的 28 段是用 script 直接寫進 annotations.json（依 read_paragraphs 重算錨點），沒走 annotate.py，verify 錨點檢查全過。
 
-**3. 淮南子（620 段）發包中**
+**3. 淮南子（620 段）2026-09-28 全數標完**
 
 - `delegation/huainanzi/SPEC.md`：六群六閘門（G1 天地曆數登錄之外／G2 道論替換測試／G3 政論兵論怎麼治之外／G4 故事刪掉這一則／G5 格言串逐條／G6 書序），六條配套，硬規則第 7 條把「刪原文引號再引」的失敗形態逐字寫死
 - `delegation/huainanzi/accept.py bNN`：A1 覆蓋、A2 值域與上限、A3 九個位置錨點、A4 引句（>1 條不符即 FAIL）
 - `delegation/huainanzi/run-m3.sh b01 …`：串行派 `claude-m3-lite`（MiniMax-M3，不吃 Claude 配額），每批驗收過才 commit 才派下一批，兩次不過即停
-- 32 批（每章另起一批，≤7000 字）。進度看 `delegation/huainanzi/out/` 與 git log。**全部回收後**：`make-scaffold` → `apply-delegation --tagged-by minimax-m3` → psych_survey（逐群命中率）→ build-index → verify
+- 32 批（每章另起一批，≤7000 字）全數回收並套回：`make-scaffold` → `apply-delegation --tagged-by minimax-m3`（620/620）→ 手寫 psych_survey → `annotate stats` → `build-index` → `verify`（0 errors）
+- **結果**：12／13、命中 428 段（69%），III 全書掛零。逐群命中率 G1 天地曆數 2%、G2 道論 93%、G3 政論兵論 88%、G4 故事 96%、G5 格言串 93%、G6 書序 10%——命中與否幾乎完全由體例群決定，SPEC 的分群閘門如預期運作
+- **發包過程的三個事故（據實記錄）**：① b05 第一次卡 15 分鐘無輸出 → runner 加 `timeout 900`；② MiniMax 兩度在 repo 根目錄留下暫存檔（`ss_*.txt`、`out_tmp/`），第二次觸發 runner 的「動到輸出檔以外的檔案」防護而停下——驗收都過、追蹤檔零改動，清掉暫存後手動 commit 續派；③ b27 兩次驗收都差 3 條引句（巢狀引號寫成『』、省略號直接接在引句裡），Claude 手修後通過
+- `check-reason-quotes` 1644 段引句中 8 條「不在本段」，全是天文訓 62–90 的「…」節引（accept.py 接受節引，check-reason-quotes 不接受），不是捏造
 
 ## 2026-09-28：盤點清理，76 → 72 部
 
