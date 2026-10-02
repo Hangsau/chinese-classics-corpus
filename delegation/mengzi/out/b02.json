@@ -1,0 +1,507 @@
+{
+  "batch": "b02.md",
+  "rows": [
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 1,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「暴見於王，王語暴以好樂」純對話開場，述莊暴見王之事，未對人性、政事或民心作主張"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 2,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「王之好樂甚，則齊國其庶幾乎」將君主的好樂與國之治亂相連，觸及 V（群體／民心與領導）"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 3,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「寡人非能好先王之樂也，直好世俗之樂耳」王自陳偏好，屬對話中的人物自陳，承重在後段"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 4,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「今之樂猶古之樂也」短前提，引出下文，無獨立承重主張"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 5,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「獨樂樂，與人樂樂，孰樂」對話詢問偏好，純鋪墊"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 6,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「與少樂樂，與眾樂樂，孰樂」對話詢問偏好，純鋪墊"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 7,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "reason": "「此無他，不與民同樂也」以百姓疾首蹙頞對照不與民同樂，斷言君主之樂與民心相背，V（公義／民心）"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 8,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "reason": "「此無他，與民同樂也」以百姓欣欣然有喜色對照與民同樂，斷言與民同樂致民心歸向，V（公義／民心）"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 9,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「文王之囿方七十里，有諸」歷史提問，純對話"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 10,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「於傳有之」短答，無承重"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 11,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「寡人之囿方四十里，民猶以為大，何也」對話詢問，無承重"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 12,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "reason": "「文王之囿方七十里，芻蕘者往焉，雉兔者往焉，與民同之」以文王之囿與民共之對照方四十里為阱於國中，V（公義／民心）"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 13,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「交鄰國有道乎」外交提問，純對話"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 14,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「以大事小者，樂天者也；以小事大者，畏天者也。樂天者保天下，畏天者保其國」以外交策略為主，主張仁者事小、智者事大，V（公義／領導）"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 15,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「寡人有疾，寡人好勇」王自陳偏好，純對話"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 16,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "reason": "「文王一怒而安天下之民」「武王亦一怒而安天下之民」區分小勇與大勇，主張大勇在安定天下之民，V（公義／領導）"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 17,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「賢者亦有此樂乎」提問，純對話"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 18,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「樂民之樂者，民亦樂其樂；憂民之憂者，民亦憂其憂。樂以天下，憂以天下，然而不王者，未之有也」主張君主與民同樂同憂方能王天下，V（公義／民心）"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 19,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「師行而糧食，飢者弗食，勞者弗息。睊睊胥讒，民乃作慝」描述巡狩失序致民之怨，呼應先王無流連之樂、荒亡之行，V（公義／風俗）"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 20,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「人皆謂我毀明堂」提問，純對話"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 21,
+      "domains": [],
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "reason": "「王欲行王政，則勿毀之矣」對明堂存毀之純政策條目，未對人性或民心作主張"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 22,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「王政可得聞與」提問，純對話"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 23,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「此四者，天下之窮民而無告者。文王發政施仁，必先斯四者」於王政條目中特別指出鰥寡孤獨為優先對象，V（公義／社會優先）"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 24,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「王如善之，則何為不行」反問，純對話"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 25,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「寡人有疾，寡人好貨」王自陳偏好，純對話"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 26,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "prescription",
+        "narrative"
+      ],
+      "reason": "「王如好貨，與百姓同之，於王何有」引公劉好貨之例而主張君主當與百姓共之，V（公義／民心）"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 27,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「寡人有疾，寡人好色」王自陳偏好，純對話"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 28,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "prescription",
+        "narrative"
+      ],
+      "reason": "「王如好色，與百姓同之，於王何有」引大王好色之例，主張使內無怨女外無曠夫，V（公義／民心）"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 29,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「王之臣有託其妻子於其友，而之楚遊者。比其反也，則凍餒其妻子，則如之何」假設情境提問，純對話鋪墊"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 30,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「士師不能治士，則如之何」反問，純對話鋪墊"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 31,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「四境之內不治，則如之何」反問，純對話鋪墊"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 32,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「所謂故國者，非謂有喬木之謂也，有世臣之謂也。王無親臣矣」定義故國在世臣，並直言王無親臣，V（公義／用人與領導）"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 33,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「吾何以識其不才而舍之」提問，純對話"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 34,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「國君進賢，如不得已，將使卑踰尊，疏踰戚，可不慎與」提出國君進退人才之程序與原則，V（公義／用人）"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 35,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「湯放桀，武王伐紂，有諸」歷史提問，純對話"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 36,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「於傳有之」短答，無承重"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 37,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「賊仁者謂之賊，賊義者謂之殘，殘賊之人謂之一夫。聞誅一夫紂矣，未聞弒君也」以仁義為據給予賊、殘、一夫之道德定義，並主張誅一夫非弒君，VII（善惡／品格）"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 38,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "reason": "「夫人幼而學之，壯而欲行之」以學有所專之理反對治國家者令人捨其所學，用工師、匠人、玉人之喻對比，V（公義／用人）"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 39,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「取之，何如」戰後是否取燕之提問，純對話"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 40,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「取之而燕民悅，則取之。古之人有行之者，武王是也。取之而燕民不悅，則勿取」以燕民悅否為取與不取之判準，V（公義／民心）"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 41,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「諸侯多謀伐寡人者，何以待之」外交提問，純對話"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 42,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "reason": "「誅其君而弔其民，若時雨降，民大悅」以湯征葛為例說明誅君弔民得民心悅服，V（公義／民心）"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 43,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「王速出令，反其旄倪，止其重器，謀於燕眾，置君而後去之，則猶可及止也」對齊王處理燕國之具體處置，V（公義／外交）"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 44,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「吾有司死者三十三人，而民莫之死也」「疾視其長上之死而不救」描述鄒魯之變與穆公之困，純對話"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 45,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「君行仁政，斯民親其上、死其長矣」主張行仁政則民心親上而死其長，回應穆公之問，V（公義／民心與領導）"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 46,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「滕，小國也，間於齊楚。事齊乎？事楚乎」外交提問，純對話"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 47,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「鑿斯池也，築斯城也，與民守之，效死而民弗去，則是可為也」以與民共守為小國自處之方，V（公義／民心）"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 48,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「齊人將築薛，吾甚恐。如之何則可」外交提問，純對話"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 49,
+      "domains": [
+        "XI"
+      ],
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "reason": "「若夫成功，則天也。君如彼何哉？彊為善而已矣」將成功歸之天、把可努力者推回人力的當行，XI（命／人力之分）"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 50,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「滕，小國也。竭力以事大國，則不得免焉。如之何則可」外交提問，純對話"
+    }
+  ]
+}
