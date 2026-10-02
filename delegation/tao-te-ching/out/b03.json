@@ -1,0 +1,166 @@
+{
+  "batch": "b03.md",
+  "rows": [
+    {
+      "chapter": "51",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["observation", "proposition"],
+      "reason": "「道生之，德畜之，物形之，勢成之」並「長之育之；亭之毒之；養之覆之」並「生而不有，為而不恃，長而不宰，是謂玄德」皆道與德如何生養萬物之描述, 未落到人該如何活, 判空"
+    },
+    {
+      "chapter": "52",
+      "para_index": 1,
+      "domains": ["VI", "VII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "「塞其兌，閉其門，終身不勤」並「見小曰明，守柔曰強」是閉兌門、見小之虛靜 prescription, 屬 VI; 「守柔曰強」並「用其光，復歸其明，無遺身殃；是為習常」是守柔/復明之品格 proposition 與 prescription, 屬 VII"
+    },
+    {
+      "chapter": "53",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「大道甚夷，而民好徑」並「朝甚除，田甚蕪，倉甚虛；服文綵，帶利劍，厭飲食，財貨有餘；是謂盜夸」皆治者與社會風氣之批判, 屬 V; 「非道也哉」是對盜夸者之 prescription, 亦 V"
+    },
+    {
+      "chapter": "54",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「修之於身，其德乃真；修之於家，其德乃餘；修之於鄉，其德乃長；修之於國，其德乃豐；修之於天下，其德乃普」是德由身修至天下之治道 prescription, 屬 V; 「善建不拔，善抱者不脫」並「以身觀身，以家觀家，以鄉觀鄉，以國觀國，以天下觀天下」是德性之命題與治者知天下之命題, 屬 V/VII"
+    },
+    {
+      "chapter": "55",
+      "para_index": 1,
+      "domains": ["VII", "XI"],
+      "modes": ["observation", "proposition"],
+      "reason": "「含德之厚，比於赤子」並「骨弱筋柔而握固」並「精之至也」「和之至也」是以赤子命題德在身, 屬 VII; 「物壯則老，謂之不道，不道早已」是物壯老之禍福命題, 屬 XI"
+    },
+    {
+      "chapter": "56",
+      "para_index": 1,
+      "domains": ["VII", "V"],
+      "modes": ["proposition"],
+      "reason": "「塞其兑，閉其門，挫其銳，解其分，和其光，同其塵，是謂玄同」是玄同之品格命題, 屬 VII; 「不可得而親，不可得而踈；不可得而利，不可得而害；不可得而貴，不可得而賤。故為天下貴」是玄同者之天下貴命題, 屬 V"
+    },
+    {
+      "chapter": "57",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「以正治國，以奇用兵，以無事取天下」是治道之命題, 屬 V; 「天下多忌諱，而民彌貧；民多利器，國家滋昏；人多伎巧，奇物滋起；法令滋彰，盜賊多有」是治道因果命題, 亦 V; 「我無為，而民自化；我好靜，而民自正；我無事，而民自富；我無欲，而民自樸」是治者 prescription, 亦 V"
+    },
+    {
+      "chapter": "58",
+      "para_index": 1,
+      "domains": ["V", "XI", "VII"],
+      "modes": ["proposition"],
+      "reason": "「其政悶悶，其民淳淳；其政察察，其民缺缺」是治/民之命題, 屬 V; 「禍兮福之所倚，福兮禍之所伏」並「正復為奇，善復為妖」是禍福相依之命題, 屬 XI; 「是以聖人方而不割，廉而不劌，直而不肆，光而不燿」是聖人品格之 prescription, 屬 VII"
+    },
+    {
+      "chapter": "59",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["prescription"],
+      "reason": "「治人事天莫若嗇」並「早服謂之重積德；重積德則無不克；無不克則莫知其極；莫知其極，可以有國；有國之母，可以長久」是治者治國之 prescription, 屬 V; 「嗇」「早服」「重積德」並「深根固柢，長生久視之道」是治者德性 prescription, 屬 VII"
+    },
+    {
+      "chapter": "60",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「治大國若烹小鮮」並「以道蒞天下」是治道之命題與 prescription, 屬 V; 「非其鬼不神，其神不傷人；非其神不傷人，聖人亦不傷人」是治者不傷之治道 prescription, 屬 V; 「夫兩不相傷，故德交歸焉」是德交歸之命題, 屬 VII"
+    },
+    {
+      "chapter": "61",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「大國者下流，天下之交，天下之牝」並「大國以下小國，則取小國；小國以下大國，則取大國」是大國小國關係之治道命題, 屬 V; 「牝常以靜勝牡，以靜為下」並「大者宜為下」是靜/下之品格 prescription, 屬 VII"
+    },
+    {
+      "chapter": "62",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「善人之寶，不善人之所保」並「人之不善，何棄之有」是道之於善不善人之命題, 屬 V; 「故立天子，置三公」並「古之所以貴此道者何？不曰：以求得，有罪以免耶」並「故為天下貴」是治道命題, 亦 V"
+    },
+    {
+      "chapter": "63",
+      "para_index": 1,
+      "domains": ["VII", "V"],
+      "modes": ["prescription", "proposition"],
+      "reason": "「為無為，事無事，味無味」並「大小多少，報怨以德」並「輕諾必寡信，多易必多難」是行事之品格 prescription, 屬 VII; 「天下難事，必作於易，天下大事，必作於細」並「是以聖人終不為大，故能成其大」並「是以聖人猶難之，故終無難矣」是治者 prescription, 屬 V"
+    },
+    {
+      "chapter": "64",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["prescription", "proposition"],
+      "reason": "「其安易持，其未兆易謀」並「為之於未有，治之於未亂」並「民之從事，常於幾成而敗之」是治者治道 prescription, 屬 V; 「聖人無為故無敗；無執故無失」並「聖人欲不欲，不貴難得之貨；學不學，復衆人之所過，以輔萬物之自然，而不敢為」是聖人品格 prescription, 屬 VII; 「合抱之木，生於毫末；九層之臺，起於累土；千里之行，始於足下」是觀物之命題支撐治道, 亦 V"
+    },
+    {
+      "chapter": "65",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["prescription"],
+      "reason": "「古之善為道者，非以明民，將以愚之」並「民之難治，以其智多」並「故以智治國，國之賊；不以智治國，國之福」是治者 prescription, 屬 V; 「常知𥡴式，是謂玄德」並「玄德深矣，遠矣，與物反矣，然後乃至大順」是治者玄德 prescription, 亦 V"
+    },
+    {
+      "chapter": "66",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「江海所以能為百谷王者，以其善下之，故能為百谷王」是善下之命題, 屬 VII; 「聖人欲上民，必以言下之；欲先民，必以身後之」並「聖人處上而民不重，處前而民不害」並「以其不爭，故天下莫能與之爭」是治者 prescription, 屬 V"
+    },
+    {
+      "chapter": "67",
+      "para_index": 1,
+      "domains": ["VII", "XII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「我有三寶，持而保之。一曰慈，二曰儉，三曰不敢為天下先」並「慈故能勇；儉故能廣；不敢為天下先，故能成器長」是三寶之品格 prescription, 屬 VII; 「天將救之，以慈衛之」是認證天會護助以慈者, 屬 XII"
+    },
+    {
+      "chapter": "68",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「善為士者，不武；善戰者，不怒；善勝敵者，不與；善用人者，為之下」並「是謂不爭之德，是謂用人之力」是不武/不怒/不與/為下之品格命題, 屬 VII"
+    },
+    {
+      "chapter": "69",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「用兵有言：吾不敢為主，而為客；不敢進寸，而退尺」並「禍莫大於輕敵，輕敵幾喪吾寶」是用兵治道命題, 屬 V; 「故抗兵相加，哀者勝矣」是哀者勝之品格 prescription, 屬 VII"
+    },
+    {
+      "chapter": "70",
+      "para_index": 1,
+      "domains": ["II", "VII"],
+      "modes": ["expression", "proposition"],
+      "reason": "「吾言甚易知，甚易行。天下莫能知，莫能行」並「夫唯無知，是以不我知。知我者希，則我者貴」是第一人稱自況不被理解, 屬 II (自我); 「言有宗，事有君」並「聖人被褐懷玉」是聖人品格之命題, 屬 VII"
+    },
+    {
+      "chapter": "71",
+      "para_index": 1,
+      "domains": ["II"],
+      "modes": ["proposition"],
+      "reason": "「知不知上；不知知病」並「夫唯病病，是以不病。聖人不病，以其病病，是以不病」是自知/不知之自我認知命題, 屬 II"
+    },
+    {
+      "chapter": "72",
+      "para_index": 1,
+      "domains": ["V", "II", "VII"],
+      "modes": ["proposition"],
+      "reason": "「民不畏威，則大威至」並「無狎其所居，無厭其所生」是治/民之命題, 屬 V; 「聖人自知不自見」是自知之自我命題, 屬 II; 「自愛不自貴」是自愛不自貴之品格命題, 屬 VII"
+    },
+    {
+      "chapter": "73",
+      "para_index": 1,
+      "domains": ["VII", "XII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「勇於敢則殺，勇於不敢則活」並「此兩者，或利或害」是敢與不敢之品格命題, 屬 VII; 「天之道，不爭而善勝，不言而善應，不召而自來，繟然而善謀」並「天網恢恢，踈而不失」是認證天之道與天網之不漏, 屬 XII"
+    }
+  ]
+}
