@@ -1,0 +1,414 @@
+{
+  "batch": "b07.md",
+  "rows": [
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 1,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "「枉尺而直尋」以利害勸孟子見諸侯，討論士人是否該為王霸而折節，落在品格與君臣應對的取捨"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 2,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "「御者且羞與射者比」「枉己者，未有能直人者也」以御者不與小人乘為喻，主張士人出處進退的品格"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 3,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「一怒而諸侯懼，安居而天下熄」對公孫衍、張儀作人物品評，把能使諸侯畏服當作大丈夫的判定"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 4,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "reason": "「富貴不能淫，貧賤不能移，威武不能屈」給出大丈夫的品格定義，「得志與民由之」並把大丈夫連到對民眾的責任"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 5,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「古之君子仕乎」只是問古之君子是否出仕，本身沒有主張"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 6,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「孔子三月無君，則皇皇如也」引傳與公明儀記孔子與古人之急於求仕，觀察士人與君的關係"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 7,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「三月無君則弔，不以急乎」只是追問三月無君是否太急，本身沒有主張"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 8,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「士之失位也，猶諸侯之失國家也」以諸侯失國類比士之失位，主張士人之於社會如同國君之於國家"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 9,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「士之仕也，猶農夫之耕也」以農夫不離耒耜類比士人之出仕，主張仕是士的本職"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 10,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「君子之難仕，何也」只是追問晉國為何難仕，本身沒有主張"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 11,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「不由其道而往者，與鑽穴隙之類也」以鑽穴相窺類比不由正道求仕，主張求仕當合於道"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 12,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「後車數十乘，從者數百人，以傳食於諸侯，不以泰乎」只是問隨從受諸侯供給是否過分，本身沒有主張"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 13,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「非其道，則一簞食不可受於人」主張是否受人供養以道為準，落在品格與君臣/社會關係的判斷"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 14,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「士無事而食，不可也」主張士人不能無事而食，落在士人於社會的角色與責任"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 15,
+      "domains": [
+        "V",
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「子何尊梓匠輪輿而輕為仁義者哉」主張仁義之功不下於梓匠輪輿，論社會對仁義者的價值承認"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 16,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「君子之為道也，其志亦將以求食與」只是反問君子求道是否也為求食，本身沒有主張"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 17,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「食志乎？食功乎」只是追問當食志還是食功，本身沒有主張"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 18,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「有人於此，毀瓦畫墁，其志將以求食也，則子食之乎」只是舉例追問，本身沒有主張"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 19,
+      "domains": [
+        "VIII",
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「子非食志也，食功也」主張當食功不食志，落在事功與社會評價"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 20,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「宋，小國也。今將行王政，齊楚惡而伐之，則如之何」只是問宋行王政被齊楚伐該如何，本身沒有主張"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 21,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "「民之望之，若大旱之望雨也」「民大悅」以湯征葛故事承重民心向背，主張民心是王政之所在"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 22,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「子欲子之王之善與」點出王欲為善的主題，把王之善與否放在君臣關係中討論"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 23,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "「一薛居州，獨如宋王何」以齊人傅楚人為喻，主張王之品格繫於左右之人，是品格與用人兩面"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 24,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「不見諸侯何義」只是問不見諸侯的義理，本身沒有主張"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 25,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "reason": "「君子之所養可知已矣」由古禮與陽貨、曾子、子路事論君子出處之養，落在品格與君臣應對"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 26,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「什一，去關市之征，今茲未能。請輕之，以待來年，然後已，何如」是減稅的政令提議，屬政策條目"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 27,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "「如知其非義，斯速已矣，何待來年」以攘雞為喻，主張知非義即當速止，落在道德實踐"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 28,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「外人皆稱夫子好辯，敢問何也」只是問外界為何稱孟子好辯，本身沒有主張"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 29,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「人得平土而居之」敘禹治水使民得定居，落於社會秩序與民生"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 30,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「天下大悅」敘周公誅紂伐奄後天下悅服，落於社會秩序"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 31,
+      "domains": [
+        "V",
+        "VII"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "「孔子懼，作《春秋》」敘孔子因亂世作春秋以明是非，落於政治秩序與道德裁斷"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 32,
+      "domains": [
+        "V",
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「楊氏為我，是無君也；墨氏兼愛，是無父也」批楊墨無父無君會率獸食人，落在社會秩序與仁義根本"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 33,
+      "domains": [
+        "V",
+        "VII"
+      ],
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "reason": "「我亦欲正人心，息邪說，距詖行，放淫辭」自述承三聖者距楊墨的責任，落在社會承擔與仁義維護"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 34,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "observation",
+        "narrative"
+      ],
+      "reason": "「陳仲子豈不誠廉士哉」描述仲子三日不食匍匐食李之行為，品評其為廉士"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 35,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "reason": "「仲子惡能廉」質疑仲子所居室與粟未必義取，否定其廉的可成立性"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 36,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「彼身織屨，妻辟纑，以易之也」說明仲子自織易食以證其廉"
+    },
+    {
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 37,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "reason": "「蚓而後充其操者也」舉仲子食母鵝吐兄芋等矛盾，論其操守無法充類"
+    }
+  ]
+}
