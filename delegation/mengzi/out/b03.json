@@ -1,0 +1,33 @@
+{
+  "batch": "b03.md",
+  "rows": [
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 51,
+      "domains": ["V"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「君子不以其所以養人者害人」對君主提出以民為重之行為原則，「仁人也」評價大王之品格，V（公義／領導）"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 52,
+      "domains": ["V"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「禮義由賢者出」以賢者出禮義為據主張君主當以禮義判人，引「孟子之後喪踰前喪」勸阻魯平公勿見孟子，V（公義／用人）"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 53,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「非所謂踰也，貧富不同也」樂正子純對話澄清孟子後喪踰前喪之實情，未對人性或民心作承重主張"
+    },
+    {
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 54,
+      "domains": ["XII"],
+      "modes": ["proposition"],
+      "reason": "「吾之不遇魯侯，天也」明示天為不遇之因，並以「臧氏之子焉能使予不遇哉」排除人為阻撓，認證天對人事之意志與作用，XII（信仰／天）"
+    }
+  ]
+}
