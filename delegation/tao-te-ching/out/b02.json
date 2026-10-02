@@ -1,0 +1,180 @@
+{
+  "batch": "b02.md",
+  "rows": [
+    {
+      "chapter": "26",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「重為輕根，靜為躁君」並「輕則失本，躁則失君」是治者本末之命題, 屬 V；「奈何萬乘之主，而以身輕天下」是治者 prescription, 亦 V"
+    },
+    {
+      "chapter": "27",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「是以聖人常善救人，故無棄人；常善救物，故無棄物」是治者 prescription, 屬 V；「不貴其師，不愛其資，雖智大迷」是品格命題, 屬 VII"
+    },
+    {
+      "chapter": "28",
+      "para_index": 1,
+      "domains": ["VII", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「知其雄，守其雌，為天下谿」並「知其白，守其黑，為天下式」並「知其榮，守其辱，為天下谷」是三知三守之品格命題, 屬 VII；「聖人用之，則為官長，故大制不割」是治道 prescription, 屬 V"
+    },
+    {
+      "chapter": "29",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「天下神器，不可為也，為者敗之，執者失之」是治者之命題, 屬 V；「是以聖人去甚，去奢，去泰」是治者 prescription, 亦 V"
+    },
+    {
+      "chapter": "30",
+      "para_index": 1,
+      "domains": ["V", "XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「以道佐人主者，不以兵強天下」並「師之所處，荊棘生焉」並「大軍之後，必有凶年」是治道之命題, 屬 V；「物壯則老，是謂不道，不道早已」是禍福之命題, 屬 XI"
+    },
+    {
+      "chapter": "31",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「兵者不祥之器，非君子之器，不得已而用之」是治道之命題, 屬 V；「殺人之衆，以哀悲泣之，戰勝以喪禮處之」是治者 prescription, 亦 V"
+    },
+    {
+      "chapter": "32",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「侯王若能守之，萬物將自賓」並「知止所以不殆」是治道之命題與 prescription, 屬 V；「譬道之在天下，猶川谷之與江海」以道為比喻支撐治道主張, 亦 V"
+    },
+    {
+      "chapter": "33",
+      "para_index": 1,
+      "domains": ["II", "VI"],
+      "modes": ["proposition"],
+      "reason": "「知人者智，自知者明」並「勝人者有力，自勝者強」並「強行者有志」是自我認知之命題, 屬 II；「知足者富」並「不失其所者久」是內在生活之命題, 屬 VI"
+    },
+    {
+      "chapter": "34",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「功成不名有」並「衣養萬物而不為主」並「以其終不自為大，故能成其大」是不自為大之品格命題, 屬 VII"
+    },
+    {
+      "chapter": "35",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「執大象，天下往」並「往而不害，安平大」是治道之命題, 屬 V；「道之出口，淡乎其無味」以道為比喻支撐治道主張, 亦 V"
+    },
+    {
+      "chapter": "36",
+      "para_index": 1,
+      "domains": ["XI", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「將欲歙之，必固張之」並「將欲弱之，必固強之」並「將欲奪之，必固與之」是禍福相依之命題, 屬 XI；「柔弱勝剛強」並「國之利器不可以示人」是品格與治者之 prescription, 屬 VII"
+    },
+    {
+      "chapter": "37",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「侯王若能守之，萬物將自化」是治道之命題, 屬 V；「不欲以靜，天下將自定」是治者 prescription, 亦 V"
+    },
+    {
+      "chapter": "38",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「上德不德，是以有德」並「夫禮者，忠信之薄，而亂之首」是德性之命題, 屬 VII；「處其厚，不居其薄」並「處其實，不居其華」是品格 prescription, 亦 VII"
+    },
+    {
+      "chapter": "39",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「侯王得一以為天下貞」並「是以侯王自稱孤、寡、不穀」是治道之命題與 prescription, 屬 V"
+    },
+    {
+      "chapter": "40",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["proposition"],
+      "reason": "「反者道之動；弱者道之用」並「天下萬物生於有，有生於無」皆道體描述與宇宙生成, 未落到人, 判空"
+    },
+    {
+      "chapter": "41",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「明道若昧」並「上德若谷」並「廣德若不足」並「建德若偷」是道與德之反命題與品格命題, 屬 VII"
+    },
+    {
+      "chapter": "42",
+      "para_index": 1,
+      "domains": ["V", "XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「人之所惡，唯孤、寡、不穀，而王公以為稱」是治者之命題, 屬 V；「強梁者不得其死，吾將以為教父」是禍福之命題, 屬 XI"
+    },
+    {
+      "chapter": "43",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「無有入無間，吾是以知無為之有益」是無為之命題, 屬 V；「不言之教，無為之益」是治道 prescription, 亦 V"
+    },
+    {
+      "chapter": "44",
+      "para_index": 1,
+      "domains": ["I", "XIII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「名與身孰親？身與貨孰多」是本末輕重之命題, 屬 I；「知足不辱，知止不殆，可以長久」是安頓 prescription, 屬 XIII"
+    },
+    {
+      "chapter": "45",
+      "para_index": 1,
+      "domains": ["VII", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「大成若缺，其用不弊」並「大盈若沖」並「大直若屈」並「大巧若拙」並「大辯若訥」是品格反命題, 屬 VII；「清靜為天下正」是治道 prescription, 屬 V"
+    },
+    {
+      "chapter": "46",
+      "para_index": 1,
+      "domains": ["V", "XI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「天下有道，卻走馬以糞」並「天下無道，戎馬生於郊」是治道之命題, 屬 V；「禍莫大於不知足」並「咎莫大於欲得」是禍福之命題, 屬 XI；「故知足之足，常足矣」是治者 prescription, 亦 V"
+    },
+    {
+      "chapter": "47",
+      "para_index": 1,
+      "domains": ["II", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「不出戶知天下」並「其出彌遠，其知彌少」是認知的限度之命題, 屬 II；「是以聖人不行而知，不見而名，不為而成」是治道 prescription, 屬 V"
+    },
+    {
+      "chapter": "48",
+      "para_index": 1,
+      "domains": ["VIII", "V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「為學日益，為道日損」是學與道之命題, 屬 VIII；「取天下常以無事」是治道 prescription, 屬 V"
+    },
+    {
+      "chapter": "49",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「聖人無常心，以百姓心為心」並「善者，吾善之；不善者，吾亦善之；德善」是治者之命題, 屬 V；「信者，吾信之；不信者，吾亦信之；德信」是治者 prescription, 亦 V"
+    },
+    {
+      "chapter": "50",
+      "para_index": 1,
+      "domains": ["X", "XI"],
+      "modes": ["proposition"],
+      "reason": "「出生入死」是生死之命題, 屬 X；「生之徒，十有三；死之徒，十有三」並「人之生，動之死地，十有三」是命運之命題, 屬 XI"
+    }
+  ]
+}
