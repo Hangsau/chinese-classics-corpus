@@ -1,0 +1,264 @@
+{
+  "batch": "b08.md",
+  "rows": [
+    {
+      "chapter": "li-lou-i",
+      "para_index": 1,
+      "domains": ["VII", "V"],
+      "modes": ["proposition"],
+      "reason": "「堯舜之道，不以仁政，不能平治天下。今有仁心仁聞而民不被其澤，不可法於後世者，不行先王之道也」主張行仁政才能治天下，並把「仁心仁聞」之有無連到能否法後世，落在德性與政治秩序"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 2,
+      "domains": ["VII", "V"],
+      "modes": ["proposition"],
+      "reason": "「既竭心思焉，繼之以不忍人之政，而仁覆天下矣」主張以不忍人之政行仁而覆天下，是德性主張也是治國之方"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 3,
+      "domains": ["VII", "V"],
+      "modes": ["proposition"],
+      "reason": "「是以惟仁者宜在高位。不仁而在高位，是播其惡於眾也」以仁者居高位為善之標的，並論不仁者在高位之禍，是品格與政治責任的判斷"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 4,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「上無禮，下無學，賊民興，喪無日矣」以禮學淪喪為國亡之兆，是社會風俗的判斷；「責難於君謂之恭，陳善閉邪謂之敬」給臣道之德"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 5,
+      "domains": ["VII", "V"],
+      "modes": ["proposition"],
+      "reason": "「聖人，人倫之至也」「暴其民甚，則身弒國亡；不甚，則身危國削」以聖人為人倫之極，並以暴民之禍論君主暴行的因果，是品格與治國的雙重判斷"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 6,
+      "domains": ["VII", "V"],
+      "modes": ["proposition"],
+      "reason": "「三代之得天下也以仁，其失天下也以不仁」主張得國以仁、失國以不仁；「天子不仁，不保四海」落到君主保民之責"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 7,
+      "domains": ["VII", "II"],
+      "modes": ["proposition"],
+      "reason": "「愛人不親反其仁，治人不治反其智，禮人不答反其敬。行有不得者，皆反求諸己，其身正而天下歸之」主張反求諸己以修身，是德性與自我認知的雙重命題"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 8,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「天下之本在國，國之本在家，家之本在身」主張身家國天下一體相連，落於政治社會的根本結構"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 9,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「為政不難，不得罪於巨室。巨室之所慕，一國慕之；一國之所慕，天下慕之；故沛然德教溢乎四海」論為政關鍵在得巨室之心以推德教，落於政治用人"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 10,
+      "domains": ["XI", "V"],
+      "modes": ["proposition"],
+      "reason": "「斯二者天也。順天者存，逆天者亡」以天為德賢/勢力消長的決定者，是命定之說（XI）；「天下有道，小德役大德，小賢役大賢」同時論有道無道下的秩序（V）"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 11,
+      "domains": ["V", "VII", "XII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「天命靡常」「上帝既命，侯于周服」引《詩》自認上帝/天在降命與否，是天命的認證，給 XII；「仁不可為眾也。夫國君好仁，天下無敵」主張國君好仁則天下無敵，給 VII；「師文王，大國五年，小國七年，必為政於天下矣」談師文王以治天下，給 V"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 12,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition"],
+      "reason": "「夫人必自侮，然後人侮之；家必自毀，而後人毀之；國必自伐，而後人伐之」主張人之榮辱皆自取，把敗亡歸於自身而非天命，是 VII (自取之責) 與 XI (成敗在己)"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 13,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「得其心有道：所欲與之聚之，所惡勿施爾也」說得民心之方，落於 V；「民之歸仁也，猶水之就下、獸之走壙也」以水獸喻民歸仁；「苟不志於仁，終身憂辱，以陷於死亡」以病艾喻不志仁之禍，給 VII"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 14,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "「仁，人之安宅也；義，人之正路也。曠安宅而弗居，舍正路而不由，哀哉」以居宅、行路為喻，主張仁義是人居處與行走之正道，是德性的根本命題"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 15,
+      "domains": ["IV", "V"],
+      "modes": ["proposition"],
+      "reason": "「道在爾而求諸遠，事在易而求之難。人人親其親、長其長而天下平」主張親親長長即可平天下，落於家庭倫理（IV）與社會秩序（V）"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 16,
+      "domains": ["VII", "II"],
+      "modes": ["proposition"],
+      "reason": "「是故誠者，天之道也；思誠者，人之道也。至誠而不動者，未之有也」以誠為天人共通之道，是德性根本；「不明乎善，不誠其身矣」「反身不誠，不悅於親矣」由反身誠身連到自我（II）"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 17,
+      "domains": ["IV", "V"],
+      "modes": ["narrative"],
+      "reason": "「二老者，天下之大老也，而歸之，是天下之父歸之也」敘伯夷太公因文王善養老而歸，落在尊老養老（IV）與天下歸心（V）"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 18,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "narrative"],
+      "reason": "「爭地以戰，殺人盈野；爭城以戰，殺人盈城」敘戰爭之殘酷；「率土地而食人肉，罪不容於死」定戰爭之罪於社會秩序（V）；「故善戰者服上刑，連諸侯者次之，辟草萊、任土地者次之」主張處罰善戰者，是德性之論"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 19,
+      "domains": ["VII", "II"],
+      "modes": ["observation"],
+      "reason": "「眸子不能掩其惡。胸中正，則眸子瞭焉；胸中不正，則眸子眊焉」以眸子觀胸中正不正，內在品格（VII）必顯於外表，是自我認知（II）的觀察"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 20,
+      "domains": ["VII", "V"],
+      "modes": ["proposition"],
+      "reason": "「恭者不侮人，儉者不奪人」陳恭儉不侮不奪之本質；「恭儉豈可以聲音笑貌為哉」否定恭儉可憑外飾，主張德性必以實質（VII）；「侮奪人之君」落到君主之責（V）"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 21,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「男女授受不親，禮與」淳于髡就禮之本發問，本身無主張"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 22,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「嫂溺則援之以手乎」孟子反問是否援嫂，本身無主張"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 23,
+      "domains": ["VII"],
+      "modes": ["narrative"],
+      "reason": "「嫂溺不援，是豺狼也。男女授受不親，禮也；嫂溺援之以手者，權也」主張嫂溺不援為豺狼之行，並以權變處理禮之例外，落於德性判斷"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 24,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「今天下溺矣，夫子之不援，何也」淳于髡詰問天下溺而夫子不援，本身無主張"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 25,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「天下溺，援之以道；嫂溺，援之以手。子欲手援天下乎」主張以道救天下而非手援，落於治世之方"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 26,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "「君子之不教子，何也」公孫丑問君子不教子之故，本身無主張"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 27,
+      "domains": ["IV"],
+      "modes": ["proposition"],
+      "reason": "「古者易子而教之。父子之間不責善。責善則離，離則不祥莫大焉」主張父子以善相責會相離，落於父子倫理"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 28,
+      "domains": ["IV", "II"],
+      "modes": ["proposition"],
+      "reason": "「事孰為大？事親為大；守孰為大？守身為大。不失其身而能事其親者，吾聞之矣」以事親守身並舉，落於孝親（IV）；「事親若曾子者，可也」以曾子養志為典範，兼涉自我持守（II）"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 29,
+      "domains": ["VII", "V"],
+      "modes": ["proposition"],
+      "reason": "「惟大人為能格君心之非。君仁莫不仁，君義莫不義，君正莫不正。一正君而國定矣」主張格君心之非以正國，落在君主品格（VII）與治國之責（V）"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 30,
+      "domains": ["II"],
+      "modes": ["observation"],
+      "reason": "「有不虞之譽，有求全之毀」觀察人有不虞之讚譽與求全之毀謗，是對人面對榮辱之觀察，落於自我處境（II）"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 31,
+      "domains": ["II"],
+      "modes": ["observation"],
+      "reason": "「人之易其言也，無責耳矣」觀察人輕易其言而無法責備，是對人言語輕率之觀察（II）"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 32,
+      "domains": ["II"],
+      "modes": ["observation"],
+      "reason": "「人之患在好為人師」觀察人之毛病在喜好為人師，是對自我之病的觀察（II）"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 33,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "「子聞之也，舍館定，然後求見長者乎」孟子責樂正子應先安館再見長者，落於弟子對長者應有之禮（V）"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 34,
+      "domains": ["VII", "II"],
+      "modes": ["proposition"],
+      "reason": "「子之從於子敖來，徒餔啜也。我不意子學古之道，而以餔啜也」責備樂正子學古道而只求酒食，是德性（VII）與志向（II）的雙重判斷"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 35,
+      "domains": ["IV"],
+      "modes": ["proposition"],
+      "reason": "「不孝有三，無後為大。舜不告而娶，為無後也，君子以為猶告也」以無後為不孝之最大者，落於傳嗣之孝（IV）"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 36,
+      "domains": ["VII", "IV"],
+      "modes": ["proposition"],
+      "reason": "「仁之實，事親是也；義之實，從兄是也。智之實，知斯二者弗去是也；禮之實，節文斯二者是也；樂之實，樂斯二者」把仁義禮智樂之實落到事親從兄，是德性之定義（VII）並繫於家庭倫理（IV）"
+    },
+    {
+      "chapter": "li-lou-i",
+      "para_index": 37,
+      "domains": ["IV"],
+      "modes": ["proposition"],
+      "reason": "「不得乎親，不可以為人；不順乎親，不可以為子。舜盡事親之道而瞽瞍厎豫」「此之謂大孝」以順親為人之子之本，以舜事瞽瞍為大孝之典範，落於孝親（IV）"
+    }
+  ]
+}
