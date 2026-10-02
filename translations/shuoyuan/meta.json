@@ -1,0 +1,22 @@
+{
+  "slug": "shuoyuan",
+  "name_zh": "說苑",
+  "name_en": "Garden of Persuasions",
+  "category": "儒家著述",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 劉向本",
+  "version_date": "漢",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/說苑",
+  "downloaded_at": "2026-07-05T17:23:08+00:00",
+  "size_bytes": 402383,
+  "checksum_sha256": "a0d2b7416cfb55f4c3c9f5056ff006650f8c6407b36b5473ca3fc9383fe7711f",
+  "chapter_count": 20,
+  "expected_chapter_count": null,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "次要",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：儒教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。 來源 notes：劉向輯先秦兩漢史事寓言以明儒家治道",
+  "psych_survey": null
+}

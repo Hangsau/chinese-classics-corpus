@@ -1,0 +1,22 @@
+{
+  "slug": "wunengzi",
+  "name_zh": "無能子",
+  "name_en": "Wunengzi",
+  "category": "道家",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "唐",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/無能子",
+  "downloaded_at": "2026-07-06T00:19:46+00:00",
+  "size_bytes": 33862,
+  "checksum_sha256": "8846968772af875a5827bb0ba7fdbcd3f25ced0c8b6d9ca3f8e74f2255ac7e8e",
+  "chapter_count": 23,
+  "expected_chapter_count": 23,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "次要",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：道教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 由宗教庫複製後做了結構修正：依維基文庫目錄卷上、卷中、卷下篇次（闕篇不補）。保留的 23 塊正文逐塊比對全等，只動章序與標題行編號。來源檔 SHA-256 0c527547e697031adcb1622b9706eabb7e62479074a31722d63c9d66bd6e1a9b。 來源 notes：晚唐佚名道家哲論，反名教、返自然；多子頁篇章",
+  "psych_survey": null
+}

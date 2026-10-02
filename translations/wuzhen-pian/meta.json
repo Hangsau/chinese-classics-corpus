@@ -1,0 +1,22 @@
+{
+  "slug": "wuzhen-pian",
+  "name_zh": "悟真篇",
+  "name_en": "Wuzhen pian",
+  "category": "內丹",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "北宋・張伯端",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/悟真篇",
+  "downloaded_at": "2026-07-05T17:12:33+00:00",
+  "size_bytes": 21032,
+  "checksum_sha256": "c1436104e68be6f16ad62185b8c65c0dbfc3cd29a0ebaa2534f086b153d70125",
+  "chapter_count": 1,
+  "expected_chapter_count": null,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "核心",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：道教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。 來源 notes：內丹學（金丹）根本經典，鍾呂丹道南宗祖經",
+  "psych_survey": null
+}

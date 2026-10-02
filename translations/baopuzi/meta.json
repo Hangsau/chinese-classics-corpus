@@ -1,0 +1,22 @@
+{
+  "slug": "baopuzi",
+  "name_zh": "抱朴子（內外篇）",
+  "name_en": "Baopuzi (Inner + Outer Chapters)",
+  "category": "道家",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 葛洪本",
+  "version_date": "4 世紀",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/抱朴子",
+  "downloaded_at": "2026-06-29T23:06:24+00:00",
+  "size_bytes": 594705,
+  "checksum_sha256": "2711ffe69ed823c1883029b094a00b116af88d96627ec6c5df78f605d7a3d6e4",
+  "chapter_count": 73,
+  "expected_chapter_count": null,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "核心",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：道教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。",
+  "psych_survey": null
+}

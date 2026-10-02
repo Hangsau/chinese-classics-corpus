@@ -1,0 +1,22 @@
+{
+  "slug": "zhouyi-cantong-qi",
+  "name_zh": "周易參同契",
+  "name_en": "Cantong Qi",
+  "category": "內丹",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "東漢",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/周易參同契",
+  "downloaded_at": "2026-06-29T22:57:26+00:00",
+  "size_bytes": 23610,
+  "checksum_sha256": "9de81eef999cc00be06eb02de4e187b6bf41af7ab67a9d6c8b33c7d57820f555",
+  "chapter_count": 35,
+  "expected_chapter_count": null,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "核心",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：道教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。",
+  "psych_survey": null
+}

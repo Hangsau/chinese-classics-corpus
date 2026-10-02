@@ -1,0 +1,22 @@
+{
+  "slug": "yi-li",
+  "name_zh": "儀禮",
+  "name_en": "Etiquette and Ceremonial",
+  "category": "經部",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "西漢",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/儀禮",
+  "downloaded_at": "2026-06-29T23:21:47+00:00",
+  "size_bytes": 209255,
+  "checksum_sha256": "a9c0e6ee6e3dd2ddff1326bfb097490c168434e247760aa43c64734f2c0c0ba7",
+  "chapter_count": 17,
+  "expected_chapter_count": 17,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "次要",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：儒教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 由宗教庫複製後做了結構修正：十七篇依鄭玄本篇次。保留的 17 塊正文逐塊比對全等，只動章序與標題行編號。來源檔 SHA-256 04338bde295734a4147d60d2698209042984169475d8f05c115c46727c3204d0。",
+  "psych_survey": null
+}

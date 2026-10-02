@@ -1,0 +1,22 @@
+{
+  "slug": "zuowang-lun",
+  "name_zh": "坐忘論",
+  "name_en": "Zuowang lun",
+  "category": "道教經典",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "唐・司馬承禎",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/坐忘論",
+  "downloaded_at": "2026-07-05T17:14:17+00:00",
+  "size_bytes": 19261,
+  "checksum_sha256": "e3b87e41a610e9259b0b9fcad509a1cf64b41cb1bd6c569acfb6f7c5c83a99fe",
+  "chapter_count": 1,
+  "expected_chapter_count": null,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "核心",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：道教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。 來源 notes：唐代道教心性修養論，坐忘七階",
+  "psych_survey": null
+}

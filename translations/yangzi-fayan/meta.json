@@ -1,0 +1,22 @@
+{
+  "slug": "yangzi-fayan",
+  "name_zh": "揚子法言",
+  "name_en": "Model Sayings",
+  "category": "儒家著述",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "西漢—新",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/法言",
+  "downloaded_at": "2026-06-29T23:26:32+00:00",
+  "size_bytes": 60431,
+  "checksum_sha256": "782075466675abb9af6e14ed58caec82a10fe2c50207be76827d124788c2a438",
+  "chapter_count": 14,
+  "expected_chapter_count": 14,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "次要",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：儒教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 由宗教庫複製後做了結構修正：去重。刪第 14 塊（〈14〉與〈序〉同文）。保留的 14 塊正文逐塊比對全等，只動章序與標題行編號。來源檔 SHA-256 e051bbea6eefa3e279211a3a1ae694d4f7c7635063a350ea40dbaf4e9f64852d。",
+  "psych_survey": null
+}

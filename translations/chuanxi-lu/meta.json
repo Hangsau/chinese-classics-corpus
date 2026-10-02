@@ -1,0 +1,22 @@
+{
+  "slug": "chuanxi-lu",
+  "name_zh": "傳習錄",
+  "name_en": "Records of Practical Learning",
+  "category": "理學",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 王陽明本",
+  "version_date": "明",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/傳習錄",
+  "downloaded_at": "2026-06-29T23:31:19+00:00",
+  "size_bytes": 243278,
+  "checksum_sha256": "4d5091c328ed1b027a4e2b655c1db7dc003740acfa9ce8efda5b9491d1c8de66",
+  "chapter_count": 3,
+  "expected_chapter_count": 3,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "次要",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：儒教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 由宗教庫複製後做了結構修正：卷上、卷中、卷下。保留的 3 塊正文逐塊比對全等，只動章序與標題行編號。來源檔 SHA-256 b6738867d7b9c3e3cfda5b4d5adc256bc392b7c9e80b487273c32438e2c09406。",
+  "psych_survey": null
+}

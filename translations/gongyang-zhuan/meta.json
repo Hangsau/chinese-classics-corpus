@@ -1,0 +1,22 @@
+{
+  "slug": "gongyang-zhuan",
+  "name_zh": "春秋公羊傳",
+  "name_en": "Gongyang Commentary",
+  "category": "經部",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "西漢",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/春秋公羊傳",
+  "downloaded_at": "2026-06-29T23:20:58+00:00",
+  "size_bytes": 171383,
+  "checksum_sha256": "037d0806a5d59530f22edf9385c006d6d0951e5819e276a3c5ba61a1cd149d63",
+  "chapter_count": 12,
+  "expected_chapter_count": 12,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "次要",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：儒教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 由宗教庫複製後做了結構修正：十二公依魯君世次。保留的 12 塊正文逐塊比對全等，只動章序與標題行編號。來源檔 SHA-256 b774d40da0947679b352e47a53e033c348bc363556f2fdefabfd93ab5d7636a1。",
+  "psych_survey": null
+}

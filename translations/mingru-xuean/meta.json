@@ -1,0 +1,22 @@
+{
+  "slug": "mingru-xuean",
+  "name_zh": "明儒學案",
+  "name_en": "Case Studies of Ming Confucians",
+  "category": "理學",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 黃宗羲本",
+  "version_date": "明清",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/明儒學案",
+  "downloaded_at": "2026-07-05T17:25:56+00:00",
+  "size_bytes": 2846338,
+  "checksum_sha256": "a0099aaf31a488468b3825a23d4f050f4455d9784d46269b227144f51e503ce8",
+  "chapter_count": 76,
+  "expected_chapter_count": 76,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "次要",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：儒教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 由宗教庫複製後做了結構修正：發凡、師說後接卷一至卷六十二（依維基文庫目錄）、附案；諸家序跋移末。刪第 75 塊（〈附錄〉與〈附案〉同文）；刪第 73 塊（〈鄭性序/黃千秋跋〉與〈黃千秋跋〉同文）。保留的 76 塊正文逐塊比對全等，只動章序與標題行編號。來源檔 SHA-256 32d327a2f566dd35582c649f5c8f1f5541975e306fb0a0be77918791c948b66b。 來源 notes：黃宗羲撰，中國首部完整學術思想史，理學心學源流",
+  "psych_survey": null
+}

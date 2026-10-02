@@ -1,0 +1,22 @@
+{
+  "slug": "yunji-qiqian",
+  "name_zh": "雲笈七籤",
+  "name_en": "Yunji Qiqian",
+  "category": "道教經典",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 張君房本",
+  "version_date": "宋",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/雲笈七籤",
+  "downloaded_at": "2026-06-29T23:09:36+00:00",
+  "size_bytes": 2766008,
+  "checksum_sha256": "9d6dd48a33ace8dec3dc1216cb00367d3945a847715eaa9bafaae5a90fc41d0a",
+  "chapter_count": 126,
+  "expected_chapter_count": 126,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "次要",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：道教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。 來源 notes：Wikisource 含 122 卷 + 113上/下 + 序 = 126 sections",
+  "psych_survey": null
+}

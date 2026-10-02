@@ -1,0 +1,22 @@
+{
+  "slug": "liezi",
+  "name_zh": "列子",
+  "name_en": "Liezi",
+  "category": "道家",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "張湛注本",
+  "version_date": "4 世紀",
+  "source_platform": "ctext.org (api)",
+  "source_url": "https://api.ctext.org/gettext?urn=ctp:liezi",
+  "downloaded_at": "2026-06-29T17:07:43+00:00",
+  "size_bytes": 114186,
+  "checksum_sha256": "7c0ad359a475fae8a6583af498d51f5db411a13d47db81e642ecdea8cadc0179",
+  "chapter_count": 8,
+  "expected_chapter_count": 8,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "核心",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：道教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。",
+  "psych_survey": null
+}

@@ -211,8 +211,8 @@ def check(slug: str, entry: dict, domain_ids: set[str], mode_ids: set[str]) -> t
     #
     # 只在短缺時報。多出來是粒度差異不是問題：書目記卷、下載切篇，六韜 6 卷 66
     # 篇兩個數字都對。用 abs() 會讓 34 部長期噪音，噪音多了就沒人看。
-    exp = max(x for x in (entry.get("expected_chapter_count"),
-                          meta.get("expected_chapter_count"), 0) if x)
+    exp = max((x for x in (entry.get("expected_chapter_count"),
+                           meta.get("expected_chapter_count")) if x), default=0)
     if exp and labels and exp - len(labels) > max(2, exp * 0.25):
         warnings.append(f"only {len(labels)} chapters against an expected {exp} — "
                         f"likely a truncated download, not a granularity difference")

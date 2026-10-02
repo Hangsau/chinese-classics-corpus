@@ -1,0 +1,22 @@
+{
+  "slug": "book-of-poetry",
+  "name_zh": "詩經",
+  "name_en": "Book of Poetry",
+  "category": "經部",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 毛詩本",
+  "version_date": "西周—春秋",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/詩經",
+  "downloaded_at": "2026-06-29T23:17:15+00:00",
+  "size_bytes": 202462,
+  "checksum_sha256": "26c76abd47cc0654a1528f36f8010a5c84f29187c3fb67bde929c166fd3b6c3e",
+  "chapter_count": 301,
+  "expected_chapter_count": null,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "核心",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：儒教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。",
+  "psych_survey": null
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "hanshi-waizhuan",
+  "name_zh": "韓詩外傳",
+  "name_en": "Han's Illustrations of the Didactic Application of the Book of Songs",
+  "category": "經部",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 韓嬰本",
+  "version_date": "漢",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/韓詩外傳",
+  "downloaded_at": "2026-07-05T17:21:24+00:00",
+  "size_bytes": 194638,
+  "checksum_sha256": "9037d0be40c84d863c18fa55abaa0ecd72d96a4edd60254ee532ee1dfa594e21",
+  "chapter_count": 10,
+  "expected_chapter_count": null,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "次要",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：儒教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。 來源 notes：韓嬰以history/寓言申說詩經義理，今文詩學要籍",
+  "psych_survey": null
+}

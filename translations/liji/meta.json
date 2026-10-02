@@ -1,0 +1,22 @@
+{
+  "slug": "liji",
+  "name_zh": "禮記",
+  "name_en": "Book of Rites",
+  "category": "經部",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "西漢",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/禮記",
+  "downloaded_at": "2026-06-29T23:20:09+00:00",
+  "size_bytes": 374161,
+  "checksum_sha256": "d8c80afb7c7f56eb0ef9660ca574a0746e3700d2f7e502d54b743f282d3ddecd",
+  "chapter_count": 49,
+  "expected_chapter_count": 49,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "核心",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：儒教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 由宗教庫複製後做了結構修正：四十九篇依鄭玄本篇次。刪第 14 塊（〈大傳〉重出、逐字相同）；刪第 21 塊（〈少儀〉重出（帶節號版，與第 22 塊相似度 0.994，差在節號與熲／穎異體））；刪第 32 塊（〈雜記上〉重出（帶節號版，與第 52 塊相似度 0.993，差在節號））；刪第 16 塊（〈大學（證釋本）〉是 1926 年救世新教刊本，非禮記本文）。保留的 49 塊正文逐塊比對全等，只動章序與標題行編號。來源檔 SHA-256 a50052cbdc9c007a02fdb847ba4be987c8770be2edd05406b8158129696f0143。",
+  "psych_survey": null
+}

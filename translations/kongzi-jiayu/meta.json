@@ -1,0 +1,22 @@
+{
+  "slug": "kongzi-jiayu",
+  "name_zh": "孔子家語",
+  "name_en": "Family Sayings of Confucius",
+  "category": "儒家著述",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 王肅注本",
+  "version_date": "三國",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/孔子家語",
+  "downloaded_at": "2026-06-29T23:22:54+00:00",
+  "size_bytes": 277861,
+  "checksum_sha256": "7f25178c078f9d49d5b67fcc29577f8f6348ea3a4de12c56edc4e929ec010dac",
+  "chapter_count": 10,
+  "expected_chapter_count": 10,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "次要",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：儒教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 由宗教庫複製後做了結構修正：卷一至卷十。保留的 10 塊正文逐塊比對全等，只動章序與標題行編號。來源檔 SHA-256 a01cd933d2ca8765d5f1bd7d1fde67255d93b4f71863c9b91a4c52c7ab40c902。",
+  "psych_survey": null
+}

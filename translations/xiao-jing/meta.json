@@ -1,0 +1,22 @@
+{
+  "slug": "xiao-jing",
+  "name_zh": "孝經（今文）",
+  "name_en": "Classic of Filial Piety (Jinwen)",
+  "category": "經部",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 今文本",
+  "version_date": "戰國—西漢",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/今文孝經",
+  "downloaded_at": "2026-06-29T23:35:25+00:00",
+  "size_bytes": 6861,
+  "checksum_sha256": "b8961b1ca4a3da9acab7e563a1927392f8064dbc62b4e6cbc766e3e8bfb4175a",
+  "chapter_count": 1,
+  "expected_chapter_count": null,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "次要",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：儒教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。",
+  "psych_survey": null
+}

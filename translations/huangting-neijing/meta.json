@@ -1,0 +1,22 @@
+{
+  "slug": "huangting-neijing",
+  "name_zh": "黃庭內景經",
+  "name_en": "Huangting Inner Vision Jing",
+  "category": "道教經典",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "魏晉",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/太上黃庭內景玉經",
+  "downloaded_at": "2026-07-03T13:52:59+00:00",
+  "size_bytes": 15251,
+  "checksum_sha256": "ef11552a212af6c1f52fc05da002544a46da3ab383ffb5f80047a4bd32f8b208",
+  "chapter_count": 37,
+  "expected_chapter_count": 37,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "核心",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：道教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 由宗教庫複製後做了結構修正：三十六章依各章題『第N』排序，序移末。保留的 37 塊正文逐塊比對全等，只動章序與標題行編號。來源檔 SHA-256 088b9fa63e09ec78ad6d47446e62387cb94a16c7a20c81740a724a455612f8e3。 來源 notes：正文分 36 章於 太上黃庭內景玉經/<章> 子頁面; 舊 wikisource_title=黃庭內景經 只是章目錄頁(761B)",
+  "psych_survey": null
+}

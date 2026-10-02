@@ -1,0 +1,22 @@
+{
+  "slug": "zhoudunyi-tongshu",
+  "name_zh": "通書",
+  "name_en": "Penetrating the Book of Changes",
+  "category": "理學",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 周敦頤本",
+  "version_date": "宋",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/通書",
+  "downloaded_at": "2026-07-05T17:19:23+00:00",
+  "size_bytes": 10206,
+  "checksum_sha256": "ba4d7c54c435635d731db177b8aac7c4786d85e7fcbe084d524c41fbbe188c61",
+  "chapter_count": 1,
+  "expected_chapter_count": null,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "次要",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：儒教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。 來源 notes：周敦頤《通書》（易通），北宋理學開山之作",
+  "psych_survey": null
+}

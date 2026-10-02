@@ -1,0 +1,22 @@
+{
+  "slug": "da-dai-liji",
+  "name_zh": "大戴禮記",
+  "name_en": "Elder Dai's Record of Rites",
+  "category": "經部",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 戴德本",
+  "version_date": "漢",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/大戴禮記",
+  "downloaded_at": "2026-07-05T17:21:07+00:00",
+  "size_bytes": 183590,
+  "checksum_sha256": "b096914f9de4944a382c6a99be2e1abed97e172a6f5d01c2e600623495bbe7a7",
+  "chapter_count": 40,
+  "expected_chapter_count": 40,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "次要",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：儒教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 由宗教庫複製後做了結構修正：依維基文庫目錄（盧辯注本篇次）。保留的 40 塊正文逐塊比對全等，只動章序與標題行編號。來源檔 SHA-256 76faf210d17145848d7dc23b8075b2fa541128577511e67b1c8f4fe17f9c46e1。 來源 notes：戴德所輯禮記，與小戴禮記並行之漢代禮學要典",
+  "psych_survey": null
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "zhuangzi",
+  "name_zh": "莊子",
+  "name_en": "Zhuangzi",
+  "category": "道家",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "郭象注本",
+  "version_date": "3 世紀",
+  "source_platform": "ctext.org (api)",
+  "source_url": "https://api.ctext.org/gettext?urn=ctp:zhuangzi",
+  "downloaded_at": "2026-06-29T17:07:32+00:00",
+  "size_bytes": 242136,
+  "checksum_sha256": "be72bc152d993ac9028320eb4059fc29a080eb03db4ae234358d184f5f801a7c",
+  "chapter_count": 33,
+  "expected_chapter_count": 33,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "核心",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：道教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。",
+  "psych_survey": null
+}

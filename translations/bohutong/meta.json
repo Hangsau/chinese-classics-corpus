@@ -1,0 +1,22 @@
+{
+  "slug": "bohutong",
+  "name_zh": "白虎通義",
+  "name_en": "White Tiger Hall Discussions",
+  "category": "經部",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 班固本",
+  "version_date": "東漢",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/白虎通",
+  "downloaded_at": "2026-06-29T23:24:22+00:00",
+  "size_bytes": 173964,
+  "checksum_sha256": "de44d6f65dd7fba7990d4bef34b3a69aefd360271ee22765d1ef4406b3485bb0",
+  "chapter_count": 10,
+  "expected_chapter_count": null,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "次要",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：儒教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。",
+  "psych_survey": null
+}

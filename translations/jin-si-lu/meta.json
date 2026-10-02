@@ -1,0 +1,22 @@
+{
+  "slug": "jin-si-lu",
+  "name_zh": "近思錄",
+  "name_en": "Reflections on Things at Hand",
+  "category": "理學",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 朱熹呂祖謙本",
+  "version_date": "宋",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/近思錄",
+  "downloaded_at": "2026-06-29T23:27:20+00:00",
+  "size_bytes": 177338,
+  "checksum_sha256": "2172d281f6fffbc897d2a0d3696c8316a3e18e02d6001dddf2ddcdf5b0c78105",
+  "chapter_count": 18,
+  "expected_chapter_count": null,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "次要",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：儒教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。",
+  "psych_survey": null
+}

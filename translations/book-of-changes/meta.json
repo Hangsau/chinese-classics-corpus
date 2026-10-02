@@ -1,0 +1,22 @@
+{
+  "slug": "book-of-changes",
+  "name_zh": "周易",
+  "name_en": "Book of Changes",
+  "category": "經部",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "西周—戰國",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/周易",
+  "downloaded_at": "2026-06-29T23:34:57+00:00",
+  "size_bytes": 186766,
+  "checksum_sha256": "86a94685a065b83f79c63a583db37b0089fa8cafe27e3ccaf315f25ecb6178e4",
+  "chapter_count": 73,
+  "expected_chapter_count": 73,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "核心",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：儒教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 由宗教庫複製後做了結構修正：六十四卦依通行本卦序，十翼依彖、象、文言、繫辭、說卦、序卦、雜卦。保留的 73 塊正文逐塊比對全等，只動章序與標題行編號。來源檔 SHA-256 fd374b265b6dae3d4e5c73ab90947a1c162248d5b0d8d622e949915ca8bab2f2。",
+  "psych_survey": null
+}

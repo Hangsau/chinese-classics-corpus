@@ -1,0 +1,22 @@
+{
+  "slug": "wenzhongzi-zhongshuo",
+  "name_zh": "中說（文中子）",
+  "name_en": "Sayings of Master Wenzhong",
+  "category": "儒家著述",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 王通本",
+  "version_date": "唐",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/中說",
+  "downloaded_at": "2026-06-29T23:26:55+00:00",
+  "size_bytes": 111989,
+  "checksum_sha256": "f536f4fbe1269ca0033d59f4f9bcc00cdee155ded9e0f4d3e5ac19257a18f1f0",
+  "chapter_count": 17,
+  "expected_chapter_count": 17,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "次要",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：儒教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 由宗教庫複製後做了結構修正：卷一至卷十，附錄維持原次。保留的 17 塊正文逐塊比對全等，只動章序與標題行編號。來源檔 SHA-256 5fd6980bddef183440bdde12798f1c3bd2724fa0a03b5e2bbfd42c65a09b2038。",
+  "psych_survey": null
+}

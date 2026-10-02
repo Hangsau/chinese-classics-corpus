@@ -1,0 +1,22 @@
+{
+  "slug": "shang-shu",
+  "name_zh": "尚書",
+  "name_en": "Book of Documents",
+  "category": "經部",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "上古—戰國",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/尚書",
+  "downloaded_at": "2026-06-29T23:18:56+00:00",
+  "size_bytes": 143079,
+  "checksum_sha256": "f4f999e25a9d7101f5d42decbc9c142fc667b4ea896ad0d38cbc2f6c45589aec",
+  "chapter_count": 76,
+  "expected_chapter_count": 76,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "核心",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：儒教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 由宗教庫複製後做了結構修正：通行本五十八篇依維基文庫目錄（虞夏商周書），單篇〈泰誓〉附泰誓下後；其後為清華簡等出土與逸篇（依所述時代粗排），書序移末。刪第 1 塊（《傅說之命》說命（上）與清華簡〈傅說之命上〉同文）；刪第 2 塊（同上（下））；刪第 3 塊（同上（中））；刪第 21 塊（〈周武王有疾…〉與〈簡書金縢〉同文）；刪第 32 塊（〈尚書序〉與〈書序〉同文）。保留的 76 塊正文逐塊比對全等，只動章序與標題行編號。來源檔 SHA-256 236612e576665fa1a25b17562b035acb6f9cca0dc76c075ece2a7c81bef62c3e。",
+  "psych_survey": null
+}

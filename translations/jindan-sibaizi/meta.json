@@ -1,0 +1,22 @@
+{
+  "slug": "jindan-sibaizi",
+  "name_zh": "金丹四百字",
+  "name_en": "Jindan sibaizi",
+  "category": "內丹",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "張伯端",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/金丹四百字",
+  "downloaded_at": "2026-07-05T17:14:22+00:00",
+  "size_bytes": 6471,
+  "checksum_sha256": "d23267af4c3433b7eb7cd92dea602402a054d5182419b622da3921b3ac779540",
+  "chapter_count": 1,
+  "expected_chapter_count": null,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "次要",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：道教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。 來源 notes：南宗內丹口訣四百字",
+  "psych_survey": null
+}

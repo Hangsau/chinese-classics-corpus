@@ -1,0 +1,22 @@
+{
+  "slug": "shenxian-zhuan",
+  "name_zh": "神仙傳",
+  "name_en": "Biographies of Divine Transcendents",
+  "category": "志怪",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 葛洪本",
+  "version_date": "4 世紀",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/神仙傳",
+  "downloaded_at": "2026-06-29T22:58:16+00:00",
+  "size_bytes": 112803,
+  "checksum_sha256": "a587caf0fab6e3550271ed8f2c2223ceb22e1165752b7563836406268b55b91c",
+  "chapter_count": 10,
+  "expected_chapter_count": 10,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "次要",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：道教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 由宗教庫複製後做了結構修正：卷一至卷十。保留的 10 塊正文逐塊比對全等，只動章序與標題行編號。來源檔 SHA-256 49c4adffe982b53b9019b0360e7f1d0c8b847c79a613e7ace9a3d8de3e7fa150。",
+  "psych_survey": null
+}

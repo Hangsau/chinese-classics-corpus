@@ -1,0 +1,22 @@
+{
+  "slug": "lingbao-bifa",
+  "name_zh": "靈寶畢法",
+  "name_en": "Lingbao Bifa",
+  "category": "內丹",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "唐末五代",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/秘傳正陽真人靈寶畢法",
+  "downloaded_at": "2026-07-06T00:19:53+00:00",
+  "size_bytes": 53279,
+  "checksum_sha256": "48a4be2234081b2c8f5cb14ffb84d82ec45a7e888c58380d3663ac9dc04f95a2",
+  "chapter_count": 1,
+  "expected_chapter_count": null,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "次要",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：道教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。 來源 notes：託名鍾離權，鍾呂金丹派內丹次第「畢法」修煉綱要",
+  "psych_survey": null
+}

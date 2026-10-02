@@ -1,0 +1,22 @@
+{
+  "slug": "er-ya",
+  "name_zh": "爾雅注",
+  "name_en": "Erya with Commentary",
+  "category": "小學",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 郭璞注",
+  "version_date": "西晉",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/爾雅注",
+  "downloaded_at": "2026-06-29T23:36:57+00:00",
+  "size_bytes": 132984,
+  "checksum_sha256": "0eaef0379b3064d564b019f2030fabe8b53dafbdcffe4e089a683e0e296b7d73",
+  "chapter_count": 4,
+  "expected_chapter_count": 4,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "次要",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：儒教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 由宗教庫複製後做了結構修正：去重。刪第 1 塊（〈00〉與〈爾雅序〉同文）。保留的 4 塊正文逐塊比對全等，只動章序與標題行編號。來源檔 SHA-256 83af8e1a8739694c7c57e5a42504ba931be7e6ea4aeb91c9317df56fe85bb810。",
+  "psych_survey": null
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "rizhilu",
+  "name_zh": "日知錄",
+  "name_en": "Record of Daily Knowledge",
+  "category": "雜著",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 顧炎武本",
+  "version_date": "清",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/日知錄",
+  "downloaded_at": "2026-07-05T17:26:58+00:00",
+  "size_bytes": 1370079,
+  "checksum_sha256": "afb9843725b131ae6a67389543417d2f2e10ffa1a9741eb7afc530fb958e940a",
+  "chapter_count": 33,
+  "expected_chapter_count": null,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "次要",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：儒教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。 來源 notes：顧炎武考據札記，清代樸學經世之學開山",
+  "psych_survey": null
+}

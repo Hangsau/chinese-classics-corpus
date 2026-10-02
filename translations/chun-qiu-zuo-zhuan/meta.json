@@ -1,0 +1,22 @@
+{
+  "slug": "chun-qiu-zuo-zhuan",
+  "name_zh": "春秋左傳",
+  "name_en": "Zuo Commentary",
+  "category": "經部",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "戰國—西漢",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/春秋左氏傳",
+  "downloaded_at": "2026-06-29T23:20:39+00:00",
+  "size_bytes": 740588,
+  "checksum_sha256": "f444362eb68d2e86ecee9d33ee0c91802d3965ca1c6d5da28e4bff55090958d8",
+  "chapter_count": 13,
+  "expected_chapter_count": 13,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "核心",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：儒教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 由宗教庫複製後做了結構修正：十二公依魯君世次，杜預序移末。刪第 9 塊（〈昭公/十年〉與〈昭公〉逐字相同）；刪第 12 塊（〈莊公/十八年〉是維基文庫句讀著作權說明頁，非正文）；刪第 14 塊（〈襄公/廿五年〉是注疏本殘頁、非白文正文，正文已在〈襄公〉）。保留的 13 塊正文逐塊比對全等，只動章序與標題行編號。來源檔 SHA-256 c4ae84d62f5b1a37c9a8e7bc0f59b72f84755bacb8ff1f7701d2e6e65b906290。",
+  "psych_survey": null
+}

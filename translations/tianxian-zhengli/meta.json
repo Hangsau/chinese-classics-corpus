@@ -1,0 +1,22 @@
+{
+  "slug": "tianxian-zhengli",
+  "name_zh": "天仙正理直論",
+  "name_en": "Tianxian Zhengli Zhilun",
+  "category": "內丹",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "明",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/天仙正理直論増註",
+  "downloaded_at": "2026-07-06T00:20:08+00:00",
+  "size_bytes": 130952,
+  "checksum_sha256": "deb66582f9541acdc9dc0d16d5b77e6d65c5780960942309458c3db8c3a3c88b",
+  "chapter_count": 10,
+  "expected_chapter_count": null,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "次要",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：道教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。 來源 notes：伍守陽著，伍柳派內丹修煉理論代表作",
+  "psych_survey": null
+}

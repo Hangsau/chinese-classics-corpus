@@ -1,0 +1,22 @@
+{
+  "slug": "huangdi-neijing",
+  "name_zh": "黃帝內經",
+  "name_en": "Huangdi Neijing",
+  "category": "醫家",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "戰國—漢",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/黃帝內經",
+  "downloaded_at": "2026-06-29T22:59:27+00:00",
+  "size_bytes": 565607,
+  "checksum_sha256": "dd00c34992fc2d8fc0a0c171eff0532c6a1b091b7f809dc4f41ad36250fe1883",
+  "chapter_count": 36,
+  "expected_chapter_count": 36,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "核心",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：道教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 由宗教庫複製後做了結構修正：素問卷一至二十四、靈樞卷一至十二。保留的 36 塊正文逐塊比對全等，只動章序與標題行編號。來源檔 SHA-256 11898725fb83385bd2dac9130a94e136152ee5c6557a2271678c517c2d783492。",
+  "psych_survey": null
+}
