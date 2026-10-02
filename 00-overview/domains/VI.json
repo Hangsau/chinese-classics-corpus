@@ -2,9 +2,9 @@
   "domain": "VI",
   "name_zh": "情緒與內在生活",
   "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡",
-  "generated_at": "2026-10-02T11:24:17+00:00",
-  "para_count": 848,
-  "book_count": 38,
+  "generated_at": "2026-10-02T13:22:31+00:00",
+  "para_count": 854,
+  "book_count": 39,
   "surveyed_zero_hit": [
     "dongmingji",
     "duduan",
@@ -10050,6 +10050,93 @@
       ],
       "excerpt": "或曰：「昆侖旁薄，幽。」何為也？曰：賢人天地，思而包群類也。昆諸中未形乎外，獨居",
       "note": "本段的解語說「獨居而樂，獨思而憂，樂不可堪，憂不可勝」，實寫人的情緒內景；又說「君子脩德以俟時，不先時而起，不後時而縮」，提出修德與知時進退的品格主張，並非只重述所引贊辭",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "12",
+      "para_index": 1,
+      "para_id": "tao-te-ching#12-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "五色令人目盲；五音令人耳聾；五味令人口爽；馳騁田獵，令人心發狂；難得之貨，令人行",
+      "note": "「五色令人目盲」並「五音令人耳聾」等命題感官之害, 「是以聖人為腹不為目，故去彼取此」是寡欲 prescription, 屬 VI",
+      "co_domains": []
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "13",
+      "para_index": 1,
+      "para_id": "tao-te-ching#13-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "寵辱若驚，貴大患若身。何謂寵辱若驚？寵為下，得之若驚，失之若驚，是謂寵辱若驚。何",
+      "note": "「寵辱若驚」是情緒之命題 (VI); 「貴大患若身」是身與天下本末輕重 (I); 「貴以身為天下，若可寄天下；愛以身為天下，若可託天下」是治者 prescription, 屬 V",
+      "co_domains": [
+        "I",
+        "V"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "16",
+      "para_index": 1,
+      "para_id": "tao-te-ching#16-p01",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "致虛極，守靜篤。萬物並作，吾以觀復。夫物芸芸，各復歸其根。歸根曰靜，是謂復命。復",
+      "note": "「致虛極，守靜篤」是安頓之 prescription, 屬 XIII; 「不知常，妄作凶」並「沒身不殆」是虛靜歸根之命題, 亦涉 VI (心的虛靜)",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "19",
+      "para_index": 1,
+      "para_id": "tao-te-ching#19-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "絕聖棄智，民利百倍；絕仁棄義，民復孝慈；絕巧棄利，盜賊無有。此三者以為文不足。故",
+      "note": "「絕聖棄智，民利百倍」並「絕仁棄義，民復孝慈」並「絕巧棄利，盜賊無有」是治道 prescription, 屬 V; 「見素抱樸，少私寡欲」是寡欲 prescription, 屬 VI",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "33",
+      "para_index": 1,
+      "para_id": "tao-te-ching#33-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "知人者智，自知者明。勝人者有力，自勝者強。知足者富。強行者有志。不失其所者久。死",
+      "note": "「知人者智，自知者明」並「勝人者有力，自勝者強」並「強行者有志」是自我認知之命題, 屬 II；「知足者富」並「不失其所者久」是內在生活之命題, 屬 VI",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "52",
+      "para_index": 1,
+      "para_id": "tao-te-ching#52-p01",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "天下有始，以為天下母。既知其母，復知其子，既知其子，復守其母，沒其不殆。塞其兌，",
+      "note": "「塞其兌，閉其門，終身不勤」並「見小曰明，守柔曰強」是閉兌門、見小之虛靜 prescription, 屬 VI; 「守柔曰強」並「用其光，復歸其明，無遺身殃；是為習常」是守柔/復明之品格 proposition 與 prescription, 屬 VII",
       "co_domains": [
         "VII"
       ]

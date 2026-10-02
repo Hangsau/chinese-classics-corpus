@@ -2,9 +2,9 @@
   "domain": "X",
   "name_zh": "無常·老·死·失去",
   "gist": "老與時間、失去與哀傷、死亡、耐心與等待",
-  "generated_at": "2026-10-02T11:24:17+00:00",
-  "para_count": 462,
-  "book_count": 31,
+  "generated_at": "2026-10-02T13:22:31+00:00",
+  "para_count": 463,
+  "book_count": 32,
   "surveyed_zero_hit": [
     "dengxizi",
     "duduan",
@@ -4738,6 +4738,20 @@
       "note": "「馴義忘生。賴於天貞……受命必也」寫人為義忘生，明確把品格選擇置於生命死亡之前。",
       "co_domains": [
         "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "50",
+      "para_index": 1,
+      "para_id": "tao-te-ching#50-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "出生入死。生之徒，十有三；死之徒，十有三；人之生，動之死地，十有三。夫何故？以其",
+      "note": "「出生入死」是生死之命題, 屬 X；「生之徒，十有三；死之徒，十有三」並「人之生，動之死地，十有三」是命運之命題, 屬 XI",
+      "co_domains": [
+        "XI"
       ]
     },
     {

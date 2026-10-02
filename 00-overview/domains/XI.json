@@ -2,9 +2,9 @@
   "domain": "XI",
   "name_zh": "自由·命運·改變",
   "gist": "自由意志與命運、選擇與代價、改變與重來",
-  "generated_at": "2026-10-02T11:24:17+00:00",
-  "para_count": 737,
-  "book_count": 42,
+  "generated_at": "2026-10-02T13:22:31+00:00",
+  "para_count": 745,
+  "book_count": 43,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -8461,6 +8461,125 @@
       "note": "「使其貌動、口言、目視、耳聽、心思」列出人可運用的能力，而「有法則成，無法則不成」把能否成事繫於是否遵循法則，明說人的能力發揮與結果具有可改變的條件",
       "co_domains": [
         "VIII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "9",
+      "para_index": 1,
+      "para_id": "tao-te-ching#09-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "持而盈之，不如其已；揣而銳之，不可長保。金玉滿堂，莫之能守；富貴而驕，自遺其咎。",
+      "note": "「持而盈之，不如其已」並「金玉滿堂，莫之能守」並「富貴而驕，自遺其咎」皆持盈招禍之命題, 屬 XI (禍福無常); 「功遂身退天之道」是處世 prescription, 屬 VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "30",
+      "para_index": 1,
+      "para_id": "tao-te-ching#30-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "以道佐人主者，不以兵強天下。其事好還。師之所處，荊棘生焉。大軍之後，必有凶年。善",
+      "note": "「以道佐人主者，不以兵強天下」並「師之所處，荊棘生焉」並「大軍之後，必有凶年」是治道之命題, 屬 V；「物壯則老，是謂不道，不道早已」是禍福之命題, 屬 XI",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "36",
+      "para_index": 1,
+      "para_id": "tao-te-ching#36-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "將欲歙之，必固張之；將欲弱之，必固強之；將欲廢之，必固興之；將欲奪之，必固與之。",
+      "note": "「將欲歙之，必固張之」並「將欲弱之，必固強之」並「將欲奪之，必固與之」是禍福相依之命題, 屬 XI；「柔弱勝剛強」並「國之利器不可以示人」是品格與治者之 prescription, 屬 VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "42",
+      "para_index": 1,
+      "para_id": "tao-te-ching#42-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "道生一，一生二，二生三，三生萬物。萬物負陰而抱陽，沖氣以為和。人之所惡，唯孤、寡",
+      "note": "「人之所惡，唯孤、寡、不穀，而王公以為稱」是治者之命題, 屬 V；「強梁者不得其死，吾將以為教父」是禍福之命題, 屬 XI",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "46",
+      "para_index": 1,
+      "para_id": "tao-te-ching#46-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "天下有道，卻走馬以糞。天下無道，戎馬生於郊。禍莫大於不知足；咎莫大於欲得。故知足",
+      "note": "「天下有道，卻走馬以糞」並「天下無道，戎馬生於郊」是治道之命題, 屬 V；「禍莫大於不知足」並「咎莫大於欲得」是禍福之命題, 屬 XI；「故知足之足，常足矣」是治者 prescription, 亦 V",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "50",
+      "para_index": 1,
+      "para_id": "tao-te-ching#50-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "出生入死。生之徒，十有三；死之徒，十有三；人之生，動之死地，十有三。夫何故？以其",
+      "note": "「出生入死」是生死之命題, 屬 X；「生之徒，十有三；死之徒，十有三」並「人之生，動之死地，十有三」是命運之命題, 屬 XI",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "55",
+      "para_index": 1,
+      "para_id": "tao-te-ching#55-p01",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "含德之厚，比於赤子。蜂蠆虺蛇不螫，猛獸不據，攫鳥不搏。骨弱筋柔而握固。未知牝牡之",
+      "note": "「含德之厚，比於赤子」並「骨弱筋柔而握固」並「精之至也」「和之至也」是以赤子命題德在身, 屬 VII; 「物壯則老，謂之不道，不道早已」是物壯老之禍福命題, 屬 XI",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "58",
+      "para_index": 1,
+      "para_id": "tao-te-ching#58-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "其政悶悶，其民淳淳；其政察察，其民缺缺。禍兮福之所倚，福兮禍之所伏。孰知其極？其",
+      "note": "「其政悶悶，其民淳淳；其政察察，其民缺缺」是治/民之命題, 屬 V; 「禍兮福之所倚，福兮禍之所伏」並「正復為奇，善復為妖」是禍福相依之命題, 屬 XI; 「是以聖人方而不割，廉而不劌，直而不肆，光而不燿」是聖人品格之 prescription, 屬 VII",
+      "co_domains": [
+        "V",
+        "VII"
       ]
     },
     {

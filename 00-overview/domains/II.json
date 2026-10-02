@@ -2,9 +2,9 @@
   "domain": "II",
   "name_zh": "自我與認同",
   "gist": "我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我",
-  "generated_at": "2026-10-02T11:24:17+00:00",
-  "para_count": 822,
-  "book_count": 42,
+  "generated_at": "2026-10-02T13:22:31+00:00",
+  "para_count": 830,
+  "book_count": 43,
   "surveyed_zero_hit": [
     "duduan",
     "fangyan",
@@ -9757,6 +9757,121 @@
       "note": "「文以見乎質，辭以睹乎情，觀其施辭，則其心之所欲者見矣」主張人的言辭會顯出內在實質、情感與欲求，既關乎真實自我的辨識，也直接論及內在生活",
       "co_domains": [
         "VI"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "10",
+      "para_index": 1,
+      "para_id": "tao-te-ching#10-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "載營魄抱一，能無離乎？專氣致柔，能嬰兒乎？滌除玄覽，能無疵乎？愛民治國，能無知乎",
+      "note": "「愛民治國，能無知乎」是治者 prescription, 屬 V; 「明白四達，能無知乎」是自我認知 (II); 「生而不有，為而不恃，長而不宰，是謂玄德」是玄德之 prescription, 屬 VII",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "20",
+      "para_index": 1,
+      "para_id": "tao-te-ching#20-p01",
+      "modes": [
+        "expression",
+        "proposition"
+      ],
+      "excerpt": "絕學無憂，唯之與阿，相去幾何？善之與惡，相去若何？人之所畏，不可不畏。荒兮其未央",
+      "note": "「唯之與阿，相去幾何？善之與惡，相去若何」是善惡相對之命題, 屬 VII; 「我獨異於人，而貴食母」並「衆人熙熙，如享太牢」並「我獨怕兮其未兆」是第一人稱自我表態 (II), 屬 expression",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "23",
+      "para_index": 1,
+      "para_id": "tao-te-ching#23-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "希言自然，故飄風不終朝，驟雨不終日。孰為此者？天地。天地尚不能久，而況於人乎？故",
+      "note": "「希言自然」是治者少言之命題, 屬 V; 「故從事於道者」並「同於道者，道亦樂得之」是從事於道者之修身命題, 屬 II (自我)",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "33",
+      "para_index": 1,
+      "para_id": "tao-te-ching#33-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "知人者智，自知者明。勝人者有力，自勝者強。知足者富。強行者有志。不失其所者久。死",
+      "note": "「知人者智，自知者明」並「勝人者有力，自勝者強」並「強行者有志」是自我認知之命題, 屬 II；「知足者富」並「不失其所者久」是內在生活之命題, 屬 VI",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "47",
+      "para_index": 1,
+      "para_id": "tao-te-ching#47-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "不出戶知天下；不闚牖見天道。其出彌遠，其知彌少。是以聖人不行而知，不見而名，不為",
+      "note": "「不出戶知天下」並「其出彌遠，其知彌少」是認知的限度之命題, 屬 II；「是以聖人不行而知，不見而名，不為而成」是治道 prescription, 屬 V",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "70",
+      "para_index": 1,
+      "para_id": "tao-te-ching#70-p01",
+      "modes": [
+        "expression",
+        "proposition"
+      ],
+      "excerpt": "吾言甚易知，甚易行。天下莫能知，莫能行。言有宗，事有君。夫唯無知，是以不我知。知",
+      "note": "「吾言甚易知，甚易行。天下莫能知，莫能行」並「夫唯無知，是以不我知。知我者希，則我者貴」是第一人稱自況不被理解, 屬 II (自我); 「言有宗，事有君」並「聖人被褐懷玉」是聖人品格之命題, 屬 VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "71",
+      "para_index": 1,
+      "para_id": "tao-te-ching#71-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "知不知上；不知知病。夫唯病病，是以不病。聖人不病，以其病病，是以不病。",
+      "note": "「知不知上；不知知病」並「夫唯病病，是以不病。聖人不病，以其病病，是以不病」是自知/不知之自我認知命題, 屬 II",
+      "co_domains": []
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "72",
+      "para_index": 1,
+      "para_id": "tao-te-ching#72-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "民不畏威，則大威至。無狎其所居，無厭其所生。夫唯不厭，是以不厭。是以聖人自知不自",
+      "note": "「民不畏威，則大威至」並「無狎其所居，無厭其所生」是治/民之命題, 屬 V; 「聖人自知不自見」是自知之自我命題, 屬 II; 「自愛不自貴」是自愛不自貴之品格命題, 屬 VII",
+      "co_domains": [
+        "V",
+        "VII"
       ]
     },
     {

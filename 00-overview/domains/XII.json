@@ -2,9 +2,9 @@
   "domain": "XII",
   "name_zh": "信仰·神聖·超越",
   "gist": "神存在嗎、信與疑、敬畏與美、神秘經驗",
-  "generated_at": "2026-10-02T11:24:17+00:00",
-  "para_count": 413,
-  "book_count": 33,
+  "generated_at": "2026-10-02T13:22:31+00:00",
+  "para_count": 416,
+  "book_count": 34,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -4675,6 +4675,52 @@
       "excerpt": "次六：畏其鬼。尊其體。狂作眯淫。亡。測曰：畏鬼之狂。過其正也。",
       "note": "「畏其鬼……狂作眯淫」並斷「畏鬼之狂。過其正也」，直接評價對鬼神的恐懼已失去分寸。",
       "co_domains": []
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "67",
+      "para_index": 1,
+      "para_id": "tao-te-ching#67-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "天下皆謂我道大，似不肖。夫唯大，故似不肖。若肖久矣。其細也夫！我有三寶，持而保之",
+      "note": "「我有三寶，持而保之。一曰慈，二曰儉，三曰不敢為天下先」並「慈故能勇；儉故能廣；不敢為天下先，故能成器長」是三寶之品格 prescription, 屬 VII; 「天將救之，以慈衛之」是認證天會護助以慈者, 屬 XII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "73",
+      "para_index": 1,
+      "para_id": "tao-te-ching#73-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "勇於敢則殺，勇於不敢則活。此兩者，或利或害。天之所惡，孰知其故？是以聖人猶難之。",
+      "note": "「勇於敢則殺，勇於不敢則活」並「此兩者，或利或害」是敢與不敢之品格命題, 屬 VII; 「天之道，不爭而善勝，不言而善應，不召而自來，繟然而善謀」並「天網恢恢，踈而不失」是認證天之道與天網之不漏, 屬 XII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "79",
+      "para_index": 1,
+      "para_id": "tao-te-ching#79-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "和大怨，必有餘怨；安可以為善？是以聖人執左契，而不責於人。有德司契，無德司徹。天",
+      "note": "「和大怨，必有餘怨；安可以為善」並「聖人執左契，而不責於人」是治者治道命題與 prescription, 屬 V; 「有德司契，無德司徹」是德性對照之品格命題, 屬 VII; 「天道無親，常與善人」是認證天會偏助善人, 屬 XII",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
     },
     {
       "slug": "wenxin-diaolong",

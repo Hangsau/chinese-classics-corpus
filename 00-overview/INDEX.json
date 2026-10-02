@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-10-02T11:24:17+00:00",
+    "generated_at": "2026-10-02T13:22:31+00:00",
     "text_count": 143,
     "total_bytes": 34565129,
     "by_category": {
@@ -33,40 +33,40 @@
       "reference": 4,
       "contested": 2
     },
-    "surveyed_count": 55,
-    "annotated_count": 55,
+    "surveyed_count": 56,
+    "annotated_count": 56,
     "scaffolded_count": 0,
-    "paras_judged": 24088,
+    "paras_judged": 24169,
     "paras_pending": 110,
     "domain_hit_counts": {
-      "I": 21,
-      "II": 42,
+      "I": 22,
+      "II": 43,
       "III": 24,
       "IV": 40,
       "IX": 30,
-      "V": 51,
-      "VI": 38,
-      "VII": 48,
-      "VIII": 49,
-      "X": 31,
-      "XI": 42,
-      "XII": 33,
-      "XIII": 27
+      "V": 52,
+      "VI": 39,
+      "VII": 49,
+      "VIII": 50,
+      "X": 32,
+      "XI": 43,
+      "XII": 34,
+      "XIII": 28
     },
     "domain_para_counts": {
-      "I": 146,
-      "II": 822,
+      "I": 149,
+      "II": 830,
       "III": 161,
       "IV": 759,
-      "V": 4497,
-      "VI": 848,
-      "VII": 3181,
-      "VIII": 1433,
+      "V": 4544,
+      "VI": 854,
+      "VII": 3219,
+      "VIII": 1434,
       "IX": 216,
-      "X": 462,
-      "XI": 737,
-      "XII": 413,
-      "XIII": 215
+      "X": 463,
+      "XI": 745,
+      "XII": 416,
+      "XIII": 217
     }
   },
   "texts": [
@@ -2763,12 +2763,27 @@
       "size_bytes": 20773,
       "chapter_count": 81,
       "verified": true,
-      "surveyed": false,
-      "domains_hit": null,
-      "domains_null": null,
-      "paras_total": 0,
-      "paras_judged": 0,
-      "annotated": false
+      "surveyed": true,
+      "domains_hit": [
+        "I",
+        "II",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "X",
+        "XI",
+        "XII",
+        "XIII"
+      ],
+      "domains_null": [
+        "III",
+        "IV",
+        "IX"
+      ],
+      "paras_total": 81,
+      "paras_judged": 81,
+      "annotated": true
     },
     {
       "slug": "tianxian-zhengli",

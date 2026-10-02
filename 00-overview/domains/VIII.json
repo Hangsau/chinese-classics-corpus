@@ -2,9 +2,9 @@
   "domain": "VIII",
   "name_zh": "工作·成就·召喚",
   "gist": "工作與金錢、成就與意義、天賦與使命",
-  "generated_at": "2026-10-02T11:24:17+00:00",
-  "para_count": 1433,
-  "book_count": 49,
+  "generated_at": "2026-10-02T13:22:31+00:00",
+  "para_count": 1434,
+  "book_count": 50,
   "surveyed_zero_hit": [
     "duduan",
     "gu-sanfen",
@@ -13960,6 +13960,21 @@
       "note": "「使其貌動、口言、目視、耳聽、心思」列出人可運用的能力，而「有法則成，無法則不成」把能否成事繫於是否遵循法則，明說人的能力發揮與結果具有可改變的條件",
       "co_domains": [
         "XI"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "48",
+      "para_index": 1,
+      "para_id": "tao-te-ching#48-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "為學日益，為道日損。損之又損，以至於無為。無為而無不為。取天下常以無事，及其有事",
+      "note": "「為學日益，為道日損」是學與道之命題, 屬 VIII；「取天下常以無事」是治道 prescription, 屬 V",
+      "co_domains": [
+        "V"
       ]
     },
     {

@@ -1,11 +1,11 @@
 # XIII 安頓·修復·平安
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 215 段命中｜跨 27 部｜生成時間 2026-10-02T11:24:17+00:00
+> 217 段命中｜跨 28 部｜生成時間 2026-10-02T13:22:31+00:00
 
 靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈
 
-姿態分佈：`proposition` 141、`narrative` 86、`prescription` 46、`expression` 34、`observation` 31、`ritual` 8、`formalization` 1
+姿態分佈：`proposition` 143、`narrative` 86、`prescription` 48、`expression` 34、`observation` 31、`ritual` 8、`formalization` 1
 
 ## 已通讀但本領域零命中
 
@@ -331,6 +331,13 @@
 |---|---|---|---|---|
 | 釋爭 | 7 | `proposition` `prescription` | 是故，君子之求勝也，以推讓為利銳，以自修為棚櫓；靜則閉嘿泯之玄門，動則由恭順之通 | ＋VII 引《易》訟卦與《老子》「夫惟不爭」。 |
 | 釋爭 | 13 | `proposition` | 彼君子知自損之為益，故功一而美二；小人不知自益之為損，故一伐而並失。由此論之，則 | ＋VII  |
+
+## 道德經（道家）　2 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| 16 | 1 | `prescription` `proposition` | 致虛極，守靜篤。萬物並作，吾以觀復。夫物芸芸，各復歸其根。歸根曰靜，是謂復命。復 | ＋VI 「致虛極，守靜篤」是安頓之 prescription, 屬 XIII; 「不知常，妄作凶」並「沒身不殆」是虛靜歸根之命題, 亦涉 VI (心的虛靜) |
+| 44 | 1 | `proposition` `prescription` | 名與身孰親？身與貨孰多？得與亡孰病？是故甚愛必大費；多藏必厚亡。知足不辱，知止不 | ＋I 「名與身孰親？身與貨孰多」是本末輕重之命題, 屬 I；「知足不辱，知止不殆，可以長久」是安頓 prescription, 屬 XIII |
 
 ## 新序（儒家著述）　2 段
 

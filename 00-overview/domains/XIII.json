@@ -2,9 +2,9 @@
   "domain": "XIII",
   "name_zh": "安頓·修復·平安",
   "gist": "靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈",
-  "generated_at": "2026-10-02T11:24:17+00:00",
-  "para_count": 215,
-  "book_count": 27,
+  "generated_at": "2026-10-02T13:22:31+00:00",
+  "para_count": 217,
+  "book_count": 28,
   "surveyed_zero_hit": [
     "duduan",
     "fangyan",
@@ -2597,6 +2597,36 @@
       "excerpt": "次三：窮思達。測曰：窮思達。師在心也。",
       "note": "「窮思達……師在心也」說身處窮境可由內心思索通達，把安頓困境的資源置於自身。",
       "co_domains": []
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "16",
+      "para_index": 1,
+      "para_id": "tao-te-ching#16-p01",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "致虛極，守靜篤。萬物並作，吾以觀復。夫物芸芸，各復歸其根。歸根曰靜，是謂復命。復",
+      "note": "「致虛極，守靜篤」是安頓之 prescription, 屬 XIII; 「不知常，妄作凶」並「沒身不殆」是虛靜歸根之命題, 亦涉 VI (心的虛靜)",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "44",
+      "para_index": 1,
+      "para_id": "tao-te-ching#44-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "名與身孰親？身與貨孰多？得與亡孰病？是故甚愛必大費；多藏必厚亡。知足不辱，知止不",
+      "note": "「名與身孰親？身與貨孰多」是本末輕重之命題, 屬 I；「知足不辱，知止不殆，可以長久」是安頓 prescription, 屬 XIII",
+      "co_domains": [
+        "I"
+      ]
     },
     {
       "slug": "wenxin-diaolong",

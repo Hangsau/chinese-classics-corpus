@@ -2,9 +2,9 @@
   "domain": "I",
   "name_zh": "存在與意義",
   "gist": "我為何在此、活著有沒有意義、與想不通的問題共處、在歷史洪流中的渺小",
-  "generated_at": "2026-10-02T11:24:17+00:00",
-  "para_count": 146,
-  "book_count": 21,
+  "generated_at": "2026-10-02T13:22:31+00:00",
+  "para_count": 149,
+  "book_count": 22,
   "surveyed_zero_hit": [
     "cai-zhonglang-ji",
     "dengxizi",
@@ -1897,6 +1897,50 @@
       "note": "「天地之所貴曰生，物之所尊曰人」直接判定生命與人的價值；「人之大倫曰治，治之所因曰辟」又把群體秩序與領導者列為人倫核心，因此同時涉及存在價值與治理責任",
       "co_domains": [
         "V"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "13",
+      "para_index": 1,
+      "para_id": "tao-te-ching#13-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "寵辱若驚，貴大患若身。何謂寵辱若驚？寵為下，得之若驚，失之若驚，是謂寵辱若驚。何",
+      "note": "「寵辱若驚」是情緒之命題 (VI); 「貴大患若身」是身與天下本末輕重 (I); 「貴以身為天下，若可寄天下；愛以身為天下，若可託天下」是治者 prescription, 屬 V",
+      "co_domains": [
+        "VI",
+        "V"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "25",
+      "para_index": 1,
+      "para_id": "tao-te-ching#25-p01",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "有物混成，先天地生。寂兮寥兮，獨立不改，周行而不殆，可以為天下母。吾不知其名，字",
+      "note": "「有物混成，先天地生」並「可以為天下母」描述道先天地生 (observation); 「人法地，地法天，天法道，道法自然」是人在宇宙中之位序與 prescription, 屬 I",
+      "co_domains": []
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "44",
+      "para_index": 1,
+      "para_id": "tao-te-ching#44-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "名與身孰親？身與貨孰多？得與亡孰病？是故甚愛必大費；多藏必厚亡。知足不辱，知止不",
+      "note": "「名與身孰親？身與貨孰多」是本末輕重之命題, 屬 I；「知足不辱，知止不殆，可以長久」是安頓 prescription, 屬 XIII",
+      "co_domains": [
+        "XIII"
       ]
     },
     {

@@ -18,5 +18,46 @@
   "verified": true,
   "tier": "核心",
   "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：道教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。",
-  "psych_survey": null
+  "psych_survey": {
+    "surveyed_at": "2026-10-02",
+    "method": "4 批（每批 ≤2000 字、一章一段）串行發包 minimax-m3（claude-m3-lite，scripts/run-m3-batches.sh），判準 delegation/tao-te-ching/SPEC.md（中性物件替換＋道論規則＋天與神五分）；每批 scripts/accept-batch.py 0 FAIL 才 commit；check-delegation-out 全過；check-reason-quotes 259 條引句 0 不在本段",
+    "domains_hit": [
+      "I",
+      "II",
+      "V",
+      "VI",
+      "VII",
+      "VIII",
+      "X",
+      "XI",
+      "XII",
+      "XIII"
+    ],
+    "domains_null": [
+      "III",
+      "IV",
+      "IX"
+    ],
+    "domain_para_counts": {
+      "V": 47,
+      "VII": 38,
+      "XI": 8,
+      "II": 8,
+      "VI": 6,
+      "I": 3,
+      "XII": 3,
+      "XIII": 2,
+      "VIII": 1,
+      "X": 1
+    },
+    "discourse_mode_counts": {
+      "proposition": 69,
+      "prescription": 54,
+      "observation": 9,
+      "expression": 2
+    },
+    "paras_total": 81,
+    "paras_no_domain": 8,
+    "verdict": "道德經 81 章，命中 73 章（90%），10／13，III 愛、IV 家庭、IX 身體三格掛零。**V 47 章獨大**——八十一章裡過半是寫給治者的（聖人治民、小國寡民、以正治國），老子的『無為』在這部書裡首先是一套治術，與淮南子 G3、呂覽的君道同一個方向；VII 38 章次之，多是不爭、柔弱、處下作為品格。判空 8 章全是道體描述（1、4、6、11、14、21 等，『道可道』『視之不見』），閘門『只講道本身不落到人就判空』切得乾淨。XII 只 3 章且都是天會偏助或懲罰的斷言（67『天將救之』、73『天網恢恢』、79『天道無親，常與善人』），道體章一章都沒被撈成 XII。判讀者 minimax-m3 全書單一。"
+  }
 }

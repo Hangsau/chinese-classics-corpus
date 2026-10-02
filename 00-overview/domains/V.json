@@ -2,9 +2,9 @@
   "domain": "V",
   "name_zh": "群體·社會·公義",
   "gist": "孤獨與歸屬、友誼、我群他群與偏見、公義與權力、責任與領導",
-  "generated_at": "2026-10-02T11:24:17+00:00",
-  "para_count": 4497,
-  "book_count": 51,
+  "generated_at": "2026-10-02T13:22:31+00:00",
+  "para_count": 4544,
+  "book_count": 52,
   "surveyed_zero_hit": [
     "haidao-suanjing",
     "jinkui-yaolue",
@@ -42264,6 +42264,663 @@
       "co_domains": [
         "I"
       ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "2",
+      "para_index": 1,
+      "para_id": "tao-te-ching#02-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "天下皆知美之為美，斯惡已。皆知善之為善，斯不善已。故有無相生，難易相成，長短相較",
+      "note": "「天下皆知美之為美，斯惡已」並「夫唯弗居，是以不去」皆善惡相依與謙下不爭之命題, 落在品格 (VII); 「是以聖人處無為之事，行不言之教」是給治者之 prescription, 屬 V",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "3",
+      "para_index": 1,
+      "para_id": "tao-te-ching#03-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使心不亂。是以聖人之治，虛",
+      "note": "「不尚賢，使民不爭」並「虛其心，實其腹，弱其志，強其骨」皆治者如何使民之 prescription, 屬 V",
+      "co_domains": []
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "5",
+      "para_index": 1,
+      "para_id": "tao-te-ching#05-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "天地不仁，以萬物為芻狗；聖人不仁，以百姓為芻狗。天地之間，其猶橐籥乎？虛而不屈，",
+      "note": "「天地不仁，以萬物為芻狗；聖人不仁，以百姓為芻狗」以天地不仁對照聖人當如何, 命題屬 V; 「多言數窮，不如守中」是治者 prescription, 亦 V",
+      "co_domains": []
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "10",
+      "para_index": 1,
+      "para_id": "tao-te-ching#10-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "載營魄抱一，能無離乎？專氣致柔，能嬰兒乎？滌除玄覽，能無疵乎？愛民治國，能無知乎",
+      "note": "「愛民治國，能無知乎」是治者 prescription, 屬 V; 「明白四達，能無知乎」是自我認知 (II); 「生而不有，為而不恃，長而不宰，是謂玄德」是玄德之 prescription, 屬 VII",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "13",
+      "para_index": 1,
+      "para_id": "tao-te-ching#13-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "寵辱若驚，貴大患若身。何謂寵辱若驚？寵為下，得之若驚，失之若驚，是謂寵辱若驚。何",
+      "note": "「寵辱若驚」是情緒之命題 (VI); 「貴大患若身」是身與天下本末輕重 (I); 「貴以身為天下，若可寄天下；愛以身為天下，若可託天下」是治者 prescription, 屬 V",
+      "co_domains": [
+        "VI",
+        "I"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "17",
+      "para_index": 1,
+      "para_id": "tao-te-ching#17-p01",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "太上，下知有之；其次，親而譽之；其次，畏之；其次，侮之。信不足，焉有不信焉。悠兮",
+      "note": "「太上，下知有之；其次，親而譽之；其次，畏之；其次，侮之」是治者四等之品題 (V); 「悠兮，其貴言」是治者少言之 prescription, 亦 V",
+      "co_domains": []
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "19",
+      "para_index": 1,
+      "para_id": "tao-te-ching#19-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "絕聖棄智，民利百倍；絕仁棄義，民復孝慈；絕巧棄利，盜賊無有。此三者以為文不足。故",
+      "note": "「絕聖棄智，民利百倍」並「絕仁棄義，民復孝慈」並「絕巧棄利，盜賊無有」是治道 prescription, 屬 V; 「見素抱樸，少私寡欲」是寡欲 prescription, 屬 VI",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "22",
+      "para_index": 1,
+      "para_id": "tao-te-ching#22-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曲則全，枉則直，窪則盈，弊則新，少則得，多則惑。是以聖人抱一為天下式。不自見，故",
+      "note": "「是以聖人抱一為天下式」是聖人為天下式 (V); 「不自見，故明；不自是，故彰；不自伐，故有功；不自矜，故長」是四不自之品格命題, 屬 VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "23",
+      "para_index": 1,
+      "para_id": "tao-te-ching#23-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "希言自然，故飄風不終朝，驟雨不終日。孰為此者？天地。天地尚不能久，而況於人乎？故",
+      "note": "「希言自然」是治者少言之命題, 屬 V; 「故從事於道者」並「同於道者，道亦樂得之」是從事於道者之修身命題, 屬 II (自我)",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "26",
+      "para_index": 1,
+      "para_id": "tao-te-ching#26-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "重為輕根，靜為躁君。是以聖人終日行不離輜重。雖有榮觀，燕處超然。奈何萬乘之主，而",
+      "note": "「重為輕根，靜為躁君」並「輕則失本，躁則失君」是治者本末之命題, 屬 V；「奈何萬乘之主，而以身輕天下」是治者 prescription, 亦 V",
+      "co_domains": []
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "27",
+      "para_index": 1,
+      "para_id": "tao-te-ching#27-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "善行無轍迹，善言無瑕讁；善數不用籌策；善閉無關楗而不可開，善結無繩約而不可解。是",
+      "note": "「是以聖人常善救人，故無棄人；常善救物，故無棄物」是治者 prescription, 屬 V；「不貴其師，不愛其資，雖智大迷」是品格命題, 屬 VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "28",
+      "para_index": 1,
+      "para_id": "tao-te-ching#28-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "知其雄，守其雌，為天下谿。為天下谿，常德不離，復歸於嬰兒。知其白，守其黑，為天下",
+      "note": "「知其雄，守其雌，為天下谿」並「知其白，守其黑，為天下式」並「知其榮，守其辱，為天下谷」是三知三守之品格命題, 屬 VII；「聖人用之，則為官長，故大制不割」是治道 prescription, 屬 V",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "29",
+      "para_index": 1,
+      "para_id": "tao-te-ching#29-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "將欲取天下而為之，吾見其不得已。天下神器，不可為也，為者敗之，執者失之。故物或行",
+      "note": "「天下神器，不可為也，為者敗之，執者失之」是治者之命題, 屬 V；「是以聖人去甚，去奢，去泰」是治者 prescription, 亦 V",
+      "co_domains": []
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "30",
+      "para_index": 1,
+      "para_id": "tao-te-ching#30-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "以道佐人主者，不以兵強天下。其事好還。師之所處，荊棘生焉。大軍之後，必有凶年。善",
+      "note": "「以道佐人主者，不以兵強天下」並「師之所處，荊棘生焉」並「大軍之後，必有凶年」是治道之命題, 屬 V；「物壯則老，是謂不道，不道早已」是禍福之命題, 屬 XI",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "31",
+      "para_index": 1,
+      "para_id": "tao-te-ching#31-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫佳兵者，不祥之器，物或惡之，故有道者不處。君子居則貴左，用兵則貴右。兵者不祥之",
+      "note": "「兵者不祥之器，非君子之器，不得已而用之」是治道之命題, 屬 V；「殺人之衆，以哀悲泣之，戰勝以喪禮處之」是治者 prescription, 亦 V",
+      "co_domains": []
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "32",
+      "para_index": 1,
+      "para_id": "tao-te-ching#32-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "道常無名。天下莫能臣也。侯王若能守之，萬物將自賓。天地相合，以降甘露，民莫之令而",
+      "note": "「侯王若能守之，萬物將自賓」並「知止所以不殆」是治道之命題與 prescription, 屬 V；「譬道之在天下，猶川谷之與江海」以道為比喻支撐治道主張, 亦 V",
+      "co_domains": []
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "35",
+      "para_index": 1,
+      "para_id": "tao-te-ching#35-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "執大象，天下往。往而不害，安平大。樂與餌，過客止。道之出口，淡乎其無味，視之不足",
+      "note": "「執大象，天下往」並「往而不害，安平大」是治道之命題, 屬 V；「道之出口，淡乎其無味」以道為比喻支撐治道主張, 亦 V",
+      "co_domains": []
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "37",
+      "para_index": 1,
+      "para_id": "tao-te-ching#37-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "道常無為而無不為。侯王若能守之，萬物將自化。化而欲作，吾將鎮之以無名之樸。無名之",
+      "note": "「侯王若能守之，萬物將自化」是治道之命題, 屬 V；「不欲以靜，天下將自定」是治者 prescription, 亦 V",
+      "co_domains": []
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "39",
+      "para_index": 1,
+      "para_id": "tao-te-ching#39-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "昔之得一者：天得一以清；地得一以寧；神得一以靈；谷得一以盈；萬物得一以生；侯王得",
+      "note": "「侯王得一以為天下貞」並「是以侯王自稱孤、寡、不穀」是治道之命題與 prescription, 屬 V",
+      "co_domains": []
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "42",
+      "para_index": 1,
+      "para_id": "tao-te-ching#42-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "道生一，一生二，二生三，三生萬物。萬物負陰而抱陽，沖氣以為和。人之所惡，唯孤、寡",
+      "note": "「人之所惡，唯孤、寡、不穀，而王公以為稱」是治者之命題, 屬 V；「強梁者不得其死，吾將以為教父」是禍福之命題, 屬 XI",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "43",
+      "para_index": 1,
+      "para_id": "tao-te-ching#43-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "天下之至柔，馳騁天下之至堅。無有入無間，吾是以知無為之有益。不言之教，無為之益，",
+      "note": "「無有入無間，吾是以知無為之有益」是無為之命題, 屬 V；「不言之教，無為之益」是治道 prescription, 亦 V",
+      "co_domains": []
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "45",
+      "para_index": 1,
+      "para_id": "tao-te-ching#45-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "大成若缺，其用不弊。大盈若沖，其用不窮。大直若屈，大巧若拙，大辯若訥。躁勝寒靜勝",
+      "note": "「大成若缺，其用不弊」並「大盈若沖」並「大直若屈」並「大巧若拙」並「大辯若訥」是品格反命題, 屬 VII；「清靜為天下正」是治道 prescription, 屬 V",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "46",
+      "para_index": 1,
+      "para_id": "tao-te-ching#46-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "天下有道，卻走馬以糞。天下無道，戎馬生於郊。禍莫大於不知足；咎莫大於欲得。故知足",
+      "note": "「天下有道，卻走馬以糞」並「天下無道，戎馬生於郊」是治道之命題, 屬 V；「禍莫大於不知足」並「咎莫大於欲得」是禍福之命題, 屬 XI；「故知足之足，常足矣」是治者 prescription, 亦 V",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "47",
+      "para_index": 1,
+      "para_id": "tao-te-ching#47-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "不出戶知天下；不闚牖見天道。其出彌遠，其知彌少。是以聖人不行而知，不見而名，不為",
+      "note": "「不出戶知天下」並「其出彌遠，其知彌少」是認知的限度之命題, 屬 II；「是以聖人不行而知，不見而名，不為而成」是治道 prescription, 屬 V",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "48",
+      "para_index": 1,
+      "para_id": "tao-te-ching#48-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "為學日益，為道日損。損之又損，以至於無為。無為而無不為。取天下常以無事，及其有事",
+      "note": "「為學日益，為道日損」是學與道之命題, 屬 VIII；「取天下常以無事」是治道 prescription, 屬 V",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "49",
+      "para_index": 1,
+      "para_id": "tao-te-ching#49-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "聖人無常心，以百姓心為心。善者，吾善之；不善者，吾亦善之；德善。信者，吾信之；不",
+      "note": "「聖人無常心，以百姓心為心」並「善者，吾善之；不善者，吾亦善之；德善」是治者之命題, 屬 V；「信者，吾信之；不信者，吾亦信之；德信」是治者 prescription, 亦 V",
+      "co_domains": []
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "53",
+      "para_index": 1,
+      "para_id": "tao-te-ching#53-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "使我介然有知，行於大道，唯施是畏。大道甚夷，而民好徑。朝甚除，田甚蕪，倉甚虛；服",
+      "note": "「大道甚夷，而民好徑」並「朝甚除，田甚蕪，倉甚虛；服文綵，帶利劍，厭飲食，財貨有餘；是謂盜夸」皆治者與社會風氣之批判, 屬 V; 「非道也哉」是對盜夸者之 prescription, 亦 V",
+      "co_domains": []
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "54",
+      "para_index": 1,
+      "para_id": "tao-te-ching#54-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "善建不拔，善抱者不脫，子孫以祭祀不輟。修之於身，其德乃真；修之於家，其德乃餘；修",
+      "note": "「修之於身，其德乃真；修之於家，其德乃餘；修之於鄉，其德乃長；修之於國，其德乃豐；修之於天下，其德乃普」是德由身修至天下之治道 prescription, 屬 V; 「善建不拔，善抱者不脫」並「以身觀身，以家觀家，以鄉觀鄉，以國觀國，以天下觀天下」是德性之命題與治者知天下之命題, 屬 V/VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "56",
+      "para_index": 1,
+      "para_id": "tao-te-ching#56-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "知者不言，言者不知。塞其兑，閉其門，挫其銳，解其分，和其光，同其塵，是謂玄同。故",
+      "note": "「塞其兑，閉其門，挫其銳，解其分，和其光，同其塵，是謂玄同」是玄同之品格命題, 屬 VII; 「不可得而親，不可得而踈；不可得而利，不可得而害；不可得而貴，不可得而賤。故為天下貴」是玄同者之天下貴命題, 屬 V",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "57",
+      "para_index": 1,
+      "para_id": "tao-te-ching#57-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "以正治國，以奇用兵，以無事取天下。吾何以知其然哉？以此：天下多忌諱，而民彌貧；民",
+      "note": "「以正治國，以奇用兵，以無事取天下」是治道之命題, 屬 V; 「天下多忌諱，而民彌貧；民多利器，國家滋昏；人多伎巧，奇物滋起；法令滋彰，盜賊多有」是治道因果命題, 亦 V; 「我無為，而民自化；我好靜，而民自正；我無事，而民自富；我無欲，而民自樸」是治者 prescription, 亦 V",
+      "co_domains": []
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "58",
+      "para_index": 1,
+      "para_id": "tao-te-ching#58-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "其政悶悶，其民淳淳；其政察察，其民缺缺。禍兮福之所倚，福兮禍之所伏。孰知其極？其",
+      "note": "「其政悶悶，其民淳淳；其政察察，其民缺缺」是治/民之命題, 屬 V; 「禍兮福之所倚，福兮禍之所伏」並「正復為奇，善復為妖」是禍福相依之命題, 屬 XI; 「是以聖人方而不割，廉而不劌，直而不肆，光而不燿」是聖人品格之 prescription, 屬 VII",
+      "co_domains": [
+        "XI",
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "59",
+      "para_index": 1,
+      "para_id": "tao-te-ching#59-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "治人事天莫若嗇。夫唯嗇，是謂早服；早服謂之重積德；重積德則無不克；無不克則莫知其",
+      "note": "「治人事天莫若嗇」並「早服謂之重積德；重積德則無不克；無不克則莫知其極；莫知其極，可以有國；有國之母，可以長久」是治者治國之 prescription, 屬 V; 「嗇」「早服」「重積德」並「深根固柢，長生久視之道」是治者德性 prescription, 屬 VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "60",
+      "para_index": 1,
+      "para_id": "tao-te-ching#60-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "治大國若烹小鮮。以道蒞天下，其鬼不神；非其鬼不神，其神不傷人；非其神不傷人，聖人",
+      "note": "「治大國若烹小鮮」並「以道蒞天下」是治道之命題與 prescription, 屬 V; 「非其鬼不神，其神不傷人；非其神不傷人，聖人亦不傷人」是治者不傷之治道 prescription, 屬 V; 「夫兩不相傷，故德交歸焉」是德交歸之命題, 屬 VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "61",
+      "para_index": 1,
+      "para_id": "tao-te-ching#61-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "大國者下流，天下之交，天下之牝。牝常以靜勝牡，以靜為下。故大國以下小國，則取小國",
+      "note": "「大國者下流，天下之交，天下之牝」並「大國以下小國，則取小國；小國以下大國，則取大國」是大國小國關係之治道命題, 屬 V; 「牝常以靜勝牡，以靜為下」並「大者宜為下」是靜/下之品格 prescription, 屬 VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "62",
+      "para_index": 1,
+      "para_id": "tao-te-ching#62-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "道者萬物之奧。善人之寶，不善人之所保。美言可以市，尊行可以加人。人之不善，何棄之",
+      "note": "「善人之寶，不善人之所保」並「人之不善，何棄之有」是道之於善不善人之命題, 屬 V; 「故立天子，置三公」並「古之所以貴此道者何？不曰：以求得，有罪以免耶」並「故為天下貴」是治道命題, 亦 V",
+      "co_domains": []
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "63",
+      "para_index": 1,
+      "para_id": "tao-te-ching#63-p01",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "為無為，事無事，味無味。大小多少，報怨以德。圖難於其易，為大於其細；天下難事，必",
+      "note": "「為無為，事無事，味無味」並「大小多少，報怨以德」並「輕諾必寡信，多易必多難」是行事之品格 prescription, 屬 VII; 「天下難事，必作於易，天下大事，必作於細」並「是以聖人終不為大，故能成其大」並「是以聖人猶難之，故終無難矣」是治者 prescription, 屬 V",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "64",
+      "para_index": 1,
+      "para_id": "tao-te-ching#64-p01",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "其安易持，其未兆易謀。其脆易泮，其微易散。為之於未有，治之於未亂。合抱之木，生於",
+      "note": "「其安易持，其未兆易謀」並「為之於未有，治之於未亂」並「民之從事，常於幾成而敗之」是治者治道 prescription, 屬 V; 「聖人無為故無敗；無執故無失」並「聖人欲不欲，不貴難得之貨；學不學，復衆人之所過，以輔萬物之自然，而不敢為」是聖人品格 prescription, 屬 VII; 「合抱之木，生於毫末；九層之臺，起於累土；千里之行，始於足下」是觀物之命題支撐治道, 亦 V",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "65",
+      "para_index": 1,
+      "para_id": "tao-te-ching#65-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "古之善為道者，非以明民，將以愚之。民之難治，以其智多。故以智治國，國之賊；不以智",
+      "note": "「古之善為道者，非以明民，將以愚之」並「民之難治，以其智多」並「故以智治國，國之賊；不以智治國，國之福」是治者 prescription, 屬 V; 「常知𥡴式，是謂玄德」並「玄德深矣，遠矣，與物反矣，然後乃至大順」是治者玄德 prescription, 亦 V",
+      "co_domains": []
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "66",
+      "para_index": 1,
+      "para_id": "tao-te-ching#66-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "江海所以能為百谷王者，以其善下之，故能為百谷王。是以聖人欲上民，必以言下之；欲先",
+      "note": "「江海所以能為百谷王者，以其善下之，故能為百谷王」是善下之命題, 屬 VII; 「聖人欲上民，必以言下之；欲先民，必以身後之」並「聖人處上而民不重，處前而民不害」並「以其不爭，故天下莫能與之爭」是治者 prescription, 屬 V",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "69",
+      "para_index": 1,
+      "para_id": "tao-te-ching#69-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "用兵有言：吾不敢為主，而為客；不敢進寸，而退尺。是謂行無行；攘無臂；扔無敵；執無",
+      "note": "「用兵有言：吾不敢為主，而為客；不敢進寸，而退尺」並「禍莫大於輕敵，輕敵幾喪吾寶」是用兵治道命題, 屬 V; 「故抗兵相加，哀者勝矣」是哀者勝之品格 prescription, 屬 VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "72",
+      "para_index": 1,
+      "para_id": "tao-te-ching#72-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "民不畏威，則大威至。無狎其所居，無厭其所生。夫唯不厭，是以不厭。是以聖人自知不自",
+      "note": "「民不畏威，則大威至」並「無狎其所居，無厭其所生」是治/民之命題, 屬 V; 「聖人自知不自見」是自知之自我命題, 屬 II; 「自愛不自貴」是自愛不自貴之品格命題, 屬 VII",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "74",
+      "para_index": 1,
+      "para_id": "tao-te-ching#74-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "民不畏死，奈何以死懼之？若使民常畏死，而為奇者，吾得執而殺之，孰敢？常有司殺者殺",
+      "note": "「民不畏死，奈何以死懼之」並「常有司殺者殺」並「夫代大匠斲者，希有不傷其手矣」是治者刑殺之命題與 prescription, 屬 V",
+      "co_domains": []
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "75",
+      "para_index": 1,
+      "para_id": "tao-te-ching#75-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "民之飢，以其上食稅之多，是以飢。民之難治，以其上之有為，是以難治。民之輕死，以其",
+      "note": "「民之飢，以其上食稅之多，是以飢」並「民之難治，以其上之有為，是以難治」並「夫唯無以生為者，是賢於貴生」是治者與民關係之治道命題與 prescription, 屬 V",
+      "co_domains": []
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "77",
+      "para_index": 1,
+      "para_id": "tao-te-ching#77-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "天之道，其猶張弓與？高者抑之，下者舉之；有餘者損之，不足者補之。天之道，損有餘而",
+      "note": "「天之道，損有餘而補不足。人之道，則不然，損不足以奉有餘」並「孰能有餘以奉天下，唯有道者」是天道/人之道對照之治道命題, 屬 V; 「是以聖人為而不恃，功成而不處」是治者品格 prescription, 屬 VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "78",
+      "para_index": 1,
+      "para_id": "tao-te-ching#78-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "天下莫柔弱於水，而攻堅強者莫之能勝，其無以易之。弱之勝強，柔之勝剛，天下莫不知，",
+      "note": "「天下莫柔弱於水，而攻堅強者莫之能勝」並「弱之勝強，柔之勝剛」並「受國之垢，是謂社稷主；受國不祥，是謂天下王」是水能攻堅之觀察與治者 prescription, 屬 V",
+      "co_domains": []
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "79",
+      "para_index": 1,
+      "para_id": "tao-te-ching#79-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "和大怨，必有餘怨；安可以為善？是以聖人執左契，而不責於人。有德司契，無德司徹。天",
+      "note": "「和大怨，必有餘怨；安可以為善」並「聖人執左契，而不責於人」是治者治道命題與 prescription, 屬 V; 「有德司契，無德司徹」是德性對照之品格命題, 屬 VII; 「天道無親，常與善人」是認證天會偏助善人, 屬 XII",
+      "co_domains": [
+        "VII",
+        "XII"
+      ]
+    },
+    {
+      "slug": "tao-te-ching",
+      "chapter": "80",
+      "para_index": 1,
+      "para_id": "tao-te-ching#80-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "小國寡民。使有什伯之器而不用；使民重死而不遠徙。雖有舟輿，無所乘之，雖有甲兵，無",
+      "note": "「小國寡民」並「使有什伯之器而不用」並「甘其食，美其服，安其居，樂其俗」並「民至老死，不相往來」是治道之 prescription, 屬 V",
+      "co_domains": []
     },
     {
       "slug": "weiliaozi",
