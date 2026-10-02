@@ -111,8 +111,12 @@ translations/<slug>/
 ├── meta.json              ← 書級 L1（沿用 religions-history meta_template schema）
 ├── raw/original.txt       ← 原文，唯讀
 ├── raw/checksums.sha256
-└── annotations.json       ← 段落級 L2 + L3
+├── annotations.json       ← 段落級 L2 + L3
+├── segmentation.json      ← （選）巨段切點覆蓋層，scripts/segment.py 產生
+└── chapter_titles.json    ← （選）只有序號的章名 → 真篇名，供顯示用
 ```
+
+`chapter_titles.json` 只管**顯示**：`{"<章序>": {"label": "<raw 章名>", "title": "<真篇名>"}}`。para_id 與 `anchor.chapter` 照舊用 raw 章名，不受影響；讀取一律走 `corpus_text.load_chapter_titles()`。`verify.py` 逐條核對 `label` 仍等於 raw 該章的章名，對不上報 error——章序若被重排，對照表不會默默把篇名掛到別章。2026-10-02 為 classics-reflections 札記出處補了 9 部 55 章（孔叢子 19、水經注 18、申鑒 5、風俗通義 4、鄧析子 2、潛夫論 2、金樓子／越絕書／吳越春秋各 1），篇名依各章開頭內容逐章對認。
 
 `annotations.json` 每筆：
 

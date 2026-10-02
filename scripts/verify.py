@@ -188,6 +188,16 @@ def check(slug: str, entry: dict, domain_ids: set[str], mode_ids: set[str]) -> t
         dupes = sorted({l for l in labels if labels.count(l) > 1})
         errors.append(f"duplicate chapter labels: {dupes[:5]}")
 
+    titles_path = d / "chapter_titles.json"
+    if titles_path.exists():
+        for no, t in json.loads(titles_path.read_text(encoding="utf-8")).items():
+            n = int(no)
+            if not 1 <= n <= len(labels) or labels[n - 1] != t.get("label"):
+                errors.append(f"chapter_titles.json #{no} expects label '{t.get('label')}' "
+                              f"but raw has '{labels[n - 1] if 1 <= n <= len(labels) else None}'")
+            elif not t.get("title"):
+                errors.append(f"chapter_titles.json #{no} has empty title")
+
     seen: dict[str, str] = {}
     for lab, body in zip(labels, bodies):
         h = hashlib.sha256(body.strip().encode("utf-8")).hexdigest()

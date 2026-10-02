@@ -20,6 +20,7 @@ from pathlib import Path
 CHAPTER_RE = re.compile(r"^=== (\d+) \| (.+) ===$")
 MIN_CHARS_DEFAULT = 12
 SEGMENTATION_FILE = "segmentation.json"
+CHAPTER_TITLES_FILE = "chapter_titles.json"
 
 
 class SegmentationError(ValueError):
@@ -80,6 +81,19 @@ def split_paragraphs(text: str, min_chars: int = MIN_CHARS_DEFAULT,
         missing = ", ".join(f"{c}[{i}]" for c, i in cuts_at)
         raise SegmentationError(f"segmentation.json 指到不存在的段落：{missing}")
     return out
+
+
+def load_chapter_titles(book_dir: Path) -> dict[int, str]:
+    """chapter_titles.json: display titles for chapters whose raw label is only an ordinal.
+
+    {"<chapter_no>": {"label": <raw label>, "title": <real title>}}; raw/ stays untouched.
+    verify.py checks each entry's label still matches raw, so a stale overlay cannot
+    silently rename the wrong chapter.
+    """
+    p = Path(book_dir) / CHAPTER_TITLES_FILE
+    if not p.exists():
+        return {}
+    return {int(k): v["title"] for k, v in json.loads(p.read_text(encoding="utf-8")).items()}
 
 
 def read_paragraphs(book_dir: Path, min_chars: int = MIN_CHARS_DEFAULT

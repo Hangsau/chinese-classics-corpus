@@ -13,6 +13,7 @@
 | 改標註欄位、加 `discourse_mode` 值 | `SCHEMA.md` §1–§2，改動前先在 `pilots/` 驗證 |
 | 理解為什麼標註要下放到段落級 | `pilots/2026-07-28-sunzi-jiuzhang.md` §3–§4 |
 | 改 downloader | `CLAUDE.md` §4 爬蟲倫理 + 本檔 §下載器結構陷阱（**五類已修過的問題，別退回去**） |
+| 某章章名只有序號、想知道真篇名 | `translations/<slug>/chapter_titles.json`（顯示用覆蓋層，raw 與 para_id 不變；`corpus_text.load_chapter_titles()` 讀、verify 驗 label 對得上） |
 | 查某部書在不在清單、為何某部結構特殊 | `scripts/catalog/chinese-classics-ws.json`（148 條、實收 143 部；`excluded` 5 條＝廣韻／焦氏易林／意林／楚辭＋併入墨子的魯勝墨辯注敘，特殊處置寫在該部的 `structure_note` / `coverage_note` / `excluded_reason`） |
 | 抓完驗證 | `PYTHONIOENCODING=utf-8 python scripts/verify.py`；重生索引 `... scripts/build-index.py` |
 | 跑心理學標註 | 先讀 `SCHEMA.md` §3 分流 `text_role`；`reference` 預設不排批次，但**不得憑此宣告沒內容**（§3.1 釋名已證否） |
