@@ -1,0 +1,738 @@
+{
+  "slug": "zhuangzi",
+  "batches": [
+    {
+      "file": "b01.md",
+      "chapters": [
+        {
+          "chapter": "enjoyment-in-untroubled-ease",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "chapter": "adjustment-of-controversies",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "chapter": "nourishing-the-lord-of-life",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ],
+      "paras": 27,
+      "chars": 6121
+    },
+    {
+      "file": "b02.md",
+      "chapters": [
+        {
+          "chapter": "man-in-the-world-associated-with",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "chapter": "seal-of-virtue-complete",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ],
+      "paras": 15,
+      "chars": 5746
+    },
+    {
+      "file": "b03.md",
+      "chapters": [
+        {
+          "chapter": "great-and-most-honoured-master",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "chapter": "normal-course-for-rulers-and-kings",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "chapter": "webbed-toes",
+          "para_indexes": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "chapter": "horsess-hoofs",
+          "para_indexes": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "paras": 27,
+      "chars": 6966
+    },
+    {
+      "file": "b04.md",
+      "chapters": [
+        {
+          "chapter": "cutting-open-satchels",
+          "para_indexes": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "chapter": "letting-be-and-exercising-forbearance",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ],
+      "paras": 12,
+      "chars": 4343
+    },
+    {
+      "file": "b05.md",
+      "chapters": [
+        {
+          "chapter": "heaven-and-earth",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "chapter": "tian-dao",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ],
+      "paras": 31,
+      "chars": 6720
+    },
+    {
+      "file": "b06.md",
+      "chapters": [
+        {
+          "chapter": "revolution-of-heaven",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "chapter": "ingrained-ideas",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "chapter": "correcting-the-nature",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ],
+      "paras": 36,
+      "chars": 4706
+    },
+    {
+      "file": "b07.md",
+      "chapters": [
+        {
+          "chapter": "floods-of-autumn",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "chapter": "perfect-enjoyment",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ],
+      "paras": 29,
+      "chars": 5177
+    },
+    {
+      "file": "b08.md",
+      "chapters": [
+        {
+          "chapter": "full-understanding-of-life",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "chapter": "tree-on-the-mountain",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        }
+      ],
+      "paras": 41,
+      "chars": 5632
+    },
+    {
+      "file": "b09.md",
+      "chapters": [
+        {
+          "chapter": "tian-zi-fang",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "chapter": "knowledge-rambling-in-the-north",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        }
+      ],
+      "paras": 48,
+      "chars": 5974
+    },
+    {
+      "file": "b10.md",
+      "chapters": [
+        {
+          "chapter": "geng-sang-chu",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        }
+      ],
+      "paras": 26,
+      "chars": 2998
+    },
+    {
+      "file": "b11.md",
+      "chapters": [
+        {
+          "chapter": "xu-wu-gui",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ]
+        }
+      ],
+      "paras": 31,
+      "chars": 4240
+    },
+    {
+      "file": "b12.md",
+      "chapters": [
+        {
+          "chapter": "ze-yang",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "chapter": "what-comes-from-without",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "chapter": "metaphorical-language",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ],
+      "paras": 46,
+      "chars": 6176
+    },
+    {
+      "file": "b13.md",
+      "chapters": [
+        {
+          "chapter": "kings-who-have-wished-to-resign",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        }
+      ],
+      "paras": 24,
+      "chars": 3326
+    },
+    {
+      "file": "b14.md",
+      "chapters": [
+        {
+          "chapter": "robber-zhi",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "chapter": "delight-in-the-sword-fight",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "chapter": "old-fisherman",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ],
+      "paras": 33,
+      "chars": 6814
+    },
+    {
+      "file": "b15.md",
+      "chapters": [
+        {
+          "chapter": "lie-yu-kou",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "chapter": "tian-xia",
+          "para_indexes": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        }
+      ],
+      "paras": 37,
+      "chars": 5237
+    }
+  ]
+}

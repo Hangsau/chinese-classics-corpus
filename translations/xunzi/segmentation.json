@@ -1,0 +1,99 @@
+{
+  "overrides": [
+    {
+      "chapter": "勸學篇",
+      "para_index": 3,
+      "sha256": "ccb2006610ddcbfb45882fe6eb13c74d2f72417ac7846d1e8363cc9c3e8fd6e3",
+      "method": "auto(min=250,max=700)",
+      "cuts": [
+        953
+      ]
+    },
+    {
+      "chapter": "榮辱篇",
+      "para_index": 6,
+      "sha256": "484acd4732694a55a7075feb76cfc68e18967993e833afadf6a8af0398de1963",
+      "method": "auto(min=250,max=700)",
+      "cuts": [
+        964,
+        1464,
+        2285
+      ]
+    },
+    {
+      "chapter": "非相篇",
+      "para_index": 2,
+      "sha256": "d030c545f68e640b84d9db0c7eb1f20e0d300ccf0f907b92c9aae44a2bdef957",
+      "method": "auto(min=250,max=700)",
+      "cuts": [
+        1443
+      ]
+    },
+    {
+      "chapter": "非十二子篇",
+      "para_index": 1,
+      "sha256": "c39d4c064f7130ecdbcaf2ee9bb47b2e56b66ccb0f19589b73b7fa987a0901ac",
+      "method": "auto(min=250,max=700)",
+      "cuts": [
+        1907
+      ]
+    },
+    {
+      "chapter": "儒效篇",
+      "para_index": 7,
+      "sha256": "6c0d398e953b95e31a277730d6aec46282b958f070a3a3a080ab545b062aaa8a",
+      "method": "auto(min=250,max=700)",
+      "cuts": []
+    },
+    {
+      "chapter": "臣道篇",
+      "para_index": 1,
+      "sha256": "cfefb3fb1b46f1859570da437cf8795c9e4d8288af7587def8084e88c7750f7d",
+      "method": "auto(min=250,max=700)",
+      "cuts": [
+        1688
+      ]
+    },
+    {
+      "chapter": "樂論篇",
+      "para_index": 1,
+      "sha256": "70f9fb931547ba726c7b24cce43e0f22f0350cfc34d3cd6b909d6a40213b9faa",
+      "method": "auto(min=250,max=700)",
+      "cuts": [
+        489,
+        879,
+        1167
+      ]
+    },
+    {
+      "chapter": "性惡篇",
+      "para_index": 6,
+      "sha256": "e01cf436e2c1542d508302ecf10b6c96ca50647db7499e3185bffc450d674fd5",
+      "method": "auto(min=250,max=700)",
+      "cuts": [
+        635,
+        3017
+      ]
+    },
+    {
+      "chapter": "君子篇",
+      "para_index": 2,
+      "sha256": "187a4a59dc8be0434e097152b126af2ff251923fcc6ec2aa99b85a8e51a94365",
+      "method": "auto(min=250,max=700)",
+      "cuts": [
+        553
+      ]
+    },
+    {
+      "chapter": "成相篇",
+      "para_index": 2,
+      "sha256": "cd95986a8ecb25cf3f889973a5e7f9f0f5d731ec99496cdfbaed99fa6b515749",
+      "method": "auto(min=250,max=700)",
+      "cuts": [
+        1071
+      ]
+    }
+  ],
+  "note": "上游整章一個 block 的巨段切分覆蓋層；由 scripts/segment.py 產生，原文不動。corpus_text.read_paragraphs 套用。",
+  "updated": "2026-10-02"
+}
