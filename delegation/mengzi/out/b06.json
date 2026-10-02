@@ -1,0 +1,345 @@
+{
+  "batch": "b06.md",
+  "rows": [
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 1,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「孟子道性善，言必稱堯舜」記孟子以性善之說教世子，並以堯舜為典範，是人性論之敘事"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 2,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "「有為者亦若是」引顏淵之言勸勉世子人人可為善，以「猶可以為善國」作結，主張善可學而至、是品格之勉勵"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 3,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「昔者孟子嘗與我言於宋，於心終不忘」世子因父喪欲問孟子於喪禮，本段僅敘事起緣，未及人生判斷"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 4,
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「親喪固所自盡也」應三年之喪與「自天子達於庶人，三代共之」之禮，規定喪葬之禮與孝道、是家庭傳承之規範"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 5,
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「喪祭從先祖」父兄百官據宗國魯先君之例反對三年之喪，本段敘世子所遭之反對與再問孟子之由，承重在喪禮爭議"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 6,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「君子之德，風也；小人之德，草也」以風草之喻勸世子先自盡哀以化下，主張在上者之風氣決定群體之從違、是領導與風俗之論"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 7,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「顏色之戚，哭泣之哀，弔者大悅」敘世子行三年之喪的結果與四方觀者之悅服，本段純為喪禮成效之敘事"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 8,
+      "domains": [
+        "V",
+        "VII"
+      ],
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "reason": "「民之為道也，有恆產者有恆心，無恆產者無恆心」斷人心隨恆產而判，「焉有仁人在位，罔民而可為也」責罔民之君，是民心向背與君主品格之雙重主張"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 9,
+      "domains": [],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「治地莫善於助，莫不善於貢」比較三代田稅之制而主張助法為善，全段以稅制政策條目為主，政策條目本身判空"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 10,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「皆所以明人倫也」「人倫明於上，小民親於下」設庠序學校而以明人倫為目的，主張上之人倫明則下民親、是社會風俗之規範"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 11,
+      "domains": [],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「經界不正，井地不鈞，穀祿不平」詳述井田經界與祿制之規劃，全段為井地政策條目之規範，政策條目本身判空"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 12,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「遠方之人聞君行仁政，願受一廛而為氓」記許行自楚至滕請受一廛為氓及其徒捆屨織席以食，本段純為後文之敘事引子"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 13,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「聞君行聖人之政，是亦聖人也，願為聖人氓」記陳相與其弟自宋至滕之由，本段純為敘事引子"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 14,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「賢者與民並耕而食，饔飧而治」許行以賢者應與民並耕、斥倉廩府庫為厲民而自養，主張其並耕之君道、是責任與領導之人生主張"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 15,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「許子必種粟而後食乎」孟子問許行是否自種而食之短問答，為論辯之引問，本段為敘事問答"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 16,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「許子必織布而後衣乎」孟子問許行是否自織而衣之短問答，為論辯之引問，本段為敘事問答"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 17,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「許子冠乎」孟子問許行是否戴帽之短問答，為論辯之引問，本段為敘事問答"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 18,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「奚冠」孟子追問許行所戴何帽之短問答，為論辯之引問，本段為敘事問答"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 19,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「自織之與」孟子問許行所戴之帽是否自織之短問答，為論辯之引問，本段為敘事問答"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 20,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「許子奚為不自織」孟子問許行何不自織之短問答，為論辯之引問，本段為敘事問答"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 21,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「許子以釜甑爨」孟子問許行是否自炊自耕之短問答，為論辯之引問，本段為敘事問答"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 22,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「自為之與」孟子問許行炊耕之器是否自制之短問答，為論辯之引問，本段為敘事問答"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 23,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「百工之事，固不可耕且為也」孟子以交易之不厲陶冶反證社會分工不可一人兼耕，主張分業交換之合理、是群體社會之主張"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 24,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「或勞心，或勞力」「天下之通義也」分勞心勞力為治人與治於人之兩端，主張治天下不可耕且為、是社會階層與分工之通則"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 25,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「父子有親，君臣有義，夫婦有別，長幼有序，朋友有信」以堯舜禹之故事明聖人憂民而無暇耕，並立五倫之教，主張群體倫理之建立"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 26,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「為天下得人者謂之仁」以堯舜之憂在不得賢為己憂，分惠、忠、仁之等差，主張為君者在於得人、是責任與用人之主張"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 27,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "reason": "「出於幽谷遷于喬木者，末聞下喬木而入於幽谷者」以喬木幽谷之喻明用夏變夷之不可反，「子倍子之師而學之，亦異於曾子矣」責陳相背師之失，是品格與文化傳承之雙重主張"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 28,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「夫物之不齊，物之情也」以物之情本不齊駁同價之說，主張從許子之道將亂天下、是社會秩序與公義之主張"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 29,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「吾固願見，今吾尚病」孟子以病推墨者夷之求見，本段為敘事設事"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 30,
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「然而夷子葬其親厚，則是以所賤事親也」指夷子薄葬之教與厚葬其親之矛盾，是喪葬與孝之主張"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 31,
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「愛無差等，施由親始」夷子以古之若保赤子之語主張愛無差等而施由親始，是家庭倫理之主張"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 32,
+      "domains": [
+        "IV",
+        "VI"
+      ],
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "reason": "「中心達於面目」以泚見於面目明親喪之痛發於中心，「則孝子仁人之掩其親，亦必有道矣」結掩親之仁，是喪葬之倫理兼及內在情感之主張"
+    },
+    {
+      "chapter": "teng-wen-gong-i",
+      "para_index": 33,
+      "domains": [
+        "VI"
+      ],
+      "modes": [
+        "expression"
+      ],
+      "reason": "「命之矣」夷子無以應而發為感嘆，是其內在情緒之抒發"
+    }
+  ]
+}
