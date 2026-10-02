@@ -3,6 +3,18 @@
 > 狀態快照。行為規範見 [`CLAUDE.md`](./CLAUDE.md)，結構導航見 [`MAP.md`](./MAP.md)，資料契約見 [`SCHEMA.md`](./SCHEMA.md)。
 > 最後更新：2026-10-02
 
+## 2026-10-02（進行中）：論孟荀老莊列六部發包標註
+
+目的：讓 classics-reflections 的札記補上儒家正典與道家視角。六部各一份 SPEC（`delegation/<slug>/SPEC.md`），87 批，串行派 MiniMax-M3。
+
+- **新工具**：`scripts/accept-batch.py <slug> <bNN>`（通用驗收，錨點現場解析 SPEC「## 驗收錨點」表；`--check-spec` 驗表本身；合成完美輸出全過、錨點反向／缺列／假引句變異全抓到）、`scripts/run-m3-batches.sh <slug>`（通用串行發包，逾時 `M3_TIMEOUT`，大批次設 2700）
+- **道德經 81 章已完成並回填**（10／13、命中 90%、V 47 章獨大）
+- **論語 15／17 批已回收 commit**，尚未回填 annotations
+- **未跑**：論語 b16–b17、孟子 15、莊子 15、列子 8、荀子 28（共 68 批，約 10 小時）。續跑指令（可中斷重跑，已過驗收的批次自動跳過）：
+  `export M3_TIMEOUT=2700; for s in analects mengzi zhuangzi liezi xunzi; do bash scripts/run-m3-batches.sh $s || break; done`
+- **跑的時候不可動 repo 其他檔案**（發包器會偵測到非輸出檔變動而停）
+- 每部跑完的收尾：`make-scaffold` → `apply-delegation --tagged-by minimax-m3` → `check-delegation-out`／`check-reason-quotes` → 寫 `psych_survey`（含逐群命中與抽查）→ `build-index` → `verify` → commit＋push
+
 ## 2026-10-02（再續）：只有序號的章名補真篇名（顯示用覆蓋層）
 
 classics-reflections 的札記出處要顯示「出自哪篇」，但有幾部書 raw 章名只有序號（孔叢子 `01`、申鑒 `1`、水經注 `08`）。新增 `translations/<slug>/chapter_titles.json`（格式見 SCHEMA §4），**raw 不動、para_id 不變**；`corpus_text.load_chapter_titles()` 讀取，`verify.py` 驗每條的 `label` 仍對得上 raw（已用擾動探針確認改錯會報 error）。
