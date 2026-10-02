@@ -1,0 +1,490 @@
+{
+  "batch": "b13.md",
+  "rows": [
+    {
+      "chapter": "xian-wen",
+      "para_index": 44,
+      "domains": [
+        "V",
+        "VII"
+      ],
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "reason": "「吾見其居於位也，見其與先生並行也」記童子坐位、與先生並行，違長幼之禮（V），「非求益者也，欲速成者也」孔子據此判其人品格之病（VII）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 1,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「俎豆之事，則嘗聞之矣；軍旅之事，未之學也」孔子明告衛靈公所學只在禮而不在兵，拒為軍備之問（V）；「明日遂行」遂去衛，為仕止之節。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 2,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「君子固窮，小人窮斯濫矣」以君子／小人對比在困窮中之節，君子小人是品格類型，「固窮」「濫」拆出後果（VII）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 3,
+      "domains": [
+        "VIII",
+        "II"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "「女以予為多學而識之者與」「予一以貫之」孔子自述其學不在博記而在以一理貫之，論為學之方法（VIII），自我之認同與認知（II）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 4,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「知德者鮮矣」斷能知德者之少，德為品格之知，「知」直接堆到德目之判準（VII）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 5,
+      "domains": [
+        "V",
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「無為而治者，其舜也與」「恭己正南面而已矣」論為治之無為而治，以德居位之典（V），「恭己」為治者之品格（VII）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 6,
+      "domains": [
+        "V",
+        "VII"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「言忠信，行篤敬，雖蠻貊之邦行矣；言不忠信，行不篤敬，雖州里行乎哉」以忠信篤敬為通不同邦之基本節（V），且為人格之準則（VII）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 7,
+      "domains": [
+        "V",
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「邦有道，如矢；邦無道，如矢」「邦有道，則仕；邦無道，則可卷而懷之」史魚與蘧伯玉為君子仕退之二型，邦有道無道為為政時遇（V），「如矢」「卷而懷之」為君子之品格（VII）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 8,
+      "domains": [
+        "II",
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「可與言而不與之言，失人；不可與言而與之言，失言」「知者不失人，亦不失言」以「不失人」「不失言」表知人之認知（V），「知者」之判斷屬認知之能（II）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 9,
+      "domains": [
+        "VII",
+        "X"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「志士仁人，無求生以害仁，有殺身以成仁」以「求生」「殺身」拆仁之結果，仁為品格德目（VII），「殺身」為死亡之犠牲（X）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 10,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「居是邦也，事其大夫之賢者，友其士之仁者」規定居邦行仁之方，指向社會中事誰友誰（V），「為仁」之求為品格之養成（VII）；「工欲善其事，必先利其器」為工之成事之比喻，判其人事主張。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 11,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "prescription",
+        "ritual"
+      ],
+      "reason": "「行夏之時，乘殷之輅，服周之冕，樂則韶舞。放鄭聲，遠佞人」制定為邦之禮文與用人，「放鄭聲」為禮制之規，「遠佞人」為為政用人之要，皆為政事之節（V）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 12,
+      "domains": [
+        "V",
+        "VI"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「人無遠慮，必有近憂」論人無遠見必招近憂，「遠慮」為為政者居安思危之能（V），「近憂」為情緒之後果（VI）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 13,
+      "domains": [
+        "VI",
+        "VII"
+      ],
+      "modes": [
+        "expression",
+        "proposition"
+      ],
+      "reason": "「已矣乎！吾未見好德如好色者也」孔子感嘆人未見能好德如好色，為情緒之抒發（VI），「好德」與「好色」之對比為品格之論（VII）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 14,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "reason": "「臧文仲其竊位者與？知柳下惠之賢，而不與立也」評臧文仲一人為竊位，並以「知柳下惠之賢，而不與立也」為在位者之失，立下用賢之標準（V）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 15,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「躬自厚而薄責於人，則遠怨矣」規定「躬自厚而薄責於人」之行為準則，「躬自厚」「薄責於人」為修身之準則（VII），「遠怨」為人我間之結果（V）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 16,
+      "domains": [
+        "VII",
+        "II"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「不曰『如之何如之何』者，吾末如之何也已矣」以反覆思之「如之何」為人之能，「不曰『如之何如之何』」為不思之品格缺失（VII），「如之何」亦為自反之認知作用（II）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 17,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「群居終日，言不及義，好行小慧，難矣哉」斷群居而不義者之品格缺失（VII），「群居」屬社會之群體生活（V）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 18,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「君子義以為質，禮以行之，孫以出之，信以成之」以義禮／孫／信各堆一個功能位，拆成行為準則（VII）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 19,
+      "domains": [
+        "VII",
+        "II"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「君子病無能焉，不病人之不己知也」君子所患在己之無能，不患人不知己，「無能」為自我之關注（II），「病」為品格之主動面（VII）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 20,
+      "domains": [
+        "VII",
+        "II"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「君子疾沒世而名不稱焉」君子所疾在終身之名不稱，「疾」為君子之品格意識（VII），「名」為名與實之關注（II）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 21,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「君子求諸己，小人求諸人」以君子／小人對比所求之所在，拆解為品格類型之異（VII）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 22,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「君子矜而不爭，群而不黨」以「矜而不爭」「群而不黨」並列兩項君子之身分之條，拆為品格準則（VII）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 23,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「君子不以言舉人，不以人廢言」規定舉人廢言之節，君子品格之準則（VII），「舉人」「廢言」皆為社會評價人言之節（V）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 24,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "reason": "「其恕乎！己所不欲，勿施於人」恕為唯一終身可行之言，恕之義被拆成「勿施於人」之行為準則（VII）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 25,
+      "domains": [
+        "VII",
+        "II"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「吾之於人也，誰毀誰譽？如有所譽者，其有所試矣」孔子自述其毀譽之節，「有所試」為品格之評人準則（VII），自述處之自認（II）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 26,
+      "domains": [
+        "VII",
+        "VI"
+      ],
+      "modes": [
+        "expression",
+        "proposition"
+      ],
+      "reason": "「吾猶及史之闕文也，有馬者借人乘之」兩個往日之義例：「史之闕文」為史官存疑之德，「有馬者借人乘之」為無私之德，皆品格之典（VII）；「今亡矣夫」為對世風不古之感嘆（VI）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 27,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「巧言亂德，小不忍則亂大謀」以「巧言」「小不忍」各堆一個亂德亂謀之後果，拆為品格之警戒（VII）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 28,
+      "domains": [
+        "V",
+        "II"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「眾惡之，必察焉；眾好之，必察焉」規定群體與我不外必察之節，「眾」為社會判斷之節（V），「必察」為自我判斷之穩定（II）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 29,
+      "domains": [
+        "II",
+        "VIII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「人能弘道，非道弘人」論人主動以廣大道，道不由道使人而變，道為人之事業（VIII），人之為主體之認定（II）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 30,
+      "domains": [
+        "VII",
+        "II"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「過而不改，是謂過矣」以「不改」為過之真定義，過而能改為品格之要（VII），自我修正之意識（II）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 31,
+      "domains": [
+        "VIII",
+        "II"
+      ],
+      "modes": [
+        "expression",
+        "proposition"
+      ],
+      "reason": "「吾嘗終日不食，終夜不寢，以思，無益，不如學也」孔子自述其思不如學之驗，「學」為為學之主張（VIII），自述為證（II）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 32,
+      "domains": [
+        "VII",
+        "VIII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「君子謀道不謀食」「君子憂道不憂貧」以「道」與「食」「貧」並列為君子所憂所謀之位，君子之品格所重（VII），道為所重之業（VIII）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 33,
+      "domains": [
+        "V",
+        "VII"
+      ],
+      "modes": [
+        "formalization"
+      ],
+      "reason": "「知及之，仁不能守之」「莊以涖之」「動之不以禮，未善也」列出知、仁、莊、禮四項為治之必要條件，為政之程式（V），仁與莊為為政者之品格（VII）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 34,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「君子不可小知，而可大受也；小人不可大受，而可小知也」以君子／小人所適之位對比以授選用之節（V），「大受」「小知」為品格位之別（VII）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 35,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「民之於仁也，甚於水火」以民眾與仁之關係，論仁之於民甚於水火，仁為品格之德（VII），以民為受眾之政治關係（V）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 36,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「當仁不讓於師」規定仁前不讓師之行為準則，仁之重於師，品格之要求（VII）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 37,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「君子貞而不諒」以「貞」與「諒」對比，君子之品格類型之異（VII）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 38,
+      "domains": [
+        "V",
+        "VII"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「事君，敬其事而後其食」規定事君以敬事為先，祿在後，為政之節（V），「敬」為事君者之品格（VII）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 39,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「道不同，不相為謀」論道不同者不相謀合，「不相為謀」為社會之交互應（V）。"
+    },
+    {
+      "chapter": "wei-ling-gong",
+      "para_index": 40,
+      "domains": [],
+      "modes": [
+        "ritual",
+        "narrative"
+      ],
+      "reason": "「階也」「席也」「某在斯，某在斯」記孔子赴盲師師冕接引之儀節，「固相師之道也」確認為助師之定制，純禮制之儀節，判空。"
+    }
+  ]
+}
