@@ -1,0 +1,22 @@
+{
+  "slug": "analects",
+  "name_zh": "論語",
+  "name_en": "Analects",
+  "category": "儒家著述",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "ctext 通行本（20 篇，白文）",
+  "version_date": "春秋—戰國",
+  "source_platform": "ctext.org (api)",
+  "source_url": "https://api.ctext.org/gettext?urn=ctp:analects",
+  "downloaded_at": "2026-06-29T17:12:44+00:00",
+  "size_bytes": 65450,
+  "checksum_sha256": "e1c54115b36f0102f7c2f9adb3b34d4e5bec91c0ae5824448253595c1f7b393c",
+  "chapter_count": 20,
+  "expected_chapter_count": 20,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "核心",
+  "notes": "2026-10-02 自 religions-history 收入本庫。使用者 2026-10-02 明示「先把孔、孟、荀弄一份過來」，是對「已在宗教庫者一律不重複收」的第二次明確豁免（前例 2026-08-24 五部），只對這三部有效。宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。已知小缺陷：章名是 ctext 英文 slug（如 xue-er），與墨子 2026-08-25 的副帶問題同類，不影響正文。",
+  "psych_survey": null
+}

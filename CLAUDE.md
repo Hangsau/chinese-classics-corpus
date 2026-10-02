@@ -14,7 +14,7 @@
 - 《潛夫論》《風俗通義》《人物志》→ 本庫
 - 《列仙傳》《高士傳》（神仙傳記，道教敘事）→ religions-history
 - 《神異經》《洞冥記》（志怪）→ 本庫
-- 已在宗教庫者**一律不重複收**，用 `religions-history:<slug>` cross-ref 指過去。已知：`er-ya`（爾雅注）、黃帝內經。**例外**：`huainanzi`／`mozi`／`wenzi`／`jiayi-xinshu`／`lujia-xinyu` 五部 2026-08-24 經使用者明示豁免、兩庫各存一份（功能不同）
+- 已在宗教庫者**一律不重複收**，用 `religions-history:<slug>` cross-ref 指過去。已知：`er-ya`（爾雅注）、黃帝內經。**例外**：`huainanzi`／`mozi`／`wenzi`／`jiayi-xinshu`／`lujia-xinyu` 五部 2026-08-24 經使用者明示豁免、兩庫各存一份（功能不同）；`analects`／`mengzi`／`xunzi` 三部 2026-10-02 經使用者明示豁免（「先把孔、孟、荀弄一份過來」），只收白文正本，注疏本（《論語注疏》《四書章句集注》）仍歸宗教庫
 
 判不出來的**不要自己決定**，寫進 HANDOFF 待辦問使用者。
 

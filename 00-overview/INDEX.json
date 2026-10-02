@@ -1,10 +1,10 @@
 {
   "summary": {
-    "generated_at": "2026-09-28T00:06:35+00:00",
-    "text_count": 72,
-    "total_bytes": 10561266,
+    "generated_at": "2026-10-02T11:12:55+00:00",
+    "text_count": 75,
+    "total_bytes": 11180870,
     "by_category": {
-      "儒家著述": 12,
+      "儒家著述": 15,
       "雜史": 11,
       "兵家": 6,
       "雜家": 5,
@@ -24,7 +24,7 @@
       "文論": 1
     },
     "by_text_role": {
-      "original": 66,
+      "original": 69,
       "reference": 4,
       "contested": 2
     },
@@ -65,6 +65,27 @@
     }
   },
   "texts": [
+    {
+      "slug": "analects",
+      "name_zh": "論語",
+      "name_en": "Analects",
+      "category": "儒家著述",
+      "text_role": "original",
+      "language": "古典漢語",
+      "version": "ctext 通行本（20 篇，白文）",
+      "version_date": "春秋—戰國",
+      "source_platform": "ctext.org (api)",
+      "tier": "核心",
+      "size_bytes": 65450,
+      "chapter_count": 20,
+      "verified": true,
+      "surveyed": false,
+      "domains_hit": null,
+      "domains_null": null,
+      "paras_total": 0,
+      "paras_judged": 0,
+      "annotated": false
+    },
     {
       "slug": "cai-zhonglang-ji",
       "name_zh": "蔡中郎集",
@@ -985,6 +1006,27 @@
       "paras_total": 736,
       "paras_judged": 736,
       "annotated": true
+    },
+    {
+      "slug": "mengzi",
+      "name_zh": "孟子",
+      "name_en": "Mencius",
+      "category": "儒家著述",
+      "text_role": "original",
+      "language": "古典漢語",
+      "version": "ctext 通行本（14 卷，白文）",
+      "version_date": "戰國",
+      "source_platform": "ctext.org (api)",
+      "tier": "核心",
+      "size_bytes": 135591,
+      "chapter_count": 14,
+      "verified": true,
+      "surveyed": false,
+      "domains_hit": null,
+      "domains_null": null,
+      "paras_total": 0,
+      "paras_judged": 0,
+      "annotated": false
     },
     {
       "slug": "mozi",
@@ -1977,6 +2019,27 @@
       "paras_total": 218,
       "paras_judged": 218,
       "annotated": true
+    },
+    {
+      "slug": "xunzi",
+      "name_zh": "荀子",
+      "name_en": "Xunzi",
+      "category": "儒家著述",
+      "text_role": "original",
+      "language": "古典漢語",
+      "version": "Wikisource 通行本（32 篇＋楊倞序，含楊倞注夾注）",
+      "version_date": "戰國",
+      "source_platform": "zh.wikisource.org",
+      "tier": "核心",
+      "size_bytes": 418563,
+      "chapter_count": 33,
+      "verified": true,
+      "surveyed": false,
+      "domains_hit": null,
+      "domains_null": null,
+      "paras_total": 0,
+      "paras_judged": 0,
+      "annotated": false
     },
     {
       "slug": "yandanzi",

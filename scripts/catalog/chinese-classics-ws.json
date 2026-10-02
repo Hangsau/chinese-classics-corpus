@@ -1035,6 +1035,45 @@
       "version_date": "戰國（今本存疑）",
       "tier": "重要",
       "expected_chapter_count": 6
+    },
+    {
+      "slug": "analects",
+      "wikisource_title": "論語",
+      "name_zh": "論語",
+      "name_en": "Analects",
+      "category": "儒家著述",
+      "text_role": "original",
+      "version": "ctext 通行本（20 篇，白文）",
+      "version_date": "春秋—戰國",
+      "tier": "核心",
+      "expected_chapter_count": 20,
+      "structure_note": "2026-10-02 自 religions-history 收入（使用者明示豁免）。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。已知小缺陷：章名是 ctext 英文 slug（如 xue-er），與墨子 2026-08-25 的副帶問題同類，不影響正文。"
+    },
+    {
+      "slug": "mengzi",
+      "wikisource_title": "孟子",
+      "name_zh": "孟子",
+      "name_en": "Mencius",
+      "category": "儒家著述",
+      "text_role": "original",
+      "version": "ctext 通行本（14 卷，白文）",
+      "version_date": "戰國",
+      "tier": "核心",
+      "expected_chapter_count": 14,
+      "structure_note": "2026-10-02 自 religions-history 收入（使用者明示豁免）。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。已知小缺陷：章名是 ctext 英文 slug（如 xue-er），與墨子 2026-08-25 的副帶問題同類，不影響正文。"
+    },
+    {
+      "slug": "xunzi",
+      "wikisource_title": "荀子",
+      "name_zh": "荀子",
+      "name_en": "Xunzi",
+      "category": "儒家著述",
+      "text_role": "original",
+      "version": "Wikisource 通行本（32 篇＋楊倞序，含楊倞注夾注）",
+      "version_date": "戰國",
+      "tier": "核心",
+      "expected_chapter_count": 33,
+      "structure_note": "2026-10-02 自 religions-history 收入（使用者明示豁免）。raw/ 由宗教庫複製後**只重排章序**：來源按 Unicode 碼位排列（〈不苟〉居首、〈勸學〉第 5），改為楊倞本傳統篇次 1–32，〈荀子序〉移到第 33 章，使 para_id 的章號等於傳統篇次。33 章正文逐塊比對全等，僅標題行重編號。來源檔 SHA-256 2b91d15e2d21477229a7482ff7d1200363df84a91e071e6ab60e408c1a81510d。正文含楊倞注〈〉夾注，標註與札記應讀去夾注版。"
     }
   ]
 }

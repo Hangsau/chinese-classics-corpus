@@ -1,0 +1,22 @@
+{
+  "slug": "xunzi",
+  "name_zh": "荀子",
+  "name_en": "Xunzi",
+  "category": "儒家著述",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本（32 篇＋楊倞序，含楊倞注夾注）",
+  "version_date": "戰國",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/荀子",
+  "downloaded_at": "2026-06-29T23:23:43+00:00",
+  "size_bytes": 418563,
+  "checksum_sha256": "683ee520f562465b711062f25bfcc94bf904a0599c067e4c66654f60ca9b2964",
+  "chapter_count": 33,
+  "expected_chapter_count": 33,
+  "license": "CC BY-SA 4.0",
+  "verified": true,
+  "tier": "核心",
+  "notes": "2026-10-02 自 religions-history 收入本庫。使用者 2026-10-02 明示「先把孔、孟、荀弄一份過來」，是對「已在宗教庫者一律不重複收」的第二次明確豁免（前例 2026-08-24 五部），只對這三部有效。宗教庫仍保留一份，兩庫不去重。raw/ 由宗教庫複製後**只重排章序**：來源按 Unicode 碼位排列（〈不苟〉居首、〈勸學〉第 5），改為楊倞本傳統篇次 1–32，〈荀子序〉移到第 33 章，使 para_id 的章號等於傳統篇次。33 章正文逐塊比對全等，僅標題行重編號。來源檔 SHA-256 2b91d15e2d21477229a7482ff7d1200363df84a91e071e6ab60e408c1a81510d。正文含楊倞注〈〉夾注，標註與札記應讀去夾注版。",
+  "psych_survey": null
+}
