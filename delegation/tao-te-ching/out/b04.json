@@ -1,0 +1,61 @@
+{
+  "batch": "b04.md",
+  "rows": [
+    {
+      "chapter": "74",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「民不畏死，奈何以死懼之」並「常有司殺者殺」並「夫代大匠斲者，希有不傷其手矣」是治者刑殺之命題與 prescription, 屬 V"
+    },
+    {
+      "chapter": "75",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「民之飢，以其上食稅之多，是以飢」並「民之難治，以其上之有為，是以難治」並「夫唯無以生為者，是賢於貴生」是治者與民關係之治道命題與 prescription, 屬 V"
+    },
+    {
+      "chapter": "76",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「人之生也柔弱，其死也堅強」並「堅強者死之徒，柔弱者生之徒」並「強大處下，柔弱處上」是柔弱勝剛強之品格命題與 prescription, 屬 VII"
+    },
+    {
+      "chapter": "77",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「天之道，損有餘而補不足。人之道，則不然，損不足以奉有餘」並「孰能有餘以奉天下，唯有道者」是天道/人之道對照之治道命題, 屬 V; 「是以聖人為而不恃，功成而不處」是治者品格 prescription, 屬 VII"
+    },
+    {
+      "chapter": "78",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「天下莫柔弱於水，而攻堅強者莫之能勝」並「弱之勝強，柔之勝剛」並「受國之垢，是謂社稷主；受國不祥，是謂天下王」是水能攻堅之觀察與治者 prescription, 屬 V"
+    },
+    {
+      "chapter": "79",
+      "para_index": 1,
+      "domains": ["V", "VII", "XII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「和大怨，必有餘怨；安可以為善」並「聖人執左契，而不責於人」是治者治道命題與 prescription, 屬 V; 「有德司契，無德司徹」是德性對照之品格命題, 屬 VII; 「天道無親，常與善人」是認證天會偏助善人, 屬 XII"
+    },
+    {
+      "chapter": "80",
+      "para_index": 1,
+      "domains": ["V"],
+      "modes": ["prescription"],
+      "reason": "「小國寡民」並「使有什伯之器而不用」並「甘其食，美其服，安其居，樂其俗」並「民至老死，不相往來」是治道之 prescription, 屬 V"
+    },
+    {
+      "chapter": "81",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「信言不美，美言不信」並「善者不辯，辯者不善」並「知者不博，博者不知」並「聖人不積，既以為人己愈有，既以與人己愈多」並「聖人之道，為而不爭」是品格之命題與 prescription, 屬 VII"
+    }
+  ]
+}
