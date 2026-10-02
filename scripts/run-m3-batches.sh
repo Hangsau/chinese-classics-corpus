@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # 通用串行發包：把 delegation/<slug>/ 的批次逐一派給 MiniMax-M3（claude-m3-lite，不吃 Claude 配額）。
 # 由 delegation/huainanzi/run-m3.sh 抽出，判準與驗收改讀該書的 SPEC.md 與 scripts/accept-batch.py。
+# 每批上限 M3_TIMEOUT 秒（預設 900；論語 b02 52 段兩次逾時，大批次設 2700）。
 # 每批：判讀 → 驗收 → 過了才 commit 並派下一批；失敗重試一次，再失敗就停（不跳過）。
 #   bash scripts/run-m3-batches.sh <slug> [b01 b02 ...]   # 省略批次＝MANIFEST 全部
 set -u
@@ -23,7 +24,7 @@ for b in "$@"; do
   for try in 1 2; do
     rm -f "$out"
     echo "=== $SLUG $b 第 $try 次 $(date +%H:%M:%S)"
-    timeout 900 claude-m3-lite -p "$(cat <<PROMPT
+    timeout "${M3_TIMEOUT:-900}" claude-m3-lite -p "$(cat <<PROMPT
 你要替《$NAME》的一批段落做心理學領域標註。本次只處理 $b。工作目錄是 $REPO。
 
 **立即執行，不要輸出計畫、不要等確認。這是非互動呼叫，沒有人會回你「開始」；沒寫出檔案就是失敗。**
