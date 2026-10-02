@@ -1,0 +1,33 @@
+{
+  "batch": "b14.md",
+  "rows": [
+    {"chapter": "ji-shi", "para_index": 1, "domains": ["V", "VII"], "modes": ["narrative", "proposition"],
+     "reason": "「君子疾夫舍曰欲之，而必為之辭」以品格之斷批舍欲而飾辭之病（VII），「不患寡而患不均，不患貧而患不安」「均無貧，和無寡，安無傾」論治國之節，「吾恐季孫之憂，不在顓臾，而在蕭牆之內也」斷季氏之憂不在外而在內，皆為政之判斷（V）。"},
+    {"chapter": "ji-shi", "para_index": 2, "domains": ["V", "XI"], "modes": ["proposition"],
+     "reason": "「禮樂征伐自天子出」「自諸侯出」「自大夫出」「陪臣執國命」論治權出之節，皆為政之根本（V），「十世希不失矣」「五世希不失矣」「三世希不失矣」以世數之限斷治權之失，屬命運之數（XI）。"},
+    {"chapter": "ji-shi", "para_index": 3, "domains": ["V", "XI"], "modes": ["proposition"],
+     "reason": "「祿之去公室，五世矣」「政逮於大夫，四世矣」皆政出之節（V），「故夫三桓之子孫，微矣」以世數斷三桓之衰，命運之微顯（XI）。"},
+    {"chapter": "ji-shi", "para_index": 4, "domains": ["V", "VII"], "modes": ["proposition"],
+     "reason": "「友直，友諒，友多聞」「友便辟，友善柔，友便佞」列友之類型為社會關係之辨（V），「益矣」「損矣」拆友之後果與品格之準則（VII）。"},
+    {"chapter": "ji-shi", "para_index": 5, "domains": ["VI", "VII"], "modes": ["proposition"],
+     "reason": "「樂節禮樂，樂道人之善，樂多賢友」「樂驕樂，樂佚遊，樂宴樂」拆益樂損樂之分類，皆品格之節（VII），「樂」本身為情緒之主觀面（VI）。"},
+    {"chapter": "ji-shi", "para_index": 6, "domains": ["VII"], "modes": ["prescription", "proposition"],
+     "reason": "「言未及之而言謂之躁，言及之而不言謂之隱，未見顏色而言謂之瞽」拆侍君子之三愆之名，皆品格之病之規定（VII）。"},
+    {"chapter": "ji-shi", "para_index": 7, "domains": ["VII"], "modes": ["prescription"],
+     "reason": "「少之時，血氣未定，戒之在色；及其壯也，血氣方剛，戒之在鬭；及其老也，血氣既衰，戒之在得」按血氣之階段拆三時之戒，君子品格之規（VII）。"},
+    {"chapter": "ji-shi", "para_index": 8, "domains": ["VII", "XI"], "modes": ["proposition"],
+     "reason": "「畏天命，畏大人，畏聖人之言」「小人不知天命而不畏也，狎大人，侮聖人之言」以君子／小人對比所畏所侮，品格之異（VII），「天命」屬命定之畏（XI）。"},
+    {"chapter": "ji-shi", "para_index": 9, "domains": ["VIII", "II"], "modes": ["proposition"],
+     "reason": "「生而知之者，上也；學而知之者，次也；困而學之，又其次也；困而不學，民斯為下矣」論為學之次第四等，皆學之階（VIII），「上」「次」「下」之自知為自我認知之位次（II）。"},
+    {"chapter": "ji-shi", "para_index": 10, "domains": ["VII", "II"], "modes": ["proposition"],
+     "reason": "「視思明，聽思聰，色思溫，貌思恭，言思忠，事思敬，疑思問，忿思難，見得思義」拆君子九思之目，皆品格之自反（VII），「思」為反求諸己之認知作用（II）。"},
+    {"chapter": "ji-shi", "para_index": 11, "domains": ["VII"], "modes": ["proposition", "narrative"],
+     "reason": "「見善如不及，見不善如探湯」以趨避之速論見善惡之節，「隱居以求其志，行義以達其道」立隱居行義之典，皆品格之主張（VII）。"},
+    {"chapter": "ji-shi", "para_index": 12, "domains": ["V", "X"], "modes": ["narrative", "proposition"],
+     "reason": "「死之日」齊景公之死為死亡之題（X），「民無德而稱焉」「民到于今稱之」以民之德稱與否對比二人之公評，屬社會之公義（V）。"},
+    {"chapter": "ji-shi", "para_index": 13, "domains": ["IV", "VIII"], "modes": ["narrative"],
+     "reason": "「學詩乎」「學禮乎」「不學詩，無以言」「不學禮，無以立」皆孔子教子之學之節，為學之目（VIII），「聞君子之遠其子也」陳亢自喜之得——君子不私其子，父子之節（IV）。"},
+    {"chapter": "ji-shi", "para_index": 14, "domains": [], "modes": ["ritual"],
+     "reason": "「邦君之妻，君稱之曰夫人」「稱諸異邦曰寡小君」純登錄邦君之妻之稱謂與自稱之禮制，無對人之一般性看法，判空 ritual。"}
+  ]
+}
