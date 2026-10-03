@@ -1,0 +1,29 @@
+{
+  "batch": "b13.md",
+  "rows": [
+    {"chapter": "君道篇", "para_index": 1, "domains": ["V"], "modes": ["prescription"],
+     "reason": "「有亂君，無亂國；有治人，無治法」「急得其人，則身佚而國治，功大而名美」是 SPEC G2 君道人格判斷所舉的標準例，治亂繫於人而非法，給 V"},
+    {"chapter": "君道篇", "para_index": 2, "domains": ["V"], "modes": ["proposition", "prescription"],
+     "reason": "「故械數者，治之流也，非治之原也；君子者，治之原也」「上好禮義，尚賢使能，無貪利之心，則下亦將綦辭讓，致忠信，而謹於臣子矣」君子為治之原，上之所好下必影從，是公義、領導與風俗，給 V"},
+    {"chapter": "君道篇", "para_index": 3, "domains": ["V", "VII"], "modes": ["prescription", "proposition"],
+     "reason": "「請問為人君？曰：以禮分施，均遍而不偏」以禮定義君臣父子兄弟夫婦各種社會角色（V）；「仁智之極也。夫是之謂聖人」聖人之德性極則（VII）"},
+    {"chapter": "君道篇", "para_index": 4, "domains": ["V"], "modes": ["proposition", "narrative"],
+     "reason": "「君者儀也，民者景也，儀正而景正」「君射則臣決。楚莊王好細腰，故朝有餓人」君為民之儀型，以上塑下，是領導與風俗，給 V"},
+    {"chapter": "君道篇", "para_index": 5, "domains": ["V"], "modes": ["proposition", "prescription"],
+     "reason": "「君者，民之原也；原清則流清，原濁則流濁」「人主欲彊固安樂，則莫若反之民」君為民之原流，治道之責與民心，給 V"},
+    {"chapter": "君道篇", "para_index": 6, "domains": ["V"], "modes": ["proposition", "formalization"],
+     "reason": "「能群也者，何也？曰：善生養人者也，善班治人者也，善顯設人者也，善藩飾人者也」「上賢使之為三公，次賢使之為諸侯，下賢使之為士大夫」能群之四統與列等用人，公義與用人，給 V"},
+    {"chapter": "君道篇", "para_index": 7, "domains": ["V"], "modes": ["proposition"],
+     "reason": "「隆禮至法則國有常，尚賢使能則民知方」「公義明而私事息矣」至道大形之政教原則，公義與領導，給 V"},
+    {"chapter": "君道篇", "para_index": 8, "domains": ["V"], "modes": ["proposition", "prescription"],
+     "reason": "「在慎取相，道莫徑是矣」「故知而不仁，不可；仁而不知，不可」慎取輔相與用人之方，公義與責任，給 V"},
+    {"chapter": "君道篇", "para_index": 9, "domains": ["V"], "modes": ["prescription"],
+     "reason": "「取人之道，參之以禮；用人之法，禁之以等」「校之以禮，而觀其能安敬也」取人用人之法度與試驗程序，用人與公義，給 V"},
+    {"chapter": "君道篇", "para_index": 10, "domains": ["V"], "modes": ["prescription", "narrative"],
+     "reason": "「明主有私人以金石珠玉，無私人以官職事業」「舉天下之大道，立天下之大功，然後隱其所憐所愛」明主任人唯賢，不以私廢公，是用人與公義，給 V"},
+    {"chapter": "君道篇", "para_index": 11, "domains": ["V"], "modes": ["proposition"],
+     "reason": "「便嬖左右者，人主之所以窺遠收眾之門戶牖嚮也」「卿相輔佐，人主之基杖也」君不可獨，必依左右輔佐始能成國，是公義與責任，給 V"},
+    {"chapter": "君道篇", "para_index": 12, "domains": [], "modes": ["formalization"],
+     "reason": "「愿愨拘錄，計數纖嗇」「脩飭端正，尊法敬分」「知隆禮義之為尊君也」逐類列三材之分（官人使吏、士大夫官師、卿相輔佐），類序官職掌表，判空＋formalization"}
+  ]
+}
