@@ -2,6 +2,7 @@
 # 通用串行發包：把 delegation/<slug>/ 的批次逐一派給 MiniMax-M3（claude-m3-lite，不吃 Claude 配額）。
 # 由 delegation/huainanzi/run-m3.sh 抽出，判準與驗收改讀該書的 SPEC.md 與 scripts/accept-batch.py。
 # 每批上限 M3_TIMEOUT 秒（預設 900；論語 b02 52 段兩次逾時，大批次設 2700）。
+# 每批輪數上限 M3_MAX_TURNS（預設 40；莊子 b08 41 段兩次用滿 40 輪只寫出 15 段——M3 改用暫存腳本逐段 append，大批次設 80）。
 # 每批：判讀 → 驗收 → 過了才 commit 並派下一批；失敗重試一次，再失敗就停（不跳過）。
 #   bash scripts/run-m3-batches.sh <slug> [b01 b02 ...]   # 省略批次＝MANIFEST 全部
 set -u
@@ -37,9 +38,9 @@ for b in "$@"; do
    若印出 [FAIL] 或「引句不在本段」，照訊息修正 $out 後再跑一次，直到 0 FAIL。引句不符的修法是改成本段原文連續的原字，不要刪原文的引號。
 5. 最後回報一行：accept-batch.py 的最後一行輸出。
 
-禁止：不要跑任何 git 指令；不要改 $out 以外的任何檔案（SPEC、批次檔、MANIFEST、translations/、scripts/、別批輸出都不准碰）。
+禁止：不要跑任何 git 指令；不要改 $out 以外的任何檔案（SPEC、批次檔、MANIFEST、translations/、scripts/、別批輸出都不准碰）；不要建立任何暫存腳本或資料夾，直接用 Write 一次寫出完整 $out。
 PROMPT
-)" --max-turns 40 < /dev/null 2>&1 | tail -n 3
+)" --max-turns "${M3_MAX_TURNS:-40}" < /dev/null 2>&1 | tail -n 3
     if [ -s "$out" ] && python scripts/accept-batch.py "$SLUG" "$b" >/dev/null 2>&1; then ok=1; break; fi
   done
   if [ $ok -ne 1 ]; then
