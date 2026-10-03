@@ -2,9 +2,9 @@
   "domain": "IV",
   "name_zh": "家庭與傳承",
   "gist": "婚姻與家庭、原生家庭的傷、為人父母、記憶與和解、留下什麼給後代",
-  "generated_at": "2026-10-03T03:27:49+00:00",
-  "para_count": 838,
-  "book_count": 42,
+  "generated_at": "2026-10-03T14:26:48+00:00",
+  "para_count": 863,
+  "book_count": 45,
   "surveyed_zero_hit": [
     "fangyan",
     "gongsun-longzi",
@@ -4158,6 +4158,20 @@
       "co_domains": [
         "V",
         "VII"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "yang-zhu",
+      "para_index": 6,
+      "para_id": "liezi#07-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "楊朱曰：「古語有之：『生相憐，死相捐。』此語至矣。相憐之道，非唯情也；勤能使逸，",
+      "note": "楊朱引古語「生相憐，死相捐」，分二端：「相憐之道，非唯情也；勤能使逸，饑能使飽，寒能使溫，窮能使達也」是生者相濡以沫之群體之愛（IV）；「相捐之道，非不相哀也；不含珠玉，不服文錦，不陳犧牲，不設明器也」以喪葬從儉、不留明器，對死者無所增益（IV、X）。",
+      "co_domains": [
+        "X"
       ]
     },
     {
@@ -9241,6 +9255,247 @@
       ]
     },
     {
+      "slug": "xunzi",
+      "chapter": "王制篇",
+      "para_index": 18,
+      "para_id": "xunzi#09-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "以類行雜，以一行萬。始則終，終則始，若環之無端也，舍是而天下以衰矣。天地者，生之",
+      "note": "「君子者，天地之參也，萬物之摠也，民之父母也。無君子，則天地不理，禮義無統，上無君師，下無父子」、「君臣、父子、兄弟、夫婦，始則終，終則始，與天地同理」、「君君、臣臣、父父、子子、兄兄、弟弟一也」定天地人倫之秩序根本，給 V（群體公義之結構）與 IV（父子兄弟夫婦之家庭倫理）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "王制篇",
+      "para_index": 20,
+      "para_id": "xunzi#09-p20",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故人生不能無群，群而無分則爭，爭則亂，亂則離，離則弱，弱則不能勝物；故宮室不可得",
+      "note": "「人生不能無群，群而無分則爭，爭則亂，亂則離，離則弱」、「能以事親謂之孝，能以事兄謂之弟，能以事上謂之順，能以使下謂之君」由群分之理推到孝悌順君四倫之分位，給 V（群體公義）與 IV（事親事兄之家庭倫理）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "致士篇",
+      "para_index": 7,
+      "para_id": "xunzi#14-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "君者，國之隆也；父者，家之隆也。〈隆猶尊也。〉隆一而治，二而亂，自古及今，未有二",
+      "note": "「君者，國之隆也；父者，家之隆也」「隆一而治，二而亂，自古及今，未有二隆争重而能長久者」定君為國之尊、父為家之尊，雙隆必亂，是公義、領導（V）與家庭傳承（IV）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "禮論篇",
+      "para_index": 5,
+      "para_id": "xunzi#19-p05",
+      "modes": [
+        "formalization"
+      ],
+      "excerpt": "故王者天太祖，諸侯不敢壞，大夫士有常宗，所以別貴始；貴始得之本也。郊止乎天子，而",
+      "note": "「所以別貴始」「郊止乎天子，而社止於諸侯，道及士大夫」分貴賤之等（V），「故有天下者事七世，有一國者事五世，有五乘之地者事三世」按爵祿定祭祖世代，「持手而食者不得立宗廟」以傳承厚薄分宗廟之制（IV），是按等級定祭祀世代的形式化之表，給 V＋IV＋formalization",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "禮論篇",
+      "para_index": 14,
+      "para_id": "xunzi#19-p14",
+      "modes": [
+        "formalization"
+      ],
+      "excerpt": "故情貌之變，足以別吉凶，明貴賤親疏之節，期止矣。外是，姦也；雖難，君子賤之。故量",
+      "note": "「故情貌之變，足以別吉凶，明貴賤親疏之節」以情貌之變分親疏貴賤（IV），列顏色／聲音／食飲／衣服／居處五端發幾何性質之情的分類，是情如何隨親疏貴賤而發的形式化之表，給 VI＋IV＋formalization",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "禮論篇",
+      "para_index": 16,
+      "para_id": "xunzi#19-p16",
+      "modes": [
+        "ritual",
+        "proposition"
+      ],
+      "excerpt": "喪禮者，以生者飾死者也，大象其生以送其死也。故事死如生，事亡如存，終始一也。始卒",
+      "note": "「故事死如生，事亡如存，終始一也」立事死如事生之則（X），「故葬埋，敬藏其形也；祭祀，敬事其神也；其銘誄繫世，敬傳其名也」「事生，飾始也；送死，飾終也；終始具，而孝子之事畢，聖人之道備矣」以葬埋祭祀銘誄屬家族祭祀傳承之孝道（IV），內含大量喪祭之器數儀節描述，給 X＋IV＋ritual",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "禮論篇",
+      "para_index": 17,
+      "para_id": "xunzi#19-p17",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "三年之喪，何也？曰：稱情而立文，因以飾群，別親疏貴賤之節，而不可益損也。故曰：無",
+      "note": "「三年之喪，二十五月而畢，哀痛未盡，思慕未忘」「有血氣之屬莫知於人，故人之於其親也，至死無窮」以人為極貴至親而親死不窮（X），「凡生天地之間者，有血氣之屬必有知，有知之屬莫不愛其類」以愛其類明親情之性（IV），並引大鳥獸失群反鉛、燕爵啁焦為禽獸亦有情之觀察，給 X＋IV＋proposition＋observation",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "禮論篇",
+      "para_index": 21,
+      "para_id": "xunzi#19-p21",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "祭者、志意思慕之情也。愅詭唈僾而不能無時至焉。故人之歡欣和合之時，則夫忠臣孝子亦",
+      "note": "「祭者、志意思慕之情也。愅詭唈僾而不能無時至焉」立祭為思慕之情（X），「人之歡欣和合之時，則夫忠臣孝子亦愅詭而有所至矣」明歡欣之時亦思慕，「尊尊親親之義至矣」以尊尊親親之義明祭祀屬孝子親親之禮（IV），「哀夫！敬夫！事死如事生，事亡如事存」為感嘆之辭（expression），給 X＋IV＋proposition＋expression",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "大略篇",
+      "para_index": 17,
+      "para_id": "xunzi#27-p17",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "君子之於子，愛之而勿面，使之而勿視，道之以道而勿彊。",
+      "note": "「君子之於子，愛之而勿面，使之而勿視，道之以道而勿彊」規定君子對待自己兒子的態度與方法，屬家庭與教養（IV）",
+      "co_domains": []
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "大略篇",
+      "para_index": 35,
+      "para_id": "xunzi#27-p35",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "湯之咸，見夫婦。夫婦之道，不可不正也，君臣父子之本也。咸、感也，以高下下，以男下",
+      "note": "「夫婦之道，不可不正也，君臣父子之本也」明夫婦之道為君臣父子之根本，屬親密關係（III）與家庭傳承（IV）",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "大略篇",
+      "para_index": 38,
+      "para_id": "xunzi#27-p38",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "禮之於正國家也，如權衡之於輕重也，如繩墨之於曲直也。故人無禮不生，事無禮不成，國",
+      "note": "「禮之於正國家也，如權衡之於輕重也」與「君臣不得不尊，父子不得不親，兄弟不得不順，夫婦不得不驩，少者以長，老者以養」論禮是國家秩序之權衡，並列五倫關係，涉群體（V）與家庭（IV）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "大略篇",
+      "para_index": 75,
+      "para_id": "xunzi#27-p75",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曾子曰：“孝子言為可聞，行為可見。言為可聞，所以說遠也；行為可見，所以說近也；近",
+      "note": "「曾子曰：“孝子言為可聞，行為可見。言為可聞，所以說遠也；行為可見，所以說近也；近者說則親，遠者悅則附；親近而附遠，孝子之道也。」」以曾子語述孝道如何使親近附遠，屬家庭／孝（IV）與群體關係（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "子道篇",
+      "para_index": 1,
+      "para_id": "xunzi#29-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "入孝出弟，人之小行也；〈弟與悌同。謂自卑如弟也。〉上順下篤，人之中行也；〈上順從",
+      "note": "「從道不從君，從義不從父，人之大行也」「孝子所不從命有三」主張道義高於君父，規定三類孝子可不從命之條件，給 IV（孝）與 VII（品格/道德原則）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "子道篇",
+      "para_index": 2,
+      "para_id": "xunzi#29-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魯哀公問於孔子曰：「子從父命，孝乎？臣從君命，貞乎？」三問，孔子不對。〈不敢違哀",
+      "note": "「萬乘之國有争臣四人，則封疆不削」「父有争子，不行無禮」以政治與家庭雙向類比主張爭臣/爭子的功能，「審其所以從之之謂孝，之謂貞也」總結從與不從之別，給 V 與 IV。哀公問答之敘事承載命題。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "子道篇",
+      "para_index": 3,
+      "para_id": "xunzi#29-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子路問於孔子曰：「有人於此，夙興夜寐，耕耘樹藝，手足胼胝，以養其親，然而無孝之名",
+      "note": "「意者身不敬與？辭不遜與？色不順與？」主張孝不只在耕耘樹藝養親之勞苦，更在內心敬順之品格，給 IV。子路問答之敘事承載此命題。",
+      "co_domains": []
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "法行篇",
+      "para_index": 3,
+      "para_id": "xunzi#30-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "曾子病，曾元持足。曾子曰：「元志之！吾語汝。〈曾元，曾子之子也。〉夫魚鱉黿鼉猶以",
+      "note": "「君子能無以利害義，則恥辱亦無由至矣」——義先於利的品格命題（VII）；曾子病中告誡曾元，是父子相承的教導（IV）。敘事承載命題。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "法行篇",
+      "para_index": 7,
+      "para_id": "xunzi#30-p07",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "孔子曰：「君子有三恕。有君不能事，有臣而求其使，非恕也；有親不能報，有子而求其孝",
+      "note": "「有君不能事，有臣而求其使，非恕也」「有親不能報，有子而求其孝，非恕也」——君臣之間恕道是公義責任（V），父子之間恕道是家庭倫理（IV）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
       "slug": "yanshi-jiaxun",
       "chapter": "序致第一",
       "para_index": 1,
@@ -12183,6 +12438,103 @@
       "note": "本章以忠為孝之本，明言不忠會「辱及親」，並要求盡愛敬之心以養親，實質討論親子奉養與忠孝品格；「危身」不構成 IX",
       "co_domains": [
         "VII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "revolution-of-heaven",
+      "para_index": 2,
+      "para_id": "zhuangzi#14-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "商太宰蕩問仁於莊子。莊子曰：「虎狼，仁也。」曰：「何謂也？」莊子曰：「父子相親，",
+      "note": "商太宰蕩與莊子問答辯「至仁無親」，推「以敬孝易，以愛孝難；以愛孝易，以忘親難；忘親易，使親忘我難」分親孝之層次(IV)，末段「孝悌仁義，忠信貞廉，此皆自勉以役其德者也，不足多也」批判仁義乃自勉役德，品格批判(VII)。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "xu-wu-gui",
+      "para_index": 18,
+      "para_id": "zhuangzi#24-p18",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子綦有八子，陳諸前，召九方歅曰：「為我相吾子，孰為祥？」九方歅曰：「梱也為祥。」",
+      "note": "子綦召九方歅相八子，歅曰「梱也將與國君同食以終其身」，子綦「索然出涕」「吾子何為以至於是極也」；歅辯「子則祥矣，父則不祥」，父憂子之命為父子至情之痛",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "xu-wu-gui",
+      "para_index": 19,
+      "para_id": "zhuangzi#24-p19",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子綦曰：「歅！汝何足以識之？而梱祥邪，盡於酒肉，入於鼻口矣。而何足以知其所自來？",
+      "note": "子綦歎「吾所與吾子遊者，遊於天地」「殆乎！非我與吾子之罪，幾天與之也！吾是以泣也」，悲父子遊於天地之誼為世俗之償所奪，泣天之所命奪人至親之遊",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "xu-wu-gui",
+      "para_index": 20,
+      "para_id": "zhuangzi#24-p20",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "無幾何而使梱之於燕，盜得之於道，全而鬻之則難，不若刖之則易，於是乎刖而鬻之於齊，",
+      "note": "「無幾何而使梱之於燕，盜得之於道，全而鬻之則難，不若刖之則易，於是乎刖而鬻之於齊，適當渠公之街，然身食肉而終」，記子綦所憂之命一一應驗，禍福翻覆",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "what-comes-from-without",
+      "para_index": 15,
+      "para_id": "zhuangzi#26-p15",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "演門有親死者，以善毀，爵為官師，其黨人毀而死者半。堯與許由天下，許由逃之；湯與務",
+      "note": "演門有親死者「以善毀，爵為官師，其黨人毀而死者半」，「堯與許由天下，許由逃之；湯與務光天下，務光怒之。紀他聞之，帥弟子而踆於窾水，諸侯弔之三年，申徒狄因以踣河」，論名節之累與避名之死",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "metaphorical-language",
+      "para_index": 4,
+      "para_id": "zhuangzi#27-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曾子再仕而心再化，曰：「吾及親仕，三釜而心樂；後仕，三千鍾而不洎，吾心悲。」弟子",
+      "note": "曾子「吾及親仕，三釜而心樂；後仕，三千鍾而不洎，吾心悲」，弟子問若參者無所縣其罪乎，仲尼曰「彼視三釜、三千鍾，如觀雀蚊虻相過乎前也」，論事親與祿之悲樂",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "robber-zhi",
+      "para_index": 2,
+      "para_id": "zhuangzi#29-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子謂柳下季曰：「夫為人父者，必能詔其子；為人兄者，必能教其弟。若父不能詔其子，",
+      "note": "孔子以「為人父者，必能詔其子；為人兄者，必能教其弟」「無貴父子兄弟之親矣」論父子兄弟之親（IV），以「弟為盜跖，為天下害，而弗能教也」欲說之；柳下季以「心如涌泉，意如飄風，強足以距敵，辯足以飾非」勸阻，寓天下之害之群體責任（V）",
+      "co_domains": [
+        "V"
       ]
     }
   ]

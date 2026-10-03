@@ -2,9 +2,9 @@
   "domain": "III",
   "name_zh": "愛與親密",
   "gist": "愛與性、被拒絕、承諾、信任與脆弱、溝通與被理解",
-  "generated_at": "2026-10-03T03:27:49+00:00",
-  "para_count": 167,
-  "book_count": 26,
+  "generated_at": "2026-10-03T14:26:48+00:00",
+  "para_count": 173,
+  "book_count": 29,
   "surveyed_zero_hit": [
     "dengxizi",
     "duduan",
@@ -873,6 +873,21 @@
       "note": "頌以淫通、淫亂及維女為亂明斥關係背叛與惡行，而不只是列殺人結果",
       "co_domains": [
         "VII"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "tang-wen",
+      "para_index": 12,
+      "para_id": "liezi#05-p12",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "伯牙善鼓琴，鍾子期善聽。伯牙鼓琴，志在登高山。鍾子期曰：「善哉！峨峨兮若泰山！」",
+      "note": "「伯牙善鼓琴，鍾子期善聽」「伯牙鼓琴，志在登高山」「志在流水」「伯牙所念，鍾子期必得之」是鼓琴與聽琴之對應，「善哉！峨峨兮若泰山」「善哉！洋洋兮若江河」是知音之互得，皆承於琴學之技與被理解（VIII, III）；「吾於何逃聲哉」是伯牙感歎心志無所逃於知音之聽（III）。",
+      "co_domains": [
+        "VIII"
       ]
     },
     {
@@ -2026,6 +2041,34 @@
       ]
     },
     {
+      "slug": "xunzi",
+      "chapter": "大略篇",
+      "para_index": 35,
+      "para_id": "xunzi#27-p35",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "湯之咸，見夫婦。夫婦之道，不可不正也，君臣父子之本也。咸、感也，以高下下，以男下",
+      "note": "「夫婦之道，不可不正也，君臣父子之本也」明夫婦之道為君臣父子之根本，屬親密關係（III）與家庭傳承（IV）",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "大略篇",
+      "para_index": 36,
+      "para_id": "xunzi#27-p36",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "聘士之義，親迎之道，重始也。",
+      "note": "「聘士之義，親迎之道，重始也」把聘士（群體用人）與親迎（夫婦）兩種禮共同歸於「重始」，涉群體（V）與夫婦（III）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
       "slug": "yanshi-jiaxun",
       "chapter": "慕賢第七",
       "para_index": 2,
@@ -2467,6 +2510,46 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "tree-on-the-mountain",
+      "para_index": 12,
+      "para_id": "zhuangzi#20-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子桑雽曰：「子獨不聞假人之亡與？林回棄千金之璧，負赤子而趨。或曰：『為其布與？赤",
+      "note": "子桑雽舉「林回棄千金之璧，負赤子而趨」「『彼以利合，此以天屬也。』夫以利合者，迫窮禍患害相棄也；以天屬者，迫窮禍患害相收也」，又言「君子之交淡若水，小人之交甘若醴；君子淡以親，小人甘以絕」，論交親之分",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "xu-wu-gui",
+      "para_index": 3,
+      "para_id": "zhuangzi#24-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "徐無鬼出，女商曰：「先生獨何以說吾君乎？吾所以說吾君者，橫說之則以《詩》、《書》",
+      "note": "徐無鬼答女商何以說吾君，託越之流人與逃虛空者之喻，言「不亦去人滋久，思人滋深乎」「久矣夫！莫以真人之言謦欬吾君之側乎」，感歎君側久失真人諦語、思人愈深之情",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "xu-wu-gui",
+      "para_index": 11,
+      "para_id": "zhuangzi#24-p11",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "莊子送葬，過惠子之墓，顧謂從者曰：「郢人堊慢其鼻端若蠅翼，使匠石斲之。匠石運斤成",
+      "note": "莊子送葬過惠子墓，舉匠石斲堊「匠石運斤成風，聽而斲之，盡堊而鼻不傷，郢人立不失容」，歎「自夫子之死也，吾無以為質矣，吾無與言之矣」，傷知音之失",
+      "co_domains": []
     }
   ]
 }

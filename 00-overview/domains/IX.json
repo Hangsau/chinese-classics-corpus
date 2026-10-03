@@ -2,9 +2,9 @@
   "domain": "IX",
   "name_zh": "苦難·疾病·身體",
   "gist": "疾病與身體、受苦的意義、照顧與被照顧",
-  "generated_at": "2026-10-03T03:27:49+00:00",
-  "para_count": 222,
-  "book_count": 32,
+  "generated_at": "2026-10-03T14:26:48+00:00",
+  "para_count": 249,
+  "book_count": 34,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -29,6 +29,7 @@
     "tao-te-ching",
     "wuzi",
     "xinxu",
+    "xunzi",
     "yuejueshu",
     "yuzi",
     "zhongjing"
@@ -1020,6 +1021,78 @@
       "note": "緹縈促成刑罰改革關乎公義，詔書直陳斷體刻膚之苦，並主張刑後仍須保留改過自新的可能，三面各自承重",
       "co_domains": [
         "V",
+        "XI"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "zhong-ni",
+      "para_index": 8,
+      "para_id": "liezi#04-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "龍叔謂文摯曰：「子之術微矣。吾有疾，子能已乎？」文摯曰：「唯命所聽。然先言子所病",
+      "note": "龍叔自陳「爵賞不能勸，刑罰不能威，盛衰利害不能易，哀樂不能移」，是情緒堅定不被外境動搖（VI）；文摯診以「嘻！吾見子之心矣，方寸之地虛矣，幾聖人也！子心六孔流通，一孔不達」，是寫一個人在心／身處境中的狀態（IX）。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "zhong-ni",
+      "para_index": 11,
+      "para_id": "liezi#04-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "目將眇者先睹秋毫；耳將聾者先聞蚋飛；口將爽者先辨淄澠；鼻將窒者先覺焦朽；體將僵者",
+      "note": "「目將眇者先睹秋毫；耳將聾者先聞蚋飛；口將爽者先辨淄澠；鼻將窒者先覺焦朽；體將僵者先亟犇佚；心將迷者先識是非」，是感官與身體將失的命題，落於身體處境（IX）。",
+      "co_domains": []
+    },
+    {
+      "slug": "liezi",
+      "chapter": "li-ming",
+      "para_index": 6,
+      "para_id": "liezi#06-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "楊朱之友曰季梁。季梁得疾，十日大漸。其子環而泣之，請醫。季梁謂楊朱曰：「吾子不肖",
+      "note": "季梁「得疾，十日大漸。其子環而泣之，請醫」，三醫各診，矯氏謂「汝寒溫不節，虛實失度，病由飢飽色欲」，盧氏謂「汝疾不由天，亦不由人，亦不由鬼。稟生受形，既有制之者矣，亦有知之者矣，藥石其如汝何」，是病與其所歸之載敘（IX）；楊朱歌「天其弗識，人胡能覺？匪祐自天，弗孽由人」以生死之命非天意，承重在命之主張（XI）；末「俄而季梁之疾自瘳」明藥石不能易命。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "yang-zhu",
+      "para_index": 7,
+      "para_id": "liezi#07-p07",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "晏平仲問養生於管夷吾。管夷吾曰：「肆之而已，勿壅勿閼。」晏平仲曰：「其目柰何？」",
+      "note": "管夷吾告晏平仲養生「肆之而已，勿壅勿閼」，列「耳之所欲聞者音聲，而不得聽，謂之閼聰；目之所欲見者美色，而不得視，謂之閼明；鼻之所欲向者椒蘭，而不得嗅，謂之閼顫；口之所欲道者是非，而不得言，謂之閼智；體之所欲安者美厚，而不得從，謂之閼適；意之所欲為者放逸，而不得行，謂之閼性」，結「凡此諸閼，廢虐之主」，以身之養在去閼（IX）；末段「焚之亦可，沈之亦可，瘞之亦可，露之亦可，衣薪而棄諸溝壑亦可，袞文繡裳而納諸石椁亦可，唯所遇焉」，以死後之葬任之，落在身與死之命題（IX、X）。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "shuo-fu",
+      "para_index": 14,
+      "para_id": "liezi#08-p14",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "宋人有好行仁義者，三世不懈。家无故黑牛生白犢，以問孔子。孔子曰：「此吉祥也，以薦",
+      "note": "宋人好行仁義「三世不懈」，孔子以「此吉祥也，以薦上帝」斷黑牛生白犢，其父子相繼盲目，「聖人之言先迕後合」之辭不解，至楚攻宋時「民易子而食之，析骸而炊之；丁壯者皆乘城而戰，死者太半」，而「此人以父子有疾，皆免。及圍解而疾俱復」，以禍福相倚之先後反得免於難，是命運之反（XI）；「民易子而食之，析骸而炊之」寫圍城之苦，是苦難之身處（IX）。",
+      "co_domains": [
         "XI"
       ]
     },
@@ -3267,6 +3340,321 @@
       "note": "「老臣病足，曾不能疾走，不得見久矣。」把足疾置於老臣自己的身體處境；「老臣今者殊不欲食，乃自強步，日三四里，少益耆食，和於身也。」又寫他以步行調適食欲與身體，故同時涉及身體限制與修復安頓",
       "co_domains": [
         "XIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "nourishing-the-lord-of-life",
+      "para_index": 3,
+      "para_id": "zhuangzi#03-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "公文軒見右師而驚曰：「是何人也？惡乎介也？天與，其人與？」曰：「天也，非人也。天",
+      "note": "公文軒見右師一足之殘形者而驚問「天與，其人與？」，答以「天之生是使獨也，人之貌有與也。以是知其天也，非人也」，文本承寫殘形者之身體處境，歸 IX。",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "man-in-the-world-associated-with",
+      "para_index": 4,
+      "para_id": "zhuangzi#04-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "顏闔將傅衛靈公大子，而問於蘧伯玉曰：「有人於此，其德天殺。與之為無方，則危吾國；",
+      "note": "顏闔將傅衛靈公大子，蘧伯玉教以「形莫若就，心莫若和」，寫與暴君相處之險（「就不欲入，和不欲出」），並以螳蜋當車、養虎、愛馬三喻明處身之危，是領導用人之智與處身之患（V、IX）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "man-in-the-world-associated-with",
+      "para_index": 7,
+      "para_id": "zhuangzi#04-p07",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "支離疏者，頤隱於臍，肩高於頂，會撮指天，五管在上，兩髀為脅。挫鍼治繲，足以餬口；",
+      "note": "支離疏形殘「會撮指天，五管在上，兩髀為脅」，文本正在寫此身體處境本身（IX）；末句「支離其形者，猶足以養其身，終其天年，又況支離其德者乎」由形推到德之殘全，是品格與德性之論（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "seal-of-virtue-complete",
+      "para_index": 1,
+      "para_id": "zhuangzi#05-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魯有兀者王駘，從之遊者，與仲尼相若。常季問於仲尼曰：「王駘，兀者也，從之遊者，與",
+      "note": "兀者王駘「立不教，坐不議，虛而往，實而歸」，仲尼論「死生亦大矣，而不得與之變」「審乎無假，而不與物遷，命物之化，而守其宗也」，寫殘形者之身處境（IX），其心不隨物遷、自我恆定（II），故能安於大化（XIII）。",
+      "co_domains": [
+        "II",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "seal-of-virtue-complete",
+      "para_index": 2,
+      "para_id": "zhuangzi#05-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "申徒嘉，兀者也，而與鄭子產同師於伯昏無人。子產謂申徒嘉曰：「我先出，則子止；子先",
+      "note": "申徒嘉兀者，與執政子產辯「知不可奈何而安之若命，惟有德者能之」，寫殘形之身處境（IX），自知與自處（II），把禍福推回命而非人我之爭（XI）。",
+      "co_domains": [
+        "II",
+        "XI"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "seal-of-virtue-complete",
+      "para_index": 3,
+      "para_id": "zhuangzi#05-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "魯有兀者叔山無趾，踵見仲尼。仲尼曰：「子不謹，前既犯患若是矣。雖今來，何及矣？」",
+      "note": "兀者叔山無趾踵見孔子，自云「吾唯不知務而輕用吾身，吾是以亡足」「今吾來也，猶有尊足者存，吾是以務全之也」，又評孔子「彼何賓賓以學子為」，寫殘形之身（IX）與求全於德之自我（II）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "seal-of-virtue-complete",
+      "para_index": 4,
+      "para_id": "zhuangzi#05-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魯哀公問於仲尼曰：「衛有惡人焉，曰哀駘它。丈夫與之處者，思而不能去也。婦人見之，",
+      "note": "哀駘它「惡駭天下，和而不唱」，魯哀公欲授國；仲尼以㹠子棄死母喻「所愛其母者，非愛其形也，愛使其形者也」，末斷「是必才全而德不形者也」，寫殘形者之身處境（IX），才全之自我（II），形可忘而德不可忘之品格論（VII）。",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "seal-of-virtue-complete",
+      "para_index": 5,
+      "para_id": "zhuangzi#05-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "闉跂支離無脤說衛靈公，靈公說之，而視全人，其脰肩肩。甕盎大癭說齊桓公，桓公說之，",
+      "note": "闉跂支離無脤、甕盎大癭說君，仲尼論「德有所長，而形有所忘」「聖人有所遊」，寫殘形者之身處境（IX），並以忘形全德立品格之論（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "great-and-most-honoured-master",
+      "para_index": 9,
+      "para_id": "zhuangzi#06-p09",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子祀、子輿、子犁、子來四人相與語曰：「孰能以無為首，以生為脊，以死為尻，孰知生死",
+      "note": "子輿病「曲僂發背，上有五管，頤隱於齊，肩高於頂，句贅指天」寫病形之身體處境（IX），子來「喘喘然將死，其妻子環而泣之」面對死亡（X），子輿自答「安時而處順，哀樂不能入也。此古之所謂縣解也」言死生之安頓（XIII）。",
+      "co_domains": [
+        "X",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "letting-be-and-exercising-forbearance",
+      "para_index": 3,
+      "para_id": "zhuangzi#11-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "黃帝立為天子十九年，令行天下，聞廣成子在於空同之上，故往見之，曰：「我聞吾子達於",
+      "note": "黃帝問「治身奈何而可以長久」，廣成子答「至道之精，窈窈冥冥；至道之極，昏昏默默。無視無聽，抱神以靜，形將自正。必靜必清，無勞女形，無搖女精，乃可以長生」以治身長生為主題（IX），「慎女內，閉女外，多知為敗」言內守外閉以虛其心（VI），「我守其一，以處其和，故我修身千二百歲矣，吾形未嘗衰」明點修身千二百歲之身體處境（IX）。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "ingrained-ideas",
+      "para_index": 7,
+      "para_id": "zhuangzi#15-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故曰：形勞而不休則弊，精用而不已則勞，勞則竭。水之性，不雜則清，莫動則平，鬱閉而",
+      "note": "「形勞而不休則弊，精用而不已則勞，勞則竭」論形體過勞之弊(IX)；「水之性，不雜則清，莫動則平，鬱閉而不流，亦不能清，天德之象也」以水性為喻，論心不雜不動方能清平(VI)。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "full-understanding-of-life",
+      "para_index": 6,
+      "para_id": "zhuangzi#19-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "田開之見周威公。威公曰：「吾聞祝腎學生。吾子與祝腎游，亦何聞焉？」田開之曰：「開",
+      "note": "田開之述「善養生者，若牧羊然，視其後者而鞭之」，舉魯單豹「行年七十而猶有嬰兒之色，不幸遇餓虎，餓虎殺而食之」、張毅「行年四十而有內熱之病以死」，以身體之養與不養論命",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "full-understanding-of-life",
+      "para_index": 9,
+      "para_id": "zhuangzi#19-p09",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "桓公田於澤，管仲御，見鬼焉。公撫管仲之手曰：「仲父何見？」對曰：「臣無所見。」公",
+      "note": "桓公見鬼「誒詒為病」，皇子告敖以「忿滀之氣」「上而不下，則使人善怒；下而不上，則使人善忘；不上不下，中身當心，則為病」釋之，末「公則自傷，鬼惡能傷公」「正衣冠與之坐，不終日而不知病之去也」，由身體之氣轉入心之自處",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "tree-on-the-mountain",
+      "para_index": 8,
+      "para_id": "zhuangzi#20-p08",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子圍於陳、蔡之間，七日不火食。大公任往弔之，曰：「子幾死乎？」曰：「然。」「子",
+      "note": "孔子「圍於陳、蔡之間，七日不火食」，大公任往弔之，「子幾死乎」「子惡死乎」，敘困厄之境",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "tree-on-the-mountain",
+      "para_index": 10,
+      "para_id": "zhuangzi#20-p10",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子曰：「善哉！」辭其交遊，去其弟子，逃於大澤；衣裘褐，食杼栗；入獸不亂群，入鳥",
+      "note": "孔子「辭其交遊，去其弟子，逃於大澤；衣裘褐，食杼栗；入獸不亂群，入鳥不亂行。鳥獸不惡，而況人乎」，由圍困入於安處",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "tree-on-the-mountain",
+      "para_index": 16,
+      "para_id": "zhuangzi#20-p16",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "孔子窮於陳、蔡之間，七日不火食，左據槁木，右擊槁枝，而歌猋氏之風，有其具而無其數",
+      "note": "孔子「窮於陳、蔡之間，七日不火食，左據槁木，右擊槁枝，而歌猋氏之風，有其具而無其數，有其聲而無宮角，木聲與人聲，犁然有當於人心」，於困頓中自歌以安",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "geng-sang-chu",
+      "para_index": 5,
+      "para_id": "zhuangzi#23-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "南榮趎蹴然正坐曰：「若趎之年者已長矣，將惡乎託業以及此言邪？」庚桑子曰：「全汝形",
+      "note": "南榮趎自述「目之與形，吾不知其異也，而盲者不能自見；耳之與形，吾不知其異也，而聾者不能自聞；心之與形，吾不知其異也，而狂者不能自得」，以形盲聾狂喻身心隔閡之限",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "geng-sang-chu",
+      "para_index": 8,
+      "para_id": "zhuangzi#23-p08",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "南榮趎曰：「里人有病，里人問之，病者能言其病，然其病病者猶未病也。若趎之聞大道，",
+      "note": "老子述「衛生之經，能抱一乎？能勿失乎？能無卜筮而知吉凶乎？」「兒子終日嗥而嗌不嗄，和之至也；終日握而手不掜，共其德也；終日視而目不瞚，偏不在外也」，以兒子之喻說身心之養",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "ze-yang",
+      "para_index": 15,
+      "para_id": "zhuangzi#25-p15",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "長梧封人問子牢曰：「君為政焉勿鹵莽，治民焉勿滅裂。昔予為禾，耕而鹵莽之，則其實亦",
+      "note": "長梧封人以農事喻為政「君為政焉勿鹵莽，治民焉勿滅裂」，莊子聞而嘆「今人之治其形，理其心，多有似封人之所謂：遁其天，離其性，滅其情，亡其神，以眾為」「漂疽疥癕，內熱溲膏是也」，論鹵莽其性者之德性淪喪與病苦",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "what-comes-from-without",
+      "para_index": 14,
+      "para_id": "zhuangzi#26-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "靜然可以補病，眥搣可以休老，寧可以止遽。雖然，若是，勞者之務也，非佚者之所未嘗過",
+      "note": "「靜然可以補病，眥搣可以休老，寧可以止遽。雖然，若是，勞者之務也，非佚者之所未嘗過而問焉」，「聖人之所以駴天下，神人未嘗過而問焉；賢人所以駴世，聖人未嘗過而問焉」，論形體之補休止遽與聖凡之層次",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "robber-zhi",
+      "para_index": 19,
+      "para_id": "zhuangzi#29-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "無足曰：「必持其名，苦體絕甘，約養以持生，則亦久病長阨而不死者也。」知和曰：「平",
+      "note": "知和舉六害：耳營鐘鼓之聲「可謂亂矣」；侅溺「可謂苦矣」；貪財「可謂疾矣」；為欲富「可謂辱矣」；「滿心戚醮，求益而不止，可謂憂矣」；「內則疑劫請之賊，外則畏寇盜之害，內周樓疏，外不敢獨行，可謂畏矣。此六者，天下之至害也，皆遺忘而不知察」，結「故觀之名則不見，求之利則不得，繚意體而爭此，不亦惑乎」，列身體處境之六害（IX）與群體得失之惑（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "old-fisherman",
+      "para_index": 1,
+      "para_id": "zhuangzi#31-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孔子遊乎緇帷之林，休坐乎杏壇之上。弟子讀書，孔子絃歌鼓琴，奏曲未半。有漁父者下船",
+      "note": "子貢述「孔氏者，性服忠信，身行仁義，飾禮樂，選人倫，上以忠於世主，下以化於齊民，將以利天下」；漁父評「仁則仁矣，恐不免其身，苦心勞形以危其真」，批仁義之危身（IX）與其非真之德（VII）",
+      "co_domains": [
+        "VII"
       ]
     }
   ]

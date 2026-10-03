@@ -1,17 +1,17 @@
 # XII 信仰·神聖·超越
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 436 段命中｜跨 36 部｜生成時間 2026-10-03T03:27:49+00:00
+> 439 段命中｜跨 38 部｜生成時間 2026-10-03T14:26:48+00:00
 
 神存在嗎、信與疑、敬畏與美、神秘經驗
 
-姿態分佈：`proposition` 273、`narrative` 208、`observation` 93、`ritual` 54、`prescription` 40、`expression` 15、`formalization` 11
+姿態分佈：`proposition` 275、`narrative` 210、`observation` 93、`ritual` 54、`prescription` 40、`expression` 15、`formalization` 11
 
 ## 已通讀但本領域零命中
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`dengxizi`（鄧析子）　`dongmingji`（洞冥記）　`duduan`（獨斷）　`fangyan`（方言）　`gongsun-longzi`（公孫龍子）　`haidao-suanjing`（海島算經）　`houheixue`（厚黑學）　`jian-zhu-ke-shu`（諫逐客書）　`jijiupian`（急就篇）　`jingshi-yizhuan`（京氏易傳）　`liutao`（六韜）　`nanjing`（難經）　`renwuzhi`（人物志）　`san-lue`（三略）　`shanghanlun`（傷寒論）　`shangjunshu`（商君書）　`shenzi`（慎子）　`sima-fa`（司馬法）　`sushu`（素書）　`weiliaozi`（尉繚子）　`wuzi`（吳子）　`yinwenzi`（尹文子）
+`dengxizi`（鄧析子）　`dongmingji`（洞冥記）　`duduan`（獨斷）　`fangyan`（方言）　`gongsun-longzi`（公孫龍子）　`haidao-suanjing`（海島算經）　`houheixue`（厚黑學）　`jian-zhu-ke-shu`（諫逐客書）　`jijiupian`（急就篇）　`jingshi-yizhuan`（京氏易傳）　`liutao`（六韜）　`nanjing`（難經）　`renwuzhi`（人物志）　`san-lue`（三略）　`shanghanlun`（傷寒論）　`shangjunshu`（商君書）　`shenzi`（慎子）　`sima-fa`（司馬法）　`sushu`（素書）　`weiliaozi`（尉繚子）　`wuzi`（吳子）　`xunzi`（荀子）　`yinwenzi`（尹文子）
 
 ## 水經注（地理）　95 段
 
@@ -611,11 +611,24 @@
 | 天地神明章第一 | 1 | `proposition` | 昔在至理，上下一德，以徵天休，忠之道也。〈忠之為道，乃合於天。至理之時，君臣同德 | ＋VII／V 正文以「至公無私」「一其心」立忠的品格標準（VII），又說忠能「固君臣、安社稷」（V）並「感天地、動神明」、以天、地、人之無私相互比照（XII）；三格分別承載德性、公共關係與超越主張，缺一即少一層 |
 | 證應章第十六 | 1 | `proposition` | 惟天鑒人，善惡必應。善莫大於作忠，惡莫大於不忠。忠則福祿至焉，不忠則刑罰加焉。君 | ＋VII 正文斷言「惟天鑒人，善惡必應」，忠與不忠必由天降福祿或刑罰，既是實質超越主張，也以善惡忠佞區分人的品格 |
 
+## 莊子（道家）　2 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| geng-sang-chu | 11 | `proposition` | 備物以將形，藏不虞以生心，敬中以達彼，若是而萬惡至者，皆天也，而非人也，不足以滑 | ＋VII／VI 「備物以將形，藏不虞以生心」，「為不善乎顯明之中者，人得而誅之；為不善乎幽閒之中者，鬼得而誅之。明乎人、明乎鬼者，然後能獨行」，認證鬼能誅幽惡、明靈臺修心 |
+| what-comes-from-without | 8 | `narrative` | 宋元君夜半而夢人被髮闚阿門，曰：「予自宰路之淵，予為清江使河伯之所，漁者余且得予 | 宋元君夜半夢人被髮闚阿門「予自宰路之淵」，使人占之，「此神龜也」，「卜之，曰：「殺龜以卜，吉。」乃刳龜，七十二鑽而無遺筴」，記神龜入夢、占卜取信之認證 |
+
 ## 九章算術（算書）　1 段
 
 | 篇 | 段 | 姿態 | 摘句 | 判讀 |
 |---|---|---|---|---|
 | 九章筭術注序 | 1 | `narrative` | 昔在庖犧氏始畫八卦，以通神明之德，以類萬物之情，作九九之術，以合六爻之變。暨於黃 | 算術溯源於庖犧畫卦「以通神明之德」、黃帝「用稽道原」，把數置於宇宙秩序之下；命中 XII，但這是序言的立論背景，不是本書內容。 |
+
+## 列子（道家）　1 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| tang-wen | 3 | `narrative` `proposition` | 太形、王屋二山，方七百里，高萬仞。本在冀州之南，河陽之北。北山愚公者，年且九十， | ＋XI 愚公宣言「子子孫孫，无窮匱也，而山不加增，何苦而不平」以意志與子孫接力勝過山與時間，是把成敗推回意志接力的命題（XI）；「帝感其誠，命夸蛾氏二子負二山，一厝朔東，一厝雍南」是天帝回應人的誠（XII）；末附「夸父不量力，欲追日影」「未至道，渴而死」作為意志過極之對照。 |
 
 ## 神異經（志怪）　1 段
 

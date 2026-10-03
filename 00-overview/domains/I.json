@@ -2,9 +2,9 @@
   "domain": "I",
   "name_zh": "存在與意義",
   "gist": "我為何在此、活著有沒有意義、與想不通的問題共處、在歷史洪流中的渺小",
-  "generated_at": "2026-10-03T03:27:49+00:00",
-  "para_count": 151,
-  "book_count": 24,
+  "generated_at": "2026-10-03T14:26:48+00:00",
+  "para_count": 272,
+  "book_count": 26,
   "surveyed_zero_hit": [
     "cai-zhonglang-ji",
     "dengxizi",
@@ -34,6 +34,7 @@
     "weiliaozi",
     "wuyue-chunqiu",
     "wuzi",
+    "xunzi",
     "yanshi-jiaxun",
     "yanzi-chunqiu",
     "yinwenzi",
@@ -844,6 +845,321 @@
       "excerpt": "尹曾謂子魚曰：“子之讀先王之書，將奚以為？”答曰：“為治也，世治則助之行道，世亂",
       "note": "「世治則助之行道，世亂則獨治其身，治之至也」，直接說明讀先王之書在治世與亂世各有何人生用意",
       "co_domains": []
+    },
+    {
+      "slug": "liezi",
+      "chapter": "tian-rui",
+      "para_index": 5,
+      "para_id": "liezi#01-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "《黃帝書》曰：「形動不生形而生影，聲動不生聲而生響，无動不生无而生有。」形，必終",
+      "note": "「形，必終者也；天地終乎？與我偕終」談形體之終，屬死亡/無常；「精神離形，各歸其真，故謂之鬼」屬死亡；末以黃帝問「我尚何存」直指形神離後存在的問題，是存在與意義的追問。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "tian-rui",
+      "para_index": 14,
+      "para_id": "liezi#01-p14",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "舜問乎烝曰：「道可得而有乎？」曰：「汝身非汝有也，汝何得有夫道？」舜曰：「吾身非",
+      "note": "舜問「道可得而有乎」，烝答「汝身非汝有也」「是天地之委形也」，並以生/性命/孫子皆為天地之委，否定人對自身的所有權，落在人在宇宙中的位置此一存在問題。",
+      "co_domains": []
+    },
+    {
+      "slug": "liezi",
+      "chapter": "huang-di",
+      "para_index": 17,
+      "para_id": "liezi#02-p17",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "天下有常勝之道，有不常勝之道。常勝之道曰柔，常不勝之道曰彊。二者亦知，而人未之知",
+      "note": "天下「常勝之道曰柔，常不勝之道曰彊」，粥子言「欲剛，必以柔守之；欲彊，必以弱保之。積於柔必剛，積於弱必彊」，老聃以「兵彊則滅。木彊則折。柔弱者生之徒，堅彊者化之徒」收束，是柔弱為德的人生主張。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "huang-di",
+      "para_index": 18,
+      "para_id": "liezi#02-p18",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "狀不必童，而智童；智不必童，而狀童。聖人取童智而遺童狀，眾人近童狀而䟽童智。狀與",
+      "note": "本段主論「狀不必童，而智童；智不必童，而狀童。聖人取童智而遺童狀，眾人近童狀而䟽童智」，舉庖犧氏蛇身人面、夏桀狀貌同人卻有禽獸之心為例，終以「言血氣之類，心智不殊遠也」，是形與心、人禽之辨。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "zhong-ni",
+      "para_index": 7,
+      "para_id": "liezi#04-p07",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "初子列子好游。壺丘子曰：「禦寇好游，游何所好？」列子曰：「游之樂，所玩无故。人之",
+      "note": "壺丘子明辨「外游者，求備於物；內觀者，取足於身。取足於身，游之至也；求備於物，游之不至也」，是關於本末輕重的命題（I）；「我之所謂游，是我之所謂觀也」落到自處方式的自我判定（II）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "yang-zhu",
+      "para_index": 1,
+      "para_id": "liezi#07-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "楊朱游於魯，舍於孟氏。孟氏問曰：「人而已矣，奚以名為？」曰：「以名者為富。」既富",
+      "note": "孟氏問「人而已矣，奚以名為？」楊朱舉管仲「君淫亦淫，君奢亦奢，志合言從，道行國霸」與田氏「君盈則己降，君歛則己施，民皆歸之，因有齊國；子孫享之」之實例，結以「實無名，名無實；名者，偽而已矣」，又對舉「昔者堯舜偽以天下讓許由、善卷，而不失天下，享祚百年。伯夷、叔齊實以孤竹君讓，而終亡其國，餓死於首陽之山」，以實偽之辯斷名之虛妄，是名實落在人身上之命題（II）；通篇辨名於已身、貴賤、宗族、子孫之輕重，落於人之本末（I）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "yang-zhu",
+      "para_index": 2,
+      "para_id": "liezi#07-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "楊朱曰：「百年壽之大齊；得百年者，千无一焉。設有一者，孩抱以逮昏老，幾居其半矣。",
+      "note": "楊朱陳「量十數年之中，逌然而自得，亡介焉之慮者，亦亡一時之中爾。則人之生也奚為哉？奚樂哉？為美厚爾，為聲色爾」，立生之短暫與縱情之理；「太古之人，知生之暫來，知死之暫往，故從心而動，不違自然所好，當身之娛，非所去也，故不為名所觀。從性而游，不逆萬物所好，死後之名，非所取也，故不為刑所及」，以心之從動、從性之游對抗刑賞名法，結「名譽先後，年命多少，非所量也」，是內在之安頓與意義之從哪來（I）兼心之不為名所擾（VI）。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "yang-zhu",
+      "para_index": 3,
+      "para_id": "liezi#07-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "楊朱曰：「萬物所異者生也，所同者死也；生則有賢愚貴賤，是所異也；死則有臭腐消滅，",
+      "note": "楊朱立「萬物齊生齊死，齊賢齊愚，齊貴齊賤。十年亦死，百年亦死，仁聖亦死凶愚亦死。生則堯舜，死則腐骨；生則桀紂，死則腐骨。腐骨一矣，孰知其異？且趣當生，奚遑死後？」，以賢愚貴賤皆歸一死之命題（X），轉出「趣當生」之及時立身（I）。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "yang-zhu",
+      "para_index": 5,
+      "para_id": "liezi#07-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "楊朱曰：「原憲窶於魯，子貢殖於衛。原憲之窶損生，子貢之殖累身。」「然則窶亦不可，",
+      "note": "楊朱舉「原憲窶於魯，子貢殖於衛。原憲之窶損生，子貢之殖累身」，對照窶與殖皆非可；「然則窶亦不可，殖亦不可，其可焉在？」自答「可在樂生，可在逸身。故善樂生者不窶，善逸身者不殖」，以樂生逸身為人之所當安之理（I）。",
+      "co_domains": []
+    },
+    {
+      "slug": "liezi",
+      "chapter": "yang-zhu",
+      "para_index": 9,
+      "para_id": "liezi#07-p09",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "衛端木叔者，子貢之世也。藉其先貲，家累萬金。不治世故，放意所好。其生民之所欲為，",
+      "note": "衛端木叔「不治世故，放意所好」，「奉養之餘，先散之宗族；宗族之餘，次散之邑里；邑里之餘，乃散之一國。行年六十，氣幹將衰，棄其家事，都散其庫藏、珍寶、車服、妾媵，一年之中盡焉，不為子孫留財。及其病也，无藥石之儲；及其死也；无瘞埋之資。一國之人，受其施者，相與賦而藏之，反其子孫之財焉」，是放意所好而散之群體宗族鄉國之載敘（V）；段干生評「木叔達人也，德過其祖矣。其所行也，其所為也，聚意所經，而誠理所取」，以達人立其生之態度（I）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "yang-zhu",
+      "para_index": 10,
+      "para_id": "liezi#07-p10",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孟孫陽問楊子曰：「有人於此，貴生愛身，以蘄不死，可乎？」曰：「理无不死。」「以蘄",
+      "note": "孟孫陽問「貴生愛身，以蘄不死」「以蘄久生」，楊子答「理无不死」「理无久生。生非貴之所能存，身非愛之所能厚」，又言「百年猶厭其多，況久生之苦也乎？」，破不死不生之念；楊子復云「既生，則廢而任之，究其所欲，以俟於死。將死則廢而任之，究其所之，以放於盡。无不廢，无不任，何遽遟速於其閒乎？」，以生與死皆任之而立生之從容（I）與死之放下（X）。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "yang-zhu",
+      "para_index": 11,
+      "para_id": "liezi#07-p11",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "楊朱曰：「伯成子高不以一毫利物，舍國而隱耕。大禹不以一身自利，一體偏枯。古之人，",
+      "note": "楊朱立「伯成子高不以一毫利物，舍國而隱耕。大禹不以一身自利，一體偏枯。古之人，損一毫利天下，不與也，悉天下奉一身，不取也。人人不損一毫，人人不利天下，天下治矣」，以貴己不拔一毛之主張，是個人與天下之關係（I）；禽子「去子體之一毛，以濟一世，汝為之乎？」楊子不應，孟孫陽以「一毛固一體萬分中之一物，柰何輕之乎？」反詰，結「人人不利天下，天下治矣」之群體之治（V）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "yang-zhu",
+      "para_index": 12,
+      "para_id": "liezi#07-p12",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "楊朱曰：「天下之美歸之舜、禹、周、孔，天下之惡歸之桀、紂。然而舜耕於河陽，陶於雷",
+      "note": "楊朱列四聖「舜、禹、周、孔」與二凶「桀、紂」之生：四聖「戚戚然以至於死」「生无一日之歡，死有萬世之名」，二凶「熙熙然以至於死」「生有從欲之歡，死被愚暴之名」；結「名者，固非實之所取也」「實者固非名之所與也」「彼四聖雖美之所歸，苦以至終，同歸於死矣。彼二凶雖惡之所歸，樂以至終，亦同歸於死矣」，以名之不與實、苦樂皆同歸於死之命題（X），翻轉美惡歸於生之態度（I）。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "yang-zhu",
+      "para_index": 14,
+      "para_id": "liezi#07-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "楊朱曰：「太古之事滅矣，孰誌之哉？三皇之事，若存若亡；五帝之事，若覺若夢；三王之",
+      "note": "楊朱云「太古之事滅矣，孰誌之哉？三皇之事，若存若亡；五帝之事，若覺若夢；三王之事，或隱或顯，億不識一」，陳古今消滅之常；「太古至于今日，年數固不可勝紀。但伏羲已來三十餘萬歲，賢愚、好醜、成敗、是非，无不消滅，但遟速之閒耳」，斷一切無不消滅（X）；「矜一時之毀譽，以焦苦其神形，要死後數百年中餘名，豈足潤枯骨？何生之樂哉？」，以死後之名不足潤枯骨反問「何生之樂哉」，翻轉生之意義（I）。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "yang-zhu",
+      "para_index": 15,
+      "para_id": "liezi#07-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "楊朱曰：「人肖天地之類，懷五常之性，有生之最靈者人也。人者，爪牙不足以供守衛，肌",
+      "note": "楊朱立「人肖天地之類，懷五常之性，有生之最靈者人也」之人之定位；「故智之所貴，存我為貴；力之所賤，侵物為賤。然身非我有也，既生不得不全之；物非我有也，既有不得不去之。身固生之主，物亦養之主」，以身物之關係立存我之理；結「有其物有其身，是橫私天下之身，橫私天下之物。其唯聖人乎！公天下之身，公天下之物，其唯至人矣！此之謂至至者也」，以至人之公天下為人之至極之命題（I）。",
+      "co_domains": []
+    },
+    {
+      "slug": "liezi",
+      "chapter": "yang-zhu",
+      "para_index": 16,
+      "para_id": "liezi#07-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "楊朱曰：「生民之不得休息，為四事故：一為壽，二為名，三為位，四為貨。有此四者，畏",
+      "note": "楊朱立「生民之不得休息，為四事故：一為壽，二為名，三為位，四為貨。有此四者，畏鬼，畏人，畏威，畏刑，此謂之遁人也。可殺可活，制命在外」之四事故與制命在外之命題；轉「不逆命，何羨壽？不矜貴，何羨名？不要勢，何羨位？不貪富，何羨貨？此之謂順民也。天下无對，制命在內」之順民與制命在內（XI）；引周諺「田父可坐殺」與田夫「自曝於日，不知天下之有廣廈隩室，綿纊狐狢。顧謂其妻曰：『負日之煊，人莫知者；以獻吾君，將有重賞。』」之風俗對照，結「故野人之所安，野人之所美，謂天下无過者」，以無知無求為風俗之安（I）。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "yang-zhu",
+      "para_index": 17,
+      "para_id": "liezi#07-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "楊朱曰：「豐屋美服，厚味姣色，有此四者，何求於外？有此而求外者，无猒之性。无猒之",
+      "note": "楊朱云「豐屋美服，厚味姣色，有此四者，何求於外？有此而求外者，无猒之性」之有之則足；又「无猒之性，陰陽之蠹也。忠不足以安君，適足以危身；義不足以利物，適足以害生。安上不由於忠，而忠名滅焉；利物不由於義，而義名絕焉」，以无猒之性為蠹害生；引鬻子「去名者无憂」、老子「名者實之賓」；結「今有名則尊榮，亡名則卑辱；尊榮則逸樂，卑辱則憂苦。憂苦，犯性者也；逸樂，順性者也，斯實之所係矣」，以憂苦犯性、逸樂順性之心之安頓（VI），通篇斷名實之辯落於人之所安（I）。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "shuo-fu",
+      "para_index": 1,
+      "para_id": "liezi#08-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子列子學於壺丘子林。壺丘子林曰：「子知持後，則可言持身矣。」列子曰：「願聞持後。",
+      "note": "壺丘子林以「顧若影，則知之」教列子「持後」之理，列子「顧而觀影：形枉則影曲，形直則影正」，結以「枉直隨形而不在影，屈申任物而不在我，此之謂持後而處先」，以觀影自照見人我之位（I）；由「形枉則影曲」之觀省推到「持後而處先」之自處之理，是自知之省落於我身（II）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "shuo-fu",
+      "para_index": 17,
+      "para_id": "liezi#08-p17",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "楚莊王問詹何曰：「治國柰何？」詹何對曰：「臣明於治身而不明於治國也。」楚莊王曰：",
+      "note": "楚莊王問詹何「治國柰何」，詹何對「臣明於治身而不明於治國也」，莊王願學守宗廟，詹何云「臣未嘗聞身治而國亂者也，又未嘗聞身亂而國治者也」，結「本在身，不敢對以末」，楚王曰「善」，以身治為國治之本，是群體政治之本末（V）；「本在身」之斷立人之所當先之序，是意義與位置之本（I）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "shuo-fu",
+      "para_index": 25,
+      "para_id": "liezi#08-p25",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "楊子之鄰人亡羊，既率其黨，又請楊子之豎追之。楊子曰：「嘻！亡一羊何追者之眾？」鄰",
+      "note": "楊朱聞亡羊「戚然變容，不言者移時」，心都子引三兄弟「仁義使我愛身而後名」、「仁義使我殺身以成名」、「仁義使我身名並全」，楊子以「本學泅不學溺，而利害如此」反詰，心都子結「大道以多岐亡羊，學者以多方喪生。學非本不同，非本不一，而末異若是。唯歸同反一，為亡得喪」，以道與學之多方末異立歸同反一之旨，是意義之所歸（I）；「學者以多方喪生」由學之失推到道之所安，是學與教之論（VIII）。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "shuo-fu",
+      "para_index": 30,
+      "para_id": "liezi#08-p30",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊田氏祖於庭，食客千人。中坐有獻魚鴈者。田氏視之，乃歎曰：「天之於民厚矣！殖五穀",
+      "note": "齊田氏祖於庭歎曰「天之於民厚矣！殖五穀，生魚鳥，以為之用」，鮑氏之子辯之「天地萬物，與我並生類也。類无貴賤，徒以小大智力而相制，迭相食；非相為而生之。人取可食者而食之，豈天本為人生之？且蚊蚋噆膚，虎狼食肉，非天本為蚊蚋生人、虎狠生肉者哉」，以天地非為人生明人在宇宙中之位，是意義與位置之本（I）。",
+      "co_domains": []
+    },
+    {
+      "slug": "liezi",
+      "chapter": "shuo-fu",
+      "para_index": 31,
+      "para_id": "liezi#08-p31",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊有貧者，常乞於城市。城市患其亟也，眾莫之與。遂適田氏之廄，從馬醫作役，而假食郭",
+      "note": "齊乞兒「常乞於城市」，「眾莫之與」，轉「適田氏之廄，從馬醫作役，而假食郭中」，人戲「從馬醫而食，不以辱乎」，乞兒曰「天下之辱莫過於乞。乞猶不辱，豈辱馬醫哉」，由乞之不辱翻馬醫之辱，是自我之位之持（I）；以辱之有階明自尊之界，是自知之省（II）。",
+      "co_domains": [
+        "II"
+      ]
     },
     {
       "slug": "lushi-chunqiu",
@@ -2195,6 +2511,1352 @@
         "V",
         "XII"
       ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "enjoyment-in-untroubled-ease",
+      "para_index": 3,
+      "para_id": "zhuangzi#01-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故夫知效一官，行比一鄉，德合一君而徵一國者，其自視也亦若此矣。而宋榮子猶然笑之。",
+      "note": "承上段大小之辯，推出自我修養的層級：知效一官、宋榮子、列子，以「舉世而譽之而不加勸，舉世而非之而不加沮，定乎內外之分，辯乎榮辱之竟」論自我與認同(II)，結論「至人無己，神人無功，聖人無名」落到存在的終極意義(I)。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "enjoyment-in-untroubled-ease",
+      "para_index": 4,
+      "para_id": "zhuangzi#01-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "堯讓天下於許由，曰：「日月出矣，而爝火不息，其於光也，不亦難乎！時雨降矣，而猶浸",
+      "note": "堯讓天下於許由、許由不受，寓言承載對權力(V)的反省，許由曰「子治天下，天下既已治也。而我猶代子，吾將為名乎？名者，實之賓也」，最後「予無所用天下為」落到存在意義(I)。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "enjoyment-in-untroubled-ease",
+      "para_index": 5,
+      "para_id": "zhuangzi#01-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "肩吾問於連叔曰：「吾聞言於接輿，大而無當，往而不反。吾驚怖其言，猶河漢而無極也，",
+      "note": "肩吾與連叔對話描寫藐姑射神人理想人格(I，不因「神」字給 XII)，「之人也，物莫之傷，大浸稽天而不溺，大旱、金石流、土山焦而不熱」是存在的超越境界；末段「堯治天下之民，平海內之政，往見四子藐姑射之山，汾水之陽，窅然喪其天下焉」，堯因而喪失治天下的興趣，落到對權力(V)的超越。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "enjoyment-in-untroubled-ease",
+      "para_index": 6,
+      "para_id": "zhuangzi#01-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "惠子謂莊子曰：「魏王貽我大瓠之種，我樹之成而實五石，以盛水漿，其堅不能自舉也。剖",
+      "note": "惠子與莊子對話以不龜手藥之技藝(VIII)為寓言：「能不龜手一也，或以封，或不免於洴澼絖，則所用之異也」同一技藝因所用而命運迥異，莊子點出「夫子固拙於用大矣」是對「用」之哲學(I)，而非技藝本身。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "enjoyment-in-untroubled-ease",
+      "para_index": 7,
+      "para_id": "zhuangzi#01-p07",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "惠子謂莊子曰：「吾有大樹，人謂之樗。其大本擁腫而不中繩墨，其小枝卷曲而不中規矩，",
+      "note": "惠子與莊子對話以大樹樗為寓言，莊子曰「何不樹之於無何有之鄉，廣莫之野，彷徨乎無為其側，逍遙乎寢臥其下」是逍遙遊全章的安身立命結論(I)，末句「不夭斤斧，物無害者，無所可用，安所困苦哉」落到安頓(XIII)，以無用避禍。",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "adjustment-of-controversies",
+      "para_index": 3,
+      "para_id": "zhuangzi#02-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "非彼無我，非我無所取。是亦近矣，而不知其所為使。若有真宰，而特不得其眹。可行已信",
+      "note": "此段自「非彼無我，非我無所取」起追問真宰與真君，屬自我與認同(II)；「百骸、九竅、六藏，賅而存焉，吾誰與為親」亦問誰屬於我；末段「終身役役而不見其成功，苶然疲役而不知其所歸，可不哀邪」落到對存在處境的哀嘆(I)。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "adjustment-of-controversies",
+      "para_index": 9,
+      "para_id": "zhuangzi#02-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天下莫大於秋豪之末，而大山為小；莫壽乎殤子，而彭祖為夭。天地與我並生，而萬物與我",
+      "note": "「天下莫大於秋豪之末，而大山為小；莫壽乎殤子，而彭祖為夭」翻轉大小壽夭之常見(II)，結以「天地與我並生，而萬物與我為一」是存在意義的終極宣告(I)，「一與言為二，二與一為三」收於「因是已」。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "adjustment-of-controversies",
+      "para_index": 11,
+      "para_id": "zhuangzi#02-p11",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齧缺問乎王倪曰：「子知物之所同是乎？」曰：「吾惡乎知之！」「子知子之所不知邪？」",
+      "note": "齧缺問王倪，王倪舉「三者孰知正處」「四者孰知正味」「四者孰知天下之正色哉」破正處、正味、正色之定準，「仁義之端，是非之塗，樊然殽亂，吾惡能知其辯」是自我對認知限度(II)的自承，末述至人「死生无變於己，而況利害之端乎」是理想人格的存在境界(I)。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "adjustment-of-controversies",
+      "para_index": 12,
+      "para_id": "zhuangzi#02-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "瞿鵲子問乎長梧子曰：「吾聞諸夫子，聖人不從事於務，不就利，不違害，不喜求，不緣道",
+      "note": "瞿鵲子與長梧子對話，長梧子自述生死難知：「予惡乎知夫死者不悔其始之蘄生乎」直接談死生(X)；繼以麗姬艾封人子之涕泣後悔、夢飲酒哭泣與覺夢之辯，「有大覺而後知此其大夢也」，結以「忘年忘義，振於無竟，故寓諸無竟」是存在的安頓(I)。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "adjustment-of-controversies",
+      "para_index": 14,
+      "para_id": "zhuangzi#02-p14",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "昔者莊周夢為胡蝶，栩栩然胡蝶也，自喻適志與！不知周也。俄然覺，則蘧蘧然周也。不知",
+      "note": "莊周夢為胡蝶，「不知周之夢為胡蝶與，胡蝶之夢為周與？周與胡蝶，則必有分矣。此之謂物化」，此正物我之分、自我與認同的經典寓言(II)；「栩栩然胡蝶也，自喻適志與」與「蘧蘧然周也」之適志/驚覺的對比，亦涉存在狀態(I)，錨點要求必含 II。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "nourishing-the-lord-of-life",
+      "para_index": 1,
+      "para_id": "zhuangzi#03-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "吾生也有涯，而知也无涯。以有涯隨无涯，殆已；已而為知者，殆而已矣。為善无近名，為",
+      "note": "「吾生也有涯，而知也无涯。以有涯隨无涯，殆已」是有涯vs无涯的存在命題(I)；「為善无近名，為惡无近刑」是德性主張(VII)，「緣督以為經，可以保身，可以全生，可以養親，可以盡年」是養生之道的規定(prescription)，以中道為經。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "man-in-the-world-associated-with",
+      "para_index": 5,
+      "para_id": "zhuangzi#04-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "匠石之齊，至乎曲轅，見櫟社樹。其大蔽數千牛，絜之百圍，其高臨山十仞而後有枝，其可",
+      "note": "匠石見櫟社樹，樹託夢自述「予求無所可用久矣，幾死，乃今得之，為予大用」，言無用即大用、本末輕重之辨，屬 I。",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "man-in-the-world-associated-with",
+      "para_index": 6,
+      "para_id": "zhuangzi#04-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "南伯子綦遊乎商之丘，見大木焉有異，結駟千乘，隱將芘其所藾。子綦曰：「此何木也哉？",
+      "note": "南伯子綦見不材大木，結云「嗟乎！神人以此不材」，是無用之用的存在論主張（I）；又以荊氏楸柏「未終其天年，而中道已夭於斧斤，此材之患也」反襯「此乃神人之所以為大祥也」，是價值與品格之翻轉（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "man-in-the-world-associated-with",
+      "para_index": 9,
+      "para_id": "zhuangzi#04-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "山木自寇也，膏火自煎也。桂可食，故伐之；漆可用，故割之。人皆知有用之用，而莫知無",
+      "note": "短論「人皆知有用之用，而莫知無用之用也」，總結上文無用即大用、本末輕重之旨，屬 I。",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "great-and-most-honoured-master",
+      "para_index": 2,
+      "para_id": "zhuangzi#06-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "何謂真人？古之真人，不逆寡，不雄成，不謨士。若然者，過而弗悔，當而不自得也。若然",
+      "note": "「不逆寡，不雄成，不謨士」「過而弗悔，當而不自得也」論真人臨事不動心之內在（VI），「登高不慄，入水不濡，入火不熱」述真人之能，「是知之能登假於道也若此」歸之以道之境界（I）。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "great-and-most-honoured-master",
+      "para_index": 5,
+      "para_id": "zhuangzi#06-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古之真人，其狀義而不朋，若不足而不承，與乎其觚而不堅也，張乎其虛而不華也，邴邴乎",
+      "note": "「其一，與天為徒；其不一，與人為徒。天與人不相勝也，是之謂真人」論天人不相勝之合（I），「以刑為體，以禮為翼，以知為時，以德為循」以刑禮知德為真人之所循（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "normal-course-for-rulers-and-kings",
+      "para_index": 7,
+      "para_id": "zhuangzi#07-p07",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "南海之帝為儵，北海之帝為忽，中央之帝為渾沌。儵與忽時相與遇於渾沌之地，渾沌待之甚",
+      "note": "南海之帝為儵、北海之帝為忽、中央之帝為渾沌，儵忽「日鑿一竅，七日而渾沌死」寓天然之不可鑿（I），「人皆有七竅，以視聽食息，此獨無有」反襯有為之害，承以喻治者之戒（V）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "webbed-toes",
+      "para_index": 1,
+      "para_id": "zhuangzi#08-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "駢拇枝指，出乎性哉！而侈於德。附贅縣疣，出乎形哉！而侈於性。多方乎仁義而用之者，",
+      "note": "「駢於明者，亂五色」「枝於仁者，擢德塞性以收名聲」「駢於辯者，…敝跬譽無用之言」並列仁義聰辯之多駢旁枝之病（VII），「彼正正者，不失其性命之情」以性命之情立本然之正（I）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "webbed-toes",
+      "para_index": 2,
+      "para_id": "zhuangzi#08-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "且夫待鉤繩規矩而正者，是削其性；待繩約膠漆而固者，是侵其德也；屈折禮樂，呴俞仁義",
+      "note": "「待鉤繩規矩而正者，是削其性；待繩約膠漆而固者，是侵其德也」以鉤繩規矩喻禮樂仁義之削性侵德（VII），「天下有常然」「故古今不二，不可虧也」立性命之常不可虧（I）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "horsess-hoofs",
+      "para_index": 1,
+      "para_id": "zhuangzi#09-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "馬，蹄可以踐霜雪，毛可以禦風寒，齕草飲水，翹足而陸。此馬之真性也。雖有義臺、路寢",
+      "note": "「蹄可以踐霜雪，毛可以禦風寒，齕草飲水，翹足而陸。此馬之真性也」述馬之真性（I），伯樂「我善治馬」燒之剔之刻之雒之以至「馬之死者十二三矣」以治馬喻治天下之過，「此亦治天下者之過也」明點治之害（V）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "letting-be-and-exercising-forbearance",
+      "para_index": 6,
+      "para_id": "zhuangzi#11-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫有土者，有大物也。有大物者，不可以物物；而不物，故能物物。明乎物物者之非物也，",
+      "note": "「夫有土者，有大物也。有大物者，不可以物物；而不物，故能物物。明乎物物者之非物也，豈獨治天下百姓而已哉」立有土者之物物者之境界（I），「出入六合，遊乎九州，獨往獨來，是謂獨有。獨有之人，是謂至貴」立獨有至貴之存在位階（I）。",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "letting-be-and-exercising-forbearance",
+      "para_index": 7,
+      "para_id": "zhuangzi#11-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大人之教，若形之於影，聲之於響。有問而應之，盡其所懷，為天下配。處乎無響，行乎無",
+      "note": "「大人之教，若形之於影，聲之於響。有問而應之，盡其所懷，為天下配」以形影聲響喻大人之教，盡其所懷而為天下配（I），「頌論形軀，合乎大同，大同而無己。無己，惡乎得有有」立大同而無己之自我超脫（II），「睹有者，昔之君子；睹無者，天地之友」以睹有睹無分君子與天地之友之存在境界（I）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "heaven-and-earth",
+      "para_index": 14,
+      "para_id": "zhuangzi#12-p14",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "諄芒將東之大壑，適遇苑風於東海之濱。苑風曰：「子將奚之？」曰：「將之大壑。」曰：",
+      "note": "「聖治乎，官施而不失其宜，拔舉而不失其能」論聖治之宜與能（V），「德人者，居無思，行無慮，不藏是非美惡。四海之內，共利之之謂悅，共給之之謂安」立德人之容為存在境界（I），「上神乘光，與形滅亡，此謂照曠。天地樂而萬事銷亡，萬物復情，此之謂混冥」以神人混冥之境界為存在意義之極（I）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "tian-dao",
+      "para_index": 2,
+      "para_id": "zhuangzi#13-p02",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "莊子曰：「吾師乎！吾師乎！虀萬物而不為戾，澤及萬世而不為仁，長於上古而不為壽，覆",
+      "note": "「知天樂者，其生也天行，其死也物化；靜而與陰同德，動而與陽同波」以與陰陽同德同波為存在之境界（I），「知天樂者，無天怨，無人非，無物累，無鬼責」以無怨無責為天樂踐履之安頓（XIII），「一心定而王天下；其鬼不祟，其魂不疲，一心定而萬物服」以一心定連到萬物服之安身境界（XIII）。",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "revolution-of-heaven",
+      "para_index": 6,
+      "para_id": "zhuangzi#14-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "吾又奏之以無怠之聲，調之以自然之命，故若混逐叢生，林樂而無形；布揮而不曳，幽昏而",
+      "note": "黃帝第三奏「無怠之聲，調之以自然之命」「聖也者，達於情而遂於命也。天機不張而五官皆備，此之謂天樂，無言而心說」，立天樂為存在境界(I)，「無言而心說」論聖人不言而內心自悅(VI)；「汝欲聽之而無接焉，而故惑也」承前之惑。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "revolution-of-heaven",
+      "para_index": 16,
+      "para_id": "zhuangzi#14-p16",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子見老聃歸，三日不談。弟子問曰：「夫子見老聃，亦將何歸哉？」孔子曰：「吾乃今於",
+      "note": "孔子見老聃歸「三日不談」，自述「吾乃今於是乎見龍。龍合而成體，散而成章，乘乎雲氣而養乎陰陽」；子貢問「然則人固有尸居而龍見，雷聲而淵默，發動如天地者乎」，以龍之合散、尸居龍見、雷聲淵默描寫老聃為理想存在境界(I)，不因「龍」字給 XII。",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "revolution-of-heaven",
+      "para_index": 21,
+      "para_id": "zhuangzi#14-p21",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孔子不出三月，復見，曰：「丘得之矣。烏鵲孺，魚傅沫，細要者化，有弟而兄啼。久矣夫",
+      "note": "孔子三月後再見「丘得之矣」，舉「烏鵲孺，魚傅沫，細要者化，有弟而兄啼」為天地自然之化，「久矣夫，丘不與化為人！不與化為人，安能化人」自省未與造化為人而欲化人之非(VIII，教)；老子曰「可。丘得之矣」承其契入造化之境(I，存在)。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "ingrained-ideas",
+      "para_index": 2,
+      "para_id": "zhuangzi#15-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "若夫不刻意而高，無仁義而修，無功名而治，無江海而閒，不道引而壽，無不忘也，無不有",
+      "note": "「若夫不刻意而高，無仁義而修，無功名而治，無江海而閒，不道引而壽，無不忘也，無不有也，澹然無極而眾美從之，此天地之道，聖人之德也」承前五類而立不刻意無仁義之至境為存在境界(I)，「聖人之德」為品格之極(VII)。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "ingrained-ideas",
+      "para_index": 5,
+      "para_id": "zhuangzi#15-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故曰：聖人之生也天行，其死也物化；靜而與陰同德，動而與陽同波；不為福先，不為禍始",
+      "note": "「聖人之生也天行，其死也物化」立聖人與天同運之物化境界(I)；「其寢不夢，其覺無憂」「其神純粹，其魂不罷」「虛無恬惔，乃合天德」論其內在之虛靜純粹(VI)；「無天災，無物累，無人非，無鬼責」為破除側之命與人事(XI 不得 XII)。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "ingrained-ideas",
+      "para_index": 9,
+      "para_id": "zhuangzi#15-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫有干、越之劍者，柙而藏之，不敢用也，寶之至也。精神四達並流，無所不極，上際於天",
+      "note": "「精神四達並流，無所不極，上際於天，下蟠於地，化育萬物，不可為象，其名為同帝」立精神之達化育萬物為存在境界(I)，不因「同帝」給 XII；「純素之道，惟神是守，守而勿失，與神為一，一之精通，合於天倫」以守神為內在工夫(VI)；「能體純素，謂之真人」立真人品格。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "correcting-the-nature",
+      "para_index": 3,
+      "para_id": "zhuangzi#16-p03",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "古之人在混芒之中，與一世而得澹漠焉。當是時也，陰陽和靜，鬼神不擾，四時得節，萬物",
+      "note": "「古之人在混芒之中，與一世而得澹漠焉」「陰陽和靜，鬼神不擾，四時得節，萬物不傷，群生不夭，人雖有知，無所用之，此之謂至一」「莫之為而常自然」，描述古代至一之世的自然無為境界，屬觀察記行(observation)，記其存在境界(I)。",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "correcting-the-nature",
+      "para_index": 6,
+      "para_id": "zhuangzi#16-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "樂全之謂得志。古之所謂得志者，非軒冕之謂也，謂其無以益其樂而已矣。今之所謂得志者",
+      "note": "「古之所謂得志者，非軒冕之謂也，謂其無以益其樂而已矣。今之所謂得志者，軒冕之謂也」分古今得志之義；以無益其樂為真得志之存在境界(I)；「不為軒冕肆志，不為窮約趨俗，其樂彼與此同，故無憂而已矣」立無憂之安頓(XIII)；「喪己於物，失性於俗者，謂之倒置之民」批以物喪己之失性。",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "floods-of-autumn",
+      "para_index": 16,
+      "para_id": "zhuangzi#17-p16",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "莊子釣於濮水，楚王使大夫二人往先焉，曰：「願以境內累矣！」莊子持竿不顧，曰：「吾",
+      "note": "莊子釣於濮水，楚王徵召，莊子舉神龜問「寧其生而曳尾於塗中乎」，自答「吾將曳尾於塗中」，是存在方式的選擇與對權力的拒絕",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "perfect-enjoyment",
+      "para_index": 1,
+      "para_id": "zhuangzi#18-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天下有至樂無有哉？有可以活身者無有哉？今奚為奚據？奚避奚處？奚就奚去？奚樂奚惡？",
+      "note": "序問「天下有至樂無有哉？有可以活身者無有哉」，提出至樂與活身的根本提問，落在存在與意義",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "perfect-enjoyment",
+      "para_index": 2,
+      "para_id": "zhuangzi#18-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫天下之所尊者，富貴壽善也；所樂者，身安、厚味、美服、好色、音聲也；所下者，貧賤",
+      "note": "「夫天下之所尊者，富貴壽善也」「其為形也亦愚哉」，批世俗之所尊所樂非真樂",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "perfect-enjoyment",
+      "para_index": 3,
+      "para_id": "zhuangzi#18-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫富者，苦身疾作，多積財而不得盡用，其為形也亦外矣。夫貴者，夜以繼日，思慮善否，",
+      "note": "「烈士為天下見善矣，未足以活身」「至樂無樂，至譽無譽」「吾以無為誠樂矣」，批世俗之樂、提出無為為真樂之安頓",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "perfect-enjoyment",
+      "para_index": 4,
+      "para_id": "zhuangzi#18-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天下是非果未可定也。雖然，無為可以定是非。至樂活身，唯無為幾存。請嘗試言之。天無",
+      "note": "「至樂活身，唯無為幾存」「天地無為也，而無不為也」「孰能得無為哉」，以無為為至樂活身之路",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "full-understanding-of-life",
+      "para_index": 1,
+      "para_id": "zhuangzi#19-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "達生之情者，不務生之所無以為；達命之情者，不務知之所無奈何。養形必先之以物，物有",
+      "note": "開篇「達生之情者，不務生之所無以為」「世之人以為養形足以存生，而養形果不足以存生」，辨養形與存生之別，落到對生死的取捨與安頓",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "full-understanding-of-life",
+      "para_index": 2,
+      "para_id": "zhuangzi#19-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫欲免為形者，莫如棄世。棄世則無累，無累則正平，正平則與彼更生，更生則幾矣。事奚",
+      "note": "承前「欲免為形者，莫如棄世」「棄事則形不勞，遺生則精不虧。夫形全精復，與天為一」，主張棄事遺生以與天為一，是存身之方的論說",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "full-understanding-of-life",
+      "para_index": 3,
+      "para_id": "zhuangzi#19-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子列子問關尹曰：「至人潛行不窒，蹈火不熱，行乎萬物之上而不慄。請問何以至於此？」",
+      "note": "列子問關尹至人何以「潛行不窒，蹈火不熱」，關尹答「是純氣之守也」「聖人藏於天」，末段推及「不開人之天，而開天之天，開天者德生，開人者賊生」，由至人之德延及治道",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "tree-on-the-mountain",
+      "para_index": 1,
+      "para_id": "zhuangzi#20-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "莊子行於山中，見大木，枝葉盛茂，伐木者止其旁而不取也。問其故。曰：「無所可用。」",
+      "note": "莊子山中見大木「以不材得終其天年」，故人之鴈「殺不能鳴者」而死於不材，開出材與不材之辯，落於處世之取捨",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "tree-on-the-mountain",
+      "para_index": 2,
+      "para_id": "zhuangzi#20-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "明日，弟子問於莊子曰：「昨日山中之木，以不材得終其天年；今主人之鴈，以不材死。先",
+      "note": "莊子答「周將處夫材與不材之間。材與不材之間，似之而非也，故未免乎累」「乘道德而浮游則不然。無譽無訾，一龍一蛇，與時俱化」「物物而不物於物」，提出乘道浮遊以避累的處世之方",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "tian-zi-fang",
+      "para_index": 7,
+      "para_id": "zhuangzi#21-p07",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子見老聃，老聃新沐，方將被髮而乾，慹然似非人。孔子便而待之，少焉見曰：「丘也眩",
+      "note": "孔子見老聃「被髮而乾，慹然似非人」「形體掘若槁木，似遺物離人而立於獨也」，老聃答「吾遊心於物之初」，寫至人凝神之貌與所遊之境",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "tian-zi-fang",
+      "para_index": 8,
+      "para_id": "zhuangzi#21-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孔子曰：「何謂邪？」曰：「心困焉而不能知，口辟焉而不能言，嘗為汝議乎其將。至陰肅",
+      "note": "老聃述道「至陰肅肅，至陽赫赫」「兩者交通成和而物生焉」「消息滿虛，一晦一明」「始終相反乎無端，而莫知其所窮」，純道體與宇宙生化之論",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "tian-zi-fang",
+      "para_index": 11,
+      "para_id": "zhuangzi#21-p11",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子出，以告顏回曰：「丘之於道也，其猶醯雞與！微夫子之發吾覆也，吾不知天地之大全",
+      "note": "孔子出告顏回「丘之於道也，其猶醯雞與！微夫子之發吾覆也，吾不知天地之大全也」，自述蔽而獲啟，是對自己境界有限的反思",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "tian-zi-fang",
+      "para_index": 14,
+      "para_id": "zhuangzi#21-p14",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "宋元君將畫圖。眾史皆至，受揖而立；舐筆和墨，在外者半。有一史後至者，儃儃然不趨，",
+      "note": "宋元君將畫圖，眾史「舐筆和墨，在外者半」，獨有一史「儃儃然不趨，受揖不立」，「解衣般礡，臝」，君曰「可矣，是真畫者也」，以畫事寓真與自然之境",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "tian-zi-fang",
+      "para_index": 15,
+      "para_id": "zhuangzi#21-p15",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "文王觀於臧，見一丈夫釣，而其釣莫釣，非持其釣，有釣者也，常釣也。",
+      "note": "文王觀臧「見一丈夫釣，而其釣莫釣，非持其釣，有釣者也，常釣也」，寫釣者不持而釣之技藝與所寓之境",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "tian-zi-fang",
+      "para_index": 18,
+      "para_id": "zhuangzi#21-p18",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "顏淵問於仲尼曰：「文王其猶未邪？又何以夢為乎？」仲尼曰：「默！汝無言！夫文王盡之",
+      "note": "顏淵問「文王其猶未邪？又何以夢為乎」，仲尼曰「夫文王盡之也，而又何論刺焉！彼直以循斯須也」，以師生問答論文王用夢之用心",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "tian-zi-fang",
+      "para_index": 21,
+      "para_id": "zhuangzi#21-p21",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "仲尼聞之曰：「古之真人，知者不得說，美人不得濫，盜人不得劫，伏戲、黃帝不得友。死",
+      "note": "仲尼論古之真人「死生亦大矣，而無變乎己，況爵祿乎」「若然者，其神經乎大山而無介，入乎淵泉而不濡」，論至人不以死生爵祿變己",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "knowledge-rambling-in-the-north",
+      "para_index": 1,
+      "para_id": "zhuangzi#22-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "知北遊於玄水之上，登隱弅之丘，而適遭無為謂焉。知謂無為謂曰：「予欲有問乎若：何思",
+      "note": "知北遊遇無為謂「何思何慮則知道」「何處何服則安道」「何從何道則得道」三問不答，狂屈「中欲言而忘其所欲言」，黃帝曰「無思無慮始知道，無處無服始安道，無從無道始得道」，三問三答以道之不可致",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "knowledge-rambling-in-the-north",
+      "para_index": 2,
+      "para_id": "zhuangzi#22-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "知問黃帝曰：「我與若知之，彼與彼不知也，其孰是邪？」黃帝曰：「彼無為謂真是也，狂",
+      "note": "黃帝論「道不可致，德不可至」「失道而後德，失德而後仁」「生也死之徒，死也生之始」「人之生，氣之聚也，聚則為生，散則為死」「通天下一氣耳」，以生死一氣論道與德之次第",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "knowledge-rambling-in-the-north",
+      "para_index": 5,
+      "para_id": "zhuangzi#22-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天地有大美而不言，四時有明法而不議，萬物有成理而不說。聖人者，原天地之美而達萬物",
+      "note": "「天地有大美而不言，四時有明法而不議，萬物有成理而不說」「聖人者，原天地之美而達萬物之理」，承黃帝之言論聖人法天地之則",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "knowledge-rambling-in-the-north",
+      "para_index": 6,
+      "para_id": "zhuangzi#22-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今彼神明至精，與彼百化，物已死生方圓，莫知其根也，扁然而萬物自古以固存。六合為巨",
+      "note": "「彼神明至精，與彼百化」「扁然而萬物自古以固存」「惛然若亡而存，油然不形而神，萬物畜而不知。此之謂本根，可以觀於天矣」，純論天地本根與觀天之事",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "knowledge-rambling-in-the-north",
+      "para_index": 8,
+      "para_id": "zhuangzi#22-p08",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "舜問乎丞曰：「道可得而有乎？」曰：「汝身非汝有也，汝何得有夫道？」舜曰：「吾身非",
+      "note": "舜問道，丞答「汝身非汝有也，汝何得有夫道」「是天地之委形也」「天地之強陽氣也，又胡可得而有邪」，以身非己有論道之不可得",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "knowledge-rambling-in-the-north",
+      "para_index": 10,
+      "para_id": "zhuangzi#22-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "老聃曰：「汝齊戒，疏𤅢而心，澡雪而精神，掊擊而知！夫道，窅然難言哉！將為汝言其崖",
+      "note": "老聃言「汝齊戒，疏𤅢而心，澡雪而精神，掊擊而知！夫道，窅然難言哉」，論求道之齋心與道之難言",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "knowledge-rambling-in-the-north",
+      "para_index": 11,
+      "para_id": "zhuangzi#22-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫昭昭生於冥冥，有倫生於無形，精神生於道，形本生於精，而萬物以形相生，故九竅者胎",
+      "note": "老聃繼言「夫昭昭生於冥冥，有倫生於無形，精神生於道，形本生於精」「天不得不高，地不得不廣，日月不得不行，萬物不得不昌，此其道與」，純論道體與萬物之生",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "knowledge-rambling-in-the-north",
+      "para_index": 12,
+      "para_id": "zhuangzi#22-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "且夫博之不必知，辯之不必慧，聖人以斷之矣。若夫益之而不加益，損之而不加損者，聖人",
+      "note": "「博之不必知，辯之不必慧，聖人以斷之矣」「淵淵乎其若海，魏魏乎其終則復始也，運量萬物而不匱」，承前續論道之不增不以實",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "knowledge-rambling-in-the-north",
+      "para_index": 13,
+      "para_id": "zhuangzi#22-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "中國有人焉，非陰非陽，處於天地之閒，直且為人，將反於宗。自本觀之，生者，暗醷物也",
+      "note": "「中國有人焉，非陰非陽，處於天地之閒」「生者，暗醷物也。雖有壽夭，相去幾何？須臾之說也」，論人之在天地與壽夭之齊",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "knowledge-rambling-in-the-north",
+      "para_index": 16,
+      "para_id": "zhuangzi#22-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "不形之形，形之不形，是人之所同知也，非將至之所務也，此眾人之所同論也。彼至則不論",
+      "note": "「不形之形，形之不形，是人之所同知也」「彼至則不論，論則不至」「明見無值，辯不若默。道不可聞，聞不若塞。此之謂大得」，論道之不可聞見與默之為得",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "knowledge-rambling-in-the-north",
+      "para_index": 17,
+      "para_id": "zhuangzi#22-p17",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "東郭子問於莊子曰：「所謂道，惡乎在？」莊子曰：「無所不在。」東郭子曰：「期而後可",
+      "note": "東郭子問「所謂道，惡乎在」，莊子答「無所不在」，歷指「在螻蟻」「在稊稗」「在瓦甓」「在屎溺」，以道在至賤之物破離道求道之想",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "knowledge-rambling-in-the-north",
+      "para_index": 18,
+      "para_id": "zhuangzi#22-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "莊子曰：「夫子之問也，固不足質。正獲之問於監市履狶也，每下愈況。汝唯莫必，無乎逃",
+      "note": "莊子「周、遍、咸三者，異名同實，其指一也」「嘗相與無為乎！澹而靜乎！漠而清乎！調而閒乎！」「物物者與物無際，而物有際者，所謂物際者也」，承東郭子問論道之無不在與無際",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "knowledge-rambling-in-the-north",
+      "para_index": 19,
+      "para_id": "zhuangzi#22-p19",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "婀荷甘與神農同學於老龍吉。神農隱几闔戶晝瞑，婀荷甘日中奓戶而入，曰：「老龍死矣！",
+      "note": "婀荷甘與神農同學於老龍吉，神農聞老龍死「嚗然放杖而笑，曰：「天知予僻陋慢訑，故棄予而死。已矣！夫子無所發予之狂言而死矣夫！」」，以同學之死寫對道之失的感歎",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "knowledge-rambling-in-the-north",
+      "para_index": 20,
+      "para_id": "zhuangzi#22-p20",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "弇堈弔聞之，曰：「夫體道者，天下之君子所繫焉。今於道，秋豪之端，萬分未得處一焉，",
+      "note": "弇堈弔曰「夫體道者，天下之君子所繫焉」「秋豪之端，萬分未得處一焉」「視之無形，聽之無聲，於人之論者，謂之冥冥，所以論道，而非道也」，論體道者之難測",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "knowledge-rambling-in-the-north",
+      "para_index": 21,
+      "para_id": "zhuangzi#22-p21",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "於是泰清問乎無窮曰：「子知道乎？」無窮曰：「吾不知。」又問乎無為。無為曰：「吾知",
+      "note": "泰清問無窮「子知道乎」，無窮「吾不知」；問無為，無為「吾知道之可以貴，可以賤，可以約，可以散」，無始曰「不知深矣，知之淺矣；弗知內矣，知之外矣」，終以「道不可聞，聞而非也；道不可見，見而非也；道不可言，言而非也」，數問以辯知與不知",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "knowledge-rambling-in-the-north",
+      "para_index": 22,
+      "para_id": "zhuangzi#22-p22",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "無始曰：「有問道而應之者，不知道也。雖問道者，亦未聞道。道無問，問無應。無問問之",
+      "note": "無始曰「有問道而應之者，不知道也」「道無問，問無應」「無問問之，是問窮也；無應應之，是無內也」，承前論問答之不足以當道",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "knowledge-rambling-in-the-north",
+      "para_index": 23,
+      "para_id": "zhuangzi#22-p23",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "光曜問乎無有曰：「夫子有乎，其無有乎？」光曜不得問，而孰視其狀貌，窅然空然，終日",
+      "note": "光曜問無有「夫子有乎，其無有乎」「光曜不得問，而孰視其狀貌，窅然空然，終日視之而不見，聽之而不聞，搏之而不得也」，光曜歎「至矣！其孰能至此乎」，以有無之問寫至道之不可得",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "knowledge-rambling-in-the-north",
+      "para_index": 24,
+      "para_id": "zhuangzi#22-p24",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "大馬之捶鉤者，年八十矣，而不失豪芒。大馬曰：「子巧與？有道與？」曰：「臣有守也。",
+      "note": "大馬之捶鉤者年八十「不失豪芒」，自述「臣之年二十而好捶鉤，於物無視也，非鉤無察也。是用之者，假不用者也以長得其用」，以技藝之專精論無用之用",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "knowledge-rambling-in-the-north",
+      "para_index": 25,
+      "para_id": "zhuangzi#22-p25",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "冉求問於仲尼曰：「未有天地可知邪？」仲尼曰：「可。古猶今也。」冉求失問而退，明日",
+      "note": "冉求問「未有天地可知邪」，仲尼曰「可。古猶今也」「無古無今，無始無終」「物物者非物。物出不得先物也，猶其有物也。猶其有物也，無已」，以古猶今論先天地者之非物",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "geng-sang-chu",
+      "para_index": 10,
+      "para_id": "zhuangzi#23-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "宇泰定者，發乎天光。發乎天光者，人見其人。人有修者，乃今有恆；有恆者，人舍之，天",
+      "note": "「宇泰定者，發乎天光」，「學者，學其所不能學也；行者，行其所不能行也；辯者，辯其所不能辯也。知止乎其所不能知，至矣」，論修心之境與知止之限",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "geng-sang-chu",
+      "para_index": 13,
+      "para_id": "zhuangzi#23-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "道通，其分也，其成也毀也。所惡乎分者，其分也以備；所以惡乎備者，其有以備。故出而",
+      "note": "「道通，其分也，其成也毀也」「故出而不反，見其鬼；出而得，是謂得死」「以有形者象無形者而定矣」，論道之分與成毀、出死之失",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "geng-sang-chu",
+      "para_index": 15,
+      "para_id": "zhuangzi#23-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古之人，其知有所至矣。惡乎至？有以為未始有物者，至矣盡矣，弗可以加矣。其次以為有",
+      "note": "「古之人，其知有所至矣」「有以為未始有物者，至矣盡矣，弗可以加矣」「孰知有無死生之一守者，吾與之為友」，論知之至與死生一守之友",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "geng-sang-chu",
+      "para_index": 22,
+      "para_id": "zhuangzi#23-p22",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "動以不得已之謂德，動無非我之謂治，名相反而實相順也。",
+      "note": "「動以不得已之謂德，動無非我之謂治，名相反而實相順也」，論德治之義與不得已之命",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "geng-sang-chu",
+      "para_index": 23,
+      "para_id": "zhuangzi#23-p23",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "羿工乎中微而拙於使人無己譽，聖人工乎天而拙乎人。夫工乎天而俍乎人者，唯全人能之。",
+      "note": "「羿工乎中微而拙於使人無己譽，聖人工乎天而拙乎人。夫工乎天而俍乎人者，唯全人能之」，論技藝之工與全人之能",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "geng-sang-chu",
+      "para_index": 24,
+      "para_id": "zhuangzi#23-p24",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "唯蟲能蟲，唯蟲能天。全人惡天，惡人之天，而況吾天乎人乎！",
+      "note": "「唯蟲能蟲，唯蟲能天。全人惡天，惡人之天，而況吾天乎人乎」，論全人與天之關係",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "xu-wu-gui",
+      "para_index": 6,
+      "para_id": "zhuangzi#24-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "黃帝將見大隗乎具茨之山，方明為御，昌宇驂乘，張若、謵朋前馬，昆閽、滑稽後車。至於",
+      "note": "黃帝見大隗，遇牧馬童子，童子曰「夫為天下者，亦奚以異乎牧馬者哉？亦去其害馬者而已矣」，以去害為治天下之要，寄治世於無所作之義",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "xu-wu-gui",
+      "para_index": 19,
+      "para_id": "zhuangzi#24-p19",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子綦曰：「歅！汝何足以識之？而梱祥邪，盡於酒肉，入於鼻口矣。而何足以知其所自來？",
+      "note": "子綦歎「吾所與吾子遊者，遊於天地」「殆乎！非我與吾子之罪，幾天與之也！吾是以泣也」，悲父子遊於天地之誼為世俗之償所奪，泣天之所命奪人至親之遊",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "xu-wu-gui",
+      "para_index": 26,
+      "para_id": "zhuangzi#24-p26",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是以神人惡眾至，眾至則不比，不比則不利也。故無所甚親，無所甚疏，抱德煬和，以順天",
+      "note": "「故無所甚親，無所甚疏，抱德煬和，以順天下，此謂真人」「古之真人，以天待之，不以人入天」，立真人無親疏、以天應不以人應之則",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "xu-wu-gui",
+      "para_index": 29,
+      "para_id": "zhuangzi#24-p29",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故目之於明也殆，耳之於聰也殆，心之於殉也殆。凡能其於府也殆，殆之成也不給改。禍之",
+      "note": "「故目之於明也殆，耳之於聰也殆，心之於殉也殆。凡能其於府也殆」「而人以為己寶，不亦悲乎」，論耳目心智逐外之危殆，並指人珍其所殆之倒錯",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "xu-wu-gui",
+      "para_index": 30,
+      "para_id": "zhuangzi#24-p30",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故足之於地也踐，雖踐，恃其所不蹍而後善博也；人之於知也少，雖少，恃其所不知而後知",
+      "note": "「故足之於地也踐，雖踐，恃其所不蹍而後善博也；人之於知也少，雖少，恃其所不知而後知天之所謂也」「知大一，知大陰，知大目，知大均，知大方，知大信，知大定，至矣」，論知依於不知，並立七大知之至",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "what-comes-from-without",
+      "para_index": 4,
+      "para_id": "zhuangzi#26-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "任公子為大鉤巨緇，五十犗以為餌，蹲乎會稽，投竿東海，旦旦而釣，期年不得魚。已而大",
+      "note": "「任公子為大鉤巨緇，五十犗以為餌，蹲乎會稽，投竿東海，旦旦而釣」，「任公子得若魚，離而腊之，自制河以東，蒼梧以北，莫不厭若魚者」，寓言大鉤釣鵲魚之奇獲",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 1,
+      "para_id": "zhuangzi#28-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "堯以天下讓許由，許由不受。又讓於子州支父，子州支父曰：「以為我天子，猶之可也。雖",
+      "note": "堯以天下讓許由、子州支父，二人皆不受；子州支父以「幽憂之病」未暇治天下，末論「夫天下至重也，而不以害其生」「唯無以天下為者，可以託天下也」，寓讓天下之政治典範（V）與天下不若生之輕重（I）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 2,
+      "para_id": "zhuangzi#28-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "舜讓天下於子州支伯，子州支伯曰：「予適有幽憂之病，方且治之，未暇治天下也。」故天",
+      "note": "舜讓天下於子州支伯，子州支伯以「幽憂之病」未暇治天下，論「故天下大器也，而不以易生，此有道者之所以異乎俗者也」，言讓天下之有道異俗（V）與大器不若生之輕重（I）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 4,
+      "para_id": "zhuangzi#28-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "舜以天下讓其友石戶之農，石戶之農曰：「捲捲乎后之為人，葆力之士也。」以舜之德為未",
+      "note": "舜以天下讓石戶之農，石戶之農曰「捲捲乎后之為人，葆力之士也」，評「以舜之德為未至也」，遂「夫負妻戴，攜子以入於海，終身不反也」，寓拒讓之節（V）與隱居不事之選擇（I）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 5,
+      "para_id": "zhuangzi#28-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "大王亶父居邠，狄人攻之。事之以皮帛而不受，事之以犬馬而不受，事之以珠玉而不受，狄",
+      "note": "大王亶父居邠，狄人求之，大王不忍傷其民弟，杖筴而去，論「能尊生者，雖貴富不以養傷身，雖貧賤不以利累形」，寓讓國保民之政治行（V）與生命先於富貴之本末輕重（I）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 7,
+      "para_id": "zhuangzi#28-p07",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "韓、魏相與爭侵地。子華子見昭僖侯，昭僖侯有憂色。子華子曰：「今使天下書銘於君之前",
+      "note": "韓、魏相與爭侵地，子華子以攫之必得天下之喻問昭僖侯，斷「兩臂重於天下也，身亦重於兩臂。韓之輕於天下亦遠矣」，專論身與國之輕重本末（I）",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 9,
+      "para_id": "zhuangzi#28-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故曰：道之真以治身，其緒餘以為國家，其土苴以治天下。由此觀之，帝王之功，聖人之餘",
+      "note": "「道之真以治身，其緒餘以為國家，其土苴以治天下」，明本末之序；又「夫生者，豈特隨侯之重哉」，以隨侯之珠彈雀之喻明生命之重，專論治身為本之輕重（I）",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 12,
+      "para_id": "zhuangzi#28-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "原憲居魯，環堵之室，茨以生草，蓬戶不完，桑以為樞而甕牖，二室，褐以為塞，上漏下溼",
+      "note": "原憲環堵匡坐而弦，子貢軒車見之，問病；原憲曰「憲聞之：『無財謂之貧，學而不能行謂之病。』今憲，貧也，非病也」，寓安貧之價值（I）與自得之安頓（XIII）",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 13,
+      "para_id": "zhuangzi#28-p13",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "曾子居衛，縕袍無表，顏色腫噲，手足胼胝。三日不舉火，十年不製衣，正冠而纓絕，捉衿",
+      "note": "曾子居衛縕袍無表，三日不舉火，曳歌商頌，結「故養志者忘形，養形者忘利，致道者忘心矣」，寓養志之價值（I）與內心之超越（VI）",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 14,
+      "para_id": "zhuangzi#28-p14",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孔子謂顏回曰：「回來！家貧居卑，胡不仕乎？」顏回對曰：「不願仕。回有郭外之田五十",
+      "note": "孔子問顏回何不仕，顏回以郭田畔廂、鼓琴自娛辭；孔子嘆「知足者不以利自累也，審自得者失之而不懼，行修於內者無位而不怍」，寓安貧不仕之節（I）與自得無求之安頓（XIII）",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 15,
+      "para_id": "zhuangzi#28-p15",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "中山公子牟謂瞻子曰：「身在江海之上，心居乎魏闕之下，奈何？」瞻子曰：「重生。重生",
+      "note": "中山公子牟「身在江海之上，心居乎魏闕之下」，瞻子告「重生。重生則利輕」，又言「不能自勝而強不從者，此之謂重傷」，論心與形之內在衝突（VI）與重生輕利之價值（I）",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 17,
+      "para_id": "zhuangzi#28-p17",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子路、子貢入。子路曰：「如此者可謂窮矣。」孔子曰：「是何言也！君子通於道之謂通，",
+      "note": "孔子告子路「君子通於道之謂通，窮於道之謂窮」「故內省而不窮於道，臨難而不失其德」，反琴而弦歌，寓守道之節（I）與臨難自安之安頓（XIII）",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 18,
+      "para_id": "zhuangzi#28-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古之得道者，窮亦樂，通亦樂。所樂非窮通也，道德於此，則窮通為寒暑風雨之序矣。故許",
+      "note": "「古之得道者，窮亦樂，通亦樂」「所樂非窮通也，道德於此，則窮通為寒暑風雨之序矣」，專論道德不因窮通而異之自處（I、XIII）",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 23,
+      "para_id": "zhuangzi#28-p23",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "昔周之興，有士二人處於孤竹，曰伯夷、叔齊。二人相謂曰：「吾聞西方有人，似有道者，",
+      "note": "伯夷、叔齊往觀西方有道者，武王與盟以「加富二等，就官一列」，二人相笑曰「是推亂以易暴也」「不如避之以絜吾行」，寓批周以暴易暴之公義（V）與避世潔行之價值（I）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "robber-zhi",
+      "para_index": 12,
+      "para_id": "zhuangzi#29-p12",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "丘之所以說我者，若告我以鬼事，則我不能知也；若告我以人事者，不過此矣，皆吾所聞知",
+      "note": "盜跖論「人之情：目欲視色，耳欲聽聲，口欲察味，志氣欲盈」，又言「天與地無窮，人死者有時，操有時之具而託於無窮之間，忽然無異騏驥之馳過隙也」「不能說其志意，養其壽命者，皆非通道者也」，結「子之道，狂狂汲汲，詐巧虛偽事也，非可以全真也，奚足論哉」，論人之情欲（VI）與通道全真之輕重（I）",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "old-fisherman",
+      "para_index": 6,
+      "para_id": "zhuangzi#31-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子又再拜而起曰：「今者丘得遇也，若天幸然。先生不羞而比之服役，而身教之。敢問舍",
+      "note": "漁父臨別誡「可與往者與之，至於妙道；不可與往者，不知其道，慎勿與之，身乃無咎。子勉之」，寓妙道之傳承（I）與身乃無咎之自處（XIII）",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "lie-yu-kou",
+      "para_index": 4,
+      "para_id": "zhuangzi#32-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "聖人安其所安，不安其所不安；眾人安其所不安，不安其所安。",
+      "note": "「聖人安其所安，不安其所不安；眾人安其所不安，不安其所安」，以對偶論安與不安之取捨（I）與安頓之分（XIII）",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "lie-yu-kou",
+      "para_index": 5,
+      "para_id": "zhuangzi#32-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "莊子曰：「知道易，勿言難。知而不言，所以之天也；知而言之，所以之人也。古之人，天",
+      "note": "莊子言「知道易，勿言難。知而不言，所以之天也；知而言之，所以之人也」「古之人，天而不人」，論天人之分的存在取向（I）",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "tian-xia",
+      "para_index": 12,
+      "para_id": "zhuangzi#33-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "關尹曰：「在己無居，形物自著。其動若水，其靜若鏡，其應若響。芴乎若亡，寂乎若清，",
+      "note": "關尹曰「在己無居，形物自著。其動若水，其靜若鏡，其應若響」「同焉者和，得焉者失」「未嘗先人而常隨人」，講存在之取捨與處世之方（I）",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "tian-xia",
+      "para_index": 13,
+      "para_id": "zhuangzi#33-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "老聃曰：「知其雄，守其雌，為天下谿；知其白，守其辱，為天下谷。」人皆取先，己獨取",
+      "note": "老聃曰「知其雄，守其雌，為天下谿；知其白，守其辱，為天下谷」「人皆取先，己獨取後」「受天下之垢」「以深為根，以約為紀」「堅則毀矣，銳則拙矣」「常寬容於物，不削於人」，論存在取向（I）",
+      "co_domains": []
     }
   ]
 }

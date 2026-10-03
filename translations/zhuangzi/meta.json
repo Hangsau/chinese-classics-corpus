@@ -18,5 +18,49 @@
   "verified": true,
   "tier": "核心",
   "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：道教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。",
-  "psych_survey": null
+  "psych_survey": {
+    "surveyed_at": "2026-10-03",
+    "method": "15 批串行發包 minimax-m3（claude-m3-lite，scripts/run-m3-batches.sh；b08 起 M3_MAX_TURNS=80），判準 delegation/zhuangzi/SPEC.md；每批 accept-batch 0 FAIL 才 commit；check-delegation-out 全過；check-reason-quotes 1156 條引句 1 條不在本段（webbed-toes[1] 節引，記誤差不重發）、0 段有格無引句",
+    "domains_hit": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V",
+      "VI",
+      "VII",
+      "VIII",
+      "IX",
+      "X",
+      "XI",
+      "XII",
+      "XIII"
+    ],
+    "domains_null": [],
+    "domain_para_counts": {
+      "V": 152,
+      "VII": 109,
+      "I": 99,
+      "II": 95,
+      "VI": 64,
+      "XIII": 50,
+      "XI": 49,
+      "X": 32,
+      "VIII": 30,
+      "IX": 22,
+      "IV": 7,
+      "III": 3,
+      "XII": 2
+    },
+    "discourse_mode_counts": {
+      "narrative": 264,
+      "proposition": 239,
+      "observation": 24,
+      "prescription": 6,
+      "expression": 6
+    },
+    "paras_total": 463,
+    "paras_no_domain": 28,
+    "verdict": "莊子 463 段，命中 435 段（94%），13／13 全覆蓋。V 152、VII 109、I 99、II 95 四格最大——I 存在與意義近百段是全庫少見，來自齊物、逍遙、大宗師對生死與意義的直接追問；XII 只 2 段，因寓言裡的神人、真人多屬『存而不論』或修辭，SPEC 不給 XII。判空 28 段多為篇末說明與純敘事銜接。b08 曾因 M3 自建暫存腳本逐段 append 耗盡 40 輪兩度失敗，改 M3_MAX_TURNS=80 並禁暫存腳本後通過。判讀者 minimax-m3 全書單一。"
+  }
 }

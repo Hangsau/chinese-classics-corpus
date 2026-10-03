@@ -18,5 +18,50 @@
   "verified": true,
   "tier": "核心",
   "notes": "2026-10-02 自 religions-history 收入本庫。使用者 2026-10-02 明示「先把孔、孟、荀弄一份過來」，是對「已在宗教庫者一律不重複收」的第二次明確豁免（前例 2026-08-24 五部），只對這三部有效。宗教庫仍保留一份，兩庫不去重。raw/ 由宗教庫複製後**只重排章序**：來源按 Unicode 碼位排列（〈不苟〉居首、〈勸學〉第 5），改為楊倞本傳統篇次 1–32，〈荀子序〉移到第 33 章，使 para_id 的章號等於傳統篇次。33 章正文逐塊比對全等，僅標題行重編號。來源檔 SHA-256 2b91d15e2d21477229a7482ff7d1200363df84a91e071e6ab60e408c1a81510d。正文含楊倞注〈〉夾注，標註與札記應讀去夾注版。",
-  "psych_survey": null
+  "psych_survey": {
+    "surveyed_at": "2026-10-03",
+    "method": "28 批串行發包 minimax-m3（claude-m3-lite，scripts/run-m3-batches.sh；10 段經 segmentation.json 切開），判準 delegation/xunzi/SPEC.md；每批 accept-batch 0 FAIL 才 commit；check-delegation-out 全過；check-reason-quotes 1254 條引句 0 不在本段、0 段有格無引句",
+    "domains_hit": [
+      "II",
+      "III",
+      "IV",
+      "V",
+      "VI",
+      "VII",
+      "VIII",
+      "X",
+      "XI",
+      "XIII"
+    ],
+    "domains_null": [
+      "I",
+      "IX",
+      "XII"
+    ],
+    "domain_para_counts": {
+      "V": 288,
+      "VII": 171,
+      "II": 44,
+      "VI": 41,
+      "VIII": 40,
+      "XI": 24,
+      "IV": 17,
+      "X": 10,
+      "XIII": 3,
+      "III": 2
+    },
+    "discourse_mode_counts": {
+      "proposition": 311,
+      "prescription": 78,
+      "observation": 70,
+      "narrative": 64,
+      "formalization": 30,
+      "ritual": 20,
+      "expression": 13,
+      "worked_instance": 1
+    },
+    "paras_total": 495,
+    "paras_no_domain": 75,
+    "verdict": "荀子 495 段，命中 420 段（85%），10／13。V 288、VII 171 兩格壓倒性，與孟子同型但 V 更重（王制、富國、王霸、君道、臣道、議兵）。I、IX、XII 掛零：XII 掛零是 SPEC 刻意的——〈天論〉『天行有常』『雩而雨……無何也』『以為文則吉，以為神則凶』屬破除側，依 SPEC 五分給 XI 不給 XII；IX 疾病、I 存在意義在荀子確實不是議題。判空 75 段（15%）集中在禮論、王制的制度條文與楊倞注序。判讀者 minimax-m3 全書單一。"
+  }
 }

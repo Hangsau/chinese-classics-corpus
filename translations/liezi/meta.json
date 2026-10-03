@@ -18,5 +18,48 @@
   "verified": true,
   "tier": "核心",
   "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：道教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。",
-  "psych_survey": null
+  "psych_survey": {
+    "surveyed_at": "2026-10-03",
+    "method": "8 批串行發包 minimax-m3（claude-m3-lite，scripts/run-m3-batches.sh），判準 delegation/liezi/SPEC.md；每批 accept-batch 0 FAIL 才 commit；check-delegation-out 全過；check-reason-quotes 550 條引句 0 不在本段、0 段有格無引句",
+    "domains_hit": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V",
+      "VI",
+      "VII",
+      "VIII",
+      "IX",
+      "X",
+      "XI",
+      "XII",
+      "XIII"
+    ],
+    "domains_null": [],
+    "domain_para_counts": {
+      "V": 42,
+      "II": 41,
+      "XI": 26,
+      "VIII": 24,
+      "I": 22,
+      "VI": 19,
+      "X": 18,
+      "VII": 18,
+      "XIII": 9,
+      "IX": 5,
+      "XII": 1,
+      "III": 1,
+      "IV": 1
+    },
+    "discourse_mode_counts": {
+      "proposition": 121,
+      "narrative": 108,
+      "observation": 14,
+      "formalization": 1
+    },
+    "paras_total": 144,
+    "paras_no_domain": 9,
+    "verdict": "列子 144 段，命中 135 段（94%），13／13 全覆蓋。V 42、II 41、XI 26、VIII 24、I 22——〈力命〉〈楊朱〉使 XI 命運與 II 自我偏高，〈周穆王〉夢覺之辨落 I／II；XII 只 1 段。判讀者 minimax-m3 全書單一。"
+  }
 }

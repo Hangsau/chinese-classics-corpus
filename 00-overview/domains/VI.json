@@ -2,9 +2,9 @@
   "domain": "VI",
   "name_zh": "情緒與內在生活",
   "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡",
-  "generated_at": "2026-10-03T03:27:49+00:00",
-  "para_count": 904,
-  "book_count": 41,
+  "generated_at": "2026-10-03T14:26:48+00:00",
+  "para_count": 1028,
+  "book_count": 44,
   "surveyed_zero_hit": [
     "dongmingji",
     "duduan",
@@ -5174,6 +5174,283 @@
       "note": "歌中兼有對亡夫不忘的承諾、早寡悲泣的內在經驗及終不重行的貞壹評斷，三面各自承重",
       "co_domains": [
         "III",
+        "VII"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "tian-rui",
+      "para_index": 6,
+      "para_id": "liezi#01-p06",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "人自生至終，大化有四：嬰孩也，少壯也，老耄也，死亡也。其在嬰孩，氣專志一，和之至",
+      "note": "「人自生至終，大化有四」對人生四階段作觀察品題，「少壯，則血氣飄溢，欲慮充起」點出欲慮擾動是情緒/內在生活，「死亡也，則之於息焉，反其極矣」談死亡歸返。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "tian-rui",
+      "para_index": 7,
+      "para_id": "liezi#01-p07",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孔子遊於大山，見榮啟期行乎郕之野，鹿裘帶索，鼓琴而歌。孔子問曰：「先生所以樂，何",
+      "note": "榮啟期列「吾樂甚多」三樂並自寬「當何憂哉」是對自身處境的安頓（XIII），孔子評「善乎！能自寬者也」收束於內在情緒的自我調適（VI）。",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "tian-rui",
+      "para_index": 13,
+      "para_id": "liezi#01-p13",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "杞國有人，憂天地崩墜，身亡所寄，廢寢食者。又有憂彼之所憂者，因往曉之，曰：「天，",
+      "note": "杞人「憂天地崩墜，身亡所寄，廢寢食者」是憂懼的內在擾動（VI）；經長廬子與曉者往復後，子列子以「壞與不壞，吾所不能知也」「壞與不壞，吾何容心哉」作存而不論的安頓（XIII）。",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "huang-di",
+      "para_index": 1,
+      "para_id": "liezi#02-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "黃帝即位十有五年，喜天下戴己，養正命，娛耳目，供鼻口，焦然肌色皯黣，昏然五情爽惑",
+      "note": "黃帝自「焦然肌色皯黣，昏然五情爽惑」悟「朕之過淫矣」，於是「齋心服形，三月不親政事」，夢遊華胥氏之國，醒來「怡然自得」，悟「至道不可以情求矣」，由治身治物之焦然轉為安頓修復。",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "huang-di",
+      "para_index": 6,
+      "para_id": "liezi#02-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "范氏有子曰子華，善養私名，舉國服之；有寵於晉君，不仕而居三卿之右。目所偏視，晉國",
+      "note": "商丘開先以「心一而已。物亡迕者，如斯而已」故入水火無傷，後「昉知子黨之誕我，我內藏猜慮，外矜觀聽，追幸昔日之不焦溺也，怛然內熱，惕然震悸矣」便「水火豈復可近哉」，仲尼以「夫至信之人，可以感物也」收束，是內心之信與不安之辨。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "huang-di",
+      "para_index": 8,
+      "para_id": "liezi#02-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "顏回問乎仲尼曰：「吾嘗濟乎觴深之淵矣，津人操舟若神。吾問焉，曰：『操舟可學邪？』",
+      "note": "顏津問津人操舟若神，仲尼以「能游者可教也，輕水也；善游者之散能也，忘水也」答之，並以「以瓦摳者巧，以鉤摳者憚，以黃金摳者惛」皆「凡重外者撰內」收束，技藝之巧繫於內心之忘與重。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "zhou-mu-wang",
+      "para_index": 3,
+      "para_id": "liezi#03-p03",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "覺有八徵，夢有六候。奚謂八徵？一曰故，二曰為，三曰得，四曰喪，五曰哀，六曰樂，七",
+      "note": "「覺有八徵，夢有六候」對覺夢作分類編排，是形式化整理；「甚飽則夢與，甚饑則夢取」「陰氣壯，則夢涉大水而恐懼；陽氣壯，則夢涉大火而燔焫」把形體之感接到內心之夢，是關於情緒與內在生活的命題；結以「神凝者想夢自消」「古之真人，其覺自忘，其寢不夢」，則是以修心轉化覺夢的自我工夫。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "zhou-mu-wang",
+      "para_index": 9,
+      "para_id": "liezi#03-p09",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "燕人生於燕，長於楚，及老而還本國。過晉國，同行者誑之，指城曰：「此燕國之城。」其",
+      "note": "燕人過晉時被同行者誑指城社廬壠皆為燕國，「指舍曰：「此若先人之廬。」乃涓然而泣」「指壠曰：「此若先人之冢。」其人哭不自禁」，是鄉愁所驅的悲泣；及「及至燕，真見燕國之城社，真見先人之廬冢，悲心更微」，親見之後反而悲減——故事揭示想像之悲甚於實見之悲，是失意之後於實境中重獲安頓。",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "zhong-ni",
+      "para_index": 1,
+      "para_id": "liezi#04-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "仲尼閒居，子貢入侍，而有憂色。子貢不敢問，出告顏回。顏回援琴而歌。孔子聞之，果召",
+      "note": "孔子與顏回反覆辨「樂天知命故不憂」「脩一身，任窮達，知去來之非我，止變亂於心慮」是內在生活的安頓（VI），結以「吾始知《詩》《書》禮樂无救於治亂，而未知所以革之之方：此樂天知命者之所憂」是治亂之方無以革、把無力之感推到修與命的命題（XI）。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "zhong-ni",
+      "para_index": 5,
+      "para_id": "liezi#04-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子列子既師壺丘子林，友伯昏瞀人，乃居南郭。從之處者，日數而不及。雖然，子列子亦微",
+      "note": "南郭子「貌充心虛，耳无聞，目无見，口无言，心无知，形无惕」「形神不相偶」，是內在虛靜（VI）；列子結以「得意者无言，進知者亦无言」「无言與不言，无知與不知，亦言亦知」，是對認知與表達的命題（II）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "zhong-ni",
+      "para_index": 6,
+      "para_id": "liezi#04-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子列子學也，三年之後，心不敢念是非，口不敢言利害，始得老商一眄而已。五年之後，心",
+      "note": "列子自述修學進程「心不敢念是非，口不敢言利害」「從心之所念，更无是非；從口之所言，更无利害」，是內在修養次第（VI）；「夫子始一引吾並席而坐」「心凝形釋骨肉都融」是學與教之逐步印可（VIII）。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "zhong-ni",
+      "para_index": 8,
+      "para_id": "liezi#04-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "龍叔謂文摯曰：「子之術微矣。吾有疾，子能已乎？」文摯曰：「唯命所聽。然先言子所病",
+      "note": "龍叔自陳「爵賞不能勸，刑罰不能威，盛衰利害不能易，哀樂不能移」，是情緒堅定不被外境動搖（VI）；文摯診以「嘻！吾見子之心矣，方寸之地虛矣，幾聖人也！子心六孔流通，一孔不達」，是寫一個人在心／身處境中的狀態（IX）。",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "zhong-ni",
+      "para_index": 10,
+      "para_id": "liezi#04-p10",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "季梁之死，楊朱望其門而歌。隨梧之死，楊朱撫其尸而哭。隸人之生，隸人之死，眾人且歌",
+      "note": "「季梁之死，楊朱望其門而歌。隨梧之死，楊朱撫其尸而哭」與「隸人之生，隸人之死，眾人且歌，眾人且哭」並列，前者寫對死亡的反應（X），後者寫哀樂之生發（VI）。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "zhong-ni",
+      "para_index": 16,
+      "para_id": "liezi#04-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "關尹喜曰：「在己无居，形物其箸，其動若水，其靜若鏡，其應若響。故其道若物者也。物",
+      "note": "關尹喜教言「在己无居，形物其箸，其動若水，其靜若鏡，其應若響」「亦非有心者所能得遠，亦非无心者所能得近。唯默而得之而性成之者得之」，是自知與處己之命題（II）；「知而亡情，能而不為，真知真能也」「發无知，何能情？發不能，何能為」，是情與能之內在命題（VI）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "yang-zhu",
+      "para_index": 2,
+      "para_id": "liezi#07-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "楊朱曰：「百年壽之大齊；得百年者，千无一焉。設有一者，孩抱以逮昏老，幾居其半矣。",
+      "note": "楊朱陳「量十數年之中，逌然而自得，亡介焉之慮者，亦亡一時之中爾。則人之生也奚為哉？奚樂哉？為美厚爾，為聲色爾」，立生之短暫與縱情之理；「太古之人，知生之暫來，知死之暫往，故從心而動，不違自然所好，當身之娛，非所去也，故不為名所觀。從性而游，不逆萬物所好，死後之名，非所取也，故不為刑所及」，以心之從動、從性之游對抗刑賞名法，結「名譽先後，年命多少，非所量也」，是內在之安頓與意義之從哪來（I）兼心之不為名所擾（VI）。",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "yang-zhu",
+      "para_index": 8,
+      "para_id": "liezi#07-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子產相鄭，專國之政三年，善者服其化，惡者畏其禁，鄭國以治。諸侯憚之。而有兄曰公孫",
+      "note": "公孫朝「荒於酒也，不知世道之安危，人理之悔吝，室內之有亡，九族之親踈，存亡之哀樂也。雖水火兵刃交於前，弗知也」與公孫穆「聃於色也，屏親昵，絕交游，逃於後庭，以晝足夜」，寫嗜酒嗜色之心之溺（VI）；朝、穆拒子產曰「凡生之難遇，而死之易及；以難遇之生，俟易及之死，可孰念哉？而欲尊禮義以夸人，矯情性以招名，吾以此為弗若死矣。為欲盡一生之歡，窮當年之樂，唯患腹溢而不得恣口之飲，力憊而不得肆情於色」，以生之難遇、死之易及為嗜情之理（X），結「以若之治外，其法可蹔行於一國，未合於人心；以我之治內，可推之於天下，君臣之道息矣」之治內之辯。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "yang-zhu",
+      "para_index": 17,
+      "para_id": "liezi#07-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "楊朱曰：「豐屋美服，厚味姣色，有此四者，何求於外？有此而求外者，无猒之性。无猒之",
+      "note": "楊朱云「豐屋美服，厚味姣色，有此四者，何求於外？有此而求外者，无猒之性」之有之則足；又「无猒之性，陰陽之蠹也。忠不足以安君，適足以危身；義不足以利物，適足以害生。安上不由於忠，而忠名滅焉；利物不由於義，而義名絕焉」，以无猒之性為蠹害生；引鬻子「去名者无憂」、老子「名者實之賓」；結「今有名則尊榮，亡名則卑辱；尊榮則逸樂，卑辱則憂苦。憂苦，犯性者也；逸樂，順性者也，斯實之所係矣」，以憂苦犯性、逸樂順性之心之安頓（VI），通篇斷名實之辯落於人之所安（I）。",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "chapter": "shuo-fu",
+      "para_index": 35,
+      "para_id": "liezi#08-p35",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "白公勝慮亂，罷朝而立，倒杖策，錣上貫頤，血流至地而弗知也。鄭人聞之曰：「頭之忘，",
+      "note": "白公勝「慮亂，罷朝而立，倒杖策，錣上貫頤，血流至地而弗知也」，鄭人聞之曰「頭之忘，將何不忘哉」，並云「意之所屬箸，其行足躓株埳，頭抵植木，而不自知也」，以心之專亂致身之不知，是內在之擾動（VI）。",
+      "co_domains": []
+    },
+    {
+      "slug": "liezi",
+      "chapter": "shuo-fu",
+      "para_index": 36,
+      "para_id": "liezi#08-p36",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "昔齊人有欲金者，清旦衣冠而之市，適鬻金者之所，因攫其金而去。吏捕得之，問曰：「人",
+      "note": "昔齊人有欲金者，「清旦衣冠而之市，適鬻金者之所，因攫其金而去」，吏捕得之，問曰「人皆在焉，子攫人之金何」，對曰「取金之時，不見人，徒見金」，由利之蔽目致不見人在，是內在之擾動（VI）；「不見人，徒見金」之妄為明善惡之失（VII）。",
+      "co_domains": [
         "VII"
       ]
     },
@@ -11761,6 +12038,584 @@
       ]
     },
     {
+      "slug": "xunzi",
+      "chapter": "不苟篇",
+      "para_index": 9,
+      "para_id": "xunzi#03-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "君子養心莫善於誠，〈無姦詐則心常安也。〉致誠則無它事矣，〈致，極也。極其誠，則外",
+      "note": "「君子養心莫善於誠」以養心為內在修養之要，給 VI；「致誠則無它事矣」、「唯仁之爲守，唯義之爲行」並「夫誠者，君子之所守也」、「誠心守仁則形，形則神，神則能化矣」論誠為品格之根，給 VII；「聖人爲知矣，不誠則不能化萬民」、「君上爲尊矣，不誠則卑」並「夫誠者，君子之所守也，而政事之本也」以聖人化民、君上之尊繫於誠，論修身之誠兼為政事之本，給 V。",
+      "co_domains": [
+        "VII",
+        "V"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "榮辱篇",
+      "para_index": 8,
+      "para_id": "xunzi#04-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡人有所一同：飢而欲食，寒而欲煖，勞而欲息，好利而惡害，是人之所生而有也，是無待",
+      "note": "「飢而欲食，寒而欲煖，勞而欲息，好利而惡害」直陳人之情欲，是無待而然之性，給 VI；「人之生固小人，無師無法則唯利之見耳」論人性本無師法則唯利是圖，須待禮義師法而成善，給 VII。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "富國篇",
+      "para_index": 11,
+      "para_id": "xunzi#10-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故先王聖人為之不然：知夫為人主上者，不美不飾之不足以一民也，不富不厚之不足以管下",
+      "note": "「皆知己之所願欲之舉在是于也，故其賞行；皆知己之所畏恐之舉在是于也，故其罰威」談賞罰如何作用於民之願欲、畏恐，給 V＋VI",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "王霸篇",
+      "para_index": 10,
+      "para_id": "xunzi#11-p10",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "國危則無樂君，國安則無憂民。亂則國危，治則國安。今君人者，急逐樂而緩治國，豈不過",
+      "note": "「夫人之情，目欲綦色，耳欲綦聲，口欲綦味，鼻欲綦臭，心欲綦佚」與「此五綦者，人情之所必不免也」列情欲五綦為人情之必不免，落到「明君者，必將先治其國，然後百樂得其中」規定治先樂後之序，給 V（治國先後之序）和 VI（情欲）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "王霸篇",
+      "para_index": 13,
+      "para_id": "xunzi#11-p13",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "羿、蜂門者，善服射者也；王良、造父者，善服馭者也。聰明君子者，善服人者也。人服而",
+      "note": "「聰明君子者，善服人者也」立善服人之道；「故人之情，口好味，而臭味莫美焉」與「耳好聲，而聲樂莫大焉」與「目好色，而文章致繁，婦女莫眾焉」與「形體好佚，而安重閒靜莫愉焉」與「心好利，而穀祿莫厚焉」列人之情欲五好；末以「楊朱哭衢涂」之哭與「此夫過舉蹞步，而覺跌千里者夫」之過步跌千里喻治國之差，給 V（治道取士之理）、VI（情欲）與 narrative（楊朱哭衢涂之故事）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "天論篇",
+      "para_index": 4,
+      "para_id": "xunzi#17-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天職既立，天功既成，形具而神生，好惡喜怒哀樂臧焉，夫是之謂天情。耳目鼻口形能各有",
+      "note": "「心居中虛，以治五官，夫是之謂天君」以心為天君，是自我與認知之結構；「好惡喜怒哀樂臧焉，夫是之謂天情」「暗其天君，亂其天官，棄其天養，逆其天政，背其天情，以喪天功，夫是之謂大凶」論情緒擾亂則凶，是情緒與內在生活之理，給 II＋VI",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "正論篇",
+      "para_index": 31,
+      "para_id": "xunzi#18-p31",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "曰：若是，則必不得所求焉。凡人之鬥也，必以其惡之為說，非以其辱之為故也。今俳優、",
+      "note": "「凡人之鬥也，必以其惡之為說，非以其辱之為故也」「然則鬥與不鬥邪，亡於辱之與不辱也，乃在於惡之與不惡也」「不仁不知，辱莫大焉」明鬥之原在於惡（VI），評子宋子為不仁（VII），給 VI＋VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "正論篇",
+      "para_index": 40,
+      "para_id": "xunzi#18-p40",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：若是，則說必不行矣。以人之情為欲，此五綦者而不欲多，譬之，是猶以人之情為欲富",
+      "note": "「以人之情為欲多而不欲寡，故賞以富厚而罰以殺損也」「先王以人之所不欲者賞，而以人之欲者罰邪」明人情為欲多（VI），反駁子宋子之欲寡說，是情欲（VI）與治道（V）之理，給 VI＋V",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "禮論篇",
+      "para_index": 1,
+      "para_id": "xunzi#19-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "禮起於何也？曰：人生而有欲，欲而不得，則不能無求。求而無度量分界，則不能不爭；爭",
+      "note": "「人生而有欲，欲而不得，則不能無求。求而無度量分界，則不能不爭；爭則亂，亂則窮」明欲無度則爭亂之機（VI），「先王惡其亂也，故制禮義以分之，以養人之欲，給人之求。使欲必不窮於物，物必不屈於欲」以禮義分之止爭（V）且養欲即善之偽（VII），是禮義起於欲的因果論述，給 VI＋VII＋V",
+      "co_domains": [
+        "VII",
+        "V"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "禮論篇",
+      "para_index": 2,
+      "para_id": "xunzi#19-p02",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "故禮者養也。芻豢稻梁，五味調香，所以養口也；椒蘭芬苾，所以養鼻也；雕琢刻鏤，黼黻",
+      "note": "「故禮者養也」總立禮之功能在養，列芻豢稻梁養口、椒蘭芬苾養鼻、雕琢刻鏤養目、鐘鼓管磬養耳、疏房檖貌養體，是把欲（六根之養）對應到禮之五類用的分類程序，給 VI＋proposition＋formalization",
+      "co_domains": []
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "禮論篇",
+      "para_index": 7,
+      "para_id": "xunzi#19-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡禮，始乎梲，成乎文，終乎悅校。故至備，情文俱盡；其次，情文代勝；其下復情以歸大",
+      "note": "「好惡以節，喜怒以當」明禮節情（VI），「天下從之者治，不從者亂，從之者安，不從者危，從之者存，不從者亡」以從禮與否決治亂安危存亡（V），是禮為天下治本之論，給 V＋VI",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "禮論篇",
+      "para_index": 14,
+      "para_id": "xunzi#19-p14",
+      "modes": [
+        "formalization"
+      ],
+      "excerpt": "故情貌之變，足以別吉凶，明貴賤親疏之節，期止矣。外是，姦也；雖難，君子賤之。故量",
+      "note": "「故情貌之變，足以別吉凶，明貴賤親疏之節」以情貌之變分親疏貴賤（IV），列顏色／聲音／食飲／衣服／居處五端發幾何性質之情的分類，是情如何隨親疏貴賤而發的形式化之表，給 VI＋IV＋formalization",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "樂論篇",
+      "para_index": 1,
+      "para_id": "xunzi#20-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫樂者，樂也，人情之所必不免也，故人不能無樂。樂則必發於聲音，形於動静，而人之道",
+      "note": "「夫樂者，樂也，人情之所必不免也，故人不能無樂」立人情不能無樂（VI），「使其曲直、繁省、廉肉、節奏足以感動人之善心」明樂之感善心，「故樂在宗廟之中，君臣上下同聽之，則莫不和敬；閨門之內，父子兄弟同聽之，則莫不和親」以樂致君臣父子之和敬和親（V），是樂之情用性與治世性之論，給 VI＋V",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "樂論篇",
+      "para_index": 2,
+      "para_id": "xunzi#20-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是故喜而天下和之，怒而曓亂畏之。先王之道，禮樂正其盛者也，而墨子非之。故曰：墨子",
+      "note": "「夫聲樂之入人也深，其化人也速」「樂中平則民和而不流，樂肅莊則民齊而不亂」明樂之感人化人之情（VI），「民和齊則兵勁城固，敵國不敢嬰也」「禮樂廢而邪音起者，危削侮辱之本也」「其感人深，其移風易俗」以樂定民心民俗與治亂（V），給 V＋VI",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "樂論篇",
+      "para_index": 3,
+      "para_id": "xunzi#20-p03",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "夫民有好惡之情而無喜怒之應則亂。先王惡其亂也，故脩其行，正其樂，而天下順焉。故齊",
+      "note": "「夫民有好惡之情而無喜怒之應則亂」立民有情而需應（VI），「齊衰之服，哭泣之聲，使人之心悲；帶甲嬰冑，歌於行伍，使人之心傷；姚冶之容，鄭、衛之音，使人之心淫」觀察得進幾者聲服之動心，「故其清明象天，其廣大象地」「移風易俗，天下皆寧」以樂成天下之寧（V），給 VI＋V＋proposition＋observation",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "樂論篇",
+      "para_index": 4,
+      "para_id": "xunzi#20-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故曰：樂者，樂也。君子樂得其道，小人樂得其欲。以道制欲，則樂而不亂；以欲忘道，則",
+      "note": "「君子樂得其道，小人樂得其欲。以道制欲，則樂而不亂；以欲忘道，則惑而不樂」以道欲之制分君子小人品格之樂（VII），「樂合同，禮別異。禮樂之統，管乎人心矣」明樂之合同管乎人心（VI），「窮本極變，樂之情也；著誠去僞，禮之經也」以樂之情與禮之經立二端（VII），給 VII＋VI",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "解蔽篇",
+      "para_index": 1,
+      "para_id": "xunzi#21-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡人之患，蔽於一曲，而闇於大理。治則復經，兩疑則惑矣。天下無二道，聖人無兩心。今",
+      "note": "「蔽於一曲，而闇於大理」談心被片面蒙蔽而失大理，「心不使焉，則白黑在前而目不見，雷鼓在側而耳不聞」明心不能受外力驅使，給 VI（認知自欺）加 II（心之自主）",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "解蔽篇",
+      "para_index": 2,
+      "para_id": "xunzi#21-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故為蔽：欲為蔽，惡為蔽，始為蔽，終為蔽，遠為蔽，近為蔽，博為蔽，淺為蔽，古為蔽，",
+      "note": "列十蔽「欲為蔽，惡為蔽，始為蔽，終為蔽，遠為蔽，近為蔽，博為蔽，淺為蔽，古為蔽，今為蔽」，收於「凡萬物異則莫不相為蔽，此心術之公患也」，是對心之公患的命題，給 VI",
+      "co_domains": []
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "解蔽篇",
+      "para_index": 3,
+      "para_id": "xunzi#21-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "昔人君之蔽者，夏桀殷紂是也。桀蔽於末喜斯觀，而不知關龍逢，以惑其心，而亂其行。紂",
+      "note": "「桀蔽於末喜斯觀，而不知關龍逢，以惑其心，而亂其行」、「紂蔽於妲己、飛廉，而不知微子啟，以惑其心，而亂其行」以夏桀殷紂之蔽為例證心蔽致國亂，給 VI（心之惑亂）加 V（君蔽致國喪）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "解蔽篇",
+      "para_index": 4,
+      "para_id": "xunzi#21-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "昔人臣之蔽者，唐鞅奚齊是也。唐鞅蔽於欲權而逐載子，奚齊蔽於欲國而罪申生；唐鞅戮於",
+      "note": "「唐鞅蔽於欲權而逐載子，奚齊蔽於欲國而罪申生」言臣蔽之禍，「鮑叔、甯戚、隰朋仁知且不蔽，故能持管仲」言不蔽之福，給 VI（心之蔽與不蔽）加 V（用臣治亂）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "解蔽篇",
+      "para_index": 5,
+      "para_id": "xunzi#21-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "昔賓孟之蔽者，亂家是也。墨子蔽於用而不知文。宋子蔽於欲而不知得。慎子蔽於法而不知",
+      "note": "「墨子蔽於用而不知文」、「莊子蔽於天而不知人」品諸子之蔽，「故以為足而飾之，內以自亂，外以惑人，上以蔽下，下以蔽上，此蔽塞之禍也」收於蔽之社會禍害，給 VI（認知之曲）加 V（亂家亂世）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "解蔽篇",
+      "para_index": 6,
+      "para_id": "xunzi#21-p06",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "聖人知心術之患，見蔽塞之禍，故無欲、無惡、無始、無終、無近、無遠、無博、無淺、無",
+      "note": "「聖人知心術之患，見蔽塞之禍，故無欲、無惡、無始、無終、無近、無遠、無博、無淺、無古、無今，兼陳萬物而中縣衡焉」規定聖人破蔽之方，給 VI 加 prescription",
+      "co_domains": []
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "解蔽篇",
+      "para_index": 7,
+      "para_id": "xunzi#21-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "何謂衡？曰：道。故心不可以不知道；心不知道，則不可道，而可非道。人孰欲得恣，而守",
+      "note": "「心不可以不知道」、「心知道，然後可道；可道然後守道以禁非道」以心知與否為能否合於道人的分界，給 II（認知自我）加 VI（心之明蔽）",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "解蔽篇",
+      "para_index": 8,
+      "para_id": "xunzi#21-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人何以知道？曰：心。心何以知？曰：虛壹而靜。心未嘗不臧也，然而有所謂虛；心未嘗不",
+      "note": "「心何以知？曰：虛壹而靜」、「不以所已臧害所將受謂之虛」、「不以夫一害此一謂之壹」、「不以夢劇亂知謂之靜」定義虛壹而靜之三目，「虛壹而靜，謂之大清明」明此為心之修為，給 VI 加 II",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "解蔽篇",
+      "para_index": 9,
+      "para_id": "xunzi#21-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "心者，形之君也，而神明之主也，出令而無所受令。自禁也，自使也，自奪也，自取也，自",
+      "note": "「心者，形之君也，而神明之主也，出令而無所受令」、「心不可劫而使易意」立心之自主，「心枝則無知，傾則不精，貳則疑惑」言心偏則惑，給 II（自我主體）加 VI（心之精惑）",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "解蔽篇",
+      "para_index": 10,
+      "para_id": "xunzi#21-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "農精於田，而不可以為田師；賈精於市，而不可以為市師；工精於器，而不可以為器師。有",
+      "note": "「人心譬如槃水，正錯而勿動，則湛濁在下，而清明在上，則足以見鬒眉而察理矣」以槃水喻心之靜定，「壹於道則正，以贊稽物則察」、「自古及今，未嘗有兩而能精者也」明專一為技藝成就之本，給 VI（心之定亂）加 VIII（專精成就）",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "解蔽篇",
+      "para_index": 11,
+      "para_id": "xunzi#21-p11",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "空石之中有人焉，其名曰觙。其為人也，善射以好思。耳目之欲接，則敗其思；蚊虻之聲聞",
+      "note": "「闢耳目之欲，而遠蚊虻之聲，閑居靜思則通」以觙之射為治心之喻，「故仁者之行道也，無為也；聖人之行道也，無彊也」、「仁者之思也恭，聖者之思也樂」分仁聖之思，「此治心之道也」收束，給 VI（治心）加 II（思之差等）",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "解蔽篇",
+      "para_index": 12,
+      "para_id": "xunzi#21-p12",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "凡觀物有疑，中心不定，則外物不清。吾慮不清，未可定然否也。冥冥而行者，見寢石以為",
+      "note": "「凡觀物有疑，中心不定，則外物不清」、「冥冥蔽其明也」立中心不定則外物失真之理，下以醉者、厭目者、望山望木、瞽者諸例證之，給 VI（心定則物正）",
+      "co_domains": []
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "解蔽篇",
+      "para_index": 13,
+      "para_id": "xunzi#21-p13",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "夏首之南有人焉；曰涓蜀梁。其為人也，愚而善畏。明月而宵行，俯見其影，以為伏鬼也；",
+      "note": "「愚而善畏」、「背而走，比至其家，失氣而死」以涓蜀梁為心畏致死之例，給 X（死亡）；「凡人之有鬼也，必以其感忽之間，疑玄之時定之」明鬼出於心之疑玄而非實有，是破除側，給 XI 不給 XII；核心仍是心之惑亂，給 VI",
+      "co_domains": [
+        "X",
+        "XI"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "正名篇",
+      "para_index": 5,
+      "para_id": "xunzi#22-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "然則何緣而以同異？曰：緣天官。凡同類同情者，其天官之意物也同。故比方之疑似而通，",
+      "note": "「心有徵知」、「五官簿之而不知，心徵知而無說」分心徵知與五官簿類，明認知之分工，給 II；「說、故、喜、怒、哀、樂、愛、惡、欲以心異」列心之七情與欲之別，給 VI",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "正名篇",
+      "para_index": 14,
+      "para_id": "xunzi#22-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡語治而待去欲者，無以道欲而困於有欲者也。凡語治而待寡欲者，無以節欲而困於多欲者",
+      "note": "「心之所可中理，則欲雖多，奚傷於治」立心之可中理為治亂關鍵，給 II；「治亂在於心之所可，亡於情之所欲」明治亂不在情欲，給 V（治亂）；「欲不待可得，而求者從所可」明欲與求之分，給 VI。拿掉任一都少講了心、情欲、治亂三面",
+      "co_domains": [
+        "II",
+        "V"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "正名篇",
+      "para_index": 15,
+      "para_id": "xunzi#22-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "性者、天之就也；情者、性之質也；欲者、情之應也。以所欲為可得而求之，情之所必不免",
+      "note": "「性者、天之就也；情者、性之質也；欲者、情之應也」以三層遞界定性、情、欲，給 VII（人性之質地）；「欲不可去，性之具也。雖為天子，欲不可盡」、「欲雖不可去，求可節也」談欲之不可盡與可節，給 VI",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "正名篇",
+      "para_index": 18,
+      "para_id": "xunzi#22-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "有嘗試深觀其隱而難者：志輕理而不重物者，無之有也；外重物而不內憂者，無之有也；行",
+      "note": "「心憂恐，則口銜芻豢而不知其味，耳聽鐘鼓而不知其聲」明心憂恐則外物失味，給 VI；「欲養其欲而縱其情，欲養其性而危其形，欲養其樂而攻其心，欲養其名而亂其行」列養欲／養性／養樂／養名之自敗；「夫是之謂以己為物役矣」以己為物役之自我淪喪，給 II",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "正名篇",
+      "para_index": 19,
+      "para_id": "xunzi#22-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "心平愉，則色不及傭而可以養目，聲不及傭而可以養耳，蔬食菜羹而可以養口，麤布之衣，",
+      "note": "「心平愉，則色不及傭而可以養目，聲不及傭而可以養耳」立心平愉為養感官之本，給 VI；「故雖無萬物之美而可以養樂，無埶列之位而可以養名」、「夫是之謂重己役物」以無萬物之美仍可養樂，教人安頓於己，給 XIII",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "性惡篇",
+      "para_index": 2,
+      "para_id": "xunzi#23-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人之性惡，其善者僞也。〈僞，爲也，矯也，矯其本性也。凡非天性而人作爲之者，皆謂之",
+      "note": "「人之性惡，其善者僞也」是性惡論核心命題，給 VII；「生而有好利焉」、「飢而欲飽，寒而欲煖，勞而欲休，此人之情性也」寫人天生情欲之性，加 VI。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "性惡篇",
+      "para_index": 3,
+      "para_id": "xunzi#23-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "問者曰：「人之性惡，則禮義惡生？」〈禮義從何而生？惡音烏。〉應之曰：凡禮義者，是",
+      "note": "「凡禮義者，是生於聖人之僞」立性惡論之僞起禮義，給 VII；「目好色，耳好聽，口好味，心好利」、「薄願厚，惡願美，狹願廣，貧願富，賤願貴」寫人情欲好利之本性，加 VI。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "性惡篇",
+      "para_index": 5,
+      "para_id": "xunzi#23-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "問者曰：「禮義積僞者，是人之性，故聖人能生之也。」〈言禮義雖是積僞所爲，亦皆人之",
+      "note": "「堯、舜之與桀、跖，其性一也」明堯桀之性同為惡，給 VII；「順其情，安恣睢，以出乎貪利争奪」寫縱情貪利之惡，加 VI。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "成相篇",
+      "para_index": 3,
+      "para_id": "xunzi#25-p03",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "凡成相，辨法方，至治之極復後王。〈後王，當時之王。言欲爲至治，在歸復後王。謂隨時",
+      "note": "「治之經，禮與刑，君子以修百姓寧」「明德慎罰，國家既治四海平」立治之經在禮刑明德慎罰以寧百姓，承重為治道（V）；「水至平，端不傾，心術如此象聖人」「君子執之心如結」「精神相反，一而不貳爲聖人」論君子之心當平如水、不貳而爲聖人，「思乃精，志之榮，好而壹之神以成」以專一之神爲聖人之階，皆心的虛靜與不二之內在生活（VI）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "大略篇",
+      "para_index": 18,
+      "para_id": "xunzi#27-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "禮以順人心為本，故亡於禮經而順於人心者，皆禮也。",
+      "note": "「禮以順人心為本，故亡於禮經而順於人心者，皆禮也」把禮的判準放在「人心」的內在感受，涉情緒與內在生活（VI）與社會規範（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "大略篇",
+      "para_index": 42,
+      "para_id": "xunzi#27-p42",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "文貌情用，相為內外表裡。禮之中焉，能思索謂之能慮。",
+      "note": "「文貌情用，相為內外表裡。禮之中焉，能思索謂之能慮」論文（外）與情（內）的內外表裏關係，並把「能慮」歸於禮，涉自我認知（II）與內在生活（VI）",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "xunzi",
+      "chapter": "哀公篇",
+      "para_index": 4,
+      "para_id": "xunzi#31-p04",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "魯哀公問於孔子曰：「寡人生於深宮之中，長於婦人之手，寡人未嘗知哀也，未嘗知憂也，",
+      "note": "「君以此思哀，則哀將焉而不至矣」「水則載舟，水則覆舟」——教哀公由情境自致哀懼等情緒（VI）；水舟之喻把君民關係推回民意（V）。對話敘事加規範。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
       "slug": "yanshi-jiaxun",
       "chapter": "風操第六",
       "para_index": 2,
@@ -12978,6 +13833,893 @@
       "co_domains": [
         "VII",
         "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "adjustment-of-controversies",
+      "para_index": 1,
+      "para_id": "zhuangzi#02-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "南郭子綦隱几而坐，仰天而噓，嗒焉似喪其耦。顏成子游立侍乎前，曰：「何居乎？形固可",
+      "note": "南郭子綦隱几而坐，顏成子游問「形固可使如槁木，而心固可使如死灰乎」，子綦答「今者吾喪我」是自我與認同的轉化(II)；三籟之說從人籟、地籟推到天籟「夫吹萬不同，而使其自已也，咸其自取，怒者其誰邪」，心的虛靜與從容(VI)為齊物之先。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "adjustment-of-controversies",
+      "para_index": 2,
+      "para_id": "zhuangzi#02-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "大知閑閑，小知閒閒；大言炎炎，小言詹詹。其寐也魂交，其覺也形開，與接為構，日以心",
+      "note": "此段純以「小恐惴惴，大恐縵縵」與「喜怒哀樂，慮嘆變慹，姚佚啟態」陳述人心日夜擾動的實況，以及「其溺之所為之，不可使復之也」「近死之心，莫使復陽也」描寫沉溺於是非的情緒內在生活，屬 VI。",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "nourishing-the-lord-of-life",
+      "para_index": 2,
+      "para_id": "zhuangzi#03-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "庖丁為文惠君解牛，手之所觸，肩之所倚，足之所履，膝之所踦，砉然嚮然，奏刀騞然，莫",
+      "note": "庖丁為文惠君解牛寓言，「臣之所好者道也，進乎技矣」「臣以神遇，而不以目視，官知止而神欲行」由技藝進於道的內在境界(VI)，錨點要求必含 VIII；末段文惠君「吾聞庖丁之言，得養生焉」，故事被拿來說養生之內在安頓(VI)。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "man-in-the-world-associated-with",
+      "para_index": 1,
+      "para_id": "zhuangzi#04-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "顏回見仲尼請行。曰：「奚之？」曰：「將之衛。」曰：「奚為焉？」曰：「回聞衛君，其",
+      "note": "顏回欲赴衛救「輕用其國，而不見其過」之君，仲尼論「雜則多，多則擾，擾則憂，憂而不救」是治理與心之擾動（V、VI），又批「德蕩乎名，知出乎爭」「名也者，相軋也；知也者，爭之器也」批判以仁義繩墨施於暴人，是德性與品格的批判（VII）。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "man-in-the-world-associated-with",
+      "para_index": 2,
+      "para_id": "zhuangzi#04-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "顏回曰：「吾无以進矣，敢問其方。」仲尼曰：「齋，吾將語若！有而為之，其易邪？易之",
+      "note": "仲尼授顏回心齋之法：「若一志，无聽之以耳而聽之以心，无聽之以心而聽之以氣」「虛者，心齋也」「瞻彼闋者，虛室生白，吉祥止止」，純論心的虛靜，屬 VI。",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "seal-of-virtue-complete",
+      "para_index": 6,
+      "para_id": "zhuangzi#05-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "惠子謂莊子曰：「人故無情乎？」莊子曰：「然。」惠子曰：「人而無情，何以謂之人？」",
+      "note": "惠子問無情，莊子答「吾所謂無情者，言人之不以好惡內傷其身，常因自然而不益生也」，是去好惡擾心以安其內在（VI），並辨自我之「天與之形」與人之實質（II）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "great-and-most-honoured-master",
+      "para_index": 2,
+      "para_id": "zhuangzi#06-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "何謂真人？古之真人，不逆寡，不雄成，不謨士。若然者，過而弗悔，當而不自得也。若然",
+      "note": "「不逆寡，不雄成，不謨士」「過而弗悔，當而不自得也」論真人臨事不動心之內在（VI），「登高不慄，入水不濡，入火不熱」述真人之能，「是知之能登假於道也若此」歸之以道之境界（I）。",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "great-and-most-honoured-master",
+      "para_index": 3,
+      "para_id": "zhuangzi#06-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古之真人，其寢不夢，其覺無憂，其食不甘，其息深深。真人之息以踵，眾人之息以喉。屈",
+      "note": "「其寢不夢，其覺無憂」「真人之息以踵，眾人之息以喉」專論心之虛靜與呼吸（VI），「其耆欲深者，其天機淺」以天機之淺深對欲之深淺，承上真人之心內在（VI）。",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "great-and-most-honoured-master",
+      "para_index": 4,
+      "para_id": "zhuangzi#06-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古之真人，不知說生，不知惡死；其出不訢，其入不距；翛然而往，翛然而來而已矣。不忘",
+      "note": "「不知說生，不知惡死」「其出不訢，其入不距」「不忘其所始，不求其所終」論真人對死生之超脫（X），「其心志，其容寂」「喜怒通四時，與物有宜」寫心志容寂之內在（VI）。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "great-and-most-honoured-master",
+      "para_index": 8,
+      "para_id": "zhuangzi#06-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "南伯子葵問乎女偊曰：「子之年長矣，而色若孺子，何也？」曰：「吾聞道矣。」南伯子葵",
+      "note": "南伯子葵問道，女偊答「參日而後能外天下；已外天下矣，吾又守之，七日而後能外物；已外物矣，吾又守之，九日而後能外生；已外生矣，而後能朝徹」修道階梯以虛其心（VI），「其名為攖寧。攖寧也者，攖而後成者也」言攖而後成之安頓（XIII）。",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "great-and-most-honoured-master",
+      "para_index": 13,
+      "para_id": "zhuangzi#06-p13",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "顏回曰：「回益矣。」仲尼曰：「何謂也？」曰：「回忘仁義矣。」曰：「可矣，猶未也。",
+      "note": "顏回述「墮肢體，黜聰明，離形去知，同於大通，此謂坐忘」論去形去知之心齋坐忘（VI），仲尼曰「同則無好也，化則無常也」應之以無心無常之境（VI）。",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "normal-course-for-rulers-and-kings",
+      "para_index": 6,
+      "para_id": "zhuangzi#07-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "無為名尸，無為謀府，無為事任，無為知主。體盡無窮，而遊無朕，盡其所受於天，而無見",
+      "note": "「無為名尸，無為謀府，無為事任，無為知主」總論去心之執（VI），「至人之用心若鏡，不將不迎，應而不藏，故能勝物而不傷」鏡喻心之虛靜不傷（VI）。",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "letting-be-and-exercising-forbearance",
+      "para_index": 3,
+      "para_id": "zhuangzi#11-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "黃帝立為天子十九年，令行天下，聞廣成子在於空同之上，故往見之，曰：「我聞吾子達於",
+      "note": "黃帝問「治身奈何而可以長久」，廣成子答「至道之精，窈窈冥冥；至道之極，昏昏默默。無視無聽，抱神以靜，形將自正。必靜必清，無勞女形，無搖女精，乃可以長生」以治身長生為主題（IX），「慎女內，閉女外，多知為敗」言內守外閉以虛其心（VI），「我守其一，以處其和，故我修身千二百歲矣，吾形未嘗衰」明點修身千二百歲之身體處境（IX）。",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "letting-be-and-exercising-forbearance",
+      "para_index": 4,
+      "para_id": "zhuangzi#11-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "雲將東遊，過扶搖之枝，而適遭鴻蒙。鴻蒙方將拊髀雀躍而遊。雲將見之，倘然止，贄然立",
+      "note": "鴻蒙教雲將「意！心養。汝徒處無為，而物自化」明點心養之方（VI），「墮爾形體，吐爾聰明；倫與物忘，大同乎涬溟；解心釋神，莫然無魂」教墮形吐聰解心釋神之虛靜（VI），「亂天之經，逆物之情，玄天弗成；……意！治人之過也」批治者之過（V）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "heaven-and-earth",
+      "para_index": 11,
+      "para_id": "zhuangzi#12-p11",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子貢南遊於楚，反於晉，過漢陰，見一丈人方將為圃畦，鑿隧而入井，抱甕而出灌，搰搰然",
+      "note": "「有械於此，一日浸百畦，用力甚寡而見功多，夫子不欲乎」論機械之功（VIII），「有機械者必有機事，有機事者必有機心」與「機心存於胸中，則純白不備；純白不備，則神生不定」以機心亂純白、神不定，連到心之擾動（VI）。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "tian-dao",
+      "para_index": 1,
+      "para_id": "zhuangzi#13-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天道運而無所積，故萬物成；帝道運而無所積，故天下歸；聖道運而無所積，故海內服。明",
+      "note": "「聖人之心靜乎，天地之鑑也，萬物之鏡也」「夫虛靜恬淡，寂漠無為者，天地之平而道德之至」以虛靜恬淡為聖人之心的境界（VI），「明此以南鄉，堯之為君也；明此以北面，舜之為臣也。以此處上，帝王天子之德也」連到治者之德（V），「無為也，則任事者責矣。無為則俞俞，俞俞者憂患不能處」以無為為虛其心之方（VI）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "revolution-of-heaven",
+      "para_index": 3,
+      "para_id": "zhuangzi#14-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "北門成問於黃帝曰：帝張咸池之樂於洞庭之野，吾始聞之懼，復聞之怠，卒聞之而惑，蕩蕩",
+      "note": "北門成自述聞黃帝咸池之樂「吾始聞之懼，復聞之怠，卒聞之而惑，蕩蕩默默，乃不自得」，以樂引起的懼、怠、惑三種內在情緒狀態(VI)為全篇寓言之伏筆。",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "revolution-of-heaven",
+      "para_index": 4,
+      "para_id": "zhuangzi#14-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "帝曰：「女殆其然哉！吾奏之以人，徵之以天，行之以禮義，建之以太清。夫至樂者，先應",
+      "note": "黃帝述作樂之法「吾奏之以人，徵之以天，行之以禮義，建之以太清。夫至樂者，先應之以人事，順之以天理，行之以五德，應之以自然」論樂之結構與製作(VIII)，末句「女故懼也」點出北門成所以懼之故(VI)。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "revolution-of-heaven",
+      "para_index": 5,
+      "para_id": "zhuangzi#14-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "吾又奏之以陰陽之和，燭之以日月之明；其聲能短能長，能柔能剛；變化齊一，不主故常；",
+      "note": "黃帝再述「吾又奏之以陰陽之和，燭之以日月之明；其聲能短能長，能柔能剛」論樂聲之變化(VIII)，末段「形充空虛，乃至委蛇。汝委蛇，故怠」點出北門成之怠乃形充空虛後之內在情態(VI)。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "revolution-of-heaven",
+      "para_index": 6,
+      "para_id": "zhuangzi#14-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "吾又奏之以無怠之聲，調之以自然之命，故若混逐叢生，林樂而無形；布揮而不曳，幽昏而",
+      "note": "黃帝第三奏「無怠之聲，調之以自然之命」「聖也者，達於情而遂於命也。天機不張而五官皆備，此之謂天樂，無言而心說」，立天樂為存在境界(I)，「無言而心說」論聖人不言而內心自悅(VI)；「汝欲聽之而無接焉，而故惑也」承前之惑。",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "revolution-of-heaven",
+      "para_index": 7,
+      "para_id": "zhuangzi#14-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "樂也者，始於懼，懼故祟；吾又次之以怠，怠故遁；卒之於惑，惑故愚；愚故道，道可載而",
+      "note": "總結樂之層次「樂也者，始於懼，懼故祟；吾又次之以怠，怠故遁；卒之於惑，惑故愚；愚故道，道可載而與之俱也」，由情緒(VI)之懼、怠、惑層層剝落至愚而合道，為聞樂者之安頓(XIII)。",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "revolution-of-heaven",
+      "para_index": 14,
+      "para_id": "zhuangzi#14-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "以富為是者，不能讓祿；以顯為是者，不能讓名；親權者，不能與人柄。操之則慄，舍之則",
+      "note": "「以富為是者，不能讓祿；以顯為是者，不能讓名；親權者，不能與人柄。操之則慄，舍之則悲」論執於富顯權柄者之困於權力(V)及其慄悲之情緒(VI)；「是天之戮民也」「怨、恩、取、與、諫、教、生、殺，八者，正之器也」明為政者之用器。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "ingrained-ideas",
+      "para_index": 3,
+      "para_id": "zhuangzi#15-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故曰：夫恬惔寂寞，虛無無為，此天地之平而道德之質也。",
+      "note": "「夫恬惔寂寞，虛無無為，此天地之平而道德之質也」，以恬惔寂寞、虛無無為為心之內在平靜狀態(VI)。",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "ingrained-ideas",
+      "para_index": 4,
+      "para_id": "zhuangzi#15-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故曰：聖人休，休焉則平易矣，平易則恬惔矣。平易恬惔，則憂患不能入，邪氣不能襲，故",
+      "note": "「聖人休，休焉則平易矣，平易則恬惔矣。平易恬惔，則憂患不能入，邪氣不能襲，故其德全而神不虧」，以平易恬惔之工夫使憂患不入、邪氣不襲，落於心的內在生活(VI)。",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "ingrained-ideas",
+      "para_index": 5,
+      "para_id": "zhuangzi#15-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故曰：聖人之生也天行，其死也物化；靜而與陰同德，動而與陽同波；不為福先，不為禍始",
+      "note": "「聖人之生也天行，其死也物化」立聖人與天同運之物化境界(I)；「其寢不夢，其覺無憂」「其神純粹，其魂不罷」「虛無恬惔，乃合天德」論其內在之虛靜純粹(VI)；「無天災，無物累，無人非，無鬼責」為破除側之命與人事(XI 不得 XII)。",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "ingrained-ideas",
+      "para_index": 6,
+      "para_id": "zhuangzi#15-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故曰：悲樂者，德之邪；喜怒者，道之過；好惡者，德之失。故心不憂樂，德之至也；一而",
+      "note": "「悲樂者，德之邪；喜怒者，道之過；好惡者，德之失」「心不憂樂，德之至也；一而不變，靜之至也；無所於忤，虛之至也；不與物交，惔之至也；無所於逆，粹之至也」以心不憂樂、不與物交為情緒之淨化(VI)。",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "ingrained-ideas",
+      "para_index": 7,
+      "para_id": "zhuangzi#15-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故曰：形勞而不休則弊，精用而不已則勞，勞則竭。水之性，不雜則清，莫動則平，鬱閉而",
+      "note": "「形勞而不休則弊，精用而不已則勞，勞則竭」論形體過勞之弊(IX)；「水之性，不雜則清，莫動則平，鬱閉而不流，亦不能清，天德之象也」以水性為喻，論心不雜不動方能清平(VI)。",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "ingrained-ideas",
+      "para_index": 8,
+      "para_id": "zhuangzi#15-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故曰：純粹而不雜，靜一而不變，惔而無為，動而以天行，此養神之道也。",
+      "note": "「純粹而不雜，靜一而不變，惔而無為，動而以天行，此養神之道也」，以純粹靜一、惔而無為、動以天行為養神工夫，落於內在精神生活(VI)。",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "ingrained-ideas",
+      "para_index": 9,
+      "para_id": "zhuangzi#15-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫有干、越之劍者，柙而藏之，不敢用也，寶之至也。精神四達並流，無所不極，上際於天",
+      "note": "「精神四達並流，無所不極，上際於天，下蟠於地，化育萬物，不可為象，其名為同帝」立精神之達化育萬物為存在境界(I)，不因「同帝」給 XII；「純素之道，惟神是守，守而勿失，與神為一，一之精通，合於天倫」以守神為內在工夫(VI)；「能體純素，謂之真人」立真人品格。",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "correcting-the-nature",
+      "para_index": 2,
+      "para_id": "zhuangzi#16-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古之治道者，以恬養知；知生而無以知為也，謂之以知養恬。知與恬交相養，而和理出其性",
+      "note": "「古之治道者，以恬養知；知生而無以知為也，謂之以知養恬。知與恬交相養，而和理出其性」以恬養知、以知養恬為內在工夫(VI)；「夫德，和也；道，理也。德無不容，仁也；道無不理，義也；義明而物親，忠也；中純實而反乎情，樂也；信行容體而順乎文，禮也」分下德仁義忠樂禮之定義(VII)；「禮樂遍行，則天下亂矣」明禮樂之弊。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "full-understanding-of-life",
+      "para_index": 4,
+      "para_id": "zhuangzi#19-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "仲尼適楚，出於林中，見痀僂者承蜩，猶掇之也。仲尼曰：「子巧乎？有道邪？」曰：「我",
+      "note": "痀僂承蜩技藝寓言，「五六月累丸，二而不墜」「吾處身也若厥株拘，吾執臂也若槁木之枝」，孔子讚「用志不分，乃凝於神」，寫技藝中專注致神的修養",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "full-understanding-of-life",
+      "para_index": 5,
+      "para_id": "zhuangzi#19-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "顏淵問仲尼曰：「吾嘗濟乎觴深之淵，津人操舟若神。吾問焉，曰：『操舟可學邪？』曰：",
+      "note": "津人操舟寓言，「善游者數能，忘水也」「以瓦注者巧，以鉤注者憚，以黃金注者殙。其巧一也，而有所矜，則重外也。凡外重者內拙」，由技藝論心之忘與重內",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "full-understanding-of-life",
+      "para_index": 9,
+      "para_id": "zhuangzi#19-p09",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "桓公田於澤，管仲御，見鬼焉。公撫管仲之手曰：「仲父何見？」對曰：「臣無所見。」公",
+      "note": "桓公見鬼「誒詒為病」，皇子告敖以「忿滀之氣」「上而不下，則使人善怒；下而不上，則使人善忘；不上不下，中身當心，則為病」釋之，末「公則自傷，鬼惡能傷公」「正衣冠與之坐，不終日而不知病之去也」，由身體之氣轉入心之自處",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "full-understanding-of-life",
+      "para_index": 10,
+      "para_id": "zhuangzi#19-p10",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "紀渻子為王養鬥雞。十日而問：「雞已乎？」曰：「未也。方虛憍而恃氣。」十日又問。曰",
+      "note": "紀渻子養鬥雞，十日一問，由「方虛憍而恃氣」「猶應嚮景」「猶疾視而盛氣」，至「望之似木雞矣，其德全矣，異雞無敢應者」，寫技藝中神氣內斂的訓練",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "full-understanding-of-life",
+      "para_index": 12,
+      "para_id": "zhuangzi#19-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "梓慶削木為鐻，鐻成，見者驚猶鬼神。魯侯見而問焉，曰：「子何術以為焉？」對曰：「臣",
+      "note": "梓慶削鐻技藝寓言，「臣將為鐻，未嘗敢以耗氣也，必齊以靜心。齊三日，而不敢懷慶賞爵祿；齊五日，不敢懷非譽巧拙；齊七日，輒然忘吾有四枝形體也」「以天合天」，寫技藝中齋心以合天的修為",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "full-understanding-of-life",
+      "para_index": 14,
+      "para_id": "zhuangzi#19-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "工倕旋而蓋規矩，指與物化，而不以心稽，故其靈臺一而不桎。忘足，履之適也；忘要，帶",
+      "note": "工倕「旋而蓋規矩，指與物化，而不以心稽，故其靈臺一而不桎」，繼言「忘足，履之適也；忘要，帶之適也；知忘是非，心之適也」「忘適之適也」，由技藝之化論心之忘",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "tian-zi-fang",
+      "para_index": 6,
+      "para_id": "zhuangzi#21-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "仲尼曰：「惡！可不察與！夫哀莫大於心死，而人死亦次之。日出東方而入於西極，萬物莫",
+      "note": "仲尼歎「夫哀莫大於心死，而人死亦次之」「吾一受其成形，而不化以待盡」「吾終身與汝交一臂而失之」，終以「雖忘乎故吾，吾有不忘者存」自解，觸及心死之哀與終身之失",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "tian-zi-fang",
+      "para_index": 7,
+      "para_id": "zhuangzi#21-p07",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子見老聃，老聃新沐，方將被髮而乾，慹然似非人。孔子便而待之，少焉見曰：「丘也眩",
+      "note": "孔子見老聃「被髮而乾，慹然似非人」「形體掘若槁木，似遺物離人而立於獨也」，老聃答「吾遊心於物之初」，寫至人凝神之貌與所遊之境",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "tian-zi-fang",
+      "para_index": 9,
+      "para_id": "zhuangzi#21-p09",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子曰：「請問遊是。」老聃曰：「夫得是，至美至樂也。得至美而遊乎至樂，謂之至人。",
+      "note": "老聃答「遊是」之方「草食之獸不疾易藪」「喜怒哀樂不入於胸次」「死生終始將為晝夜而莫之能滑」「棄隸者若棄泥塗」，以心之不動說自處之道",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "tian-zi-fang",
+      "para_index": 10,
+      "para_id": "zhuangzi#21-p10",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子曰：「夫子德配天地，而猶假至言以修心，古之君子，孰能脫焉？」老聃曰：「不然。",
+      "note": "孔子問修心之故「夫子德配天地，而猶假至言以修心」，老聃以水「無為而才自然」與至人「不修而物不能離」對之，論至德不修之德",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "tian-zi-fang",
+      "para_index": 19,
+      "para_id": "zhuangzi#21-p19",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "列御寇為伯昏無人射，引之盈貫，措杯水其肘上，發之，適矢復沓，方矢復寓。當是時，猶",
+      "note": "列御寇為伯昏無人射「引之盈貫，措杯水其肘上」「猶象人也」，伯昏曰「是射之射，非不射之射也」，登高臨淵試之，御寇「伏地，汗流至踵」，結以「至人者，上闚青天，下潛黃泉，揮斥八極，神氣不變」，由射技論心神之凝",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "tian-zi-fang",
+      "para_index": 20,
+      "para_id": "zhuangzi#21-p20",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "肩吾問於孫叔敖曰：「子三為令尹而不榮華，三去之而無憂色。吾始也疑子，今視子之鼻間",
+      "note": "孫叔敖三為令尹不榮華「吾以為得失之非我也，而無憂色而已矣」「不知其在彼乎，其在我乎？其在彼邪，亡乎我；在我邪，亡乎彼」，以得失不涉於我自處",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "knowledge-rambling-in-the-north",
+      "para_index": 7,
+      "para_id": "zhuangzi#22-p07",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齧缺問道乎被衣，被衣曰：「若正汝形，一汝視，天和將至；攝汝知，一汝度，神將來舍。",
+      "note": "齧缺問道，被衣曰「若正汝形，一汝視，天和將至；攝汝知，一汝度，神將來舍」，齧缺睡寐，被衣行歌「形若槁骸，心若死灰，真其實知，不以故自持」，由修道之方寫心形之攝",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "knowledge-rambling-in-the-north",
+      "para_index": 10,
+      "para_id": "zhuangzi#22-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "老聃曰：「汝齊戒，疏𤅢而心，澡雪而精神，掊擊而知！夫道，窅然難言哉！將為汝言其崖",
+      "note": "老聃言「汝齊戒，疏𤅢而心，澡雪而精神，掊擊而知！夫道，窅然難言哉」，論求道之齋心與道之難言",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "knowledge-rambling-in-the-north",
+      "para_index": 26,
+      "para_id": "zhuangzi#22-p26",
+      "modes": [
+        "expression",
+        "narrative"
+      ],
+      "excerpt": "顏淵問乎仲尼曰：「回嘗聞諸夫子曰：『無有所將，無有所迎。』回敢問其遊。」仲尼曰：",
+      "note": "仲尼言「古之人，外化而內不化；今之人，內化而外不化」「聖人處物不傷物」「山林與！皋壤與！使我欣欣然而樂與！樂未畢也，哀又繼之」「至言去言，至為去為」，由傷物之感發為哀樂之歎",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "geng-sang-chu",
+      "para_index": 7,
+      "para_id": "zhuangzi#23-p07",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "南榮趎請入就舍，召其所好，去其所惡，十日自愁，復見老子。老子曰：「汝自洒濯，熟哉",
+      "note": "老子評南榮趎「汝自洒濯，熟哉鬱鬱乎！然而其中津津乎猶有惡也」，論「夫外韄者不可繁而捉，將內揵；內韄者不可繆而捉，將外揵」，論內外束縛之難除",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "geng-sang-chu",
+      "para_index": 8,
+      "para_id": "zhuangzi#23-p08",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "南榮趎曰：「里人有病，里人問之，病者能言其病，然其病病者猶未病也。若趎之聞大道，",
+      "note": "老子述「衛生之經，能抱一乎？能勿失乎？能無卜筮而知吉凶乎？」「兒子終日嗥而嗌不嗄，和之至也；終日握而手不掜，共其德也；終日視而目不瞚，偏不在外也」，以兒子之喻說身心之養",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "geng-sang-chu",
+      "para_index": 9,
+      "para_id": "zhuangzi#23-p09",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "南榮趎曰：「然則是至人之德已乎？」曰：「非也。是乃所謂冰解凍釋者能乎？夫至人者，",
+      "note": "老子論至人「身若槁木之枝而心若死灰」，「禍亦不至，福亦不來。禍福無有，惡有人災也」，至人心如死灰故禍福無以入",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "geng-sang-chu",
+      "para_index": 11,
+      "para_id": "zhuangzi#23-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "備物以將形，藏不虞以生心，敬中以達彼，若是而萬惡至者，皆天也，而非人也，不足以滑",
+      "note": "「備物以將形，藏不虞以生心」，「為不善乎顯明之中者，人得而誅之；為不善乎幽閒之中者，鬼得而誅之。明乎人、明乎鬼者，然後能獨行」，認證鬼能誅幽惡、明靈臺修心",
+      "co_domains": [
+        "XII",
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "geng-sang-chu",
+      "para_index": 19,
+      "para_id": "zhuangzi#23-p19",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "徹志之勃，解心之繆，去德之累，達道之塞。富、貴、顯、嚴、名、利六者，勃志也；容、",
+      "note": "「富、貴、顯、嚴、名、利六者，勃志也；容、動、色、理、氣、意六者，繆心也；惡、欲、喜、怒、哀、樂六者，累德也；去、就、取、與、知、能六者，塞道也。此四六者不盪胸中則正，正則靜，靜則明，明則虛，虛則無為而無不為也」，四六者之累與虛靜之修",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "geng-sang-chu",
+      "para_index": 26,
+      "para_id": "zhuangzi#23-p26",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "介者拸畫，外非譽也；胥靡登高而不懼，遺死生也。夫復謵不餽而忘人，忘人，因以為天人",
+      "note": "「介者拸畫，外非譽也；胥靡登高而不懼，遺死生也」「故敬之而不喜，侮之而不怒者，唯同乎天和者為然」「欲當則緣於不得已，不得已之類，聖人之道」，以介者胥靡之喻論喜怒不動、忘死生之安頓",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "xu-wu-gui",
+      "para_index": 1,
+      "para_id": "zhuangzi#24-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "徐無鬼因女商見魏武侯，武侯勞之曰：「先生病矣！苦於山林之勞，故乃肯見於寡人。」徐",
+      "note": "徐無鬼見魏武侯，自陳「我則勞於君，君有何勞於我」，以「君將盈耆欲，長好惡，則性命之情病矣；君將黜耆欲，掔好惡，則耳目病矣」論君臣之際欲望對性命之累，治者之內在安頓",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "xu-wu-gui",
+      "para_index": 4,
+      "para_id": "zhuangzi#24-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "徐無鬼見武侯，武侯曰：「先生居山林，食芧栗，厭蔥韭，以賓寡人，久矣夫！今老邪？其",
+      "note": "徐無鬼再見武侯，言「勞君之神與形」，以「天地之養也一」「君獨為萬乘之主，以苦一國之民，以養耳目鼻口，夫神者不自許也」「夫神者，好和而惡姦」論治者當安其神之擾",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "xu-wu-gui",
+      "para_index": 29,
+      "para_id": "zhuangzi#24-p29",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故目之於明也殆，耳之於聰也殆，心之於殉也殆。凡能其於府也殆，殆之成也不給改。禍之",
+      "note": "「故目之於明也殆，耳之於聰也殆，心之於殉也殆。凡能其於府也殆」「而人以為己寶，不亦悲乎」，論耳目心智逐外之危殆，並指人珍其所殆之倒錯",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "ze-yang",
+      "para_index": 4,
+      "para_id": "zhuangzi#25-p04",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "舊國舊都，望之暢然；雖使丘陵草木之緡，入之者十九，猶之暢然。況見見聞聞者也？以十",
+      "note": "「舊國舊都，望之暢然；雖使丘陵草木之緡，入之者十九，猶之暢然」，以十仞之臺喻高處懸眾閒之觀，寫見故土之內在暢然之感",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "what-comes-from-without",
+      "para_index": 2,
+      "para_id": "zhuangzi#26-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "木與木相摩則然，金與火相守則流。陰陽錯行，則天地大絯，於是乎有雷有霆，水中有火，",
+      "note": "「有甚憂兩陷而無所逃，螴蜳不得成，心若縣於天地之間，慰睯沈屯，利害相摩，生火甚多，眾人焚和」，「月固不勝火，於是乎有僓然而道盡」，論利害交戰之內在焚灼與道盡之憂",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "what-comes-from-without",
+      "para_index": 12,
+      "para_id": "zhuangzi#26-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "目徹為明，耳徹為聰，鼻徹為顫，口徹為甘，心徹為知，知徹為德。凡道不欲壅，壅則哽，",
+      "note": "「胞有重閬，心有天遊」，「心無天遊，則六鑿相攘」，「大林丘山之善於人也，亦神者不勝」，論心之天遊與六鑿相攘之擾",
+      "co_domains": []
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 13,
+      "para_id": "zhuangzi#28-p13",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "曾子居衛，縕袍無表，顏色腫噲，手足胼胝。三日不舉火，十年不製衣，正冠而纓絕，捉衿",
+      "note": "曾子居衛縕袍無表，三日不舉火，曳歌商頌，結「故養志者忘形，養形者忘利，致道者忘心矣」，寓養志之價值（I）與內心之超越（VI）",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 15,
+      "para_id": "zhuangzi#28-p15",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "中山公子牟謂瞻子曰：「身在江海之上，心居乎魏闕之下，奈何？」瞻子曰：「重生。重生",
+      "note": "中山公子牟「身在江海之上，心居乎魏闕之下」，瞻子告「重生。重生則利輕」，又言「不能自勝而強不從者，此之謂重傷」，論心與形之內在衝突（VI）與重生輕利之價值（I）",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "robber-zhi",
+      "para_index": 12,
+      "para_id": "zhuangzi#29-p12",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "丘之所以說我者，若告我以鬼事，則我不能知也；若告我以人事者，不過此矣，皆吾所聞知",
+      "note": "盜跖論「人之情：目欲視色，耳欲聽聲，口欲察味，志氣欲盈」，又言「天與地無窮，人死者有時，操有時之具而託於無窮之間，忽然無異騏驥之馳過隙也」「不能說其志意，養其壽命者，皆非通道者也」，結「子之道，狂狂汲汲，詐巧虛偽事也，非可以全真也，奚足論哉」，論人之情欲（VI）與通道全真之輕重（I）",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "robber-zhi",
+      "para_index": 13,
+      "para_id": "zhuangzi#29-p13",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子再拜趨走，出門上車，執轡三失，目芒然無見，色若死灰，據軾低頭，不能出氣。歸到",
+      "note": "孔子歸「目芒然無見，色若死灰，據軾低頭，不能出氣」，自歎「疾走料虎頭，編虎須，幾不免虎口哉」，寓挫敗之內心受創（VI）與險中自處之安頓（XIII）",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "robber-zhi",
+      "para_index": 17,
+      "para_id": "zhuangzi#29-p17",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "無足問於知和曰：「人卒未有不興名就利者。彼富則人歸之，歸則下之，下則貴之。夫見下",
+      "note": "無足以「彼富則人歸之，歸則下之，下則貴之」為「長生、安體、樂意之道」，知和駁「慘怛之疾，恬愉之安，不監於體；怵惕之恐，欣懽之喜，不監於心」「知為為而不知所以為，是以貴為天子，富有天下，而不免於患也」，破富貴歸屬之群體幻想（V）與心不監體之內在迷妄（VI）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "robber-zhi",
+      "para_index": 18,
+      "para_id": "zhuangzi#29-p18",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "無足曰：「夫富之於人，無所不利，窮美究埶，至人之所不得逮，賢人之所不能及，俠人之",
+      "note": "無足謂「聲色、滋味、權勢之於人，心不待學而樂之，體不待象而安之」「天下雖非我，孰能辭之」；知和以「堯、舜為帝而雍，非仁天下也，不以美害生也」「善卷、許由得帝而不受，非虛辭讓也，不以事害己」，論聲色權勢之人心所趨（VI）與富貴之避就（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "chapter": "old-fisherman",
+      "para_index": 5,
+      "para_id": "zhuangzi#31-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孔子愀然曰：「請問何謂真？」客曰：「真者，精誠之至也。不精不誠，不能動人。故強哭",
+      "note": "「真者，精誠之至也。不精不誠，不能動人」「強哭者雖悲不哀，強怒者雖嚴不威，強親者雖笑不和」「聖人法天貴真，不拘於俗。愚者反此，不能法天而恤於人，不知貴真」，論內在精誠之動人（VI）與法天貴真之德（VII）",
+      "co_domains": [
+        "VII"
       ]
     }
   ]

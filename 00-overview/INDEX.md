@@ -1,7 +1,7 @@
 # 索引
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 生成時間 2026-10-03T03:27:49+00:00｜143 部｜34,565,129 bytes｜已通讀 58 部｜已段落標註 58 部（25292 段）｜僅有骨架待標 0 部（110 段）
+> 生成時間 2026-10-03T14:26:48+00:00｜143 部｜34,565,129 bytes｜已通讀 61 部｜已段落標註 61 部（26394 段）｜僅有骨架待標 0 部（110 段）
 
 ## 分類統計
 
@@ -54,7 +54,7 @@
 | `sushu` | 素書 | 儒家著述 | original | 6 | 4,961 | ✓ | 6/6 |
 | `wenzhongzi-zhongshuo` | 中說（文中子） | 儒家著述 | original | 17 | 111,989 | — | — |
 | `xinxu` | 新序 | 儒家著述 | original | 10 | 177,508 | ✓ | 218/218 |
-| `xunzi` | 荀子 | 儒家著述 | original | 33 | 418,563 | — | — |
+| `xunzi` | 荀子 | 儒家著述 | original | 33 | 418,563 | ✓ | 495/495 |
 | `yangzi-fayan` | 揚子法言 | 儒家著述 | original | 14 | 60,431 | — | — |
 | `zhongjing` | 忠經 | 儒家著述 | original | 18 | 8,756 | ✓ | 18/18 |
 | `zhonglun` | 中論 | 儒家著述 | original | 25 | 73,781 | — | — |
@@ -128,10 +128,10 @@
 | `kangcangzi` | 亢倉子 | 道家 | original | 9 | 34,680 | — | — |
 | `laozi-heshanggong` | 老子河上公章句 | 道家 | original | 2 | 81,529 | — | — |
 | `laozi-xianger-zhu` | 老子想爾注 | 道家 | original | 1 | 38,513 | — | — |
-| `liezi` | 列子 | 道家 | original | 8 | 114,186 | — | — |
+| `liezi` | 列子 | 道家 | original | 8 | 114,186 | ✓ | 144/144 |
 | `tao-te-ching` | 道德經 | 道家 | original | 81 | 20,773 | ✓ | 81/81 |
 | `wunengzi` | 無能子 | 道家 | original | 23 | 33,862 | — | — |
-| `zhuangzi` | 莊子 | 道家 | original | 33 | 242,136 | — | — |
+| `zhuangzi` | 莊子 | 道家 | original | 33 | 242,136 | ✓ | 463/463 |
 | `beidou-yansheng-jing` | 太上玄靈北斗本命延生真經 | 道教經典 | original | 1 | 9,207 | — | — |
 | `dingguan-jing` | 洞玄靈寶定觀經 | 道教經典 | original | 1 | 2,198 | — | — |
 | `duren-jing` | 靈寶無量度人上品妙經 | 道教經典 | original | 61 | 1,278,353 | — | — |

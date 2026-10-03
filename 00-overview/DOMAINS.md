@@ -1,36 +1,35 @@
 # 標籤索引：13 個人生問題領域
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 生成時間 2026-10-03T03:27:49+00:00｜15285 筆領域標記｜來自 58 部已標註的書
+> 生成時間 2026-10-03T14:26:48+00:00｜16866 筆領域標記｜來自 61 部已標註的書
 
 書級 `domains_hit` 只能告訴你去哪本書找；這裡直接給段落（SCHEMA §1.1）。
 
 | 領域 | 名稱 | 命中段數 | 命中書數 | 通讀零命中書數 |
 |---|---|---|---|---|
-| [I](./domains/I.md) | 存在與意義 | 151 | 24 | 34 |
-| [II](./domains/II.md) | 自我與認同 | 911 | 45 | 13 |
-| [III](./domains/III.md) | 愛與親密 | 167 | 26 | 32 |
-| [IV](./domains/IV.md) | 家庭與傳承 | 838 | 42 | 16 |
-| [V](./domains/V.md) | 群體·社會·公義 | 4952 | 54 | 4 |
-| [VI](./domains/VI.md) | 情緒與內在生活 | 904 | 41 | 17 |
-| [VII](./domains/VII.md) | 善惡·良心·品格 | 3688 | 51 | 7 |
-| [VIII](./domains/VIII.md) | 工作·成就·召喚 | 1536 | 52 | 6 |
-| [IX](./domains/IX.md) | 苦難·疾病·身體 | 222 | 32 | 26 |
-| [X](./domains/X.md) | 無常·老·死·失去 | 478 | 34 | 24 |
-| [XI](./domains/XI.md) | 自由·命運·改變 | 781 | 45 | 13 |
-| [XII](./domains/XII.md) | 信仰·神聖·超越 | 436 | 36 | 22 |
-| [XIII](./domains/XIII.md) | 安頓·修復·平安 | 221 | 30 | 28 |
+| [I](./domains/I.md) | 存在與意義 | 272 | 26 | 35 |
+| [II](./domains/II.md) | 自我與認同 | 1091 | 48 | 13 |
+| [III](./domains/III.md) | 愛與親密 | 173 | 29 | 32 |
+| [IV](./domains/IV.md) | 家庭與傳承 | 863 | 45 | 16 |
+| [V](./domains/V.md) | 群體·社會·公義 | 5434 | 57 | 4 |
+| [VI](./domains/VI.md) | 情緒與內在生活 | 1028 | 44 | 17 |
+| [VII](./domains/VII.md) | 善惡·良心·品格 | 3986 | 54 | 7 |
+| [VIII](./domains/VIII.md) | 工作·成就·召喚 | 1630 | 55 | 6 |
+| [IX](./domains/IX.md) | 苦難·疾病·身體 | 249 | 34 | 27 |
+| [X](./domains/X.md) | 無常·老·死·失去 | 538 | 37 | 24 |
+| [XI](./domains/XI.md) | 自由·命運·改變 | 880 | 48 | 13 |
+| [XII](./domains/XII.md) | 信仰·神聖·超越 | 439 | 38 | 23 |
+| [XIII](./domains/XIII.md) | 安頓·修復·平安 | 283 | 33 | 28 |
 
 ## 缺口報告
 
-**未標註 85 部**——這些書的領域分佈目前是未知，不是零。上表任何一格的低數字都要先扣掉這批才有意義。
+**未標註 82 部**——這些書的領域分佈目前是未知，不是零。上表任何一格的低數字都要先扣掉這批才有意義。
 
 - `jiayi-xinshu` 新書（儒家著述，11 章，145,232 bytes）
 - `kongzi-jiayu` 孔子家語（儒家著述，10 章，277,861 bytes）
 - `lujia-xinyu` 新語（儒家著述，15 章，81,009 bytes）
 - `shuoyuan` 說苑（儒家著述，20 章，402,383 bytes）
 - `wenzhongzi-zhongshuo` 中說（文中子）（儒家著述，17 章，111,989 bytes）
-- `xunzi` 荀子（儒家著述，33 章，418,563 bytes）
 - `yangzi-fayan` 揚子法言（儒家著述，14 章，60,431 bytes）
 - `zhonglun` 中論（儒家著述，25 章，73,781 bytes）
 - `jindan-sibaizi` 金丹四百字（內丹，1 章，6,471 bytes）
@@ -76,9 +75,7 @@
 - `kangcangzi` 亢倉子（道家，9 章，34,680 bytes）
 - `laozi-heshanggong` 老子河上公章句（道家，2 章，81,529 bytes）
 - `laozi-xianger-zhu` 老子想爾注（道家，1 章，38,513 bytes）
-- `liezi` 列子（道家，8 章，114,186 bytes）
 - `wunengzi` 無能子（道家，23 章，33,862 bytes）
-- `zhuangzi` 莊子（道家，33 章，242,136 bytes）
 - `beidou-yansheng-jing` 太上玄靈北斗本命延生真經（道教經典，1 章，9,207 bytes）
 - `dingguan-jing` 洞玄靈寶定觀經（道教經典，1 章，2,198 bytes）
 - `duren-jing` 靈寶無量度人上品妙經（道教經典，61 章，1,278,353 bytes）
