@@ -1,0 +1,202 @@
+{
+  "batch": "b04.md",
+  "rows": [
+    {
+      "chapter": "zhong-ni",
+      "para_index": 1,
+      "domains": [
+        "VI",
+        "XI"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "孔子與顏回反覆辨「樂天知命故不憂」「脩一身，任窮達，知去來之非我，止變亂於心慮」是內在生活的安頓（VI），結以「吾始知《詩》《書》禮樂无救於治亂，而未知所以革之之方：此樂天知命者之所憂」是治亂之方無以革、把無力之感推到修與命的命題（XI）。"
+    },
+    {
+      "chapter": "zhong-ni",
+      "para_index": 2,
+      "domains": [
+        "II",
+        "VIII"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "亢倉子自述「傳之者妄。我能視聽不用耳目，不能易耳目之用」「其自知而已矣」，是自知其能的自我判定（II）；「我體合於心，心合於氣，氣合於神，神合於无」是透過修養達成的技藝境界（VIII）。"
+    },
+    {
+      "chapter": "zhong-ni",
+      "para_index": 3,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "孔子逐層定義「三王善任智勇者」「五帝善任仁義者」「三皇善任因時者」，再推「西方之人，有聖者焉，不治而不亂，不言而自信，不化而自行，蕩蕩乎民无能名焉」，是對歷代聖王治理之任與其極的品評命題（V）。"
+    },
+    {
+      "chapter": "zhong-ni",
+      "para_index": 4,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "孔子逐一品評弟子「回之仁賢於丘也」「賜之辯賢於丘也」「由之勇賢於丘也」「師之莊賢於丘也」，並下定義「夫回能仁而不能反。賜能辯而不能訥，由能勇而不能怯，師能莊而不能同」，是德性與其限度的命題（VII），末以「此其所以事吾而不貳也」落到弟子事師之群體關係（V）。"
+    },
+    {
+      "chapter": "zhong-ni",
+      "para_index": 5,
+      "domains": [
+        "II",
+        "VI"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "南郭子「貌充心虛，耳无聞，目无見，口无言，心无知，形无惕」「形神不相偶」，是內在虛靜（VI）；列子結以「得意者无言，進知者亦无言」「无言與不言，无知與不知，亦言亦知」，是對認知與表達的命題（II）。"
+    },
+    {
+      "chapter": "zhong-ni",
+      "para_index": 6,
+      "domains": [
+        "VI",
+        "VIII"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "列子自述修學進程「心不敢念是非，口不敢言利害」「從心之所念，更无是非；從口之所言，更无利害」，是內在修養次第（VI）；「夫子始一引吾並席而坐」「心凝形釋骨肉都融」是學與教之逐步印可（VIII）。"
+    },
+    {
+      "chapter": "zhong-ni",
+      "para_index": 7,
+      "domains": [
+        "I",
+        "II"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "壺丘子明辨「外游者，求備於物；內觀者，取足於身。取足於身，游之至也；求備於物，游之不至也」，是關於本末輕重的命題（I）；「我之所謂游，是我之所謂觀也」落到自處方式的自我判定（II）。"
+    },
+    {
+      "chapter": "zhong-ni",
+      "para_index": 8,
+      "domains": [
+        "VI",
+        "IX"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "龍叔自陳「爵賞不能勸，刑罰不能威，盛衰利害不能易，哀樂不能移」，是情緒堅定不被外境動搖（VI）；文摯診以「嘻！吾見子之心矣，方寸之地虛矣，幾聖人也！子心六孔流通，一孔不達」，是寫一個人在心／身處境中的狀態（IX）。"
+    },
+    {
+      "chapter": "zhong-ni",
+      "para_index": 9,
+      "domains": [],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "全段為「故无用而生謂之道，用道得終謂之常；有所用而死者亦謂之道，用道而得死者亦謂之常」之類的道論定義與區辨，未落到具體人事，依道體不涉人之規則判空。"
+    },
+    {
+      "chapter": "zhong-ni",
+      "para_index": 10,
+      "domains": [
+        "X",
+        "VI"
+      ],
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "reason": "「季梁之死，楊朱望其門而歌。隨梧之死，楊朱撫其尸而哭」與「隸人之生，隸人之死，眾人且歌，眾人且哭」並列，前者寫對死亡的反應（X），後者寫哀樂之生發（VI）。"
+    },
+    {
+      "chapter": "zhong-ni",
+      "para_index": 11,
+      "domains": [
+        "IX"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「目將眇者先睹秋毫；耳將聾者先聞蚋飛；口將爽者先辨淄澠；鼻將窒者先覺焦朽；體將僵者先亟犇佚；心將迷者先識是非」，是感官與身體將失的命題，落於身體處境（IX）。"
+    },
+    {
+      "chapter": "zhong-ni",
+      "para_index": 12,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "鄧析問「汝知養養之義乎？受人養而不能自養者，犬豕之類也；養物而物為我用者，人之力也」，是自養／被養之德性命題（VII）；伯豐子從者反駁「執政者迺吾之所使，子奚矜焉」「群才備也。而无相位者，无能相使者」，是群體治理與用人之命題（V）。"
+    },
+    {
+      "chapter": "zhong-ni",
+      "para_index": 13,
+      "domains": [
+        "VIII",
+        "VII"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "公儀伯引師教「夫有易於內者，无難於外。於外无難，故名不出其一道」，是學／技之命題（VIII）；又自結「臣之名不以負其力者也，以能用其力者也」，以「能用」之德別於「負力」之名，是用力之德性命題（VII）。"
+    },
+    {
+      "chapter": "zhong-ni",
+      "para_index": 14,
+      "domains": [
+        "II"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "公子牟辯護公孫龍「无意則心同。无指則皆至。盡物者常有。影不移者，說在改也。髮引千鈞，勢至等也。白馬非馬，形名離也。孤犢未嘗有母非孤犢也」，全是名實／指物之辨，落於認知與自知（II）。"
+    },
+    {
+      "chapter": "zhong-ni",
+      "para_index": 15,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "「堯治天下五十年，不知天下治歟，不治歟？不知億兆之願戴己歟，不願戴己歟？」與「立我蒸民，莫匪爾極。不識不知，順帝之則」「堯還宮，召舜，因禪以天下。舜不辭而受之」，是治天下與禪讓之領導命題（V）。"
+    },
+    {
+      "chapter": "zhong-ni",
+      "para_index": 16,
+      "domains": [
+        "II",
+        "VI"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "關尹喜教言「在己无居，形物其箸，其動若水，其靜若鏡，其應若響」「亦非有心者所能得遠，亦非无心者所能得近。唯默而得之而性成之者得之」，是自知與處己之命題（II）；「知而亡情，能而不為，真知真能也」「發无知，何能情？發不能，何能為」，是情與能之內在命題（VI）。"
+    }
+  ]
+}
