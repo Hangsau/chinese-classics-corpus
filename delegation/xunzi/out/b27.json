@@ -1,0 +1,103 @@
+{
+  "batch": "b27.md",
+  "rows": [
+    {
+      "chapter": "法行篇",
+      "para_index": 1,
+      "domains": ["V", "II"],
+      "modes": ["proposition"],
+      "reason": "「禮者，衆人法而不知，聖人法而知之」——禮是衆人與聖人都要遵從的規範（V）；同樣依法，聖人知而衆人不知，認知的限度落在人身上（II）。"
+    },
+    {
+      "chapter": "法行篇",
+      "para_index": 2,
+      "domains": ["VII", "XI"],
+      "modes": ["prescription"],
+      "reason": "「無身不善而怨人，無刑己至而呼天」——自身不善不歸怨於他人，是反求諸己的品格修養（VII）；刑罰已至才呼天，責難指向人力，破除側（XI）。"
+    },
+    {
+      "chapter": "法行篇",
+      "para_index": 3,
+      "domains": ["VII", "IV"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「君子能無以利害義，則恥辱亦無由至矣」——義先於利的品格命題（VII）；曾子病中告誡曾元，是父子相承的教導（IV）。敘事承載命題。"
+    },
+    {
+      "chapter": "法行篇",
+      "para_index": 4,
+      "domains": ["VII"],
+      "modes": ["narrative", "observation"],
+      "reason": "「夫玉者，君子比德焉」——以玉之多項德目串比君子品格，結論「故雖有珉之雕雕，不若玉之章章」主張本質勝於文飾。對話敘事加品評。"
+    },
+    {
+      "chapter": "法行篇",
+      "para_index": 5,
+      "domains": ["VII", "XI"],
+      "modes": ["proposition"],
+      "reason": "「怨人者窮，怨天者無識」——不見愛、不見敬、不見信皆反求諸己（VII）；怨天是「不知天命」，把成敗推回人力，破除側（XI）。"
+    },
+    {
+      "chapter": "法行篇",
+      "para_index": 6,
+      "domains": ["VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「君子正身以俟，欲來者不距，欲去者不止」——君子不揀擇來去者，是其開放包容的品格（VII）；「良醫之門多病人，檃栝之側多枉木」以喻支撐。對話敘事加命題。"
+    },
+    {
+      "chapter": "法行篇",
+      "para_index": 7,
+      "domains": ["V", "IV"],
+      "modes": ["prescription"],
+      "reason": "「有君不能事，有臣而求其使，非恕也」「有親不能報，有子而求其孝，非恕也」——君臣之間恕道是公義責任（V），父子之間恕道是家庭倫理（IV）。"
+    },
+    {
+      "chapter": "法行篇",
+      "para_index": 8,
+      "domains": ["VIII", "V"],
+      "modes": ["prescription"],
+      "reason": "「少思長則學，老思死則教，有思窮則施也」——少學與老教是學與教的召喚（VIII）；有思窮而施是社會公義中布施與回報的責任（V）。"
+    },
+    {
+      "chapter": "哀公篇",
+      "para_index": 1,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「生今之世，志古之道，居今之俗，服古之服」——選賢治國（V），而能肯與服同遵古道，內外相應方能為賢（VII）。對話敘事加命題。"
+    },
+    {
+      "chapter": "哀公篇",
+      "para_index": 2,
+      "domains": ["VII"],
+      "modes": ["observation"],
+      "reason": "「有庸人，有士，有君子，有賢人，有大聖」——以五儀分等陳述五種人格層級，庸人「五鑿為正，心從而壞」、君子「言忠信而心不德」、大聖「知通乎大道」等皆屬品格品題，給 VII。"
+    },
+    {
+      "chapter": "哀公篇",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「古之王者，有務而拘領者矣，其政好生而惡殺焉」——以古王衣冠樸而能行仁政為例，主張為治在德不在服，給 V。對話敘事加命題。"
+    },
+    {
+      "chapter": "哀公篇",
+      "para_index": 4,
+      "domains": ["V", "VI"],
+      "modes": ["narrative", "prescription"],
+      "reason": "「君以此思哀，則哀將焉而不至矣」「水則載舟，水則覆舟」——教哀公由情境自致哀懼等情緒（VI）；水舟之喻把君民關係推回民意（V）。對話敘事加規範。"
+    },
+    {
+      "chapter": "哀公篇",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「資衰、苴杖者不聽樂，非耳不能聞也，服使然也」「黼衣、黼裳者不茹葷，非口不能味也，服使然也」——外服規範內心，是禮的運作機制（V）；仁受外服塑造，關乎品格養成（VII）。對話敘事加命題。"
+    },
+    {
+      "chapter": "哀公篇",
+      "para_index": 6,
+      "domains": ["V"],
+      "modes": ["narrative", "prescription"],
+      "reason": "「健，貪也；詌，亂也；口啍，誕也」「士信愨而後求知能焉」「明主任計不信怒」「鳥窮則啄，獸窮則攫，人窮則詐」——取人之術、用人先信後能、計勝於怒、上不窮下，俱為治道之規範，給 V。對話敘事加規範。"
+    }
+  ]
+}
