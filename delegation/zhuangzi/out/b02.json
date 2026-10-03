@@ -1,0 +1,110 @@
+{
+  "batch": "b02.md",
+  "rows": [
+    {
+      "chapter": "man-in-the-world-associated-with",
+      "para_index": 1,
+      "domains": ["V", "VI", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "顏回欲赴衛救「輕用其國，而不見其過」之君，仲尼論「雜則多，多則擾，擾則憂，憂而不救」是治理與心之擾動（V、VI），又批「德蕩乎名，知出乎爭」「名也者，相軋也；知也者，爭之器也」批判以仁義繩墨施於暴人，是德性與品格的批判（VII）。"
+    },
+    {
+      "chapter": "man-in-the-world-associated-with",
+      "para_index": 2,
+      "domains": ["VI"],
+      "modes": ["proposition", "prescription"],
+      "reason": "仲尼授顏回心齋之法：「若一志，无聽之以耳而聽之以心，无聽之以心而聽之以氣」「虛者，心齋也」「瞻彼闋者，虛室生白，吉祥止止」，純論心的虛靜，屬 VI。"
+    },
+    {
+      "chapter": "man-in-the-world-associated-with",
+      "para_index": 3,
+      "domains": ["V", "XI", "XIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "葉公子高將使齊，問出使之患，仲尼以「天下有大戒二：其一，命也；其一，義也」明人臣之分（V），「知其不可奈何而安之若命，德之至也」是把成敗推回命與安之若命（XI、XIII）。"
+    },
+    {
+      "chapter": "man-in-the-world-associated-with",
+      "para_index": 4,
+      "domains": ["V", "IX"],
+      "modes": ["narrative", "proposition"],
+      "reason": "顏闔將傅衛靈公大子，蘧伯玉教以「形莫若就，心莫若和」，寫與暴君相處之險（「就不欲入，和不欲出」），並以螳蜋當車、養虎、愛馬三喻明處身之危，是領導用人之智與處身之患（V、IX）。"
+    },
+    {
+      "chapter": "man-in-the-world-associated-with",
+      "para_index": 5,
+      "domains": ["I"],
+      "modes": ["narrative"],
+      "reason": "匠石見櫟社樹，樹託夢自述「予求無所可用久矣，幾死，乃今得之，為予大用」，言無用即大用、本末輕重之辨，屬 I。"
+    },
+    {
+      "chapter": "man-in-the-world-associated-with",
+      "para_index": 6,
+      "domains": ["I", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "南伯子綦見不材大木，結云「嗟乎！神人以此不材」，是無用之用的存在論主張（I）；又以荊氏楸柏「未終其天年，而中道已夭於斧斤，此材之患也」反襯「此乃神人之所以為大祥也」，是價值與品格之翻轉（VII）。"
+    },
+    {
+      "chapter": "man-in-the-world-associated-with",
+      "para_index": 7,
+      "domains": ["IX", "VII"],
+      "modes": ["narrative", "observation"],
+      "reason": "支離疏形殘「會撮指天，五管在上，兩髀為脅」，文本正在寫此身體處境本身（IX）；末句「支離其形者，猶足以養其身，終其天年，又況支離其德者乎」由形推到德之殘全，是品格與德性之論（VII）。"
+    },
+    {
+      "chapter": "man-in-the-world-associated-with",
+      "para_index": 8,
+      "domains": ["V", "XIII"],
+      "modes": ["expression", "narrative"],
+      "reason": "楚狂接輿過孔子之門唱「天下有道，聖人成焉；天下無道，聖人生焉。方今之時，僅免刑焉」「福輕乎羽，莫之知載；禍重乎地，莫之知避」，是對時世之感的抒發，論世道與自處（V、XIII）。"
+    },
+    {
+      "chapter": "man-in-the-world-associated-with",
+      "para_index": 9,
+      "domains": ["I"],
+      "modes": ["proposition"],
+      "reason": "短論「人皆知有用之用，而莫知無用之用也」，總結上文無用即大用、本末輕重之旨，屬 I。"
+    },
+    {
+      "chapter": "seal-of-virtue-complete",
+      "para_index": 1,
+      "domains": ["IX", "II", "XIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "兀者王駘「立不教，坐不議，虛而往，實而歸」，仲尼論「死生亦大矣，而不得與之變」「審乎無假，而不與物遷，命物之化，而守其宗也」，寫殘形者之身處境（IX），其心不隨物遷、自我恆定（II），故能安於大化（XIII）。"
+    },
+    {
+      "chapter": "seal-of-virtue-complete",
+      "para_index": 2,
+      "domains": ["IX", "II", "XI"],
+      "modes": ["narrative"],
+      "reason": "申徒嘉兀者，與執政子產辯「知不可奈何而安之若命，惟有德者能之」，寫殘形之身處境（IX），自知與自處（II），把禍福推回命而非人我之爭（XI）。"
+    },
+    {
+      "chapter": "seal-of-virtue-complete",
+      "para_index": 3,
+      "domains": ["IX", "II"],
+      "modes": ["narrative"],
+      "reason": "兀者叔山無趾踵見孔子，自云「吾唯不知務而輕用吾身，吾是以亡足」「今吾來也，猶有尊足者存，吾是以務全之也」，又評孔子「彼何賓賓以學子為」，寫殘形之身（IX）與求全於德之自我（II）。"
+    },
+    {
+      "chapter": "seal-of-virtue-complete",
+      "para_index": 4,
+      "domains": ["IX", "II", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "哀駘它「惡駭天下，和而不唱」，魯哀公欲授國；仲尼以㹠子棄死母喻「所愛其母者，非愛其形也，愛使其形者也」，末斷「是必才全而德不形者也」，寫殘形者之身處境（IX），才全之自我（II），形可忘而德不可忘之品格論（VII）。"
+    },
+    {
+      "chapter": "seal-of-virtue-complete",
+      "para_index": 5,
+      "domains": ["IX", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "闉跂支離無脤、甕盎大癭說君，仲尼論「德有所長，而形有所忘」「聖人有所遊」，寫殘形者之身處境（IX），並以忘形全德立品格之論（VII）。"
+    },
+    {
+      "chapter": "seal-of-virtue-complete",
+      "para_index": 6,
+      "domains": ["VI", "II"],
+      "modes": ["narrative"],
+      "reason": "惠子問無情，莊子答「吾所謂無情者，言人之不以好惡內傷其身，常因自然而不益生也」，是去好惡擾心以安其內在（VI），並辨自我之「天與之形」與人之實質（II）。"
+    }
+  ]
+}
