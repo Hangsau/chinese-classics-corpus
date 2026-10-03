@@ -1,0 +1,644 @@
+{
+  "batch": "b15.md",
+  "rows": [
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 1,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "observation"
+      ],
+      "reason": "對梁惠王作「不仁哉」的品格判斷，並以「仁者以其所愛及其所不愛，不仁者以其所不愛及其所愛」區分仁與不仁的施與取向"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 2,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "純提問，公孫丑問「何謂也」請求解釋前段，屬對話過場"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 3,
+      "domains": [
+        "V",
+        "VII"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "敘述梁惠王「糜爛其民而戰之」、「驅其所愛子弟以殉之」，以戰例落實不仁之君的具體行徑，判其品格並連到君與民的群體關係"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 4,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「《春秋》無義戰」、「征者上伐下也，敵國不相征也」斷定諸侯征伐的正當性，主張戰爭必須是上伐下的秩序行為"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 5,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「仁人無敵於天下。以至仁伐至不仁，而何其血之流杵也」以仁者無敵的主張質疑《武成》過度血腥的記載，扣緊仁之品格與後果"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 6,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "reason": "「國君好仁，天下無敵焉」以仁為君主品格的核心，並敘述「南面而征北狄怨」的民心向背，兼論君德與群體公義"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 7,
+      "domains": [
+        "VIII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「梓匠輪輿能與人規矩，不能使人巧」主張技藝可教規矩而巧在自得，落於學習與成就的限度"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 8,
+      "domains": [
+        "VII",
+        "XI"
+      ],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「舜之飯糗茹草也，若將終身焉；及其為天子也，被袗衣，鼓琴，二女果，若固有之」以舜對窮達不動心的態度，論品格與對命遇的超脫"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 9,
+      "domains": [
+        "V",
+        "XI"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「殺人之父，人亦殺其父；殺人之兄，人亦殺其兄」主張殺人親之報應必然，以群體互動的因果鏈把禍福推回人事"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 10,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「古之為關也，將以禦暴。今之為關也，將以為暴」以古今對照批判當下關稅制度的取向，落在公共治理與風俗"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 11,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「身不行道，不行於妻子；使人不以道，不能行於妻子」主張以道立身才能感化至親，論自身品格對群體的感染"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 12,
+      "domains": [
+        "XI",
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「周于利者，凶年不能殺；周于德者，邪世不能亂」以禍福無常的場景，論立身於德方能不被時世動搖"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 13,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「好名之人，能讓千乘之國；苟非其人，簞食豆羹見於色」以能否讓國與否論好名者之真偽品格"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 14,
+      "domains": [
+        "V",
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「不信仁賢，則國空虛。無禮義，則上下亂。無政事，則財用不足」以三層因果論治國之必須建立在仁賢禮義上"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 15,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「不仁而得國者，有之矣；不仁而得天下，未之有也」以得國與得天下的對照斷定仁與天下之必然關係"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 16,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「民為貴，社稷次之，君為輕」及「得乎丘民而為天子」置民心於社稷君主之上，落於群體公義與權力正當"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 17,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「聖人，百世之師也，伯夷、柳下惠是也」並描述「聞伯夷之風者，頑夫廉，懦夫有立志」之風化作用，兼論聖人品格與群體感召"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 18,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「仁也者，人也。合而言之，道也」把仁定義為人之所以為人，並把仁人合一作為道的內容"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 19,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「孔子之去魯，曰：『遲遲吾行也。』去父母國之道也。去齊，接淅而行，去他國之道也」以孔子去國之禮論君臣進退的分際"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 20,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「君子之戹於陳蔡之閒，無上下之交也」以陳蔡之困歸因於平時未結上下之交，落在群體處境"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 21,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "貉稽自陳「稽大不理於口」，僅是人物自述處境的對話過場"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 22,
+      "domains": [
+        "VI",
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「士憎茲多口」並引《詩》「憂心悄悄，慍于群小」論士之多口招怨，兼涉情緒反應與群體處境"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 23,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「賢者以其昭昭，使人昭昭；今以其昬昬，使人昭昭」以是否自身明白論教化之先後，落於品格與領導"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 24,
+      "domains": [
+        "VI",
+        "II"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「今茅塞子之心矣」以山徑茅塞為喻，論心被私欲壅塞之病，落在內在生活與自我"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 25,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "高子言「禹之聲，尚文王之聲」，僅品題二位聖王聲教之比較，未進一步展開人生主張"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 26,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "孟子以「城門之軌，兩馬之力與？」反駁禹聲與文王聲相當之說，仍是譬喻品評，無新的領域斷言"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 27,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "陳臻「國人皆以夫子將復為發棠，殆不可復」屬對話過場的揣度，無領域承重"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 28,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「晉人有馮婦者，善搏虎，卒為善士。則之野，有眾逐虎……其為士者笑之」以馮婦再搏虎被士人笑的故事，論義與名節的取捨"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 29,
+      "domains": [
+        "VII",
+        "XI"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「仁之於父子也，義之於君臣也，禮之於賓主也，智之於賢者也，聖人之於天道也，命也，有性焉，君子不謂命也」區分性與命的歸屬，把仁義禮智聖歸於性、把富貴安佚歸於命"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 30,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "浩生不害問「樂正子，何人也」，屬對話提問的過場"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 31,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "observation"
+      ],
+      "reason": "孟子直斷樂正子「善人也，信人也」，以善信品題其品格"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 32,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「可欲之謂善，有諸己之謂信。充實之謂美，充實而有光輝之謂大，大而化之之謂聖，聖而不可知之之謂神」對善信美大神逐層下定義，落在德性次第"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 33,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「逃墨必歸於楊，逃楊必歸於儒。歸，斯受之而已矣」並「今之與楊墨辯者，如追放豚，既入其苙，又從而招之」論對楊墨之徒的歸返與拒斥，落於學派歸屬與群體判斷"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 34,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「君子用其一，緩其二。用其二而民有殍，用其三而父子離」主張征歛不可並用，落在民生與治理之因果"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 35,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「諸侯之寶三：土地，人民，政事。寶珠玉者，殃必及身」以諸侯所寶之物論其取捨與禍福"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 36,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "observation"
+      ],
+      "reason": "孟子聞盆成括仕齊即斷「死矣盆成括」，以品格輕重預判其命運"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 37,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "門人問「夫子何以知其將見殺」，屬對話過場的提問"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 38,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「其為人也小有才，未聞君子之大道也，則足以殺其軀而已矣」以未聞大道論小有才者之取死，落於德性不備之禍"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 39,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "敘述「孟子之滕，館於上宮。有業屨於牖上，館人求之弗得」及問者「若是乎從者之廀也」，以情境呈現群體中對隨從品行的猜度"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 40,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "孟子反問「子以是為竊屨來與」，屬對話中的反詰過場"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 41,
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「夫子之設科也，往者不追，來者不距。苟以是心至，斯受之而已矣」論教化收徒不追既往、來者不拒，落於師弟子之接納原則"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 42,
+      "domains": [
+        "VII",
+        "II"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「人皆有所不忍，達之於其所忍，仁也；人皆有所不為，達之於其所為，義也」並「士未可以言而言，是以言餂之也……是皆穿踰之類也」以人心本有的不忍不為推擴為仁義，又以言行的破界論自處"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 43,
+      "domains": [
+        "VIII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「言近而指遠者，善言也；守約而施博者，善道也。君子之言也，不下帶而道存焉。君子之守，修其身而天下平」論善言善守與修身之教，落於教化與修學"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 44,
+      "domains": [
+        "XI",
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「堯舜，性者也；湯武，反之也」並「君子行法，以俟命而已矣」論成德有生安與勉強之別，又以行法俟命把人力推到命之前"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 45,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「說大人，則藐之，勿視其巍巍然」並「在彼者，皆我所不為也；在我者，皆古之制也，吾何畏彼哉」以不慕勢位之內在品格對治大人之巍巍"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 46,
+      "domains": [
+        "VI",
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「養心莫善於寡欲。其為人也寡欲，雖有不存焉者，寡矣；其為人也多欲，雖有存焉者，寡矣」以寡欲為養心之方，落在情欲與心之存養"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 47,
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "敘述「曾皙嗜羊棗，而曾子不忍食羊棗」並公孫丑問「膾炙與羊棗孰美」，以父子之不忍論親情之感物"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 48,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "公孫丑問「然則曾子何為食膾炙而不食羊棗」，屬承前問的對話過場"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 49,
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「膾炙所同也，羊棗所獨也。諱名不諱姓，姓所同也，名所獨也」以所同所獨解釋曾子食膾炙不食羊棗之分，落在父子之別"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 50,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "萬章問「孔子在陳曰：『盍歸乎來！吾黨之士狂簡，進取，不忘其初。』孔子在陳，何思魯之狂士」，屬對話過場的提問"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 51,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「不得中道而與之，必也狂獧乎！狂者進取，獧者有所不為也」孔子求其次之取捨，論狂獧之士的品格層次"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 52,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "萬章再問「敢問何如斯可謂狂矣」，屬承前問的對話過場"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 53,
+      "domains": [],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「如琴張、曾皙、牧皮者，孔子之所謂狂矣」以三人為例標舉狂者之實，僅人物列舉，無新命題"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 54,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "reason": "「其志嘐嘐然，曰『古之人，古之人』。夷考其行而不掩焉者也」並引「鄉原，德之賊也」層層論狂、獧與鄉原的差別，落於品格與其亂德之害"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 55,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「何如斯可謂之鄉原矣」屬對話過場的提問"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 56,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「『何以是嘐嘐也？言不顧行，行不顧言，則曰：古之人，古之人。行何為踽踽涼涼？生斯世也，為斯世也，善斯可矣。』閹然媚於世也者，是鄉原也」以言行不一之媚世勾勒鄉原之相"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 57,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "萬子問「一鄉皆稱原人焉，無所往而不為原人，孔子以為德之賊，何哉」，屬承前問的對話過場"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 58,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「非之無舉也，刺之無刺也；同乎流俗，合乎汙世；居之似忠信，行之似廉潔；眾皆悅之，自以為是，而不可與入堯舜之道，故曰德之賊也」並引「惡鄉原，恐其亂德也」「君子反經而已矣。經正，則庶民興；庶民興，斯無邪慝矣」以鄉原之似是而非亂德並提出反經之方"
+    },
+    {
+      "chapter": "jin-xin-ii",
+      "para_index": 59,
+      "domains": [
+        "I",
+        "V"
+      ],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「由堯舜至於湯，五百有餘歲……由孔子而來至於今，百有餘歲，去聖人之世，若此其未遠也；近聖人之居，若此其甚也，然而無有乎爾，則亦無有乎爾」以聖道傳承之史序感嘆斯道之不傳，落在意義承擔與學統群體"
+    }
+  ]
+}
