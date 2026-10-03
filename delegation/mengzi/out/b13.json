@@ -1,0 +1,543 @@
+{
+  "batch": "b13.md",
+  "rows": [
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 1,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「禮與食孰重」「禮重」設問起手，立禮重於食的德性優先命題"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 2,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「色與禮孰重」「禮重」續問色禮之輕重，堅持禮之德性優先"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 3,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「以禮食，則飢而死；不以禮食，則得食，必以禮乎」設實用挑戰，詰禮於生死得失間的絕對性"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 4,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「取食之重者，與禮之輕者而比之，奚翅食重」孟子批比較之謬，立禮之絕對性"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 5,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「人皆可以為堯舜，有諸」曹交問人皆可為聖之可能，觸及德性之普遍性"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 6,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「交聞文王十尺，湯九尺，今交九尺四寸以長」曹交自述體格以自疑，純陳述而未立論"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 7,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「堯舜之道，孝弟而已矣」「夫人豈以不勝為患哉？弗為耳」立人皆可為堯舜之德性命題"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 8,
+      "domains": [
+        "VIII"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「願留而受業於門」曹交請留而學，敘其求學之志"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 9,
+      "domains": [
+        "VIII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「夫道，若大路然，豈難知哉？人病不求耳」孟子論道易知，勉人自求"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 10,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「《小弁》，小人之詩也」公孫丑轉述高子之判，純引述以啟下辯"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 11,
+      "domains": [
+        "IV",
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「小弁之怨，親親也。親親，仁也」孟子以親親釋《小弁》之怨，論父子倫理並以親親為仁之德性命題"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 12,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「《凱風》何以不怨」公孫丑設問，純提問以啟下論"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 13,
+      "domains": [
+        "IV"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「愈疏，不孝也；不可磯，亦不孝也」孟子以親過大小立孝之命題"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 14,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「先生將何之」孟子問宋牼去向，純寒暄以啟下敘"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 15,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「吾聞秦楚構兵，我將見楚王說而罷之」宋牼自陳將說二王罷兵，敘其調停之志"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 16,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「軻也請無問其詳，願聞其指。說之將何如」孟子問其說王之方，純提問以啟下答"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 17,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「我將言其不利也」宋牼立以利說王罷兵之方"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 18,
+      "domains": [
+        "V",
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「為人臣者懷利以事其君」「何必曰利」孟子批以利說王，主張君臣父子以仁義相接"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 19,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「夫子之任見季子，之齊不見儲子，為其為相與」屋廬子問孟子交際之節"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 20,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「享多儀，儀不及物曰不享」孟子引《書》論享之儀，立禮儀之公義命題"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 21,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「季子不得之鄒，儲子得之平陸」屋廬子敘兩處可往之別，補說孟子交際之據"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 22,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「先名實者，為人也；後名實者，自為也」「仁者固如此乎」淳于髡以名實先後之辨詰孟子去位之節"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 23,
+      "domains": [
+        "V",
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「三子者不同道，其趨一也。一者何也？曰：仁也」孟子以三子為例，立君子同道歸仁之命題"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 24,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「虞不用百里奚而亡，秦穆公用之而霸。不用賢則亡，削何可得與」立用賢之命題"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 25,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「有諸內必形諸外」淳于髡以王豹、緜駒等為例，立內在品格必然外顯之命題"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 26,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「乃孔子則欲以微罪行，不欲為苟去。君子之所為，眾人固不識也」敘孔子去魯之行，論君子不為眾識之品格"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 27,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「一不朝，則貶其爵；再不朝，則削其地；三不朝，則六師移之」立天子諸侯朝聘之制，並斷五霸為三王之罪"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 28,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「初命曰：『誅不孝，無易樹子，無以妾為妻。』」等葵丘五命之制為盟約條目，規定諸侯之禁"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 29,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「長君之惡其罪小，逢君之惡其罪大」立臣下逢惡之罪命題，斷今之大夫之失"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 30,
+      "domains": [
+        "V",
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「不教民而用之，謂之殃民。殃民者，不容於堯舜之世」立教民而後用之命題"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 31,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「此則滑釐所不識也」慎子勃然不悅自陳不解，純敘對話之頓挫"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 32,
+      "domains": [
+        "V",
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「君子之事君也，務引其君以當道，志於仁而已」立君子引君以道之命題"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 33,
+      "domains": [
+        "V",
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「今之所謂良臣，古之所謂民賊也」「君不鄉道，不志於仁，而求富之，是富桀也」立良臣民賊之辨"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 34,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「吾欲二十而取一，何如」白圭問輕稅之制，談稅之主張"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 35,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「子之道，貉道也」「萬室之國，一人陶，則可乎」孟子以貉道名其稅制，並設詰問以難之"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 36,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「不可，器不足用也」白圭承詰問而答，純退讓之語"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 37,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「陶以寡，且不可以為國，況無君子乎」立君子為國所必需之命題"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 38,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「丹之治水也愈於禹」白圭自誇其治水過禹"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 39,
+      "domains": [
+        "V",
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「是故禹以四海為壑，今吾子以鄰國為壑」「仁人之所惡也」論禹以四海為壑、子以鄰國為壑之辨，並以仁人之所惡斷之"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 40,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「君子不亮，惡乎執」立君子以信為執守之命題"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 41,
+      "domains": [
+        "VI"
+      ],
+      "modes": [
+        "expression"
+      ],
+      "reason": "「吾聞之，喜而不寐」孟子自述聽善言而喜悅無眠，第一人稱抒發內在之情"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 42,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「樂正子強乎」「否」公孫丑問而孟子答，純設問以啟下論"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 43,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「有知慮乎」「否」公孫丑問而孟子答，純設問以啟下論"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 44,
+      "domains": [],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「多聞識乎」「否」公孫丑問而孟子答，純設問以啟下論"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 45,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「其為人也好善」孟子以好善為樂正子之特質，立其人之德性命題"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 46,
+      "domains": [
+        "V",
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「好善優於天下，而況魯國乎」立好善優於治國之命題"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 47,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「古之君子何如則仕」陳子問古之君子出處之節"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 48,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "prescription"
+      ],
+      "reason": "「所就三，所去三」立君子出處之三等節目"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 49,
+      "domains": [
+        "XI"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「天將降大任於是人也，必先苦其心志，勞其筋骨」將困苦重新解釋為成就之條件，論憂患之於成就"
+    },
+    {
+      "chapter": "gaozi-ii",
+      "para_index": 50,
+      "domains": [
+        "VIII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「教亦多術矣，予不屑之教誨也者，是亦教誨之而已矣」論教學方法不拘一端"
+    }
+  ]
+}
