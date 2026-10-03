@@ -1,0 +1,117 @@
+{
+  "batch": "b26.md",
+  "rows": [
+    {
+      "chapter": "宥坐篇",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["narrative", "prescription"],
+      "reason": "用欹器故事勸戒「聰明聖知，守之以愚」「富有四海，守之以謙」。縱結為「此所謂挹而損之之道也」的品格修養原則，給 VII。敘事承載加上規範品格。"
+    },
+    {
+      "chapter": "宥坐篇",
+      "para_index": 2,
+      "domains": ["VII", "V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「一曰心達而險，二曰行辟而堅，三曰言僞而辯，四曰記醜而博，五曰順非而澤」提出五種危險人物的品格特徵（VII）；「此小人之桀雄也，不可不誅也」並以「是以湯誅尹諧，文王誅潘止」等七人歷史實例主張治理上必須誅除此等小人，觸及 V。"
+    },
+    {
+      "chapter": "宥坐篇",
+      "para_index": 3,
+      "domains": ["V"],
+      "modes": ["narrative", "prescription"],
+      "reason": "「義刑義殺，勿庸以卽，予維曰未有順事」主張先教後刑的治理原則，規定「上先服之」「尚賢以綦之」「廢不能以單之」的治道先後，給 V。敘事（父子訟等故事）承載規範。"
+    },
+    {
+      "chapter": "宥坐篇",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["proposition"],
+      "reason": "「伊稽首，不其有來乎」提出施德化可使遠人歸向的領導感召命題，觸及 V（領導與歸屬）。"
+    },
+    {
+      "chapter": "宥坐篇",
+      "para_index": 5,
+      "domains": ["VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "借觀東流之水喻九種德性，結尾「其萬折也必東，似志」「是故見大水必觀焉」，是對君子品格的命題，給 VII。對話敘事加上命題陳述。"
+    },
+    {
+      "chapter": "宥坐篇",
+      "para_index": 6,
+      "domains": ["VII"],
+      "modes": ["prescription"],
+      "reason": "「幼不能彊學，老無以教之，吾恥之」與「與小人處者，吾殆之也」孔子自述三種恥/鄙/殆的品格標準，規定人應以此自檢，給 VII。"
+    },
+    {
+      "chapter": "宥坐篇",
+      "para_index": 7,
+      "domains": ["VIII"],
+      "modes": ["prescription"],
+      "reason": "「今學曾未如肬贅，則具然欲爲人師」規定為人師須有相當學問基礎，關於學與教之召喚，給 VIII。"
+    },
+    {
+      "chapter": "宥坐篇",
+      "para_index": 8,
+      "domains": ["XI", "XIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「夫遇不遇者，時也」「死生者，命也」提出時/材/人/命的命運框架（XI）；「君子之學，非爲通也」「爲窮而不困，憂而意不衰也」教人在困境中安頓自身（XIII）。陳蔡厄難之敘事承載此命題。"
+    },
+    {
+      "chapter": "宥坐篇",
+      "para_index": 9,
+      "domains": ["VIII"],
+      "modes": ["observation"],
+      "reason": "「非無良材也，蓋曰貴文也」講太廟北堂匠人「因麗節文」的工藝原則，觸及技藝之價值取向，給 VIII。"
+    },
+    {
+      "chapter": "子道篇",
+      "para_index": 1,
+      "domains": ["IV", "VII"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「從道不從君，從義不從父，人之大行也」「孝子所不從命有三」主張道義高於君父，規定三類孝子可不從命之條件，給 IV（孝）與 VII（品格/道德原則）。"
+    },
+    {
+      "chapter": "子道篇",
+      "para_index": 2,
+      "domains": ["V", "IV"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「萬乘之國有争臣四人，則封疆不削」「父有争子，不行無禮」以政治與家庭雙向類比主張爭臣/爭子的功能，「審其所以從之之謂孝，之謂貞也」總結從與不從之別，給 V 與 IV。哀公問答之敘事承載命題。"
+    },
+    {
+      "chapter": "子道篇",
+      "para_index": 3,
+      "domains": ["IV"],
+      "modes": ["narrative", "proposition"],
+      "reason": "「意者身不敬與？辭不遜與？色不順與？」主張孝不只在耕耘樹藝養親之勞苦，更在內心敬順之品格，給 IV。子路問答之敘事承載此命題。"
+    },
+    {
+      "chapter": "子道篇",
+      "para_index": 4,
+      "domains": ["V"],
+      "modes": ["narrative", "proposition"],
+      "reason": "以「魯大夫練而牀，禮邪」之禮的討論帶出「禮，居是邑，不非其大夫」的社會禮節原則，觸及 V（群體公義中對上位者的禮節）。對話敘事加上命題陳述。"
+    },
+    {
+      "chapter": "子道篇",
+      "para_index": 5,
+      "domains": ["VII", "II"],
+      "modes": ["narrative", "prescription"],
+      "reason": "「奮於言者華，奮於行者伐，色知而有能者，小人也」批評驕矜之小人，「知之曰知之，不知曰不知，言之要也」規定君子自知之言行為準則，給 VII 與 II。盛服見孔子之敘事承載規範。"
+    },
+    {
+      "chapter": "子道篇",
+      "para_index": 6,
+      "domains": ["II", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "由子路「知者使人知己，仁者使人愛己」、子貢「知者知人，仁者愛人」至顏淵「知者自知，仁者自愛」的三層次命題，自知自愛為「明君子」之極，給 II（自知）與 VII（品格層級）。"
+    },
+    {
+      "chapter": "子道篇",
+      "para_index": 7,
+      "domains": ["VII"],
+      "modes": ["proposition"],
+      "reason": "對比君子「其未得也，則樂其意」「有終生之樂，無一日之憂」與小人「是以有終身之憂，無一日之樂也」，主張品格決定對得失之安頓，給 VII。"
+    }
+  ]
+}
