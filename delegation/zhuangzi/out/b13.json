@@ -1,0 +1,173 @@
+{
+  "batch": "b13.md",
+  "rows": [
+    {
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 1,
+      "domains": ["V", "I"],
+      "modes": ["narrative"],
+      "reason": "堯以天下讓許由、子州支父，二人皆不受；子州支父以「幽憂之病」未暇治天下，末論「夫天下至重也，而不以害其生」「唯無以天下為者，可以託天下也」，寓讓天下之政治典範（V）與天下不若生之輕重（I）"
+    },
+    {
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 2,
+      "domains": ["V", "I"],
+      "modes": ["narrative"],
+      "reason": "舜讓天下於子州支伯，子州支伯以「幽憂之病」未暇治天下，論「故天下大器也，而不以易生，此有道者之所以異乎俗者也」，言讓天下之有道異俗（V）與大器不若生之輕重（I）"
+    },
+    {
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 3,
+      "domains": ["V", "XIII"],
+      "modes": ["narrative"],
+      "reason": "舜以天下讓善卷，善卷自述「逍遙於天地之間而心意自得」「吾何以天下為哉」，遂不入而去深山，寓拒受天下之政治節操（V）與逍遙自得之安頓（XIII）"
+    },
+    {
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 4,
+      "domains": ["V", "I"],
+      "modes": ["narrative"],
+      "reason": "舜以天下讓石戶之農，石戶之農曰「捲捲乎后之為人，葆力之士也」，評「以舜之德為未至也」，遂「夫負妻戴，攜子以入於海，終身不反也」，寓拒讓之節（V）與隱居不事之選擇（I）"
+    },
+    {
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 5,
+      "domains": ["V", "I"],
+      "modes": ["narrative", "proposition"],
+      "reason": "大王亶父居邠，狄人求之，大王不忍傷其民弟，杖筴而去，論「能尊生者，雖貴富不以養傷身，雖貧賤不以利累形」，寓讓國保民之政治行（V）與生命先於富貴之本末輕重（I）"
+    },
+    {
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 6,
+      "domains": ["V", "XI"],
+      "modes": ["narrative"],
+      "reason": "越人三世弒其君，王子搜患而不出，越人請之；其言「王子搜非惡為君也，惡為君之患也」，論避王位之患（XI）與讓王不傷生之政治選擇（V）"
+    },
+    {
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 7,
+      "domains": ["I"],
+      "modes": ["narrative", "proposition"],
+      "reason": "韓、魏相與爭侵地，子華子以攫之必得天下之喻問昭僖侯，斷「兩臂重於天下也，身亦重於兩臂。韓之輕於天下亦遠矣」，專論身與國之輕重本末（I）"
+    },
+    {
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 8,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "魯君以幣迎顏闔，顏闔守陋自飯牛，使者致幣而辭；末評「故若顏闔者，真惡富貴也」，寓拒受富貴之政治節操（V）與厭富貴之德（VII）"
+    },
+    {
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 9,
+      "domains": ["I"],
+      "modes": ["proposition"],
+      "reason": "「道之真以治身，其緒餘以為國家，其土苴以治天下」，明本末之序；又「夫生者，豈特隨侯之重哉」，以隨侯之珠彈雀之喻明生命之重，專論治身為本之輕重（I）"
+    },
+    {
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 10,
+      "domains": ["II", "XI"],
+      "modes": ["narrative"],
+      "reason": "子列子窮，鄭子陽因客言遺之，列子辭曰「君非自知我也。以人之言而遺我粟，至其罪我也，又且以人之言。此吾所以不受也」，末「民果作難而殺子陽」，論名實之辨與自知（II）及其後禍福之驗（XI）"
+    },
+    {
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 11,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "楚昭王失國，屠羊說從而反；昭王反國欲賞之，屠羊說以「臣之爵祿已復矣」辭；又曰「然豈可以食爵祿而使吾君有妄施之名乎」，寓守君法之公義（V）與不苟受賞之德（VII）"
+    },
+    {
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 12,
+      "domains": ["I", "XIII"],
+      "modes": ["narrative"],
+      "reason": "原憲環堵匡坐而弦，子貢軒車見之，問病；原憲曰「憲聞之：『無財謂之貧，學而不能行謂之病。』今憲，貧也，非病也」，寓安貧之價值（I）與自得之安頓（XIII）"
+    },
+    {
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 13,
+      "domains": ["I", "VI"],
+      "modes": ["narrative", "proposition"],
+      "reason": "曾子居衛縕袍無表，三日不舉火，曳歌商頌，結「故養志者忘形，養形者忘利，致道者忘心矣」，寓養志之價值（I）與內心之超越（VI）"
+    },
+    {
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 14,
+      "domains": ["I", "XIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "孔子問顏回何不仕，顏回以郭田畔廂、鼓琴自娛辭；孔子嘆「知足者不以利自累也，審自得者失之而不懼，行修於內者無位而不怍」，寓安貧不仕之節（I）與自得無求之安頓（XIII）"
+    },
+    {
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 15,
+      "domains": ["VI", "I"],
+      "modes": ["narrative", "proposition"],
+      "reason": "中山公子牟「身在江海之上，心居乎魏闕之下」，瞻子告「重生。重生則利輕」，又言「不能自勝而強不從者，此之謂重傷」，論心與形之內在衝突（VI）與重生輕利之價值（I）"
+    },
+    {
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 16,
+      "domains": ["X"],
+      "modes": ["narrative"],
+      "reason": "孔子窮於陳蔡之間，顏色甚憊而弦歌；顏回、子路、子貢議其屢困；孔子聞而嘆「由與賜，細人也。召而來！吾語之」，主述孔子困厄之受苦（X）"
+    },
+    {
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 17,
+      "domains": ["I", "XIII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "孔子告子路「君子通於道之謂通，窮於道之謂窮」「故內省而不窮於道，臨難而不失其德」，反琴而弦歌，寓守道之節（I）與臨難自安之安頓（XIII）"
+    },
+    {
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 18,
+      "domains": ["I", "XIII"],
+      "modes": ["proposition"],
+      "reason": "「古之得道者，窮亦樂，通亦樂」「所樂非窮通也，道德於此，則窮通為寒暑風雨之序矣」，專論道德不因窮通而異之自處（I、XIII）"
+    },
+    {
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 19,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "舜以天下讓北人無擇，北人無擇曰「異哉！后之為人也，居於甽畝之中，而遊堯之門」「吾羞見之」，因自投清泠之淵，寓恥受辱之節（VII）與拒受讓之政治姿態（V）"
+    },
+    {
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 20,
+      "domains": [],
+      "modes": ["narrative"],
+      "reason": "湯將伐桀，因卞隨而謀，卞隨辭曰「非吾事也」；又因瞀光而謀，亦辭「非吾事也」；末「湯遂與伊尹謀伐桀」，純敘湯伐桀之謀臣推辭與轉向伊尹之事，未承重談任何主張"
+    },
+    {
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 21,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "湯伐桀勝而讓卞隨，卞隨辭曰「后之伐桀也謀乎我，必以我為賊也；勝桀而讓我，必以我為貪也」「吾不忍數聞也」，乃自投稠水而死，寓不受讓之政治節操（V）與不苟受之德（VII）"
+    },
+    {
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 22,
+      "domains": ["V", "VII"],
+      "modes": ["narrative", "proposition"],
+      "reason": "湯讓瞀光，瞀光辭曰「廢上，非義也；殺民，非仁也」，又自述「非其義者，不受其祿；無道之世，不踐其土」，乃負石沈於廬水，寓不受無義之祿之節（VII）與不踐無道之土的政治操守（V）"
+    },
+    {
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 23,
+      "domains": ["V", "I"],
+      "modes": ["narrative", "proposition"],
+      "reason": "伯夷、叔齊往觀西方有道者，武王與盟以「加富二等，就官一列」，二人相笑曰「是推亂以易暴也」「不如避之以絜吾行」，寓批周以暴易暴之公義（V）與避世潔行之價值（I）"
+    },
+    {
+      "chapter": "kings-who-have-wished-to-resign",
+      "para_index": 24,
+      "domains": ["X", "VII"],
+      "modes": ["narrative"],
+      "reason": "「二子北至於首陽之山，遂餓而死焉」，末評「高節戾行，獨樂其志，不事於世，此二士之節也」，寓餓死守節之死（X）與高節戾行之德（VII）"
+    }
+  ]
+}
