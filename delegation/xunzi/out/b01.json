@@ -1,0 +1,40 @@
+{
+  "batch": "b01.md",
+  "rows": [
+    {
+      "chapter": "勸學篇",
+      "para_index": 1,
+      "domains": ["VIII", "II"],
+      "modes": ["proposition"],
+      "reason": "「學不可以已」與「君子博學而日參省乎己，則知明而行無過矣」是承重命題，給 VIII（成就之學）加 II（自省）；靑藍、木繩、登高、蒙鳩、射干等比喻本身判空。"
+    },
+    {
+      "chapter": "勸學篇",
+      "para_index": 2,
+      "domains": ["VIII", "VII"],
+      "modes": ["proposition"],
+      "reason": "「積善成德，而神明自得，聖心備焉」明示德性之累積，給 VII；「功在不舍」「用心一也」「故君子結於一也」是成就之學，給 VIII。"
+    },
+    {
+      "chapter": "勸學篇",
+      "para_index": 3,
+      "domains": ["VIII", "VII"],
+      "modes": ["proposition"],
+      "reason": "「其義則始乎爲士，終乎爲聖人」「爲之，人也；舍之，禽獸也」論人禽之辨，給 VII；「其數則始乎誦經，終乎讀禮」「眞積力久則入」「學至乎没而後止也」是學之功，給 VIII。"
+    },
+    {
+      "chapter": "勸學篇",
+      "para_index": 4,
+      "domains": ["VIII", "II"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「古之學者爲己，今之學者爲人」「君子之學也，以美其身」指向自我修養，給 II；「學莫便乎近其人」「學之經莫速乎好其人，隆禮次之」規定學之方，給 VIII。"
+    },
+    {
+      "chapter": "勸學篇",
+      "para_index": 5,
+      "domains": ["VII", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「生乎由是，死乎由是，夫是之謂德操」「全之盡之，然後學者也」是德性與品格，給 VII；「不足謂善學」「學也者，固學一之也」是成就之學，給 VIII。"
+    }
+  ]
+}
