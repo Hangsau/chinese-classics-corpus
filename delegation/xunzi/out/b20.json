@@ -1,0 +1,145 @@
+{
+  "batch": "b20.md",
+  "rows": [
+    {
+      "chapter": "正名篇",
+      "para_index": 1,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「刑名從商，爵名從周，文名從禮，散名之加於萬物者，則從諸夏之成俗曲期」是制名來源的分項規定，屬制名以指實的分類程序，照 SPEC 正名語言學部分判空，給 formalization"
+    },
+    {
+      "chapter": "正名篇",
+      "para_index": 2,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「生之所以然者謂之性」、「性之好、惡、喜、怒、哀、樂謂之情」、「節遇謂之命」逐項定義「散名之在人者」，是制名的分類定義表，照 SPEC 正名語言學部分判空，給 formalization"
+    },
+    {
+      "chapter": "正名篇",
+      "para_index": 3,
+      "domains": ["V", "II"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「名定而實辨，道行而志通，則慎率民而一焉」、「跡長功成，治之極也」明制名為治之極功，「其民莫敢託為奇辭以亂正名，故壹於道法，而謹於循令矣」落在治民，給 V；「名定而實辨」連名實與志，給 II"
+    },
+    {
+      "chapter": "正名篇",
+      "para_index": 4,
+      "domains": ["V", "II"],
+      "modes": ["proposition"],
+      "reason": "「志必有不喻之患，而事必有困廢之禍」、「故知者為之分別制名以指實，上以明貴賤，下以辨同異」立制名所以明貴賤、別同異、志喻事不困，給 V（明貴賤）加 II（志/名實）"
+    },
+    {
+      "chapter": "正名篇",
+      "para_index": 5,
+      "domains": ["II", "VI"],
+      "modes": ["proposition"],
+      "reason": "「心有徵知」、「五官簿之而不知，心徵知而無說」分心徵知與五官簿類，明認知之分工，給 II；「說、故、喜、怒、哀、樂、愛、惡、欲以心異」列心之七情與欲之別，給 VI"
+    },
+    {
+      "chapter": "正名篇",
+      "para_index": 6,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「同則同之，異則異之」、「單足以喻則單，單不足以喻則兼；單與兼無所相避則共」是同名異名、單名兼名共名的命名規則，照 SPEC 正名語言學部分判空，給 formalization"
+    },
+    {
+      "chapter": "正名篇",
+      "para_index": 7,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「物也者，大共名也」、「鳥獸也者，大別名也」、「推而共之，共則有共，至於無共然後止」是共名、別名的層級推演規定，屬制名以指實的分類程序，照 SPEC 判空，給 formalization"
+    },
+    {
+      "chapter": "正名篇",
+      "para_index": 8,
+      "domains": [],
+      "modes": ["proposition", "formalization"],
+      "reason": "「名無固宜，約之以命，約定俗成謂之宜」、「名無固實，約之以命實，約定俗成，謂之實名」、「名有固善，徑易而不拂，謂之善名」是關於名之三目（宜、實、善）的命題，仍屬正名語言學部分，照 SPEC 判空"
+    },
+    {
+      "chapter": "正名篇",
+      "para_index": 9,
+      "domains": [],
+      "modes": ["formalization"],
+      "reason": "「此事之所以稽實定數也。此制名之樞要也。後王之成名，不可不察也」總結稽實定數的分類規則，是制名之樞要的程序性規定，照 SPEC 正名語言學部分判空，給 formalization"
+    },
+    {
+      "chapter": "正名篇",
+      "para_index": 10,
+      "domains": ["II"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「此惑於用名以亂名者也」、「此惑於用實，以亂名者也」、「此惑於用名以亂實者也」列三惑並以「驗之所為有名」、「驗之所緣以同異」、「驗之名約，以其所受，悖其所辭，則能禁之矣」為驗禁之方，落於人如何被名誤導，照 SPEC 給 II"
+    },
+    {
+      "chapter": "正名篇",
+      "para_index": 11,
+      "domains": ["V", "II"],
+      "modes": ["proposition", "prescription"],
+      "reason": "「明君知其分而不與辨也」、「說行則天下正，說不行則白道而冥窮」是「辨說」與王業治亂之關係，給 V；「辨說也者，心之象道也。心也者，道之工宰也」、「心合於道，說合於心，辭合於說」明心為道之工宰，給 II"
+    },
+    {
+      "chapter": "正名篇",
+      "para_index": 12,
+      "domains": ["V", "VII"],
+      "modes": ["proposition"],
+      "reason": "「辭讓之節得矣，長少之理順矣；忌諱不稱，祅辭不出」是辭讓長少之群體禮節，給 V；「以仁心說，以學心聽，以公心辨」、「貴公正而賤鄙爭，是士君子之辨說也」連到士君子之品格後果，給 VII"
+    },
+    {
+      "chapter": "正名篇",
+      "para_index": 13,
+      "domains": ["V", "II"],
+      "modes": ["proposition"],
+      "reason": "「君子之言，涉然而精，俛然而類，差差然而齊」與「愚者之言，芴然而粗，嘖然而不類，誻誻然而沸」對比君子與愚者之言，給 V；「彼正其名，當其辭，以務白其志義者也」、「知者之言也，慮之易知也，行之易安也，持之易立也」落在名辭與志義，給 II"
+    },
+    {
+      "chapter": "正名篇",
+      "para_index": 14,
+      "domains": ["II", "VI", "V"],
+      "modes": ["proposition"],
+      "reason": "「心之所可中理，則欲雖多，奚傷於治」立心之可中理為治亂關鍵，給 II；「治亂在於心之所可，亡於情之所欲」明治亂不在情欲，給 V（治亂）；「欲不待可得，而求者從所可」明欲與求之分，給 VI。拿掉任一都少講了心、情欲、治亂三面"
+    },
+    {
+      "chapter": "正名篇",
+      "para_index": 15,
+      "domains": ["VII", "VI"],
+      "modes": ["proposition"],
+      "reason": "「性者、天之就也；情者、性之質也；欲者、情之應也」以三層遞界定性、情、欲，給 VII（人性之質地）；「欲不可去，性之具也。雖為天子，欲不可盡」、「欲雖不可去，求可節也」談欲之不可盡與可節，給 VI"
+    },
+    {
+      "chapter": "正名篇",
+      "para_index": 16,
+      "domains": ["II", "V"],
+      "modes": ["proposition"],
+      "reason": "「凡人莫不從其所可，而去其所不可」、「知道之莫之若也，而不從道者，無之有也」立凡人皆從心之所可，給 II；「今人所欲，無多；所惡，無寡，豈為夫所欲之不可盡也，離得欲之道，而取所惡也哉」以欲惡之喻明道之不可離；「知者論道而已矣，小家珍說之所願者皆衰矣」收於小家珍說之衰，給 V（群體/邪說）"
+    },
+    {
+      "chapter": "正名篇",
+      "para_index": 17,
+      "domains": ["XI", "II"],
+      "modes": ["proposition", "worked_instance"],
+      "reason": "「禍託於欲，而人以為福；福託於惡，而人以為禍」明禍福之倒置，給 XI；「道者，古今之正權也；離道而內自擇，則不知禍福之所託」立道為正權，內自擇則不知禍福，給 II；「以一易一」、「以一易兩」、「以兩易一」為得失之實例，給 worked_instance"
+    },
+    {
+      "chapter": "正名篇",
+      "para_index": 18,
+      "domains": ["VI", "II"],
+      "modes": ["proposition"],
+      "reason": "「心憂恐，則口銜芻豢而不知其味，耳聽鐘鼓而不知其聲」明心憂恐則外物失味，給 VI；「欲養其欲而縱其情，欲養其性而危其形，欲養其樂而攻其心，欲養其名而亂其行」列養欲／養性／養樂／養名之自敗；「夫是之謂以己為物役矣」以己為物役之自我淪喪，給 II"
+    },
+    {
+      "chapter": "正名篇",
+      "para_index": 19,
+      "domains": ["VI", "XIII"],
+      "modes": ["proposition"],
+      "reason": "「心平愉，則色不及傭而可以養目，聲不及傭而可以養耳」立心平愉為養感官之本，給 VI；「故雖無萬物之美而可以養樂，無埶列之位而可以養名」、「夫是之謂重己役物」以無萬物之美仍可養樂，教人安頓於己，給 XIII"
+    },
+    {
+      "chapter": "正名篇",
+      "para_index": 20,
+      "domains": [],
+      "modes": ["prescription"],
+      "reason": "「無稽之言，不見之行，不聞之謀，君子慎之」僅三句的囑咐，無實質論述，判空，給 prescription"
+    }
+  ]
+}
