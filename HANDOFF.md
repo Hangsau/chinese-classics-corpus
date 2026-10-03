@@ -3,6 +3,14 @@
 > 狀態快照。行為規範見 [`CLAUDE.md`](./CLAUDE.md)，結構導航見 [`MAP.md`](./MAP.md)，資料契約見 [`SCHEMA.md`](./SCHEMA.md)。
 > 最後更新：2026-10-02
 
+
+## 2026-10-03：莊列荀回填、判空段重判回填、唐宋明兵書 12 部收入
+
+- **莊子 463／列子 144／荀子 495 段**回填（minimax-m3），命中 94%／94%／85%。荀子 XII 掛零是 SPEC 破除側規則。莊子 b08 曾因 M3 自建暫存腳本逐段 append 耗盡 40 輪兩次失敗：`run-m3-batches.sh` 加 `M3_MAX_TURNS`（大批次 80）並在 prompt 禁暫存腳本
+- **判空段定向重判**：classics-reflections 抽查 200 段判空段，論說型漏標 18%；822 段論說型判空段由 codex（b01–b03）＋Sonnet（b04–b07、並複核 codex 改標）重判，**17 部 173 段改標**（V 157），`tagged_by` 標 `codex+sonnet-verify-rejudge-2026-10-03`／`claude-sonnet-5.5-rejudge-2026-10-03`／`claude-override`，各書 `psych_survey.rejudge_2026_10_03` 記數字變化
+- **唐宋明兵書 12 部收入**（維基文庫，catalog 160 條、實收 155 部）：李衛公問對、太白陰經、虎鈐經、何博士備論（補 chapter_titles）、百戰奇略、紀效新書、練兵實紀、投筆膚談（篇序改回）、守城錄、將苑、心書、武經總要。李衛公問對卷序改回上中下；太白陰經第九篇併在第八章區塊內（meta.notes）。**尚未標註**（psych_survey null）；兵法心理層判讀走 classics-reflections/pilots/military/，並要做承襲檢測（後代兵書常抄孫子、吳子）
+- verify：155 部、0 errors、48 warnings（新增 5 條皆章名序號型）
+
 ## 2026-10-02（進行中）：論孟荀老莊列六部發包標註
 
 目的：讓 classics-reflections 的札記補上儒家正典與道家視角。六部各一份 SPEC（`delegation/<slug>/SPEC.md`），87 批，串行派 MiniMax-M3。

@@ -1,13 +1,14 @@
 # 索引
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 生成時間 2026-10-03T14:27:43+00:00｜143 部｜34,565,129 bytes｜已通讀 61 部｜已段落標註 61 部（26394 段）｜僅有骨架待標 0 部（110 段）
+> 生成時間 2026-10-03T14:28:23+00:00｜155 部｜37,038,130 bytes｜已通讀 61 部｜已段落標註 61 部（26394 段）｜僅有骨架待標 0 部（110 段）
 
 ## 分類統計
 
 | 類 | 部數 |
 |---|---|
 | 儒家著述 | 19 |
+| 兵家 | 18 |
 | 道教經典 | 16 |
 | 經部 | 16 |
 | 雜史 | 12 |
@@ -15,7 +16,6 @@
 | 理學 | 9 |
 | 內丹 | 7 |
 | 雜家 | 6 |
-| 兵家 | 6 |
 | 小學 | 5 |
 | 法家 | 5 |
 | 雜著 | 5 |
@@ -65,12 +65,24 @@
 | `wuzhen-pian` | 悟真篇 | 內丹 | original | 1 | 21,032 | — | — |
 | `zhonglu-chuandao-ji` | 鍾呂傳道集 | 內丹 | original | 1 | 90,665 | — | — |
 | `zhouyi-cantong-qi` | 周易參同契 | 內丹 | original | 35 | 23,610 | — | — |
+| `baizhan-qilue` | 百戰奇略 | 兵家 | original | 100 | 95,827 | — | — |
+| `he-boshi-beilun` | 何博士備論 | 兵家 | original | 27 | 93,100 | — | — |
+| `huqian-jing` | 虎鈐經 | 兵家 | original | 116 | 249,369 | — | — |
+| `jiangyuan` | 將苑 | 兵家 | original | 50 | 19,374 | — | — |
+| `jixiao-xinshu` | 紀效新書 | 兵家 | original | 41 | 230,362 | — | — |
+| `li-wei-gong-wendui` | 唐太宗李衛公問對 | 兵家 | original | 3 | 39,809 | — | — |
+| `lianbing-shiji` | 練兵實紀 | 兵家 | original | 6 | 134,961 | — | — |
 | `liutao` | 六韜 | 兵家 | original | 66 | 64,772 | ✓ | 60/60 |
 | `san-lue` | 三略 | 兵家 | original | 3 | 14,860 | ✓ | 65/65 |
+| `shoucheng-lu` | 守城錄 | 兵家 | original | 11 | 56,758 | — | — |
 | `sima-fa` | 司馬法 | 兵家 | original | 5 | 13,094 | ✓ | 67/67 |
 | `sunzi-bingfa` | 孫子兵法 | 兵家 | original | 14 | 30,954 | ✓ | 91/91 |
+| `taibai-yinjing` | 神機制敵太白陰經 | 兵家 | original | 189 | 224,929 | — | — |
+| `toubi-futan` | 投筆膚談 | 兵家 | original | 13 | 81,232 | — | — |
 | `weiliaozi` | 尉繚子 | 兵家 | original | 20 | 18,016 | ✓ | 84/84 |
+| `wujing-zongyao` | 武經總要 | 兵家 | original | 270 | 1,234,874 | — | — |
 | `wuzi` | 吳子 | 兵家 | original | 6 | 18,009 | ✓ | 43/43 |
+| `xinshu-zhuge` | 心書 | 兵家 | original | 1 | 12,406 | — | — |
 | `gongsun-longzi` | 公孫龍子 | 名家 | original | 7 | 34,526 | ✓ | 36/36 |
 | `shuijingzhu` | 水經注 | 地理 | original | 137 | 1,131,449 | ✓ | 933/933 |
 | `mozi` | 墨子 | 墨家 | original | 53 | 277,484 | ✓ | 632/632 |

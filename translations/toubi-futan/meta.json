@@ -1,0 +1,22 @@
+{
+  "slug": "toubi-futan",
+  "name_zh": "投筆膚談",
+  "name_en": "Toubi Futan",
+  "category": "兵家",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "明",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/投筆膚談",
+  "downloaded_at": "2026-10-03T10:03:11+00:00",
+  "size_bytes": 81232,
+  "checksum_sha256": "f34cd841982e05f84b3194555787bc952f7d6c1e83f5e633a36fbf0b0ec2d76a",
+  "chapter_count": 13,
+  "expected_chapter_count": null,
+  "license": "CC BY-SA 4.0",
+  "verified": false,
+  "tier": "一般",
+  "psych_survey": null,
+  "notes": "2026-10-03 收錄時 13 篇由字碼序改回篇次（本謀第一……天經第十三）；正文未改。"
+}

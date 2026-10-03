@@ -1,7 +1,7 @@
 # 標籤索引：13 個人生問題領域
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 生成時間 2026-10-03T14:27:43+00:00｜17044 筆領域標記｜來自 61 部已標註的書
+> 生成時間 2026-10-03T14:28:23+00:00｜17044 筆領域標記｜來自 61 部已標註的書
 
 書級 `domains_hit` 只能告訴你去哪本書找；這裡直接給段落（SCHEMA §1.1）。
 
@@ -23,7 +23,7 @@
 
 ## 缺口報告
 
-**未標註 82 部**——這些書的領域分佈目前是未知，不是零。上表任何一格的低數字都要先扣掉這批才有意義。
+**未標註 94 部**——這些書的領域分佈目前是未知，不是零。上表任何一格的低數字都要先扣掉這批才有意義。
 
 - `jiayi-xinshu` 新書（儒家著述，11 章，145,232 bytes）
 - `kongzi-jiayu` 孔子家語（儒家著述，10 章，277,861 bytes）
@@ -39,6 +39,18 @@
 - `wuzhen-pian` 悟真篇（內丹，1 章，21,032 bytes）
 - `zhonglu-chuandao-ji` 鍾呂傳道集（內丹，1 章，90,665 bytes）
 - `zhouyi-cantong-qi` 周易參同契（內丹，35 章，23,610 bytes）
+- `baizhan-qilue` 百戰奇略（兵家，100 章，95,827 bytes）
+- `he-boshi-beilun` 何博士備論（兵家，27 章，93,100 bytes）
+- `huqian-jing` 虎鈐經（兵家，116 章，249,369 bytes）
+- `jiangyuan` 將苑（兵家，50 章，19,374 bytes）
+- `jixiao-xinshu` 紀效新書（兵家，41 章，230,362 bytes）
+- `li-wei-gong-wendui` 唐太宗李衛公問對（兵家，3 章，39,809 bytes）
+- `lianbing-shiji` 練兵實紀（兵家，6 章，134,961 bytes）
+- `shoucheng-lu` 守城錄（兵家，11 章，56,758 bytes）
+- `taibai-yinjing` 神機制敵太白陰經（兵家，189 章，224,929 bytes）
+- `toubi-futan` 投筆膚談（兵家，13 章，81,232 bytes）
+- `wujing-zongyao` 武經總要（兵家，270 章，1,234,874 bytes）
+- `xinshu-zhuge` 心書（兵家，1 章，12,406 bytes）
 - `er-ya` 爾雅注（小學，4 章，132,984 bytes）
 - `shenxian-zhuan` 神仙傳（志怪，10 章，112,803 bytes）
 - `chuanxi-lu` 傳習錄（理學，3 章，243,278 bytes）

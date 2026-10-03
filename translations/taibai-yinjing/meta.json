@@ -1,0 +1,22 @@
+{
+  "slug": "taibai-yinjing",
+  "name_zh": "神機制敵太白陰經",
+  "name_en": "Taibai Yinjing",
+  "category": "兵家",
+  "text_role": "original",
+  "language": "古典漢語",
+  "version": "Wikisource 通行本",
+  "version_date": "唐",
+  "source_platform": "zh.wikisource.org",
+  "source_url": "https://zh.wikisource.org/wiki/太白陰經",
+  "downloaded_at": "2026-10-03T10:00:02+00:00",
+  "size_bytes": 224929,
+  "checksum_sha256": "420c0ca2d05a9f2ec405a92d7a7809269a07397112d7bb92fd4e48b09f7a404c",
+  "chapter_count": 189,
+  "expected_chapter_count": null,
+  "license": "CC BY-SA 4.0",
+  "verified": false,
+  "tier": "重要",
+  "psych_survey": null,
+  "notes": "2026-10-03：〈數有探心篇第九〉在維基文庫與第八篇同頁，下載後併在第 8 章區塊內（以「==數有探心篇第九」小標起頭），正文完整；需要分章時用 segmentation 覆蓋層，不改 raw。"
+}
