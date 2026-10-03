@@ -2141,15 +2141,17 @@
       "chapter": "兵略訓",
       "para_index": 5
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「制刑而無刑，故功可成；物物而不物，故勝而不屈」是道體之描述；「刑，兵之極也，至於無刑」與「故廟戰者帝，神化者王」皆兵之至道之抽象命題，沒有落到人之樣態",
+    "note": "「修政于境內，而遠方慕其德」說修內政使人歸慕，論德政與民心。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "夫圓者，天也；方者，地也。天圓而無端，故不可得而觀；地方而無垠，故莫能窺其門。天",
-    "tagged_by": "minimax-m3",
-    "tagged_at": "2026-09-28T08:05:52+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "huainanzi#04-p06",
@@ -2351,15 +2353,18 @@
       "chapter": "兵略訓",
       "para_index": 17
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V",
+      "VI"
+    ],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": null,
-    "note": "「兵之所隱議者，天道也；所圖畫者，地形也；所明言者，人事也；所以決勝者，鈐勢也」列兵之四要素；「上將之用兵也，上得天道，下得地利，中得人心」與「博聞而自亂，多知而自疑」分上中下三類將軍，皆兵法分類之條目",
+    "note": "「上得天道，下得地利，中得人心」論得人心；「博聞而自亂，多知而自疑，居則恐懼，發則猶豫」寫疑懼擾亂內心。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "是故為麋鹿者，則可以罝罘設也；為魚鱉者，則可以網罟取也；為鴻鵠者，則可以矰繳加也",
-    "tagged_by": "minimax-m3",
-    "tagged_at": "2026-09-28T08:05:52+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "huainanzi#04-p18",
@@ -2457,15 +2462,17 @@
       "chapter": "兵略訓",
       "para_index": 23
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": null,
-    "note": "「先為不可勝，而後求勝」「以異為奇」「兵貴謀之不測也，形之隱匿也」皆用兵戰術之原則條目，論奇正與隱蔽，未談人之品格或社會",
+    "note": "「必先修諸己，而後求諸人」要求領導者先治己，己亂而攻人亂是以火救火。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "蓋聞善用兵者，必先修諸己，而後求諸人；先為不可勝，而後求勝；修己於人，求勝於敵。",
-    "tagged_by": "minimax-m3",
-    "tagged_at": "2026-09-28T08:05:52+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "huainanzi#04-p24",
@@ -2564,16 +2571,18 @@
       "chapter": "原道訓",
       "para_index": 3
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "XIII"
+    ],
     "discourse_mode": [
       "proposition",
       "observation"
     ],
     "confidence": null,
-    "note": "「夫太上之道，生萬物而不有，成化像而弗宰」主軸論太上之道之大無形，「執道要之柄，而游於無窮之地」是聖人境界描述，承重仍在道體之描述",
+    "note": "「大丈夫恬然無思，澹然無慮」直接說人心神的安頓狀態。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "夫太上之道，生萬物而不有，成化像而弗宰。跂行喙息，蠉飛蝡動，待而後生，莫之知德；",
-    "tagged_by": "minimax-m3",
-    "tagged_at": "2026-09-28T08:05:52+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "huainanzi#05-p04",
@@ -2635,16 +2644,18 @@
       "chapter": "原道訓",
       "para_index": 7
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "「離朱之明，察箴末於百步之外，不能見淵中之魚」「任一人之能，不足以治三畝之宅也」論治術不可專恃一人之能，主軸為治術條目",
+    "note": "「夫峭法刻誅者，非霸王之業也」否定苛法酷刑，統治原則。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "夫峭法刻誅者，非霸王之業也；箠策繁用者，非致遠之術也。離朱之明，察箴末於百步之外",
-    "tagged_by": "minimax-m3",
-    "tagged_at": "2026-09-28T08:05:52+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "huainanzi#05-p08",
@@ -5217,15 +5228,17 @@
       "chapter": "氾論訓",
       "para_index": 4
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「苟利於民，不必法古。苟周於事，不必循舊」主張治術應時而變不拘古制，「百川異源而皆歸於海，百家殊業而皆務於治」以百家殊業同歸於治類比變法，是治術主張",
+    "note": "「治國有常，而利民為本」明定治理以民利為本。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "故聖人制禮樂，而不制於禮樂。治國有常，而利民為本。政教有經，而令行為上。苟利於民",
-    "tagged_by": "minimax-m3",
-    "tagged_at": "2026-09-28T08:05:52+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "huainanzi#11-p05",
@@ -5252,15 +5265,17 @@
       "chapter": "氾論訓",
       "para_index": 6
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「仁以為經，義以為紀，此萬世不更者也」與「天下豈有常法哉」分辨不變之道與可變之法，「今世德益衰，民俗益薄，欲以樸重之法，治既弊之民」指當世風俗之弊不可繩以古法，是治術主張",
+    "note": "「法制禮義者，治人之具也」說法制非治之本，並主張依才與時用人。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "故聖人所由曰道，所為曰事。道猶金石，一調不更；事猶琴瑟，每絃改調。故法制禮義者，",
-    "tagged_by": "minimax-m3",
-    "tagged_at": "2026-09-28T08:05:52+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "huainanzi#11-p07",
@@ -5302,15 +5317,17 @@
       "chapter": "氾論訓",
       "para_index": 9
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「知法治所由生，則應時而變；不知法治之源，雖循古，終亂」與「今儒墨者稱三代、文武而弗行，是言其所不行也」批評治術泥古不曉時變，是治術主張",
+    "note": "「知法治所由生，則應時而變」說治理須知法之源，反對守舊致亂。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "夫殷變夏，周變殷，春秋變周，三代之禮不同，何古之從！大人作而弟子循。知法治所由生",
-    "tagged_by": "minimax-m3",
-    "tagged_at": "2026-09-28T08:05:52+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "huainanzi#11-p10",
@@ -5525,15 +5542,17 @@
       "chapter": "氾論訓",
       "para_index": 21
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「使天下荒亂，禮義絕，綱紀廢，彊弱相乘」與「天下安寧，政教和平，百姓肅睦，上下相親」對比治亂之時，「而乃始立氣矜，奪勇力，則必不免於有司之法矣」主張治術應因時而動不可拘一，是治術主張",
+    "note": "「論世而為之事，權事而為之謀」並說安寧時逞勇將受法懲，行為須合情勢。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "聖人則不然，論世而為之事，權事而為之謀，是以舒之天下而不窕，內之尋常而不塞。使天",
-    "tagged_by": "minimax-m3",
-    "tagged_at": "2026-09-28T08:05:52+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "huainanzi#11-p22",

@@ -2414,16 +2414,18 @@
       "chapter": "第15篇重令",
       "para_index": 3
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "formalization",
       "proposition"
     ],
     "confidence": null,
-    "note": "逐級列出國重、兵勝、民用、令行及賞罰軍政的必要條件，只是制度與作戰成效的政策鏈，未另說人的樣態",
+    "note": "「禁不勝於親貴，罰不行於便辟」明說賞罰偏私使令不行，論公義與權力。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "故國不虛重，兵不虛勝，民不虛用，令不虛行。凡國之重也，必待兵之勝也，而國乃重。凡",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T08:06:30+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "guanzi#20-p04",
@@ -4404,16 +4406,18 @@
       "chapter": "第35篇侈靡",
       "para_index": 7
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription",
       "formalization"
     ],
     "confidence": null,
-    "note": "「高予之名而舉之，重予之官而危之」以下只列制臣與積財的操作步驟，未把人的性情或品格作為依據",
+    "note": "問大臣權過大將為害，答以「因責其能以隨之」，是君臣權力的處置論說。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "「强與短而立齊，國之若何？」「高予之名而舉之，重予之官而危之，因責其能以隨之。猶",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T08:06:30+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "guanzi#37-p08",
@@ -6287,15 +6291,17 @@
       "chapter": "第52篇七主七臣",
       "para_index": 4
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "本段只以時令、年成、物價與賞誅取舍失當解釋國家敗亂，未另行斷言人的樣態",
+    "note": "「其所誅賞者非其人也」把亂世歸因於賞罰對象失當，論賞罰與用人。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "夫倉庫非虛空也，商宦非虛壞也，法令非虛亂也，國家非虛亡也。彼時有春秋，歲有敗凶，",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T08:06:30+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "guanzi#53-p05",
@@ -7639,16 +7645,18 @@
       "chapter": "第64篇形勢解",
       "para_index": 16
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "formalization",
       "proposition"
     ],
     "confidence": null,
-    "note": "只列度量、分職、法式與民循正的制度鏈，沒有另說人為何如此",
+    "note": "「而不以言先之，則民循正」說明確法式使百姓循正，是施政與人行為的論說。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "人主立其度量，陳其分職，明其法式，以莅其民，而不以言先之，則民循正。所謂抱蜀者，",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T08:06:30+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "guanzi#61-p17",
@@ -8211,16 +8219,18 @@
       "chapter": "第64篇形勢解",
       "para_index": 46
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "把人民比作供守戰之用而規定平時亦須治養，只是備戰政策，未說人的樣態",
+    "note": "「其治養民也，未嘗解惰也」要求統治者常養民，是責任論說。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "馬者，所乘以行野也，故雖不行於野，其養食馬也，未嘗解惰也。民者，所以守戰也，故雖",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T08:06:30+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "guanzi#61-p47",
@@ -8266,16 +8276,18 @@
       "chapter": "第64篇形勢解",
       "para_index": 49
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "formalization",
       "proposition"
     ],
     "confidence": null,
-    "note": "只以規矩、尺寸、法數說按標準操作即可成事安民，沒有額外的人性斷言",
+    "note": "「以法數治民則安」是依法治民的統治原則句。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "以規矩爲方圜則成，以尺寸量短長則得，以法數治民則安。故事不廣於理者，其成若神。故",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T08:06:30+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "guanzi#61-p50",
@@ -8396,16 +8408,18 @@
       "chapter": "第64篇形勢解",
       "para_index": 56
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "formalization",
       "proposition"
     ],
     "confidence": null,
-    "note": "界定儀、法度、禮義為政治程式並說有儀則令行，止於制度規範及其效果",
+    "note": "「動有儀則令行，無儀則令不行」說執政者行止合度影響號令，屬領導與權威。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "儀者，萬物之程式也。法度者，萬民之儀表也。禮義者，尊卑之儀表也。故動有儀則令行，",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T08:06:30+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "guanzi#61-p57",
@@ -8581,15 +8595,17 @@
       "chapter": "第64篇形勢解",
       "para_index": 66
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "只把德厚與度數列為維持富強國家的治理條件，未進一步斷言人的品性或反應",
+    "note": "「無德厚以安之，無度數以治之」說富強而無德治則民不屬，論民心。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "地大國富，民衆兵强，此盛滿之國也。雖已盛滿，無德厚以安之，無度數以治之，則國非其",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T08:06:30+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "guanzi#61-p67",
@@ -9305,15 +9321,17 @@
       "chapter": "第66篇版法解",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "以萬物受命於天、仰賴風雨比附威利專屬君主才能立威行令，只說權柄集中與治理成敗，未另說人的樣態",
+    "note": "「則君日益輕，而威利日衰」說權柄分散削弱君主，論權力配置。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "萬物尊天而貴風雨。所以尊天者，爲其莫不受命焉也。所以貴風雨者，爲其莫不待風而動，",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T08:06:30+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "guanzi#63-p03",
@@ -9540,15 +9558,17 @@
       "chapter": "第66篇版法解",
       "para_index": 14
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "只把賢佐列為君尊國安民治的政治成功條件，未說明賢者的品性、能力或人的反應",
+    "note": "「佐賢則君尊、國安、民治」把任賢佐列為安定條件，論用人。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "凡人君所以尊安者，賢佐也。佐賢則君尊、國安、民治，無佐則君卑、國危、民亂。故曰：",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T08:06:30+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "guanzi#63-p15",
@@ -9689,16 +9709,18 @@
       "chapter": "第67篇明法解",
       "para_index": 5
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "formalization",
       "proposition"
     ],
     "confidence": null,
-    "note": "本段分類界定主道、臣道並推論上下無分則亂，只在規定君臣名分與職掌，未另說人的樣態",
+    "note": "「故主行臣道則亂，臣行主道則危」論君臣職分越界的後果。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "人主者，擅生殺，處威勢，操令行禁止之柄，以御其羣臣，此主道也。人臣者，處卑賤，奉",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T08:06:30+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "guanzi#64-p06",
@@ -9725,15 +9747,17 @@
       "chapter": "第67篇明法解",
       "para_index": 7
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "本段只推演君令不行、權勢被奪至國亡的制度失效鏈，沒有提出人為何如此的人性依據",
+    "note": "「廢法而恣羣臣」使君令不行，國非其國，論君臣權力與失治。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "凡爲主而不得行其令，廢法而恣羣臣，威嚴已廢，權勢已奪，令不得出，羣臣弗爲用，百姓",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T08:06:30+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "guanzi#64-p08",
@@ -9741,16 +9765,18 @@
       "chapter": "第67篇明法解",
       "para_index": 8
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "formalization",
       "proposition"
     ],
     "confidence": null,
-    "note": "本段規定上下通達、功罪可見與賞罰不差的行政資訊程序，未在程序之外斷言人的樣態",
+    "note": "「有罰者，主見其罪」強調賞罰須有實據、上下通達，論賞罰與用人。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "明主之道，卑賤不待尊貴而見，大臣不因左右而進，百官條通，羣臣顯見。有罰者，主見其",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T08:06:30+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "guanzi#64-p09",
@@ -9796,15 +9822,17 @@
       "chapter": "第67篇明法解",
       "para_index": 11
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "本段僅以法令賞罰是否得當推演治亂、壅塞與劫殺的政策因果鏈，未說明人的內在樣態",
+    "note": "「賞罰之所立者不當」使群臣立私壅塞，論賞罰失當的後果。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "人主之治國也，莫不有法令，賞罰具。故其法令明，而賞罰之所立者當，則主尊顯而姦不生",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T08:06:30+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "guanzi#64-p12",
@@ -10267,16 +10295,18 @@
       "chapter": "第67篇明法解",
       "para_index": 36
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "formalization",
       "proposition"
     ],
     "confidence": null,
-    "note": "本段逐項劃分君臣的生殺、威勢、服從等名分並推論分明則易治，沒有在名分制度外另說人的樣態",
+    "note": "「君臣之閒明別，則主尊臣卑」論君臣名分使下之從上如響應聲。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "制羣臣，擅生殺，主之分也。縣令仰制，臣之分也。威勢尊顯，主之分也。卑賤畏敬，臣之",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T08:06:30+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "guanzi#64-p37",
@@ -10900,16 +10930,18 @@
       "chapter": "第76篇山至數",
       "para_index": 6
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "narrative",
       "proposition"
     ],
     "confidence": null,
-    "note": "高壟美室奪農事與市庸，以及乘時徐疾，均在評斷國家政策利害，未斷言人的樣態",
+    "note": "「此奪農事及市庸」批評權貴營建侵奪民力，並判為「非便國之道」，論公義。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "桓公問管子曰：「特命我曰：『天子三百領，泰嗇而散。大夫准此而行。』此如何？」管子",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T08:06:30+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "guanzi#72-p07",
@@ -11171,16 +11203,18 @@
       "chapter": "第78篇揆度",
       "para_index": 3
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription",
       "formalization"
     ],
     "confidence": null,
-    "note": "冒稱司馬、治田或任官能力者受死刑或割鼻，是任官懲詐條文，無人敢誣祿只是制度預期結果",
+    "note": "「故無敢姦能誣祿至於君者矣」說明嚴懲冒稱能力者使人不敢騙祿，論用人賞罰。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "輕重之法曰：「自言能爲司馬不能爲司馬者，殺其身以釁其鼓。自言能治田土不能治田土者",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T08:06:30+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "guanzi#74-p04",

@@ -2,8 +2,8 @@
   "domain": "VI",
   "name_zh": "情緒與內在生活",
   "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡",
-  "generated_at": "2026-10-03T14:26:48+00:00",
-  "para_count": 1028,
+  "generated_at": "2026-10-03T14:27:43+00:00",
+  "para_count": 1030,
   "book_count": 44,
   "surveyed_zero_hit": [
     "dongmingji",
@@ -4045,6 +4045,20 @@
     },
     {
       "slug": "huainanzi",
+      "chapter": "兵略訓",
+      "para_index": 17,
+      "para_id": "huainanzi#04-p17",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "是故為麋鹿者，則可以罝罘設也；為魚鱉者，則可以網罟取也；為鴻鵠者，則可以矰繳加也",
+      "note": "「上得天道，下得地利，中得人心」論得人心；「博聞而自亂，多知而自疑，居則恐懼，發則猶豫」寫疑懼擾亂內心。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "huainanzi",
       "chapter": "原道訓",
       "para_index": 4,
       "para_id": "huainanzi#05-p04",
@@ -5898,6 +5912,18 @@
       "co_domains": [
         "X"
       ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "論威",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#76-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡兵欲急疾捷先。欲急疾捷先，之道在於知緩徐遲後而急疾捷先之分也。急疾捷先，此所以",
+      "note": "「敵人之悼懼憚恐，單蕩精神盡矣」直接寫恐懼使人心神耗盡、失去方向。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "lushi-chunqiu",

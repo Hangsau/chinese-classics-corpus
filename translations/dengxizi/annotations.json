@@ -40,15 +40,17 @@
       "chapter": "1",
       "para_index": 3
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "全段以輿、策、馬、輪比喻勢、威、臣、民等治國要素，只說要素失調便危國，未提出人的樣態",
+    "note": "「臣順則馬良，民和則輪利」把臣順民和定為政權安穩的條件，是君臣與民心的論說。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "勢者君之輿，威者君之策，臣者君之馬，民者君之輪。勢固則輿安，威定則策勁，臣順則馬",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T17:20:47+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "dengxizi#01-p04",
@@ -74,15 +76,17 @@
       "chapter": "1",
       "para_index": 5
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": null,
-    "note": "循名責實、察法立威與明君審一都是君主察名實、立威定物的操作規則，未解釋人的性情",
+    "note": "「循名責實，察法立威，是明王也」直接說明君主該怎麼做，屬領導原則。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "循名責實，察法立威，是明王也。夫明於形者，分不遇於事；於動者，用不失則利。故明君",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T17:20:47+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "dengxizi#01-p06",
@@ -161,15 +165,18 @@
       "chapter": "1",
       "para_index": 10
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "III",
+      "VII"
+    ],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": null,
-    "note": "全段規定辯說應別殊類、序異端、通志意而不以飾詞匿詞相亂，是言辯方法，未說人為何如此",
+    "note": "「諭志通意，非務相乖也」說言談以相互理解為目的，並斥飾詞匿詞亂人，回應溝通與虛偽。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "辯說、非所聽也；虛言者，非所應也；無益之辭，非所舉也。故談者，別殊類、使不相害；",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T17:20:47+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "dengxizi#01-p11",
@@ -616,15 +623,17 @@
       "chapter": "2",
       "para_index": 14
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "成事須合於數、使人聽從須合於情，並以薪火與地水說同類相應，仍是使事必成的技術原理，未明說人的樣態",
+    "note": "「聽必合於情」講的是說服術，不是親密中的被理解，不承重。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "夫謀莫難於必聽，事莫難於必成，成必合於數，聽必合於情。故抱薪加火，爍者必先燃；平",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T17:20:47+08:00"
+    "tagged_by": "claude-override",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "dengxizi#02-p15",

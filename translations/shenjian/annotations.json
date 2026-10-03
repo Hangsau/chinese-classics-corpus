@@ -173,16 +173,18 @@
       "chapter": "1",
       "para_index": 10
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "「賞以勸善，罰以懲惡」至「賞妄行則善不勸……罰妄行則惡不懲」只論賞罰如何設置及其誘因效果，沒有在賞罰政策鏈之外解釋人的樣態",
+    "note": "「賞妄行則善不勸矣」說濫賞濫罰使勸善懲惡失效，是賞罰責任。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "賞罰，政之柄也。明賞必罰，審信愼令，賞以勸善，罰以懲惡。人主不妄賞，非徒愛其財也",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-15T17:52:51+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shenjian#01-p11",
@@ -190,16 +192,18 @@
       "chapter": "1",
       "para_index": 11
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription",
       "proposition"
     ],
     "confidence": null,
-    "note": "「行之以誠，守之以固，簡而不怠，䟽而不失」是在五政既立後規定施政方法，結論「海內平矣」仍是政策效果，未另對人下判斷",
+    "note": "「行之以誠，守之以固，簡而不怠」說領導者施政該有的樣態。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "四患旣蠲，五政旣〈按︰《漢書》作「又」。〉立，行之以誠，守之以固，簡而不怠，䟽而",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-15T17:52:51+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shenjian#01-p12",
@@ -599,16 +603,18 @@
       "chapter": "2",
       "para_index": 4
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "formalization"
     ],
     "confidence": null,
-    "note": "「目玆舉者試其事，處斯職者考其績」至「有事考功，有言考用，動則考行，靜則考守」是在設計考核項目；「事驗……則爲私者寡」只是這套制度的預期效果，未另解釋人爲何如此。",
+    "note": "「處斯職者考其績」主張任官須驗實績，可驗證的考核能抑私。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "誰毀誰譽，譽其有試者，萬事之槪量也。〈孔子曰︰「吾之於人也，誰毀誰譽？如有所譽者",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-15T17:52:51+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shenjian#02-p05",
@@ -616,16 +622,18 @@
       "chapter": "2",
       "para_index": 5
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "formalization"
     ],
     "confidence": null,
-    "note": "「不以過職絀則勿降……以過職絀則降」規定公卿、郡縣官的升降條件，通段是官員任用與懲愆之制。",
+    "note": "「小能其職以極登於大，故下位競」說升降依履職能力使在位者競勉戒慎。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "公卿不爲郡，二千石不爲縣，未是也。〈公謂三公，師、傅、保也。鄉謂六卿，冡宰至司空",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-15T17:52:51+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shenjian#02-p06",
@@ -780,16 +788,18 @@
       "chapter": "2",
       "para_index": 14
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription",
       "ritual"
     ],
     "confidence": null,
-    "note": "「必也舉其重而祀之」及「若今郡祀之，而其祀禮物，從鮮可也」是在規定郡祀層級與禮物豐省；「示民不偷」只是所列教化效果，未另對人下判斷，也未認證徵應。",
+    "note": "「聖王先成民而後致力於神」說治理者應先安民再事祭祀。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "聖王先成民而後致力於神，〈《東觀書》詔︰「《傳》曰：『聖王先成民而後致力於神。』",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-15T17:52:51+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shenjian#02-p15",

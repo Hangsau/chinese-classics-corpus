@@ -2,8 +2,8 @@
   "domain": "VIII",
   "name_zh": "工作·成就·召喚",
   "gist": "工作與金錢、成就與意義、天賦與使命",
-  "generated_at": "2026-10-03T14:26:48+00:00",
-  "para_count": 1630,
+  "generated_at": "2026-10-03T14:27:43+00:00",
+  "para_count": 1638,
   "book_count": 55,
   "surveyed_zero_hit": [
     "duduan",
@@ -5809,6 +5809,19 @@
     {
       "slug": "jinlouzi",
       "chapter": "立言篇九上〈案︰目錄有《立言上》《下》，原本合爲一篇，其散見複出者猶有上下之名，謹參考分之如左。〉",
+      "para_index": 37,
+      "para_id": "jinlouzi#15-p37",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "諸子興於戰國，文集盛於二漢，至家家有製，人人有集。其美者足以敘情志，敦風俗；其弊",
+      "note": "「翹足志學，白首不徧」寫學習者面對著述無窮的處境，回應學習問題。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "jinlouzi",
+      "chapter": "立言篇九上〈案︰目錄有《立言上》《下》，原本合爲一篇，其散見複出者猶有上下之名，謹參考分之如左。〉",
       "para_index": 38,
       "para_id": "jinlouzi#15-p38",
       "modes": [
@@ -9931,6 +9944,18 @@
     {
       "slug": "qianfulun",
       "chapter": "讚學第一",
+      "para_index": 2,
+      "para_id": "qianfulun#01-p02",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "是故工欲善其事，必先利其器。王欲宣其義，必先讀其書。《易》曰：「君子以多識前言往",
+      "note": "「人之有學也，猶物之有治也」說明人須經學習琢磨才成器。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "讚學第一",
       "para_index": 4,
       "para_id": "qianfulun#01-p04",
       "modes": [
@@ -9950,6 +9975,66 @@
       ],
       "excerpt": "夫道成於學而藏於書，學進於振而廢於窮。是故董仲舒終身不問家事，景君明經年不出戶庭",
       "note": "董仲舒終身不問家事、景君明經年不出戶庭：對召喚的全時投入。",
+      "co_domains": []
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "讚學第一",
+      "para_index": 6,
+      "para_id": "qianfulun#01-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是故造父疾趨，百步而廢，而託乘輿，坐致千里；水師泛軸，解維則溺，自託舟楫，坐濟江",
+      "note": "「君子者，性非絕世，善自託於物也」說成就不全靠資質，而靠學習假借外物。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "讚學第一",
+      "para_index": 7,
+      "para_id": "qianfulun#01-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫是故道之於心也，猶火之於人目也。中穽深室，幽黑無見，及設盛燭，則百物彰矣。此則",
+      "note": "「學問聖典，心思道術，則皆來覩矣」說學習使人看見原本不明之事。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "讚學第一",
+      "para_index": 8,
+      "para_id": "qianfulun#01-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是故索物於夜室者，莫良於火；索道於當世者，莫良於典。典者，經也，先聖之所制。先聖",
+      "note": "「索道於當世者，莫良於典」主張求道當藉典籍，屬學習途徑。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "讚學第一",
+      "para_index": 9,
+      "para_id": "qianfulun#01-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "昔倕之巧，目茂圓方，心定平直，又造規繩矩墨，以誨後人。試使奚仲、公班之徒，釋此四",
+      "note": "「凡工妄匠，執規秉矩，錯準引繩，則巧同於倕也」說憑規矩也能達到高超技藝。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "讚學第一",
+      "para_index": 10,
+      "para_id": "qianfulun#01-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "先聖之智，心達神明，性直道德，又造經典以遺後人。試使賢人君子釋於學問，抱質而行，",
+      "note": "「從師就學，按經而行」說賢人亦須從師學習才能近於聖。（2026-10-03 判空段定向重判改標；原判空）",
       "co_domains": []
     },
     {
@@ -18885,6 +18970,19 @@
         "X",
         "XIII"
       ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "勉学第八",
+      "para_index": 18,
+      "para_id": "yanshi-jiaxun#08-p18",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "书曰：“好问则裕。”礼云：“独学而无友，则孤陋而寡闻。”盖须切磋相起明也。见有闭",
+      "note": "「独学而无友，则孤陋而寡闻」並批評「闭门读书，师心自是」，直接說學習須切磋，屬學習方法。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "yanshi-jiaxun",

@@ -2,11 +2,10 @@
   "domain": "III",
   "name_zh": "愛與親密",
   "gist": "愛與性、被拒絕、承諾、信任與脆弱、溝通與被理解",
-  "generated_at": "2026-10-03T14:26:48+00:00",
-  "para_count": 173,
-  "book_count": 29,
+  "generated_at": "2026-10-03T14:27:43+00:00",
+  "para_count": 174,
+  "book_count": 30,
   "surveyed_zero_hit": [
-    "dengxizi",
     "duduan",
     "fangyan",
     "gongsun-longzi",
@@ -114,6 +113,20 @@
       "note": "「精慧小心」「《關雎》之潔」寫其才德，「宜作夫人，為眾女師」判定其婚姻與表率資格，「伊何爾命，在此賤微」則明指出才德與身分的落差。",
       "co_domains": [
         "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "1",
+      "para_index": 10,
+      "para_id": "dengxizi#01-p10",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "辯說、非所聽也；虛言者，非所應也；無益之辭，非所舉也。故談者，別殊類、使不相害；",
+      "note": "「諭志通意，非務相乖也」說言談以相互理解為目的，並斥飾詞匿詞亂人，回應溝通與虛偽。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": [
         "VII"
       ]
     },

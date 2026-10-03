@@ -252,15 +252,17 @@
       "chapter": "君臣〈此篇原刻全脫，依《治要》補。〉",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": null,
-    "note": "通篇規定人君據法倚數、官不私親與法不遺愛，只給施政操作原則，未說人是什麼樣的。",
+    "note": "「無勞之親，不任於官」「官不私親，法不遺愛」說任官執法不徇私親。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "爲人君者不多聽，據法倚數以觀得失。無法之言，不聽於耳；無法之勞，不圖於功；〈○二",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:06:10+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shenzi#08-p01",
@@ -368,15 +370,17 @@
       "chapter": "愼子逸文",
       "para_index": 7
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "只宣告權衡、尺寸、法度能防輕重長短與詐僞之欺，是工具效用而非人性說明",
+    "note": "「有法度者，不可巧以詐僞」說共同法度能防詐偽操弄。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "有權衡者，不可欺以輕重；有尺寸者，不可差以長短；有法度者，不可巧以詐僞。〈○《意",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:06:10+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shenzi#08-p08",
@@ -552,15 +556,17 @@
       "chapter": "愼子逸文",
       "para_index": 18
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "只用權衡左右輕重比擬君臣位置，是名位運作的譬喻，未解釋人的反應或品性",
+    "note": "「君臣之間，猶權衡也」說君臣權力彼此消長。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "君臣之間，猶權衡也。權左輕則右重，右重則左輕，輕重迭相橛，天地之理也。〈○《御覽",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:06:10+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shenzi#08-p19",
@@ -586,15 +592,17 @@
       "chapter": "愼子逸文",
       "para_index": 20
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "只論無法則亂、守法不變則衰及百姓有司君長各自如何對法，是治法與職分原則",
+    "note": "「有法而行私，謂之不法」與「守法而不變則衰」是統治與法度原則。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "故治國無其法則亂，守法而不變則衰。有法而行私，謂之不法。以力役法者，百姓也；以死",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:06:10+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shenzi#08-p21",
@@ -672,15 +680,17 @@
       "chapter": "愼子逸文",
       "para_index": 25
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "只規定賢者多寡不改變只能有一君的名分安排，未說人為何服從或競爭",
+    "note": "「多賢，不可以多君；無賢，不可以無君」說統治權威應單一不可缺。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "多賢，不可以多君；無賢，不可以無君。〈○《荀子‧解蔽篇》注。〉",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:06:10+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shenzi#08-p26",

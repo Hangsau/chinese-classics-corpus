@@ -2,8 +2,8 @@
   "domain": "VII",
   "name_zh": "善惡·良心·品格",
   "gist": "罪咎與贖罪、惡與殘忍與同理、誠實與虛偽、勇氣",
-  "generated_at": "2026-10-03T14:26:48+00:00",
-  "para_count": 3986,
+  "generated_at": "2026-10-03T14:27:43+00:00",
+  "para_count": 3990,
   "book_count": 54,
   "surveyed_zero_hit": [
     "dongmingji",
@@ -4645,6 +4645,20 @@
       "note": "不見敬愛用被分別歸於不恭、不仁、不信等品格，又以「行等而名殊」明說同等行實可能得到不同名聲",
       "co_domains": [
         "II"
+      ]
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "1",
+      "para_index": 10,
+      "para_id": "dengxizi#01-p10",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "辯說、非所聽也；虛言者，非所應也；無益之辭，非所舉也。故談者，別殊類、使不相害；",
+      "note": "「諭志通意，非務相乖也」說言談以相互理解為目的，並斥飾詞匿詞亂人，回應溝通與虛偽。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": [
+        "III"
       ]
     },
     {
@@ -17025,6 +17039,18 @@
     },
     {
       "slug": "jinlouzi",
+      "chapter": "雜記篇十三下",
+      "para_index": 13,
+      "para_id": "jinlouzi#13-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "枚乗有云：「磨礱不見其損，有時而盡；種樹不見其長，有時而大；積行不知其善，有時而",
+      "note": "「積行不知其善，有時而用」說善行棄義的逐漸累積後果。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "jinlouzi",
       "chapter": "自序篇十四",
       "para_index": 4,
       "para_id": "jinlouzi#14-p04",
@@ -21722,6 +21748,18 @@
       "co_domains": [
         "V"
       ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "別類",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#53-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "義，小為之則小有福，大為之則大有福。於禍則不然，小有之不若其亡也。射招者欲其中小",
+      "note": "「義，小為之則小有福，大為之則大有福」說行義與福禍的關係，是本段自己的善行主張。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "lushi-chunqiu",
@@ -31698,6 +31736,21 @@
       "excerpt": "國有禮有樂，有詩有書，有善有修，有孝有弟，有廉有辯──國有十者，上無使戰，必削至",
       "note": "明列禮樂詩書善修孝弟廉辯並主張有此十者必亡，直接否定一組德目與學問的價值",
       "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "戰法第十",
+      "para_index": 2,
+      "para_id": "shangjunshu#07-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "王者之兵，勝而不驕，敗而不怨。勝而不驕者，術明也；敗而不怨者，知所失也。若兵敵彊",
+      "note": "「將使民若乘良馬者，不可不齊也」屬用民；「勝而不驕，敗而不怨」另立勝敗之際的品格。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": [
+        "V"
+      ]
     },
     {
       "slug": "shangjunshu",

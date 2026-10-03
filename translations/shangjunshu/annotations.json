@@ -60,16 +60,18 @@
       "chapter": "更法第一",
       "para_index": 4
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "narrative",
       "proposition"
     ],
     "confidence": null,
-    "note": "主張因民施教、據舊法而治可使吏習民安，重點仍是是否變法的治術因果",
+    "note": "「據法而治者，吏習而民安」是甘龍支持守法治理的原則論說。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "甘龍曰：「不然。臣聞之，聖人不易民而教，知者不變法而治。因民而教者，不勞而功成；",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#01-p05",
@@ -97,16 +99,18 @@
       "chapter": "更法第一",
       "para_index": 6
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "narrative",
       "proposition"
     ],
     "confidence": null,
-    "note": "以利益與功效的門檻反對變法，所論是改革決策原則，未另說人是什麼樣的",
+    "note": "「利不百，不變法；功不十，不易器」是對統治者改革的原則主張。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "杜摯曰：「臣聞之，利不百，不變法；功不十，不易器。臣聞法古無過，循禮無邪。君其圖",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#01-p07",
@@ -153,16 +157,18 @@
       "chapter": "墾令第二",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription",
       "proposition"
     ],
     "confidence": null,
-    "note": "取消隔宿辦公以阻邪官牟私並增加農時，只是一條通往墾草的制度因果鏈",
+    "note": "「邪官不及為私利於民」說及時處事能防官吏牟私，是公權約束。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "無宿治，則邪官不及為私利於民，而百官之情不相稽。百官之情不相稽，則農有餘日。邪官",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#02-p02",
@@ -170,16 +176,18 @@
       "chapter": "墾令第二",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription",
       "proposition"
     ],
     "confidence": null,
-    "note": "按粟估價徵稅後逐層推到壯民務農、少民仿效，未解釋人為何有此反應",
+    "note": "「上壹則信，信則官不敢為邪」說統治一致建立信用而抑官吏作惡。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "訾粟而稅，則上壹而民平。上壹則信，信則官不敢為邪。民平則慎，慎則難變。上信而官不",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#02-p03",
@@ -416,16 +424,18 @@
       "chapter": "墾令第二",
       "para_index": 16
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription",
       "proposition"
     ],
     "confidence": null,
-    "note": "統一百縣治理格式以減邪官、徵役與農民負擔，仍是制度通往墾草的推論",
+    "note": "「過舉不匿，則官無邪人」說施政過失無法掩蓋則官吏不敢為邪，屬治理責任。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "百縣之治一形，則迂者不飾，代者不敢更其制，過而廢者不能匿其舉。過舉不匿，則官無邪",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#02-p17",
@@ -653,15 +663,17 @@
       "chapter": "去彊第四",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "全段以對舉格言宣告治法、國力與興兵的關係，沒有另述人的性情或處境",
+    "note": "「國為善，姦必多」斷言治理取向與奸邪的關係。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "以彊去弱者，弱；以弱去彊者，彊。國為善，姦必多。國富而貧，治曰重富，重富者彊。國",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#04-p02",
@@ -669,15 +681,17 @@
       "chapter": "去彊第四",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "列農商官與蝨官後反覆推論制度如何使國強弱，主體仍是國力因果",
+    "note": "「舉勞任功曰彊」把依勞績任用列為強國原則，屬用人。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "農、商、官三者，國之常官也。三官者生蝨官者六：曰歲，曰食，曰美，曰好，曰志，曰行",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#04-p03",
@@ -738,15 +752,17 @@
       "chapter": "去彊第四",
       "para_index": 6
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "從刑去刑一路推到力、強、威、惠與勇戰，只有賞刑治術的因果鏈",
+    "note": "「以刑去刑，國治；以刑致刑，國亂」直接論行刑原則與治亂後果。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "以刑去刑，國治；以刑致刑，國亂。故曰：行刑重輕，刑去事成，國彊；重重而輕輕，刑至",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#04-p07",
@@ -754,16 +770,18 @@
       "chapter": "去彊第四",
       "para_index": 7
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "formalization"
     ],
     "confidence": null,
-    "note": "以金粟換算與「十三數」清單衡量強國條件，是國力計量和制度推演而非人的主張",
+    "note": "「國無怨民曰彊國」以民無怨恨界定國強，是民心承重句。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "金生而粟死，粟生而金死。本物賤，事者眾，買者少，農困而姦勸；其兵弱，國必削至亡。",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#05-p01",
@@ -771,16 +789,18 @@
       "chapter": "壹言第八",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "規定制度、治法與賞罰如何使民務農樂戰並富國，仍是立法到行為的政策鏈",
+    "note": "「置賞罰之明也」說民眾效死從事與上位者榮名賞罰的關係。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "凡將立國，制度不可不時也，治法不可不慎也，國務不可不謹也，事本不可不摶也。制度時",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#05-p02",
@@ -788,15 +808,17 @@
       "chapter": "壹言第八",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "反覆推演摶力、殺力、壹務與農戰如何造成國家強亡，沒有另立人性依據",
+    "note": "「治國貴民壹；民壹則樸，樸則農」把統一民志列為治國原則。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "夫聖人之治國也，能摶力，能殺力。制度察則民力摶，摶而不化則不行，行而無富則生亂。",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#05-p03",
@@ -823,15 +845,17 @@
       "chapter": "錯法第九",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "從法明、功分與爵祿配置推到民競功和兵強，是賞功制度的連鎖效果",
+    "note": "「賞必加於其功」與「功賞明，則民競於功」是任用與賞罰標準。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "臣聞古之明君，錯法而民無邪，舉事而材自練，行賞而兵彊，此三者治之本也。夫錯法而民",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#06-p02",
@@ -858,15 +882,17 @@
       "chapter": "錯法第九",
       "para_index": 3
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "說請謁先於功力、利祿無須犯難等制度會削弱國家，主體是任官賞祿的政策因果",
+    "note": "「功立而富貴隨之，無私德也」主張以實功而非私恩給予富貴。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "人君有爵行而兵弱者，有祿行而國貧者，有法立而治亂者，此三者，國之患也。故人君者先",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#06-p04",
@@ -893,16 +919,18 @@
       "chapter": "戰法第十",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "從政勝推到作戰紀律並規定追擊距離、察敵與交戰條件，主體是用兵原則",
+    "note": "「使民怯於邑鬥，而勇於寇戰」說治理如何改變民眾私鬥與公戰的行為。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "凡戰法必本於政勝，則其民不爭；不爭則無以私意，以上為意。故王者之政，使民怯於邑鬥",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#07-p02",
@@ -910,16 +938,19 @@
       "chapter": "戰法第十",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V",
+      "VII"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "勝不驕敗不怨只作為軍事勝術的一環，全段在列將政、地形與整軍的勝敗條件",
+    "note": "「將使民若乘良馬者，不可不齊也」屬用民；「勝而不驕，敗而不怨」另立勝敗之際的品格。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "王者之兵，勝而不驕，敗而不怨。勝而不驕者，術明也；敗而不怨者，知所失也。若兵敵彊",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#08-p01",
@@ -927,15 +958,17 @@
       "chapter": "立本第十一",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "以法、勢、治、富、強的格言串說明用兵根本，未提出獨立的人的主張",
+    "note": "「賞壹則爵尊，爵尊則賞能利矣」說賞賜一致維持爵位的激勵。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "凡用兵，勝有三等：若兵未起而錯法，錯法而俗成，俗成而用具。此三者必行於境內，而後",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#09-p01",
@@ -980,16 +1013,18 @@
       "chapter": "靳令第十三",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "從法定不革、任功授爵到農不怠皆是制度槓桿與國勢後果，未把人的性情另立為論據",
+    "note": "「授官予爵出祿不以功，是無當也」批評授官失準，並說任功任善使民行為不同。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "靳令則治不留，法平則吏無姦。法已定矣，不以善言害法。任功則民少言，任善則民多言。",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#10-p02",
@@ -997,15 +1032,17 @@
       "chapter": "靳令第十三",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "所列榮辱、憂羞都接在六蝨任官與賞罰制度的結果鏈上，全文只比較政策如何使國強弱",
+    "note": "「其境內之民，爭以為榮，莫以為辱」說任官與賞罰如何塑造民眾榮辱感。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "國貧而務戰，毒輸於敵，無六蝨，必彊。國富而不戰，偷生於內，有六蝨，必弱。國以功授",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#10-p03",
@@ -1031,15 +1068,17 @@
       "chapter": "靳令第十三",
       "para_index": 4
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "重刑少賞、利出一空與以刑去刑構成賞罰制度的因果格言，未另說人為何如此",
+    "note": "「重刑少賞，上愛民，民死上」說刑賞輕重與民眾效死的關係。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "重刑少賞，上愛民，民死上；重賞輕刑，上不愛民，民不死上。利出一空者，其國無敵；利",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#10-p05",
@@ -1065,16 +1104,18 @@
       "chapter": "修權第十四",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "法、信、權及賞厚刑必都是君主守法用權的制度原則，民信賞刑的反應也只在政策鏈中出現",
+    "note": "「君臣釋法任私，必亂」與「民信其賞則事功成」說公法與信用。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "國之所以治者三：一曰法，二曰信，三曰權。法者，君臣之所共操也；信者，君臣之所共立",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#11-p02",
@@ -1082,15 +1123,17 @@
       "chapter": "修權第十四",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "以權衡尺寸比法度並規定依程賞誅，末尾忠臣不進、戰士不用仍只是授官賞祿失當的制度後果",
+    "note": "「授官予爵，不以其勞，則忠臣不進」說用人賞祿失當使忠臣戰士退縮。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "世之為治者，多釋法而任私議，此國之所以亂也。先王縣權衡，立尺寸，而至今法之，其分",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#11-p03",
@@ -1186,16 +1229,18 @@
       "chapter": "說民第五",
       "para_index": 4
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "全段用輕重刑的先後推導刑去事成或刑至事生，「民之情也治」仍服務於這套治刑程序",
+    "note": "「輕者不生，則重者無從至矣」說明刑罰輕重如何抑制人犯罪，屬賞罰論說。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "罰重，爵尊；賞輕，刑威。爵尊，上愛民；刑威，民死上。故興國行罰則民利，用賞則上重",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#12-p05",
@@ -1241,15 +1286,17 @@
       "chapter": "說民第五",
       "para_index": 7
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "家斷、官斷、君斷及五里十里的對舉是行政裁斷層級與治亂結果的公式，未說人是什麼樣的",
+    "note": "「王者刑賞斷於民心」與「治國貴下斷」是裁斷權與民心的統治原則。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "國治：斷家王，斷官彊，斷君弱。重輕刑去，常官則治。省刑要保，賞不可倍也。有姦必告",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#13-p01",
@@ -1713,16 +1760,18 @@
       "chapter": "君臣第二十三",
       "para_index": 3
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription",
       "proposition"
     ],
     "confidence": null,
-    "note": "規定言、行、事是否中法時應聽、高、為或不為，並接續國治兵彊的制度效果，沒有另立人的樣態",
+    "note": "「言不中法者，不聽也；行不中法者，不高也」要求人主以法為採言褒行的準則。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "故明主慎法制。言不中法者，不聽也；行不中法者，不高也；事不中法者，不為也。言中法",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#20-p01",
@@ -2020,15 +2069,17 @@
       "chapter": "賞刑第十七",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "只總列壹賞、壹刑、壹教及其兵敵、令行、下聽的治理效果，是制度綱目，未另說人是什麼樣的",
+    "note": "「壹賞則兵無敵，壹刑則令行，壹教則下聽上」論賞刑教一致如何維持服從。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "聖人之為國也：壹賞，壹刑，壹教。壹賞則兵無敵，壹刑則令行，壹教則下聽上。夫明賞不",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#24-p02",
@@ -2094,15 +2145,17 @@
       "chapter": "賞刑第十七",
       "para_index": 5
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "收束聖人舉要、按功授官、不赦過刑的治國原則，殺賞仁暴也只依國法界定，沒有另說人的樣態",
+    "note": "「聖人以功授官予爵，故賢者不憂」說按功授官使賢者安心。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "此臣之所謂參教也。聖人惟能知萬物之要也，故其治國，舉要以致萬物。故寡教而多功。聖",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#25-p01",
@@ -2168,15 +2221,17 @@
       "chapter": "畫策第十八",
       "para_index": 4
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「重治／重亂」「重彊／重弱」只是四組國政與兵勢定義，民欲戰與否僅作分類條件，未另解釋人的性情或生活問題",
+    "note": "「國無明法，不肖者敢為非」說法度不明助長作惡，並對照明主舉賢。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "國或重治，或重亂。明主在上，所舉必賢，則法可在賢；法可在賢，則法在下，不肖不敢為",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#25-p05",

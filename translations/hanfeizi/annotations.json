@@ -401,15 +401,17 @@
       "chapter": "五蠹",
       "para_index": 13
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": null,
-    "note": "規定以法為教、以吏為師，並把言談、行動、勇力導入法、功、軍，只有治國操作鏈而未解釋人為何如此",
+    "note": "「其言談者必軌於法」說明君主以法為教如何塑造民眾言行，統治原則。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "故明主之國，無書簡之文，以法爲教；無先王之語，以吏爲師；無私劒之捍，以斬首爲勇。",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#04-p14",
@@ -1082,15 +1084,17 @@
       "chapter": "內儲說上七術",
       "para_index": 26
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "只以「重其輕者」推出輕罪與重罪皆不至，是未解釋人何以如此的刑罰政策鏈",
+    "note": "「行刑重其輕者，輕者不至」說重罰輕罪使人不犯，論刑罰與人行為。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "一曰：公孫鞅曰：「行刑重其輕者，輕者不至，重者不来，是謂以刑去刑也。」",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#08-p27",
@@ -2881,15 +2885,17 @@
       "chapter": "八奸",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": null,
-    "note": "逐項規定明君應如何阻斷內謁、左右增辭、私德與外國求索，是對八術的治理操作",
+    "note": "「必實其能，察其過」要求明君核實臣下能力與過失，論用人與公私權力。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "明君之於內也，娛其色而不行其謁，不使私請。其於左右也，使其身必責其言，不使益辭。",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#10-p03",
@@ -2897,15 +2903,17 @@
       "chapter": "八奸",
       "para_index": 3
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "以臣借外國控制國內界定亡君，並推出不聽外援的制度效果，仍只論君主阻斷外借之術",
+    "note": "「令臣以外為制於內，則是君人者亡也」論臣借外力控君的權力喪失。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "則謂亡君者，非莫有其國也，而有之者，皆非己有也。令臣以外為制於內，則是君人者亡也",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#10-p04",
@@ -2948,16 +2956,18 @@
       "chapter": "八姦",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription",
       "proposition"
     ],
     "confidence": null,
-    "note": "先逐項規定明君阻斷八術的做法，再以臣借外國控制國內說明亡君，主體仍是治理程序",
+    "note": "「必實其能，察其過」並防群臣私請與外力制君，論用人與權力。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "明君之於内也，娛其色而不行其謁，不使私請。其於左右也，使其身必責其言，不使益辭。",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#11-p03",
@@ -3352,15 +3362,17 @@
       "chapter": "八說",
       "para_index": 12
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": null,
-    "note": "只界定貴臣與重臣並規定按功遷官、誅罰偽言，是官制與用臣條文，未另說人是什麼樣",
+    "note": "「明主之國，有貴臣，無重臣」區分依功受爵與專權，論用人。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "明主之國，有貴臣，無重臣。貴臣者，爵尊而官大也；重臣者，言聽而力多者也。明主之國",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#14-p01",
@@ -3674,16 +3686,18 @@
       "chapter": "制分",
       "para_index": 4
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "提出治國應任數不任人、去言而任法的治術原則，但未進一步說明人的本性、品格或關係",
+    "note": "「任數不任人」明確主張治理依法術而非依人，統治原則。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "夫治法之至明者，任數不任人。是以有術之國，不用譽則毋適，境内必治，任數也。亡國使",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#16-p05",
@@ -3977,16 +3991,18 @@
       "chapter": "南面",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "本段界定人臣先少索資而以事誣主的誘事手法，並規定如何用前後言責及賞罰制止，是駕馭程序而未解釋人何以如此",
+    "note": "「則羣臣莫敢飾言以惽主」說追究承諾不實可抑制臣下欺瞞，論賞罰與用人。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "人主有誘於事者，有壅於言者，二者不可不察也。人臣易言事者，少索資，以事誣主。主誘",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#19-p03",
@@ -6738,15 +6754,17 @@
       "chapter": "外儲說右上",
       "para_index": 4
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": null,
-    "note": "規定賞譽罰毀皆不能使之改變時便加以除去，只給處置門檻而未解釋人何以如此",
+    "note": "「賞之譽之不勸，罰之毁之不畏」則去之，以臣下對賞罰的反應決定去留，論用人賞罰。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "一。賞之譽之不勸，罰之毁之不畏，四者加焉不變，則其除之。",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#26-p05",
@@ -7142,15 +7160,17 @@
       "chapter": "外儲說右上",
       "para_index": 27
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "把獨視、獨聽、獨斷界定為明主的治術條件，只規定君主如何掌握資訊與決斷",
+    "note": "「能獨断者，故可以爲天下主」把獨立決斷列為領導者條件。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "申子曰：「獨視者謂明，獨聽者謂聰。能獨断者，故可以爲天下主。」",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#26-p28",
@@ -7479,15 +7499,17 @@
       "chapter": "外儲說右下",
       "para_index": 6
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "以共轡、共琴皆敗比喻君臣不可共權共勢，只論權力配置的治術，未說明人為何如此",
+    "note": "「人主安能與其臣共權以爲治」以共御共琴說君臣不可共權，論權力配置。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "一。造父御四馬，馳驟周旋而恣欲於馬。恣欲於馬者，擅轡筴之制也。然馬驚於出彘而造父",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#27-p07",
@@ -7794,15 +7816,17 @@
       "chapter": "外儲說右下",
       "para_index": 24
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": null,
-    "note": "援引古禮的同服同族界線勸君主不可把權勢借人，僅是保有權柄的規戒，未交代人何以如此",
+    "note": "「而況君人者乃借其權而外其勢乎」勸君主不可外借權勢，君權論說。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "方吾子曰：「吾聞之古禮：行不與同服者同車，不與同族者共家，而況君人者乃借其權而外",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#27-p25",
@@ -7864,15 +7888,17 @@
       "chapter": "外儲說右下",
       "para_index": 28
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "以搖樹本、引網綱推到治吏不治民，只論行政應抓綱領的操作原理，沒有說人是什麼樣的",
+    "note": "「聖人治吏不治民」主張治理須抓官吏這個綱，領導與行政責任。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "四。揺木者一一攝其葉，則勞而不徧；左右拊其本，而葉徧揺矣。臨淵而揺木，鳥驚而高，",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#27-p29",
@@ -7880,15 +7906,17 @@
       "chapter": "外儲說右下",
       "para_index": 29
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "以救火時指揮萬人勝於親自挈壺說明君主不躬小事，只是分工指揮的治術原理",
+    "note": "「明主不躬小事」說領導者應組織指揮多人，分工與領導。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "救火者，令吏挈壺甕而走火，則一人之用也；操鞭箠指麾而趣使人，則制萬夫。是以聖人不",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#27-p30",
@@ -7944,15 +7972,17 @@
       "chapter": "外儲說右下",
       "para_index": 33
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "由齊趙只聞權臣推到人主不操術便勢輕臣擅名，仍是保有君權的治術因果，未另論人性",
+    "note": "「人主者不操術，則威勢輕而臣擅名」論君不操術致權臣奪威。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "一曰：入齊，則獨聞淖齒而不聞齊王；入趙，則獨聞李兌而不聞趙王。故曰：人主者不操術",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#27-p34",
@@ -8932,16 +8962,18 @@
       "chapter": "心度",
       "para_index": 3
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "只鋪陳如何動員民力、配置爵位並封閉私學的強國政策鏈，未解釋人為何如此",
+    "note": "「賞功爵任而邪無所關」將官爵繫於功勞，論用人與賞罰。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "能越力於地者富，能起力於敵者強，強不塞者王。故王道在所開，在所塞，塞其姦者必王。",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#36-p01",
@@ -9125,16 +9157,18 @@
       "chapter": "愛臣",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "由諸侯大臣勢盛致亂的史例轉列限權、禁私交與武器管制條文，是防臣權的操作規則",
+    "note": "「羣臣之太富也」使君被奪，並說明君該以法蓄臣，論君臣權力。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "昔者紂之亡，周之卑，皆從諸侯之博大也；晉之分也，齊之奪也，皆以羣臣之太富也。夫燕",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#39-p01",
@@ -9181,15 +9215,17 @@
       "chapter": "揚榷",
       "para_index": 3
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": null,
-    "note": "規定君主如何循名任事、比較形名以考核臣下，是名實考課程序而非自我認同主張",
+    "note": "「形名參同，用其所生」並使臣下貢情，論用人與考核。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "用一之道，以名為首，名正物定，名倚物徒。故聖人執一以靜，使名自命，令事自定。不見",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#39-p04",
@@ -9216,15 +9252,17 @@
       "chapter": "揚榷",
       "para_index": 5
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "以道、德及衡繩等物的差異類比君臣異道與形名參同，仍在說明治術結構",
+    "note": "「君操其名，臣效其形，形名參同，上下和調也」論君臣職責。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "夫道者，弘大而無形；德者，核理而普至。至於群生，斟酌用之，萬物皆盛，而不與其寧。",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#39-p06",
@@ -9307,15 +9345,17 @@
       "chapter": "揚榷",
       "para_index": 10
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": null,
-    "note": "反覆以披木剪枝作比，規定君主如何削弱宗室與黨與以防私門壅主，是控權操作",
+    "note": "「私門將實，公庭將虛，主將壅圍」說私勢壯大壅蔽君主，權力論說。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "為人君者，數披其木，毋使木技扶疏；木枝扶疏，將塞公閭，私門將實，公庭將虛，主將壅",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#40-p01",
@@ -9761,16 +9801,18 @@
       "chapter": "用人",
       "para_index": 8
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription",
       "proposition"
     ],
     "confidence": null,
-    "note": "以補牆防風作比，規定君主須先防近禍、用近謀而不可仰賴遠方援助，是治術指令，未斷言人的品性或處境",
+    "note": "「不用近賢之謀」被列為招禍的失策，要求君主重身邊賢者與內治，論用人。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "夫人主不塞隙穴而勞力於赭堊，暴雨疾風必壞。不去眉睫之禍而慕賁、育之死，不謹蕭牆之",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#43-p01",
@@ -12792,15 +12834,17 @@
       "chapter": "難三",
       "para_index": 11
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "以知下、禁微、散黨、分公私、明賞罰串成免患的治術鏈，未另說明人為何如此或某種關係的本質",
+    "note": "「公私分則朋黨散」說明知下明可抑制結黨，論治理與權力。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "夫對三公一言而三公可以無患，知下之謂也。知下明則禁於微，禁於微則姦無積，姦無積則",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#51-p12",
@@ -12883,15 +12927,17 @@
       "chapter": "難三",
       "para_index": 16
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "只以眼前賞罰是否可信推演未見之行為能否禁止，是賞罰操作的因果規則，未提出其他人的主張",
+    "note": "「賞罰信於所見」則人不敢為於所不見，論賞罰的約束。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "管子曰：「見其可，說之有證；見其不可，惡之有形。賞罰信於所見，雖所不見，其敢爲之",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#51-p17",
@@ -12934,15 +12980,17 @@
       "chapter": "難三",
       "para_index": 19
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "以法應公開、術須隱藏反駁滿室滿堂之說，內容全在區分法術的發布方式，未另作人的斷言",
+    "note": "「故法莫如顯，而術不欲見」說法須向百姓公開、術須隱，論君主運用權力。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "或曰：管仲之所謂言室滿室、言堂滿堂者，非特謂遊戲飲食之言也，必謂大物也。人主之大",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#52-p01",
@@ -14131,16 +14179,18 @@
       "chapter": "飭令",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription",
       "formalization"
     ],
     "confidence": null,
-    "note": "全段只規定法令固定、任功與依法斷治的制度效果及里數標準，未另說人為何如此。",
+    "note": "「法平則吏無姦」並說任功任善使民言多寡，論法與用人如何塑造人。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "飭令則法不遷，法平則吏無姦。法已定矣，不以善言害法。任功則民少言，任善則民多言。",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#58-p02",
@@ -14148,16 +14198,18 @@
       "chapter": "飭令",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription",
       "formalization"
     ],
     "confidence": null,
-    "note": "逐項規定刑賞、農粟出爵、按功授官與攻取的制度程序及數量效果，只是做甲得乙的治國鏈條。",
+    "note": "「授官爵、出利禄不以功，是無當也」要求以功授官，論用人賞功。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "以刑治，以賞戰，厚禄以用術。行都之過，則都無姦市。物多末衆，農㢮姦勝，則國必削。",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#58-p03",
@@ -14165,16 +14217,18 @@
       "chapter": "飭令",
       "para_index": 3
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription",
       "formalization"
     ],
     "confidence": null,
-    "note": "按重刑少賞、利出一二十空與加重輕罪分列刑賞規則及國勢結果，沒有把人的性情作為依據說出。",
+    "note": "「重刑少賞，上愛民，民死賞」說刑賞配置決定人民是否效死，論賞罰與民心。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "重刑少賞，上愛民，民死賞；多賞輕刑，上不愛民，民不死賞。利出一空者，其國無敵；利",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T14:13:55+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "hanfeizi#59-p01",

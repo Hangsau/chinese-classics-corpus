@@ -628,16 +628,18 @@
       "chapter": "善謀/卷下",
       "para_index": 9
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "narrative",
       "proposition"
     ],
     "confidence": null,
-    "note": "婁敬以周都雒邑的條件作比較，落點是「秦地被山帶河，四塞以為固」且有膏腴之地，主張入關建都；其中德薄、哭泣等語服務於建都條件的對照，刪掉少的是地形與都城選擇論證。",
+    "note": "「有德則易以王，無德則易以亡」是統治原則論說，主張務德致人、不恃險阻而虐民。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "高皇帝五年，齊人婁敬戍隴西，過雒陽，脫輅挽，見齊人虞將軍曰：「臣願見上言便宜事。",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-15T16:02:16+08:00"
+    "tagged_by": "claude-sonnet-5.5-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "xinxu#03-p10",

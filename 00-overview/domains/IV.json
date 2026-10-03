@@ -2,8 +2,8 @@
   "domain": "IV",
   "name_zh": "家庭與傳承",
   "gist": "婚姻與家庭、原生家庭的傷、為人父母、記憶與和解、留下什麼給後代",
-  "generated_at": "2026-10-03T14:26:48+00:00",
-  "para_count": 863,
+  "generated_at": "2026-10-03T14:27:43+00:00",
+  "para_count": 868,
   "book_count": 45,
   "surveyed_zero_hit": [
     "fangyan",
@@ -4192,6 +4192,20 @@
     },
     {
       "slug": "lushi-chunqiu",
+      "chapter": "蕩兵",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#07-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "家無怒笞，則豎子嬰兒之有過也立見；國無刑罰，則百姓之（悟）相侵也立見；天下無誅伐",
+      "note": "「家無怒笞，則豎子嬰兒之有過也立見」說家庭管教不可廢，並以刑罰論民眾相侵。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
       "chapter": "精通",
       "para_index": 4,
       "para_id": "lushi-chunqiu#20-p04",
@@ -4263,6 +4277,20 @@
       "note": "「不可知則君臣、父子、兄弟、朋友、夫妻之際敗矣」逐項說明行止不可預期會破壞人倫：夫妻承重於親密（III），父子兄弟承重於家庭（IV），君臣朋友承重於群體關係（V）；拿掉任一格都會漏掉本段明列的一類關係。",
       "co_domains": [
         "III",
+        "V"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "處方",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#56-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "五曰：凡為治必先定分。君臣父子夫婦君臣父子夫婦六者當位，則下不踰節而上不苟為矣，",
+      "note": "「君臣父子夫婦君臣父子夫婦六者當位，則下不踰節而上不苟為矣」同時論家庭角色與上下分際。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": [
         "V"
       ]
     },
@@ -4462,6 +4490,18 @@
     {
       "slug": "lushi-chunqiu",
       "chapter": "孝行",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#148-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡為天下，治國家，必務本而後末。所謂本者，非耕耘種殖之謂，務其人也。務其人，非貧",
+      "note": "「務本莫貴於孝」把孝立為治國之本，並列君臣士民行孝的結果。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "孝行",
       "para_index": 2,
       "para_id": "lushi-chunqiu#148-p02",
       "modes": [
@@ -4486,6 +4526,18 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "孝行",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#148-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "商書曰：“刑三百，罪莫重於不孝。”",
+      "note": "「罪莫重於不孝」整段即此一主張，直接斷定不孝最重，雖是引語仍是本段唯一的價值判斷。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "lushi-chunqiu",
@@ -5638,6 +5690,18 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "qianfulun",
+      "chapter": "讚學第一",
+      "para_index": 3,
+      "para_id": "qianfulun#01-p03",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "《詩》云：「題彼鶺鴒，載飛載鳴。我日斯邁，而月斯征。夙興夜寐，無忝爾所生。」是以",
+      "note": "「思述祖考之令問，而以顯父母也」說進德修業是為承續祖先、彰顯父母。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "qianfulun",

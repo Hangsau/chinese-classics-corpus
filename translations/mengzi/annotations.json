@@ -3325,15 +3325,17 @@
       "chapter": "teng-wen-gong-i",
       "para_index": 9
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": null,
-    "note": "「治地莫善於助，莫不善於貢」比較三代田稅之制而主張助法為善，全段以稅制政策條目為主，政策條目本身判空",
+    "note": "「惡在其為民父母也」責問使老稚轉乎溝壑的統治者，已是公義問責。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "「夏后氏五十而貢，殷人七十而助，周人百畝而徹，其實皆什一也。徹者，徹也；助者，藉",
-    "tagged_by": "minimax-m3",
-    "tagged_at": "2026-10-03T11:27:31+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "mengzi#05-p10",
@@ -3359,15 +3361,17 @@
       "chapter": "teng-wen-gong-i",
       "para_index": 11
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": null,
-    "note": "「經界不正，井地不鈞，穀祿不平」詳述井田經界與祿制之規劃，全段為井地政策條目之規範，政策條目本身判空",
+    "note": "「出入相友，守望相助，疾病相扶持，則百姓親睦」說鄰里互助生出親睦。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "使畢戰問井地。孟子曰：「子之君將行仁政，選擇而使子，子必勉之！夫仁政，必自經界始",
-    "tagged_by": "minimax-m3",
-    "tagged_at": "2026-10-03T11:27:31+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "mengzi#05-p12",

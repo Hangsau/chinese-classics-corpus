@@ -403,15 +403,17 @@
       "chapter": "大道上",
       "para_index": 7
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": null,
-    "note": "只規定君主應秘術專勢並先正名分以免臣下侵雜，未另說臣下為何會如此",
+    "note": "「先正名分，使不相侵雜，然後術可秘、勢可專」是君臣名分與統治原則的論說。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "術者，人君之所密用，群下不可妄窺。勢者，制法之利器，群下不可妄為。人君有術，而使",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T17:19:55+08:00"
+    "tagged_by": "claude-sonnet-5.5-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "yinwenzi#02-p08",
@@ -506,15 +508,17 @@
       "chapter": "大道上",
       "para_index": 13
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "只列度量衡律名法如何使萬事歸一並令各類人同受治理，未另說人的心理或品行機制",
+    "note": "「百度皆準於法」說以法歸一，連頑嚚聾瞽之人也可同受治理，是統治原則論說。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "故人以度審長短，以量受多少，以衡平輕重，以律均清濁，以名稽虛實，以法定治亂，以簡",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T17:19:55+08:00"
+    "tagged_by": "claude-sonnet-5.5-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "yinwenzi#02-p14",
@@ -808,15 +812,17 @@
       "chapter": "大道上",
       "para_index": 29
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "只論治亂不應依賴一代君主賢愚而須使制度延續，是治術原理，未另說人的樣態",
+    "note": "「治亂係於賢愚，不係於禮樂」是論治亂不可繫於君主賢愚，須靠制度，屬統治原則。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "若使遭賢則治，遭愚則亂，是治亂係於賢愚，不係於禮樂。是聖人之術，與聖主而俱沒。治",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T17:19:55+08:00"
+    "tagged_by": "claude-sonnet-5.5-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "yinwenzi#02-p30",
@@ -1117,15 +1123,17 @@
       "chapter": "大道下",
       "para_index": 3
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "只判定臣侵君權、不畏禁令與不軌法度才是亂政根本，是先誅治術而未解釋人的樣態",
+    "note": "「下侵上之權，臣用君之術」指出臣侵君權、不畏禁令是亂政之本，屬君臣關係論說。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "治主之興，必有所先誅。先誅者，非謂盜，非謂姦，此二惡者，一時之大害，非亂政之本也",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T17:19:55+08:00"
+    "tagged_by": "claude-sonnet-5.5-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "yinwenzi#03-p04",

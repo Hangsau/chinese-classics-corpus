@@ -103,16 +103,18 @@
       "chapter": "兆人章第六",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "本段只列百姓承法度、行孝悌、勤稼穡以供王職的本分，並給出君德、風雨與生計的結果鏈，沒有另把家內關係或人的心理品格作為依據，故不因「孝悌於其家」給 IV",
+    "note": "「此兆人之忠也」把百姓承法度、勤稼穡定為忠的本分，並說君德昭明則人賴以生，屬統治與責任的論說句；孝悌一語不單獨標 IV。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "天地泰寧，君之德也，君德昭明，則陰陽風雨以和，人賴之而生也。是故只承君之法度，行",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-15T15:02:30+08:00"
+    "tagged_by": "claude-sonnet-5.5-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "zhongjing#07-p01",

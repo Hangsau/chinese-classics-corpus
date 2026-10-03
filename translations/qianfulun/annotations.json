@@ -23,15 +23,17 @@
       "chapter": "讚學第一",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "VIII"
+    ],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": "high",
-    "note": "為學方法（利器／讀書），純 Z-wisdom。",
+    "note": "「人之有學也，猶物之有治也」說明人須經學習琢磨才成器。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "是故工欲善其事，必先利其器。王欲宣其義，必先讀其書。《易》曰：「君子以多識前言往",
-    "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "qianfulun#01-p03",
@@ -39,15 +41,17 @@
       "chapter": "讚學第一",
       "para_index": 3
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "IV"
+    ],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": "medium",
-    "note": "引詩勸勤，無獨立主張。",
+    "note": "「思述祖考之令問，而以顯父母也」說進德修業是為承續祖先、彰顯父母。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "《詩》云：「題彼鶺鴒，載飛載鳴。我日斯邁，而月斯征。夙興夜寐，無忝爾所生。」是以",
-    "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "qianfulun#01-p04",
@@ -91,15 +95,17 @@
       "chapter": "讚學第一",
       "para_index": 6
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "VIII"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": "high",
-    "note": "造父／水師之喻，論借助工具，Z-wisdom。",
+    "note": "「君子者，性非絕世，善自託於物也」說成就不全靠資質，而靠學習假借外物。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "是故造父疾趨，百步而廢，而託乘輿，坐致千里；水師泛軸，解維則溺，自託舟楫，坐濟江",
-    "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "qianfulun#01-p07",
@@ -107,15 +113,17 @@
       "chapter": "讚學第一",
       "para_index": 7
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "VIII"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": "high",
-    "note": "道之於心猶火之於目，認識論譬喻。",
+    "note": "「學問聖典，心思道術，則皆來覩矣」說學習使人看見原本不明之事。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "夫是故道之於心也，猶火之於人目也。中穽深室，幽黑無見，及設盛燭，則百物彰矣。此則",
-    "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "qianfulun#01-p08",
@@ -123,15 +131,17 @@
       "chapter": "讚學第一",
       "para_index": 8
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "VIII"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": "high",
-    "note": "論典籍作用。",
+    "note": "「索道於當世者，莫良於典」主張求道當藉典籍，屬學習途徑。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "是故索物於夜室者，莫良於火；索道於當世者，莫良於典。典者，經也，先聖之所制。先聖",
-    "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "qianfulun#01-p09",
@@ -139,15 +149,17 @@
       "chapter": "讚學第一",
       "para_index": 9
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "VIII"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": "medium",
-    "note": "倕造規繩矩墨以誨後人。知識傳承屬 Z-wisdom，不作 IV（家庭與傳承）解。",
+    "note": "「凡工妄匠，執規秉矩，錯準引繩，則巧同於倕也」說憑規矩也能達到高超技藝。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "昔倕之巧，目茂圓方，心定平直，又造規繩矩墨，以誨後人。試使奚仲、公班之徒，釋此四",
-    "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "qianfulun#01-p10",
@@ -155,15 +167,17 @@
       "chapter": "讚學第一",
       "para_index": 10
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "VIII"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": "medium",
-    "note": "同上，先聖造經典以遺後人。",
+    "note": "「從師就學，按經而行」說賢人亦須從師學習才能近於聖。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "先聖之智，心達神明，性直道德，又造經典以遺後人。試使賢人君子釋於學問，抱質而行，",
-    "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "qianfulun#01-p11",

@@ -593,15 +593,18 @@
       "chapter": "蕩兵",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "IV",
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「家無怒笞，則豎子嬰兒之有過也立見；國無刑罰，則百姓之相侵也立見」只把笞、刑、伐組成不可廢止的治理鏈，落點仍是「有義兵而無有偃兵」",
+    "note": "「家無怒笞，則豎子嬰兒之有過也立見」說家庭管教不可廢，並以刑罰論民眾相侵。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "家無怒笞，則豎子嬰兒之有過也立見；國無刑罰，則百姓之（悟）相侵也立見；天下無誅伐",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#07-p03",
@@ -681,15 +684,17 @@
       "chapter": "振亂",
       "para_index": 3
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「凡人之所以惡為無道不義者，為其罰也」及求義「為其賞也」立即把人的趨避換算成賞罰槓桿，整段終止於以賞善罰惡求治的政策鏈",
+    "note": "「賞不善而罰善，欲民之治也，不亦難乎」批判賞罰顛倒，論公義。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "夫攻伐之事，未有不攻無道而罰不義也。攻無道而伐不義，則福莫大焉，黔首利莫厚焉。禁",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#09-p01",
@@ -697,15 +702,17 @@
       "chapter": "禁塞",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「未有不守無道而救不義也」只是判定救守會保全無道者，落點「為天下之民害莫深焉」仍是攻守取捨的兵論結論，未另說人的樣態",
+    "note": "「為天下之民害莫深焉」以民害判斷庇護無道，論公義與權力。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "四曰：夫救守之心，未有不守無道而救不義也。守無道而救不義，則禍莫大焉，為天下之民",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#09-p02",
@@ -751,15 +758,17 @@
       "chapter": "懷寵",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": null,
-    "note": "「不虐五穀，不掘墳墓，不伐樹木，不燒積聚，不焚室屋，不取六畜」逐項規定義兵入境的操作，落點是軍隊如何取得敵境民眾配合",
+    "note": "「則民知所庇矣」說義兵使人感到受庇護，並要求軍隊不虐民、取信於民。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "暴虐姦詐之與義理反也，其（執）〔埶〕不俱勝、不兩立。故兵入於敵之境，則民知所庇矣",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#10-p03",
@@ -767,16 +776,18 @@
       "chapter": "懷寵",
       "para_index": 3
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription",
       "formalization"
     ],
     "confidence": null,
-    "note": "「先發聲出號曰」以下是出兵告示，並以「以家聽者，祿之以家」至「以國聽者，祿之以國」列出分級獎勵；恤孤敬老、復祀散粟也都置於克國鎮撫的操作程序中",
+    "note": "「是以賢者榮其名，而長老說其禮，民懷其德」說尊賢恤民如何得民心，並斥慶賞不當。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "先發聲出號曰：「兵之來也，以救民之死。子之在上無道，据傲荒怠，貪戾虐眾，恣睢自用",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#10-p04",
@@ -784,15 +795,17 @@
       "chapter": "懷寵",
       "para_index": 4
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「能生死一人，則天下必爭事之矣」把受惠後的歸附直接換算成義兵的得民效果，收在「兵不接刃而民服若化」，仍是軍事政策鏈",
+    "note": "「誅國之民望之若父母」直接寫民心向背。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "今有人於此，能生死一人，則天下必爭事之矣。義兵之生一人亦多矣，人孰不說？故義兵至",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#11-p01",
@@ -1220,15 +1233,17 @@
       "chapter": "圜道",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「主執圜，臣處方，方圜不易，其國乃昌」把天地形制直接套成君臣分職與國家效果，整段停留在如何建立上下秩序的制度原理",
+    "note": "「主執圜，臣處方，方圜不易，其國乃昌」直接說君臣各守其分。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "五曰：天道圜，地道方，聖王法之，所以立上下。何以說天道之圜也？精氣一上一下，圜周",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#15-p02",
@@ -1236,16 +1251,18 @@
       "chapter": "圜道",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "formalization"
     ],
     "confidence": null,
-    "note": "日月、四時、水泉及九竅的循環全被用來形式化「令出於主口，官職受而行之」的號令周流；末以「號令不感，則不得而使矣」收束，仍只說君術如何通達",
+    "note": "「號令不感，則不得而使矣」說君令不通臣便無法使臣，屬君臣關係。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "日夜一周，圜道也。月躔二十八宿，軫與角屬，圜道也。精行四時，一上一下各與遇，圜道",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#15-p03",
@@ -2156,15 +2173,17 @@
       "chapter": "功名",
       "para_index": 3
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「桀、紂以去之之道致之也，罰雖重，刑雖嚴，何益」只以招致／去除的比喻評估刑罰手段是否奏效，仍是怎麼治的政策鏈，沒有另立人的樣態",
+    "note": "「罰雖重，刑雖嚴，何益」批判桀紂以重刑代替得民之道，是賞罰論說。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "缶醯黃，蚋聚之，有酸，徒水則必不可。以貍致鼠，以冰致蠅，雖工不能。以茹魚去蠅，蠅",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#25-p04",
@@ -2543,16 +2562,18 @@
       "chapter": "召類",
       "para_index": 3
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "「亂則用，治則止」規定何時用兵；「文者愛之徵也，武者惡之表也。愛惡循義」仍用來界定文武啟動條件，末句「事適於時者其功大」也只收在怎麼打、何時打的兵論",
+    "note": "「亂而弗討，害民莫長焉」以百姓受害衡量用武正當，屬公義與統治責任。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "兵所自來者久矣：堯戰於丹水之浦，以服南蠻；舜卻苗民，更易其俗；禹攻曹魏，屈驁有扈",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#29-p04",
@@ -3743,16 +3764,18 @@
       "chapter": "原亂",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "「倒戈弛弓，示天下不用兵，所以守之也」把武王的做法列成取得、守住天下的政治鏈；「毋過亂門」也是避亂處方，本段沒有另說人的樣態。",
+    "note": "「武王以武得之，以文持之」主張得天下後改以文治守成，是統治原則。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "亂必有弟，大亂五，小亂三，討亂三，故《詩》曰：「毋過亂門」，所以遠之也。慮福未及",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#45-p02",
@@ -4113,16 +4136,18 @@
       "chapter": "求人",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "「得賢人，國無不安，名無不榮；矢賢人，國無不危，名無不辱」全是取得人才與國勢結果的政策鏈；「今壽國有道，而君人者而不求，過矣」把益壽比喻也鎖在勸君求才，沒有另說人的樣態。",
+    "note": "「得賢人，國無不安，名無不榮」把得失賢人與國家安危相連，並責君不求賢。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "身定，國安，天下治，必賢人。古之有天下也者，七十一聖。觀於春秋，自魯隱公以至哀公",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#50-p02",
@@ -4398,15 +4423,17 @@
       "chapter": "別類",
       "para_index": 4
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "VII"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「義，小為之則小有福，大為之則大有福。於禍則不然」只比較福禍與射物在大小尺度上的不同，收在「物固不必，安可推也」的類推命題，沒有另說人的樣態",
+    "note": "「義，小為之則小有福，大為之則大有福」說行義與福禍的關係，是本段自己的善行主張。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "義，小為之則小有福，大為之則大有福。於禍則不然，小有之不若其亡也。射招者欲其中小",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#53-p05",
@@ -4603,15 +4630,17 @@
       "chapter": "分職",
       "para_index": 4
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「以其民安」「以其地封」「以其財賞」依次列出占有並配置民、地、財的政治效果，天下不危、不說、皆競都只是政策鏈終端，沒有另行解釋人的樣態",
+    "note": "「以其財賞而天下皆競」說明湯武以行賞使天下響應，屬賞罰與民心。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "棗，棘之有；裘，狐之有也。食棘之棗，衣狐之皮，先王固用非其有，而己有之。湯、武一",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#55-p05",
@@ -4658,15 +4687,18 @@
       "chapter": "處方",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "IV",
+      "V"
+    ],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": null,
-    "note": "「凡為治必先定分」以下列舉君臣、父子、夫婦、貴賤與長少各自當位，是維持秩序的角色制度條文；「則下不踰節而上不苟為」仍是制度施行後的政策效果",
+    "note": "「君臣父子夫婦君臣父子夫婦六者當位，則下不踰節而上不苟為矣」同時論家庭角色與上下分際。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "五曰：凡為治必先定分。君臣父子夫婦君臣父子夫婦六者當位，則下不踰節而上不苟為矣，",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#56-p02",
@@ -4770,15 +4802,17 @@
       "chapter": "慎小",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「巨防容螻，而漂邑殺人」至「主過一言，而國殘名辱」只是並列小失導致大禍的因果例句，沒有進一步說明人的欲求、性情或處境",
+    "note": "「主過一言，而國殘名辱」指出人主一言之失可致國禍，屬領導者責任。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "巨防容螻，而漂邑殺人；突洩一熛，而焚宮燒積；將失一令，而軍破身死；主過一言，而國",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#57-p03",
@@ -5465,16 +5499,18 @@
       "chapter": "不苟",
       "para_index": 4
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "narrative",
       "prescription"
     ],
     "confidence": null,
-    "note": "從「事服其任，人事其事」到「定分官，此古人之所以為法也」，故事只在規定官員不得越職及如何依法處置，落點是官制與法令，沒有另說人的樣態",
+    "note": "「人事其事」與「定分官，此古人之所以為法也」說官員各盡其職、越職受罰。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "秦繆公相百里奚，晉使叔虎、齊使東郭蹇如秦，公孫枝請見之。公曰：「請見客，子之事歟",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#64-p05",
@@ -6592,15 +6628,17 @@
       "chapter": "論威",
       "para_index": 3
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「三軍一心則令可使無敵矣」是軍令致勝鏈；「其藏於民心，捷於肌膚也，深痛執固，不可搖蕩」仍只描述命令內化後的戰鬥效能",
+    "note": "「其令信者其敵詘」與「藏於民心」說命令取信於民、民心專一，屬統治與民心。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "凡軍欲其眾也，心欲其一也，三軍一心則令可使無敵矣。令能無敵者，其兵之於天下也亦無",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#76-p04",
@@ -6626,15 +6664,17 @@
       "chapter": "論威",
       "para_index": 5
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "VI"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「并氣專精，心無有慮，目無有視，耳無有聞，一諸武而已矣」是求取急疾捷先的決戰狀態，後接使敵「悼懼憚恐」的戰場操控，並非內在生活主張",
+    "note": "「敵人之悼懼憚恐，單蕩精神盡矣」直接寫恐懼使人心神耗盡、失去方向。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "凡兵欲急疾捷先。欲急疾捷先，之道在於知緩徐遲後而急疾捷先之分也。急疾捷先，此所以",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#76-p06",
@@ -6779,15 +6819,17 @@
       "chapter": "決勝",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「夫兵有本幹：必義，必智，必勇」中的三項隨即被換算為「敵孤獨」、知戰場虛實與決斷攻擊的勝兵條件；德目在此服務戰術，沒有獨立的人格論",
+    "note": "「義則敵孤獨，敵孤獨則上下虛，民解落」說不義使民心離散，屬民心論說。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "四曰：夫兵有本幹：必義，必智，必勇。義則敵孤獨，敵孤獨則上下虛，民解落；孤獨則父",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#78-p02",
@@ -8054,16 +8096,18 @@
       "chapter": "當務",
       "para_index": 5
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "narrative",
       "proposition"
     ],
     "confidence": null,
-    "note": "太史只據「有妻之子，而不可置妾之子」的身分條文決定太子，段末僅收在「用法若此，不若無法」；這是繼承法適用失當的制度短例，沒有另說人何以如此",
+    "note": "「用法若此，不若無法」批評拘守嫡庶條文讓不當者繼位，是對法的運用的判斷。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "紂之同母三人，其長曰微子啟，其次曰中衍，其次曰受德。受德乃紂也，甚少矣。紂母之生",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#94-p01",
@@ -8128,16 +8172,18 @@
       "chapter": "長見",
       "para_index": 4
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "narrative",
       "proposition"
     ],
     "confidence": null,
-    "note": "太公「尊賢上功」與周公「親親上恩」各自預測齊魯國勢，後文只登錄齊大而易姓、魯削而亡的政策後果；段落在比較治國路線，沒有另把人的樣態說成依據",
+    "note": "「尊賢上功」與「親親上恩」兩種治國用人原則，並以齊魯結局作對照。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "呂太公望封於齊，周公旦封於魯，二君者甚相善也。相謂曰“何以治國”？太公望曰：“尊",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#94-p05",
@@ -8244,16 +8290,18 @@
       "chapter": "審分",
       "para_index": 4
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "王良控轡使馬只是譬喻，落點明定人主使臣之轡為「正名審分，是治之轡已」；整段只給如何駕馭群臣的治術，未另解釋人為何如此",
+    "note": "「正名審分，是治之轡已」把使群臣之道落在君臣關係。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "王良之所以使馬者，約審之以控其轡，而四馬莫敢不盡力。有道之主，其所以使群臣者亦有",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#95-p05",
@@ -8453,15 +8501,17 @@
       "chapter": "勿躬",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「此二十官者，聖人之所以治天下也」先作發明者與官能登錄，後以「聖王不能二十官之事，然而使二十官盡其巧、畢其能」說君術效能；「神合乎太一」「精通乎鬼神」也是無為君術修辭，不是信仰主張。",
+    "note": "「使二十官盡其巧、畢其能」主張君主讓各官盡其所長，並說善為君者百官自治。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "大橈作甲子，黔如作虜首，容成作厤，羲和作占日，尚儀作占月，后益作占歲，胡曹作衣，",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#98-p03",
@@ -8489,15 +8539,17 @@
       "chapter": "知度",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「知百官之要，故事省而國治也」與「明於人主之所執，故權專而姦止」只列君主掌要、百官行事的治理鏈，未另提出人的樣態。",
+    "note": "「知百官之要，故事省而國治也」說君主應掌握要領讓百官行事。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "五曰──明君者，非遍見萬物也，明於人主之所執也。有術之主者，非一自行之也，知百官",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#99-p02",
@@ -8744,15 +8796,17 @@
       "chapter": "執一",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「軍必有將」「國必有君」「天子必執一」只規定組織權柄須歸一，御馬四人各執一策的比喻也只證成「一則治，兩則亂」的制度鏈。",
+    "note": "「一則治，兩則亂」論君為統合者與權責統一。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "八曰──天地陰陽不革，而成萬物不同。目不失其明，而見白黑之殊；耳不失其聽，而聞清",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#102-p02",
@@ -9666,15 +9720,17 @@
       "chapter": "用民",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「凡用民，太上以義，其次以賞罰」列的是使民的手段等級；「民無常用也，無常不用也，唯得其道為可」仍把人的反應完全鎖在是否得用民之道的政策鏈上，未另說人生領域",
+    "note": "「凡用民，太上以義，其次以賞罰」明列領導民眾的層次。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "四曰──凡用民，太上以義，其次以賞罰。其義則不足死，賞罰則不足去就，若是而能用其",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#113-p02",
@@ -9682,15 +9738,17 @@
       "chapter": "用民",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「其民非不可用也，不得所以用之也」只把大國兵少診斷為未得動員方法，末句「用民之論，不可不熟」也明示全段仍在討論如何使民，沒有獨立的人之樣態主張",
+    "note": "「其民非不可用也，不得所以用之也」把動員失敗歸於領導方法。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "闔廬之用兵也不過三萬，吳起之用兵也不過五萬。萬乘之國，其為三萬五萬尚多。今外之則",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#113-p03",
@@ -9698,15 +9756,17 @@
       "chapter": "用民",
       "para_index": 3
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「劍不徒斷，車不自行，或使之也」與種麥得麥都是工具、播種類比；落點「不審其種，而祈民之用」只要求審查使民的投入方法，屬用民政策鏈",
+    "note": "「用民亦有種，不審其種，而祈民之用，惑莫大焉」指領導者不能忽略促民響應的條件。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "劍不徒斷，車不自行，或使之也。夫種麥而得麥，種稷而得稷，人不怪也。用民亦有種，不",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#113-p04",
@@ -9714,15 +9774,17 @@
       "chapter": "用民",
       "para_index": 4
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「欲榮利，惡辱害」在下一句立即被換算為「辱害所以為罰充也，榮利所以為賞實也」，全段用欲惡建立賞罰如何使民的紀綱，未讓欲惡成為獨立的人生主張",
+    "note": "「賞罰皆有充實，則民無不用矣」依民欲榮利惡辱害論賞罰。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "當禹之時，天下萬國，至於湯而三千餘國，今無存者矣，皆不能用其民也。民之不用，賞罰",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#113-p05",
@@ -9807,15 +9869,17 @@
       "chapter": "適威",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「抑之以方則方，抑之以圜則圜」只把民的可塑性當作「五帝三王之所以無敵」的治術投入；段落未在治國效果之外另立人的主張，故判空。",
+    "note": "「仁義以治之，愛利以安之，忠信以導之」明定領導者如何對待百姓。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "古之君民者，仁義以治之，愛利以安之，忠信以導之，務除其災，思致其福。故民之於上也",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#114-p03",
@@ -9843,15 +9907,17 @@
       "chapter": "為欲",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「故人之欲多者，其可得用亦多；人之欲少者，其得用亦少；無欲者，不可得用也」把欲望立即換算成君主可利用的程度，整段鎖在「令人得欲」的使民政策鏈，故判空。",
+    "note": "「無欲者，不可得用也」說人的欲望決定能否被驅使，論用民與權力。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "六曰──使民無欲，上雖賢猶不能用。夫無欲者，其視為天子也與為輿隸同，其視有天下也",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#115-p02",
@@ -10968,15 +11034,17 @@
       "chapter": "貴因",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「因水之力」「因人之心」「因民之欲」「因其械」把水、人心、民欲與舟車並列為達成政業的可用條件；全段只說借力成功的策略，沒有把人的樣態另立為主張，故領域判空。",
+    "note": "「因民之欲也」把湯武成就歸於順應民欲，論民心向背。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "三代所寶莫如因，因則無敵。禹通三江、五湖，決伊闕，溝迴陸，注之東海，因水之力也。",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#130-p02",
@@ -11124,16 +11192,18 @@
       "chapter": "審應",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription",
       "proposition"
     ],
     "confidence": null,
-    "note": "「取其實以責其名，則說者不敢妄言」把名實核驗直接用作約束進言的君術程序，所得只落在「人主之所執其要」，沒有另說人的樣態",
+    "note": "「則說者不敢妄言」說君主以名實核驗約束進言者，君臣考核。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "一曰──人主出聲應容，不可不審。凡主有識，言不欲先。人唱我和，人先我隨。以其出為",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#132-p02",
@@ -11678,16 +11748,18 @@
       "chapter": "淫辭",
       "para_index": 7
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "narrative",
       "proposition"
     ],
     "confidence": null,
-    "note": "「無辨其善與不善而時罪之，若此則群臣畏矣」把善惡與恐懼直接換算成隨機施刑的治術，結尾「唐鞅之對也，不若無對」只評這套答辭的反噬後果",
+    "note": "「不若無辨其善與不善而時罪之」說任意罪人使群臣恐懼，並以唐鞅被殺示其反噬，論刑罰與權力。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "宋王謂其相唐鞅曰：「寡人所殺戮者眾矣，而群臣愈不畏，其故何也？」唐鞅對曰：「王之",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#136-p08",
@@ -12329,16 +12401,18 @@
       "chapter": "察微",
       "para_index": 4
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "narrative",
       "prescription"
     ],
     "confidence": null,
-    "note": "羊斟因未得饗而驅車入敵只是戰敗例證，段末明定「戰，大機也」並收在「故凡戰必悉熟偏備，知彼知己，然後可也」；它只給戰場準備與操控條件，未另說人的樣態",
+    "note": "「饗士而忘其御也，將以此敗而為虜，豈不宜哉」把敗虜歸於主將犒賞時漏掉部屬，是領導失當的論斷。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "鄭公子歸生率師伐宋。宋華元率師應之大棘，羊斟御。明日將戰，華元殺羊饗士，羊斟不與",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#145-p05",
@@ -12487,15 +12561,17 @@
       "chapter": "孝行",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "IV"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「人臣孝，則事君忠，處官廉，臨難死」與「士民孝，則耕芸疾，守戰固」立即把孝換算成官廉、耕戰等治國收益；這是以孝為治理槓桿的政策鏈，未另說人的樣態",
+    "note": "「務本莫貴於孝」把孝立為治國之本，並列君臣士民行孝的結果。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "凡為天下，治國家，必務本而後末。所謂本者，非耕耘種殖之謂，務其人也。務其人，非貧",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#148-p02",
@@ -12541,15 +12617,17 @@
       "chapter": "孝行",
       "para_index": 4
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "IV"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「刑三百，罪莫重於不孝」只登錄刑罰中罪等的最高排序，沒有拆解不孝行為，也沒有另說人為何如此",
+    "note": "「罪莫重於不孝」整段即此一主張，直接斷定不孝最重，雖是引語仍是本段唯一的價值判斷。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "商書曰：“刑三百，罪莫重於不孝。”",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#148-p05",
@@ -12557,15 +12635,17 @@
       "chapter": "孝行",
       "para_index": 5
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「貴德，貴貴，貴老，敬長，慈幼」是五項治理綱目，且明收在「先王之所以定天下也」；後文只以近聖、近君、近親等配置名目，未提出治理之外的人的樣態",
+    "note": "「貴德，貴貴，貴老，敬長，慈幼」列出治天下待人的五項原則，屬群體秩序與領導。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "曾子曰：“先王之所以治天下者五：貴德，貴貴，貴老，敬長，慈幼。此五者，先王之所以",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#148-p06",

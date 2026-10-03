@@ -2,8 +2,8 @@
   "domain": "XIII",
   "name_zh": "安頓·修復·平安",
   "gist": "靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈",
-  "generated_at": "2026-10-03T14:26:48+00:00",
-  "para_count": 283,
+  "generated_at": "2026-10-03T14:27:43+00:00",
+  "para_count": 284,
   "book_count": 33,
   "surveyed_zero_hit": [
     "duduan",
@@ -893,6 +893,19 @@
       "co_domains": [
         "XI"
       ]
+    },
+    {
+      "slug": "huainanzi",
+      "chapter": "原道訓",
+      "para_index": 3,
+      "para_id": "huainanzi#05-p03",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "夫太上之道，生萬物而不有，成化像而弗宰。跂行喙息，蠉飛蝡動，待而後生，莫之知德；",
+      "note": "「大丈夫恬然無思，澹然無慮」直接說人心神的安頓狀態。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "huainanzi",

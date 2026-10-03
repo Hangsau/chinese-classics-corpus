@@ -1966,16 +1966,18 @@
       "chapter": "勉学第八",
       "para_index": 18
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "VIII"
+    ],
     "discourse_mode": [
       "proposition",
       "narrative"
     ],
     "confidence": null,
-    "note": "先主張求問、交友切磋可免孤陋，後用多起誤釋字義、音讀與典故的故事驗證；核心是治學須互證的認知方法，未形成其他人生領域",
+    "note": "「独学而无友，则孤陋而寡闻」並批評「闭门读书，师心自是」，直接說學習須切磋，屬學習方法。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "书曰：“好问则裕。”礼云：“独学而无友，则孤陋而寡闻。”盖须切磋相起明也。见有闭",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-09T04:59:21+08:00"
+    "tagged_by": "claude-sonnet-5.5-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p19",

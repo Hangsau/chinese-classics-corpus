@@ -582,15 +582,17 @@
       "chapter": "八觀",
       "para_index": 7
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": "medium",
-    "note": "八觀綱目條目是觀察程序，屬 Z-wisdom，不填 psych_domains。",
+    "note": "「觀其所短，以知所長」提出識人用人的原則。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "七曰觀其所短，以知所長。",
-    "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "renwuzhi#03-p08",
@@ -598,15 +600,17 @@
       "chapter": "八觀",
       "para_index": 8
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": "medium",
-    "note": "八觀綱目條目是觀察程序，屬 Z-wisdom，不填 psych_domains。",
+    "note": "「觀其聰明，以知所達」以聰明判斷人才所能通達，是識才原則。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "八曰觀其聰明，以知所達。",
-    "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "renwuzhi#03-p09",
@@ -1397,15 +1401,17 @@
       "chapter": "八觀",
       "para_index": 53
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": "medium",
-    "note": null,
+    "note": "「所達之材可知也」斷言可由聰明程度辨知才力所及。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "是故，觀其聰明，而所達之材可知也。",
-    "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "renwuzhi#04-p01",
@@ -1760,15 +1766,17 @@
       "chapter": "效難",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": "medium",
-    "note": "主語是「知」，屬 Z-wisdom，不填 psych_domains。",
+    "note": "「有難知之難，有知之無由得效之難」指出知人用才的兩層限制。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "蓋知人之效有二難：有難知之難，有知之無由得效之難。",
-    "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "renwuzhi#06-p02",
@@ -1776,15 +1784,17 @@
       "chapter": "效難",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": "medium",
-    "note": null,
+    "note": "「隨行信名，失其中情」說只憑外行與名聲識人會失去實情。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "何謂難知之難？人物精微，能神而明，其道甚難，固難知之難也。是以眾人之察，不能盡備",
-    "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_by": "codex+sonnet-verify-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "renwuzhi#06-p03",

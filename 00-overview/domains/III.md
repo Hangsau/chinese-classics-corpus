@@ -1,17 +1,17 @@
 # III 愛與親密
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 173 段命中｜跨 29 部｜生成時間 2026-10-03T14:26:48+00:00
+> 174 段命中｜跨 30 部｜生成時間 2026-10-03T14:27:43+00:00
 
 愛與性、被拒絕、承諾、信任與脆弱、溝通與被理解
 
-姿態分佈：`proposition` 107、`narrative` 92、`observation` 34、`expression` 18、`prescription` 7、`ritual` 3
+姿態分佈：`proposition` 107、`narrative` 92、`observation` 34、`expression` 18、`prescription` 8、`ritual` 3
 
 ## 已通讀但本領域零命中
 
 負面結果，不是缺口——這些書讀過了，就是沒有（SCHEMA §5）。
 
-`dengxizi`（鄧析子）　`duduan`（獨斷）　`fangyan`（方言）　`gongsun-longzi`（公孫龍子）　`gu-sanfen`（古三墳）　`guiguzi`（鬼谷子）　`haidao-suanjing`（海島算經）　`houheixue`（厚黑學）　`huainanzi`（淮南子）　`jian-zhu-ke-shu`（諫逐客書）　`jijiupian`（急就篇）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`kongcongzi`（孔叢子）　`liutao`（六韜）　`nanjing`（難經）　`san-lue`（三略）　`shanghanlun`（傷寒論）　`shangjunshu`（商君書）　`shenjian`（申鑒）　`shenyijing`（神異經）　`shenzi`（慎子）　`sima-fa`（司馬法）　`sushu`（素書）　`tao-te-ching`（道德經）　`weiliaozi`（尉繚子）　`wuzi`（吳子）　`xinxu`（新序）　`yinwenzi`（尹文子）　`yuejueshu`（越絕書）　`yuzi`（鬻子）　`zhongjing`（忠經）
+`duduan`（獨斷）　`fangyan`（方言）　`gongsun-longzi`（公孫龍子）　`gu-sanfen`（古三墳）　`guiguzi`（鬼谷子）　`haidao-suanjing`（海島算經）　`houheixue`（厚黑學）　`huainanzi`（淮南子）　`jian-zhu-ke-shu`（諫逐客書）　`jijiupian`（急就篇）　`jinkui-yaolue`（金匱要略）　`jiuzhang-suanshu`（九章算術）　`kongcongzi`（孔叢子）　`liutao`（六韜）　`nanjing`（難經）　`san-lue`（三略）　`shanghanlun`（傷寒論）　`shangjunshu`（商君書）　`shenjian`（申鑒）　`shenyijing`（神異經）　`shenzi`（慎子）　`sima-fa`（司馬法）　`sushu`（素書）　`tao-te-ching`（道德經）　`weiliaozi`（尉繚子）　`wuzi`（吳子）　`xinxu`（新序）　`yinwenzi`（尹文子）　`yuejueshu`（越絕書）　`yuzi`（鬻子）　`zhongjing`（忠經）
 
 ## 列女傳（雜史）　31 段
 
@@ -300,6 +300,12 @@
 |---|---|---|---|---|
 | 大略篇 | 35 | `proposition` | 湯之咸，見夫婦。夫婦之道，不可不正也，君臣父子之本也。咸、感也，以高下下，以男下 | ＋IV 「夫婦之道，不可不正也，君臣父子之本也」明夫婦之道為君臣父子之根本，屬親密關係（III）與家庭傳承（IV） |
 | 大略篇 | 36 | `proposition` | 聘士之義，親迎之道，重始也。 | ＋V 「聘士之義，親迎之道，重始也」把聘士（群體用人）與親迎（夫婦）兩種禮共同歸於「重始」，涉群體（V）與夫婦（III） |
+
+## 鄧析子（雜家）　1 段
+
+| 篇 | 段 | 姿態 | 摘句 | 判讀 |
+|---|---|---|---|---|
+| 1 | 10 | `prescription` | 辯說、非所聽也；虛言者，非所應也；無益之辭，非所舉也。故談者，別殊類、使不相害； | ＋VII 「諭志通意，非務相乖也」說言談以相互理解為目的，並斥飾詞匿詞亂人，回應溝通與虛偽。（2026-10-03 判空段定向重判改標；原判空） |
 
 ## 京氏易傳（術數）　1 段
 

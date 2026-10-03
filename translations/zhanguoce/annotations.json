@@ -1019,15 +1019,17 @@
       "chapter": "蘇秦始將連橫",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「毛羽不豐滿者不可以高飛」以下用四個未具條件便不可行事的譬喻婉拒蘇秦；「道德不厚者不可以使民」仍是施政所需條件，沒有獨立說明人為何如此",
+    "note": "「道德不厚者不可以使民，政教不順者不可以煩大臣」說明統御民眾與大臣須有道德與政教為本，是統治原則論說。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "秦王曰：「寡人聞之，毛羽不豐滿者不可以高飛，文章〈鮑本文章，法令也。〉不成者不可",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "claude-sonnet-5.5-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#48-p03",
@@ -1233,16 +1235,18 @@
       "chapter": "張儀說秦王",
       "para_index": 5
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "observation",
       "proposition"
     ],
     "confidence": null,
-    "note": "「其民輕而難用」是對趙人的群體品題，沒有給出一般行為機制；「上下不相親也，貴賤不相信，然則是邯鄲不守」則只把親信狀態列作城池能否守住的軍事條件，後文全是攻趙後各國形勢的連鎖推算",
+    "note": "「號令不治，賞罰不信」並言「上下不相親也，貴賤不相信」，把賞罰失信與上下離心說成亡國之形，屬賞罰民心論說。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "「趙氏，中央之國也，雜〈鮑本補曰：韓子注，趙都邯鄲，燕之南，齊之西，魏之北，韓之",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "claude-sonnet-5.5-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#51-p06",
@@ -3194,16 +3198,18 @@
       "chapter": "謂秦王",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "「勝而不驕，故能服世；約而不忿，故能從鄰」把不驕不忿當成服世從鄰的致勝條件，後文也只據魏、趙、齊、楚形勢勸秦王改變外交作法，沒有獨立說明人是什麼樣的",
+    "note": "「驕忿非伯主之業也」並以「勝而不驕，故能服世；約而不忿，故能從鄰」說領導者勝後須不驕、受約不忿，屬領導樣態論說，雖後文轉入外交，此承重句可獨立。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "謂秦王〈姚本秦始皇也。〉曰：「臣竊惑王之輕齊易楚，而卑畜韓也。臣聞，王兵勝而不驕",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "claude-sonnet-5.5-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#103-p02",
@@ -3667,16 +3673,18 @@
       "chapter": "楚威王戰勝於徐州",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "narrative",
       "proposition"
     ],
     "confidence": null,
-    "note": "「盼子有功於國，百姓為之用……故王勝之也」和「復整其士卒以與王遇，必不便於王」只把特定將領與民眾是否效力納入下一戰勝負推演，是軍事條件，不是脫離國際情境後的對人斷語",
+    "note": "「盼子有功於國，百姓為之用」對比「大臣與百姓弗為用，故王勝之也」，說明將領得民與否決定成敗，屬民心向背與用人論說。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "楚威王〈姚本威王，楚元王之子，懷王之父也。〉戰勝於徐州，〈姚本徐州，或作舒州，是",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "claude-sonnet-5.5-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#112-p01",
@@ -4844,16 +4852,18 @@
       "chapter": "孟嘗君讌坐",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "narrative",
       "prescription"
     ],
     "confidence": null,
-    "note": "三位先生依次提出以血雪辱、揚長掩短、散財收士等「補之闕」的具體門客方案；「能為君決疑應卒」仍是如何替孟嘗君辦事的用人條件，沒有獨立說明人是什麼樣的",
+    "note": "「收天下之士，能為君決疑應卒，若魏文侯之有田子方、段干木也」是以府庫收士、用人補闕的論說，屬用人。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "孟嘗君讌〈鮑本讌，合語也。正曰：「讌」即「燕」。〉坐，謂三先生〈姚本先生，長老，",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "claude-sonnet-5.5-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#142-p01",
@@ -5284,16 +5294,18 @@
       "chapter": "齊宣王見顏斶[1]",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "narrative",
       "proposition"
     ],
     "confidence": null,
-    "note": "「士貴耳，王者不貴」是王、士位勢的品題，柳下季墓與齊王首級的賞格只是為當場辯論所作的政治比價，沒有給出一般行為機制；「宣王不悅」「默然不悅」均是敘事套語，不據此標情緒",
+    "note": "「士貴耳，王者不貴」並以「生王之頭，曾不若死士之壟也」論君與士之貴賤，屬君臣關係與禮賢論說。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "齊宣王見〈鮑本補曰：見，賢遍反。〉顏斶，〈鮑本集韻音觸，引呂春秋，齊有顏斶。補曰",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "claude-sonnet-5.5-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#152-p02",
@@ -5585,16 +5597,18 @@
       "chapter": "蘇秦說齊閔王",
       "para_index": 3
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "narrative"
     ],
     "confidence": null,
-    "note": "「順民之意，而料兵之能」在本段明接「兵不費，權不輕，地可廣，欲可成」，其餘以齊、韓、魏、秦、楚戰事說明不宜主怨，整段是用兵與結約的利害推演",
+    "note": "「善為國者，順民之意，而料兵之能」把順民意定為為國之要，屬民心論說；其餘主怨例仍是外交，僅此句承重。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "「臣聞善為國者，順民之意，而料兵之能，然後從〈鮑本從，謂後之。〉於天下。故約不為",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "claude-sonnet-5.5-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#159-p04",
@@ -5602,16 +5616,18 @@
       "chapter": "蘇秦說齊閔王",
       "para_index": 4
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "narrative"
     ],
     "confidence": null,
-    "note": "「祖仁者王，立義者伯，用兵窮者亡」把仁義直接繫於王伯成敗，屬德目工具化；夫差與萊、莒、陳、蔡之例則用來驗證大國後起、小國謹靜的存亡策略",
+    "note": "「強大之禍，常以王人為意也；夫弱小之殃，常以謀人為利也」並「祖仁者王，立義者伯」，說出強者好凌人、弱者好謀人的招禍樣態與仁義與王伯關係。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "「且夫強大之禍，常以王人為意〈鮑本欲為人王。〉也；夫〈姚本一無「夫」字。〉弱小之",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "claude-sonnet-5.5-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#159-p05",
@@ -6023,16 +6039,18 @@
       "chapter": "田單將攻狄",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "narrative",
       "proposition"
     ],
     "confidence": null,
-    "note": "「當此之時，將軍有死之心，而士卒無生之氣」緊接「此所以破燕也」，又以今日「有生之樂，無死之心」解釋「所以不勝者也」；全段把心氣當作兩次戰役勝負的條件，屬致勝分析而非獨立的人生主張。",
+    "note": "「將軍有死之心，而士卒無生之氣」與「有生之樂，無死之心，所以不勝者也」說將領安逸則失去帶兵之氣，屬領導者心氣論說，並由田單改厲氣而攻下為驗。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "齊嬰兒謠曰：「大冠若箕，〈鮑本箕，簸器。〉脩劍拄頤，攻狄不能，〈姚本續云：能，音",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "claude-sonnet-5.5-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#166-p01",
@@ -9387,16 +9405,18 @@
       "chapter": "武靈王平晝間居",
       "para_index": 9
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "「因民而教者，不勞而成功；據俗而動者，慮徑而易見也。」是依從民俗以求施政成功的條件式；「服奇者志淫，俗辟者亂民。」則是對異服異俗的動員式品題，沒有把人的行為來源說出來",
+    "note": "「因民而教者，不勞而成功」直指施政順不順民俗，成敗不同，屬統治原則與民心論說，照 V 判。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "趙造曰：「臣聞之，聖人不易民而教，知者不變俗而動。因民而教者，不勞而成功；據〈鮑",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "claude-sonnet-5.5-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#242-p10",
@@ -10123,16 +10143,18 @@
       "chapter": "衛靈公近雍疸彌子瑕[3]",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "narrative",
       "proposition"
     ],
     "confidence": null,
-    "note": "「君忿然作色」只是敘事套語，不能據此填情緒；「若灶則不然，前之人煬，則後之人無從見也。」借灶前受蔽說明近臣遮蔽君側的特定政治情勢，沒有脫離此情境的人性斷語",
+    "note": "「前之人煬，則後之人無從見也」以灶前受蔽說近臣專擅遮蔽君上，並以廢近臣收結，屬君臣關係與用人的論說，照 V 判；但借喻依附於衛靈公一事，較勉強。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "衛靈公近雍疸、〈鮑本「雍」作「癰」，「疸」作「疽」。○　孟子有其人，蓋醫之幸者。",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "claude-sonnet-5.5-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#263-p01",
@@ -10953,16 +10975,18 @@
       "chapter": "魏武侯與諸大夫浮於西河",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "narrative"
     ],
     "confidence": null,
-    "note": "「有此險也，然為政不善，而武王伐之。」與「地形險阻，奚足以霸王矣！」用歷史事例論證地險不足恃，落點仍是國家勝亡與霸王條件，沒有另說人的一般機制",
+    "note": "「為政不善，而禹放逐之」連舉三例並歸結「政惡故也」，說明國之存亡在為政好壞而不在險阻，是統治原則論說，照 V 判。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "吳起對曰：「河山之險，信〈姚本一本無「信」字。〉不足保也；是〈姚本一本無「是」字",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "claude-sonnet-5.5-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#294-p03",
@@ -17787,16 +17811,18 @@
       "chapter": "主父欲伐中山",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "narrative",
       "proposition"
     ],
     "confidence": null,
-    "note": "正文「舉士，則民務名不存本；朝賢，則耕者惰而戰士懦」把尊賢掛在農戰與亡國結果的政策鏈上；鮑彪、補曰注文主要爭論賢士或農戰何者能強國及中山亡國史因，仍是治國勝負條件",
+    "note": "「朝賢，則耕者惰而戰士懦」論尊賢用人對民風與國運的後果，屬用人與治國原則的論說句，門檻偏低（勉強）。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "主父〈姚本主父，趙武靈王也。〉欲伐中山，使李疵〈姚本疵，趙臣也。〉觀之。李疵曰：",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "claude-sonnet-5.5-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#497-p01",
@@ -17894,15 +17920,17 @@
       "chapter": "昭王既息民繕兵[2]",
       "para_index": 4
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「秦中士卒，以軍中為家，將帥為父母，不約而親，不謀而信，一心同功，死不旋踵。」與「臣人一心，上下同力，猶勾踐困於會稽之時也。」都被用作解釋前次得勝、此次難勝的軍事條件；「皆計利形勢，自然之理，何神之有哉！」收束的也是形勢計算，並非自由命運或信仰超越的主張",
+    "note": "「群臣相妒以功，諂諛用事，良臣斥疏，百姓心離」把用人失當與民心離散說成亡勢，另有「將帥為父母，不約而親」說上下同心，屬用人與民心論說。（2026-10-03 判空段定向重判改標；原判空）",
     "excerpt": "武安君曰：「是時楚王〈鮑本頃襄。〉恃其國大，不恤其政，而群臣相妒以功，諂諛〈鮑本",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "claude-sonnet-5.5-rejudge-2026-10-03",
+    "tagged_at": "2026-10-03T20:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#499-p05",

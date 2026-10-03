@@ -2,8 +2,8 @@
   "domain": "V",
   "name_zh": "群體·社會·公義",
   "gist": "孤獨與歸屬、友誼、我群他群與偏見、公義與權力、責任與領導",
-  "generated_at": "2026-10-03T14:26:48+00:00",
-  "para_count": 5434,
+  "generated_at": "2026-10-03T14:27:43+00:00",
+  "para_count": 5591,
   "book_count": 57,
   "surveyed_zero_hit": [
     "haidao-suanjing",
@@ -3686,6 +3686,30 @@
     {
       "slug": "dengxizi",
       "chapter": "1",
+      "para_index": 3,
+      "para_id": "dengxizi#01-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "勢者君之輿，威者君之策，臣者君之馬，民者君之輪。勢固則輿安，威定則策勁，臣順則馬",
+      "note": "「臣順則馬良，民和則輪利」把臣順民和定為政權安穩的條件，是君臣與民心的論說。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "1",
+      "para_index": 5,
+      "para_id": "dengxizi#01-p05",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "循名責實，察法立威，是明王也。夫明於形者，分不遇於事；於動者，用不失則利。故明君",
+      "note": "「循名責實，察法立威，是明王也」直接說明君主該怎麼做，屬領導原則。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "1",
       "para_index": 7,
       "para_id": "dengxizi#01-p07",
       "modes": [
@@ -3822,6 +3846,18 @@
       "co_domains": [
         "VI"
       ]
+    },
+    {
+      "slug": "dengxizi",
+      "chapter": "2",
+      "para_index": 14,
+      "para_id": "dengxizi#02-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫謀莫難於必聽，事莫難於必成，成必合於數，聽必合於情。故抱薪加火，爍者必先燃；平",
+      "note": "「聽必合於情」講的是說服術，不是親密中的被理解，不承重。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "dengxizi",
@@ -6636,6 +6672,19 @@
     {
       "slug": "guanzi",
       "chapter": "第15篇重令",
+      "para_index": 3,
+      "para_id": "guanzi#20-p03",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "故國不虛重，兵不虛勝，民不虛用，令不虛行。凡國之重也，必待兵之勝也，而國乃重。凡",
+      "note": "「禁不勝於親貴，罰不行於便辟」明說賞罰偏私使令不行，論公義與權力。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第15篇重令",
       "para_index": 5,
       "para_id": "guanzi#20-p05",
       "modes": [
@@ -7631,6 +7680,19 @@
     {
       "slug": "guanzi",
       "chapter": "第35篇侈靡",
+      "para_index": 7,
+      "para_id": "guanzi#37-p07",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "「强與短而立齊，國之若何？」「高予之名而舉之，重予之官而危之，因責其能以隨之。猶",
+      "note": "問大臣權過大將為害，答以「因責其能以隨之」，是君臣權力的處置論說。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第35篇侈靡",
       "para_index": 8,
       "para_id": "guanzi#37-p08",
       "modes": [
@@ -8282,6 +8344,18 @@
     {
       "slug": "guanzi",
       "chapter": "第52篇七主七臣",
+      "para_index": 4,
+      "para_id": "guanzi#53-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫倉庫非虛空也，商宦非虛壞也，法令非虛亂也，國家非虛亡也。彼時有春秋，歲有敗凶，",
+      "note": "「其所誅賞者非其人也」把亂世歸因於賞罰對象失當，論賞罰與用人。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第52篇七主七臣",
       "para_index": 5,
       "para_id": "guanzi#53-p05",
       "modes": [
@@ -8657,6 +8731,19 @@
     {
       "slug": "guanzi",
       "chapter": "第64篇形勢解",
+      "para_index": 16,
+      "para_id": "guanzi#61-p16",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "人主立其度量，陳其分職，明其法式，以莅其民，而不以言先之，則民循正。所謂抱蜀者，",
+      "note": "「而不以言先之，則民循正」說明確法式使百姓循正，是施政與人行為的論說。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
       "para_index": 18,
       "para_id": "guanzi#61-p18",
       "modes": [
@@ -8916,6 +9003,19 @@
     {
       "slug": "guanzi",
       "chapter": "第64篇形勢解",
+      "para_index": 46,
+      "para_id": "guanzi#61-p46",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "馬者，所乘以行野也，故雖不行於野，其養食馬也，未嘗解惰也。民者，所以守戰也，故雖",
+      "note": "「其治養民也，未嘗解惰也」要求統治者常養民，是責任論說。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
       "para_index": 47,
       "para_id": "guanzi#61-p47",
       "modes": [
@@ -8926,6 +9026,19 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 49,
+      "para_id": "guanzi#61-p49",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "以規矩爲方圜則成，以尺寸量短長則得，以法數治民則安。故事不廣於理者，其成若神。故",
+      "note": "「以法數治民則安」是依法治民的統治原則句。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "guanzi",
@@ -8966,6 +9079,19 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 56,
+      "para_id": "guanzi#61-p56",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "儀者，萬物之程式也。法度者，萬民之儀表也。禮義者，尊卑之儀表也。故動有儀則令行，",
+      "note": "「動有儀則令行，無儀則令不行」說執政者行止合度影響號令，屬領導與權威。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "guanzi",
@@ -9047,6 +9173,18 @@
       ],
       "excerpt": "明主，救天下之禍、安天下之危者也。夫救禍安危者，必待萬民之爲用也，而後能爲之。故",
       "note": "救天下之禍、安天下之危必須依靠萬民共同出力，明說領導與群體合作的依存關係",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
+      "para_index": 66,
+      "para_id": "guanzi#61-p66",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "地大國富，民衆兵强，此盛滿之國也。雖已盛滿，無德厚以安之，無度數以治之，則國非其",
+      "note": "「無德厚以安之，無度數以治之」說富強而無德治則民不屬，論民心。（2026-10-03 判空段定向重判改標；原判空）",
       "co_domains": []
     },
     {
@@ -9398,6 +9536,18 @@
     {
       "slug": "guanzi",
       "chapter": "第66篇版法解",
+      "para_index": 2,
+      "para_id": "guanzi#63-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "萬物尊天而貴風雨。所以尊天者，爲其莫不受命焉也。所以貴風雨者，爲其莫不待風而動，",
+      "note": "「則君日益輕，而威利日衰」說權柄分散削弱君主，論權力配置。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第66篇版法解",
       "para_index": 4,
       "para_id": "guanzi#63-p04",
       "modes": [
@@ -9547,6 +9697,18 @@
     {
       "slug": "guanzi",
       "chapter": "第66篇版法解",
+      "para_index": 14,
+      "para_id": "guanzi#63-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡人君所以尊安者，賢佐也。佐賢則君尊、國安、民治，無佐則君卑、國危、民亂。故曰：",
+      "note": "「佐賢則君尊、國安、民治」把任賢佐列為安定條件，論用人。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第66篇版法解",
       "para_index": 15,
       "para_id": "guanzi#63-p15",
       "modes": [
@@ -9628,6 +9790,44 @@
     {
       "slug": "guanzi",
       "chapter": "第67篇明法解",
+      "para_index": 5,
+      "para_id": "guanzi#64-p05",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "人主者，擅生殺，處威勢，操令行禁止之柄，以御其羣臣，此主道也。人臣者，處卑賤，奉",
+      "note": "「故主行臣道則亂，臣行主道則危」論君臣職分越界的後果。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 7,
+      "para_id": "guanzi#64-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡爲主而不得行其令，廢法而恣羣臣，威嚴已廢，權勢已奪，令不得出，羣臣弗爲用，百姓",
+      "note": "「廢法而恣羣臣」使君令不行，國非其國，論君臣權力與失治。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 8,
+      "para_id": "guanzi#64-p08",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "明主之道，卑賤不待尊貴而見，大臣不因左右而進，百官條通，羣臣顯見。有罰者，主見其",
+      "note": "「有罰者，主見其罪」強調賞罰須有實據、上下通達，論賞罰與用人。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
       "para_index": 9,
       "para_id": "guanzi#64-p09",
       "modes": [
@@ -9652,6 +9852,18 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 11,
+      "para_id": "guanzi#64-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人主之治國也，莫不有法令，賞罰具。故其法令明，而賞罰之所立者當，則主尊顯而姦不生",
+      "note": "「賞罰之所立者不當」使群臣立私壅塞，論賞罰失當的後果。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "guanzi",
@@ -9909,6 +10121,19 @@
     },
     {
       "slug": "guanzi",
+      "chapter": "第67篇明法解",
+      "para_index": 36,
+      "para_id": "guanzi#64-p36",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "制羣臣，擅生殺，主之分也。縣令仰制，臣之分也。威勢尊顯，主之分也。卑賤畏敬，臣之",
+      "note": "「君臣之閒明別，則主尊臣卑」論君臣名分使下之從上如響應聲。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
       "chapter": "第71篇事語",
       "para_index": 2,
       "para_id": "guanzi#67-p02",
@@ -10057,6 +10282,19 @@
     {
       "slug": "guanzi",
       "chapter": "第76篇山至數",
+      "para_index": 6,
+      "para_id": "guanzi#72-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓公問管子曰：「特命我曰：『天子三百領，泰嗇而散。大夫准此而行。』此如何？」管子",
+      "note": "「此奪農事及市庸」批評權貴營建侵奪民力，並判為「非便國之道」，論公義。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第76篇山至數",
       "para_index": 7,
       "para_id": "guanzi#72-p07",
       "modes": [
@@ -10098,6 +10336,19 @@
       "co_domains": [
         "VI"
       ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第78篇揆度",
+      "para_index": 3,
+      "para_id": "guanzi#74-p03",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "輕重之法曰：「自言能爲司馬不能爲司馬者，殺其身以釁其鼓。自言能治田土不能治田土者",
+      "note": "「故無敢姦能誣祿至於君者矣」說明嚴懲冒稱能力者使人不敢騙祿，論用人賞罰。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "guanzi",
@@ -11285,6 +11536,18 @@
     {
       "slug": "hanfeizi",
       "chapter": "五蠹",
+      "para_index": 13,
+      "para_id": "hanfeizi#04-p13",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "故明主之國，無書簡之文，以法爲教；無先王之語，以吏爲師；無私劒之捍，以斬首爲勇。",
+      "note": "「其言談者必軌於法」說明君主以法為教如何塑造民眾言行，統治原則。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "五蠹",
       "para_index": 14,
       "para_id": "hanfeizi#04-p14",
       "modes": [
@@ -11605,6 +11868,18 @@
       ],
       "excerpt": "公孫鞅之法也重輕罪。重罪者，人之所難犯也；而小過者，人之所易去也。使人去其所易，",
       "note": "以人容易避開小過、難以承受重罪，主張重罰輕罪能使人無罪而亂不生",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "內儲說上七術",
+      "para_index": 26,
+      "para_id": "hanfeizi#08-p26",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "一曰：公孫鞅曰：「行刑重其輕者，輕者不至，重者不来，是謂以刑去刑也。」",
+      "note": "「行刑重其輕者，輕者不至」說重罰輕罪使人不犯，論刑罰與人行為。（2026-10-03 判空段定向重判改標；原判空）",
       "co_domains": []
     },
     {
@@ -12156,6 +12431,30 @@
     {
       "slug": "hanfeizi",
       "chapter": "八奸",
+      "para_index": 2,
+      "para_id": "hanfeizi#10-p02",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "明君之於內也，娛其色而不行其謁，不使私請。其於左右也，使其身必責其言，不使益辭。",
+      "note": "「必實其能，察其過」要求明君核實臣下能力與過失，論用人與公私權力。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "八奸",
+      "para_index": 3,
+      "para_id": "hanfeizi#10-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "則謂亡君者，非莫有其國也，而有之者，皆非己有也。令臣以外為制於內，則是君人者亡也",
+      "note": "「令臣以外為制於內，則是君人者亡也」論臣借外力控君的權力喪失。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "八奸",
       "para_index": 4,
       "para_id": "hanfeizi#10-p04",
       "modes": [
@@ -12166,6 +12465,19 @@
       "co_domains": [
         "VIII"
       ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "八姦",
+      "para_index": 2,
+      "para_id": "hanfeizi#11-p02",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "明君之於内也，娛其色而不行其謁，不使私請。其於左右也，使其身必責其言，不使益辭。",
+      "note": "「必實其能，察其過」並防群臣私請與外力制君，論用人與權力。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "hanfeizi",
@@ -12373,6 +12685,18 @@
     },
     {
       "slug": "hanfeizi",
+      "chapter": "八說",
+      "para_index": 12,
+      "para_id": "hanfeizi#13-p12",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "明主之國，有貴臣，無重臣。貴臣者，爵尊而官大也；重臣者，言聽而力多者也。明主之國",
+      "note": "「明主之國，有貴臣，無重臣」區分依功受爵與專權，論用人。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
       "chapter": "六反",
       "para_index": 1,
       "para_id": "hanfeizi#14-p01",
@@ -12489,6 +12813,19 @@
       "co_domains": [
         "VI"
       ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "制分",
+      "para_index": 4,
+      "para_id": "hanfeizi#16-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫治法之至明者，任數不任人。是以有術之國，不用譽則毋適，境内必治，任數也。亡國使",
+      "note": "「任數不任人」明確主張治理依法術而非依人，統治原則。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "hanfeizi",
@@ -12633,6 +12970,19 @@
       "co_domains": [
         "II"
       ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "南面",
+      "para_index": 2,
+      "para_id": "hanfeizi#19-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "人主有誘於事者，有壅於言者，二者不可不察也。人臣易言事者，少索資，以事誣主。主誘",
+      "note": "「則羣臣莫敢飾言以惽主」說追究承諾不實可抑制臣下欺瞞，論賞罰與用人。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "hanfeizi",
@@ -13596,6 +13946,18 @@
     {
       "slug": "hanfeizi",
       "chapter": "外儲說右上",
+      "para_index": 4,
+      "para_id": "hanfeizi#26-p04",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "一。賞之譽之不勸，罰之毁之不畏，四者加焉不變，則其除之。",
+      "note": "「賞之譽之不勸，罰之毁之不畏」則去之，以臣下對賞罰的反應決定去留，論用人賞罰。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說右上",
       "para_index": 5,
       "para_id": "hanfeizi#26-p05",
       "modes": [
@@ -13770,6 +14132,18 @@
     {
       "slug": "hanfeizi",
       "chapter": "外儲說右上",
+      "para_index": 27,
+      "para_id": "hanfeizi#26-p27",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "申子曰：「獨視者謂明，獨聽者謂聰。能獨断者，故可以爲天下主。」",
+      "note": "「能獨断者，故可以爲天下主」把獨立決斷列為領導者條件。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說右上",
       "para_index": 28,
       "para_id": "hanfeizi#26-p28",
       "modes": [
@@ -13907,6 +14281,18 @@
         "VI",
         "IX"
       ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說右下",
+      "para_index": 6,
+      "para_id": "hanfeizi#27-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "一。造父御四馬，馳驟周旋而恣欲於馬。恣欲於馬者，擅轡筴之制也。然馬驚於出彘而造父",
+      "note": "「人主安能與其臣共權以爲治」以共御共琴說君臣不可共權，論權力配置。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "hanfeizi",
@@ -14049,6 +14435,18 @@
     {
       "slug": "hanfeizi",
       "chapter": "外儲說右下",
+      "para_index": 24,
+      "para_id": "hanfeizi#27-p24",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "方吾子曰：「吾聞之古禮：行不與同服者同車，不與同族者共家，而況君人者乃借其權而外",
+      "note": "「而況君人者乃借其權而外其勢乎」勸君主不可外借權勢，君權論說。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說右下",
       "para_index": 25,
       "para_id": "hanfeizi#27-p25",
       "modes": [
@@ -14073,6 +14471,42 @@
       "co_domains": [
         "II"
       ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說右下",
+      "para_index": 28,
+      "para_id": "hanfeizi#27-p28",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "四。揺木者一一攝其葉，則勞而不徧；左右拊其本，而葉徧揺矣。臨淵而揺木，鳥驚而高，",
+      "note": "「聖人治吏不治民」主張治理須抓官吏這個綱，領導與行政責任。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說右下",
+      "para_index": 29,
+      "para_id": "hanfeizi#27-p29",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "救火者，令吏挈壺甕而走火，則一人之用也；操鞭箠指麾而趣使人，則制萬夫。是以聖人不",
+      "note": "「明主不躬小事」說領導者應組織指揮多人，分工與領導。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "外儲說右下",
+      "para_index": 33,
+      "para_id": "hanfeizi#27-p33",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "一曰：入齊，則獨聞淖齒而不聞齊王；入趙，則獨聞李兌而不聞趙王。故曰：人主者不操術",
+      "note": "「人主者不操術，則威勢輕而臣擅名」論君不操術致權臣奪威。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "hanfeizi",
@@ -14583,6 +15017,19 @@
     },
     {
       "slug": "hanfeizi",
+      "chapter": "心度",
+      "para_index": 3,
+      "para_id": "hanfeizi#35-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "能越力於地者富，能起力於敵者強，強不塞者王。故王道在所開，在所塞，塞其姦者必王。",
+      "note": "「賞功爵任而邪無所關」將官爵繫於功勞，論用人與賞罰。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
       "chapter": "忠孝",
       "para_index": 1,
       "para_id": "hanfeizi#36-p01",
@@ -14662,6 +15109,43 @@
     },
     {
       "slug": "hanfeizi",
+      "chapter": "愛臣",
+      "para_index": 2,
+      "para_id": "hanfeizi#38-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "昔者紂之亡，周之卑，皆從諸侯之博大也；晉之分也，齊之奪也，皆以羣臣之太富也。夫燕",
+      "note": "「羣臣之太富也」使君被奪，並說明君該以法蓄臣，論君臣權力。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "揚榷",
+      "para_index": 3,
+      "para_id": "hanfeizi#39-p03",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "用一之道，以名為首，名正物定，名倚物徒。故聖人執一以靜，使名自命，令事自定。不見",
+      "note": "「形名參同，用其所生」並使臣下貢情，論用人與考核。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "揚榷",
+      "para_index": 5,
+      "para_id": "hanfeizi#39-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫道者，弘大而無形；德者，核理而普至。至於群生，斟酌用之，萬物皆盛，而不與其寧。",
+      "note": "「君操其名，臣效其形，形名參同，上下和調也」論君臣職責。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
       "chapter": "揚榷",
       "para_index": 7,
       "para_id": "hanfeizi#39-p07",
@@ -14684,6 +15168,18 @@
       ],
       "excerpt": "欲為其國，必伐其聚；不伐其聚，彼將聚眾。欲為其地，必適其賜；不適其賜，亂人求益。",
       "note": "明言上下每日爭鬥、臣匿私心試上，且臣不弒君只因黨與未具，揭示君臣關係的利害本質",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "揚榷",
+      "para_index": 10,
+      "para_id": "hanfeizi#39-p10",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "為人君者，數披其木，毋使木技扶疏；木枝扶疏，將塞公閭，私門將實，公庭將虛，主將壅",
+      "note": "「私門將實，公庭將虛，主將壅圍」說私勢壯大壅蔽君主，權力論說。（2026-10-03 判空段定向重判改標；原判空）",
       "co_domains": []
     },
     {
@@ -14965,6 +15461,19 @@
       "co_domains": [
         "VI"
       ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "用人",
+      "para_index": 8,
+      "para_id": "hanfeizi#42-p08",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "夫人主不塞隙穴而勞力於赭堊，暴雨疾風必壞。不去眉睫之禍而慕賁、育之死，不謹蕭牆之",
+      "note": "「不用近賢之謀」被列為招禍的失策，要求君主重身邊賢者與內治，論用人。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "hanfeizi",
@@ -16098,6 +16607,18 @@
     {
       "slug": "hanfeizi",
       "chapter": "難三",
+      "para_index": 11,
+      "para_id": "hanfeizi#51-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫對三公一言而三公可以無患，知下之謂也。知下明則禁於微，禁於微則姦無積，姦無積則",
+      "note": "「公私分則朋黨散」說明知下明可抑制結黨，論治理與權力。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "難三",
       "para_index": 13,
       "para_id": "hanfeizi#51-p13",
       "modes": [
@@ -16134,6 +16655,30 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "難三",
+      "para_index": 16,
+      "para_id": "hanfeizi#51-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "管子曰：「見其可，說之有證；見其不可，惡之有形。賞罰信於所見，雖所不見，其敢爲之",
+      "note": "「賞罰信於所見」則人不敢為於所不見，論賞罰的約束。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "難三",
+      "para_index": 19,
+      "para_id": "hanfeizi#51-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "或曰：管仲之所謂言室滿室、言堂滿堂者，非特謂遊戲飲食之言也，必謂大物也。人主之大",
+      "note": "「故法莫如顯，而術不欲見」說法須向百姓公開、術須隱，論君主運用權力。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "hanfeizi",
@@ -16631,6 +17176,45 @@
       ],
       "excerpt": "今不知治者必曰：「得民之心。」欲得民之心而可以爲治，則是伊尹、管仲無所用也，將聽",
       "note": "人民如嬰兒只見眼前小苦，會把增產、禁邪、備荒與禦敵等長遠利益誤作酷貪暴，故民智不足作為治理準則。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "飭令",
+      "para_index": 1,
+      "para_id": "hanfeizi#58-p01",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "飭令則法不遷，法平則吏無姦。法已定矣，不以善言害法。任功則民少言，任善則民多言。",
+      "note": "「法平則吏無姦」並說任功任善使民言多寡，論法與用人如何塑造人。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "飭令",
+      "para_index": 2,
+      "para_id": "hanfeizi#58-p02",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "以刑治，以賞戰，厚禄以用術。行都之過，則都無姦市。物多末衆，農㢮姦勝，則國必削。",
+      "note": "「授官爵、出利禄不以功，是無當也」要求以功授官，論用人賞功。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "hanfeizi",
+      "chapter": "飭令",
+      "para_index": 3,
+      "para_id": "hanfeizi#58-p03",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "重刑少賞，上愛民，民死賞；多賞輕刑，上不愛民，民不死賞。利出一空者，其國無敵；利",
+      "note": "「重刑少賞，上愛民，民死賞」說刑賞配置決定人民是否效死，論賞罰與民心。（2026-10-03 判空段定向重判改標；原判空）",
       "co_domains": []
     },
     {
@@ -18092,6 +18676,18 @@
     {
       "slug": "huainanzi",
       "chapter": "兵略訓",
+      "para_index": 5,
+      "para_id": "huainanzi#04-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫圓者，天也；方者，地也。天圓而無端，故不可得而觀；地方而無垠，故莫能窺其門。天",
+      "note": "「修政于境內，而遠方慕其德」說修內政使人歸慕，論德政與民心。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "huainanzi",
+      "chapter": "兵略訓",
       "para_index": 6,
       "para_id": "huainanzi#04-p06",
       "modes": [
@@ -18167,6 +18763,20 @@
     {
       "slug": "huainanzi",
       "chapter": "兵略訓",
+      "para_index": 17,
+      "para_id": "huainanzi#04-p17",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "是故為麋鹿者，則可以罝罘設也；為魚鱉者，則可以網罟取也；為鴻鵠者，則可以矰繳加也",
+      "note": "「上得天道，下得地利，中得人心」論得人心；「博聞而自亂，多知而自疑，居則恐懼，發則猶豫」寫疑懼擾亂內心。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "huainanzi",
+      "chapter": "兵略訓",
       "para_index": 20,
       "para_id": "huainanzi#04-p20",
       "modes": [
@@ -18191,6 +18801,18 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "huainanzi",
+      "chapter": "兵略訓",
+      "para_index": 23,
+      "para_id": "huainanzi#04-p23",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "蓋聞善用兵者，必先修諸己，而後求諸人；先為不可勝，而後求勝；修己於人，求勝於敵。",
+      "note": "「必先修諸己，而後求諸人」要求領導者先治己，己亂而攻人亂是以火救火。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "huainanzi",
@@ -18221,6 +18843,19 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "huainanzi",
+      "chapter": "原道訓",
+      "para_index": 7,
+      "para_id": "huainanzi#05-p07",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫峭法刻誅者，非霸王之業也；箠策繁用者，非致遠之術也。離朱之明，察箴末於百步之外",
+      "note": "「夫峭法刻誅者，非霸王之業也」否定苛法酷刑，統治原則。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "huainanzi",
@@ -18304,6 +18939,18 @@
     {
       "slug": "huainanzi",
       "chapter": "氾論訓",
+      "para_index": 4,
+      "para_id": "huainanzi#11-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故聖人制禮樂，而不制於禮樂。治國有常，而利民為本。政教有經，而令行為上。苟利於民",
+      "note": "「治國有常，而利民為本」明定治理以民利為本。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "huainanzi",
+      "chapter": "氾論訓",
       "para_index": 5,
       "para_id": "huainanzi#11-p05",
       "modes": [
@@ -18318,6 +18965,18 @@
     {
       "slug": "huainanzi",
       "chapter": "氾論訓",
+      "para_index": 6,
+      "para_id": "huainanzi#11-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故聖人所由曰道，所為曰事。道猶金石，一調不更；事猶琴瑟，每絃改調。故法制禮義者，",
+      "note": "「法制禮義者，治人之具也」說法制非治之本，並主張依才與時用人。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "huainanzi",
+      "chapter": "氾論訓",
       "para_index": 8,
       "para_id": "huainanzi#11-p08",
       "modes": [
@@ -18325,6 +18984,18 @@
       ],
       "excerpt": "古之伐國，不殺黃口，不獲二毛。於古為義，於今為笑。古之所以為榮者，今之所以為辱也",
       "note": "「法度者，所以論民俗而節緩急也」與「耳不知清濁之分者，不可令調音；心不知治亂之源者，不可令制法」主張法度因時、製法者必具治亂之識，落群體社會用人之理（V）",
+      "co_domains": []
+    },
+    {
+      "slug": "huainanzi",
+      "chapter": "氾論訓",
+      "para_index": 9,
+      "para_id": "huainanzi#11-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫殷變夏，周變殷，春秋變周，三代之禮不同，何古之從！大人作而弟子循。知法治所由生",
+      "note": "「知法治所由生，則應時而變」說治理須知法之源，反對守舊致亂。（2026-10-03 判空段定向重判改標；原判空）",
       "co_domains": []
     },
     {
@@ -18445,6 +19116,18 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "huainanzi",
+      "chapter": "氾論訓",
+      "para_index": 21,
+      "para_id": "huainanzi#11-p21",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "聖人則不然，論世而為之事，權事而為之謀，是以舒之天下而不窕，內之尋常而不塞。使天",
+      "note": "「論世而為之事，權事而為之謀」並說安寧時逞勇將受法懲，行為須合情勢。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "huainanzi",
@@ -21710,6 +22393,18 @@
     {
       "slug": "jinlouzi",
       "chapter": "雜記篇十三下",
+      "para_index": 8,
+      "para_id": "jinlouzi#13-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "主有三惡：不脩文德而尚武功，不明敎化而枉任刑，是一惡也；妃妾以百數，黔首多鰥寡，",
+      "note": "「不脩文德而尚武功，不明敎化而枉任刑」與校準例一致，批判統治者。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "jinlouzi",
+      "chapter": "雜記篇十三下",
       "para_index": 16,
       "para_id": "jinlouzi#13-p16",
       "modes": [
@@ -22007,6 +22702,30 @@
       ],
       "excerpt": "制將之法，必使弛張從時。事疑則爭生，勢侔則亂起，所以蕭、樊被於縲絏，信、布見於誅",
       "note": "蕭繹正文論馭將：「制將之法，必使弛張從時。」是總則，理由在「事疑則爭生，勢侔則亂起」——把爭與亂繫在權責不明與勢力相當這兩種人際格局上，末句「馭將之閒，可不深愼之？」收回到君主待將的分際，落 V。蕭、樊、信、布只是論證史例，沒有人在面對死亡，不填 X。",
+      "co_domains": []
+    },
+    {
+      "slug": "jinlouzi",
+      "chapter": "立言篇九上〈案︰目錄有《立言上》《下》，原本合爲一篇，其散見複出者猶有上下之名，謹參考分之如左。〉",
+      "para_index": 35,
+      "para_id": "jinlouzi#15-p35",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫陶犬無守夜之警，瓦雞無司晨之益。塗車不能代勞，木馬不中馳逐。|〈此另一段。〉勢",
+      "note": "「臣從則馬良，民和則輪利」把臣從民和定為治理條件。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "jinlouzi",
+      "chapter": "立言篇九上〈案︰目錄有《立言上》《下》，原本合爲一篇，其散見複出者猶有上下之名，謹參考分之如左。〉",
+      "para_index": 36,
+      "para_id": "jinlouzi#15-p36",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "獵猛虎者，不於北苑；釣鯨魚者，不於南池。〈案︰「池」，原本訛作「河」。謹據下文校",
+      "note": "「責罷者以舉千鈞，督跛者以及走兔」與校準例一致，用人不得其所。（2026-10-03 判空段定向重判改標；原判空）",
       "co_domains": []
     },
     {
@@ -25906,6 +26625,20 @@
     },
     {
       "slug": "lushi-chunqiu",
+      "chapter": "蕩兵",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#07-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "家無怒笞，則豎子嬰兒之有過也立見；國無刑罰，則百姓之（悟）相侵也立見；天下無誅伐",
+      "note": "「家無怒笞，則豎子嬰兒之有過也立見」說家庭管教不可廢，並以刑罰論民眾相侵。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "lushi-chunqiu",
       "chapter": "振亂",
       "para_index": 1,
       "para_id": "lushi-chunqiu#08-p01",
@@ -25914,6 +26647,30 @@
       ],
       "excerpt": "三曰：當今之世，濁甚矣，黔首之苦，不可以加矣。天子既絕，賢者廢伏，世主恣行，與民",
       "note": "「世主恣行，與民相離，黔首無所告愬」說暴政破壞君民關係，且「中人將逃其君、去其親」明示壓迫會使人的歸屬與忠誠瓦解",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "振亂",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#08-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫攻伐之事，未有不攻無道而罰不義也。攻無道而伐不義，則福莫大焉，黔首利莫厚焉。禁",
+      "note": "「賞不善而罰善，欲民之治也，不亦難乎」批判賞罰顛倒，論公義。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "禁塞",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#09-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "四曰：夫救守之心，未有不守無道而救不義也。守無道而救不義，則禍莫大焉，為天下之民",
+      "note": "「為天下之民害莫深焉」以民害判斷庇護無道，論公義與權力。（2026-10-03 判空段定向重判改標；原判空）",
       "co_domains": []
     },
     {
@@ -25929,6 +26686,43 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "懷寵",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#10-p02",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "暴虐姦詐之與義理反也，其（執）〔埶〕不俱勝、不兩立。故兵入於敵之境，則民知所庇矣",
+      "note": "「則民知所庇矣」說義兵使人感到受庇護，並要求軍隊不虐民、取信於民。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "懷寵",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#10-p03",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "先發聲出號曰：「兵之來也，以救民之死。子之在上無道，据傲荒怠，貪戾虐眾，恣睢自用",
+      "note": "「是以賢者榮其名，而長老說其禮，民懷其德」說尊賢恤民如何得民心，並斥慶賞不當。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "懷寵",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#10-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "今有人於此，能生死一人，則天下必爭事之矣。義兵之生一人亦多矣，人孰不說？故義兵至",
+      "note": "「誅國之民望之若父母」直接寫民心向背。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "lushi-chunqiu",
@@ -26002,6 +26796,31 @@
       "co_domains": [
         "II"
       ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "圜道",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#15-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "五曰：天道圜，地道方，聖王法之，所以立上下。何以說天道之圜也？精氣一上一下，圜周",
+      "note": "「主執圜，臣處方，方圜不易，其國乃昌」直接說君臣各守其分。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "圜道",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#15-p02",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "日夜一周，圜道也。月躔二十八宿，軫與角屬，圜道也。精行四時，一上一下各與遇，圜道",
+      "note": "「號令不感，則不得而使矣」說君令不通臣便無法使臣，屬君臣關係。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "lushi-chunqiu",
@@ -26261,6 +27080,18 @@
     {
       "slug": "lushi-chunqiu",
       "chapter": "功名",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#25-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "缶醯黃，蚋聚之，有酸，徒水則必不可。以貍致鼠，以冰致蠅，雖工不能。以茹魚去蠅，蠅",
+      "note": "「罰雖重，刑雖嚴，何益」批判桀紂以重刑代替得民之道，是賞罰論說。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "功名",
       "para_index": 4,
       "para_id": "lushi-chunqiu#25-p04",
       "modes": [
@@ -26388,6 +27219,19 @@
         "VII",
         "XI"
       ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "召類",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#29-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "兵所自來者久矣：堯戰於丹水之浦，以服南蠻；舜卻苗民，更易其俗；禹攻曹魏，屈驁有扈",
+      "note": "「亂而弗討，害民莫長焉」以百姓受害衡量用武正當，屬公義與統治責任。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "lushi-chunqiu",
@@ -26963,6 +27807,19 @@
     {
       "slug": "lushi-chunqiu",
       "chapter": "原亂",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#45-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "亂必有弟，大亂五，小亂三，討亂三，故《詩》曰：「毋過亂門」，所以遠之也。慮福未及",
+      "note": "「武王以武得之，以文持之」主張得天下後改以文治守成，是統治原則。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "原亂",
       "para_index": 2,
       "para_id": "lushi-chunqiu#45-p02",
       "modes": [
@@ -27181,6 +28038,19 @@
     {
       "slug": "lushi-chunqiu",
       "chapter": "求人",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#50-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "身定，國安，天下治，必賢人。古之有天下也者，七十一聖。觀於春秋，自魯隱公以至哀公",
+      "note": "「得賢人，國無不安，名無不榮」把得失賢人與國家安危相連，並責君不求賢。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "求人",
       "para_index": 2,
       "para_id": "lushi-chunqiu#50-p02",
       "modes": [
@@ -27341,6 +28211,18 @@
     {
       "slug": "lushi-chunqiu",
       "chapter": "分職",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#55-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "棗，棘之有；裘，狐之有也。食棘之棗，衣狐之皮，先王固用非其有，而己有之。湯、武一",
+      "note": "「以其財賞而天下皆競」說明湯武以行賞使天下響應，屬賞罰與民心。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "分職",
       "para_index": 5,
       "para_id": "lushi-chunqiu#55-p05",
       "modes": [
@@ -27365,6 +28247,20 @@
       "excerpt": "衛靈公天寒鑿池。宛春諫曰：「天寒起役，恐傷民。」公曰：「天寒乎？」宛春曰：「公衣",
       "note": "衛靈公由宛春的「君則不寒矣，民則寒矣」看見權位造成的處境差；末尾「受賞者無德，而抵誅者無怨矣，人自反而已」把任職、賞罰與責任歸屬說成公正領導的核心",
       "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "處方",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#56-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "五曰：凡為治必先定分。君臣父子夫婦君臣父子夫婦六者當位，則下不踰節而上不苟為矣，",
+      "note": "「君臣父子夫婦君臣父子夫婦六者當位，則下不踰節而上不苟為矣」同時論家庭角色與上下分際。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": [
+        "IV"
+      ]
     },
     {
       "slug": "lushi-chunqiu",
@@ -27435,6 +28331,18 @@
       "co_domains": [
         "VI"
       ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "慎小",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#57-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "巨防容螻，而漂邑殺人；突洩一熛，而焚宮燒積；將失一令，而軍破身死；主過一言，而國",
+      "note": "「主過一言，而國殘名辱」指出人主一言之失可致國禍，屬領導者責任。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "lushi-chunqiu",
@@ -27564,6 +28472,19 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "不苟",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#64-p04",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "秦繆公相百里奚，晉使叔虎、齊使東郭蹇如秦，公孫枝請見之。公曰：「請見客，子之事歟",
+      "note": "「人事其事」與「定分官，此古人之所以為法也」說官員各盡其職、越職受罰。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "lushi-chunqiu",
@@ -27826,6 +28747,18 @@
     },
     {
       "slug": "lushi-chunqiu",
+      "chapter": "論威",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#76-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡軍欲其眾也，心欲其一也，三軍一心則令可使無敵矣。令能無敵者，其兵之於天下也亦無",
+      "note": "「其令信者其敵詘」與「藏於民心」說命令取信於民、民心專一，屬統治與民心。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
       "chapter": "簡選",
       "para_index": 2,
       "para_id": "lushi-chunqiu#77-p02",
@@ -27853,6 +28786,18 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "決勝",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#78-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "四曰：夫兵有本幹：必義，必智，必勇。義則敵孤獨，敵孤獨則上下虛，民解落；孤獨則父",
+      "note": "「義則敵孤獨，敵孤獨則上下虛，民解落」說不義使民心離散，屬民心論說。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "lushi-chunqiu",
@@ -28034,6 +28979,19 @@
     },
     {
       "slug": "lushi-chunqiu",
+      "chapter": "當務",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#93-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "紂之同母三人，其長曰微子啟，其次曰中衍，其次曰受德。受德乃紂也，甚少矣。紂母之生",
+      "note": "「用法若此，不若無法」批評拘守嫡庶條文讓不當者繼位，是對法的運用的判斷。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
       "chapter": "長見",
       "para_index": 2,
       "para_id": "lushi-chunqiu#94-p02",
@@ -28046,6 +29004,19 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "長見",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#94-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "呂太公望封於齊，周公旦封於魯，二君者甚相善也。相謂曰“何以治國”？太公望曰：“尊",
+      "note": "「尊賢上功」與「親親上恩」兩種治國用人原則，並以齊魯結局作對照。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "lushi-chunqiu",
@@ -28120,6 +29091,19 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "審分",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#95-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "王良之所以使馬者，約審之以控其轡，而四馬莫敢不盡力。有道之主，其所以使群臣者亦有",
+      "note": "「正名審分，是治之轡已」把使群臣之道落在君臣關係。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "lushi-chunqiu",
@@ -28255,6 +29239,18 @@
     {
       "slug": "lushi-chunqiu",
       "chapter": "勿躬",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#98-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "大橈作甲子，黔如作虜首，容成作厤，羲和作占日，尚儀作占月，后益作占歲，胡曹作衣，",
+      "note": "「使二十官盡其巧、畢其能」主張君主讓各官盡其所長，並說善為君者百官自治。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "勿躬",
       "para_index": 3,
       "para_id": "lushi-chunqiu#98-p03",
       "modes": [
@@ -28266,6 +29262,18 @@
       "co_domains": [
         "II"
       ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "知度",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#99-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "五曰──明君者，非遍見萬物也，明於人主之所執也。有術之主者，非一自行之也，知百官",
+      "note": "「知百官之要，故事省而國治也」說君主應掌握要領讓百官行事。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "lushi-chunqiu",
@@ -28404,6 +29412,18 @@
       "co_domains": [
         "VIII"
       ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "執一",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#102-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "八曰──天地陰陽不革，而成萬物不同。目不失其明，而見白黑之殊；耳不失其聽，而聞清",
+      "note": "「一則治，兩則亂」論君為統合者與權責統一。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "lushi-chunqiu",
@@ -28628,6 +29648,54 @@
     {
       "slug": "lushi-chunqiu",
       "chapter": "用民",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#113-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "四曰──凡用民，太上以義，其次以賞罰。其義則不足死，賞罰則不足去就，若是而能用其",
+      "note": "「凡用民，太上以義，其次以賞罰」明列領導民眾的層次。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "用民",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#113-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "闔廬之用兵也不過三萬，吳起之用兵也不過五萬。萬乘之國，其為三萬五萬尚多。今外之則",
+      "note": "「其民非不可用也，不得所以用之也」把動員失敗歸於領導方法。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "用民",
+      "para_index": 3,
+      "para_id": "lushi-chunqiu#113-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "劍不徒斷，車不自行，或使之也。夫種麥而得麥，種稷而得稷，人不怪也。用民亦有種，不",
+      "note": "「用民亦有種，不審其種，而祈民之用，惑莫大焉」指領導者不能忽略促民響應的條件。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "用民",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#113-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "當禹之時，天下萬國，至於湯而三千餘國，今無存者矣，皆不能用其民也。民之不用，賞罰",
+      "note": "「賞罰皆有充實，則民無不用矣」依民欲榮利惡辱害論賞罰。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "用民",
       "para_index": 6,
       "para_id": "lushi-chunqiu#113-p06",
       "modes": [
@@ -28667,6 +29735,18 @@
     {
       "slug": "lushi-chunqiu",
       "chapter": "適威",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#114-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "古之君民者，仁義以治之，愛利以安之，忠信以導之，務除其災，思致其福。故民之於上也",
+      "note": "「仁義以治之，愛利以安之，忠信以導之」明定領導者如何對待百姓。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "適威",
       "para_index": 3,
       "para_id": "lushi-chunqiu#114-p03",
       "modes": [
@@ -28678,6 +29758,18 @@
       "co_domains": [
         "VI"
       ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "為欲",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#115-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "六曰──使民無欲，上雖賢猶不能用。夫無欲者，其視為天子也與為輿隸同，其視有天下也",
+      "note": "「無欲者，不可得用也」說人的欲望決定能否被驅使，論用民與權力。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "lushi-chunqiu",
@@ -29185,6 +30277,18 @@
     {
       "slug": "lushi-chunqiu",
       "chapter": "貴因",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#130-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "三代所寶莫如因，因則無敵。禹通三江、五湖，決伊闕，溝迴陸，注之東海，因水之力也。",
+      "note": "「因民之欲也」把湯武成就歸於順應民欲，論民心向背。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "貴因",
       "para_index": 2,
       "para_id": "lushi-chunqiu#130-p02",
       "modes": [
@@ -29211,6 +30315,19 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "審應",
+      "para_index": 1,
+      "para_id": "lushi-chunqiu#132-p01",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "一曰──人主出聲應容，不可不審。凡主有識，言不欲先。人唱我和，人先我隨。以其出為",
+      "note": "「則說者不敢妄言」說君主以名實核驗約束進言者，君臣考核。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "lushi-chunqiu",
@@ -29328,6 +30445,19 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "淫辭",
+      "para_index": 7,
+      "para_id": "lushi-chunqiu#136-p07",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "宋王謂其相唐鞅曰：「寡人所殺戮者眾矣，而群臣愈不畏，其故何也？」唐鞅對曰：「王之",
+      "note": "「不若無辨其善與不善而時罪之」說任意罪人使群臣恐懼，並以唐鞅被殺示其反噬，論刑罰與權力。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "lushi-chunqiu",
@@ -29624,6 +30754,19 @@
     {
       "slug": "lushi-chunqiu",
       "chapter": "察微",
+      "para_index": 4,
+      "para_id": "lushi-chunqiu#145-p04",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "鄭公子歸生率師伐宋。宋華元率師應之大棘，羊斟御。明日將戰，華元殺羊饗士，羊斟不與",
+      "note": "「饗士而忘其御也，將以此敗而為虜，豈不宜哉」把敗虜歸於主將犒賞時漏掉部屬，是領導失當的論斷。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "察微",
       "para_index": 5,
       "para_id": "lushi-chunqiu#145-p05",
       "modes": [
@@ -29712,6 +30855,18 @@
         "II",
         "VII"
       ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "孝行",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#148-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曾子曰：“先王之所以治天下者五：貴德，貴貴，貴老，敬長，慈幼。此五者，先王之所以",
+      "note": "「貴德，貴貴，貴老，敬長，慈幼」列出治天下待人的五項原則，屬群體秩序與領導。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "lushi-chunqiu",
@@ -30793,6 +31948,18 @@
     {
       "slug": "mengzi",
       "chapter": "teng-wen-gong-i",
+      "para_index": 9,
+      "para_id": "mengzi#05-p09",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "「夏后氏五十而貢，殷人七十而助，周人百畝而徹，其實皆什一也。徹者，徹也；助者，藉",
+      "note": "「惡在其為民父母也」責問使老稚轉乎溝壑的統治者，已是公義問責。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-i",
       "para_index": 10,
       "para_id": "mengzi#05-p10",
       "modes": [
@@ -30800,6 +31967,18 @@
       ],
       "excerpt": "「設為庠序學校以教之：庠者，養也；校者，教也；序者，射也。夏曰校，殷曰序，周曰庠",
       "note": "「皆所以明人倫也」「人倫明於上，小民親於下」設庠序學校而以明人倫為目的，主張上之人倫明則下民親、是社會風俗之規範",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-i",
+      "para_index": 11,
+      "para_id": "mengzi#05-p11",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "使畢戰問井地。孟子曰：「子之君將行仁政，選擇而使子，子必勉之！夫仁政，必自經界始",
+      "note": "「出入相友，守望相助，疾病相扶持，則百姓親睦」說鄰里互助生出親睦。（2026-10-03 判空段定向重判改標；原判空）",
       "co_domains": []
     },
     {
@@ -37443,6 +38622,30 @@
     {
       "slug": "renwuzhi",
       "chapter": "八觀",
+      "para_index": 7,
+      "para_id": "renwuzhi#03-p07",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "七曰觀其所短，以知所長。",
+      "note": "「觀其所短，以知所長」提出識人用人的原則。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "八觀",
+      "para_index": 8,
+      "para_id": "renwuzhi#03-p08",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "八曰觀其聰明，以知所達。",
+      "note": "「觀其聰明，以知所達」以聰明判斷人才所能通達，是識才原則。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "八觀",
       "para_index": 31,
       "para_id": "renwuzhi#03-p31",
       "modes": [
@@ -37453,6 +38656,18 @@
       "co_domains": [
         "III"
       ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "八觀",
+      "para_index": 53,
+      "para_id": "renwuzhi#03-p53",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是故，觀其聰明，而所達之材可知也。",
+      "note": "「所達之材可知也」斷言可由聰明程度辨知才力所及。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "renwuzhi",
@@ -37643,6 +38858,30 @@
       "co_domains": [
         "III"
       ]
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "效難",
+      "para_index": 1,
+      "para_id": "renwuzhi#06-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "蓋知人之效有二難：有難知之難，有知之無由得效之難。",
+      "note": "「有難知之難，有知之無由得效之難」指出知人用才的兩層限制。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "效難",
+      "para_index": 2,
+      "para_id": "renwuzhi#06-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "何謂難知之難？人物精微，能神而明，其道甚難，固難知之難也。是以眾人之察，不能盡備",
+      "note": "「隨行信名，失其中情」說只憑外行與名聲識人會失去實情。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "renwuzhi",
@@ -38800,6 +40039,58 @@
     },
     {
       "slug": "shangjunshu",
+      "chapter": "更法第一",
+      "para_index": 4,
+      "para_id": "shangjunshu#01-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "甘龍曰：「不然。臣聞之，聖人不易民而教，知者不變法而治。因民而教者，不勞而功成；",
+      "note": "「據法而治者，吏習而民安」是甘龍支持守法治理的原則論說。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "更法第一",
+      "para_index": 6,
+      "para_id": "shangjunshu#01-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "杜摯曰：「臣聞之，利不百，不變法；功不十，不易器。臣聞法古無過，循禮無邪。君其圖",
+      "note": "「利不百，不變法；功不十，不易器」是對統治者改革的原則主張。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "墾令第二",
+      "para_index": 1,
+      "para_id": "shangjunshu#02-p01",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "無宿治，則邪官不及為私利於民，而百官之情不相稽。百官之情不相稽，則農有餘日。邪官",
+      "note": "「邪官不及為私利於民」說及時處事能防官吏牟私，是公權約束。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "墾令第二",
+      "para_index": 2,
+      "para_id": "shangjunshu#02-p02",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "訾粟而稅，則上壹而民平。上壹則信，信則官不敢為邪。民平則慎，慎則難變。上信而官不",
+      "note": "「上壹則信，信則官不敢為邪」說統治一致建立信用而抑官吏作惡。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
       "chapter": "墾令第二",
       "para_index": 3,
       "para_id": "shangjunshu#02-p03",
@@ -38827,6 +40118,19 @@
       "co_domains": [
         "XI"
       ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "墾令第二",
+      "para_index": 16,
+      "para_id": "shangjunshu#02-p16",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "百縣之治一形，則迂者不飾，代者不敢更其制，過而廢者不能匿其舉。過舉不匿，則官無邪",
+      "note": "「過舉不匿，則官無邪人」說施政過失無法掩蓋則官吏不敢為邪，屬治理責任。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "shangjunshu",
@@ -38916,6 +40220,30 @@
     {
       "slug": "shangjunshu",
       "chapter": "去彊第四",
+      "para_index": 1,
+      "para_id": "shangjunshu#04-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "以彊去弱者，弱；以弱去彊者，彊。國為善，姦必多。國富而貧，治曰重富，重富者彊。國",
+      "note": "「國為善，姦必多」斷言治理取向與奸邪的關係。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "去彊第四",
+      "para_index": 2,
+      "para_id": "shangjunshu#04-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "農、商、官三者，國之常官也。三官者生蝨官者六：曰歲，曰食，曰美，曰好，曰志，曰行",
+      "note": "「舉勞任功曰彊」把依勞績任用列為強國原則，屬用人。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "去彊第四",
       "para_index": 4,
       "para_id": "shangjunshu#04-p04",
       "modes": [
@@ -38926,6 +40254,56 @@
       "co_domains": [
         "XI"
       ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "去彊第四",
+      "para_index": 6,
+      "para_id": "shangjunshu#04-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "以刑去刑，國治；以刑致刑，國亂。故曰：行刑重輕，刑去事成，國彊；重重而輕輕，刑至",
+      "note": "「以刑去刑，國治；以刑致刑，國亂」直接論行刑原則與治亂後果。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "去彊第四",
+      "para_index": 7,
+      "para_id": "shangjunshu#04-p07",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "金生而粟死，粟生而金死。本物賤，事者眾，買者少，農困而姦勸；其兵弱，國必削至亡。",
+      "note": "「國無怨民曰彊國」以民無怨恨界定國強，是民心承重句。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "壹言第八",
+      "para_index": 1,
+      "para_id": "shangjunshu#05-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡將立國，制度不可不時也，治法不可不慎也，國務不可不謹也，事本不可不摶也。制度時",
+      "note": "「置賞罰之明也」說民眾效死從事與上位者榮名賞罰的關係。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "壹言第八",
+      "para_index": 2,
+      "para_id": "shangjunshu#05-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫聖人之治國也，能摶力，能殺力。制度察則民力摶，摶而不化則不行，行而無富則生亂。",
+      "note": "「治國貴民壹；民壹則樸，樸則農」把統一民志列為治國原則。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "shangjunshu",
@@ -38944,6 +40322,18 @@
     {
       "slug": "shangjunshu",
       "chapter": "錯法第九",
+      "para_index": 1,
+      "para_id": "shangjunshu#06-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "臣聞古之明君，錯法而民無邪，舉事而材自練，行賞而兵彊，此三者治之本也。夫錯法而民",
+      "note": "「賞必加於其功」與「功賞明，則民競於功」是任用與賞罰標準。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "錯法第九",
       "para_index": 2,
       "para_id": "shangjunshu#06-p02",
       "modes": [
@@ -38954,6 +40344,58 @@
       "co_domains": [
         "VI"
       ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "錯法第九",
+      "para_index": 3,
+      "para_id": "shangjunshu#06-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人君有爵行而兵弱者，有祿行而國貧者，有法立而治亂者，此三者，國之患也。故人君者先",
+      "note": "「功立而富貴隨之，無私德也」主張以實功而非私恩給予富貴。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "戰法第十",
+      "para_index": 1,
+      "para_id": "shangjunshu#07-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡戰法必本於政勝，則其民不爭；不爭則無以私意，以上為意。故王者之政，使民怯於邑鬥",
+      "note": "「使民怯於邑鬥，而勇於寇戰」說治理如何改變民眾私鬥與公戰的行為。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "戰法第十",
+      "para_index": 2,
+      "para_id": "shangjunshu#07-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "王者之兵，勝而不驕，敗而不怨。勝而不驕者，術明也；敗而不怨者，知所失也。若兵敵彊",
+      "note": "「將使民若乘良馬者，不可不齊也」屬用民；「勝而不驕，敗而不怨」另立勝敗之際的品格。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "立本第十一",
+      "para_index": 1,
+      "para_id": "shangjunshu#08-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡用兵，勝有三等：若兵未起而錯法，錯法而俗成，俗成而用具。此三者必行於境內，而後",
+      "note": "「賞壹則爵尊，爵尊則賞能利矣」說賞賜一致維持爵位的激勵。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "shangjunshu",
@@ -38973,6 +40415,43 @@
     {
       "slug": "shangjunshu",
       "chapter": "靳令第十三",
+      "para_index": 1,
+      "para_id": "shangjunshu#10-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "靳令則治不留，法平則吏無姦。法已定矣，不以善言害法。任功則民少言，任善則民多言。",
+      "note": "「授官予爵出祿不以功，是無當也」批評授官失準，並說任功任善使民行為不同。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "靳令第十三",
+      "para_index": 2,
+      "para_id": "shangjunshu#10-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "國貧而務戰，毒輸於敵，無六蝨，必彊。國富而不戰，偷生於內，有六蝨，必弱。國以功授",
+      "note": "「其境內之民，爭以為榮，莫以為辱」說任官與賞罰如何塑造民眾榮辱感。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "靳令第十三",
+      "para_index": 4,
+      "para_id": "shangjunshu#10-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "重刑少賞，上愛民，民死上；重賞輕刑，上不愛民，民不死上。利出一空者，其國無敵；利",
+      "note": "「重刑少賞，上愛民，民死上」說刑賞輕重與民眾效死的關係。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "靳令第十三",
       "para_index": 5,
       "para_id": "shangjunshu#10-p05",
       "modes": [
@@ -38980,6 +40459,31 @@
       ],
       "excerpt": "聖君知物之要，故其治民有至要。故執賞罰以壹輔仁者，心之續也。聖君之治人也，必得其",
       "note": "明說聖君治人必先「得其心」才能用其力，把民心與統治者動員人民的關係當成立論依據",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "修權第十四",
+      "para_index": 1,
+      "para_id": "shangjunshu#11-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "國之所以治者三：一曰法，二曰信，三曰權。法者，君臣之所共操也；信者，君臣之所共立",
+      "note": "「君臣釋法任私，必亂」與「民信其賞則事功成」說公法與信用。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "修權第十四",
+      "para_index": 2,
+      "para_id": "shangjunshu#11-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "世之為治者，多釋法而任私議，此國之所以亂也。先王縣權衡，立尺寸，而至今法之，其分",
+      "note": "「授官予爵，不以其勞，則忠臣不進」說用人賞祿失當使忠臣戰士退縮。（2026-10-03 判空段定向重判改標；原判空）",
       "co_domains": []
     },
     {
@@ -39016,6 +40520,31 @@
       ],
       "excerpt": "用善，則民親其親；任姦，則民親其制。合而復之者，善也；別而規之者，姦也。章善則過",
       "note": "以「民親其親」與「民親其制」對照，斷言人的親附對象會隨用善或任姦的制度而改變",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "說民第五",
+      "para_index": 4,
+      "para_id": "shangjunshu#12-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "罰重，爵尊；賞輕，刑威。爵尊，上愛民；刑威，民死上。故興國行罰則民利，用賞則上重",
+      "note": "「輕者不生，則重者無從至矣」說明刑罰輕重如何抑制人犯罪，屬賞罰論說。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "說民第五",
+      "para_index": 7,
+      "para_id": "shangjunshu#12-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "國治：斷家王，斷官彊，斷君弱。重輕刑去，常官則治。省刑要保，賞不可倍也。有姦必告",
+      "note": "「王者刑賞斷於民心」與「治國貴下斷」是裁斷權與民心的統治原則。（2026-10-03 判空段定向重判改標；原判空）",
       "co_domains": []
     },
     {
@@ -39148,6 +40677,19 @@
     },
     {
       "slug": "shangjunshu",
+      "chapter": "君臣第二十三",
+      "para_index": 3,
+      "para_id": "shangjunshu#19-p03",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "故明主慎法制。言不中法者，不聽也；行不中法者，不高也；事不中法者，不為也。言中法",
+      "note": "「言不中法者，不聽也；行不中法者，不高也」要求人主以法為採言褒行的準則。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
       "chapter": "禁使第二十四",
       "para_index": 2,
       "para_id": "shangjunshu#20-p02",
@@ -39265,6 +40807,18 @@
     {
       "slug": "shangjunshu",
       "chapter": "賞刑第十七",
+      "para_index": 1,
+      "para_id": "shangjunshu#24-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "聖人之為國也：壹賞，壹刑，壹教。壹賞則兵無敵，壹刑則令行，壹教則下聽上。夫明賞不",
+      "note": "「壹賞則兵無敵，壹刑則令行，壹教則下聽上」論賞刑教一致如何維持服從。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "賞刑第十七",
       "para_index": 2,
       "para_id": "shangjunshu#24-p02",
       "modes": [
@@ -39294,6 +40848,18 @@
     },
     {
       "slug": "shangjunshu",
+      "chapter": "賞刑第十七",
+      "para_index": 5,
+      "para_id": "shangjunshu#24-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "此臣之所謂參教也。聖人惟能知萬物之要也，故其治國，舉要以致萬物。故寡教而多功。聖",
+      "note": "「聖人以功授官予爵，故賢者不憂」說按功授官使賢者安心。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
       "chapter": "畫策第十八",
       "para_index": 1,
       "para_id": "shangjunshu#25-p01",
@@ -39320,6 +40886,18 @@
       "co_domains": [
         "IV"
       ]
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "畫策第十八",
+      "para_index": 4,
+      "para_id": "shangjunshu#25-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "國或重治，或重亂。明主在上，所舉必賢，則法可在賢；法可在賢，則法在下，不肖不敢為",
+      "note": "「國無明法，不肖者敢為非」說法度不明助長作惡，並對照明主舉賢。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "shangjunshu",
@@ -39394,6 +40972,32 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 10,
+      "para_id": "shenjian#01-p10",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "賞罰，政之柄也。明賞必罰，審信愼令，賞以勸善，罰以懲惡。人主不妄賞，非徒愛其財也",
+      "note": "「賞妄行則善不勸矣」說濫賞濫罰使勸善懲惡失效，是賞罰責任。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "1",
+      "para_index": 11,
+      "para_id": "shenjian#01-p11",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "四患旣蠲，五政旣〈按︰《漢書》作「又」。〉立，行之以誠，守之以固，簡而不怠，䟽而",
+      "note": "「行之以誠，守之以固，簡而不怠」說領導者施政該有的樣態。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "shenjian",
@@ -39580,6 +41184,32 @@
     {
       "slug": "shenjian",
       "chapter": "2",
+      "para_index": 4,
+      "para_id": "shenjian#02-p04",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "誰毀誰譽，譽其有試者，萬事之槪量也。〈孔子曰︰「吾之於人也，誰毀誰譽？如有所譽者",
+      "note": "「處斯職者考其績」主張任官須驗實績，可驗證的考核能抑私。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "2",
+      "para_index": 5,
+      "para_id": "shenjian#02-p05",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "公卿不爲郡，二千石不爲縣，未是也。〈公謂三公，師、傅、保也。鄉謂六卿，冡宰至司空",
+      "note": "「小能其職以極登於大，故下位競」說升降依履職能力使在位者競勉戒慎。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "2",
       "para_index": 6,
       "para_id": "shenjian#02-p06",
       "modes": [
@@ -39588,6 +41218,19 @@
       ],
       "excerpt": "孝武皇帝以四夷未賔，宼賊姦宄，初置武功賞官，以寵戰士。〈大司農陳臧錢經用，賦稅旣",
       "note": "「每宼難之作，民瘁幾盡」並斷言「不教民戰，是謂棄之」，把國家是否使人民具備應戰能力說成領導者對群體的責任，不只是在列尚武官職。",
+      "co_domains": []
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "2",
+      "para_index": 14,
+      "para_id": "shenjian#02-p14",
+      "modes": [
+        "prescription",
+        "ritual"
+      ],
+      "excerpt": "聖王先成民而後致力於神，〈《東觀書》詔︰「《傳》曰：『聖王先成民而後致力於神。』",
+      "note": "「聖王先成民而後致力於神」說治理者應先安民再事祭祀。（2026-10-03 判空段定向重判改標；原判空）",
       "co_domains": []
     },
     {
@@ -39991,6 +41634,18 @@
     },
     {
       "slug": "shenzi",
+      "chapter": "君臣〈此篇原刻全脫，依《治要》補。〉",
+      "para_index": 1,
+      "para_id": "shenzi#07-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "爲人君者不多聽，據法倚數以觀得失。無法之言，不聽於耳；無法之勞，不圖於功；〈○二",
+      "note": "「無勞之親，不任於官」「官不私親，法不遺愛」說任官執法不徇私親。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
       "chapter": "愼子逸文",
       "para_index": 3,
       "para_id": "shenzi#08-p03",
@@ -40016,6 +41671,18 @@
     {
       "slug": "shenzi",
       "chapter": "愼子逸文",
+      "para_index": 7,
+      "para_id": "shenzi#08-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "有權衡者，不可欺以輕重；有尺寸者，不可差以長短；有法度者，不可巧以詐僞。〈○《意",
+      "note": "「有法度者，不可巧以詐僞」說共同法度能防詐偽操弄。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
       "para_index": 8,
       "para_id": "shenzi#08-p08",
       "modes": [
@@ -40024,6 +41691,30 @@
       ],
       "excerpt": "有虞之誅，以幪巾當墨，〈○《書鈔》四十四引作「畫跪當黥」。〉以草纓當劓，以菲履當",
       "note": "以象徵性之戮能使上世民不犯、重刑反使當世民不從作對比，直接斷言不同時代民眾對刑戮的反應",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 18,
+      "para_id": "shenzi#08-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "君臣之間，猶權衡也。權左輕則右重，右重則左輕，輕重迭相橛，天地之理也。〈○《御覽",
+      "note": "「君臣之間，猶權衡也」說君臣權力彼此消長。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 20,
+      "para_id": "shenzi#08-p20",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故治國無其法則亂，守法而不變則衰。有法而行私，謂之不法。以力役法者，百姓也；以死",
+      "note": "「有法而行私，謂之不法」與「守法而不變則衰」是統治與法度原則。（2026-10-03 判空段定向重判改標；原判空）",
       "co_domains": []
     },
     {
@@ -40060,6 +41751,18 @@
       ],
       "excerpt": "弃道術，舍度量，以求一人之識識天下，誰子之識能足焉？〈○《荀子‧王霸篇》注。〉",
       "note": "反問以一人之識識天下誰能足，直接斷言治理不能只倚賴單一人的認知能力",
+      "co_domains": []
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 25,
+      "para_id": "shenzi#08-p25",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "多賢，不可以多君；無賢，不可以無君。〈○《荀子‧解蔽篇》注。〉",
+      "note": "「多賢，不可以多君；無賢，不可以無君」說統治權威應單一不可缺。（2026-10-03 判空段定向重判改標；原判空）",
       "co_domains": []
     },
     {
@@ -54472,6 +56175,19 @@
     {
       "slug": "xinxu",
       "chapter": "善謀/卷下",
+      "para_index": 9,
+      "para_id": "xinxu#03-p09",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "高皇帝五年，齊人婁敬戍隴西，過雒陽，脫輅挽，見齊人虞將軍曰：「臣願見上言便宜事。",
+      "note": "「有德則易以王，無德則易以亡」是統治原則論說，主張務德致人、不恃險阻而虐民。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "xinxu",
+      "chapter": "善謀/卷下",
       "para_index": 11,
       "para_id": "xinxu#03-p11",
       "modes": [
@@ -67650,6 +69366,18 @@
     {
       "slug": "yinwenzi",
       "chapter": "大道上",
+      "para_index": 7,
+      "para_id": "yinwenzi#02-p07",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "術者，人君之所密用，群下不可妄窺。勢者，制法之利器，群下不可妄為。人君有術，而使",
+      "note": "「先正名分，使不相侵雜，然後術可秘、勢可專」是君臣名分與統治原則的論說。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
       "para_index": 10,
       "para_id": "yinwenzi#02-p10",
       "modes": [
@@ -67660,6 +69388,18 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
+      "para_index": 13,
+      "para_id": "yinwenzi#02-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "故人以度審長短，以量受多少，以衡平輕重，以律均清濁，以名稽虛實，以法定治亂，以簡",
+      "note": "「百度皆準於法」說以法歸一，連頑嚚聾瞽之人也可同受治理，是統治原則論說。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "yinwenzi",
@@ -67832,6 +69572,18 @@
     {
       "slug": "yinwenzi",
       "chapter": "大道上",
+      "para_index": 29,
+      "para_id": "yinwenzi#02-p29",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "若使遭賢則治，遭愚則亂，是治亂係於賢愚，不係於禮樂。是聖人之術，與聖主而俱沒。治",
+      "note": "「治亂係於賢愚，不係於禮樂」是論治亂不可繫於君主賢愚，須靠制度，屬統治原則。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道上",
       "para_index": 30,
       "para_id": "yinwenzi#02-p30",
       "modes": [
@@ -67941,6 +69693,18 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "yinwenzi",
+      "chapter": "大道下",
+      "para_index": 3,
+      "para_id": "yinwenzi#03-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "治主之興，必有所先誅。先誅者，非謂盜，非謂姦，此二惡者，一時之大害，非亂政之本也",
+      "note": "「下侵上之權，臣用君之術」指出臣侵君權、不畏禁令是亂政之本，屬君臣關係論說。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "yinwenzi",
@@ -69696,6 +71460,18 @@
     {
       "slug": "zhanguoce",
       "chapter": "蘇秦始將連橫",
+      "para_index": 2,
+      "para_id": "zhanguoce#48-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "秦王曰：「寡人聞之，毛羽不豐滿者不可以高飛，文章〈鮑本文章，法令也。〉不成者不可",
+      "note": "「道德不厚者不可以使民，政教不順者不可以煩大臣」說明統御民眾與大臣須有道德與政教為本，是統治原則論說。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "蘇秦始將連橫",
       "para_index": 3,
       "para_id": "zhanguoce#48-p03",
       "modes": [
@@ -69736,6 +71512,19 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "張儀說秦王",
+      "para_index": 5,
+      "para_id": "zhanguoce#51-p05",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "「趙氏，中央之國也，雜〈鮑本補曰：韓子注，趙都邯鄲，燕之南，齊之西，魏之北，韓之",
+      "note": "「號令不治，賞罰不信」並言「上下不相親也，貴賤不相信」，把賞罰失信與上下離心說成亡國之形，屬賞罰民心論說。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "zhanguoce",
@@ -69994,6 +71783,19 @@
     },
     {
       "slug": "zhanguoce",
+      "chapter": "謂秦王",
+      "para_index": 1,
+      "para_id": "zhanguoce#103-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "謂秦王〈姚本秦始皇也。〉曰：「臣竊惑王之輕齊易楚，而卑畜韓也。臣聞，王兵勝而不驕",
+      "note": "「驕忿非伯主之業也」並以「勝而不驕，故能服世；約而不忿，故能從鄰」說領導者勝後須不驕、受約不忿，屬領導樣態論說，雖後文轉入外交，此承重句可獨立。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
       "chapter": "秦王與中期爭論",
       "para_index": 1,
       "para_id": "zhanguoce#104-p01",
@@ -70078,6 +71880,19 @@
       "co_domains": [
         "VIII"
       ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "楚威王戰勝於徐州",
+      "para_index": 1,
+      "para_id": "zhanguoce#111-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "楚威王〈姚本威王，楚元王之子，懷王之父也。〉戰勝於徐州，〈姚本徐州，或作舒州，是",
+      "note": "「盼子有功於國，百姓為之用」對比「大臣與百姓弗為用，故王勝之也」，說明將領得民與否決定成敗，屬民心向背與用人論說。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "zhanguoce",
@@ -70276,6 +72091,19 @@
     },
     {
       "slug": "zhanguoce",
+      "chapter": "孟嘗君讌坐",
+      "para_index": 1,
+      "para_id": "zhanguoce#141-p01",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "孟嘗君讌〈鮑本讌，合語也。正曰：「讌」即「燕」。〉坐，謂三先生〈姚本先生，長老，",
+      "note": "「收天下之士，能為君決疑應卒，若魏文侯之有田子方、段干木也」是以府庫收士、用人補闕的論說，屬用人。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
       "chapter": "孟嘗君有舍人而弗悅",
       "para_index": 1,
       "para_id": "zhanguoce#143-p01",
@@ -70425,6 +72253,19 @@
     {
       "slug": "zhanguoce",
       "chapter": "齊宣王見顏斶[1]",
+      "para_index": 1,
+      "para_id": "zhanguoce#152-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊宣王見〈鮑本補曰：見，賢遍反。〉顏斶，〈鮑本集韻音觸，引呂春秋，齊有顏斶。補曰",
+      "note": "「士貴耳，王者不貴」並以「生王之頭，曾不若死士之壟也」論君與士之貴賤，屬君臣關係與禮賢論說。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "齊宣王見顏斶[1]",
       "para_index": 3,
       "para_id": "zhanguoce#152-p03",
       "modes": [
@@ -70494,6 +72335,32 @@
       "co_domains": [
         "VIII"
       ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "蘇秦說齊閔王",
+      "para_index": 3,
+      "para_id": "zhanguoce#159-p03",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "「臣聞善為國者，順民之意，而料兵之能，然後從〈鮑本從，謂後之。〉於天下。故約不為",
+      "note": "「善為國者，順民之意，而料兵之能」把順民意定為為國之要，屬民心論說；其餘主怨例仍是外交，僅此句承重。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "蘇秦說齊閔王",
+      "para_index": 4,
+      "para_id": "zhanguoce#159-p04",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "「且夫強大之禍，常以王人為意〈鮑本欲為人王。〉也；夫〈姚本一無「夫」字。〉弱小之",
+      "note": "「強大之禍，常以王人為意也；夫弱小之殃，常以謀人為利也」並「祖仁者王，立義者伯」，說出強者好凌人、弱者好謀人的招禍樣態與仁義與王伯關係。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "zhanguoce",
@@ -70624,6 +72491,19 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "田單將攻狄",
+      "para_index": 2,
+      "para_id": "zhanguoce#165-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊嬰兒謠曰：「大冠若箕，〈鮑本箕，簸器。〉脩劍拄頤，攻狄不能，〈姚本續云：能，音",
+      "note": "「將軍有死之心，而士卒無生之氣」與「有生之樂，無死之心，所以不勝者也」說將領安逸則失去帶兵之氣，屬領導者心氣論說，並由田單改厲氣而攻下為驗。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "zhanguoce",
@@ -71421,6 +73301,19 @@
     },
     {
       "slug": "zhanguoce",
+      "chapter": "武靈王平晝間居",
+      "para_index": 9,
+      "para_id": "zhanguoce#242-p09",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "趙造曰：「臣聞之，聖人不易民而教，知者不變俗而動。因民而教者，不勞而成功；據〈鮑",
+      "note": "「因民而教者，不勞而成功」直指施政順不順民俗，成敗不同，屬統治原則與民心論說，照 V 判。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
       "chapter": "趙燕後胡服",
       "para_index": 1,
       "para_id": "zhanguoce#244-p01",
@@ -71505,6 +73398,19 @@
       "co_domains": [
         "VIII"
       ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "衛靈公近雍疸彌子瑕[3]",
+      "para_index": 1,
+      "para_id": "zhanguoce#262-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "衛靈公近雍疸、〈鮑本「雍」作「癰」，「疸」作「疽」。○　孟子有其人，蓋醫之幸者。",
+      "note": "「前之人煬，則後之人無從見也」以灶前受蔽說近臣專擅遮蔽君上，並以廢近臣收結，屬君臣關係與用人的論說，照 V 判；但借喻依附於衛靈公一事，較勉強。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "zhanguoce",
@@ -71645,6 +73551,19 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "魏武侯與諸大夫浮於西河",
+      "para_index": 2,
+      "para_id": "zhanguoce#294-p02",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "吳起對曰：「河山之險，信〈姚本一本無「信」字。〉不足保也；是〈姚本一本無「是」字",
+      "note": "「為政不善，而禹放逐之」連舉三例並歸結「政惡故也」，說明國之存亡在為政好壞而不在險阻，是統治原則論說，照 V 判。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "zhanguoce",
@@ -72978,6 +74897,19 @@
     },
     {
       "slug": "zhanguoce",
+      "chapter": "主父欲伐中山",
+      "para_index": 1,
+      "para_id": "zhanguoce#496-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "主父〈姚本主父，趙武靈王也。〉欲伐中山，使李疵〈姚本疵，趙臣也。〉觀之。李疵曰：",
+      "note": "「朝賢，則耕者惰而戰士懦」論尊賢用人對民風與國運的後果，屬用人與治國原則的論說句，門檻偏低（勉強）。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
       "chapter": "中山君饗都士[1]",
       "para_index": 1,
       "para_id": "zhanguoce#497-p01",
@@ -72990,6 +74922,18 @@
       "co_domains": [
         "VI"
       ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "昭王既息民繕兵[2]",
+      "para_index": 4,
+      "para_id": "zhanguoce#499-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "武安君曰：「是時楚王〈鮑本頃襄。〉恃其國大，不恤其政，而群臣相妒以功，諂諛〈鮑本",
+      "note": "「群臣相妒以功，諂諛用事，良臣斥疏，百姓心離」把用人失當與民心離散說成亡勢，另有「將帥為父母，不約而親」說上下同心，屬用人與民心論說。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "zhanguoce",
@@ -73150,6 +75094,19 @@
         "VII",
         "VI"
       ]
+    },
+    {
+      "slug": "zhongjing",
+      "chapter": "兆人章第六",
+      "para_index": 1,
+      "para_id": "zhongjing#06-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "天地泰寧，君之德也，君德昭明，則陰陽風雨以和，人賴之而生也。是故只承君之法度，行",
+      "note": "「此兆人之忠也」把百姓承法度、勤稼穡定為忠的本分，並說君德昭明則人賴以生，屬統治與責任的論說句；孝悌一語不單獨標 IV。（2026-10-03 判空段定向重判改標；原判空）",
+      "co_domains": []
     },
     {
       "slug": "zhongjing",

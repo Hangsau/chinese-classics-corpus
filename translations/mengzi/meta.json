@@ -38,7 +38,7 @@
     ],
     "domains_null": [],
     "domain_para_counts": {
-      "V": 242,
+      "V": 244,
       "VII": 227,
       "IV": 49,
       "VI": 28,
@@ -62,7 +62,8 @@
       "ritual": 1
     },
     "paras_total": 630,
-    "paras_no_domain": 163,
-    "verdict": "孟子 630 段，命中 467 段（74%），13／13 全覆蓋。V 242、VII 227 兩格並列，IV 49 段（舜事瞽瞍、孝與喪）明顯多於論語。判空 163 段（26%）偏高的主因是底本把一問一答切成兩段：單獨的問句（中位長 23 字，如「嫂溺則援之以手乎」）判空、答句命中——判讀本身沒錯，但閱讀時須連前文讀（classics-reflections 的 make_packets 已為此加『前文』）。人性論（四端、牛山之木、魚我所欲）全數落 VII；『天將降大任』依 SPEC 不給 XII。判讀者 minimax-m3 全書單一。"
+    "paras_no_domain": 161,
+    "verdict": "孟子 630 段，命中 467 段（74%），13／13 全覆蓋。V 242、VII 227 兩格並列，IV 49 段（舜事瞽瞍、孝與喪）明顯多於論語。判空 163 段（26%）偏高的主因是底本把一問一答切成兩段：單獨的問句（中位長 23 字，如「嫂溺則援之以手乎」）判空、答句命中——判讀本身沒錯，但閱讀時須連前文讀（classics-reflections 的 make_packets 已為此加『前文』）。人性論（四端、牛山之木、魚我所欲）全數落 VII；『天將降大任』依 SPEC 不給 XII。判讀者 minimax-m3 全書單一。",
+    "rejudge_2026_10_03": "判空段定向重判：論說型判空段經 codex＋Sonnet 重判，2 段改標（多為 V）；見 classics-reflections/pilots/rejudge/。上方 verdict 為原判讀時所寫，數字已更新"
   }
 }
