@@ -1,0 +1,54 @@
+{
+  "batch": "b21.md",
+  "rows": [
+    {
+      "chapter": "性惡篇",
+      "para_index": 1,
+      "domains": ["VII"],
+      "modes": ["observation"],
+      "reason": "楊倞注斷言「競爲貪亂，不脩仁義」、「知其可化」，並引《書》「惟天生民，有欲無主，乃亂」證人有欲需主；皆為對人性的評斷，給 VII。"
+    },
+    {
+      "chapter": "性惡篇",
+      "para_index": 2,
+      "domains": ["VII", "VI"],
+      "modes": ["proposition"],
+      "reason": "「人之性惡，其善者僞也」是性惡論核心命題，給 VII；「生而有好利焉」、「飢而欲飽，寒而欲煖，勞而欲休，此人之情性也」寫人天生情欲之性，加 VI。"
+    },
+    {
+      "chapter": "性惡篇",
+      "para_index": 3,
+      "domains": ["VII", "VI"],
+      "modes": ["proposition"],
+      "reason": "「凡禮義者，是生於聖人之僞」立性惡論之僞起禮義，給 VII；「目好色，耳好聽，口好味，心好利」、「薄願厚，惡願美，狹願廣，貧願富，賤願貴」寫人情欲好利之本性，加 VI。"
+    },
+    {
+      "chapter": "性惡篇",
+      "para_index": 4,
+      "domains": ["VII", "V"],
+      "modes": ["proposition"],
+      "reason": "「人之性惡明矣」是性惡論核心命題給 VII；「立君上之埶以臨之，明禮義以化之，起法正以治之，重刑罰以禁之」依人性惡而立君上禮義法度，正是 G2 把制度建立在人性上的型態，加 V。"
+    },
+    {
+      "chapter": "性惡篇",
+      "para_index": 5,
+      "domains": ["VII", "VI"],
+      "modes": ["proposition"],
+      "reason": "「堯、舜之與桀、跖，其性一也」明堯桀之性同為惡，給 VII；「順其情，安恣睢，以出乎貪利争奪」寫縱情貪利之惡，加 VI。"
+    },
+    {
+      "chapter": "性惡篇",
+      "para_index": 6,
+      "domains": ["VII", "VIII"],
+      "modes": ["proposition"],
+      "reason": "「塗之人可以爲禹」、「小人可以爲君子而不肯爲君子」論性惡可化為聖，給 VII；「伏術爲學，專心一志，思索孰察，加日縣久，積善而不息」、「聖人者，人之所積而致矣」寫積學致聖的工夫，加 VIII。"
+    },
+    {
+      "chapter": "性惡篇",
+      "para_index": 7,
+      "domains": ["VII", "V"],
+      "modes": ["proposition", "observation"],
+      "reason": "「人情甚不美，又何問焉」、「妻子具而孝衰於親，嗜欲得而信衰於友，爵禄盈而忠衰於君」是堯舜論人情之惡，給 VII；「其言也謟，其行也悖」、「輕身而重貨，恬禍而廣解」品評小人之知、下勇之品格；「天下知之，則欲與天下同苦樂之」論上勇以天下為己任，加 V。"
+    }
+  ]
+}
