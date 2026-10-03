@@ -2,9 +2,9 @@
   "domain": "XI",
   "name_zh": "自由·命運·改變",
   "gist": "自由意志與命運、選擇與代價、改變與重來",
-  "generated_at": "2026-10-02T13:22:31+00:00",
-  "para_count": 745,
-  "book_count": 43,
+  "generated_at": "2026-10-03T03:27:49+00:00",
+  "para_count": 781,
+  "book_count": 45,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -21,6 +21,269 @@
     "wuzi"
   ],
   "paras": [
+    {
+      "slug": "analects",
+      "chapter": "wei-zheng",
+      "para_index": 4,
+      "para_id": "analects#02-p04",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "子曰：「吾十有五而志于學，三十而立，四十而不惑，五十而知天命，六十而耳順，七十而",
+      "note": "「吾十有五而志于學」明示自我一生的學志向，給 VIII；「三十而立」「四十而不惑」「六十而耳順」「七十而從心所欲，不踰矩」是自我修養歷程的章節，給 II；「五十而知天命」一句把壯年的限度放在命上，給 XI；拿掉任一項，整段自述便說不全",
+      "co_domains": [
+        "II",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-zheng",
+      "para_index": 22,
+      "para_id": "analects#02-p22",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子張問：「十世可知也？」子曰：「殷因於夏禮，所損益，可知也；周因於殷禮，所損益，",
+      "note": "「殷因於夏禮」「周因於殷禮」是禮制沿革的記述，給 V；「所損益，可知也」「雖百世可知也」是對明顯背後會變之理的提示，給 XI",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yong-ye",
+      "para_index": 10,
+      "para_id": "analects#06-p10",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "伯牛有疾，子問之，自牖執其手，曰：「亡之，命矣夫！斯人也而有斯疾也！斯人也而有斯",
+      "note": "「亡之，命矣夫」把不治之症推於命，落於 XI；「斯人也而有斯疾也」是對身陷沈疾的視覺哀痛，落在 IX",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yong-ye",
+      "para_index": 19,
+      "para_id": "analects#06-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「人之生也直，罔之生也幸而免。」",
+      "note": "「人之生也直」以直為生之依據，落在 VII；「罔之生也幸而免」把不正之生推於僥倖，於 XI",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "shu-er",
+      "para_index": 31,
+      "para_id": "analects#07-p31",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子疾病，子路請禱。子曰：「有諸？」子路對曰：「有之。誄曰：『禱爾于上下神祇。』」",
+      "note": "「丘之禱久矣」是孔子面對「禱爾于上下神祇」之請禱，不假鬼神、將禮本推回人己長久所行（破除側→XI，不得含 XII）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "tai-bo",
+      "para_index": 13,
+      "para_id": "analects#08-p13",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「篤信好學，守死善道。危邦不入，亂邦不居。天下有道則見，無道則隱。邦有道，",
+      "note": "「篤信好學，守死善道」是為學與守道之志（VIII）；「危邦不入，亂邦不居」「天下有道則見，無道則隱」是對邦/時之出處進退原則（XI）；「邦有道，貧且賤焉，恥也；邦無道，富且貴焉，恥也」是對邦有道/無道下處境的社會判斷（V）。",
+      "co_domains": [
+        "V",
+        "VIII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-han",
+      "para_index": 4,
+      "para_id": "analects#09-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子畏於匡。曰：「文王既沒，文不在茲乎？天之將喪斯文也，後死者不得與於斯文也；天之",
+      "note": "「文王既沒，文不在茲乎」是孔子自任斯文之承；「天之將喪斯文也」「天之未喪斯文也」以天之意志斷文之存亡，認證天有意志（XII）；「天之未喪斯文也，匡人其如予何」是把自身存亡推回天意之命定判斷，給 XI。",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-han",
+      "para_index": 8,
+      "para_id": "analects#09-p08",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "子曰：「鳳鳥不至，河不出圖，吾已矣夫！」",
+      "note": "「鳳鳥不至，河不出圖」舉聖王受命之徵而今不見，認證天／神聖之應有徵驗（XII）；「吾已矣夫」孔子自歎自身時不遇之命運斷定，給 XI。",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-han",
+      "para_index": 18,
+      "para_id": "analects#09-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「譬如為山，未成一簣，止，吾止也；譬如平地，雖覆一簣，進，吾往也。」",
+      "note": "「譬如為山，未成一簣，止，吾止也；譬如平地，雖覆一簣，進，吾往也」以為山/平地為譬，論進止皆由自取，是為學之譬喻（VIII）；「吾止也」「吾往也」明自我進退之自由主張，給 XI。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-han",
+      "para_index": 22,
+      "para_id": "analects#09-p22",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「後生可畏，焉知來者之不如今也？四十、五十而無聞焉，斯亦不足畏也已。」",
+      "note": "「後生可畏，焉知來者之不如今也」是對後生之評估與來者之可能之主張（V）；「四十、五十而無聞焉，斯亦不足畏也已」明無聞者之不再可畏是時/命之改變判斷，給 XI。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-han",
+      "para_index": 25,
+      "para_id": "analects#09-p25",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「三軍可奪帥也，匹夫不可奪志也。」",
+      "note": "「三軍可奪帥也，匹夫不可奪志也」以三軍之帥可奪反襯匹夫之志不可奪，是對人之自由之主張（XI），亦明志為品格之不可搖。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-jin",
+      "para_index": 19,
+      "para_id": "analects#11-p19",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "子曰：「回也其庶乎，屢空。賜不受命，而貨殖焉，億則屢中。」",
+      "note": "「回也其庶乎，屢空」是對顏淵身分狀態（II）之描述，「賜不受命，而貨殖焉」是對子貢不循命而行（XI）之評斷。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yan-yuan",
+      "para_index": 5,
+      "para_id": "analects#12-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "司馬牛憂曰：「人皆有兄弟，我獨亡。」子夏曰：「商聞之矣：死生有命，富貴在天。君子",
+      "note": "「死生有命，富貴在天」是命定論之表述（XI）；「君子敬而無失，與人恭而有禮」是處世之品格主張（VII），「四海之內，皆兄弟也」以廣義之兄弟情回應司馬牛之憂。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-wen",
+      "para_index": 36,
+      "para_id": "analects#14-p36",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "公伯寮愬子路於季孫。子服景伯以告，曰：「夫子固有惑志於公伯寮，吾力猶能肆諸市朝。",
+      "note": "「道之將行也與？命也。道之將廢也與？命也。公伯寮其如命何」以命解道之將行將廢，把人事成敗歸於命（XI）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-wen",
+      "para_index": 37,
+      "para_id": "analects#14-p37",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「賢者辟世，其次辟地，其次辟色，其次辟言。」子曰：「作者七人矣。」",
+      "note": "「賢者辟世，其次辟地，其次辟色，其次辟言」四階退處之序，論賢者處世之時遇與自由（XI）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "ji-shi",
+      "para_index": 2,
+      "para_id": "analects#16-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孔子曰：「天下有道，則禮樂征伐自天子出；天下無道，則禮樂征伐自諸侯出。自諸侯出，",
+      "note": "「禮樂征伐自天子出」「自諸侯出」「自大夫出」「陪臣執國命」論治權出之節，皆為政之根本（V），「十世希不失矣」「五世希不失矣」「三世希不失矣」以世數之限斷治權之失，屬命運之數（XI）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "ji-shi",
+      "para_index": 3,
+      "para_id": "analects#16-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孔子曰：「祿之去公室，五世矣；政逮於大夫，四世矣；故夫三桓之子孫，微矣。」",
+      "note": "「祿之去公室，五世矣」「政逮於大夫，四世矣」皆政出之節（V），「故夫三桓之子孫，微矣」以世數斷三桓之衰，命運之微顯（XI）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "ji-shi",
+      "para_index": 8,
+      "para_id": "analects#16-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孔子曰：「君子有三畏：畏天命，畏大人，畏聖人之言。小人不知天命而不畏也，狎大人，",
+      "note": "「畏天命，畏大人，畏聖人之言」「小人不知天命而不畏也，狎大人，侮聖人之言」以君子／小人對比所畏所侮，品格之異（VII），「天命」屬命定之畏（XI）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yao-yue",
+      "para_index": 3,
+      "para_id": "analects#20-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「不知命，無以為君子也。不知禮，無以立也。不知言，無以知人也。」",
+      "note": "孔子以「不知命，無以為君子也。不知禮，無以立也。不知言，無以知人也」並列三不知：「不知命」論命運之知（XI），「不知禮，無以立也」、「不知言，無以知人也」明禮以立身與知言之本，歸於禮/知人等公共秩序與辨人之則（V）。",
+      "co_domains": [
+        "V"
+      ]
+    },
     {
       "slug": "cai-zhonglang-ji",
       "chapter": "王子喬碑",
@@ -4966,6 +5229,241 @@
       "note": "「今使楚人長乎戎，戎人長乎楚，則楚人戎言，戎人楚言矣」說明語言隨成長群體而變；「亡國之主不可以為賢主也，其所生長者不可耳」進一步主張人的走向並非固定，而受社會環境塑造",
       "co_domains": [
         "V"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 49,
+      "para_id": "mengzi#02-p49",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "孟子對曰：「昔者大王居邠，狄人侵之，去之岐山之下居焉。非擇而取之，不得已也。苟為",
+      "note": "「若夫成功，則天也。君如彼何哉？彊為善而已矣」將成功歸之天、把可努力者推回人力的當行，XI（命／人力之分）",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gong-sun-chou-i",
+      "para_index": 30,
+      "para_id": "mengzi#03-p30",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「仁則榮，不仁則辱。今惡辱而居不仁，是猶惡溼而居下也。如惡之，莫如貴德而",
+      "note": "「仁則榮，不仁則辱」連結仁與榮辱之社會後果，「禍褔無不自己求之者」主張禍福皆由自求，將成敗推回人力，是群體公義與命運由人之主張",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gong-sun-chou-ii",
+      "para_index": 47,
+      "para_id": "mengzi#04-p47",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「彼一時，此一時也。五百年必有王者興，其間必有名世者。由周而來，七百有餘歲矣",
+      "note": "「五百年必有王者興」「夫天，未欲平治天下也；如欲平治天下，當今之世，舍我其誰也」「吾何為不豫哉」論王者興之數與天未平治之由並自抒不豫之解，是命運時遇與情緒之主張",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-i",
+      "para_index": 10,
+      "para_id": "mengzi#07-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「天下有道，小德役大德，小賢役大賢；天下無道，小役大，弱役強。斯二者天也",
+      "note": "「斯二者天也。順天者存，逆天者亡」以天為德賢/勢力消長的決定者，是命定之說（XI）；「天下有道，小德役大德，小賢役大賢」同時論有道無道下的秩序（V）",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-i",
+      "para_index": 12,
+      "para_id": "mengzi#07-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「不仁者可與言哉？安其危而利其菑，樂其所以亡者。不仁而可與言，則何亡國敗",
+      "note": "「夫人必自侮，然後人侮之；家必自毀，而後人毀之；國必自伐，而後人伐之」主張人之榮辱皆自取，把敗亡歸於自身而非天命，是 VII (自取之責) 與 XI (成敗在己)",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 32,
+      "para_id": "mengzi#09-p32",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "孟子曰：「否，不然也。天與賢，則與賢；天與子，則與子。昔者舜薦禹於天，十有七年，",
+      "note": "「莫之為而為者，天也；莫之致而至者，命也」以天與命解釋傳賢傳子；同段「天與賢，則與賢；天與子，則與子」論天意在傳位中的體現",
+      "co_domains": [
+        "V",
+        "XII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 36,
+      "para_id": "mengzi#09-p36",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "孟子曰：「否，不然也。好事者為之也。於衛主顏讎由。彌子之妻與子路之妻，兄弟也。彌",
+      "note": "「孔子進以禮，退以義」論孔子進退以禮義；同段「得之不得曰『有命』」以命定得失；「觀近臣，以其所為主；觀遠臣，以其所主」論觀人知品格之法",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 49,
+      "para_id": "mengzi#12-p49",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「舜發於畎畝之中，傅說舉於版築之閒，膠鬲舉於魚鹽之中，管夷吾舉於士，孫叔",
+      "note": "「天將降大任於是人也，必先苦其心志，勞其筋骨」將困苦重新解釋為成就之條件，論憂患之於成就",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 1,
+      "para_id": "mengzi#13-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「盡其心者，知其性也。知其性，則知天矣。存其心，養其性，所以事天也。殀壽",
+      "note": "「盡其心者，知其性也。知其性，則知天矣」把盡心連到知性、知天，又以「殀壽不貳，修身以俟之，所以立命也」立命於修身，兼及人性、立命與事天",
+      "co_domains": [
+        "VII",
+        "XII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 2,
+      "para_id": "mengzi#13-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「莫非命也，順受其正。是故知命者，不立乎巖牆之下。盡其道而死者，正命也。",
+      "note": "「莫非命也，順受其正」「盡其道而死者，正命也。桎梏死者，非正命也」分別正命與非正命，以行道與否分受命之正與不正",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 3,
+      "para_id": "mengzi#13-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「求則得之，舍則失之，是求有益於得也，求在我者也。求之有道，得之有命，是",
+      "note": "「求之有道，得之有命，是求無益於得也，求在外者也」把「在外者」歸之於命，區分我之可求與不可求",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 58,
+      "para_id": "mengzi#13-p58",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「於不可已而已者，無所不已；於所厚者薄，無所不薄也。其進銳者，其退速。」",
+      "note": "「其進銳者，其退速」以進銳預退速，於所厚與不可已之輕重定施與受之節",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-ii",
+      "para_index": 8,
+      "para_id": "mengzi#14-p08",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "孟子曰：「舜之飯糗茹草也，若將終身焉；及其為天子也，被袗衣，鼓琴，二女果，若固有",
+      "note": "「舜之飯糗茹草也，若將終身焉；及其為天子也，被袗衣，鼓琴，二女果，若固有之」以舜對窮達不動心的態度，論品格與對命遇的超脫",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-ii",
+      "para_index": 9,
+      "para_id": "mengzi#14-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「吾今而後知殺人親之重也：殺人之父，人亦殺其父；殺人之兄，人亦殺其兄。然",
+      "note": "「殺人之父，人亦殺其父；殺人之兄，人亦殺其兄」主張殺人親之報應必然，以群體互動的因果鏈把禍福推回人事",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-ii",
+      "para_index": 12,
+      "para_id": "mengzi#14-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「周于利者，凶年不能殺；周于德者，邪世不能亂。」",
+      "note": "「周于利者，凶年不能殺；周于德者，邪世不能亂」以禍福無常的場景，論立身於德方能不被時世動搖",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-ii",
+      "para_index": 29,
+      "para_id": "mengzi#14-p29",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「口之於味也，目之於色也，耳之於聲也，鼻之於臭也，四肢之於安佚也，性也，",
+      "note": "「仁之於父子也，義之於君臣也，禮之於賓主也，智之於賢者也，聖人之於天道也，命也，有性焉，君子不謂命也」區分性與命的歸屬，把仁義禮智聖歸於性、把富貴安佚歸於命",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-ii",
+      "para_index": 44,
+      "para_id": "mengzi#14-p44",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「堯舜，性者也；湯武，反之也。動容周旋中禮者，盛德之至也；哭死而哀，非為",
+      "note": "「堯舜，性者也；湯武，反之也」並「君子行法，以俟命而已矣」論成德有生安與勉強之別，又以行法俟命把人力推到命之前",
+      "co_domains": [
+        "VII"
       ]
     },
     {

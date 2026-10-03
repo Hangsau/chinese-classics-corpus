@@ -18,5 +18,51 @@
   "verified": true,
   "tier": "核心",
   "notes": "2026-10-02 自 religions-history 收入本庫。使用者 2026-10-02 明示「先把孔、孟、荀弄一份過來」，是對「已在宗教庫者一律不重複收」的第二次明確豁免（前例 2026-08-24 五部），只對這三部有效。宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。已知小缺陷：章名是 ctext 英文 slug（如 xue-er），與墨子 2026-08-25 的副帶問題同類，不影響正文。",
-  "psych_survey": null
+  "psych_survey": {
+    "surveyed_at": "2026-10-02",
+    "method": "15 批（每批 ≤3300 字）串行發包 minimax-m3（claude-m3-lite，scripts/run-m3-batches.sh），判準 delegation/mengzi/SPEC.md（王道政論群『怎麼治之外』、論辯語錄群；天與神五分）；每批 scripts/accept-batch.py 0 FAIL 才 commit；check-delegation-out 全過；check-reason-quotes 807 條引句 0 不在本段、1 段有格無引句",
+    "domains_hit": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V",
+      "VI",
+      "VII",
+      "VIII",
+      "IX",
+      "X",
+      "XI",
+      "XII",
+      "XIII"
+    ],
+    "domains_null": [],
+    "domain_para_counts": {
+      "V": 242,
+      "VII": 227,
+      "IV": 49,
+      "VI": 28,
+      "II": 26,
+      "VIII": 19,
+      "XI": 17,
+      "XII": 12,
+      "III": 4,
+      "IX": 2,
+      "XIII": 2,
+      "X": 1,
+      "I": 1
+    },
+    "discourse_mode_counts": {
+      "narrative": 321,
+      "proposition": 315,
+      "observation": 32,
+      "prescription": 24,
+      "expression": 6,
+      "formalization": 3,
+      "ritual": 1
+    },
+    "paras_total": 630,
+    "paras_no_domain": 163,
+    "verdict": "孟子 630 段，命中 467 段（74%），13／13 全覆蓋。V 242、VII 227 兩格並列，IV 49 段（舜事瞽瞍、孝與喪）明顯多於論語。判空 163 段（26%）偏高的主因是底本把一問一答切成兩段：單獨的問句（中位長 23 字，如「嫂溺則援之以手乎」）判空、答句命中——判讀本身沒錯，但閱讀時須連前文讀（classics-reflections 的 make_packets 已為此加『前文』）。人性論（四端、牛山之木、魚我所欲）全數落 VII；『天將降大任』依 SPEC 不給 XII。判讀者 minimax-m3 全書單一。"
+  }
 }

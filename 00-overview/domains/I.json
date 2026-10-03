@@ -2,9 +2,9 @@
   "domain": "I",
   "name_zh": "存在與意義",
   "gist": "我為何在此、活著有沒有意義、與想不通的問題共處、在歷史洪流中的渺小",
-  "generated_at": "2026-10-02T13:22:31+00:00",
-  "para_count": 149,
-  "book_count": 22,
+  "generated_at": "2026-10-03T03:27:49+00:00",
+  "para_count": 151,
+  "book_count": 24,
   "surveyed_zero_hit": [
     "cai-zhonglang-ji",
     "dengxizi",
@@ -42,6 +42,18 @@
     "zhongjing"
   ],
   "paras": [
+    {
+      "slug": "analects",
+      "chapter": "li-ren",
+      "para_index": 8,
+      "para_id": "analects#04-p08",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "子曰：「朝聞道，夕死可矣。」",
+      "note": "「朝聞道，夕死可矣」抒發聞道即足、夕死無憾之生死意義（I），第一人稱感慨",
+      "co_domains": []
+    },
     {
       "slug": "fengsu-tongyi",
       "chapter": "5",
@@ -1320,6 +1332,20 @@
       "note": "孔子困於陳蔡仍以「內省而不疚於道，臨難而不失其德」安頓患難；收束「所樂非窮達也，道得於此，則窮達一也」更把安樂的來源放在所得之道，而非順逆處境",
       "co_domains": [
         "XIII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-ii",
+      "para_index": 59,
+      "para_id": "mengzi#14-p59",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "孟子曰：「由堯舜至於湯，五百有餘歲，若禹、皋陶，則見而知之；若湯，則聞而知之。由",
+      "note": "「由堯舜至於湯，五百有餘歲……由孔子而來至於今，百有餘歲，去聖人之世，若此其未遠也；近聖人之居，若此其甚也，然而無有乎爾，則亦無有乎爾」以聖道傳承之史序感嘆斯道之不傳，落在意義承擔與學統群體",
+      "co_domains": [
+        "V"
       ]
     },
     {

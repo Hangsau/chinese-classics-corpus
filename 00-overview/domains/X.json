@@ -2,9 +2,9 @@
   "domain": "X",
   "name_zh": "無常·老·死·失去",
   "gist": "老與時間、失去與哀傷、死亡、耐心與等待",
-  "generated_at": "2026-10-02T13:22:31+00:00",
-  "para_count": 463,
-  "book_count": 32,
+  "generated_at": "2026-10-03T03:27:49+00:00",
+  "para_count": 478,
+  "book_count": 34,
   "surveyed_zero_hit": [
     "dengxizi",
     "duduan",
@@ -32,6 +32,202 @@
     "zhongjing"
   ],
   "paras": [
+    {
+      "slug": "analects",
+      "chapter": "li-ren",
+      "para_index": 21,
+      "para_id": "analects#04-p21",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「父母之年，不可不知也。一則以喜，一則以懼。」",
+      "note": "「父母之年，不可不知也。一則以喜，一則以懼」規定應知父母年歲，喜其壽而懼其老死，關乎家庭（IV）與衰老死亡（X）",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yong-ye",
+      "para_index": 3,
+      "para_id": "analects#06-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "哀公問：「弟子孰為好學？」孔子對曰：「有顏回者好學，不遷怒，不貳過。不幸短命死矣",
+      "note": "「有顏回者好學」是好學之舉，於 I；「不遷怒，不貳過」是把好學拆成具體行為準則，於 VII；「不幸短命死矣」是對短命早逝的喟嘆，於 X",
+      "co_domains": [
+        "VIII",
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "shu-er",
+      "para_index": 5,
+      "para_id": "analects#07-p05",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "子曰：「甚矣吾衰也！久矣吾不復夢見周公。」",
+      "note": "「甚矣吾衰也」是自述年老之嘆，「久矣吾不復夢見周公」是對衰老帶來記憶失落之感嘆，給 X。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "tai-bo",
+      "para_index": 4,
+      "para_id": "analects#08-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曾子有疾，孟敬子問之。曾子言曰：「鳥之將死，其鳴也哀；人之將死，其言也善。君子所",
+      "note": "「鳥之將死，其鳴也哀；人之將死，其言也善」以將死之語為善，置於死之脈絡下立論（X）；「動容貌，斯遠暴慢矣；正顏色，斯近信矣；出辭氣，斯遠鄙倍矣」是君子之道拆成三項行為後果，給 VII。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "tai-bo",
+      "para_index": 7,
+      "para_id": "analects#08-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曾子曰：「士不可以不弘毅，任重而道遠。仁以為己任，不亦重乎？死而後已，不亦遠乎？",
+      "note": "「士不可以不弘毅」是士之品格要求（VII）；「仁以為己任」是將仁立為己之使命的承擔（V），「任重而道遠」是承擔之重與遠；「死而後已」明示以死為任之時間極限（X）。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-han",
+      "para_index": 16,
+      "para_id": "analects#09-p16",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "子在川上，曰：「逝者如斯夫！不舍晝夜。」",
+      "note": "「逝者如斯夫！不舍晝夜」是孔子在川上對時光流逝之感慨，落在無常之體認，給 X。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-jin",
+      "para_index": 7,
+      "para_id": "analects#11-p07",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "季康子問：「弟子孰為好學？」孔子對曰：「有顏回者好學，不幸短命死矣！今也則亡。」",
+      "note": "「弟子孰為好學」問的是好學者（VIII），「有顏回者好學」是回答，「不幸短命死矣」是顏淵之死（X）。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-jin",
+      "para_index": 8,
+      "para_id": "analects#11-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "顏淵死，顏路請子之車以為之椁。子曰：「才不才，亦各言其子也。鯉也死，有棺而無椁。",
+      "note": "「顏淵死」是哀慟之老死之事（X），「以吾從大夫之後，不可徒行也」是孔子以大夫之位自處的群體身分（V）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-jin",
+      "para_index": 10,
+      "para_id": "analects#11-p10",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "顏淵死，子哭之慟。從者曰：「子慟矣。」曰：「有慟乎？非夫人之為慟而誰為！」",
+      "note": "「顏淵死」是死亡之事（X），「子哭之慟」與「有慟乎？非夫人之為慟而誰為」是孔子悲慟之情緒（VI）。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-jin",
+      "para_index": 11,
+      "para_id": "analects#11-p11",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "顏淵死，門人欲厚葬之，子曰：「不可。」門人厚葬之。子曰：「回也視予猶父也，予不得",
+      "note": "「顏淵死，門人欲厚葬之」涉及喪葬之禮（IV），「回也視予猶父也，予不得視猶子也」以父子關係連結顏淵之死（X）。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-jin",
+      "para_index": 12,
+      "para_id": "analects#11-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "季路問事鬼神。子曰：「未能事人，焉能事鬼？」敢問死。曰：「未知生，焉知死？」",
+      "note": "「未知生，焉知死」是對死亡之態度（X）；「未能事人，焉能事鬼」是存而不論鬼神，不給 XII。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-jin",
+      "para_index": 13,
+      "para_id": "analects#11-p13",
+      "modes": [
+        "observation",
+        "expression"
+      ],
+      "excerpt": "閔子侍側，誾誾如也；子路，行行如也；冉有、子貢，侃侃如也。子樂。「若由也，不得其",
+      "note": "「子樂」是孔子之喜悅（VI），「若由也，不得其死然」是對子路未得善終之死的預言（X）。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-ling-gong",
+      "para_index": 9,
+      "para_id": "analects#15-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「志士仁人，無求生以害仁，有殺身以成仁。」",
+      "note": "「志士仁人，無求生以害仁，有殺身以成仁」以「求生」「殺身」拆仁之結果，仁為品格德目（VII），「殺身」為死亡之犠牲（X）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "ji-shi",
+      "para_index": 12,
+      "para_id": "analects#16-p12",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊景公有馬千駟，死之日，民無德而稱焉。伯夷叔齊餓于首陽之下，民到于今稱之。其斯之",
+      "note": "「死之日」齊景公之死為死亡之題（X），「民無德而稱焉」「民到于今稱之」以民之德稱與否對比二人之公評，屬社會之公義（V）。",
+      "co_domains": [
+        "V"
+      ]
+    },
     {
       "slug": "cai-zhonglang-ji",
       "chapter": "西鼎銘",
@@ -2003,6 +2199,20 @@
       "co_domains": [
         "III",
         "V"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-i",
+      "para_index": 26,
+      "para_id": "mengzi#11-p26",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孟子曰：「魚，我所欲也；熊掌，亦我所欲也，二者不可得兼，舍魚而取熊掌者也。生，亦",
+      "note": "「生亦我所欲，所欲有甚於生者」「此之謂失其本心」立舍生取義之德性命題；「死亦我所惡，所惡有甚於死者」並寫面對死亡之抉擇",
+      "co_domains": [
+        "VII"
       ]
     },
     {

@@ -2,9 +2,9 @@
   "domain": "XIII",
   "name_zh": "安頓·修復·平安",
   "gist": "靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈",
-  "generated_at": "2026-10-02T13:22:31+00:00",
-  "para_count": 217,
-  "book_count": 28,
+  "generated_at": "2026-10-03T03:27:49+00:00",
+  "para_count": 221,
+  "book_count": 30,
   "surveyed_zero_hit": [
     "duduan",
     "fangyan",
@@ -36,6 +36,34 @@
     "zhongjing"
   ],
   "paras": [
+    {
+      "slug": "analects",
+      "chapter": "yong-ye",
+      "para_index": 11,
+      "para_id": "analects#06-p11",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "子曰：「賢哉回也！一簞食，一瓢飲，在陋巷。人不堪其憂，回也不改其樂。賢哉回也！」",
+      "note": "「人不堪其憂，回也不改其樂」以安貧不變其樂為行為準則定義賢，是 VII；同時是在境遇中自得其樂的安頓，於 XIII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "shu-er",
+      "para_index": 14,
+      "para_id": "analects#07-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「飯疏食飲水，曲肱而枕之，樂亦在其中矣。不義而富且貴，於我如浮雲。」",
+      "note": "「不義而富且貴，於我如浮雲」是重義輕利的品格主張（VII）；「飯疏食飲水，曲肱而枕之，樂亦在其中矣」是安於貧賤、貧中得樂的自處（XIII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
     {
       "slug": "cai-zhonglang-ji",
       "chapter": "墳前石碑",
@@ -1673,6 +1701,34 @@
       "note": "材與不材都可能招累，莊子遂說應「與時俱化，而無肯專為」且「物物而不物於物」；這既承認萬物成毀離合不可必，也提出不被外物役使的自處方式",
       "co_domains": [
         "XI"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 20,
+      "para_id": "mengzi#13-p20",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「人之有德慧術知者，恒存乎疢疾。獨孤臣孽子，其操心也危，其慮患也深，故達",
+      "note": "「人之有德慧術知者，恒存乎疢疾」「獨孤臣孽子，其操心也危，其慮患也深，故達」以憂患為德慧之所存，於患中如何自處",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 31,
+      "para_id": "mengzi#13-p31",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「有為者辟若掘井，掘井九軔而不及泉，猶為棄井也。」",
+      "note": "「有為者辟若掘井，掘井九軔而不及泉，猶為棄井也」以掘井喻有為須及泉，立中途而廢之可惜",
+      "co_domains": [
+        "VIII"
       ]
     },
     {

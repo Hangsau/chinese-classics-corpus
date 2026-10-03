@@ -2,9 +2,9 @@
   "domain": "III",
   "name_zh": "愛與親密",
   "gist": "愛與性、被拒絕、承諾、信任與脆弱、溝通與被理解",
-  "generated_at": "2026-10-02T13:22:31+00:00",
-  "para_count": 161,
-  "book_count": 24,
+  "generated_at": "2026-10-03T03:27:49+00:00",
+  "para_count": 167,
+  "book_count": 26,
   "surveyed_zero_hit": [
     "dengxizi",
     "duduan",
@@ -40,6 +40,35 @@
     "zhongjing"
   ],
   "paras": [
+    {
+      "slug": "analects",
+      "chapter": "yan-yuan",
+      "para_index": 22,
+      "para_id": "analects#12-p22",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "樊遲問仁。子曰：「愛人。」問知。子曰：「知人。」樊遲未達。子曰：「舉直錯諸枉，能",
+      "note": "「愛人」是仁的定義，落於愛與親密（III）；「舉直錯諸枉，能使枉者直」是用人之方（V），子夏舉舜舉皋陶、湯舉伊尹為其例證。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-wen",
+      "para_index": 7,
+      "para_id": "analects#14-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「愛之，能勿勞乎？忠焉，能勿誨乎？」",
+      "note": "「愛之，能勿勞乎？忠焉，能勿誨乎？」愛與忠為關係之情與忠誠（III），「勞」「誨」是愛與忠之必然後果，忠作為德目被拆成行為（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
     {
       "slug": "cai-zhonglang-ji",
       "chapter": "飲馬長城窟行",
@@ -1137,6 +1166,62 @@
       "note": "女子外藏財物被逐，顯示親密關係中的好意會被讀成「外心」；「遇合也無常」以下又以美醜、甘脆、大臭有人喜歡及文王三年習慣昌蒲葅，說關係是否相合與偏好都非固定必然",
       "co_domains": [
         "XI"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 4,
+      "para_id": "mengzi#09-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "萬章問曰：「《詩》云：『娶妻如之何？必告父母。』信斯言也，宜莫如舜。舜之不告而娶",
+      "note": "「娶妻如之何？必告父母」引《詩》問舜為何不告而娶，觸及婚姻與孝道",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 5,
+      "para_id": "mengzi#09-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「告則不得娶。男女居室，人之大倫也。如告，則廢人之大倫，以懟父母，是以不",
+      "note": "「男女居室，人之大倫也」以婚姻為人之大倫，論舜不告而娶的理由",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 6,
+      "para_id": "mengzi#09-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "萬章曰：「舜之不告而娶，則吾既得聞命矣；帝之妻舜而不告，何也？」",
+      "note": "「帝之妻舜而不告，何也」接續追問帝堯嫁女亦不告的原因",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 7,
+      "para_id": "mengzi#09-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「帝亦知告焉則不得妻也。」",
+      "note": "「帝亦知告焉則不得妻也」解釋帝堯亦知告則不得嫁女",
+      "co_domains": [
+        "IV"
       ]
     },
     {

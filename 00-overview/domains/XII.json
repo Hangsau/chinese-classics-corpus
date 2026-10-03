@@ -2,9 +2,9 @@
   "domain": "XII",
   "name_zh": "信仰·神聖·超越",
   "gist": "神存在嗎、信與疑、敬畏與美、神秘經驗",
-  "generated_at": "2026-10-02T13:22:31+00:00",
-  "para_count": 416,
-  "book_count": 34,
+  "generated_at": "2026-10-03T03:27:49+00:00",
+  "para_count": 436,
+  "book_count": 36,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -30,6 +30,111 @@
     "yinwenzi"
   ],
   "paras": [
+    {
+      "slug": "analects",
+      "chapter": "ba-yi",
+      "para_index": 13,
+      "para_id": "analects#03-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "王孫賈問曰：「與其媚於奧，寧媚於竈，何謂也？」子曰：「不然，獲罪於天，無所禱也。",
+      "note": "「獲罪於天，無所禱也」斷言天能降罪、禱告無所用，屬天之認證側（XII），命題式陳述",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "ba-yi",
+      "para_index": 24,
+      "para_id": "analects#03-p24",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "儀封人請見。曰：「君子之至於斯也，吾未嘗不得見也。」從者見之。出曰：「二三子，何",
+      "note": "「天下之無道也久矣，天將以夫子為木鐸」斷言天有意以孔子為天下木鐸，屬天之認證側（XII），敘事式對話",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "yong-ye",
+      "para_index": 28,
+      "para_id": "analects#06-p28",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子見南子，子路不說。夫子矢之曰：「予所否者，天厭之！天厭之！」",
+      "note": "「予所否者，天厭之！天厭之！」以天之噹噹為請咒，是文本自認證天有意志、會厭棄，落在 XII",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "shu-er",
+      "para_index": 20,
+      "para_id": "analects#07-p20",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「天生德於予，桓魋其如予何？」",
+      "note": "「天生德於予」是文本認證天降德於我（認證側→XII），「桓魋其如予何」是此認證下的不懼表述，仍主 XII。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-han",
+      "para_index": 4,
+      "para_id": "analects#09-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子畏於匡。曰：「文王既沒，文不在茲乎？天之將喪斯文也，後死者不得與於斯文也；天之",
+      "note": "「文王既沒，文不在茲乎」是孔子自任斯文之承；「天之將喪斯文也」「天之未喪斯文也」以天之意志斷文之存亡，認證天有意志（XII）；「天之未喪斯文也，匡人其如予何」是把自身存亡推回天意之命定判斷，給 XI。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-han",
+      "para_index": 8,
+      "para_id": "analects#09-p08",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "子曰：「鳳鳥不至，河不出圖，吾已矣夫！」",
+      "note": "「鳳鳥不至，河不出圖」舉聖王受命之徵而今不見，認證天／神聖之應有徵驗（XII）；「吾已矣夫」孔子自歎自身時不遇之命運斷定，給 XI。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-jin",
+      "para_index": 9,
+      "para_id": "analects#11-p09",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "顏淵死。子曰：「噫！天喪予！天喪予！」",
+      "note": "「天喪予」是文本認證天有降禍之能（認證側→XII），「噫！天喪予！天喪予！」是孔子哀慟之情緒抒發（VI）。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yao-yue",
+      "para_index": 1,
+      "para_id": "analects#20-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "堯曰：「咨！爾舜！天之曆數在爾躬。允執其中。四海困窮，天祿永終。」舜亦以命禹。曰",
+      "note": "本段記堯舜禹湯周之命誥：「天之曆數在爾躬」、「允執其中」明天命在躬而執中、「四海困窮，天祿永終」明天祿隨民困而終、「予小子履，敢用玄牡，敢昭告于皇皇后帝」、「帝臣不蔽，簡在帝心」明告於帝而簡在帝心，皆認證天帝有意志（XII）；「朕躬有罪，無以萬方；萬方有罪，罪在朕躬」、「雖有周親，不如仁人」、「謹權量，審法度，修廢官」、「興滅國，繼絕世，舉逸民」、「所重：民、食、喪、祭」、「寬則得眾，信則民任焉，敏則有功，公則說」明治國之方與所重，屬為政之道（V）與仁之品格（VII）。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
     {
       "slug": "cai-zhonglang-ji",
       "chapter": "王子喬碑",
@@ -1130,6 +1235,178 @@
       "co_domains": [
         "V",
         "VIII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 54,
+      "para_id": "mengzi#02-p54",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "樂正子見孟子，曰：「克告於君，君為來見也。嬖人有臧倉者沮君，君是以不果來也。」曰",
+      "note": "「吾之不遇魯侯，天也」明示天為不遇之因，並以「臧氏之子焉能使予不遇哉」排除人為阻撓，認證天對人事之意志與作用，XII（信仰／天）",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-i",
+      "para_index": 11,
+      "para_id": "mengzi#07-p11",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "今也小國師大國而恥受命焉，是猶弟子而恥受命於先師也。如恥之，莫若師文王。師文王，",
+      "note": "「天命靡常」「上帝既命，侯于周服」引《詩》自認上帝/天在降命與否，是天命的認證，給 XII；「仁不可為眾也。夫國君好仁，天下無敵」主張國君好仁則天下無敵，給 VII；「師文王，大國五年，小國七年，必為政於天下矣」談師文王以治天下，給 V",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 25,
+      "para_id": "mengzi#09-p25",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "「天與之者，諄諄然命之乎？」",
+      "note": "「天與之者，諄諄然命之乎」問天授天下是否諄諄告命",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 26,
+      "para_id": "mengzi#09-p26",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「否。天不言，以行與事示之而已矣。」",
+      "note": "「天不言，以行與事示之而已矣」論天以行事示命，把天意落到民的接受上",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 27,
+      "para_id": "mengzi#09-p27",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曰：「以行與事示之者如之何？」",
+      "note": "「以行與事示之者如之何」問天以行與事示命之具體方式",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 28,
+      "para_id": "mengzi#09-p28",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「天子能薦人於天，不能使天與之天下；諸侯能薦人於天子，不能使天子與之諸侯；大",
+      "note": "「堯薦舜於天而天受之，暴之於民而民受之」論薦之天與暴之民乃天受之實證",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 29,
+      "para_id": "mengzi#09-p29",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曰：「敢問薦之於天而天受之，暴之於民而民受之，如何？」",
+      "note": "「敢問薦之於天而天受之，暴之於民而民受之，如何」追問天受、民受之具體內容",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 30,
+      "para_id": "mengzi#09-p30",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "曰：「使之主祭而百神享之，是天受之；使之主事而事治，百姓安之，是民受之也。天與之",
+      "note": "「天視自我民視，天聽自我民聽」引《太誓》證天意由民顯現",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 32,
+      "para_id": "mengzi#09-p32",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "孟子曰：「否，不然也。天與賢，則與賢；天與子，則與子。昔者舜薦禹於天，十有七年，",
+      "note": "「莫之為而為者，天也；莫之致而至者，命也」以天與命解釋傳賢傳子；同段「天與賢，則與賢；天與子，則與子」論天意在傳位中的體現",
+      "co_domains": [
+        "V",
+        "XI"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 34,
+      "para_id": "mengzi#09-p34",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "孟子曰：「否，不然。伊尹耕於有莘之野，而樂堯舜之道焉。非其義也，非其道也，祿之以",
+      "note": "「天之生此民也，使先知覺後知，使先覺覺後覺也」論聖人自任以天下之重；「歸潔其身而已矣」論聖人之行",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-i",
+      "para_index": 34,
+      "para_id": "mengzi#11-p34",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「耳目之官不思，而蔽於物，物交物，則引之而已矣。心之官則思，思則得之，不思則",
+      "note": "「心之官則思，思則得之，不思則不得也」「先立乎其大者，則其小者弗能奪也」論心之官思與立大者之存養；「此天之所與我者」斷言天所賦予心之官，認證天之賦與",
+      "co_domains": [
+        "VII",
+        "VI"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 1,
+      "para_id": "mengzi#13-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「盡其心者，知其性也。知其性，則知天矣。存其心，養其性，所以事天也。殀壽",
+      "note": "「盡其心者，知其性也。知其性，則知天矣」把盡心連到知性、知天，又以「殀壽不貳，修身以俟之，所以立命也」立命於修身，兼及人性、立命與事天",
+      "co_domains": [
+        "VII",
+        "XI"
       ]
     },
     {

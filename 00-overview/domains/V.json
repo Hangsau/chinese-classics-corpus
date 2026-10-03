@@ -2,9 +2,9 @@
   "domain": "V",
   "name_zh": "群體·社會·公義",
   "gist": "孤獨與歸屬、友誼、我群他群與偏見、公義與權力、責任與領導",
-  "generated_at": "2026-10-02T13:22:31+00:00",
-  "para_count": 4544,
-  "book_count": 52,
+  "generated_at": "2026-10-03T03:27:49+00:00",
+  "para_count": 4952,
+  "book_count": 54,
   "surveyed_zero_hit": [
     "haidao-suanjing",
     "jinkui-yaolue",
@@ -12,6 +12,2243 @@
     "nanjing"
   ],
   "paras": [
+    {
+      "slug": "analects",
+      "chapter": "xue-er",
+      "para_index": 5,
+      "para_id": "analects#01-p05",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「道千乘之國：敬事而信，節用而愛人，使民以時。」",
+      "note": "「道千乘之國」「敬事而信」「節用而愛人」「使民以時」整段是治國的具體規範，全歸 V",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "xue-er",
+      "para_index": 7,
+      "para_id": "analects#01-p07",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子夏曰：「賢賢易色，事父母能竭其力，事君能致其身，與朋友交言而有信。雖曰未學，吾",
+      "note": "「事父母能竭其力」是孝行的極致，給 IV；「事君能致其身」「與朋友交言而有信」分別是君臣與朋友關係的規範，給 V",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xue-er",
+      "para_index": 9,
+      "para_id": "analects#01-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曾子曰：「慎終追遠，民德歸厚矣。」",
+      "note": "「慎終追遠」是喪祭傳承的行為，給 IV；「民德歸厚」是民俗風氣後果的命題，給 V",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xue-er",
+      "para_index": 10,
+      "para_id": "analects#01-p10",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子禽問於子貢曰：「夫子至於是邦也，必聞其政，求之與？抑與之與？」子貢曰：「夫子溫",
+      "note": "「夫子至於是邦也，必聞其政」是孔子周遊問政之事，給 V；「溫、良、恭、儉、讓以得之」是夫子人格的記述，給 VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xue-er",
+      "para_index": 12,
+      "para_id": "analects#01-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "有子曰：「禮之用，和為貴。先王之道斯為美，小大由之。有所不行，知和而和，不以禮節",
+      "note": "「禮之用，和為貴」「不以禮節之，亦不可行也」把禮歸到社會秩序的原理，給 V；「和為貴」同時是對和之德的主張，給 VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xue-er",
+      "para_index": 16,
+      "para_id": "analects#01-p16",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「不患人之不己知，患不知人也。」",
+      "note": "「患不知人也」把認知焦點轉到對人的認識，給 II；「不患人之不己知」是對人我關係的勸戒，給 V",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-zheng",
+      "para_index": 1,
+      "para_id": "analects#02-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+      "note": "「為政以德」是治國的根本命題，給 V；「德」在這裡是為政者應有的品格內涵，給 VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-zheng",
+      "para_index": 3,
+      "para_id": "analects#02-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「道之以政，齊之以刑，民免而無恥；道之以德，齊之以禮，有恥且格。」",
+      "note": "「道之以政，齊之以刑」「道之以德，齊之以禮」是兩條治國路線的對比，給 V；對比中德與禮是有關品格與恥感的方案，給 VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-zheng",
+      "para_index": 10,
+      "para_id": "analects#02-p10",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「視其所以，觀其所由，察其所安。人焉廋哉？人焉廋哉？」",
+      "note": "「視其所以，觀其所由，察其所安」是認識人的三步程序，給 II；「人焉廋哉」是對人可被認識的判斷，同時指向人際之間的了解，給 V",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-zheng",
+      "para_index": 17,
+      "para_id": "analects#02-p17",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子張學干祿。子曰：「多聞闕疑，慎言其餘，則寡尤；多見闕殆，慎行其餘，則寡悔。言寡",
+      "note": "「多聞闕疑」「多見闕殆」「慎言其餘」「慎行其餘」是學習方法的規範，給 VIII；「祿在其中矣」把方法連到祿位，給 V",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-zheng",
+      "para_index": 18,
+      "para_id": "analects#02-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "哀公問曰：「何為則民服？」孔子對曰：「舉直錯諸枉，則民服；舉枉錯諸直，則民不服。",
+      "note": "「舉直錯諸枉，則民服」是治國上用人方向的命題，給 V；「直」「枉」是品格詞，給 VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-zheng",
+      "para_index": 19,
+      "para_id": "analects#02-p19",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "季康子問：「使民敬、忠以勸，如之何？」子曰：「臨之以莊則敬，孝慈則忠，舉善而教不",
+      "note": "「使民敬、忠以勸」「臨之以莊則敬」「舉善而教不能」是使民的具體規範，給 V；「孝慈則忠」一句把治道接到家庭倫理上，給 IV",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-zheng",
+      "para_index": 20,
+      "para_id": "analects#02-p20",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "或謂孔子曰：「子奚不為政？」子曰：「《書》云：『孝乎惟孝、友于兄弟，施於有政。』",
+      "note": "「孝乎惟孝、友于兄弟」是家庭倫理實踐，給 IV；「是亦為政，奚其為為政」把孝友連到為政的問題，給 V",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-zheng",
+      "para_index": 22,
+      "para_id": "analects#02-p22",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子張問：「十世可知也？」子曰：「殷因於夏禮，所損益，可知也；周因於殷禮，所損益，",
+      "note": "「殷因於夏禮」「周因於殷禮」是禮制沿革的記述，給 V；「所損益，可知也」「雖百世可知也」是對明顯背後會變之理的提示，給 XI",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "ba-yi",
+      "para_index": 1,
+      "para_id": "analects#03-p01",
+      "modes": [
+        "expression",
+        "proposition"
+      ],
+      "excerpt": "孔子謂季氏：「八佾舞於庭，是可忍也，孰不可忍也？」",
+      "note": "「八佾舞於庭，是可忍也，孰不可忍也」對季氏僭用天子舞列作憤慨的道德判斷，「可忍也」「不可忍」涉及位階容忍之品格（VII）與禮制位階（V），第一人稱抒發兼命題",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "ba-yi",
+      "para_index": 2,
+      "para_id": "analects#03-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "三家者以雍徹。子曰：「『相維辟公，天子穆穆』，奚取於三家之堂？」",
+      "note": "「相維辟公，天子穆穆」「奚取於三家之堂」以天子詩頌被三家用於家廟，指責其僭越禮制秩序（V），命題式斷言",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "ba-yi",
+      "para_index": 5,
+      "para_id": "analects#03-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「夷狄之有君，不如諸夏之亡也。」",
+      "note": "「夷狄之有君，不如諸夏之亡也」斷言文化秩序（V）優於徒有君位，命題式陳述",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "ba-yi",
+      "para_index": 6,
+      "para_id": "analects#03-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "季氏旅於泰山。子謂冉有曰：「女弗能救與？」對曰：「不能。」子曰：「嗚呼！曾謂泰山",
+      "note": "「女弗能救與」「曾謂泰山，不如林放乎」以對話情節批評季氏僭祭泰山（V）並諷冉有不能救，敘事性判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "ba-yi",
+      "para_index": 8,
+      "para_id": "analects#03-p08",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子夏問曰：「『巧笑倩兮，美目盼兮，素以為絢兮。』何謂也？」子曰：「繪事後素。」曰",
+      "note": "子夏問「巧笑倩兮，美目盼兮，素以為絢兮」孔子答「繪事後素」子夏問「禮後乎」引出「始可與言詩已矣」，以詩與畫之喻揭「禮後」之禮制原則（V），敘事對話",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "ba-yi",
+      "para_index": 9,
+      "para_id": "analects#03-p09",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "子曰：「夏禮，吾能言之，杞不足徵也；殷禮，吾能言之，宋不足徵也。文獻不足故也，足",
+      "note": "「夏禮，吾能言之，杞不足徵也」「文獻不足故也」陳述夏殷之禮受限於文獻（V）的客觀情況，觀察式語句",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "ba-yi",
+      "para_index": 10,
+      "para_id": "analects#03-p10",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "子曰：「禘自既灌而往者，吾不欲觀之矣。」",
+      "note": "「禘自既灌而往者，吾不欲觀之矣」陳述對禘祭後段已失其義之觀察，關乎禮制（V）",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "ba-yi",
+      "para_index": 11,
+      "para_id": "analects#03-p11",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "或問禘之說。子曰：「不知也。知其說者之於天下也，其如示諸斯乎！」指其掌。",
+      "note": "「不知也。知其說者之於天下也，其如示諸斯乎」「指其掌」以指掌之姿申明知禘之說者之於天下洞見，抒發對禮制（V）內在理解",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "ba-yi",
+      "para_index": 12,
+      "para_id": "analects#03-p12",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "祭如在，祭神如神在。子曰：「吾不與祭，如不祭。」",
+      "note": "「祭如在，祭神如神在」「吾不與祭，如不祭」規定祭祀時應如對方臨在的內在態度，關乎禮制（V）與誠敬之品格（VII）；文本只規範祭祀時之當下態度，並未斷言神祇有意志會賞罰，不給 XII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "ba-yi",
+      "para_index": 14,
+      "para_id": "analects#03-p14",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "子曰：「周監於二代，郁郁乎文哉！吾從周。」",
+      "note": "「周監於二代，郁郁乎文哉！吾從周」以抒發語讚美周禮之文化並自表歸依，關乎禮制與文明秩序（V）",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "ba-yi",
+      "para_index": 15,
+      "para_id": "analects#03-p15",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子入大廟，每事問。或曰：「孰謂鄹人之子知禮乎？入大廟，每事問。」子聞之曰：「是禮",
+      "note": "「入大廟，每事問」「是禮也」以敘事肯定入廟每事問即是禮（V）",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "ba-yi",
+      "para_index": 17,
+      "para_id": "analects#03-p17",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子貢欲去告朔之餼羊。子曰：「賜也，爾愛其羊，我愛其禮。」",
+      "note": "「賜也，爾愛其羊，我愛其禮」以對話肯定存羊之禮勝於愛羊，關乎禮制（V）",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "ba-yi",
+      "para_index": 18,
+      "para_id": "analects#03-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「事君盡禮，人以為諂也。」",
+      "note": "「事君盡禮，人以為諂也」命題指出以禮事君反被視為諂，是對君臣關係（V）與品格（VII）的判斷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "ba-yi",
+      "para_index": 19,
+      "para_id": "analects#03-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "定公問：「君使臣，臣事君，如之何？」孔子對曰：「君使臣以禮，臣事君以忠。」",
+      "note": "「君使臣以禮，臣事君以忠」命題式界定君臣之相待原則，純屬公共秩序（V）",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "ba-yi",
+      "para_index": 21,
+      "para_id": "analects#03-p21",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "哀公問社於宰我。宰我對曰：「夏后氏以松，殷人以柏，周人以栗，曰使民戰栗。」子聞之",
+      "note": "「成事不說，遂事不諫，既往不咎」以敘事回應宰我對社木之解讀，主張既成之事不可更，關乎治事（V）",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "li-ren",
+      "para_index": 1,
+      "para_id": "analects#04-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「里仁為美。擇不處仁，焉得知？」",
+      "note": "「里仁為美。擇不處仁，焉得知」命題式主張擇仁里而居，關乎品格（VII）與社群（V）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "li-ren",
+      "para_index": 13,
+      "para_id": "analects#04-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「能以禮讓為國乎？何有？不能以禮讓為國，如禮何？」",
+      "note": "「能以禮讓為國乎？何有？不能以禮讓為國，如禮何」命題式主張以禮讓治國（V），並以品格原則（VII）回應無禮讓之國",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "li-ren",
+      "para_index": 14,
+      "para_id": "analects#04-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「不患無位，患所以立；不患莫己知，求為可知也。」",
+      "note": "「不患無位，患所以立；不患莫己知，求為可知也」命題式主張不患無位當立身（V）並當求為可知（VIII），關乎成就方向",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "li-ren",
+      "para_index": 26,
+      "para_id": "analects#04-p26",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子游曰：「事君數，斯辱矣，朋友數，斯疏矣。」",
+      "note": "「事君數，斯辱矣，朋友數，斯疏矣」命題式主張事君交友皆當有度，關乎群體秩序（V）",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "gong-ye-chang",
+      "para_index": 2,
+      "para_id": "analects#05-p02",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "子謂南容，「邦有道，不廢；邦無道，免於刑戮。」以其兄之子妻之。",
+      "note": "「邦有道，不廢；邦無道，免於刑戮」給出評南容之標準：在治世不被黜廢，在亂世免於刑戮，關乎治理環境下之人的去就（V）",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "gong-ye-chang",
+      "para_index": 8,
+      "para_id": "analects#05-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟武伯問：「子路仁乎？」子曰：「不知也。」又問。子曰：「由也，千乘之國，可使治其",
+      "note": "「由也，千乘之國，可使治其賦也」「求也，千室之邑，百乘之家，可使為之宰也」「赤也，束帶立於朝，可使與賓客言也」三人各有治國理民之能，皆任 V；三次「不知其仁也」劃開才能與仁之別，給 VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "gong-ye-chang",
+      "para_index": 16,
+      "para_id": "analects#05-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子謂子產，「有君子之道四焉：其行己也恭，其事上也敬，其養民也惠，其使民也義。」",
+      "note": "「其行己也恭，其事上也敬」是品格（VII）；「其養民也惠，其使民也義」是治民之理（V）；四者合為君子之道",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "gong-ye-chang",
+      "para_index": 17,
+      "para_id": "analects#05-p17",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "子曰：「晏平仲善與人交，久而敬之。」",
+      "note": "「晏平仲善與人交，久而敬之」陳述晏平仲交友能久而敬之，關乎友誼之恆（V）",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "gong-ye-chang",
+      "para_index": 26,
+      "para_id": "analects#05-p26",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "顏淵、季路侍。子曰：「盍各言爾志？」子路曰：「願車馬、衣輕裘，與朋友共。敝之而無",
+      "note": "子路「願車馬、衣輕裘，與朋友共」是與朋友共之願，給 V；顏淵「願無伐善，無施勞」是不伐善不施勞之品格，給 VII；孔子「老者安之，朋友信之，少者懷之」以老者、朋友、少者三層之社會關係為願，給 V；對話敘事",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yong-ye",
+      "para_index": 2,
+      "para_id": "analects#06-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "仲弓問子桑伯子，子曰：「可也簡。」仲弓曰：「居敬而行簡，以臨其民，不亦可乎？居簡",
+      "note": "「居敬而行簡，以臨其民」是為政以身帥民的德行主張，落在 V；「居敬」又是對居心德目的要求，落 VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yong-ye",
+      "para_index": 4,
+      "para_id": "analects#06-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子華使於齊，冉子為其母請粟。子曰：「與之釜。」請益。曰：「與之庾。」冉子與之粟五",
+      "note": "「君子周急不繼富」是濟助分配的原則，落在公義 V；同時是把君子行為化成可操作的準則，於 VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yong-ye",
+      "para_index": 5,
+      "para_id": "analects#06-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "原思為之宰，與之粟九百，辭。子曰：「毋！以與爾鄰里鄉黨乎！」",
+      "note": "「以與爾鄰里鄉黨乎」把受祿轉分給鄉鄰，是對宗族鄉里公義的處理，落在 V",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "yong-ye",
+      "para_index": 6,
+      "para_id": "analects#06-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子謂仲弓曰：「犂牛之子騂且角，雖欲勿用，山川其舍諸？」",
+      "note": "「犂牛之子騂且角，雖欲勿用，山川其舍諸」主張用人當以資質而非門第，落於 V 的人事取捨",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "yong-ye",
+      "para_index": 9,
+      "para_id": "analects#06-p09",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "季氏使閔子騫為費宰。閔子騫曰：「善為我辭焉。如有復我者，則吾必在汶上矣。」",
+      "note": "「善為我辭焉。如有復我者，則吾必在汶上矣」以拒召表對季氏用人的不合作，落在 V",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "yong-ye",
+      "para_index": 14,
+      "para_id": "analects#06-p14",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子游為武城宰。子曰：「女得人焉爾乎？」曰：「有澹臺滅明者，行不由徑。非公事，未嘗",
+      "note": "「女得人焉爾乎」是為政以得人為問；「有澹臺滅明者，行不由徑。非公事，未嘗至於偃之室也」舉一人公私分明為例，落於 V",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "yong-ye",
+      "para_index": 16,
+      "para_id": "analects#06-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「不有祝鮀之佞而有宋朝之美，難乎免於今之世矣！」",
+      "note": "「不有祝鮀之佞而有宋朝之美，難乎免於今之世矣」嘆當世重佞色輕德，是對世風的社會評論，落在 V",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "yong-ye",
+      "para_index": 22,
+      "para_id": "analects#06-p22",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "樊遲問知。子曰：「務民之義，敬鬼神而遠之，可謂知矣。」問仁。曰：「仁者先難而後獲",
+      "note": "「務民之義」以民事義先為知之實，落在 V；「仁者先難而後獲」把仁拆成先難後獲的行為次第，於 VII；「敬鬼神而遠之」存而不論，不給 XII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yong-ye",
+      "para_index": 24,
+      "para_id": "analects#06-p24",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「齊一變，至於魯；魯一變，至於道。」",
+      "note": "「齊一變，至於魯；魯一變，至於道」論政教風氣次第升進，落在 V",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "yong-ye",
+      "para_index": 25,
+      "para_id": "analects#06-p25",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "子曰：「觚不觚，觚哉！觚哉！」",
+      "note": "「觚不觚，觚哉！觚哉！」嘆器失其制，借名實之乖刺針對當世，落在 V",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "yong-ye",
+      "para_index": 30,
+      "para_id": "analects#06-p30",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "子貢曰：「如有博施於民而能濟眾，何如？可謂仁乎？」子曰：「何事於仁，必也聖乎！堯",
+      "note": "「己欲立而立人，己欲達而達人」以忠恕立仁之實質定義，落在 VII；「博施於民而能濟眾」以社會兼善為仁之極，於 V",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "shu-er",
+      "para_index": 10,
+      "para_id": "analects#07-p10",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子謂顏淵曰：「用之則行，舍之則藏，唯我與爾有是夫！」子路曰：「子行三軍，則誰與？",
+      "note": "「用之則行，舍之則藏，唯我與爾有是夫」是孔子與顏淵對出處進退的自我定位（II）；「暴虎馮河，死而無悔者，吾不與也。必也臨事而懼，好謀而成者也」是對同行者處事之德的要求（V）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "shu-er",
+      "para_index": 13,
+      "para_id": "analects#07-p13",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "冉有曰：「夫子為衛君乎？」子貢曰：「諾。吾將問之。」入，曰：「伯夷、叔齊何人也？",
+      "note": "「夫子為衛君乎」是君位繼承之公義探問（V），「求仁而得仁，又何怨」是對伯夷叔齊之仁的品格評斷（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "shu-er",
+      "para_index": 25,
+      "para_id": "analects#07-p25",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "互鄉難與言，童子見，門人惑。子曰：「與其進也，不與其退也，唯何甚！人潔己以進，與",
+      "note": "「與其進也，不與其退也」「人潔己以進，與其潔也，不保其往也」是孔子對來學者之接納原則，對群體接人之態度（V）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "shu-er",
+      "para_index": 27,
+      "para_id": "analects#07-p27",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "陳司敗問昭公知禮乎？孔子曰：「知禮。」孔子退，揖巫馬期而進之，曰：「吾聞君子不黨",
+      "note": "「君取於吳為同姓，謂之吳孟子。君而知禮，孰不知禮」是對魯君違禮的公義評斷（V）；「丘也幸，苟有過，人必知之」是孔子自述獲過之態度（II）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "tai-bo",
+      "para_index": 2,
+      "para_id": "analects#08-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「恭而無禮則勞，慎而無禮則葸，勇而無禮則亂，直而無禮則絞。君子篤於親，則民",
+      "note": "「恭而無禮則勞，慎而無禮則葸，勇而無禮則亂，直而無禮則絞」是恭慎勇直四德目各拆成無禮之後果，給 VII；「君子篤於親，則民興於仁；故舊不遺，則民不偷」是上位者篤親與不遺故舊之社會示範（V）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "tai-bo",
+      "para_index": 6,
+      "para_id": "analects#08-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曾子曰：「可以託六尺之孤，可以寄百里之命，臨大節而不可奪也。君子人與？君子人也。",
+      "note": "「可以託六尺之孤，可以寄百里之命，臨大節而不可奪也」是對承擔國命/孤兒託付之德能的社會責任主張（V）；「君子人與？君子人也」以三項行為下君子之定義，給 VII。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "tai-bo",
+      "para_index": 7,
+      "para_id": "analects#08-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曾子曰：「士不可以不弘毅，任重而道遠。仁以為己任，不亦重乎？死而後已，不亦遠乎？",
+      "note": "「士不可以不弘毅」是士之品格要求（VII）；「仁以為己任」是將仁立為己之使命的承擔（V），「任重而道遠」是承擔之重與遠；「死而後已」明示以死為任之時間極限（X）。",
+      "co_domains": [
+        "VII",
+        "X"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "tai-bo",
+      "para_index": 9,
+      "para_id": "analects#08-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「民可使由之，不可使知之。」",
+      "note": "「民可使由之，不可使知之」是對民之能/不能由與知之治理主張，給 V（群體·社會·公義）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "tai-bo",
+      "para_index": 10,
+      "para_id": "analects#08-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「好勇疾貧，亂也。人而不仁，疾之已甚，亂也。」",
+      "note": "「好勇疾貧，亂也」「人而不仁，疾之已甚，亂也」是對社會致亂之因的判斷（V），「人而不仁」是仁之品格主張（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "tai-bo",
+      "para_index": 13,
+      "para_id": "analects#08-p13",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「篤信好學，守死善道。危邦不入，亂邦不居。天下有道則見，無道則隱。邦有道，",
+      "note": "「篤信好學，守死善道」是為學與守道之志（VIII）；「危邦不入，亂邦不居」「天下有道則見，無道則隱」是對邦/時之出處進退原則（XI）；「邦有道，貧且賤焉，恥也；邦無道，富且貴焉，恥也」是對邦有道/無道下處境的社會判斷（V）。",
+      "co_domains": [
+        "VIII",
+        "XI"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "tai-bo",
+      "para_index": 14,
+      "para_id": "analects#08-p14",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「不在其位，不謀其政。」",
+      "note": "「不在其位，不謀其政」是對職位與職責之範圍的規定（V），不在其位者不當越位議政。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "tai-bo",
+      "para_index": 18,
+      "para_id": "analects#08-p18",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "子曰：「巍巍乎！舜禹之有天下也，而不與焉。」",
+      "note": "「巍巍乎！舜禹之有天下也，而不與焉」讚嘆舜禹居天下而不以天下為己有的品格（VII），其位為天下之君（V）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "tai-bo",
+      "para_index": 19,
+      "para_id": "analects#08-p19",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "子曰：「大哉，堯之為君也！巍巍乎！唯天為大，唯堯則之。蕩蕩乎！民無能名焉。巍巍乎",
+      "note": "「大哉，堯之為君也」「其有成功也；煥乎，其有文章」是孔子對堯之為君巍巍蕩蕩之治的讚嘆（V），「唯天為大，唯堯則之」以天為喻（比喻側→不給 XII）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "tai-bo",
+      "para_index": 20,
+      "para_id": "analects#08-p20",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "舜有臣五人而天下治。武王曰：「予有亂臣十人。」孔子曰：「才難，不其然乎？唐虞之際",
+      "note": "「舜有臣五人而天下治」「才難，不其然乎」是對用人/人才之難的歷史敘述（V），「周之德，其可謂至德也已矣」是對周以三分之二服事殷之德評為至德（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "tai-bo",
+      "para_index": 21,
+      "para_id": "analects#08-p21",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "子曰：「禹，吾無間然矣。菲飲食，而致孝乎鬼神；惡衣服，而致美乎黻冕；卑宮室，而盡",
+      "note": "「菲飲食，而致孝乎鬼神；惡衣服，而致美乎黻冕；卑宮室，而盡力乎溝洫」是禹自儉而致孝、致美、盡力之行為（VII 品格），「盡力乎溝洫」屬治水之公共職責（V），孔子以「禹，吾無間然矣」兩端讚嘆之。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-han",
+      "para_index": 15,
+      "para_id": "analects#09-p15",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「出則事公卿，入則事父兄，喪事不敢不勉，不為酒困，何有於我哉？」",
+      "note": "「出則事公卿」是事君上之社會責任（V）；「入則事父兄」是事家庭之傳承（IV）；「喪事不敢不勉」是喪事之謹勉，三條合為出/入/喪/酒之應然規定。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-han",
+      "para_index": 22,
+      "para_id": "analects#09-p22",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「後生可畏，焉知來者之不如今也？四十、五十而無聞焉，斯亦不足畏也已。」",
+      "note": "「後生可畏，焉知來者之不如今也」是對後生之評估與來者之可能之主張（V）；「四十、五十而無聞焉，斯亦不足畏也已」明無聞者之不再可畏是時/命之改變判斷，給 XI。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-han",
+      "para_index": 23,
+      "para_id": "analects#09-p23",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "子曰：「法語之言，能無從乎？改之為貴。巽與之言，能無說乎？繹之為貴。說而不繹，從",
+      "note": "「法語之言，能無從乎？改之為貴」與「巽與之言，能無說乎？繹之為貴」是兩種教言下受者應改/應繹之品格要求（VII）；「說而不繹，從而不改，吾末如之何也已矣」是對不能改繹者之無可奈何之對人之判斷，給 V。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-han",
+      "para_index": 24,
+      "para_id": "analects#09-p24",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「主忠信，毋友不如己者，過則勿憚改。」",
+      "note": "「主忠信」是主以忠信為本之品格要求（VII）；「毋友不如己者」是交友之規定（V）；「過則勿憚改」是改過之具體行為要求（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-han",
+      "para_index": 29,
+      "para_id": "analects#09-p29",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「可與共學，未可與適道；可與適道，未可與立；可與立，未可與權。」",
+      "note": "「可與共學，未可與適道；可與適道，未可與立；可與立，未可與權」是對人之層次分類的判斷，落在對人之評估與用人之主張，給 V。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-jin",
+      "para_index": 1,
+      "para_id": "analects#11-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「先進於禮樂，野人也；後進於禮樂，君子也。如用之，則吾從先進。」",
+      "note": "「先進於禮樂，野人也；後進於禮樂，君子也」是對野人與君子之品格分類（VII），「如用之，則吾從先進」是用人取向之主張（V）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-jin",
+      "para_index": 8,
+      "para_id": "analects#11-p08",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "顏淵死，顏路請子之車以為之椁。子曰：「才不才，亦各言其子也。鯉也死，有棺而無椁。",
+      "note": "「顏淵死」是哀慟之老死之事（X），「以吾從大夫之後，不可徒行也」是孔子以大夫之位自處的群體身分（V）。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-jin",
+      "para_index": 14,
+      "para_id": "analects#11-p14",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魯人為長府。閔子騫曰：「仍舊貫，如之何？何必改作？」子曰：「夫人不言，言必有中。",
+      "note": "「夫人不言，言必有中」是對閔子品格（VII）之肯定，「仍舊貫，如之何？何必改作」是其對為政之主張（V）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-jin",
+      "para_index": 17,
+      "para_id": "analects#11-p17",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "季氏富於周公，而求也為之聚斂而附益之。子曰：「非吾徒也。小子鳴鼓而攻之，可也。」",
+      "note": "「非吾徒也」是對冉求品格（VII）之嚴厲批評，「小子鳴鼓而攻之」是對群體行動（V）之呼籲。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-jin",
+      "para_index": 24,
+      "para_id": "analects#11-p24",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "季子然問：「仲由、冉求可謂大臣與？」子曰：「吾以子為異之問，曾由與求之問。所謂大",
+      "note": "「以道事君，不可則止」是大臣之標準（V），「弒父與君，亦不從也」是君臣、父子之底線（V、IV）。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-jin",
+      "para_index": 26,
+      "para_id": "analects#11-p26",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子路、曾皙、冉有、公西華侍坐。子曰：「以吾一日長乎爾，毋吾以也。居則曰：「不吾知",
+      "note": "「各言其志」是各人志向與召喚（VIII），「為國以禮」是治國原則（V），「吾與點也」是孔子對曾皙之志之認同，是孔子自我定位（II）。",
+      "co_domains": [
+        "VIII",
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yan-yuan",
+      "para_index": 7,
+      "para_id": "analects#12-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子貢問政。子曰：「足食。足兵。民信之矣。」子貢曰：「必不得已而去，於斯三者何先？",
+      "note": "「足食。足兵。民信之矣」是為政之三要素（V），「自古皆有死，民無信不立」是為政以信為本之強調（V）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "yan-yuan",
+      "para_index": 9,
+      "para_id": "analects#12-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "哀公問於有若曰：「年饑，用不足，如之何？」有若對曰：「盍徹乎？」曰：「二，吾猶不",
+      "note": "「百姓足，君孰與不足？百姓不足，君孰與足」是為政以民足為本之主張（V）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "yan-yuan",
+      "para_index": 11,
+      "para_id": "analects#12-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "齊景公問政於孔子。孔子對曰：「君君，臣臣，父父，子子。」公曰：「善哉！信如君不君",
+      "note": "「君君，臣臣，父父，子子」是為政之秩序與群體倫理（V），「善哉」之嘆與「雖有粟，吾得而食諸」之反問為對此秩序之重要性的加強調。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "yan-yuan",
+      "para_index": 12,
+      "para_id": "analects#12-p12",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "子曰：「片言可以折獄者，其由也與？」子路無宿諾。",
+      "note": "「片言可以折獄者，其由也與」是對子路能折獄（V）之品題，「子路無宿諾」是對子路守信（VII）之品格觀察。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yan-yuan",
+      "para_index": 13,
+      "para_id": "analects#12-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「聽訟，吾猶人也，必也使無訟乎！」",
+      "note": "「聽訟，吾猶人也，必也使無訟乎」是為政以無訟為本之主張（V）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "yan-yuan",
+      "para_index": 14,
+      "para_id": "analects#12-p14",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子張問政。子曰：「居之無倦，行之以忠。」",
+      "note": "「居之無倦，行之以忠」是為政之態度與方法（V）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "yan-yuan",
+      "para_index": 17,
+      "para_id": "analects#12-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "季康子問政於孔子。孔子對曰：「政者，正也。子帥以正，孰敢不正？」",
+      "note": "「政者，正也。子帥以正，孰敢不正」是為政以正身為本之主張（V）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "yan-yuan",
+      "para_index": 18,
+      "para_id": "analects#12-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "季康子患盜，問於孔子。孔子對曰：「苟子之不欲，雖賞之不竊。」",
+      "note": "「苟子之不欲，雖賞之不竊」是治盜以正身化下為本之主張（V）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "yan-yuan",
+      "para_index": 19,
+      "para_id": "analects#12-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "季康子問政於孔子曰：「如殺無道，以就有道，何如？」孔子對曰：「子為政，焉用殺？子",
+      "note": "「子為政，焉用殺？子欲善，而民善矣」是為政以德化為本之主張（V）；「君子之德風，小人之德草。草上之風，必偃」是對君子／小人品格影響之比擬（VII），亦支持為政以德。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yan-yuan",
+      "para_index": 20,
+      "para_id": "analects#12-p20",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子張問：「士何如斯可謂之達矣？」子曰：「何哉，爾所謂達者？」子張對曰：「在邦必聞",
+      "note": "「質直而好義，察言而觀色，慮以下人」是達者之品格定義（VII）；「色取仁而行違，居之不疑」是聞者之品格對照（VII）；「在邦必達」「在邦必聞」之別涉及群體中之表現（V）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yan-yuan",
+      "para_index": 22,
+      "para_id": "analects#12-p22",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "樊遲問仁。子曰：「愛人。」問知。子曰：「知人。」樊遲未達。子曰：「舉直錯諸枉，能",
+      "note": "「愛人」是仁的定義，落於愛與親密（III）；「舉直錯諸枉，能使枉者直」是用人之方（V），子夏舉舜舉皋陶、湯舉伊尹為其例證。",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yan-yuan",
+      "para_index": 23,
+      "para_id": "analects#12-p23",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子貢問友。子曰：「忠告而善道之，不可則止，無自辱焉。」",
+      "note": "「忠告而善道之，不可則止，無自辱焉」是交友之道（V），規定友誼相勸之限度。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "yan-yuan",
+      "para_index": 24,
+      "para_id": "analects#12-p24",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曾子曰：「君子以文會友，以友輔仁。」",
+      "note": "「以文會友」是君子交友之方（V）；「以友輔仁」是交友以輔成仁之主張（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-lu",
+      "para_index": 1,
+      "para_id": "analects#13-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子路問政。子曰：「先之，勞之。」請益。曰：「無倦。」",
+      "note": "「先之，勞之」是為政以身先、勸勞之方（V）；「無倦」是持續不懈之告誡，亦歸為政之態度。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-lu",
+      "para_index": 2,
+      "para_id": "analects#13-p02",
+      "modes": [
+        "prescription",
+        "narrative"
+      ],
+      "excerpt": "仲弓為季氏宰，問政。子曰：「先有司，赦小過，舉賢才。」曰：「焉知賢才而舉之？」曰",
+      "note": "「先有司，赦小過，舉賢才」是為政之三法（V）；「舉爾所知。爾所不知，人其舍諸」是舉賢之態度與信心。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-lu",
+      "para_index": 3,
+      "para_id": "analects#13-p03",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "子路曰：「衛君待子而為政，子將奚先？」子曰：「必也正名乎！」子路曰：「有是哉，子",
+      "note": "「必也正名乎」是為政之首務（V）；「名不正，則言不順；言不順，則事不成；事不成，則禮樂不興；禮樂不興，則刑罰不中；刑罰不中，則民無所措手足」是名實之因果推演。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-lu",
+      "para_index": 4,
+      "para_id": "analects#13-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "樊遲請學稼，子曰：「吾不如老農。」請學為圃。曰：「吾不如老圃。」樊遲出。子曰：「",
+      "note": "「上好禮，則民莫敢不敬；上好義，則民莫敢不服；上好信，則民莫敢不用情」是為政以德化下之方（V）；「焉用稼」否定親學農事之必要，回應為政以德之主張。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-lu",
+      "para_index": 5,
+      "para_id": "analects#13-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「誦詩三百，授之以政，不達；使於四方，不能專對；雖多，亦奚以為？」",
+      "note": "「誦詩三百，授之以政，不達；使於四方，不能專對」是學不能致用於政事、外交之批評（VIII、V）；「雖多，亦奚以為」是為學以能達能用為本之主張。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-lu",
+      "para_index": 6,
+      "para_id": "analects#13-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「其身正，不令而行；其身不正，雖令不從。」",
+      "note": "「其身正，不令而行；其身不正，雖令不從」是為政以正身為本之主張（V）；正身亦屬為政者品格之要求（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-lu",
+      "para_index": 9,
+      "para_id": "analects#13-p09",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "子適衛，冉有僕。子曰：「庶矣哉！」冉有曰：「既庶矣。又何加焉？」曰：「富之。」曰",
+      "note": "「既庶矣。又何加焉」「富之」「又何加焉」「教之」是為政由庶而富而教之次第（V）；「教之」亦涉及教化（VIII）。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-lu",
+      "para_index": 10,
+      "para_id": "analects#13-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「苟有用我者。期月而已可也，三年有成。」",
+      "note": "「期月而已可也，三年有成」是對用於為政之成效的自信（V）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-lu",
+      "para_index": 11,
+      "para_id": "analects#13-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「善人為邦百年，亦可以勝殘去殺矣。誠哉是言也！」",
+      "note": "「善人為邦百年，亦可以勝殘去殺矣」是善人治國之久效（V）；「誠哉是言也」之嘆亦回歸此治理成效之肯定。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-lu",
+      "para_index": 12,
+      "para_id": "analects#13-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「如有王者，必世而後仁。」",
+      "note": "「如有王者，必世而後仁」是王者治國而後仁成之時程主張（V），仁之化成亦關乎德性教化（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-lu",
+      "para_index": 13,
+      "para_id": "analects#13-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「苟正其身矣，於從政乎何有？不能正其身，如正人何？」",
+      "note": "「苟正其身矣，於從政乎何有」是為政以正身為本（V）；「不能正其身，如正人何」是對不能正身者之質疑，關乎為政者品格（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-lu",
+      "para_index": 14,
+      "para_id": "analects#13-p14",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "冉子退朝。子曰：「何晏也？」對曰：「有政。」子曰：「其事也。如有政，雖不吾以，吾",
+      "note": "「其事也」是對冉子以「有政」自辯之指正，辨政與事之別（V）；「如有政，雖不吾以，吾其與聞之」是國政當與聞之主張。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-lu",
+      "para_index": 15,
+      "para_id": "analects#13-p15",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "定公問：「一言而可以興邦，有諸？」孔子對曰：「言不可以若是其幾也。人之言曰：『為",
+      "note": "「為君難，為臣不易」是君臣任重之認知（V）；「予無樂乎為君，唯其言而莫予違也」是君主專權之言致喪邦之警，亦歸 V。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-lu",
+      "para_index": 16,
+      "para_id": "analects#13-p16",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "葉公問政。子曰：「近者說，遠者來。」",
+      "note": "「近者說，遠者來」是為政以悅近懷遠為本之規定（V）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-lu",
+      "para_index": 17,
+      "para_id": "analects#13-p17",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "子夏為莒父宰，問政。子曰：「無欲速，無見小利。欲速，則不達；見小利，則大事不成。",
+      "note": "「無欲速，無見小利」是為政之告誡（V）；「欲速，則不達；見小利，則大事不成」是其因果之推。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-lu",
+      "para_index": 20,
+      "para_id": "analects#13-p20",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子貢問曰：「何如斯可謂之士矣？」子曰：「行己有恥，使於四方，不辱君命，可謂士矣。",
+      "note": "「行己有恥，使於四方，不辱君命」是士之上者之品格（VII），「不辱君命」兼及 V；「宗族稱孝焉，鄉黨稱弟焉」是其次者之家庭鄉里表現（VII、IV）；「言必信，行必果，硜硜然小人哉」是再次者之品格（VII）；「斗筲之人，何足算也」是對今之從政者之不屑（V）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-lu",
+      "para_index": 24,
+      "para_id": "analects#13-p24",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子貢問曰：「鄉人皆好之，何如？」子曰：「未可也。」「鄉人皆惡之，何如？」子曰：「",
+      "note": "「鄉人之善者好之，其不善者惡之」是評人之方，以群體好惡之結構判人（V）；亦為自知之鏡，照見自我之實（II）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-lu",
+      "para_index": 25,
+      "para_id": "analects#13-p25",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「君子易事而難說也：說之不以道，不說也；及其使人也，器之。小人難事而易說也",
+      "note": "「君子易事而難說也」「小人難事而易說也」是君子與小人在用人相處上之品格對照（VII）；「說之不以道，不說也」「及其使人也，器之」「及其使人也，求備焉」是兩者待人任事之具體表現（V）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-lu",
+      "para_index": 28,
+      "para_id": "analects#13-p28",
+      "modes": [
+        "prescription",
+        "narrative"
+      ],
+      "excerpt": "子路問曰：「何如斯可謂之士矣？」子曰：「切切、偲偲、怡怡如也，可謂士矣。朋友切切",
+      "note": "「朋友切切、偲偲」是朋友相勸之道（V）；「兄弟怡怡」是兄弟相處之道（IV）；「切切、偲偲、怡怡如也，可謂士矣」是士在群倫中之表現。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-lu",
+      "para_index": 29,
+      "para_id": "analects#13-p29",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「善人教民七年，亦可以即戎矣。」",
+      "note": "「善人教民七年，亦可以即戎矣」是教民致用之時程與成效，教屬 VIII，治軍屬 V。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-lu",
+      "para_index": 30,
+      "para_id": "analects#13-p30",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「以不教民戰，是謂棄之。」",
+      "note": "「以不教民戰，是謂棄之」是以未教之民作戰是棄民之主張（V）；民之身陷戰場為身體處境之事（IX）。",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-wen",
+      "para_index": 1,
+      "para_id": "analects#14-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "憲問恥。子曰：「邦有道，穀；邦無道，穀，恥也。」「克、伐、怨、欲不行焉，可以為仁",
+      "note": "「邦有道，穀；邦無道，穀，恥也」論邦有道無道時出仕之恥，為政者之節（V），「恥」是品格判斷（VII）；「克、伐、怨、欲不行焉，可以為仁矣」問仁，「可以為難矣，仁則吾不知也」以嚴格標準回應，仁之德目被拆成後果（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-wen",
+      "para_index": 2,
+      "para_id": "analects#14-p02",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「士而懷居，不足以為士矣。」",
+      "note": "「士而懷居，不足以為士矣」以「懷居」否定士之資格，士為社會角色（V），「懷居」為品格缺失（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-wen",
+      "para_index": 3,
+      "para_id": "analects#14-p03",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「邦有道，危言危行；邦無道，危行言孫。」",
+      "note": "「邦有道，危言危行；邦無道，危行言孫」以邦有道無道分言行之節，為仕者之規定（V）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-wen",
+      "para_index": 8,
+      "para_id": "analects#14-p08",
+      "modes": [
+        "formalization"
+      ],
+      "excerpt": "子曰：「為命：裨諶草創之，世叔討論之，行人子羽脩飾之，東里子產潤色之。」",
+      "note": "「為命：裨諶草創之，世叔討論之，行人子羽脩飾之，東里子產潤色之」載鄭國辭命由四人分工潤色之程序，屬官制職掌（V）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-wen",
+      "para_index": 19,
+      "para_id": "analects#14-p19",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "子言衛靈公之無道也，康子曰：「夫如是，奚而不喪？」孔子曰：「仲叔圉治賓客，祝鮀治",
+      "note": "「仲叔圉治賓客，祝鮀治宗廟，王孫賈治軍旅」記衛靈公三臣分職之實況（V），「夫如是，奚其喪」由此推衛不喪，屬為政用人之論（V）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-wen",
+      "para_index": 21,
+      "para_id": "analects#14-p21",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "陳成子弒簡公。孔子沐浴而朝，告於哀公曰：「陳恆弒其君，請討之。」公曰：「告夫三子",
+      "note": "「以吾從大夫之後，不敢不告也」孔子以大夫之職請哀公討陳恆，敘為政者之責任（V），「陳恆弒其君，請討之」為事件主軸。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-wen",
+      "para_index": 22,
+      "para_id": "analects#14-p22",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子路問事君。子曰：「勿欺也，而犯之。」",
+      "note": "「勿欺也，而犯之」事君之兩條：勿欺、敢犯，為君臣之道之規定（V）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-wen",
+      "para_index": 26,
+      "para_id": "analects#14-p26",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「不在其位，不謀其政。」曾子曰：「君子思不出其位。」",
+      "note": "「不在其位，不謀其政」與「君子思不出其位」皆論居位者之職分與思慮之範圍，為政者責任之主張（V）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-wen",
+      "para_index": 32,
+      "para_id": "analects#14-p32",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "微生畝謂孔子曰：「丘何為是栖栖者與？無乃為佞乎？」孔子曰：「非敢為佞也，疾固也。",
+      "note": "「非敢為佞也，疾固也」孔子自述周遊之動機在憂世之固（II），「丘何為是栖栖者與」問其奔波之由，「栖栖」為仕途中之行動（V）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-wen",
+      "para_index": 38,
+      "para_id": "analects#14-p38",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子路宿於石門。晨門曰：「奚自？」子路曰：「自孔氏。」曰：「是知其不可而為之者與？",
+      "note": "「是知其不可而為之者與」晨門評孔子明知其不可仍為之，「知其不可」為自知限度（II），「而為之」為仕途行動（V）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-wen",
+      "para_index": 41,
+      "para_id": "analects#14-p41",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「上好禮，則民易使也。」",
+      "note": "「上好禮，則民易使也」上之好禮與下之易使之因果，為政者化民之方（V）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-wen",
+      "para_index": 42,
+      "para_id": "analects#14-p42",
+      "modes": [
+        "prescription",
+        "narrative"
+      ],
+      "excerpt": "子路問君子。子曰：「脩己以敬。」曰：「如斯而已乎？」曰：「脩己以安人。」曰：「如",
+      "note": "「脩己以敬」「脩己以安人」「脩己以安百姓」三階以脩己為本，脩己為自我之治（II），安人安百姓為治民之效（V）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-wen",
+      "para_index": 44,
+      "para_id": "analects#14-p44",
+      "modes": [
+        "narrative",
+        "observation"
+      ],
+      "excerpt": "闕黨童子將命。或問之曰：「益者與？」子曰：「吾見其居於位也，見其與先生並行也。非",
+      "note": "「吾見其居於位也，見其與先生並行也」記童子坐位、與先生並行，違長幼之禮（V），「非求益者也，欲速成者也」孔子據此判其人品格之病（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-ling-gong",
+      "para_index": 1,
+      "para_id": "analects#15-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "衛靈公問陳於孔子。孔子對曰：「俎豆之事，則嘗聞之矣；軍旅之事，未之學也。」明日遂",
+      "note": "「俎豆之事，則嘗聞之矣；軍旅之事，未之學也」孔子明告衛靈公所學只在禮而不在兵，拒為軍備之問（V）；「明日遂行」遂去衛，為仕止之節。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-ling-gong",
+      "para_index": 5,
+      "para_id": "analects#15-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「無為而治者，其舜也與？夫何為哉，恭己正南面而已矣。」",
+      "note": "「無為而治者，其舜也與」「恭己正南面而已矣」論為治之無為而治，以德居位之典（V），「恭己」為治者之品格（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-ling-gong",
+      "para_index": 6,
+      "para_id": "analects#15-p06",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子張問行。子曰：「言忠信，行篤敬，雖蠻貊之邦行矣；言不忠信，行不篤敬，雖州里行乎",
+      "note": "「言忠信，行篤敬，雖蠻貊之邦行矣；言不忠信，行不篤敬，雖州里行乎哉」以忠信篤敬為通不同邦之基本節（V），且為人格之準則（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-ling-gong",
+      "para_index": 7,
+      "para_id": "analects#15-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「直哉史魚！邦有道，如矢；邦無道，如矢。」君子哉蘧伯玉！邦有道，則仕；邦無",
+      "note": "「邦有道，如矢；邦無道，如矢」「邦有道，則仕；邦無道，則可卷而懷之」史魚與蘧伯玉為君子仕退之二型，邦有道無道為為政時遇（V），「如矢」「卷而懷之」為君子之品格（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-ling-gong",
+      "para_index": 8,
+      "para_id": "analects#15-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「可與言而不與之言，失人；不可與言而與之言，失言。知者不失人，亦不失言。」",
+      "note": "「可與言而不與之言，失人；不可與言而與之言，失言」「知者不失人，亦不失言」以「不失人」「不失言」表知人之認知（V），「知者」之判斷屬認知之能（II）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-ling-gong",
+      "para_index": 10,
+      "para_id": "analects#15-p10",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子貢問為仁。子曰：「工欲善其事，必先利其器。居是邦也，事其大夫之賢者，友其士之仁",
+      "note": "「居是邦也，事其大夫之賢者，友其士之仁者」規定居邦行仁之方，指向社會中事誰友誰（V），「為仁」之求為品格之養成（VII）；「工欲善其事，必先利其器」為工之成事之比喻，判其人事主張。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-ling-gong",
+      "para_index": 11,
+      "para_id": "analects#15-p11",
+      "modes": [
+        "prescription",
+        "ritual"
+      ],
+      "excerpt": "顏淵問為邦。子曰：「行夏之時，乘殷之輅，服周之冕，樂則韶舞。放鄭聲，遠佞人。鄭聲",
+      "note": "「行夏之時，乘殷之輅，服周之冕，樂則韶舞。放鄭聲，遠佞人」制定為邦之禮文與用人，「放鄭聲」為禮制之規，「遠佞人」為為政用人之要，皆為政事之節（V）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-ling-gong",
+      "para_index": 12,
+      "para_id": "analects#15-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「人無遠慮，必有近憂。」",
+      "note": "「人無遠慮，必有近憂」論人無遠見必招近憂，「遠慮」為為政者居安思危之能（V），「近憂」為情緒之後果（VI）。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-ling-gong",
+      "para_index": 14,
+      "para_id": "analects#15-p14",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "子曰：「臧文仲其竊位者與？知柳下惠之賢，而不與立也。」",
+      "note": "「臧文仲其竊位者與？知柳下惠之賢，而不與立也」評臧文仲一人為竊位，並以「知柳下惠之賢，而不與立也」為在位者之失，立下用賢之標準（V）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-ling-gong",
+      "para_index": 15,
+      "para_id": "analects#15-p15",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「躬自厚而薄責於人，則遠怨矣。」",
+      "note": "「躬自厚而薄責於人，則遠怨矣」規定「躬自厚而薄責於人」之行為準則，「躬自厚」「薄責於人」為修身之準則（VII），「遠怨」為人我間之結果（V）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-ling-gong",
+      "para_index": 17,
+      "para_id": "analects#15-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「群居終日，言不及義，好行小慧，難矣哉！」",
+      "note": "「群居終日，言不及義，好行小慧，難矣哉」斷群居而不義者之品格缺失（VII），「群居」屬社會之群體生活（V）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-ling-gong",
+      "para_index": 23,
+      "para_id": "analects#15-p23",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「君子不以言舉人，不以人廢言。」",
+      "note": "「君子不以言舉人，不以人廢言」規定舉人廢言之節，君子品格之準則（VII），「舉人」「廢言」皆為社會評價人言之節（V）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-ling-gong",
+      "para_index": 28,
+      "para_id": "analects#15-p28",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「眾惡之，必察焉；眾好之，必察焉。」",
+      "note": "「眾惡之，必察焉；眾好之，必察焉」規定群體與我不外必察之節，「眾」為社會判斷之節（V），「必察」為自我判斷之穩定（II）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-ling-gong",
+      "para_index": 33,
+      "para_id": "analects#15-p33",
+      "modes": [
+        "formalization"
+      ],
+      "excerpt": "子曰：「知及之，仁不能守之；雖得之，必失之。知及之，仁能守之。不莊以涖之，則民不",
+      "note": "「知及之，仁不能守之」「莊以涖之」「動之不以禮，未善也」列出知、仁、莊、禮四項為治之必要條件，為政之程式（V），仁與莊為為政者之品格（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-ling-gong",
+      "para_index": 34,
+      "para_id": "analects#15-p34",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「君子不可小知，而可大受也；小人不可大受，而可小知也。」",
+      "note": "「君子不可小知，而可大受也；小人不可大受，而可小知也」以君子／小人所適之位對比以授選用之節（V），「大受」「小知」為品格位之別（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-ling-gong",
+      "para_index": 35,
+      "para_id": "analects#15-p35",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「民之於仁也，甚於水火。水火，吾見蹈而死者矣，未見蹈仁而死者也。」",
+      "note": "「民之於仁也，甚於水火」以民眾與仁之關係，論仁之於民甚於水火，仁為品格之德（VII），以民為受眾之政治關係（V）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-ling-gong",
+      "para_index": 38,
+      "para_id": "analects#15-p38",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「事君，敬其事而後其食。」",
+      "note": "「事君，敬其事而後其食」規定事君以敬事為先，祿在後，為政之節（V），「敬」為事君者之品格（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-ling-gong",
+      "para_index": 39,
+      "para_id": "analects#15-p39",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「道不同，不相為謀。」",
+      "note": "「道不同，不相為謀」論道不同者不相謀合，「不相為謀」為社會之交互應（V）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "ji-shi",
+      "para_index": 1,
+      "para_id": "analects#16-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "季氏將伐顓臾。冉有、季路見於孔子曰：「季氏將有事於顓臾。」孔子曰：「求！無乃爾是",
+      "note": "「君子疾夫舍曰欲之，而必為之辭」以品格之斷批舍欲而飾辭之病（VII），「不患寡而患不均，不患貧而患不安」「均無貧，和無寡，安無傾」論治國之節，「吾恐季孫之憂，不在顓臾，而在蕭牆之內也」斷季氏之憂不在外而在內，皆為政之判斷（V）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "ji-shi",
+      "para_index": 2,
+      "para_id": "analects#16-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孔子曰：「天下有道，則禮樂征伐自天子出；天下無道，則禮樂征伐自諸侯出。自諸侯出，",
+      "note": "「禮樂征伐自天子出」「自諸侯出」「自大夫出」「陪臣執國命」論治權出之節，皆為政之根本（V），「十世希不失矣」「五世希不失矣」「三世希不失矣」以世數之限斷治權之失，屬命運之數（XI）。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "ji-shi",
+      "para_index": 3,
+      "para_id": "analects#16-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孔子曰：「祿之去公室，五世矣；政逮於大夫，四世矣；故夫三桓之子孫，微矣。」",
+      "note": "「祿之去公室，五世矣」「政逮於大夫，四世矣」皆政出之節（V），「故夫三桓之子孫，微矣」以世數斷三桓之衰，命運之微顯（XI）。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "ji-shi",
+      "para_index": 4,
+      "para_id": "analects#16-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孔子曰：「益者三友，損者三友。友直，友諒，友多聞，益矣。友便辟，友善柔，友便佞，",
+      "note": "「友直，友諒，友多聞」「友便辟，友善柔，友便佞」列友之類型為社會關係之辨（V），「益矣」「損矣」拆友之後果與品格之準則（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "ji-shi",
+      "para_index": 12,
+      "para_id": "analects#16-p12",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "齊景公有馬千駟，死之日，民無德而稱焉。伯夷叔齊餓于首陽之下，民到于今稱之。其斯之",
+      "note": "「死之日」齊景公之死為死亡之題（X），「民無德而稱焉」「民到于今稱之」以民之德稱與否對比二人之公評，屬社會之公義（V）。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yang-huo",
+      "para_index": 1,
+      "para_id": "analects#17-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "陽貨欲見孔子，孔子不見，歸孔子豚。孔子時其亡也，而往拜之，遇諸塗。謂孔子曰：「來",
+      "note": "陽貨欲見孔子，孔子避不見，途遇後陽貨以「懷其寶而迷其邦，可謂仁乎」、「好從事而亟失時，可謂知乎」相詰，孔子終以「吾將仕矣」應之；仕之抉擇為主（V），「仁乎」「知乎」之詰問隱以反面事例界定仁須不藏寶迷邦、知須不失時（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yang-huo",
+      "para_index": 4,
+      "para_id": "analects#17-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子之武城，聞弦歌之聲。夫子莞爾而笑，曰：「割雞焉用牛刀？」子游對曰：「昔者偃也聞",
+      "note": "子游以「君子學道則愛人，小人學道則易使」為據，主小邑亦當以禮樂教治；孔子先戲言「割雞焉用牛刀」後承「偃之言是也」，主題在以學道治民（V、VIII）。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yang-huo",
+      "para_index": 5,
+      "para_id": "analects#17-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "公山弗擾以費畔，召，子欲往。子路不說，曰：「末之也已，何必公山氏之之也。」子曰：",
+      "note": "公山弗擾以費畔而召，子欲往；子路以「何必公山氏之之也」阻之，孔子答「如有用我者，吾其為東周乎」，志在受用以行治（V）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "yang-huo",
+      "para_index": 7,
+      "para_id": "analects#17-p07",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "佛肸召，子欲往。子路曰：「昔者由也聞諸夫子曰：『親於其身為不善者，君子不入也。』",
+      "note": "佛肸以中牟畔而召，子欲往；子路舉「親於其身為不善者，君子不入也」以為不可，孔子以「磨而不磷」、「涅而不緇」明不染，並以「吾豈匏瓜也哉？焉能繫而不食」明求用之心，主題在仕（V）與品節（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yang-huo",
+      "para_index": 9,
+      "para_id": "analects#17-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「小子！何莫學夫詩？詩，可以興，可以觀，可以群，可以怨。邇之事父，遠之事君",
+      "note": "「何莫學夫詩」勸學詩，「詩，可以興，可以觀，可以群，可以怨」明詩之功，「邇之事父，遠之事君」明事父（IV）與事君（V）兩端，「多識於鳥獸草木之名」歸於學（VIII）。",
+      "co_domains": [
+        "VIII",
+        "IV"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yang-huo",
+      "para_index": 15,
+      "para_id": "analects#17-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「鄙夫！可與事君也與哉？其未得之也，患得之；既得之，患失之。苟患失之，無所",
+      "note": "「鄙夫！可與事君也與哉」以鄙夫「其未得之也，患得之；既得之，患失之」明患得患失之品格，「苟患失之，無所不至矣」斷其後果，主題在品格（VII）與事君（V）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yang-huo",
+      "para_index": 25,
+      "para_id": "analects#17-p25",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「唯女子與小人為難養也，近之則不孫，遠之則怨。」",
+      "note": "「唯女子與小人為難養也，近之則不孫，遠之則怨」以女子與小人為品格類型，論親疏之難處，屬群體（V）與品格（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-zi",
+      "para_index": 2,
+      "para_id": "analects#18-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "柳下惠為士師，三黜。人曰：「子未可以去乎？」曰：「直道而事人，焉往而不三黜？枉道",
+      "note": "柳下惠「為士師，三黜」而不去，「直道而事人，焉往而不三黜？枉道而事人，何必去父母之邦」以直道不諧於世而不枉道不離父母之邦作答，論事君處世之則（V）與守直不阿之品格（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-zi",
+      "para_index": 5,
+      "para_id": "analects#18-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "楚狂接輿歌而過孔子曰：「鳳兮！鳳兮！何德之衰？往者不可諫，來者猶可追。已而，已而",
+      "note": "楚狂接輿歌「鳳兮！鳳兮！何德之衰」嘆世德之衰，「今之從政者殆而」對當世從政者作危殆之評，屬群體/社會之公義判斷（V）；孔子欲與之言而「不得與之言」，對話未成。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-zi",
+      "para_index": 6,
+      "para_id": "analects#18-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "長沮、桀溺耦而耕，孔子過之，使子路問津焉。長沮曰：「夫執輿者為誰？」子路曰：「為",
+      "note": "長沮、桀溺以「滔滔者天下皆是也，而誰以易之」斥世之不可為，以「且而與其從辟人之士也，豈若從辟世之士哉」勸孔子從避世之途；孔子以「鳥獸不可與同群，吾非斯人之徒與而誰與」明不可避人群，「天下有道，丘不與易也」明自任易世之責，主題在群體/社會之取捨（V）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-zi",
+      "para_index": 7,
+      "para_id": "analects#18-p07",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子路從而後，遇丈人，以杖荷蓧。子路問曰：「子見夫子乎？」丈人曰：「四體不勤，五穀",
+      "note": "子路以「不仕無義」明仕之義，以「長幼之節，不可廢也；君臣之義，如之何其廢之」明倫常之不可廢，「欲潔其身，而亂大倫」反明潔身亂倫之失，「君子之仕也，行其義也」明君子之仕在行義，「道之不行，已知之矣」明知其不可期而行之；倫常（IV）與仕之群體義（V）。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-zi",
+      "para_index": 8,
+      "para_id": "analects#18-p08",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "逸民：伯夷、叔齊、虞仲、夷逸、朱張、柳下惠、少連。子曰：「不降其志，不辱其身，伯",
+      "note": "孔子評伯夷叔齊「不降其志，不辱其身」，評柳下惠、少連「降志辱身矣。言中倫，行中慮，其斯而已矣」，評虞仲、夷逸「隱居放言。身中清，廢中權」，各以品格標準評人（VII）；「我則異於是，無可無不可」是孔子自處之則，論處世之道（V）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-zi",
+      "para_index": 10,
+      "para_id": "analects#18-p10",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "周公謂魯公曰：「君子不施其親，不使大臣怨乎不以。故舊無大故，則不棄也。無求備於一",
+      "note": "周公告魯公「君子不施其親」明親屬之義（IV，「不使大臣怨乎不以」與「故舊無大故，則不棄也」明用臣處故舊之原則（V），「無求備於一人」明責人不求全之品格（VII）；全段以治國用人為主（V），三點各撐親、用故舊、品格之面，去其一則少講。",
+      "co_domains": [
+        "IV",
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-zhang",
+      "para_index": 1,
+      "para_id": "analects#19-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子張曰：「士見危致命，見得思義，祭思敬，喪思哀，其可已矣。」",
+      "note": "子張以「士見危致命，見得思義，祭思敬，喪思哀，其可已矣」並列四事，定義士應有之品格行為；「見危致命」論社稷之節（V），「見得思義」、「祭思敬」、「喪思哀」合論士之品格（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-zhang",
+      "para_index": 3,
+      "para_id": "analects#19-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子夏之門人問交於子張。子張曰：「子夏云何？」對曰：「子夏曰：『可者與之，其不可者",
+      "note": "子夏門人問交於子張，舉子夏「可者與之，其不可者拒之」；子張以「君子尊賢而容眾，嘉善而矜不能」明包容之交友之道，並以「我之大賢與，於人何所不容」、「我之不賢與，人將拒我，如之何其拒人也」自反而論交友之方，主題在群體/友誼（V）與君子包容之品格（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-zhang",
+      "para_index": 10,
+      "para_id": "analects#19-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子夏曰：「君子信而後勞其民，未信則以為厲己也；信而後諫，未信則以為謗己也。」",
+      "note": "子夏以「君子信而後勞其民，未信則以為厲己也」、「信而後諫，未信則以為謗己也」明信先於勞民與諫之治道，屬治民/從政（V）與君子信之品格（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-zhang",
+      "para_index": 13,
+      "para_id": "analects#19-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子夏曰：「仕而優則學，學而優則仕。」",
+      "note": "子夏以「仕而優則學，學而優則仕」明仕與學互為先後之序，屬為政（V）與學（VIII）。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-zhang",
+      "para_index": 19,
+      "para_id": "analects#19-p19",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孟氏使陽膚為士師，問於曾子。曾子曰：「上失其道，民散久矣。如得其情，則哀矜而勿喜",
+      "note": "曾子以「上失其道，民散久矣」論上失道而民散，「如得其情，則哀矜而勿喜」明得民情當哀矜勿喜，屬治民（V）與對苦之情（VI）。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yao-yue",
+      "para_index": 1,
+      "para_id": "analects#20-p01",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "堯曰：「咨！爾舜！天之曆數在爾躬。允執其中。四海困窮，天祿永終。」舜亦以命禹。曰",
+      "note": "本段記堯舜禹湯周之命誥：「天之曆數在爾躬」、「允執其中」明天命在躬而執中、「四海困窮，天祿永終」明天祿隨民困而終、「予小子履，敢用玄牡，敢昭告于皇皇后帝」、「帝臣不蔽，簡在帝心」明告於帝而簡在帝心，皆認證天帝有意志（XII）；「朕躬有罪，無以萬方；萬方有罪，罪在朕躬」、「雖有周親，不如仁人」、「謹權量，審法度，修廢官」、「興滅國，繼絕世，舉逸民」、「所重：民、食、喪、祭」、「寬則得眾，信則民任焉，敏則有功，公則說」明治國之方與所重，屬為政之道（V）與仁之品格（VII）。",
+      "co_domains": [
+        "VII",
+        "XII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yao-yue",
+      "para_index": 2,
+      "para_id": "analects#20-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子張問於孔子曰：「何如斯可以從政矣？」子曰：「尊五美，屏四惡，斯可以從政矣。」子",
+      "note": "子張問「何如斯可以從政矣」，孔子以「尊五美，屏四惡，斯可以從政矣」作答；五美「君子惠而不費，勞而不怨，欲而不貪，泰而不驕，威而不猛」並「因民之所利而利之，斯不亦惠而不費乎」明五美之方；四惡「不教而殺謂之虐」、「不戒視成謂之暴」、「慢令致期謂之賊」、「猶之與人也，出納之吝，謂之有司」明治政之戒，主題在從政（V）與君子之品格（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yao-yue",
+      "para_index": 3,
+      "para_id": "analects#20-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「不知命，無以為君子也。不知禮，無以立也。不知言，無以知人也。」",
+      "note": "孔子以「不知命，無以為君子也。不知禮，無以立也。不知言，無以知人也」並列三不知：「不知命」論命運之知（XI），「不知禮，無以立也」、「不知言，無以知人也」明禮以立身與知言之本，歸於禮/知人等公共秩序與辨人之則（V）。",
+      "co_domains": [
+        "XI"
+      ]
+    },
     {
       "slug": "cai-zhonglang-ji",
       "chapter": "故太尉橋公廟碑",
@@ -27094,6 +29331,3152 @@
       "excerpt": "天下無粹白之狐，而有粹白之裘，取之眾白也。夫取於眾，此三皇、五帝之所以大立功名也",
       "note": "「凡君之所以立，出乎眾也。立已定而舍其眾，是得其末而失其本」把領導的成立與安定繫於眾人；「以眾力」「以眾知」及田駢說齊王的事例共同申明集眾是君人的根本資源",
       "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-i",
+      "para_index": 2,
+      "para_id": "mengzi#01-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子對曰：「王何必曰利？亦有仁義而已矣。王曰『何以利吾國』？大夫曰『何以利吾家』",
+      "note": "「王何必曰利？亦有仁義而已矣」主張以仁義取代利，「未有仁而遺其親者也，未有義而後其君者也」連結仁義與親君，是群體公義與品格的主張",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-i",
+      "para_index": 4,
+      "para_id": "mengzi#01-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子對曰：「賢者而後樂此，不賢者雖有此，不樂也。《詩》云：『經始靈臺，經之營之，",
+      "note": "「古之人與民偕樂，故能樂也」連結君主之樂與民心，「賢者而後樂此，不賢者雖有此，不樂也」以品格判定能否與民同樂",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-i",
+      "para_index": 5,
+      "para_id": "mengzi#01-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "梁惠王曰：「寡人之於國也，盡心焉耳矣。河內凶，則移其民於河東，移其粟於河內。河東",
+      "note": "「鄰國之民不加少，寡人之民不加多」王述其用心治國並問為何民心不來，落在群體民心",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-i",
+      "para_index": 8,
+      "para_id": "mengzi#01-p08",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "曰：「王如知此，則無望民之多於鄰國也。不違農時，穀不可勝食也；數罟不入洿池，魚鼈",
+      "note": "「養生喪死無憾，王道之始也」把「五畝之宅，樹之以桑」等政策掛在使民養生備死無憾的群體責任判斷上",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-i",
+      "para_index": 9,
+      "para_id": "mengzi#01-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "狗彘食人食而不知檢，塗有餓莩而不知發；人死，則曰：『非我也，歲也。』是何異於刺人",
+      "note": "「是何異於刺人而殺之」論證人死歸咎於歲如同刺人歸咎於兵，主張為政者對民飢死的責任",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-i",
+      "para_index": 13,
+      "para_id": "mengzi#01-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「庖有肥肉，廐有肥馬，民有飢色，野有餓莩，此率獸而食人也。獸相食，且人惡之。",
+      "note": "「庖有肥肉，廐有肥馬，民有飢色，野有餓莩，此率獸而食人也」直陳在上位者飽而民飢餓死，主張為民父母者不可率獸食人",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-i",
+      "para_index": 14,
+      "para_id": "mengzi#01-p14",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "梁惠王曰：「晉國，天下莫強焉，叟之所知也。及寡人之身，東敗於齊，長子死焉；西喪地",
+      "note": "「願比死者一洒之」王因兵敗喪子喪地而求雪恥，是為君者對戰敗責任的提問",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-i",
+      "para_index": 15,
+      "para_id": "mengzi#01-p15",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "孟子對曰：「地方百里而可以王。王如施仁政於民，省刑罰，薄稅斂，深耕易耨。壯者以暇",
+      "note": "「仁者無敵」連結仁政與民心向背，「入以事其父兄，出以事其長上」連結壯者品格與事親事長，是群體公義與品格的主張",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-i",
+      "para_index": 16,
+      "para_id": "mengzi#01-p16",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孟子見梁襄王。出，語人曰：「望之不似人君，就之而不見所畏焉。卒然問曰：『天下惡乎",
+      "note": "「望之不似人君，就之而不見所畏焉」孟子直評梁襄王的氣象不似人君，是對君主領導形象的判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-i",
+      "para_index": 17,
+      "para_id": "mengzi#01-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "『孰能一之？』對曰：『不嗜殺人者能一之。』",
+      "note": "「不嗜殺人者能一之」以不嗜殺作為能統一天下的條件，是群體公義與品格的主張",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-i",
+      "para_index": 18,
+      "para_id": "mengzi#01-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "『孰能與之？』對曰：『天下莫不與也。王知夫苗乎？七八月之間旱，則苗槁矣。天油然作",
+      "note": "「民歸之，由水之就下，沛然誰能禦之」以水流比喻民心歸向不嗜殺人者，落在群體民心",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-i",
+      "para_index": 22,
+      "para_id": "mengzi#01-p22",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「保民而王，莫之能禦也。」",
+      "note": "「保民而王，莫之能禦也」主張保民即可稱王且無人可禦，是對群體公義與責任的主張",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-i",
+      "para_index": 25,
+      "para_id": "mengzi#01-p25",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「是心足以王矣。百姓皆以王為愛也，臣固知王之不忍也。」",
+      "note": "「是心足以王矣」主張王的此心足以王天下，「百姓皆以王為愛也」連結民心向背",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-i",
+      "para_index": 28,
+      "para_id": "mengzi#01-p28",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "王笑曰：「是誠何心哉？我非愛其財。而易之以羊也，宜乎百姓之謂我愛也。」",
+      "note": "「是誠何心哉」王自問其動機，是自知與認同的反思，「宜乎百姓之謂我愛也」連結百姓的觀感",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-i",
+      "para_index": 32,
+      "para_id": "mengzi#01-p32",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「今恩足以及禽獸，而功不至於百姓者，獨何與？然則一羽之不舉，為不用力焉；輿薪之不",
+      "note": "「今恩足以及禽獸，而功不至於百姓者」王的恩澤不及百姓是群體責任，「故王之不王，不為也，非不能也」歸於品格上的不為",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-i",
+      "para_index": 34,
+      "para_id": "mengzi#01-p34",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「挾太山以超北海，語人曰『我不能』，是誠不能也。為長者折枝，語人曰『我不能』",
+      "note": "「老吾老，以及人之老」主張由近及遠的推恩，「故推恩足以保四海，不推恩無以保妻子」連結保四海與保妻子",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-i",
+      "para_index": 39,
+      "para_id": "mengzi#01-p39",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「然則王之所大欲可知已。欲辟土地，朝秦楚，莅中國而撫四夷也。以若所為求若所欲",
+      "note": "「欲辟土地，朝秦楚，莅中國而撫四夷也」指出王的大欲在開土與稱霸，「以若所為求若所欲，猶緣木而求魚也」批判其方法的不可行",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-i",
+      "para_index": 40,
+      "para_id": "mengzi#01-p40",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「殆有甚焉。緣木求魚，雖不得魚，無後災。以若所為，求若所欲，盡心力而為之，後",
+      "note": "「以若所為，求若所欲，盡心力而為之，後必有災」主張王的行為將帶來禍災，落在群體責任",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-i",
+      "para_index": 42,
+      "para_id": "mengzi#01-p42",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「然則小固不可以敵大，寡固不可以敵眾，弱固不可以敵彊。海內之地方千里者九，齊",
+      "note": "「天下之欲疾其君者皆欲赴愬於王」主張行仁政則天下民心皆歸，落在群體民心",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-i",
+      "para_index": 44,
+      "para_id": "mengzi#01-p44",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "曰：「無恆產而有恆心者，惟士為能。若民，則無恆產，因無恆心。苟無恆心，放辟，邪侈",
+      "note": "「無恆產而有恆心者，惟士為能」與「若民，則無恆產，因無恆心」直接斷言民心隨產而有常，「是故明君制民之產」連結為政者責任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 2,
+      "para_id": "mengzi#02-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「王之好樂甚，則齊國其庶幾乎！」",
+      "note": "「王之好樂甚，則齊國其庶幾乎」將君主的好樂與國之治亂相連，觸及 V（群體／民心與領導）",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 7,
+      "para_id": "mengzi#02-p07",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "「臣請為王言樂：今王鼓樂於此，百姓聞王鐘鼓之聲，管籥之音，舉疾首蹙頞而相告曰：『",
+      "note": "「此無他，不與民同樂也」以百姓疾首蹙頞對照不與民同樂，斷言君主之樂與民心相背，V（公義／民心）",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 8,
+      "para_id": "mengzi#02-p08",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "「今王鼓樂於此，百姓聞王鐘鼓之聲，管籥之音，舉欣欣然有喜色而相告曰：『吾王庶幾無",
+      "note": "「此無他，與民同樂也」以百姓欣欣然有喜色對照與民同樂，斷言與民同樂致民心歸向，V（公義／民心）",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 12,
+      "para_id": "mengzi#02-p12",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "曰：「文王之囿方七十里，芻蕘者往焉，雉兔者往焉，與民同之。民以為小，不亦宜乎？臣",
+      "note": "「文王之囿方七十里，芻蕘者往焉，雉兔者往焉，與民同之」以文王之囿與民共之對照方四十里為阱於國中，V（公義／民心）",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 14,
+      "para_id": "mengzi#02-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子對曰：「有。惟仁者為能以大事小，是故湯事葛，文王事昆夷；惟智者為能以小事大，",
+      "note": "「以大事小者，樂天者也；以小事大者，畏天者也。樂天者保天下，畏天者保其國」以外交策略為主，主張仁者事小、智者事大，V（公義／領導）",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 16,
+      "para_id": "mengzi#02-p16",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "對曰：「王請無好小勇。夫撫劍疾視曰，『彼惡敢當我哉』！此匹夫之勇，敵一人者也。王",
+      "note": "「文王一怒而安天下之民」「武王亦一怒而安天下之民」區分小勇與大勇，主張大勇在安定天下之民，V（公義／領導）",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 18,
+      "para_id": "mengzi#02-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子對曰：「有。人不得，則非其上矣。不得而非其上者，非也；為民上而不與民同樂者，",
+      "note": "「樂民之樂者，民亦樂其樂；憂民之憂者，民亦憂其憂。樂以天下，憂以天下，然而不王者，未之有也」主張君主與民同樂同憂方能王天下，V（公義／民心）",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 19,
+      "para_id": "mengzi#02-p19",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "「昔者齊景公問於晏子曰：『吾欲觀於轉附、朝儛，遵海而南，放于琅邪。吾何脩而可以比",
+      "note": "「師行而糧食，飢者弗食，勞者弗息。睊睊胥讒，民乃作慝」描述巡狩失序致民之怨，呼應先王無流連之樂、荒亡之行，V（公義／風俗）",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 23,
+      "para_id": "mengzi#02-p23",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "對曰：「昔者文王之治岐也，耕者九一，仕者世祿，關市譏而不征，澤梁無禁，罪人不孥。",
+      "note": "「此四者，天下之窮民而無告者。文王發政施仁，必先斯四者」於王政條目中特別指出鰥寡孤獨為優先對象，V（公義／社會優先）",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 26,
+      "para_id": "mengzi#02-p26",
+      "modes": [
+        "prescription",
+        "narrative"
+      ],
+      "excerpt": "對曰：「昔者公劉好貨，《詩》云：『乃積乃倉，乃裹餱糧，于橐于囊。思戢用光。弓矢斯",
+      "note": "「王如好貨，與百姓同之，於王何有」引公劉好貨之例而主張君主當與百姓共之，V（公義／民心）",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 28,
+      "para_id": "mengzi#02-p28",
+      "modes": [
+        "prescription",
+        "narrative"
+      ],
+      "excerpt": "對曰：「昔者大王好色，愛厥妃。《詩》云：『古公亶甫，來朝走馬，率西水滸，至于岐下",
+      "note": "「王如好色，與百姓同之，於王何有」引大王好色之例，主張使內無怨女外無曠夫，V（公義／民心）",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 32,
+      "para_id": "mengzi#02-p32",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子見齊宣王曰：「所謂故國者，非謂有喬木之謂也，有世臣之謂也。王無親臣矣，昔者所",
+      "note": "「所謂故國者，非謂有喬木之謂也，有世臣之謂也。王無親臣矣」定義故國在世臣，並直言王無親臣，V（公義／用人與領導）",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 34,
+      "para_id": "mengzi#02-p34",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "曰：「國君進賢，如不得已，將使卑踰尊，疏踰戚，可不慎與？左右皆曰賢，未可也；諸大",
+      "note": "「國君進賢，如不得已，將使卑踰尊，疏踰戚，可不慎與」提出國君進退人才之程序與原則，V（公義／用人）",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 38,
+      "para_id": "mengzi#02-p38",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "孟子見齊宣王曰：「為巨室，則必使工師求大木。工師得大木。則王喜，以為能勝其任也。",
+      "note": "「夫人幼而學之，壯而欲行之」以學有所專之理反對治國家者令人捨其所學，用工師、匠人、玉人之喻對比，V（公義／用人）",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 40,
+      "para_id": "mengzi#02-p40",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子對曰：「取之而燕民悅，則取之。古之人有行之者，武王是也。取之而燕民不悅，則勿",
+      "note": "「取之而燕民悅，則取之。古之人有行之者，武王是也。取之而燕民不悅，則勿取」以燕民悅否為取與不取之判準，V（公義／民心）",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 42,
+      "para_id": "mengzi#02-p42",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "孟子對曰：「臣聞七十里為政於天下者，湯是也。未聞以千里畏人者也。《書》曰：『湯一",
+      "note": "「誅其君而弔其民，若時雨降，民大悅」以湯征葛為例說明誅君弔民得民心悅服，V（公義／民心）",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 43,
+      "para_id": "mengzi#02-p43",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "「今燕虐其民，王往而征之。民以為將拯己於水火之中也，簞食壺漿，以迎王師。若殺其父",
+      "note": "「王速出令，反其旄倪，止其重器，謀於燕眾，置君而後去之，則猶可及止也」對齊王處理燕國之具體處置，V（公義／外交）",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 45,
+      "para_id": "mengzi#02-p45",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子對曰：「凶年饑歲，君之民老弱轉乎溝壑，壯者散而之四方者，幾千人矣；而君之倉廩",
+      "note": "「君行仁政，斯民親其上、死其長矣」主張行仁政則民心親上而死其長，回應穆公之問，V（公義／民心與領導）",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 47,
+      "para_id": "mengzi#02-p47",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "孟子對曰：「是謀非吾所能及也。無已，則有一焉：鑿斯池也，築斯城也，與民守之，效死",
+      "note": "「鑿斯池也，築斯城也，與民守之，效死而民弗去，則是可為也」以與民共守為小國自處之方，V（公義／民心）",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 51,
+      "para_id": "mengzi#02-p51",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "孟子對曰：「昔者大王居邠，狄人侵之。事之以皮幣，不得免焉；事之以犬馬，不得免焉；",
+      "note": "「君子不以其所以養人者害人」對君主提出以民為重之行為原則，「仁人也」評價大王之品格，V（公義／領導）",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-ii",
+      "para_index": 52,
+      "para_id": "mengzi#02-p52",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "魯平公將出。嬖人臧倉者請曰：「他日君出，則必命有司所之。今乘輿已駕矣，有司未知所",
+      "note": "「禮義由賢者出」以賢者出禮義為據主張君主當以禮義判人，引「孟子之後喪踰前喪」勸阻魯平公勿見孟子，V（公義／用人）",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gong-sun-chou-i",
+      "para_index": 2,
+      "para_id": "mengzi#03-p02",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "孟子曰：「子誠齊人也，知管仲、晏子而已矣。或問乎曾西曰；『吾子與子路孰賢？』曾西",
+      "note": "「爾何曾比予於管仲」曾西對管仲之功評為「如彼其卑也」，「管仲，曾西之所不為也，而子為我願之乎」孟子暗示此霸非己所願，是對治績與領導價值的群體公義判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gong-sun-chou-i",
+      "para_index": 7,
+      "para_id": "mengzi#03-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「今時則易然也。夏后、殷、周之盛，地未有過千里者也，而齊有其地矣；雞鳴狗吠相聞，",
+      "note": "「民之憔悴於虐政，未有甚於此時者也」直陳民於虐政之憔悴，「民之悅之，猶解倒懸也」斷言行仁政之民心向背，是群體民心之主張",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gong-sun-chou-i",
+      "para_index": 19,
+      "para_id": "mengzi#03-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「詖辭知其所蔽，淫辭知其所陷，邪辭知其所離，遁辭知其所窮。生於其心，害於其政",
+      "note": "「詖辭知其所蔽，淫辭知其所陷，邪辭知其所離，遁辭知其所窮」由言辨心之四病，「生於其心，害於其政；發於其政，害於其事」將內心之病連到治事後果，是情緒內在生活與群體公義之主張",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gong-sun-chou-i",
+      "para_index": 29,
+      "para_id": "mengzi#03-p29",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「以力假仁者霸，霸必有大國，以德行仁者王，王不待大。湯以七十里，文王以百",
+      "note": "「以力服人者，非心服也，力不贍也；以德服人者，中心悅而誠服也」主張力服而非心服、德服而中心悅誠服，是領導者品格與群體民心之主張",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gong-sun-chou-i",
+      "para_index": 30,
+      "para_id": "mengzi#03-p30",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「仁則榮，不仁則辱。今惡辱而居不仁，是猶惡溼而居下也。如惡之，莫如貴德而",
+      "note": "「仁則榮，不仁則辱」連結仁與榮辱之社會後果，「禍褔無不自己求之者」主張禍福皆由自求，將成敗推回人力，是群體公義與命運由人之主張",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gong-sun-chou-i",
+      "para_index": 31,
+      "para_id": "mengzi#03-p31",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「尊賢使能，俊傑在位，則天下之士皆悅而願立於其朝矣。市廛而不征，法而不廛",
+      "note": "「信能行此五者，則鄰國之民仰之若父母矣」主張行五政則鄰國之民仰望如父母，「自生民以來，未有能濟者也」斷言攻此父母之君從未能濟，是群體民心之主張",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gong-sun-chou-i",
+      "para_index": 32,
+      "para_id": "mengzi#03-p32",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「人皆有不忍人之心。先王有不忍人之心，斯有不忍人之政矣。以不忍人之心，行",
+      "note": "「惻隱之心，仁之端也；羞惡之心，義之端也；辭讓之心，禮之端也；是非之心，智之端也」分仁義禮智為四端，「苟能充之，足以保四海；苟不充之，不足以事父母」連結四端與保四海事父母，是人性論兼群體責任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gong-sun-chou-ii",
+      "para_index": 1,
+      "para_id": "mengzi#04-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「天時不如地利，地利不如人和。三里之城，七里之郭，環而攻之而不勝。夫環而",
+      "note": "「天時不如地利，地利不如人和」「得道者多助，失道者寡助」論治亂之根本在人和與得道，「故君子有不戰，戰必勝矣」斷君子之戰必勝，是群體民心公義之主張",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gong-sun-chou-ii",
+      "para_index": 5,
+      "para_id": "mengzi#04-p05",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "不得已而之景丑氏宿焉。景子曰：「內則父子，外則君臣，人之大倫也。父子主恩，君臣主",
+      "note": "「父子主恩，君臣主敬」定義父子君臣之倫，「丑見王之敬子也，未見所以敬王也」評孟子之敬未見其道，是群體君臣倫理之主張",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gong-sun-chou-ii",
+      "para_index": 6,
+      "para_id": "mengzi#04-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「惡！是何言也！齊人無以仁義與王言者，豈以仁義為不美也？其心曰『是何足與言仁",
+      "note": "「我非堯舜之道，不敢以陳於王前，故齊人莫如我敬王也」孟子自辯其敬王之實，「不敬莫大乎是」直陳齊人之不敬，是群體君臣倫理之主張",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gong-sun-chou-ii",
+      "para_index": 7,
+      "para_id": "mengzi#04-p07",
+      "modes": [
+        "ritual",
+        "proposition"
+      ],
+      "excerpt": "景子曰：「否，非此之謂也。禮曰：『父召，無諾；君命召，不俟駕。』固將朝也，聞王命",
+      "note": "「禮曰：『父召，無諾；君命召，不俟駕。』」「固將朝也，聞王命而遂不果，宜與夫禮若不相似然」景子引禮以質孟子未赴王召之不當，是群體君臣倫理之主張",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gong-sun-chou-ii",
+      "para_index": 8,
+      "para_id": "mengzi#04-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「豈謂是與？曾子曰：『晉楚之富，不可及也。彼以其富，我以吾仁；彼以其爵，我以",
+      "note": "「天下有達尊三：爵一，齒一，德一」「故將大有為之君，必有所不召之臣」「管仲且猶不可召，而況不為管仲者乎」論君臣之達尊與不召之臣，是群體君臣倫理之主張",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gong-sun-chou-ii",
+      "para_index": 12,
+      "para_id": "mengzi#04-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「然則子之失伍也亦多矣。凶年饑歲，子之民，老羸轉於溝壑，壯者散而之四方者，幾千人",
+      "note": "「凶年饑歲，子之民，老羸轉於溝壑，壯者散而之四方者，幾千人矣」直陳平陸大夫之失伍害民，是群體領導責任之主張",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gong-sun-chou-ii",
+      "para_index": 14,
+      "para_id": "mengzi#04-p14",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "曰：「今有受人之牛羊而為之牧之者，則必為之求牧與芻矣。求牧與芻而不得，則反諸其人",
+      "note": "「抑亦立而視其死與」以牧人求牧與芻之喻責距心坐視其民之死，是群體責任倫理之主張",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gong-sun-chou-ii",
+      "para_index": 16,
+      "para_id": "mengzi#04-p16",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "他日，見於王曰：「王之為都者，臣知五人焉。知其罪者，惟孔距心。為王誦之。」王曰：",
+      "note": "「王之為都者，臣知五人焉。知其罪者，惟孔距心」「此則寡人之罪也」孟子評王之都者之賢否而王自承其過，是群體用人之主張",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gong-sun-chou-ii",
+      "para_index": 18,
+      "para_id": "mengzi#04-p18",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "蚔鼃諫於王而不用，致為臣而去。齊人曰：「所以為蚔鼃，則善矣；所以自為，則吾不知也",
+      "note": "「所以為蚔鼃，則善矣；所以自為，則吾不知也」評蚔鼃之進退而疑其自處，是群體出處之主張",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gong-sun-chou-ii",
+      "para_index": 19,
+      "para_id": "mengzi#04-p19",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "公都子以告。曰：「吾聞之也：有官守者，不得其職則去；有言責者，不得其言則去。我無",
+      "note": "「有官守者，不得其職則去；有言責者，不得其言則去」「我無官守，我無言責也，則吾進退，豈不綽綽然有餘裕哉」論有官守言責者之去就並自述其進退之裕，是群體公義兼自我認同之主張",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gong-sun-chou-ii",
+      "para_index": 27,
+      "para_id": "mengzi#04-p27",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "孟子曰：「可。子噲不得與人燕，子之不得受燕於子噲。有仕於此，而子悅之，不告於王而",
+      "note": "「子噲不得與人燕，子之不得受燕於子噲」「何以異於是」以祿爵私相授受之例否定子噲子之私相授受之燕，是群體公義之主張",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gong-sun-chou-ii",
+      "para_index": 29,
+      "para_id": "mengzi#04-p29",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「未也。沈同問『燕可伐與』？吾應之曰『可』，彼然而伐之也。彼如曰『孰可以伐之",
+      "note": "「為天吏，則可以伐之」「今以燕伐燕，何為勸之哉」分辯伐之條件並否定齊伐燕之勸，是群體公義之主張",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gong-sun-chou-ii",
+      "para_index": 40,
+      "para_id": "mengzi#04-p40",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "時子因陳子而以告孟子，陳子以時子之言告孟子。孟子曰：「然。夫時子惡知其不可也？如",
+      "note": "「人亦孰不欲富貴？而獨於富貴之中，有私龍斷焉」「有賤丈夫焉，必求龍斷而登之，以左右望而罔市利」「征商，自此賤丈夫始矣」引季孫與古之為市以批龍斷罔市之賤丈夫，是品格與群體公義之主張",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gong-sun-chou-ii",
+      "para_index": 42,
+      "para_id": "mengzi#04-p42",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "曰：「坐！我明語子。昔者魯繆公無人乎子思之側，則不能安子思；泄柳、申詳，無人乎繆",
+      "note": "「昔者魯繆公無人乎子思之側，則不能安子思；泄柳、申詳，無人乎繆公之側，則不能安其身」引繆公使賢者能安之例以明君臣相資之理，是群體君臣倫理之主張",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gong-sun-chou-ii",
+      "para_index": 43,
+      "para_id": "mengzi#04-p43",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "孟子去齊。尹士語人曰：「不識王之不可以為湯武，則是不明也；識其不可，然且至，則是",
+      "note": "「不識王之不可以為湯武，則是不明也；識其不可，然且至，則是干澤也」尹士評孟子之不明或干澤之動機，是群體公義兼自我認同之主張",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gong-sun-chou-ii",
+      "para_index": 44,
+      "para_id": "mengzi#04-p44",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "高子以告。曰：「夫尹士惡知予哉？千里而見王，是予所欲也；不遇故去，豈予所欲哉？予",
+      "note": "「諫於其君而不受，則怒，悻悻然見於其面」「王如用予，則豈徒齊民安，天下之民舉安」孟子自述浩然歸志並明王用己之效，是情緒內在生活與群體公義之主張",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-i",
+      "para_index": 6,
+      "para_id": "mengzi#05-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "然友復之鄒問孟子。孟子曰：「然。不可以他求者也。孔子曰：『君薨，聽於冢宰。歠粥，",
+      "note": "「君子之德，風也；小人之德，草也」以風草之喻勸世子先自盡哀以化下，主張在上者之風氣決定群體之從違、是領導與風俗之論",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-i",
+      "para_index": 8,
+      "para_id": "mengzi#05-p08",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "滕文公問為國。孟子曰：「民事不可緩也。《詩》云：『晝爾于茅，宵爾索綯；亟其乘屋，",
+      "note": "「民之為道也，有恆產者有恆心，無恆產者無恆心」斷人心隨恆產而判，「焉有仁人在位，罔民而可為也」責罔民之君，是民心向背與君主品格之雙重主張",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-i",
+      "para_index": 10,
+      "para_id": "mengzi#05-p10",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "「設為庠序學校以教之：庠者，養也；校者，教也；序者，射也。夏曰校，殷曰序，周曰庠",
+      "note": "「皆所以明人倫也」「人倫明於上，小民親於下」設庠序學校而以明人倫為目的，主張上之人倫明則下民親、是社會風俗之規範",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-i",
+      "para_index": 14,
+      "para_id": "mengzi#05-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "陳相見孟子，道許行之言曰：「滕君，則誠賢君也；雖然，未聞道也。賢者與民並耕而食，",
+      "note": "「賢者與民並耕而食，饔飧而治」許行以賢者應與民並耕、斥倉廩府庫為厲民而自養，主張其並耕之君道、是責任與領導之人生主張",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-i",
+      "para_index": 23,
+      "para_id": "mengzi#05-p23",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「以粟易械器者，不為厲陶冶；陶冶亦以其械器易粟者，豈為厲農夫哉？且許子何不為陶冶",
+      "note": "「百工之事，固不可耕且為也」孟子以交易之不厲陶冶反證社會分工不可一人兼耕，主張分業交換之合理、是群體社會之主張",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-i",
+      "para_index": 24,
+      "para_id": "mengzi#05-p24",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「然則治天下獨可耕且為與？有大人之事，有小人之事。且一人之身，而百工之所為備。如",
+      "note": "「或勞心，或勞力」「天下之通義也」分勞心勞力為治人與治於人之兩端，主張治天下不可耕且為、是社會階層與分工之通則",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-i",
+      "para_index": 25,
+      "para_id": "mengzi#05-p25",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "「當堯之時，天下猶未平，洪水橫流，氾濫於天下。草木暢茂，禽獸繁殖，五穀不登，禽獸",
+      "note": "「父子有親，君臣有義，夫婦有別，長幼有序，朋友有信」以堯舜禹之故事明聖人憂民而無暇耕，並立五倫之教，主張群體倫理之建立",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-i",
+      "para_index": 26,
+      "para_id": "mengzi#05-p26",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「堯以不得舜為己憂，舜以不得禹、皋陶為己憂。夫以百畝之不易為己憂者，農夫也。分人",
+      "note": "「為天下得人者謂之仁」以堯舜之憂在不得賢為己憂，分惠、忠、仁之等差，主張為君者在於得人、是責任與用人之主張",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-i",
+      "para_index": 27,
+      "para_id": "mengzi#05-p27",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "「吾聞用夏變夷者，未聞變於夷者也。陳良，楚產也。悅周公、仲尼之道，北學於中國。北",
+      "note": "「出於幽谷遷于喬木者，末聞下喬木而入於幽谷者」以喬木幽谷之喻明用夏變夷之不可反，「子倍子之師而學之，亦異於曾子矣」責陳相背師之失，是品格與文化傳承之雙重主張",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-i",
+      "para_index": 28,
+      "para_id": "mengzi#05-p28",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「從許子之道，則市賈不貳，國中無偽。雖使五尺之童適市，莫之或欺。布帛長短同，則賈",
+      "note": "「夫物之不齊，物之情也」以物之情本不齊駁同價之說，主張從許子之道將亂天下、是社會秩序與公義之主張",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 1,
+      "para_id": "mengzi#06-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "陳代曰：「不見諸侯，宜若小然；今一見之，大則以王，小則以霸。且志曰：『枉尺而直尋",
+      "note": "「枉尺而直尋」以利害勸孟子見諸侯，討論士人是否該為王霸而折節，落在品格與君臣應對的取捨",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 2,
+      "para_id": "mengzi#06-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「昔齊景公田，招虞人以旌，不至，將殺之。志士不忘在溝壑，勇士不忘喪其元。",
+      "note": "「御者且羞與射者比」「枉己者，未有能直人者也」以御者不與小人乘為喻，主張士人出處進退的品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 3,
+      "para_id": "mengzi#06-p03",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "景春曰：「公孫衍、張儀豈不誠大丈夫哉？一怒而諸侯懼，安居而天下熄。」",
+      "note": "「一怒而諸侯懼，安居而天下熄」對公孫衍、張儀作人物品評，把能使諸侯畏服當作大丈夫的判定",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 4,
+      "para_id": "mengzi#06-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "孟子曰：「是焉得為大丈夫乎？子未學禮乎？丈夫之冠也，父命之；女子之嫁也，母命之，",
+      "note": "「富貴不能淫，貧賤不能移，威武不能屈」給出大丈夫的品格定義，「得志與民由之」並把大丈夫連到對民眾的責任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 6,
+      "para_id": "mengzi#06-p06",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "孟子曰：「仕。傳曰：『孔子三月無君，則皇皇如也，出疆必載質。』公明儀曰：『古之人",
+      "note": "「孔子三月無君，則皇皇如也」引傳與公明儀記孔子與古人之急於求仕，觀察士人與君的關係",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 8,
+      "para_id": "mengzi#06-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「士之失位也，猶諸侯之失國家也。禮曰：『諸侯耕助，以供粢盛；夫人蠶繅，以為衣",
+      "note": "「士之失位也，猶諸侯之失國家也」以諸侯失國類比士之失位，主張士人之於社會如同國君之於國家",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 9,
+      "para_id": "mengzi#06-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「士之仕也，猶農夫之耕也，農夫豈為出疆舍其耒耜哉？」",
+      "note": "「士之仕也，猶農夫之耕也」以農夫不離耒耜類比士人之出仕，主張仕是士的本職",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 11,
+      "para_id": "mengzi#06-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「丈夫生而願為之有室，女子生而願為之有家。父母之心，人皆有之。不待父母之命、",
+      "note": "「不由其道而往者，與鑽穴隙之類也」以鑽穴相窺類比不由正道求仕，主張求仕當合於道",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 13,
+      "para_id": "mengzi#06-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「非其道，則一簞食不可受於人；如其道，則舜受堯之天下，不以為泰，子以為泰",
+      "note": "「非其道，則一簞食不可受於人」主張是否受人供養以道為準，落在品格與君臣/社會關係的判斷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 14,
+      "para_id": "mengzi#06-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「否。士無事而食，不可也。」",
+      "note": "「士無事而食，不可也」主張士人不能無事而食，落在士人於社會的角色與責任",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 15,
+      "para_id": "mengzi#06-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「子不通功易事，以羡補不足，則農有餘粟，女有餘布；子如通之，則梓匠輪輿皆得食",
+      "note": "「子何尊梓匠輪輿而輕為仁義者哉」主張仁義之功不下於梓匠輪輿，論社會對仁義者的價值承認",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 19,
+      "para_id": "mengzi#06-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「然則子非食志也，食功也。」",
+      "note": "「子非食志也，食功也」主張當食功不食志，落在事功與社會評價",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 21,
+      "para_id": "mengzi#06-p21",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「湯居亳，與葛為鄰，葛伯放而不祀。湯使人問之曰：『何為不祀？』曰：『無以",
+      "note": "「民之望之，若大旱之望雨也」「民大悅」以湯征葛故事承重民心向背，主張民心是王政之所在",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 22,
+      "para_id": "mengzi#06-p22",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孟子謂戴不勝曰：「子欲子之王之善與？我明告子。有楚大夫於此，欲其子之齊語也，則使",
+      "note": "「子欲子之王之善與」點出王欲為善的主題，把王之善與否放在君臣關係中討論",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 23,
+      "para_id": "mengzi#06-p23",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "曰：「一齊人傅之，眾楚人咻之，雖日撻而求其齊也，不可得矣；引而置之莊嶽之間數年，",
+      "note": "「一薛居州，獨如宋王何」以齊人傅楚人為喻，主張王之品格繫於左右之人，是品格與用人兩面",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 25,
+      "para_id": "mengzi#06-p25",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "孟子曰：「古者不為臣不見。段干木踰垣而辟之，泄柳閉門而不內，是皆已甚。迫，斯可以",
+      "note": "「君子之所養可知已矣」由古禮與陽貨、曾子、子路事論君子出處之養，落在品格與君臣應對",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 29,
+      "para_id": "mengzi#06-p29",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孟子曰：「予豈好辯哉？予不得已也。天下之生久矣，一治一亂。當堯之時，水逆行，氾濫",
+      "note": "「人得平土而居之」敘禹治水使民得定居，落於社會秩序與民生",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 30,
+      "para_id": "mengzi#06-p30",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "「堯、舜既沒，聖人之道衰。暴君代作，壞宮室以為汙池，民無所安息；棄田以為園囿，使",
+      "note": "「天下大悅」敘周公誅紂伐奄後天下悅服，落於社會秩序",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 31,
+      "para_id": "mengzi#06-p31",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "「世衰道微，邪說暴行有作，臣弒其君者有之，子弒其父者有之。孔子懼，作《春秋》。《",
+      "note": "「孔子懼，作《春秋》」敘孔子因亂世作春秋以明是非，落於政治秩序與道德裁斷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 32,
+      "para_id": "mengzi#06-p32",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「聖王不作，諸侯放恣，處士橫議，楊朱、墨翟之言盈天下。天下之言，不歸楊，則歸墨。",
+      "note": "「楊氏為我，是無君也；墨氏兼愛，是無父也」批楊墨無父無君會率獸食人，落在社會秩序與仁義根本",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 33,
+      "para_id": "mengzi#06-p33",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "「昔者禹抑洪水而天下平，周公兼夷狄驅猛獸而百姓寧，孔子成《春秋》而亂臣賊子懼。《",
+      "note": "「我亦欲正人心，息邪說，距詖行，放淫辭」自述承三聖者距楊墨的責任，落在社會承擔與仁義維護",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-i",
+      "para_index": 1,
+      "para_id": "mengzi#07-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「離婁之明，公輸子之巧，不以規矩，不能成方員：師曠之聰，不以六律，不能正",
+      "note": "「堯舜之道，不以仁政，不能平治天下。今有仁心仁聞而民不被其澤，不可法於後世者，不行先王之道也」主張行仁政才能治天下，並把「仁心仁聞」之有無連到能否法後世，落在德性與政治秩序",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-i",
+      "para_index": 2,
+      "para_id": "mengzi#07-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「故曰，徒善不足以為政，徒法不能以自行。《詩》云：『不愆不忘，率由舊章。』遵先王",
+      "note": "「既竭心思焉，繼之以不忍人之政，而仁覆天下矣」主張以不忍人之政行仁而覆天下，是德性主張也是治國之方",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-i",
+      "para_index": 3,
+      "para_id": "mengzi#07-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「故曰，為高必因丘陵，為下必因川澤。為政不因先王之道，可謂智乎？是以惟仁者宜在高",
+      "note": "「是以惟仁者宜在高位。不仁而在高位，是播其惡於眾也」以仁者居高位為善之標的，並論不仁者在高位之禍，是品格與政治責任的判斷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-i",
+      "para_index": 4,
+      "para_id": "mengzi#07-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「故曰，城郭不完，兵甲不多，非國之災也；田野不辟，貨財不聚，非國之害也。上無禮，",
+      "note": "「上無禮，下無學，賊民興，喪無日矣」以禮學淪喪為國亡之兆，是社會風俗的判斷；「責難於君謂之恭，陳善閉邪謂之敬」給臣道之德",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-i",
+      "para_index": 5,
+      "para_id": "mengzi#07-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「規矩，方員之至也；聖人，人倫之至也。欲為君盡君道，欲為臣盡臣道，二者皆",
+      "note": "「聖人，人倫之至也」「暴其民甚，則身弒國亡；不甚，則身危國削」以聖人為人倫之極，並以暴民之禍論君主暴行的因果，是品格與治國的雙重判斷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-i",
+      "para_index": 6,
+      "para_id": "mengzi#07-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「三代之得天下也以仁，其失天下也以不仁。國之所以廢興存亡者亦然。天子不仁",
+      "note": "「三代之得天下也以仁，其失天下也以不仁」主張得國以仁、失國以不仁；「天子不仁，不保四海」落到君主保民之責",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-i",
+      "para_index": 8,
+      "para_id": "mengzi#07-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「人有恆言，皆曰『天下國家』。天下之本在國，國之本在家，家之本在身。」",
+      "note": "「天下之本在國，國之本在家，家之本在身」主張身家國天下一體相連，落於政治社會的根本結構",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-i",
+      "para_index": 9,
+      "para_id": "mengzi#07-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「為政不難，不得罪於巨室。巨室之所慕，一國慕之；一國之所慕，天下慕之；故",
+      "note": "「為政不難，不得罪於巨室。巨室之所慕，一國慕之；一國之所慕，天下慕之；故沛然德教溢乎四海」論為政關鍵在得巨室之心以推德教，落於政治用人",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-i",
+      "para_index": 10,
+      "para_id": "mengzi#07-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「天下有道，小德役大德，小賢役大賢；天下無道，小役大，弱役強。斯二者天也",
+      "note": "「斯二者天也。順天者存，逆天者亡」以天為德賢/勢力消長的決定者，是命定之說（XI）；「天下有道，小德役大德，小賢役大賢」同時論有道無道下的秩序（V）",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-i",
+      "para_index": 11,
+      "para_id": "mengzi#07-p11",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "今也小國師大國而恥受命焉，是猶弟子而恥受命於先師也。如恥之，莫若師文王。師文王，",
+      "note": "「天命靡常」「上帝既命，侯于周服」引《詩》自認上帝/天在降命與否，是天命的認證，給 XII；「仁不可為眾也。夫國君好仁，天下無敵」主張國君好仁則天下無敵，給 VII；「師文王，大國五年，小國七年，必為政於天下矣」談師文王以治天下，給 V",
+      "co_domains": [
+        "VII",
+        "XII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-i",
+      "para_index": 13,
+      "para_id": "mengzi#07-p13",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "孟子曰：「桀紂之失天下也，失其民也；失其民者，失其心也。得天下有道：得其民，斯得",
+      "note": "「得其心有道：所欲與之聚之，所惡勿施爾也」說得民心之方，落於 V；「民之歸仁也，猶水之就下、獸之走壙也」以水獸喻民歸仁；「苟不志於仁，終身憂辱，以陷於死亡」以病艾喻不志仁之禍，給 VII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-i",
+      "para_index": 15,
+      "para_id": "mengzi#07-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「道在爾而求諸遠，事在易而求之難。人人親其親、長其長而天下平。」",
+      "note": "「道在爾而求諸遠，事在易而求之難。人人親其親、長其長而天下平」主張親親長長即可平天下，落於家庭倫理（IV）與社會秩序（V）",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-i",
+      "para_index": 17,
+      "para_id": "mengzi#07-p17",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孟子曰：「伯夷辟紂，居北海之濱，聞文王作，興曰：『盍歸乎來！吾聞西伯善養老者。』",
+      "note": "「二老者，天下之大老也，而歸之，是天下之父歸之也」敘伯夷太公因文王善養老而歸，落在尊老養老（IV）與天下歸心（V）",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-i",
+      "para_index": 18,
+      "para_id": "mengzi#07-p18",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "孟子曰：「求也為季氏宰，無能改於其德，而賦粟倍他日。孔子曰：『求非我徒也，小子鳴",
+      "note": "「爭地以戰，殺人盈野；爭城以戰，殺人盈城」敘戰爭之殘酷；「率土地而食人肉，罪不容於死」定戰爭之罪於社會秩序（V）；「故善戰者服上刑，連諸侯者次之，辟草萊、任土地者次之」主張處罰善戰者，是德性之論",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-i",
+      "para_index": 20,
+      "para_id": "mengzi#07-p20",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「恭者不侮人，儉者不奪人。侮奪人之君，惟恐不順焉，惡得為恭儉？恭儉豈可以",
+      "note": "「恭者不侮人，儉者不奪人」陳恭儉不侮不奪之本質；「恭儉豈可以聲音笑貌為哉」否定恭儉可憑外飾，主張德性必以實質（VII）；「侮奪人之君」落到君主之責（V）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-i",
+      "para_index": 25,
+      "para_id": "mengzi#07-p25",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「天下溺，援之以道；嫂溺，援之以手。子欲手援天下乎？」",
+      "note": "「天下溺，援之以道；嫂溺，援之以手。子欲手援天下乎」主張以道救天下而非手援，落於治世之方",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-i",
+      "para_index": 29,
+      "para_id": "mengzi#07-p29",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「人不足與適也，政不足間也。惟大人為能格君心之非。君仁莫不仁，君義莫不義",
+      "note": "「惟大人為能格君心之非。君仁莫不仁，君義莫不義，君正莫不正。一正君而國定矣」主張格君心之非以正國，落在君主品格（VII）與治國之責（V）",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-i",
+      "para_index": 33,
+      "para_id": "mengzi#07-p33",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "樂正子從於子敖之齊。樂正子見孟子。孟子曰：「子亦來見我乎？」曰：「先生何為出此言",
+      "note": "「子聞之也，舍館定，然後求見長者乎」孟子責樂正子應先安館再見長者，落於弟子對長者應有之禮（V）",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-ii",
+      "para_index": 2,
+      "para_id": "mengzi#08-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "子產聽鄭國之政，以其乘輿濟人於溱洧。孟子曰：「惠而不知為政。歲十一月徒杠成，十二",
+      "note": "「惠而不知為政」批評子產以私惠代行公政，並主張「君子平其政，行辟人可也」，是為政之道的判斷與規範",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-ii",
+      "para_index": 3,
+      "para_id": "mengzi#08-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子告齊宣王曰：「君之視臣如手足，則臣視君如腹心；君之視臣如犬馬，則臣視君如國人",
+      "note": "「君之視臣如手足，則臣視君如腹心」論君臣相互對待的因果關係，是君臣倫的判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-ii",
+      "para_index": 5,
+      "para_id": "mengzi#08-p05",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "曰：「諫行言聽，膏澤下於民；有故而去，則君使人導之出疆，又先於其所往；去三年不反",
+      "note": "「此之謂三有禮焉」與「此之謂寇讎」對舉，界定君以何禮待臣為「有禮」、以何為「寇讎」，據此判臣是否應為舊君服喪，是君臣倫的規範",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-ii",
+      "para_index": 6,
+      "para_id": "mengzi#08-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「無罪而殺士，則大夫可以去；無罪而戮民，則士可以徙。」",
+      "note": "「無罪而殺士，則大夫可以去；無罪而戮民，則士可以徙」論士與大夫面對無罪之殺戮的去就之則，是公義與去就之責的判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-ii",
+      "para_index": 7,
+      "para_id": "mengzi#08-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「君仁莫不仁，君義莫不義。」",
+      "note": "「君仁莫不仁，君義莫不義」主張君主之仁義影響天下之仁義，是君德與治效的因果判斷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-ii",
+      "para_index": 18,
+      "para_id": "mengzi#08-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「以善服人者，未有能服人者也；以善養人，然後能服天下。天下不心服而王者，",
+      "note": "「以善養人，然後能服天下。天下不心服而王者，未之有也」以善養為服天下之本，是王者治道的判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-ii",
+      "para_index": 19,
+      "para_id": "mengzi#08-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「言無實不祥。不祥之實，蔽賢者當之。」",
+      "note": "「不祥之實，蔽賢者當之」主張蔽賢者當受不祥之實，是用賢之公的判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-ii",
+      "para_index": 25,
+      "para_id": "mengzi#08-p25",
+      "modes": [
+        "proposition",
+        "expression"
+      ],
+      "excerpt": "孟子曰：「君子之澤五世而斬，小人之澤五世而斬。予未得為孔子徒也，予私淑諸人也。」",
+      "note": "「君子之澤五世而斬」論君子澤之有限，是德澤傳承的判斷；「予私淑諸人也」是孟子自述學統之自我定位",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-ii",
+      "para_index": 27,
+      "para_id": "mengzi#08-p27",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "逄蒙學射於羿，盡羿之道，思天下惟羿為愈己，於是殺羿。孟子曰：「是亦羿有罪焉。」公",
+      "note": "「端人也，其取友必端矣」以羿傳射與子濯孺子故事明取友與傳人之道，是交友與品格的雙重判斷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-ii",
+      "para_index": 31,
+      "para_id": "mengzi#08-p31",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子聞之，曰：「禮，朝廷不歷位而相與言，不踰階而相揖也。我欲行禮，子敖以我為簡，",
+      "note": "「禮，朝廷不歷位而相與言，不踰階而相揖也」引朝廷之禮以明孟子不與右師言之合禮，是禮制之公的判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-ii",
+      "para_index": 32,
+      "para_id": "mengzi#08-p32",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「君子所以異於人者，以其存心也。君子以仁存心，以禮存心。仁者愛人，有禮者",
+      "note": "「君子所以異於人者，以其存心也。君子以仁存心，以禮存心。仁者愛人，有禮者敬人」論存心與仁愛敬人之相互回報，是品格與人倫的判斷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-ii",
+      "para_index": 33,
+      "para_id": "mengzi#08-p33",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "禹、稷當平世，三過其門而不入，孔子賢之。顏子當亂世，居於陋巷。一簞食，一瓢飲。人",
+      "note": "「禹思天下有溺者，由己溺之也」以禹稷顏子同道、易地則皆然，論聖人憂世之切與處世之方，是品格與公義的判斷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-ii",
+      "para_index": 36,
+      "para_id": "mengzi#08-p36",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曾子居武城，有越寇。或曰：「寇至，盍去諸？」曰：「無寓人於我室，毀傷其薪木。」寇",
+      "note": "「寇退，則曰：「修我牆屋，我將反」」述曾子寇前先去寇退乃反之行，以明師者之責與民之忠敬，是公義之判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-ii",
+      "para_index": 37,
+      "para_id": "mengzi#08-p37",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子思居於衛，有齊寇。或曰：「寇至，盍去諸？」子思曰：「如伋去，君誰與守？」",
+      "note": "「如伋去，君誰與守」述子思於寇至不離衛之由，以明臣守土之責，是公義之判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-ii",
+      "para_index": 38,
+      "para_id": "mengzi#08-p38",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「曾子、子思同道。曾子，師也，父兄也；子思，臣也，微也。曾子、子思易地則",
+      "note": "「曾子、子思同道。曾子，師也，父兄也；子思，臣也，微也。曾子、子思易地則皆然」以同道易地則皆然明二人之責雖異其道同，是公義之判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 11,
+      "para_id": "mengzi#09-p11",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "曰：「否。昔者有饋生魚於鄭子產，子產使校人畜之池。校人烹之，反命曰：『始舍之圉圉",
+      "note": "「君子可欺以其方，難罔以非其道」以子產校人故事論待人之方與情感真偽",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 14,
+      "para_id": "mengzi#09-p14",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "萬章曰：「舜流共工于幽州，放驩兜于崇山，殺三苗于三危，殛鯀于羽山，四罪而天下咸服",
+      "note": "「仁人固如是乎？在他人則誅之，在弟則封之」詰問仁人待己弟異於他人，是否合於公義",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 17,
+      "para_id": "mengzi#09-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「象不得有為於其國，天子使吏治其國，而納其貢稅焉，故謂之放，豈得暴彼民哉？雖",
+      "note": "「象不得有為於其國，天子使吏治其國」解釋封、放之分，兼及親情與治民",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 18,
+      "para_id": "mengzi#09-p18",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "咸丘蒙問曰：「語云：『盛德之士，君不得而臣，父不得而子。』舜南面而立，堯帥諸侯北",
+      "note": "「盛德之士，君不得而臣，父不得而子」引此語問舜南面而立、瞽瞍北面而朝之是否合理",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 19,
+      "para_id": "mengzi#09-p19",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "孟子曰：「否。此非君子之言，齊東野人之語也。堯老而舜攝也。《堯典》曰：『二十有八",
+      "note": "「天無二日，民無二王」論堯老舜攝，舜未嘗帥諸侯為堯三年喪，兼及君臣與父子之倫",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 20,
+      "para_id": "mengzi#09-p20",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "咸丘蒙曰：「舜之不臣堯，則吾既得聞命矣。《詩》云：『普天之下，莫非王土；率土之濱",
+      "note": "「瞽瞍之非臣，如何」問舜為天子時其父瞽瞍是否為臣",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 22,
+      "para_id": "mengzi#09-p22",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "萬章曰：「堯以天下與舜，有諸？」",
+      "note": "「堯以天下與舜，有諸」問堯是否以天下授舜",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 23,
+      "para_id": "mengzi#09-p23",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「否。天子不能以天下與人。」",
+      "note": "「天子不能以天下與人」斷言天子不能私以天下與人",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 24,
+      "para_id": "mengzi#09-p24",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "「然則舜有天下也，孰與之？」",
+      "note": "「然則舜有天下也，孰與之」問舜之天下既非堯與，則誰授之",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 26,
+      "para_id": "mengzi#09-p26",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「否。天不言，以行與事示之而已矣。」",
+      "note": "「天不言，以行與事示之而已矣」論天以行事示命，把天意落到民的接受上",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 27,
+      "para_id": "mengzi#09-p27",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曰：「以行與事示之者如之何？」",
+      "note": "「以行與事示之者如之何」問天以行與事示命之具體方式",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 28,
+      "para_id": "mengzi#09-p28",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「天子能薦人於天，不能使天與之天下；諸侯能薦人於天子，不能使天子與之諸侯；大",
+      "note": "「堯薦舜於天而天受之，暴之於民而民受之」論薦之天與暴之民乃天受之實證",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 29,
+      "para_id": "mengzi#09-p29",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曰：「敢問薦之於天而天受之，暴之於民而民受之，如何？」",
+      "note": "「敢問薦之於天而天受之，暴之於民而民受之，如何」追問天受、民受之具體內容",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 30,
+      "para_id": "mengzi#09-p30",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "曰：「使之主祭而百神享之，是天受之；使之主事而事治，百姓安之，是民受之也。天與之",
+      "note": "「天視自我民視，天聽自我民聽」引《太誓》證天意由民顯現",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 31,
+      "para_id": "mengzi#09-p31",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "萬章問曰：「人有言：『至於禹而德衰，不傳於賢而傳於子。』有諸？」",
+      "note": "「至於禹而德衰，不傳於賢而傳於子」問禹德衰傳子之說",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-i",
+      "para_index": 32,
+      "para_id": "mengzi#09-p32",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "孟子曰：「否，不然也。天與賢，則與賢；天與子，則與子。昔者舜薦禹於天，十有七年，",
+      "note": "「莫之為而為者，天也；莫之致而至者，命也」以天與命解釋傳賢傳子；同段「天與賢，則與賢；天與子，則與子」論天意在傳位中的體現",
+      "co_domains": [
+        "XI",
+        "XII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 10,
+      "para_id": "mengzi#10-p10",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孟子曰：「不挾長，不挾貴，不挾兄弟而友。友也者，友其德也，不可以有挾也。孟獻子，",
+      "note": "「友也者，友其德也，不可以有挾也」論交友當論德；同段「貴貴、尊賢，其義一也」並舉孟獻子、費惠公、晉平公、舜友帝故事明尊賢之群體之義",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 11,
+      "para_id": "mengzi#10-p11",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "萬章問曰：「敢問交際何心也？」",
+      "note": "「敢問交際何心也」萬章問受饋之心，觸及群體交接之禮",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 12,
+      "para_id": "mengzi#10-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曰：「卻之卻之為不恭，何哉？」",
+      "note": "「卻之卻之為不恭，何哉」追問辭讓之禮，論群體相接之恭",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 14,
+      "para_id": "mengzi#10-p14",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曰：「請無以辭卻之，以心卻之，曰『其取諸民之不義也』，而以他辭無受，不可乎？」",
+      "note": "「其取諸民之不義也」以心卻之論受饋當辨其取之於民是否合義，觸及公義",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 15,
+      "para_id": "mengzi#10-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「其交也以道，其接也以禮，斯孔子受之矣。」",
+      "note": "「其交也以道，其接也以禮，斯孔子受之矣」斷言以道以禮則孔子受之，立群體交接之禮",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 16,
+      "para_id": "mengzi#10-p16",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "萬章曰：「今有禦人於國門之外者，其交也以道，其餽也以禮，斯可受禦與？」",
+      "note": "「今有禦人於國門之外者，其交也以道，其餽也以禮，斯可受禦與」詰問禦者之饋是否可受，論公義",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 17,
+      "para_id": "mengzi#10-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「不可。《康誥》曰：『殺越人于貨，閔不畏死，凡民罔不譈。』是不待教而誅者也。",
+      "note": "「殺越人于貨，閔不畏死，凡民罔不譈」引《康誥》指此為不待教而誅者；同段「是不待教而誅者也」明公義之斷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 18,
+      "para_id": "mengzi#10-p18",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曰：「今之諸侯取之於民也，猶禦也。苟善其禮際矣，斯君子受之，敢問何說也？」",
+      "note": "「今之諸侯取之於民也，猶禦也」以今諸侯取民比禦，追問禮際可受之說",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 19,
+      "para_id": "mengzi#10-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「子以為有王者作，將比今之諸侯而誅之乎？其教之不改而後誅之乎？夫謂非其有而取",
+      "note": "「夫謂非其有而取之者盜也，充類至義之盡也」推極公義之義界；同段「教之不改而後誅之乎」立教而後誅之刑序",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 20,
+      "para_id": "mengzi#10-p20",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曰：「然則孔子之仕也，非事道與？」",
+      "note": "「然則孔子之仕也，非事道與」詰問孔子之仕是否為事道，論仕之群體責任",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 21,
+      "para_id": "mengzi#10-p21",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "曰：「孔子先簿正祭器，不以四方之食供簿正。」",
+      "note": "「孔子先簿正祭器，不以四方之食供簿正」記孔子以官制約束俸祿之禮",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 22,
+      "para_id": "mengzi#10-p22",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "曰：「為之兆也。兆足以行矣，而不行，而後去，是以未嘗有所終三年淹也。孔子有見行可",
+      "note": "「孔子有見行可之仕，有際可之仕，有公養之仕也」分孔子出處為三等，論仕之群體禮節",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 23,
+      "para_id": "mengzi#10-p23",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「仕非為貧也，而有時乎為貧；娶妻非為養也，而有時乎為養。為貧者，辭尊居卑",
+      "note": "「仕非為貧也，而有時乎為貧」立仕之義利之辨；同段「位卑而言高，罪也；立乎人之本朝，而道不行，恥也」論居位者之品格與群體責任",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 24,
+      "para_id": "mengzi#10-p24",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "萬章曰：「士之不託諸侯，何也？」",
+      "note": "「士之不託諸侯，何也」問士之不託諸侯之禮",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 25,
+      "para_id": "mengzi#10-p25",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「不敢也。諸侯失國，而後託於諸侯，禮也；士之託於諸侯，非禮也。」",
+      "note": "「諸侯失國，而後託於諸侯，禮也；士之託於諸侯，非禮也」立士之託諸侯之禮",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 26,
+      "para_id": "mengzi#10-p26",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "萬章曰：「君餽之粟，則受之乎？」",
+      "note": "「君餽之粟，則受之乎」問君餽之粟是否當受，論君臣之禮",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 27,
+      "para_id": "mengzi#10-p27",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「君之於氓也，固周之。」",
+      "note": "「君之於氓也，固周之」立君對氓當周恤之禮",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 28,
+      "para_id": "mengzi#10-p28",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曰：「周之則受，賜之則不受，何也？」",
+      "note": "「周之則受，賜之則不受，何也」追問周與賜之別，論君臣餽受之禮",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 29,
+      "para_id": "mengzi#10-p29",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曰：「敢問其不敢何也？」",
+      "note": "「敢問其不敢何也」追問不敢受賜之故，論君臣之禮",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 30,
+      "para_id": "mengzi#10-p30",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「抱關擊柝者，皆有常職以食於上。無常職而賜於上者，以為不恭也。」",
+      "note": "「抱關擊柝者，皆有常職以食於上。無常職而賜於上者，以為不恭也」以常職否則立餽受之禮",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 31,
+      "para_id": "mengzi#10-p31",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曰：「君餽之，則受之，不識可常繼乎？」",
+      "note": "「君餽之，則受之，不識可常繼乎」問君餽之常例可否，論君臣之禮",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 32,
+      "para_id": "mengzi#10-p32",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曰：「繆公之於子思也，亟問，亟餽鼎肉。子思不悅。於卒也，摽使者出諸大門之外，北面",
+      "note": "「悅賢不能舉，又不能養也，可謂悅賢乎」以子思不受繆公鼎肉之故事，論君之悅賢當有群體之養；「今而後知君之犬馬畜伋」並及尊賢之品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 33,
+      "para_id": "mengzi#10-p33",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曰：「敢問國君欲養君子，如何斯可謂養矣？」",
+      "note": "「敢問國君欲養君子，如何斯可謂養矣」問國君養君子之禮",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 34,
+      "para_id": "mengzi#10-p34",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「以君命將之，再拜稽首而受。其後廩人繼粟，庖人繼肉，不以君命將之。子思以為鼎",
+      "note": "「堯之於舜也，使其子九男事之」以堯養舜為尊賢之禮；同段「非養君子之道也」論王公之尊賢之群體之義",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 35,
+      "para_id": "mengzi#10-p35",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "萬章曰：「敢問不見諸侯，何義也？」",
+      "note": "「敢問不見諸侯，何義也」問庶人不見諸侯之禮",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 36,
+      "para_id": "mengzi#10-p36",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「在國曰市井之臣，在野曰草莽之臣，皆謂庶人。庶人不傳質為臣，不敢見於諸侯",
+      "note": "「庶人不傳質為臣，不敢見於諸侯，禮也」立庶人不見諸侯之禮；「在國曰市井之臣，在野曰草莽之臣」並定庶臣之名",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 37,
+      "para_id": "mengzi#10-p37",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "萬章曰：「庶人，召之役，則往役；君欲見之，召之，則不往見之，何也？」",
+      "note": "「庶人，召之役，則往役；君欲見之，召之，則不往見之，何也」追問庶人役與見之別，論君臣之禮",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 38,
+      "para_id": "mengzi#10-p38",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「往役，義也；往見，不義也。且君之欲見之也，何為也哉？」",
+      "note": "「往役，義也；往見，不義也」以義不義斷庶人往役往見之別，論君臣之禮",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 39,
+      "para_id": "mengzi#10-p39",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「為其多聞也，為其賢也。」",
+      "note": "「為其多聞也，為其賢也」列君欲見士之由，觸及群體用人之禮",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 40,
+      "para_id": "mengzi#10-p40",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曰：「為其多聞也，則天子不召師，而況諸侯乎？為其賢也，則吾未聞欲見賢而召之也。繆",
+      "note": "「志士不忘在溝壑，勇士不忘喪其元」並「取非其招不往也」以齊景公招虞人為例，論招賢當合禮；同段繆公子思「古之人有言：曰事之云乎，豈曰友之云乎」明君臣之義",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 41,
+      "para_id": "mengzi#10-p41",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曰：「敢問招虞人何以？」",
+      "note": "「敢問招虞人何以」問招虞人之禮",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 42,
+      "para_id": "mengzi#10-p42",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「以皮冠。庶人以旃，士以旂，大夫以旌。以大夫之招招虞人，虞人死不敢往。以士之",
+      "note": "「以皮冠。庶人以旃，士以旂，大夫以旌」列招之禮；同段「夫義，路也；禮，門也。惟君子能由是路，出入是門也」並以《詩》「周道如砥，其直如矢」明群體交接之禮",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 43,
+      "para_id": "mengzi#10-p43",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "萬章曰：「孔子，君命召，不俟駕而行。然則孔子非與？」",
+      "note": "「孔子，君命召，不俟駕而行。然則孔子非與」詰孔子不俟駕與前論相違之禮",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 44,
+      "para_id": "mengzi#10-p44",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「孔子當仕有官職，而以其官召之也。」",
+      "note": "「孔子當仕有官職，而以其官召之也」解孔子應召之禮由於以官召",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 45,
+      "para_id": "mengzi#10-p45",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子謂萬章曰：「一鄉之善士，斯友一鄉之善士；一國之善士，斯友一國之善士；天下之善",
+      "note": "「一鄉之善士，斯友一鄉之善士；一國之善士，斯友一國之善士；天下之善士，斯友天下之善士」立善士相友之群體之義；同段「是以論其世也。是尚友也」並及尚友之品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 46,
+      "para_id": "mengzi#10-p46",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊宣王問卿。孟子曰：「王何卿之問也？」",
+      "note": "「王何卿之問也」孟子反問齊宣王所問卿之類，觸及君臣之禮",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 47,
+      "para_id": "mengzi#10-p47",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「不同。有貴戚之卿，有異姓之卿。」",
+      "note": "「有貴戚之卿，有異姓之卿」分卿為兩類，觸及群體君臣之制",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 48,
+      "para_id": "mengzi#10-p48",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "王曰：「請問貴戚之卿。」",
+      "note": "「請問貴戚之卿」齊宣王問其一類之制",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 49,
+      "para_id": "mengzi#10-p49",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「君有大過則諫，反覆之而不聽，則易位。」",
+      "note": "「君有大過則諫，反覆之而不聽，則易位」立貴戚之卿之群體責任，可易君之位",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 50,
+      "para_id": "mengzi#10-p50",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "王勃然變乎色。曰：「王勿異也。王問臣，臣不敢不以正對。」",
+      "note": "「王問臣，臣不敢不以正對」以正對立臣對王之群體責任",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "wan-zhang-ii",
+      "para_index": 51,
+      "para_id": "mengzi#10-p51",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "王色定，然後請問異姓之卿。曰：「君有過則諫，反覆之而不聽，則去。」",
+      "note": "「君有過則諫，反覆之而不聽，則去」立異姓之卿之群體責任，去而不易位",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 3,
+      "para_id": "mengzi#12-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曰：「以禮食，則飢而死；不以禮食，則得食，必以禮乎？親迎，則不得妻；不親迎，則得",
+      "note": "「以禮食，則飢而死；不以禮食，則得食，必以禮乎」設實用挑戰，詰禮於生死得失間的絕對性",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 15,
+      "para_id": "mengzi#12-p15",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曰：「吾聞秦楚構兵，我將見楚王說而罷之。楚王不悅，我將見秦王說而罷之，二王我將有",
+      "note": "「吾聞秦楚構兵，我將見楚王說而罷之」宋牼自陳將說二王罷兵，敘其調停之志",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 17,
+      "para_id": "mengzi#12-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「我將言其不利也。」",
+      "note": "「我將言其不利也」宋牼立以利說王罷兵之方",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 18,
+      "para_id": "mengzi#12-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「先生之志則大矣，先生之號則不可。先生以利說秦楚之王，秦楚之王悅於利，以罷三",
+      "note": "「為人臣者懷利以事其君」「何必曰利」孟子批以利說王，主張君臣父子以仁義相接",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 19,
+      "para_id": "mengzi#12-p19",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孟子居鄒，季任為任處守，以幣交，受之而不報。處於平陸，儲子為相，以幣交，受之而不",
+      "note": "「夫子之任見季子，之齊不見儲子，為其為相與」屋廬子問孟子交際之節",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 20,
+      "para_id": "mengzi#12-p20",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「非也。《書》曰：『享多儀，儀不及物曰不享，惟不役志于享。』為其不成享也。」",
+      "note": "「享多儀，儀不及物曰不享」孟子引《書》論享之儀，立禮儀之公義命題",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 21,
+      "para_id": "mengzi#12-p21",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "屋廬子悅。或問之。屋廬子曰：「季子不得之鄒，儲子得之平陸。」",
+      "note": "「季子不得之鄒，儲子得之平陸」屋廬子敘兩處可往之別，補說孟子交際之據",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 22,
+      "para_id": "mengzi#12-p22",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "淳于髡曰：「先名實者，為人也；後名實者，自為也。夫子在三卿之中，名實未加於上下而",
+      "note": "「先名實者，為人也；後名實者，自為也」「仁者固如此乎」淳于髡以名實先後之辨詰孟子去位之節",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 23,
+      "para_id": "mengzi#12-p23",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「居下位，不以賢事不肖者，伯夷也；五就湯，五就桀者，伊尹也；不惡汙君，不",
+      "note": "「三子者不同道，其趨一也。一者何也？曰：仁也」孟子以三子為例，立君子同道歸仁之命題",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 24,
+      "para_id": "mengzi#12-p24",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「魯繆公之時，公儀子為政，子柳、子思為臣，魯之削也滋甚。若是乎賢者之無益於國",
+      "note": "「虞不用百里奚而亡，秦穆公用之而霸。不用賢則亡，削何可得與」立用賢之命題",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 27,
+      "para_id": "mengzi#12-p27",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「五霸者，三王之罪人也；今之諸侯，五霸之罪人也；今之大夫，今之諸侯之罪人",
+      "note": "「一不朝，則貶其爵；再不朝，則削其地；三不朝，則六師移之」立天子諸侯朝聘之制，並斷五霸為三王之罪",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 28,
+      "para_id": "mengzi#12-p28",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "「五霸，桓公為盛。葵丘之會諸侯，束牲、載書而不歃血。初命曰：『誅不孝，無易樹子，",
+      "note": "「初命曰：『誅不孝，無易樹子，無以妾為妻。』」等葵丘五命之制為盟約條目，規定諸侯之禁",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 29,
+      "para_id": "mengzi#12-p29",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「長君之惡其罪小，逢君之惡其罪大。今之大夫，皆逢君之惡，故曰：今之大夫，今之諸侯",
+      "note": "「長君之惡其罪小，逢君之惡其罪大」立臣下逢惡之罪命題，斷今之大夫之失",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 30,
+      "para_id": "mengzi#12-p30",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "魯欲使慎子為將軍。孟子曰：「不教民而用之，謂之殃民。殃民者，不容於堯舜之世。一戰",
+      "note": "「不教民而用之，謂之殃民。殃民者，不容於堯舜之世」立教民而後用之命題",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 32,
+      "para_id": "mengzi#12-p32",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「吾明告子。天子之地方千里；不千里，不足以待諸侯。諸侯之地方百里；不百里，不",
+      "note": "「君子之事君也，務引其君以當道，志於仁而已」立君子引君以道之命題",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 33,
+      "para_id": "mengzi#12-p33",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「今之事君者曰：『我能為君辟土地，充府庫。』今之所謂良臣，古之所謂民賊也",
+      "note": "「今之所謂良臣，古之所謂民賊也」「君不鄉道，不志於仁，而求富之，是富桀也」立良臣民賊之辨",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 34,
+      "para_id": "mengzi#12-p34",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "白圭曰：「吾欲二十而取一，何如？」",
+      "note": "「吾欲二十而取一，何如」白圭問輕稅之制，談稅之主張",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 35,
+      "para_id": "mengzi#12-p35",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孟子曰：「子之道，貉道也。萬室之國，一人陶，則可乎？」",
+      "note": "「子之道，貉道也」「萬室之國，一人陶，則可乎」孟子以貉道名其稅制，並設詰問以難之",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 37,
+      "para_id": "mengzi#12-p37",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「夫貉，五穀不生，惟黍生之。無城郭、宮室、宗廟、祭祀之禮，無諸侯幣帛饔飧，無",
+      "note": "「陶以寡，且不可以為國，況無君子乎」立君子為國所必需之命題",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 38,
+      "para_id": "mengzi#12-p38",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "白圭曰：「丹之治水也愈於禹。」",
+      "note": "「丹之治水也愈於禹」白圭自誇其治水過禹",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 39,
+      "para_id": "mengzi#12-p39",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「子過矣。禹之治水，水之道也。是故禹以四海為壑，今吾子以鄰國為壑。水逆行",
+      "note": "「是故禹以四海為壑，今吾子以鄰國為壑」「仁人之所惡也」論禹以四海為壑、子以鄰國為壑之辨，並以仁人之所惡斷之",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 46,
+      "para_id": "mengzi#12-p46",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "「好善足乎？」曰：「好善優於天下，而況魯國乎？夫苟好善，則四海之內，皆將輕千里而",
+      "note": "「好善優於天下，而況魯國乎」立好善優於治國之命題",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 47,
+      "para_id": "mengzi#12-p47",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "陳子曰：「古之君子何如則仕？」",
+      "note": "「古之君子何如則仕」陳子問古之君子出處之節",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 48,
+      "para_id": "mengzi#12-p48",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "孟子曰：「所就三，所去三。迎之致敬以有禮，言將行其言也，則就之；禮貌未衰，言弗行",
+      "note": "「所就三，所去三」立君子出處之三等節目",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 8,
+      "para_id": "mengzi#13-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「古之賢王好善而忘勢，古之賢士何獨不然？樂其道而忘人之勢。故王公不致敬盡",
+      "note": "「古之賢王好善而忘勢，古之賢士何獨不然？樂其道而忘人之勢」以忘勢定賢王與賢士之分，落到交接之禮與不得臣之",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 11,
+      "para_id": "mengzi#13-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「尊德樂義，則可以囂囂矣。故士窮不失義，達不離道。窮不失義，故士得己焉；達不",
+      "note": "「尊德樂義，則可以囂囂矣」「窮則獨善其身，達則兼善天下」以窮達之節連結士與民，落在德義之踐履",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 14,
+      "para_id": "mengzi#13-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「以佚道使民，雖勞不怨；以生道殺民，雖死不怨殺者。」",
+      "note": "「以佚道使民，雖勞不怨；以生道殺民，雖死不怨殺者」以使民之道定民之勞死是否怨，落到民心得與治道之正",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 15,
+      "para_id": "mengzi#13-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「霸者之民，驩虞如也；王者之民，皞皞如也。殺之而不怨，利之而不庸，民日遷",
+      "note": "「霸者之民，驩虞如也；王者之民，皞皞如也」「君子所過者化，所存者神」分霸者王者之效，並以君子之化與神定治之極",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 16,
+      "para_id": "mengzi#13-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「仁言，不如仁聲之入人深也。善政，不如善教之得民也。善政民畏之，善教民愛",
+      "note": "「善政民畏之，善教民愛之；善政得民財，善教得民心」以善教善政之分定得民之淺深",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 21,
+      "para_id": "mengzi#13-p21",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「有事君人者，事是君則為容悅者也。有安社稷臣者，以安社稷為悅者也。有天民",
+      "note": "「有大人者，正己而物正者也」區事君、安社稷、天民、大人四類，以「正己而物正」為大人之極則",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 24,
+      "para_id": "mengzi#13-p24",
+      "modes": [
+        "prescription",
+        "narrative"
+      ],
+      "excerpt": "孟子曰：「伯夷辟紂，居北海之濱，聞文王作興，曰：『盍歸乎來！吾聞西伯善養老者。』",
+      "note": "「天下有善養老，則仁人以為己歸矣」「制其田里，教之樹畜，導其妻子，使養其老」以仁人歸善養老，定治制之目與孝養之政",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 25,
+      "para_id": "mengzi#13-p25",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "孟子曰：「易其田疇，薄其稅斂，民可使富也。食之以時，用之以禮，財不可勝用也。民非",
+      "note": "「聖人治天下，使有菽粟如水火。菽粟如水火，而民焉有不仁者乎」以足食定民之仁不仁，治道落到民之資生",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 33,
+      "para_id": "mengzi#13-p33",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "公孫丑曰：「伊尹曰：『予不狎于不順。』放太甲于桐，民大悅。太甲賢。又反之，民大悅",
+      "note": "「放太甲于桐，民大悅。太甲賢。又反之，民大悅」述伊尹放太甲而民悅，啟賢者為人臣之問",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 34,
+      "para_id": "mengzi#13-p34",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「有伊尹之志，則可；無伊尹之志，則篡也。」",
+      "note": "「有伊尹之志，則可；無伊尹之志，則篡也」以伊尹之志分放君之可與不可，落到臣道",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 36,
+      "para_id": "mengzi#13-p36",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「君子居是國也，其君用之，則安富尊榮；其子弟從之，則孝弟忠信。『不素餐兮",
+      "note": "「其君用之，則安富尊榮；其子弟從之，則孝弟忠信」以君子居國之效定不素餐之實，落在君與子弟之化",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 39,
+      "para_id": "mengzi#13-p39",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「仲子，不義與之齊國而弗受，人皆信之，是舍簞食豆羹之義也。人莫大焉亡親戚",
+      "note": "「人莫大焉亡親戚、君臣、上下。以其小者信其大者，奚可哉」以親戚君臣上下為人之大，論舍小義不足以信大義之失",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 41,
+      "para_id": "mengzi#13-p41",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「執之而已矣。」",
+      "note": "「執之而已矣」以執之定皋陶之職，置法於親貴之上",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 42,
+      "para_id": "mengzi#13-p42",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「夫舜惡得而禁之？夫有所受之也。」",
+      "note": "「夫有所受之也」以有所受定皋陶之職非舜所得而禁，明君臣之分",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 57,
+      "para_id": "mengzi#13-p57",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「挾貴而問，挾賢而問，挾長而問，挾有勳勞而問，挾故而問，皆所不答也。滕更",
+      "note": "「挾貴而問，挾賢而問，挾長而問，挾有勳勞而問，挾故而問，皆所不答也」以挾之五種定不答之節，落到教之禮",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 59,
+      "para_id": "mengzi#13-p59",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「君子之於物也，愛之而弗仁；於民也，仁之而弗親。親親而仁民，仁民而愛物。",
+      "note": "「親親而仁民，仁民而愛物」以親、仁、愛三階定君子於親屬、民、物之等差",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-ii",
+      "para_index": 3,
+      "para_id": "mengzi#14-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "「梁惠王以土地之故，糜爛其民而戰之，大敗，將復之，恐不能勝，故驅其所愛子弟以殉之",
+      "note": "敘述梁惠王「糜爛其民而戰之」、「驅其所愛子弟以殉之」，以戰例落實不仁之君的具體行徑，判其品格並連到君與民的群體關係",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-ii",
+      "para_index": 4,
+      "para_id": "mengzi#14-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「《春秋》無義戰。彼善於此，則有之矣。征者上伐下也，敵國不相征也。」",
+      "note": "「《春秋》無義戰」、「征者上伐下也，敵國不相征也」斷定諸侯征伐的正當性，主張戰爭必須是上伐下的秩序行為",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-ii",
+      "para_index": 6,
+      "para_id": "mengzi#14-p06",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "孟子曰：「有人曰：『我善為陳，我善為戰。』大罪也。國君好仁，天下無敵焉。南面而征",
+      "note": "「國君好仁，天下無敵焉」以仁為君主品格的核心，並敘述「南面而征北狄怨」的民心向背，兼論君德與群體公義",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-ii",
+      "para_index": 9,
+      "para_id": "mengzi#14-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「吾今而後知殺人親之重也：殺人之父，人亦殺其父；殺人之兄，人亦殺其兄。然",
+      "note": "「殺人之父，人亦殺其父；殺人之兄，人亦殺其兄」主張殺人親之報應必然，以群體互動的因果鏈把禍福推回人事",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-ii",
+      "para_index": 10,
+      "para_id": "mengzi#14-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「古之為關也，將以禦暴。今之為關也，將以為暴。」",
+      "note": "「古之為關也，將以禦暴。今之為關也，將以為暴」以古今對照批判當下關稅制度的取向，落在公共治理與風俗",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-ii",
+      "para_index": 14,
+      "para_id": "mengzi#14-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「不信仁賢，則國空虛。無禮義，則上下亂。無政事，則財用不足。」",
+      "note": "「不信仁賢，則國空虛。無禮義，則上下亂。無政事，則財用不足」以三層因果論治國之必須建立在仁賢禮義上",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-ii",
+      "para_index": 16,
+      "para_id": "mengzi#14-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「民為貴，社稷次之，君為輕。是故得乎丘民而為天子，得乎天子為諸侯，得乎諸",
+      "note": "「民為貴，社稷次之，君為輕」及「得乎丘民而為天子」置民心於社稷君主之上，落於群體公義與權力正當",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-ii",
+      "para_index": 17,
+      "para_id": "mengzi#14-p17",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "孟子曰：「聖人，百世之師也，伯夷、柳下惠是也。故聞伯夷之風者，頑夫廉，懦夫有立志",
+      "note": "「聖人，百世之師也，伯夷、柳下惠是也」並描述「聞伯夷之風者，頑夫廉，懦夫有立志」之風化作用，兼論聖人品格與群體感召",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-ii",
+      "para_index": 19,
+      "para_id": "mengzi#14-p19",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "孟子曰：「孔子之去魯，曰：『遲遲吾行也。』去父母國之道也。去齊，接淅而行，去他國",
+      "note": "「孔子之去魯，曰：『遲遲吾行也。』去父母國之道也。去齊，接淅而行，去他國之道也」以孔子去國之禮論君臣進退的分際",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-ii",
+      "para_index": 20,
+      "para_id": "mengzi#14-p20",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "孟子曰：「君子之戹於陳蔡之閒，無上下之交也。」",
+      "note": "「君子之戹於陳蔡之閒，無上下之交也」以陳蔡之困歸因於平時未結上下之交，落在群體處境",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-ii",
+      "para_index": 22,
+      "para_id": "mengzi#14-p22",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「無傷也。士憎茲多口。《詩》云：『憂心悄悄，慍于群小。』孔子也。『肆不殄",
+      "note": "「士憎茲多口」並引《詩》「憂心悄悄，慍于群小」論士之多口招怨，兼涉情緒反應與群體處境",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-ii",
+      "para_index": 33,
+      "para_id": "mengzi#14-p33",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「逃墨必歸於楊，逃楊必歸於儒。歸，斯受之而已矣。今之與楊墨辯者，如追放豚",
+      "note": "「逃墨必歸於楊，逃楊必歸於儒。歸，斯受之而已矣」並「今之與楊墨辯者，如追放豚，既入其苙，又從而招之」論對楊墨之徒的歸返與拒斥，落於學派歸屬與群體判斷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-ii",
+      "para_index": 34,
+      "para_id": "mengzi#14-p34",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「有布縷之征，粟米之征，力役之征。君子用其一，緩其二。用其二而民有殍，用",
+      "note": "「君子用其一，緩其二。用其二而民有殍，用其三而父子離」主張征歛不可並用，落在民生與治理之因果",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-ii",
+      "para_index": 35,
+      "para_id": "mengzi#14-p35",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「諸侯之寶三：土地，人民，政事。寶珠玉者，殃必及身。」",
+      "note": "「諸侯之寶三：土地，人民，政事。寶珠玉者，殃必及身」以諸侯所寶之物論其取捨與禍福",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-ii",
+      "para_index": 39,
+      "para_id": "mengzi#14-p39",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孟子之滕，館於上宮。有業屨於牖上，館人求之弗得。或問之曰：「若是乎從者之廀也？」",
+      "note": "敘述「孟子之滕，館於上宮。有業屨於牖上，館人求之弗得」及問者「若是乎從者之廀也」，以情境呈現群體中對隨從品行的猜度",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-ii",
+      "para_index": 58,
+      "para_id": "mengzi#14-p58",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「非之無舉也，刺之無刺也；同乎流俗，合乎汙世；居之似忠信，行之似廉潔；眾皆悅",
+      "note": "「非之無舉也，刺之無刺也；同乎流俗，合乎汙世；居之似忠信，行之似廉潔；眾皆悅之，自以為是，而不可與入堯舜之道，故曰德之賊也」並引「惡鄉原，恐其亂德也」「君子反經而已矣。經正，則庶民興；庶民興，斯無邪慝矣」以鄉原之似是而非亂德並提出反經之方",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-ii",
+      "para_index": 59,
+      "para_id": "mengzi#14-p59",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "孟子曰：「由堯舜至於湯，五百有餘歲，若禹、皋陶，則見而知之；若湯，則聞而知之。由",
+      "note": "「由堯舜至於湯，五百有餘歲……由孔子而來至於今，百有餘歲，去聖人之世，若此其未遠也；近聖人之居，若此其甚也，然而無有乎爾，則亦無有乎爾」以聖道傳承之史序感嘆斯道之不傳，落在意義承擔與學統群體",
+      "co_domains": [
+        "I"
+      ]
     },
     {
       "slug": "mozi",

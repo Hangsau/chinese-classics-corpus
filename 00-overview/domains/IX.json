@@ -2,9 +2,9 @@
   "domain": "IX",
   "name_zh": "苦難·疾病·身體",
   "gist": "疾病與身體、受苦的意義、照顧與被照顧",
-  "generated_at": "2026-10-02T13:22:31+00:00",
-  "para_count": 216,
-  "book_count": 30,
+  "generated_at": "2026-10-03T03:27:49+00:00",
+  "para_count": 222,
+  "book_count": 32,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -34,6 +34,60 @@
     "zhongjing"
   ],
   "paras": [
+    {
+      "slug": "analects",
+      "chapter": "yong-ye",
+      "para_index": 10,
+      "para_id": "analects#06-p10",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "伯牛有疾，子問之，自牖執其手，曰：「亡之，命矣夫！斯人也而有斯疾也！斯人也而有斯",
+      "note": "「亡之，命矣夫」把不治之症推於命，落於 XI；「斯人也而有斯疾也」是對身陷沈疾的視覺哀痛，落在 IX",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "tai-bo",
+      "para_index": 3,
+      "para_id": "analects#08-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曾子有疾，召門弟子曰：「啟予足！啟予手！《詩》云『戰戰兢兢，如臨深淵，如履薄冰。",
+      "note": "「曾子有疾，召門弟子曰」「啟予足！啟予手！」曾子在病中以身體之完整為念，「吾知免夫」是對身體免於毀傷的確認，給 IX。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-han",
+      "para_index": 11,
+      "para_id": "analects#09-p11",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子疾病，子路使門人為臣。病閒，曰：「久矣哉！由之行詐也，無臣而為有臣。吾誰欺？欺",
+      "note": "「子疾病」是孔子病中（IX）；「由之行詐也，無臣而為有臣」是孔子對子路以形式之臣相欺之品格批評（VII）；「吾誰欺？欺天乎？且予與其死於臣之手也，無寧死於二三子之手乎」皆反問之式，落在子路行詐之判斷。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-lu",
+      "para_index": 30,
+      "para_id": "analects#13-p30",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「以不教民戰，是謂棄之。」",
+      "note": "「以不教民戰，是謂棄之」是以未教之民作戰是棄民之主張（V）；民之身陷戰場為身體處境之事（IX）。",
+      "co_domains": [
+        "V"
+      ]
+    },
     {
       "slug": "cai-zhonglang-ji",
       "chapter": "黃鉞銘",
@@ -1177,6 +1231,34 @@
       "note": "「上帝降禍，凶災必亟」明確認證上帝因亂降禍，成立 XII；末引「夫亂世之民，長短頡𢆖，百疾，民多疾癘」把亂世後果落到人民實際的疾病與身體殘損，成立 IX",
       "co_domains": [
         "XII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "liang-hui-wang-i",
+      "para_index": 13,
+      "para_id": "mengzi#01-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「庖有肥肉，廐有肥馬，民有飢色，野有餓莩，此率獸而食人也。獸相食，且人惡之。",
+      "note": "「庖有肥肉，廐有肥馬，民有飢色，野有餓莩，此率獸而食人也」直陳在上位者飽而民飢餓死，主張為民父母者不可率獸食人",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 47,
+      "para_id": "mengzi#13-p47",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「形色，天性也；惟聖人，然後可以踐形。」",
+      "note": "「形色，天性也；惟聖人，然後可以踐形」以形色為天性，唯聖人能踐之",
+      "co_domains": [
+        "VII"
       ]
     },
     {

@@ -18,5 +18,51 @@
   "verified": true,
   "tier": "核心",
   "notes": "2026-10-02 自 religions-history 收入本庫。使用者 2026-10-02 明示「先把孔、孟、荀弄一份過來」，是對「已在宗教庫者一律不重複收」的第二次明確豁免（前例 2026-08-24 五部），只對這三部有效。宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。已知小缺陷：章名是 ctext 英文 slug（如 xue-er），與墨子 2026-08-25 的副帶問題同類，不影響正文。",
-  "psych_survey": null
+  "psych_survey": {
+    "surveyed_at": "2026-10-02",
+    "method": "17 批（每批 ≤1800 字）串行發包 minimax-m3（claude-m3-lite，scripts/run-m3-batches.sh），判準 delegation/analects/SPEC.md（言論群『這一句說了關於人的什麼』、鄉黨群『登錄之外』、天與神五分）；每批 scripts/accept-batch.py 0 FAIL 才 commit；check-delegation-out 全過；check-reason-quotes 867 條引句 0 不在本段、2 段有格無引句",
+    "domains_hit": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V",
+      "VI",
+      "VII",
+      "VIII",
+      "IX",
+      "X",
+      "XI",
+      "XII",
+      "XIII"
+    ],
+    "domains_null": [],
+    "domain_para_counts": {
+      "VII": 242,
+      "V": 166,
+      "VIII": 83,
+      "II": 55,
+      "IV": 30,
+      "VI": 22,
+      "XI": 19,
+      "X": 14,
+      "XII": 8,
+      "IX": 4,
+      "XIII": 2,
+      "III": 2,
+      "I": 1
+    },
+    "discourse_mode_counts": {
+      "proposition": 254,
+      "narrative": 113,
+      "prescription": 71,
+      "observation": 64,
+      "expression": 42,
+      "ritual": 20,
+      "formalization": 2
+    },
+    "paras_total": 493,
+    "paras_no_domain": 51,
+    "verdict": "論語 493 段，命中 442 段（90%），13／13 全覆蓋。VII 242 段獨大、V 166 段次之、VIII 83 段——論語首先是一部品格之書，其次才是政治之書，這與老子（V 為首）正好相反。判空 51 段集中在鄉黨篇的儀節記行與純人物品題（「回也，不愚」），閘門切得乾淨。XII 8 段全是孔子自己斷言天有意志（「天生德於予」「獲罪於天，無所禱也」「天喪予」），「敬鬼神而遠之」「未能事人，焉能事鬼」依存而不論側不給 XII。抽查 22 段判讀合理，少數給格偏寬（八佾「禘自既灌而往者」給 V）。判讀者 minimax-m3 全書單一。"
+  }
 }

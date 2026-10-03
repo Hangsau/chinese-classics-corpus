@@ -2,9 +2,9 @@
   "domain": "VIII",
   "name_zh": "工作·成就·召喚",
   "gist": "工作與金錢、成就與意義、天賦與使命",
-  "generated_at": "2026-10-02T13:22:31+00:00",
-  "para_count": 1434,
-  "book_count": 50,
+  "generated_at": "2026-10-03T03:27:49+00:00",
+  "para_count": 1536,
+  "book_count": 52,
   "surveyed_zero_hit": [
     "duduan",
     "gu-sanfen",
@@ -14,6 +14,1130 @@
     "sima-fa"
   ],
   "paras": [
+    {
+      "slug": "analects",
+      "chapter": "xue-er",
+      "para_index": 1,
+      "para_id": "analects#01-p01",
+      "modes": [
+        "expression",
+        "proposition"
+      ],
+      "excerpt": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？",
+      "note": "「學而時習之」是學與習的正面主張，給 VIII；「不亦說乎」「不亦樂乎」「人不知而不慍」對喜、樂、不慍三種情緒作出應然主張，給 VI；結句「不亦君子乎」把君子寫成能不慍的品格類型，給 VII",
+      "co_domains": [
+        "VI",
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xue-er",
+      "para_index": 6,
+      "para_id": "analects#01-p06",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「弟子入則孝，出則弟，謹而信，汎愛眾，而親仁。行有餘力，則以學文。」",
+      "note": "「弟子入則孝，出則弟」是家中行為準則，給 IX；末句「行有餘力，則以學文」明列學習次第，給 VIII",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xue-er",
+      "para_index": 8,
+      "para_id": "analects#01-p08",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「君子不重則不威，學則不固。主忠信，無友不如己者，過則勿憚改。」",
+      "note": "「君子不重則不威」「主忠信」「過則勿憚改」是君子品格的三條要求，給 VII；「學則不固」一句把學的功效釘到品格的穩固上，給 VIII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xue-er",
+      "para_index": 14,
+      "para_id": "analects#01-p14",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「君子食無求飽，居無求安，敏於事而慎於言，就有道而正焉，可謂好學也已。」",
+      "note": "「君子食無求飽」「敏於事而慎於言」是品格規範，給 VII；「可謂好學也已」收束於好學的判斷，給 VIII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xue-er",
+      "para_index": 15,
+      "para_id": "analects#01-p15",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子貢曰：「貧而無諂，富而無驕，何如？」子曰：「可也。未若貧而樂，富而好禮者也。」",
+      "note": "「貧而樂，富而好禮」是貧富兩端的品格判斷，給 VII；「始可與言詩已矣」「告諸往而知來者」是對學習領悟的肯定，給 VIII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-zheng",
+      "para_index": 2,
+      "para_id": "analects#02-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「詩三百，一言以蔽之，曰『思無邪』。」",
+      "note": "「思無邪」是對詩與人心的純正主張，給 VII；「詩三百」是對經典學習對象的指認，給 VIII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-zheng",
+      "para_index": 4,
+      "para_id": "analects#02-p04",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "子曰：「吾十有五而志于學，三十而立，四十而不惑，五十而知天命，六十而耳順，七十而",
+      "note": "「吾十有五而志于學」明示自我一生的學志向，給 VIII；「三十而立」「四十而不惑」「六十而耳順」「七十而從心所欲，不踰矩」是自我修養歷程的章節，給 II；「五十而知天命」一句把壯年的限度放在命上，給 XI；拿掉任一項，整段自述便說不全",
+      "co_domains": [
+        "II",
+        "XI"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-zheng",
+      "para_index": 11,
+      "para_id": "analects#02-p11",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「溫故而知新，可以為師矣。」",
+      "note": "「溫故而知新，可以為師矣」是對學與為師資格的規範，全給 VIII",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-zheng",
+      "para_index": 14,
+      "para_id": "analects#02-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「學而不思則罔，思而不學則殆。」",
+      "note": "「學而不思則罔，思而不學則殆」是學與思關係的命題，全給 VIII",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-zheng",
+      "para_index": 15,
+      "para_id": "analects#02-p15",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「攻乎異端，斯害也已！」",
+      "note": "「攻乎異端，斯害也已」是對學習方向的反面規範，給 VIII",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-zheng",
+      "para_index": 16,
+      "para_id": "analects#02-p16",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「由！誨女知之乎？知之為知之，不知為不知，是知也。」",
+      "note": "「知之為知之，不知為不知」是認識態度的規範，給 II；「誨女知之乎」是教學脈絡的明言，給 VIII",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-zheng",
+      "para_index": 17,
+      "para_id": "analects#02-p17",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子張學干祿。子曰：「多聞闕疑，慎言其餘，則寡尤；多見闕殆，慎行其餘，則寡悔。言寡",
+      "note": "「多聞闕疑」「多見闕殆」「慎言其餘」「慎行其餘」是學習方法的規範，給 VIII；「祿在其中矣」把方法連到祿位，給 V",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "li-ren",
+      "para_index": 14,
+      "para_id": "analects#04-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「不患無位，患所以立；不患莫己知，求為可知也。」",
+      "note": "「不患無位，患所以立；不患莫己知，求為可知也」命題式主張不患無位當立身（V）並當求為可知（VIII），關乎成就方向",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "gong-ye-chang",
+      "para_index": 9,
+      "para_id": "analects#05-p09",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子謂子貢曰：「女與回也孰愈？」對曰：「賜也何敢望回。回也聞一以知十，賜也聞一以知",
+      "note": "「回也聞一以知十，賜也聞一以知二」比較二人學習領悟之差，給 VIII；「弗如也！吾與女弗如也」自承弗如，是對自我之認知，給 II；對話敘事",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "gong-ye-chang",
+      "para_index": 13,
+      "para_id": "analects#05-p13",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "子貢曰：「夫子之文章，可得而聞也；夫子之言性與天道，不可得而聞也。」",
+      "note": "「夫子之文章，可得而聞也」「夫子之言性與天道，不可得而聞也」區分夫子所教文章與性與天道兩層可聞不可聞，關乎教學所及（VIII）",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "gong-ye-chang",
+      "para_index": 15,
+      "para_id": "analects#05-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子貢問曰：「孔文子何以謂之文也？」子曰：「敏而好學，不恥下問，是以謂之文也。」",
+      "note": "「敏而好學」以敏與好學立文之資，給 VIII；「不恥下問」以虛心下問立文之德，給 VII；二者合釋文之諡",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "gong-ye-chang",
+      "para_index": 20,
+      "para_id": "analects#05-p20",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "季文子三思而後行。子聞之，曰：「再，斯可矣。」",
+      "note": "「再，斯可矣」規定行事思慮之次數不必多於再，是對行動決斷之規範（VIII）",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "gong-ye-chang",
+      "para_index": 22,
+      "para_id": "analects#05-p22",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "子在陳曰：「歸與！歸與！吾黨之小子狂簡，斐然成章，不知所以裁之。」",
+      "note": "「吾黨之小子狂簡，斐然成章，不知所以裁之」嘆吾黨小子有文而不知所以裁斷，所憂在能否成就一定之「裁」之教（VIII），第一人稱抒發",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "gong-ye-chang",
+      "para_index": 28,
+      "para_id": "analects#05-p28",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「十室之邑，必有忠信如丘者焉，不如丘之好學也。」",
+      "note": "「十室之邑，必有忠信如丘者焉」斷言忠信之人必有，給 VII；「不如丘之好學也」獨舉好學為人所不及，給 VIII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yong-ye",
+      "para_index": 3,
+      "para_id": "analects#06-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "哀公問：「弟子孰為好學？」孔子對曰：「有顏回者好學，不遷怒，不貳過。不幸短命死矣",
+      "note": "「有顏回者好學」是好學之舉，於 I；「不遷怒，不貳過」是把好學拆成具體行為準則，於 VII；「不幸短命死矣」是對短命早逝的喟嘆，於 X",
+      "co_domains": [
+        "VII",
+        "X"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yong-ye",
+      "para_index": 12,
+      "para_id": "analects#06-p12",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "冉求曰：「非不說子之道，力不足也。」子曰：「力不足者，中道而廢。今女畫。」",
+      "note": "「力不足者，中道而廢。今女畫」論為學中途自限，是 VIII；「今女畫」指責自設界限，也點之其不為的性格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yong-ye",
+      "para_index": 20,
+      "para_id": "analects#06-p20",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「知之者不如好之者，好之者不如樂之者。」",
+      "note": "「知之者不如好之者，好之者不如樂之者」論為學/為道之三層投入次第，落於 VIII",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "yong-ye",
+      "para_index": 21,
+      "para_id": "analects#06-p21",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「中人以上，可以語上也；中人以下，不可以語上也。」",
+      "note": "「中人以上，可以語上也；中人以下，不可以語上也」按資質高下規定教法可不可，是 VIII",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "yong-ye",
+      "para_index": 27,
+      "para_id": "analects#06-p27",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「君子博學於文，約之以禮，亦可以弗畔矣夫！」",
+      "note": "「君子博學於文，約之以禮，亦可以弗畔矣夫」以博文約禮為君子之方，落在 VII；同時在說學之途，於 VIII",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "shu-er",
+      "para_index": 1,
+      "para_id": "analects#07-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「述而不作，信而好古，竊比於我老彭。」",
+      "note": "「述而不作，信而好古」是為學召喚（VIII），「竊比於我老彭」是自述身分的自我認同（II）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "shu-er",
+      "para_index": 2,
+      "para_id": "analects#07-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「默而識之，學而不厭，誨人不倦，何有於我哉？」",
+      "note": "「默而識之，學而不厭，誨人不倦」是為學與教學之主張（VIII），「何有於我哉」是對自身能否做到的自我評估（II）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "shu-er",
+      "para_index": 6,
+      "para_id": "analects#07-p06",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「志於道，據於德，依於仁，游於藝。」",
+      "note": "「志於道，據於德，依於仁，游於藝」是修身為學的階序主張（為學次第→VIII），非單純德目排比。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "shu-er",
+      "para_index": 7,
+      "para_id": "analects#07-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「自行束脩以上，吾未嘗無誨焉。」",
+      "note": "「自行束脩以上，吾未嘗無誨焉」是對教學對象與教學意願的主張。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "shu-er",
+      "para_index": 8,
+      "para_id": "analects#07-p08",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「不憤不啟，不悱不發，舉一隅不以三隅反，則不復也。」",
+      "note": "「不憤不啟，不悱不發，舉一隅不以三隅反，則不復也」是教學方法的啟發原則（為教→VIII），規定應如何施教。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "shu-er",
+      "para_index": 15,
+      "para_id": "analects#07-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「加我數年，五十以學易，可以無大過矣。」",
+      "note": "「加我數年，五十以學易，可以無大過矣」是孔子對晚年學《易》以免大過的為學主張，給 VIII。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "shu-er",
+      "para_index": 17,
+      "para_id": "analects#07-p17",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "葉公問孔子於子路，子路不對。子曰：「女奚不曰，其為人也，發憤忘食，樂以忘憂，不知",
+      "note": "「其為人也，發憤忘食，樂以忘憂，不知老之將至云爾」是自述其為學之狀（II/VIII 以為學表達自我身分），表達自身設身處學的狀態。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "shu-er",
+      "para_index": 18,
+      "para_id": "analects#07-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「我非生而知之者，好古，敏以求之者也。」",
+      "note": "「我非生而知之者」是對自身求知來源的自我界定（II），「好古，敏以求之者也」是為學方法（VIII）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "shu-er",
+      "para_index": 19,
+      "para_id": "analects#07-p19",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「三人行，必有我師焉。擇其善者而從之，其不善者而改之。」",
+      "note": "「三人行，必有我師焉。擇其善者而從之，其不善者而改之」是隨處取益的為學原則（VIII），規定如何擇善。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "shu-er",
+      "para_index": 21,
+      "para_id": "analects#07-p21",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「二三子以我為隱乎？吾無隱乎爾。吾無行而不與二三子者，是丘也。」",
+      "note": "「吾無隱乎爾。吾無行而不與二三子者，是丘也」是孔子自述教學坦誠無隱（II 自我定位中帶 VIII 為教之態度）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "shu-er",
+      "para_index": 24,
+      "para_id": "analects#07-p24",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「蓋有不知而作之者，我無是也。多聞擇其善者而從之，多見而識之，知之次也。」",
+      "note": "「多聞擇其善者而從之，多見而識之，知之次也」是求知次第（VIII）；「蓋有不知而作之者，我無是也」是對自身求知立場的自我界定（II）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "shu-er",
+      "para_index": 30,
+      "para_id": "analects#07-p30",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「若聖與仁，則吾豈敢？抑為之不厭，誨人不倦，則可謂云爾已矣。」公西華曰：「",
+      "note": "「若聖與仁，則吾豈敢」是孔子自述非聖非仁（II），「為之不厭，誨人不倦」是為學與教學之志（VIII）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "tai-bo",
+      "para_index": 5,
+      "para_id": "analects#08-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曾子曰：「以能問於不能，以多問於寡；有若無，實若虛，犯而不校，昔者吾友嘗從事於斯",
+      "note": "「以能問於不能，以多問於寡；有若無，實若虛，犯而不校」是為學態度之主張（VIII），「昔者吾友嘗從事於斯矣」以古之從事者為法。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "tai-bo",
+      "para_index": 8,
+      "para_id": "analects#08-p08",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「興於詩，立於禮。成於樂。」",
+      "note": "「興於詩，立於禮。成於樂」是修身為學之階序主張（為學次第→VIII），規定詩禮樂三階之先後。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "tai-bo",
+      "para_index": 12,
+      "para_id": "analects#08-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「三年學，不至於穀，不易得也。」",
+      "note": "「三年學，不至於穀」是為學志向不趨於祿的主張（VIII），「不易得也」評其難得。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "tai-bo",
+      "para_index": 13,
+      "para_id": "analects#08-p13",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「篤信好學，守死善道。危邦不入，亂邦不居。天下有道則見，無道則隱。邦有道，",
+      "note": "「篤信好學，守死善道」是為學與守道之志（VIII）；「危邦不入，亂邦不居」「天下有道則見，無道則隱」是對邦/時之出處進退原則（XI）；「邦有道，貧且賤焉，恥也；邦無道，富且貴焉，恥也」是對邦有道/無道下處境的社會判斷（V）。",
+      "co_domains": [
+        "V",
+        "XI"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "tai-bo",
+      "para_index": 17,
+      "para_id": "analects#08-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「學如不及，猶恐失之。」",
+      "note": "「學如不及，猶恐失之」是為學之緊迫與戒失的主張（VIII），以不及與恐失雙喻學之勤。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-han",
+      "para_index": 1,
+      "para_id": "analects#09-p01",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "達巷黨人曰：「大哉孔子！博學而無所成名。」子聞之，謂門弟子曰：「吾何執？執御乎？",
+      "note": "達巷黨人讚孔子「大哉孔子！博學而無所成名」，是對孔子博學之品評；孔子以「吾何執？執御乎？執射乎？吾執御矣」自比執御謙辭，承於學/技藝之討論，給 VIII。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-han",
+      "para_index": 5,
+      "para_id": "analects#09-p05",
+      "modes": [
+        "narrative",
+        "expression"
+      ],
+      "excerpt": "大宰問於子貢曰：「夫子聖者與？何其多能也？」子貢曰：「固天縱之將聖，又多能也。」",
+      "note": "「固天縱之將聖，又多能也」是子貢對夫子之多能的判斷；孔子自述「吾少也賤，故多能鄙事」是對自身多能之解釋（VIII），「君子多乎哉？不多也」明君子不以多能為貴之品格主張，給 VII。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-han",
+      "para_index": 6,
+      "para_id": "analects#09-p06",
+      "modes": [
+        "observation",
+        "expression"
+      ],
+      "excerpt": "牢曰：「子云，『吾不試，故藝』。」",
+      "note": "牢轉述孔子自述「吾不試，故藝」，孔子以不為世用故多技藝自況，落在學/技藝之自我陳述，給 VIII。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-han",
+      "para_index": 7,
+      "para_id": "analects#09-p07",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "子曰：「吾有知乎哉？無知也。有鄙夫問於我，空空如也，我叩其兩端而竭焉。」",
+      "note": "「吾有知乎哉？無知也」是孔子自陳認知限度，認知的限度落在人身上（II）；「空空如也，我叩其兩端而竭焉」是孔子對問之叩求答的為學態度，給 VIII。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-han",
+      "para_index": 10,
+      "para_id": "analects#09-p10",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "顏淵喟然歎曰：「仰之彌高，鑽之彌堅；瞻之在前，忽焉在後。夫子循循然善誘人，博我以",
+      "note": "顏淵讚夫子「仰之彌高，鑽之彌堅」並述「夫子循循然善誘人，博我以文，約我以禮」是夫子教學法與自身為學次第之描述（VIII）；「欲罷不能，既竭吾才」是顏淵自述從學之狀。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-han",
+      "para_index": 14,
+      "para_id": "analects#09-p14",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "子曰：「吾自衛反魯，然後樂正，雅頌各得其所。」",
+      "note": "「然後樂正，雅頌各得其所」是孔子自衛反魯後整理樂教之事功，落在學/教之事功，給 VIII。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-han",
+      "para_index": 18,
+      "para_id": "analects#09-p18",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「譬如為山，未成一簣，止，吾止也；譬如平地，雖覆一簣，進，吾往也。」",
+      "note": "「譬如為山，未成一簣，止，吾止也；譬如平地，雖覆一簣，進，吾往也」以為山/平地為譬，論進止皆由自取，是為學之譬喻（VIII）；「吾止也」「吾往也」明自我進退之自由主張，給 XI。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-han",
+      "para_index": 19,
+      "para_id": "analects#09-p19",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "子曰：「語之而不惰者，其回也與！」",
+      "note": "「語之而不惰者，其回也與」孔子讚顏回受教不懈之為學勤勞，給 VIII。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-han",
+      "para_index": 21,
+      "para_id": "analects#09-p21",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「苗而不秀者有矣夫！秀而不實者有矣夫！」",
+      "note": "「苗而不秀者有矣夫！秀而不實者有矣夫」以苗／秀／實之三階為譬，論為學有中途而廢之可能，判其實際在主張為學之階段與全功（VIII）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-han",
+      "para_index": 30,
+      "para_id": "analects#09-p30",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "「唐棣之華，偏其反而。豈不爾思？室是遠而。」子曰：「未之思也，夫何遠之有？」",
+      "note": "「唐棣之華」並「室是遠而」是孔子所引之詩（VIII）；「未之思也，夫何遠之有」孔子解詩意，主張思則不遠，是對思之能動性之認知主張，給 II。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-jin",
+      "para_index": 4,
+      "para_id": "analects#11-p04",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "子曰：「回也非助我者也，於吾言無所不說。」",
+      "note": "「回也非助我者也」是對教學互動（VIII）的判斷，顏淵無以質我，「於吾言無所不說」是對其過度順從之品格（VII）之批評。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-jin",
+      "para_index": 7,
+      "para_id": "analects#11-p07",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "季康子問：「弟子孰為好學？」孔子對曰：「有顏回者好學，不幸短命死矣！今也則亡。」",
+      "note": "「弟子孰為好學」問的是好學者（VIII），「有顏回者好學」是回答，「不幸短命死矣」是顏淵之死（X）。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-jin",
+      "para_index": 15,
+      "para_id": "analects#11-p15",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "子曰：「由之瑟奚為於丘之門？」門人不敬子路。子曰：「由也升堂矣，未入於室也。」",
+      "note": "「由也升堂矣，未入於室也」是對子路為學階段（VIII）之判斷，「由之瑟奚為於丘之門」是對其品行（VII）之批評。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-jin",
+      "para_index": 22,
+      "para_id": "analects#11-p22",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子路問：「聞斯行諸？」子曰：「有父兄在，如之何其聞斯行之？」冉有問：「聞斯行諸？",
+      "note": "「有父兄在，如之何其聞斯行之」是尊重父兄（IV）之倫理判斷，「求也退，故進之；由也兼人，故退之」是因材施教（VIII）。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-jin",
+      "para_index": 25,
+      "para_id": "analects#11-p25",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子路使子羔為費宰。子曰：「賊夫人之子。」子路曰：「有民人焉，有社稷焉。何必讀書，",
+      "note": "「賊夫人之子」是對子羔之批評（VII），「何必讀書，然後為學」是對為學次第（VIII）之質疑，「是故惡夫佞者」是對子路品格（VII）之批評。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-jin",
+      "para_index": 26,
+      "para_id": "analects#11-p26",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子路、曾皙、冉有、公西華侍坐。子曰：「以吾一日長乎爾，毋吾以也。居則曰：「不吾知",
+      "note": "「各言其志」是各人志向與召喚（VIII），「為國以禮」是治國原則（V），「吾與點也」是孔子對曾皙之志之認同，是孔子自我定位（II）。",
+      "co_domains": [
+        "V",
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yan-yuan",
+      "para_index": 15,
+      "para_id": "analects#12-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「君子博學於文，約之以禮，亦可以弗畔矣夫！」",
+      "note": "「君子博學於文，約之以禮」是君子為學之方（VIII），「亦可以弗畔矣夫」是約禮以不違道之品格主張（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-lu",
+      "para_index": 5,
+      "para_id": "analects#13-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「誦詩三百，授之以政，不達；使於四方，不能專對；雖多，亦奚以為？」",
+      "note": "「誦詩三百，授之以政，不達；使於四方，不能專對」是學不能致用於政事、外交之批評（VIII、V）；「雖多，亦奚以為」是為學以能達能用為本之主張。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-lu",
+      "para_index": 9,
+      "para_id": "analects#13-p09",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "子適衛，冉有僕。子曰：「庶矣哉！」冉有曰：「既庶矣。又何加焉？」曰：「富之。」曰",
+      "note": "「既庶矣。又何加焉」「富之」「又何加焉」「教之」是為政由庶而富而教之次第（V）；「教之」亦涉及教化（VIII）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-lu",
+      "para_index": 29,
+      "para_id": "analects#13-p29",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「善人教民七年，亦可以即戎矣。」",
+      "note": "「善人教民七年，亦可以即戎矣」是教民致用之時程與成效，教屬 VIII，治軍屬 V。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-wen",
+      "para_index": 12,
+      "para_id": "analects#14-p12",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子路問成人。子曰：「若臧武仲之知，公綽之不欲，卞莊子之勇，冉求之藝，文之以禮樂，",
+      "note": "「若臧武仲之知，公綽之不欲，卞莊子之勇，冉求之藝，文之以禮樂」與「見利思義，見危授命，久要不忘平生之言」並列成人之條件，知、不欲、勇屬德性（VII），「藝」屬才能技藝（VIII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-wen",
+      "para_index": 24,
+      "para_id": "analects#14-p24",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「古之學者為己，今之學者為人。」",
+      "note": "「古之學者為己，今之學者為人」論學者動機之古今異，為學之主張（VIII）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "xian-wen",
+      "para_index": 35,
+      "para_id": "analects#14-p35",
+      "modes": [
+        "expression"
+      ],
+      "excerpt": "子曰：「莫我知也夫！」子貢曰：「何為其莫知子也？」子曰：「不怨天，不尤人。下學而",
+      "note": "「莫我知也夫」之嘆為情緒之抒發（VI），「知我者，其天乎」訴於知己之渴望（II）；「不怨天，不尤人」為情緒自處之立場（VI），「下學而上達」為學之進路（VIII）。三者各撐一段，缺一則此段之自述不全。",
+      "co_domains": [
+        "VI",
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-ling-gong",
+      "para_index": 3,
+      "para_id": "analects#15-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子曰：「賜也，女以予為多學而識之者與？」對曰：「然，非與？」曰：「非也，予一以貫",
+      "note": "「女以予為多學而識之者與」「予一以貫之」孔子自述其學不在博記而在以一理貫之，論為學之方法（VIII），自我之認同與認知（II）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-ling-gong",
+      "para_index": 29,
+      "para_id": "analects#15-p29",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「人能弘道，非道弘人。」",
+      "note": "「人能弘道，非道弘人」論人主動以廣大道，道不由道使人而變，道為人之事業（VIII），人之為主體之認定（II）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-ling-gong",
+      "para_index": 31,
+      "para_id": "analects#15-p31",
+      "modes": [
+        "expression",
+        "proposition"
+      ],
+      "excerpt": "子曰：「吾嘗終日不食，終夜不寢，以思，無益，不如學也。」",
+      "note": "「吾嘗終日不食，終夜不寢，以思，無益，不如學也」孔子自述其思不如學之驗，「學」為為學之主張（VIII），自述為證（II）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "wei-ling-gong",
+      "para_index": 32,
+      "para_id": "analects#15-p32",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「君子謀道不謀食。耕也，餒在其中矣；學也，祿在其中矣。君子憂道不憂貧。」",
+      "note": "「君子謀道不謀食」「君子憂道不憂貧」以「道」與「食」「貧」並列為君子所憂所謀之位，君子之品格所重（VII），道為所重之業（VIII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "ji-shi",
+      "para_index": 9,
+      "para_id": "analects#16-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孔子曰：「生而知之者，上也；學而知之者，次也；困而學之，又其次也；困而不學，民斯",
+      "note": "「生而知之者，上也；學而知之者，次也；困而學之，又其次也；困而不學，民斯為下矣」論為學之次第四等，皆學之階（VIII），「上」「次」「下」之自知為自我認知之位次（II）。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "ji-shi",
+      "para_index": 13,
+      "para_id": "analects#16-p13",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "陳亢問於伯魚曰：「子亦有異聞乎？」對曰：「未也。嘗獨立，鯉趨而過庭。曰：『學詩乎",
+      "note": "「學詩乎」「學禮乎」「不學詩，無以言」「不學禮，無以立」皆孔子教子之學之節，為學之目（VIII），「聞君子之遠其子也」陳亢自喜之得——君子不私其子，父子之節（IV）。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yang-huo",
+      "para_index": 4,
+      "para_id": "analects#17-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子之武城，聞弦歌之聲。夫子莞爾而笑，曰：「割雞焉用牛刀？」子游對曰：「昔者偃也聞",
+      "note": "子游以「君子學道則愛人，小人學道則易使」為據，主小邑亦當以禮樂教治；孔子先戲言「割雞焉用牛刀」後承「偃之言是也」，主題在以學道治民（V、VIII）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yang-huo",
+      "para_index": 8,
+      "para_id": "analects#17-p08",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "子曰：「由也，女聞六言六蔽矣乎？」對曰：「未也。」「居！吾語女。好仁不好學，其蔽",
+      "note": "「好仁不好學，其蔽也愚」等六言六蔽，以「不好學」致「蔽」之因果，定義六德皆須以學節之，屬德性（VII）與學（VIII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yang-huo",
+      "para_index": 9,
+      "para_id": "analects#17-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「小子！何莫學夫詩？詩，可以興，可以觀，可以群，可以怨。邇之事父，遠之事君",
+      "note": "「何莫學夫詩」勸學詩，「詩，可以興，可以觀，可以群，可以怨」明詩之功，「邇之事父，遠之事君」明事父（IV）與事君（V）兩端，「多識於鳥獸草木之名」歸於學（VIII）。",
+      "co_domains": [
+        "IV",
+        "V"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "yang-huo",
+      "para_index": 10,
+      "para_id": "analects#17-p10",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子謂伯魚曰：「女為《周南》、《召南》矣乎？人而不為《周南》、《召南》，其猶正牆面",
+      "note": "「女為《周南》、《召南》矣乎」勸子學此二篇，「其猶正牆面而立也與」明不學之蔽，主題在學（VIII）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "yang-huo",
+      "para_index": 19,
+      "para_id": "analects#17-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「予欲無言。」子貢曰：「子如不言，則小子何述焉？」子曰：「天何言哉？四時行",
+      "note": "子貢問「子如不言，則小子何述焉」，孔子以「天何言哉？四時行焉，百物生焉，天何言哉」作答；天為「四時行焉，百物生焉」之自然運作（比喻側，不給 XII），實指不言而行之以教，歸於教法（VIII）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "yang-huo",
+      "para_index": 22,
+      "para_id": "analects#17-p22",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「飽食終日，無所用心，難矣哉！不有博弈者乎，為之猶賢乎已。」",
+      "note": "「飽食終日，無所用心，難矣哉」斷無所用心之難，「不有博弈者乎，為之猶賢乎已」以博弈為下位替代，論用心於事（VIII）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-zhang",
+      "para_index": 4,
+      "para_id": "analects#19-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子夏曰：「雖小道，必有可觀者焉；致遠恐泥，是以君子不為也。」",
+      "note": "子夏以「雖小道，必有可觀者焉」肯定小道之有可觀，「致遠恐泥，是以君子不為也」明君子不為之因，主題在學問取捨之判（VIII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-zhang",
+      "para_index": 5,
+      "para_id": "analects#19-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子夏曰：「日知其所亡，月無忘其所能，可謂好學也已矣。」",
+      "note": "子夏以「日知其所亡，月無忘其所能」明好學之兩端，「可謂好學也已矣」斷其為好學之驗，論學（VIII）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-zhang",
+      "para_index": 6,
+      "para_id": "analects#19-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子夏曰：「博學而篤志，切問而近思，仁在其中矣。」",
+      "note": "子夏以「博學而篤志，切問而近思」明致仁之方，「仁在其中矣」斷仁在學思之中，論學（VIII）與仁之養成（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-zhang",
+      "para_index": 7,
+      "para_id": "analects#19-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子夏曰：「百工居肆以成其事，君子學以致其道。」",
+      "note": "子夏以「百工居肆以成其事，君子學以致其道」並列工以肆成事與君子以學致道，論學以致其道（VIII）。",
+      "co_domains": []
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-zhang",
+      "para_index": 12,
+      "para_id": "analects#19-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子游曰：「子夏之門人小子，當洒掃、應對、進退，則可矣。抑末也，本之則無。如之何？",
+      "note": "子游評子夏門人「當洒掃、應對、進退，則可矣。抑末也，本之則無」，子夏聞之曰「君子之道，孰先傳焉？孰後倦焉」、「君子之道，焉可誣也」、「有始有卒者，其惟聖人乎」明教學有次第、君子之道不可誣，主題在教學次第（VIII）與君子之道（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-zhang",
+      "para_index": 13,
+      "para_id": "analects#19-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子夏曰：「仕而優則學，學而優則仕。」",
+      "note": "子夏以「仕而優則學，學而優則仕」明仕與學互為先後之序，屬為政（V）與學（VIII）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "analects",
+      "chapter": "zi-zhang",
+      "para_index": 22,
+      "para_id": "analects#19-p22",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "衛公孫朝問於子貢曰：「仲尼焉學？」子貢曰：「文武之道，未墜於地，在人。賢者識其大",
+      "note": "衛公孫朝問「仲尼焉學」，子貢以「文武之道，未墜於地，在人」、「夫子焉不學」、「而亦何常師之有」明孔子之學在人文之中而無常師，論孔子之學（VIII）與孔子自我之定位（II）。",
+      "co_domains": [
+        "II"
+      ]
+    },
     {
       "slug": "cai-zhonglang-ji",
       "chapter": "朱公叔謚議",
@@ -7087,6 +8211,255 @@
       ],
       "excerpt": "故學士曰：「辯議不可不為。」辯議而苟可為，是教也。教大議也。辯議而不可為，是被褐",
       "note": "「辯議不可不為」提出學者應行的求學實踐，「辯議而苟可為，是教也」又把可落實的辯議界定為教學，承重在學與教",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "teng-wen-gong-ii",
+      "para_index": 19,
+      "para_id": "mengzi#06-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「然則子非食志也，食功也。」",
+      "note": "「子非食志也，食功也」主張當食功不食志，落在事功與社會評價",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-ii",
+      "para_index": 9,
+      "para_id": "mengzi#08-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「中也養不中，才也養不才，故人樂有賢父兄也。如中也棄不中，才也棄不才，則",
+      "note": "「中也養不中，才也養不才，故人樂有賢父兄也」以賢父兄之養不中不才為人所樂，是家庭教化之責的判斷",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-ii",
+      "para_index": 16,
+      "para_id": "mengzi#08-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「君子深造之以道，欲其自得之也。自得之，則居之安；居之安，則資之深；資之",
+      "note": "「君子深造之以道，欲其自得之也」主張君子深造必以道而求自得，是為學之方的判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-ii",
+      "para_index": 17,
+      "para_id": "mengzi#08-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「博學而詳說之，將以反說約也。」",
+      "note": "「博學而詳說之，將以反說約也」主張由博返約，是為學之方的判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "li-lou-ii",
+      "para_index": 29,
+      "para_id": "mengzi#08-p29",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「天下之言性也，則故而已矣。故者以利為本。所惡於智者，為其鑿也。如智者若",
+      "note": "「天下之言性也，則故而已矣。故者以利為本」論性與故以明如何言性；「所惡於智者，為其鑿也」以不鑿為智之善，是性論與為智之方的判斷",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-i",
+      "para_index": 25,
+      "para_id": "mengzi#11-p25",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孟子曰：「無或乎王之不智也，雖有天下易生之物也，一日暴之、十日寒之，未有能生者也",
+      "note": "「無或乎王之不智也」論王之智不進；「弈秋誨二人弈」「為是其智弗若與」以弈秋教射為喻論學與不學之效，兼及教學與品格",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-i",
+      "para_index": 39,
+      "para_id": "mengzi#11-p39",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「羿之教人射，必志於彀；學者亦必志於彀。大匠誨人，必以規矩；學者亦必以規",
+      "note": "「羿之教人射，必志於彀」「大匠誨人，必以規矩；學者亦必以規矩」以羿教射、大匠誨人為例，立學者必以志與規矩之學教之方",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 8,
+      "para_id": "mengzi#12-p08",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曰：「交得見於鄒君，可以假館，願留而受業於門。」",
+      "note": "「願留而受業於門」曹交請留而學，敘其求學之志",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 9,
+      "para_id": "mengzi#12-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "曰：「夫道，若大路然，豈難知哉？人病不求耳。子歸而求之，有餘師。」",
+      "note": "「夫道，若大路然，豈難知哉？人病不求耳」孟子論道易知，勉人自求",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "gaozi-ii",
+      "para_index": 50,
+      "para_id": "mengzi#12-p50",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「教亦多術矣，予不屑之教誨也者，是亦教誨之而已矣。」",
+      "note": "「教亦多術矣，予不屑之教誨也者，是亦教誨之而已矣」論教學方法不拘一端",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 26,
+      "para_id": "mengzi#13-p26",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「孔子登東山而小魯，登太山而小天下。故觀於海者難為水，遊於聖人之門者難為",
+      "note": "「君子之志於道也，不成章不達」以登岱觀海喻學道之漸進，明成章而後達",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 31,
+      "para_id": "mengzi#13-p31",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「有為者辟若掘井，掘井九軔而不及泉，猶為棄井也。」",
+      "note": "「有為者辟若掘井，掘井九軔而不及泉，猶為棄井也」以掘井喻有為須及泉，立中途而廢之可惜",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 36,
+      "para_id": "mengzi#13-p36",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「君子居是國也，其君用之，則安富尊榮；其子弟從之，則孝弟忠信。『不素餐兮",
+      "note": "「其君用之，則安富尊榮；其子弟從之，則孝弟忠信」以君子居國之效定不素餐之實，落在君與子弟之化",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 52,
+      "para_id": "mengzi#13-p52",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「君子之所以教者五：有如時雨化之者，有成德者，有達財者，有答問者，有私淑",
+      "note": "「君子之所以教者五：有如時雨化之者，有成德者，有達財者，有答問者，有私淑艾者」列君子教法為五，落到成德與達財之效",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 54,
+      "para_id": "mengzi#13-p54",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「大匠不為拙工改廢繩墨，羿不為拙射變其彀率。君子引而不發，躍如也。中道而",
+      "note": "「大匠不為拙工改廢繩墨，羿不為拙射變其彀率。君子引而不發，躍如也」以匠不廢繩墨、羿不變彀率喻君子教守中道、能者自從",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 57,
+      "para_id": "mengzi#13-p57",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「挾貴而問，挾賢而問，挾長而問，挾有勳勞而問，挾故而問，皆所不答也。滕更",
+      "note": "「挾貴而問，挾賢而問，挾長而問，挾有勳勞而問，挾故而問，皆所不答也」以挾之五種定不答之節，落到教之禮",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-i",
+      "para_index": 60,
+      "para_id": "mengzi#13-p60",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「知者無不知也，當務之為急；仁者無不愛也，急親賢之為務。堯舜之知而不遍物",
+      "note": "「堯舜之知而不遍物，急先務也」「不能三年之喪，而緦小功之察……是之謂不知務」以先務與不知務定知仁之節",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-ii",
+      "para_index": 7,
+      "para_id": "mengzi#14-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「梓匠輪輿能與人規矩，不能使人巧。」",
+      "note": "「梓匠輪輿能與人規矩，不能使人巧」主張技藝可教規矩而巧在自得，落於學習與成就的限度",
+      "co_domains": []
+    },
+    {
+      "slug": "mengzi",
+      "chapter": "jin-xin-ii",
+      "para_index": 43,
+      "para_id": "mengzi#14-p43",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孟子曰：「言近而指遠者，善言也；守約而施博者，善道也。君子之言也，不下帶而道存焉",
+      "note": "「言近而指遠者，善言也；守約而施博者，善道也。君子之言也，不下帶而道存焉。君子之守，修其身而天下平」論善言善守與修身之教，落於教化與修學",
       "co_domains": []
     },
     {
