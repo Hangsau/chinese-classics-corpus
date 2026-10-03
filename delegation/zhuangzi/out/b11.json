@@ -1,0 +1,222 @@
+{
+  "batch": "b11.md",
+  "rows": [
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 1,
+      "domains": ["V", "VI"],
+      "modes": ["narrative"],
+      "reason": "徐無鬼見魏武侯，自陳「我則勞於君，君有何勞於我」，以「君將盈耆欲，長好惡，則性命之情病矣；君將黜耆欲，掔好惡，則耳目病矣」論君臣之際欲望對性命之累，治者之內在安頓"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 2,
+      "domains": ["V", "II"],
+      "modes": ["narrative"],
+      "reason": "徐無鬼以相狗相馬之談游武侯，舉「天下馬有成材，若卹若失，若喪其一，若是者，超軼絕塵，不知其所」論品類高下以喪我為極，武侯「大悅而笑」，君臣互動中呈現忘我之境"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 3,
+      "domains": ["V", "III"],
+      "modes": ["narrative"],
+      "reason": "徐無鬼答女商何以說吾君，託越之流人與逃虛空者之喻，言「不亦去人滋久，思人滋深乎」「久矣夫！莫以真人之言謦欬吾君之側乎」，感歎君側久失真人諦語、思人愈深之情"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 4,
+      "domains": ["V", "VI"],
+      "modes": ["narrative"],
+      "reason": "徐無鬼再見武侯，言「勞君之神與形」，以「天地之養也一」「君獨為萬乘之主，以苦一國之民，以養耳目鼻口，夫神者不自許也」「夫神者，好和而惡姦」論治者當安其神之擾"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 5,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "武侯問愛民義偃兵，徐無鬼曰「不可」「愛民，害民之始也；為義偃兵，造兵之本也」「君雖為仁義，幾且偽哉」，諫以「修胸中之誠，以應天地之情而勿攖」，批判仁義之治而求治者反身"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 6,
+      "domains": ["V", "I"],
+      "modes": ["narrative"],
+      "reason": "黃帝見大隗，遇牧馬童子，童子曰「夫為天下者，亦奚以異乎牧馬者哉？亦去其害馬者而已矣」，以去害為治天下之要，寄治世於無所作之義"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 7,
+      "domains": ["II", "V"],
+      "modes": ["observation", "proposition"],
+      "reason": "列知士辯士察士「皆囿於物者也」，又列招世中民兵革禮教仁義之士與農商百工，「此皆順比於歲，不物於易者也，馳其形性，潛之萬物，終身不反，悲夫」，謂群分類諸角色皆溺於所務而失己"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 8,
+      "domains": ["II"],
+      "modes": ["proposition"],
+      "reason": "莊子設問「射者非前期而中，謂之善射，天下皆羿也，可乎」「天下非有公是也，而各是其所是，天下皆堯也，可乎」，以名實之辯破公是之執，論各是其是之蒙蔽"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 9,
+      "domains": ["II"],
+      "modes": ["narrative"],
+      "reason": "莊子舉「儒、墨、楊、秉四，與夫子為五，果孰是邪」，託魯遽弟子冬爨鼎夏造冰與「鼓宮宮動，鼓角角動，音律同矣」「夫或改調一弦，於五音無當也，鼓之二十五弦皆動」之喻，辯各是其所是之非道"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 10,
+      "domains": ["II"],
+      "modes": ["narrative"],
+      "reason": "惠子言諸家與我以辯相拂，莊子舉「齊人蹢子於宋者，其命閽也不以完，其求鈃鍾也以束縛」「楚人寄而蹢閽者，夜半於無人之時而與舟人鬥，未始離於岑，而足以造於怨也」，以喻見物之差與無謂之爭"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 11,
+      "domains": ["III"],
+      "modes": ["narrative"],
+      "reason": "莊子送葬過惠子墓，舉匠石斲堊「匠石運斤成風，聽而斲之，盡堊而鼻不傷，郢人立不失容」，歎「自夫子之死也，吾無以為質矣，吾無與言之矣」，傷知音之失"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 12,
+      "domains": ["V"],
+      "modes": ["narrative"],
+      "reason": "桓公問病中屬國，管仲論鮑叔牙「絜廉善士」「一聞人之過，終身不忘」之不可用，舉「以賢臨人，未有得人者也；以賢下人，未有不得人者也」，定隰朋可屬國，論用人之德與位"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 13,
+      "domains": ["VII", "XIII"],
+      "modes": ["narrative"],
+      "reason": "吳王浮江狙山之寓，「伐其巧、恃其便，以敖予，以至此殛也」，王戒顏不疑「嗟乎，無以汝色驕人哉」；顏不疑「歸而師董梧，以助其色，去樂辭顯，三年而國人稱之」，由伐巧之敗轉為修身之安"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 14,
+      "domains": ["II", "XIII"],
+      "modes": ["narrative"],
+      "reason": "南伯子綦隱几仰天而噓，答顏成子「形固可使若槁骸，心固可使若死灰乎」，自述昔居山穴「我必先之，彼故知之；我必賣之，彼故鬻之」，歎「嗟乎！我悲人之自喪者，吾又悲夫悲人者，吾又悲夫悲人之悲者，其後而日遠矣」，論名聲之自喪與去之日遠"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 15,
+      "domains": ["VII"],
+      "modes": ["narrative"],
+      "reason": "仲尼之楚，孫叔敖執爵市南宜僚受酒而祭，仲尼言「丘也聞不言之言矣，未之嘗言，於此乎言之」，舉「市南宜僚弄丸而兩家之難解，孫叔敖甘寢秉羽而郢人投兵」，歎「丘願有喙三尺」，論不言之德勝於言"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 16,
+      "domains": ["II", "VII"],
+      "modes": ["proposition"],
+      "reason": "論「德總乎道之所一，而言休乎知之所不知，至矣」，斷「名若儒、墨而凶矣」「實不聚，名不立，此之謂大人」，辨名實之累以立大人之德"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 17,
+      "domains": ["II", "VII"],
+      "modes": ["proposition"],
+      "reason": "言「狗不以善吠為良，人不以善言為賢」「知大備者，無求、無失、無棄，不以物易己也。反己而不窮，循古而不摩，大人之誠」，辨善言非賢，主不以外物易己"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 18,
+      "domains": ["IV", "XIII"],
+      "modes": ["narrative"],
+      "reason": "子綦召九方歅相八子，歅曰「梱也將與國君同食以終其身」，子綦「索然出涕」「吾子何為以至於是極也」；歅辯「子則祥矣，父則不祥」，父憂子之命為父子至情之痛"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 19,
+      "domains": ["I", "IV"],
+      "modes": ["narrative"],
+      "reason": "子綦歎「吾所與吾子遊者，遊於天地」「殆乎！非我與吾子之罪，幾天與之也！吾是以泣也」，悲父子遊於天地之誼為世俗之償所奪，泣天之所命奪人至親之遊"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 20,
+      "domains": ["XI", "IV"],
+      "modes": ["narrative"],
+      "reason": "「無幾何而使梱之於燕，盜得之於道，全而鬻之則難，不若刖之則易，於是乎刖而鬻之於齊，適當渠公之街，然身食肉而終」，記子綦所憂之命一一應驗，禍福翻覆"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 21,
+      "domains": ["V", "VII"],
+      "modes": ["narrative"],
+      "reason": "許由欲逃堯，言「夫堯，畜畜然仁，吾恐其為天下笑」「夫仁義之行，唯且無誠，且假乎禽貪者器」，斷「夫堯知賢人之利天下也，而不知其賊天下也」，以仁義之賊批治者之德"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 22,
+      "domains": [],
+      "modes": ["observation"],
+      "reason": "「有暖姝者，有濡需者，有卷婁者」，三類品題之引言，待下文分別釋義"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 23,
+      "domains": ["II"],
+      "modes": ["proposition"],
+      "reason": "釋暖姝「暖暖姝姝而私自說也，自以為足矣，而未知未始有物也」，論學一先生之言而自足者之自蔽"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 24,
+      "domains": ["II"],
+      "modes": ["narrative"],
+      "reason": "以豕蝨擇疏鬣為廣宮大囿「此以域進，此以域退，此其所謂濡需者也」，喻域中自足而不自知屠者之至，論所囿之不自知"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 25,
+      "domains": ["XIII", "II"],
+      "modes": ["narrative"],
+      "reason": "釋卷婁為「羊肉不慕蟻，蟻慕羊肉，羊肉羶也」「舜有羶行，百姓悅之」「年齒長矣，聰明衰矣，而不得休歸，所謂卷婁者也」，論為天下所驅而終身不得息"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 26,
+      "domains": ["I", "V"],
+      "modes": ["proposition"],
+      "reason": "「故無所甚親，無所甚疏，抱德煬和，以順天下，此謂真人」「古之真人，以天待之，不以人入天」，立真人無親疏、以天應不以人應之則"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 27,
+      "domains": ["X", "XI"],
+      "modes": ["proposition"],
+      "reason": "「古之真人，得之也生，失之也死；得之也死，失之也生」「是時為帝者也，何可勝言」，論得失與死生之互相，並以時為帝者無定，歸時與運"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 28,
+      "domains": ["XI", "XIII"],
+      "modes": ["proposition"],
+      "reason": "「句踐也以甲楯三千，棲於會稽。唯種也能知亡之所以存，唯種也不知身之所以愁」「鴟目有所適，鶴脛有所節，解之也悲」，論知亡而不知愁之命，並論物各有其適則之悲"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 29,
+      "domains": ["VI", "I"],
+      "modes": ["proposition"],
+      "reason": "「故目之於明也殆，耳之於聰也殆，心之於殉也殆。凡能其於府也殆」「而人以為己寶，不亦悲乎」，論耳目心智逐外之危殆，並指人珍其所殆之倒錯"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 30,
+      "domains": ["I", "II"],
+      "modes": ["proposition"],
+      "reason": "「故足之於地也踐，雖踐，恃其所不蹍而後善博也；人之於知也少，雖少，恃其所不知而後知天之所謂也」「知大一，知大陰，知大目，知大均，知大方，知大信，知大定，至矣」，論知依於不知，並立七大知之至"
+    },
+    {
+      "chapter": "xu-wu-gui",
+      "para_index": 31,
+      "domains": ["II"],
+      "modes": ["proposition"],
+      "reason": "「不知而後知之」「以不惑解惑，復於不惑，是尚大不惑」，論不知而後知、以不惑解惑之認知之序"
+    }
+  ]
+}
