@@ -2546,15 +2546,17 @@
       "chapter": "召類",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「凡人之攻伐也，非為利則固為名也」在下一句立即化為「名實不得，國雖彊大，則無為攻矣」，全段只計算如何以治、利、名阻止攻伐，是兵政槓桿，沒有獨立的人生樣態",
+    "note": "「凡人之攻伐也，非為利則固為名也」本段自有一句說人會怎樣／該怎樣的承重句。（2026-10-04 反方讀者判邊界，Claude 回原文改判；原判空）",
     "excerpt": "凡兵之用也，用於利，用於義。攻亂則服，服則攻者利；攻亂則義，義則攻者榮。榮且利，",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "claude-override-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#29-p03",
@@ -7423,16 +7425,18 @@
       "chapter": "孟冬紀",
       "para_index": 7
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "formalization",
       "prescription"
     ],
     "confidence": null,
-    "note": "「無或敢侵削眾庶兆民」雖有護民語義，位置是「是月也」下水澤賦稅與執法條目，效力沒有脫離孟冬政令",
+    "note": "「以為天子取怨于下」本段自有一句點明侵削民使上位者招怨並行罪無赦，屬民心向背與責任（判準2）。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "是月也，乃命水虞漁師收水泉池澤之賦，無或敢侵削眾庶兆民，以為天子取怨于下，其有若",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#85-p08",
@@ -11936,16 +11940,18 @@
       "chapter": "應言",
       "para_index": 5
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "narrative",
       "proposition"
     ],
     "confidence": null,
-    "note": "「大官，人臣之所欲也」下一句即以「孟卬令秦得其所欲，秦亦令孟卬得其所欲」核算官位與割地的交換，欲望只作外交酬責的治術材料",
+    "note": "「凡人主之與其大官也，為有益也」段末評語直接論人主授官的原則與貪求（大官是人臣所欲），屬用人與賞罰，照 SPEC 判準 2 應為 V；前面的割地交易只是脈絡。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "魏令孟卬割絳、𥦋、安邑之地以與秦王。王喜，令起賈為孟卬求司徒於魏王。魏王不說，應",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-25T07:02:46+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "lushi-chunqiu#138-p06",

@@ -1324,16 +1324,18 @@
       "chapter": "司馬錯與張儀爭論於秦惠王前",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "prescription",
       "proposition"
     ],
     "confidence": null,
-    "note": "從「親魏善楚，下兵三川」到「據九鼎，桉圖籍，挾天子以令天下」全是攻韓的路線、盟國與收益推演；「爭名者於朝，爭利者於市」只用作應在周室爭取王業的條件式比喻，沒有獨立說明人的心理或生活問題",
+    "note": "「爭名者於朝，爭利者於市」本段自有一句說人會怎樣／該怎樣的承重句。（2026-10-04 反方讀者判邊界，Claude 回原文改判；原判空）",
     "excerpt": "對曰：「親魏善楚，下兵三川，〈姚本三川，宜陽也。下兵，出兵也。〉塞轘〈姚本塞，斷",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "claude-override-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#53-p03",
@@ -1341,16 +1343,18 @@
       "chapter": "司馬錯與張儀爭論於秦惠王前",
       "para_index": 3
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "「欲富國者，務廣其地；欲強兵者，務富其民；欲王者，務博其德」列的是富國、強兵、稱王所需條件；「諸侯不以為貪」與「禁暴正亂之名」只是伐蜀的名聲收益，整段仍是兩條軍事方案的成敗比較",
+    "note": "「欲強兵者，務富其民；欲王者，務博其德」獨立成立的統治原則句，落在富民與博德的領導責任，符合 SPEC 判準 2 的論說句。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "司馬錯曰：「不然。臣聞之，欲富國者，〈姚本曾、錢、集本，「富國」作「國富」。〉務",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#53-p04",
@@ -2628,15 +2632,17 @@
       "chapter": "謂應侯曰君禽馬服乎",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「趙亡，秦王王，武安君為三公」及「北地入燕，東地入齊，南地入楚、魏」都是用爵位、領土與民心作變數的利害推演；「天下之民，不樂為秦民」也只服務於攻趙所得有限的判斷，未獨立提出人的通則",
+    "note": "「天下之民，不樂為秦民之日固久矣」獨立的民心向背斷言，上黨之民返趙為證，照 SPEC 判準 2 屬 V；另有「君能為之下乎」的地位心理，但承重句取前者。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "謂應侯曰：「君禽馬服〈鮑本「馬服」下補「君」字。○　趙括也，襲其父稱。補曰：史白",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#90-p01",
@@ -5161,16 +5167,18 @@
       "chapter": "齊人有馮諼者",
       "para_index": 6
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "XI"
+    ],
     "discourse_mode": [
       "narrative",
       "proposition"
     ],
     "confidence": null,
-    "note": "「狡兔有三窟」以動物為主詞，只替後續營造三處政治保障作比喻；其餘「諸侯先迎之者，富而兵強」及魏、齊往返聘謝，都是外交得勢的條件推演與事件經過",
+    "note": "「狡兔有三窟」狡兔三窟是獨立成立的自保之道斷言，答出處進退；另有「民扶老攜幼,迎君道中」落在V民心，但承重以XI為主。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "後期年，齊王謂孟嘗君曰：「寡人不敢以先王之臣為臣。」〈鮑本補曰：此遣其就國而為之",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#148-p07",
@@ -5580,16 +5588,18 @@
       "chapter": "蘇秦說齊閔王",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "narrative",
       "proposition"
     ],
     "confidence": null,
-    "note": "干將、弓弩之喻及衛藉魏、趙藉楚的往事都在證成「權藉不在焉」便不能發揮力量；末列「行此六者而求伯，則遠矣」仍是稱霸的成敗條件，未另立人性或人生主張",
+    "note": "「兵弱而憎下人也」「今世之為國者不然矣」後連列六條領導者失態，是獨立成立的人性斷言，不拿前文，落在V領導的失敗樣態。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "「今雖干將、莫邪，〈鮑本博物志，干將，陽龍文；莫邪，陰漫理。此二劍，吳王使干將作",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#159-p03",
@@ -6293,16 +6303,18 @@
       "chapter": "荊宣王問群臣",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "narrative",
       "proposition"
     ],
     "confidence": null,
-    "note": "「虎不知獸畏己而走也，以為畏狐也」以虎狐為主詞敘述一次寓言；落點「其實畏王之甲兵也」只是把北方之畏歸因於楚國兵力，仍是威勢歸屬的形勢說明。",
+    "note": "「其實畏王之甲兵也，猶百獸之畏虎也」狐假虎威在本段自己斷言「人畏的是誰的權力」，不拿前後文，是V權力來源的承重句，不只是攻伐利害。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "荊〈姚本劉，一無「荊」字。〉宣王問群臣曰：「吾聞北方之畏昭奚恤也，果誠何如？」群",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#173-p01",
@@ -6418,16 +6430,18 @@
       "chapter": "江乙惡昭奚恤",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "narrative",
       "proposition"
     ],
     "confidence": null,
-    "note": "寓言的行為主體是狗：「狗惡之，當門而噬之」，鄰人因而不能入告；後半只是江乙把此情節比作昭奚恤阻他見王的具體指控，沒有以人為主詞另下通則。",
+    "note": "「鄰人憚之，遂不得入言」狗溺井寓言獨立成立，說出近臣如何靠威嚇封住進言，屬V君側與用人；動機是離間，但承重句本身成立。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "江乙惡昭奚恤，謂楚王曰：「人有以其狗為有執〈鮑本執，言善守。〉而愛之。其狗嘗溺〈",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#178-p01",
@@ -6806,15 +6820,17 @@
       "chapter": "張儀為秦破從連橫",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「且夫為從者，無以異於驅群羊而攻猛虎也。夫虎之與羊，不格明矣。」以虎羊比擬秦與合從諸國，承擔的是國力與兵勢比較；其餘法令、兵車與地險也都在列舉秦的軍事條件，沒有拆離戰局後仍成立的對人斷語",
+    "note": "「法令既明，士卒安難樂死」本段自己有一句法令明則人樂死的因果斷言，與SPEC商君書「爭以為榮」同類，落在V賞罰。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "張儀為秦破從連橫，說楚王〈鮑本在鄭袖出儀後。〉曰：「秦地半天下，兵敵四國，〈鮑本",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#187-p02",
@@ -8067,16 +8083,18 @@
       "chapter": "天下合從",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "VI"
+    ],
     "discourse_mode": [
       "narrative",
       "proposition"
     ],
     "confidence": null,
-    "note": "「其飛徐而鳴悲。飛徐者，故瘡痛也；鳴悲者，久失群也，故瘡未息，而驚心未至也。」的主詞是雁，只敘動物傷弓寓言；「今臨武君，嘗為秦孽，不可為拒秦之將也。」只是把寓言套回拒秦將領的軍事適任預測，沒有獨立的人性斷語",
+    "note": "「久失群也，故瘡未息，而驚心未至也」傷弓之鳥說的是創傷後的驚懼與失群之悲如何讓人不能再當重任，本段自有承重句，屬恐懼與焦慮。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "天下合〈姚本「合」，曾作「舍」。〉從。趙使魏加〈鮑本趙人，全晉舊姓。正曰：鮑見策",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#219-p01",
@@ -8189,16 +8207,18 @@
       "chapter": "楚考烈王無子",
       "para_index": 5
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "XI"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "「世有無妄之福，又有無妄之禍。」以下分列王崩後攝政、奪國與李園刺殺等特定權力情勢，是風險推演與行動建議；「李園，軟弱人也，僕又善之，又何至此？」只是春申君對具體人物的純品題，沒有給出一般行為機制",
+    "note": "「世有無妄之福，又有無妄之禍」此句獨立成立地斷言命運有無法預期的福與禍，並接著以三個無妄展開，屬命運與出處進退。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "春申君相楚二十五年，考烈王病。朱英謂春申君曰：〈鮑本楚人。正曰：後語云，觀人朱英",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#220-p06",
@@ -9054,16 +9074,18 @@
       "chapter": "蘇秦從燕之趙始合從",
       "para_index": 5
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "「夫橫人者，皆欲割諸侯之地以與秦成。」是對橫人的動員式群體品題，沒有在該句交代行為來源；本段其餘內容以六國兵力、割地與秦患勸趙王選擇合從",
+    "note": "「卒有秦患，而不與其憂」本段自有一句說人會怎樣／該怎樣的承重句。（2026-10-04 反方讀者判邊界，Claude 回原文改判；原判空）",
     "excerpt": "「臣竊以天下地圖案之。諸侯之地五倍於秦，料諸侯之卒，十倍於秦。六國并力為一，西面",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "claude-override-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#239-p06",
@@ -10031,16 +10053,18 @@
       "chapter": "秦圍趙之邯鄲",
       "para_index": 4
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "narrative",
       "proposition"
     ],
     "confidence": null,
-    "note": "「且秦無已而帝，則且變易諸侯之大臣。」是秦稱帝後將如何處置特定諸侯臣屬的情勢預測；鬼侯、鄂侯、文王與齊閔王諸事則是支撐這項外交推演的史事例證，沒有另立對人的通則",
+    "note": "「是使三晉之大臣不如鄒、魯之僕妾也」鬼侯醢、鄒魯之臣拒天子禮，與此句一起明說屈從強權使人格降為僕妾，句子自己成立。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "魯仲連曰：「固也，待吾言之。昔者，鬼侯〈鮑本徐曰，鄴縣有九侯城，「九」一作「鬼」",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#258-p05",
@@ -10218,16 +10242,18 @@
       "chapter": "魏魀謂建信君",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "XI"
+    ],
     "discourse_mode": [
       "narrative",
       "prescription"
     ],
     "confidence": null,
-    "note": "「虎之情，非不愛其蹯也。然而不以環寸之蹯，害七尺之軀者，權也。」以虎為主詞敘述斷足保身的寓言；「願公之熟圖之也。」只是把寓言用作保國全身的策略勸告，沒有獨立對人的斷語",
+    "note": "「然而不以環寸之蹯，害七尺之軀者，權也」虎決蹯而去的比喻直接說人在代價面前要怎樣取捨，並明指「君之身於王，非環寸之蹯也」。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "魏魀〈鮑本「魀」作「〈允介〉」。或作鬿。　魀，音介，字書無之。補曰：一本標或作「",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#267-p01",
@@ -10958,16 +10984,18 @@
       "chapter": "魏武侯與諸大夫浮於西河",
       "para_index": 1
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "narrative",
       "proposition"
     ],
     "confidence": null,
-    "note": "「河山之險，豈不亦信固哉！」與「若善脩之，則霸王之業具矣。」以地險推算霸業；「吾君之言，危國之道也；而子又附之，是危也。」只架設反駁，尚未展開可脫離國勢而成立的人之機制",
+    "note": "「吾君之言，危國之道也；而子又附之」吳起當面指出君之自矜為危、臣之附和為重危，是君臣關係的獨立論說句。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "魏武侯與諸大夫浮於西河，〈鮑本補曰：正義云，西河，即龍門河也。〉稱曰：「河山之險",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#294-p02",
@@ -12384,16 +12412,18 @@
       "chapter": "秦敗魏於華魏王且入朝於秦",
       "para_index": 3
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "XI"
+    ],
     "discourse_mode": [
       "narrative",
       "prescription"
     ],
     "confidence": null,
-    "note": "「君无爲魏計，君其自爲計。且安死乎？安生乎？安窮乎？安貴乎？君其先自爲計，後爲魏計。」是支期以生死窮貴脅迫長信侯採取自保的一次性計策；「君不行，血濺君襟矣！」仍是威脅後果，只剩『若欲生貴便先自計』的條件式，未下獨立的人性或德性斷語",
+    "note": "「君其先自爲計，後爲魏計」支期逼長信侯在死生窮貴間先為自己打算，是選擇與代價（私與公、自保與忠）直接的一句；此外「血濺君襟矣」是恐嚇，對聽者有恐懼效果。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "支期說於長信侯曰：『王命召相國。』長信侯曰：『王何以臣爲？』支期曰：『臣不知也，",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#337-p04",
@@ -15260,16 +15290,18 @@
       "chapter": "人有惡蘇秦於燕王者",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "VII"
+    ],
     "discourse_mode": [
       "expression",
       "proposition"
     ],
     "confidence": null,
-    "note": "「臣之不信，是足下之福也。」只是在特定君臣利害中為自己辯護；「三者天下之高行，而以事足下，不可乎？」把信、廉、孝列作高行後提出假設，尚未給出這些品格何以影響人的通則",
+    "note": "「使臣信如尾生，廉如伯夷，孝如曾參，三者天下之高行」蘇秦被指不信而反論：忠信廉孝這些高行只守本分、不能為君謀利，是誠實與品格價值的翻轉；同時是被誹謗被猜忌時的自辯（信任 III／用人 V），本段自己就是承重。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "武安君從齊來，而燕王不館〈姚本曾本云，史作「不官」。〉也。謂燕王曰：「臣東周之鄙",
-    "tagged_by": "codex-gpt-5",
-    "tagged_at": "2026-08-23T00:19:25+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "zhanguoce#447-p03",

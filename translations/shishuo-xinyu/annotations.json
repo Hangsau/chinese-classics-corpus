@@ -5116,16 +5116,18 @@
       "chapter": "巧蓺",
       "para_index": 13
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "VIII"
+    ],
     "discourse_mode": [
       "narrative",
       "proposition"
     ],
     "confidence": null,
-    "note": "以眼睛最能傳神來解釋多年不點目精的畫法，內容是肖像技法原理而非人生領域。",
+    "note": "「傳神寫照，正在阿堵中」顧長康說明技藝的精神在何處、什麼是次要，是學習與技藝的自己的一句立場，與「明鏡」例同類。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "顧長康畫人，或數年不點目精。人問其故？顧曰：「四體妍蚩，本無關於妙處；傳神寫照，",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-09T12:57:07+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "shishuo-xinyu#12-p14",
@@ -5133,15 +5135,17 @@
       "chapter": "巧蓺",
       "para_index": 14
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "VIII"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "只比較畫手部動作與眼神所向的難易，是繪畫技術判斷，未處理人的內在生活。",
+    "note": "「手揮五絃易，目送歸鴻難」本段自有一句說人會怎樣／該怎樣的承重句。（2026-10-04 反方讀者判邊界，Claude 回原文改判；原判空）",
     "excerpt": "顧長康道畫：「手揮五絃易，目送歸鴻難。」",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-09T12:57:07+08:00"
+    "tagged_by": "claude-override-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "shishuo-xinyu#13-p01",
@@ -9209,16 +9213,18 @@
       "chapter": "文學",
       "para_index": 65
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "VIII"
+    ],
     "discourse_mode": [
       "narrative",
       "proposition"
     ],
     "confidence": null,
-    "note": "桓玄自認才思退步，殷仲堪說是理解轉深，仍只在評清談熟練度",
+    "note": "「此乃是君轉解」本段自有一句承重句，把越辯越少說成越懂，回應學習中對自身進退的判斷。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "桓南郡與殷荊州共談，毎相攻難。年餘後，但一兩番。桓自嘆才思轉退。殷云：「此乃是君",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-09T12:57:07+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "shishuo-xinyu#21-p66",
@@ -14619,16 +14625,18 @@
       "chapter": "言語",
       "para_index": 90
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "VIII"
+    ],
     "discourse_mode": [
       "narrative",
       "proposition"
     ],
     "confidence": null,
-    "note": "車胤只在講習時權衡多問會否使老師疲勞，袁喬以明鏡清流作答，重點是問學機鋒而非人生領域。",
+    "note": "「何嘗見明鏡疲於屢照，淸流憚於惠風」車胤怕屢問勞煩老師、袁羊保證施教者不會疲倦，是求學者的顧慮與施教者的樂意，屬學習與技藝；本句自己就是承重。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "孝武將講《孝經》，謝公兄弟與諸人私庭講習，〈《續晉陽秋》曰：「寧康三年九月九日，",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-09T12:57:07+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "shishuo-xinyu#30-p91",

@@ -2,8 +2,8 @@
   "domain": "XI",
   "name_zh": "自由·命運·改變",
   "gist": "自由意志與命運、選擇與代價、改變與重來",
-  "generated_at": "2026-10-03T14:28:23+00:00",
-  "para_count": 880,
+  "generated_at": "2026-10-03T20:39:18+00:00",
+  "para_count": 886,
   "book_count": 48,
   "surveyed_zero_hit": [
     "dongmingji",
@@ -1407,6 +1407,19 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第35篇侈靡",
+      "para_index": 21,
+      "para_id": "guanzi#37-p21",
+      "modes": [
+        "prescription",
+        "formalization"
+      ],
+      "excerpt": "不方之政，不可以爲國。曲靜之言，不可以爲道。節時於政，與時往矣。不動以爲道，齊以",
+      "note": "「避世之道，不可以進取」本段自有一句說人會怎樣／該怎樣的承重句。（2026-10-04 反方讀者判邊界，Claude 回原文改判；原判空）",
+      "co_domains": []
     },
     {
       "slug": "guanzi",
@@ -4071,6 +4084,18 @@
       "co_domains": [
         "V"
       ]
+    },
+    {
+      "slug": "jinlouzi",
+      "chapter": "立言篇九下",
+      "para_index": 23,
+      "para_id": "jinlouzi#16-p23",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "剝牛皮鞹以爲鼓，正三軍之衆，然爲牛計，不若服軛；狐白之裘，天子被之在廟堂，爲狐計",
+      "note": "「狐白之裘，天子被之在廟堂，爲狐計，不若走於平澤」站在被用之物的角度算：顯貴的用處對自己是代價，不如自在，是出處進退（有用之累）換了外表，本段自己就有承重句。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
     },
     {
       "slug": "jinlouzi",
@@ -11588,6 +11613,19 @@
     },
     {
       "slug": "zhanguoce",
+      "chapter": "齊人有馮諼者",
+      "para_index": 6,
+      "para_id": "zhanguoce#148-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "後期年，齊王謂孟嘗君曰：「寡人不敢以先王之臣為臣。」〈鮑本補曰：此遣其就國而為之",
+      "note": "「狡兔有三窟」狡兔三窟是獨立成立的自保之道斷言，答出處進退；另有「民扶老攜幼,迎君道中」落在V民心，但承重以XI為主。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
       "chapter": "莊辛謂楚襄王",
       "para_index": 1,
       "para_id": "zhanguoce#212-p01",
@@ -11616,6 +11654,19 @@
       "co_domains": [
         "XIII"
       ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "楚考烈王無子",
+      "para_index": 5,
+      "para_id": "zhanguoce#220-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "春申君相楚二十五年，考烈王病。朱英謂春申君曰：〈鮑本楚人。正曰：後語云，觀人朱英",
+      "note": "「世有無妄之福，又有無妄之禍」此句獨立成立地斷言命運有無法預期的福與禍，並接著以三個無妄展開，屬命運與出處進退。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
     },
     {
       "slug": "zhanguoce",
@@ -11749,6 +11800,19 @@
     },
     {
       "slug": "zhanguoce",
+      "chapter": "魏魀謂建信君",
+      "para_index": 1,
+      "para_id": "zhanguoce#266-p01",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "魏魀〈鮑本「魀」作「〈允介〉」。或作鬿。　魀，音介，字書無之。補曰：一本標或作「",
+      "note": "「然而不以環寸之蹯，害七尺之軀者，權也」虎決蹯而去的比喻直接說人在代價面前要怎樣取捨，並明指「君之身於王，非環寸之蹯也」。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
       "chapter": "秦敗魏於華走芒卯而圍大梁",
       "para_index": 2,
       "para_id": "zhanguoce#336-p02",
@@ -11760,6 +11824,19 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "秦敗魏於華魏王且入朝於秦",
+      "para_index": 3,
+      "para_id": "zhanguoce#337-p03",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "支期說於長信侯曰：『王命召相國。』長信侯曰：『王何以臣爲？』支期曰：『臣不知也，",
+      "note": "「君其先自爲計，後爲魏計」支期逼長信侯在死生窮貴間先為自己打算，是選擇與代價（私與公、自保與忠）直接的一句；此外「血濺君襟矣」是恐嚇，對聽者有恐懼效果。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
     },
     {
       "slug": "zhanguoce",

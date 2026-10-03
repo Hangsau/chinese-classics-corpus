@@ -972,15 +972,17 @@
       "chapter": "愼子逸文",
       "para_index": 42
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "VI"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "只說白晝無事則夜不作夢的生理關聯，未形成內在生活或超越經驗的主張",
+    "note": "「晝無事者，夜不夢」本段自有一句說人會怎樣／該怎樣的承重句。（2026-10-04 反方讀者判邊界，Claude 回原文改判；原判空）",
     "excerpt": "晝無事者，夜不夢。〈○《雲笈七籤》三十二。〉",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:06:10+08:00"
+    "tagged_by": "claude-override-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "shenzi#08-p43",

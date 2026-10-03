@@ -663,16 +663,18 @@
       "chapter": "第04篇立政",
       "para_index": 4
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "formalization",
       "prescription"
     ],
     "confidence": null,
-    "note": "全段規定鄉州里游什伍的編制、察報連坐、定期考核與布憲程序，孝悌賢良也僅是登報類目，未說人為何如此",
+    "note": "「凡上賢不過等，使能不兼官，罰有罪不獨及，賞有功不專與」全段多為制度條文，但這一句是用人賞罰的原則性論說句，照 SPEC 判準 2 應判 V；其餘層級報告與令禁條文仍屬制度。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "分國以爲五鄉，鄉爲之師。分鄉以爲五州，州爲之長。分州以爲十里，里爲之尉。分里以爲",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T08:06:30+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "guanzi#10-p05",
@@ -680,16 +682,18 @@
       "chapter": "第04篇立政",
       "para_index": 5
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "formalization",
       "prescription"
     ],
     "confidence": null,
-    "note": "只規定舉事前公布命令與賞罰、事後按令核計及專制之刑，屬執行程序，沒有人的樣態斷言",
+    "note": "「其賞罰之數必先明之」本段自有一句說人會怎樣／該怎樣的承重句。（2026-10-04 反方讀者判邊界，Claude 回原文改判；原判空）",
     "excerpt": "凡將舉事，令必先出，曰事將爲。其賞罰之數必先明之，立事者謹守令以行賞罰。計事致令",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T08:06:30+08:00"
+    "tagged_by": "claude-override-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "guanzi#10-p06",
@@ -4680,16 +4684,18 @@
       "chapter": "第35篇侈靡",
       "para_index": 21
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "XI"
+    ],
     "discourse_mode": [
       "prescription",
       "formalization"
     ],
     "confidence": null,
-    "note": "「知虛滿之所在以爲政令」「分其多少，以爲曲政」把陰陽時令化為政兵程序，未說人的內在狀態或品性",
+    "note": "「避世之道，不可以進取」本段自有一句說人會怎樣／該怎樣的承重句。（2026-10-04 反方讀者判邊界，Claude 回原文改判；原判空）",
     "excerpt": "不方之政，不可以爲國。曲靜之言，不可以爲道。節時於政，與時往矣。不動以爲道，齊以",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T08:06:30+08:00"
+    "tagged_by": "claude-override-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "guanzi#37-p22",
@@ -7444,15 +7450,17 @@
       "chapter": "第64篇形勢解",
       "para_index": 5
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "以四時生殺比附君主賞罰的固定節序，只說治理常規，未斷言人的樣態",
+    "note": "「賞賜刑罰，主之節也」賞罰有常是合理的賞罰論說，但本段多在比附四時，承重句只是類比。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "春者陽氣始上，故萬物生。夏者陽氣畢上，故萬物長。秋者陰氣始下，故萬物收。冬者陰氣",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T08:06:30+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "guanzi#61-p06",
@@ -10492,16 +10500,18 @@
       "chapter": "第73篇國蓄",
       "para_index": 2
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "formalization",
       "proposition"
     ],
     "confidence": null,
-    "note": "以利出一至四孔推演國勢，再把予奪貧富集中於君以使民親上，是經濟控制的政策鏈，未另說人為何如此",
+    "note": "「故民之戴上如日月，親君若父母」「予之在君，奪之在君，貧之在君，富之在君」加「民之戴上如日月」是權力與民心的論說，不是單純經濟操作。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "利出於一孔者，其國無敵。出二孔者，其兵不詘。出三孔者，不可以舉兵。出四孔者，其國",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T08:06:30+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "guanzi#69-p03",
@@ -11296,16 +11306,18 @@
       "chapter": "第78篇揆度",
       "para_index": 8
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition",
       "formalization"
     ],
     "confidence": null,
-    "note": "耕年、食年與粟價倍數以及使民不得不使、不得不用，構成以物價間接役使民眾的政策程序",
+    "note": "「善爲天下者，毋曰使之，使不得不使」有統治手法的論說，但前半是穀價倍數操作，承重句偏操控技術而非民性或用人原則。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "管子曰：「一歲耕，五歲食，粟賈五倍。一歲耕，六歲食，粟賈六倍。二年耕，而十一年食",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-11T08:06:30+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "guanzi#74-p09",

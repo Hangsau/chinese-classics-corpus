@@ -2,8 +2,8 @@
   "domain": "VI",
   "name_zh": "情緒與內在生活",
   "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡",
-  "generated_at": "2026-10-03T14:28:23+00:00",
-  "para_count": 1030,
+  "generated_at": "2026-10-03T20:39:18+00:00",
+  "para_count": 1033,
   "book_count": 44,
   "surveyed_zero_hit": [
     "dongmingji",
@@ -3850,6 +3850,18 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "huainanzi",
+      "chapter": "主術訓",
+      "para_index": 7,
+      "para_id": "huainanzi#01-p07",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫舟浮于水，車轉于陸，此勢之自然也。木擊折轊，水戾破舟，不怨木石而罪巧拙者，知故",
+      "note": "「道有智則惑，德有心則險，心有目則眩」「兵莫憯於志，而莫邪為下」更把內在意志之害置於刀劍之上，本段自己說出心智過度使人惑與險，非治術。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
     },
     {
       "slug": "huainanzi",
@@ -7739,6 +7751,18 @@
       "co_domains": [
         "V"
       ]
+    },
+    {
+      "slug": "shenzi",
+      "chapter": "愼子逸文",
+      "para_index": 42,
+      "para_id": "shenzi#08-p42",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "晝無事者，夜不夢。〈○《雲笈七籤》三十二。〉",
+      "note": "「晝無事者，夜不夢」本段自有一句說人會怎樣／該怎樣的承重句。（2026-10-04 反方讀者判邊界，Claude 回原文改判；原判空）",
+      "co_domains": []
     },
     {
       "slug": "shenzi",
@@ -13684,6 +13708,19 @@
       "co_domains": [
         "V"
       ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "天下合從",
+      "para_index": 1,
+      "para_id": "zhanguoce#218-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "天下合〈姚本「合」，曾作「舍」。〉從。趙使魏加〈鮑本趙人，全晉舊姓。正曰：鮑見策",
+      "note": "「久失群也，故瘡未息，而驚心未至也」傷弓之鳥說的是創傷後的驚懼與失群之悲如何讓人不能再當重任，本段自有承重句，屬恐懼與焦慮。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
     },
     {
       "slug": "zhanguoce",

@@ -579,16 +579,18 @@
       "chapter": "善謀/卷下",
       "para_index": 6
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "narrative",
       "proposition"
     ],
     "confidence": null,
-    "note": "張良逐項追問「陛下能制項籍之死命乎」及復立六國後「陛下誰與取天下乎」，是在推演封建六國會使游士離散、楚勢轉強的成敗條件；刪掉少的是一套爭天下的利害論證。",
+    "note": "「天下游士，捐其親戚，棄墳墓，去故舊，從陛下游者，皆日夜望尺寸之地」不只算利害，本段自己點出追隨者因何而來、封後人會使人心離散，落在用人賞罰與人心。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "漢三年，項羽急圍漢王滎陽，漢王悲憂，與酈生謀撓楚權。酈生曰：「昔湯伐桀，封其後於",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-15T16:02:16+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "xinxu#03-p07",

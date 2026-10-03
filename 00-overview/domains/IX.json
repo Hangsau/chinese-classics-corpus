@@ -2,8 +2,8 @@
   "domain": "IX",
   "name_zh": "苦難·疾病·身體",
   "gist": "疾病與身體、受苦的意義、照顧與被照顧",
-  "generated_at": "2026-10-03T14:28:23+00:00",
-  "para_count": 249,
+  "generated_at": "2026-10-03T20:39:18+00:00",
+  "para_count": 250,
   "book_count": 34,
   "surveyed_zero_hit": [
     "dengxizi",
@@ -2679,6 +2679,19 @@
         "VI",
         "X"
       ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "風操第六",
+      "para_index": 36,
+      "para_id": "yanshi-jiaxun#06-p36",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "人有憂疾，則呼天地父母，自古而然。今世諱避，觸途急切。而江東士庶，痛則稱禰。禰是",
+      "note": "「人有憂疾，則呼天地父母，自古而然」本段自有一句說人會怎樣／該怎樣的承重句。（2026-10-04 反方讀者判邊界，Claude 回原文改判；原判空）",
+      "co_domains": []
     },
     {
       "slug": "yanshi-jiaxun",

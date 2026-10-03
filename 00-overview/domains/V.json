@@ -2,8 +2,8 @@
   "domain": "V",
   "name_zh": "群體·社會·公義",
   "gist": "孤獨與歸屬、友誼、我群他群與偏見、公義與權力、責任與領導",
-  "generated_at": "2026-10-03T14:28:23+00:00",
-  "para_count": 5591,
+  "generated_at": "2026-10-03T20:39:18+00:00",
+  "para_count": 5612,
   "book_count": 57,
   "surveyed_zero_hit": [
     "haidao-suanjing",
@@ -5908,6 +5908,32 @@
     {
       "slug": "guanzi",
       "chapter": "第04篇立政",
+      "para_index": 4,
+      "para_id": "guanzi#10-p04",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "分國以爲五鄉，鄉爲之師。分鄉以爲五州，州爲之長。分州以爲十里，里爲之尉。分里以爲",
+      "note": "「凡上賢不過等，使能不兼官，罰有罪不獨及，賞有功不專與」全段多為制度條文，但這一句是用人賞罰的原則性論說句，照 SPEC 判準 2 應判 V；其餘層級報告與令禁條文仍屬制度。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第04篇立政",
+      "para_index": 5,
+      "para_id": "guanzi#10-p05",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "凡將舉事，令必先出，曰事將爲。其賞罰之數必先明之，立事者謹守令以行賞罰。計事致令",
+      "note": "「其賞罰之數必先明之」本段自有一句說人會怎樣／該怎樣的承重句。（2026-10-04 反方讀者判邊界，Claude 回原文改判；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第04篇立政",
       "para_index": 8,
       "para_id": "guanzi#10-p08",
       "modes": [
@@ -8639,6 +8665,18 @@
     {
       "slug": "guanzi",
       "chapter": "第64篇形勢解",
+      "para_index": 5,
+      "para_id": "guanzi#61-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "春者陽氣始上，故萬物生。夏者陽氣畢上，故萬物長。秋者陰氣始下，故萬物收。冬者陰氣",
+      "note": "「賞賜刑罰，主之節也」賞罰有常是合理的賞罰論說，但本段多在比附四時，承重句只是類比。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第64篇形勢解",
       "para_index": 7,
       "para_id": "guanzi#61-p07",
       "modes": [
@@ -10165,6 +10203,19 @@
     {
       "slug": "guanzi",
       "chapter": "第73篇國蓄",
+      "para_index": 2,
+      "para_id": "guanzi#69-p02",
+      "modes": [
+        "formalization",
+        "proposition"
+      ],
+      "excerpt": "利出於一孔者，其國無敵。出二孔者，其兵不詘。出三孔者，不可以舉兵。出四孔者，其國",
+      "note": "「故民之戴上如日月，親君若父母」「予之在君，奪之在君，貧之在君，富之在君」加「民之戴上如日月」是權力與民心的論說，不是單純經濟操作。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第73篇國蓄",
       "para_index": 3,
       "para_id": "guanzi#69-p03",
       "modes": [
@@ -10379,6 +10430,19 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "guanzi",
+      "chapter": "第78篇揆度",
+      "para_index": 8,
+      "para_id": "guanzi#74-p08",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "管子曰：「一歲耕，五歲食，粟賈五倍。一歲耕，六歲食，粟賈六倍。二年耕，而十一年食",
+      "note": "「善爲天下者，毋曰使之，使不得不使」有統治手法的論說，但前半是穀價倍數操作，承重句偏操控技術而非民性或用人原則。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
     },
     {
       "slug": "guanzi",
@@ -27223,6 +27287,18 @@
     {
       "slug": "lushi-chunqiu",
       "chapter": "召類",
+      "para_index": 2,
+      "para_id": "lushi-chunqiu#29-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡兵之用也，用於利，用於義。攻亂則服，服則攻者利；攻亂則義，義則攻者榮。榮且利，",
+      "note": "「凡人之攻伐也，非為利則固為名也」本段自有一句說人會怎樣／該怎樣的承重句。（2026-10-04 反方讀者判邊界，Claude 回原文改判；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "召類",
       "para_index": 3,
       "para_id": "lushi-chunqiu#29-p03",
       "modes": [
@@ -28861,6 +28937,19 @@
     },
     {
       "slug": "lushi-chunqiu",
+      "chapter": "孟冬紀",
+      "para_index": 7,
+      "para_id": "lushi-chunqiu#85-p07",
+      "modes": [
+        "formalization",
+        "prescription"
+      ],
+      "excerpt": "是月也，乃命水虞漁師收水泉池澤之賦，無或敢侵削眾庶兆民，以為天子取怨于下，其有若",
+      "note": "「以為天子取怨于下」本段自有一句點明侵削民使上位者招怨並行罪無赦，屬民心向背與責任（判準2）。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "lushi-chunqiu",
       "chapter": "異用",
       "para_index": 2,
       "para_id": "lushi-chunqiu#89-p02",
@@ -30487,6 +30576,19 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "lushi-chunqiu",
+      "chapter": "應言",
+      "para_index": 5,
+      "para_id": "lushi-chunqiu#138-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魏令孟卬割絳、𥦋、安邑之地以與秦王。王喜，令起賈為孟卬求司徒於魏王。魏王不說，應",
+      "note": "「凡人主之與其大官也，為有益也」段末評語直接論人主授官的原則與貪求（大官是人臣所欲），屬用人與賞罰，照 SPEC 判準 2 應為 V；前面的割地交易只是脈絡。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
     },
     {
       "slug": "lushi-chunqiu",
@@ -40525,6 +40627,18 @@
     {
       "slug": "shangjunshu",
       "chapter": "說民第五",
+      "para_index": 3,
+      "para_id": "shangjunshu#12-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "國以難攻，起一取十；國以易攻，起十亡百。國好力，曰：「以難攻」；國好言，曰：「以",
+      "note": "「民易為言，難為用」點出人民易於說、難於行的傾向，並據此論國家該讓民作什麼，是統治原則加民性判斷，照判準 2 屬 V。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shangjunshu",
+      "chapter": "說民第五",
       "para_index": 4,
       "para_id": "shangjunshu#12-p04",
       "modes": [
@@ -41218,6 +41332,19 @@
       ],
       "excerpt": "孝武皇帝以四夷未賔，宼賊姦宄，初置武功賞官，以寵戰士。〈大司農陳臧錢經用，賦稅旣",
       "note": "「每宼難之作，民瘁幾盡」並斷言「不教民戰，是謂棄之」，把國家是否使人民具備應戰能力說成領導者對群體的責任，不只是在列尚武官職。",
+      "co_domains": []
+    },
+    {
+      "slug": "shenjian",
+      "chapter": "2",
+      "para_index": 13,
+      "para_id": "shenjian#02-p13",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "或問貨。曰︰「五銖之制冝矣。」〈太公爲周立九府圜法︰錢圜函方，輕重以銖。至漢孝武",
+      "note": "「事枉而難實者，欺慢必衆，姧僞必作，爭訟必繁，刑殺必深」雖在貨幣論辯裡，這句是一般性的統治原則：難以落實的政令使人欺、偽、訟、刑，說出了人民的樣態，照判準 2 屬 V。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
       "co_domains": []
     },
     {
@@ -56171,6 +56298,19 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "xinxu",
+      "chapter": "善謀/卷下",
+      "para_index": 6,
+      "para_id": "xinxu#03-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "漢三年，項羽急圍漢王滎陽，漢王悲憂，與酈生謀撓楚權。酈生曰：「昔湯伐桀，封其後於",
+      "note": "「天下游士，捐其親戚，棄墳墓，去故舊，從陛下游者，皆日夜望尺寸之地」不只算利害，本段自己點出追隨者因何而來、封後人會使人心離散，落在用人賞罰與人心。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
     },
     {
       "slug": "xinxu",
@@ -71528,6 +71668,32 @@
     },
     {
       "slug": "zhanguoce",
+      "chapter": "司馬錯與張儀爭論於秦惠王前",
+      "para_index": 2,
+      "para_id": "zhanguoce#53-p02",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "對曰：「親魏善楚，下兵三川，〈姚本三川，宜陽也。下兵，出兵也。〉塞轘〈姚本塞，斷",
+      "note": "「爭名者於朝，爭利者於市」本段自有一句說人會怎樣／該怎樣的承重句。（2026-10-04 反方讀者判邊界，Claude 回原文改判；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "司馬錯與張儀爭論於秦惠王前",
+      "para_index": 3,
+      "para_id": "zhanguoce#53-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "司馬錯曰：「不然。臣聞之，欲富國者，〈姚本曾、錢、集本，「富國」作「國富」。〉務",
+      "note": "「欲強兵者，務富其民；欲王者，務博其德」獨立成立的統治原則句，落在富民與博德的領導責任，符合 SPEC 判準 2 的論說句。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
       "chapter": "齊助楚攻秦",
       "para_index": 5,
       "para_id": "zhanguoce#60-p05",
@@ -71724,6 +71890,18 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "謂應侯曰君禽馬服乎",
+      "para_index": 1,
+      "para_id": "zhanguoce#89-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "謂應侯曰：「君禽馬服〈鮑本「馬服」下補「君」字。○　趙括也，襲其父稱。補曰：史白",
+      "note": "「天下之民，不樂為秦民之日固久矣」獨立的民心向背斷言，上黨之民返趙為證，照 SPEC 判準 2 屬 V；另有「君能為之下乎」的地位心理，但承重句取前者。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
     },
     {
       "slug": "zhanguoce",
@@ -72339,6 +72517,19 @@
     {
       "slug": "zhanguoce",
       "chapter": "蘇秦說齊閔王",
+      "para_index": 2,
+      "para_id": "zhanguoce#159-p02",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "「今雖干將、莫邪，〈鮑本博物志，干將，陽龍文；莫邪，陰漫理。此二劍，吳王使干將作",
+      "note": "「兵弱而憎下人也」「今世之為國者不然矣」後連列六條領導者失態，是獨立成立的人性斷言，不拿前文，落在V領導的失敗樣態。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "蘇秦說齊閔王",
       "para_index": 3,
       "para_id": "zhanguoce#159-p03",
       "modes": [
@@ -72550,6 +72741,19 @@
     },
     {
       "slug": "zhanguoce",
+      "chapter": "荊宣王問群臣",
+      "para_index": 1,
+      "para_id": "zhanguoce#172-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "荊〈姚本劉，一無「荊」字。〉宣王問群臣曰：「吾聞北方之畏昭奚恤也，果誠何如？」群",
+      "note": "「其實畏王之甲兵也，猶百獸之畏虎也」狐假虎威在本段自己斷言「人畏的是誰的權力」，不拿前後文，是V權力來源的承重句，不只是攻伐利害。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
       "chapter": "昭奚恤與彭城君議於王前",
       "para_index": 1,
       "para_id": "zhanguoce#173-p01",
@@ -72588,6 +72792,19 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "江乙惡昭奚恤",
+      "para_index": 1,
+      "para_id": "zhanguoce#177-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "江乙惡昭奚恤，謂楚王曰：「人有以其狗為有執〈鮑本執，言善守。〉而愛之。其狗嘗溺〈",
+      "note": "「鄰人憚之，遂不得入言」狗溺井寓言獨立成立，說出近臣如何靠威嚇封住進言，屬V君側與用人；動機是離間，但承重句本身成立。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
     },
     {
       "slug": "zhanguoce",
@@ -72673,6 +72890,18 @@
       "co_domains": [
         "VI"
       ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "張儀為秦破從連橫",
+      "para_index": 1,
+      "para_id": "zhanguoce#187-p01",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "張儀為秦破從連橫，說楚王〈鮑本在鄭袖出儀後。〉曰：「秦地半天下，兵敵四國，〈鮑本",
+      "note": "「法令既明，士卒安難樂死」本段自己有一句法令明則人樂死的因果斷言，與SPEC商君書「爭以為榮」同類，落在V賞罰。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
     },
     {
       "slug": "zhanguoce",
@@ -73199,6 +73428,19 @@
     {
       "slug": "zhanguoce",
       "chapter": "蘇秦從燕之趙始合從",
+      "para_index": 5,
+      "para_id": "zhanguoce#239-p05",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "「臣竊以天下地圖案之。諸侯之地五倍於秦，料諸侯之卒，十倍於秦。六國并力為一，西面",
+      "note": "「卒有秦患，而不與其憂」本段自有一句說人會怎樣／該怎樣的承重句。（2026-10-04 反方讀者判邊界，Claude 回原文改判；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "蘇秦從燕之趙始合從",
       "para_index": 6,
       "para_id": "zhanguoce#239-p06",
       "modes": [
@@ -73370,6 +73612,19 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "秦圍趙之邯鄲",
+      "para_index": 4,
+      "para_id": "zhanguoce#258-p04",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魯仲連曰：「固也，待吾言之。昔者，鬼侯〈鮑本徐曰，鄴縣有九侯城，「九」一作「鬼」",
+      "note": "「是使三晉之大臣不如鄒、魯之僕妾也」鬼侯醢、鄒魯之臣拒天子禮，與此句一起明說屈從強權使人格降為僕妾，句子自己成立。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
     },
     {
       "slug": "zhanguoce",
@@ -73551,6 +73806,19 @@
       "co_domains": [
         "VII"
       ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "魏武侯與諸大夫浮於西河",
+      "para_index": 1,
+      "para_id": "zhanguoce#294-p01",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魏武侯與諸大夫浮於西河，〈鮑本補曰：正義云，西河，即龍門河也。〉稱曰：「河山之險",
+      "note": "「吾君之言，危國之道也；而子又附之」吳起當面指出君之自矜為危、臣之附和為重危，是君臣關係的獨立論說句。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
     },
     {
       "slug": "zhanguoce",

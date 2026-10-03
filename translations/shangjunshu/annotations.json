@@ -1213,15 +1213,17 @@
       "chapter": "說民第五",
       "para_index": 3
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "V"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "以難攻或易攻、用力或用言只是在比較兩套國法與兵用的成敗鏈，沒有另立人的一般性主張",
+    "note": "「民易為言，難為用」點出人民易於說、難於行的傾向，並據此論國家該讓民作什麼，是統治原則加民性判斷，照判準 2 屬 V。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "國以難攻，起一取十；國以易攻，起十亡百。國好力，曰：「以難攻」；國好言，曰：「以",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-10T09:33:32+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "shangjunshu#12-p04",

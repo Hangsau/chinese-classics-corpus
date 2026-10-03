@@ -2,8 +2,8 @@
   "domain": "VII",
   "name_zh": "善惡·良心·品格",
   "gist": "罪咎與贖罪、惡與殘忍與同理、誠實與虛偽、勇氣",
-  "generated_at": "2026-10-03T14:28:23+00:00",
-  "para_count": 3990,
+  "generated_at": "2026-10-03T20:39:18+00:00",
+  "para_count": 3992,
   "book_count": 54,
   "surveyed_zero_hit": [
     "dongmingji",
@@ -14984,6 +14984,19 @@
       "co_domains": [
         "XI"
       ]
+    },
+    {
+      "slug": "huainanzi",
+      "chapter": "兵略訓",
+      "para_index": 18,
+      "para_id": "huainanzi#04-p18",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "今使兩人接刃，巧詘不異，而勇士必勝者，何也？其行之誠也。夫以巨斧擊桐薪，不待利時",
+      "note": "「今使兩人接刃，巧詘不異，而勇士必勝者，何也？其行之誠也」本段自有一句說人會怎樣／該怎樣的承重句。（2026-10-04 反方讀者判邊界，Claude 回原文改判；原判空）",
+      "co_domains": []
     },
     {
       "slug": "huainanzi",
@@ -54084,6 +54097,19 @@
       "co_domains": [
         "V"
       ]
+    },
+    {
+      "slug": "zhanguoce",
+      "chapter": "人有惡蘇秦於燕王者",
+      "para_index": 2,
+      "para_id": "zhanguoce#447-p02",
+      "modes": [
+        "expression",
+        "proposition"
+      ],
+      "excerpt": "武安君從齊來，而燕王不館〈姚本曾本云，史作「不官」。〉也。謂燕王曰：「臣東周之鄙",
+      "note": "「使臣信如尾生，廉如伯夷，孝如曾參，三者天下之高行」蘇秦被指不信而反論：忠信廉孝這些高行只守本分、不能為君謀利，是誠實與品格價值的翻轉；同時是被誹謗被猜忌時的自辯（信任 III／用人 V），本段自己就是承重。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
     },
     {
       "slug": "zhanguoce",

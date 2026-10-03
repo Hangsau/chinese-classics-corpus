@@ -39,7 +39,7 @@
     ],
     "domain_para_counts": {
       "VII": 83,
-      "VIII": 81,
+      "VIII": 82,
       "II": 64,
       "V": 62,
       "VI": 27,
@@ -50,7 +50,7 @@
       "IV": 1
     },
     "paras_total": 229,
-    "paras_no_domain": 20,
+    "paras_no_domain": 19,
     "verdict": "13 領域命中 10，但命中極不平均：VII 83 段、VIII 81 段、II 64 段、V 57 段四個領域吃掉絕大部分，而 IV、X 各只 1 段，XIII 2 段，III、XI 各 4 段。所以「10／13」不代表覆蓋廣——尾巴薄到不能當本書特徵，只能記為「有觸及」。本書是一部把人拆成材質（II）、品格與偽似（VII）、才能與職任（VIII）、以及識人時的群體偏見（V）四條軸的專論。三個真空 I、IX、XII 是實質的：全書不問人為何在此、不談疾病與受苦、不涉神聖與超越——一部專論人的書完全不碰這三塊，本身是資料。",
     "revises_pilot": "無試點。HANDOFF 只寫了預期「II／VII／VIII 密集」，該預期成立；但完全沒預期到 V 有 57 段——〈材能〉〈流業〉兩篇整篇在論官職配置與政風，屬 V 的公義·權力與責任·領導細群。憑書名（「人物志」＝品鑑個人）推不出這一塊。",
     "method_findings": [
@@ -59,7 +59,8 @@
       "書內正面衝突，兩處都保留不調和：〈效難〉「或窮約而力行，或得志而從欲」預設處境能逼出品格（標 XI），〈體別〉末「偏材之性，不可移轉矣。雖教之以學，材成而隨之以失」則主張教育不能改變材質（標 XI）。同一部書對「人能不能改變」給了相反答案，這是內容層的發現，不調和成單一書級立場。",
       "標註判準（沿用九章 V 的作法，先立準則再標）：本書通篇的方法論外殼屬 Z-wisdom 不標；外殼底下若對『人實際是什麼樣、人際實際如何運作、才性該如何安置』提出可獨立成立的主張，才依該主張標。III 另立子準則——談被誤解才標 III，談辯論技巧不標。"
     ],
-    "rejudge_2026_10_03": "判空段定向重判：論說型判空段經 codex＋Sonnet 重判，5 段改標（多為 V）；見 classics-reflections/pilots/rejudge/。上方 verdict 為原判讀時所寫，數字已更新"
+    "rejudge_2026_10_03": "判空段定向重判：論說型判空段經 codex＋Sonnet 重判，5 段改標（多為 V）；見 classics-reflections/pilots/rejudge/。上方 verdict 為原判讀時所寫，數字已更新",
+    "reverse_2026_10_04": "維持判空段反方複讀：Sonnet 反方讀者五問 → Claude 回原文裁定，1 段改標（tagged_by sonnet-reverse+claude-2026-10-04／claude-override-2026-10-04）；見 classics-reflections/pilots/rejudge/reverse/。上方 verdict 為初讀時所寫，數字已更新"
   },
   "notes": null
 }

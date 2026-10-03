@@ -2462,15 +2462,17 @@
       "chapter": "材理",
       "para_index": 33
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "VIII"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": "medium",
-    "note": null,
+    "note": "「不能兼有八美，適有一能，則所達者偏」人的才能有偏、不能兼備，是天賦與技藝的限度問題，本段自己就說了人會怎樣（所達者偏）。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "由此論之，談而定理者眇矣。必也：聰能聽序，思能造端，明能見機，辭能辯意，捷能攝失",
-    "tagged_by": "claude-opus-4-7",
-    "tagged_at": "2026-07-28T00:00:00+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "renwuzhi#07-p34",

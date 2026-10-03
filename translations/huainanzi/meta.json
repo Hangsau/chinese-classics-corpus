@@ -40,9 +40,9 @@
     ],
     "domain_para_counts": {
       "V": 253,
-      "VII": 129,
+      "VII": 130,
       "XI": 86,
-      "VI": 68,
+      "VI": 69,
       "VIII": 53,
       "XIII": 37,
       "II": 22,
@@ -61,7 +61,7 @@
       "ritual": 15
     },
     "paras_total": 620,
-    "paras_no_domain": 183,
+    "paras_no_domain": 181,
     "group_hit_rates": {
       "G1 天地曆數": "2/126 (2%)",
       "G2 道論": "100/108 (93%)",
@@ -71,6 +71,7 @@
       "G6 書序": "3/31 (10%)"
     },
     "verdict": "淮南子 620 段，12／13、命中 428 段（69%）。**命中與否幾乎完全由體例群決定**：天文、墬形、時則三篇 126 段只過了 2 段（登錄之外閘門的預期結果），書序群 31 段過 3 段；其餘四群都在 88%–96%。V 245 段獨大——主術、兵略、氾論、泰族都在談君主怎麼用人、怎麼因勢，淮南子的政治論是這部書的主體；VII 129 段與 XI 86 段次之，後者集中在人間訓的禍福相倚故事與道論群的「時」。**III（愛）全書掛零**，是本庫大部頭少見的空格：淮南子談人情幾乎全從治術與養生角度切入，不從親密關係切入。XII 只 4 段——覽冥訓的感應論多被判為 I／XIII 的宇宙觀與安頓，而非信仰實踐。判讀者 minimax-m3 全書單一，b27 一批有手修記錄（見 method）。",
-    "rejudge_2026_10_03": "判空段定向重判：論說型判空段經 codex＋Sonnet 重判，9 段改標（多為 V）；見 classics-reflections/pilots/rejudge/。上方 verdict 為原判讀時所寫，數字已更新"
+    "rejudge_2026_10_03": "判空段定向重判：論說型判空段經 codex＋Sonnet 重判，9 段改標（多為 V）；見 classics-reflections/pilots/rejudge/。上方 verdict 為原判讀時所寫，數字已更新",
+    "reverse_2026_10_04": "維持判空段反方複讀：Sonnet 反方讀者五問 → Claude 回原文裁定，2 段改標（tagged_by sonnet-reverse+claude-2026-10-04／claude-override-2026-10-04）；見 classics-reflections/pilots/rejudge/reverse/。上方 verdict 為初讀時所寫，數字已更新"
   }
 }

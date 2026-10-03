@@ -1393,16 +1393,18 @@
       "chapter": "風操第六",
       "para_index": 36
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "IX"
+    ],
     "discourse_mode": [
       "observation",
       "proposition"
     ],
     "confidence": null,
-    "note": "主要考辨人在疼痛時所呼禰、侑等字的字義、讀音及南北用法，結論只是兩種鄉音皆可通行，未進一步處理疾病、親子或信仰問題",
+    "note": "「人有憂疾，則呼天地父母，自古而然」本段自有一句說人會怎樣／該怎樣的承重句。（2026-10-04 反方讀者判邊界，Claude 回原文改判；原判空）",
     "excerpt": "人有憂疾，則呼天地父母，自古而然。今世諱避，觸途急切。而江東士庶，痛則稱禰。禰是",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-09T04:59:21+08:00"
+    "tagged_by": "claude-override-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#06-p37",
@@ -1985,16 +1987,18 @@
       "chapter": "勉学第八",
       "para_index": 19
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "VIII"
+    ],
     "discourse_mode": [
       "observation",
       "prescription"
     ],
     "confidence": null,
-    "note": "規定談說作文援引古事應親自讀本而不可只憑耳聞，並列俗間強飾典故造成的錯用；所論是引文與措辭技術，屬治學問題",
+    "note": "「必须眼学，勿信耳受」本段自有承重句談學習方法，並點出羞為鄙朴而強事飾辭的心理，落在求學。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "谈说制文，援引古昔，必须眼学，勿信耳受。江南闾里闲，士大夫或不学问，羞为鄙朴，道",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-09T04:59:21+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p20",
@@ -2019,16 +2023,18 @@
       "chapter": "勉学第八",
       "para_index": 21
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "VIII"
+    ],
     "discourse_mode": [
       "observation",
       "proposition"
     ],
     "confidence": null,
-    "note": "批評博聞之士詳究制度器物卻忽略文字，連姓名偏旁的來源也不明，並以錯取字形為例；人名只是文字學失誤的例證，換成其他字例論點仍成立",
+    "note": "「夫学者贵能博闻也」本段自有一句說人會怎樣／該怎樣的承重句。（2026-10-04 反方讀者判邊界，Claude 回原文改判；原判空）",
     "excerpt": "夫学者贵能博闻也。郡国山川，官位姓族，衣服饮食，器皿制度，皆欲根寻，得其原本；至",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-09T04:59:21+08:00"
+    "tagged_by": "claude-override-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#08-p22",
@@ -2169,16 +2175,18 @@
       "chapter": "勉学第八",
       "para_index": 30
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "VIII"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "主張校定書籍須遍觀異本，未備見天下書便不可輕下判斷，因各本可能本同末異或同有缺文；純屬版本校勘原則",
+    "note": "「观天下书未遍，不得妄下雌黄」本段自有一句說人會怎樣／該怎樣的承重句。（2026-10-04 反方讀者判邊界，Claude 回原文改判；原判空）",
     "excerpt": "校定书籍，亦何容易，自扬雄、刘向，方称此职耳。观天下书未遍，不得妄下雌黄。或彼以",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-09T04:59:21+08:00"
+    "tagged_by": "claude-override-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p01",
@@ -2225,16 +2233,18 @@
       "chapter": "文章第九",
       "para_index": 3
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "VIII"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "規定作文先請親友評裁、達到辭意可觀即可，不可師心求取蓋世之名；核心是寫作與接受評改的方法",
+    "note": "「慎勿师心自任，取笑旁人也」學習寫作先請親友評裁、勿師心自任，且不必苛求動俗蓋世（亦有 II 完美主義的讀法，但那句另需承重），是學習與技藝的直接教誨。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "学为文章，先谋亲友，得其评裁，知可施行，然后出手；慎勿师心自任，取笑旁人也。自古",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-09T04:59:21+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p04",
@@ -2300,15 +2310,17 @@
       "chapter": "文章第九",
       "para_index": 7
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "VIII"
+    ],
     "discourse_mode": [
       "prescription"
     ],
     "confidence": null,
-    "note": "以駕馭駿馬須有銜勒比喻作文雖有逸氣仍須節制，純屬文章收束筆勢的技術規範",
+    "note": "「虽有逸气，当以衔勒制之」以乘馬喻明說有才之人須自我節制，回應天賦與技藝，承重句獨立成立。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "凡为文章，犹人乘骐骥，虽有逸气，当以衔勒制之，勿使流乱轨躅，放意填坑岸也。",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-09T04:59:21+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p08",
@@ -2316,16 +2328,18 @@
       "chapter": "文章第九",
       "para_index": 8
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "VIII"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "提出文章理致、氣調、事義與華麗的本末結構，分析辭勝理伏等弊病並要求去其太甚，屬文體原理與改革主張",
+    "note": "「放逸者流宕而忘归，穿凿者补缀而不足」本段自有一句說人會怎樣／該怎樣的承重句。（2026-10-04 反方讀者判邊界，Claude 回原文改判；原判空）",
     "excerpt": "文章当以理致为心肾，气调为筋骨，事义为皮肤，华丽为冠冕。今世相承，趋本弃末，率多",
-    "tagged_by": "codex-gpt-5.6-sol",
-    "tagged_at": "2026-08-09T04:59:21+08:00"
+    "tagged_by": "claude-override-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "yanshi-jiaxun#09-p09",

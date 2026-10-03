@@ -118,15 +118,17 @@
       "chapter": "主術訓",
       "para_index": 7
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "VI"
+    ],
     "discourse_mode": [
       "proposition"
     ],
     "confidence": null,
-    "note": "「道有智則惑，德有心則險」承接「勢之自然」以道理否定式論述，整段在申明治術當順勢不當用智巧之累",
+    "note": "「道有智則惑，德有心則險，心有目則眩」「兵莫憯於志，而莫邪為下」更把內在意志之害置於刀劍之上，本段自己說出心智過度使人惑與險，非治術。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
     "excerpt": "夫舟浮于水，車轉于陸，此勢之自然也。木擊折轊，水戾破舟，不怨木石而罪巧拙者，知故",
-    "tagged_by": "minimax-m3",
-    "tagged_at": "2026-09-28T08:05:52+08:00"
+    "tagged_by": "sonnet-reverse+claude-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "huainanzi#01-p08",
@@ -2372,16 +2374,18 @@
       "chapter": "兵略訓",
       "para_index": 18
     },
-    "psych_domains": [],
+    "psych_domains": [
+      "VII"
+    ],
     "discourse_mode": [
       "proposition",
       "prescription"
     ],
     "confidence": null,
-    "note": "「今使兩人接刃，巧詘不異，而勇士必勝者，何也？其行之誠也」明誠之重要；「故水激則悍，矢激則遠」與「勢如決積水於千仞之堤」皆以勢為喻，論兵必因勢之命題，可中性替換",
+    "note": "「今使兩人接刃，巧詘不異，而勇士必勝者，何也？其行之誠也」本段自有一句說人會怎樣／該怎樣的承重句。（2026-10-04 反方讀者判邊界，Claude 回原文改判；原判空）",
     "excerpt": "今使兩人接刃，巧詘不異，而勇士必勝者，何也？其行之誠也。夫以巨斧擊桐薪，不待利時",
-    "tagged_by": "minimax-m3",
-    "tagged_at": "2026-09-28T08:05:52+08:00"
+    "tagged_by": "claude-override-2026-10-04",
+    "tagged_at": "2026-10-04T06:00:00+08:00"
   },
   {
     "para_id": "huainanzi#04-p19",

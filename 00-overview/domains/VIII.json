@@ -2,8 +2,8 @@
   "domain": "VIII",
   "name_zh": "工作·成就·召喚",
   "gist": "工作與金錢、成就與意義、天賦與使命",
-  "generated_at": "2026-10-03T14:28:23+00:00",
-  "para_count": 1638,
+  "generated_at": "2026-10-03T20:39:18+00:00",
+  "para_count": 1649,
   "book_count": 55,
   "surveyed_zero_hit": [
     "duduan",
@@ -10840,6 +10840,18 @@
     {
       "slug": "renwuzhi",
       "chapter": "材理",
+      "para_index": 33,
+      "para_id": "renwuzhi#07-p33",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "由此論之，談而定理者眇矣。必也：聰能聽序，思能造端，明能見機，辭能辯意，捷能攝失",
+      "note": "「不能兼有八美，適有一能，則所達者偏」人的才能有偏、不能兼備，是天賦與技藝的限度問題，本段自己就說了人會怎樣（所達者偏）。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "renwuzhi",
+      "chapter": "材理",
       "para_index": 34,
       "para_id": "renwuzhi#07-p34",
       "modes": [
@@ -12813,6 +12825,31 @@
     },
     {
       "slug": "shishuo-xinyu",
+      "chapter": "巧蓺",
+      "para_index": 13,
+      "para_id": "shishuo-xinyu#12-p13",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "顧長康畫人，或數年不點目精。人問其故？顧曰：「四體妍蚩，本無關於妙處；傳神寫照，",
+      "note": "「傳神寫照，正在阿堵中」顧長康說明技藝的精神在何處、什麼是次要，是學習與技藝的自己的一句立場，與「明鏡」例同類。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "巧蓺",
+      "para_index": 14,
+      "para_id": "shishuo-xinyu#12-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "顧長康道畫：「手揮五絃易，目送歸鴻難。」",
+      "note": "「手揮五絃易，目送歸鴻難」本段自有一句說人會怎樣／該怎樣的承重句。（2026-10-04 反方讀者判邊界，Claude 回原文改判；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "shishuo-xinyu",
       "chapter": "德行",
       "para_index": 4,
       "para_id": "shishuo-xinyu#15-p04",
@@ -13095,6 +13132,19 @@
       "co_domains": [
         "V"
       ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "文學",
+      "para_index": 65,
+      "para_id": "shishuo-xinyu#21-p65",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "桓南郡與殷荊州共談，毎相攻難。年餘後，但一兩番。桓自嘆才思轉退。殷云：「此乃是君",
+      "note": "「此乃是君轉解」本段自有一句承重句，把越辯越少說成越懂，回應學習中對自身進退的判斷。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
     },
     {
       "slug": "shishuo-xinyu",
@@ -13502,6 +13552,19 @@
       "co_domains": [
         "XI"
       ]
+    },
+    {
+      "slug": "shishuo-xinyu",
+      "chapter": "言語",
+      "para_index": 90,
+      "para_id": "shishuo-xinyu#30-p90",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孝武將講《孝經》，謝公兄弟與諸人私庭講習，〈《續晉陽秋》曰：「寧康三年九月九日，",
+      "note": "「何嘗見明鏡疲於屢照，淸流憚於惠風」車胤怕屢問勞煩老師、袁羊保證施教者不會疲倦，是求學者的顧慮與施教者的樂意，屬學習與技藝；本句自己就是承重。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
     },
     {
       "slug": "shishuo-xinyu",
@@ -18986,6 +19049,45 @@
     },
     {
       "slug": "yanshi-jiaxun",
+      "chapter": "勉学第八",
+      "para_index": 19,
+      "para_id": "yanshi-jiaxun#08-p19",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "谈说制文，援引古昔，必须眼学，勿信耳受。江南闾里闲，士大夫或不学问，羞为鄙朴，道",
+      "note": "「必须眼学，勿信耳受」本段自有承重句談學習方法，並點出羞為鄙朴而強事飾辭的心理，落在求學。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "勉学第八",
+      "para_index": 21,
+      "para_id": "yanshi-jiaxun#08-p21",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "夫学者贵能博闻也。郡国山川，官位姓族，衣服饮食，器皿制度，皆欲根寻，得其原本；至",
+      "note": "「夫学者贵能博闻也」本段自有一句說人會怎樣／該怎樣的承重句。（2026-10-04 反方讀者判邊界，Claude 回原文改判；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "勉学第八",
+      "para_index": 30,
+      "para_id": "yanshi-jiaxun#08-p30",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "校定书籍，亦何容易，自扬雄、刘向，方称此职耳。观天下书未遍，不得妄下雌黄。或彼以",
+      "note": "「观天下书未遍，不得妄下雌黄」本段自有一句說人會怎樣／該怎樣的承重句。（2026-10-04 反方讀者判邊界，Claude 回原文改判；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
       "chapter": "文章第九",
       "para_index": 2,
       "para_id": "yanshi-jiaxun#09-p02",
@@ -18998,6 +19100,19 @@
       "co_domains": [
         "II"
       ]
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "文章第九",
+      "para_index": 3,
+      "para_id": "yanshi-jiaxun#09-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "学为文章，先谋亲友，得其评裁，知可施行，然后出手；慎勿师心自任，取笑旁人也。自古",
+      "note": "「慎勿师心自任，取笑旁人也」學習寫作先請親友評裁、勿師心自任，且不必苛求動俗蓋世（亦有 II 完美主義的讀法，但那句另需承重），是學習與技藝的直接教誨。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
     },
     {
       "slug": "yanshi-jiaxun",
@@ -19024,6 +19139,31 @@
       ],
       "excerpt": "齐世有席毗者，清干之士，官至行台尚书，嗤鄙文学，嘲刘逖云：“君辈辞藻，譬若荣华，",
       "note": "敘席毗以常青松木自比宏才、貶文辭為短暫春華，劉逖則反問兩者兼備豈不更佳，承載對才能類型及兼長的判斷",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "文章第九",
+      "para_index": 7,
+      "para_id": "yanshi-jiaxun#09-p07",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "凡为文章，犹人乘骐骥，虽有逸气，当以衔勒制之，勿使流乱轨躅，放意填坑岸也。",
+      "note": "「虽有逸气，当以衔勒制之」以乘馬喻明說有才之人須自我節制，回應天賦與技藝，承重句獨立成立。（2026-10-04 反方讀者複讀改標，Claude 回原文裁定；原判空）",
+      "co_domains": []
+    },
+    {
+      "slug": "yanshi-jiaxun",
+      "chapter": "文章第九",
+      "para_index": 8,
+      "para_id": "yanshi-jiaxun#09-p08",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "文章当以理致为心肾，气调为筋骨，事义为皮肤，华丽为冠冕。今世相承，趋本弃末，率多",
+      "note": "「放逸者流宕而忘归，穿凿者补缀而不足」本段自有一句說人會怎樣／該怎樣的承重句。（2026-10-04 反方讀者判邊界，Claude 回原文改判；原判空）",
       "co_domains": []
     },
     {
