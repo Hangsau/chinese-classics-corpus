@@ -1,0 +1,427 @@
+{
+  "batch": "b06.md",
+  "rows": [
+    {
+      "chapter": "revolution-of-heaven",
+      "para_index": 1,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "前半問天運地處、日月雲雨之主宰為何，巫咸袑答「天有六極五常，帝王順之則治，逆之則凶。九洛之事，治成德備，監照下土，天下戴之，此謂上皇」，把自然之運歸結到帝王順治之理，落在治道(V)。"
+    },
+    {
+      "chapter": "revolution-of-heaven",
+      "para_index": 2,
+      "domains": [
+        "VII",
+        "IV"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "商太宰蕩與莊子問答辯「至仁無親」，推「以敬孝易，以愛孝難；以愛孝易，以忘親難；忘親易，使親忘我難」分親孝之層次(IV)，末段「孝悌仁義，忠信貞廉，此皆自勉以役其德者也，不足多也」批判仁義乃自勉役德，品格批判(VII)。"
+    },
+    {
+      "chapter": "revolution-of-heaven",
+      "para_index": 3,
+      "domains": [
+        "VI"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "北門成自述聞黃帝咸池之樂「吾始聞之懼，復聞之怠，卒聞之而惑，蕩蕩默默，乃不自得」，以樂引起的懼、怠、惑三種內在情緒狀態(VI)為全篇寓言之伏筆。"
+    },
+    {
+      "chapter": "revolution-of-heaven",
+      "para_index": 4,
+      "domains": [
+        "VIII",
+        "VI"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "黃帝述作樂之法「吾奏之以人，徵之以天，行之以禮義，建之以太清。夫至樂者，先應之以人事，順之以天理，行之以五德，應之以自然」論樂之結構與製作(VIII)，末句「女故懼也」點出北門成所以懼之故(VI)。"
+    },
+    {
+      "chapter": "revolution-of-heaven",
+      "para_index": 5,
+      "domains": [
+        "VI",
+        "VIII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "黃帝再述「吾又奏之以陰陽之和，燭之以日月之明；其聲能短能長，能柔能剛」論樂聲之變化(VIII)，末段「形充空虛，乃至委蛇。汝委蛇，故怠」點出北門成之怠乃形充空虛後之內在情態(VI)。"
+    },
+    {
+      "chapter": "revolution-of-heaven",
+      "para_index": 6,
+      "domains": [
+        "I",
+        "VI"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "黃帝第三奏「無怠之聲，調之以自然之命」「聖也者，達於情而遂於命也。天機不張而五官皆備，此之謂天樂，無言而心說」，立天樂為存在境界(I)，「無言而心說」論聖人不言而內心自悅(VI)；「汝欲聽之而無接焉，而故惑也」承前之惑。"
+    },
+    {
+      "chapter": "revolution-of-heaven",
+      "para_index": 7,
+      "domains": [
+        "VI",
+        "XIII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "總結樂之層次「樂也者，始於懼，懼故祟；吾又次之以怠，怠故遁；卒之於惑，惑故愚；愚故道，道可載而與之俱也」，由情緒(VI)之懼、怠、惑層層剝落至愚而合道，為聞樂者之安頓(XIII)。"
+    },
+    {
+      "chapter": "revolution-of-heaven",
+      "para_index": 8,
+      "domains": [
+        "VII",
+        "V"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "師金以芻狗為喻「今而夫子，亦取先王已陳芻狗，聚弟子游居寢臥其下」，批孔子守先王已陳之禮義(V)；又敘其困境「伐樹於宋，削跡於衛，窮於商、周」「圍於陳、蔡之間，七日不火食，死生相與鄰」，以政治困頓(V)承品格之失(VII)。"
+    },
+    {
+      "chapter": "revolution-of-heaven",
+      "para_index": 9,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「古今非水陸與？周、魯非舟車與？今蘄行周於魯，是猶推舟於陸也，勞而無功，身必有殃」，以水陸舟車之喻批執古禮於今之謬，制度必應時而變(V)；「彼未知夫無方之傳，應物而不窮者也」明應物無方之理。"
+    },
+    {
+      "chapter": "revolution-of-heaven",
+      "para_index": 10,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「且子獨不見夫桔槔者乎？引之則俯，舍之則仰。彼，人之所引，非引人也，故俯仰而不得罪於人」以桔槔喻制度隨用而動，「故夫三皇、五帝之禮義法度，不矜於同而矜於治」「其猶柤梨橘柚邪！其味相反，而皆可於口」論治不必同而各可(V)。"
+    },
+    {
+      "chapter": "revolution-of-heaven",
+      "para_index": 11,
+      "domains": [
+        "V",
+        "II"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "「故禮義法度者，應時而變者也。今取猨狙而衣以周公之服，彼必齕齧挽裂」立禮義應時而變(V)；西施病心而矉之里「其里之醜人見而美之，歸亦捧心而矉其里」「彼知矉美而不知矉之所以美」以不知美之所以美為不知之蔽(II)。"
+    },
+    {
+      "chapter": "revolution-of-heaven",
+      "para_index": 12,
+      "domains": [
+        "VIII",
+        "II"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "「孔子行年五十有一而不聞道」，歷述求道之過程「吾求之於度數，五年而未得也」「吾求之於陰陽，十有二年而未得」，以十七年求道未得為學之事(VIII)而啟認知限度之疑(II)。"
+    },
+    {
+      "chapter": "revolution-of-heaven",
+      "para_index": 13,
+      "domains": [
+        "VII",
+        "II"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "老聃明道之不可傳「使道而可獻，則人莫不獻之於其君」「然而不可者，無佗也，中無主而不止，外無正而不行」立認知主客之理(II)；「名，公器也，不可多取。仁義，先王之蘧廬也，止可以一宿而不可以久處」以仁義為暫棧之喻，品格批判(VII)；「古者謂是采真之遊」立至人之境。"
+    },
+    {
+      "chapter": "revolution-of-heaven",
+      "para_index": 14,
+      "domains": [
+        "V",
+        "VI"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「以富為是者，不能讓祿；以顯為是者，不能讓名；親權者，不能與人柄。操之則慄，舍之則悲」論執於富顯權柄者之困於權力(V)及其慄悲之情緒(VI)；「是天之戮民也」「怨、恩、取、與、諫、教、生、殺，八者，正之器也」明為政者之用器。"
+    },
+    {
+      "chapter": "revolution-of-heaven",
+      "para_index": 15,
+      "domains": [
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "老聃批仁義「夫仁義憯然，乃憤吾心，亂莫大焉」，以仁義為擾心亂性之物(VII)；「黑白之朴，不足以為辯；名譽之觀，不足以為廣」批名譽觀念；末以「泉涸，魚相與處於陸，相呴以溼，相濡以沫，不若相忘於江湖」反喻仁義強合之不若相忘。"
+    },
+    {
+      "chapter": "revolution-of-heaven",
+      "para_index": 16,
+      "domains": [
+        "I"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "孔子見老聃歸「三日不談」，自述「吾乃今於是乎見龍。龍合而成體，散而成章，乘乎雲氣而養乎陰陽」；子貢問「然則人固有尸居而龍見，雷聲而淵默，發動如天地者乎」，以龍之合散、尸居龍見、雷聲淵默描寫老聃為理想存在境界(I)，不因「龍」字給 XII。"
+    },
+    {
+      "chapter": "revolution-of-heaven",
+      "para_index": 17,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative"
+      ],
+      "reason": "子貢問「夫三王、五帝之治天下不同，其係聲名一也。而先生獨以為非聖人，如何哉」，引出「堯授舜，舜授禹，禹用力而湯用兵，文王順紂而不敢逆，武王逆紂而不肯順，故曰不同」分述三王五帝治法之異(V)，為下段批評張本。"
+    },
+    {
+      "chapter": "revolution-of-heaven",
+      "para_index": 18,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "老聃評三皇五帝之治天下「名曰治之，而亂莫甚焉」，「三皇之知，上悖日月之明，下睽山川之精，中墮四時之施」批其知悖於天地四時；「其知憯於蠣蠆之尾，鮮規之獸，莫得安其性命之情者，而猶自以為聖人，不可恥乎？其無恥也」批判治者之智與無恥(V)，「子貢蹴蹴然立不安」承其震動。"
+    },
+    {
+      "chapter": "revolution-of-heaven",
+      "para_index": 19,
+      "domains": [
+        "V",
+        "II"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "孔子自述「丘治《詩》、《書》、《禮》、《樂》、《易》、《春秋》六經，自以為久矣」「以奸者七十二君，論先王之道而明周、召之跡，一君無所鉤用」言治道難行於君(V)；「人之難說也，道之難明邪」嘆說人之難與道之難明，落於認知限度(II)。"
+    },
+    {
+      "chapter": "revolution-of-heaven",
+      "para_index": 20,
+      "domains": [
+        "II",
+        "XI"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "老子曰「夫六經，先王之陳跡也，豈其所以跡哉」「夫迹，履之所出，而迹豈履哉」以為名實之辨，迹非履之理(II)；「性不可易，命不可變，時不可止，道不可壅。苟得其道，無自而不可；失焉者，無自而可」立性命時道之不可變易(XI)。"
+    },
+    {
+      "chapter": "revolution-of-heaven",
+      "para_index": 21,
+      "domains": [
+        "VIII",
+        "I"
+      ],
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "reason": "孔子三月後再見「丘得之矣」，舉「烏鵲孺，魚傅沫，細要者化，有弟而兄啼」為天地自然之化，「久矣夫，丘不與化為人！不與化為人，安能化人」自省未與造化為人而欲化人之非(VIII，教)；老子曰「可。丘得之矣」承其契入造化之境(I，存在)。"
+    },
+    {
+      "chapter": "ingrained-ideas",
+      "para_index": 1,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「刻意尚行，離世異俗，高論怨誹，為亢而已矣，此山谷之士，非世之人，枯槁赴淵者之所好也」「語仁義忠信，恭儉推讓，為修而已矣，此平世之士，教誨之人，遊居學者之所好也」「語大功，立大名，禮君臣，正上下，為治而已矣，此朝廷之士，尊主強國之人」「就藪澤，處閒曠，釣魚閒處，無為而已矣，此江海之士」「吹呴呼吸，吐故納新，熊經鳥申，為壽而已矣，此道引之士，養形之人，彭祖壽考者之所好也」分品五類世人之群體歸屬(V)，品題式列舉(observation)。"
+    },
+    {
+      "chapter": "ingrained-ideas",
+      "para_index": 2,
+      "domains": [
+        "I",
+        "VII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「若夫不刻意而高，無仁義而修，無功名而治，無江海而閒，不道引而壽，無不忘也，無不有也，澹然無極而眾美從之，此天地之道，聖人之德也」承前五類而立不刻意無仁義之至境為存在境界(I)，「聖人之德」為品格之極(VII)。"
+    },
+    {
+      "chapter": "ingrained-ideas",
+      "para_index": 3,
+      "domains": [
+        "VI"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「夫恬惔寂寞，虛無無為，此天地之平而道德之質也」，以恬惔寂寞、虛無無為為心之內在平靜狀態(VI)。"
+    },
+    {
+      "chapter": "ingrained-ideas",
+      "para_index": 4,
+      "domains": [
+        "VI"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「聖人休，休焉則平易矣，平易則恬惔矣。平易恬惔，則憂患不能入，邪氣不能襲，故其德全而神不虧」，以平易恬惔之工夫使憂患不入、邪氣不襲，落於心的內在生活(VI)。"
+    },
+    {
+      "chapter": "ingrained-ideas",
+      "para_index": 5,
+      "domains": [
+        "I",
+        "VI"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「聖人之生也天行，其死也物化」立聖人與天同運之物化境界(I)；「其寢不夢，其覺無憂」「其神純粹，其魂不罷」「虛無恬惔，乃合天德」論其內在之虛靜純粹(VI)；「無天災，無物累，無人非，無鬼責」為破除側之命與人事(XI 不得 XII)。"
+    },
+    {
+      "chapter": "ingrained-ideas",
+      "para_index": 6,
+      "domains": [
+        "VI"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「悲樂者，德之邪；喜怒者，道之過；好惡者，德之失」「心不憂樂，德之至也；一而不變，靜之至也；無所於忤，虛之至也；不與物交，惔之至也；無所於逆，粹之至也」以心不憂樂、不與物交為情緒之淨化(VI)。"
+    },
+    {
+      "chapter": "ingrained-ideas",
+      "para_index": 7,
+      "domains": [
+        "IX",
+        "VI"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「形勞而不休則弊，精用而不已則勞，勞則竭」論形體過勞之弊(IX)；「水之性，不雜則清，莫動則平，鬱閉而不流，亦不能清，天德之象也」以水性為喻，論心不雜不動方能清平(VI)。"
+    },
+    {
+      "chapter": "ingrained-ideas",
+      "para_index": 8,
+      "domains": [
+        "VI"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「純粹而不雜，靜一而不變，惔而無為，動而以天行，此養神之道也」，以純粹靜一、惔而無為、動以天行為養神工夫，落於內在精神生活(VI)。"
+    },
+    {
+      "chapter": "ingrained-ideas",
+      "para_index": 9,
+      "domains": [
+        "I",
+        "VI"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「精神四達並流，無所不極，上際於天，下蟠於地，化育萬物，不可為象，其名為同帝」立精神之達化育萬物為存在境界(I)，不因「同帝」給 XII；「純素之道，惟神是守，守而勿失，與神為一，一之精通，合於天倫」以守神為內在工夫(VI)；「能體純素，謂之真人」立真人品格。"
+    },
+    {
+      "chapter": "correcting-the-nature",
+      "para_index": 1,
+      "domains": [
+        "II"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「繕性於俗，俗學以求復其初，滑欲於俗，思以求致其明，謂之蔽蒙之民」批世俗之學與欲不能復初致明，反成蔽蒙，落於自我蒙蔽之認知(II)。"
+    },
+    {
+      "chapter": "correcting-the-nature",
+      "para_index": 2,
+      "domains": [
+        "VII",
+        "VI"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「古之治道者，以恬養知；知生而無以知為也，謂之以知養恬。知與恬交相養，而和理出其性」以恬養知、以知養恬為內在工夫(VI)；「夫德，和也；道，理也。德無不容，仁也；道無不理，義也；義明而物親，忠也；中純實而反乎情，樂也；信行容體而順乎文，禮也」分下德仁義忠樂禮之定義(VII)；「禮樂遍行，則天下亂矣」明禮樂之弊。"
+    },
+    {
+      "chapter": "correcting-the-nature",
+      "para_index": 3,
+      "domains": [
+        "I"
+      ],
+      "modes": [
+        "observation"
+      ],
+      "reason": "「古之人在混芒之中，與一世而得澹漠焉」「陰陽和靜，鬼神不擾，四時得節，萬物不傷，群生不夭，人雖有知，無所用之，此之謂至一」「莫之為而常自然」，描述古代至一之世的自然無為境界，屬觀察記行(observation)，記其存在境界(I)。"
+    },
+    {
+      "chapter": "correcting-the-nature",
+      "para_index": 4,
+      "domains": [
+        "V"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「逮德下衰，及燧人、伏羲始為天下」「德又下衰，及神農、黃帝始為天下」「德又下衰，及唐、虞始為天下，興治化之流，澆淳散朴，離道以善，險德以行」「文滅質，博溺心，然後民始惑亂，無以反其性情而復其初」，歷敘治化之衰而民心惑亂，落於治道批判(V)。"
+    },
+    {
+      "chapter": "correcting-the-nature",
+      "para_index": 5,
+      "domains": [
+        "XI",
+        "XIII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「世喪道矣，道喪世矣。世與道交相喪也」立世道之理；「當時命而大行乎天下，則反一無跡；不當時命而大窮乎天下，則深根寧極而待」以命與時之行藏為命運(XI)；「危然處其所而反其性」為安頓(XIII)；「小識傷德，小行傷道。故曰：正己而已矣」收於自處。"
+    },
+    {
+      "chapter": "correcting-the-nature",
+      "para_index": 6,
+      "domains": [
+        "I",
+        "XIII"
+      ],
+      "modes": [
+        "proposition"
+      ],
+      "reason": "「古之所謂得志者，非軒冕之謂也，謂其無以益其樂而已矣。今之所謂得志者，軒冕之謂也」分古今得志之義；以無益其樂為真得志之存在境界(I)；「不為軒冕肆志，不為窮約趨俗，其樂彼與此同，故無憂而已矣」立無憂之安頓(XIII)；「喪己於物，失性於俗者，謂之倒置之民」批以物喪己之失性。"
+    }
+  ]
+}
