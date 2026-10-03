@@ -9,14 +9,14 @@
   "version_date": "西周—春秋",
   "source_platform": "zh.wikisource.org",
   "source_url": "https://zh.wikisource.org/wiki/詩經",
-  "downloaded_at": "2026-06-29T23:17:15+00:00",
-  "size_bytes": 202462,
-  "checksum_sha256": "26c76abd47cc0654a1528f36f8010a5c84f29187c3fb67bde929c166fd3b6c3e",
-  "chapter_count": 301,
-  "expected_chapter_count": null,
+  "downloaded_at": "2026-10-03T21:04:11+00:00",
+  "size_bytes": 177747,
+  "checksum_sha256": "ad5c0594f353a3e9c0a098910aa9360bf258a49f469a3284cf8ce5526086a7b1",
+  "chapter_count": 311,
+  "expected_chapter_count": 311,
   "license": "CC BY-SA 4.0",
   "verified": true,
   "tier": "核心",
-  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：儒教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。",
-  "psych_survey": null
+  "psych_survey": null,
+  "notes": "2026-10-04 自 Wikisource 重抓（取代 2026-10-02 自 religions-history 複製的 301 首碼位序版）。311 篇＝305 首＋笙詩 6 篇（有目無辭，只存毛詩序），依毛詩篇次；章名＝詩經主頁的部‧組‧篇（國風‧邶風‧柏舟、商頌‧那）。子頁格式不一，三家詩說與現代註解小節已剔除，只留毛詩序與詩文；詩文中 112 處「一作「X」」異文校記包成〈〉夾注（組裝：scripts/compose-shijing.py）。〈有女同車〉〈載驅〉維基文庫本無毛詩序，照實不補。"
 }

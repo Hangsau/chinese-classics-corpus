@@ -1,7 +1,7 @@
 # 標籤索引：13 個人生問題領域
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 生成時間 2026-10-03T20:39:18+00:00｜17088 筆領域標記｜來自 61 部已標註的書
+> 生成時間 2026-10-03T21:04:16+00:00｜17088 筆領域標記｜來自 61 部已標註的書
 
 書級 `domains_hit` 只能告訴你去哪本書找；這裡直接給段落（SCHEMA §1.1）。
 
@@ -66,7 +66,7 @@
 - `zhoubi-suanjing` 周髀算經（算書，6 章，22,323 bytes）
 - `bohutong` 白虎通義（經部，10 章，173,964 bytes）
 - `book-of-changes` 周易（經部，73 章，186,766 bytes）
-- `book-of-poetry` 詩經（經部，301 章，202,462 bytes）
+- `book-of-poetry` 詩經（經部，311 章，177,747 bytes）
 - `chun-qiu-zuo-zhuan` 春秋左傳（經部，13 章，740,588 bytes）
 - `chunqiu-fanlu` 春秋繁露（經部，17 章，214,158 bytes）
 - `da-dai-liji` 大戴禮記（經部，40 章，183,590 bytes）
