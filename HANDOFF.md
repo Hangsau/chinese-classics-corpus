@@ -4,6 +4,12 @@
 > 最後更新：2026-10-04
 
 
+## 2026-10-04（晚）：韓詩外傳發包進行中
+
+- SPEC 由 codex 通讀起草（42 錨點：必含 23／判空 10／不得含 XII 9），Claude 獨立核對 49 段錨點引句 0 不符、裁定 5 灰區（寫在 SPEC 末「規劃者裁定」）
+- codex 標註 b01–b04 完成（129 段，判空 9；錨點 22／22 過；check-reason-quotes 294 段引句 0 誤）；**b05 起撞 codex 5H 額度（重置 10/05 01:05）**
+- **續跑**：查 codex 額度後 `bash scripts/run-delegation.sh hanshi-waizhuan b05 b06 b07 b08 b09 b10` → `check-delegation-out.py --slug hanshi-waizhuan`、`check-reason-quotes.py --slug hanshi-waizhuan` → 回填（make-scaffold → apply-delegation `--tagged-by codex-gpt-5.6-sol` → psych_survey → build-index → verify）
+
 ## 2026-10-04：維持判空段反方複讀回填、詩經重抓
 
 - **維持判空段反方複讀**：上次重判後仍判空的 649 段全數過 Sonnet 反方讀者（五問：照做的人會怎樣／說者想讓誰產生什麼心理／聽者效果／心理學各派／是否人生問題換外表），Claude 回原文裁定並親自複核 120 段邊界 → **12 部 44 段改標**（V 21、VIII 11、XI 6、VI 3、VII 2、IX 1），`tagged_by` 為 `sonnet-reverse+claude-2026-10-04` 或 `claude-override-2026-10-04`，各書 `psych_survey.reverse_2026_10_04` 記說明（commit 6c694b9）。方法紀錄在 classics-reflections `pilots/rejudge/reverse/REVIEW.md`
