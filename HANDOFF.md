@@ -4,11 +4,11 @@
 > 最後更新：2026-10-04
 
 
-## 2026-10-04（晚）：韓詩外傳發包進行中
+## 2026-10-04／05：韓詩外傳標註完成
 
 - SPEC 由 codex 通讀起草（42 錨點：必含 23／判空 10／不得含 XII 9），Claude 獨立核對 49 段錨點引句 0 不符、裁定 5 灰區（寫在 SPEC 末「規劃者裁定」）
-- codex 標註 b01–b04 完成（129 段，判空 9；錨點 22／22 過；check-reason-quotes 294 段引句 0 誤）；**b05 起撞 codex 5H 額度（重置 10/05 01:05）**
-- **續跑**：查 codex 額度後 `bash scripts/run-delegation.sh hanshi-waizhuan b05 b06 b07 b08 b09 b10` → `check-delegation-out.py --slug hanshi-waizhuan`、`check-reason-quotes.py --slug hanshi-waizhuan` → 回填（make-scaffold → apply-delegation `--tagged-by codex-gpt-5.6-sol` → psych_survey → build-index → verify）
+- codex 標註 10 批完成（b05 起曾撞 5H 額度，10/05 01:3x 續跑）；錨點 42／42、671 段引句 0 誤；**已回填**：306 段判出 280（92%）、13／13 全覆蓋，V 170、VII 119、XII 24（全為正文認證感應）；verify 0 errors
+- 下一部建議：說苑（715 段，比照新序 SPEC 由 codex 通讀起草，同一流程）
 
 ## 2026-10-04：維持判空段反方複讀回填、詩經重抓
 
