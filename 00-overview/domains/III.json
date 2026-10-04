@@ -2,9 +2,9 @@
   "domain": "III",
   "name_zh": "愛與親密",
   "gist": "愛與性、被拒絕、承諾、信任與脆弱、溝通與被理解",
-  "generated_at": "2026-10-03T21:04:16+00:00",
-  "para_count": 174,
-  "book_count": 30,
+  "generated_at": "2026-10-04T18:13:58+00:00",
+  "para_count": 177,
+  "book_count": 31,
   "surveyed_zero_hit": [
     "duduan",
     "fangyan",
@@ -393,6 +393,46 @@
         "V",
         "VI"
       ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 3,
+      "para_id": "hanshi-waizhuan#01-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子南遊適楚，至於阿谷之隧，有處子佩瑱而浣者。孔子曰：「彼婦人其可與言矣乎？」抽",
+      "note": "「吾年甚少，何敢受子？子不早去，今竊有狂夫守之者矣。」在反覆試探與贈物中拒絕對方的求近，呈現男女交往的界線（III）；「禮固不親授。」及實際不受贈的行動承載守禮自持（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 20,
+      "para_id": "hanshi-waizhuan#01-p20",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《傳》曰：天地有合，則生氣有精矣。陰陽消息，則變化有時矣。時得則治，時失則亂。故",
+      "note": "「精氣闐溢而後傷時〔之〕不可過也。不見道端，乃陳情欲，以歌道義。」以成熟與適時表達情欲談男女求偶（III）；「精化始具，而生氣感動，觸情縱欲，反施化，是以年壽亟夭而性不長也。」把過早縱欲與人的身體發育、受損相連（IX），不只是年齡名目；陰陽用來解釋生理，沒有神聖意圖。",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第9",
+      "para_index": 26,
+      "para_id": "hanshi-waizhuan#09-p26",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "晏子之妻布衣紵表。田無宇譏之曰：「出於室何為者也？」晏子曰：「臣家也。」田無宇曰",
+      "note": "「棄老取少謂之瞽，貴而忘賤謂之亂，見色而說謂之逆。」拒絕因妻年老、自己富貴或貪戀美色而換偶，承重在夫妻承諾與持守；老字在此服務於忠於伴侶的判斷。",
+      "co_domains": []
     },
     {
       "slug": "jingshi-yizhuan",

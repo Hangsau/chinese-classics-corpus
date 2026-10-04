@@ -2,9 +2,9 @@
   "domain": "XIII",
   "name_zh": "安頓·修復·平安",
   "gist": "靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈",
-  "generated_at": "2026-10-03T21:04:16+00:00",
-  "para_count": 284,
-  "book_count": 33,
+  "generated_at": "2026-10-04T18:13:58+00:00",
+  "para_count": 289,
+  "book_count": 34,
   "surveyed_zero_hit": [
     "duduan",
     "fangyan",
@@ -751,6 +751,78 @@
       "excerpt": "鳥有翢翢者，重首而屈尾，將欲飲於河，則必顛，乃銜其羽而飲之。人之所有飲不足者，不",
       "note": "重首屈尾之鳥銜羽方能飲水，並推說人有所不足便須尋求可補其缺的「羽」",
       "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 29,
+      "para_id": "hanshi-waizhuan#02-p29",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子夏讀《詩》已畢。夫子問曰：「爾亦何大於《詩》矣。」子夏對曰：「《詩》之於事也，",
+      "note": "「雖居蓬戶之中，彈琴以詠先王之風，有人亦樂之，無人亦樂之，亦可發憤忘食矣。」直接說以誦詩在貧居及無人相伴時自處。孔子以「子以見其表，未見其裏。」肯定入門而限制其理解深度；安頓之說出自答語本身，不靠所引詩句成立。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 34,
+      "para_id": "hanshi-waizhuan#03-p34",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "伯夷叔齊目不視惡色，耳不聽惡聲。非其君不事，非其民不使。橫政之所出，橫民之所止，",
+      "note": "「故聞柳下惠之風，鄙夫寬，薄夫厚。」說明人格典範能使人轉向寬厚（VII）；「阨窮而不憫，遺佚而不怨。」具體呈現困窮、被棄置不用時如何自處（XIII），因此不只是清、和、中三個稱號的品題。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第6",
+      "para_index": 21,
+      "para_id": "hanshi-waizhuan#06-p21",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子行，簡子將殺陽虎，孔子似之，帶甲以圍孔子舍。子路慍怒，奮戟將下。孔子止之曰：",
+      "note": "「若我非陽虎而以我為陽虎，則非丘之罪也。命也夫！」辨明己責與無法控制的誤認，承認遭逢的命限；「子路歌，孔子和之，三斚而圍罷。」以歌和安處圍困，呈現困境中的自處與平復。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第7",
+      "para_index": 6,
+      "para_id": "hanshi-waizhuan#07-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孔子困於孫蔡之間，即三經之席，七日不食藜羹不糝，弟子有飢色，讀《詩》《書》習禮樂",
+      "note": "「賢不肖者材也。遇者時也。今無有時，賢安所用哉？」區分德才與時遇，駁回善必得天福的說法（XI，不給 XII）；「為窮而不困，憂而志不衰，先知禍福之終始，而心無惑焉」另說困厄中如何保持志向、自處不惑（XIII）。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第10",
+      "para_index": 19,
+      "para_id": "hanshi-waizhuan#10-p19",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "顏淵問於孔子曰：「淵願貧如富，賤如貴，無勇而威，與士交通，終身無患難，亦且可乎？",
+      "note": "「夫貧而如富，其知足而無欲也。」說貧困中可由知足安頓自己；「賤而如貴，其讓而有禮也。」「其恭敬而不失於人也。」另以禮讓、恭敬與擇言規範待人修養。",
+      "co_domains": [
+        "VII"
+      ]
     },
     {
       "slug": "huainanzi",

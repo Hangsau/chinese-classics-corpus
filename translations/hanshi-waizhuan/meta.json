@@ -18,5 +18,51 @@
   "verified": true,
   "tier": "次要",
   "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：儒教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。 來源 notes：韓嬰以history/寓言申說詩經義理，今文詩學要籍",
-  "psych_survey": null
+  "psych_survey": {
+    "surveyed_at": "2026-10-05",
+    "method": "2026-10-04／05 codex（gpt-5.6-sol）10 批逐段判讀，SPEC 由 codex 通讀起草（42 錨點）、Claude 獨立核對錨點引句並裁定 5 灰區（delegation/hanshi-waizhuan/SPEC.md）。錨點 42/42 過、671 段引句 0 誤。",
+    "domains_hit": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V",
+      "VI",
+      "VII",
+      "VIII",
+      "IX",
+      "X",
+      "XI",
+      "XII",
+      "XIII"
+    ],
+    "domains_null": [],
+    "domain_para_counts": {
+      "V": 170,
+      "VII": 119,
+      "IV": 35,
+      "VIII": 28,
+      "XII": 24,
+      "VI": 21,
+      "XI": 15,
+      "II": 12,
+      "I": 10,
+      "IX": 9,
+      "X": 8,
+      "XIII": 5,
+      "III": 3
+    },
+    "discourse_mode_counts": {
+      "narrative": 160,
+      "proposition": 147,
+      "prescription": 67,
+      "observation": 16,
+      "formalization": 10,
+      "ritual": 5,
+      "expression": 1
+    },
+    "paras_total": 306,
+    "paras_no_domain": 26,
+    "verdict": "306 段判出 280 段（92%），13/13 全覆蓋。V 170、VII 119 為主：雜事短章幾乎每則都以評語或引詩點出對人的判斷，高命中是體裁不是判準鬆。XII 24 段全為正文自己認證感應（政德應天、誠能感神），否定占候者落 XI。判空 26 段為制度史料、純品題、聘禮儀節與說辭推算。"
+  }
 }

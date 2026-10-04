@@ -2,9 +2,9 @@
   "domain": "VIII",
   "name_zh": "工作·成就·召喚",
   "gist": "工作與金錢、成就與意義、天賦與使命",
-  "generated_at": "2026-10-03T21:04:16+00:00",
-  "para_count": 1649,
-  "book_count": 55,
+  "generated_at": "2026-10-04T18:13:58+00:00",
+  "para_count": 1677,
+  "book_count": 56,
   "surveyed_zero_hit": [
     "duduan",
     "gu-sanfen",
@@ -4483,6 +4483,397 @@
       "co_domains": [
         "II",
         "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 1,
+      "para_id": "hanshi-waizhuan#01-p01",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "曾子仕於莒，得粟三秉。方是之時，曾子重其祿而輕其身。親沒之後，齊迎以相，楚迎以令",
+      "note": "「家貧親老者，不擇官而仕。」以養親責任決定當務之急（IV）；「曾子重其祿而輕其身」「曾子重其身而輕其祿」對照親在與親沒後的仕進、俸祿取捨（VIII）。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 19,
+      "para_id": "hanshi-waizhuan#02-p19",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "商容嘗執羽籥，馮於馬徒，欲以伐紂而不能。遂去，伏於太行。及武王克殷，立為天子，欲",
+      "note": "「商容可謂內省而不誣能矣。」肯定如實反省而不誇大自身能力的自我評價（II）；「愚且無勇，不足以備乎三公。」將自評的能力不足落實為辭謝職任的依據（VIII），官名不是唯一命中理由。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 23,
+      "para_id": "hanshi-waizhuan#02-p23",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "伊尹去夏入殷。田饒去魯適燕。介子推去晉入山。田饒事魯哀公而不見察，田饒謂哀公曰：",
+      "note": "「無此五者，君猶貴之，以其所從來者遠矣。」批評捨近貴遠、不按德能待人的偏見（V）；「有臣不用，何書其言〔為〕？」及「燕立以為相，三年，燕政大平，國無盜賊。」表現才能被壓置、轉仕後得以施展（VIII）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 24,
+      "para_id": "hanshi-waizhuan#02-p24",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子賤治單父，彈鳴琴，身不下堂，而單父治。巫馬期以星出，以星入，日夜不處，以身親之",
+      "note": "「日夜不處，以身親之」寫親力治事的持續勞動；「任人者佚，任力者勞。」比較同樣治成而工作安排、個人負擔不同。文本評價任人與任力兩種工作方式，勞佚本身承重，不由四肢耳目字面加身體領域。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 32,
+      "para_id": "hanshi-waizhuan#02-p32",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "玉不琢，不成器。人不學，不成行。家有千金之玉，不知治，猶之貧也。良工宰之，則富及",
+      "note": "「人不學，不成行。」以學習為形成德行的必要條件（VII）；「君子謀之，則為國用。」將如玉受治的養成比喻落在能供國用、發揮才能上（VIII）。子孫與財富出現在比喻中，未另展開家庭傳承命題。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 15,
+      "para_id": "hanshi-waizhuan#03-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "劍雖利，不厲不斷。材雖美，不學不高。雖有旨酒嘉殽，不嘗不知其旨。雖有善道，不學不",
+      "note": "「材雖美，不學不高。」與「則教學相長也。」說明天資須由學習發展，教與學又能相互促進能力（VIII）；「弟子被光景而德彰。」把師生互益落到德性的養成（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第4",
+      "para_index": 15,
+      "para_id": "hanshi-waizhuan#04-p15",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "人主欲得善射及遠中微，則懸貴爵重賞以招致之。內不阿子弟，外不隱遠人，能中是者取之",
+      "note": "「然而求卿相輔佐獨不如是之公，惟便辟〔親〕比己之是用，豈不謂過乎？」批評任官徇私；「彼不能而主使之，是闇主也。臣不能而為之，是詐臣也。」又要求能力與職事相配，兼論公平選任及才能的適當任用。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第4",
+      "para_index": 28,
+      "para_id": "hanshi-waizhuan#04-p28",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "道雖近，不行不至。事雖小，不為不成。每自多〔暇日〕者，出人不遠矣。夫巧弓在此手也",
+      "note": "「道雖近，不行不至。事雖小，不為不成。」強調實際投入才能成事；藉製弓成果之別指出「人同材鈞而貴賤相萬者，盡心致志也。」將才能與成就的差距歸於專注實作，並非算題或單純器物記錄。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第5",
+      "para_index": 4,
+      "para_id": "hanshi-waizhuan#05-p04",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "君者，民之源也。源清則流清，源濁則流濁。故有社稷者，不能愛其民，而求民親己愛己，",
+      "note": "「不能愛其民，而求民親己愛己，不可得也。」以君主對人民的態度說明統治中的相互責任；「知國之安危臧否，若別白黑，則是其人也。」具體界定賢者的治國才能，後文再分巨用、小用所能成就的事業。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第5",
+      "para_index": 5,
+      "para_id": "hanshi-waizhuan#05-p05",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "造父，天下之善御者矣，無車馬則無所見其能。羿，天下之善射者矣，無弓矢則無所見其巧",
+      "note": "「彼大儒者，調一天下者也，無百里之地則無所見其功。」說明才能須有施展條件，並逐層比較儒者應變與成事的能力；「知之為知之，不知為不知，內不自誣，外不誣人」另立不自欺、不欺人的品格標準。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第5",
+      "para_index": 6,
+      "para_id": "hanshi-waizhuan#05-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "楚成王讀書於殿上，而倫扁在下，作而問曰：「不審主君所讀何書也？」成王曰：「先聖之",
+      "note": "「若夫合三木而為一，應乎心，動乎體，其不可得而傳者也。」倫扁以製輪的實作能力指出規矩與書面傳授的限度；子孫是傳藝對象，身體是技藝實現所在，均不另構成家庭或疾病領域。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第5",
+      "para_index": 7,
+      "para_id": "hanshi-waizhuan#05-p07",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子學鼓琴於師襄子而不進，師襄子曰：「夫子可以進矣。」孔子曰：「丘已得其曲矣，未",
+      "note": "「丘已得其曲矣，未得其數也。」與「丘已得其數矣，未得其意也。」寫孔子不滿足於表層熟練而持續深學；「故孔子持文王之聲，知文王之為人。」呈現其學琴與理解音樂的能力所達到的成就。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第5",
+      "para_index": 14,
+      "para_id": "hanshi-waizhuan#05-p14",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "儒者，儒也。儒之為言無也，不易之術也。千舉萬變，其道不窮，六經是也。若夫君臣之義",
+      "note": "「此儒者之所謹守，日切磋而不舍也。」把前列人倫要求落在持續磨鍊品行；「明察足以持天下，大舉在人上，則王公之材也，小用使在位，則社稷之臣也」具體論其才具與任用，不只是讚美名望或列舉親屬稱謂。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第5",
+      "para_index": 28,
+      "para_id": "hanshi-waizhuan#05-p28",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "哀公問於子夏曰：「必學然後可以安國保民乎？」子夏曰：「不學而能安國保民者，未之有",
+      "note": "「不學而能安國保民者，未之有也。」將學習與治國能力相連；「未遭此師，則功業不能著乎天下，名號不能傳乎後世者也。」說明師承對能力發展與成就的必要，師名列表因此承載學習命題，不只是譜系資料。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第5",
+      "para_index": 31,
+      "para_id": "hanshi-waizhuan#05-p31",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "道者何也？曰：君之所道也。君者何也？曰：群也，為天下萬物而除其害者，謂之君。王者",
+      "note": "「為天下萬物而除其害者，謂之君。」直接以除害界定君主責任，超出施政條目；「量能而授官」與「莫不稱其能，得其意，安樂其事，是所同也。」則主張職事應合乎能力，使人能得意於所做之事，另有才能配置與工作安適的內容。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第6",
+      "para_index": 14,
+      "para_id": "hanshi-waizhuan#06-p14",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孟子說齊宣王而不說。淳于髠侍。孟子曰：「今說公之君，公之君不說，意者其未知善之為",
+      "note": "「不用賢，削何有也？」把賢者是否獲用與國勢成敗分開，指出才能須被任用才有施展條件；「夫蓻冬至必彫，吾亦時矣。」以時世限制解釋自身不遇。答辯在辨明賢能與遭逢的關係，超出說辭如何奏效。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第6",
+      "para_index": 15,
+      "para_id": "hanshi-waizhuan#06-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孔子曰：「可與言終日而不倦者，其惟學乎。其身體不足觀也，勇力不足憚也，族姓不足稱",
+      "note": "「可以聞於四方，而昭於諸侯者，其惟學乎。」主張學習能使人取得成就與認可；「其身體不足觀也，勇力不足憚也，族姓不足稱也，宗宜不足道也」列出外貌、勇力與出身不足恃的條件，凸顯後天學習的作用，身體詞語不是身體困境。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第7",
+      "para_index": 25,
+      "para_id": "hanshi-waizhuan#07-p25",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子遊於景山之上，子路、子貢、顏淵從。孔子曰：「君子登高必賦。小子願者，何言其願",
+      "note": "「主以道制，臣以德化，君臣同心，外內相應。」提出以德化成共同生活、止息戰爭的政治方向（V）；「回與執政，則由賜焉施其能哉！」比較勇士、辯士與治國者的才幹、成就及施展條件（VIII），不是只有人物讚語。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第8",
+      "para_index": 24,
+      "para_id": "hanshi-waizhuan#08-p24",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魯哀公問冉有曰：「凡人之質而已，將必學而後為君子乎？」冉有對曰：「臣聞之，雖有良",
+      "note": "「雖有美質，不學則不成君子。」將君子養成繫於學習，是品格形成的主張；又以使秦止兵等功業為例，總結「然其名聲馳於後世，豈非學問之所致乎？」另說學問使卑賤者發揮才能、取得成就，不是只有任官名目。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第9",
+      "para_index": 5,
+      "para_id": "hanshi-waizhuan#09-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "伯牙鼓琴，鍾子期聽之。方鼓琴，志在太山。鍾子期曰：「善哉鼓琴，巍巍乎如太山！」莫",
+      "note": "「以為為世無足與鼓琴也。」寫失去知音後再無可相通之人的關係處境（V）；「非獨鼓琴如此，賢者亦有之。」把琴藝故事推向賢者才能的發揮（VIII）。「茍非其時，則賢者將奚由得遂其功哉？」另以時遇限制成就（XI）；拿掉第三格，就少了才能之外仍受時機制約的命題。",
+      "co_domains": [
+        "V",
+        "XI"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第9",
+      "para_index": 15,
+      "para_id": "hanshi-waizhuan#09-p15",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子與子路子貢顏淵游於戎山之上，孔子喟然嘆曰：「二三子者各言爾志，予將賢焉。由爾",
+      "note": "「各言爾志」引出勇士、辯士與為相之志，尤其「願得明王聖主為之相」承載職分與才能的志向（VIII）；「家給人足，鑄庫兵以為農器」使最高評價落在百姓生計與止戰的公共目標（V）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第9",
+      "para_index": 22,
+      "para_id": "hanshi-waizhuan#09-p22",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "戴晉生弊衣冠而往見梁王。梁王曰：「前日寡人以上大夫之祿要先生，先生不留，今過寡人",
+      "note": "「今臣不遠千里而從君遊者，豈食不足？竊慕君之道耳。」明辨追求道與追求食祿的人生取向（I）；「寡人以上大夫之祿要先生，先生不留」及「彼不得其志故也。」把去留放在能否實現志向的仕進處境中（VIII），雉的飽餓是此主張的比喻。",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第9",
+      "para_index": 23,
+      "para_id": "hanshi-waizhuan#09-p23",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "楚莊王使使賫金百斤聘北郭先生。先生曰：「臣有箕箒之使，願入計之。」即謂婦人曰：「",
+      "note": "「以容膝之安，一肉之味，而殉楚國之憂，其可乎？」衡量有限享用是否值得交換一生的操憂，主張簡樸生活的取向（I）；「楚欲以我為相」與「於是遂不應聘」使此衡量具體落在織屨與出仕的職業選擇（VIII）。",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第9",
+      "para_index": 27,
+      "para_id": "hanshi-waizhuan#09-p27",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫鳳凰之初起也，翾翾十步，藩籬之雀，喔吚而笑之。一詘一信，展羽雲間，藩籬之雀超然",
+      "note": "「士褐衣緼著未嘗完也，糲荅之食未嘗飽也，世俗之士即以為羞耳。」揭示以貧困外貌評定士人身分與價值的偏差（II）；「及其出則安百議，用則延民命」轉以實際施展的才能作評價依據（VIII），鳳雀只承載這一比較。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第10",
+      "para_index": 2,
+      "para_id": "hanshi-waizhuan#10-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "鮑叔薦管仲曰：「臣所不如管夷吾者五。寬惠柔愛，臣弗如也。忠信可結於百姓，臣弗如也",
+      "note": "「忠信可結於百姓，臣弗如也，制禮約法於四方，臣弗如也。」評量治民所需的信任與規範；「決獄折中，臣弗如也。執枹鼓立於軍門，使士卒勇，臣弗如也。」逐項比較司法、統兵能力而薦任管仲，公共職責與才能任用均承重。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第10",
+      "para_index": 6,
+      "para_id": "hanshi-waizhuan#10-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊宣王與魏惠王會田於郊。魏王曰：「亦有寶乎？」齊王曰：「無有。」魏王曰：「若寡人",
+      "note": "「寡人之小所以為寶與王異。」「吾臣有種首者，使之備盜賊，而道不拾遺。」以臣下實際任事能力及成果說明何者為國之寶；四臣各有所長、各盡其用，人才的任用與發揮是評價重點。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第10",
+      "para_index": 8,
+      "para_id": "hanshi-waizhuan#10-p08",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "傳曰：齊使使獻鴻於楚，鴻渇，使者道飲，鴻攫筥潰失。使者遂之楚，曰：「齊使臣獻鴻，",
+      "note": "「臣欲亡去，為兩君之使不通。」以通達兩國使命約束個人逃避；「故使者必矜文辭，喻誠信，明氣志，解結申屈，然後可使也。」明定使臣任職所需的表達與處事能力，兼有公共責任及職業才能。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第10",
+      "para_index": 10,
+      "para_id": "hanshi-waizhuan#10-p10",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "楚丘先生披蓑帶索，往見孟嘗君。孟嘗君曰：「先生老矣，春秋高矣，多遺忘矣，何以教文",
+      "note": "「先生老矣，春秋高矣，多遺忘矣，何以教文？」是被答語駁回的以老論無用；「將使我深計遠謀乎？役精神而決嫌疑乎？出正辭而當諸侯乎？」指出年老仍能發揮謀議才能，衰老評價與才能任用同為主題。",
+      "co_domains": [
+        "X"
       ]
     },
     {

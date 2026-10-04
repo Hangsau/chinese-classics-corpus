@@ -2,9 +2,9 @@
   "domain": "I",
   "name_zh": "存在與意義",
   "gist": "我為何在此、活著有沒有意義、與想不通的問題共處、在歷史洪流中的渺小",
-  "generated_at": "2026-10-03T21:04:16+00:00",
-  "para_count": 272,
-  "book_count": 26,
+  "generated_at": "2026-10-04T18:13:58+00:00",
+  "para_count": 282,
+  "book_count": 27,
   "surveyed_zero_hit": [
     "cai-zhonglang-ji",
     "dengxizi",
@@ -237,6 +237,143 @@
       "note": "指出人人以富貴全壽為所欲至，卻因失路妄行而長久不能抵達，直論人生所求與改變困境的失敗",
       "co_domains": [
         "XI"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 8,
+      "para_id": "hanshi-waizhuan#01-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "王子比干殺身以成其忠，柳下惠殺身以成其信，伯夷叔齊殺身以成其廉。此三子者，皆天下",
+      "note": "「豈不愛其身哉？為夫義之不立，名之不顯，則士恥之，故殺身以遂其行。」明說生命與立義之間如何取捨（I）；「故阨窮而不憫，勞辱而不苟」把困厄中不苟且列為品格標準（VII）。死亡用來承載守義的選擇，未另討論喪失或死亡本身。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 13,
+      "para_id": "hanshi-waizhuan#01-p13",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《傳》曰：喜名者必多怨，好與者必多辱。唯滅跡於人能隨天地自然〔者〕，為能勝理而無",
+      "note": "「名興則道不用，道行則人無位矣。」「唯不求利者為無害，〔唯〕不求福者為無禍。」藉名利與道的衝突，主張不求名利福祿的人生取向；天地自然在此不承載神明施福的認證。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 15,
+      "para_id": "hanshi-waizhuan#01-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《傳》曰：安命養性者不待積委而富，名號傳乎世者不待勢位而顯，德義暢乎中而無外求也",
+      "note": "「安命養性者不待積委而富，名號傳乎世者不待勢位而顯，德義暢乎中而無外求也。」以內在德義重定富與顯的價值；「賢者之不以天下為名利者也」明確提出人生不逐名利的取向，不由安命二字另推神聖或改命論。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 21,
+      "para_id": "hanshi-waizhuan#02-p21",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "楚狂接輿躬耕以食。其妻之市未返。楚王使使者齎金百鎰造門，曰：「大王使臣奉金百鎰，",
+      "note": "「君使不從，非忠也。從之，是遺義也。不如去之。」把仕進與退出政治生活作為人生取向的選擇（I）；「先生少而為義，豈將老而遺之哉？」要求不因利祿改變持守（VII）。妻子是勸告者，正文未另展開夫妻親密問題。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 25,
+      "para_id": "hanshi-waizhuan#02-p25",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "子路曰：「士不能勤苦，不能輕死亡，不能恬貧窮，而曰我〔能〕行義，吾不信也。」昔者",
+      "note": "「夫士欲立身行道，無顧難易，然後能行之。」把行道立身確立為生活取向，並以「不輕死亡，焉能行此？」明說此取向高於保全性命（I）；「欲行義白名，無顧利害，然後能行之。」要求不因艱難利害放棄實踐（VII）。死亡在此服務於價值取捨。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 26,
+      "para_id": "hanshi-waizhuan#02-p26",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子路與巫馬期薪於韞丘之下。陳之富人有處師氏者，脂車百乘，觴於韞丘之上。子路與巫馬",
+      "note": "「使子無忘子之所知，亦無進子之所能，得此富，終身無復見夫子，子為之乎？」以富貴交換終身停止從學，提出何種人生值得選擇（I）；巫馬期援「勇士不忘喪其元，志士仁人不忘在溝壑。」拒絕此交換，以守志評定品格（VII）。不由結尾引詩另加家庭領域。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第5",
+      "para_index": 33,
+      "para_id": "hanshi-waizhuan#05-p33",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "朝廷之士為祿，故入而不出。山林之士為名，故往而不返。入而亦能出，往而亦能返，通移",
+      "note": "「朝廷之士為祿，故入而不出。山林之士為名，故往而不返。」比較以祿或名支配仕隱的人生取向；「入而亦能出，往而亦能返，通移有常，聖也。」肯定能調整進退而不固著於單一追求的活法，不只是記錄任職或隱居。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第9",
+      "para_index": 16,
+      "para_id": "hanshi-waizhuan#09-p16",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "賢士不以恥食，不以辱得。《老子》曰：「名與身孰親？身與貨孰多？得與亡孰病？是故甚",
+      "note": "「名與身孰親？身與貨孰多？」比較名利與自身生命的本末，提出人生取向的衡量（I）；「罪莫大於多欲，禍莫大於不知足」與「知足不辱，知止不殆」則把節欲知足作為修身準則（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第9",
+      "para_index": 22,
+      "para_id": "hanshi-waizhuan#09-p22",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "戴晉生弊衣冠而往見梁王。梁王曰：「前日寡人以上大夫之祿要先生，先生不留，今過寡人",
+      "note": "「今臣不遠千里而從君遊者，豈食不足？竊慕君之道耳。」明辨追求道與追求食祿的人生取向（I）；「寡人以上大夫之祿要先生，先生不留」及「彼不得其志故也。」把去留放在能否實現志向的仕進處境中（VIII），雉的飽餓是此主張的比喻。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第9",
+      "para_index": 23,
+      "para_id": "hanshi-waizhuan#09-p23",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "楚莊王使使賫金百斤聘北郭先生。先生曰：「臣有箕箒之使，願入計之。」即謂婦人曰：「",
+      "note": "「以容膝之安，一肉之味，而殉楚國之憂，其可乎？」衡量有限享用是否值得交換一生的操憂，主張簡樸生活的取向（I）；「楚欲以我為相」與「於是遂不應聘」使此衡量具體落在織屨與出仕的職業選擇（VIII）。",
+      "co_domains": [
+        "VIII"
       ]
     },
     {

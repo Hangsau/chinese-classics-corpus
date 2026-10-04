@@ -2,9 +2,9 @@
   "domain": "XII",
   "name_zh": "信仰·神聖·超越",
   "gist": "神存在嗎、信與疑、敬畏與美、神秘經驗",
-  "generated_at": "2026-10-03T21:04:16+00:00",
-  "para_count": 439,
-  "book_count": 38,
+  "generated_at": "2026-10-04T18:13:58+00:00",
+  "para_count": 463,
+  "book_count": 39,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -815,6 +815,332 @@
       ],
       "excerpt": "人處疾則貴醫，有禍則畏鬼。聖人在上，則民少欲；民少欲，則血氣治而舉動理；舉動理，",
       "note": "以人鬼與上下皆兩不相傷解釋有道之治，確實同時處理人對鬼神的畏逐和君民間的刑害關係",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 22,
+      "para_id": "hanshi-waizhuan#01-p22",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "晉靈公之時，宋人殺昭公，趙宣子請師於靈公（而）〔以〕救之。靈公曰：「非晉國之急也",
+      "note": "「晉為盟主而不救，天罰懼及矣。」把援救列為盟主責任（V）；「今殺其君，所以反天地，逆人道也，天必加災焉。」明言天會懲罰逆行者（XII）。答語未被反駁，敘述以「而晉國日昌。何則？以其誅逆存順。」肯定順逆之論，神聖懲罰的依據在正文，不在引詩。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 30,
+      "para_id": "hanshi-waizhuan#02-p30",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《傳》曰：國無道則飄風厲疾，暴雨折木，陰陽錯氛，夏寒冬溫，春熱秋榮，日月無光，星",
+      "note": "「國無道則飄風厲疾，暴雨折木，陰陽錯氛」將失道與天候失序相連；「當成周之時，陰陽調，寒暑平，群生遂，萬物寧。」以成周的和調反證政德感應。兩向皆為正文認證，不是單純氣象紀錄或結尾引詩。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 2,
+      "para_id": "hanshi-waizhuan#03-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "有殷之時，榖生湯之廷，三日而大拱。湯問伊尹曰：「何物也？」對曰：「榖樹也。」湯問",
+      "note": "「見妖而為善，則禍不至，見祥而為不善，則福不臻。」主張人能以行為改變禍福（XI）；「七日而榖亡。妖孽不見，國家昌。」由敘事認證修德後妖象消失（XII），兩向並存。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 3,
+      "para_id": "hanshi-waizhuan#03-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "昔者周文王之時，莅國八年，夏六月，文王寢疾。五日而地動，東西南北不出國郊。有司皆",
+      "note": "「今又專興事動眾以增國城，是重吾罪也。」拒絕為己免災而役民，承載君主責任（V）；「請改行重善移之，其可以免乎。」主張改行可轉變處境（XI）。第三格 XII 由「夫天之道，見妖是以罰有罪也。」承重，拿掉它就少了天以災異懲罰人的神聖意圖，不能只剩人事改過。",
+      "co_domains": [
+        "V",
+        "XI"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 12,
+      "para_id": "hanshi-waizhuan#03-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "人事倫則順于鬼神，順于鬼神則降福孔皆。《詩》曰：「以享以祀，以介景福。」",
+      "note": "「人事倫則順于鬼神，順于鬼神則降福孔皆。」正文直接主張人倫有序能順合鬼神並獲降福，神聖感應是因果核心。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 17,
+      "para_id": "hanshi-waizhuan#03-p17",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "《傳》曰：宋大水，魯人弔之曰：「天降淫雨，害於粢盛，延及君地，以憂執政，使臣敬弔",
+      "note": "「成湯文王知任其過，其興也勃焉。」肯定君主承擔過失（V）；「過而改之，是不過也。」及「三歲，年豐政平。」呈現改過能改變國家處境（XI）。第三格 XII 據「寡人不仁，齋戒不修，使民不時。天加以災，又遺君憂。」：宋君把水災解為天的責罰，敘事以改過後年豐收束；拿掉此格，就漏了這個與人事改過並存的天罰解釋。",
+      "co_domains": [
+        "V",
+        "XI"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 19,
+      "para_id": "hanshi-waizhuan#03-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "太平之時，民行役者不踰時，男女不失時以偶，孝子不失時以養。外無曠夫，內無怨女。上",
+      "note": "「父子相成，夫婦相保。」以家庭成員相互成全、持守為太平內容（IV）；「人事備乎下，天道應乎上。」明認人事能得到天道回應（XII）。另列 V 據「故豐膏不獨樂，磽确不獨苦。」：拿掉它就少了藉資源互通使不同地區共享富足、分擔困乏的公共分配主張，不能由家庭與感應兩格涵蓋。",
+      "co_domains": [
+        "IV",
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 31,
+      "para_id": "hanshi-waizhuan#03-p31",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "周公踐天子之位七年，布衣之士所〔執〕贄而師〔見〕者十人。所友見者十二人，窮巷白屋",
+      "note": "「子無以魯國驕士。」規定居上位者禮待士人的責任（V）；「夫此六者，皆謙德也。」以六種自抑之行論謙德（VII）。第三格 XII 據「鬼神害盈而福謙」：拿掉它就少了鬼神罰驕、福謙的超越依據，不能只當人際禮遇或一般修養。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第4",
+      "para_index": 2,
+      "para_id": "hanshi-waizhuan#04-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "桀為酒池，可以運舟，糟丘足以望十里，〔一鼓〕而牛飲者三千人，關龍（逢）〔逄〕進諫",
+      "note": "「古之人君，身行禮義，愛民節財，故國安而身壽。」以愛民節財批評君主暴行；龍逄又說「君若弗革，天殃必降，而誅必至矣。」明確將不改暴政連到天的降罰，神聖制裁出於正文進諫，非由末詩補入。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第4",
+      "para_index": 29,
+      "para_id": "hanshi-waizhuan#04-p29",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《傳》曰：誠惡惡，知刑之本。誠善善，知敬之本。惟誠感神。達乎民心，知刑敬之本，則",
+      "note": "「達乎民心，知刑敬之本，則不怒而威，不言而信。」論領導者的刑敬與公共威信；「誠德之主也。」明定誠為德性根本；「惟誠感神。」另肯定誠能感通神明。若省去第三格XII，就漏掉正文的神聖感應主張，不能以品格或人際信任代替。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第5",
+      "para_index": 1,
+      "para_id": "hanshi-waizhuan#05-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子夏問曰：「《關雎》何以為《國風》始也？」孔子曰：「《關雎》至矣乎！夫《關雎》之",
+      "note": "「萬物之所繫，群生之所懸命也，河洛出《書》《圖》，麟鳳翔乎郊。」答語將《關雎》之道與群生所命、祥瑞出現相連，正文已賦予它超越性的根源地位，並非由末尾引詩加標。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第5",
+      "para_index": 12,
+      "para_id": "hanshi-waizhuan#05-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "成王之時，有三（苖）〔苗〕貫桑而生，同為一秀，大幾滿車，長幾充箱，成王問周公曰：",
+      "note": "「三（苖）〔苗〕同一秀，意者天下殆同一也。」先以異象預示天下歸一，後以遠國來獻印證；「久矣天之不迅風疾雨也，海不波溢也，三年於茲矣。」及「意者中國殆有聖人〔乎〕？盍往朝之。」又將天候平和解作聖人出現的徵兆，感應解釋在正文敘事中承重。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第5",
+      "para_index": 23,
+      "para_id": "hanshi-waizhuan#05-p23",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫百姓內不乏食，外不患寒，則可教御以禮義矣。《詩》曰：「蒸畀祖妣，以洽百禮。」百",
+      "note": "「百禮洽則百意遂，百意遂則陰陽調，陰陽調則寒暑均」及「三光清則風雨時，風雨時則群生寧」是兩次引詩之間的正文因果鏈，直接肯定人間禮治能調和天象與氣候，構成天人感應的主張。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第5",
+      "para_index": 24,
+      "para_id": "hanshi-waizhuan#05-p24",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天有四時，春夏秋冬，風雨霜露，無非教也。清明在躬，氣志如神，嗜欲將至，有開必先，",
+      "note": "「天有四時，春夏秋冬，風雨霜露，無非教也。」已在正文賦予天時風雨教化意義；「清明在躬，氣志如神，嗜欲將至，有開必先」又將人的清明狀態與先兆相連。判的是天與人的神聖教化關係，不單以引詩的降神字樣命中。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第6",
+      "para_index": 16,
+      "para_id": "hanshi-waizhuan#06-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「不知命，無以為君子。」言天之所生，皆有仁義禮智順善之心。不知天之所以命生",
+      "note": "「言天之所生，皆有仁義禮智順善之心。」正文將人的道德稟賦歸於天，具有超越性的德性根據；「無仁義禮智順善之心，謂之小人。」又以具備此心界定君子與小人的品格。天的作用出自正文解說，並非僅憑引詩補入。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第6",
+      "para_index": 26,
+      "para_id": "hanshi-waizhuan#06-p26",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "威有三術。有道德之威者，有暴察之威者，有狂妄之威者。此三威不可不審察也。何謂道德",
+      "note": "「百姓劫則致畏，怠則傲上，執拘則聚，遠間則散。」辨強制權力只能維持受迫服從，與道德領導的親附有別；「不知人心，悖逆無理，是以水旱為之不時，年穀以之不升。」則由正文認證失政導致天候失調的感應因果，XII 不靠末尾引詩或神明比喻成立。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第7",
+      "para_index": 19,
+      "para_id": "hanshi-waizhuan#07-p19",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "傳曰：善為政者，循情性之宜，順陰陽之序，通本末之理，合無人之際。如是則天氣奉養而",
+      "note": "正文以「順陰陽之序」接「如是則天氣奉養而生物豐美矣。」；又以「使人詭天」接「如是則災害生，怪異起，羣生皆傷，而年穀不熟。」直接肯定政事順逆與天地生養、災異的相應，並非僅記陰陽名目或引用詩中天意。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第8",
+      "para_index": 8,
+      "para_id": "hanshi-waizhuan#08-p08",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "黃帝既位，施惠承天，一道脩德，惟仁是行，宇內和平，未見鳳凰，惟思其象。夙寢晨興，",
+      "note": "正文先說「惟鳯為能通天祉，應地靈」，繼而敘述「鳯乃蔽日而至。」並由黃帝宣稱「皇天降祉，敢不承命！」共同認證修德感召天祉，並非純粹描述鳥形或記錄一次齋戒程序。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第8",
+      "para_index": 17,
+      "para_id": "hanshi-waizhuan#08-p17",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "梁山崩，晉君召大夫伯宗。道逢輦者，以其輦服其道。伯宗使其右下，欲鞭之。輦者曰：「",
+      "note": "「伯宗不言受輦者，詐以自知。」受「攘人之善。」的譴責，承重於冒領他人之善的品格問題；輦者所言「既而祠焉，河斯流矣。」又由後續敘事實現，正文認證祭祀與河流恢復的感應，不僅登錄儀節。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第8",
+      "para_index": 20,
+      "para_id": "hanshi-waizhuan#08-p20",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫觀君之治也，溫良而和，寬容而愛，刑清而省，喜賞而惡罰。移風崇教，生而不殺，布惠",
+      "note": "「仁不偏與。不奪民力，役不踰時」提出掌權者公平施仁、不侵奪民力的責任；正文又以「故得風雨不烈。」及詩後實質評語「以是知太平無飄風景雨明矣。」認證治德與天候相應，感應判斷並非只來自引詩。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第8",
+      "para_index": 28,
+      "para_id": "hanshi-waizhuan#08-p28",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "傳曰：居處齊則色姝，食飮齊則氣珍，言語齊則信聽，思齊則成，志齊則盈。五者齊，斯神",
+      "note": "「居處齊則色姝，食飮齊則氣珍」把起居飲食的整飭與人的容色、身氣相連，是實際的身體安養主張；「五者齊，斯神居之。」又以神居作為五種整飭的結果，肯定其神聖意義，並非只在末詩出現超越語。",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第8",
+      "para_index": 31,
+      "para_id": "hanshi-waizhuan#08-p31",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "孔子曰：「《易》先《同人》後《大有》，承之以《謙》，不亦可乎？」故天道虧盈而益謙",
+      "note": "「持盈之道，抑而損之，此謙德之於行也。」以及周公、六種守德方式，具體教人居盛而謙，是品格修養；「鬼神害盈而福謙」則由正文肯定鬼神懲盈福謙的意圖，神聖制裁具有獨立承重內容。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第10",
+      "para_index": 1,
+      "para_id": "hanshi-waizhuan#10-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊桓公逐白鹿，至麥丘，見邦人曰：「爾何謂者也？」對曰：「臣麥丘之邦人。」桓公曰：",
+      "note": "「金玉之賤，人民是寶。」「亦無使吾君得罪於羣臣百姓。」以祝壽勸君重民納諫、承擔對臣民的責任；「寡人賴宗廟之福，社稷之靈，使寡人遇叟於此。」又把遇賢歸於宗廟社稷福佑。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第10",
+      "para_index": 22,
+      "para_id": "hanshi-waizhuan#10-p22",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "晉平公之時，藏寶之臺燒，士大夫聞者，皆趨車馳馬救火。三日三夜，乃勝之。公子晏奉束",
+      "note": "「虛耗而賦斂無已，收大半而藏之臺，是以天火之。」批評侵奪民生以充實君主私藏；「今皇天降災於藏臺，是君之福也」又將焚臺解作上天示警、促君改政的福佑，神聖意圖在正文承重。",
       "co_domains": [
         "V"
       ]

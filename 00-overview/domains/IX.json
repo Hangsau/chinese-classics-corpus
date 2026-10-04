@@ -2,9 +2,9 @@
   "domain": "IX",
   "name_zh": "苦難·疾病·身體",
   "gist": "疾病與身體、受苦的意義、照顧與被照顧",
-  "generated_at": "2026-10-03T21:04:16+00:00",
-  "para_count": 250,
-  "book_count": 34,
+  "generated_at": "2026-10-04T18:13:58+00:00",
+  "para_count": 259,
+  "book_count": 35,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -717,6 +717,131 @@
       "note": "晏子以踴因刑多而貴點出刖刑造成的身體傷害，景公聞後自認暴虐而減刑",
       "co_domains": [
         "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 6,
+      "para_id": "hanshi-waizhuan#01-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "君子有辯善之度，以治氣養性，則身後彭祖。修身自強，則名配堯禹。宜於時則達，厄於窮",
+      "note": "「修身自強，則名配堯禹。」「凡用心之術，由禮則理達，不由禮則悖亂。」論修養與內在行為秩序（VII）；「飲食衣服，動靜居處，由禮則知節，不由禮則墊陷生疾。」另把日常飲食起居的節制與人的患病處境相連（IX），不是借身體比喻政治。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 20,
+      "para_id": "hanshi-waizhuan#01-p20",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《傳》曰：天地有合，則生氣有精矣。陰陽消息，則變化有時矣。時得則治，時失則亂。故",
+      "note": "「精氣闐溢而後傷時〔之〕不可過也。不見道端，乃陳情欲，以歌道義。」以成熟與適時表達情欲談男女求偶（III）；「精化始具，而生氣感動，觸情縱欲，反施化，是以年壽亟夭而性不長也。」把過早縱欲與人的身體發育、受損相連（IX），不只是年齡名目；陰陽用來解釋生理，沒有神聖意圖。",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 20,
+      "para_id": "hanshi-waizhuan#03-p20",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "能制天下，必能養其民也。能養民者，為自養也。飲食適乎藏，滋味適乎氣，勞佚適乎筋骨",
+      "note": "「飲食適乎藏，滋味適乎氣，勞佚適乎筋骨，寒煖適乎肌膚」與「養有適，過則不樂，故不為也。」直接談身體安養與避免過度（IX）；「適情辟餘，不求非其有，而天下稱其廉也。」又將適度自養連到不貪取的廉潔品格（VII）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 38,
+      "para_id": "hanshi-waizhuan#03-p38",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "昔者不出戶而知天下，不窺牖而見天道，非目能視乎千里之前，非耳能聞乎千里之外，以己",
+      "note": "「己惡飢寒焉，則知天下之欲衣食也。」以自身需要推知百姓需要，建立推己及人的公共責任；「夫處飢渴、苦血氣、困寒暑、動肌膚，此四者民之大害也。害不除，未可教御也。」把真實身體困苦及其解除列為教治的前提，身體並非政治比喻。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第4",
+      "para_index": 25,
+      "para_id": "hanshi-waizhuan#04-p25",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "客有說春申君者曰：「湯以七十里，文王百里，皆兼天下，一海內。今夫孫子者，天下之賢",
+      "note": "「夫人主年少而放，無術法以知奸，即大臣以專斷圖私」批評統治者不能辨奸而讓權力被私用；「夫劫殺死亡之主，心之憂勞，形之苦痛，必甚於癘矣。」則正面比較受害君主與病者的實際身心痛苦，身體遭遇本身承重，並非僅出現疾病或死亡字樣。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第5",
+      "para_index": 32,
+      "para_id": "hanshi-waizhuan#05-p32",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "聖人養一性而御夫氣，持一命而節滋味，奄治天下，不遺其小，存其精神，以補其中，謂之",
+      "note": "「養一性而御夫氣，持一命而節滋味」與「存其精神，以補其中」把調養氣、節制飲食滋味和保存精神作為自身養護的實踐，身體安養本身承重，不是借器官比喻國家。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第8",
+      "para_index": 2,
+      "para_id": "hanshi-waizhuan#08-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "人之所以好富貴安樂，為人所稱譽者，為身也。惡貧賤危辱，為人所謗毀者，亦為身也。然",
+      "note": "「人得氣則生，失氣則死。」接著指出氣不能買求，「在吾身耳，不可不慎也。」是在要求人珍護維繫自身生命的身體條件；生死用來說明保身之必要，未另展開死亡或失去的問題。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第8",
+      "para_index": 25,
+      "para_id": "hanshi-waizhuan#08-p25",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "曾子有過，曾晳引杖擊之。仆地，有間乃蘇，起曰：「先生得無病乎？」魯人賢曾子，以告",
+      "note": "曾子受父杖擊而「仆地，有間乃蘇」，孔子卻以「小箠則待，大杖則逃。」糾正其盡孝方式。父子責任須顧及避免父親殺子成罪；同時正面處理受暴者應如何躲避足以致命的身體傷害，並非僅偶然提到身體。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第8",
+      "para_index": 28,
+      "para_id": "hanshi-waizhuan#08-p28",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "傳曰：居處齊則色姝，食飮齊則氣珍，言語齊則信聽，思齊則成，志齊則盈。五者齊，斯神",
+      "note": "「居處齊則色姝，食飮齊則氣珍」把起居飲食的整飭與人的容色、身氣相連，是實際的身體安養主張；「五者齊，斯神居之。」又以神居作為五種整飭的結果，肯定其神聖意義，並非只在末詩出現超越語。",
+      "co_domains": [
+        "XII"
       ]
     },
     {

@@ -2,9 +2,9 @@
   "domain": "II",
   "name_zh": "自我與認同",
   "gist": "我是誰、值不值得、身體與性別、完美主義與自我批判、內在的聲音、童年如何形塑我",
-  "generated_at": "2026-10-03T21:04:16+00:00",
-  "para_count": 1091,
-  "book_count": 48,
+  "generated_at": "2026-10-04T18:13:58+00:00",
+  "para_count": 1103,
+  "book_count": 49,
   "surveyed_zero_hit": [
     "duduan",
     "fangyan",
@@ -2346,6 +2346,174 @@
       "co_domains": [
         "V",
         "VIII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 9,
+      "para_id": "hanshi-waizhuan#01-p09",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "原憲居魯，環堵之室，茨以蒿萊，蓬戶甕牖，桷桑而無樞，上漏下濕，匡坐而絃歌。子貢乘",
+      "note": "「無財之謂貧，學而不能行之謂病。」以能否行道重定人的自我評價，不以貧窮認定自身有缺失（II）；「若夫希世而行，比周而友，學以為人，教以為己，仁義之匿，車馬之飾，衣裘之麗，憲不忍為之也。」具體拒絕媚世結黨與捨義逐飾（VII）。病字是評價用語。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 23,
+      "para_id": "hanshi-waizhuan#01-p23",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《傳》曰：水濁則魚喁，令苛則民亂，城峭則崩，岸峭則陂。故吳起（削）〔峭〕刑而車裂",
+      "note": "「名過其實者損，情行合名」要求名聲與實際行為相稱，涉及名實的評價（II）；「令苛則民亂」與「大絃急則小絃絕矣」批評過苛的統治如何逼迫民眾（V）。刑死案例是苛政之害的論據，不另以死亡加格。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 19,
+      "para_id": "hanshi-waizhuan#02-p19",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "商容嘗執羽籥，馮於馬徒，欲以伐紂而不能。遂去，伏於太行。及武王克殷，立為天子，欲",
+      "note": "「商容可謂內省而不誣能矣。」肯定如實反省而不誇大自身能力的自我評價（II）；「愚且無勇，不足以備乎三公。」將自評的能力不足落實為辭謝職任的依據（VIII），官名不是唯一命中理由。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 32,
+      "para_id": "hanshi-waizhuan#03-p32",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "《傳》曰：子路盛服以見孔子，孔子曰：「由䟽䟽者何也？昔者江於汶，其始出也，不足以",
+      "note": "「能之為能之，不能為不能，行之要也。」要求如實承認自身能力與界限（II）；「夫慎於言者不譁，慎於行者不伐。」要求言行謹慎、不自誇（VII），子路改服的情節承載這兩項自我校正。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 33,
+      "para_id": "hanshi-waizhuan#03-p33",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "君子行不貴苟難，說不貴苟察，名不貴苟傳，惟其當之為貴。夫負石而赴河，行之難為者也",
+      "note": "「名不貴苟傳」拒絕只用名聲流傳衡量人的價值（II）；「君子不貴者，非禮義之中也。」以是否合乎禮義評斷難行、巧辯與盛名（VII），不因申徒狄赴河而另談死亡。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第4",
+      "para_index": 21,
+      "para_id": "hanshi-waizhuan#04-p21",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "有君不能事，有臣〔而〕欲其忠。有父不能事，有子〔而〕欲其孝。有兄不能敬，有弟〔而",
+      "note": "「言能知於人，而不能自知也。」直接批評只要求別人而不能自省；「有父不能事，有子〔而〕欲其孝。」把相互責任落在親子；「有君不能事，有臣〔而〕欲其忠。」另指君臣上下的責任。若省去第三格V，就漏掉對要求臣下忠誠卻不履行自身事君義務者的公共角色批判，不能只當家內自省。",
+      "co_domains": [
+        "IV",
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第5",
+      "para_index": 25,
+      "para_id": "hanshi-waizhuan#05-p25",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "三代之王也，必先其令名。《詩》曰：「明明天子，令聞不已。矢其文德，洽此四國。」此",
+      "note": "「三代之王也，必先其令名。」將建立美好聲名列為成王須優先之事，承重的是人的公共名聲與身分評價；不由後面的引詩另補具體德行。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第6",
+      "para_index": 11,
+      "para_id": "hanshi-waizhuan#06-p11",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "問者曰：「古之知道者曰先生，何也？」曰：「猶言先醒也。不聞道術之人，則冥於得失。",
+      "note": "「吾外內不見吾過失，是以亡也。」以自認無過與後來醒悟對照，討論自我評價能否辨實；「能自取師者王，能自取友者霸，而與居不若其身者亡。」則把領導者尋求師友、容納直言的責任立為治亂關鍵。三則故事比較先醒、後醒與始終不醒。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第9",
+      "para_index": 18,
+      "para_id": "hanshi-waizhuan#09-p18",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子出衛之東門，逆姑布子卿，曰：「二三子使東避。有人將來，必相我者也。志之。」姑",
+      "note": "「孔子無所辭，獨辭喪家之狗耳」及「是人固以丘為欲當之者也。」使相貌品題轉入孔子對自己是否被定位為承擔治道者的回應（II）；「強陵弱，眾暴寡，百姓縱心，莫之綱紀。」則明說亟待面對的公共失序與不公（V），不只是形貌紀錄。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第9",
+      "para_index": 21,
+      "para_id": "hanshi-waizhuan#09-p21",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "田子方之魏，魏太子從車百乘而迎之郊。太子再拜，謁田子方，田子方不下車。太子不說，",
+      "note": "「夫志不得，則授履而適秦楚耳，安往而不得貧賤乎？」以不依附富貴的自我立場回應太子（II）；「以天下驕人而亡者有矣，以一國驕人而亡者有矣。」則限制居上位者憑權勢傲人的正當性（V）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第9",
+      "para_index": 27,
+      "para_id": "hanshi-waizhuan#09-p27",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫鳳凰之初起也，翾翾十步，藩籬之雀，喔吚而笑之。一詘一信，展羽雲間，藩籬之雀超然",
+      "note": "「士褐衣緼著未嘗完也，糲荅之食未嘗飽也，世俗之士即以為羞耳。」揭示以貧困外貌評定士人身分與價值的偏差（II）；「及其出則安百議，用則延民命」轉以實際施展的才能作評價依據（VIII），鳳雀只承載這一比較。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第10",
+      "para_index": 18,
+      "para_id": "hanshi-waizhuan#10-p18",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "吳延陵季子遊於齊，見遺金，呼牧者取之。牧者曰：「何子居之高，視之下貌之君子，而言",
+      "note": "「當暑衣裘，吾豈取金者乎？」「子乃皮相之士也，何足語姓字哉！」牧者拒拾遺金以守廉，並反駁依外表看低自己的身分評價；不取金的品格與不由外貌定人的自我認同各有承重處。",
+      "co_domains": [
+        "VII"
       ]
     },
     {

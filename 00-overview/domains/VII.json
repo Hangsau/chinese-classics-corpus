@@ -2,9 +2,9 @@
   "domain": "VII",
   "name_zh": "善惡·良心·品格",
   "gist": "罪咎與贖罪、惡與殘忍與同理、誠實與虛偽、勇氣",
-  "generated_at": "2026-10-03T21:04:16+00:00",
-  "para_count": 3992,
-  "book_count": 54,
+  "generated_at": "2026-10-04T18:13:58+00:00",
+  "para_count": 4111,
+  "book_count": 55,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -14073,6 +14073,1670 @@
       "note": "段落明分人臣公義與私心，並斷言君臣以利害計合、臣不肯害身利國，只有明賞嚴刑才會盡力死事，說明公私關係與品格如何受制度改變。",
       "co_domains": [
         "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 2,
+      "para_id": "hanshi-waizhuan#01-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "《傳》曰：夫《行露》之人許嫁矣，然而未往也。見一物不具，一禮不備，守節貞理，守死",
+      "note": "「夫《行露》之人許嫁矣，然而未往也。見一物不具，一禮不備」以婚嫁應具的條件為問題（IV）；「守節貞理，守死不往」「君子以為得婦道之宜」肯定不因逼迫而放棄操守（VII），不是只有婚禮程序。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 3,
+      "para_id": "hanshi-waizhuan#01-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子南遊適楚，至於阿谷之隧，有處子佩瑱而浣者。孔子曰：「彼婦人其可與言矣乎？」抽",
+      "note": "「吾年甚少，何敢受子？子不早去，今竊有狂夫守之者矣。」在反覆試探與贈物中拒絕對方的求近，呈現男女交往的界線（III）；「禮固不親授。」及實際不受贈的行動承載守禮自持（VII）。",
+      "co_domains": [
+        "III"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 6,
+      "para_id": "hanshi-waizhuan#01-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "君子有辯善之度，以治氣養性，則身後彭祖。修身自強，則名配堯禹。宜於時則達，厄於窮",
+      "note": "「修身自強，則名配堯禹。」「凡用心之術，由禮則理達，不由禮則悖亂。」論修養與內在行為秩序（VII）；「飲食衣服，動靜居處，由禮則知節，不由禮則墊陷生疾。」另把日常飲食起居的節制與人的患病處境相連（IX），不是借身體比喻政治。",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 8,
+      "para_id": "hanshi-waizhuan#01-p08",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "王子比干殺身以成其忠，柳下惠殺身以成其信，伯夷叔齊殺身以成其廉。此三子者，皆天下",
+      "note": "「豈不愛其身哉？為夫義之不立，名之不顯，則士恥之，故殺身以遂其行。」明說生命與立義之間如何取捨（I）；「故阨窮而不憫，勞辱而不苟」把困厄中不苟且列為品格標準（VII）。死亡用來承載守義的選擇，未另討論喪失或死亡本身。",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 9,
+      "para_id": "hanshi-waizhuan#01-p09",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "原憲居魯，環堵之室，茨以蒿萊，蓬戶甕牖，桷桑而無樞，上漏下濕，匡坐而絃歌。子貢乘",
+      "note": "「無財之謂貧，學而不能行之謂病。」以能否行道重定人的自我評價，不以貧窮認定自身有缺失（II）；「若夫希世而行，比周而友，學以為人，教以為己，仁義之匿，車馬之飾，衣裘之麗，憲不忍為之也。」具體拒絕媚世結黨與捨義逐飾（VII）。病字是評價用語。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 10,
+      "para_id": "hanshi-waizhuan#01-p10",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "《傳》曰：所謂士者，雖不能盡備乎道術，必有由也。雖不能盡乎美著，必有處也。言不務",
+      "note": "「言不務多，務審所行而已。」「行既已尊之，言既已由之，若肌膚性命之不可易也。」要求審慎實行並堅守言行，說的是士的操守，不是身體或性命的生理描述。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 11,
+      "para_id": "hanshi-waizhuan#01-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《傳》曰：君子潔其身而同者合焉，善其音而類者應焉。馬鳴而馬應之，牛鳴而牛應之，非",
+      "note": "「君子潔其身而同者合焉，善其音而類者應焉。」以同類相應說明人的交往與結合（V）；「莫能以己之皭皭容人之混污然」提出不容混污的自持標準（VII）。馬牛相應與沐浴振衣是這兩項人事主張的比喻。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 12,
+      "para_id": "hanshi-waizhuan#01-p12",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "荊伐陳，陳西門壞，因其降民使脩之，孔子過而不式。子貢執轡而問曰：「禮過三人則下，",
+      "note": "「國亡而弗知，不智也。知而不爭，非忠也。」把國難中是否知情、盡責作為是否值得敬重的依據（V）；「亡而不死。非勇也。」及「不能行一於此」明定智、忠、勇的行為評價（VII），不只是過人行禮的操作記錄。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 14,
+      "para_id": "hanshi-waizhuan#01-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《傳》曰：聰者自聞，明者自見，聰明則仁愛著而廉恥分矣。故非道而行之，雖勞不至。非",
+      "note": "「故智者不為非其事，廉者不求非其有，是以害遠而名彰也。」以不妄為、不貪求說明智與廉的具體行為及後果；「仁愛著而廉恥分矣」亦在辨德性，並非只登錄名號。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 18,
+      "para_id": "hanshi-waizhuan#01-p18",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "孔子曰：「君子有三憂。弗知，可無憂與？知而不學，可無憂與？學而不行，可無憂與？」",
+      "note": "「君子有三憂。」及「弗知，可無憂與？」正面規定值得憂慮的內在關切（VI）；「學而不行，可無憂與？」把所學須落實於行動列為自我修養的要求（VII），不是由結尾詩句的憂字加格。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 19,
+      "para_id": "hanshi-waizhuan#01-p19",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "魯公甫文伯死，其母不哭也。季孫聞之曰：「公甫文伯之母，貞女也，子死不哭，必有方矣",
+      "note": "「昔是子也，吾使之事仲尼。」呈現母親對兒子從師及行為的教養期待（IV）；「此不足於士而有餘於婦人也，吾是以不哭也。」以兒子怠於師友、偏重宮女評斷其德行，並以不哭表明立場（VII）。敘事主題是母親的倫理評斷，未展開哀傷或死亡問題。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 24,
+      "para_id": "hanshi-waizhuan#01-p24",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《傳》曰：衣服容貌者，所以說目也。應對言語者，所以說耳也。好惡去就者，所以說心也",
+      "note": "「言語遜，應對給，則民之耳悅矣。就仁去不仁，則民之心悅矣。」說明對人的言語與仁行如何獲得群體認同（V）；「故中心存善，而日新之，則獨居而樂，德充而形。」以持續存善說明德性由內而外的養成（VII），不只是一套取悅他人的技巧。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 25,
+      "para_id": "hanshi-waizhuan#01-p25",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "仁道有四，磏為下。有聖仁者，有智仁者，有德仁者，有磏仁者。上知天能用其時，下知地",
+      "note": "「寬而容眾，百姓信之」及「匡民隱括，有在是中者也」以容眾、取信與教導民眾衡量仁的公共作用（V）；「仁磏則其德不厚」區分廉潔狹隘與厚德（VII）；「其所受天命之度，適至是而亡，弗能改也，雖枯槁弗捨也。」斷言此類人的限度受命而不能改（XI）。拿掉第三格就少了品格能否改變的命限主張，不能由德性高下或公共作用代替；未另指認神明感應。",
+      "co_domains": [
+        "V",
+        "XI"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 26,
+      "para_id": "hanshi-waizhuan#01-p26",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "申徒狄非其世，將自投於河。崔嘉聞而止之曰：「吾聞聖人仁士之於天地之間也，民之父母",
+      "note": "「民之父母也。」與「不救溺人，可乎？」要求仁士承擔救民責任（V）；「廉矣。如仁歟！則吾未之見也。」據申徒狄拒絕救世而自沉的選擇，區分廉與仁的品格標準（VII）。自沉是評斷行為的情節，不另以死亡或末詩的天字給格。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 27,
+      "para_id": "hanshi-waizhuan#01-p27",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "鮑焦衣弊膚見，挈畚持蔬，遇子貢於道。子貢曰：「吾子何以至於此也？」鮑焦曰：「天下",
+      "note": "「上不己用而干之不止者，是毀廉也。」先交代鮑焦對廉的自持標準；末評「行磏者〔其〕德不厚，志與天地擬者其為人不祥。」再批評其過剛狹隘，實質辨析廉節的限度。羞愧與死去承載這項品格評斷，末詩不能另證天意。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 1,
+      "para_id": "hanshi-waizhuan#02-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "楚莊王圍宋，〔軍〕有七日之糧，曰：「盡此而不克，將去而歸。」於是使司馬子反乘闥而",
+      "note": "「君子見人之困則矜之，小人見人之困則幸之。」以憐困而不幸災評斷品格（VII）；「華元以誠告子反，得以解圍，全二國之命。」又把敵國間的誠實互信與止戰保民相連（V）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 3,
+      "para_id": "hanshi-waizhuan#02-p03",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "高子問於孟子曰：「夫嫁娶者非己所自親也，衛女何以得編於《詩》也？」孟子曰：「有衛",
+      "note": "「有衛女之志則可，無衛女之志則怠。」以行動者的志意區分同一行為的善否；「懷其常道而挾其變權，乃得為賢。」要求守常而能權變，是倫理判斷原則，不單由嫁娶字面另加親密領域。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 4,
+      "para_id": "hanshi-waizhuan#02-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "楚莊王聽朝罷晏。樊姬下堂而迎之，曰：「何罷之晏也，得無饑倦乎？」莊王曰：「今日聽",
+      "note": "「不敢私願蔽眾美」以不徇私欲作為品格標準（VII）；「未嘗見進賢而退不肖也，又焉得為（忠）賢〔臣〕乎？」將薦賢去不肖定為居官者的公共職責（V）。後宮經驗是進諫的類比，並非夫妻親密主題。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 5,
+      "para_id": "hanshi-waizhuan#02-p05",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "閔子騫始見於夫子，有菜色，後有芻豢之色。子貢問曰：「子始有菜色，今有芻豢之色，何",
+      "note": "「二者相攻胸中而不能任，是以有菜色也。」直接敘述好義與慕富貴的內在衝突（VI）；「又賴二三子切瑳而進之，內明於去就之義」說明師友教學如何養成取捨判斷（VII），面色是轉變的表徵。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 7,
+      "para_id": "hanshi-waizhuan#02-p07",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "孔子曰：「口欲味，心欲佚，教之以仁。心欲（兵）〔安〕，身惡勞，教之以恭。好辯論而",
+      "note": "「好辯論而畏懼，教之以勇。」把欲求、畏懼與德性教養相連（VII）；引詩後的評語「皆防邪禁佚，調和心志。」明定其目的在調節內在心志（VI）。這是直接教誨，沒有故事情節。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 8,
+      "para_id": "hanshi-waizhuan#02-p08",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "高牆豐上激下，未必崩也。降雨興，流潦至，則崩必先矣。草木根荄淺，未必撅也。飄風興",
+      "note": "「不崇仁義，尊賢臣，以理萬物」將政治危機連到平日未盡的治理責任（V）；「不慎其前而悔其後，嗟乎！雖悔無及矣。」另提出應慎於事前、不可只靠事後悔恨的行為標準（VII）。仰天嘆息並未獲得感應認證。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 9,
+      "para_id": "hanshi-waizhuan#02-p09",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "曾子曰：「君子有三言，可貫而佩之。一曰無內踈而外親，二曰身不善而怨他人，三曰患至",
+      "note": "「內踈而外親，不亦反乎？」要求交往中的內外真實相符（V）；「身不善而怨他人，不亦遠乎？」要求反求自身而不推責於人（VII）。三言及其解釋是直接勸戒，呼天只是所批評的失當行為。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 13,
+      "para_id": "hanshi-waizhuan#02-p13",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "崔杼弒莊公，合士大夫盟。盟者皆脫劍而入。言不疾措血至者死，所殺者十餘人。次及晏子",
+      "note": "「留以利而倍其君，非仁也」指出不可為私利背棄君臣責任（V）；「劫以刃而失其志者，非勇也。」以受威脅仍守志評勇德（VII）。第三格 XI 據「命有所懸，安在疾驅？」：若拿掉它，便漏掉脫險後以命有定限解釋不必疾逃的獨立主張；不能只用守節概括。",
+      "co_domains": [
+        "V",
+        "XI"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 15,
+      "para_id": "hanshi-waizhuan#02-p15",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "外寬而內直，自設於隱括之中，直己不直人，善廢而不悒悒，蘧伯玉之行也。故為人父者，",
+      "note": "「外寬而內直，自設於隱括之中，直己不直人」具體評述自我約束而寬以待人的品格；「善廢而不悒悒」又說不因被廢置而怨懣。父子君臣皆願親近是此種行為的結果，並非僅列親屬就另給家庭領域。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 16,
+      "para_id": "hanshi-waizhuan#02-p16",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "《傳》曰：孔子遭齊程本子於剡之間，傾蓋而語終日，有間，顧子路曰：「由！束帛十匹以",
+      "note": "「吾於是而不贈，終身不之見也。」說明珍惜與賢士相遇、及時致敬的交往考量（V）；「大德不踰閑，小德出入可也。」據此區分不可越的大德與可變通的小節（VII）。媒嫁與引詩都服務於這場禮義辯論。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 17,
+      "para_id": "hanshi-waizhuan#02-p17",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "君子有主善之心，而無勝人之色，德足以君天下，而無驕肆之容，行足以及後世，而不以一",
+      "note": "「君子盛德而卑，虛己以受人」具體主張有德而不驕、虛心容人的品格（VII）；「雖在下位，民願戴之。」將民眾擁戴繫於行為而非現有職位，談領導的社會認受（V），不只是讚美人物。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 18,
+      "para_id": "hanshi-waizhuan#02-p18",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "君子易和而難狎也，易懼而不可劫也，畏患而不避義死，好利而不為所非，交親而不比，言",
+      "note": "「君子易和而難狎也」與「交親而不比」界定和善交往而不失分際、不結私黨的關係原則（V）；「畏患而不避義死，好利而不為所非」界定恐懼、利益不能改變的道德底線（VII），不是以死亡事件本身為題。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 20,
+      "para_id": "hanshi-waizhuan#02-p20",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "晉文侯使李離為大理，過聽殺人，自拘於廷，請死於君。君曰：「官有貴賤，罰有輕重。下",
+      "note": "「今過聽殺人而下吏蒙其死，非所聞也。」拒絕居高位而將司法過失轉嫁下屬（V）；「夫無能以事君，闇行以臨官，是無功以食祿也。臣不能以虛自誣。」以不虛冒功祿自律（VII）。自裁承載擔責守義，沒有獨立的死亡議論。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 21,
+      "para_id": "hanshi-waizhuan#02-p21",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "楚狂接輿躬耕以食。其妻之市未返。楚王使使者齎金百鎰造門，曰：「大王使臣奉金百鎰，",
+      "note": "「君使不從，非忠也。從之，是遺義也。不如去之。」把仕進與退出政治生活作為人生取向的選擇（I）；「先生少而為義，豈將老而遺之哉？」要求不因利祿改變持守（VII）。妻子是勸告者，正文未另展開夫妻親密問題。",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 25,
+      "para_id": "hanshi-waizhuan#02-p25",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "子路曰：「士不能勤苦，不能輕死亡，不能恬貧窮，而曰我〔能〕行義，吾不信也。」昔者",
+      "note": "「夫士欲立身行道，無顧難易，然後能行之。」把行道立身確立為生活取向，並以「不輕死亡，焉能行此？」明說此取向高於保全性命（I）；「欲行義白名，無顧利害，然後能行之。」要求不因艱難利害放棄實踐（VII）。死亡在此服務於價值取捨。",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 26,
+      "para_id": "hanshi-waizhuan#02-p26",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "子路與巫馬期薪於韞丘之下。陳之富人有處師氏者，脂車百乘，觴於韞丘之上。子路與巫馬",
+      "note": "「使子無忘子之所知，亦無進子之所能，得此富，終身無復見夫子，子為之乎？」以富貴交換終身停止從學，提出何種人生值得選擇（I）；巫馬期援「勇士不忘喪其元，志士仁人不忘在溝壑。」拒絕此交換，以守志評定品格（VII）。不由結尾引詩另加家庭領域。",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 27,
+      "para_id": "hanshi-waizhuan#02-p27",
+      "modes": [
+        "prescription",
+        "observation"
+      ],
+      "excerpt": "孔子曰：「士有五。有埶尊貴者，有家富厚者，有資勇悍者，有心智惠者，有貌美好者。有",
+      "note": "「不以愛民行義理，而反以暴敖」及「不以振窮救不足，而反以侈靡無度」要求將權勢財富用於公共照顧（V）；「心智惠者，不以端計數，而反以事姦飾詐。」說明資質可被用於不善，構成對品格與行為的評斷（VII）。五類資質不是可計算程序。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 31,
+      "para_id": "hanshi-waizhuan#02-p31",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "夫治氣養心之術，血氣剛強則務之以調和，智慮潛深則一之以易諒，勇毅強果則輔之以道術",
+      "note": "「血氣剛強則務之以調和」及「齊給便捷則安之以靜退」針對性情與內在狀態給調節方法（VI）；「卑攝貪利則抗之以高志」與「愿婉端愨則合之以禮樂」以志向、禮樂養成品格（VII）。精、神、化是修養的效果，未另立神聖感應。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 32,
+      "para_id": "hanshi-waizhuan#02-p32",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "玉不琢，不成器。人不學，不成行。家有千金之玉，不知治，猶之貧也。良工宰之，則富及",
+      "note": "「人不學，不成行。」以學習為形成德行的必要條件（VII）；「君子謀之，則為國用。」將如玉受治的養成比喻落在能供國用、發揮才能上（VIII）。子孫與財富出現在比喻中，未另展開家庭傳承命題。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 5,
+      "para_id": "hanshi-waizhuan#03-p05",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "《傳》曰：以從俗為善，以貨財為寶，以養性為己為道，是民德也，未及於士也。行法而志",
+      "note": "「行法而志堅，不以私欲害其所聞」與「好脩其所聞以矯其情」以持志、節制私欲及修正習性區分人格層次，具體描述德性養成，不是只有君子、聖人的稱號。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 6,
+      "para_id": "hanshi-waizhuan#03-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "魏文侯欲置相，召李克〔而〕問曰：「寡人欲置相，非翟黃則魏成子。願卜之於先生。」李",
+      "note": "「窮則視其所不為，貧則視其所不取。」以困窮時的行止、辭受辨認品格（VII）；「魏成子食祿日千鍾，什一在內，以聘約天下之士。」以延攬賢士的作為衡量宰相人選，承載領導與任用責任（V）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 15,
+      "para_id": "hanshi-waizhuan#03-p15",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "劍雖利，不厲不斷。材雖美，不學不高。雖有旨酒嘉殽，不嘗不知其旨。雖有善道，不學不",
+      "note": "「材雖美，不學不高。」與「則教學相長也。」說明天資須由學習發展，教與學又能相互促進能力（VIII）；「弟子被光景而德彰。」把師生互益落到德性的養成（VII）。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 20,
+      "para_id": "hanshi-waizhuan#03-p20",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "能制天下，必能養其民也。能養民者，為自養也。飲食適乎藏，滋味適乎氣，勞佚適乎筋骨",
+      "note": "「飲食適乎藏，滋味適乎氣，勞佚適乎筋骨，寒煖適乎肌膚」與「養有適，過則不樂，故不為也。」直接談身體安養與避免過度（IX）；「適情辟餘，不求非其有，而天下稱其廉也。」又將適度自養連到不貪取的廉潔品格（VII）。",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 21,
+      "para_id": "hanshi-waizhuan#03-p21",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "公儀休相魯而嗜魚。一國人獻魚而不受。其弟諫曰：「嗜魚不受，何也？」曰：「夫（欲）",
+      "note": "「受魚而免於相，則不能自給魚。無受而不免於相，長自給於魚。」以公儀休拒收所嗜之魚的辭受行為呈現不貪，並說明守廉如何保全長久所欲；官位得失是論證背景。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 25,
+      "para_id": "hanshi-waizhuan#03-p25",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "問者曰：夫智者何以樂於水也？曰：夫水者緣理而行，不遺小間，似有智者。動而下之，似",
+      "note": "「蹈深不疑，似有勇者。」與「歷險致遠，卒成不毀，似有德者。」以水的行進比擬面對險阻時的勇與持守，解釋智者欣賞的具體品格，並非只列水的自然性質。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 26,
+      "para_id": "hanshi-waizhuan#03-p26",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "問者曰：夫仁者何以樂於山也？曰：夫山者萬民之所瞻仰也。草木生焉，萬物植焉，飛鳥集",
+      "note": "「草木生焉，萬物植焉，飛鳥集焉，走獸休焉，四方益取與焉。」並以「此仁者所以樂於山也。」收束，藉山容養、惠益眾物的特性說明仁者所欣賞的仁厚價值。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 27,
+      "para_id": "hanshi-waizhuan#03-p27",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "《傳》曰：晉文公嘗出亡，反國，三行賞而不及陶叔狐。陶叔狐謂咎犯曰：「吾從而亡十有",
+      "note": "「變化我行，昭明我，使我為成人者，吾以為上賞。」肯定他人的勸導能成就自身德行（VII），並據此訂定最高賞的標準；「然勞苦之士次之。」區分不同貢獻的公賞次序（V），不把隨行受苦直接等同最高功。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 30,
+      "para_id": "hanshi-waizhuan#03-p30",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子觀於周廟，有欹器焉。孔子問於守廟者曰：「此謂何器也？」對曰：「此蓋為宥座之器",
+      "note": "「持滿之道，抑而損之。」與「德行寬裕者，守之以恭。」以欹器覆倒引出身處優勢仍須謙抑的修養，核心是節制自滿的品格，器物試驗服務於這個人的判斷。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 31,
+      "para_id": "hanshi-waizhuan#03-p31",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "周公踐天子之位七年，布衣之士所〔執〕贄而師〔見〕者十人。所友見者十二人，窮巷白屋",
+      "note": "「子無以魯國驕士。」規定居上位者禮待士人的責任（V）；「夫此六者，皆謙德也。」以六種自抑之行論謙德（VII）。第三格 XII 據「鬼神害盈而福謙」：拿掉它就少了鬼神罰驕、福謙的超越依據，不能只當人際禮遇或一般修養。",
+      "co_domains": [
+        "V",
+        "XII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 32,
+      "para_id": "hanshi-waizhuan#03-p32",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "《傳》曰：子路盛服以見孔子，孔子曰：「由䟽䟽者何也？昔者江於汶，其始出也，不足以",
+      "note": "「能之為能之，不能為不能，行之要也。」要求如實承認自身能力與界限（II）；「夫慎於言者不譁，慎於行者不伐。」要求言行謹慎、不自誇（VII），子路改服的情節承載這兩項自我校正。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 33,
+      "para_id": "hanshi-waizhuan#03-p33",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "君子行不貴苟難，說不貴苟察，名不貴苟傳，惟其當之為貴。夫負石而赴河，行之難為者也",
+      "note": "「名不貴苟傳」拒絕只用名聲流傳衡量人的價值（II）；「君子不貴者，非禮義之中也。」以是否合乎禮義評斷難行、巧辯與盛名（VII），不因申徒狄赴河而另談死亡。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 34,
+      "para_id": "hanshi-waizhuan#03-p34",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "伯夷叔齊目不視惡色，耳不聽惡聲。非其君不事，非其民不使。橫政之所出，橫民之所止，",
+      "note": "「故聞柳下惠之風，鄙夫寬，薄夫厚。」說明人格典範能使人轉向寬厚（VII）；「阨窮而不憫，遺佚而不怨。」具體呈現困窮、被棄置不用時如何自處（XIII），因此不只是清、和、中三個稱號的品題。",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第4",
+      "para_index": 1,
+      "para_id": "hanshi-waizhuan#04-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "紂作炮烙之刑，王子比干曰：「主暴不諫，非忠也。畏死不言，非勇也。見過即諫，不用即",
+      "note": "「主暴不諫，非忠也。畏死不言，非勇也。」同時規定臣子面對暴政的進諫責任，以及忠勇的行為標準；比干被殺是實踐這些標準的結局，沒有另把死亡本身作為問題。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第4",
+      "para_index": 3,
+      "para_id": "hanshi-waizhuan#04-p03",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "有大忠者，有次忠者，有下忠者，有國賊者。以道覆君而化之，是謂大忠也。以德調君而輔",
+      "note": "「以道覆君而化之，是謂大忠也。」把輔君向道作為臣子的公共責任；「不恤乎公道之達義，偷合苟同以持祿養〔交〕者，是謂國賊也。」又以是否守義、是否苟合保祿區分忠臣與國賊，形成實質品格判準。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第4",
+      "para_index": 4,
+      "para_id": "hanshi-waizhuan#04-p04",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "哀公問取人。孔子曰：「無取健，無取佞，無取口讒。健，驕也。佞，（謟）〔諂〕也。讒",
+      "note": "「士信愨，而後求知焉。士不信焉又多知，譬之豺狼，其難以身近也。」要求選任人才先看誠信再看智識，兼論用人的公共責任與受用者的品格條件。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第4",
+      "para_index": 9,
+      "para_id": "hanshi-waizhuan#04-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《韶》用干戚，非至樂也。舜兼二女，非達禮也。封黃帝之子十九人，非法義也。往田號泣",
+      "note": "「封黃帝之子十九人，非法義也。」具體評斷行為是否合義，並以「以人觀之，則是也。以法量之，則未也。」區分因人而許與依規範衡量，提出道德評價不應止於人物聲望的標準。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第4",
+      "para_index": 11,
+      "para_id": "hanshi-waizhuan#04-p11",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "君人者以禮分施，均徧而不偏。臣以禮事君，忠順而不解。父寬惠而有禮，子敬愛而致恭。",
+      "note": "「父寬惠而有禮，子敬愛而致恭。兄慈愛而見友，弟敬詘而不慢。」規定家內相互責任；「其待上也，忠順而不解。其使下也，均遍而不偏。」規定公共上下關係；另以「貧窮而不約，富貴而不驕」說明審禮所養成的品格。若省去第三格VII，就漏掉人在貧富變化中如何不失其守，不能由家庭與公共角色規則代替。",
+      "co_domains": [
+        "IV",
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第4",
+      "para_index": 20,
+      "para_id": "hanshi-waizhuan#04-p20",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "出則為宗族患，入則為鄉里憂，《詩》曰：「如蠻如髦，我是用憂。」小人之行也。",
+      "note": "以「出則為宗族患，入則為鄉里憂」所造成的具體群體危害，判為「小人之行也。」是以行為後果評斷品格，並非僅作無行為標準的人物品題。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第4",
+      "para_index": 22,
+      "para_id": "hanshi-waizhuan#04-p22",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "夫當世之愚，飾邪說，文姦言，以亂天下，欺惑眾愚，使混然不知是非治亂之所存者，則是",
+      "note": "「足以欺惑眾愚，交亂樸鄙，則是十子之罪也。」以學說對群體的誤導與擾亂追究責任；「飾邪說，文姦言」與正面的「總方略，一統類，齊言行」相對，又提出不以巧說掩飾、使言行一致的品格判準。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第4",
+      "para_index": 23,
+      "para_id": "hanshi-waizhuan#04-p23",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "君子大心則敬天而道，小心則畏義而節，知則明達而類，愚則端愨而法，喜則和而治，憂則",
+      "note": "君子「喜則和而治，憂則靜而違」，小人「喜則輕易而快，憂則挫而懾」，明確比較喜憂中的內在反應；再以「達則寧而容」對照「達則驕而偏」，將不同情境下的表現作為品格判準。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第4",
+      "para_index": 24,
+      "para_id": "hanshi-waizhuan#04-p24",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《傳》曰：愛由情出謂之仁，節愛理宜謂之義。致愛恭謹謂之禮，文禮謂之容。禮容之美自",
+      "note": "「愛由情出謂之仁，節愛理宜謂之義。」界定仁義及情愛如何受合宜節制，屬德性內容；「其言可以為民道，民從是言也。行可以為民法，民從是行也。」又論言行典範如何引導群體，涉及教化與公共領導。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第4",
+      "para_index": 26,
+      "para_id": "hanshi-waizhuan#04-p26",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "南（苖）〔苗〕異獸之鞹猶犬羊也，與之於人猶死之藥也。安舊侈質習貫易性而然也。夫狂",
+      "note": "「習貫易性而然也。」主張習慣能改變人的性情，涉及人如何被塑成與改變；「夫習之於人微而著，深而固」連到「是以君子務為學也。」以習慣的深固作用說明應主動學習、養成品格，狂者的例子是論證材料。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第4",
+      "para_index": 27,
+      "para_id": "hanshi-waizhuan#04-p27",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "孟子曰：仁，人心也。義，人路也。舍其路弗由，放其心而弗求。人有雞犬放，則知求之。",
+      "note": "「仁，人心也。義，人路也。」把仁義作為人的道德本心與行路；「故學問之道無他焉，求其放心而已。」要求找回失落的本心，主題是道德自覺與修養，不由心字泛加情緒領域。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第4",
+      "para_index": 29,
+      "para_id": "hanshi-waizhuan#04-p29",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《傳》曰：誠惡惡，知刑之本。誠善善，知敬之本。惟誠感神。達乎民心，知刑敬之本，則",
+      "note": "「達乎民心，知刑敬之本，則不怒而威，不言而信。」論領導者的刑敬與公共威信；「誠德之主也。」明定誠為德性根本；「惟誠感神。」另肯定誠能感通神明。若省去第三格XII，就漏掉正文的神聖感應主張，不能以品格或人際信任代替。",
+      "co_domains": [
+        "V",
+        "XII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第5",
+      "para_index": 2,
+      "para_id": "hanshi-waizhuan#05-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子抱聖人之心，彷徨乎道德之域，逍遙乎無形之鄉，倚天理，觀人情，明終始，知得失。",
+      "note": "「故興仁義，厭勢利，以持養之。」說明孔子的品格持養；「強劫弱，眾暴寡，百姓靡安」與「於是孔子自東自西，自南自北，匍匐救之。」把救助受壓迫百姓作為其行動所承擔的公共責任。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第5",
+      "para_index": 5,
+      "para_id": "hanshi-waizhuan#05-p05",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "造父，天下之善御者矣，無車馬則無所見其能。羿，天下之善射者矣，無弓矢則無所見其巧",
+      "note": "「彼大儒者，調一天下者也，無百里之地則無所見其功。」說明才能須有施展條件，並逐層比較儒者應變與成事的能力；「知之為知之，不知為不知，內不自誣，外不誣人」另立不自欺、不欺人的品格標準。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第5",
+      "para_index": 10,
+      "para_id": "hanshi-waizhuan#05-p10",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "禮者則天地之體，因人之情而為之節文者也。〔師者所以正禮也〕。無禮，何以正身？無師",
+      "note": "「因人之情而為之節文者也。」與「是情安於禮也。」談人的情感如何受節制並安於規範；「無禮，何以正身？無師，安知禮之是也？」則將禮與師教作為修正自身品行的條件。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第5",
+      "para_index": 14,
+      "para_id": "hanshi-waizhuan#05-p14",
+      "modes": [
+        "observation",
+        "proposition"
+      ],
+      "excerpt": "儒者，儒也。儒之為言無也，不易之術也。千舉萬變，其道不窮，六經是也。若夫君臣之義",
+      "note": "「此儒者之所謹守，日切磋而不舍也。」把前列人倫要求落在持續磨鍊品行；「明察足以持天下，大舉在人上，則王公之材也，小用使在位，則社稷之臣也」具體論其才具與任用，不只是讚美名望或列舉親屬稱謂。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第5",
+      "para_index": 17,
+      "para_id": "hanshi-waizhuan#05-p17",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "繭之性為絲，弗得女工燔以沸湯，抽其統理，不成為絲。卵之性為雛，不得良雞覆伏孚育，",
+      "note": "「夫人性善，非得明王聖主扶攜，內之以道，則不成為君子。」以繭、卵需要培育為比喻，主張性善仍須引導才能形成君子品格；不是僅記錄生物孵育技術。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第5",
+      "para_index": 20,
+      "para_id": "hanshi-waizhuan#05-p20",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《傳》曰：驕溢之君寡忠，口惠之人鮮信。故盈把之木無合拱之枝，榮澤之水無吞舟之魚。",
+      "note": "「驕溢之君寡忠，口惠之人鮮信。」對驕縱與空口許惠作實質品格評斷；引詩後另有「禍福自己出也。」的正文評語，明確將禍福的根源歸於自身作為，並非由詩句推算命運。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第5",
+      "para_index": 21,
+      "para_id": "hanshi-waizhuan#05-p21",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "水淵深廣，則龍魚生之。山林茂盛，則禽獸歸之。禮義脩明，則君子懷之。故禮及身而行脩",
+      "note": "「禮義脩明，則君子懷之。」把有德之士的歸附連到公共秩序；「故禮及身而行脩，禮及國而政明。」分別論個人品行的修成與政治領導的作用，所述不只是制度措施的用途。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第5",
+      "para_index": 27,
+      "para_id": "hanshi-waizhuan#05-p27",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "福生於無為，而患生於多欲。知足，然後富從之。德宜君人，然後貴從之。故貴爵而賤德者",
+      "note": "「懷不富之心而求不益之物，挾百倍之欲而求有盡之財」揭示匱乏感與無限欲望的內在結構；「貴爵而賤德者，雖為天子，不尊矣。」與「貪物而不知止者，雖有天下，不富矣。」則以重德、知止評斷人的品格，並非僅計算資源多寡。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第5",
+      "para_index": 30,
+      "para_id": "hanshi-waizhuan#05-p30",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "如歲之旱，草不潰茂。然天勃然興雲，沛然下雨，則萬物無不興起之者。民非無仁義根於心",
+      "note": "「民非無仁義根於心者也」肯定人民具有仁義的內在根基；「王政怵迫而不得見。憂鬱而不得出」指出其德性受到政治壓迫而無法表現，將人民品行的實現與權力造成的環境相連。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第6",
+      "para_index": 1,
+      "para_id": "hanshi-waizhuan#06-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "比干諫而死。箕子曰：「知不用而言，愚也。殺身以彰君之惡，不忠也。二者不可，然且為",
+      "note": "「殺身以彰君之惡，不忠也。」辨事君責任；「見比干之事免其身，仁知之至。」以免身而盡忠愛評判仁智，不以死諫一概為善。死亡是事件背景，未另談死亡本身。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第6",
+      "para_index": 5,
+      "para_id": "hanshi-waizhuan#06-p05",
+      "modes": [
+        "proposition",
+        "formalization"
+      ],
+      "excerpt": "古者必有命民，民有能敬長憐孤，取捨好讓居事力者，命於其君，命然後得乘飾車駢馬。未",
+      "note": "「民有能敬長憐孤，取捨好讓居事力者」具體界定值得尊崇的行為，承載品格標準；「強不陵弱，眾不暴寡」另以不欺凌弱少為公共關係的判準。命民乘車的資格與罰則雖是制度條文，兩處人的判斷不能被條文取代。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第6",
+      "para_index": 6,
+      "para_id": "hanshi-waizhuan#06-p06",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "天下之辯有三至三勝，而辭直為下。辯者，別殊類，使不相害，序異端，使不相悖，輸志通",
+      "note": "「輸志通意，揭其所謂，使人預知焉，不務相迷也。」以互通意思而不使對方迷惑規範辯論關係；「夫隱、諱、移、茍，爭言競為而後息，不能無害其為君子也」明評隱諱詭辯傷害品格，超出說辭勝負的技術。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第6",
+      "para_index": 7,
+      "para_id": "hanshi-waizhuan#06-p07",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "吾語子，夫服人之心，高上尊貴不以驕人，聰明聖知不以幽人，勇猛強武不以侵人，齊給便",
+      "note": "「高上尊貴不以驕人，聰明聖知不以幽人，勇猛強武不以侵人」要求節制優勢、避免驕欺，是品格規範；「遇等夷則修朋友之義，遇少而賤者則修告道寬裕之義。」具體規定對朋友與卑幼者的交往責任，不因長幼稱謂另加家庭領域。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第6",
+      "para_index": 8,
+      "para_id": "hanshi-waizhuan#06-p08",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "仁者必敬其人。敬其人有道，遇賢者則愛親而敬之，遇不肖者則畏疎而敬之。其敬一也，其",
+      "note": "「遇賢者則愛親而敬之，遇不肖者則畏疎而敬之。」區分親疏而同守尊重，處理與不同人的相處；「忠信端慤而不害傷」明定仁的行為質地，承載忠信、不傷人的品格標準。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第6",
+      "para_index": 9,
+      "para_id": "hanshi-waizhuan#06-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「不學而好思，雖知不廣矣。學而慢其身，雖學不尊矣。不以誠立，雖立不久矣。誠",
+      "note": "「不以誠立，雖立不久矣。誠未著而好言，雖言不信矣。」把立身持久、言語可信繫於誠實；「美材也，而不聞君子之道，隱小物以害大物者，災必及其身矣。」提醒才能仍須受君子之道約束，核心是修身品格。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第6",
+      "para_index": 16,
+      "para_id": "hanshi-waizhuan#06-p16",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "子曰：「不知命，無以為君子。」言天之所生，皆有仁義禮智順善之心。不知天之所以命生",
+      "note": "「言天之所生，皆有仁義禮智順善之心。」正文將人的道德稟賦歸於天，具有超越性的德性根據；「無仁義禮智順善之心，謂之小人。」又以具備此心界定君子與小人的品格。天的作用出自正文解說，並非僅憑引詩補入。",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第6",
+      "para_index": 18,
+      "para_id": "hanshi-waizhuan#06-p18",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "楚莊王伐鄭。鄭伯肉袒，左把茅旌，右執鸞召，以進言於莊王，曰：「寡人無良邊陲之臣，",
+      "note": "「吾兩君不相好，百姓何罪！」把君主爭端與無辜百姓分開，承載戰爭中的公共責任；「強者我避之，弱者我威之，是寡人無以立乎天下也。」拒絕畏強欺弱，以行動確立不恃勢欺人的品格。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第6",
+      "para_index": 19,
+      "para_id": "hanshi-waizhuan#06-p19",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "君子崇人之德，揚人之美，非道諛也。正言直行，指人之過，非毀疵也。詘柔順從，剛強猛",
+      "note": "「君子崇人之德，揚人之美，非道諛也。正言直行，指人之過，非毀疵也。」規範交往中的稱美與指過，並區分正直、諂諛和毀訾的道德性質；「與物周流，道德不外。」要求因應情勢仍不離德行。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第6",
+      "para_index": 20,
+      "para_id": "hanshi-waizhuan#06-p20",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "衛靈公晝寢而起，志氣益衰，使人馳召勇士公孫悁，道遭行人卜商。卜商曰：「何驅之疾也",
+      "note": "「外立節矜而敵不侵擾，內禁殘害而君不危殆」把勇的價值放在保護與制止侵害的責任；「上不攝萬乘，下不敢敖乎匹夫」立不畏強、不凌弱的品格標準。子夏以此辨勇與欺暴，並非只比較武力或記錄儀節。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第6",
+      "para_index": 22,
+      "para_id": "hanshi-waizhuan#06-p22",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "《詩》曰：「愷悌君子，民之父母。」君子為民父母何如？曰：君子者，貌恭而行肆，身儉",
+      "note": "「法下易由，事寡易為。」「築城而居之，別由而養之，立學以教之。」將為民父母落實為照顧、教養與減輕負擔的領導責任；「篤愛而不奪，厚施而不伐。」另要求愛而不侵奪、施而不自誇的品格。父母比喻服務於公共責任，不單憑稱謂加家庭領域。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第6",
+      "para_index": 23,
+      "para_id": "hanshi-waizhuan#06-p23",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "事強暴之國難，使強暴之國事我易。事之以貨寶，則寶單而交不結。約契盟誓，則約定而反",
+      "note": "「事之彌順，其侵之愈甚」指出強暴權力受順從反而加劇侵害的關係；「行一不義，殺一無罪，而得天下不為也。」為追求權力設定不可越過的道德底線。因而不只是外交賄賂與國力配置的效用比較。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第6",
+      "para_index": 24,
+      "para_id": "hanshi-waizhuan#06-p24",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "勇士一呼而三軍皆避，出之誠也。昔者楚熊渠子夜行。見寢石以為伏虎，彎弓而射之，沒金",
+      "note": "「其身正，不令而行，其身不正，雖令不從。」以領導者自身行為解釋眾人的服從；「先王之所以拱揖指麾而四海賓服者，誠德之至也」把感服的根本放在誠德修養。射石奇事用來比喻誠能服人，依裁定不給 XII。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第6",
+      "para_index": 25,
+      "para_id": "hanshi-waizhuan#06-p25",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "昔者趙簡子薨而未葬，而中牟畔之。既葬五日，襄子興師而攻之，圍未匝，而城自壞者十丈",
+      "note": "「君子不乘人於利，不厄人於險。」以不乘人之危評判品格；「中牟聞其義而請降」呈現領導者的公義如何使對方歸服。軍吏稱天助未成為襄子的行動依據或結論，不給 XII。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第7",
+      "para_index": 3,
+      "para_id": "hanshi-waizhuan#07-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊有隱士東郭先生梁石君。當曹相國為齊相也，客謂匱生曰：「夫東郭先生梁石君，世之賢",
+      "note": "「取臣獨不取其不仕之臣耶？」提出任用者應主動求取隱士的標準（V）；「終不詘身下志以求仕」肯定不屈志求官的品格（VII）。娶婦與請火是引出求賢標準的比喻，不另標婚姻家庭。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第7",
+      "para_index": 11,
+      "para_id": "hanshi-waizhuan#07-p11",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "衛懿公之時，有臣曰弘演者，受命而使。未食，而狄人攻衛。於是懿公欲興師迎之。其民皆",
+      "note": "「殺身以捷其君，非徒捷其君，又令衛之宗復立」以臣對君國的責任與存國之功評價弘演（V）；「如弘演，可謂忠士矣。」明確肯定其忠誠品格（VII）。死亡是盡忠的行為結局，未另討論無常或失去。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第7",
+      "para_index": 12,
+      "para_id": "hanshi-waizhuan#07-p12",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孫叔敖遇狐丘丈人。狐丘丈人曰：「僕聞之，有三利必有三患，子知之乎？」孫叔敖蹵然易",
+      "note": "「夫爵高者，人妬之。官大者，主惡之。祿厚者，怨歸之。」指出地位利益引起的關係風險（V）；「吾爵益高，吾志益下。吾官益大，吾心益小。吾祿益厚，吾施益博。」以謙下、謹慎、廣施作為回應，肯定居高而不驕的品格（VII）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第7",
+      "para_index": 14,
+      "para_id": "hanshi-waizhuan#07-p14",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "楚莊王賜其羣臣酒。日暮酒酣，左右皆醉。殿上燭滅，有牽王后衣者。后扢冠纓而絕之，言",
+      "note": "「負日久矣，未有所效。」說明受寬貸之臣以效力報答君主的關係（V）；詩後評語「言大者無不容也。」以整則事件肯定容人之德（VII）。王后受牽衣是事件起點，正文並未討論夫妻承諾或親密關係。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第7",
+      "para_index": 18,
+      "para_id": "hanshi-waizhuan#07-p18",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "宋燕相齊見逐，罷歸之舍，召門尉陳饒等二十六人，曰：「諸大夫有能與我赴諸侯者乎？」",
+      "note": "「君不能行君之所輕，而欲使士致其所重」批評薄待士人卻要求其捨命，指出主從之間的互惠責任（V）；「是失之己而責諸人也。」另批評推諉自身過失、責怪他人的行為（VII）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第7",
+      "para_index": 21,
+      "para_id": "hanshi-waizhuan#07-p21",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "正直者順道而行，順理而言，公平無私，不為安肆志，不為危敭行。昔衛獻公出走，反國及",
+      "note": "「公平無私，不為安肆志，不為危敭行」建立不因安危改變的正直品格標準（VII）；「君反國而有私也，無乃不可乎？」及「為人臣生不能進賢而退不肖」分別說公正賞功與薦賢去邪的職責（V）。尸諫服務於責任評價，未另論生死。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第7",
+      "para_index": 22,
+      "para_id": "hanshi-waizhuan#07-p22",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "孔子閑居，子貢侍坐，請問為人下之道奈何。孔子曰：「善哉！爾之問也。為人下，其猶土",
+      "note": "「請問為人下之道奈何」以居下者如何待人任事為問題（V）；「多功不言，賞世不絶」借土稱許持續有益於人而不自誇的謙德（VII），答語是處世準則，不是土地物性的記錄。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第7",
+      "para_index": 23,
+      "para_id": "hanshi-waizhuan#07-p23",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "傳曰：南假子過程本子，本子為之烹鱺魚。南假子曰：「吾聞君子不食鱺魚。」本子曰：「",
+      "note": "「夫高比所以廣德也，下比所以狹行也。」及「比於善者，自進之階。比於惡者，自退之原也。」把效法對象與德行進退連起來，勸人向善者看齊；食魚只是引出品格養成問題的契機。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第7",
+      "para_index": 24,
+      "para_id": "hanshi-waizhuan#07-p24",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子貢問大臣。子曰：「齊有鮑叔，鄭有子皮。」子貢曰：「否。齊有管仲，鄭有東里子產。",
+      "note": "「然則薦賢賢於賢。」把大臣的價值繫於能否推舉賢者，涉及公共任用責任（V）；「知賢，智也。推賢，仁也。引賢，義也。」逐項說明薦賢行為何以合乎智、仁、義的品格標準（VII），不是僅列名臣。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第8",
+      "para_index": 3,
+      "para_id": "hanshi-waizhuan#08-p03",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "吳人伐楚，昭王去國，國有屠羊說從行。昭王反國，賞從者。及說，說辭曰：「君失國，臣",
+      "note": "屠羊說以「今見爵祿之利，而忘辭受之禮，非所聞也。」主張不因利祿失守辭受之義，涉及品格；後評「是厚於己而薄於君，狷乎非救世者也。」又追問只求自全而不救國的公共責任，不能只按前半讚其清廉。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第8",
+      "para_index": 4,
+      "para_id": "hanshi-waizhuan#08-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊崔杼弒莊公。荊蒯芮使晉而反，其僕曰：「崔杼弒莊公，子將奚如？」荊蒯芮曰：「驅之",
+      "note": "荊蒯芮據「今既不諫，又不去。」及「食其食，死事其。」承擔既已事君的責任；末評「荊蒯芮可謂守節死義矣。僕夫則無為死也，猶飲食而遇毒也。」區分有義的守節與無理由的殉死，是實質品格判斷，死亡本身並非主題。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第8",
+      "para_index": 5,
+      "para_id": "hanshi-waizhuan#08-p05",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "遜而直，上也。切次之。謗諫為下。懦為死。《詩》曰：「柔亦不茹，剛亦不吐。」",
+      "note": "「遜而直，上也。切次之。謗諫為下。懦為死。」以謙遜正直為上、謗諫怯懦為下，規定進言應有的品格，並非只比較說話技術的成效。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第8",
+      "para_index": 6,
+      "para_id": "hanshi-waizhuan#08-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "宋萬與莊公戰，獲乎莊公。莊公散舍諸宮中，數月，然後歸之，反為大夫於宋。宋萬與閔公",
+      "note": "「仇牧聞君弒，趨而至，遇之於門，手劍而叱之。」由末評「仇牧可謂不畏強禦矣。」明確肯定面對強暴仍敢抗拒的勇氣；怒與被殺屬情節，不另構成內在生活或死亡議題。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第8",
+      "para_index": 17,
+      "para_id": "hanshi-waizhuan#08-p17",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "梁山崩，晉君召大夫伯宗。道逢輦者，以其輦服其道。伯宗使其右下，欲鞭之。輦者曰：「",
+      "note": "「伯宗不言受輦者，詐以自知。」受「攘人之善。」的譴責，承重於冒領他人之善的品格問題；輦者所言「既而祠焉，河斯流矣。」又由後續敘事實現，正文認證祭祀與河流恢復的感應，不僅登錄儀節。",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第8",
+      "para_index": 21,
+      "para_id": "hanshi-waizhuan#08-p21",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "昨日何生？今日何成？必念歸厚，必念治生。日慎一日，遠如金城。《詩》曰：「我日斯邁",
+      "note": "「昨日何生？今日何成？」要求逐日反省，又以「必念歸厚，必念治生。日慎一日」勸持續敦厚謹慎，是日常自我修養的要求；不從末詩的親屬語另加家庭領域。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第8",
+      "para_index": 22,
+      "para_id": "hanshi-waizhuan#08-p22",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "官怠於有成，病加於小愈，禍生於懈惰，孝衰於妻子。察此四者，慎終如始。《易》曰：「",
+      "note": "「孝衰於妻子。」指出有妻子之後可能鬆懈孝親責任，家庭義務本身承重；「禍生於懈惰」與「察此四者，慎終如始。」則勸人戒怠、持守始終。小愈加病只是警戒鬆懈的類例，未展開身體處境。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第8",
+      "para_index": 24,
+      "para_id": "hanshi-waizhuan#08-p24",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魯哀公問冉有曰：「凡人之質而已，將必學而後為君子乎？」冉有對曰：「臣聞之，雖有良",
+      "note": "「雖有美質，不學則不成君子。」將君子養成繫於學習，是品格形成的主張；又以使秦止兵等功業為例，總結「然其名聲馳於後世，豈非學問之所致乎？」另說學問使卑賤者發揮才能、取得成就，不是只有任官名目。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第8",
+      "para_index": 29,
+      "para_id": "hanshi-waizhuan#08-p29",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魏文侯問狐卷子曰：「父賢足恃乎？」對曰：「不足。」「子賢足恃乎？」對曰：「不足。",
+      "note": "「望人者不至，恃人者不久。君欲治，從身始。人何可恃乎？」以賢父、賢子、賢臣仍不能代償自己的例子，要求由自身修為做起。親屬身分是論證例項，重點不是家庭互動而是不可倚他人之賢免除自修。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第8",
+      "para_index": 30,
+      "para_id": "hanshi-waizhuan#08-p30",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "湯作《護》，聞其宮聲，使人溫良而寬大。聞其商聲，使人方廉而好義。聞其角聲，使人惻",
+      "note": "「聞其商聲，使人方廉而好義。」與「聞其角聲，使人惻隱而愛仁。」等直接主張音樂能陶養人的德性，已超出樂聲名目的登錄；沒有儀節動作程序，不標 ritual。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第8",
+      "para_index": 31,
+      "para_id": "hanshi-waizhuan#08-p31",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "孔子曰：「《易》先《同人》後《大有》，承之以《謙》，不亦可乎？」故天道虧盈而益謙",
+      "note": "「持盈之道，抑而損之，此謙德之於行也。」以及周公、六種守德方式，具體教人居盛而謙，是品格修養；「鬼神害盈而福謙」則由正文肯定鬼神懲盈福謙的意圖，神聖制裁具有獨立承重內容。",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第8",
+      "para_index": 32,
+      "para_id": "hanshi-waizhuan#08-p32",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "昔者田子方出，見老馬於道，喟然有志焉，以問於御者曰：「此何馬也？」御曰：「故公家",
+      "note": "「少盡其力，而老棄其身，仁者不為也。」一面以不忘舊勞、善待衰弱者評仁德，一面正面提出老而失用即被遺棄的問題；「窮士聞之，知所歸心矣。」將老馬遭遇連向人的處境，衰老不是偶然背景。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第8",
+      "para_index": 33,
+      "para_id": "hanshi-waizhuan#08-p33",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊莊公出獵，有螳舉足將搏其輪，問其御曰：「此何蟲也？」御曰：「此是螳蜋也。其為蟲",
+      "note": "莊公以「此為人必為天下勇士矣。」肯定敢進抗敵的勇性，已有具體品格評價；「於是迴車避之，而勇士歸之。」又把掌權者尊重勇者與勇士歸附相連，表達領導者如何待人、使人歸心。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第9",
+      "para_index": 1,
+      "para_id": "hanshi-waizhuan#09-p01",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孟子少時誦，其母方織。孟子輟然中止，乃復進。其母知其諠也，呼而問之曰：「何為中止",
+      "note": "「其母引刀裂其織，以此誡之。」以母親的行動教養孩子（IV）；「今適有知而欺之，是教之不信也。」又把成人言行與孩子誠信品格的養成連起來（VII）。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第9",
+      "para_index": 6,
+      "para_id": "hanshi-waizhuan#09-p06",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "秦攻魏，破之，少子亡而不得。令魏國曰：「有得公子者賜金千斤，匿者罪至十族。」公子",
+      "note": "「凡養人子者務生之，非務殺之也。」以受託護養之責拒絕出賣公子（V）；「豈可見利畏誅之故，廢義而行詐哉？」將利誘與威脅下的守義、不欺作為品格標準（VII）。中矢是履行責任的情節，不另以死亡或身體詞面加格。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第9",
+      "para_index": 14,
+      "para_id": "hanshi-waizhuan#09-p14",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "傳曰：君子之聞道，入之於耳，藏之於心，察之以仁，守之以信，行之以義，出之以遜，故",
+      "note": "「藏之於心，察之以仁，守之以信，行之以義，出之以遜」主張把所聞之道內化並落實於品行；與「入之於耳，出之於口，茍言而已」對照，談的是修養與空談之別，嘔食只是比喻。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第9",
+      "para_index": 16,
+      "para_id": "hanshi-waizhuan#09-p16",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "賢士不以恥食，不以辱得。《老子》曰：「名與身孰親？身與貨孰多？得與亡孰病？是故甚",
+      "note": "「名與身孰親？身與貨孰多？」比較名利與自身生命的本末，提出人生取向的衡量（I）；「罪莫大於多欲，禍莫大於不知足」與「知足不辱，知止不殆」則把節欲知足作為修身準則（VII）。",
+      "co_domains": [
+        "I"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第9",
+      "para_index": 19,
+      "para_id": "hanshi-waizhuan#09-p19",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "脩身不可不慎也。嗜慾侈則行虧，讒毀行則害成。患生於忿怒，禍起於纖微。汙辱難湔灑，",
+      "note": "「嗜慾侈則行虧」與「患生於忿怒」直接論欲望、憤怒如何引發行為後果（VI）；「君子去徼幸，節嗜慾，務忠信，無毀於一人」提出節制、忠信與不毀人的品格修養（VII）。",
+      "co_domains": [
+        "VI"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第9",
+      "para_index": 24,
+      "para_id": "hanshi-waizhuan#09-p24",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "傳曰：昔戎將由余使秦，秦繆公問以得失之要，對曰：「古有國者未嘗不以恭儉也，失國者",
+      "note": "「古有國者未嘗不以恭儉也，失國者未嘗不以驕奢也。」以恭儉、驕奢的品格對照解釋得失（VII），並把領導者的行為連到國家存亡（V）；「由余歸，數諫不聽，去之秦。」又以拒諫失臣呈現公共後果，不能只當離間策略的記錄。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第9",
+      "para_index": 29,
+      "para_id": "hanshi-waizhuan#09-p29",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "傳曰：孔子過康子，子張子夏從。孔子入坐，二子相與論，終日不決。子夏辭氣甚隘，顏色",
+      "note": "「徐言誾誾，威儀翼翼，後言先默，得之推讓」示範討論中的聆聽與相讓（V）；與「專意自是，言人之非」及「是以君子賤之也」對照，評判謙遜與爭勝自是的品格（VII），情緒外貌用來支撐此評斷。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第10",
+      "para_index": 5,
+      "para_id": "hanshi-waizhuan#10-p05",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "君子溫儉以求於仁，恭讓以求於禮，得之自是，不得自是。故君子之於道也，猶農夫之耕，",
+      "note": "「君子溫儉以求於仁，恭讓以求於禮，得之自是，不得自是。」主張德行不因得失而改；「伯見父志，季知父心。」以兄弟讓位、承父志論家內責任與傳承，並非單列王室世系。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第10",
+      "para_index": 11,
+      "para_id": "hanshi-waizhuan#10-p11",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊景公遊於牛山之上，而北望齊，曰：「美哉國乎！鬰鬰蓁蓁，使古而無死者，則寡人將去",
+      "note": "「使古而無死者，則太公至今猶存。」以世代更替回應不願死亡，死本身是問題；「見怯君一而諛臣二。」另評附和君上畏死之意的諂媚品格，不因涕泣另加情緒領域。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第10",
+      "para_index": 13,
+      "para_id": "hanshi-waizhuan#10-p13",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "傳曰：卞莊好勇，母無恙時，三戰而北，交遊非之，國君辱之。卞莊子受命，顏色不變。乃",
+      "note": "「三北以養母也，今母歿矣，吾責塞矣。」「三北已塞責，又滅世斷宗，士節小具矣，而於孝未終也。」養親是退戰的理由，末評又以孝的持續責任衡量節士名節；戰死並未使死亡本身成為討論題目。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第10",
+      "para_index": 15,
+      "para_id": "hanshi-waizhuan#10-p15",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊桓公出遊，遇一丈夫襃衣應步，帶著桃殳。桓公怪而問之曰：「是何名？何經所在，何篇",
+      "note": "「夫日日慎桃，何患之有。」「亡國之社以戒諸侯，庶人之戒在於桃殳。」推廣日常自警的行為習慣，佩桃是養成戒慎的提醒物；所說避患出於持續警戒，未認證桃木的神異效力。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第10",
+      "para_index": 16,
+      "para_id": "hanshi-waizhuan#10-p16",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊桓公置酒，令諸大夫曰：「後者飲一經程。」管仲後，當飲一經程。飲其一半，而棄其半",
+      "note": "「酒入口者舌出，舌出者言失，言失者棄身。」「與其棄身，不寧棄酒乎？」以控制飲酒守口慎言，主張為避免失言應自我節制；飲酒是行為約束的問題，並非疾病或身體受苦的描寫。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第10",
+      "para_index": 17,
+      "para_id": "hanshi-waizhuan#10-p17",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "齊景公遣晏子南使楚。楚王聞之，謂左右曰：「齊遣晏子使寡人之國，幾至矣。」左右曰：",
+      "note": "「齊乃冠帶之國，辨士之化，固善盜乎？」是楚王藉一名盜者污蔑齊人的說法；晏子以「今居楚而善盜，意土地化使然爾。」反擊，將廉與盜的品行變化歸於所處環境，兼涉群體污名與品格形成。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第10",
+      "para_index": 18,
+      "para_id": "hanshi-waizhuan#10-p18",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "吳延陵季子遊於齊，見遺金，呼牧者取之。牧者曰：「何子居之高，視之下貌之君子，而言",
+      "note": "「當暑衣裘，吾豈取金者乎？」「子乃皮相之士也，何足語姓字哉！」牧者拒拾遺金以守廉，並反駁依外表看低自己的身分評價；不取金的品格與不由外貌定人的自我認同各有承重處。",
+      "co_domains": [
+        "II"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第10",
+      "para_index": 19,
+      "para_id": "hanshi-waizhuan#10-p19",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "顏淵問於孔子曰：「淵願貧如富，賤如貴，無勇而威，與士交通，終身無患難，亦且可乎？",
+      "note": "「夫貧而如富，其知足而無欲也。」說貧困中可由知足安頓自己；「賤而如貴，其讓而有禮也。」「其恭敬而不失於人也。」另以禮讓、恭敬與擇言規範待人修養。",
+      "co_domains": [
+        "XIII"
       ]
     },
     {

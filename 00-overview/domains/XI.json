@@ -2,9 +2,9 @@
   "domain": "XI",
   "name_zh": "自由·命運·改變",
   "gist": "自由意志與命運、選擇與代價、改變與重來",
-  "generated_at": "2026-10-03T21:04:16+00:00",
-  "para_count": 886,
-  "book_count": 48,
+  "generated_at": "2026-10-04T18:13:58+00:00",
+  "para_count": 901,
+  "book_count": 49,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -2483,6 +2483,223 @@
       "note": "勾踐棄龜明法而復國，曹、邢、許、鄭與韓依賴外國反亡，主張國勢取決於明法親民而非鬼神或外援。",
       "co_domains": [
         "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 4,
+      "para_id": "hanshi-waizhuan#01-p04",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "哀公問孔子曰：「有智壽乎？」孔子曰：「然。人有三死而非命也者，自取之也。居處不理",
+      "note": "「有智壽乎？」直接以能否保全壽命為題，三種死亡原因是被討論的問題（X）；「人有三死而非命也者，自取之也。」把原因從命定轉向自身生活與行為（XI），不是僅有死亡結局。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 5,
+      "para_id": "hanshi-waizhuan#01-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《傳》曰：在天者莫明乎日月，在地者莫明於水火，在人者莫明乎禮義。故日月不高則所照",
+      "note": "「君人者降禮尊賢而王，重法愛民而霸，好利多詐而危，權謀傾覆而亡。」把尊賢、愛民與逐利欺詐列為掌權者的不同作為（V）；「故人之命在天，國之命在禮。」區分個人命限與國家可由禮義維繫的命運（XI），沒有神明施福或感應的主張。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第1",
+      "para_index": 25,
+      "para_id": "hanshi-waizhuan#01-p25",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "仁道有四，磏為下。有聖仁者，有智仁者，有德仁者，有磏仁者。上知天能用其時，下知地",
+      "note": "「寬而容眾，百姓信之」及「匡民隱括，有在是中者也」以容眾、取信與教導民眾衡量仁的公共作用（V）；「仁磏則其德不厚」區分廉潔狹隘與厚德（VII）；「其所受天命之度，適至是而亡，弗能改也，雖枯槁弗捨也。」斷言此類人的限度受命而不能改（XI）。拿掉第三格就少了品格能否改變的命限主張，不能由德性高下或公共作用代替；未另指認神明感應。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 6,
+      "para_id": "hanshi-waizhuan#02-p06",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "《傳》曰：雩而雨者何也？曰：無何也，猶不雩而雨也。星墜木鳴，國人皆恐，何也？是天",
+      "note": "「無何也，猶不雩而雨也。」否定祈雨的因果效力，「上明政平，是雖並至無傷也。」把治亂的可為之處交還人事（XI）；「上下乖離，鄰人相暴，對門相盜」具體指出亂政傷害群體關係（V）。正文破除占候恐懼，不給 XII。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第2",
+      "para_index": 13,
+      "para_id": "hanshi-waizhuan#02-p13",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "崔杼弒莊公，合士大夫盟。盟者皆脫劍而入。言不疾措血至者死，所殺者十餘人。次及晏子",
+      "note": "「留以利而倍其君，非仁也」指出不可為私利背棄君臣責任（V）；「劫以刃而失其志者，非勇也。」以受威脅仍守志評勇德（VII）。第三格 XI 據「命有所懸，安在疾驅？」：若拿掉它，便漏掉脫險後以命有定限解釋不必疾逃的獨立主張；不能只用守節概括。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 2,
+      "para_id": "hanshi-waizhuan#03-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "有殷之時，榖生湯之廷，三日而大拱。湯問伊尹曰：「何物也？」對曰：「榖樹也。」湯問",
+      "note": "「見妖而為善，則禍不至，見祥而為不善，則福不臻。」主張人能以行為改變禍福（XI）；「七日而榖亡。妖孽不見，國家昌。」由敘事認證修德後妖象消失（XII），兩向並存。",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 3,
+      "para_id": "hanshi-waizhuan#03-p03",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "昔者周文王之時，莅國八年，夏六月，文王寢疾。五日而地動，東西南北不出國郊。有司皆",
+      "note": "「今又專興事動眾以增國城，是重吾罪也。」拒絕為己免災而役民，承載君主責任（V）；「請改行重善移之，其可以免乎。」主張改行可轉變處境（XI）。第三格 XII 由「夫天之道，見妖是以罰有罪也。」承重，拿掉它就少了天以災異懲罰人的神聖意圖，不能只剩人事改過。",
+      "co_domains": [
+        "V",
+        "XII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第3",
+      "para_index": 17,
+      "para_id": "hanshi-waizhuan#03-p17",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "《傳》曰：宋大水，魯人弔之曰：「天降淫雨，害於粢盛，延及君地，以憂執政，使臣敬弔",
+      "note": "「成湯文王知任其過，其興也勃焉。」肯定君主承擔過失（V）；「過而改之，是不過也。」及「三歲，年豐政平。」呈現改過能改變國家處境（XI）。第三格 XII 據「寡人不仁，齋戒不修，使民不時。天加以災，又遺君憂。」：宋君把水災解為天的責罰，敘事以改過後年豐收束；拿掉此格，就漏了這個與人事改過並存的天罰解釋。",
+      "co_domains": [
+        "V",
+        "XII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第4",
+      "para_index": 26,
+      "para_id": "hanshi-waizhuan#04-p26",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "南（苖）〔苗〕異獸之鞹猶犬羊也，與之於人猶死之藥也。安舊侈質習貫易性而然也。夫狂",
+      "note": "「習貫易性而然也。」主張習慣能改變人的性情，涉及人如何被塑成與改變；「夫習之於人微而著，深而固」連到「是以君子務為學也。」以習慣的深固作用說明應主動學習、養成品格，狂者的例子是論證材料。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第5",
+      "para_index": 20,
+      "para_id": "hanshi-waizhuan#05-p20",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "《傳》曰：驕溢之君寡忠，口惠之人鮮信。故盈把之木無合拱之枝，榮澤之水無吞舟之魚。",
+      "note": "「驕溢之君寡忠，口惠之人鮮信。」對驕縱與空口許惠作實質品格評斷；引詩後另有「禍福自己出也。」的正文評語，明確將禍福的根源歸於自身作為，並非由詩句推算命運。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第6",
+      "para_index": 14,
+      "para_id": "hanshi-waizhuan#06-p14",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孟子說齊宣王而不說。淳于髠侍。孟子曰：「今說公之君，公之君不說，意者其未知善之為",
+      "note": "「不用賢，削何有也？」把賢者是否獲用與國勢成敗分開，指出才能須被任用才有施展條件；「夫蓻冬至必彫，吾亦時矣。」以時世限制解釋自身不遇。答辯在辨明賢能與遭逢的關係，超出說辭如何奏效。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第6",
+      "para_index": 21,
+      "para_id": "hanshi-waizhuan#06-p21",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子行，簡子將殺陽虎，孔子似之，帶甲以圍孔子舍。子路慍怒，奮戟將下。孔子止之曰：",
+      "note": "「若我非陽虎而以我為陽虎，則非丘之罪也。命也夫！」辨明己責與無法控制的誤認，承認遭逢的命限；「子路歌，孔子和之，三斚而圍罷。」以歌和安處圍困，呈現困境中的自處與平復。",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第7",
+      "para_index": 6,
+      "para_id": "hanshi-waizhuan#07-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孔子困於孫蔡之間，即三經之席，七日不食藜羹不糝，弟子有飢色，讀《詩》《書》習禮樂",
+      "note": "「賢不肖者材也。遇者時也。今無有時，賢安所用哉？」區分德才與時遇，駁回善必得天福的說法（XI，不給 XII）；「為窮而不困，憂而志不衰，先知禍福之終始，而心無惑焉」另說困厄中如何保持志向、自處不惑（XIII）。",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第7",
+      "para_index": 15,
+      "para_id": "hanshi-waizhuan#07-p15",
+      "modes": [
+        "observation"
+      ],
+      "excerpt": "傳曰：伯奇孝而棄於親。隱公慈而殺於弟。叔武賢而殺於兄。比干忠而誅於君。《詩》曰：",
+      "note": "「伯奇孝而棄於親。」與「比干忠而誅於君。」並列有德者反受棄害的遭遇，以德行與遭遇的不相稱呈現善行並不保證善果；不是只登錄死亡，也未另討論死亡本身。",
+      "co_domains": []
+    },
+    {
+      "slug": "hanshi-waizhuan",
+      "chapter": "卷第9",
+      "para_index": 5,
+      "para_id": "hanshi-waizhuan#09-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "伯牙鼓琴，鍾子期聽之。方鼓琴，志在太山。鍾子期曰：「善哉鼓琴，巍巍乎如太山！」莫",
+      "note": "「以為為世無足與鼓琴也。」寫失去知音後再無可相通之人的關係處境（V）；「非獨鼓琴如此，賢者亦有之。」把琴藝故事推向賢者才能的發揮（VIII）。「茍非其時，則賢者將奚由得遂其功哉？」另以時遇限制成就（XI）；拿掉第三格，就少了才能之外仍受時機制約的命題。",
+      "co_domains": [
+        "V",
+        "VIII"
       ]
     },
     {
