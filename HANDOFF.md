@@ -8,7 +8,10 @@
 
 - **告示缺陷**：10/02 從宗教庫逐位元組複製的 11 部繞過了下載器 `CHROME_PATTERNS`，卷末「此…作品在全世界都属于公有领域…」被當正文切段（說苑 20、雲笈七籤 125、正蒙 19，近思錄／坐忘論／悟真篇／天隱子／太乙金華宗旨／太極圖說／明儒學案／金丹四百字各 1）。已只刪告示行（共 172 行）＋相連空行，重算 SHA-256，各書 `meta.json` notes 記錄；11 部全未標註，無既有判讀受影響；build-index 重生，verify 0 errors。**這 11 部的 raw 與宗教庫副本不再位元組相同**
 - **說苑**：重切 22 批／695 段。codex 10/11 通讀起草時撞 5H 額度（與 religions-history cbeta 工作共用窗），SPEC 未寫出；Claude 從 codex session log 撈回前半草稿與 84 條錨點，逐段讀原文複核後補完 `delegation/shuoyuan/SPEC.md`：11 體例群、錨點 85（必含 42／判空 22／不得含 XII 21，76 段；試點 b19 後補 `卷18`[26]）、6 灰區裁定＋錨點增刪理由寫在末節「規劃者裁定」；`accept-batch --check-spec` 85／85、一次性對拍 PASS
-- **下一步**：查 codex 額度（重置 10/12 04:04），有額度就派試點批（建議 b16 指武或 b19 辨物，XII 多側最難），驗收過再串行派其餘 21 批；回收流程同韓詩外傳
+- **試點 b19**（`卷18` 辨物）：v1 只錯 `卷18`[26]（人物信念被當認證給 XII）→ SPEC 補裁定 10＋錨點（85 條）→ v2 0 FAIL 已 commit
+- **標註進度（10/12 07:44 撞 codex 5H 額度，重置 12:08）**：已驗收並 commit 7 批 = b01–b05、b19（全部 0 FAIL、引句不符 0）。**未派 15 批：b06–b18、b20–b22**（b06 撞牆時沒產出，磁碟上無殘檔）
+- **燒速實測**：這一窗只有本工作在用 codex，每批吃 5H 窗 13–16%，一窗約 7 批；7D 從 16% 升到 31%。剩 15 批約需 2–3 窗，7D 夠用
+- **續跑**：查 codex 額度（最小呼叫刷新後讀 session jsonl 的 `rate_limits`），有額度就串行派 b06 … b22：每批 `run-delegation.sh shuoyuan bNN` → `accept-batch.py shuoyuan bNN` 0 FAIL → commit＋push → 下一批（驗收輸出是「、0 FAIL」，grep 要用 `[、 ]0 FAIL`）。全數回收後：check-delegation-out、check-reason-quotes、make-scaffold、apply-delegation `--tagged-by codex`、寫 psych_survey、build-index、verify、commit＋push
 
 ## 2026-10-04／05：韓詩外傳標註完成
 
