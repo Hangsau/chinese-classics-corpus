@@ -10,13 +10,13 @@
   "source_platform": "zh.wikisource.org",
   "source_url": "https://zh.wikisource.org/wiki/悟真篇",
   "downloaded_at": "2026-07-05T17:12:33+00:00",
-  "size_bytes": 21032,
-  "checksum_sha256": "c1436104e68be6f16ad62185b8c65c0dbfc3cd29a0ebaa2534f086b153d70125",
+  "size_bytes": 20899,
+  "checksum_sha256": "358bf5ad2750885af64d935916b89ea830a9a4e3ec2e658264cb8f0f68ce9314",
   "chapter_count": 1,
   "expected_chapter_count": null,
   "license": "CC BY-SA 4.0",
   "verified": true,
   "tier": "核心",
-  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：道教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。 來源 notes：內丹學（金丹）根本經典，鍾呂丹道南宗祖經",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：道教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。 來源 notes：內丹學（金丹）根本經典，鍾呂丹道南宗祖經 2026-10-12：刪去 1 行維基文庫公有領域授權告示（「此…作品在全世界都属于公有领域…」，下載器 CHROME_PATTERNS 早已濾除，但本部是自宗教庫逐位元組複製故漏網；與鹽鐵論 2026-08-09 重抓同一缺陷）；只刪告示行與因此相連的空行，正文不動，SHA-256 已重算，與宗教庫副本不再相同。",
   "psych_survey": null
 }

@@ -1,7 +1,7 @@
 # 索引
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 生成時間 2026-10-04T18:13:58+00:00｜155 部｜37,013,415 bytes｜已通讀 62 部｜已段落標註 62 部（26700 段）｜僅有骨架待標 0 部（110 段）
+> 生成時間 2026-10-11T23:07:20+00:00｜155 部｜36,990,538 bytes｜已通讀 62 部｜已段落標註 62 部（26700 段）｜僅有骨架待標 0 部（110 段）
 
 ## 分類統計
 
@@ -50,7 +50,7 @@
 | `mengzi` | 孟子 | 儒家著述 | original | 14 | 135,591 | ✓ | 630/630 |
 | `qianfulun` | 潛夫論 | 儒家著述 | original | 40 | 180,367 | ✓ | 268/268 |
 | `shenjian` | 申鑒 | 儒家著述 | original | 9 | 103,087 | ✓ | 105/105 |
-| `shuoyuan` | 說苑 | 儒家著述 | original | 20 | 402,383 | — | — |
+| `shuoyuan` | 說苑 | 儒家著述 | original | 20 | 399,723 | — | — |
 | `sushu` | 素書 | 儒家著述 | original | 6 | 4,961 | ✓ | 6/6 |
 | `wenzhongzi-zhongshuo` | 中說（文中子） | 儒家著述 | original | 17 | 111,989 | — | — |
 | `xinxu` | 新序 | 儒家著述 | original | 10 | 177,508 | ✓ | 218/218 |
@@ -58,11 +58,11 @@
 | `yangzi-fayan` | 揚子法言 | 儒家著述 | original | 14 | 60,431 | — | — |
 | `zhongjing` | 忠經 | 儒家著述 | original | 18 | 8,756 | ✓ | 18/18 |
 | `zhonglun` | 中論 | 儒家著述 | original | 25 | 73,781 | — | — |
-| `jindan-sibaizi` | 金丹四百字 | 內丹 | original | 1 | 6,471 | — | — |
+| `jindan-sibaizi` | 金丹四百字 | 內丹 | original | 1 | 6,338 | — | — |
 | `lingbao-bifa` | 靈寶畢法 | 內丹 | original | 1 | 53,279 | — | — |
-| `taiyi-jinhua-zongzhi` | 太乙金華宗旨 | 內丹 | original | 1 | 30,527 | — | — |
+| `taiyi-jinhua-zongzhi` | 太乙金華宗旨 | 內丹 | original | 1 | 30,394 | — | — |
 | `tianxian-zhengli` | 天仙正理直論 | 內丹 | original | 10 | 130,952 | — | — |
-| `wuzhen-pian` | 悟真篇 | 內丹 | original | 1 | 21,032 | — | — |
+| `wuzhen-pian` | 悟真篇 | 內丹 | original | 1 | 20,899 | — | — |
 | `zhonglu-chuandao-ji` | 鍾呂傳道集 | 內丹 | original | 1 | 90,665 | — | — |
 | `zhouyi-cantong-qi` | 周易參同契 | 內丹 | original | 35 | 23,610 | — | — |
 | `baizhan-qilue` | 百戰奇略 | 兵家 | original | 100 | 95,827 | — | — |
@@ -102,11 +102,11 @@
 | `shenzi` | 慎子 | 法家 | original | 9 | 25,740 | ✓ | 75/75 |
 | `chuanxi-lu` | 傳習錄 | 理學 | original | 3 | 243,278 | — | — |
 | `ercheng-yishu` | 二程遺書 | 理學 | original | 25 | 565,225 | — | — |
-| `jin-si-lu` | 近思錄 | 理學 | original | 18 | 177,338 | — | — |
-| `mingru-xuean` | 明儒學案 | 理學 | original | 76 | 2,846,338 | — | — |
-| `taiji-tushuo` | 太極圖說 | 理學 | original | 1 | 1,182 | — | — |
+| `jin-si-lu` | 近思錄 | 理學 | original | 18 | 177,205 | — | — |
+| `mingru-xuean` | 明儒學案 | 理學 | original | 76 | 2,846,204 | — | — |
+| `taiji-tushuo` | 太極圖說 | 理學 | original | 1 | 1,049 | — | — |
 | `xiangshan-yulu` | 象山語錄 | 理學 | original | 1 | 24,245 | — | — |
-| `zhengmeng` | 正蒙 | 理學 | original | 19 | 84,810 | — | — |
+| `zhengmeng` | 正蒙 | 理學 | original | 19 | 82,283 | — | — |
 | `zhoudunyi-tongshu` | 通書 | 理學 | original | 1 | 10,206 | — | — |
 | `zhuzi-yulei` | 朱子語類 | 理學 | original | 140 | 5,884,169 | — | — |
 | `haidao-suanjing` | 海島算經 | 算書 | original | 1 | 5,469 | ✓ | 24/24 |
@@ -153,13 +153,13 @@
 | `qingjing-jing` | 太上老君說常清靜經 | 道教經典 | original | 1 | 2,179 | — | — |
 | `taiping-jing` | 太平經 | 道教經典 | original | 12 | 122,455 | — | — |
 | `taishang-ganying-pian` | 太上感應篇 | 道教經典 | original | 1 | 4,773 | — | — |
-| `tianyinzi` | 天隱子 | 道教經典 | original | 1 | 4,979 | — | — |
+| `tianyinzi` | 天隱子 | 道教經典 | original | 1 | 4,846 | — | — |
 | `wenchang-yinzhiwen` | 文昌帝君陰騭文 | 道教經典 | original | 1 | 2,318 | — | — |
 | `xuangang-lun` | 玄綱論 | 道教經典 | original | 1 | 27,852 | — | — |
 | `yinfu-jing` | 黃帝陰符經 | 道教經典 | original | 11 | 1,766 | — | — |
 | `yuhuang-benxing-jing` | 高上玉皇本行集經 | 道教經典 | original | 1 | 43,103 | — | — |
-| `yunji-qiqian` | 雲笈七籤 | 道教經典 | original | 126 | 2,766,008 | — | — |
-| `zuowang-lun` | 坐忘論 | 道教經典 | original | 1 | 19,261 | — | — |
+| `yunji-qiqian` | 雲笈七籤 | 道教經典 | original | 126 | 2,749,383 | — | — |
+| `zuowang-lun` | 坐忘論 | 道教經典 | original | 1 | 19,128 | — | — |
 | `huangdi-neijing` | 黃帝內經 | 醫家 | original | 36 | 565,607 | — | — |
 | `jinkui-yaolue` | 金匱要略 | 醫家 | original | 31 | 102,687 | ✓ | 796/796 |
 | `nanjing` | 難經 | 醫家 | original | 81 | 45,958 | ✓ | 243/243 |

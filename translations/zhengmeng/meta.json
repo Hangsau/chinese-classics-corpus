@@ -10,13 +10,13 @@
   "source_platform": "zh.wikisource.org",
   "source_url": "https://zh.wikisource.org/wiki/正蒙",
   "downloaded_at": "2026-07-05T17:19:21+00:00",
-  "size_bytes": 84810,
-  "checksum_sha256": "0d76372ca1faf00bf5031670e4955653eec0e49a3da1c58b822525097afbc90b",
+  "size_bytes": 82283,
+  "checksum_sha256": "92a74cb6b65a93230b0beccb0bac63d4d5b6acd02ba72f9df6999afa3bd6a9c1",
   "chapter_count": 19,
   "expected_chapter_count": null,
   "license": "CC BY-SA 4.0",
   "verified": true,
   "tier": "次要",
-  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：儒教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。 來源 notes：張載氣學根本論著，宋明理學奠基文本",
+  "notes": "2026-10-02 自 religions-history 收入本庫（宗教庫原分類：儒教）。使用者 2026-10-02 明示「通通收過來，包含易經這類在經文區的，都多複製一份」——儒教／道教全部漢文典籍一次豁免不重複收規則；宗教庫仍保留一份，兩庫不去重。raw/ 逐位元組複製，SHA-256 與來源庫對拍相同。 來源 notes：張載氣學根本論著，宋明理學奠基文本 2026-10-12：刪去 19 行維基文庫公有領域授權告示（「此…作品在全世界都属于公有领域…」，下載器 CHROME_PATTERNS 早已濾除，但本部是自宗教庫逐位元組複製故漏網；與鹽鐵論 2026-08-09 重抓同一缺陷）；只刪告示行與因此相連的空行，正文不動，SHA-256 已重算，與宗教庫副本不再相同。",
   "psych_survey": null
 }

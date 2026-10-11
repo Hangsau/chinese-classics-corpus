@@ -1,7 +1,7 @@
 # 標籤索引：13 個人生問題領域
 
 > 本檔由 `scripts/build-index.py` 生成，**不要手改**。
-> 生成時間 2026-10-04T18:13:58+00:00｜17547 筆領域標記｜來自 62 部已標註的書
+> 生成時間 2026-10-11T23:07:20+00:00｜17547 筆領域標記｜來自 62 部已標註的書
 
 書級 `domains_hit` 只能告訴你去哪本書找；這裡直接給段落（SCHEMA §1.1）。
 
@@ -28,15 +28,15 @@
 - `jiayi-xinshu` 新書（儒家著述，11 章，145,232 bytes）
 - `kongzi-jiayu` 孔子家語（儒家著述，10 章，277,861 bytes）
 - `lujia-xinyu` 新語（儒家著述，15 章，81,009 bytes）
-- `shuoyuan` 說苑（儒家著述，20 章，402,383 bytes）
+- `shuoyuan` 說苑（儒家著述，20 章，399,723 bytes）
 - `wenzhongzi-zhongshuo` 中說（文中子）（儒家著述，17 章，111,989 bytes）
 - `yangzi-fayan` 揚子法言（儒家著述，14 章，60,431 bytes）
 - `zhonglun` 中論（儒家著述，25 章，73,781 bytes）
-- `jindan-sibaizi` 金丹四百字（內丹，1 章，6,471 bytes）
+- `jindan-sibaizi` 金丹四百字（內丹，1 章，6,338 bytes）
 - `lingbao-bifa` 靈寶畢法（內丹，1 章，53,279 bytes）
-- `taiyi-jinhua-zongzhi` 太乙金華宗旨（內丹，1 章，30,527 bytes）
+- `taiyi-jinhua-zongzhi` 太乙金華宗旨（內丹，1 章，30,394 bytes）
 - `tianxian-zhengli` 天仙正理直論（內丹，10 章，130,952 bytes）
-- `wuzhen-pian` 悟真篇（內丹，1 章，21,032 bytes）
+- `wuzhen-pian` 悟真篇（內丹，1 章，20,899 bytes）
 - `zhonglu-chuandao-ji` 鍾呂傳道集（內丹，1 章，90,665 bytes）
 - `zhouyi-cantong-qi` 周易參同契（內丹，35 章，23,610 bytes）
 - `baizhan-qilue` 百戰奇略（兵家，100 章，95,827 bytes）
@@ -55,11 +55,11 @@
 - `shenxian-zhuan` 神仙傳（志怪，10 章，112,803 bytes）
 - `chuanxi-lu` 傳習錄（理學，3 章，243,278 bytes）
 - `ercheng-yishu` 二程遺書（理學，25 章，565,225 bytes）
-- `jin-si-lu` 近思錄（理學，18 章，177,338 bytes）
-- `mingru-xuean` 明儒學案（理學，76 章，2,846,338 bytes）
-- `taiji-tushuo` 太極圖說（理學，1 章，1,182 bytes）
+- `jin-si-lu` 近思錄（理學，18 章，177,205 bytes）
+- `mingru-xuean` 明儒學案（理學，76 章，2,846,204 bytes）
+- `taiji-tushuo` 太極圖說（理學，1 章，1,049 bytes）
 - `xiangshan-yulu` 象山語錄（理學，1 章，24,245 bytes）
-- `zhengmeng` 正蒙（理學，19 章，84,810 bytes）
+- `zhengmeng` 正蒙（理學，19 章，82,283 bytes）
 - `zhoudunyi-tongshu` 通書（理學，1 章，10,206 bytes）
 - `zhuzi-yulei` 朱子語類（理學，140 章，5,884,169 bytes）
 - `sunzi-suanjing` 孫子算經（算書，4 章，35,563 bytes）
@@ -96,13 +96,13 @@
 - `qingjing-jing` 太上老君說常清靜經（道教經典，1 章，2,179 bytes）
 - `taiping-jing` 太平經（道教經典，12 章，122,455 bytes）
 - `taishang-ganying-pian` 太上感應篇（道教經典，1 章，4,773 bytes）
-- `tianyinzi` 天隱子（道教經典，1 章，4,979 bytes）
+- `tianyinzi` 天隱子（道教經典，1 章，4,846 bytes）
 - `wenchang-yinzhiwen` 文昌帝君陰騭文（道教經典，1 章，2,318 bytes）
 - `xuangang-lun` 玄綱論（道教經典，1 章，27,852 bytes）
 - `yinfu-jing` 黃帝陰符經（道教經典，11 章，1,766 bytes）
 - `yuhuang-benxing-jing` 高上玉皇本行集經（道教經典，1 章，43,103 bytes）
-- `yunji-qiqian` 雲笈七籤（道教經典，126 章，2,766,008 bytes）
-- `zuowang-lun` 坐忘論（道教經典，1 章，19,261 bytes）
+- `yunji-qiqian` 雲笈七籤（道教經典，126 章，2,749,383 bytes）
+- `zuowang-lun` 坐忘論（道教經典，1 章，19,128 bytes）
 - `huangdi-neijing` 黃帝內經（醫家，36 章，565,607 bytes）
 - `guo-yu` 國語（雜史，22 章，654,135 bytes）
 - `mu-tianzi-zhuan` 穆天子傳（雜史，8 章，49,338 bytes）
