@@ -2,9 +2,9 @@
   "domain": "IX",
   "name_zh": "苦難·疾病·身體",
   "gist": "疾病與身體、受苦的意義、照顧與被照顧",
-  "generated_at": "2026-10-11T23:07:20+00:00",
-  "para_count": 259,
-  "book_count": 35,
+  "generated_at": "2026-10-12T22:45:58+00:00",
+  "para_count": 266,
+  "book_count": 36,
   "surveyed_zero_hit": [
     "dengxizi",
     "dongmingji",
@@ -2357,6 +2357,107 @@
       "excerpt": "它：虫也。从虫而長，象冤曲垂尾形。上古艸居患它，故相問無它乎。凡它之屬皆从它。",
       "note": "字條除釋蛇形與部屬外，追述上古草居者受蛇患而相互問安，觸及人在身體威脅下的生活處境",
       "co_domains": []
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷05",
+      "para_index": 11,
+      "para_id": "shuoyuan#05-p11",
+      "modes": [
+        "narrative",
+        "prescription"
+      ],
+      "excerpt": "孝宣皇帝初即位，守廷尉吏路溫舒上書，言尚德緩刑，其詞曰：「陛下初即至尊，與天合符",
+      "note": "「自安之道，在人之死」揭露獄吏以判人死罪自保的權力弊害，並要求「省法制，寬刑罰，以廢煩獄」，屬V；「人情安則樂生，痛則思死，捶楚之下，何求而不得」及「故囚人不勝痛，則飾誣詞以示之」直接說明刑訊疼痛如何迫出假供詞，屬IX。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷07",
+      "para_index": 24,
+      "para_id": "shuoyuan#07-p24",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "宓子賤治單父，彈鳴琴，身不下堂而單父治。巫馬期亦治單父，以星出，以星入，日夜不出",
+      "note": "「我之謂任人，子之謂任力；任力者固勞，任人者固佚」比較分任與事事親為的工作方式，屬 VIII；「佚四肢，全耳目，平心氣而百官治」並以保全身體心氣作為評價，對照「弊性事情，勞煩教詔」，身體耗損與安養本身承重，屬 IX。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷16",
+      "para_index": 41,
+      "para_id": "shuoyuan#16-p41",
+      "modes": [
+        "prescription"
+      ],
+      "excerpt": "聖人之衣也便體以安身，其食也安於腹；適衣節食不聽口目。",
+      "note": "「聖人之衣也便體以安身，其食也安於腹」以身體舒適、安養為衣食準則，「適衣節食不聽口目」續說節制感官以適身，屬 IX。",
+      "co_domains": []
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷16",
+      "para_index": 48,
+      "para_id": "shuoyuan#16-p48",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "民有五死，聖人能去其三，不能去其二。饑渴死者，可去也；凍寒死者，可去也；罹五兵死",
+      "note": "「癰疽死者，血氣窮也」與「清靜無為，血氣乃平」論疾病、身體狀態與安養，屬 IX；「民有五死，聖人能去其三，不能去其二」及「壽命死者，不可去也」直接討論死亡可避免與不可避免的界線，屬 X。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷17",
+      "para_index": 16,
+      "para_id": "shuoyuan#17-p16",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魯哀公問於孔子曰：「有智者壽乎？」孔子曰：「然。人有三死而非命也者，人自取之。夫",
+      "note": "「夫寢處不時，飲食不節，佚勞過度者，疾共殺之」把飲食、作息與勞佚失度連到實際身體損害，屬 IX；「此三者，非命也，人自取之」將部分死亡原因歸於人的行為而非命定，屬 XI。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷20",
+      "para_index": 5,
+      "para_id": "shuoyuan#20-p05",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "禽滑釐問於墨子曰：「錦繡絺紵，將安用之？」墨子曰：「惡，是非吾用務也。古有無文者",
+      "note": "「長無用，好末淫，非聖人所急也」及「先質而後文，此聖人之務」把節儉、尚質作德行取捨，屬 VII；凶年選粟的問答以「故食必常飽，然後求美；衣必常暖，然後求麗；居必常安，然後求樂」說明身體基本需要先於裝飾享受，屬 IX，並非單純衣食名物。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷20",
+      "para_index": 7,
+      "para_id": "shuoyuan#20-p07",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魏文侯問李克曰：「刑罰之源安生？」李克曰：「生於姦邪淫泆之行。凡姦邪之心，飢寒而",
+      "note": "「飢寒並至而能不為姦邪者，未之有也」把身受飢寒與被迫為邪的處境直接相連，屬 IX；「民以為邪，因之法隨，誅之不赦其罪，則是為民設陷也」追究君主先造成困境再施刑的責任與不公，屬 V。不是單列刑罰制度或農工職名。",
+      "co_domains": [
+        "V"
+      ]
     },
     {
       "slug": "sunzi-bingfa",

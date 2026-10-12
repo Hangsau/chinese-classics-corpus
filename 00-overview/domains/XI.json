@@ -2,9 +2,9 @@
   "domain": "XI",
   "name_zh": "自由·命運·改變",
   "gist": "自由意志與命運、選擇與代價、改變與重來",
-  "generated_at": "2026-10-11T23:07:20+00:00",
-  "para_count": 901,
-  "book_count": 49,
+  "generated_at": "2026-10-12T22:45:58+00:00",
+  "para_count": 937,
+  "book_count": 50,
   "surveyed_zero_hit": [
     "dongmingji",
     "fangyan",
@@ -8935,6 +8935,510 @@
         "X",
         "XII",
         "XIII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷01",
+      "para_index": 21,
+      "para_id": "shuoyuan#01-p21",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "明主者有三懼，一曰處尊位而恐不聞其過，二曰得意而恐驕，三曰聞天下之至言而恐不能行",
+      "note": "「聞吾過而不告者其罪刑」要求臣下直諫，支持 V；「一曰處尊位而恐不聞其過，二曰得意而恐驕，三曰聞天下之至言而恐不能行」明列領導者應保持的三種憂懼，支持 VI。第三格 XI 不可省：拿掉它便漏掉末則將不祥從異物轉回人事的主張；「如虎之室，如蛇之穴而見之，曷為不祥也」否定虎蛇為凶兆，「知而不用，二不祥；用而不任，三不祥也」則把可改的危險指向用人，不給 XII。",
+      "co_domains": [
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷01",
+      "para_index": 23,
+      "para_id": "shuoyuan#01-p23",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "殷太戊時，有桑穀生於庭，昏而生，比旦而拱，史請卜之湯廟，太戊從之，卜者曰：「吾聞",
+      "note": "「見殃而能為善，則禍不至」主張人的作為能改變預示的禍患，支持 XI；「於是乃早朝而晏退，問疾弔喪，三日而桑穀自亡」以行善後異木消失認證徵應，支持 XII，並未把神異全數改釋為自然現象。",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷03",
+      "para_index": 16,
+      "para_id": "shuoyuan#03-p16",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "晉平公問於師曠曰：「吾年七十欲學，恐已暮矣。」師曠曰：「何不炳燭乎？」平公曰：「",
+      "note": "平公以「吾年七十欲學，恐已暮矣」把年齡看成學習的阻限；師曠以「老而好學，如炳燭之明」及「炳燭之明，孰與昧行乎」說明晚年仍能藉學習改善自身，承重的是改變是否仍有可能。",
+      "co_domains": []
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷03",
+      "para_index": 18,
+      "para_id": "shuoyuan#03-p18",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "梁丘據謂晏子曰：「吾至死不及夫子矣。」晏子曰：「嬰聞之，為者常成，行者常至；嬰非",
+      "note": "梁丘據認定「吾至死不及夫子矣」，晏子卻以「嬰非有異於人也」及「常為而不置，常行而不休者」把差距歸於持續行動，說明人的可達程度並非先天不可改變。",
+      "co_domains": []
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷04",
+      "para_index": 9,
+      "para_id": "shuoyuan#04-p09",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "天命矣夫世子！」詩曰：「萋兮斐兮，成是貝錦。彼譖人者，亦已太甚！」",
+      "note": "「天命矣夫世子」本身將世子的遭際歸於命定，構成 XI 的判語；後面的引詩只作印證，不從詩中的讒人補出品格領域，也不把天命一詞當作神聖力量獲敘事認證而給 XII。",
+      "co_domains": []
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷09",
+      "para_index": 27,
+      "para_id": "shuoyuan#09-p27",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孝景皇帝時，吳王濞反，梁孝王中郎枚乘字叔聞之，為書諫王，其辭曰：「君王之外臣乘，",
+      "note": "「積德修行，不知其善，有時而用；行惡為非，棄義背理，不知其惡，有時而亡」說明品行累積的後果，屬 VII；「變所欲為，易於反掌，安於太山」與「福生有基，禍生有胎；納其基，絕其胎；禍何從來哉？」則把轉危為安繫於人改變作為，屬 XI。父子之道在此服務於忠諫論，不另立家庭議題。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷10",
+      "para_index": 1,
+      "para_id": "shuoyuan#10-p01",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "存亡禍福，其要在身，聖人重誡，敬慎所忽。中庸曰：「莫見乎隱，莫顯乎微；故君子能慎",
+      "note": "「故君子能慎其獨也」要求在隱微獨處時仍自守，屬品格修養；「存亡禍福，其要在身」則把禍福的關鍵放在自身作為，另有人的主動責任與可改變性。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷10",
+      "para_index": 11,
+      "para_id": "shuoyuan#10-p11",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "單快曰：「國有五寒，而冰凍不與焉；一曰政外，二曰女厲，三曰謀泄，四曰不敬卿士而國",
+      "note": "列出國政之失後明說「此五者一見，雖祠無福，除禍必得」，否定祭祀能替失政致福，將避禍的著力處轉回可去除的人事弊端，故屬人能如何改變禍福。",
+      "co_domains": []
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷10",
+      "para_index": 12,
+      "para_id": "shuoyuan#10-p12",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孔子曰：「存亡禍福，皆在己而已，天災地妖，亦不能殺也。」昔者殷王帝辛之時，爵生烏",
+      "note": "「存亡禍福，皆在己而已，天災地妖，亦不能殺也」把結果交還人的作為，帝辛與武丁的反向結局承接此說；「故妖孽者，天所以警天子諸侯也」又明認天有警告意圖。人可改變禍福與天意警示在本段同時成立。",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷10",
+      "para_index": 14,
+      "para_id": "shuoyuan#10-p14",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "夫福生於隱約，而禍生於得意，齊頃公是也。齊頃公、桓公之子孫也，地廣民眾，兵強國富",
+      "note": "齊頃公由「驕蹇怠傲」轉為「卑下諸侯」，呈現驕與謙的品格對照；「可謂能詘免變化以致之」則明指敗後改變自身行為能扭轉處境，並非固定不變的禍福。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷10",
+      "para_index": 32,
+      "para_id": "shuoyuan#10-p32",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "凡司其身，必慎五本：一曰柔以仁，二曰誠以信，三曰富而貴毋敢以驕人，四曰恭以敬，五",
+      "note": "「一曰柔以仁，二曰誠以信，三曰富而貴毋敢以驕人」等五本是具體修身要求；「思此五者，則無凶命」另主張人的敬慎能避免凶禍。所列異象與興亡沒有明說神聖意圖，不由奇異現象添 XII。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷11",
+      "para_index": 10,
+      "para_id": "shuoyuan#11-p10",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "陳子說梁王，梁王說而疑之曰：「子何為去陳侯之國而教小國之孤於此乎？」陳子曰：「夫",
+      "note": "「穆公得之，時強也」與「孔子之時不行」對照不同才士受用與否，涉及才能的發揮（VIII）；「夫善亦有道，而遇亦有時」另把遇合繫於時機，說明個人之善不能保證際遇（XI）。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷11",
+      "para_index": 26,
+      "para_id": "shuoyuan#11-p26",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "衛將軍文子問子貢曰：「季文子三窮而三通，何也？」子貢曰：「其窮事賢，其通舉窮，其",
+      "note": "「其通舉窮，其富分貧，其貴禮賤」要求得勢者扶助困窮、尊重卑賤，並說明朋友與百姓的回應（V）；「其得之，固道也；失之，命也」則分辨行為所致的得與非己所控的失（XI），兩項主張皆已在本段成立。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷11",
+      "para_index": 27,
+      "para_id": "shuoyuan#11-p27",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "其窮不事賢，其通不舉窮，其富不分貧，其貴不理賤，其得之，命也；其失之，固道也。」",
+      "note": "「其通不舉窮，其富不分貧，其貴不理賤」列出得勢後不扶助、不尊重他人的作為（V）；本段自行以「其得之，命也；其失之，固道也」將所得歸於偶然命遇、所失歸於上述作為，分辨命與行為後果（XI）。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷11",
+      "para_index": 30,
+      "para_id": "shuoyuan#11-p30",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "趙簡子問於成摶曰：「吾聞夫羊殖者，賢大夫也，是行奚然？」對曰：「臣摶不知也。」簡",
+      "note": "「廉以不匿其過」及「勇以喜仁」以承認過失、勇而好仁說明具體品格（VII）；「其為人也數變」並以「每變益上矣」收束，明說人的品行可持續向上改變，不能用多年以前的認識固定他（XI）。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷13",
+      "para_index": 2,
+      "para_id": "shuoyuan#13-p02",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "楊子曰：「事之可以之貧，可以之富者，其傷行者也；事之可以之生，可以之死者，其傷勇",
+      "note": "「楊子智而不知命，故其知多疑」把人的疑惑歸於不知命，並以「知命者不惑。」提出面對命限的認識，已超出對楊子的單純品題。",
+      "co_domains": []
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷13",
+      "para_index": 17,
+      "para_id": "shuoyuan#13-p17",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "韓昭侯造作高門。屈宜咎曰：「昭侯不出此門。」曰：「何也？」曰：「不時。吾所謂不時",
+      "note": "「不以此時恤民之急也，而顧反益奢」批評君主於民飢時加重奢侈，承載恤民責任；「吾所謂不時者，非時日也。」明確排除擇日，把禍患的依據歸回人的作為，故另含 XI，不含 XII。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷13",
+      "para_index": 49,
+      "para_id": "shuoyuan#13-p49",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "鄭桓公東會封於鄭，暮舍於宋東之逆旅，逆旅之叟從外來，曰：「客將焉之？」曰：「會封",
+      "note": "「時難得而易失也」明說時機的限制；桓公聽勸後「援轡自駕」，敘事以「微逆旅之叟，幾不會封也」肯定及時改變行動能影響際遇，承重在人如何回應時機。",
+      "co_domains": []
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷14",
+      "para_index": 8,
+      "para_id": "shuoyuan#14-p08",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "萬章問曰：「孔子於衛主雍睢，於齊主寺人脊環，有諸？」孟子曰：「否！不然。好事者為",
+      "note": "「孔子進之以禮，退之以義」以禮義約束求仕與依附對象，屬 VII；「得之不得曰有命」另將能否得位歸於人不能強求的際遇，屬 XI。敘事中的親屬關係只交代引薦渠道，不另成家庭主張。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷15",
+      "para_index": 4,
+      "para_id": "shuoyuan#15-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "吳起為苑守，行縣適息，問屈宜臼曰：「王不知起不肖，以為苑守，先生將何以教之？」屈",
+      "note": "「今子陰謀逆德，好用凶器，殆人所棄」具體批評好爭用兵的品行；「成刑之徒不可更已」則回答吳起能否改變既成走向的疑問。天道之說未獲本段後續事件認證，不加 XII。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷15",
+      "para_index": 16,
+      "para_id": "shuoyuan#15-p16",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "武王將伐紂。召太公望而問之曰：「吾欲不戰而知勝，不卜而知吉，使非其人，為之有道乎",
+      "note": "「以賢伐不肖，則不卜而知吉矣」以人事決定吉凶，屬 XI 並排除 XII；「失其民制為匹夫」以失民判定統治正當性，屬 V。第三格 VII 由歸還玉與女子後的「武王廉於財矣」「武王廉於色也」承重；拿掉它便漏掉勝後不貪財色的具體品格評價，不能由民心或吉凶判斷涵蓋。",
+      "co_domains": [
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷16",
+      "para_index": 13,
+      "para_id": "shuoyuan#16-p13",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "時不至，不可強生也；事不究，不可強求也。貞良而亡，先人餘殃；猖獗而活，先人餘烈；",
+      "note": "「才賢而任輕，則有名，不肖任大，身死名廢」論才能與職任的適配，屬 VIII；「時不至，不可強生也；事不究，不可強求也」及「貞良而亡，先人餘殃」說當下作為受時機與前人遺緒限制，屬 XI。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷16",
+      "para_index": 21,
+      "para_id": "shuoyuan#16-p21",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "時乎，時乎！間不及謀；至時之極，間不容息；勞而不體，亦將自息；有而不施，亦將自得",
+      "note": "「時乎，時乎！間不及謀；至時之極，間不容息」把行事機會寫成不容延宕、甚至來不及籌謀的限制，人的作為須面對時遇，屬 XI；未把時間推移另當衰老或死亡。",
+      "co_domains": []
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷16",
+      "para_index": 28,
+      "para_id": "shuoyuan#16-p28",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "坎井無黿鼉者，隘也；園中無脩林者，小也。小忠，大忠之賊也；小利，大利之殘也。自清",
+      "note": "「小忠，大忠之賊也；小利，大利之殘也」辨析局部忠利如何損害大節，屬 VII；「禍福非從地中出，非從天上來，己自生之」把禍福歸回自己的作為，屬 XI，且明確排除 XII。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷16",
+      "para_index": 36,
+      "para_id": "shuoyuan#16-p36",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "知命者不怨天，知己者不怨人；人而不愛則不能仁，佞而不巧則不能信；言善毋及身，言惡",
+      "note": "「言善毋及身，言惡毋及人」規範謙抑、不惡言人的品格，屬 VII；「知命者不怨天，知己者不怨人」以認清命限及自身來調整歸責，屬 XI，並非天意效驗的認證。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷16",
+      "para_index": 38,
+      "para_id": "shuoyuan#16-p38",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "水倍源則川竭，人倍信則名不達，義勝患則吉，患勝義則滅。五聖之謀，不如逢時；辯智明",
+      "note": "「人倍信則名不達」與「多易多敗，多言多失」警戒失信、輕率、多言，屬 VII；「五聖之謀，不如逢時；辯智明慧，不如遇世」指出才智仍受時遇限制，屬 XI。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷16",
+      "para_index": 40,
+      "para_id": "shuoyuan#16-p40",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "梟逢鳩。鳩曰：「子將安之？」梟曰：「我將東徙。」鳩曰：「何故？」梟曰：「鄉人皆惡",
+      "note": "「子能更鳴可矣，不能更鳴，東徙猶惡子之聲」以梟鳩對話指出改換地方不足以化解由自身行為造成的困境，改變仍繫於自身，屬 XI；寓言的答語本身已提出此判斷。",
+      "co_domains": []
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷16",
+      "para_index": 47,
+      "para_id": "shuoyuan#16-p47",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "登高使人欲望，臨淵使人欲窺，何也？處地然也。御者使人恭，射者使人端，何也？其形便",
+      "note": "「登高使人欲望，臨淵使人欲窺」以「處地然也」解釋人的意向，「御者使人恭，射者使人端」又說活動如何改變姿態，屬 XI 的人受處境塑造，並非只記物理環境。",
+      "co_domains": []
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷17",
+      "para_index": 16,
+      "para_id": "shuoyuan#17-p16",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魯哀公問於孔子曰：「有智者壽乎？」孔子曰：「然。人有三死而非命也者，人自取之。夫",
+      "note": "「夫寢處不時，飲食不節，佚勞過度者，疾共殺之」把飲食、作息與勞佚失度連到實際身體損害，屬 IX；「此三者，非命也，人自取之」將部分死亡原因歸於人的行為而非命定，屬 XI。",
+      "co_domains": [
+        "IX"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷17",
+      "para_index": 18,
+      "para_id": "shuoyuan#17-p18",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孔子困於陳、蔡之間，居環堵之內，席三經之席，七日不食，藜羹不糝，弟子皆有饑色，讀",
+      "note": "「有其才不遇其時，雖才不用」論人才不能發揮的處境，屬 VIII；「賢不肖者才也，為不為者人也，遇不遇者時也，死生者命也」區分人的作為與時命，屬 XI，並駁回善必天報，故不含 XII。「故學者非為通也，為窮而不困也，憂而不衰也」屬 XIII；若拿掉第三格，就漏掉學習如何使人承受困窮而不衰的安頓主張，不能只剩才用與時遇。",
+      "co_domains": [
+        "VIII",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷17",
+      "para_index": 19,
+      "para_id": "shuoyuan#17-p19",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子之宋，匡簡子將殺陽虎，孔子似之。甲士以圍孔子之舍，子路怒，奮戟將下鬥。孔子止",
+      "note": "「若似陽虎，則非丘之罪也，命也夫」區分自己能負責的修習與無法控制的誤認，屬 XI；「子路歌，孔子和之，三終而甲罷」寫受圍時以歌和安處困境，屬 XIII，並非僅記解圍成功。",
+      "co_domains": [
+        "XIII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷18",
+      "para_index": 3,
+      "para_id": "shuoyuan#18-p03",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "易曰：「天垂象，見吉凶，聖人則之。」昔者高宗、成王感於雊雉暴風之變，脩身自改而享",
+      "note": "「脩身自改而享豐昌之福也」以自改與秦君「終不能改」相對，人的改變關係禍福，屬 XI；「天變動於上，群臣昏於朝，百姓亂於下，遂不察，是以亡也」由敘述認證天象示警而不察致亡，屬 XII。",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷18",
+      "para_index": 25,
+      "para_id": "shuoyuan#18-p25",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "晉平公出畋，見乳虎伏而不動，顧謂師曠曰：「吾聞之也，霸王之主出，則猛獸伏不敢起。",
+      "note": "「今夫虎所以不動者，為駮馬也」及「人自興妖，而還自賊也」破除君德致祥的解釋，把原因轉回物性與人的作為，屬 XI；末尾「歸未幾而平公死，乃知師曠神明矣」卻由敘述者認證死期預言，另屬 XII，兩向不可相互抹去。",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷18",
+      "para_index": 27,
+      "para_id": "shuoyuan#18-p27",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "雨穀三日，虻風之所飄也；雨血三日，鷙鳥擊於上也；馬生牛，牛生馬，雜牧也，此非翟之",
+      "note": "「其諸卿貨其大夫，比黨以求祿爵」與「其政令不竟而數化」把真正的妖定位為官場結黨與政令失序，屬 V；「雨穀三日，虻風之所飄也」及「此非翟之妖也」用自然原因破除異象致禍的推斷，屬 XI，不含 XII。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷20",
+      "para_index": 2,
+      "para_id": "shuoyuan#20-p02",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "信鬼神者失謀，信日者失時，何以知其然？夫賢聖周知，能不時日而事利；敬法令，貴功勞",
+      "note": "「敬法令，貴功勞，不卜筮而身吉；謹仁義，順道理，不禱祠而福」把吉福繫於人的作為，屬 XI；同段論述者又斷言「乃欲背道妄行而以祠祀求福，神明必違之矣」，並以「是以泰山終不享李氏之旅」認定神明拒享，屬 XII。兩向並存，不能把反對依賴占祭讀成全盤否定神意。",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷20",
+      "para_index": 6,
+      "para_id": "shuoyuan#20-p06",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "秦始皇既兼天下，大侈靡，即位三十五年猶不息，治大馳道，從九原抵雲陽，塹山堙谷直通",
+      "note": "「嚴威克下，下喑上聾」指出威壓使上下溝通斷絕，屬 V；「奢侈失本，淫泆趨末」批評君主奢淫的品行，屬 VII。第三格 XI 由「若陛下欲更之，能若堯與禹乎？不然無冀也」承重：拿掉它就漏掉積弊形成後能否改變、改變須具何種條件的獨立追問。死亡結局不另給 X。",
+      "co_domains": [
+        "V",
+        "VII"
       ]
     },
     {

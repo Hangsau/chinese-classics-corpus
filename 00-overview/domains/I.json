@@ -2,9 +2,9 @@
   "domain": "I",
   "name_zh": "存在與意義",
   "gist": "我為何在此、活著有沒有意義、與想不通的問題共處、在歷史洪流中的渺小",
-  "generated_at": "2026-10-11T23:07:20+00:00",
-  "para_count": 282,
-  "book_count": 27,
+  "generated_at": "2026-10-12T22:45:58+00:00",
+  "para_count": 284,
+  "book_count": 28,
   "surveyed_zero_hit": [
     "cai-zhonglang-ji",
     "dengxizi",
@@ -2363,6 +2363,34 @@
         "XII",
         "XIII"
       ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷17",
+      "para_index": 28,
+      "para_id": "shuoyuan#17-p28",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孔子見榮啟期，衣鹿皮裘，鼓瑟而歌。孔子問曰：「先生何樂也？」對曰：「吾樂甚多。天",
+      "note": "「天生萬物唯人為貴，吾既已得為人，是一樂也」回答生命何以值得欣悅，屬 I；「吾年已九十五」及「死者民之終也」把年壽與必至的死亡納入人生理解，屬 X。「夫貧者士之常也」與「處常待終，當何憂乎」屬 XIII；若拿掉第三格，就漏掉把貧窮當作可安處的常境、由此解除憂慮的自處方法。",
+      "co_domains": [
+        "X",
+        "XIII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷20",
+      "para_index": 4,
+      "para_id": "shuoyuan#20-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "衛有五丈夫，俱負缶而入井灌韭，終日一區。鄧析過，下車為教之，曰：「為機，重其後，",
+      "note": "「有機知之巧，必有機知之敗；我非不知也，不欲為也」與「我一心溉之，不知改已」表明五丈夫明知便利仍選擇專一質樸的生活取向，屬 I。故事所論不止灌溉效能，也不由鄧析一時不悅另加情緒格。",
+      "co_domains": []
     },
     {
       "slug": "taixuanjing",

@@ -2,9 +2,9 @@
   "domain": "XIII",
   "name_zh": "安頓·修復·平安",
   "gist": "靜與休息、感恩與知足、希望與活下去的理由、施與、玩與輕盈",
-  "generated_at": "2026-10-11T23:07:20+00:00",
-  "para_count": 289,
-  "book_count": 34,
+  "generated_at": "2026-10-12T22:45:58+00:00",
+  "para_count": 295,
+  "book_count": 35,
   "surveyed_zero_hit": [
     "duduan",
     "fangyan",
@@ -2829,6 +2829,97 @@
         "X",
         "XI",
         "XII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷14",
+      "para_index": 9,
+      "para_id": "shuoyuan#14-p09",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "夫子行說七十諸侯無定處，意欲使天下之民各得其所，而道不行。退而修春秋，采毫毛之善",
+      "note": "「上通於天而麟至，此天之知夫子也」由敘述者認證天以麟至回應孔子，屬 XII；在「賢聖說於世而不得行其道」的困境中，「不怨天，不尤人，下學而上達」提出失意後持續為學、不怨尤的自處方式，屬 XIII。",
+      "co_domains": [
+        "XII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷16",
+      "para_index": 25,
+      "para_id": "shuoyuan#16-p25",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "已雕已琢，還反於樸，物之相反，復歸於本。循流而下，易以至；倍風而馳，易以遠。兵不",
+      "note": "「直而不能枉，不可與大任；方而不能圜，不可與長存」及「毀廉者莫甚於色」辨行事彈性與品格受損，屬 VII；「能忍恥者安，能忍辱者存」專說受辱時如何承受、自處，屬 XIII。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷17",
+      "para_index": 17,
+      "para_id": "shuoyuan#17-p17",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孔子遭難陳、蔡之境，絕糧，弟子皆有饑色，孔子歌兩柱之間。子路入見曰：「夫子之歌，",
+      "note": "「列士不困不成行」將艱困說成品行養成的條件，屬 VII；「孔子歌兩柱之間」及「夫陳、蔡之間，丘之幸也」呈現身處絕糧困境時，以歌樂及重新理解遭遇來自處，屬 XIII。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷17",
+      "para_index": 18,
+      "para_id": "shuoyuan#17-p18",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孔子困於陳、蔡之間，居環堵之內，席三經之席，七日不食，藜羹不糝，弟子皆有饑色，讀",
+      "note": "「有其才不遇其時，雖才不用」論人才不能發揮的處境，屬 VIII；「賢不肖者才也，為不為者人也，遇不遇者時也，死生者命也」區分人的作為與時命，屬 XI，並駁回善必天報，故不含 XII。「故學者非為通也，為窮而不困也，憂而不衰也」屬 XIII；若拿掉第三格，就漏掉學習如何使人承受困窮而不衰的安頓主張，不能只剩才用與時遇。",
+      "co_domains": [
+        "VIII",
+        "XI"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷17",
+      "para_index": 19,
+      "para_id": "shuoyuan#17-p19",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子之宋，匡簡子將殺陽虎，孔子似之。甲士以圍孔子之舍，子路怒，奮戟將下鬥。孔子止",
+      "note": "「若似陽虎，則非丘之罪也，命也夫」區分自己能負責的修習與無法控制的誤認，屬 XI；「子路歌，孔子和之，三終而甲罷」寫受圍時以歌和安處困境，屬 XIII，並非僅記解圍成功。",
+      "co_domains": [
+        "XI"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷17",
+      "para_index": 28,
+      "para_id": "shuoyuan#17-p28",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "孔子見榮啟期，衣鹿皮裘，鼓瑟而歌。孔子問曰：「先生何樂也？」對曰：「吾樂甚多。天",
+      "note": "「天生萬物唯人為貴，吾既已得為人，是一樂也」回答生命何以值得欣悅，屬 I；「吾年已九十五」及「死者民之終也」把年壽與必至的死亡納入人生理解，屬 X。「夫貧者士之常也」與「處常待終，當何憂乎」屬 XIII；若拿掉第三格，就漏掉把貧窮當作可安處的常境、由此解除憂慮的自處方法。",
+      "co_domains": [
+        "I",
+        "X"
       ]
     },
     {

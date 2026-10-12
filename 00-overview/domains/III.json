@@ -2,9 +2,9 @@
   "domain": "III",
   "name_zh": "愛與親密",
   "gist": "愛與性、被拒絕、承諾、信任與脆弱、溝通與被理解",
-  "generated_at": "2026-10-11T23:07:20+00:00",
-  "para_count": 177,
-  "book_count": 31,
+  "generated_at": "2026-10-12T22:45:58+00:00",
+  "para_count": 181,
+  "book_count": 32,
   "surveyed_zero_hit": [
     "duduan",
     "fangyan",
@@ -1908,6 +1908,54 @@
       "co_domains": [
         "VI"
       ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷11",
+      "para_index": 13,
+      "para_id": "shuoyuan#11-p13",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "襄成君始封之日，衣翠衣，帶玉劍，履縞舄，立於遊水之上，大夫擁鍾錘，縣令執桴號令，",
+      "note": "「臣願把君之手，其可乎？」直接求親近，所引故事有「行而擁之，舉繡被而覆之」，本事又以「襄成君乃奉手而進之」回應，呈現求親近、遭拒與接納的互動；依據是正文行動，不單取越歌。",
+      "co_domains": []
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷13",
+      "para_index": 41,
+      "para_id": "shuoyuan#13-p41",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "安陵纏以顏色美壯，得幸於楚共王。江乙往見安陵纏，曰：「子之先人豈有矢石之功於王乎",
+      "note": "「以色事人者，華落而愛衰」直接論依賴容色的寵愛如何衰退，親密關係的脆弱是固寵謀劃的前提；「獨從為殉可耳。」是維繫恩愛的設計，死亡並非本段被討論的處境。",
+      "co_domains": []
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷17",
+      "para_index": 4,
+      "para_id": "shuoyuan#17-p04",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "彌子瑕愛於衛君，衛國之法：竊駕君車罪刖。彌子瑕之母疾，人聞，夜往告之。彌子瑕擅駕",
+      "note": "「及彌子瑕色衰而愛弛，得罪於君」已在本段指出容色衰退伴隨寵愛鬆弛，親近關係的脆弱承重，屬 III；擅車探母與奉桃是受寵時的事件，不借下段未完答語增加評斷。",
+      "co_domains": []
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷17",
+      "para_index": 5,
+      "para_id": "shuoyuan#17-p05",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "是故嘗矯吾車，又嘗食我以餘桃。」故子瑕之行未必變初也，前見賢後獲罪者，愛憎之生變",
+      "note": "「故子瑕之行未必變初也，前見賢後獲罪者，愛憎之生變也」本段自己明言，對同一人的褒貶可隨愛憎轉變，論親近關係中評價的不穩定，屬 III。",
+      "co_domains": []
     },
     {
       "slug": "sunzi-bingfa",

@@ -2,9 +2,9 @@
   "domain": "VI",
   "name_zh": "情緒與內在生活",
   "gist": "七情六慾、恐懼與焦慮、癮與自我破壞、情緒如何住在身體裡",
-  "generated_at": "2026-10-11T23:07:20+00:00",
-  "para_count": 1054,
-  "book_count": 45,
+  "generated_at": "2026-10-12T22:45:58+00:00",
+  "para_count": 1086,
+  "book_count": 46,
   "surveyed_zero_hit": [
     "dongmingji",
     "duduan",
@@ -10908,6 +10908,465 @@
       "note": "除釋鳥名外，另載望帝與其相之妻私通、因慚愧出走並化鳥的異說，涉及親密背叛與羞愧",
       "co_domains": [
         "III"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷01",
+      "para_index": 20,
+      "para_id": "shuoyuan#01-p20",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "楚莊王既服鄭伯，敗晉師，將軍子重，三言而不當，莊王歸，過申侯之邑，申侯進飯，日中",
+      "note": "「天下有賢而我獨不得」把困境放在君主缺少賢佐，支持 V；「戚然憂恐聖知不在乎身，自惜不肖，思得賢佐，日中忘飯」實際展開勝後仍憂懼不足、以至不能進食的內在狀態，支持 VI，並非只憑嘆息的敘事套語。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷01",
+      "para_index": 21,
+      "para_id": "shuoyuan#01-p21",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "明主者有三懼，一曰處尊位而恐不聞其過，二曰得意而恐驕，三曰聞天下之至言而恐不能行",
+      "note": "「聞吾過而不告者其罪刑」要求臣下直諫，支持 V；「一曰處尊位而恐不聞其過，二曰得意而恐驕，三曰聞天下之至言而恐不能行」明列領導者應保持的三種憂懼，支持 VI。第三格 XI 不可省：拿掉它便漏掉末則將不祥從異物轉回人事的主張；「如虎之室，如蛇之穴而見之，曷為不祥也」否定虎蛇為凶兆，「知而不用，二不祥；用而不任，三不祥也」則把可改的危險指向用人，不給 XII。",
+      "co_domains": [
+        "V",
+        "XI"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷05",
+      "para_index": 25,
+      "para_id": "shuoyuan#05-p25",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "孫卿曰：「夫鬥者忘其身者也，忘其親者也，忘其君者也；行須臾之怒，而鬥終身之禍，然",
+      "note": "「行須臾之怒，而鬥終身之禍」分析短暫怒氣如何支配行動而招致長久後果，屬VI；「人而忘其身，內忘其親，上忘其君，是不若禽獸之仁也」以爭鬥傷害自己及親人的行為評判其不仁，屬VII。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷06",
+      "para_index": 15,
+      "para_id": "shuoyuan#06-p15",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "鮑叔死，管仲舉上衽而哭之，泣下如雨，從者曰：「非君父子也，此亦有說乎？」管仲曰：",
+      "note": "「鮑子不以我為貪，知我之不足於財也」及「生我者父母，知我者鮑子也」以具體行事說明知己理解處境、不輕作惡評的友誼（V）；「士為知己者死，而況為之哀乎！」直接回答為何深哀（VI），不是僅從泣字增加情緒領域。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷06",
+      "para_index": 22,
+      "para_id": "shuoyuan#06-p22",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "吳起為魏將，攻中山，軍人有病疽者，吳子自吮其膿，其母泣之，旁人曰：「將軍於而子如",
+      "note": "母親以「吳子吮此子父之創而殺之於注水之戰，戰不旋踵而死」揭出將帥施恩與士卒捨命的權力關係（V）；「今又吮之，安知是子何戰而死，是以哭之矣！」明說受惠反使她憂懼兒子重蹈父親覆轍的內在經驗（VI）。吮膿是這一憂懼的起因，並未另寫病者自身的痛苦。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷08",
+      "para_index": 31,
+      "para_id": "shuoyuan#08-p31",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "應侯與賈午子坐，聞其鼓琴之聲，應侯曰：「今日之琴，一何悲也？」賈午子曰：「夫急張",
+      "note": "「急張者，良材也；調下者，官卑也」將琴喻落到人才與職位不相稱，屬 VIII；「取夫良材而卑官之，安能無悲乎」明說受此待遇者的悲感，屬 VI，並非僅有神色描寫或器樂技術。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷10",
+      "para_index": 33,
+      "para_id": "shuoyuan#10-p33",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "魯有恭士，名曰機氾，行年七十，其恭益甚，冬日行陰，夏日行陽，市次不敢不行參，行必",
+      "note": "「君子好恭以成其名，小人學恭以除其刑」提出持續恭敬的行為價值；「行年七十，常恐斧質之加於氾者，何釋恭為？」又將長年害怕遭禍的內在戒懼明說為不敢釋恭的原因，恐懼並非一瞬的敘事神色。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷10",
+      "para_index": 34,
+      "para_id": "shuoyuan#10-p34",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "成回學於子路三年，回恭敬不已，子路問其故何也？回對曰：「臣聞之，行者比於鳥，上畏",
+      "note": "「行年七十，常恐行節之虧」明說長期擔心操守有失的內在戒懼；「回是以恭敬待大命」將此落實為持續恭敬的行為，並由子路肯定，重點在警省與持守，未肯定超越力量的作用。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷11",
+      "para_index": 14,
+      "para_id": "shuoyuan#11-p14",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "雍門子周以琴見乎孟嘗君。孟嘗君曰：「先生鼓琴亦能令文悲乎？」雍門子周曰：「臣何獨",
+      "note": "「臣之所能令悲者，有先貴而後賤，先富而後貧者也」辨析悲感如何受處境及琴聲觸發（VI）；「千秋萬歲後，廟堂必不血食矣。高臺既以壞，曲池既以漸」讓孟嘗君預見身後衰敗與尊榮消逝，失去本身是悲感所面對的內容（X）。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷15",
+      "para_index": 2,
+      "para_id": "shuoyuan#15-p02",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "秦昭王中朝而歎曰：「夫楚劍利、倡優拙。夫劍利則士多慓悍，倡優拙則思慮遠也，吾恐楚",
+      "note": "秦昭王說「吾恐楚之謀秦也」，末評「此謂當吉念凶，而存不忘亡也」明取順境中仍保持憂患意識的心態，不只記錄對楚國兵器的估量。",
+      "co_domains": []
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷15",
+      "para_index": 6,
+      "para_id": "shuoyuan#15-p06",
+      "modes": [
+        "proposition",
+        "narrative"
+      ],
+      "excerpt": "內治未得，不可以正外，本惠未襲，不可以制末，是以春秋先京師而後諸夏，先諸華而後夷",
+      "note": "「不先廣養京師，以及諸夏，諸夏以及夷狄」批評未先惠養內部便向外用兵，提出治理者的責任次序；「忿則不料力」另指出憤怒妨礙判斷，兩者不只是戰術成敗記錄。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷15",
+      "para_index": 8,
+      "para_id": "shuoyuan#15-p08",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "田單為齊上將軍，興師十萬，將以攻翟，往見魯仲連子。仲連子曰：「將軍之攻翟，必不能",
+      "note": "「故將軍者，士之心也」以田單親冒矢石前後的變化說明領導者如何帶動部眾；「是以樂生而惡死也」又明辨富貴安逸如何改變其內在意願。心與枝體是領導比喻，不加 IX。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷16",
+      "para_index": 19,
+      "para_id": "shuoyuan#16-p19",
+      "modes": [
+        "prescription",
+        "proposition"
+      ],
+      "excerpt": "無以淫泆棄業，無以貧賤自輕，無以所好害身，無以嗜欲妨生，無以奢侈為名，無以貴富驕",
+      "note": "「無以貧賤自輕」直接規範自我評價，屬 II；「喜怒不當，是謂不明」評判情緒是否適當，屬 VI。第三格 VII 由「無以奢侈為名，無以貴富驕盈」承重，拿掉它會漏掉戒奢、戒驕的品格要求，不能只歸入自評或喜怒。",
+      "co_domains": [
+        "II",
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷16",
+      "para_index": 24,
+      "para_id": "shuoyuan#16-p24",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "福生於微，禍生於忽；日夜恐懼，唯恐不卒。",
+      "note": "「日夜恐懼，唯恐不卒」直接描寫持續戒懼、擔心不能善終其事的內在狀態，屬 VI；「福生於微，禍生於忽」是這份警惕的因由。",
+      "co_domains": []
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷16",
+      "para_index": 46,
+      "para_id": "shuoyuan#16-p46",
+      "modes": [
+        "proposition",
+        "observation"
+      ],
+      "excerpt": "蠋欲類蠶，○欲類蛇，人見蛇蠋，莫不身灑然；女工脩蠶，漁者持○，不惡何也？欲得錢也",
+      "note": "「不惡何也？欲得錢也」明說逐利如何改變厭惡感受，屬 VI；「逐魚者濡，逐獸者趨；非樂之也，事之權也」寫謀生工作使人承受不願的濡濕、奔逐，屬 VIII，沒有替缺字符補字。",
+      "co_domains": [
+        "VIII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷16",
+      "para_index": 55,
+      "para_id": "shuoyuan#16-p55",
+      "modes": [
+        "observation",
+        "prescription"
+      ],
+      "excerpt": "君子有終身之憂，而無一朝之患，順道而行，循理而言，喜不加易，怒不加難。",
+      "note": "「君子有終身之憂，而無一朝之患」及「喜不加易，怒不加難」辨持續關切與喜怒節制，屬 VI；「順道而行，循理而言」另要求行言合乎道理，屬 VII。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷17",
+      "para_index": 27,
+      "para_id": "shuoyuan#17-p27",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子路問孔子曰：「君子亦有憂乎？」孔子曰：「無也。君子之脩其行未得，則樂其意；既已",
+      "note": "「未得，則樂其意；既已得，又樂其知」與「其未之得則憂不得，既已得之又恐失之」比較兩種得失取向如何產生持續的樂、憂與恐懼，內在經驗是論題，屬 VI。",
+      "co_domains": []
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷17",
+      "para_index": 40,
+      "para_id": "shuoyuan#17-p40",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "孔子曰：「終日言不遺己之憂，終日行不遺己之患，唯智者有之。故恐懼所以除患也，恭敬",
+      "note": "「故恐懼所以除患也」明說恐懼的警覺作用，情緒本身承重，屬 VI；「恭敬所以越難也」及「終身為之，一言敗之，可不慎乎」將恭敬與慎言立為持守的品行，屬 VII。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷18",
+      "para_index": 12,
+      "para_id": "shuoyuan#18-p12",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "夫天地有德，合則生氣有精矣；陰陽消息，則變化有時矣。時得而治矣，時得而化矣，時失",
+      "note": "「傷時之不可遇也」與「乃陳情欲以歌」直接論欲望不得其時的內在感受及抒發，屬 VI；「不肖者精化始至，而生氣感動，觸情縱欲，故反施亂化」以賢不肖區分縱欲行為，屬 VII。前列齒、生殖等成長時序本身不構成 IX。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷18",
+      "para_index": 30,
+      "para_id": "shuoyuan#18-p30",
+      "modes": [
+        "narrative"
+      ],
+      "excerpt": "孔子晨立堂上，聞哭者聲音甚悲，孔子援琴而鼓之，其音同也。孔子出，而弟子有吒者，問",
+      "note": "「非獨哭死，又哭生離者」辨析哭聲中喪親與生離交織的悲感，屬 VI；「父死家貧，賣子以葬之，將與其別也」揭示哭者同時面對親死與失子，失去本身就是被理解的處境，屬 X。",
+      "co_domains": [
+        "X"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷19",
+      "para_index": 6,
+      "para_id": "shuoyuan#19-p06",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "衣服容貌者，所以悅目也；聲音應對者，所以悅耳也；嗜慾好惡者，所以悅心也。君子衣服",
+      "note": "「忠心好善而日新之」主張持續養成向善之心，屬 VII；「獨居樂德，內悅而形」及「嗜慾好惡者，所以悅心也」直接說內在喜悅及其外顯，屬 VI。衣服、聲音是論述內外相應的載體。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷19",
+      "para_index": 22,
+      "para_id": "shuoyuan#19-p22",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子生三年，然後免於父母之懷，故制喪三年，所以報父母之恩也。期年之喪通乎諸侯，三年",
+      "note": "「子生三年，然後免於父母之懷」及「所以報父母之恩也」把服喪連到養育與子女回報，屬 IV；「閔子哀未盡，能斷之以禮」與「子夏哀已盡，能引而致之」比較不同悲哀狀態如何受禮調節，屬 VI，並非單列服喪年限。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷19",
+      "para_index": 25,
+      "para_id": "shuoyuan#19-p25",
+      "modes": [
+        "ritual",
+        "observation"
+      ],
+      "excerpt": "齋者思其居處也，思其笑語也，思其所為也；齋三日，乃見其所為齋者。祭之日，將入戶，",
+      "note": "「嗜欲好惡，不忘於心；是則孝子之齋也」把記持先親習性視為子女孝思，屬 IV；「僾然若有見乎其容」與「喟然若有聞乎嘆息之聲」具體描寫思念中的內在感受，屬 VI。若見若聞是思念經驗，未認證亡者顯靈。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷19",
+      "para_index": 26,
+      "para_id": "shuoyuan#19-p26",
+      "modes": [
+        "ritual"
+      ],
+      "excerpt": "春祭曰祠，夏祭曰禴，秋祭曰嘗，冬祭曰烝；春薦韭卵，夏薦麥魚；秋薦黍豚，冬薦稻鴈。",
+      "note": "「專一想親之容貌彷彿，此孝子之誠也」說子女以專注憶親表達孝誠，屬 IV；「必潔齋精思，若親之在」寫齋祭時如親人在場的內在經驗，屬 VI。季節祭物及祫禘年限之外已有孝思內容，不由祭名添加信仰領域。",
+      "co_domains": [
+        "IV"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷19",
+      "para_index": 29,
+      "para_id": "shuoyuan#19-p29",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "孔子曰：「無體之禮，敬也；無服之喪，憂也；無聲之樂，懽也；不言而信，不動而威，不",
+      "note": "「憂而擊之則悲，喜而擊之則樂；其志變，其聲亦變」直述情緒如何形於聲音，屬 VI；「無體之禮，敬也」與「其志誠，通乎金石，而況人乎」把敬與真誠之志置於外在形式之本，屬 VII，並非鐘鼓器物登錄。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷19",
+      "para_index": 33,
+      "para_id": "shuoyuan#19-p33",
+      "modes": [
+        "narrative",
+        "formalization"
+      ],
+      "excerpt": "孔子至齊郭門之外，遇一嬰兒挈一壺，相與俱行，其視精，其心正，其行端，孔子謂御曰：",
+      "note": "「樂非獨以自樂也，又以樂人」說音樂使自己與他人感受歡樂，屬 VI；「非獨以自正也，又以正人矣哉」又以音樂端正人，屬 VII。孔子聞韶故事與「三分所生，益之以一分以上生」的算法同在本段，不能讓律管尺寸遮去前述人事主張。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷19",
+      "para_index": 35,
+      "para_id": "shuoyuan#19-p35",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "鐘聲鏗鏗以立號，號以立橫，橫以立武，君子聽鐘聲則思武臣。石聲磬磬以立辯，辯以致死",
+      "note": "「君子聽琴瑟之聲，則思志義之臣」及「君子之聽音，非聽其鏗鏘而已，彼亦有所合之也」說明聽音會喚起特定人物與意義的內在聯想，屬 VI；不只是聲音或樂器名稱的登錄。死封疆之臣是聯想對象，不另展開死亡經驗。",
+      "co_domains": []
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷19",
+      "para_index": 36,
+      "para_id": "shuoyuan#19-p36",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "樂者，聖人之所樂也，而可以善民心，其感人深，其移風易俗，故先王著其教焉。夫民有血",
+      "note": "「而無哀樂喜怒之常，應感起物而動，然後心術形焉」說明情緒受外物觸發，屬 VI；「以道制欲，則樂而不亂；以欲忘道，則惑而不樂」及「君子以好善，小人以飭過」說音樂與節欲、修德的關係，屬 VII。器樂與舞容服務於這兩項人的主張。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷19",
+      "para_index": 37,
+      "para_id": "shuoyuan#19-p37",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "樂之可密者，琴最宜焉，君子以其可脩德，故近之。凡音之起，由人心生也；人心之動，物",
+      "note": "「凡音之起，由人心生也；人心之動，物使之然也」以內心感受解釋聲音，後文分辨喜怒敬愛，屬 VI；「君子以其可脩德，故近之」與「是故先王慎所以感之，故禮以定其意，樂以和其性」明說慎選感發、涵養品性的作用，屬 VII。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷19",
+      "para_index": 38,
+      "para_id": "shuoyuan#19-p38",
+      "modes": [
+        "proposition"
+      ],
+      "excerpt": "凡音，生人心者也，情動於中而形於聲，聲成文謂之音。是故治世之音安以樂，其政和；亂",
+      "note": "「情動於中而形於聲」說情緒如何表現，屬 VI；「亂世之音怨以怒，其政乖；亡國之音哀以思，其民困」將民眾的怨怒哀思繫於政治失和與民困，屬 V。五音配君臣的名目不是全段重心，承重的是政治處境與人心的關係。",
+      "co_domains": [
+        "V"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷19",
+      "para_index": 40,
+      "para_id": "shuoyuan#19-p40",
+      "modes": [
+        "proposition",
+        "prescription"
+      ],
+      "excerpt": "凡從外入者，莫深於聲音，變人最極，故聖人因而成之以德曰樂，樂者德之風，詩曰：「威",
+      "note": "「粗厲猛賁之聲動人，而怒氣應之」明說聲音誘發怒氣，屬 VI；「所以養正心而滅淫氣也」與「樂之動於外，使人溫恭而文雅」則論禮樂如何改變心性及行為，屬 VII，並以慎於感動他人作規勸。",
+      "co_domains": [
+        "VII"
+      ]
+    },
+    {
+      "slug": "shuoyuan",
+      "chapter": "卷19",
+      "para_index": 41,
+      "para_id": "shuoyuan#19-p41",
+      "modes": [
+        "narrative",
+        "proposition"
+      ],
+      "excerpt": "子路鼓瑟有北鄙之聲，孔子聞之曰：「信矣，由之不才也！」冉有侍，孔子曰：「求來，爾",
+      "note": "「憂哀悲痛之感不加乎心，暴厲淫荒之動不在乎體」將音樂與內在感受、行為相連，屬 VI；「故君子執中以為本，務生以為基」提出修養取向，故事又以「由之改過矣」收束子路自悔，屬 VII。不由禁食骨立另添身體領域。",
+      "co_domains": [
+        "VII"
       ]
     },
     {
