@@ -9,9 +9,9 @@
 - **告示缺陷**：10/02 從宗教庫逐位元組複製的 11 部繞過了下載器 `CHROME_PATTERNS`，卷末「此…作品在全世界都属于公有领域…」被當正文切段（說苑 20、雲笈七籤 125、正蒙 19，近思錄／坐忘論／悟真篇／天隱子／太乙金華宗旨／太極圖說／明儒學案／金丹四百字各 1）。已只刪告示行（共 172 行）＋相連空行，重算 SHA-256，各書 `meta.json` notes 記錄；11 部全未標註，無既有判讀受影響；build-index 重生，verify 0 errors。**這 11 部的 raw 與宗教庫副本不再位元組相同**
 - **說苑**：重切 22 批／695 段。codex 10/11 通讀起草時撞 5H 額度（與 religions-history cbeta 工作共用窗），SPEC 未寫出；Claude 從 codex session log 撈回前半草稿與 84 條錨點，逐段讀原文複核後補完 `delegation/shuoyuan/SPEC.md`：11 體例群、錨點 85（必含 42／判空 22／不得含 XII 21，76 段；試點 b19 後補 `卷18`[26]）、6 灰區裁定＋錨點增刪理由寫在末節「規劃者裁定」；`accept-batch --check-spec` 85／85、一次性對拍 PASS
 - **試點 b19**（`卷18` 辨物）：v1 只錯 `卷18`[26]（人物信念被當認證給 XII）→ SPEC 補裁定 10＋錨點（85 條）→ v2 0 FAIL 已 commit
-- **標註進度（10/12 16:10 第二度撞 codex 5H 額度，重置 20:17）**：已驗收並 commit 13 批 = b01–b12、b19（全部 0 FAIL、引句不符 0）。**未派 9 批：b13–b18、b20–b22**（b13 撞牆時沒產出，磁碟上無殘檔）。更正：上一版寫「已完成 7 批、未派 15 批」是錯的，實際當時只有 6 批（b01–b05、b19）、未派 16 批
-- **燒速實測**：兩窗都只有本工作在用 codex。第一窗 b01–b05＋b19＋試點，第二窗（15:17–16:10）b06–b12 共 7 批把 5H 從 0% 吃到 100%，7D 從 32% 升到 47%（每批約 2pp）。剩 9 批約需 1.5 窗，7D 夠用
-- **續跑**：查 codex 額度（最小呼叫刷新後讀 session jsonl 的 `rate_limits`），有額度就串行派 b13 … b18、b20 … b22：每批 `run-delegation.sh shuoyuan bNN` → `accept-batch.py shuoyuan bNN` 0 FAIL → commit＋push → 下一批（驗收輸出是「、0 FAIL」，grep 要用 `[、 ]0 FAIL`）。全數回收後：check-delegation-out、check-reason-quotes、make-scaffold、apply-delegation `--tagged-by codex`、寫 psych_survey、build-index、verify、commit＋push
+- **標註進度（10/12 21:54 第三度撞 codex 5H 額度，重置 10/13 02:06）**：已驗收並 commit 20 批 = b01–b18、b19、b20（全部 0 FAIL、引句不符 0）。**未派 2 批：b21、b22**（b21 撞牆時沒產出，磁碟上無殘檔）。更正：更早一版寫「已完成 7 批、未派 15 批」是錯的，當時實際只有 6 批、未派 16 批
+- **燒速實測**：三窗都只有本工作在用 codex。第二窗（15:17–16:10）b06–b12 7 批、第三窗（21:06–21:54）b13–b18＋b20 7 批，各把 5H 從 0% 吃到 100%；7D 32%→47%→63%（每批約 2pp）。剩 2 批一窗內可完成
+- **續跑**：查 codex 額度（最小呼叫刷新後讀 session jsonl 的 `rate_limits`），有額度就串行派 b21、b22：每批 `run-delegation.sh shuoyuan bNN` → `accept-batch.py shuoyuan bNN` 0 FAIL → commit＋push → 下一批（驗收輸出是「、0 FAIL」，grep 要用 `[、 ]0 FAIL`）。全數回收後：check-delegation-out、check-reason-quotes、make-scaffold、apply-delegation `--tagged-by codex`、寫 psych_survey、build-index、verify、commit＋push
 
 ## 2026-10-04／05：韓詩外傳標註完成
 
