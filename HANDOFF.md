@@ -4,6 +4,13 @@
 > 最後更新：2026-10-13
 
 
+## 2026-10-14 早：孔子家語續派到 11／18 批
+
+- 10/14 07:1x 續派：b05 第一次是 OpenAI「stream disconnected」（非額度，5H 才 8%），重派成功；之後 b05 b06 b08 b09 b10 b11 全數 0 FAIL、引句不符 0，各批獨立 commit
+- 07:57 b12 撞 codex 5H 額度（訊息稱 **12:12 重置**），無產出、未 commit
+- **未派 7 批**：b12 b13 b14 b15 b16 b17 b18。重置後：`bash serial.sh kongzi-jiayu 孔子家語 b12 b13 b14 b15 b16 b17 b18`（serial.sh 在本次 Claude scratchpad，內容同 10/13 版：派一批→accept-batch→通過才 commit+push）。全書維持同一 codex 模型，不改派 MiniMax
+- 全回收後照下節回填流程走；回填完 classics-reflections 跑第五輪札記（`make_packets.py --books kongzi-jiayu --suffix r5`）
+
 ## 2026-10-13：孔子家語標註進行中（5／18 批）
 
 - **已驗收 commit**：b07 試點（`卷四` 118 段，命中 46）、b01（61／40）、b02（35／20）、b03（89／60）、b04（1／1），全數 0 FAIL、引句不符 0。合計 304 段、命中 167（55%）
